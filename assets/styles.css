@@ -23,7 +23,6 @@
   --radius-lg: 22px;
   --radius-md: 16px;
   --radius-sm: 12px;
-  --pin-tray-top: 4.7rem;
   --workspace-sticky-top: 5.05rem;
 }
 
@@ -375,9 +374,7 @@ p {
   cursor: pointer;
 }
 
-.quiet-button svg,
-.passage-pin-button svg,
-.reader-pin-toggle svg {
+.quiet-button svg {
   width: 1rem;
   height: 1rem;
   fill: currentColor;
@@ -606,177 +603,6 @@ p {
   color: var(--warning);
 }
 
-.pin-layer {
-  position: fixed;
-  inset: 0;
-  z-index: 52;
-  pointer-events: none;
-}
-
-.pin-layer-backdrop {
-  display: none;
-}
-
-.pin-tray {
-  position: fixed;
-  top: var(--pin-tray-top);
-  left: 50%;
-  width: min(1080px, calc(100vw - 2rem));
-  max-height: min(44svh, 31rem);
-  display: grid;
-  grid-template-rows: auto minmax(0, 1fr);
-  border: 1px solid rgba(255, 255, 255, 0.5);
-  border-radius: calc(var(--radius-lg) + 2px);
-  background: rgba(252, 248, 242, 0.94);
-  box-shadow: 0 32px 90px rgba(29, 24, 19, 0.22);
-  backdrop-filter: blur(18px);
-  opacity: 0;
-  visibility: hidden;
-  pointer-events: none;
-  transform: translateX(-50%) translateY(-0.4rem);
-  transition: opacity 180ms ease, transform 180ms ease, visibility 180ms ease;
-}
-
-.pin-layer.has-pins .pin-tray {
-  opacity: 1;
-  visibility: visible;
-  pointer-events: auto;
-  transform: translateX(-50%) translateY(0);
-}
-
-.pin-tray-head {
-  position: sticky;
-  top: 0;
-  z-index: 1;
-  display: flex;
-  align-items: end;
-  justify-content: space-between;
-  gap: 1rem;
-  padding: 1rem 1.05rem 0.95rem;
-  border-bottom: 1px solid var(--line);
-  background: rgba(252, 248, 242, 0.96);
-}
-
-.pin-tray-head h3,
-.pinned-card h4 {
-  font-family: "Newsreader", serif;
-  font-size: clamp(1.35rem, 2vw, 1.8rem);
-  line-height: 1;
-  letter-spacing: -0.03em;
-}
-
-.pin-tray-actions,
-.pinned-card-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.55rem;
-  align-items: center;
-  justify-content: flex-end;
-}
-
-.pin-tray-action,
-.pin-card-button {
-  min-height: 2.3rem;
-  padding: 0.5rem 0.85rem;
-  font-size: 0.9rem;
-}
-
-.pin-tray-close {
-  display: none;
-}
-
-.pin-tray-list {
-  display: grid;
-  gap: 0.85rem;
-  padding: 1rem 1.05rem 1.05rem;
-  overflow: auto;
-}
-
-.pin-tray-empty {
-  padding: 1rem 1.05rem 1.15rem;
-  color: var(--muted);
-  line-height: 1.75;
-}
-
-.pinned-card {
-  display: grid;
-  gap: 0.85rem;
-  padding: 0.95rem;
-  border: 1px solid var(--line);
-  border-radius: var(--radius-lg);
-  background: rgba(255, 255, 255, 0.64);
-}
-
-.pinned-card.tone-verse {
-  background: linear-gradient(90deg, rgba(215, 229, 221, 0.8), rgba(255, 255, 255, 0.7));
-}
-
-.pinned-card.tone-prose {
-  background: linear-gradient(90deg, rgba(237, 217, 213, 0.82), rgba(255, 255, 255, 0.7));
-}
-
-.pinned-card.tone-both {
-  background: linear-gradient(90deg, rgba(232, 223, 208, 0.84), rgba(255, 255, 255, 0.72));
-}
-
-.pinned-card-top {
-  display: flex;
-  align-items: start;
-  justify-content: space-between;
-  gap: 0.9rem;
-}
-
-.pinned-card-copy {
-  display: grid;
-  gap: 0.35rem;
-}
-
-.pinned-card-meta,
-.pinned-card-subtitle {
-  color: var(--muted);
-}
-
-.pinned-card-meta {
-  font-size: 0.82rem;
-  font-weight: 800;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
-
-.pinned-card-subtitle {
-  font-size: 0.95rem;
-}
-
-.pinned-card-columns {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 0.85rem;
-}
-
-.pinned-card-panel {
-  display: grid;
-  gap: 0.55rem;
-  min-width: 0;
-  padding: 0.8rem;
-  border: 1px solid rgba(33, 83, 65, 0.1);
-  border-radius: var(--radius-md);
-  background: rgba(242, 248, 245, 0.72);
-}
-
-.pinned-card-panel-translation {
-  border-color: rgba(111, 97, 77, 0.12);
-  background: rgba(248, 241, 230, 0.82);
-}
-
-.pinned-card-panel p {
-  font-family: "Newsreader", serif;
-  font-size: 1rem;
-  line-height: 1.7;
-}
-
-.pinned-card-panel p + p {
-  margin-top: 0.8rem;
-}
 
 .status-placeholder {
   background: rgba(138, 51, 41, 0.12);
@@ -1145,39 +971,6 @@ mark {
   text-transform: uppercase;
 }
 
-.passage-pin-button {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  gap: 0.55rem;
-  width: 100%;
-  min-height: 2.8rem;
-  padding: 0.72rem;
-  border: 1px solid var(--line);
-  border-radius: 999px;
-  background: rgba(255, 255, 255, 0.68);
-  color: var(--muted);
-  cursor: pointer;
-  transition: transform 160ms ease, border-color 160ms ease, background 160ms ease, color 160ms ease;
-}
-
-.passage-pin-button strong {
-  font-size: 0.8rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
-
-.passage-pin-button:hover {
-  transform: translateY(-1px);
-  border-color: var(--line-strong);
-}
-
-.passage-pin-button.is-active {
-  border-color: transparent;
-  background: linear-gradient(135deg, #1e1713, #4d3928);
-  color: #f8f0dc;
-}
-
 .section-columns {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -1280,10 +1073,6 @@ mark {
   cursor: default;
 }
 
-.reader-pin-toggle {
-  display: none;
-}
-
 @media (max-width: 1120px) {
   .hero-panel,
   .reader-hero,
@@ -1375,72 +1164,6 @@ mark {
 
   .reader-minibar {
     align-items: stretch;
-  }
-
-  .reader-pin-toggle {
-    display: inline-flex;
-    min-height: 2.45rem;
-    padding: 0.62rem 0.9rem;
-    gap: 0.5rem;
-  }
-
-  .pin-layer {
-    z-index: 60;
-  }
-
-  .pin-layer-backdrop {
-    display: block;
-    position: fixed;
-    inset: 0;
-    border: 0;
-    background: rgba(20, 17, 14, 0.36);
-    opacity: 0;
-    pointer-events: none;
-    transition: opacity 180ms ease;
-  }
-
-  .pin-layer.is-mobile-open {
-    pointer-events: auto;
-  }
-
-  .pin-layer.is-mobile-open .pin-layer-backdrop {
-    opacity: 1;
-    pointer-events: auto;
-  }
-
-  .pin-tray {
-    top: 4.95rem;
-    left: 0.9rem;
-    right: 0.9rem;
-    width: auto;
-    max-height: calc(100svh - 6rem);
-    transform: translateX(0) translateY(-0.75rem);
-  }
-
-  .pin-layer.has-pins .pin-tray {
-    opacity: 0;
-    visibility: hidden;
-    pointer-events: none;
-    transform: translateX(0) translateY(-0.75rem);
-  }
-
-  .pin-layer.is-mobile-open .pin-tray {
-    opacity: 1;
-    visibility: visible;
-    pointer-events: auto;
-    transform: translateX(0) translateY(0);
-  }
-
-  .pin-tray-close {
-    display: inline-flex;
-  }
-
-  .pinned-card-columns {
-    grid-template-columns: 1fr;
-  }
-
-  .pinned-card-top {
-    flex-direction: column;
   }
 
   .reader-nav {

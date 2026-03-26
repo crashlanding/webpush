@@ -1,6 +1,5 @@
 const RESULTS_PER_PAGE = 24;
 const SITE_TITLE = "Old English Room";
-const PIN_STORAGE_KEY = "old-english-room:pinned-passages";
 const appElement = document.querySelector("#app");
 
 const state = {
@@ -11,10 +10,6 @@ const state = {
   searchIndex: null,
   searchIndexPromise: null,
   renderId: 0,
-  currentReader: null,
-  pendingAnchor: null,
-  pinnedPassages: [],
-  pinTrayOpen: false,
 };
 
 let highlightInputTimer = 0;
@@ -23,7 +18,6 @@ bootstrap();
 
 async function bootstrap() {
   bindEvents();
-  state.pinnedPassages = loadPinnedPassages();
 
   try {
     const [coverage, catalog] = await Promise.all([
@@ -185,87 +179,6 @@ function bindEvents() {
       return;
     }
 
-    if (action === "toggle-pin-tray") {
-      event.preventDefault();
-      state.pinTrayOpen = !state.pinTrayOpen;
-      render().catch(renderFatal);
-      return;
-    }
-
-    if (action === "close-pin-tray") {
-      event.preventDefault();
-      state.pinTrayOpen = false;
-      render().catch(renderFatal);
-      return;
-    }
-
-    if (action === "clear-pinned-passages") {
-      event.preventDefault();
-      state.pinnedPassages = [];
-      savePinnedPassages(state.pinnedPassages);
-      render().catch(renderFatal);
-      return;
-    }
-
-    if (action === "toggle-pin-passage") {
-      event.preventDefault();
-      const passageId = String(button.getAttribute("data-passage-id") ?? "").trim();
-
-      if (!passageId) {
-        return;
-      }
-
-      const nextState = togglePinnedPassage(passageId);
-
-      if (nextState.changed && isMobileViewport()) {
-        state.pinTrayOpen = nextState.pinned;
-      }
-
-      render().catch(renderFatal);
-      return;
-    }
-
-    if (action === "remove-pinned-passage") {
-      event.preventDefault();
-      const passageId = String(button.getAttribute("data-passage-id") ?? "").trim();
-
-      if (!passageId) {
-        return;
-      }
-
-      removePinnedPassage(passageId);
-      render().catch(renderFatal);
-      return;
-    }
-
-    if (action === "jump-pinned-passage") {
-      event.preventDefault();
-      const passageId = String(button.getAttribute("data-passage-id") ?? "").trim();
-      const record = state.pinnedPassages.find((entry) => entry.id === passageId);
-      const route = getRoute();
-
-      if (!record) {
-        return;
-      }
-
-      state.pendingAnchor = record.anchor;
-      state.pinTrayOpen = false;
-
-      if (route.work === record.workSlug && route.chunk === record.chunkSlug) {
-        render().catch(renderFatal);
-        return;
-      }
-
-      updateRoute(
-        {
-          work: record.workSlug,
-          chunk: record.chunkSlug,
-        },
-        { replace: false },
-      );
-      return;
-    }
-
     if (action === "open-passages") {
       event.preventDefault();
       updateRoute({ tab: "passages", page: 1 }, { replace: false });
@@ -283,7 +196,6 @@ async function render() {
   const requestId = ++state.renderId;
 
   if (route.work) {
-    state.currentReader = null;
     appElement.innerHTML = renderReaderLoading(route);
 
     try {
@@ -295,7 +207,6 @@ async function render() {
 
       if (manifest.status === "placeholder" || !manifest.defaultChunkSlug) {
         document.title = `${manifest.title} | ${SITE_TITLE}`;
-        state.currentReader = null;
         appElement.innerHTML = renderPlaceholder(manifest, route);
         runPostRender(route);
         return;
@@ -309,7 +220,6 @@ async function render() {
       }
 
       document.title = `${manifest.title} | ${SITE_TITLE}`;
-      state.currentReader = buildCurrentReaderState(manifest, chunk);
       appElement.innerHTML = renderReader(manifest, chunk, route);
       runPostRender(route);
       return;
@@ -319,15 +229,11 @@ async function render() {
       }
 
       document.title = `Reader Error | ${SITE_TITLE}`;
-      state.currentReader = null;
       appElement.innerHTML = renderReaderError(error, route);
       runPostRender(route);
       return;
     }
   }
-
-  state.currentReader = null;
-  state.pinTrayOpen = false;
 
   const catalogView = buildCatalogViewModel(route);
   let passageState = {
@@ -811,28 +717,12 @@ function renderReader(manifest, chunk, route) {
   const currentIndex = manifest.chunks.findIndex((entry) => entry.slug === chunk.chunkSlug);
   const previous = currentIndex > 0 ? manifest.chunks[currentIndex - 1] : null;
   const next = currentIndex >= 0 && currentIndex < manifest.chunks.length - 1 ? manifest.chunks[currentIndex + 1] : null;
-  const pinnedCount = state.pinnedPassages.length;
 
   return `
-    ${renderPinnedTray()}
-
     <div class="reader-minibar">
       <a class="back-link back-link-compact" href="${escapeHtml(createHref({ work: null, chunk: null, highlight: null }, route))}">
         Back to the library
       </a>
-      <div class="reader-minibar-actions">
-        <button
-          class="quiet-button back-link-compact reader-pin-toggle"
-          type="button"
-          data-action="toggle-pin-tray"
-          aria-haspopup="dialog"
-          aria-controls="pinned-passage-tray"
-          aria-expanded="${state.pinTrayOpen ? "true" : "false"}"
-        >
-          ${renderPinIcon()}
-          <span>Pinned${pinnedCount ? ` (${pinnedCount})` : ""}</span>
-        </button>
-      </div>
     </div>
 
     <section class="reader-layout">
@@ -901,7 +791,7 @@ function renderReader(manifest, chunk, route) {
         </div>
 
         <div class="parallel-flow">
-          ${chunk.sections.map((section, index) => renderSection(section, index, chunk.originalLang, route.highlight, manifest, chunk)).join("")}
+          ${chunk.sections.map((section, index) => renderSection(section, index, chunk.originalLang, route.highlight)).join("")}
         </div>
 
         <footer class="reader-footer">
@@ -941,24 +831,13 @@ function renderReader(manifest, chunk, route) {
   `;
 }
 
-function renderSection(section, index, originalLang, highlight, manifest, chunk) {
-  const record = buildPassageRecord(manifest, chunk, section, index);
-  const pinned = isPassagePinned(record.id);
+function renderSection(section, index, originalLang, highlight) {
+  const anchor = buildSectionAnchor(section, index);
 
   return `
-    <article class="section-row reveal" id="${record.anchor}">
+    <article class="section-row reveal" id="${anchor}">
       <div class="section-marker">
         <span>${escapeHtml(section.label)}</span>
-        <button
-          class="passage-pin-button ${pinned ? "is-active" : ""}"
-          type="button"
-          data-action="toggle-pin-passage"
-          data-passage-id="${escapeHtml(record.id)}"
-          aria-pressed="${pinned ? "true" : "false"}"
-        >
-          ${renderPinIcon()}
-          <strong>${pinned ? "Pinned" : "Pin"}</strong>
-        </button>
       </div>
 
       <div class="section-columns">
@@ -967,87 +846,6 @@ function renderSection(section, index, originalLang, highlight, manifest, chunk)
         </section>
         <section class="text-panel text-panel-translation" lang="en">
           ${renderTranslationPanel(section.translation, highlight)}
-        </section>
-      </div>
-    </article>
-  `;
-}
-
-function renderPinnedTray() {
-  const hasPins = state.pinnedPassages.length > 0;
-  const visibleClass = hasPins ? "has-pins" : "is-empty";
-  const mobileClass = state.pinTrayOpen ? "is-mobile-open" : "";
-  const trayVisible = state.pinTrayOpen || (hasPins && !isMobileViewport());
-
-  return `
-    <div class="pin-layer ${visibleClass} ${mobileClass}">
-      <button class="pin-layer-backdrop" type="button" data-action="close-pin-tray" aria-label="Close pinned passages"></button>
-      <section
-        class="pin-tray"
-        id="pinned-passage-tray"
-        aria-label="Pinned passages"
-        aria-hidden="${trayVisible ? "false" : "true"}"
-      >
-        <div class="pin-tray-head">
-          <div>
-            <p class="eyebrow">Pinned Passages</p>
-            <h3>${state.pinnedPassages.length} saved passage${state.pinnedPassages.length === 1 ? "" : "s"}</h3>
-          </div>
-          <div class="pin-tray-actions">
-            ${
-              state.pinnedPassages.length
-                ? `<button class="quiet-button pin-tray-action" type="button" data-action="clear-pinned-passages">Clear all</button>`
-                : ""
-            }
-            <button class="quiet-button pin-tray-action pin-tray-close" type="button" data-action="close-pin-tray">Close</button>
-          </div>
-        </div>
-
-        ${
-          state.pinnedPassages.length
-            ? `
-              <div class="pin-tray-list">
-                ${state.pinnedPassages.map((record) => renderPinnedCard(record)).join("")}
-              </div>
-            `
-            : `
-              <div class="pin-tray-empty">
-                <p>No passages are pinned yet. Use the pin buttons beside a section to save it here.</p>
-              </div>
-            `
-        }
-      </section>
-    </div>
-  `;
-}
-
-function renderPinnedCard(record) {
-  return `
-    <article class="pinned-card tone-${escapeHtml(record.genre)}">
-      <div class="pinned-card-top">
-        <div class="pinned-card-copy">
-          <p class="pinned-card-meta">${escapeHtml(record.authorDisplay)} / ${escapeHtml(record.workTitle)}</p>
-          <h4>${escapeHtml(record.sectionLabel)}</h4>
-          <p class="pinned-card-subtitle">${escapeHtml(record.partTitle)}</p>
-        </div>
-        <div class="pinned-card-actions">
-          <button class="quiet-button pin-card-button" type="button" data-action="jump-pinned-passage" data-passage-id="${escapeHtml(record.id)}">
-            Jump to passage
-          </button>
-          <button class="quiet-button pin-card-button" type="button" data-action="remove-pinned-passage" data-passage-id="${escapeHtml(record.id)}">
-            Remove
-          </button>
-        </div>
-      </div>
-
-      <div class="pinned-card-columns">
-        <section class="pinned-card-panel">
-          <span class="column-pill tone-${escapeHtml(record.genre)}">Old English</span>
-          ${renderPassage(record.original, "")}
-        </section>
-        <section class="pinned-card-panel pinned-card-panel-translation">
-          <span class="column-pill tone-english">Modern English</span>
-          ${renderTranslationPanel(record.translation, "")}
         </section>
       </div>
     </article>
@@ -1293,13 +1091,6 @@ function runPostRender(route) {
       element.classList.add("is-visible");
     });
 
-    if (route.work && state.pendingAnchor) {
-      const anchor = state.pendingAnchor;
-      state.pendingAnchor = null;
-      scrollToPassageAnchor(anchor);
-      return;
-    }
-
     if (route.work && route.highlight) {
       const firstMark = document.querySelector("mark");
 
@@ -1310,104 +1101,8 @@ function runPostRender(route) {
   });
 }
 
-function buildCurrentReaderState(manifest, chunk) {
-  const passages = chunk.sections.map((section, index) => buildPassageRecord(manifest, chunk, section, index));
-  return {
-    manifest,
-    chunk,
-    passages,
-  };
-}
-
-function buildPassageRecord(manifest, chunk, section, index) {
-  const anchor = `section-${slugify(`${section.id}-${index}`)}`;
-  return {
-    id: slugify(`${manifest.slug}-${chunk.chunkSlug}-${section.id}-${index}`),
-    anchor,
-    workSlug: manifest.slug,
-    workTitle: manifest.title,
-    authorDisplay: manifest.authorDisplay,
-    genre: manifest.genre,
-    chunkSlug: chunk.chunkSlug,
-    chunkLabel: chunk.label,
-    partTitle: chunk.partTitle,
-    sectionLabel: section.label,
-    original: section.original,
-    translation: section.translation,
-  };
-}
-
-function isPassagePinned(passageId) {
-  return state.pinnedPassages.some((entry) => entry.id === passageId);
-}
-
-function togglePinnedPassage(passageId) {
-  const existing = state.pinnedPassages.find((entry) => entry.id === passageId);
-  if (existing) {
-    state.pinnedPassages = state.pinnedPassages.filter((entry) => entry.id !== passageId);
-    savePinnedPassages(state.pinnedPassages);
-    return { changed: true, pinned: false };
-  }
-
-  const context = state.currentReader;
-  const record = context?.passages.find((entry) => entry.id === passageId);
-  if (!record) {
-    return { changed: false, pinned: false };
-  }
-
-  state.pinnedPassages = [record, ...state.pinnedPassages];
-  savePinnedPassages(state.pinnedPassages);
-  return { changed: true, pinned: true };
-}
-
-function removePinnedPassage(passageId) {
-  state.pinnedPassages = state.pinnedPassages.filter((entry) => entry.id !== passageId);
-  savePinnedPassages(state.pinnedPassages);
-}
-
-function loadPinnedPassages() {
-  try {
-    const raw = window.localStorage.getItem(PIN_STORAGE_KEY);
-    if (!raw) {
-      return [];
-    }
-
-    const parsed = JSON.parse(raw);
-    if (!Array.isArray(parsed)) {
-      return [];
-    }
-
-    return parsed.filter((entry) => entry && typeof entry === "object" && entry.id);
-  } catch (error) {
-    return [];
-  }
-}
-
-function savePinnedPassages(records) {
-  try {
-    window.localStorage.setItem(PIN_STORAGE_KEY, JSON.stringify(records));
-  } catch (error) {
-    // Ignore storage failures and keep the in-memory state.
-  }
-}
-
-function isMobileViewport() {
-  return window.matchMedia("(max-width: 860px)").matches;
-}
-
-function scrollToPassageAnchor(anchor) {
-  const element = document.getElementById(anchor);
-  if (element instanceof HTMLElement) {
-    element.scrollIntoView({ block: "start", behavior: "smooth" });
-  }
-}
-
-function renderPinIcon() {
-  return `
-    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-      <path d="M15.5 3.5 20.5 8.5 17 10l-2.5 5.5-1.5-1.5-3.7 3.7-1-1 3.7-3.7-1.5-1.5L16 8z"></path>
-    </svg>
-  `;
+function buildSectionAnchor(section, index) {
+  return `section-${slugify(`${section.id ?? section.label ?? "section"}-${index}`)}`;
 }
 
 function renderFatal(error) {
