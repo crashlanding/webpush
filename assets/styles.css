@@ -478,7 +478,7 @@ p {
 .volume-row,
 .passage-hit {
   display: grid;
-  grid-template-columns: auto minmax(0, 1fr) auto;
+  grid-template-columns: auto minmax(0, 1fr);
   gap: 1rem;
   align-items: stretch;
   padding: 0.95rem;
@@ -541,8 +541,7 @@ p {
   color: #f7f0e2;
 }
 
-.volume-body,
-.volume-side {
+.volume-body {
   display: flex;
   flex-direction: column;
   gap: 0.55rem;
@@ -815,21 +814,6 @@ p {
   border-radius: 999px;
   color: var(--muted);
   font-size: 0.84rem;
-}
-
-.volume-side {
-  align-items: flex-end;
-  justify-content: center;
-  min-width: 8rem;
-  color: var(--muted);
-  text-align: right;
-}
-
-.volume-side strong {
-  font-family: "Newsreader", serif;
-  font-size: 2.3rem;
-  line-height: 0.9;
-  color: var(--ink);
 }
 
 .passage-hit {

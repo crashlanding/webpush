@@ -762,10 +762,6 @@ function renderVolumeRow(entry, route) {
           ${entry.contents.slice(0, 4).map((content) => `<span>${escapeHtml(content.title)}</span>`).join("")}
         </div>
       </div>
-      <div class="volume-side">
-        <strong>${entry.readyChunkCount}</strong>
-        <span>${entry.hasTranslation ? "bilingual" : "live"} chunk${entry.readyChunkCount === 1 ? "" : "s"}</span>
-      </div>
     </a>
   `;
 }
