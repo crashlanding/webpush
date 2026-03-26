@@ -12,6 +12,7 @@
       "chunkSlug": "homily-ix-on-the-purification-of-st-mary",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "homily-ix-on-the-purification-of-st-mary",
           "label": "IX. On the Purification of St. Mary",
           "partId": "homily-ix-on-the-purification-of-st-mary",
@@ -24,12 +25,14 @@
   ],
   "defaultChunkSlug": "homily-ix-on-the-purification-of-st-mary",
   "genre": "prose",
+  "hasTranslation": true,
   "slug": "homily-ix-on-the-purification-of-st-mary",
   "status": "ready",
   "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
   "title": "IX. On the Purification of St. Mary",
   "chunks": [
     {
+      "hasTranslation": true,
       "slug": "homily-ix-on-the-purification-of-st-mary",
       "label": "IX. On the Purification of St. Mary",
       "partId": "homily-ix-on-the-purification-of-st-mary",

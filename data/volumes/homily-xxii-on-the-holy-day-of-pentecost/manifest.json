@@ -12,6 +12,7 @@
       "chunkSlug": "homily-xxii-on-the-holy-day-of-pentecost",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "homily-xxii-on-the-holy-day-of-pentecost",
           "label": "XXII. On the Holy Day of Pentecost",
           "partId": "homily-xxii-on-the-holy-day-of-pentecost",
@@ -24,12 +25,14 @@
   ],
   "defaultChunkSlug": "homily-xxii-on-the-holy-day-of-pentecost",
   "genre": "prose",
+  "hasTranslation": true,
   "slug": "homily-xxii-on-the-holy-day-of-pentecost",
   "status": "ready",
   "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
   "title": "XXII. On the Holy Day of Pentecost",
   "chunks": [
     {
+      "hasTranslation": true,
       "slug": "homily-xxii-on-the-holy-day-of-pentecost",
       "label": "XXII. On the Holy Day of Pentecost",
       "partId": "homily-xxii-on-the-holy-day-of-pentecost",

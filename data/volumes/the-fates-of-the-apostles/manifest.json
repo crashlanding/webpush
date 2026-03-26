@@ -7,15 +7,38 @@
     {
       "id": "the-fates-of-the-apostles",
       "title": "The Fates of the Apostles",
-      "status": "placeholder",
-      "placeholderReason": "An Old English witness is stored locally; a matched modern-English companion still needs to be aligned for this shelf."
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "the-fates-of-the-apostles",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "the-fates-of-the-apostles",
+          "label": "The Fates of the Apostles",
+          "partId": "the-fates-of-the-apostles",
+          "partTitle": "The Fates of the Apostles",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
     }
   ],
-  "defaultChunkSlug": null,
+  "defaultChunkSlug": "the-fates-of-the-apostles",
   "genre": "verse",
+  "hasTranslation": false,
   "slug": "the-fates-of-the-apostles",
-  "status": "placeholder",
-  "summary": "Old English verse shelf assembled from Sacred Texts. Side-by-side alignment is still in preparation.",
+  "status": "ready",
+  "summary": "Old English verse witness from Sacred Texts. The Old English original is live; an English translation still needs to be added.",
   "title": "The Fates of the Apostles",
-  "chunks": []
+  "chunks": [
+    {
+      "hasTranslation": false,
+      "slug": "the-fates-of-the-apostles",
+      "label": "The Fates of the Apostles",
+      "partId": "the-fates-of-the-apostles",
+      "partTitle": "The Fates of the Apostles",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
 }

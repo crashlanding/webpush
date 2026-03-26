@@ -7,15 +7,38 @@
     {
       "id": "christ-a-b-c",
       "title": "Christ A, B, C",
-      "status": "placeholder",
-      "placeholderReason": "An Old English witness is stored locally; a matched modern-English companion still needs to be aligned for this shelf."
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "christ-a-b-c",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "christ-a-b-c",
+          "label": "Christ A, B, C",
+          "partId": "christ-a-b-c",
+          "partTitle": "Christ A, B, C",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
     }
   ],
-  "defaultChunkSlug": null,
+  "defaultChunkSlug": "christ-a-b-c",
   "genre": "verse",
+  "hasTranslation": false,
   "slug": "christ-a-b-c",
-  "status": "placeholder",
-  "summary": "Old English verse shelf assembled from Sacred Texts. Side-by-side alignment is still in preparation.",
+  "status": "ready",
+  "summary": "Old English verse witness from Sacred Texts. The Old English original is live; an English translation still needs to be added.",
   "title": "Christ A, B, C",
-  "chunks": []
+  "chunks": [
+    {
+      "hasTranslation": false,
+      "slug": "christ-a-b-c",
+      "label": "Christ A, B, C",
+      "partId": "christ-a-b-c",
+      "partTitle": "Christ A, B, C",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
 }

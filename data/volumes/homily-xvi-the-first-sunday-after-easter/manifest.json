@@ -12,6 +12,7 @@
       "chunkSlug": "homily-xvi-the-first-sunday-after-easter",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "homily-xvi-the-first-sunday-after-easter",
           "label": "XVI. The First Sunday after Easter",
           "partId": "homily-xvi-the-first-sunday-after-easter",
@@ -24,12 +25,14 @@
   ],
   "defaultChunkSlug": "homily-xvi-the-first-sunday-after-easter",
   "genre": "prose",
+  "hasTranslation": true,
   "slug": "homily-xvi-the-first-sunday-after-easter",
   "status": "ready",
   "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
   "title": "XVI. The First Sunday after Easter",
   "chunks": [
     {
+      "hasTranslation": true,
       "slug": "homily-xvi-the-first-sunday-after-easter",
       "label": "XVI. The First Sunday after Easter",
       "partId": "homily-xvi-the-first-sunday-after-easter",

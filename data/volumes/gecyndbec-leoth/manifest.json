@@ -7,21 +7,38 @@
     {
       "id": "gecyndbec-leoth",
       "title": "Gecyndbēc Lēoþ",
-      "status": "placeholder",
-      "placeholderReason": "An Old English witness is stored locally; a matched modern-English companion still needs to be aligned for this shelf."
-    },
-    {
-      "id": "gecyndbec-leoth",
-      "title": "Ȝecyndbēc Lēoþ",
-      "status": "placeholder",
-      "placeholderReason": "An Old English witness is stored locally; a matched modern-English companion still needs to be aligned for this shelf."
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "gecyndbec-leoth",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "gecyndbec-leoth",
+          "label": "Gecyndbēc Lēoþ",
+          "partId": "gecyndbec-leoth",
+          "partTitle": "Gecyndbēc Lēoþ",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
     }
   ],
-  "defaultChunkSlug": null,
+  "defaultChunkSlug": "gecyndbec-leoth",
   "genre": "prose",
+  "hasTranslation": false,
   "slug": "gecyndbec-leoth",
-  "status": "placeholder",
-  "summary": "Old English prose shelf assembled from Wikisource. Side-by-side alignment is still in preparation.",
+  "status": "ready",
+  "summary": "Old English prose witness from Wikisource. The Old English original is live; an English translation still needs to be added.",
   "title": "Gecyndbēc Lēoþ",
-  "chunks": []
+  "chunks": [
+    {
+      "hasTranslation": false,
+      "slug": "gecyndbec-leoth",
+      "label": "Gecyndbēc Lēoþ",
+      "partId": "gecyndbec-leoth",
+      "partTitle": "Gecyndbēc Lēoþ",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
 }

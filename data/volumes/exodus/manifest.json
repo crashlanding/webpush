@@ -7,15 +7,38 @@
     {
       "id": "exodus",
       "title": "Exodus",
-      "status": "placeholder",
-      "placeholderReason": "An Old English witness is stored locally; a matched modern-English companion still needs to be aligned for this shelf."
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "exodus",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "exodus",
+          "label": "Exodus",
+          "partId": "exodus",
+          "partTitle": "Exodus",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
     }
   ],
-  "defaultChunkSlug": null,
+  "defaultChunkSlug": "exodus",
   "genre": "verse",
+  "hasTranslation": false,
   "slug": "exodus",
-  "status": "placeholder",
-  "summary": "Old English verse shelf assembled from Sacred Texts, and Wikisource. Side-by-side alignment is still in preparation.",
+  "status": "ready",
+  "summary": "Old English verse witness from Sacred Texts. The Old English original is live; an English translation still needs to be added.",
   "title": "Exodus",
-  "chunks": []
+  "chunks": [
+    {
+      "hasTranslation": false,
+      "slug": "exodus",
+      "label": "Exodus",
+      "partId": "exodus",
+      "partTitle": "Exodus",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
 }

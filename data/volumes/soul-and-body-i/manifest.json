@@ -7,15 +7,38 @@
     {
       "id": "soul-and-body-i",
       "title": "Soul and Body I",
-      "status": "placeholder",
-      "placeholderReason": "An Old English witness is stored locally; a matched modern-English companion still needs to be aligned for this shelf."
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "soul-and-body-i",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "soul-and-body-i",
+          "label": "Soul and Body I",
+          "partId": "soul-and-body-i",
+          "partTitle": "Soul and Body I",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
     }
   ],
-  "defaultChunkSlug": null,
+  "defaultChunkSlug": "soul-and-body-i",
   "genre": "verse",
+  "hasTranslation": false,
   "slug": "soul-and-body-i",
-  "status": "placeholder",
-  "summary": "Old English verse shelf assembled from Sacred Texts. Side-by-side alignment is still in preparation.",
+  "status": "ready",
+  "summary": "Old English verse witness from Sacred Texts. The Old English original is live; an English translation still needs to be added.",
   "title": "Soul and Body I",
-  "chunks": []
+  "chunks": [
+    {
+      "hasTranslation": false,
+      "slug": "soul-and-body-i",
+      "label": "Soul and Body I",
+      "partId": "soul-and-body-i",
+      "partTitle": "Soul and Body I",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
 }

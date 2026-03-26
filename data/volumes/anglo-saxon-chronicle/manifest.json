@@ -5,23 +5,30 @@
   ],
   "contents": [
     {
+      "id": "anglo-saxon-chronicle",
+      "title": "Anglo-Saxon Chronicle",
+      "status": "placeholder",
+      "placeholderReason": "Original and companion editions are present locally, but they have not been aligned into side-by-side reader chunks yet."
+    },
+    {
       "id": "the-anglo-saxon-chronicle",
       "title": "The Anglo-Saxon Chronicle",
       "status": "placeholder",
-      "placeholderReason": "A public-domain modern-English companion is stored locally; the Old English witness still needs to be aligned for this shelf."
+      "placeholderReason": "Original and companion editions are present locally, but they have not been aligned into side-by-side reader chunks yet."
     },
     {
       "id": "a-literal-translation-of-the-saxon-chronicle",
       "title": "A literal translation of the Saxon chronicle",
       "status": "placeholder",
-      "placeholderReason": "A public-domain modern-English companion is stored locally; the Old English witness still needs to be aligned for this shelf."
+      "placeholderReason": "Original and companion editions are present locally, but they have not been aligned into side-by-side reader chunks yet."
     }
   ],
   "defaultChunkSlug": null,
   "genre": "prose",
+  "hasTranslation": false,
   "slug": "anglo-saxon-chronicle",
   "status": "placeholder",
-  "summary": "Old English prose shelf assembled from Project Gutenberg. Side-by-side alignment is still in preparation.",
+  "summary": "Old English prose shelf assembled from Wikisource, and Project Gutenberg. Side-by-side alignment is still in preparation.",
   "title": "Anglo-Saxon Chronicle",
   "chunks": []
 }

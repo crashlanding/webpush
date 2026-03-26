@@ -13,6 +13,7 @@
       "chunkSlug": "book-i",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "book-i",
           "label": "Book I",
           "partId": "book-i",
@@ -30,6 +31,7 @@
       "chunkSlug": "book-ii",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "book-ii",
           "label": "Book II",
           "partId": "book-ii",
@@ -47,6 +49,7 @@
       "chunkSlug": "book-iii",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "book-iii",
           "label": "Book III",
           "partId": "book-iii",
@@ -59,12 +62,14 @@
   ],
   "defaultChunkSlug": "book-i",
   "genre": "prose",
+  "hasTranslation": true,
   "slug": "king-alfred-s-old-english-version-of-st-augustine-s-soliloquies",
   "status": "ready",
   "summary": "Three-book reader assembled from Wikisource transcription subpages and a public-domain English edition.",
   "title": "King Alfred's Old English Version of St. Augustine's Soliloquies",
   "chunks": [
     {
+      "hasTranslation": true,
       "slug": "book-i",
       "label": "Book I",
       "partId": "book-i",
@@ -73,6 +78,7 @@
       "status": "ready"
     },
     {
+      "hasTranslation": true,
       "slug": "book-ii",
       "label": "Book II",
       "partId": "book-ii",
@@ -81,6 +87,7 @@
       "status": "ready"
     },
     {
+      "hasTranslation": true,
       "slug": "book-iii",
       "label": "Book III",
       "partId": "book-iii",

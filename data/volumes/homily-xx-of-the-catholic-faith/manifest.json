@@ -12,6 +12,7 @@
       "chunkSlug": "homily-xx-of-the-catholic-faith",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "homily-xx-of-the-catholic-faith",
           "label": "XX. Of the Catholic Faith",
           "partId": "homily-xx-of-the-catholic-faith",
@@ -24,12 +25,14 @@
   ],
   "defaultChunkSlug": "homily-xx-of-the-catholic-faith",
   "genre": "prose",
+  "hasTranslation": true,
   "slug": "homily-xx-of-the-catholic-faith",
   "status": "ready",
   "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
   "title": "XX. Of the Catholic Faith",
   "chunks": [
     {
+      "hasTranslation": true,
       "slug": "homily-xx-of-the-catholic-faith",
       "label": "XX. Of the Catholic Faith",
       "partId": "homily-xx-of-the-catholic-faith",

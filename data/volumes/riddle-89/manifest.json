@@ -7,15 +7,38 @@
     {
       "id": "riddle-89",
       "title": "Riddle 89",
-      "status": "placeholder",
-      "placeholderReason": "An Old English witness is stored locally; a matched modern-English companion still needs to be aligned for this shelf."
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "riddle-89",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "riddle-89",
+          "label": "Riddle 89",
+          "partId": "riddle-89",
+          "partTitle": "Riddle 89",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
     }
   ],
-  "defaultChunkSlug": null,
+  "defaultChunkSlug": "riddle-89",
   "genre": "verse",
+  "hasTranslation": false,
   "slug": "riddle-89",
-  "status": "placeholder",
-  "summary": "Old English verse shelf assembled from Sacred Texts. Side-by-side alignment is still in preparation.",
+  "status": "ready",
+  "summary": "Old English verse witness from Sacred Texts. The Old English original is live; an English translation still needs to be added.",
   "title": "Riddle 89",
-  "chunks": []
+  "chunks": [
+    {
+      "hasTranslation": false,
+      "slug": "riddle-89",
+      "label": "Riddle 89",
+      "partId": "riddle-89",
+      "partTitle": "Riddle 89",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
 }

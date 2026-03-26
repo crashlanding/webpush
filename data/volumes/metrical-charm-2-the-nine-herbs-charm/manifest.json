@@ -7,15 +7,38 @@
     {
       "id": "metrical-charm-2-the-nine-herbs-charm",
       "title": "Metrical Charm 2: The Nine Herbs Charm",
-      "status": "placeholder",
-      "placeholderReason": "An Old English witness is stored locally; a matched modern-English companion still needs to be aligned for this shelf."
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "metrical-charm-2-the-nine-herbs-charm",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "metrical-charm-2-the-nine-herbs-charm",
+          "label": "Metrical Charm 2: The Nine Herbs Charm",
+          "partId": "metrical-charm-2-the-nine-herbs-charm",
+          "partTitle": "Metrical Charm 2: The Nine Herbs Charm",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
     }
   ],
-  "defaultChunkSlug": null,
+  "defaultChunkSlug": "metrical-charm-2-the-nine-herbs-charm",
   "genre": "verse",
+  "hasTranslation": false,
   "slug": "metrical-charm-2-the-nine-herbs-charm",
-  "status": "placeholder",
-  "summary": "Old English verse shelf assembled from Sacred Texts. Side-by-side alignment is still in preparation.",
+  "status": "ready",
+  "summary": "Old English verse witness from Sacred Texts. The Old English original is live; an English translation still needs to be added.",
   "title": "Metrical Charm 2: The Nine Herbs Charm",
-  "chunks": []
+  "chunks": [
+    {
+      "hasTranslation": false,
+      "slug": "metrical-charm-2-the-nine-herbs-charm",
+      "label": "Metrical Charm 2: The Nine Herbs Charm",
+      "partId": "metrical-charm-2-the-nine-herbs-charm",
+      "partTitle": "Metrical Charm 2: The Nine Herbs Charm",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
 }

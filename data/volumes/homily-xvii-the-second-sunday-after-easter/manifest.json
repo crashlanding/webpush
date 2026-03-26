@@ -12,6 +12,7 @@
       "chunkSlug": "homily-xvii-the-second-sunday-after-easter",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "homily-xvii-the-second-sunday-after-easter",
           "label": "XVII. The Second Sunday after Easter",
           "partId": "homily-xvii-the-second-sunday-after-easter",
@@ -24,12 +25,14 @@
   ],
   "defaultChunkSlug": "homily-xvii-the-second-sunday-after-easter",
   "genre": "prose",
+  "hasTranslation": true,
   "slug": "homily-xvii-the-second-sunday-after-easter",
   "status": "ready",
   "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
   "title": "XVII. The Second Sunday after Easter",
   "chunks": [
     {
+      "hasTranslation": true,
       "slug": "homily-xvii-the-second-sunday-after-easter",
       "label": "XVII. The Second Sunday after Easter",
       "partId": "homily-xvii-the-second-sunday-after-easter",

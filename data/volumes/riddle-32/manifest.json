@@ -7,15 +7,38 @@
     {
       "id": "riddle-32",
       "title": "Riddle 32",
-      "status": "placeholder",
-      "placeholderReason": "An Old English witness is stored locally; a matched modern-English companion still needs to be aligned for this shelf."
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "riddle-32",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "riddle-32",
+          "label": "Riddle 32",
+          "partId": "riddle-32",
+          "partTitle": "Riddle 32",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
     }
   ],
-  "defaultChunkSlug": null,
+  "defaultChunkSlug": "riddle-32",
   "genre": "verse",
+  "hasTranslation": false,
   "slug": "riddle-32",
-  "status": "placeholder",
-  "summary": "Old English verse shelf assembled from Sacred Texts. Side-by-side alignment is still in preparation.",
+  "status": "ready",
+  "summary": "Old English verse witness from Sacred Texts. The Old English original is live; an English translation still needs to be added.",
   "title": "Riddle 32",
-  "chunks": []
+  "chunks": [
+    {
+      "hasTranslation": false,
+      "slug": "riddle-32",
+      "label": "Riddle 32",
+      "partId": "riddle-32",
+      "partTitle": "Riddle 32",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
 }

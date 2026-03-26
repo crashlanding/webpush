@@ -12,6 +12,7 @@
       "chunkSlug": "homily-xiii-the-annunciation-of-st-mary",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "homily-xiii-the-annunciation-of-st-mary",
           "label": "XIII. The Annunciation of St. Mary",
           "partId": "homily-xiii-the-annunciation-of-st-mary",
@@ -24,12 +25,14 @@
   ],
   "defaultChunkSlug": "homily-xiii-the-annunciation-of-st-mary",
   "genre": "prose",
+  "hasTranslation": true,
   "slug": "homily-xiii-the-annunciation-of-st-mary",
   "status": "ready",
   "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
   "title": "XIII. The Annunciation of St. Mary",
   "chunks": [
     {
+      "hasTranslation": true,
       "slug": "homily-xiii-the-annunciation-of-st-mary",
       "label": "XIII. The Annunciation of St. Mary",
       "partId": "homily-xiii-the-annunciation-of-st-mary",

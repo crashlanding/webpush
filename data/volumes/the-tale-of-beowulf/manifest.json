@@ -5,17 +5,364 @@
   ],
   "contents": [
     {
-      "id": "the-tale-of-beowulf",
-      "title": "The Tale of Beowulf",
-      "status": "placeholder",
-      "placeholderReason": "An Old English witness is stored locally; a matched modern-English companion still needs to be aligned for this shelf."
+      "id": "argument",
+      "title": "Argument",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "argument",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "argument",
+          "label": "Argument",
+          "partId": "argument",
+          "partTitle": "Argument",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "chapter-5",
+      "title": "Chapter 5",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "chapter-5",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "chapter-5",
+          "label": "Chapter 5",
+          "partId": "chapter-5",
+          "partTitle": "Chapter 5",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "chapter-13",
+      "title": "Chapter 13",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "chapter-13",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "chapter-13",
+          "label": "Chapter 13",
+          "partId": "chapter-13",
+          "partTitle": "Chapter 13",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "chapter-14",
+      "title": "Chapter 14",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "chapter-14",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "chapter-14",
+          "label": "Chapter 14",
+          "partId": "chapter-14",
+          "partTitle": "Chapter 14",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "chapter-17",
+      "title": "Chapter 17",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "chapter-17",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "chapter-17",
+          "label": "Chapter 17",
+          "partId": "chapter-17",
+          "partTitle": "Chapter 17",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "chapter-28",
+      "title": "Chapter 28",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "chapter-28",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "chapter-28",
+          "label": "Chapter 28",
+          "partId": "chapter-28",
+          "partTitle": "Chapter 28",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "chapter-29",
+      "title": "Chapter 29",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "chapter-29",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "chapter-29",
+          "label": "Chapter 29",
+          "partId": "chapter-29",
+          "partTitle": "Chapter 29",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "chapter-34",
+      "title": "Chapter 34",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "chapter-34",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "chapter-34",
+          "label": "Chapter 34",
+          "partId": "chapter-34",
+          "partTitle": "Chapter 34",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "chapter-35",
+      "title": "Chapter 35",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "chapter-35",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "chapter-35",
+          "label": "Chapter 35",
+          "partId": "chapter-35",
+          "partTitle": "Chapter 35",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "chapter-36",
+      "title": "Chapter 36",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "chapter-36",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "chapter-36",
+          "label": "Chapter 36",
+          "partId": "chapter-36",
+          "partTitle": "Chapter 36",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "chapter-38",
+      "title": "Chapter 38",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "chapter-38",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "chapter-38",
+          "label": "Chapter 38",
+          "partId": "chapter-38",
+          "partTitle": "Chapter 38",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "chapter-40",
+      "title": "Chapter 40",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "chapter-40",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "chapter-40",
+          "label": "Chapter 40",
+          "partId": "chapter-40",
+          "partTitle": "Chapter 40",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "persons-and-places",
+      "title": "Persons and Places",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "persons-and-places",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "persons-and-places",
+          "label": "Persons and Places",
+          "partId": "persons-and-places",
+          "partTitle": "Persons and Places",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
     }
   ],
-  "defaultChunkSlug": null,
+  "defaultChunkSlug": "argument",
   "genre": "prose",
+  "hasTranslation": false,
   "slug": "the-tale-of-beowulf",
-  "status": "placeholder",
-  "summary": "Old English prose shelf assembled from Wikisource. Side-by-side alignment is still in preparation.",
+  "status": "ready",
+  "summary": "Old English prose witness from Wikisource. The Old English original is live; an English translation still needs to be added.",
   "title": "The Tale of Beowulf",
-  "chunks": []
+  "chunks": [
+    {
+      "hasTranslation": false,
+      "slug": "argument",
+      "label": "Argument",
+      "partId": "argument",
+      "partTitle": "Argument",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "hasTranslation": false,
+      "slug": "chapter-5",
+      "label": "Chapter 5",
+      "partId": "chapter-5",
+      "partTitle": "Chapter 5",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "hasTranslation": false,
+      "slug": "chapter-13",
+      "label": "Chapter 13",
+      "partId": "chapter-13",
+      "partTitle": "Chapter 13",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "hasTranslation": false,
+      "slug": "chapter-14",
+      "label": "Chapter 14",
+      "partId": "chapter-14",
+      "partTitle": "Chapter 14",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "hasTranslation": false,
+      "slug": "chapter-17",
+      "label": "Chapter 17",
+      "partId": "chapter-17",
+      "partTitle": "Chapter 17",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "hasTranslation": false,
+      "slug": "chapter-28",
+      "label": "Chapter 28",
+      "partId": "chapter-28",
+      "partTitle": "Chapter 28",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "hasTranslation": false,
+      "slug": "chapter-29",
+      "label": "Chapter 29",
+      "partId": "chapter-29",
+      "partTitle": "Chapter 29",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "hasTranslation": false,
+      "slug": "chapter-34",
+      "label": "Chapter 34",
+      "partId": "chapter-34",
+      "partTitle": "Chapter 34",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "hasTranslation": false,
+      "slug": "chapter-35",
+      "label": "Chapter 35",
+      "partId": "chapter-35",
+      "partTitle": "Chapter 35",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "hasTranslation": false,
+      "slug": "chapter-36",
+      "label": "Chapter 36",
+      "partId": "chapter-36",
+      "partTitle": "Chapter 36",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "hasTranslation": false,
+      "slug": "chapter-38",
+      "label": "Chapter 38",
+      "partId": "chapter-38",
+      "partTitle": "Chapter 38",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "hasTranslation": false,
+      "slug": "chapter-40",
+      "label": "Chapter 40",
+      "partId": "chapter-40",
+      "partTitle": "Chapter 40",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "hasTranslation": false,
+      "slug": "persons-and-places",
+      "label": "Persons and Places",
+      "partId": "persons-and-places",
+      "partTitle": "Persons and Places",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
 }

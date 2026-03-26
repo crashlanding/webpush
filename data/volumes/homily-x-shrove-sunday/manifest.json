@@ -12,6 +12,7 @@
       "chunkSlug": "homily-x-shrove-sunday",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "homily-x-shrove-sunday",
           "label": "X. Shrove Sunday",
           "partId": "homily-x-shrove-sunday",
@@ -24,12 +25,14 @@
   ],
   "defaultChunkSlug": "homily-x-shrove-sunday",
   "genre": "prose",
+  "hasTranslation": true,
   "slug": "homily-x-shrove-sunday",
   "status": "ready",
   "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
   "title": "X. Shrove Sunday",
   "chunks": [
     {
+      "hasTranslation": true,
       "slug": "homily-x-shrove-sunday",
       "label": "X. Shrove Sunday",
       "partId": "homily-x-shrove-sunday",

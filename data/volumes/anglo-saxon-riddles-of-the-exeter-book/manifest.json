@@ -5,17 +5,94 @@
   ],
   "contents": [
     {
-      "id": "anglo-saxon-riddles-of-the-exeter-book",
-      "title": "Anglo-Saxon Riddles of the Exeter Book",
-      "status": "placeholder",
-      "placeholderReason": "An Old English witness is stored locally; a matched modern-English companion still needs to be aligned for this shelf."
+      "id": "beowulf",
+      "title": "Beowulf",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "beowulf",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "beowulf",
+          "label": "Beowulf",
+          "partId": "beowulf",
+          "partTitle": "Beowulf",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "natural-phenomena",
+      "title": "NATURAL PHENOMENA",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "natural-phenomena",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "natural-phenomena",
+          "label": "NATURAL PHENOMENA",
+          "partId": "natural-phenomena",
+          "partTitle": "NATURAL PHENOMENA",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "runes",
+      "title": "RUNES",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "runes",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "runes",
+          "label": "RUNES",
+          "partId": "runes",
+          "partTitle": "RUNES",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
     }
   ],
-  "defaultChunkSlug": null,
+  "defaultChunkSlug": "beowulf",
   "genre": "prose",
+  "hasTranslation": false,
   "slug": "anglo-saxon-riddles-of-the-exeter-book",
-  "status": "placeholder",
-  "summary": "Old English prose shelf assembled from Wikisource. Side-by-side alignment is still in preparation.",
+  "status": "ready",
+  "summary": "Old English prose witness from Wikisource. The Old English original is live; an English translation still needs to be added.",
   "title": "Anglo-Saxon Riddles of the Exeter Book",
-  "chunks": []
+  "chunks": [
+    {
+      "hasTranslation": false,
+      "slug": "beowulf",
+      "label": "Beowulf",
+      "partId": "beowulf",
+      "partTitle": "Beowulf",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "hasTranslation": false,
+      "slug": "natural-phenomena",
+      "label": "NATURAL PHENOMENA",
+      "partId": "natural-phenomena",
+      "partTitle": "NATURAL PHENOMENA",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "hasTranslation": false,
+      "slug": "runes",
+      "label": "RUNES",
+      "partId": "runes",
+      "partTitle": "RUNES",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
 }

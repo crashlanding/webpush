@@ -7,15 +7,38 @@
     {
       "id": "metrical-charm-4-for-a-sudden-stich",
       "title": "Metrical Charm 4: For a Sudden Stich",
-      "status": "placeholder",
-      "placeholderReason": "An Old English witness is stored locally; a matched modern-English companion still needs to be aligned for this shelf."
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "metrical-charm-4-for-a-sudden-stich",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "metrical-charm-4-for-a-sudden-stich",
+          "label": "Metrical Charm 4: For a Sudden Stich",
+          "partId": "metrical-charm-4-for-a-sudden-stich",
+          "partTitle": "Metrical Charm 4: For a Sudden Stich",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
     }
   ],
-  "defaultChunkSlug": null,
+  "defaultChunkSlug": "metrical-charm-4-for-a-sudden-stich",
   "genre": "verse",
+  "hasTranslation": false,
   "slug": "metrical-charm-4-for-a-sudden-stich",
-  "status": "placeholder",
-  "summary": "Old English verse shelf assembled from Sacred Texts. Side-by-side alignment is still in preparation.",
+  "status": "ready",
+  "summary": "Old English verse witness from Sacred Texts. The Old English original is live; an English translation still needs to be added.",
   "title": "Metrical Charm 4: For a Sudden Stich",
-  "chunks": []
+  "chunks": [
+    {
+      "hasTranslation": false,
+      "slug": "metrical-charm-4-for-a-sudden-stich",
+      "label": "Metrical Charm 4: For a Sudden Stich",
+      "partId": "metrical-charm-4-for-a-sudden-stich",
+      "partTitle": "Metrical Charm 4: For a Sudden Stich",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
 }

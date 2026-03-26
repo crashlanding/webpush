@@ -12,6 +12,7 @@
       "chunkSlug": "the-panther",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "the-panther",
           "label": "The Panther",
           "partId": "the-panther",
@@ -29,6 +30,7 @@
       "chunkSlug": "the-whale",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "the-whale",
           "label": "The Whale",
           "partId": "the-whale",
@@ -46,6 +48,7 @@
       "chunkSlug": "the-partridge",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "the-partridge",
           "label": "The Partridge",
           "partId": "the-partridge",
@@ -58,12 +61,14 @@
   ],
   "defaultChunkSlug": "the-panther",
   "genre": "verse",
+  "hasTranslation": true,
   "slug": "the-old-english-physiologus",
   "status": "ready",
   "summary": "The Panther, The Whale, and The Partridge from the Old English Physiologus with public-domain English companions.",
   "title": "The Old English Physiologus",
   "chunks": [
     {
+      "hasTranslation": true,
       "slug": "the-panther",
       "label": "The Panther",
       "partId": "the-panther",
@@ -72,6 +77,7 @@
       "status": "ready"
     },
     {
+      "hasTranslation": true,
       "slug": "the-whale",
       "label": "The Whale",
       "partId": "the-whale",
@@ -80,6 +86,7 @@
       "status": "ready"
     },
     {
+      "hasTranslation": true,
       "slug": "the-partridge",
       "label": "The Partridge",
       "partId": "the-partridge",

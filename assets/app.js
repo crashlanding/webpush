@@ -420,6 +420,10 @@ function filterCatalogEntries(entries, route, options = {}) {
       return false;
     }
 
+    if (route.translated && !entry.hasTranslation) {
+      return false;
+    }
+
     if (includeQuery && route.q) {
       const haystack = entry.searchText || normalizeForSearch(`${entry.authorDisplay} ${entry.title} ${entry.summary}`);
 
@@ -760,7 +764,7 @@ function renderVolumeRow(entry, route) {
       </div>
       <div class="volume-side">
         <strong>${entry.readyChunkCount}</strong>
-        <span>bilingual chunk${entry.readyChunkCount === 1 ? "" : "s"}</span>
+        <span>${entry.hasTranslation ? "bilingual" : "live"} chunk${entry.readyChunkCount === 1 ? "" : "s"}</span>
       </div>
     </a>
   `;
@@ -882,6 +886,15 @@ function renderReader(manifest, chunk, route) {
             `
             : ""
         }
+        ${
+          !manifest.hasTranslation
+            ? `
+              <div class="reader-banner reader-banner-original-only">
+                This reader currently contains the Old English original only. The English translation is still pending.
+              </div>
+            `
+            : ""
+        }
 
         <div class="reader-topline">
           <div>
@@ -902,9 +915,15 @@ function renderReader(manifest, chunk, route) {
               <a href="${escapeHtml(chunk.citations.original.url)}" target="_blank" rel="noreferrer">
                 ${escapeHtml(chunk.citations.original.label)}
               </a>
-              <a href="${escapeHtml(chunk.citations.translation.url)}" target="_blank" rel="noreferrer">
-                ${escapeHtml(chunk.citations.translation.label)}
-              </a>
+              ${
+                chunk.citations.translation?.url
+                  ? `
+                    <a href="${escapeHtml(chunk.citations.translation.url)}" target="_blank" rel="noreferrer">
+                      ${escapeHtml(chunk.citations.translation.label)}
+                    </a>
+                  `
+                  : `<span class="reader-footer-note">English translation pending</span>`
+              }
             </div>
           </div>
 
@@ -951,7 +970,7 @@ function renderSection(section, index, originalLang, highlight, manifest, chunk)
           ${renderPassage(section.original, highlight)}
         </section>
         <section class="text-panel text-panel-translation" lang="en">
-          ${renderPassage(section.translation, highlight)}
+          ${renderTranslationPanel(section.translation, highlight)}
         </section>
       </div>
     </article>
@@ -1032,7 +1051,7 @@ function renderPinnedCard(record) {
         </section>
         <section class="pinned-card-panel pinned-card-panel-translation">
           <span class="column-pill tone-english">Modern English</span>
-          ${renderPassage(record.translation, "")}
+          ${renderTranslationPanel(record.translation, "")}
         </section>
       </div>
     </article>
@@ -1055,6 +1074,18 @@ function renderPassage(text, highlight) {
       return `<p>${lines}</p>`;
     })
     .join("");
+}
+
+function renderTranslationPanel(text, highlight) {
+  if (!hasTextContent(text)) {
+    return `
+      <div class="text-panel-empty-state">
+        <p>English translation has not been added to this text yet.</p>
+      </div>
+    `;
+  }
+
+  return renderPassage(text, highlight);
 }
 
 function renderChunkLink(manifest, entry, currentChunkSlug, route) {
@@ -1439,6 +1470,10 @@ function excerpt(value, maxLength = 200) {
   }
 
   return `${clean.slice(0, maxLength).trimEnd()}...`;
+}
+
+function hasTextContent(value) {
+  return typeof value === "string" && value.trim().length > 0;
 }
 
 function escapeHtml(value) {

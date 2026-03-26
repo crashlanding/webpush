@@ -7,15 +7,38 @@
     {
       "id": "caedmon-s-hymn-northumbrian-version",
       "title": "Caedmon's Hymn: Northumbrian Version",
-      "status": "placeholder",
-      "placeholderReason": "An Old English witness is stored locally; a matched modern-English companion still needs to be aligned for this shelf."
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "caedmon-s-hymn-northumbrian-version",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "caedmon-s-hymn-northumbrian-version",
+          "label": "Caedmon's Hymn: Northumbrian Version",
+          "partId": "caedmon-s-hymn-northumbrian-version",
+          "partTitle": "Caedmon's Hymn: Northumbrian Version",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
     }
   ],
-  "defaultChunkSlug": null,
+  "defaultChunkSlug": "caedmon-s-hymn-northumbrian-version",
   "genre": "verse",
+  "hasTranslation": false,
   "slug": "caedmon-s-hymn-northumbrian-version",
-  "status": "placeholder",
-  "summary": "Old English verse shelf assembled from Sacred Texts. Side-by-side alignment is still in preparation.",
+  "status": "ready",
+  "summary": "Old English verse witness from Sacred Texts. The Old English original is live; an English translation still needs to be added.",
   "title": "Caedmon's Hymn: Northumbrian Version",
-  "chunks": []
+  "chunks": [
+    {
+      "hasTranslation": false,
+      "slug": "caedmon-s-hymn-northumbrian-version",
+      "label": "Caedmon's Hymn: Northumbrian Version",
+      "partId": "caedmon-s-hymn-northumbrian-version",
+      "partTitle": "Caedmon's Hymn: Northumbrian Version",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
 }

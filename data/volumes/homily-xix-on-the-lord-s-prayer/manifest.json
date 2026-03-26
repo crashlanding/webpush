@@ -12,6 +12,7 @@
       "chunkSlug": "homily-xix-on-the-lord-s-prayer",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "homily-xix-on-the-lord-s-prayer",
           "label": "XIX. On the Lord's Prayer",
           "partId": "homily-xix-on-the-lord-s-prayer",
@@ -24,12 +25,14 @@
   ],
   "defaultChunkSlug": "homily-xix-on-the-lord-s-prayer",
   "genre": "prose",
+  "hasTranslation": true,
   "slug": "homily-xix-on-the-lord-s-prayer",
   "status": "ready",
   "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
   "title": "XIX. On the Lord's Prayer",
   "chunks": [
     {
+      "hasTranslation": true,
       "slug": "homily-xix-on-the-lord-s-prayer",
       "label": "XIX. On the Lord's Prayer",
       "partId": "homily-xix-on-the-lord-s-prayer",

@@ -12,6 +12,7 @@
       "chunkSlug": "homily-xxxi-the-passion-of-st-bartholomew-the-apostle",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "homily-xxxi-the-passion-of-st-bartholomew-the-apostle",
           "label": "XXXI. The Passion of St. Bartholomew the Apostle",
           "partId": "homily-xxxi-the-passion-of-st-bartholomew-the-apostle",
@@ -24,12 +25,14 @@
   ],
   "defaultChunkSlug": "homily-xxxi-the-passion-of-st-bartholomew-the-apostle",
   "genre": "prose",
+  "hasTranslation": true,
   "slug": "homily-xxxi-the-passion-of-st-bartholomew-the-apostle",
   "status": "ready",
   "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
   "title": "XXXI. The Passion of St. Bartholomew the Apostle",
   "chunks": [
     {
+      "hasTranslation": true,
       "slug": "homily-xxxi-the-passion-of-st-bartholomew-the-apostle",
       "label": "XXXI. The Passion of St. Bartholomew the Apostle",
       "partId": "homily-xxxi-the-passion-of-st-bartholomew-the-apostle",

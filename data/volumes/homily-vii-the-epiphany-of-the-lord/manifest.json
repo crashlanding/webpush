@@ -12,6 +12,7 @@
       "chunkSlug": "homily-vii-the-epiphany-of-the-lord",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "homily-vii-the-epiphany-of-the-lord",
           "label": "VII. The Epiphany of the Lord",
           "partId": "homily-vii-the-epiphany-of-the-lord",
@@ -24,12 +25,14 @@
   ],
   "defaultChunkSlug": "homily-vii-the-epiphany-of-the-lord",
   "genre": "prose",
+  "hasTranslation": true,
   "slug": "homily-vii-the-epiphany-of-the-lord",
   "status": "ready",
   "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
   "title": "VII. The Epiphany of the Lord",
   "chunks": [
     {
+      "hasTranslation": true,
       "slug": "homily-vii-the-epiphany-of-the-lord",
       "label": "VII. The Epiphany of the Lord",
       "partId": "homily-vii-the-epiphany-of-the-lord",

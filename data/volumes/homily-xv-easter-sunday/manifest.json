@@ -12,6 +12,7 @@
       "chunkSlug": "homily-xv-easter-sunday",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "homily-xv-easter-sunday",
           "label": "XV. Easter Sunday",
           "partId": "homily-xv-easter-sunday",
@@ -24,12 +25,14 @@
   ],
   "defaultChunkSlug": "homily-xv-easter-sunday",
   "genre": "prose",
+  "hasTranslation": true,
   "slug": "homily-xv-easter-sunday",
   "status": "ready",
   "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
   "title": "XV. Easter Sunday",
   "chunks": [
     {
+      "hasTranslation": true,
       "slug": "homily-xv-easter-sunday",
       "label": "XV. Easter Sunday",
       "partId": "homily-xv-easter-sunday",

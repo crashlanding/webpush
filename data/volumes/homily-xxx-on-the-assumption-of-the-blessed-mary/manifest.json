@@ -12,6 +12,7 @@
       "chunkSlug": "homily-xxx-on-the-assumption-of-the-blessed-mary",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "homily-xxx-on-the-assumption-of-the-blessed-mary",
           "label": "XXX. On the Assumption of the Blessed Mary",
           "partId": "homily-xxx-on-the-assumption-of-the-blessed-mary",
@@ -24,12 +25,14 @@
   ],
   "defaultChunkSlug": "homily-xxx-on-the-assumption-of-the-blessed-mary",
   "genre": "prose",
+  "hasTranslation": true,
   "slug": "homily-xxx-on-the-assumption-of-the-blessed-mary",
   "status": "ready",
   "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
   "title": "XXX. On the Assumption of the Blessed Mary",
   "chunks": [
     {
+      "hasTranslation": true,
       "slug": "homily-xxx-on-the-assumption-of-the-blessed-mary",
       "label": "XXX. On the Assumption of the Blessed Mary",
       "partId": "homily-xxx-on-the-assumption-of-the-blessed-mary",

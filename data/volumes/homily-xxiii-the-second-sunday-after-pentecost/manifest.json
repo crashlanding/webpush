@@ -12,6 +12,7 @@
       "chunkSlug": "homily-xxiii-the-second-sunday-after-pentecost",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "homily-xxiii-the-second-sunday-after-pentecost",
           "label": "XXIII. The Second Sunday after Pentecost",
           "partId": "homily-xxiii-the-second-sunday-after-pentecost",
@@ -24,12 +25,14 @@
   ],
   "defaultChunkSlug": "homily-xxiii-the-second-sunday-after-pentecost",
   "genre": "prose",
+  "hasTranslation": true,
   "slug": "homily-xxiii-the-second-sunday-after-pentecost",
   "status": "ready",
   "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
   "title": "XXIII. The Second Sunday after Pentecost",
   "chunks": [
     {
+      "hasTranslation": true,
       "slug": "homily-xxiii-the-second-sunday-after-pentecost",
       "label": "XXIII. The Second Sunday after Pentecost",
       "partId": "homily-xxiii-the-second-sunday-after-pentecost",

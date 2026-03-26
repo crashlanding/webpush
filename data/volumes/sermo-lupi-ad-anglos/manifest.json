@@ -5,17 +5,67 @@
   ],
   "contents": [
     {
-      "id": "sermo-lupi-ad-anglos",
-      "title": "Sermo Lupi ad Anglos",
-      "status": "placeholder",
-      "placeholderReason": "An Old English witness is stored locally; a matched modern-English companion still needs to be aligned for this shelf."
+      "id": "sermo-lupi-ad-anglos-part-1",
+      "title": "Part 1",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "sermo-lupi-ad-anglos-part-1",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "sermo-lupi-ad-anglos-part-1",
+          "label": "Part 1",
+          "partId": "sermo-lupi-ad-anglos-part-1",
+          "partTitle": "Part 1",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "sermo-lupi-ad-anglos-part-2",
+      "title": "Part 2",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "sermo-lupi-ad-anglos-part-2",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "sermo-lupi-ad-anglos-part-2",
+          "label": "Part 2",
+          "partId": "sermo-lupi-ad-anglos-part-2",
+          "partTitle": "Part 2",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
     }
   ],
-  "defaultChunkSlug": null,
+  "defaultChunkSlug": "sermo-lupi-ad-anglos-part-1",
   "genre": "prose",
+  "hasTranslation": false,
   "slug": "sermo-lupi-ad-anglos",
-  "status": "placeholder",
-  "summary": "Old English prose shelf assembled from Wikisource. Side-by-side alignment is still in preparation.",
+  "status": "ready",
+  "summary": "Old English prose witness from Wikisource. The Old English original is live; an English translation still needs to be added.",
   "title": "Sermo Lupi ad Anglos",
-  "chunks": []
+  "chunks": [
+    {
+      "hasTranslation": false,
+      "slug": "sermo-lupi-ad-anglos-part-1",
+      "label": "Part 1",
+      "partId": "sermo-lupi-ad-anglos-part-1",
+      "partTitle": "Part 1",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "hasTranslation": false,
+      "slug": "sermo-lupi-ad-anglos-part-2",
+      "label": "Part 2",
+      "partId": "sermo-lupi-ad-anglos-part-2",
+      "partTitle": "Part 2",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
 }

@@ -12,6 +12,7 @@
       "chunkSlug": "homily-xxiv-the-fourth-sunday-after-pentecost",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "homily-xxiv-the-fourth-sunday-after-pentecost",
           "label": "XXIV. The Fourth Sunday after Pentecost",
           "partId": "homily-xxiv-the-fourth-sunday-after-pentecost",
@@ -24,12 +25,14 @@
   ],
   "defaultChunkSlug": "homily-xxiv-the-fourth-sunday-after-pentecost",
   "genre": "prose",
+  "hasTranslation": true,
   "slug": "homily-xxiv-the-fourth-sunday-after-pentecost",
   "status": "ready",
   "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
   "title": "XXIV. The Fourth Sunday after Pentecost",
   "chunks": [
     {
+      "hasTranslation": true,
       "slug": "homily-xxiv-the-fourth-sunday-after-pentecost",
       "label": "XXIV. The Fourth Sunday after Pentecost",
       "partId": "homily-xxiv-the-fourth-sunday-after-pentecost",

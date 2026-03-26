@@ -12,6 +12,7 @@
       "chunkSlug": "fight-at-finnsburh",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "fight-at-finnsburh",
           "label": "The Attack on Finnsburg",
           "partId": "fight-at-finnsburh",
@@ -24,12 +25,14 @@
   ],
   "defaultChunkSlug": "fight-at-finnsburh",
   "genre": "verse",
+  "hasTranslation": true,
   "slug": "the-fight-at-finnsburh",
   "status": "ready",
   "summary": "The Finnsburh fragment paired with Francis B. Gummere's public-domain translation from Wikisource.",
   "title": "The Fight at Finnsburh",
   "chunks": [
     {
+      "hasTranslation": true,
       "slug": "fight-at-finnsburh",
       "label": "The Attack on Finnsburg",
       "partId": "fight-at-finnsburh",

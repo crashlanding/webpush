@@ -12,6 +12,7 @@
       "chunkSlug": "homily-ii-on-the-nativity-of-our-lord",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "homily-ii-on-the-nativity-of-our-lord",
           "label": "II. On the Nativity of our Lord",
           "partId": "homily-ii-on-the-nativity-of-our-lord",
@@ -24,12 +25,14 @@
   ],
   "defaultChunkSlug": "homily-ii-on-the-nativity-of-our-lord",
   "genre": "prose",
+  "hasTranslation": true,
   "slug": "homily-ii-on-the-nativity-of-our-lord",
   "status": "ready",
   "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
   "title": "II. On the Nativity of our Lord",
   "chunks": [
     {
+      "hasTranslation": true,
       "slug": "homily-ii-on-the-nativity-of-our-lord",
       "label": "II. On the Nativity of our Lord",
       "partId": "homily-ii-on-the-nativity-of-our-lord",

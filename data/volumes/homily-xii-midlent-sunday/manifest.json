@@ -12,6 +12,7 @@
       "chunkSlug": "homily-xii-midlent-sunday",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "homily-xii-midlent-sunday",
           "label": "XII. Midlent Sunday",
           "partId": "homily-xii-midlent-sunday",
@@ -24,12 +25,14 @@
   ],
   "defaultChunkSlug": "homily-xii-midlent-sunday",
   "genre": "prose",
+  "hasTranslation": true,
   "slug": "homily-xii-midlent-sunday",
   "status": "ready",
   "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
   "title": "XII. Midlent Sunday",
   "chunks": [
     {
+      "hasTranslation": true,
       "slug": "homily-xii-midlent-sunday",
       "label": "XII. Midlent Sunday",
       "partId": "homily-xii-midlent-sunday",

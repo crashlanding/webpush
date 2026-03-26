@@ -12,6 +12,7 @@
       "chunkSlug": "homily-xi-the-first-sunday-in-lent",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "homily-xi-the-first-sunday-in-lent",
           "label": "XI. The First Sunday in Lent",
           "partId": "homily-xi-the-first-sunday-in-lent",
@@ -24,12 +25,14 @@
   ],
   "defaultChunkSlug": "homily-xi-the-first-sunday-in-lent",
   "genre": "prose",
+  "hasTranslation": true,
   "slug": "homily-xi-the-first-sunday-in-lent",
   "status": "ready",
   "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
   "title": "XI. The First Sunday in Lent",
   "chunks": [
     {
+      "hasTranslation": true,
       "slug": "homily-xi-the-first-sunday-in-lent",
       "label": "XI. The First Sunday in Lent",
       "partId": "homily-xi-the-first-sunday-in-lent",

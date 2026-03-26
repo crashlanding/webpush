@@ -7,15 +7,38 @@
     {
       "id": "the-partridge",
       "title": "The Partridge",
-      "status": "placeholder",
-      "placeholderReason": "An Old English witness is stored locally; a matched modern-English companion still needs to be aligned for this shelf."
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "the-partridge",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "the-partridge",
+          "label": "The Partridge",
+          "partId": "the-partridge",
+          "partTitle": "The Partridge",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
     }
   ],
-  "defaultChunkSlug": null,
+  "defaultChunkSlug": "the-partridge",
   "genre": "verse",
+  "hasTranslation": false,
   "slug": "the-partridge",
-  "status": "placeholder",
-  "summary": "Old English verse shelf assembled from Sacred Texts, and Wikisource. Side-by-side alignment is still in preparation.",
+  "status": "ready",
+  "summary": "Old English verse witness from Sacred Texts. The Old English original is live; an English translation still needs to be added.",
   "title": "The Partridge",
-  "chunks": []
+  "chunks": [
+    {
+      "hasTranslation": false,
+      "slug": "the-partridge",
+      "label": "The Partridge",
+      "partId": "the-partridge",
+      "partTitle": "The Partridge",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
 }

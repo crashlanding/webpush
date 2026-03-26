@@ -1052,6 +1052,12 @@ mark {
   text-transform: none;
 }
 
+.reader-banner-original-only {
+  border-color: rgba(33, 83, 65, 0.18);
+  background: rgba(33, 83, 65, 0.08);
+  color: var(--pine);
+}
+
 .parallel-head {
   position: sticky;
   top: 5.8rem;
@@ -1105,6 +1111,11 @@ mark {
   text-decoration: underline;
   text-decoration-color: rgba(180, 139, 71, 0.45);
   text-underline-offset: 0.18em;
+}
+
+.reader-footer-note {
+  color: var(--muted);
+  font-size: 0.92rem;
 }
 
 .section-row {
@@ -1201,6 +1212,17 @@ mark {
 .text-panel-translation {
   border-color: rgba(111, 97, 77, 0.12);
   background: linear-gradient(180deg, rgba(252, 248, 240, 0.96), rgba(243, 234, 220, 0.86));
+}
+
+.text-panel-empty-state {
+  display: grid;
+  min-height: 100%;
+  align-content: center;
+}
+
+.text-panel-empty-state p {
+  color: var(--muted);
+  font-style: italic;
 }
 
 .text-panel p {

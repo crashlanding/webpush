@@ -1,9 +1,11 @@
 {
-  "generatedAt": "2026-03-25T10:47:43Z",
-  "totalVolumes": 389,
-  "readyVolumes": 45,
+  "generatedAt": "2026-03-26T05:08:59Z",
+  "totalVolumes": 388,
+  "readyVolumes": 381,
   "partialVolumes": 0,
-  "placeholderVolumes": 344,
-  "readyChunks": 91,
+  "placeholderVolumes": 7,
+  "translatedReadyVolumes": 45,
+  "originalOnlyReadyVolumes": 336,
+  "readyChunks": 463,
   "failures": []
 }

@@ -12,6 +12,7 @@
       "chunkSlug": "homily-iv-the-assumption-of-st-john-the-apostle",
       "chunks": [
         {
+          "hasTranslation": true,
           "slug": "homily-iv-the-assumption-of-st-john-the-apostle",
           "label": "IV. The Assumption of St. John the Apostle",
           "partId": "homily-iv-the-assumption-of-st-john-the-apostle",
@@ -24,12 +25,14 @@
   ],
   "defaultChunkSlug": "homily-iv-the-assumption-of-st-john-the-apostle",
   "genre": "prose",
+  "hasTranslation": true,
   "slug": "homily-iv-the-assumption-of-st-john-the-apostle",
   "status": "ready",
   "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
   "title": "IV. The Assumption of St. John the Apostle",
   "chunks": [
     {
+      "hasTranslation": true,
       "slug": "homily-iv-the-assumption-of-st-john-the-apostle",
       "label": "IV. The Assumption of St. John the Apostle",
       "partId": "homily-iv-the-assumption-of-st-john-the-apostle",

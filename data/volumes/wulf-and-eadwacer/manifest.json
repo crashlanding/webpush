@@ -7,15 +7,38 @@
     {
       "id": "wulf-and-eadwacer",
       "title": "Wulf and Eadwacer",
-      "status": "placeholder",
-      "placeholderReason": "An Old English witness is stored locally; a matched modern-English companion still needs to be aligned for this shelf."
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "wulf-and-eadwacer",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "wulf-and-eadwacer",
+          "label": "Wulf and Eadwacer",
+          "partId": "wulf-and-eadwacer",
+          "partTitle": "Wulf and Eadwacer",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
     }
   ],
-  "defaultChunkSlug": null,
+  "defaultChunkSlug": "wulf-and-eadwacer",
   "genre": "verse",
+  "hasTranslation": false,
   "slug": "wulf-and-eadwacer",
-  "status": "placeholder",
-  "summary": "Old English verse shelf assembled from Sacred Texts. Side-by-side alignment is still in preparation.",
+  "status": "ready",
+  "summary": "Old English verse witness from Sacred Texts. The Old English original is live; an English translation still needs to be added.",
   "title": "Wulf and Eadwacer",
-  "chunks": []
+  "chunks": [
+    {
+      "hasTranslation": false,
+      "slug": "wulf-and-eadwacer",
+      "label": "Wulf and Eadwacer",
+      "partId": "wulf-and-eadwacer",
+      "partTitle": "Wulf and Eadwacer",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
 }

@@ -7,15 +7,38 @@
     {
       "id": "the-meters-of-boethius-proem",
       "title": "The Meters of Boethius: Proem",
-      "status": "placeholder",
-      "placeholderReason": "An Old English witness is stored locally; a matched modern-English companion still needs to be aligned for this shelf."
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "the-meters-of-boethius-proem",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "the-meters-of-boethius-proem",
+          "label": "The Meters of Boethius: Proem",
+          "partId": "the-meters-of-boethius-proem",
+          "partTitle": "The Meters of Boethius: Proem",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
     }
   ],
-  "defaultChunkSlug": null,
+  "defaultChunkSlug": "the-meters-of-boethius-proem",
   "genre": "verse",
+  "hasTranslation": false,
   "slug": "the-meters-of-boethius-proem",
-  "status": "placeholder",
-  "summary": "Old English verse shelf assembled from Sacred Texts. Side-by-side alignment is still in preparation.",
+  "status": "ready",
+  "summary": "Old English verse witness from Sacred Texts. The Old English original is live; an English translation still needs to be added.",
   "title": "The Meters of Boethius: Proem",
-  "chunks": []
+  "chunks": [
+    {
+      "hasTranslation": false,
+      "slug": "the-meters-of-boethius-proem",
+      "label": "The Meters of Boethius: Proem",
+      "partId": "the-meters-of-boethius-proem",
+      "partTitle": "The Meters of Boethius: Proem",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
 }

@@ -7,15 +7,38 @@
     {
       "id": "metrical-charm-7-for-the-water-elf-disease",
       "title": "Metrical Charm 7: For the Water-Elf Disease",
-      "status": "placeholder",
-      "placeholderReason": "An Old English witness is stored locally; a matched modern-English companion still needs to be aligned for this shelf."
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "metrical-charm-7-for-the-water-elf-disease",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "metrical-charm-7-for-the-water-elf-disease",
+          "label": "Metrical Charm 7: For the Water-Elf Disease",
+          "partId": "metrical-charm-7-for-the-water-elf-disease",
+          "partTitle": "Metrical Charm 7: For the Water-Elf Disease",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
     }
   ],
-  "defaultChunkSlug": null,
+  "defaultChunkSlug": "metrical-charm-7-for-the-water-elf-disease",
   "genre": "verse",
+  "hasTranslation": false,
   "slug": "metrical-charm-7-for-the-water-elf-disease",
-  "status": "placeholder",
-  "summary": "Old English verse shelf assembled from Sacred Texts. Side-by-side alignment is still in preparation.",
+  "status": "ready",
+  "summary": "Old English verse witness from Sacred Texts. The Old English original is live; an English translation still needs to be added.",
   "title": "Metrical Charm 7: For the Water-Elf Disease",
-  "chunks": []
+  "chunks": [
+    {
+      "hasTranslation": false,
+      "slug": "metrical-charm-7-for-the-water-elf-disease",
+      "label": "Metrical Charm 7: For the Water-Elf Disease",
+      "partId": "metrical-charm-7-for-the-water-elf-disease",
+      "partTitle": "Metrical Charm 7: For the Water-Elf Disease",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
 }

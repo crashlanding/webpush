@@ -7,15 +7,38 @@
     {
       "id": "metrical-charm-3-against-a-dwarf",
       "title": "Metrical Charm 3: Against a Dwarf",
-      "status": "placeholder",
-      "placeholderReason": "An Old English witness is stored locally; a matched modern-English companion still needs to be aligned for this shelf."
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "metrical-charm-3-against-a-dwarf",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "metrical-charm-3-against-a-dwarf",
+          "label": "Metrical Charm 3: Against a Dwarf",
+          "partId": "metrical-charm-3-against-a-dwarf",
+          "partTitle": "Metrical Charm 3: Against a Dwarf",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
     }
   ],
-  "defaultChunkSlug": null,
+  "defaultChunkSlug": "metrical-charm-3-against-a-dwarf",
   "genre": "verse",
+  "hasTranslation": false,
   "slug": "metrical-charm-3-against-a-dwarf",
-  "status": "placeholder",
-  "summary": "Old English verse shelf assembled from Sacred Texts. Side-by-side alignment is still in preparation.",
+  "status": "ready",
+  "summary": "Old English verse witness from Sacred Texts. The Old English original is live; an English translation still needs to be added.",
   "title": "Metrical Charm 3: Against a Dwarf",
-  "chunks": []
+  "chunks": [
+    {
+      "hasTranslation": false,
+      "slug": "metrical-charm-3-against-a-dwarf",
+      "label": "Metrical Charm 3: Against a Dwarf",
+      "partId": "metrical-charm-3-against-a-dwarf",
+      "partTitle": "Metrical Charm 3: Against a Dwarf",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
 }

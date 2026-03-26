@@ -7,15 +7,38 @@
     {
       "id": "1911-encyclopaedia-britannica",
       "title": "1911 Encyclopædia Britannica",
-      "status": "placeholder",
-      "placeholderReason": "An Old English witness is stored locally; a matched modern-English companion still needs to be aligned for this shelf."
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "1911-encyclopaedia-britannica",
+      "chunks": [
+        {
+          "hasTranslation": false,
+          "slug": "1911-encyclopaedia-britannica",
+          "label": "1911 Encyclopædia Britannica",
+          "partId": "1911-encyclopaedia-britannica",
+          "partTitle": "1911 Encyclopædia Britannica",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
     }
   ],
-  "defaultChunkSlug": null,
+  "defaultChunkSlug": "1911-encyclopaedia-britannica",
   "genre": "prose",
+  "hasTranslation": false,
   "slug": "1911-encyclopaedia-britannica",
-  "status": "placeholder",
-  "summary": "Old English prose shelf assembled from Wikisource. Side-by-side alignment is still in preparation.",
+  "status": "ready",
+  "summary": "Old English prose witness from Wikisource. The Old English original is live; an English translation still needs to be added.",
   "title": "1911 Encyclopædia Britannica",
-  "chunks": []
+  "chunks": [
+    {
+      "hasTranslation": false,
+      "slug": "1911-encyclopaedia-britannica",
+      "label": "1911 Encyclopædia Britannica",
+      "partId": "1911-encyclopaedia-britannica",
+      "partTitle": "1911 Encyclopædia Britannica",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
 }
