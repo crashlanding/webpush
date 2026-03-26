@@ -1,0 +1,21 @@
+{
+  "authorDisplay": "Anonymous",
+  "authors": [
+    "Anonymous"
+  ],
+  "contents": [
+    {
+      "id": "exeter-book",
+      "title": "Exeter Book",
+      "status": "placeholder",
+      "placeholderReason": "An Old English witness is stored locally; a matched modern-English companion still needs to be aligned for this shelf."
+    }
+  ],
+  "defaultChunkSlug": null,
+  "genre": "prose",
+  "slug": "exeter-book",
+  "status": "placeholder",
+  "summary": "Old English prose shelf assembled from Wikisource. Side-by-side alignment is still in preparation.",
+  "title": "Exeter Book",
+  "chunks": []
+}

@@ -1,0 +1,41 @@
+{
+  "authorDisplay": "Ælfric",
+  "authors": [
+    "Ælfric"
+  ],
+  "contents": [
+    {
+      "id": "homily-xi-the-first-sunday-in-lent",
+      "title": "XI. The First Sunday in Lent",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "homily-xi-the-first-sunday-in-lent",
+      "chunks": [
+        {
+          "slug": "homily-xi-the-first-sunday-in-lent",
+          "label": "XI. The First Sunday in Lent",
+          "partId": "homily-xi-the-first-sunday-in-lent",
+          "partTitle": "XI. The First Sunday in Lent",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "defaultChunkSlug": "homily-xi-the-first-sunday-in-lent",
+  "genre": "prose",
+  "slug": "homily-xi-the-first-sunday-in-lent",
+  "status": "ready",
+  "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
+  "title": "XI. The First Sunday in Lent",
+  "chunks": [
+    {
+      "slug": "homily-xi-the-first-sunday-in-lent",
+      "label": "XI. The First Sunday in Lent",
+      "partId": "homily-xi-the-first-sunday-in-lent",
+      "partTitle": "XI. The First Sunday in Lent",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
+}

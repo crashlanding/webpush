@@ -1,0 +1,41 @@
+{
+  "authorDisplay": "Ælfric",
+  "authors": [
+    "Ælfric"
+  ],
+  "contents": [
+    {
+      "id": "homily-xxxvi-the-nativity-of-all-saints",
+      "title": "XXXVI. The Nativity of All Saints",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "homily-xxxvi-the-nativity-of-all-saints",
+      "chunks": [
+        {
+          "slug": "homily-xxxvi-the-nativity-of-all-saints",
+          "label": "XXXVI. The Nativity of All Saints",
+          "partId": "homily-xxxvi-the-nativity-of-all-saints",
+          "partTitle": "XXXVI. The Nativity of All Saints",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "defaultChunkSlug": "homily-xxxvi-the-nativity-of-all-saints",
+  "genre": "prose",
+  "slug": "homily-xxxvi-the-nativity-of-all-saints",
+  "status": "ready",
+  "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
+  "title": "XXXVI. The Nativity of All Saints",
+  "chunks": [
+    {
+      "slug": "homily-xxxvi-the-nativity-of-all-saints",
+      "label": "XXXVI. The Nativity of All Saints",
+      "partId": "homily-xxxvi-the-nativity-of-all-saints",
+      "partTitle": "XXXVI. The Nativity of All Saints",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
+}

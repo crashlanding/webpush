@@ -1,0 +1,41 @@
+{
+  "authorDisplay": "Anonymous",
+  "authors": [
+    "Anonymous"
+  ],
+  "contents": [
+    {
+      "id": "fight-at-finnsburh",
+      "title": "The Fight at Finnsburh",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "fight-at-finnsburh",
+      "chunks": [
+        {
+          "slug": "fight-at-finnsburh",
+          "label": "The Attack on Finnsburg",
+          "partId": "fight-at-finnsburh",
+          "partTitle": "The Fight at Finnsburh",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "defaultChunkSlug": "fight-at-finnsburh",
+  "genre": "verse",
+  "slug": "the-fight-at-finnsburh",
+  "status": "ready",
+  "summary": "The Finnsburh fragment paired with Francis B. Gummere's public-domain translation from Wikisource.",
+  "title": "The Fight at Finnsburh",
+  "chunks": [
+    {
+      "slug": "fight-at-finnsburh",
+      "label": "The Attack on Finnsburg",
+      "partId": "fight-at-finnsburh",
+      "partTitle": "The Fight at Finnsburh",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "authorDisplay": "Ælfric",
+  "authors": [
+    "Ælfric"
+  ],
+  "contents": [
+    {
+      "id": "homily-xxii-on-the-holy-day-of-pentecost",
+      "title": "XXII. On the Holy Day of Pentecost",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "homily-xxii-on-the-holy-day-of-pentecost",
+      "chunks": [
+        {
+          "slug": "homily-xxii-on-the-holy-day-of-pentecost",
+          "label": "XXII. On the Holy Day of Pentecost",
+          "partId": "homily-xxii-on-the-holy-day-of-pentecost",
+          "partTitle": "XXII. On the Holy Day of Pentecost",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "defaultChunkSlug": "homily-xxii-on-the-holy-day-of-pentecost",
+  "genre": "prose",
+  "slug": "homily-xxii-on-the-holy-day-of-pentecost",
+  "status": "ready",
+  "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
+  "title": "XXII. On the Holy Day of Pentecost",
+  "chunks": [
+    {
+      "slug": "homily-xxii-on-the-holy-day-of-pentecost",
+      "label": "XXII. On the Holy Day of Pentecost",
+      "partId": "homily-xxii-on-the-holy-day-of-pentecost",
+      "partTitle": "XXII. On the Holy Day of Pentecost",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
+}

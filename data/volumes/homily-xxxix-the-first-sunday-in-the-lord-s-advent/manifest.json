@@ -1,0 +1,41 @@
+{
+  "authorDisplay": "Ælfric",
+  "authors": [
+    "Ælfric"
+  ],
+  "contents": [
+    {
+      "id": "homily-xxxix-the-first-sunday-in-the-lord-s-advent",
+      "title": "XXXIX. The First Sunday in the Lord's Advent",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "homily-xxxix-the-first-sunday-in-the-lord-s-advent",
+      "chunks": [
+        {
+          "slug": "homily-xxxix-the-first-sunday-in-the-lord-s-advent",
+          "label": "XXXIX. The First Sunday in the Lord's Advent",
+          "partId": "homily-xxxix-the-first-sunday-in-the-lord-s-advent",
+          "partTitle": "XXXIX. The First Sunday in the Lord's Advent",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "defaultChunkSlug": "homily-xxxix-the-first-sunday-in-the-lord-s-advent",
+  "genre": "prose",
+  "slug": "homily-xxxix-the-first-sunday-in-the-lord-s-advent",
+  "status": "ready",
+  "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
+  "title": "XXXIX. The First Sunday in the Lord's Advent",
+  "chunks": [
+    {
+      "slug": "homily-xxxix-the-first-sunday-in-the-lord-s-advent",
+      "label": "XXXIX. The First Sunday in the Lord's Advent",
+      "partId": "homily-xxxix-the-first-sunday-in-the-lord-s-advent",
+      "partTitle": "XXXIX. The First Sunday in the Lord's Advent",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
+}

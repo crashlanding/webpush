@@ -1,0 +1,41 @@
+{
+  "authorDisplay": "Ælfric",
+  "authors": [
+    "Ælfric"
+  ],
+  "contents": [
+    {
+      "id": "homily-xvi-the-first-sunday-after-easter",
+      "title": "XVI. The First Sunday after Easter",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "homily-xvi-the-first-sunday-after-easter",
+      "chunks": [
+        {
+          "slug": "homily-xvi-the-first-sunday-after-easter",
+          "label": "XVI. The First Sunday after Easter",
+          "partId": "homily-xvi-the-first-sunday-after-easter",
+          "partTitle": "XVI. The First Sunday after Easter",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "defaultChunkSlug": "homily-xvi-the-first-sunday-after-easter",
+  "genre": "prose",
+  "slug": "homily-xvi-the-first-sunday-after-easter",
+  "status": "ready",
+  "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
+  "title": "XVI. The First Sunday after Easter",
+  "chunks": [
+    {
+      "slug": "homily-xvi-the-first-sunday-after-easter",
+      "label": "XVI. The First Sunday after Easter",
+      "partId": "homily-xvi-the-first-sunday-after-easter",
+      "partTitle": "XVI. The First Sunday after Easter",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
+}

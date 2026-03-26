@@ -1,0 +1,92 @@
+{
+  "authorDisplay": "Alfred the Great",
+  "authors": [
+    "Alfred the Great",
+    "Augustine of Hippo"
+  ],
+  "contents": [
+    {
+      "id": "book-i",
+      "title": "Book I",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "book-i",
+      "chunks": [
+        {
+          "slug": "book-i",
+          "label": "Book I",
+          "partId": "book-i",
+          "partTitle": "Book I",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "book-ii",
+      "title": "Book II",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "book-ii",
+      "chunks": [
+        {
+          "slug": "book-ii",
+          "label": "Book II",
+          "partId": "book-ii",
+          "partTitle": "Book II",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "book-iii",
+      "title": "Book III",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "book-iii",
+      "chunks": [
+        {
+          "slug": "book-iii",
+          "label": "Book III",
+          "partId": "book-iii",
+          "partTitle": "Book III",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "defaultChunkSlug": "book-i",
+  "genre": "prose",
+  "slug": "king-alfred-s-old-english-version-of-st-augustine-s-soliloquies",
+  "status": "ready",
+  "summary": "Three-book reader assembled from Wikisource transcription subpages and a public-domain English edition.",
+  "title": "King Alfred's Old English Version of St. Augustine's Soliloquies",
+  "chunks": [
+    {
+      "slug": "book-i",
+      "label": "Book I",
+      "partId": "book-i",
+      "partTitle": "Book I",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "book-ii",
+      "label": "Book II",
+      "partId": "book-ii",
+      "partTitle": "Book II",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "book-iii",
+      "label": "Book III",
+      "partId": "book-iii",
+      "partTitle": "Book III",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
+}

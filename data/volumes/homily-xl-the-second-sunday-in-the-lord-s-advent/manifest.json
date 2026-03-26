@@ -1,0 +1,41 @@
+{
+  "authorDisplay": "Ælfric",
+  "authors": [
+    "Ælfric"
+  ],
+  "contents": [
+    {
+      "id": "homily-xl-the-second-sunday-in-the-lord-s-advent",
+      "title": "XL. The Second Sunday in the Lord's Advent",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "homily-xl-the-second-sunday-in-the-lord-s-advent",
+      "chunks": [
+        {
+          "slug": "homily-xl-the-second-sunday-in-the-lord-s-advent",
+          "label": "XL. The Second Sunday in the Lord's Advent",
+          "partId": "homily-xl-the-second-sunday-in-the-lord-s-advent",
+          "partTitle": "XL. The Second Sunday in the Lord's Advent",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "defaultChunkSlug": "homily-xl-the-second-sunday-in-the-lord-s-advent",
+  "genre": "prose",
+  "slug": "homily-xl-the-second-sunday-in-the-lord-s-advent",
+  "status": "ready",
+  "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
+  "title": "XL. The Second Sunday in the Lord's Advent",
+  "chunks": [
+    {
+      "slug": "homily-xl-the-second-sunday-in-the-lord-s-advent",
+      "label": "XL. The Second Sunday in the Lord's Advent",
+      "partId": "homily-xl-the-second-sunday-in-the-lord-s-advent",
+      "partTitle": "XL. The Second Sunday in the Lord's Advent",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
+}

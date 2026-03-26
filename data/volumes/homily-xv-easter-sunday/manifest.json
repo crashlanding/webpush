@@ -1,0 +1,41 @@
+{
+  "authorDisplay": "Ælfric",
+  "authors": [
+    "Ælfric"
+  ],
+  "contents": [
+    {
+      "id": "homily-xv-easter-sunday",
+      "title": "XV. Easter Sunday",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "homily-xv-easter-sunday",
+      "chunks": [
+        {
+          "slug": "homily-xv-easter-sunday",
+          "label": "XV. Easter Sunday",
+          "partId": "homily-xv-easter-sunday",
+          "partTitle": "XV. Easter Sunday",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "defaultChunkSlug": "homily-xv-easter-sunday",
+  "genre": "prose",
+  "slug": "homily-xv-easter-sunday",
+  "status": "ready",
+  "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
+  "title": "XV. Easter Sunday",
+  "chunks": [
+    {
+      "slug": "homily-xv-easter-sunday",
+      "label": "XV. Easter Sunday",
+      "partId": "homily-xv-easter-sunday",
+      "partTitle": "XV. Easter Sunday",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
+}

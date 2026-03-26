@@ -1,0 +1,41 @@
+{
+  "authorDisplay": "Ælfric",
+  "authors": [
+    "Ælfric"
+  ],
+  "contents": [
+    {
+      "id": "homily-xxxiv-dedication-of-the-church-of-st-michael-the-archangel",
+      "title": "XXXIV. Dedication of the Church of St. Michael the Archangel",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "homily-xxxiv-dedication-of-the-church-of-st-michael-the-archangel",
+      "chunks": [
+        {
+          "slug": "homily-xxxiv-dedication-of-the-church-of-st-michael-the-archangel",
+          "label": "XXXIV. Dedication of the Church of St. Michael the Archangel",
+          "partId": "homily-xxxiv-dedication-of-the-church-of-st-michael-the-archangel",
+          "partTitle": "XXXIV. Dedication of the Church of St. Michael the Archangel",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "defaultChunkSlug": "homily-xxxiv-dedication-of-the-church-of-st-michael-the-archangel",
+  "genre": "prose",
+  "slug": "homily-xxxiv-dedication-of-the-church-of-st-michael-the-archangel",
+  "status": "ready",
+  "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
+  "title": "XXXIV. Dedication of the Church of St. Michael the Archangel",
+  "chunks": [
+    {
+      "slug": "homily-xxxiv-dedication-of-the-church-of-st-michael-the-archangel",
+      "label": "XXXIV. Dedication of the Church of St. Michael the Archangel",
+      "partId": "homily-xxxiv-dedication-of-the-church-of-st-michael-the-archangel",
+      "partTitle": "XXXIV. Dedication of the Church of St. Michael the Archangel",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
+}

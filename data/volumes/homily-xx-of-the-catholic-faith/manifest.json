@@ -1,0 +1,41 @@
+{
+  "authorDisplay": "Ælfric",
+  "authors": [
+    "Ælfric"
+  ],
+  "contents": [
+    {
+      "id": "homily-xx-of-the-catholic-faith",
+      "title": "XX. Of the Catholic Faith",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "homily-xx-of-the-catholic-faith",
+      "chunks": [
+        {
+          "slug": "homily-xx-of-the-catholic-faith",
+          "label": "XX. Of the Catholic Faith",
+          "partId": "homily-xx-of-the-catholic-faith",
+          "partTitle": "XX. Of the Catholic Faith",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "defaultChunkSlug": "homily-xx-of-the-catholic-faith",
+  "genre": "prose",
+  "slug": "homily-xx-of-the-catholic-faith",
+  "status": "ready",
+  "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
+  "title": "XX. Of the Catholic Faith",
+  "chunks": [
+    {
+      "slug": "homily-xx-of-the-catholic-faith",
+      "label": "XX. Of the Catholic Faith",
+      "partId": "homily-xx-of-the-catholic-faith",
+      "partTitle": "XX. Of the Catholic Faith",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
+}

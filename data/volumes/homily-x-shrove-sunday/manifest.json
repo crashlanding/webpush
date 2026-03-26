@@ -1,0 +1,41 @@
+{
+  "authorDisplay": "Ælfric",
+  "authors": [
+    "Ælfric"
+  ],
+  "contents": [
+    {
+      "id": "homily-x-shrove-sunday",
+      "title": "X. Shrove Sunday",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "homily-x-shrove-sunday",
+      "chunks": [
+        {
+          "slug": "homily-x-shrove-sunday",
+          "label": "X. Shrove Sunday",
+          "partId": "homily-x-shrove-sunday",
+          "partTitle": "X. Shrove Sunday",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "defaultChunkSlug": "homily-x-shrove-sunday",
+  "genre": "prose",
+  "slug": "homily-x-shrove-sunday",
+  "status": "ready",
+  "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
+  "title": "X. Shrove Sunday",
+  "chunks": [
+    {
+      "slug": "homily-x-shrove-sunday",
+      "label": "X. Shrove Sunday",
+      "partId": "homily-x-shrove-sunday",
+      "partTitle": "X. Shrove Sunday",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
+}

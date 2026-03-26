@@ -1,0 +1,41 @@
+{
+  "authorDisplay": "Ælfric",
+  "authors": [
+    "Ælfric"
+  ],
+  "contents": [
+    {
+      "id": "homily-v-the-nativity-of-the-innocents",
+      "title": "V. The Nativity of the Innocents",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "homily-v-the-nativity-of-the-innocents",
+      "chunks": [
+        {
+          "slug": "homily-v-the-nativity-of-the-innocents",
+          "label": "V. The Nativity of the Innocents",
+          "partId": "homily-v-the-nativity-of-the-innocents",
+          "partTitle": "V. The Nativity of the Innocents",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "defaultChunkSlug": "homily-v-the-nativity-of-the-innocents",
+  "genre": "prose",
+  "slug": "homily-v-the-nativity-of-the-innocents",
+  "status": "ready",
+  "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
+  "title": "V. The Nativity of the Innocents",
+  "chunks": [
+    {
+      "slug": "homily-v-the-nativity-of-the-innocents",
+      "label": "V. The Nativity of the Innocents",
+      "partId": "homily-v-the-nativity-of-the-innocents",
+      "partTitle": "V. The Nativity of the Innocents",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
+}

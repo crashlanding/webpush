@@ -1,0 +1,41 @@
+{
+  "authorDisplay": "Ælfric",
+  "authors": [
+    "Ælfric"
+  ],
+  "contents": [
+    {
+      "id": "homily-xiii-the-annunciation-of-st-mary",
+      "title": "XIII. The Annunciation of St. Mary",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "homily-xiii-the-annunciation-of-st-mary",
+      "chunks": [
+        {
+          "slug": "homily-xiii-the-annunciation-of-st-mary",
+          "label": "XIII. The Annunciation of St. Mary",
+          "partId": "homily-xiii-the-annunciation-of-st-mary",
+          "partTitle": "XIII. The Annunciation of St. Mary",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "defaultChunkSlug": "homily-xiii-the-annunciation-of-st-mary",
+  "genre": "prose",
+  "slug": "homily-xiii-the-annunciation-of-st-mary",
+  "status": "ready",
+  "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
+  "title": "XIII. The Annunciation of St. Mary",
+  "chunks": [
+    {
+      "slug": "homily-xiii-the-annunciation-of-st-mary",
+      "label": "XIII. The Annunciation of St. Mary",
+      "partId": "homily-xiii-the-annunciation-of-st-mary",
+      "partTitle": "XIII. The Annunciation of St. Mary",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
+}

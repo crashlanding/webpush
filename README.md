@@ -1,2 +1,0 @@
-# webpush
-deploy test

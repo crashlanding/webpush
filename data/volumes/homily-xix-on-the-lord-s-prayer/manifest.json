@@ -1,0 +1,41 @@
+{
+  "authorDisplay": "Ælfric",
+  "authors": [
+    "Ælfric"
+  ],
+  "contents": [
+    {
+      "id": "homily-xix-on-the-lord-s-prayer",
+      "title": "XIX. On the Lord's Prayer",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "homily-xix-on-the-lord-s-prayer",
+      "chunks": [
+        {
+          "slug": "homily-xix-on-the-lord-s-prayer",
+          "label": "XIX. On the Lord's Prayer",
+          "partId": "homily-xix-on-the-lord-s-prayer",
+          "partTitle": "XIX. On the Lord's Prayer",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "defaultChunkSlug": "homily-xix-on-the-lord-s-prayer",
+  "genre": "prose",
+  "slug": "homily-xix-on-the-lord-s-prayer",
+  "status": "ready",
+  "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
+  "title": "XIX. On the Lord's Prayer",
+  "chunks": [
+    {
+      "slug": "homily-xix-on-the-lord-s-prayer",
+      "label": "XIX. On the Lord's Prayer",
+      "partId": "homily-xix-on-the-lord-s-prayer",
+      "partTitle": "XIX. On the Lord's Prayer",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
+}

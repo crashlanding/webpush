@@ -1,0 +1,41 @@
+{
+  "authorDisplay": "Ælfric",
+  "authors": [
+    "Ælfric"
+  ],
+  "contents": [
+    {
+      "id": "homily-xiv-for-palm-sunday",
+      "title": "XIV. For Palm Sunday",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "homily-xiv-for-palm-sunday",
+      "chunks": [
+        {
+          "slug": "homily-xiv-for-palm-sunday",
+          "label": "XIV. For Palm Sunday",
+          "partId": "homily-xiv-for-palm-sunday",
+          "partTitle": "XIV. For Palm Sunday",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "defaultChunkSlug": "homily-xiv-for-palm-sunday",
+  "genre": "prose",
+  "slug": "homily-xiv-for-palm-sunday",
+  "status": "ready",
+  "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
+  "title": "XIV. For Palm Sunday",
+  "chunks": [
+    {
+      "slug": "homily-xiv-for-palm-sunday",
+      "label": "XIV. For Palm Sunday",
+      "partId": "homily-xiv-for-palm-sunday",
+      "partTitle": "XIV. For Palm Sunday",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
+}

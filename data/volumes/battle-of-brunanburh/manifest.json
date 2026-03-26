@@ -1,0 +1,41 @@
+{
+  "authorDisplay": "Anonymous",
+  "authors": [
+    "Anonymous"
+  ],
+  "contents": [
+    {
+      "id": "battle-of-brunanburh",
+      "title": "Battle of Brunanburh",
+      "status": "ready",
+      "sectionCount": 15,
+      "chunkSlug": "battle-of-brunanburh",
+      "chunks": [
+        {
+          "slug": "battle-of-brunanburh",
+          "label": "Battle of Brunanburh",
+          "partId": "battle-of-brunanburh",
+          "partTitle": "Battle of Brunanburh",
+          "sectionCount": 15,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "defaultChunkSlug": "battle-of-brunanburh",
+  "genre": "verse",
+  "slug": "battle-of-brunanburh",
+  "status": "ready",
+  "summary": "Wikisource's Old English text paired with Alfred Tennyson's public-domain translation.",
+  "title": "Battle of Brunanburh",
+  "chunks": [
+    {
+      "slug": "battle-of-brunanburh",
+      "label": "Battle of Brunanburh",
+      "partId": "battle-of-brunanburh",
+      "partTitle": "Battle of Brunanburh",
+      "sectionCount": 15,
+      "status": "ready"
+    }
+  ]
+}

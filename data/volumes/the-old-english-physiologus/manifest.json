@@ -1,0 +1,91 @@
+{
+  "authorDisplay": "Cynewulf",
+  "authors": [
+    "Cynewulf"
+  ],
+  "contents": [
+    {
+      "id": "the-panther",
+      "title": "The Panther",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "the-panther",
+      "chunks": [
+        {
+          "slug": "the-panther",
+          "label": "The Panther",
+          "partId": "the-panther",
+          "partTitle": "The Panther",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "the-whale",
+      "title": "The Whale",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "the-whale",
+      "chunks": [
+        {
+          "slug": "the-whale",
+          "label": "The Whale",
+          "partId": "the-whale",
+          "partTitle": "The Whale",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "the-partridge",
+      "title": "The Partridge",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "the-partridge",
+      "chunks": [
+        {
+          "slug": "the-partridge",
+          "label": "The Partridge",
+          "partId": "the-partridge",
+          "partTitle": "The Partridge",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "defaultChunkSlug": "the-panther",
+  "genre": "verse",
+  "slug": "the-old-english-physiologus",
+  "status": "ready",
+  "summary": "The Panther, The Whale, and The Partridge from the Old English Physiologus with public-domain English companions.",
+  "title": "The Old English Physiologus",
+  "chunks": [
+    {
+      "slug": "the-panther",
+      "label": "The Panther",
+      "partId": "the-panther",
+      "partTitle": "The Panther",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "the-whale",
+      "label": "The Whale",
+      "partId": "the-whale",
+      "partTitle": "The Whale",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "the-partridge",
+      "label": "The Partridge",
+      "partId": "the-partridge",
+      "partTitle": "The Partridge",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
+}

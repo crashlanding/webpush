@@ -1,0 +1,41 @@
+{
+  "authorDisplay": "Ælfric",
+  "authors": [
+    "Ælfric"
+  ],
+  "contents": [
+    {
+      "id": "homily-vii-the-epiphany-of-the-lord",
+      "title": "VII. The Epiphany of the Lord",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "homily-vii-the-epiphany-of-the-lord",
+      "chunks": [
+        {
+          "slug": "homily-vii-the-epiphany-of-the-lord",
+          "label": "VII. The Epiphany of the Lord",
+          "partId": "homily-vii-the-epiphany-of-the-lord",
+          "partTitle": "VII. The Epiphany of the Lord",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "defaultChunkSlug": "homily-vii-the-epiphany-of-the-lord",
+  "genre": "prose",
+  "slug": "homily-vii-the-epiphany-of-the-lord",
+  "status": "ready",
+  "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
+  "title": "VII. The Epiphany of the Lord",
+  "chunks": [
+    {
+      "slug": "homily-vii-the-epiphany-of-the-lord",
+      "label": "VII. The Epiphany of the Lord",
+      "partId": "homily-vii-the-epiphany-of-the-lord",
+      "partTitle": "VII. The Epiphany of the Lord",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "authorDisplay": "Ælfric",
+  "authors": [
+    "Ælfric"
+  ],
+  "contents": [
+    {
+      "id": "homily-i-on-the-beginning-of-creation",
+      "title": "I. On the Beginning of Creation",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "homily-i-on-the-beginning-of-creation",
+      "chunks": [
+        {
+          "slug": "homily-i-on-the-beginning-of-creation",
+          "label": "I. On the Beginning of Creation",
+          "partId": "homily-i-on-the-beginning-of-creation",
+          "partTitle": "I. On the Beginning of Creation",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "defaultChunkSlug": "homily-i-on-the-beginning-of-creation",
+  "genre": "prose",
+  "slug": "homily-i-on-the-beginning-of-creation",
+  "status": "ready",
+  "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
+  "title": "I. On the Beginning of Creation",
+  "chunks": [
+    {
+      "slug": "homily-i-on-the-beginning-of-creation",
+      "label": "I. On the Beginning of Creation",
+      "partId": "homily-i-on-the-beginning-of-creation",
+      "partTitle": "I. On the Beginning of Creation",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
+}

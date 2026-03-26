@@ -1,0 +1,41 @@
+{
+  "authorDisplay": "Ælfric",
+  "authors": [
+    "Ælfric"
+  ],
+  "contents": [
+    {
+      "id": "homily-xii-midlent-sunday",
+      "title": "XII. Midlent Sunday",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "homily-xii-midlent-sunday",
+      "chunks": [
+        {
+          "slug": "homily-xii-midlent-sunday",
+          "label": "XII. Midlent Sunday",
+          "partId": "homily-xii-midlent-sunday",
+          "partTitle": "XII. Midlent Sunday",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "defaultChunkSlug": "homily-xii-midlent-sunday",
+  "genre": "prose",
+  "slug": "homily-xii-midlent-sunday",
+  "status": "ready",
+  "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
+  "title": "XII. Midlent Sunday",
+  "chunks": [
+    {
+      "slug": "homily-xii-midlent-sunday",
+      "label": "XII. Midlent Sunday",
+      "partId": "homily-xii-midlent-sunday",
+      "partTitle": "XII. Midlent Sunday",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
+}

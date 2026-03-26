@@ -1,0 +1,713 @@
+{
+  "authorDisplay": "Anonymous",
+  "authors": [
+    "Anonymous"
+  ],
+  "contents": [
+    {
+      "id": "beowulf",
+      "title": "Beowulf",
+      "status": "ready",
+      "sectionCount": 43,
+      "chunkSlug": "canto-i",
+      "chunks": [
+        {
+          "slug": "canto-i",
+          "label": "I. The Life And Death Of Scyld",
+          "partId": "canto-i",
+          "partTitle": "I. The Life And Death Of Scyld",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-ii",
+          "label": "II. Scyld'S Successors.--Hrothgar'S Great Mead-Hall",
+          "partId": "canto-ii",
+          "partTitle": "II. Scyld'S Successors.--Hrothgar'S Great Mead-Hall",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-iii",
+          "label": "III. Grendel The Murderer",
+          "partId": "canto-iii",
+          "partTitle": "III. Grendel The Murderer",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-iv",
+          "label": "IV. Beowulf Goes To Hrothgar'S Assistance",
+          "partId": "canto-iv",
+          "partTitle": "IV. Beowulf Goes To Hrothgar'S Assistance",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-v",
+          "label": "V. The Geats Reach Heorot",
+          "partId": "canto-v",
+          "partTitle": "V. The Geats Reach Heorot",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-vi",
+          "label": "VI. Beowulf Introduces Himself At The Palace",
+          "partId": "canto-vi",
+          "partTitle": "VI. Beowulf Introduces Himself At The Palace",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-vii",
+          "label": "VII. Hrothgar And Beowulf",
+          "partId": "canto-vii",
+          "partTitle": "VII. Hrothgar And Beowulf",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-viii",
+          "label": "VIII. Canto Viii",
+          "partId": "canto-viii",
+          "partTitle": "VIII. Canto Viii",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-ix",
+          "label": "IX. Unferth Taunts Beowulf",
+          "partId": "canto-ix",
+          "partTitle": "IX. Unferth Taunts Beowulf",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-x",
+          "label": "X. Beowulf Silences Unferth.--Glee Is High",
+          "partId": "canto-x",
+          "partTitle": "X. Beowulf Silences Unferth.--Glee Is High",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xi",
+          "label": "XI. All Sleep Save One",
+          "partId": "canto-xi",
+          "partTitle": "XI. All Sleep Save One",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xii",
+          "label": "XII. Grendel And Beowulf",
+          "partId": "canto-xii",
+          "partTitle": "XII. Grendel And Beowulf",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xiii",
+          "label": "XIII. Grendel Is Vanquished",
+          "partId": "canto-xiii",
+          "partTitle": "XIII. Grendel Is Vanquished",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xiv",
+          "label": "XIV. Rejoicing Of The Danes",
+          "partId": "canto-xiv",
+          "partTitle": "XIV. Rejoicing Of The Danes",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xv",
+          "label": "XV. Hrothgar'S Gratitude",
+          "partId": "canto-xv",
+          "partTitle": "XV. Hrothgar'S Gratitude",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xvi",
+          "label": "XVI. Hrothgar Lavishes Gifts Upon His Deliverer",
+          "partId": "canto-xvi",
+          "partTitle": "XVI. Hrothgar Lavishes Gifts Upon His Deliverer",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xvii",
+          "label": "XVII. Canto Xvii",
+          "partId": "canto-xvii",
+          "partTitle": "XVII. Canto Xvii",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xviii",
+          "label": "XVIII. Canto Xviii",
+          "partId": "canto-xviii",
+          "partTitle": "XVIII. Canto Xviii",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xix",
+          "label": "XIX. Beowulf Receives Further Honor",
+          "partId": "canto-xix",
+          "partTitle": "XIX. Beowulf Receives Further Honor",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xx",
+          "label": "XX. The Mother Of Grendel",
+          "partId": "canto-xx",
+          "partTitle": "XX. The Mother Of Grendel",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xxi",
+          "label": "XXI. Hrothgar'S Account Of The Monsters",
+          "partId": "canto-xxi",
+          "partTitle": "XXI. Hrothgar'S Account Of The Monsters",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xxii",
+          "label": "XXII. Beowulf Seeks Grendel'S Mother",
+          "partId": "canto-xxii",
+          "partTitle": "XXII. Beowulf Seeks Grendel'S Mother",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xxiii",
+          "label": "XXIII. Beowulf'S Fight With Grendel'S Mother",
+          "partId": "canto-xxiii",
+          "partTitle": "XXIII. Beowulf'S Fight With Grendel'S Mother",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xxiv",
+          "label": "XXIV. Beowulf Is Double-Conqueror",
+          "partId": "canto-xxiv",
+          "partTitle": "XXIV. Beowulf Is Double-Conqueror",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xxv",
+          "label": "XXV. Beowulf Brings His Trophies.--Hrothgar'S Gratitude",
+          "partId": "canto-xxv",
+          "partTitle": "XXV. Beowulf Brings His Trophies.--Hrothgar'S Gratitude",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xxvi",
+          "label": "XXVI. Hrothgar Moralizes.--Rest After Labor",
+          "partId": "canto-xxvi",
+          "partTitle": "XXVI. Hrothgar Moralizes.--Rest After Labor",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xxvii",
+          "label": "XXVII. Sorrow At Parting",
+          "partId": "canto-xxvii",
+          "partTitle": "XXVII. Sorrow At Parting",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xxviii",
+          "label": "XXVIII. The Homeward Journey.--The Two Queens",
+          "partId": "canto-xxviii",
+          "partTitle": "XXVIII. The Homeward Journey.--The Two Queens",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xxix",
+          "label": "XXIX. Beowulf And Higelac",
+          "partId": "canto-xxix",
+          "partTitle": "XXIX. Beowulf And Higelac",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xxx",
+          "label": "XXX. Beowulf Narrates His Adventures To Higelac",
+          "partId": "canto-xxx",
+          "partTitle": "XXX. Beowulf Narrates His Adventures To Higelac",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xxxi",
+          "label": "XXXI. Gift-Giving Is Mutual",
+          "partId": "canto-xxxi",
+          "partTitle": "XXXI. Gift-Giving Is Mutual",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xxxii",
+          "label": "XXXII. The Hoard And The Dragon",
+          "partId": "canto-xxxii",
+          "partTitle": "XXXII. The Hoard And The Dragon",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xxxiii",
+          "label": "XXXIII. Brave Though Aged.--Reminiscences",
+          "partId": "canto-xxxiii",
+          "partTitle": "XXXIII. Brave Though Aged.--Reminiscences",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xxxiv",
+          "label": "XXXIV. Beowulf Seeks The Dragon.--Beowulf'S Reminiscences",
+          "partId": "canto-xxxiv",
+          "partTitle": "XXXIV. Beowulf Seeks The Dragon.--Beowulf'S Reminiscences",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xxxv",
+          "label": "XXXV. Canto Xxxv",
+          "partId": "canto-xxxv",
+          "partTitle": "XXXV. Canto Xxxv",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xxxvi",
+          "label": "XXXVI. Wiglaf The Trusty.--Beowulf Is Deserted By Friends And By Sword",
+          "partId": "canto-xxxvi",
+          "partTitle": "XXXVI. Wiglaf The Trusty.--Beowulf Is Deserted By Friends And By Sword",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xxxvii",
+          "label": "XXXVII. The Fatal Struggle.--Beowulf'S Last Moments",
+          "partId": "canto-xxxvii",
+          "partTitle": "XXXVII. The Fatal Struggle.--Beowulf'S Last Moments",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xxxviii",
+          "label": "XXXVIII. Wiglaf Plunders The Dragon'S Den.--Beowulf'S Death",
+          "partId": "canto-xxxviii",
+          "partTitle": "XXXVIII. Wiglaf Plunders The Dragon'S Den.--Beowulf'S Death",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xxxix",
+          "label": "XXXIX. The Dead Foes.--Wiglaf'S Bitter Taunts",
+          "partId": "canto-xxxix",
+          "partTitle": "XXXIX. The Dead Foes.--Wiglaf'S Bitter Taunts",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xl",
+          "label": "XL. The Messenger Of Death",
+          "partId": "canto-xl",
+          "partTitle": "XL. The Messenger Of Death",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xli",
+          "label": "XLI. The Messenger'S Retrospect",
+          "partId": "canto-xli",
+          "partTitle": "XLI. The Messenger'S Retrospect",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xlii",
+          "label": "XLII. Wiglaf'S Sad Story.--The Hoard Carried Off",
+          "partId": "canto-xlii",
+          "partTitle": "XLII. Wiglaf'S Sad Story.--The Hoard Carried Off",
+          "sectionCount": 1,
+          "status": "ready"
+        },
+        {
+          "slug": "canto-xliii",
+          "label": "XLIII. The Burning Of Beowulf",
+          "partId": "canto-xliii",
+          "partTitle": "XLIII. The Burning Of Beowulf",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "defaultChunkSlug": "canto-i",
+  "genre": "verse",
+  "slug": "beowulf",
+  "status": "ready",
+  "summary": "Old English verse from Sacred Texts paired with J. Lesslie Hall's public-domain English translation.",
+  "title": "Beowulf",
+  "chunks": [
+    {
+      "slug": "canto-i",
+      "label": "I. The Life And Death Of Scyld",
+      "partId": "canto-i",
+      "partTitle": "I. The Life And Death Of Scyld",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-ii",
+      "label": "II. Scyld'S Successors.--Hrothgar'S Great Mead-Hall",
+      "partId": "canto-ii",
+      "partTitle": "II. Scyld'S Successors.--Hrothgar'S Great Mead-Hall",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-iii",
+      "label": "III. Grendel The Murderer",
+      "partId": "canto-iii",
+      "partTitle": "III. Grendel The Murderer",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-iv",
+      "label": "IV. Beowulf Goes To Hrothgar'S Assistance",
+      "partId": "canto-iv",
+      "partTitle": "IV. Beowulf Goes To Hrothgar'S Assistance",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-v",
+      "label": "V. The Geats Reach Heorot",
+      "partId": "canto-v",
+      "partTitle": "V. The Geats Reach Heorot",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-vi",
+      "label": "VI. Beowulf Introduces Himself At The Palace",
+      "partId": "canto-vi",
+      "partTitle": "VI. Beowulf Introduces Himself At The Palace",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-vii",
+      "label": "VII. Hrothgar And Beowulf",
+      "partId": "canto-vii",
+      "partTitle": "VII. Hrothgar And Beowulf",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-viii",
+      "label": "VIII. Canto Viii",
+      "partId": "canto-viii",
+      "partTitle": "VIII. Canto Viii",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-ix",
+      "label": "IX. Unferth Taunts Beowulf",
+      "partId": "canto-ix",
+      "partTitle": "IX. Unferth Taunts Beowulf",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-x",
+      "label": "X. Beowulf Silences Unferth.--Glee Is High",
+      "partId": "canto-x",
+      "partTitle": "X. Beowulf Silences Unferth.--Glee Is High",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xi",
+      "label": "XI. All Sleep Save One",
+      "partId": "canto-xi",
+      "partTitle": "XI. All Sleep Save One",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xii",
+      "label": "XII. Grendel And Beowulf",
+      "partId": "canto-xii",
+      "partTitle": "XII. Grendel And Beowulf",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xiii",
+      "label": "XIII. Grendel Is Vanquished",
+      "partId": "canto-xiii",
+      "partTitle": "XIII. Grendel Is Vanquished",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xiv",
+      "label": "XIV. Rejoicing Of The Danes",
+      "partId": "canto-xiv",
+      "partTitle": "XIV. Rejoicing Of The Danes",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xv",
+      "label": "XV. Hrothgar'S Gratitude",
+      "partId": "canto-xv",
+      "partTitle": "XV. Hrothgar'S Gratitude",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xvi",
+      "label": "XVI. Hrothgar Lavishes Gifts Upon His Deliverer",
+      "partId": "canto-xvi",
+      "partTitle": "XVI. Hrothgar Lavishes Gifts Upon His Deliverer",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xvii",
+      "label": "XVII. Canto Xvii",
+      "partId": "canto-xvii",
+      "partTitle": "XVII. Canto Xvii",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xviii",
+      "label": "XVIII. Canto Xviii",
+      "partId": "canto-xviii",
+      "partTitle": "XVIII. Canto Xviii",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xix",
+      "label": "XIX. Beowulf Receives Further Honor",
+      "partId": "canto-xix",
+      "partTitle": "XIX. Beowulf Receives Further Honor",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xx",
+      "label": "XX. The Mother Of Grendel",
+      "partId": "canto-xx",
+      "partTitle": "XX. The Mother Of Grendel",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xxi",
+      "label": "XXI. Hrothgar'S Account Of The Monsters",
+      "partId": "canto-xxi",
+      "partTitle": "XXI. Hrothgar'S Account Of The Monsters",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xxii",
+      "label": "XXII. Beowulf Seeks Grendel'S Mother",
+      "partId": "canto-xxii",
+      "partTitle": "XXII. Beowulf Seeks Grendel'S Mother",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xxiii",
+      "label": "XXIII. Beowulf'S Fight With Grendel'S Mother",
+      "partId": "canto-xxiii",
+      "partTitle": "XXIII. Beowulf'S Fight With Grendel'S Mother",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xxiv",
+      "label": "XXIV. Beowulf Is Double-Conqueror",
+      "partId": "canto-xxiv",
+      "partTitle": "XXIV. Beowulf Is Double-Conqueror",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xxv",
+      "label": "XXV. Beowulf Brings His Trophies.--Hrothgar'S Gratitude",
+      "partId": "canto-xxv",
+      "partTitle": "XXV. Beowulf Brings His Trophies.--Hrothgar'S Gratitude",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xxvi",
+      "label": "XXVI. Hrothgar Moralizes.--Rest After Labor",
+      "partId": "canto-xxvi",
+      "partTitle": "XXVI. Hrothgar Moralizes.--Rest After Labor",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xxvii",
+      "label": "XXVII. Sorrow At Parting",
+      "partId": "canto-xxvii",
+      "partTitle": "XXVII. Sorrow At Parting",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xxviii",
+      "label": "XXVIII. The Homeward Journey.--The Two Queens",
+      "partId": "canto-xxviii",
+      "partTitle": "XXVIII. The Homeward Journey.--The Two Queens",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xxix",
+      "label": "XXIX. Beowulf And Higelac",
+      "partId": "canto-xxix",
+      "partTitle": "XXIX. Beowulf And Higelac",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xxx",
+      "label": "XXX. Beowulf Narrates His Adventures To Higelac",
+      "partId": "canto-xxx",
+      "partTitle": "XXX. Beowulf Narrates His Adventures To Higelac",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xxxi",
+      "label": "XXXI. Gift-Giving Is Mutual",
+      "partId": "canto-xxxi",
+      "partTitle": "XXXI. Gift-Giving Is Mutual",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xxxii",
+      "label": "XXXII. The Hoard And The Dragon",
+      "partId": "canto-xxxii",
+      "partTitle": "XXXII. The Hoard And The Dragon",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xxxiii",
+      "label": "XXXIII. Brave Though Aged.--Reminiscences",
+      "partId": "canto-xxxiii",
+      "partTitle": "XXXIII. Brave Though Aged.--Reminiscences",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xxxiv",
+      "label": "XXXIV. Beowulf Seeks The Dragon.--Beowulf'S Reminiscences",
+      "partId": "canto-xxxiv",
+      "partTitle": "XXXIV. Beowulf Seeks The Dragon.--Beowulf'S Reminiscences",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xxxv",
+      "label": "XXXV. Canto Xxxv",
+      "partId": "canto-xxxv",
+      "partTitle": "XXXV. Canto Xxxv",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xxxvi",
+      "label": "XXXVI. Wiglaf The Trusty.--Beowulf Is Deserted By Friends And By Sword",
+      "partId": "canto-xxxvi",
+      "partTitle": "XXXVI. Wiglaf The Trusty.--Beowulf Is Deserted By Friends And By Sword",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xxxvii",
+      "label": "XXXVII. The Fatal Struggle.--Beowulf'S Last Moments",
+      "partId": "canto-xxxvii",
+      "partTitle": "XXXVII. The Fatal Struggle.--Beowulf'S Last Moments",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xxxviii",
+      "label": "XXXVIII. Wiglaf Plunders The Dragon'S Den.--Beowulf'S Death",
+      "partId": "canto-xxxviii",
+      "partTitle": "XXXVIII. Wiglaf Plunders The Dragon'S Den.--Beowulf'S Death",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xxxix",
+      "label": "XXXIX. The Dead Foes.--Wiglaf'S Bitter Taunts",
+      "partId": "canto-xxxix",
+      "partTitle": "XXXIX. The Dead Foes.--Wiglaf'S Bitter Taunts",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xl",
+      "label": "XL. The Messenger Of Death",
+      "partId": "canto-xl",
+      "partTitle": "XL. The Messenger Of Death",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xli",
+      "label": "XLI. The Messenger'S Retrospect",
+      "partId": "canto-xli",
+      "partTitle": "XLI. The Messenger'S Retrospect",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xlii",
+      "label": "XLII. Wiglaf'S Sad Story.--The Hoard Carried Off",
+      "partId": "canto-xlii",
+      "partTitle": "XLII. Wiglaf'S Sad Story.--The Hoard Carried Off",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "canto-xliii",
+      "label": "XLIII. The Burning Of Beowulf",
+      "partId": "canto-xliii",
+      "partTitle": "XLIII. The Burning Of Beowulf",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
+}

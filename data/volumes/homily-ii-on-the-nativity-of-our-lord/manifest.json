@@ -1,0 +1,41 @@
+{
+  "authorDisplay": "Ælfric",
+  "authors": [
+    "Ælfric"
+  ],
+  "contents": [
+    {
+      "id": "homily-ii-on-the-nativity-of-our-lord",
+      "title": "II. On the Nativity of our Lord",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "homily-ii-on-the-nativity-of-our-lord",
+      "chunks": [
+        {
+          "slug": "homily-ii-on-the-nativity-of-our-lord",
+          "label": "II. On the Nativity of our Lord",
+          "partId": "homily-ii-on-the-nativity-of-our-lord",
+          "partTitle": "II. On the Nativity of our Lord",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "defaultChunkSlug": "homily-ii-on-the-nativity-of-our-lord",
+  "genre": "prose",
+  "slug": "homily-ii-on-the-nativity-of-our-lord",
+  "status": "ready",
+  "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
+  "title": "II. On the Nativity of our Lord",
+  "chunks": [
+    {
+      "slug": "homily-ii-on-the-nativity-of-our-lord",
+      "label": "II. On the Nativity of our Lord",
+      "partId": "homily-ii-on-the-nativity-of-our-lord",
+      "partTitle": "II. On the Nativity of our Lord",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
+}

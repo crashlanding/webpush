@@ -1,0 +1,41 @@
+{
+  "authorDisplay": "Ælfric",
+  "authors": [
+    "Ælfric"
+  ],
+  "contents": [
+    {
+      "id": "homily-xxi-on-the-lord-s-ascension",
+      "title": "XXI. On the Lord's Ascension",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "homily-xxi-on-the-lord-s-ascension",
+      "chunks": [
+        {
+          "slug": "homily-xxi-on-the-lord-s-ascension",
+          "label": "XXI. On the Lord's Ascension",
+          "partId": "homily-xxi-on-the-lord-s-ascension",
+          "partTitle": "XXI. On the Lord's Ascension",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "defaultChunkSlug": "homily-xxi-on-the-lord-s-ascension",
+  "genre": "prose",
+  "slug": "homily-xxi-on-the-lord-s-ascension",
+  "status": "ready",
+  "summary": "Ælfric's homily from Wikisource with Benjamin Thorpe's public-domain English translation.",
+  "title": "XXI. On the Lord's Ascension",
+  "chunks": [
+    {
+      "slug": "homily-xxi-on-the-lord-s-ascension",
+      "label": "XXI. On the Lord's Ascension",
+      "partId": "homily-xxi-on-the-lord-s-ascension",
+      "partTitle": "XXI. On the Lord's Ascension",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ]
+}
