@@ -1,0 +1,52 @@
+{
+  "volumeSlug": "herodotus-the-persian-wars-volume-iv-tb4rwk",
+  "volumeTitle": "The Persian Wars, Volume IV",
+  "authorDisplay": "Herodotus",
+  "authors": [
+    "Herodotus"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "the-persian-wars-volume-iv-1em66s",
+  "label": "The Persian Wars, Volume IV",
+  "partId": "the-persian-wars-volume-iv-1em66s",
+  "partTitle": "The Persian Wars, Volume IV",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἱστορίαι",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Histories",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0016.tlg001.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "8.1.1",
+      "label": "Section 8.1.1",
+      "chapter": null,
+      "original": "οἱ δὲ Ἑλλήνων ἐς τὸν ναυτικὸν στρατὸν ταχθέντες ἦσαν οἵδε , Ἀθηναῖοι μὲν νέας παρεχόμενοι ἑκατὸν καὶ εἴκοσι καὶ ἑπτά · ὑπὸ δὲ ἀρετῆς τε καὶ προθυμίης Πλαταιέες ἄπειροι τῆς ναυτικῆς ἐόντες συνεπλήρουν τοῖσι Ἀθηναίοισι τὰς νέας . Κορίνθιοι δὲ τεσσεράκοντα νέας παρείχοντο , Μεγαρέες δὲ εἴκοσι .",
+      "translation": "The Greeks appointed to serve in the fleet were these : the Athenians furnished a hundred and twenty-seven ships ; the Plataeans manned these ships with the Athenians , not that they had any knowledge of seamanship , but because of mere valor and zeal . The Corinthians furnished forty ships and the Megarians twenty ;"
+    },
+    {
+      "id": "8.1.2",
+      "label": "Section 8.1.2",
+      "chapter": null,
+      "original": "καὶ Χαλκιδέες ἐπλήρουν εἴκοσι , Ἀθηναίων σφι παρεχόντων τὰς νέας , Αἰγινῆται δὲ ὀκτωκαίδεκα , Σικυώνιοι δὲ δυοκαίδεκα , Λακεδαιμόνιοι δὲ δέκα , Ἐπιδαύριοι δὲ ὀκτώ , Ἐρετριέες δὲ ἑπτά , Τροιζήνιοι δὲ πέντε , Στυρέες δὲ δύο , καὶ Κήιοι δύο τε νέας καὶ πεντηκοντέρους δύο · Λοκροὶ δέ σφι οἱ Ὀπούντιοι ἐπεβοήθεον πεντηκοντέρους ἔχοντες ἑπτά .",
+      "translation": "the Chalcidians manned twenty , the Athenians furnishing the ships ; the Aeginetans eighteen , the Sicyonians twelve , the Lacedaemonians ten , the Epidaurians eight , the Eretrians seven , the Troezenians five , the Styrians two , and the Ceans two , and two fifty-oared barks ; the Opuntian Locrians brought seven fifty-oared barks to their aid ."
+    },
+    {
+      "id": "9.1.1",
+      "label": "Section 9.1.1",
+      "chapter": null,
+      "original": "Μαρδόνιος δέ , ὥς οἱ ἀπονοστήσας Ἀλέξανδρος τὰ παρὰ Ἀθηναίων ἐσήμηνε , ὁρμηθεὶς ἐκ Θεσσαλίης ἦγε τὴν στρατιὴν σπουδῇ ἐπὶ τὰς Ἀθήνας . ὅκου δὲ ἑκάστοτε γίνοιτο , τούτους παρελάμβανε . τοῖσι δὲ Θεσσαλίης ἡγεομένοισι οὔτε τὰ πρὸ τοῦ πεπρηγμένα μετέμελε οὐδὲν πολλῷ τε μᾶλλον ἐπῆγον τὸν Πέρσην , καὶ συμπροέπεμψέ τε Θώρηξ ὁ Ληρισαῖος Ξέρξην φεύγοντα καὶ τότε ἐκ τοῦ φανεροῦ παρῆκε Μαρδόνιον ἐπὶ τὴν Ἑλλάδα .",
+      "translation": "When Alexander returned and told him what he had heard from the Athenians , Mardonius set forth from +Thessaly [22.25,39.5] (region), Greece, Europe\nThessaly and led his army with all zeal against Athens [23.7333,37.9667]\n(Perseus)Athens ; [*] he also took with him all the people to whose countries he came along the way . The rulers of +Thessaly [22.25,39.5]\n(region), Greece, Europe Thessaly did not repent of what they had already done and were readier than before to further his march . Thorax of Larissa , who had given Xerxes safe-conduct in his flight , now , without any attempt of concealment , opened a passage for Mardonius into Greece\n[22,39] (nation), EuropeHellas ."
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": null
+}

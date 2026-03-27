@@ -1,0 +1,61 @@
+{
+  "loebNumber": 187,
+  "sortOrder": 187,
+  "slug": "plato-laws-volume-i-186xvw",
+  "title": "Laws, Volume I",
+  "volumeLabel": "Laws, Volume I",
+  "authorDisplay": "Plato",
+  "authors": [
+    "Plato"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Laws, Volume I. Laws, Volume I currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "laws-volume-i-1yazzg",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "laws-volume-i-1yazzg",
+      "title": "Laws, Volume I",
+      "status": "ready",
+      "sectionCount": 60,
+      "chunkSlug": "laws-volume-i-1yazzg",
+      "chunks": [
+        {
+          "slug": "laws-volume-i-1yazzg",
+          "label": "Laws, Volume I",
+          "partId": "laws-volume-i-1yazzg",
+          "partTitle": "Laws, Volume I",
+          "sectionCount": 60,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "laws-volume-i-1yazzg",
+      "label": "Laws, Volume I",
+      "partId": "laws-volume-i-1yazzg",
+      "partTitle": "Laws, Volume I",
+      "sectionCount": 60,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "laws-volume-i-1yazzg",
+      "partTitle": "Laws, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Νόμοι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg034.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Laws",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg034.perseus-eng2/"
+      }
+    }
+  ]
+}

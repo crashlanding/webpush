@@ -1,0 +1,91 @@
+{
+  "loebNumber": 54,
+  "sortOrder": 54,
+  "slug": "lucian-volume-ii-ep2r6e",
+  "title": "Volume II",
+  "volumeLabel": "Volume II",
+  "authorDisplay": "Lucian",
+  "authors": [
+    "Lucian"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Volume II. Volume II opens a closest available slice of Pseudo-Lucian on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "halcyon-12ygix",
+  "readyChunkCount": 2,
+  "contents": [
+    {
+      "id": "volume-ii-1wz28q",
+      "title": "Volume II",
+      "status": "ready",
+      "sectionCount": 28,
+      "chunkSlug": "halcyon-12ygix",
+      "chunks": [
+        {
+          "slug": "halcyon-12ygix",
+          "label": "Halcyon",
+          "partId": "volume-ii-1wz28q",
+          "partTitle": "Volume II",
+          "sectionCount": 8,
+          "status": "ready"
+        },
+        {
+          "slug": "cynicus-1bzv26",
+          "label": "Cynicus",
+          "partId": "volume-ii-1wz28q",
+          "partTitle": "Volume II",
+          "sectionCount": 20,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "halcyon-12ygix",
+      "label": "Halcyon",
+      "partId": "volume-ii-1wz28q",
+      "partTitle": "Volume II",
+      "sectionCount": 8,
+      "status": "ready"
+    },
+    {
+      "slug": "cynicus-1bzv26",
+      "label": "Cynicus",
+      "partId": "volume-ii-1wz28q",
+      "partTitle": "Volume II",
+      "sectionCount": 20,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "halcyon-12ygix",
+      "partTitle": "Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀλκυών",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0061.tlg004.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Halcyon",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0061.tlg004.perseus-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "cynicus-1bzv26",
+      "partTitle": "Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Κυνικός",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0061.tlg006.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Cynic",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0061.tlg006.perseus-eng1/"
+      }
+    }
+  ]
+}

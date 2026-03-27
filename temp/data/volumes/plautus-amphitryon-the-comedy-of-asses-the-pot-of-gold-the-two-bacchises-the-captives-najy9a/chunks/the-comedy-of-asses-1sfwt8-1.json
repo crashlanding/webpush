@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-amphitryon-the-comedy-of-asses-the-pot-of-gold-the-two-bacchises-the-captives-najy9a",
+  "volumeTitle": "Amphitryon. The Comedy of Asses. The Pot of Gold. The Two Bacchises. The Captives",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-comedy-of-asses-1sfwt8-1",
+  "label": "The Comedy of Asses (Section prologue.pr.1 - Section 1.1.104b)",
+  "partId": "the-comedy-of-asses-1sfwt8",
+  "partTitle": "The Comedy of Asses",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Asinaria",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi002.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Asinaria, or The Ass-Dealer",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi002.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "prologue.pr.1",
+      "label": "Section prologue.pr.1",
+      "chapter": null,
+      "original": "Hoc agite sultis , spectatores , nunciam ,",
+      "translation": "Attend now , Spectators , if you please , forthwith to this , and may this matter turn out fortunately for me and for yourselves , and for this company , and for our employers [*] , and for our managers [*] . Now , crier , do you at once make all the people give attentive ear ."
+    },
+    {
+      "id": "prologue.pr.5",
+      "label": "Section prologue.pr.5",
+      "chapter": null,
+      "original": "age nunc reside , cave modo ne gratiis .",
+      "translation": "Come , be seated now , only be careful that ’ tis not for nought . Now I will tell you why I have come forward here , and what my intention is , that you may know the name of this play . For , so far as relates to the plot , it really is a short one . Now I will tell you what I said I was wishful to inform you upon ."
+    },
+    {
+      "id": "prologue.pr.10",
+      "label": "Section prologue.pr.10",
+      "chapter": null,
+      "original": "dicam : húic nomen graece Onagost fabulae ;",
+      "translation": "The name of this play in Greek is Onagos [*] — Demophilus [*] composed it — Marcus [*] Plautus turned it into Latin . He wishes it to be called Asinaria [*] if by your leaves it may be so . In this play there is both pleasantry and fun . ’ Tis a droll story ; kindly lend me your attention ;"
+    },
+    {
+      "id": "prologue.pr.15",
+      "label": "Section prologue.pr.15",
+      "chapter": null,
+      "original": "ut vos , ut alias , pariter nunc Mars adiuvet .",
+      "translation": "may Mars , too , as , full oft at other times he has done , so give you now his aid ."
+    },
+    {
+      "id": "1.1.16",
+      "label": "Section 1.1.16",
+      "chapter": null,
+      "original": "Sicut tuom vis unicum gnatum tuae",
+      "translation": "As you desire your own only son to survive your own existence , prosperous , and living on ; so by your lengthened years , and by that wife of yours of whom you stand in awe ,"
+    },
+    {
+      "id": "1.1.20",
+      "label": "Section 1.1.20",
+      "chapter": null,
+      "original": "si quid med erga hodie falsum dixeris ,",
+      "translation": "do I conjure you , that if this day you have said anything that ’ s false against myself , your wife may then survive your own existence , and that , she living , you , still alive , may come to utter destruction [*] ."
+    },
+    {
+      "id": "1.1.23",
+      "label": "Section 1.1.23",
+      "chapter": null,
+      "original": "Per Dium Fidium quaeris : iurato mihi",
+      "translation": "By the Gods above [*] as to what you seek to know , I see that I must , perforce , speak out , whatever you question me upon , being thus conjured ;"
+    },
+    {
+      "id": "1.1.25",
+      "label": "Section 1.1.25",
+      "chapter": null,
+      "original": "ita me obstinate , ut non audeam",
+      "translation": "so determinedly have you accosted me , that I really do not dare otherwise than to disclose everything to you making all these enquiries . Say then at once what it is that you desire so much to know ; as I myself shall know , so will I let you know ."
+    },
+    {
+      "id": "1.1.29",
+      "label": "Section 1.1.29",
+      "chapter": null,
+      "original": "Dic obsecro hercle serio quod te rogem ,",
+      "translation": "Troth now , prithee answer me seriously what I ask you ;"
+    },
+    {
+      "id": "1.1.30",
+      "label": "Section 1.1.30",
+      "chapter": null,
+      "original": "cave míhi mendaci quicquam .",
+      "translation": "take care that you tell me no falsehood ."
+    },
+    {
+      "id": "1.1.30b",
+      "label": "Section 1.1.30b",
+      "chapter": null,
+      "original": "Quin tu ergo rogas ?",
+      "translation": "Why , then , don ’ t you ask ?"
+    },
+    {
+      "id": "1.1.31",
+      "label": "Section 1.1.31",
+      "chapter": null,
+      "original": "Num me illuc ducis , ubi lapis lapidem terit ?",
+      "translation": "Will you , then , be sending me there , where stone grinds stone [*] ?"
+    },
+    {
+      "id": "1.1.32",
+      "label": "Section 1.1.32",
+      "chapter": null,
+      "original": "Quid istúc est ? aut ubi istúc est terrarum loci ?",
+      "translation": "What place is that ? Or where in the world is that place ?"
+    },
+    {
+      "id": "1.1.33",
+      "label": "Section 1.1.33",
+      "chapter": null,
+      "original": "Vbi flent nequam homines , qui polentam pinsitant .",
+      "translation": "Where worthless men are weeping , who breakfast upon pearled barley [*] ."
+    },
+    {
+      "id": "1.1.34",
+      "label": "Section 1.1.34",
+      "chapter": null,
+      "original": "apud fústitudinas , ferricrepinas insulas ,",
+      "translation": "Why , in the islands of club-land and rattle- chains [*] ,"
+    },
+    {
+      "id": "1.1.35",
+      "label": "Section 1.1.35",
+      "chapter": null,
+      "original": "ubi vivos homines mortui incursant boves .",
+      "translation": "where dead oxen attack living men ."
+    },
+    {
+      "id": "1.1.36",
+      "label": "Section 1.1.36",
+      "chapter": null,
+      "original": "Modo pol percepi , Libane , quid istuc sit loci :",
+      "translation": "I ’ faith , I now understand , Libanus , what place it is ; that perhaps you mean , where the pearled barley is prepared ."
+    },
+    {
+      "id": "1.1.37b",
+      "label": "Section 1.1.37b",
+      "chapter": null,
+      "original": "Ah ,",
+      "translation": "O dear : I ’ m not speaking of that , i ’ faith , nor do I wish to speak of it . Troth now , prithee , do spit out [*] the words that you have spoken ."
+    },
+    {
+      "id": "1.1.40",
+      "label": "Section 1.1.40",
+      "chapter": null,
+      "original": "Fiat , geratur mos tibi .",
+      "translation": "Be it so ; you shall be indulged ."
+    },
+    {
+      "id": "1.1.40b",
+      "label": "Section 1.1.40b",
+      "chapter": null,
+      "original": "Age , age usque excrea .",
+      "translation": "Come , come — hawk away ."
+    },
+    {
+      "id": "1.1.41",
+      "label": "Section 1.1.41",
+      "chapter": null,
+      "original": "Etiamne ?",
+      "translation": "What , still more ?"
+    },
+    {
+      "id": "1.1.41b",
+      "label": "Section 1.1.41b",
+      "chapter": null,
+      "original": "Age quaeso hercle usque ex penitis faucibus .",
+      "translation": "Troth now ; prithee , do go on — still more ."
+    },
+    {
+      "id": "1.1.42",
+      "label": "Section 1.1.42",
+      "chapter": null,
+      "original": "etiam amplius .",
+      "translation": "Even more still ."
+    },
+    {
+      "id": "1.1.42b",
+      "label": "Section 1.1.42b",
+      "chapter": null,
+      "original": "Nam quo usque ?",
+      "translation": "Why , how long ?"
+    },
+    {
+      "id": "1.1.42c",
+      "label": "Section 1.1.42c",
+      "chapter": null,
+      "original": "Vsque ad mortem volo .",
+      "translation": "I want you , even to the death —"
+    },
+    {
+      "id": "1.1.43",
+      "label": "Section 1.1.43",
+      "chapter": null,
+      "original": "Cave sís malam rem .",
+      "translation": "Take you care of a woful mishap , if you please ."
+    },
+    {
+      "id": "1.1.43b",
+      "label": "Section 1.1.43b",
+      "chapter": null,
+      "original": "Vxoris dico , non tuam .",
+      "translation": "Of your wife , I mean , not of yourself ."
+    },
+    {
+      "id": "1.1.44_45",
+      "label": "Section 1.1.44_45",
+      "chapter": null,
+      "original": "Dono te ob istuc dictum , ut expers sis metu .",
+      "translation": "For that speech , I give you leave to be free from apprehension ."
+    },
+    {
+      "id": "1.1.46",
+      "label": "Section 1.1.46",
+      "chapter": null,
+      "original": "Di tibi dent quaecumque optes .",
+      "translation": "May the Gods grant you whatever you desire ."
+    },
+    {
+      "id": "1.1.46b",
+      "label": "Section 1.1.46b",
+      "chapter": null,
+      "original": "Redde operam mihi .",
+      "translation": "In return , give me your attention . Why should I ask this of you ? Or why should I threaten you , because you have not made me acquainted with it ? Or why , in fine , should I censure my son"
+    },
+    {
+      "id": "1.1.50",
+      "label": "Section 1.1.50",
+      "chapter": null,
+      "original": "patres ut faciunt ceteri ?",
+      "translation": "as other fathers do ?"
+    },
+    {
+      "id": "1.1.50b",
+      "label": "Section 1.1.50b",
+      "chapter": null,
+      "original": "Quid istúc novi est ?",
+      "translation": "What new affair is this ? ( Aside .) I wonder much what it is , and I ’ m in dread what the upshot of it may be ."
+    },
+    {
+      "id": "1.1.52",
+      "label": "Section 1.1.52",
+      "chapter": null,
+      "original": "Equidem scio iam , filius quod amet meus",
+      "translation": "In fact , I ’ m now aware that my son ’ s in love with that Courtesan Philenium , that lives close by . Is not this as I say , Libanus ?"
+    },
+    {
+      "id": "1.1.54b",
+      "label": "Section 1.1.54b",
+      "chapter": null,
+      "original": "Rectam instas viam .",
+      "translation": "You are upon the right track ; such is the fact . But a dreadful malady has overtaken him ."
+    },
+    {
+      "id": "1.1.56",
+      "label": "Section 1.1.56",
+      "chapter": null,
+      "original": "Quid morbi est ?",
+      "translation": "What is the malady ?"
+    },
+    {
+      "id": "1.1.56b",
+      "label": "Section 1.1.56b",
+      "chapter": null,
+      "original": "Quia non suppetunt dictis data .",
+      "translation": "Why , that his presents don ’ t equal his promises ."
+    },
+    {
+      "id": "1.1.57",
+      "label": "Section 1.1.57",
+      "chapter": null,
+      "original": "Tune es adiutor nunc amanti filio ?",
+      "translation": "Are you , then , one who assists my son in his amours ?"
+    },
+    {
+      "id": "1.1.58",
+      "label": "Section 1.1.58",
+      "chapter": null,
+      "original": "Sum vero , et alter noster est Leonida .",
+      "translation": "I really am , and our Leonida is another ."
+    },
+    {
+      "id": "1.1.59",
+      "label": "Section 1.1.59",
+      "chapter": null,
+      "original": "Bene hercle facitis ét a me initis gratiam .",
+      "translation": "I ’ faith , you do kindly , and you gain thanks from me . But this wife of mine , Libanus , don ’ t you know what sort of a person she is ?"
+    },
+    {
+      "id": "1.1.61",
+      "label": "Section 1.1.61",
+      "chapter": null,
+      "original": "Tu primus sentis , nos tamen in pretio sumus .",
+      "translation": "You are the first to experience it , but we give a guess beforehand ."
+    },
+    {
+      "id": "1.1.62",
+      "label": "Section 1.1.62",
+      "chapter": null,
+      "original": "Fateór eam esse importunam atque incommodam .",
+      "translation": "I confess that she is troublesome and not to be pleased ."
+    },
+    {
+      "id": "1.1.63",
+      "label": "Section 1.1.63",
+      "chapter": null,
+      "original": "Posterius istuc dicis quam credo tibi .",
+      "translation": "You say that later than I believed you in it ."
+    },
+    {
+      "id": "1.1.64",
+      "label": "Section 1.1.64",
+      "chapter": null,
+      "original": "Omnes parentes , Libane , liberis suis ,",
+      "translation": "All parents , Libanus , who listen to me , will show indulgence to their children ,"
+    },
+    {
+      "id": "1.1.66",
+      "label": "Section 1.1.66",
+      "chapter": null,
+      "original": "quippe quí mage amico utantur gnato et benevolo .",
+      "translation": "inasmuch as they will find their sons more kindly disposed and more affectionate ; and that do I desire to do myself . I wish to be loved by mine ; I wish myself to be like my father , who , for my sake , himself in the disguise of a ship-master , carried off from a procurer a female with whom I was in love ;"
+    },
+    {
+      "id": "1.1.71",
+      "label": "Section 1.1.71",
+      "chapter": null,
+      "original": "neque puduit eum id aetatis sycophantias",
+      "translation": "nor was he ashamed , at that time of life , to devise stratagems , and to purchase with good turns me , his son , for himself . These ways of my father have I resolved to imitate . For to-day my son Argyrippus has entreated me"
+    },
+    {
+      "id": "1.1.75",
+      "label": "Section 1.1.75",
+      "chapter": null,
+      "original": "uti sibi amanti facerem argenti copiam ;",
+      "translation": "to give him a supply of money for his amours ; and I very much wish in that to oblige my son . I wish to forward his amours ; I wish him to be fond of myself , his father . Although his mother keeps him strictly , and with a tight rein , as fathers have been in the habit of doing , all that I dismiss ."
+    },
+    {
+      "id": "1.1.80",
+      "label": "Section 1.1.80",
+      "chapter": null,
+      "original": "praesertim quom is me dignum quoi concrederet",
+      "translation": "Especially as he has deemed me deserving , for him to entrust it to ire , I ought to pay all due regard to his feelings . Inasmuch as he has applied to me , as it is right that a respectful son should do , I wish him to have some money for him to give to his mistress ⋯"
+    },
+    {
+      "id": "1.1.84",
+      "label": "Section 1.1.84",
+      "chapter": null,
+      "original": "Cupis id quod cupere te nequiquam intellego .",
+      "translation": "You are desiring that which I find you are do siring to no purpose ."
+    },
+    {
+      "id": "1.1.85",
+      "label": "Section 1.1.85",
+      "chapter": null,
+      "original": "dotalem servom Sauream uxor tua",
+      "translation": "Your wife brought her servant Saurea with her on her marriage [*] , who has more in his control than you have ."
+    },
+    {
+      "id": "1.1.87",
+      "label": "Section 1.1.87",
+      "chapter": null,
+      "original": "Argentum accepi , dote imperium vendidi .",
+      "translation": "I received money with her , and for the portion I sold my authority . Now I ’ ll compress into a few words what I want of you ; my son is now in need of twenty silver minae :"
+    },
+    {
+      "id": "1.1.90",
+      "label": "Section 1.1.90",
+      "chapter": null,
+      "original": "face id ut paratum iam sit .",
+      "translation": "do you manage that it may be forthwith found for him ."
+    },
+    {
+      "id": "1.1.90b",
+      "label": "Section 1.1.90b",
+      "chapter": null,
+      "original": "Vnde gentium ?",
+      "translation": "From what place in the world ?"
+    },
+    {
+      "id": "1.1.91",
+      "label": "Section 1.1.91",
+      "chapter": null,
+      "original": "Me defraudato .",
+      "translation": "Cheat me of them ."
+    },
+    {
+      "id": "1.1.91b",
+      "label": "Section 1.1.91b",
+      "chapter": null,
+      "original": "Maxumas nugas agis :",
+      "translation": "You are talking downright nonsense . You are bidding me take the clothes from off a naked man . I , cheat you ?— come now , fly you without wings , please . What , am I to cheat you who have nothing in your power for your own self ?"
+    },
+    {
+      "id": "1.1.95",
+      "label": "Section 1.1.95",
+      "chapter": null,
+      "original": "nisi quid tu porro uxorem defraudaveris ?",
+      "translation": "Unless you have first cheated your wife out of something ."
+    },
+    {
+      "id": "1.1.96",
+      "label": "Section 1.1.96",
+      "chapter": null,
+      "original": "Qua me , qua uxorem , qua tu servom Sauream",
+      "translation": "Impose upon or rob myself in any way you can , my wife in any way , my servant Saurea in any way . I promise you that it shall not prove to your detriment , if you effect it to-day ."
+    },
+    {
+      "id": "1.1.99",
+      "label": "Section 1.1.99",
+      "chapter": null,
+      "original": "Iubeas una opera me piscari in aere ,",
+      "translation": "On the same principle you might bid me to fish in the air ,"
+    },
+    {
+      "id": "1.1.100",
+      "label": "Section 1.1.100",
+      "chapter": null,
+      "original": "venari autem rete iaculo in medio mari .†",
+      "translation": "and to hunt with a javelin in the midst of the sea ."
+    },
+    {
+      "id": "1.1.101",
+      "label": "Section 1.1.101",
+      "chapter": null,
+      "original": "Tibi optionem sumito Leonidam ,",
+      "translation": "Take Leonida as your coadjutor [*] ; devise some plan or other , think of some expedient : bring it about that my son this day gets some money to give his mistress ."
+    },
+    {
+      "id": "1.1.104b",
+      "label": "Section 1.1.104b",
+      "chapter": null,
+      "original": "Quid ais tu , Demaenete ?",
+      "translation": "What say you , Demaenetus ⋯"
+    }
+  ],
+  "prevChunkSlug": "amphitryon-1m5n87-13",
+  "nextChunkSlug": "the-comedy-of-asses-1sfwt8-2"
+}

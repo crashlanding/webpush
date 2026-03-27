@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-braggart-soldier-kcqgdf-5",
+  "label": "The Braggart Soldier (Section 2.4.363c - Section 2.5.428b)",
+  "partId": "the-braggart-soldier-kcqgdf",
+  "partTitle": "The Braggart Soldier",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Miles Gloriosus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Miles Gloriosus, or The Braggart Captain",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "2.4.363c",
+      "label": "Section 2.4.363c",
+      "chapter": null,
+      "original": "Perire propera .",
+      "translation": "Die this very instant ."
+    },
+    {
+      "id": "2.4.364",
+      "label": "Section 2.4.364",
+      "chapter": null,
+      "original": "Vbi iste ést bonus sérvos , qui probri me maxumi innocentem",
+      "translation": "Where is this faithful servant , who has falsely accused me in my innocence"
+    },
+    {
+      "id": "2.4.365",
+      "label": "Section 2.4.365",
+      "chapter": null,
+      "original": "falso insimulavit ?",
+      "translation": "of this most heinous crime ?"
+    },
+    {
+      "id": "2.4.365b",
+      "label": "Section 2.4.365b",
+      "chapter": null,
+      "original": "Em tibi , hic mihi dixit tibi quae dixi .",
+      "translation": "See , here he is ; ’ tis he that told it me ,— assuredly ’ twas he ."
+    },
+    {
+      "id": "2.4.366",
+      "label": "Section 2.4.366",
+      "chapter": null,
+      "original": "Tun me vidisse in proxumo hic , sceleste , ais osculantem ?",
+      "translation": "Villain , did you say that you had seen me next door here kissing ?"
+    },
+    {
+      "id": "2.4.367",
+      "label": "Section 2.4.367",
+      "chapter": null,
+      "original": "Atque cum álieno adulescentulo dixit .",
+      "translation": "Besides , he said it was with some strange young man ."
+    },
+    {
+      "id": "2.4.367b",
+      "label": "Section 2.4.367b",
+      "chapter": null,
+      "original": "Dixi hercle vero .",
+      "translation": "I ’ faith , I did . say so , undoubtedly ."
+    },
+    {
+      "id": "2.4.368",
+      "label": "Section 2.4.368",
+      "chapter": null,
+      "original": "Tun me vidisti ?",
+      "translation": "You , saw me ?"
+    },
+    {
+      "id": "2.4.368b",
+      "label": "Section 2.4.368b",
+      "chapter": null,
+      "original": "Atque his quidem hercle oculis .",
+      "translation": "Yes , with these self-same eyes ."
+    },
+    {
+      "id": "2.4.368c",
+      "label": "Section 2.4.368c",
+      "chapter": null,
+      "original": "Carebis , credo ,",
+      "translation": "I fancy you will lose those eyes , which see more than what they really do see ."
+    },
+    {
+      "id": "2.4.369b",
+      "label": "Section 2.4.369b",
+      "chapter": null,
+      "original": "Numquam hercle deterrebor",
+      "translation": "By my faith , I shall never be intimidated"
+    },
+    {
+      "id": "2.4.370",
+      "label": "Section 2.4.370",
+      "chapter": null,
+      "original": "quin viderim id quod viderim .",
+      "translation": "from having seen what I really did see ."
+    },
+    {
+      "id": "2.4.370b",
+      "label": "Section 2.4.370b",
+      "chapter": null,
+      "original": "Ego stulta et mora multum ,",
+      "translation": "In my foolishness I am delaying too long in parleying with this madman , whom , by the powers , I ’ ll punish with death ."
+    },
+    {
+      "id": "2.4.372",
+      "label": "Section 2.4.372",
+      "chapter": null,
+      "original": "Noli minitari : scio crucem futuram mihi sepulcrum ;",
+      "translation": "Forbear to threaten me : I know that the cross will prove my tomb ; there are laid my forefathers , my father , grandfather , great-grandfather , great-great-grandfather . ’ Tis not in possibility , however , for these eyes of mine to be dug out [*] by your threats ."
+    },
+    {
+      "id": "2.4.375",
+      "label": "Section 2.4.375",
+      "chapter": null,
+      "original": "sed paucis verbis te volo , Palaestrio . opsecro te ,",
+      "translation": "But I want a few words with you ; prithee , Palaestrio , whence came she hither ?"
+    },
+    {
+      "id": "2.4.376b",
+      "label": "Section 2.4.376b",
+      "chapter": null,
+      "original": "Vnde nísi domo ?",
+      "translation": "Whence but from our house ?"
+    },
+    {
+      "id": "2.4.376c",
+      "label": "Section 2.4.376c",
+      "chapter": null,
+      "original": "Domo ?",
+      "translation": "From our house ?"
+    },
+    {
+      "id": "2.4.376d",
+      "label": "Section 2.4.376d",
+      "chapter": null,
+      "original": "Mé viden ?",
+      "translation": "Do you credit me [*] ?"
+    },
+    {
+      "id": "2.4.376e",
+      "label": "Section 2.4.376e",
+      "chapter": null,
+      "original": "Te video .",
+      "translation": "I do credit you : but ’ tis a thing to be wondered at , how she has been able to return from that house to ours . For , beyond a doubt , we have neither a terrace to our house , nor any garden , nor any window but what is latticed [*] . ( To PHILOCOMASIUM .) But , undoubtedly , I did see you in the house next door ."
+    },
+    {
+      "id": "2.4.380",
+      "label": "Section 2.4.380",
+      "chapter": null,
+      "original": "Pergin , sceleste , intendere hanc arguere ?",
+      "translation": "Do you persist , you rascal , in pretending to accuse her ?"
+    },
+    {
+      "id": "2.4.380b",
+      "label": "Section 2.4.380b",
+      "chapter": null,
+      "original": "Ecastor ergo",
+      "translation": "In good sooth , then , the dream has not turned out untrue , that I dreamed last night ."
+    },
+    {
+      "id": "2.4.382",
+      "label": "Section 2.4.382",
+      "chapter": null,
+      "original": "Quid somniasti ?",
+      "translation": "What did you dream ?"
+    },
+    {
+      "id": "2.4.382b",
+      "label": "Section 2.4.382b",
+      "chapter": null,
+      "original": "Ego eloquar . sed amabo advortite animum .",
+      "translation": "I ’ ll tell you ; but , I pray you , give attention . Last night , in my sleep , my twin-sister seemed to have come from Athens to Ephesus with a certain person , her lover ."
+    },
+    {
+      "id": "2.4.385",
+      "label": "Section 2.4.385",
+      "chapter": null,
+      "original": "ei ambo hóspitio huc in proxumum mihi devortisse visi .",
+      "translation": "Both of them seemed to me to be having their lodgings here next door ."
+    },
+    {
+      "id": "2.4.386",
+      "label": "Section 2.4.386",
+      "chapter": null,
+      "original": "Palaestrionis somnium narratur . perge porro .",
+      "translation": "The dream that ’ s being related is Palaestrio ’ s — pray , go on ."
+    },
+    {
+      "id": "2.4.387",
+      "label": "Section 2.4.387",
+      "chapter": null,
+      "original": "Ego laeta visa , quia soror venisset , propter eandem",
+      "translation": "I seemed to be delighted because my sister had come , and on her account I seemed to be incurring a most grievous suspicion . For , in my sleep , my own servant seemed to accuse me , as you are now doing ,"
+    },
+    {
+      "id": "2.4.390",
+      "label": "Section 2.4.390",
+      "chapter": null,
+      "original": "me cum alieno adulescentulo , quasi nunc tu , esse osculatam ,",
+      "translation": "of being caressed by a strange young man , whereas it was that own twin-sister of mine , who had been toying with her own friend . Thus did I dream that I was wrongfully accused of a crime ."
+    },
+    {
+      "id": "2.4.393",
+      "label": "Section 2.4.393",
+      "chapter": null,
+      "original": "Satin eadem vigilanti expetunt quae in somnis visa memoras ?",
+      "translation": "And isn ’ t just the same thing befalling you when awake , that you speak of as seen in your sleep ? Capital ; i ’ faith , the dream is verified : go in-doors , and pray [*] ."
+    },
+    {
+      "id": "2.4.395",
+      "label": "Section 2.4.395",
+      "chapter": null,
+      "original": "narrandum ego istuc militi censebo .",
+      "translation": "I should recommend that this be told to the Captain ."
+    },
+    {
+      "id": "2.4.395b",
+      "label": "Section 2.4.395b",
+      "chapter": null,
+      "original": "Facere certum est ,",
+      "translation": "I am resolved to do so ; nor , in fact , will I allow myself , with impunity , to be accused of disgraceful conduct . ( Goes into the CAPTAIN ’ S house .)"
+    },
+    {
+      "id": "2.4.397",
+      "label": "Section 2.4.397",
+      "chapter": null,
+      "original": "Timeo quid rerum gesserim , ita dorsus totus prurit .",
+      "translation": "I fear for the thing I have done ; my back does so tingle all over ."
+    },
+    {
+      "id": "2.4.398",
+      "label": "Section 2.4.398",
+      "chapter": null,
+      "original": "Scin te periisse ?",
+      "translation": "Are you not aware that you are done for ?"
+    },
+    {
+      "id": "2.4.398b",
+      "label": "Section 2.4.398b",
+      "chapter": null,
+      "original": "Nunc quidem domi certo est . certa res est",
+      "translation": "Now , indeed , I ’ m sure she is at home ; I am now resolved to watch our door , wheresoever she may be . ( Places himself at the door .)"
+    },
+    {
+      "id": "2.4.399b",
+      "label": "Section 2.4.399b",
+      "chapter": null,
+      "original": "At , Sceledre , quaeso ,",
+      "translation": "But , prithee , Sceledrus ,"
+    },
+    {
+      "id": "2.4.400",
+      "label": "Section 2.4.400",
+      "chapter": null,
+      "original": "ut ad id exemplum somnium quam simile somniavit",
+      "translation": "how very like the dream she dreamt to what has happened ; and how you really did believe that you had seen her kissing . ⋯"
+    },
+    {
+      "id": "2.4.402",
+      "label": "Section 2.4.402",
+      "chapter": null,
+      "original": "Nescio quid credam egomet mihi iam , ita quod vidisse credo",
+      "translation": "And do you suppose that I didn ’ t see her ?"
+    },
+    {
+      "id": "2.4.403b",
+      "label": "Section 2.4.403b",
+      "chapter": null,
+      "original": "Ne tu hercle sero , opinor ,",
+      "translation": "I ’ faith , I verily believe you ’ ll come to your senses when ’ tis too late . If this matter should only reach our master , you certainly are undone ."
+    },
+    {
+      "id": "2.4.405",
+      "label": "Section 2.4.405",
+      "chapter": null,
+      "original": "Nunc demum experior , mi ob oculos caliginem opstitisse .",
+      "translation": "Now , at length , I find out that there was a mist placed before my eyes ."
+    },
+    {
+      "id": "2.4.406",
+      "label": "Section 2.4.406",
+      "chapter": null,
+      "original": "Dudum edepol planum est id quidem , quae hic usque fuerit intus .",
+      "translation": "I ’ faith , that really has been plain for some time now ; as she was here in-doors all the while ."
+    },
+    {
+      "id": "2.4.407",
+      "label": "Section 2.4.407",
+      "chapter": null,
+      "original": "Nihil habeo certi quid loquar : non vidi eam , etsi vidi .",
+      "translation": "Not a word of certainty have I to utter ; I did not see her , although I did see her ."
+    },
+    {
+      "id": "2.4.408",
+      "label": "Section 2.4.408",
+      "chapter": null,
+      "original": "Ne tu edepol stultitia tua nos paene perdidisti :",
+      "translation": "By my troth , through this folly of yours you certainly have nearly ruined us ; while you have wished to prove yourself faithful to your master , you have been almost undone ."
+    },
+    {
+      "id": "2.4.410",
+      "label": "Section 2.4.410",
+      "chapter": null,
+      "original": "sed fores vicini proxumi crepuerunt . conticiscam .",
+      "translation": "But the door of our next neighbour makes a noise ; I ’ ll be silent ."
+    },
+    {
+      "id": "2.5.411",
+      "label": "Section 2.5.411",
+      "chapter": null,
+      "original": "Inde ignem in aram , ut Ephesiae Dianae laeta laudes",
+      "translation": "Put fire on the altar , that in my joy I may return praises and thanks to Diana of Ephesus , and that I may send up for her a grateful smoke with odours of Arabia : she who has preserved me in the realms of Neptune and amid the boisterous temples [*] , where with raging billows I have been so recently dismayed ."
+    },
+    {
+      "id": "2.5.415",
+      "label": "Section 2.5.415",
+      "chapter": null,
+      "original": "Palaestrio , o Palaestrio .",
+      "translation": "Palaestrio ! O Palaestrio !"
+    },
+    {
+      "id": "2.5.415b",
+      "label": "Section 2.5.415b",
+      "chapter": null,
+      "original": "O Sceledre , Sceledre , quid vis ?",
+      "translation": "Sceledrus ! O Sceledrus ! What is it you want ?"
+    },
+    {
+      "id": "2.5.416",
+      "label": "Section 2.5.416",
+      "chapter": null,
+      "original": "Haec mulier , quae hinc exit modo , estne erilis concubina",
+      "translation": "This lady that has come out of that house just now — is she Philocomasium , our master ’ s lady , or is she not ?"
+    },
+    {
+      "id": "2.5.417b",
+      "label": "Section 2.5.417b",
+      "chapter": null,
+      "original": "Hercle opinor , ea videtur .",
+      "translation": "I ’ faith , I think , it seems to be she . But ’ tis a wondrous thing how she could pass from our house to next door ; if , indeed , it is she ."
+    },
+    {
+      "id": "2.5.419b",
+      "label": "Section 2.5.419b",
+      "chapter": null,
+      "original": "An dubium tibi est eam esse hanc ?",
+      "translation": "And have you any doubt that this is she ?"
+    },
+    {
+      "id": "2.5.419c",
+      "label": "Section 2.5.419c",
+      "chapter": null,
+      "original": "Ea videtur .",
+      "translation": "It seems to be she ."
+    },
+    {
+      "id": "2.5.420",
+      "label": "Section 2.5.420",
+      "chapter": null,
+      "original": "Adeamus , appellemus . heus , quid istúc est , Philocomasium ?",
+      "translation": "Let us approach her , and accost her . Hallo ! how ’ s this , Philocomasium ? What is there owing to you in that house ? What is your business there ? Why are you silent now ? I am speaking to you ."
+    },
+    {
+      "id": "2.5.422b",
+      "label": "Section 2.5.422b",
+      "chapter": null,
+      "original": "Immo edepol tute tecum ;",
+      "translation": "No , faith , you are talking to yourself ; for nothing at all does she answer ."
+    },
+    {
+      "id": "2.5.423b",
+      "label": "Section 2.5.423b",
+      "chapter": null,
+      "original": "Te adloquor , viti probrique plena ,",
+      "translation": "I am addressing you , woman , brimful of viciousness and disgrace , who are roaming about among your neighbours ."
+    },
+    {
+      "id": "2.5.424b",
+      "label": "Section 2.5.424b",
+      "chapter": null,
+      "original": "Quicum tu fabulare ?",
+      "translation": "To whom are you talking ?"
+    },
+    {
+      "id": "2.5.425",
+      "label": "Section 2.5.425",
+      "chapter": null,
+      "original": "Quicum nisi tecum ?",
+      "translation": "To whom but to yourself ?"
+    },
+    {
+      "id": "2.5.425b",
+      "label": "Section 2.5.425b",
+      "chapter": null,
+      "original": "Quis tu homo es , aut mecum quid est negoti ?",
+      "translation": "What person are you ? Or what business have you with me ?"
+    },
+    {
+      "id": "2.5.426",
+      "label": "Section 2.5.426",
+      "chapter": null,
+      "original": "Mé rogas homo qui sim ?",
+      "translation": "O , you ask me who I am , do you ?"
+    },
+    {
+      "id": "2.5.426b",
+      "label": "Section 2.5.426b",
+      "chapter": null,
+      "original": "Quin ego hoc rogem quod nesciam ?",
+      "translation": "Why shouldn ’ t I ask that which I don ’ t know ?"
+    },
+    {
+      "id": "2.5.427",
+      "label": "Section 2.5.427",
+      "chapter": null,
+      "original": "Quis ego sum igitur , si hunc ignoras ?",
+      "translation": "Who am I , then , if you don ’ t know him ?"
+    },
+    {
+      "id": "2.5.427b",
+      "label": "Section 2.5.427b",
+      "chapter": null,
+      "original": "Mihi odiosus , quisquis es ,",
+      "translation": "You are an annoyance to me , whoever you are , both you and he ."
+    },
+    {
+      "id": "2.5.428b",
+      "label": "Section 2.5.428b",
+      "chapter": null,
+      "original": "Non nos novisti ?",
+      "translation": "What ? don ’ t you know us ?"
+    }
+  ],
+  "prevChunkSlug": "the-braggart-soldier-kcqgdf-4",
+  "nextChunkSlug": "the-braggart-soldier-kcqgdf-6"
+}

@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "terence-the-woman-of-andros-the-self-tormentor-the-eunuch-y550q8",
+  "volumeTitle": "The Woman of Andros. The Self-Tormentor. The Eunuch",
+  "authorDisplay": "Terence",
+  "authors": [
+    "Terence"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-self-tormentor-nt3lty-12",
+  "label": "The Self-Tormentor (Section 4.8.842 - Section 5.1.894c)",
+  "partId": "the-self-tormentor-nt3lty",
+  "partTitle": "The Self-Tormentor",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Heautontimorumenos",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi002.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Heautontimorumenos; or, The Self-Tormenter",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi002.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "4.8.842",
+      "label": "Section 4.8.842",
+      "chapter": null,
+      "original": "Multo omnium nunc me fortunatissimum",
+      "translation": "My son , I now think myself the happiest of all men , since I find that you have returned to a rational mode of life ."
+    },
+    {
+      "id": "4.8.844b",
+      "label": "Section 4.8.844b",
+      "chapter": null,
+      "original": "Ut errat .",
+      "translation": "How much he is mistaken !"
+    },
+    {
+      "id": "4.8.844c",
+      "label": "Section 4.8.844c",
+      "chapter": null,
+      "original": "Te ipsum quaerebam , Chreme .",
+      "translation": "Chremes , you are the very person I wanted ;"
+    },
+    {
+      "id": "4.8.845",
+      "label": "Section 4.8.845",
+      "chapter": null,
+      "original": "Serva , quod in te est , filium et me et familiam .",
+      "translation": "preserve , so far as in you lies , my son , myself , and my family ."
+    },
+    {
+      "id": "4.8.846",
+      "label": "Section 4.8.846",
+      "chapter": null,
+      "original": "Cedo quid vis faciam ?",
+      "translation": "Tell me what you would have me do ."
+    },
+    {
+      "id": "4.8.846b",
+      "label": "Section 4.8.846b",
+      "chapter": null,
+      "original": "Invenisti hodie filiam .",
+      "translation": "You have this day found a daughter ."
+    },
+    {
+      "id": "4.8.847",
+      "label": "Section 4.8.847",
+      "chapter": null,
+      "original": "Quid tum ?",
+      "translation": "What then ?"
+    },
+    {
+      "id": "4.8.847b",
+      "label": "Section 4.8.847b",
+      "chapter": null,
+      "original": "Hanc sibi uxorem dari vult Clinia .",
+      "translation": "Clinia wishes her to be given him for a wife ."
+    },
+    {
+      "id": "4.8.848",
+      "label": "Section 4.8.848",
+      "chapter": null,
+      "original": "Quaeso quid tu hominis es ?",
+      "translation": "Prithee , what kind of a person are you ?"
+    },
+    {
+      "id": "4.8.848b",
+      "label": "Section 4.8.848b",
+      "chapter": null,
+      "original": "Quid est ?",
+      "translation": "Why ?"
+    },
+    {
+      "id": "4.8.848c",
+      "label": "Section 4.8.848c",
+      "chapter": null,
+      "original": "Iamne oblitus es",
+      "translation": "Have you already forgotten what passed between us , concerning a scheme ,"
+    },
+    {
+      "id": "4.8.850",
+      "label": "Section 4.8.850",
+      "chapter": null,
+      "original": "Ut ea via abs te argentum auferretur ?",
+      "translation": "that by that method some money might be got out of you ?"
+    },
+    {
+      "id": "4.8.850b",
+      "label": "Section 4.8.850b",
+      "chapter": null,
+      "original": "Scio .",
+      "translation": "I remember ."
+    },
+    {
+      "id": "4.8.851",
+      "label": "Section 4.8.851",
+      "chapter": null,
+      "original": "Ea res nunc agitur ipsa .",
+      "translation": "That self-same thing they are now about ."
+    },
+    {
+      "id": "4.8.851b",
+      "label": "Section 4.8.851b",
+      "chapter": null,
+      "original": "Quid dixti , Chreme ?",
+      "translation": "What do you tell me , Chremes ? Why surely , this Courtesan , who is at my house , is Clitipho ’ s mistress ."
+    },
+    {
+      "id": "4.8.853b",
+      "label": "Section 4.8.853b",
+      "chapter": null,
+      "original": "Ita aiunt : et tu credis omnia :",
+      "translation": "So they say , and you believe it all ; and they say that he is desirous of a wife , in order that , when I have betrothed her ,"
+    },
+    {
+      "id": "4.8.855",
+      "label": "Section 4.8.855",
+      "chapter": null,
+      "original": "Des qui aurum ac vestem atque alia quae opus sunt comparet .",
+      "translation": "you may give him money , with which to provide gold trinkets and clothing , and other things that are requisite ."
+    },
+    {
+      "id": "4.8.856",
+      "label": "Section 4.8.856",
+      "chapter": null,
+      "original": "Id est profecto : id amicae dabitur .",
+      "translation": "That is it , no doubt ; that money will be given to his mistress ."
+    },
+    {
+      "id": "4.8.856b",
+      "label": "Section 4.8.856b",
+      "chapter": null,
+      "original": "Scilicet",
+      "translation": "Of course it is to be given ."
+    },
+    {
+      "id": "4.8.857b",
+      "label": "Section 4.8.857b",
+      "chapter": null,
+      "original": "Vah , frustra sum igitur gavisus miser .",
+      "translation": "Alas ! in vain then , unhappy man , have I been overjoyed ; still however , I had rather any thing than be deprived of him . What answer now shall I report from you , Chremes ,"
+    },
+    {
+      "id": "4.8.860",
+      "label": "Section 4.8.860",
+      "chapter": null,
+      "original": "Ne sentiat me sensisse , atque aegre ferat ?",
+      "translation": "so that he may not perceive that I have found it out , and take it to heart ?"
+    },
+    {
+      "id": "4.8.861",
+      "label": "Section 4.8.861",
+      "chapter": null,
+      "original": "Aegre ? nimium illi , Menedeme , indulges .",
+      "translation": "To heart , indeed ! you are too indulgent to him , Menedemus ."
+    },
+    {
+      "id": "4.8.861b",
+      "label": "Section 4.8.861b",
+      "chapter": null,
+      "original": "Sine .",
+      "translation": "Let me go on ; I have now begun : assist me in this throughout , Chremes ."
+    },
+    {
+      "id": "4.8.863",
+      "label": "Section 4.8.863",
+      "chapter": null,
+      "original": "Dic convenisse ; egisse te de nuptiis .",
+      "translation": "Say then , that you have seen me , and have treated about the marriage ."
+    },
+    {
+      "id": "4.8.864",
+      "label": "Section 4.8.864",
+      "chapter": null,
+      "original": "Dicam : quid deinde ?",
+      "translation": "I ’ ll say so — what then ?"
+    },
+    {
+      "id": "4.8.864b",
+      "label": "Section 4.8.864b",
+      "chapter": null,
+      "original": "Me facturum esse omnia ;",
+      "translation": "That I will do every thing ;"
+    },
+    {
+      "id": "4.8.865",
+      "label": "Section 4.8.865",
+      "chapter": null,
+      "original": "Generum placere : postremo etiam , si voles ,",
+      "translation": "that as a son-in-law he meets my approbation ; in fine , too , if you like , tell him also that she has been promised him ."
+    },
+    {
+      "id": "4.8.866b",
+      "label": "Section 4.8.866b",
+      "chapter": null,
+      "original": "Hem , istuc volueram .",
+      "translation": "Well , that ’ s what I wanted —"
+    },
+    {
+      "id": "4.8.867",
+      "label": "Section 4.8.867",
+      "chapter": null,
+      "original": "Tanto ocius te ut poscat , et tu id quod cupis",
+      "translation": "That he may the sooner ask of you , and you may as soon as possible give him what you wish ."
+    },
+    {
+      "id": "4.8.868b",
+      "label": "Section 4.8.868b",
+      "chapter": null,
+      "original": "Cupio .",
+      "translation": "It is my wish ."
+    },
+    {
+      "id": "4.8.868c",
+      "label": "Section 4.8.868c",
+      "chapter": null,
+      "original": "Nae tu propediem ,",
+      "translation": "Assuredly , before very long , according as I view this matter , you ’ ll have enough of him ."
+    },
+    {
+      "id": "4.8.870",
+      "label": "Section 4.8.870",
+      "chapter": null,
+      "original": "Sed haec ut ut sunt , cautim et paulatim dabis ,",
+      "translation": "But , however that may be , if you are wise , you ’ ll give to him cautiously , and a little at a time ."
+    },
+    {
+      "id": "4.8.871b",
+      "label": "Section 4.8.871b",
+      "chapter": null,
+      "original": "Faciam .",
+      "translation": "I ’ ll do so ."
+    },
+    {
+      "id": "4.8.871c",
+      "label": "Section 4.8.871c",
+      "chapter": null,
+      "original": "Abi intro ; vide quid postulet .",
+      "translation": "Go in-doors and see how much he requires . I shall be at home , if you should want me for any thing ."
+    },
+    {
+      "id": "4.8.872b",
+      "label": "Section 4.8.872b",
+      "chapter": null,
+      "original": "Sane volo :",
+      "translation": "I certainly do want you ; for I shall let you know whatever I do ."
+    },
+    {
+      "id": "5.1.874",
+      "label": "Section 5.1.874",
+      "chapter": null,
+      "original": "Ego me non tam astutum , neque ita perspicacem esse certo scio :",
+      "translation": "I am quite aware that I am not so overwise , or so very quick-sighted ;"
+    },
+    {
+      "id": "5.1.875",
+      "label": "Section 5.1.875",
+      "chapter": null,
+      "original": "Sed hic adiutor meus et monitor et praemonstrator Chremes",
+      "translation": "but this assistant , prompter , and director [*] of mine , Chremes , outdoes me in that . Any one of those epithets which are applied to a fool is suited to myself , such as dolt , post , ass , [*] lump of lead ; to him not one can apply ; his stupidity surpasses them all ."
+    },
+    {
+      "id": "5.1.879",
+      "label": "Section 5.1.879",
+      "chapter": null,
+      "original": "Ohe , iam desine Deos , uxor , gratulando obtundere ,",
+      "translation": "Hold now , do , wife , leave off dinning the Gods with thanksgivings"
+    },
+    {
+      "id": "5.1.880",
+      "label": "Section 5.1.880",
+      "chapter": null,
+      "original": "Tuam esse inventam gnatam ; nisi illos ex tuo ingenio iudicas ,",
+      "translation": "that your daughter has been discovered ; unless you judge of them by your own disposition , and think that they understand nothing , unless the same thing has been told them a hundred times . But , in the mean time , why does my son linger there so long with Syrus ?"
+    },
+    {
+      "id": "5.1.883",
+      "label": "Section 5.1.883",
+      "chapter": null,
+      "original": "Quos ais homines , Chreme , cessare ?",
+      "translation": "What persons do you say are lingering ?"
+    },
+    {
+      "id": "5.1.883b",
+      "label": "Section 5.1.883b",
+      "chapter": null,
+      "original": "Ehem , Menedeme , advenis ?",
+      "translation": "Ha ! Menedemus , you have come opportunely . Tell me , have you told Clinia what I said ?"
+    },
+    {
+      "id": "5.1.884b",
+      "label": "Section 5.1.884b",
+      "chapter": null,
+      "original": "Omnia .",
+      "translation": "Every thing ."
+    },
+    {
+      "id": "5.1.885",
+      "label": "Section 5.1.885",
+      "chapter": null,
+      "original": "Quid ait ?",
+      "translation": "What did he say ?"
+    },
+    {
+      "id": "5.1.885b",
+      "label": "Section 5.1.885b",
+      "chapter": null,
+      "original": "Gaudere adeo coepit quasi qui cupiunt nuptias .",
+      "translation": "He began to rejoice , just like people do who wish to be married ."
+    },
+    {
+      "id": "5.1.886",
+      "label": "Section 5.1.886",
+      "chapter": null,
+      "original": "Ha ha he !",
+      "translation": "Ha ! ha ! ha !"
+    },
+    {
+      "id": "5.1.886b",
+      "label": "Section 5.1.886b",
+      "chapter": null,
+      "original": "Quid risisti ?",
+      "translation": "Why are you laughing ?"
+    },
+    {
+      "id": "5.1.886c",
+      "label": "Section 5.1.886c",
+      "chapter": null,
+      "original": "Servi venere in mentem Syri",
+      "translation": "The sly tricks of my servant , Syrus , just came into my mind ."
+    },
+    {
+      "id": "5.1.887b",
+      "label": "Section 5.1.887b",
+      "chapter": null,
+      "original": "Itane ?",
+      "translation": "Did they ?"
+    },
+    {
+      "id": "5.1.887c",
+      "label": "Section 5.1.887c",
+      "chapter": null,
+      "original": "Vultus quoque hominum fingit scelus .",
+      "translation": "The rogue can even mould the countenances of people . [*]"
+    },
+    {
+      "id": "5.1.888",
+      "label": "Section 5.1.888",
+      "chapter": null,
+      "original": "Gnatus quod se adsimulat laetum , id dicis ?",
+      "translation": "That my son is pretending that he is overjoyed , is it that you mean ?"
+    },
+    {
+      "id": "5.1.888b",
+      "label": "Section 5.1.888b",
+      "chapter": null,
+      "original": "Id .",
+      "translation": "Just so ."
+    },
+    {
+      "id": "5.1.888c",
+      "label": "Section 5.1.888c",
+      "chapter": null,
+      "original": "Idem istuc mihi",
+      "translation": "The very same thing came into my mind ."
+    },
+    {
+      "id": "5.1.889b",
+      "label": "Section 5.1.889b",
+      "chapter": null,
+      "original": "Veterator !",
+      "translation": "A crafty knave !"
+    },
+    {
+      "id": "5.1.889c",
+      "label": "Section 5.1.889c",
+      "chapter": null,
+      "original": "Magis , si magis noris , putes",
+      "translation": "Still more would you think such to be the fact , if you knew more ."
+    },
+    {
+      "id": "5.1.890b",
+      "label": "Section 5.1.890b",
+      "chapter": null,
+      "original": "Ain tu ?",
+      "translation": "Do you say so ?"
+    },
+    {
+      "id": "5.1.890c",
+      "label": "Section 5.1.890c",
+      "chapter": null,
+      "original": "Quin tu ausculta .",
+      "translation": "Do you give attention then ?"
+    },
+    {
+      "id": "5.1.890d",
+      "label": "Section 5.1.890d",
+      "chapter": null,
+      "original": "Mane . Hoc prius scire expeto ,",
+      "translation": "Just stop — first I want to know this , what money you have squandered ; for when you told your son that she was promised , of course Dromo would at once throw in a word that golden jewels , clothes , and attendants would be needed for the bride , in order that you might give the money ."
+    },
+    {
+      "id": "5.1.894",
+      "label": "Section 5.1.894",
+      "chapter": null,
+      "original": "Non .",
+      "translation": "No ."
+    },
+    {
+      "id": "5.1.894b",
+      "label": "Section 5.1.894b",
+      "chapter": null,
+      "original": "Quid ? non ?",
+      "translation": "How , no ?"
+    },
+    {
+      "id": "5.1.894c",
+      "label": "Section 5.1.894c",
+      "chapter": null,
+      "original": "Non , inquam .",
+      "translation": "No , I tell you ."
+    }
+  ],
+  "prevChunkSlug": "the-self-tormentor-nt3lty-11",
+  "nextChunkSlug": "the-self-tormentor-nt3lty-13"
+}

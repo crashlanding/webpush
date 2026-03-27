@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-casina-the-casket-comedy-curculio-epidicus-the-two-menaechmuses-10u46k",
+  "volumeTitle": "Casina. The Casket Comedy. Curculio. Epidicus. The Two Menaechmuses",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-two-menaechmuses-65w7r1-9",
+  "label": "The Two Menaechmuses (Section 5.1.704 - Section 5.2.800)",
+  "partId": "the-two-menaechmuses-65w7r1",
+  "partTitle": "The Two Menaechmuses",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Menaechmi",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi010.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Menaechmi, or The Twin Brothers",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi010.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "5.1.704",
+      "label": "Section 5.1.704",
+      "chapter": null,
+      "original": "Provisam quam mox vir meus redeat domum .",
+      "translation": "I ’ ll look out to see how soon my husband is going to return home ."
+    },
+    {
+      "id": "5.1.705",
+      "label": "Section 5.1.705",
+      "chapter": null,
+      "original": "sed eccum video . salva sum , pallam refert .",
+      "translation": "But here he is ; I see him ; I ’ m all right , he ’ s bringing back the mantle ."
+    },
+    {
+      "id": "5.1.706",
+      "label": "Section 5.1.706",
+      "chapter": null,
+      "original": "Demiror ubi nunc ambulet Messenio .",
+      "translation": "I wonder where Messenio can be walking now ."
+    },
+    {
+      "id": "5.1.707",
+      "label": "Section 5.1.707",
+      "chapter": null,
+      "original": "Adibo atque hominem accipiam quibus dictis meret .",
+      "translation": "I ’ ll go and receive the fellow with such language as he deserves . ( Accosting him .) Are you not ashamed to come forward in my presence , you disgraceful man , in that garb ?"
+    },
+    {
+      "id": "5.1.709b",
+      "label": "Section 5.1.709b",
+      "chapter": null,
+      "original": "Quid est ?",
+      "translation": "What ’ s the matter ?"
+    },
+    {
+      "id": "5.1.710",
+      "label": "Section 5.1.710",
+      "chapter": null,
+      "original": "quae te res agitat , mulier ?",
+      "translation": "What thing is troubling you , woman ?"
+    },
+    {
+      "id": "5.1.710b",
+      "label": "Section 5.1.710b",
+      "chapter": null,
+      "original": "Etiamne , impudens ,",
+      "translation": "Do you dare , you shameless fellow , to utter even a single word , or to speak to me ?"
+    },
+    {
+      "id": "5.1.712",
+      "label": "Section 5.1.712",
+      "chapter": null,
+      "original": "Quid tandem admisi in me , ut loqui non audeam ?",
+      "translation": "Pray , what wrong have I committed , that I shouldn ’ t dare to speak to you ?"
+    },
+    {
+      "id": "5.1.713",
+      "label": "Section 5.1.713",
+      "chapter": null,
+      "original": "Rogas me ? o hominis impudentem audaciam !",
+      "translation": "Do you ask me ? O dear , the impudent audacity of the fellow !"
+    },
+    {
+      "id": "5.1.714",
+      "label": "Section 5.1.714",
+      "chapter": null,
+      "original": "Non tu scis , mulier , Hecubam quapropter canem",
+      "translation": "Don ’ t you know , madam , for what reason the Greeks used to say that Hecuba was a bitch [*] ?"
+    },
+    {
+      "id": "5.1.715b",
+      "label": "Section 5.1.715b",
+      "chapter": null,
+      "original": "Non equidem scio .",
+      "translation": "I don ’ t know , indeed ."
+    },
+    {
+      "id": "5.1.716",
+      "label": "Section 5.1.716",
+      "chapter": null,
+      "original": "Quia idem faciebat Hecuba quod tu nunc facis :",
+      "translation": "Because Hecuba used to do the same thing that you are now doing . She used to heap all kinds of imprecations on every one she saw ; and , therefore , for that reason she was properly begun to be called a bitch ."
+    },
+    {
+      "id": "5.1.719",
+      "label": "Section 5.1.719",
+      "chapter": null,
+      "original": "Non ego istaec tua flagitia possum perpeti .",
+      "translation": "I can ’ t put up with this disgraceful conduct of yours ;"
+    },
+    {
+      "id": "5.1.720",
+      "label": "Section 5.1.720",
+      "chapter": null,
+      "original": "nam med aetatem viduam ésse mavelim ,",
+      "translation": "for I had rather see my life that of a widow , than endure this vile conduct of yours that you are guilty of ."
+    },
+    {
+      "id": "5.1.722",
+      "label": "Section 5.1.722",
+      "chapter": null,
+      "original": "Quid id ad me , tu te nuptam possis perpeti",
+      "translation": "What is it to me , whether you are able to endure to live in the married state , or whether you will separate from your husband ? Is it thus the fashion here to tell these stories to a stranger on his arrival ?"
+    },
+    {
+      "id": "5.1.725",
+      "label": "Section 5.1.725",
+      "chapter": null,
+      "original": "Quas fabulas ? non , inquam , patiar praeterhac ,",
+      "translation": "What stories ? I say , I ’ ll not endure it henceforth , but live separate rather than put up with these ways ."
+    },
+    {
+      "id": "5.1.727",
+      "label": "Section 5.1.727",
+      "chapter": null,
+      "original": "Mea quidem hercle causa vidua vivito ,",
+      "translation": "Troth , so far indeed as I ’ m concerned , do live separate , even so long as Jupiter shall hold his sway ."
+    },
+    {
+      "id": "5.1.729",
+      "label": "Section 5.1.729",
+      "chapter": null,
+      "original": "At mihi negabas dudum surrupuisse te ,",
+      "translation": "A little while since you didn ’ t deny that you had purloined it from me ;"
+    },
+    {
+      "id": "5.1.730",
+      "label": "Section 5.1.730",
+      "chapter": null,
+      "original": "nunc eandem ante oculos attines : non te pudet ?",
+      "translation": "do you now hold up that same before my eyes ? Are you not ashamed ?"
+    },
+    {
+      "id": "5.1.731",
+      "label": "Section 5.1.731",
+      "chapter": null,
+      "original": "Eu hercle , mulier , multum et audax et mala es .",
+      "translation": "O dear ! madam , by my faith , you are both very bold and very perverse . Do you dare to say ( pointing at the mantle ) that this was stolen from you which another woman gave me , for me to get it trimmed ?"
+    },
+    {
+      "id": "5.1.734",
+      "label": "Section 5.1.734",
+      "chapter": null,
+      "original": "Ne istuc mecastor — iam patrem accersam meum",
+      "translation": "By heavens , I ’ ll certainly now send for my father ,"
+    },
+    {
+      "id": "5.1.735",
+      "label": "Section 5.1.735",
+      "chapter": null,
+      "original": "atque ei narrabo tua flagitia quae facis .",
+      "translation": "and I ’ ll tell him your disgraceful conduct that you are guilty of . Go , Decio ( calling to a SERVANT ) , seek for my father , that he may come along with you to me ; tell him that occasion has arisen for it . I ’ ll . now disclose to him this disgraceful conduct of yours ."
+    },
+    {
+      "id": "5.1.738b",
+      "label": "Section 5.1.738b",
+      "chapter": null,
+      "original": "Sanan es ?",
+      "translation": "Are you in your senses ? What disgraceful conduct of mine ?"
+    },
+    {
+      "id": "5.1.739b",
+      "label": "Section 5.1.739b",
+      "chapter": null,
+      "original": "Pallam atque aurum meum",
+      "translation": "When you filch from home my mantle and gold trinkets ,"
+    },
+    {
+      "id": "5.1.740",
+      "label": "Section 5.1.740",
+      "chapter": null,
+      "original": "domo suppilas tuae uxori et tuae",
+      "translation": "without the knowledge of your wife , and carry them off to your mistress . Don ’ t I state this correctly ?"
+    },
+    {
+      "id": "5.1.742",
+      "label": "Section 5.1.742",
+      "chapter": null,
+      "original": "Quaeso hercle , mulier , si scis , monstra quod bibam ,",
+      "translation": "By my faith , madam , I entreat you , if you know , show me what I ’ m to drink [*] , by means of which I may put up with your impertinence . What person you are taking me to be , I don ’ t know ;"
+    },
+    {
+      "id": "5.1.745",
+      "label": "Section 5.1.745",
+      "chapter": null,
+      "original": "ego te simitu novi cum Porthaone .",
+      "translation": "I know you just as well as Parthaon [*] ."
+    },
+    {
+      "id": "5.1.746",
+      "label": "Section 5.1.746",
+      "chapter": null,
+      "original": "Si me derides , at pol illum non potes ,",
+      "translation": "If you laugh at me , still , i ’ troth , you can ’ t do so at him ; my father , I mean , who ’ s coming here . Why don ’ t you look back ? Do you know that person ?"
+    },
+    {
+      "id": "5.1.748b",
+      "label": "Section 5.1.748b",
+      "chapter": null,
+      "original": "Novi cum Calcha simul :",
+      "translation": "Just as well as Calchas [*] do I know him ; I have seen him on that same day on which I have seen yourself before this present day ."
+    },
+    {
+      "id": "5.1.750",
+      "label": "Section 5.1.750",
+      "chapter": null,
+      "original": "Negas novisse me ? negas patrem meum ?",
+      "translation": "Do you deny that you know me ? Do you deny that you know my father ?"
+    },
+    {
+      "id": "5.1.751",
+      "label": "Section 5.1.751",
+      "chapter": null,
+      "original": "Idem hercle dicam , sí avom vis adducere .",
+      "translation": "Troth , I shall say the same thing , if you choose to bring your grandfather ."
+    },
+    {
+      "id": "5.1.752",
+      "label": "Section 5.1.752",
+      "chapter": null,
+      "original": "Ecastor pariter hoc atque alias res soles .",
+      "translation": "I ’ faith , you do this and other things just in a like fashion ."
+    },
+    {
+      "id": "5.2.753",
+      "label": "Section 5.2.753",
+      "chapter": null,
+      "original": "Vt aétas mea ést atque ut hóc usus fácto est",
+      "translation": "According as my age permits , and as there is occasion to do so , I ’ ll push on my steps and make haste to get along ."
+    },
+    {
+      "id": "5.2.755",
+      "label": "Section 5.2.755",
+      "chapter": null,
+      "original": "sed id quam mihi facile sit , haud sum falsus .",
+      "translation": "But how far from easy ’ tis for me , I ’ m not mistaken as to that . For my agility forsakes me , and I am beset with age ; I carry my body weighed down ; my strength has deserted me . How grievous a pack upon one ’ s back is age . For when it comes , it brings very many and very grievous particulars ,"
+    },
+    {
+      "id": "5.2.760",
+      "label": "Section 5.2.760",
+      "chapter": null,
+      "original": "quas si aútumem omnis , nimis lóngus sermost .",
+      "translation": "were I now to recount all of which , my speech would be too long . But this matter is a trouble to my mind and heart , what this business can possibly be on account of which my daughter suddenly requires me to come to her ,"
+    },
+    {
+      "id": "5.2.763a",
+      "label": "Section 5.2.763a",
+      "chapter": null,
+      "original": "nec , quíd id sit , mihí certiús facit , quid",
+      "translation": "and doesn ’ t first let me know what ’ s the matter , what she wants , or why she sends for me . But pretty nearly do I know now what ’ s the matter ;"
+    },
+    {
+      "id": "5.2.765",
+      "label": "Section 5.2.765",
+      "chapter": null,
+      "original": "credo cum viro litigium natum esse aliquod .",
+      "translation": "I suspect that some quarrel has arisen with her husband . So are these women wont to do , who , presuming on their portions , and haughty , require their husbands to be obedient to them ; and they as well full oft are not without fault . But still there are bounds , within which a wife ought to be put up with ."
+    },
+    {
+      "id": "5.2.770",
+      "label": "Section 5.2.770",
+      "chapter": null,
+      "original": "nec pol filia umquam patrem accersit ad se ,",
+      "translation": "By my troth , my daughter never sends for her father to come to her except when either something has been done wrong , or there is a cause for quarrelling . But whatever it is , I shall now know . And see , I perceive her herself before the house , and her husband in a pensive mood . ’ Tis the same as I suspected ."
+    },
+    {
+      "id": "5.2.775",
+      "label": "Section 5.2.775",
+      "chapter": null,
+      "original": "áppellabo hanc .",
+      "translation": "I ’ ll accost her ."
+    },
+    {
+      "id": "5.2.775b",
+      "label": "Section 5.2.775b",
+      "chapter": null,
+      "original": "Ibo advorsum . sálve multum , mí pater .",
+      "translation": "I ’ ll go and meet him . May every happiness attend you , my father ."
+    },
+    {
+      "id": "5.2.776",
+      "label": "Section 5.2.776",
+      "chapter": null,
+      "original": "Salva sis . salven advenio ? salven accersi iubes ?",
+      "translation": "Happiness attend you . Do I find you in good spirits ? Do you bid me be fetched in happy mood ? Why are you sorrowful ? And why does he ( pointing at MENAECHMUS ) in anger stand apart from you ? Something , I know not what , are you two wrangling about [*] between you . Say , in few words , which of the two is in fault : no long speeches , though ."
+    },
+    {
+      "id": "5.2.780",
+      "label": "Section 5.2.780",
+      "chapter": null,
+      "original": "Nusquam equidem quicquam deliqui : hoc primum te absolvo , pater .",
+      "translation": "For my part , I ’ ve done nothing wrong ; as to that point do I at once make you easy , father . But I cannot live or remain here on any account ; you must take me away hence immediately ."
+    },
+    {
+      "id": "5.2.782b",
+      "label": "Section 5.2.782b",
+      "chapter": null,
+      "original": "Quid istuc autem est ?",
+      "translation": "Why , what ’ s the matter ?"
+    },
+    {
+      "id": "5.2.782c",
+      "label": "Section 5.2.782c",
+      "chapter": null,
+      "original": "Ludibrio , pater ,",
+      "translation": "I am made a laughing-stock of , father ."
+    },
+    {
+      "id": "5.2.783b",
+      "label": "Section 5.2.783b",
+      "chapter": null,
+      "original": "Vnde ?",
+      "translation": "By whom ?"
+    },
+    {
+      "id": "5.2.783c",
+      "label": "Section 5.2.783c",
+      "chapter": null,
+      "original": "Ab illo , quoi me mandavisti , meo viro .",
+      "translation": "By him to whom you gave me , my husband ."
+    },
+    {
+      "id": "5.2.784",
+      "label": "Section 5.2.784",
+      "chapter": null,
+      "original": "Ecce autem litigium . quotiens tandem édixi tibi ,",
+      "translation": "Look at that — a quarrel now . How often , I wonder ,"
+    },
+    {
+      "id": "5.2.785",
+      "label": "Section 5.2.785",
+      "chapter": null,
+      "original": "ut caveres , neuter ad me iretis cum querimonia ?",
+      "translation": "have I told you to be cautious , that neither should be coming to me with your complaints ."
+    },
+    {
+      "id": "5.2.786",
+      "label": "Section 5.2.786",
+      "chapter": null,
+      "original": "Qui ego istuc , mi pater , cavere possum ?",
+      "translation": "How , my father , can I possibly guard against that ?"
+    },
+    {
+      "id": "5.2.786b",
+      "label": "Section 5.2.786b",
+      "chapter": null,
+      "original": "Men interrogas ?",
+      "translation": "Do you ask me ? ⋯"
+    },
+    {
+      "id": "5.2.787",
+      "label": "Section 5.2.787",
+      "chapter": null,
+      "original": "Nisi non vis .",
+      "translation": "unless you don ’ t wish ."
+    },
+    {
+      "id": "5.2.787b",
+      "label": "Section 5.2.787b",
+      "chapter": null,
+      "original": "Quotiens monstravi tibi , viro ut morem geras ,",
+      "translation": "How often have I told you to be compliant to your husband . Don ’ t be watching what he does , where he goes , or what matter he ’ s about ."
+    },
+    {
+      "id": "5.2.790",
+      "label": "Section 5.2.790",
+      "chapter": null,
+      "original": "At enim ille hinc amat meretricem ex proxumo .",
+      "translation": "Why , but he ’ s in love with a courtesan here close by ."
+    },
+    {
+      "id": "5.2.790b",
+      "label": "Section 5.2.790b",
+      "chapter": null,
+      "original": "Sane sapit ,",
+      "translation": "He is exceedingly wise : and for this painstaking of yours , I would even have him love her the more ."
+    },
+    {
+      "id": "5.2.792",
+      "label": "Section 5.2.792",
+      "chapter": null,
+      "original": "Atque ibi potat .",
+      "translation": "He drinks there , too ."
+    },
+    {
+      "id": "5.2.792b",
+      "label": "Section 5.2.792b",
+      "chapter": null,
+      "original": "Tua quidem ille causa potabit minus ,",
+      "translation": "And will he really drink the less for you , whether it shall please him to do so there or anywhere else ? Plague on it , what assurance is this ? On the same principle , you would wish to hinder him from engaging to dine out ,"
+    },
+    {
+      "id": "5.2.795",
+      "label": "Section 5.2.795",
+      "chapter": null,
+      "original": "neve quemquam accipiat alienum apud se . serviren tibi",
+      "translation": "or from receiving any other person at his own house . Do you want husbands to be your servants ? You might as well expect , on the same principle , to be giving him out his task , and bidding him sit among the female servants and card wool ."
+    },
+    {
+      "id": "5.2.798",
+      "label": "Section 5.2.798",
+      "chapter": null,
+      "original": "Non equidem mihi te advocatum , pater , adduxi , sed viro .",
+      "translation": "Why , surely , father , I ’ ve sent for you not to be my advocate , but my husband ’ s : on this side you stand [*] , on the other you plead the cause ."
+    },
+    {
+      "id": "5.2.799b",
+      "label": "Section 5.2.799b",
+      "chapter": null,
+      "original": "Si ille quid deliquerit ,",
+      "translation": "If he has done wrong in anything ,"
+    },
+    {
+      "id": "5.2.800",
+      "label": "Section 5.2.800",
+      "chapter": null,
+      "original": "multo tanto illum accusabo , quam te accusavi , amplius .",
+      "translation": "so much the more shall I censure him than I ’ ve censured you . Since he keeps you provided for and well clothed , and finds you amply in female servants and provisions , ’ tis better , madam , to entertain kindly feelings ."
+    }
+  ],
+  "prevChunkSlug": "the-two-menaechmuses-65w7r1-8",
+  "nextChunkSlug": "the-two-menaechmuses-65w7r1-10"
+}

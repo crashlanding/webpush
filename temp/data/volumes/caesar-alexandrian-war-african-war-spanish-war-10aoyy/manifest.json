@@ -1,0 +1,75 @@
+{
+  "loebNumber": 402,
+  "sortOrder": 402,
+  "slug": "caesar-alexandrian-war-african-war-spanish-war-10aoyy",
+  "title": "Alexandrian War. African War. Spanish War",
+  "volumeLabel": "Alexandrian War. African War. Spanish War",
+  "authorDisplay": "Caesar",
+  "authors": [
+    "Caesar"
+  ],
+  "language": "latin",
+  "summary": "1 of 3 contents in Alexandrian War. African War. Spanish War are live from Scaife, while the remaining contents stay visible until a confident pair is available. Alexandrian War is currently filled with the closest same-author Scaife text that exposes both an original-language version and an English translation.",
+  "status": "partial",
+  "defaultChunkSlug": "gallic-war-1kct54",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "alexandrian-war-1gb6wx",
+      "title": "Alexandrian War",
+      "status": "ready",
+      "sectionCount": 32,
+      "chunkSlug": "gallic-war-1kct54",
+      "chunks": [
+        {
+          "slug": "gallic-war-1kct54",
+          "label": "Gallic War",
+          "partId": "alexandrian-war-1gb6wx",
+          "partTitle": "Alexandrian War",
+          "sectionCount": 32,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "african-war-1rrrz5",
+      "title": "African War",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for African War."
+    },
+    {
+      "id": "spanish-war-w0wr5o",
+      "title": "Spanish War",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Spanish War."
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "gallic-war-1kct54",
+      "label": "Gallic War",
+      "partId": "alexandrian-war-1gb6wx",
+      "partTitle": "Alexandrian War",
+      "sectionCount": 32,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "gallic-war-1kct54",
+      "partTitle": "Alexandrian War",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Bello Gallico",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0448.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Gallic War",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0448.phi001.perseus-eng2/"
+      }
+    }
+  ]
+}

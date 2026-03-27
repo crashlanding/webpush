@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-casina-the-casket-comedy-curculio-epidicus-the-two-menaechmuses-10u46k",
+  "volumeTitle": "Casina. The Casket Comedy. Curculio. Epidicus. The Two Menaechmuses",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "epidicus-1peem3-10",
+  "label": "Epidicus (Section 5.1.615 - Section 5.2.678b)",
+  "partId": "epidicus-1peem3",
+  "partTitle": "Epidicus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Epidicus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi009.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Epidicus, or The Fortunate Discovery",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi009.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "5.1.615",
+      "label": "Section 5.1.615",
+      "chapter": null,
+      "original": "Quid est tibi ?",
+      "translation": "What ’ s the matter with you ?"
+    },
+    {
+      "id": "5.1.615b",
+      "label": "Section 5.1.615b",
+      "chapter": null,
+      "original": "Quin tu mi adornas ad fugam viaticum ,",
+      "translation": "Why don ’ t you prepare for me the necessaries for flight before I ’ m quite undone ? For the two fleeced old gentlemen are hunting for me through the city ; they are carrying in their hands handcuffs an inch and a half thick ."
+    },
+    {
+      "id": "5.1.618",
+      "label": "Section 5.1.618",
+      "chapter": null,
+      "original": "Habe bonum animum .",
+      "translation": "Be of good heart —"
+    },
+    {
+      "id": "5.1.618b",
+      "label": "Section 5.1.618b",
+      "chapter": null,
+      "original": "Quippe ego quoi libertas in mundo sitast .",
+      "translation": "Of course I will , whose freedom is so close at hand [*] ."
+    },
+    {
+      "id": "5.1.619",
+      "label": "Section 5.1.619",
+      "chapter": null,
+      "original": "Ego te servabo .",
+      "translation": "I will preserve you ."
+    },
+    {
+      "id": "5.1.619b",
+      "label": "Section 5.1.619b",
+      "chapter": null,
+      "original": "Edepol me illi melius , si nacti fuant .",
+      "translation": "I ’ faith , they ’ ll do it better for me , if they catch me ."
+    },
+    {
+      "id": "5.1.620",
+      "label": "Section 5.1.620",
+      "chapter": null,
+      "original": "sed quis haec ést muliercula et ille gravastellus qui venit ?",
+      "translation": "But who ’ s this young woman , this greyish old fellow , too , that ’ s coming along ?"
+    },
+    {
+      "id": "5.1.621",
+      "label": "Section 5.1.621",
+      "chapter": null,
+      "original": "Hic est danista , haec illa est autem , quam emi de praeda .",
+      "translation": "This is the Banker , and this is the woman whom I purchased out of the spoil ."
+    },
+    {
+      "id": "5.1.621b",
+      "label": "Section 5.1.621b",
+      "chapter": null,
+      "original": "Haecinest ?",
+      "translation": "What , is this she ?"
+    },
+    {
+      "id": "5.1.622",
+      "label": "Section 5.1.622",
+      "chapter": null,
+      "original": "Haec est . estne ita ut tibi dixi ? aspecta et contempla , Epidice :",
+      "translation": "It is she . Isn ’ t she just like what I told you ? Look at her ."
+    },
+    {
+      "id": "5.1.623",
+      "label": "Section 5.1.623",
+      "chapter": null,
+      "original": "usque ab unguiculo ad capillum summumst festivissuma .",
+      "translation": "Survey her , Epidicus . [*] Even from her nail to the top of her hair she is most lovely ! Is she not ? Do look at her ! Observe her ! You ’ ll be looking at a picture beautifully painted ."
+    },
+    {
+      "id": "5.1.625",
+      "label": "Section 5.1.625",
+      "chapter": null,
+      "original": "Ex tuis verbis meum futurum corium pulchrum praedicas ,",
+      "translation": "Judging from your words you are foretelling that my hide will be beautifully painted ; me , whom Apelles and Zeuxis [*] , the pair of them , will be painting with elm-tree pigments ."
+    },
+    {
+      "id": "5.1.627",
+      "label": "Section 5.1.627",
+      "chapter": null,
+      "original": "Di immortales , sicin iussi ad me ires ? pedibus † pulmunes",
+      "translation": "Immortal Gods ! I ’ m surprised at your slowness . The man that ’ s spoken of in the proverb with swollen feet , would have got here sooner than you have arrived for me ."
+    },
+    {
+      "id": "5.1.629",
+      "label": "Section 5.1.629",
+      "chapter": null,
+      "original": "Haec edepol remorata med est .",
+      "translation": "I ’ faith , ’ twas she delayed me ."
+    },
+    {
+      "id": "5.1.629b",
+      "label": "Section 5.1.629b",
+      "chapter": null,
+      "original": "Siquidem istius gratia",
+      "translation": "If indeed you delayed for her sake ,"
+    },
+    {
+      "id": "5.1.630",
+      "label": "Section 5.1.630",
+      "chapter": null,
+      "original": "id quod ista voluit , nimium advenisti cito .",
+      "translation": "because she wished it , you have come too quickly ."
+    },
+    {
+      "id": "5.1.631",
+      "label": "Section 5.1.631",
+      "chapter": null,
+      "original": "Age age , absolve me atque argentum numera , ne comites morer .",
+      "translation": "Well , well , dispatch with me and count out the money , that I mayn ’ t be detaining my friends ."
+    },
+    {
+      "id": "5.1.632",
+      "label": "Section 5.1.632",
+      "chapter": null,
+      "original": "Pernumeratumst .",
+      "translation": "It has been counted out ."
+    },
+    {
+      "id": "5.1.632b",
+      "label": "Section 5.1.632b",
+      "chapter": null,
+      "original": "Tene cruminam : huc inde .",
+      "translation": "Take this bag ; put it into it ."
+    },
+    {
+      "id": "5.1.632c",
+      "label": "Section 5.1.632c",
+      "chapter": null,
+      "original": "Sapienter venis .",
+      "translation": "You come discreetly provided ! Wait till I bring out the money to you ."
+    },
+    {
+      "id": "5.1.633b",
+      "label": "Section 5.1.633b",
+      "chapter": null,
+      "original": "Matura .",
+      "translation": "Make haste ."
+    },
+    {
+      "id": "5.1.633c",
+      "label": "Section 5.1.633c",
+      "chapter": null,
+      "original": "Domist .—",
+      "translation": "It ’ s at home ."
+    },
+    {
+      "id": "5.1.634",
+      "label": "Section 5.1.634",
+      "chapter": null,
+      "original": "Satin ego oculis utilitatem optineo sincere an parum ?",
+      "translation": "Have I the use of my eyes quite unimpaired , or is it otherwise ?"
+    },
+    {
+      "id": "5.1.635",
+      "label": "Section 5.1.635",
+      "chapter": null,
+      "original": "videon ego Telestidem te , Periphanai filiam ,",
+      "translation": "Do I not behold in you , Telestis , the daughter of Periphanes , born at Thebes of your mother Philippa , and conceived at Epidaurus ?"
+    },
+    {
+      "id": "5.1.637",
+      "label": "Section 5.1.637",
+      "chapter": null,
+      "original": "Quis tu homo es , qui meum parentum nomen memoras et meum ?",
+      "translation": "What person are you who are making mention of the name of my parents and my own ?"
+    },
+    {
+      "id": "5.1.638",
+      "label": "Section 5.1.638",
+      "chapter": null,
+      "original": "Non me nosti ?",
+      "translation": "Don ’ t you know me ?"
+    },
+    {
+      "id": "5.1.638b",
+      "label": "Section 5.1.638b",
+      "chapter": null,
+      "original": "Quod quidem nunc veniat in mentem mihi .",
+      "translation": "Not , indeed , so far as recurs to my mind just now ."
+    },
+    {
+      "id": "5.1.639",
+      "label": "Section 5.1.639",
+      "chapter": null,
+      "original": "Non meministi me auream ad te afferre natali die",
+      "translation": "Don ’ t you remember my bringing you a crescent upon your birthday , and a little gold ring for your finger ?"
+    },
+    {
+      "id": "5.1.640b",
+      "label": "Section 5.1.640b",
+      "chapter": null,
+      "original": "Memini , mi homo .",
+      "translation": "I remember it . What , are you that person ?"
+    },
+    {
+      "id": "5.1.641b",
+      "label": "Section 5.1.641b",
+      "chapter": null,
+      "original": "Ego sum , ét istic frater , qui te mercatust , tuos .",
+      "translation": "I am , and ( pointing to STRATIPPOCLES , at a distance ) he there is your brother by another mother and the same father ."
+    },
+    {
+      "id": "5.1.643",
+      "label": "Section 5.1.643",
+      "chapter": null,
+      "original": "Quid pater meus ? vivit ?",
+      "translation": "What of my father ? Is he alive ?"
+    },
+    {
+      "id": "5.1.643b",
+      "label": "Section 5.1.643b",
+      "chapter": null,
+      "original": "Animo liquido et tranquillo es , tace .",
+      "translation": "Be of calm and composed feelings ; hold your peace ."
+    },
+    {
+      "id": "5.1.644",
+      "label": "Section 5.1.644",
+      "chapter": null,
+      "original": "Di me ex perdita servatam cupiunt , si vera autumas .",
+      "translation": "The Gods will that from being lost I should be saved , if you speak the truth ."
+    },
+    {
+      "id": "5.1.645",
+      "label": "Section 5.1.645",
+      "chapter": null,
+      "original": "Non habeo ullam occasionem , ut apud te falsa fabuler .",
+      "translation": "I have no occasion to be telling untruths to you ."
+    },
+    {
+      "id": "5.1.646",
+      "label": "Section 5.1.646",
+      "chapter": null,
+      "original": "Accipe argentum hoc , danista . hic sunt quadraginta minae .",
+      "translation": "Take this money , Banker ; here are forty minae . If any piece shall be doubtful I ’ ll change it ."
+    },
+    {
+      "id": "5.1.647b",
+      "label": "Section 5.1.647b",
+      "chapter": null,
+      "original": "Bene fecisti , bene vale .—",
+      "translation": "You do well . Kindly farewell ."
+    },
+    {
+      "id": "5.1.648",
+      "label": "Section 5.1.648",
+      "chapter": null,
+      "original": "Nunc enim tú mea es .",
+      "translation": "Now then you are my own —"
+    },
+    {
+      "id": "5.1.648b",
+      "label": "Section 5.1.648b",
+      "chapter": null,
+      "original": "Soror quidem edepol , ut tu aeque scias .",
+      "translation": "Why yes — sister , i ’ faith , that you may know it as well . Greetings to you , brother ."
+    },
+    {
+      "id": "5.1.649b",
+      "label": "Section 5.1.649b",
+      "chapter": null,
+      "original": "Sanan haec est ?",
+      "translation": "Is this woman in her senses ?"
+    },
+    {
+      "id": "5.1.649c",
+      "label": "Section 5.1.649c",
+      "chapter": null,
+      "original": "Sana , si appellat suom .",
+      "translation": "In her senses , if she calls you her brother ."
+    },
+    {
+      "id": "5.1.650",
+      "label": "Section 5.1.650",
+      "chapter": null,
+      "original": "Quid ? ego modo amator sum huic frater factus , dum intro eo atque exeo ?",
+      "translation": "How ’ s this ? Have I just now become her brother while going in-doors and coming out ?"
+    },
+    {
+      "id": "5.1.651",
+      "label": "Section 5.1.651",
+      "chapter": null,
+      "original": "Quod boni est id tacitus taceas tute tecum et gaudeas .",
+      "translation": "What good fortune there is , do you in silence keep your peace thereon and rejoice ."
+    },
+    {
+      "id": "5.1.652",
+      "label": "Section 5.1.652",
+      "chapter": null,
+      "original": "Perdidisti et repperisti me , soror .",
+      "translation": "Sister , you have both lost and found me !"
+    },
+    {
+      "id": "5.1.652b",
+      "label": "Section 5.1.652b",
+      "chapter": null,
+      "original": ", tace .",
+      "translation": "Simpleton , hold your tongue ! Through my endeavours , there ’ s ready for you at home , in fact , a Music-girl for you to make love to ; I too , through my endeavours , have restored your sister to liberty ."
+    },
+    {
+      "id": "5.1.655",
+      "label": "Section 5.1.655",
+      "chapter": null,
+      "original": "Epidice , fateor —",
+      "translation": "Epidicus , I confess —"
+    },
+    {
+      "id": "5.1.655b",
+      "label": "Section 5.1.655b",
+      "chapter": null,
+      "original": "Abi intro ac iúbe huic aquam calefieri ;",
+      "translation": "Be off into the house , and order the water to be made warm [*] for her . The rest I ’ ll let you know afterwards , when there ’ s leisure ."
+    },
+    {
+      "id": "5.1.657",
+      "label": "Section 5.1.657",
+      "chapter": null,
+      "original": "Sequere hac me , soror .",
+      "translation": "Follow me this way , sister ."
+    },
+    {
+      "id": "5.1.657b",
+      "label": "Section 5.1.657b",
+      "chapter": null,
+      "original": "Ego ad vos Thesprionem iussero",
+      "translation": "I ’ ll bid Thesprio [*] come across to you . But remember , if the old gentlemen are at all savage , you , with your sister , to run and help me ."
+    },
+    {
+      "id": "5.1.659b",
+      "label": "Section 5.1.659b",
+      "chapter": null,
+      "original": "Facile istuc erit .—",
+      "translation": "That will be easy ."
+    },
+    {
+      "id": "5.1.660",
+      "label": "Section 5.1.660",
+      "chapter": null,
+      "original": "Thesprio , exi istac per hortum , adfer domum auxilium mihi ,",
+      "translation": "Thesprio , come this way through the garden . Come to my rescue at home ! The matter ’ s of importance ! ( To himself .) I care much less for the old fellows than I did just now . I ’ ll return in-doors , that the strangers may be attended to on their arrival . I ’ ll tell these same things that I know , in-doors to Stratippocles . I shall not take to flight ; I ’ m determined to be there at home , and he shan ’ t throw it in my teeth"
+    },
+    {
+      "id": "5.1.665",
+      "label": "Section 5.1.665",
+      "chapter": null,
+      "original": "pedibus sese provocatum . abeo intro , nimis longum loquor .—",
+      "translation": "that he has been provoked by my running away [*] . I ’ ll away in-doors ; I ’ ve been talking too long ."
+    },
+    {
+      "id": "5.2.666",
+      "label": "Section 5.2.666",
+      "chapter": null,
+      "original": "Satine illic homo ludibrio nos vetulos decrepitos duos",
+      "translation": "Hasn ’ t this fellow quite made a laughing-stock of us two decrepit old people [*] ?"
+    },
+    {
+      "id": "5.2.667b",
+      "label": "Section 5.2.667b",
+      "chapter": null,
+      "original": "Immo edepol tu quidem míserum med habes miseris modis .",
+      "translation": "Why yes , I ’ faith , you ’ ve really kept me plagued in a shocking fashion ."
+    },
+    {
+      "id": "5.2.668",
+      "label": "Section 5.2.668",
+      "chapter": null,
+      "original": "Tace sis , modo sine me hóminem apisci .",
+      "translation": "Now do hold your tongue . Only let me catch the fellow !"
+    },
+    {
+      "id": "5.2.668b",
+      "label": "Section 5.2.668b",
+      "chapter": null,
+      "original": "Dico ego tibi iam , ut scias :",
+      "translation": "I ’ ll tell you now , that you may know it . It ’ s best for you to seek another companion ; so much , while I ’ ve been following you ,"
+    },
+    {
+      "id": "5.2.670",
+      "label": "Section 5.2.670",
+      "chapter": null,
+      "original": "lassitudine invaserunt misero in genua flemina .",
+      "translation": "has the congested blood , from weariness , come down into the knees of poor me ."
+    },
+    {
+      "id": "5.2.671",
+      "label": "Section 5.2.671",
+      "chapter": null,
+      "original": "Quot illic homo hodie me exemplis ludificatust atque te ,",
+      "translation": "After how many fashions has this fellow made sport of me and you to-day ! besides , how he has disembowelled my silver resources for me !"
+    },
+    {
+      "id": "5.2.673",
+      "label": "Section 5.2.673",
+      "chapter": null,
+      "original": "Apage illum a me , nam ille quidem Volcani iratist filius :",
+      "translation": "Away with him from me ; for surely he ’ s the son of Vulcan in his wrath : wherever he touches , he sets all on fire ; if you stand by him , he scorches you with his heat ."
+    },
+    {
+      "id": "5.2.675",
+      "label": "Section 5.2.675",
+      "chapter": null,
+      "original": "Duodecim deis plus quam in caelo deorumst immortalium",
+      "translation": "More than the twelve Gods , the immortal Gods as many as are in the heavens , are now assistants in my rescue , and are fighting on my side . As to whatever I have offended in , I have aid and assistance at home [*] . All my enemies I quite spurn by the heels [*] ."
+    },
+    {
+      "id": "5.2.678b",
+      "label": "Section 5.2.678b",
+      "chapter": null,
+      "original": "Vbi illum quaeram gentium ?",
+      "translation": "Where in the world shall I look for him ?"
+    }
+  ],
+  "prevChunkSlug": "epidicus-1peem3-9",
+  "nextChunkSlug": "epidicus-1peem3-11"
+}

@@ -1,0 +1,61 @@
+{
+  "loebNumber": 193,
+  "sortOrder": 193,
+  "slug": "aristotle-art-of-rhetoric-7b7q9v",
+  "title": "Art of Rhetoric",
+  "volumeLabel": "Art of Rhetoric",
+  "authorDisplay": "Aristotle",
+  "authors": [
+    "Aristotle"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Art of Rhetoric, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "art-of-rhetoric-mxc9am",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "art-of-rhetoric-mxc9am",
+      "title": "Art of Rhetoric",
+      "status": "ready",
+      "sectionCount": 15,
+      "chunkSlug": "art-of-rhetoric-mxc9am",
+      "chunks": [
+        {
+          "slug": "art-of-rhetoric-mxc9am",
+          "label": "Art of Rhetoric",
+          "partId": "art-of-rhetoric-mxc9am",
+          "partTitle": "Art of Rhetoric",
+          "sectionCount": 15,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "art-of-rhetoric-mxc9am",
+      "label": "Art of Rhetoric",
+      "partId": "art-of-rhetoric-mxc9am",
+      "partTitle": "Art of Rhetoric",
+      "sectionCount": 15,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "art-of-rhetoric-mxc9am",
+      "partTitle": "Art of Rhetoric",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ῥητορική",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg038.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The \"Art\" of Rhetoric",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg038.perseus-eng2/"
+      }
+    }
+  ]
+}

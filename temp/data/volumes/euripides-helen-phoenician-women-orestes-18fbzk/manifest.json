@@ -1,0 +1,1249 @@
+{
+  "loebNumber": 11,
+  "sortOrder": 11,
+  "slug": "euripides-helen-phoenician-women-orestes-18fbzk",
+  "title": "Helen. Phoenician Women. Orestes",
+  "volumeLabel": "Helen. Phoenician Women. Orestes",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Helen. Phoenician Women. Orestes, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "helen-15fyzc-1",
+  "readyChunkCount": 40,
+  "contents": [
+    {
+      "id": "helen-15fyzc",
+      "title": "Helen",
+      "status": "ready",
+      "sectionCount": 753,
+      "chunkSlug": "helen-15fyzc-1",
+      "chunks": [
+        {
+          "slug": "helen-15fyzc-1",
+          "label": "Helen (Section 1 - Section 123)",
+          "partId": "helen-15fyzc",
+          "partTitle": "Helen",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "helen-15fyzc-2",
+          "label": "Helen (Section 124 - Section 293)",
+          "partId": "helen-15fyzc",
+          "partTitle": "Helen",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "helen-15fyzc-3",
+          "label": "Helen (Section 295 - Section 455)",
+          "partId": "helen-15fyzc",
+          "partTitle": "Helen",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "helen-15fyzc-4",
+          "label": "Helen (Section 456 - Section 573)",
+          "partId": "helen-15fyzc",
+          "partTitle": "Helen",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "helen-15fyzc-5",
+          "label": "Helen (Section 574 - Section 675)",
+          "partId": "helen-15fyzc",
+          "partTitle": "Helen",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "helen-15fyzc-6",
+          "label": "Helen (Section 676 - Section 791)",
+          "partId": "helen-15fyzc",
+          "partTitle": "Helen",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "helen-15fyzc-7",
+          "label": "Helen (Section 792 - Section 875)",
+          "partId": "helen-15fyzc",
+          "partTitle": "Helen",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "helen-15fyzc-8",
+          "label": "Helen (Section 880 - Section 1061)",
+          "partId": "helen-15fyzc",
+          "partTitle": "Helen",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "helen-15fyzc-9",
+          "label": "Helen (Section 1063 - Section 1212)",
+          "partId": "helen-15fyzc",
+          "partTitle": "Helen",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "helen-15fyzc-10",
+          "label": "Helen (Section 1213 - Section 1272)",
+          "partId": "helen-15fyzc",
+          "partTitle": "Helen",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "helen-15fyzc-11",
+          "label": "Helen (Section 1273 - Section 1435)",
+          "partId": "helen-15fyzc",
+          "partTitle": "Helen",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "helen-15fyzc-12",
+          "label": "Helen (Section 1440 - Section 1630)",
+          "partId": "helen-15fyzc",
+          "partTitle": "Helen",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "helen-15fyzc-13",
+          "label": "Helen (Section 1630b - Section 1690)",
+          "partId": "helen-15fyzc",
+          "partTitle": "Helen",
+          "sectionCount": 33,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "phoenician-women-u9p4q",
+      "title": "Phoenician Women",
+      "status": "ready",
+      "sectionCount": 736,
+      "chunkSlug": "phoenician-women-u9p4q-1",
+      "chunks": [
+        {
+          "slug": "phoenician-women-u9p4q-1",
+          "label": "Phoenician Women (Section 1 - Section 170)",
+          "partId": "phoenician-women-u9p4q",
+          "partTitle": "Phoenician Women",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phoenician-women-u9p4q-2",
+          "label": "Phoenician Women (Section 171b - Section 379)",
+          "partId": "phoenician-women-u9p4q",
+          "partTitle": "Phoenician Women",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phoenician-women-u9p4q-3",
+          "label": "Phoenician Women (Section 380 - Section 490)",
+          "partId": "phoenician-women-u9p4q",
+          "partTitle": "Phoenician Women",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phoenician-women-u9p4q-4",
+          "label": "Phoenician Women (Section 495 - Section 612)",
+          "partId": "phoenician-women-u9p4q",
+          "partTitle": "Phoenician Women",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phoenician-women-u9p4q-5",
+          "label": "Phoenician Women (Section 612b - Section 719)",
+          "partId": "phoenician-women-u9p4q",
+          "partTitle": "Phoenician Women",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phoenician-women-u9p4q-6",
+          "label": "Phoenician Women (Section 720 - Section 855)",
+          "partId": "phoenician-women-u9p4q",
+          "partTitle": "Phoenician Women",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phoenician-women-u9p4q-7",
+          "label": "Phoenician Women (Section 858 - Section 981)",
+          "partId": "phoenician-women-u9p4q",
+          "partTitle": "Phoenician Women",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phoenician-women-u9p4q-8",
+          "label": "Phoenician Women (Section 981b - Section 1141)",
+          "partId": "phoenician-women-u9p4q",
+          "partTitle": "Phoenician Women",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phoenician-women-u9p4q-9",
+          "label": "Phoenician Women (Section 1145 - Section 1.1285)",
+          "partId": "phoenician-women-u9p4q",
+          "partTitle": "Phoenician Women",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phoenician-women-u9p4q-10",
+          "label": "Phoenician Women (Section 1.1290 - Section 1465)",
+          "partId": "phoenician-women-u9p4q",
+          "partTitle": "Phoenician Women",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phoenician-women-u9p4q-11",
+          "label": "Phoenician Women (Section 1470 - Section 1657)",
+          "partId": "phoenician-women-u9p4q",
+          "partTitle": "Phoenician Women",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phoenician-women-u9p4q-12",
+          "label": "Phoenician Women (Section 1658 - Section 1730)",
+          "partId": "phoenician-women-u9p4q",
+          "partTitle": "Phoenician Women",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phoenician-women-u9p4q-13",
+          "label": "Phoenician Women (Section 1732 - Section 1765)",
+          "partId": "phoenician-women-u9p4q",
+          "partTitle": "Phoenician Women",
+          "sectionCount": 16,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "orestes-7l7ixd",
+      "title": "Orestes",
+      "status": "ready",
+      "sectionCount": 827,
+      "chunkSlug": "orestes-7l7ixd-1",
+      "chunks": [
+        {
+          "slug": "orestes-7l7ixd-1",
+          "label": "Orestes (Section 1 - Section 1.145)",
+          "partId": "orestes-7l7ixd",
+          "partTitle": "Orestes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "orestes-7l7ixd-2",
+          "label": "Orestes (Section 1.147 - Section 262)",
+          "partId": "orestes-7l7ixd",
+          "partTitle": "Orestes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "orestes-7l7ixd-3",
+          "label": "Orestes (Section 264 - Section 406)",
+          "partId": "orestes-7l7ixd",
+          "partTitle": "Orestes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "orestes-7l7ixd-4",
+          "label": "Orestes (Section 407 - Section 486)",
+          "partId": "orestes-7l7ixd",
+          "partTitle": "Orestes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "orestes-7l7ixd-5",
+          "label": "Orestes (Section 487 - Section 670)",
+          "partId": "orestes-7l7ixd",
+          "partTitle": "Orestes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "orestes-7l7ixd-6",
+          "label": "Orestes (Section 671 - Section 774)",
+          "partId": "orestes-7l7ixd",
+          "partTitle": "Orestes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "orestes-7l7ixd-7",
+          "label": "Orestes (Section 774b - Section 831)",
+          "partId": "orestes-7l7ixd",
+          "partTitle": "Orestes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "orestes-7l7ixd-8",
+          "label": "Orestes (Section 835 - Section 1027)",
+          "partId": "orestes-7l7ixd",
+          "partTitle": "Orestes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "orestes-7l7ixd-9",
+          "label": "Orestes (Section 1029 - Section 1128)",
+          "partId": "orestes-7l7ixd",
+          "partTitle": "Orestes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "orestes-7l7ixd-10",
+          "label": "Orestes (Section 1129 - Section 1.1258)",
+          "partId": "orestes-7l7ixd",
+          "partTitle": "Orestes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "orestes-7l7ixd-11",
+          "label": "Orestes (Section 1.1260 - Section 1370)",
+          "partId": "orestes-7l7ixd",
+          "partTitle": "Orestes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "orestes-7l7ixd-12",
+          "label": "Orestes (Section 1375 - Section 1525c)",
+          "partId": "orestes-7l7ixd",
+          "partTitle": "Orestes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "orestes-7l7ixd-13",
+          "label": "Orestes (Section 1526 - Section 1605b)",
+          "partId": "orestes-7l7ixd",
+          "partTitle": "Orestes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "orestes-7l7ixd-14",
+          "label": "Orestes (Section 1606 - Section 1691)",
+          "partId": "orestes-7l7ixd",
+          "partTitle": "Orestes",
+          "sectionCount": 47,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "helen-15fyzc-1",
+      "label": "Helen (Section 1 - Section 123)",
+      "partId": "helen-15fyzc",
+      "partTitle": "Helen",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "helen-15fyzc-2",
+      "label": "Helen (Section 124 - Section 293)",
+      "partId": "helen-15fyzc",
+      "partTitle": "Helen",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "helen-15fyzc-3",
+      "label": "Helen (Section 295 - Section 455)",
+      "partId": "helen-15fyzc",
+      "partTitle": "Helen",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "helen-15fyzc-4",
+      "label": "Helen (Section 456 - Section 573)",
+      "partId": "helen-15fyzc",
+      "partTitle": "Helen",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "helen-15fyzc-5",
+      "label": "Helen (Section 574 - Section 675)",
+      "partId": "helen-15fyzc",
+      "partTitle": "Helen",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "helen-15fyzc-6",
+      "label": "Helen (Section 676 - Section 791)",
+      "partId": "helen-15fyzc",
+      "partTitle": "Helen",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "helen-15fyzc-7",
+      "label": "Helen (Section 792 - Section 875)",
+      "partId": "helen-15fyzc",
+      "partTitle": "Helen",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "helen-15fyzc-8",
+      "label": "Helen (Section 880 - Section 1061)",
+      "partId": "helen-15fyzc",
+      "partTitle": "Helen",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "helen-15fyzc-9",
+      "label": "Helen (Section 1063 - Section 1212)",
+      "partId": "helen-15fyzc",
+      "partTitle": "Helen",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "helen-15fyzc-10",
+      "label": "Helen (Section 1213 - Section 1272)",
+      "partId": "helen-15fyzc",
+      "partTitle": "Helen",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "helen-15fyzc-11",
+      "label": "Helen (Section 1273 - Section 1435)",
+      "partId": "helen-15fyzc",
+      "partTitle": "Helen",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "helen-15fyzc-12",
+      "label": "Helen (Section 1440 - Section 1630)",
+      "partId": "helen-15fyzc",
+      "partTitle": "Helen",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "helen-15fyzc-13",
+      "label": "Helen (Section 1630b - Section 1690)",
+      "partId": "helen-15fyzc",
+      "partTitle": "Helen",
+      "sectionCount": 33,
+      "status": "ready"
+    },
+    {
+      "slug": "phoenician-women-u9p4q-1",
+      "label": "Phoenician Women (Section 1 - Section 170)",
+      "partId": "phoenician-women-u9p4q",
+      "partTitle": "Phoenician Women",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phoenician-women-u9p4q-2",
+      "label": "Phoenician Women (Section 171b - Section 379)",
+      "partId": "phoenician-women-u9p4q",
+      "partTitle": "Phoenician Women",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phoenician-women-u9p4q-3",
+      "label": "Phoenician Women (Section 380 - Section 490)",
+      "partId": "phoenician-women-u9p4q",
+      "partTitle": "Phoenician Women",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phoenician-women-u9p4q-4",
+      "label": "Phoenician Women (Section 495 - Section 612)",
+      "partId": "phoenician-women-u9p4q",
+      "partTitle": "Phoenician Women",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phoenician-women-u9p4q-5",
+      "label": "Phoenician Women (Section 612b - Section 719)",
+      "partId": "phoenician-women-u9p4q",
+      "partTitle": "Phoenician Women",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phoenician-women-u9p4q-6",
+      "label": "Phoenician Women (Section 720 - Section 855)",
+      "partId": "phoenician-women-u9p4q",
+      "partTitle": "Phoenician Women",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phoenician-women-u9p4q-7",
+      "label": "Phoenician Women (Section 858 - Section 981)",
+      "partId": "phoenician-women-u9p4q",
+      "partTitle": "Phoenician Women",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phoenician-women-u9p4q-8",
+      "label": "Phoenician Women (Section 981b - Section 1141)",
+      "partId": "phoenician-women-u9p4q",
+      "partTitle": "Phoenician Women",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phoenician-women-u9p4q-9",
+      "label": "Phoenician Women (Section 1145 - Section 1.1285)",
+      "partId": "phoenician-women-u9p4q",
+      "partTitle": "Phoenician Women",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phoenician-women-u9p4q-10",
+      "label": "Phoenician Women (Section 1.1290 - Section 1465)",
+      "partId": "phoenician-women-u9p4q",
+      "partTitle": "Phoenician Women",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phoenician-women-u9p4q-11",
+      "label": "Phoenician Women (Section 1470 - Section 1657)",
+      "partId": "phoenician-women-u9p4q",
+      "partTitle": "Phoenician Women",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phoenician-women-u9p4q-12",
+      "label": "Phoenician Women (Section 1658 - Section 1730)",
+      "partId": "phoenician-women-u9p4q",
+      "partTitle": "Phoenician Women",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phoenician-women-u9p4q-13",
+      "label": "Phoenician Women (Section 1732 - Section 1765)",
+      "partId": "phoenician-women-u9p4q",
+      "partTitle": "Phoenician Women",
+      "sectionCount": 16,
+      "status": "ready"
+    },
+    {
+      "slug": "orestes-7l7ixd-1",
+      "label": "Orestes (Section 1 - Section 1.145)",
+      "partId": "orestes-7l7ixd",
+      "partTitle": "Orestes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "orestes-7l7ixd-2",
+      "label": "Orestes (Section 1.147 - Section 262)",
+      "partId": "orestes-7l7ixd",
+      "partTitle": "Orestes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "orestes-7l7ixd-3",
+      "label": "Orestes (Section 264 - Section 406)",
+      "partId": "orestes-7l7ixd",
+      "partTitle": "Orestes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "orestes-7l7ixd-4",
+      "label": "Orestes (Section 407 - Section 486)",
+      "partId": "orestes-7l7ixd",
+      "partTitle": "Orestes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "orestes-7l7ixd-5",
+      "label": "Orestes (Section 487 - Section 670)",
+      "partId": "orestes-7l7ixd",
+      "partTitle": "Orestes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "orestes-7l7ixd-6",
+      "label": "Orestes (Section 671 - Section 774)",
+      "partId": "orestes-7l7ixd",
+      "partTitle": "Orestes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "orestes-7l7ixd-7",
+      "label": "Orestes (Section 774b - Section 831)",
+      "partId": "orestes-7l7ixd",
+      "partTitle": "Orestes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "orestes-7l7ixd-8",
+      "label": "Orestes (Section 835 - Section 1027)",
+      "partId": "orestes-7l7ixd",
+      "partTitle": "Orestes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "orestes-7l7ixd-9",
+      "label": "Orestes (Section 1029 - Section 1128)",
+      "partId": "orestes-7l7ixd",
+      "partTitle": "Orestes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "orestes-7l7ixd-10",
+      "label": "Orestes (Section 1129 - Section 1.1258)",
+      "partId": "orestes-7l7ixd",
+      "partTitle": "Orestes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "orestes-7l7ixd-11",
+      "label": "Orestes (Section 1.1260 - Section 1370)",
+      "partId": "orestes-7l7ixd",
+      "partTitle": "Orestes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "orestes-7l7ixd-12",
+      "label": "Orestes (Section 1375 - Section 1525c)",
+      "partId": "orestes-7l7ixd",
+      "partTitle": "Orestes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "orestes-7l7ixd-13",
+      "label": "Orestes (Section 1526 - Section 1605b)",
+      "partId": "orestes-7l7ixd",
+      "partTitle": "Orestes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "orestes-7l7ixd-14",
+      "label": "Orestes (Section 1606 - Section 1691)",
+      "partId": "orestes-7l7ixd",
+      "partTitle": "Orestes",
+      "sectionCount": 47,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "helen-15fyzc-1",
+      "partTitle": "Helen",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἑλένη",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Helen",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "helen-15fyzc-2",
+      "partTitle": "Helen",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἑλένη",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Helen",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "helen-15fyzc-3",
+      "partTitle": "Helen",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἑλένη",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Helen",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "helen-15fyzc-4",
+      "partTitle": "Helen",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἑλένη",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Helen",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "helen-15fyzc-5",
+      "partTitle": "Helen",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἑλένη",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Helen",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "helen-15fyzc-6",
+      "partTitle": "Helen",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἑλένη",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Helen",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "helen-15fyzc-7",
+      "partTitle": "Helen",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἑλένη",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Helen",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "helen-15fyzc-8",
+      "partTitle": "Helen",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἑλένη",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Helen",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "helen-15fyzc-9",
+      "partTitle": "Helen",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἑλένη",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Helen",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "helen-15fyzc-10",
+      "partTitle": "Helen",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἑλένη",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Helen",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "helen-15fyzc-11",
+      "partTitle": "Helen",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἑλένη",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Helen",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "helen-15fyzc-12",
+      "partTitle": "Helen",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἑλένη",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Helen",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "helen-15fyzc-13",
+      "partTitle": "Helen",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἑλένη",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Helen",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phoenician-women-u9p4q-1",
+      "partTitle": "Phoenician Women",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Φοίνισσαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Phoenician Maidens",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phoenician-women-u9p4q-2",
+      "partTitle": "Phoenician Women",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Φοίνισσαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Phoenician Maidens",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phoenician-women-u9p4q-3",
+      "partTitle": "Phoenician Women",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Φοίνισσαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Phoenician Maidens",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phoenician-women-u9p4q-4",
+      "partTitle": "Phoenician Women",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Φοίνισσαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Phoenician Maidens",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phoenician-women-u9p4q-5",
+      "partTitle": "Phoenician Women",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Φοίνισσαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Phoenician Maidens",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phoenician-women-u9p4q-6",
+      "partTitle": "Phoenician Women",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Φοίνισσαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Phoenician Maidens",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phoenician-women-u9p4q-7",
+      "partTitle": "Phoenician Women",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Φοίνισσαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Phoenician Maidens",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phoenician-women-u9p4q-8",
+      "partTitle": "Phoenician Women",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Φοίνισσαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Phoenician Maidens",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phoenician-women-u9p4q-9",
+      "partTitle": "Phoenician Women",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Φοίνισσαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Phoenician Maidens",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phoenician-women-u9p4q-10",
+      "partTitle": "Phoenician Women",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Φοίνισσαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Phoenician Maidens",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phoenician-women-u9p4q-11",
+      "partTitle": "Phoenician Women",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Φοίνισσαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Phoenician Maidens",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phoenician-women-u9p4q-12",
+      "partTitle": "Phoenician Women",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Φοίνισσαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Phoenician Maidens",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phoenician-women-u9p4q-13",
+      "partTitle": "Phoenician Women",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Φοίνισσαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Phoenician Maidens",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "orestes-7l7ixd-1",
+      "partTitle": "Orestes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὀρέστης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Orestes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "orestes-7l7ixd-2",
+      "partTitle": "Orestes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὀρέστης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Orestes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "orestes-7l7ixd-3",
+      "partTitle": "Orestes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὀρέστης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Orestes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "orestes-7l7ixd-4",
+      "partTitle": "Orestes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὀρέστης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Orestes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "orestes-7l7ixd-5",
+      "partTitle": "Orestes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὀρέστης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Orestes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "orestes-7l7ixd-6",
+      "partTitle": "Orestes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὀρέστης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Orestes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "orestes-7l7ixd-7",
+      "partTitle": "Orestes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὀρέστης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Orestes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "orestes-7l7ixd-8",
+      "partTitle": "Orestes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὀρέστης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Orestes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "orestes-7l7ixd-9",
+      "partTitle": "Orestes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὀρέστης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Orestes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "orestes-7l7ixd-10",
+      "partTitle": "Orestes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὀρέστης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Orestes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "orestes-7l7ixd-11",
+      "partTitle": "Orestes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὀρέστης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Orestes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "orestes-7l7ixd-12",
+      "partTitle": "Orestes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὀρέστης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Orestes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "orestes-7l7ixd-13",
+      "partTitle": "Orestes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὀρέστης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Orestes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "orestes-7l7ixd-14",
+      "partTitle": "Orestes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὀρέστης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Orestes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-eng2/"
+      }
+    }
+  ]
+}

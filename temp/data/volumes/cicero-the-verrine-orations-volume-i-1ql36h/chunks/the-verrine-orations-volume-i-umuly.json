@@ -1,0 +1,66 @@
+{
+  "volumeSlug": "cicero-the-verrine-orations-volume-i-1ql36h",
+  "volumeTitle": "The Verrine Orations, Volume I",
+  "authorDisplay": "Cicero",
+  "authors": [
+    "Cicero"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-verrine-orations-volume-i-umuly",
+  "label": "The Verrine Orations, Volume I",
+  "partId": "the-verrine-orations-volume-i-umuly",
+  "partTitle": "The Verrine Orations, Volume I",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "In C. Verrem",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi005.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Against Verres",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi005.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1.1",
+      "label": "Section 1.1.1",
+      "chapter": null,
+      "original": "quod erat optandum maxime , iudices , et quod unum ad invidiam vestri ordinis infamiamque iudiciorum sedandam maxime pertinebat , id non humano consilio sed prope divinitus datum atque oblatum vobis [*] summo rei publicae tempore videtur . inveteravit enim iam opinio perniciosa rei publicae vobisque periculosa , quae non modo apud nos sed apud exteras nationes [*] omnium sermone percrebruit , his iudiciis quae nunc sunt pecuniosum hominem , quamvis sit nocens , neminem posse damnari .",
+      "translation": "That which was above all things to be desired , O judges , and which above all things was calculated to have the greatest influence towards allaying the unpopularity of your order , and putting an end to the discredit into which your judicial decisions have fallen , appears to have been thrown in your way , and given to you not by any human contrivance , but almost by the interposition of the gods , at a most important crisis of the republic . For an opinion has now become established , pernicious to us , and pernicious to the republic , which has been the common talk of every one , not only at Rome , but among foreign nations also ,— that in the courts of law as they exist at present , no wealthy man , however guilty he may be , can possibly be convicted ."
+    },
+    {
+      "id": "1.1.2",
+      "label": "Section 1.1.2",
+      "chapter": null,
+      "original": "nunc in ipso discrimine ordinis iudiciorumque vestrorum , cum sint parati qui contionibus et legibus hanc invidiam senatus inflammare conentur , reus in iudicium adductus est C . Verres , homo vita atque factis omnium iam opinione damnatus , pecuniae magnitudine sua spe et praedicatione absolutus . huic ego causae , iudices , cum summa voluntate et exspectatione populi Romani actor accessi , non ut augerem invidiam ordinis , sed ut infamiae communi succurrerem . adduxi enim hominem in quo reconciliare existimationem iudiciorum amissam , redire in gratiam cum populo Romano , satis facere exteris nationibus possetis , depeculatorem aerari , vexatorem Asiae atque Pamphyliae , praedonem iuris urbani [*] , labem atque perniciem provinciae Siciliae .",
+      "translation": "Now at this time of peril to your order and to your tribunals , when men are ready to attempt by harangues , and by the proposal of new laws , to increase the existing unpopularity of the senate , Caius Verres is brought to trial as a criminal , a man condemned in the opinion of every one by his life and actions , but acquitted by the enormousness of his wealth according to his own hope and boast . I , O judges , have undertaken this cause as prosecutor with the greatest good wishes and expectation on the part of the Roman people , not in order to increase the unpopularity of the senate , but to relieve it from the discredit which I share with it . For I have brought before you a man , by acting justly in whose case you have an opportunity of retrieving the lost credit of your judicial proceedings , of regaining your credit with the Roman people , and of giving satisfaction to foreign nations ; a man , the embezzler of the public funds , the petty tyrant of Asia and Pamphylia , the robber who deprived the city of its rights , the disgrace and ruin of the province of Sicily ."
+    },
+    {
+      "id": "1.1.3",
+      "label": "Section 1.1.3",
+      "chapter": null,
+      "original": "de quo si vos severe ac religiose iudicaveritis , auctoritas ea quae [*] in vobis remanere debet haerebit ; sin istius ingentes divitiae iudiciorum religionem veritatemque perfregerint , ego hoc tamen adsequar , ut iudicium potius rei publicae quam aut reus iudicibus aut accusator reo defuisse videatur . 2 equidem ut de me confitear , iudices , cum multae mihi a C . Verre insidiae terra marique factae sint , quas partim mea diligentia devitarim , partim amicorum studio officioque reppulerim , numquam tamen neque tantum periculum mihi adire visus sum neque tanto opere pertimui ut nunc in ipso iudicio .",
+      "translation": "And if you come to a decision about this man with severity and a due regard to your oaths , that authority which ought to remain in you will cling to you still ; but if that man ' s vast riches shall break down the sanctity and honesty of the courts of justice , at least I shall achieve this , that it shall be plain that it was rather honest judgment that was wanting to the republic , than a criminal to the judges , or an accuser to the criminal . 2 I , indeed , that I may confess to you the truth about myself , O judges , though many snares were laid for me by Caius Verres , both by land and sea , which I partly avoided by my own vigilance , and partly warded off by the zeal and kindness of my friends , yet I never seemed to be incurring so much danger , and I never was in such a state of great apprehension , as I am now in this very court of law ."
+    },
+    {
+      "id": "1.1.4",
+      "label": "Section 1.1.4",
+      "chapter": null,
+      "original": "neque tantum me exspectatio accusationis meae concursusque tantae multitudinis , quibus ego rebus vehementissime perturbor , commovet quantum istius insidiae nefariae , quas uno tempore mihi , vobis , M '. Glabrioni , populo Romano [*] , sociis , exteris nationibus , ordini , nomini denique senatorio facere conatur ; qui ita dictitat , iis esse metuendum qui quod ipsis solis satis esset surripuissent , se tantum eripuisse [*] ut id multis satis esse possit [*] ; nihil esse tam sanctum quod non violari , nihil tam munitum quod non expugnari pecunia possit .",
+      "translation": "Nor does the expectation which people have formed of my conduct of this prosecution , nor this concourse of so vast a multitude as is here assembled , influence me ( though indeed I am greatly agitated by these circumstances ) so much as his nefarious plots which he is endeavouring to lay at one and the same time against me , against you , against Marcus Gabrio the praetor , and against the allies , against foreign nations , against the senate , and even against the very name of senator ; whose favourite saying it is that they have got to fear who have stolen only as much as is enough for themselves , but that he has stolen so much that it may easily be plenty for many ; that nothing is so holy that it cannot be corrupted , or so strongly fortified that it cannot be stormed by money ."
+    },
+    {
+      "id": "1.1.5",
+      "label": "Section 1.1.5",
+      "chapter": null,
+      "original": "quodsi quam audax est ad conandum tam esset obscurus in agendo , fortasse aliqua in re nos aliquando fefellisset ; verum hoc adhuc percommode cadit , quod cum incredibili eius audacia singularis stultitia coniuncta est ; nam ut apertus in corripiendis pecuniis fuit , sic in spe corrumpendi iudici perspicua sua consilia conatusque omnibus fecit . semel ait se in vita pertimuisse ,— tum cum primum [*] a me reus factus sit ; quod , cum e provincia recens esset , invidiaque et infamia non recenti sed vetere ac diuturna flagraret , tum ad iudicium corrumpendum tempus alienum offenderet .",
+      "translation": "But if he were as secret in acting as he is audacious in attempting , perhaps in some particular he might some time or other have escaped our notice . But it happens very fortunately that to his incredible audacity there is joined a most unexampled folly . For as he was unconcealed in committing his robberies of money , so in his hope of corrupting the judges he has made his intentions and endeavours visible to every one . He says that once only in his life has he felt fear : at the time when he was first impeached as a criminal by me ; because he was only lately arrived from his province , and was branded with unpopularity and infamy , not modern but ancient and of long standing ; and , besides that , the time was unlucky , being very ill-suited for corrupting the judges ."
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": null
+}

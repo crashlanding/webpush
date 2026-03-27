@@ -1,0 +1,437 @@
+{
+  "volumeSlug": "euripides-cyclops-alcestis-medea-19z9hm",
+  "volumeTitle": "Cyclops. Alcestis. Medea",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "cyclops-1btvhe-6",
+  "label": "Cyclops (Section 635 - Section 708)",
+  "partId": "cyclops-1btvhe",
+  "partTitle": "Cyclops",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Κύκλωψ",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg001.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "The Cyclops",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg001.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "635",
+      "label": "Section 635",
+      "chapter": null,
+      "original": "ἡμεῖς μέν ἐσμεν μακροτέρω πρὸ τῶν θυρῶν",
+      "translation": "Standing where I am before the door , I am too far off to thrust the fire into his eye ."
+    },
+    {
+      "id": "637",
+      "label": "Section 637",
+      "chapter": null,
+      "original": "ἡμεῖς δὲ χωλοί γ ’ ἀρτίως γεγενήμεθα .",
+      "translation": "I have just gone lame ."
+    },
+    {
+      "id": "638",
+      "label": "Section 638",
+      "chapter": null,
+      "original": "ταὐτὸν πεπόνθατ ’ ἆρ ’ ἐμοί · τοὺς γὰρ πόδας",
+      "translation": "Why , then , thou art in the same plight as I ; for somehow or other I sprained my ankle , standing still ."
+    },
+    {
+      "id": "640",
+      "label": "Section 640",
+      "chapter": null,
+      "original": "ἑστῶτες ἐσπάσθητε ;",
+      "translation": "Sprained thy ankle , standing still ?"
+    },
+    {
+      "id": "640b",
+      "label": "Section 640b",
+      "chapter": null,
+      "original": "καὶ τά γ ’ ὄμματα",
+      "translation": "Yes , and my eyes are full of dust or ashes from somewhere or other ."
+    },
+    {
+      "id": "642",
+      "label": "Section 642",
+      "chapter": null,
+      "original": "ἄνδρες πονηροὶ κοὐδὲν οἵδε σύμμαχοι .",
+      "translation": "These are sorry fellows , worthless as allies ."
+    },
+    {
+      "id": "643",
+      "label": "Section 643",
+      "chapter": null,
+      "original": "ὁτιὴ τὸ νῶτον τὴν ῥάχιν τ ’ οἰκτίρομεν",
+      "translation": "Because I feel for my back and spine , and express no wish to have my teeth"
+    },
+    {
+      "id": "645",
+      "label": "Section 645",
+      "chapter": null,
+      "original": "τυπτόμενος , αὕτη γίγνεται πονηρία ;",
+      "translation": "knocked out , I am a coward , am I ? Well , but I know a spell of Orpheus , a most excellent one , to make the brand enter his skull of its own accord , and set alight the one-eyed son of Earth ."
+    },
+    {
+      "id": "649",
+      "label": "Section 649",
+      "chapter": null,
+      "original": "πάλαι μὲν ᾔδη σ ’ ὄντα τοιοῦτον φύσει ,",
+      "translation": "Long since I knew thou wert by nature such an one ,"
+    },
+    {
+      "id": "650",
+      "label": "Section 650",
+      "chapter": null,
+      "original": "νῦν δ ’ οἶδ ’ ἄμεινον . τοῖσι δ ’ οἰκείοις φίλοις",
+      "translation": "and now I know it better ; I must employ my own friends ; but , though thou bring no active aid , cheer us on at any rate , that I may find my friends emboldened by thy encouragement . [ Exit Odysseus ."
+    },
+    {
+      "id": "654",
+      "label": "Section 654",
+      "chapter": null,
+      "original": "δράσω τάδ ’. ἐν τῷ Καρὶ κινδυνεύσομεν .",
+      "translation": "That will I do ; the Carian [*] shall run the risk for us ;"
+    },
+    {
+      "id": "655",
+      "label": "Section 655",
+      "chapter": null,
+      "original": "κελευσμάτων δ ’ ἕκατι τυφέσθω Κύκλωψ .",
+      "translation": "and as far as encouragement goes , let the Cyclops smoulder ."
+    },
+    {
+      "id": "656",
+      "label": "Section 656",
+      "chapter": null,
+      "original": "ἰὼ ἰώ · γενναιότατ ’ ὠ-",
+      "translation": "What ho ! my gallants , thrust away , make haste and burn his eye-brow off , the monster ’ s guest-devouring . Oh ! singe and scorch"
+    },
+    {
+      "id": "660",
+      "label": "Section 660",
+      "chapter": null,
+      "original": "τὸν Αἴτνας μηλονόμον .",
+      "translation": "the shepherd of Aetna ; twirl the brand and drag it round and be careful lest in his agony he treat thee to some wantonness ."
+    },
+    {
+      "id": "663",
+      "label": "Section 663",
+      "chapter": null,
+      "original": "ὤμοι , κατηνθρακώμεθ ’ ὀφθαλμοῦ σέλας .",
+      "translation": "( Bellowing in the cave .) Oh ! oh ! my once bright eye is burnt to cinders now ."
+    },
+    {
+      "id": "664",
+      "label": "Section 664",
+      "chapter": null,
+      "original": "καλός γ ’ ὁ παιάν · μέλπε μοι τόνδ ’, ὦ Κύκλωψ .",
+      "translation": "Sweet indeed the triumph-song ; pray sing it to us , Cyclops ."
+    },
+    {
+      "id": "665",
+      "label": "Section 665",
+      "chapter": null,
+      "original": "ὤμοι μάλ ’, ὡς ὑβρίσμεθ ’, ὡς ὀλώλαμεν .",
+      "translation": "( from within .) Oh ! oh ! once more ; what outrage on me and what ruin ! But never shall ye escape this rocky cave unpunished , ye worthless creatures ; for I will stand in the entrance of the cleft and fit my hands into it thus . [ Staggering to the entrance ."
+    },
+    {
+      "id": "669",
+      "label": "Section 669",
+      "chapter": null,
+      "original": "τί χρῆμ ’ ἀυτεῖς , ὦ Κύκλωψ ;",
+      "translation": "Why dost thou cry out , Cyclops ?"
+    },
+    {
+      "id": "669b",
+      "label": "Section 669b",
+      "chapter": null,
+      "original": "ἀπωλόμην .",
+      "translation": "I am undone ."
+    },
+    {
+      "id": "670",
+      "label": "Section 670",
+      "chapter": null,
+      "original": "αἰσχρός γε φαίνῃ .",
+      "translation": "Thou art indeed a sorry sight ."
+    },
+    {
+      "id": "670b",
+      "label": "Section 670b",
+      "chapter": null,
+      "original": "κἀπὶ τοῖσδέ γ ’ ἄθλιος .",
+      "translation": "Aye , and a sad one , too ."
+    },
+    {
+      "id": "671",
+      "label": "Section 671",
+      "chapter": null,
+      "original": "μεθύων κατέπεσες ἐς μέσους τοὺς ἄνθρακας ;",
+      "translation": "Didst fall among the coals in a drunken fit ?"
+    },
+    {
+      "id": "672",
+      "label": "Section 672",
+      "chapter": null,
+      "original": "Οὖτίς μ ’ ἀπώλεσ ’.",
+      "translation": "Noman has undone me ."
+    },
+    {
+      "id": "672b",
+      "label": "Section 672b",
+      "chapter": null,
+      "original": "οὐκ ἄρ ’ οὐδεὶς ἠδίκει .",
+      "translation": "Then there is no one hurting thee after all ."
+    },
+    {
+      "id": "673",
+      "label": "Section 673",
+      "chapter": null,
+      "original": "Οὖτίς με τυφλοῖ βλέφαρον .",
+      "translation": "Noman is blinding me ."
+    },
+    {
+      "id": "673b",
+      "label": "Section 673b",
+      "chapter": null,
+      "original": "οὐκ ἄρ ’ εἶ τυφλός .",
+      "translation": "Then art thou not blind ."
+    },
+    {
+      "id": "674",
+      "label": "Section 674",
+      "chapter": null,
+      "original": "ὡς δὴ σύ —",
+      "translation": "As blind as thou , forsooth . [*]"
+    },
+    {
+      "id": "674b",
+      "label": "Section 674b",
+      "chapter": null,
+      "original": "καὶ πῶς σ ’ οὔτις ἂν θείη τυφλόν ;",
+      "translation": "How , pray , could no man have made thee blind ?"
+    },
+    {
+      "id": "675",
+      "label": "Section 675",
+      "chapter": null,
+      "original": "σκώπτεις . ὁ δ ’ Οὖτις ποῦ ’ στιν ;",
+      "translation": "Thou mockest me ; but where is this Noman ."
+    },
+    {
+      "id": "675b",
+      "label": "Section 675b",
+      "chapter": null,
+      "original": "οὐδαμοῦ , Κύκλωψ .",
+      "translation": "Nowhere , Cyclops ."
+    },
+    {
+      "id": "676",
+      "label": "Section 676",
+      "chapter": null,
+      "original": "ὁ ξένος , ἵν ’ ὀρθῶς ἐκμάθῃς , μ ’ ἀπώλεσεν ,",
+      "translation": "It was the stranger , vile wretch ! who proved my ruin , that thou mayst understand rightly , by swilling me with the liquor he gave me ."
+    },
+    {
+      "id": "678",
+      "label": "Section 678",
+      "chapter": null,
+      "original": "δεινὸς γὰρ οἷνος καὶ παλαίεσθαι βαρύς .",
+      "translation": "Ah ! wine is a terrible foe , hard to wrestle with ."
+    },
+    {
+      "id": "679",
+      "label": "Section 679",
+      "chapter": null,
+      "original": "πρὸς θεῶν , πεφεύγασ ’ ἢ μένουσ ’ ἔσω δόμων ;",
+      "translation": "Tell me , I adjure thee , have they escaped or are they still within ?"
+    },
+    {
+      "id": "680",
+      "label": "Section 680",
+      "chapter": null,
+      "original": "οὗτοι σιωπῇ τὴν πέτραν ἐπήλυγα",
+      "translation": "Here they are ranged in silence , taking the rock to screen them ."
+    },
+    {
+      "id": "681b",
+      "label": "Section 681b",
+      "chapter": null,
+      "original": "ποτέρας τῆς χερός ;",
+      "translation": "On which side ?"
+    },
+    {
+      "id": "682",
+      "label": "Section 682",
+      "chapter": null,
+      "original": "ἐν δεξιᾷ σου .",
+      "translation": "On thy right ."
+    },
+    {
+      "id": "682b",
+      "label": "Section 682b",
+      "chapter": null,
+      "original": "ποῦ ;",
+      "translation": "Where ?"
+    },
+    {
+      "id": "682c",
+      "label": "Section 682c",
+      "chapter": null,
+      "original": "πρὸς αὐτῇ τῇ πέτρᾳ .",
+      "translation": "Close against the rock . Hast caught them ?"
+    },
+    {
+      "id": "683b",
+      "label": "Section 683b",
+      "chapter": null,
+      "original": "κακόν γε πρὸς κακῷ · τὸ κρανίον",
+      "translation": "Trouble on trouble ! I have run my skull against the rock and cracked it ."
+    },
+    {
+      "id": "684b",
+      "label": "Section 684b",
+      "chapter": null,
+      "original": "καί σε διαφεύγουσί γε .",
+      "translation": "Aye , and they are escaping thee ."
+    },
+    {
+      "id": "685",
+      "label": "Section 685",
+      "chapter": null,
+      "original": "οὐ τῇδ ’· ἐπεὶ τῇδ ’ εἶπας ;",
+      "translation": "This way , was it not ? ’ Twas this way thou saidst ."
+    },
+    {
+      "id": "685b",
+      "label": "Section 685b",
+      "chapter": null,
+      "original": "οὔ · ταύτῃ λέγω .",
+      "translation": "No , not this way ."
+    },
+    {
+      "id": "686",
+      "label": "Section 686",
+      "chapter": null,
+      "original": "πῇ γάρ ;",
+      "translation": "Which then ?"
+    },
+    {
+      "id": "686b",
+      "label": "Section 686b",
+      "chapter": null,
+      "original": "περιάγου , κεῖσε , πρὸς τἀριστερά .",
+      "translation": "They are getting round thee on the left ."
+    },
+    {
+      "id": "687",
+      "label": "Section 687",
+      "chapter": null,
+      "original": "οἴμοι γελῶμαι · κερτομεῖτέ μ ’ ἐν κακοῖς .",
+      "translation": "Alas ! I am being mocked ; ye jeer me in my evil plight ."
+    },
+    {
+      "id": "688",
+      "label": "Section 688",
+      "chapter": null,
+      "original": "ἀλλ ’ οὐκέτ ’, ἀλλὰ πρόσθεν οὗτός ἐστί σου .",
+      "translation": "They are no longer there ; but facing thee that stranger stands ."
+    },
+    {
+      "id": "689",
+      "label": "Section 689",
+      "chapter": null,
+      "original": "ὦ παγκάκιστε , ποῦ ποτ ’ εἶ ;",
+      "translation": "Master of villainy , where , oh ! where art thou ?"
+    },
+    {
+      "id": "689b",
+      "label": "Section 689b",
+      "chapter": null,
+      "original": "τηλοῦ σέθεν",
+      "translation": "Some way from thee"
+    },
+    {
+      "id": "690",
+      "label": "Section 690",
+      "chapter": null,
+      "original": "φυλακαῖσι φρουρῶ σῶμ ’ Ὀδυσσέως τόδε .",
+      "translation": "I am keeping careful guard over the person of Odysseus ."
+    },
+    {
+      "id": "691",
+      "label": "Section 691",
+      "chapter": null,
+      "original": "πῶς εἶπας ; ὄνομα μεταβαλὼν καινὸν λέγεις .",
+      "translation": "What , a new name ! hast changed thine ?"
+    },
+    {
+      "id": "692",
+      "label": "Section 692",
+      "chapter": null,
+      "original": "ὅπερ γ ’ ὁ φύσας ὠνόμαζ ’ Ὀδυσσέα .",
+      "translation": "Yes , Odysseus the name my father gave me . But thou wert doomed to pay for thy unholy feast ; for I should have seen Troy burned to but sorry purpose ,"
+    },
+    {
+      "id": "695",
+      "label": "Section 695",
+      "chapter": null,
+      "original": "εἰ μή σ ’ ἑταίρων φόνον ἐτιμωρησάμην .",
+      "translation": "unless I had avenged on thee the slaughter of my comrades ."
+    },
+    {
+      "id": "696",
+      "label": "Section 696",
+      "chapter": null,
+      "original": "αἰαῖ · παλαιὸς χρησμὸς ἐκπεραίνεται .",
+      "translation": "Woe is me ! ’ tis an old oracle coming true ; yes , it said I should have my eye put out by thee on thy way home from Troy ; but it likewise foretold that thou wouldst surely pay for this ,"
+    },
+    {
+      "id": "700",
+      "label": "Section 700",
+      "chapter": null,
+      "original": "πολὺν θαλάσσῃ χρόνον ἐναιωρούμενον .",
+      "translation": "tossing on the sea for many a day ."
+    },
+    {
+      "id": "701",
+      "label": "Section 701",
+      "chapter": null,
+      "original": "κλαίειν σ ’ ἄνωγα · καὶ δέδραχ ’ ὅπερ λέγεις .",
+      "translation": "Go hang ! E ’ en as I say , [*] so have I done . And now will I get me to the beach and start my hollow ship across the sea of Sicily to the land of my fathers ."
+    },
+    {
+      "id": "704",
+      "label": "Section 704",
+      "chapter": null,
+      "original": "οὐ δῆτ ’, ἐπεί σε τῆσδ ’ ἀπορρήξας πέτρας",
+      "translation": "Thou shalt not ; I will break a boulder off this rock"
+    },
+    {
+      "id": "705",
+      "label": "Section 705",
+      "chapter": null,
+      "original": "αὐτοῖσι συνναύταισι συντρίψω βαλών .",
+      "translation": "and crush thee , crew and all , beneath my throw . Blind though I be , I will climb the hill , mounting through yonder tunnel ."
+    },
+    {
+      "id": "708",
+      "label": "Section 708",
+      "chapter": null,
+      "original": "ἡμεῖς δὲ συνναῦταί γε τοῦδ ’ Ὀδυσσέως",
+      "translation": "As for us , henceforth will we be the servants of Bacchus , sharing the voyage of this hero Odysseus ."
+    }
+  ],
+  "prevChunkSlug": "cyclops-1btvhe-5",
+  "nextChunkSlug": "alcestis-qn0hbs-1"
+}

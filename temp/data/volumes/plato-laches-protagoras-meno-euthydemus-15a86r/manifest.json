@@ -1,0 +1,178 @@
+{
+  "loebNumber": 165,
+  "sortOrder": 165,
+  "slug": "plato-laches-protagoras-meno-euthydemus-15a86r",
+  "title": "Laches. Protagoras. Meno. Euthydemus",
+  "volumeLabel": "Laches. Protagoras. Meno. Euthydemus",
+  "authorDisplay": "Plato",
+  "authors": [
+    "Plato"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Laches. Protagoras. Meno. Euthydemus, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "laches-11ikqu",
+  "readyChunkCount": 4,
+  "contents": [
+    {
+      "id": "laches-11ikqu",
+      "title": "Laches",
+      "status": "ready",
+      "sectionCount": 24,
+      "chunkSlug": "laches-11ikqu",
+      "chunks": [
+        {
+          "slug": "laches-11ikqu",
+          "label": "Laches",
+          "partId": "laches-11ikqu",
+          "partTitle": "Laches",
+          "sectionCount": 24,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "protagoras-39o6o2",
+      "title": "Protagoras",
+      "status": "ready",
+      "sectionCount": 54,
+      "chunkSlug": "protagoras-39o6o2",
+      "chunks": [
+        {
+          "slug": "protagoras-39o6o2",
+          "label": "Protagoras",
+          "partId": "protagoras-39o6o2",
+          "partTitle": "Protagoras",
+          "sectionCount": 54,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "meno-1fbll",
+      "title": "Meno",
+      "status": "ready",
+      "sectionCount": 31,
+      "chunkSlug": "meno-1fbll",
+      "chunks": [
+        {
+          "slug": "meno-1fbll",
+          "label": "Meno",
+          "partId": "meno-1fbll",
+          "partTitle": "Meno",
+          "sectionCount": 31,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "euthydemus-1yp5w5",
+      "title": "Euthydemus",
+      "status": "ready",
+      "sectionCount": 37,
+      "chunkSlug": "euthydemus-1yp5w5",
+      "chunks": [
+        {
+          "slug": "euthydemus-1yp5w5",
+          "label": "Euthydemus",
+          "partId": "euthydemus-1yp5w5",
+          "partTitle": "Euthydemus",
+          "sectionCount": 37,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "laches-11ikqu",
+      "label": "Laches",
+      "partId": "laches-11ikqu",
+      "partTitle": "Laches",
+      "sectionCount": 24,
+      "status": "ready"
+    },
+    {
+      "slug": "protagoras-39o6o2",
+      "label": "Protagoras",
+      "partId": "protagoras-39o6o2",
+      "partTitle": "Protagoras",
+      "sectionCount": 54,
+      "status": "ready"
+    },
+    {
+      "slug": "meno-1fbll",
+      "label": "Meno",
+      "partId": "meno-1fbll",
+      "partTitle": "Meno",
+      "sectionCount": 31,
+      "status": "ready"
+    },
+    {
+      "slug": "euthydemus-1yp5w5",
+      "label": "Euthydemus",
+      "partId": "euthydemus-1yp5w5",
+      "partTitle": "Euthydemus",
+      "sectionCount": 37,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "laches-11ikqu",
+      "partTitle": "Laches",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Λάχης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg019.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Laches",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg019.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "protagoras-39o6o2",
+      "partTitle": "Protagoras",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πρωταγόρας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg022.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Protagoras",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg022.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "meno-1fbll",
+      "partTitle": "Meno",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Μένων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg024.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Meno",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg024.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "euthydemus-1yp5w5",
+      "partTitle": "Euthydemus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Εὐθύδημος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg021.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Euthydemus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg021.perseus-eng2/"
+      }
+    }
+  ]
+}

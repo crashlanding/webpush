@@ -1,0 +1,61 @@
+{
+  "loebNumber": 110,
+  "sortOrder": 110,
+  "slug": "thucydides-history-of-the-peloponnesian-war-volume-iii-17xgc3",
+  "title": "History of the Peloponnesian War, Volume III",
+  "volumeLabel": "History of the Peloponnesian War, Volume III",
+  "authorDisplay": "Thucydides",
+  "authors": [
+    "Thucydides"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for History of the Peloponnesian War, Volume III. History of the Peloponnesian War, Volume III currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "history-of-the-peloponnesian-war-volume-iii-7wae4k",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "history-of-the-peloponnesian-war-volume-iii-7wae4k",
+      "title": "History of the Peloponnesian War, Volume III",
+      "status": "ready",
+      "sectionCount": 23,
+      "chunkSlug": "history-of-the-peloponnesian-war-volume-iii-7wae4k",
+      "chunks": [
+        {
+          "slug": "history-of-the-peloponnesian-war-volume-iii-7wae4k",
+          "label": "History of the Peloponnesian War, Volume III",
+          "partId": "history-of-the-peloponnesian-war-volume-iii-7wae4k",
+          "partTitle": "History of the Peloponnesian War, Volume III",
+          "sectionCount": 23,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "history-of-the-peloponnesian-war-volume-iii-7wae4k",
+      "label": "History of the Peloponnesian War, Volume III",
+      "partId": "history-of-the-peloponnesian-war-volume-iii-7wae4k",
+      "partTitle": "History of the Peloponnesian War, Volume III",
+      "sectionCount": 23,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "history-of-the-peloponnesian-war-volume-iii-7wae4k",
+      "partTitle": "History of the Peloponnesian War, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Historia Belli Peloponnesiaci",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0003.tlg001.1st1K-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "History of the Peloponnesian War",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0003.tlg001.1st1K-eng1/"
+      }
+    }
+  ]
+}

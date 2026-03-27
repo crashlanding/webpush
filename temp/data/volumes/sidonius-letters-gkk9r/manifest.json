@@ -1,0 +1,61 @@
+{
+  "loebNumber": 420,
+  "sortOrder": 420,
+  "slug": "sidonius-letters-gkk9r",
+  "title": "Letters",
+  "volumeLabel": "Letters",
+  "authorDisplay": "Sidonius",
+  "authors": [
+    "Sidonius"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for Letters, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "letters-snsw6l",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "letters-snsw6l",
+      "title": "Letters",
+      "status": "ready",
+      "sectionCount": 27,
+      "chunkSlug": "letters-snsw6l",
+      "chunks": [
+        {
+          "slug": "letters-snsw6l",
+          "label": "Letters",
+          "partId": "letters-snsw6l",
+          "partTitle": "Letters",
+          "sectionCount": 27,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "letters-snsw6l",
+      "label": "Letters",
+      "partId": "letters-snsw6l",
+      "partTitle": "Letters",
+      "sectionCount": 27,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "letters-snsw6l",
+      "partTitle": "Letters",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Δημοσθένους ἐπιστολαὶ",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg063.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Letters",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg063.perseus-eng2/"
+      }
+    }
+  ]
+}

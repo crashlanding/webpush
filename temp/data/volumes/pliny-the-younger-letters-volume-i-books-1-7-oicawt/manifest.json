@@ -1,0 +1,61 @@
+{
+  "loebNumber": 55,
+  "sortOrder": 55,
+  "slug": "pliny-the-younger-letters-volume-i-books-1-7-oicawt",
+  "title": "Letters, Volume I: Books 1-7",
+  "volumeLabel": "Letters, Volume I: Books 1-7",
+  "authorDisplay": "Pliny the Younger",
+  "authors": [
+    "Pliny the Younger"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for Letters, Volume I: Books 1-7, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "letters-books-1-7-73g80i",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "letters-books-1-7-73g80i",
+      "title": "Letters: Books 1-7",
+      "status": "ready",
+      "sectionCount": 27,
+      "chunkSlug": "letters-books-1-7-73g80i",
+      "chunks": [
+        {
+          "slug": "letters-books-1-7-73g80i",
+          "label": "Letters: Books 1-7",
+          "partId": "letters-books-1-7-73g80i",
+          "partTitle": "Letters: Books 1-7",
+          "sectionCount": 27,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "letters-books-1-7-73g80i",
+      "label": "Letters: Books 1-7",
+      "partId": "letters-books-1-7-73g80i",
+      "partTitle": "Letters: Books 1-7",
+      "sectionCount": 27,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "letters-books-1-7-73g80i",
+      "partTitle": "Letters: Books 1-7",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Δημοσθένους ἐπιστολαὶ",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg063.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Letters",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg063.perseus-eng2/"
+      }
+    }
+  ]
+}

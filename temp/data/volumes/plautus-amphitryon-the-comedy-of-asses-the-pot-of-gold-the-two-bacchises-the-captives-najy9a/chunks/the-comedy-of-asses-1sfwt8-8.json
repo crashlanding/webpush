@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-amphitryon-the-comedy-of-asses-the-pot-of-gold-the-two-bacchises-the-captives-najy9a",
+  "volumeTitle": "Amphitryon. The Comedy of Asses. The Pot of Gold. The Two Bacchises. The Captives",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-comedy-of-asses-1sfwt8-8",
+  "label": "The Comedy of Asses (Section 3.3.626 - Section 3.3.690)",
+  "partId": "the-comedy-of-asses-1sfwt8",
+  "partTitle": "The Comedy of Asses",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Asinaria",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi002.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Asinaria, or The Ass-Dealer",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi002.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "3.3.626",
+      "label": "Section 3.3.626",
+      "chapter": null,
+      "original": "Tum tu igitur loquere quod lubet .",
+      "translation": "For that reason , then , say on what you please ."
+    },
+    {
+      "id": "3.3.626b",
+      "label": "Section 3.3.626b",
+      "chapter": null,
+      "original": "Hunc hercle verberare .",
+      "translation": "Troth , I ’ d like to give him a beating ."
+    },
+    {
+      "id": "3.3.627",
+      "label": "Section 3.3.627",
+      "chapter": null,
+      "original": "Quisnam istuc adcredat tibi , cinaede calamistrate ?",
+      "translation": "Who , pray , would allow you to do so , you frizzle- pated [*] mountebank ? Could you thrash me , you , who reckon as your daily food your own thrashings ?"
+    },
+    {
+      "id": "3.3.629",
+      "label": "Section 3.3.629",
+      "chapter": null,
+      "original": "Vt vostrae fortunae meis praecedunt , Libane , longe ,",
+      "translation": "How far superior , Libanus , are your lots to my own ,"
+    },
+    {
+      "id": "3.3.630",
+      "label": "Section 3.3.630",
+      "chapter": null,
+      "original": "qui hódie numquam ad vesperum vivam .",
+      "translation": "who never will live this day until the evening ."
+    },
+    {
+      "id": "3.3.630b",
+      "label": "Section 3.3.630b",
+      "chapter": null,
+      "original": "Quapropter , quaeso ?",
+      "translation": "For what reason , prithee ?"
+    },
+    {
+      "id": "3.3.631",
+      "label": "Section 3.3.631",
+      "chapter": null,
+      "original": "Quia ego hanc amó et haec me amat , huic quod dem nusquam quicquam est ,",
+      "translation": "Because I ’ m in love with her , and she ’ s in love with me , and nowhere have I anything to bestow upon her ; for that reason has her mother expelled me with all my affection from her house . The twenty minae of silver have brought me to my end , which the young man , Diabolus , declared that he would give her this day ,"
+    },
+    {
+      "id": "3.3.635",
+      "label": "Section 3.3.635",
+      "chapter": null,
+      "original": "ut hanc ne quoquam mitteret nisi ad se hunc annum totum .",
+      "translation": "in order that she mightn ’ t send her anywhere , for this whole year , except to himself . Don ’ t you see of what force are twenty minae of silver , or what they can effect ? The man who parts with them is happy ; I , who part not with them , am undone ."
+    },
+    {
+      "id": "3.3.638",
+      "label": "Section 3.3.638",
+      "chapter": null,
+      "original": "Iam dedit argentum ?",
+      "translation": "Has he already paid [*] the money ?"
+    },
+    {
+      "id": "3.3.638b",
+      "label": "Section 3.3.638b",
+      "chapter": null,
+      "original": "Non dedit .",
+      "translation": "He hasn ’ t paid it ."
+    },
+    {
+      "id": "3.3.638c",
+      "label": "Section 3.3.638c",
+      "chapter": null,
+      "original": "Bono animo es , ne formida .",
+      "translation": "Be of good courage ; don ’ t be afraid ."
+    },
+    {
+      "id": "3.3.639",
+      "label": "Section 3.3.639",
+      "chapter": null,
+      "original": "Secede huc , Libane , te volo .",
+      "translation": "Step this way , Libanus , I want you ."
+    },
+    {
+      "id": "3.3.639b",
+      "label": "Section 3.3.639b",
+      "chapter": null,
+      "original": "Si quid vis .",
+      "translation": "Certainly , if you want anything ."
+    },
+    {
+      "id": "3.3.639c",
+      "label": "Section 3.3.639c",
+      "chapter": null,
+      "original": "Obsecro vos ,",
+      "translation": "I entreat of you ,"
+    },
+    {
+      "id": "3.3.640",
+      "label": "Section 3.3.640",
+      "chapter": null,
+      "original": "eadem istac opera suaviust complexos fabulari .",
+      "translation": "is it more pleasant in this same matter for you to discourse hugging one another ?"
+    },
+    {
+      "id": "3.3.641",
+      "label": "Section 3.3.641",
+      "chapter": null,
+      "original": "Non omnia eadem aeque omnibus , ere , suavia esse scito :",
+      "translation": "Understand , master , that all things are not equally sweet to all persons . ’ Tis pleasant for you lovers to converse , hugging one another ; I care nothing for his hugging ( pointing to LEONIDA ) , and ( pointing to PHILENIUM ) she despises mine . Do you then yourself do that which you would be suggesting to us to do ."
+    },
+    {
+      "id": "3.3.645",
+      "label": "Section 3.3.645",
+      "chapter": null,
+      "original": "Ego vero , et quidem edepol lubens . interea , si videtur ,",
+      "translation": "Indeed I will , and really with pleasure , i ’ faith . ( Placing his arm round PHILENIUM ’ S neck .) In the meantime , if it seems good to you , do you step aside there ."
+    },
+    {
+      "id": "3.3.646b",
+      "label": "Section 3.3.646b",
+      "chapter": null,
+      "original": "Vin erum deludi ?",
+      "translation": "Should you like our master to be bantered a bit ?"
+    },
+    {
+      "id": "3.3.646c",
+      "label": "Section 3.3.646c",
+      "chapter": null,
+      "original": "Dignust sane .",
+      "translation": "He really is deserving of it ."
+    },
+    {
+      "id": "3.3.647",
+      "label": "Section 3.3.647",
+      "chapter": null,
+      "original": "Vin faciam ut te Philaenium praesente hoc amplexetur ?",
+      "translation": "Should you like me , in his presence , to make Philenium embrace me ?"
+    },
+    {
+      "id": "3.3.648",
+      "label": "Section 3.3.648",
+      "chapter": null,
+      "original": "Cupio hercle .",
+      "translation": "I ’ faith , I should like it ."
+    },
+    {
+      "id": "3.3.648b",
+      "label": "Section 3.3.648b",
+      "chapter": null,
+      "original": "Sequere hac .",
+      "translation": "Follow me this way ."
+    },
+    {
+      "id": "3.3.648c",
+      "label": "Section 3.3.648c",
+      "chapter": null,
+      "original": "Ecquid est salutis ? satis locuti .",
+      "translation": "Is there any escape at all ? Have you conversed enough ?"
+    },
+    {
+      "id": "3.3.649",
+      "label": "Section 3.3.649",
+      "chapter": null,
+      "original": "Auscultate atque operam date et mea dicta devorate .",
+      "translation": "Listen , and give attention , and devour my words ."
+    },
+    {
+      "id": "3.3.650",
+      "label": "Section 3.3.650",
+      "chapter": null,
+      "original": "primum omnium servos tuos nos esse non negamus ;",
+      "translation": "First of all , that we are your slaves , we don ’ t deny ; but if twenty silver minae are forthcoming for you , by what name will you call us ?"
+    },
+    {
+      "id": "3.3.652b",
+      "label": "Section 3.3.652b",
+      "chapter": null,
+      "original": "Libertos .",
+      "translation": "Freed-men ."
+    },
+    {
+      "id": "3.3.652c",
+      "label": "Section 3.3.652c",
+      "chapter": null,
+      "original": "Non patronos ?",
+      "translation": "And not patrons ?"
+    },
+    {
+      "id": "3.3.653",
+      "label": "Section 3.3.653",
+      "chapter": null,
+      "original": "Id potius .",
+      "translation": "That in preference ."
+    },
+    {
+      "id": "3.3.653b",
+      "label": "Section 3.3.653b",
+      "chapter": null,
+      "original": "Viginti minae hic insunt in crumina ,",
+      "translation": "Here are twenty minae in this bag . These , if you like , I ’ ll give you ."
+    },
+    {
+      "id": "3.3.654b",
+      "label": "Section 3.3.654b",
+      "chapter": null,
+      "original": "Di te servassint semper ,",
+      "translation": "May the Deities ever preserve you ,"
+    },
+    {
+      "id": "3.3.655",
+      "label": "Section 3.3.655",
+      "chapter": null,
+      "original": "custos erilis , decus popli , thensaurus copiarum ,",
+      "translation": "protector of your master , honor to the people , treasury of resources , preserver of my inner man [*] , and commander of love ; place it here , put down that bag , here on the spot , at once [*] ."
+    },
+    {
+      "id": "3.3.658",
+      "label": "Section 3.3.658",
+      "chapter": null,
+      "original": "Nolo ego te , quí erus sis , mihi onus istuc sustinere .",
+      "translation": "I don ’ t like you , who are my master , to carry this load ."
+    },
+    {
+      "id": "3.3.659",
+      "label": "Section 3.3.659",
+      "chapter": null,
+      "original": "Quin tu labore liberas te atque istam imponis in me ?",
+      "translation": "Still , do you rid yourself of the trouble , and fasten that bag to myself ."
+    },
+    {
+      "id": "3.3.660",
+      "label": "Section 3.3.660",
+      "chapter": null,
+      "original": "Ego baiulabo , tu , ut decet dominum , ante me ito inanis .",
+      "translation": "I ’ ll carry it , porter-like ; you , as befits my master , go , without any burden , before me ."
+    },
+    {
+      "id": "3.3.661",
+      "label": "Section 3.3.661",
+      "chapter": null,
+      "original": "Quid nunc ?",
+      "translation": "How now ?"
+    },
+    {
+      "id": "3.3.661b",
+      "label": "Section 3.3.661b",
+      "chapter": null,
+      "original": "Quid est ?",
+      "translation": "Why ’ s this ?"
+    },
+    {
+      "id": "3.3.661c",
+      "label": "Section 3.3.661c",
+      "chapter": null,
+      "original": "Quin tradis huc cruminam pressatum umerum ?",
+      "translation": "Why don ’ t you give up the bag [*] here , for your master to feel its weight ?"
+    },
+    {
+      "id": "3.3.662",
+      "label": "Section 3.3.662",
+      "chapter": null,
+      "original": "Hanc , cui , iube petere atque orare mecum .",
+      "translation": "Bid her to whom I ’ m about to give it , to beg and entreat it of me . For that ’ s a dangerous spot where you bid me put it down at once ."
+    },
+    {
+      "id": "3.3.664",
+      "label": "Section 3.3.664",
+      "chapter": null,
+      "original": "Da , meus ocellus , mea rosa , mi ánime , mea voluptas ,",
+      "translation": "Apple of my eye , my rose , my life , my delight ,"
+    },
+    {
+      "id": "3.3.665",
+      "label": "Section 3.3.665",
+      "chapter": null,
+      "original": "Leonida , argentum mihi , ne nos diiunge amantis .",
+      "translation": "Leonida , do give me the money , and don ’ t sever us lovers asunder ."
+    },
+    {
+      "id": "3.3.666",
+      "label": "Section 3.3.666",
+      "chapter": null,
+      "original": "Dic me igitur tuom passerculum , gallinam , coturnicem ,",
+      "translation": "Call me , then , your little sparrow , your chicken , your quail , your pet lamb : say that I ’ m your pet kid or your pet calf ; take me by the ears , press your lips to my lips ."
+    },
+    {
+      "id": "3.3.669",
+      "label": "Section 3.3.669",
+      "chapter": null,
+      "original": "Ten osculetur , verbero ?",
+      "translation": "She , kiss you , you whip-scoundrel ?"
+    },
+    {
+      "id": "3.3.669b",
+      "label": "Section 3.3.669b",
+      "chapter": null,
+      "original": "Quam vero indignum visum est ?",
+      "translation": "Really , how unbecoming it does seem !"
+    },
+    {
+      "id": "3.3.670",
+      "label": "Section 3.3.670",
+      "chapter": null,
+      "original": "at qui pol hodie non feres , ni genua confricantur .",
+      "translation": "But , by the powers , you shan ’ t get it this day , if my knees are not embraced ."
+    },
+    {
+      "id": "3.3.671",
+      "label": "Section 3.3.671",
+      "chapter": null,
+      "original": "Quidvis egestas imperat : fricentur . dan quod oro ?",
+      "translation": "Necessity compels to anything . ( To LEONIDA .) Let them be embraced ( kneels down and embraces his knees ) : now give what I ’ m asking for ."
+    },
+    {
+      "id": "3.3.672",
+      "label": "Section 3.3.672",
+      "chapter": null,
+      "original": "Age , mi Leonida , obsecro , fer amanti ero salutem ,",
+      "translation": "Come , my Leonida , prithee do bring safety to your master thus in love . Redeem yourself from him by this service , and purchase him for yourself with this money ."
+    },
+    {
+      "id": "3.3.674",
+      "label": "Section 3.3.674",
+      "chapter": null,
+      "original": "Nimis bélla es atque amabilis , et si hoc meum esset , hodie",
+      "translation": "You are very pretty and amiable ; and if this were mine , you should never this day"
+    },
+    {
+      "id": "3.3.675",
+      "label": "Section 3.3.675",
+      "chapter": null,
+      "original": "numquam me orares quin darem : illum te orare meliust ,",
+      "translation": "ask me for it , but I would give it you : ’ tis better for you to ask it of him ( pointing to LIBANUS ) , for ’ twas he gave it me to keep for him . Approach him then prettily , my pretty one . ( Delivers the bag to LIBANUS .) Take this , please , Libanus ."
+    },
+    {
+      "id": "3.3.677b",
+      "label": "Section 3.3.677b",
+      "chapter": null,
+      "original": "Furcifer , etiam me delusisti ?",
+      "translation": "Scoundrel , are you still trifling with me ?"
+    },
+    {
+      "id": "3.3.678",
+      "label": "Section 3.3.678",
+      "chapter": null,
+      "original": "Numquam hercle facerem , genua ni tam nequiter fricares .",
+      "translation": "I ’ faith , I should never have done so , if you hadn ’ t embraced my knees so roughly . ( Aside to LIBANUS .) Come , please , in your turn , do you at once have some sport with him , and give her an embrace ."
+    },
+    {
+      "id": "3.3.680",
+      "label": "Section 3.3.680",
+      "chapter": null,
+      "original": "Taceas , me spectes .",
+      "translation": "Hold your tongue ; trust me for that ."
+    },
+    {
+      "id": "3.3.680b",
+      "label": "Section 3.3.680b",
+      "chapter": null,
+      "original": "Quin ad hunc , Philaenium , adgredimur ,",
+      "translation": "Why don ’ t we accost him , Philenium ? ( pointing to LIBANUS ) — really , a very worthy fellow , upon my faith , and not like this thief ( pointing to LEONIDA ) ."
+    },
+    {
+      "id": "3.3.682",
+      "label": "Section 3.3.682",
+      "chapter": null,
+      "original": "Inambulandum est : nunc mihi vicissim supplicabunt .",
+      "translation": "We must walk up and down ; now , in my turn , they ’ ll be entreating me ."
+    },
+    {
+      "id": "3.3.683",
+      "label": "Section 3.3.683",
+      "chapter": null,
+      "original": "Quaeso hercle , Libane , sis erum tuis factis sospitari ,",
+      "translation": "By heaven , Libanus , I do entreat you , be pleased by your deeds to come to your master ’ s rescue ; do give me those twenty minae : you see that thus in love I stand in need of them ."
+    },
+    {
+      "id": "3.3.685",
+      "label": "Section 3.3.685",
+      "chapter": null,
+      "original": "Videbitur . factum volo . redito huc conticinno .",
+      "translation": "It shall be seen to ; I wish it done ; return here at nightfall . Now bid her , ever so little , to beg and entreat them of me ."
+    },
+    {
+      "id": "3.3.687",
+      "label": "Section 3.3.687",
+      "chapter": null,
+      "original": "Amandone exorarier vis ted an osculando ?",
+      "translation": "Do you wish me to begin with caressing , or with kissing you ?"
+    },
+    {
+      "id": "3.3.688",
+      "label": "Section 3.3.688",
+      "chapter": null,
+      "original": "Enim véro utrumque .",
+      "translation": "Why , really , with them both ."
+    },
+    {
+      "id": "3.3.688b",
+      "label": "Section 3.3.688b",
+      "chapter": null,
+      "original": "Ergo , obsecro , ét tu utrumque nostrum serva .",
+      "translation": "And do you then , I do entreat you , prove the saving of us both ."
+    },
+    {
+      "id": "3.3.689",
+      "label": "Section 3.3.689",
+      "chapter": null,
+      "original": "O Libane , mi patrone , mi trade istuc . magis decorumst",
+      "translation": "O Libanus , my patron , do give me that ; ’ tis more becoming"
+    },
+    {
+      "id": "3.3.690",
+      "label": "Section 3.3.690",
+      "chapter": null,
+      "original": "libertum potius quam patronum onus in via portare .",
+      "translation": "for the freed-man [*] , than for the patron , to be carrying a burden in the street ."
+    }
+  ],
+  "prevChunkSlug": "the-comedy-of-asses-1sfwt8-7",
+  "nextChunkSlug": "the-comedy-of-asses-1sfwt8-9"
+}

@@ -1,0 +1,27 @@
+{
+  "loebNumber": 307,
+  "sortOrder": 307,
+  "slug": "aristotle-minor-works-1sufio",
+  "title": "Minor Works",
+  "volumeLabel": "Minor Works",
+  "authorDisplay": "Aristotle",
+  "authors": [
+    "Aristotle"
+  ],
+  "language": "greek",
+  "summary": "A catalog placeholder for Minor Works. Scaife does not currently provide a confidently matchable original-and-English pair for this volume.",
+  "status": "placeholder",
+  "defaultChunkSlug": null,
+  "readyChunkCount": 0,
+  "contents": [
+    {
+      "id": "minor-works-10x8m5",
+      "title": "Minor Works",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Minor Works."
+    }
+  ],
+  "chunks": [],
+  "citations": []
+}

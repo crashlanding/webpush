@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-children-of-heracles-hippolytus-andromache-hecuba-gubzb8",
+  "volumeTitle": "Children of Heracles. Hippolytus. Andromache. Hecuba",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "hippolytus-1q0xen-3",
+  "label": "Hippolytus (Section 313 - Section 425)",
+  "partId": "hippolytus-1q0xen",
+  "partTitle": "Hippolytus",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἱππόλυτος",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg005.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Hippolytus",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg005.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "313",
+      "label": "Section 313",
+      "chapter": null,
+      "original": "ὁρᾷς ; φρονεῖς μὲν εὖ , φρονοῦσα δ ’ οὐ θέλεις",
+      "translation": "There now ! thou art thyself again , but e ’ en yet refusest to aid thy children and preserve thy life ."
+    },
+    {
+      "id": "315",
+      "label": "Section 315",
+      "chapter": null,
+      "original": "φιλῶ τέκν ’· ἄλλῃ δ ’ ἐν τύχῃ χειμάζομαι .",
+      "translation": "My babes I love , but there is another storm that buffets me ."
+    },
+    {
+      "id": "316",
+      "label": "Section 316",
+      "chapter": null,
+      "original": "ἁγνὰς μέν , ὦ παῖ , χεῖρας αἵματος φορεῖς ;",
+      "translation": "Daughter , are thy hands from bloodshed pure ?"
+    },
+    {
+      "id": "317",
+      "label": "Section 317",
+      "chapter": null,
+      "original": "χεῖρες μὲν ἁγναί , φρὴν δ ’ ἔχει μίασμά τι .",
+      "translation": "My hands are pure , but on my soul there rests a stain ."
+    },
+    {
+      "id": "318",
+      "label": "Section 318",
+      "chapter": null,
+      "original": "μῶν ἐξ ἐπακτοῦ πημονῆς ἐχθρῶν τινος ;",
+      "translation": "The issue of some enemy ’ s secret witchery ?"
+    },
+    {
+      "id": "319",
+      "label": "Section 319",
+      "chapter": null,
+      "original": "φίλος μ ’ ἀπόλλυσ ’ οὐχ ἑκοῦσαν οὐχ ἑκών .",
+      "translation": "A friend is my destroyer , one unwilling as myself ."
+    },
+    {
+      "id": "320",
+      "label": "Section 320",
+      "chapter": null,
+      "original": "Θησεύς τιν ’ ἡμάρτηκεν ἐς σ ’ ἁμαρτίαν ;",
+      "translation": "Hath Theseus wronged thee in any wise ?"
+    },
+    {
+      "id": "321",
+      "label": "Section 321",
+      "chapter": null,
+      "original": "μὴ δρῶσ ’ ἔγωγ ’ ἐκεῖνον ὀφθείην κακῶς .",
+      "translation": "Never may I prove untrue to him [*]"
+    },
+    {
+      "id": "322",
+      "label": "Section 322",
+      "chapter": null,
+      "original": "τί γὰρ τὸ δεινὸν τοῦθ ’ ὅ σ ’ ἐξαίρει θανεῖν ;",
+      "translation": "Then what strange mystery is there that drives thee on to die ?"
+    },
+    {
+      "id": "323",
+      "label": "Section 323",
+      "chapter": null,
+      "original": "ἔα μ ’ ἁμαρτεῖν · οὐ γὰρ ἐς σὲ ἁμαρτάνω .",
+      "translation": "O , let my sin and me alone ! ’ tis not ’ gainst thee I sin ."
+    },
+    {
+      "id": "324",
+      "label": "Section 324",
+      "chapter": null,
+      "original": "οὐ δῆθ ’ ἑκοῦσά γ ’, ἐν δὲ σοὶ λελείψομαι .",
+      "translation": "Never willingly ! and , if I fail , ’ twill rest at thy door ."
+    },
+    {
+      "id": "325",
+      "label": "Section 325",
+      "chapter": null,
+      "original": "τί δρᾷς ; βιάζῃ χειρὸς ἐξαρτωμένη ;",
+      "translation": "How now ? thou usest force in clinging to my hand ."
+    },
+    {
+      "id": "326",
+      "label": "Section 326",
+      "chapter": null,
+      "original": "καὶ σῶν γε γονάτων , κοὐ μεθήσομαί ποτε .",
+      "translation": "Yea , and I will never loose my hold upon thy knees ."
+    },
+    {
+      "id": "327",
+      "label": "Section 327",
+      "chapter": null,
+      "original": "κάκ ’, ὦ τάλαινα , σοὶ τάδ ’, εἰ πεύσῃ , κακά .",
+      "translation": "Alas for thee ! my sorrows , shouldst thou learn them , would recoil on thee ."
+    },
+    {
+      "id": "328",
+      "label": "Section 328",
+      "chapter": null,
+      "original": "μεῖζον γὰρ ἢ σοῦ μὴ τυχεῖν τί μοι κακόν ;",
+      "translation": "What keener grief for me than failing to win thee ?"
+    },
+    {
+      "id": "329",
+      "label": "Section 329",
+      "chapter": null,
+      "original": "ὀλεῖς · τὸ μέντοι πρᾶγμ ’ ἐμοὶ τιμὴν φέρει .",
+      "translation": "’ Twill be death to thee ; though to me that brings renown . [*]"
+    },
+    {
+      "id": "330",
+      "label": "Section 330",
+      "chapter": null,
+      "original": "κἄπειτα κρύπτεις χρήσθ ’ ἱκνουμένης ἐμοῦ ;",
+      "translation": "And dost thou then conceal this boon despite my prayers ?"
+    },
+    {
+      "id": "331",
+      "label": "Section 331",
+      "chapter": null,
+      "original": "ἐκ τῶν γὰρ αἰσχρῶν ἐσθλὰ μηχανώμεθα .",
+      "translation": "I do , for ’ tis out of shame I am planning an honourable escape ."
+    },
+    {
+      "id": "332",
+      "label": "Section 332",
+      "chapter": null,
+      "original": "οὐκοῦν λέγουσα τιμιωτέρα φανῇ .",
+      "translation": "Tell it , and thine honour shall the brighter shine ."
+    },
+    {
+      "id": "333",
+      "label": "Section 333",
+      "chapter": null,
+      "original": "ἄπελθε πρὸς θεῶν δεξιᾶς τ ’ ἐμῆς μέθες .",
+      "translation": "Away , I do conjure thee ; loose my hand ."
+    },
+    {
+      "id": "334",
+      "label": "Section 334",
+      "chapter": null,
+      "original": "οὐ δῆτ ’, ἐπεί μοι δῶρον οὐ δίδως ὃ χρῆν .",
+      "translation": "I will not , for the boon thou shouldst have granted me is denied ."
+    },
+    {
+      "id": "335",
+      "label": "Section 335",
+      "chapter": null,
+      "original": "δώσω · σέβας γὰρ χειρὸς αἰδοῦμαι τὸ σόν .",
+      "translation": "I will grant it out of reverence for thy holy sup- pliant touch ."
+    },
+    {
+      "id": "336",
+      "label": "Section 336",
+      "chapter": null,
+      "original": "σιγῷμ ’ ἂν ἤδη · σὸς γὰρ οὑντεῦθεν λόγος .",
+      "translation": "Henceforth I hold my peace ; ’ tis thine to speak from now ."
+    },
+    {
+      "id": "337",
+      "label": "Section 337",
+      "chapter": null,
+      "original": "ὦ τλῆμον , οἷον , μῆτερ , ἠράσθης ἔρον ,",
+      "translation": "Ah ! hapless mother , [*] what a love was thine !"
+    },
+    {
+      "id": "338",
+      "label": "Section 338",
+      "chapter": null,
+      "original": "ὃν ἔσχε Ταύρου , τέκνον , ἢ τί φῂς τόδε ;",
+      "translation": "Her love for the bull ? daughter , or what meanest thou ?"
+    },
+    {
+      "id": "339",
+      "label": "Section 339",
+      "chapter": null,
+      "original": "σύ τ ’, ὦ τάλαιν ’ ὅμαιμε , Διονύσου δάμαρ ,",
+      "translation": "And woe to thee ! my sister , [*] bride of Dionysus ."
+    },
+    {
+      "id": "340",
+      "label": "Section 340",
+      "chapter": null,
+      "original": "τέκνον , τί πάσχεις ; συγγόνους κακορροθεῖς ;",
+      "translation": "What ails thee , child ? speaking ill of kith and kin ."
+    },
+    {
+      "id": "341",
+      "label": "Section 341",
+      "chapter": null,
+      "original": "τρίτη δ ’ ἐγὼ δύστηνος ὡς ἀπόλλυμαι .",
+      "translation": "Myself the third to suffer ! how am I undone !"
+    },
+    {
+      "id": "342",
+      "label": "Section 342",
+      "chapter": null,
+      "original": "ἔκ τοι πέπληγμαι · ποῖ προβήσεται λόγος ;",
+      "translation": "Thou strik ’ st me dumb ! Where will this history end ?"
+    },
+    {
+      "id": "343",
+      "label": "Section 343",
+      "chapter": null,
+      "original": "ἐκεῖθεν ἡμεῖς , οὐ νεωστί , δυστυχεῖς .",
+      "translation": "That love has been our curse from time long past ."
+    },
+    {
+      "id": "344",
+      "label": "Section 344",
+      "chapter": null,
+      "original": "οὐδέν τι μᾶλλον οἶδ ’ ἃ βούλομαι κλύειν .",
+      "translation": "I know no more of what I fain would learn ."
+    },
+    {
+      "id": "345",
+      "label": "Section 345",
+      "chapter": null,
+      "original": "φεῦ ·",
+      "translation": "Ah ! would thou couldst say for me what I have to tell ."
+    },
+    {
+      "id": "346",
+      "label": "Section 346",
+      "chapter": null,
+      "original": "οὐ μάντις εἰμὶ τἀφανῆ γνῶναι σαφῶς .",
+      "translation": "I am no prophetess to unriddle secrets ."
+    },
+    {
+      "id": "347",
+      "label": "Section 347",
+      "chapter": null,
+      "original": "τί τοῦθ ’, ὃ δὴ λέγουσιν ἀνθρώπους , ἐρᾶν ;",
+      "translation": "What is it they mean when they talk of people being in love ?"
+    },
+    {
+      "id": "348",
+      "label": "Section 348",
+      "chapter": null,
+      "original": "ἥδιστον , ὦ παῖ , ταὐτὸν ἀλγεινόν θ ’ ἅμα .",
+      "translation": "At once the sweetest and the bitterest thing , my child ."
+    },
+    {
+      "id": "349",
+      "label": "Section 349",
+      "chapter": null,
+      "original": "ἡμεῖς ἂν εἶμεν θατέρῳ κεχρημένοι .",
+      "translation": "I shall only find the latter half ."
+    },
+    {
+      "id": "350",
+      "label": "Section 350",
+      "chapter": null,
+      "original": "τί φῄς ; ἐρᾷς , ὦ τέκνον ; ἀνθρώπων τίνος ;",
+      "translation": "Ha ! my child , art thou in love ?"
+    },
+    {
+      "id": "351",
+      "label": "Section 351",
+      "chapter": null,
+      "original": "ὅστις ποθ ’ οὗτός ἐσθ ’, ὁ τῆς Ἀμαζόνος ⋯",
+      "translation": "The Amazon ’ s son , whoever he may be ,—"
+    },
+    {
+      "id": "352",
+      "label": "Section 352",
+      "chapter": null,
+      "original": "Ἱππόλυτον αὐδᾷς ;",
+      "translation": "Mean ’ st thou Hippolytus ?"
+    },
+    {
+      "id": "352b",
+      "label": "Section 352b",
+      "chapter": null,
+      "original": "σοῦ τάδ ’, οὐκ ἐμοῦ κλύεις .",
+      "translation": "’ Twas thou , not I , that spoke his name ."
+    },
+    {
+      "id": "353",
+      "label": "Section 353",
+      "chapter": null,
+      "original": "οἴμοι , τί λέξεις , τέκνον ; ὥς μ ’ ἀπώλεσας .",
+      "translation": "O heavens ! what is this , my child ? Thou hast ruined me . Outrageous ! friends ; I will not live and bear it ;"
+    },
+    {
+      "id": "355",
+      "label": "Section 355",
+      "chapter": null,
+      "original": "ζῶσ ’· ἐχθρὸν ἦμαρ , ἐχθρὸν εἰσορῶ φάος .",
+      "translation": "hateful is life , hateful to mine eyes the light . This body I resign , will cast it off , and rid me of existence by my death . Farewell , my life is o ’ er . Yea , for the chaste have wicked passions , ’ gainst their will maybe , but still they have . Cypris , it seems , is not a goddess after all ,"
+    },
+    {
+      "id": "360",
+      "label": "Section 360",
+      "chapter": null,
+      "original": "ἀλλ ’ εἴ τι μεῖζον ἄλλο γίγνεται θεοῦ ,",
+      "translation": "but something greater far , for she hath been the ruin of my lady and of me and our whole family ."
+    },
+    {
+      "id": "1.362",
+      "label": "Section 1.362",
+      "chapter": null,
+      "original": "ἄιες ὤ , ἔκλυες ὤ ,",
+      "translation": "O , too clearly didst thou hear our queen uplift her voice to tell her startling tale of piteous suffering . Come death ere I reach thy state of feeling , [*] loved mistress ."
+    },
+    {
+      "id": "1.365",
+      "label": "Section 1.365",
+      "chapter": null,
+      "original": "κατανύσαι φρενῶν . ἰώ μοι , φεῦ φεῦ .",
+      "translation": "O horrible ! woe , for these miseries ! woe , for the sorrows on which mortals feed ! Thou art undone ! thou hast disclosed thy sin to heaven ’ s light . What hath each passing day and every hour in store for thee ?"
+    },
+    {
+      "id": "1.370",
+      "label": "Section 1.370",
+      "chapter": null,
+      "original": "— τελευτάσεταί τι καινὸν δόμοις .",
+      "translation": "Some strange event will come to pass in this house . For it is no longer uncertain where the star of thy love is setting , thou hapless daughter [*] of Crete ."
+    },
+    {
+      "id": "373",
+      "label": "Section 373",
+      "chapter": null,
+      "original": "Τροζήνιαι γυναῖκες , αἳ τόδ ’ ἔσχατον",
+      "translation": "Ladies of Troezen , who dwell here upon the frontier edge of Pelops ’ land ,"
+    },
+    {
+      "id": "375",
+      "label": "Section 375",
+      "chapter": null,
+      "original": "ἤδη ποτ ’ ἄλλως νυκτὸς ἐν μακρῷ χρόνῳ",
+      "translation": "oft ere now in heedless mood through the long hours of night have I wondered why man ’ s life is spoiled ; and it seems to me their evil case is not due to any natural fault of judgment , for there be many dowered with sense , but we must view the matter in this light ;"
+    },
+    {
+      "id": "380",
+      "label": "Section 380",
+      "chapter": null,
+      "original": "τὰ χρήστ ’ ἐπιστάμεσθα καὶ γιγνώσκομεν ,",
+      "translation": "by teaching and experience we learn the right but neglect it in practice , some from sloth , others from preferring pleasure of some kind or other to duty . Now life has many pleasures , protracted talk , and leisure , that seductive evil ;"
+    },
+    {
+      "id": "385",
+      "label": "Section 385",
+      "chapter": null,
+      "original": "αἰδώς τε . δισσαὶ δ ’ εἰσίν , ἣ μὲν οὐ κακή ,",
+      "translation": "likewise there is shame which is of two kinds , one a noble quality , the other a curse to families ; but if for each its proper time were clearly known , these twain could not have had the selfsame letters to denote them ."
+    },
+    {
+      "id": "388",
+      "label": "Section 388",
+      "chapter": null,
+      "original": "ταῦτ ’ οὖν ἐπειδὴ τυγχάνω φρονοῦσ ’ ἐγώ ,",
+      "translation": "So then since I had made up my mind on these points , ’ twas not likely any drug would alter it"
+    },
+    {
+      "id": "390",
+      "label": "Section 390",
+      "chapter": null,
+      "original": "ἔμελλον , ὥστε τοὔμπαλιν πεσεῖν φρενῶν .",
+      "translation": "and make me think the contrary . And I will tell thee too the way my judgment went . When love wounded me , I bethought me how I best might bear the smart . So from that day forth I began to hide in silence what I suffered ."
+    },
+    {
+      "id": "395",
+      "label": "Section 395",
+      "chapter": null,
+      "original": "γλώσσῃ γὰρ οὐδὲν πιστόν , ἣ θυραῖα μὲν",
+      "translation": "For I put no faith in counsellors , who know well to lecture others for presumption , yet themselves have countless troubles of their own . Next I did devise noble endurance of these wanton thoughts , striving by continence for victory ."
+    },
+    {
+      "id": "400",
+      "label": "Section 400",
+      "chapter": null,
+      "original": "τρίτον δ ’, ἐπειδὴ τοισίδ ’ οὐκ ἐξήνυτον",
+      "translation": "And last when I could not succeed in mastering love hereby , methought it best to die ; and none can gainsay my purpose . For fain I would my virtue should to all appear , my shame have few to witness it ."
+    },
+    {
+      "id": "405",
+      "label": "Section 405",
+      "chapter": null,
+      "original": "τὸ δ ’ ἔργον ᾔδη τὴν νόσον τε δυσκλεᾶ ,",
+      "translation": "I knew my sickly passion now ; to yield to it I saw how infamous ; and more , I learnt to know so well that I was but a woman , a thing the world detests . Curses , hideous curses on that wife , who first did shame her marriage-vow for lovers other than her lord ! ’ Twas from noble families"
+    },
+    {
+      "id": "410",
+      "label": "Section 410",
+      "chapter": null,
+      "original": "τόδ ’ ἦρξε θηλείαισι γίγνεσθαι κακόν .",
+      "translation": "this curse began to spread among our sex . For when the noble countenance disgrace , poor folk of course will think that it is right . Those too I hate who make profession of purity , though in secret reckless sinners ."
+    },
+    {
+      "id": "415",
+      "label": "Section 415",
+      "chapter": null,
+      "original": "αἳ πῶς ποτ ’, ὦ δέσποινα ποντία Κύπρι ,",
+      "translation": "How can these , queen Cypris , ocean ’ s child , e ’ er look their husbands in the face ? do they never feel one guilty thrill that their accomplice , night , or the chambers of their house will find a voice and speak ?"
+    },
+    {
+      "id": "419",
+      "label": "Section 419",
+      "chapter": null,
+      "original": "ἡμᾶς γὰρ αὐτὸ τοῦτ ’ ἀποκτείνει , φίλαι ,",
+      "translation": "This it is that calls on me to die , kind friends ,"
+    },
+    {
+      "id": "420",
+      "label": "Section 420",
+      "chapter": null,
+      "original": "ὡς μήποτ ’ ἄνδρα τὸν ἐμὸν αἰσχύνασ ’ ἁλῶ ,",
+      "translation": "that so I may ne ’ er be found to have disgraced my lord , or the children I have born ; no ! may they grow up and dwell in glorious Athens , free to speak and act , heirs to such fair fame as a mother can bequeath . For to know that father or mother have sinned doth turn"
+    },
+    {
+      "id": "425",
+      "label": "Section 425",
+      "chapter": null,
+      "original": "ὅταν ξυνειδῇ μητρὸς ἢ πατρὸς κακά .",
+      "translation": "the stoutest heart to slavishness . This alone , men say , can stand the buffets of life ’ s battle , a just and virtuous soul in whomsoever found . For time unmasks the villain sooner or later , holding up to them a mirror as to some blooming maid ."
+    }
+  ],
+  "prevChunkSlug": "hippolytus-1q0xen-2",
+  "nextChunkSlug": "hippolytus-1q0xen-4"
+}

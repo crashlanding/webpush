@@ -1,0 +1,41 @@
+{
+  "loebNumber": 250,
+  "sortOrder": 250,
+  "slug": "tertullian-minucius-felix-apology-de-spectaculis-minucius-felix-octavius-iagwc2",
+  "title": "Minucius Felix, Apology. De Spectaculis. Minucius Felix: Octavius",
+  "volumeLabel": "Minucius Felix, Apology. De Spectaculis. Minucius Felix: Octavius",
+  "authorDisplay": "Tertullian",
+  "authors": [
+    "Tertullian"
+  ],
+  "language": "latin",
+  "summary": "A catalog placeholder for Minucius Felix, Apology. De Spectaculis. Minucius Felix: Octavius. Scaife does not currently provide a confidently matchable original-and-English pair for this volume.",
+  "status": "placeholder",
+  "defaultChunkSlug": null,
+  "readyChunkCount": 0,
+  "contents": [
+    {
+      "id": "minucius-felix-apology-1eip9j",
+      "title": "Minucius Felix, Apology",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Minucius Felix, Apology."
+    },
+    {
+      "id": "de-spectaculis-10jbja",
+      "title": "De Spectaculis",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for De Spectaculis."
+    },
+    {
+      "id": "minucius-felix-octavius-ury7h7",
+      "title": "Minucius Felix: Octavius",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Minucius Felix: Octavius."
+    }
+  ],
+  "chunks": [],
+  "citations": []
+}

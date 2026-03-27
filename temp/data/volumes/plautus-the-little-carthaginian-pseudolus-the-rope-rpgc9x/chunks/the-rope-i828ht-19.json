@@ -1,0 +1,80 @@
+{
+  "volumeSlug": "plautus-the-little-carthaginian-pseudolus-the-rope-rpgc9x",
+  "volumeTitle": "The Little Carthaginian. Pseudolus. The Rope",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-rope-i828ht-19",
+  "label": "The Rope (Section 5.3.1415b - Section 5.3.1423c)",
+  "partId": "the-rope-i828ht",
+  "partTitle": "The Rope",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Rudens",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Rudens, or The Fisherman's Rope",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "5.3.1415b",
+      "label": "Section 5.3.1415b",
+      "chapter": null,
+      "original": "Perii hercle . nisi me suspendo , occidi .",
+      "translation": "Troth , I ’ m undone ; if I don ’ t hang myself [*] , I ’ m utterly done for . ( Aloud .) I ’ faith , after this day you certainly shall never be cheating me again ."
+    },
+    {
+      "id": "5.3.1417",
+      "label": "Section 5.3.1417",
+      "chapter": null,
+      "original": "Hic hodie cenato , leno .",
+      "translation": "Dine here to-day , Procurer ."
+    },
+    {
+      "id": "5.3.1417b",
+      "label": "Section 5.3.1417b",
+      "chapter": null,
+      "original": "Fiat , condicio placet .",
+      "translation": "Be it so ; the proposal is to my taste ."
+    },
+    {
+      "id": "5.3.1418",
+      "label": "Section 5.3.1418",
+      "chapter": null,
+      "original": "Sequimini intro . spectatores , vos quoque ad cenam vocem ,",
+      "translation": "Do you both follow me in-doors . ( He comes forward and addresses the AUDIENCE .) Spectators , I would invite you to dinner as well , were it not that I ’ m going to give nothing , and that there is no good cheer at all at home ;"
+    },
+    {
+      "id": "5.3.1420",
+      "label": "Section 5.3.1420",
+      "chapter": null,
+      "original": "nive adeo vocatos credam vos esse ad cenam foras .",
+      "translation": "and if , too , I didn ’ t believe that you are invited to dinner elsewhere . But if you shall be willing to give hearty applause to this Play , do you all come to make merry at my house some sixteen years hence . Do you ( to LABRAX and GRIPUS ) both dine here with me to-day ."
+    },
+    {
+      "id": "5.3.1423b",
+      "label": "Section 5.3.1423b",
+      "chapter": null,
+      "original": "Fiat .",
+      "translation": "Be it so ."
+    },
+    {
+      "id": "5.3.1423c",
+      "label": "Section 5.3.1423c",
+      "chapter": null,
+      "original": "Plausum date .",
+      "translation": "Now give us your applause . [*]"
+    }
+  ],
+  "prevChunkSlug": "the-rope-i828ht-18",
+  "nextChunkSlug": null
+}

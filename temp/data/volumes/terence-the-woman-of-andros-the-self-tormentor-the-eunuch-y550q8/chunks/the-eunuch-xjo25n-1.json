@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "terence-the-woman-of-andros-the-self-tormentor-the-eunuch-y550q8",
+  "volumeTitle": "The Woman of Andros. The Self-Tormentor. The Eunuch",
+  "authorDisplay": "Terence",
+  "authors": [
+    "Terence"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-eunuch-xjo25n-1",
+  "label": "The Eunuch (Section front.cast - Section 1.2.130)",
+  "partId": "the-eunuch-xjo25n",
+  "partTitle": "The Eunuch",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Eunuchus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi003.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Eunuchus; or, The Eunuch",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi003.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "front.cast",
+      "label": "Section front.cast",
+      "chapter": null,
+      "original": "FABULAE INTERLOCUTORES .\n\nANTIPHO , adolescens . CHAEREA , adolescens . CHREMES , adolescens rusticus . DORIAS , ancilla . DORUS , eunuchus . GNATHO , parasitus . LACHES , senex . PARMENO , servus . PHAEDRIA , adolescens . PYTHIAS , ancilla . SANGA , lixa . SOPHRONA , nutrix . THAIS , meretrix . THRASO , miles .",
+      "translation": "Dramatis Personae LACHES , [*] an aged Athenian . PHAEDRIA , [*] his sons . CHAEREA [*] ANTIPHO , [*] a young man , friend of Chaerea . CHREMES , [*] a young man , brother of Pamphila . THRASO , [*] a boastful Captain . GNATHO , [*] a Parasite . PARMENO , [*] servant of Phldria . SANGA , [*] cook to Thraso . DONAX , [*] servants of Thraso . SIMALIO [*] SYRISCUS [*] DORUS , a Eunuch slave . THAIS , [*] a Courtesan . PYTHIAS , [*] her attendants . DORIAS [*] SOPHRONA , [*] a nurse . PAMPHILA , [*] a female slave ."
+    },
+    {
+      "id": "front.production",
+      "label": "Section front.production",
+      "chapter": null,
+      "original": "EUNUCHUS . ACTA LUDIS MEGALENSIBUS , L . POSTUMIO ALBINO L . CORNELIO MERULA AEDILIBUS CURULIBUS . EGERE L . AMBIVIUS TURPIO L . ATILIUS PRAENESTINUS TIBIIS DUABUS DEXTRIS . GRAECA MENANDRU . ACTA II . MODOS FECIT FLACCUS CLAUDII , M . VALERIO C . FANNIO COSS .",
+      "translation": "THE TITLE [*] OF THE PLAY .\nPERFORMED at the Megalensian Games ; L . Posthumius Albinus and L . Cornelius Merula being Curule Aediles . L . Ambivius Turpio and L . Atilius Praenestinus performed it . Flaccus , the freedman of Claudius , composed the music to two treble flutes . From the Greek of Menander . It was acted twice , [*] M . Valerius and C . Fannius being Consuls . [*]"
+    },
+    {
+      "id": "1.prologue.1",
+      "label": "Section 1.prologue.1",
+      "chapter": null,
+      "original": "Si quisquam est qui placere se studeat bonis",
+      "translation": "IF there is any one who desires to please as many good men as possible , and to give offense to extremely few , among those does our Poet enroll his name ."
+    },
+    {
+      "id": "1.prologue.4",
+      "label": "Section 1.prologue.4",
+      "chapter": null,
+      "original": "Tum si quis est qui dictum in se inclementius",
+      "translation": "Next , if there is one who thinks [*] that language too harsh is here applied to him , let him bear this in mind —"
+    },
+    {
+      "id": "1.prologue.6",
+      "label": "Section 1.prologue.6",
+      "chapter": null,
+      "original": "Responsum non dictum esse , quia laesit prior ,",
+      "translation": "that it is an answer , not an attack ; inasmuch as he has himself been the first aggressor ; who , by translating plays verbally , [*] and writing them in bad Latin , has made out of good Greek Plays Latin ones by no means good . Just as of late he has published the Phasma [*] [ the Apparition ] of Menander ;"
+    },
+    {
+      "id": "1.prologue.10",
+      "label": "Section 1.prologue.10",
+      "chapter": null,
+      "original": "Atque in Thesauro scripsit causamn dicere",
+      "translation": "and in the Thesaurus [ the Treasure ] has described [*] him from whom the gold is demanded , as pleading his cause why it should be deemed his own , before the person who demands it has stated how this treasure belongs to him , or how it came into the tomb of his father . Henceforward , let him not deceive himself , or fancy thus ,"
+    },
+    {
+      "id": "1.prologue.15",
+      "label": "Section 1.prologue.15",
+      "chapter": null,
+      "original": "Defunctus iam sum , nihil est quod dicat mihi ;",
+      "translation": "I have now done with it ; there ’ s nothing that he can say to me . I recommend him not to be mistaken , and to refrain from provoking me . I have many other points , as to which for the present he shall be pardoned , which , however , shall be brought forward hereafter , if he persists in attacking me ,"
+    },
+    {
+      "id": "1.prologue.19",
+      "label": "Section 1.prologue.19",
+      "chapter": null,
+      "original": "Ita ut facere instituit . Quam nunc acturi sumus",
+      "translation": "as he has begun to do . After the Aediles had purchased the Eunuch of Menander , the Play which we are about to perform , he managed to get an opportunity of viewing it . [*] When the magistrates were present it began to be performed . He exclaimed that a thief , no Poet , had produced the piece , but still had not deceived [*] him ;"
+    },
+    {
+      "id": "1.prologue.25",
+      "label": "Section 1.prologue.25",
+      "chapter": null,
+      "original": "Colacem esse Naevi et Plauti veterem fabulam ;",
+      "translation": "that , in fact , it was the Colax , an old Play of Plautus ; [*] and that from it were taken the characters of the Parasite and the Captain . If this is a fault , the fault is the ignorance of the Poet ; not that he intended to be guilty of theft . That so it is , you will now be enabled to judge ."
+    },
+    {
+      "id": "1.prologue.30",
+      "label": "Section 1.prologue.30",
+      "chapter": null,
+      "original": "Colax Menandri est ; in ea est parasitus Colax ,",
+      "translation": "The Colax is a Play of Meander ’ s ; in it there is Colax , a Parasite , and a braggart Captain : he does not deny that he has transferred these characters into his Eunuch from the Greek ; but assuredly he does deny this , that he was aware that those pieces had been already translated into Latin ."
+    },
+    {
+      "id": "1.prologue.35",
+      "label": "Section 1.prologue.35",
+      "chapter": null,
+      "original": "Quod si personis iisdem uti aliis non licet ,",
+      "translation": "But if it is not permitted us to use the same characters as others , how can it any more be allowed to represent hurrying servants , [*] to describe virtuous matrons , artful courtesans , the gluttonous parasite , the braggart captain , the infant palmed off , the old man cajoled by the servant ,"
+    },
+    {
+      "id": "1.prologue.40",
+      "label": "Section 1.prologue.40",
+      "chapter": null,
+      "original": "Amare , odisse , suspicari ? Denique",
+      "translation": "about love , hatred , suspicion ? In fine , nothing is said now that has not been said before . Wherefore it is but just that you should know this , and make allowance , if the moderns do what the ancients used to do . Grant me your attention , and give heed in silence ,"
+    },
+    {
+      "id": "1.prologue.45",
+      "label": "Section 1.prologue.45",
+      "chapter": null,
+      "original": "Ut pernoscatis quid sibi Eunuchus velit .",
+      "translation": "that you may understand what the Eunuch means ."
+    },
+    {
+      "id": "1.1.46",
+      "label": "Section 1.1.46",
+      "chapter": null,
+      "original": "Quid igitur faciam ? non eam ? ne nunc quidem",
+      "translation": "What then , shall I do ? [*] Ought I not to go , not now even , when I am sent for of her own accord ? Or ought I rather so to behave myself as not to put up with affronts from Courtesans ? She shut her door against me ; she now invites me back . Ought I to return ? No ; though she should implore me ."
+    },
+    {
+      "id": "1.1.50",
+      "label": "Section 1.1.50",
+      "chapter": null,
+      "original": "Si quidem hercle possis , nihil prius neque fortius :",
+      "translation": "l ’ faith , if indeed you only can , there ’ s nothing better or more spirited ; but if you begin , and can not hold out stoutly , and if , when you can not endure it , while no one asks you , peace being not made , you come to her of your own accord , showing that you love her , and can not endure it , you are done for ; it ’ s all over with you ;"
+    },
+    {
+      "id": "1.1.55",
+      "label": "Section 1.1.55",
+      "chapter": null,
+      "original": "Peristi . Eludet , ubi te victum senserit .",
+      "translation": "you are ruined outright . She ’ ll be jilting you , when she finds you overcome . Do you then , while there ’ s time , again and again reflect upon this , master , that a matter , which in itself admits of neither prudence nor moderation , you are unable to manage with prudence . In love there are all these evils ; wrongs ,"
+    },
+    {
+      "id": "1.1.60",
+      "label": "Section 1.1.60",
+      "chapter": null,
+      "original": "Suspiciones , inimicitiae , indutiae ,",
+      "translation": "suspicions , enmities reconcilements , war , then peace ; if you expect to render these things , naturally uncertain , certain by dint of reason , you wouldn ’ t effect it a bit the more than if you were to use your endeavors to be mad with reason . And , what you are now , in anger , meditating to yourself ,"
+    },
+    {
+      "id": "1.1.65",
+      "label": "Section 1.1.65",
+      "chapter": null,
+      "original": "Egone illam quae illum ? quae me ? quae non ? sine modo :",
+      "translation": "What ! I to her ? [*] Who — him ! Who — me ! Who wouldn ’ t ? Only let me alone ; I had rather die ; she shall find out what sort of a person I am ; these expressions , upon my faith , by a single false tiny tear , which , by rubbing her eyes , poor thing , she can hardly squeeze out perforce , she will put an end to ; and she ’ ll be the first to accuse you ; and you will be"
+    },
+    {
+      "id": "1.1.70",
+      "label": "Section 1.1.70",
+      "chapter": null,
+      "original": "Ei ultro supplicium .",
+      "translation": "too ready to give satisfaction to her ."
+    },
+    {
+      "id": "1.1.70b",
+      "label": "Section 1.1.70b",
+      "chapter": null,
+      "original": "O indignum facinus ! nunc ego et",
+      "translation": "O disgraceful conduct ! I now perceive , both that she is perfidious , and that I am a wretched man . I am both weary of her , and burn with passion ; knowing and fully sensible , alive and seeing it , I am going to ruin ; nor do I know what I am to do ."
+    },
+    {
+      "id": "1.1.74",
+      "label": "Section 1.1.74",
+      "chapter": null,
+      "original": "Quid agas nisi ut te redimas captum quam queas",
+      "translation": "What you are to do ? Why , only to redeem yourself , thus captivated ,"
+    },
+    {
+      "id": "1.1.75",
+      "label": "Section 1.1.75",
+      "chapter": null,
+      "original": "Minimo ? si nequeas paululo , at quanti queas :",
+      "translation": "at the smallest price you can ; if you can not at a very small , rate , still for as little as you can ; and do not afflict yourself ."
+    },
+    {
+      "id": "1.1.76b",
+      "label": "Section 1.1.76b",
+      "chapter": null,
+      "original": "Itane suades ?",
+      "translation": "Do you persuade me to this ?"
+    },
+    {
+      "id": "1.1.76c",
+      "label": "Section 1.1.76c",
+      "chapter": null,
+      "original": "Si sapis :",
+      "translation": "If you are wise . And don ’ t be adding to the troubles which love itself produces ; those which it does produce , bear patiently . But see , here she is coming herself , the downfall of our fortunes , [*] —"
+    },
+    {
+      "id": "1.1.80",
+      "label": "Section 1.1.80",
+      "chapter": null,
+      "original": "Nam quod nos capere oportet haec intercipit .",
+      "translation": "for that which we ought ourselves to enjoy she intercepts ."
+    },
+    {
+      "id": "1.2.81",
+      "label": "Section 1.2.81",
+      "chapter": null,
+      "original": "Miseram me ! vereor ne illud gravius Phaedria",
+      "translation": "Ah wretched me ! I fear lest Phaedria should take it amiss or otherwise than I intended it , that he was not admitted yesterday ."
+    },
+    {
+      "id": "1.2.83b",
+      "label": "Section 1.2.83b",
+      "chapter": null,
+      "original": "Totus Parmeno",
+      "translation": "I ’ m trembling and shivering all over , Parmeno , at the sight of her ."
+    },
+    {
+      "id": "1.2.84b",
+      "label": "Section 1.2.84b",
+      "chapter": null,
+      "original": "Bono animo es :",
+      "translation": "Be of good heart ;"
+    },
+    {
+      "id": "1.2.85",
+      "label": "Section 1.2.85",
+      "chapter": null,
+      "original": "Accede ad ignem hunc ; iam calesces plus satis .",
+      "translation": "only approach this fire , [*] you ’ ll soon be warmer than you need ."
+    },
+    {
+      "id": "1.2.86",
+      "label": "Section 1.2.86",
+      "chapter": null,
+      "original": "Quis hic loquitur ? ehem , tune hic eras , mi Phaedria ?",
+      "translation": "Who is it that ’ s speaking here ? What , are you here , my Phaedria ? Why are you standing here ? Why didn ’ t you come into the house at once ?"
+    },
+    {
+      "id": "1.2.87b",
+      "label": "Section 1.2.87b",
+      "chapter": null,
+      "original": "Caeterum",
+      "translation": "But not a word about shutting you out !"
+    },
+    {
+      "id": "1.2.88b",
+      "label": "Section 1.2.88b",
+      "chapter": null,
+      "original": "Quid taces ?",
+      "translation": "Why are you silent ?"
+    },
+    {
+      "id": "1.2.89",
+      "label": "Section 1.2.89",
+      "chapter": null,
+      "original": "Sane quia vero hae mihi patent semper fores ,",
+      "translation": "Of course , it ’ s because [*] this door is always open to me ,"
+    },
+    {
+      "id": "1.2.90",
+      "label": "Section 1.2.90",
+      "chapter": null,
+      "original": "Aut quia sum apud te primus .",
+      "translation": "or because I ’ m the highest in your favor ?"
+    },
+    {
+      "id": "1.2.90b",
+      "label": "Section 1.2.90b",
+      "chapter": null,
+      "original": "Missa istaec face .",
+      "translation": "Pass those matters by ."
+    },
+    {
+      "id": "1.2.91",
+      "label": "Section 1.2.91",
+      "chapter": null,
+      "original": "Quid missa ? o Thais , Thais , utinam esset mihi",
+      "translation": "How pass them by ? O Thais , Thais , I wish that I had equal affection with yourself , and that it were in like degree , that either this might distress you in the same way that it distresses me , or that I might be indifferent at this being done by you ."
+    },
+    {
+      "id": "1.2.95",
+      "label": "Section 1.2.95",
+      "chapter": null,
+      "original": "Ne crucia te , obsecro , anime mi , mi Phaedria .",
+      "translation": "Prithee , don ’ t torment yourself , my life , my Phaedria . Upon my faith , I did it , not because I love or esteem any person more than you ; but the case was such that it was necessary to be done ."
+    },
+    {
+      "id": "1.2.98",
+      "label": "Section 1.2.98",
+      "chapter": null,
+      "original": "Credo ut fit misera prae amore exclusti hunc foras .",
+      "translation": "I suppose that , poor thing , you shut him out of doors , for love , according to the usual practice ."
+    },
+    {
+      "id": "1.2.99",
+      "label": "Section 1.2.99",
+      "chapter": null,
+      "original": "Sicine ais Parmeno ? age : sed huc qua gratia",
+      "translation": "Is it thus you act , Parmeno ? Well , well . ( To PHAEDRIA .) But listen — the reason for which"
+    },
+    {
+      "id": "1.2.100",
+      "label": "Section 1.2.100",
+      "chapter": null,
+      "original": "Te arcessi iussi ausculta .",
+      "translation": "I desired you to be sent for hither —"
+    },
+    {
+      "id": "1.2.100b",
+      "label": "Section 1.2.100b",
+      "chapter": null,
+      "original": "Fiat .",
+      "translation": "Go on ."
+    },
+    {
+      "id": "1.2.100c",
+      "label": "Section 1.2.100c",
+      "chapter": null,
+      "original": "Dic mihi",
+      "translation": "First tell me this ; can this fellow possibly hold his tongue ?"
+    },
+    {
+      "id": "1.2.101b",
+      "label": "Section 1.2.101b",
+      "chapter": null,
+      "original": "Egone ? optime .",
+      "translation": "What , I ? Perfectly well . But , hark you , upon these conditions I pledge my word to you ; the truth that I hear , I ’ m silent upon , and retain it most faithfully ; but if I hear what ’ s false and without foundation , it ’ s out at once ;"
+    },
+    {
+      "id": "1.2.105",
+      "label": "Section 1.2.105",
+      "chapter": null,
+      "original": "Plenus rimaraum sum ; hac atque illac perfluo .",
+      "translation": "I ’ m full of chinks , and leak in every direction . Therefore , if you wish it to be kept secret , speak the truth ."
+    },
+    {
+      "id": "1.2.107",
+      "label": "Section 1.2.107",
+      "chapter": null,
+      "original": "Samia mihi mater fuit : ea habitabat Rhodi .",
+      "translation": "My mother was a Samian ; she lived at Rhodes —"
+    },
+    {
+      "id": "1.2.108",
+      "label": "Section 1.2.108",
+      "chapter": null,
+      "original": "Potest taceri hoc .",
+      "translation": "That may be kept a secret ."
+    },
+    {
+      "id": "1.2.108b",
+      "label": "Section 1.2.108b",
+      "chapter": null,
+      "original": "Ibi tum matri parvulam",
+      "translation": "There , at that period , a certain merchant made present to my mother of a little girl ,"
+    },
+    {
+      "id": "1.2.110",
+      "label": "Section 1.2.110",
+      "chapter": null,
+      "original": "Ex Attica hine abreptam .",
+      "translation": "who had been stolen away from Attica here ."
+    },
+    {
+      "id": "1.2.110b",
+      "label": "Section 1.2.110b",
+      "chapter": null,
+      "original": "Civemne ?",
+      "translation": "What , a citizen ?"
+    },
+    {
+      "id": "1.2.110c",
+      "label": "Section 1.2.110c",
+      "chapter": null,
+      "original": "Arbitror :",
+      "translation": "I think so ; we do not know for certain : she herself used to mention her mother ’ s and her father ’ s name ; her country and other tokens she didn ’ t know , nor , by reason of her age , was she able . The merchant added this : that he had heard from the kidnappers"
+    },
+    {
+      "id": "1.2.115",
+      "label": "Section 1.2.115",
+      "chapter": null,
+      "original": "Unde emerat se audisse abreptam e Sunio .",
+      "translation": "that she had been carried off from Sunium . [*] When my mother received her , she began carefully to teach her every thing , and to bring her up , just as though she had been her own daughter . Most persons supposed that she was my sister ."
+    },
+    {
+      "id": "1.2.119",
+      "label": "Section 1.2.119",
+      "chapter": null,
+      "original": "Ego cum illo quicum tum uno rem habebam hospite",
+      "translation": "Thence I came hither with that stranger , with whom alone at that period I was connected ; he left me all which I now possess —"
+    },
+    {
+      "id": "1.2.121",
+      "label": "Section 1.2.121",
+      "chapter": null,
+      "original": "Utrumque hoc falsum est : effluet .",
+      "translation": "Both these things are false ; out it goes ."
+    },
+    {
+      "id": "1.2.121b",
+      "label": "Section 1.2.121b",
+      "chapter": null,
+      "original": "Qui istuc ?",
+      "translation": "How so ?"
+    },
+    {
+      "id": "1.2.121c",
+      "label": "Section 1.2.121c",
+      "chapter": null,
+      "original": "Quia",
+      "translation": "Because you were neither content with one , nor was he the only one to make you presents ; for he likewise ( pointing to PHAEDRIA ) brought a pretty considerable share to you ."
+    },
+    {
+      "id": "1.2.124",
+      "label": "Section 1.2.124",
+      "chapter": null,
+      "original": "Ita est : sed sine me pervenire quo volo .",
+      "translation": "Such is the fact ; but do allow me to arrive at the point I wish ."
+    },
+    {
+      "id": "1.2.125",
+      "label": "Section 1.2.125",
+      "chapter": null,
+      "original": "Interea miles qui me amare occeperat",
+      "translation": "In the mean time , the Captain , who had begun to take a fancy to me , set out to Caria ; [*] since when , in the interval , I became acquainted with you . You yourself are aware how very dear I have held you ; and how I confess to you all my nearest counsels ."
+    },
+    {
+      "id": "1.2.129",
+      "label": "Section 1.2.129",
+      "chapter": null,
+      "original": "Ne hoc quidem tacebit Parmeno .",
+      "translation": "Nor will Parmeno be silent about that ."
+    },
+    {
+      "id": "1.2.129b",
+      "label": "Section 1.2.129b",
+      "chapter": null,
+      "original": "Oh , dubiumne id est ?",
+      "translation": "O , is that a matter of doubt ?"
+    },
+    {
+      "id": "1.2.130",
+      "label": "Section 1.2.130",
+      "chapter": null,
+      "original": "Hoc agite amabo . Mater mea illic mortua est",
+      "translation": "Attend ; I entreat you . My mother died there recently ; her brother is somewhat greedy after wealth . When he saw that this damsel was of beauteous form and understood music , hoping for a good price , he forthwith put her up for sale , and sold her . By good fortune"
+    }
+  ],
+  "prevChunkSlug": "the-self-tormentor-nt3lty-16",
+  "nextChunkSlug": "the-eunuch-xjo25n-2"
+}

@@ -1,0 +1,143 @@
+{
+  "volumeSlug": "aeschylus-persians-seven-against-thebes-suppliants-prometheus-bound-ol57q",
+  "volumeTitle": "Persians. Seven against Thebes. Suppliants. Prometheus Bound",
+  "authorDisplay": "Aeschylus",
+  "authors": [
+    "Aeschylus"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "persians-8e806r-7",
+  "label": "Persians (Section 7.1060 - Section 1076)",
+  "partId": "persians-8e806r",
+  "partTitle": "Persians",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Πέρσαι",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg002.1st1K-grc1/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Persians",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg002.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "7.1060",
+      "label": "Section 7.1060",
+      "chapter": null,
+      "original": "πέπλον δ ἔρεικε [*] κολπίαν ἀκμῇ χερῶν .",
+      "translation": "And with your fingers tear the robe which drapes you ."
+    },
+    {
+      "id": "7.1061",
+      "label": "Section 7.1061",
+      "chapter": null,
+      "original": "ἄνι ἄνια .",
+      "translation": "Anguish , anguish !"
+    },
+    {
+      "id": "7.1062",
+      "label": "Section 7.1062",
+      "chapter": null,
+      "original": "καὶ ψάλλ ἔθειραν καὶ κατοίκτισαι στρατόν .",
+      "translation": "Pluck out your locks , and lament our host ."
+    },
+    {
+      "id": "7.1063",
+      "label": "Section 7.1063",
+      "chapter": null,
+      "original": "ἄπριγδ ἄπριγδα μάλα γοεδνά .",
+      "translation": "With clenched nails , with clenched nails , with loud wailing ."
+    },
+    {
+      "id": "7.1064",
+      "label": "Section 7.1064",
+      "chapter": null,
+      "original": "διαίνου δ ὄσσε .",
+      "translation": "Let tears moisten your eyes ."
+    },
+    {
+      "id": "7.1065",
+      "label": "Section 7.1065",
+      "chapter": null,
+      "original": "τέγγομαί τοι .",
+      "translation": "I am drenched with tears ."
+    },
+    {
+      "id": "1066",
+      "label": "Section 1066",
+      "chapter": null,
+      "original": "βόα νυν [*] ἀντίδουπά μοι .",
+      "translation": "Cry aloud now in response to me ."
+    },
+    {
+      "id": "1067",
+      "label": "Section 1067",
+      "chapter": null,
+      "original": "οἰοῖ οἰοῖ .",
+      "translation": "Alas , alas !"
+    },
+    {
+      "id": "1068",
+      "label": "Section 1068",
+      "chapter": null,
+      "original": "αἰακτὸς ἐς δόμους κίε .",
+      "translation": "With sounds of wailing go to your homes ."
+    },
+    {
+      "id": "1070",
+      "label": "Section 1070",
+      "chapter": null,
+      "original": "ἰωὰ δὴ κατ ἄστυ .",
+      "translation": "Alas , alas !"
+    },
+    {
+      "id": "1071",
+      "label": "Section 1071",
+      "chapter": null,
+      "original": "ἰωὰ δῆτα , ναὶ ναί .",
+      "translation": "Alas ! through the city ."
+    },
+    {
+      "id": "1072",
+      "label": "Section 1072",
+      "chapter": null,
+      "original": "γοᾶσθ ἁβροβάται .",
+      "translation": "Alas , indeed !"
+    },
+    {
+      "id": "1073",
+      "label": "Section 1073",
+      "chapter": null,
+      "original": "ἰὼ ἰώ , Περσὶς αἶα δύσβατος .",
+      "translation": "Pour forth your wails as you move along with soft steps ."
+    },
+    {
+      "id": "1074",
+      "label": "Section 1074",
+      "chapter": null,
+      "original": "ἰὴ ἰὴ [*] τρισκάλμοισιν , [*]",
+      "translation": "Alas , alas , O Persian land , grievous now to walk upon !"
+    },
+    {
+      "id": "1075",
+      "label": "Section 1075",
+      "chapter": null,
+      "original": "ἰὴ ἰή , [*] βάρισιν ὀλόμενοι .",
+      "translation": "Those that perished in three-tiered galleys , ah me !"
+    },
+    {
+      "id": "1076",
+      "label": "Section 1076",
+      "chapter": null,
+      "original": "πέμψω τοί σε δυσθρόοις γόοις .",
+      "translation": "I will escort you with dismal sounds of woe . Exeunt omnes"
+    }
+  ],
+  "prevChunkSlug": "persians-8e806r-6",
+  "nextChunkSlug": "seven-against-thebes-dy9uup-1"
+}

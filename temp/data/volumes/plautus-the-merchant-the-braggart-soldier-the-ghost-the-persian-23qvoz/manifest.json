@@ -1,0 +1,2038 @@
+{
+  "loebNumber": 163,
+  "sortOrder": 163,
+  "slug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "title": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "volumeLabel": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for The Merchant. The Braggart Soldier. The Ghost. The Persian, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "the-merchant-1me99z-1",
+  "readyChunkCount": 66,
+  "contents": [
+    {
+      "id": "the-merchant-1me99z",
+      "title": "The Merchant",
+      "status": "ready",
+      "sectionCount": 880,
+      "chunkSlug": "the-merchant-1me99z-1",
+      "chunks": [
+        {
+          "slug": "the-merchant-1me99z-1",
+          "label": "The Merchant (Section 1.1.1 - Section 1.2.154_155)",
+          "partId": "the-merchant-1me99z",
+          "partTitle": "The Merchant",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-merchant-1me99z-2",
+          "label": "The Merchant (Section 1.2.156b - Section 1.2.202b)",
+          "partId": "the-merchant-1me99z",
+          "partTitle": "The Merchant",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-merchant-1me99z-3",
+          "label": "The Merchant (Section 1.2.202c - Section 2.2.300c)",
+          "partId": "the-merchant-1me99z",
+          "partTitle": "The Merchant",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-merchant-1me99z-4",
+          "label": "The Merchant (Section 2.2.301 - Section 2.3.385)",
+          "partId": "the-merchant-1me99z",
+          "partTitle": "The Merchant",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-merchant-1me99z-5",
+          "label": "The Merchant (Section 2.3.385b - Section 2.3.448b)",
+          "partId": "the-merchant-1me99z",
+          "partTitle": "The Merchant",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-merchant-1me99z-6",
+          "label": "The Merchant (Section 2.3.448c - Section 2.4.490)",
+          "partId": "the-merchant-1me99z",
+          "partTitle": "The Merchant",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-merchant-1me99z-7",
+          "label": "The Merchant (Section 2.4.490b - Section 3.1.540b)",
+          "partId": "the-merchant-1me99z",
+          "partTitle": "The Merchant",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-merchant-1me99z-8",
+          "label": "The Merchant (Section 3.1.542 - Section 3.4.619)",
+          "partId": "the-merchant-1me99z",
+          "partTitle": "The Merchant",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-merchant-1me99z-9",
+          "label": "The Merchant (Section 3.4.620 - Section 4.1.686)",
+          "partId": "the-merchant-1me99z",
+          "partTitle": "The Merchant",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-merchant-1me99z-10",
+          "label": "The Merchant (Section 4.1.689 - Section 4.4.749e)",
+          "partId": "the-merchant-1me99z",
+          "partTitle": "The Merchant",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-merchant-1me99z-11",
+          "label": "The Merchant (Section 4.4.750 - Section 4.5.812)",
+          "partId": "the-merchant-1me99z",
+          "partTitle": "The Merchant",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-merchant-1me99z-12",
+          "label": "The Merchant (Section 4.5.812b - Section 5.2.890)",
+          "partId": "the-merchant-1me99z",
+          "partTitle": "The Merchant",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-merchant-1me99z-13",
+          "label": "The Merchant (Section 5.2.890b - Section 5.2.930b)",
+          "partId": "the-merchant-1me99z",
+          "partTitle": "The Merchant",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-merchant-1me99z-14",
+          "label": "The Merchant (Section 5.2.931 - Section 5.4.979)",
+          "partId": "the-merchant-1me99z",
+          "partTitle": "The Merchant",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-merchant-1me99z-15",
+          "label": "The Merchant (Section 5.4.980 - Section 5.4.1025)",
+          "partId": "the-merchant-1me99z",
+          "partTitle": "The Merchant",
+          "sectionCount": 40,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "the-braggart-soldier-kcqgdf",
+      "title": "The Braggart Soldier",
+      "status": "ready",
+      "sectionCount": 1168,
+      "chunkSlug": "the-braggart-soldier-kcqgdf-1",
+      "chunks": [
+        {
+          "slug": "the-braggart-soldier-kcqgdf-1",
+          "label": "The Braggart Soldier (Section 1.1.1 - Section 2.1.105)",
+          "partId": "the-braggart-soldier-kcqgdf",
+          "partTitle": "The Braggart Soldier",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-braggart-soldier-kcqgdf-2",
+          "label": "The Braggart Soldier (Section 2.1.110 - Section 2.2.235)",
+          "partId": "the-braggart-soldier-kcqgdf",
+          "partTitle": "The Braggart Soldier",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-braggart-soldier-kcqgdf-3",
+          "label": "The Braggart Soldier (Section 2.2.236b - Section 2.3.310)",
+          "partId": "the-braggart-soldier-kcqgdf",
+          "partTitle": "The Braggart Soldier",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-braggart-soldier-kcqgdf-4",
+          "label": "The Braggart Soldier (Section 2.3.313 - Section 2.4.363b)",
+          "partId": "the-braggart-soldier-kcqgdf",
+          "partTitle": "The Braggart Soldier",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-braggart-soldier-kcqgdf-5",
+          "label": "The Braggart Soldier (Section 2.4.363c - Section 2.5.428b)",
+          "partId": "the-braggart-soldier-kcqgdf",
+          "partTitle": "The Braggart Soldier",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-braggart-soldier-kcqgdf-6",
+          "label": "The Braggart Soldier (Section 2.5.428c - Section 2.5.472b)",
+          "partId": "the-braggart-soldier-kcqgdf",
+          "partTitle": "The Braggart Soldier",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-braggart-soldier-kcqgdf-7",
+          "label": "The Braggart Soldier (Section 2.5.473 - Section 2.6.558)",
+          "partId": "the-braggart-soldier-kcqgdf",
+          "partTitle": "The Braggart Soldier",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-braggart-soldier-kcqgdf-8",
+          "label": "The Braggart Soldier (Section 2.6.560 - Section 3.1.690)",
+          "partId": "the-braggart-soldier-kcqgdf",
+          "partTitle": "The Braggart Soldier",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-braggart-soldier-kcqgdf-9",
+          "label": "The Braggart Soldier (Section 3.1.695 - Section 3.1.807b)",
+          "partId": "the-braggart-soldier-kcqgdf",
+          "partTitle": "The Braggart Soldier",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-braggart-soldier-kcqgdf-10",
+          "label": "The Braggart Soldier (Section 3.1.808 - Section 3.3.885)",
+          "partId": "the-braggart-soldier-kcqgdf",
+          "partTitle": "The Braggart Soldier",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-braggart-soldier-kcqgdf-11",
+          "label": "The Braggart Soldier (Section 3.3.887 - Section 4.1.958b)",
+          "partId": "the-braggart-soldier-kcqgdf",
+          "partTitle": "The Braggart Soldier",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-braggart-soldier-kcqgdf-12",
+          "label": "The Braggart Soldier (Section 4.1.960 - Section 4.2.1015)",
+          "partId": "the-braggart-soldier-kcqgdf",
+          "partTitle": "The Braggart Soldier",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-braggart-soldier-kcqgdf-13",
+          "label": "The Braggart Soldier (Section 4.2.1015b - Section 4.2.1064b)",
+          "partId": "the-braggart-soldier-kcqgdf",
+          "partTitle": "The Braggart Soldier",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-braggart-soldier-kcqgdf-14",
+          "label": "The Braggart Soldier (Section 4.2.1065 - Section 4.3.1123)",
+          "partId": "the-braggart-soldier-kcqgdf",
+          "partTitle": "The Braggart Soldier",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-braggart-soldier-kcqgdf-15",
+          "label": "The Braggart Soldier (Section 4.3.1123b - Section 4.5.1203)",
+          "partId": "the-braggart-soldier-kcqgdf",
+          "partTitle": "The Braggart Soldier",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-braggart-soldier-kcqgdf-16",
+          "label": "The Braggart Soldier (Section 4.5.1203b - Section 4.6.1257)",
+          "partId": "the-braggart-soldier-kcqgdf",
+          "partTitle": "The Braggart Soldier",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-braggart-soldier-kcqgdf-17",
+          "label": "The Braggart Soldier (Section 4.6.1258 - Section 4.7.1310)",
+          "partId": "the-braggart-soldier-kcqgdf",
+          "partTitle": "The Braggart Soldier",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-braggart-soldier-kcqgdf-18",
+          "label": "The Braggart Soldier (Section 4.7.1310b - Section 4.8.1358)",
+          "partId": "the-braggart-soldier-kcqgdf",
+          "partTitle": "The Braggart Soldier",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-braggart-soldier-kcqgdf-19",
+          "label": "The Braggart Soldier (Section 4.8.1360 - Section 5.1.1415)",
+          "partId": "the-braggart-soldier-kcqgdf",
+          "partTitle": "The Braggart Soldier",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-braggart-soldier-kcqgdf-20",
+          "label": "The Braggart Soldier (Section 5.1.1417 - Section 5.1.1436)",
+          "partId": "the-braggart-soldier-kcqgdf",
+          "partTitle": "The Braggart Soldier",
+          "sectionCount": 28,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "the-ghost-1vjypr",
+      "title": "The Ghost",
+      "status": "ready",
+      "sectionCount": 978,
+      "chunkSlug": "the-ghost-1vjypr-1",
+      "chunks": [
+        {
+          "slug": "the-ghost-1vjypr-1",
+          "label": "The Ghost (Section 1.1.1 - Section 1.3.170)",
+          "partId": "the-ghost-1vjypr",
+          "partTitle": "The Ghost",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-ghost-1vjypr-2",
+          "label": "The Ghost (Section 1.3.172 - Section 1.3.258)",
+          "partId": "the-ghost-1vjypr",
+          "partTitle": "The Ghost",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-ghost-1vjypr-3",
+          "label": "The Ghost (Section 1.3.258b - Section 1.4.333c)",
+          "partId": "the-ghost-1vjypr",
+          "partTitle": "The Ghost",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-ghost-1vjypr-4",
+          "label": "The Ghost (Section 1.4.333d - Section 2.1.380)",
+          "partId": "the-ghost-1vjypr",
+          "partTitle": "The Ghost",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-ghost-1vjypr-5",
+          "label": "The Ghost (Section 2.1.382 - Section 2.2.457c)",
+          "partId": "the-ghost-1vjypr",
+          "partTitle": "The Ghost",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-ghost-1vjypr-6",
+          "label": "The Ghost (Section 2.2.457d - Section 2.2.518c)",
+          "partId": "the-ghost-1vjypr",
+          "partTitle": "The Ghost",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-ghost-1vjypr-7",
+          "label": "The Ghost (Section 2.2.519b - Section 3.1.581)",
+          "partId": "the-ghost-1vjypr",
+          "partTitle": "The Ghost",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-ghost-1vjypr-8",
+          "label": "The Ghost (Section 3.1.583 - Section 3.1.641)",
+          "partId": "the-ghost-1vjypr",
+          "partTitle": "The Ghost",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-ghost-1vjypr-9",
+          "label": "The Ghost (Section 3.1.641b - Section 3.2.723b)",
+          "partId": "the-ghost-1vjypr",
+          "partTitle": "The Ghost",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-ghost-1vjypr-10",
+          "label": "The Ghost (Section 3.2.723c - Section 3.2.795)",
+          "partId": "the-ghost-1vjypr",
+          "partTitle": "The Ghost",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-ghost-1vjypr-11",
+          "label": "The Ghost (Section 3.2.797 - Section 3.2.847b)",
+          "partId": "the-ghost-1vjypr",
+          "partTitle": "The Ghost",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-ghost-1vjypr-12",
+          "label": "The Ghost (Section 3.2.847c - Section 4.3.924)",
+          "partId": "the-ghost-1vjypr",
+          "partTitle": "The Ghost",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-ghost-1vjypr-13",
+          "label": "The Ghost (Section 4.3.925 - Section 4.4.978)",
+          "partId": "the-ghost-1vjypr",
+          "partTitle": "The Ghost",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-ghost-1vjypr-14",
+          "label": "The Ghost (Section 4.4.978b - Section 4.5.1031b)",
+          "partId": "the-ghost-1vjypr",
+          "partTitle": "The Ghost",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-ghost-1vjypr-15",
+          "label": "The Ghost (Section 4.5.1032b - Section 5.1.1097d)",
+          "partId": "the-ghost-1vjypr",
+          "partTitle": "The Ghost",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-ghost-1vjypr-16",
+          "label": "The Ghost (Section 5.1.1097e - Section 5.2.1166b)",
+          "partId": "the-ghost-1vjypr",
+          "partTitle": "The Ghost",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-ghost-1vjypr-17",
+          "label": "The Ghost (Section 5.2.1167 - Section 5.2.1180b)",
+          "partId": "the-ghost-1vjypr",
+          "partTitle": "The Ghost",
+          "sectionCount": 18,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "the-persian-1ldq65",
+      "title": "The Persian",
+      "status": "ready",
+      "sectionCount": 837,
+      "chunkSlug": "the-persian-1ldq65-1",
+      "chunks": [
+        {
+          "slug": "the-persian-1ldq65-1",
+          "label": "The Persian (Section 1.1.1 - Section 1.1.46b)",
+          "partId": "the-persian-1ldq65",
+          "partTitle": "The Persian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-persian-1ldq65-2",
+          "label": "The Persian (Section 1.1.47b - Section 1.3.147)",
+          "partId": "the-persian-1ldq65",
+          "partTitle": "The Persian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-persian-1ldq65-3",
+          "label": "The Persian (Section 1.3.147b - Section 2.2.207b)",
+          "partId": "the-persian-1ldq65",
+          "partTitle": "The Persian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-persian-1ldq65-4",
+          "label": "The Persian (Section 2.2.208 - Section 2.2.234d)",
+          "partId": "the-persian-1ldq65",
+          "partTitle": "The Persian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-persian-1ldq65-5",
+          "label": "The Persian (Section 2.2.235b - Section 2.4.285)",
+          "partId": "the-persian-1ldq65",
+          "partTitle": "The Persian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-persian-1ldq65-6",
+          "label": "The Persian (Section 2.4.285b - Section 3.1.341)",
+          "partId": "the-persian-1ldq65",
+          "partTitle": "The Persian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-persian-1ldq65-7",
+          "label": "The Persian (Section 3.1.342 - Section 3.3.439b)",
+          "partId": "the-persian-1ldq65",
+          "partTitle": "The Persian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-persian-1ldq65-8",
+          "label": "The Persian (Section 3.3.440 - Section 4.3.516)",
+          "partId": "the-persian-1ldq65",
+          "partTitle": "The Persian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-persian-1ldq65-9",
+          "label": "The Persian (Section 4.3.516b - Section 4.4.581)",
+          "partId": "the-persian-1ldq65",
+          "partTitle": "The Persian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-persian-1ldq65-10",
+          "label": "The Persian (Section 4.4.581b - Section 4.4.630b)",
+          "partId": "the-persian-1ldq65",
+          "partTitle": "The Persian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-persian-1ldq65-11",
+          "label": "The Persian (Section 4.4.630c - Section 4.5.679b)",
+          "partId": "the-persian-1ldq65",
+          "partTitle": "The Persian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-persian-1ldq65-12",
+          "label": "The Persian (Section 4.5.680 - Section 4.9.741b)",
+          "partId": "the-persian-1ldq65",
+          "partTitle": "The Persian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-persian-1ldq65-13",
+          "label": "The Persian (Section 4.9.743b - Section 5.2.810)",
+          "partId": "the-persian-1ldq65",
+          "partTitle": "The Persian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-persian-1ldq65-14",
+          "label": "The Persian (Section 5.2.810b - Section 5.2.857b)",
+          "partId": "the-persian-1ldq65",
+          "partTitle": "The Persian",
+          "sectionCount": 57,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "the-merchant-1me99z-1",
+      "label": "The Merchant (Section 1.1.1 - Section 1.2.154_155)",
+      "partId": "the-merchant-1me99z",
+      "partTitle": "The Merchant",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-merchant-1me99z-2",
+      "label": "The Merchant (Section 1.2.156b - Section 1.2.202b)",
+      "partId": "the-merchant-1me99z",
+      "partTitle": "The Merchant",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-merchant-1me99z-3",
+      "label": "The Merchant (Section 1.2.202c - Section 2.2.300c)",
+      "partId": "the-merchant-1me99z",
+      "partTitle": "The Merchant",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-merchant-1me99z-4",
+      "label": "The Merchant (Section 2.2.301 - Section 2.3.385)",
+      "partId": "the-merchant-1me99z",
+      "partTitle": "The Merchant",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-merchant-1me99z-5",
+      "label": "The Merchant (Section 2.3.385b - Section 2.3.448b)",
+      "partId": "the-merchant-1me99z",
+      "partTitle": "The Merchant",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-merchant-1me99z-6",
+      "label": "The Merchant (Section 2.3.448c - Section 2.4.490)",
+      "partId": "the-merchant-1me99z",
+      "partTitle": "The Merchant",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-merchant-1me99z-7",
+      "label": "The Merchant (Section 2.4.490b - Section 3.1.540b)",
+      "partId": "the-merchant-1me99z",
+      "partTitle": "The Merchant",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-merchant-1me99z-8",
+      "label": "The Merchant (Section 3.1.542 - Section 3.4.619)",
+      "partId": "the-merchant-1me99z",
+      "partTitle": "The Merchant",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-merchant-1me99z-9",
+      "label": "The Merchant (Section 3.4.620 - Section 4.1.686)",
+      "partId": "the-merchant-1me99z",
+      "partTitle": "The Merchant",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-merchant-1me99z-10",
+      "label": "The Merchant (Section 4.1.689 - Section 4.4.749e)",
+      "partId": "the-merchant-1me99z",
+      "partTitle": "The Merchant",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-merchant-1me99z-11",
+      "label": "The Merchant (Section 4.4.750 - Section 4.5.812)",
+      "partId": "the-merchant-1me99z",
+      "partTitle": "The Merchant",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-merchant-1me99z-12",
+      "label": "The Merchant (Section 4.5.812b - Section 5.2.890)",
+      "partId": "the-merchant-1me99z",
+      "partTitle": "The Merchant",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-merchant-1me99z-13",
+      "label": "The Merchant (Section 5.2.890b - Section 5.2.930b)",
+      "partId": "the-merchant-1me99z",
+      "partTitle": "The Merchant",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-merchant-1me99z-14",
+      "label": "The Merchant (Section 5.2.931 - Section 5.4.979)",
+      "partId": "the-merchant-1me99z",
+      "partTitle": "The Merchant",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-merchant-1me99z-15",
+      "label": "The Merchant (Section 5.4.980 - Section 5.4.1025)",
+      "partId": "the-merchant-1me99z",
+      "partTitle": "The Merchant",
+      "sectionCount": 40,
+      "status": "ready"
+    },
+    {
+      "slug": "the-braggart-soldier-kcqgdf-1",
+      "label": "The Braggart Soldier (Section 1.1.1 - Section 2.1.105)",
+      "partId": "the-braggart-soldier-kcqgdf",
+      "partTitle": "The Braggart Soldier",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-braggart-soldier-kcqgdf-2",
+      "label": "The Braggart Soldier (Section 2.1.110 - Section 2.2.235)",
+      "partId": "the-braggart-soldier-kcqgdf",
+      "partTitle": "The Braggart Soldier",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-braggart-soldier-kcqgdf-3",
+      "label": "The Braggart Soldier (Section 2.2.236b - Section 2.3.310)",
+      "partId": "the-braggart-soldier-kcqgdf",
+      "partTitle": "The Braggart Soldier",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-braggart-soldier-kcqgdf-4",
+      "label": "The Braggart Soldier (Section 2.3.313 - Section 2.4.363b)",
+      "partId": "the-braggart-soldier-kcqgdf",
+      "partTitle": "The Braggart Soldier",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-braggart-soldier-kcqgdf-5",
+      "label": "The Braggart Soldier (Section 2.4.363c - Section 2.5.428b)",
+      "partId": "the-braggart-soldier-kcqgdf",
+      "partTitle": "The Braggart Soldier",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-braggart-soldier-kcqgdf-6",
+      "label": "The Braggart Soldier (Section 2.5.428c - Section 2.5.472b)",
+      "partId": "the-braggart-soldier-kcqgdf",
+      "partTitle": "The Braggart Soldier",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-braggart-soldier-kcqgdf-7",
+      "label": "The Braggart Soldier (Section 2.5.473 - Section 2.6.558)",
+      "partId": "the-braggart-soldier-kcqgdf",
+      "partTitle": "The Braggart Soldier",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-braggart-soldier-kcqgdf-8",
+      "label": "The Braggart Soldier (Section 2.6.560 - Section 3.1.690)",
+      "partId": "the-braggart-soldier-kcqgdf",
+      "partTitle": "The Braggart Soldier",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-braggart-soldier-kcqgdf-9",
+      "label": "The Braggart Soldier (Section 3.1.695 - Section 3.1.807b)",
+      "partId": "the-braggart-soldier-kcqgdf",
+      "partTitle": "The Braggart Soldier",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-braggart-soldier-kcqgdf-10",
+      "label": "The Braggart Soldier (Section 3.1.808 - Section 3.3.885)",
+      "partId": "the-braggart-soldier-kcqgdf",
+      "partTitle": "The Braggart Soldier",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-braggart-soldier-kcqgdf-11",
+      "label": "The Braggart Soldier (Section 3.3.887 - Section 4.1.958b)",
+      "partId": "the-braggart-soldier-kcqgdf",
+      "partTitle": "The Braggart Soldier",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-braggart-soldier-kcqgdf-12",
+      "label": "The Braggart Soldier (Section 4.1.960 - Section 4.2.1015)",
+      "partId": "the-braggart-soldier-kcqgdf",
+      "partTitle": "The Braggart Soldier",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-braggart-soldier-kcqgdf-13",
+      "label": "The Braggart Soldier (Section 4.2.1015b - Section 4.2.1064b)",
+      "partId": "the-braggart-soldier-kcqgdf",
+      "partTitle": "The Braggart Soldier",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-braggart-soldier-kcqgdf-14",
+      "label": "The Braggart Soldier (Section 4.2.1065 - Section 4.3.1123)",
+      "partId": "the-braggart-soldier-kcqgdf",
+      "partTitle": "The Braggart Soldier",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-braggart-soldier-kcqgdf-15",
+      "label": "The Braggart Soldier (Section 4.3.1123b - Section 4.5.1203)",
+      "partId": "the-braggart-soldier-kcqgdf",
+      "partTitle": "The Braggart Soldier",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-braggart-soldier-kcqgdf-16",
+      "label": "The Braggart Soldier (Section 4.5.1203b - Section 4.6.1257)",
+      "partId": "the-braggart-soldier-kcqgdf",
+      "partTitle": "The Braggart Soldier",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-braggart-soldier-kcqgdf-17",
+      "label": "The Braggart Soldier (Section 4.6.1258 - Section 4.7.1310)",
+      "partId": "the-braggart-soldier-kcqgdf",
+      "partTitle": "The Braggart Soldier",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-braggart-soldier-kcqgdf-18",
+      "label": "The Braggart Soldier (Section 4.7.1310b - Section 4.8.1358)",
+      "partId": "the-braggart-soldier-kcqgdf",
+      "partTitle": "The Braggart Soldier",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-braggart-soldier-kcqgdf-19",
+      "label": "The Braggart Soldier (Section 4.8.1360 - Section 5.1.1415)",
+      "partId": "the-braggart-soldier-kcqgdf",
+      "partTitle": "The Braggart Soldier",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-braggart-soldier-kcqgdf-20",
+      "label": "The Braggart Soldier (Section 5.1.1417 - Section 5.1.1436)",
+      "partId": "the-braggart-soldier-kcqgdf",
+      "partTitle": "The Braggart Soldier",
+      "sectionCount": 28,
+      "status": "ready"
+    },
+    {
+      "slug": "the-ghost-1vjypr-1",
+      "label": "The Ghost (Section 1.1.1 - Section 1.3.170)",
+      "partId": "the-ghost-1vjypr",
+      "partTitle": "The Ghost",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-ghost-1vjypr-2",
+      "label": "The Ghost (Section 1.3.172 - Section 1.3.258)",
+      "partId": "the-ghost-1vjypr",
+      "partTitle": "The Ghost",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-ghost-1vjypr-3",
+      "label": "The Ghost (Section 1.3.258b - Section 1.4.333c)",
+      "partId": "the-ghost-1vjypr",
+      "partTitle": "The Ghost",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-ghost-1vjypr-4",
+      "label": "The Ghost (Section 1.4.333d - Section 2.1.380)",
+      "partId": "the-ghost-1vjypr",
+      "partTitle": "The Ghost",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-ghost-1vjypr-5",
+      "label": "The Ghost (Section 2.1.382 - Section 2.2.457c)",
+      "partId": "the-ghost-1vjypr",
+      "partTitle": "The Ghost",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-ghost-1vjypr-6",
+      "label": "The Ghost (Section 2.2.457d - Section 2.2.518c)",
+      "partId": "the-ghost-1vjypr",
+      "partTitle": "The Ghost",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-ghost-1vjypr-7",
+      "label": "The Ghost (Section 2.2.519b - Section 3.1.581)",
+      "partId": "the-ghost-1vjypr",
+      "partTitle": "The Ghost",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-ghost-1vjypr-8",
+      "label": "The Ghost (Section 3.1.583 - Section 3.1.641)",
+      "partId": "the-ghost-1vjypr",
+      "partTitle": "The Ghost",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-ghost-1vjypr-9",
+      "label": "The Ghost (Section 3.1.641b - Section 3.2.723b)",
+      "partId": "the-ghost-1vjypr",
+      "partTitle": "The Ghost",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-ghost-1vjypr-10",
+      "label": "The Ghost (Section 3.2.723c - Section 3.2.795)",
+      "partId": "the-ghost-1vjypr",
+      "partTitle": "The Ghost",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-ghost-1vjypr-11",
+      "label": "The Ghost (Section 3.2.797 - Section 3.2.847b)",
+      "partId": "the-ghost-1vjypr",
+      "partTitle": "The Ghost",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-ghost-1vjypr-12",
+      "label": "The Ghost (Section 3.2.847c - Section 4.3.924)",
+      "partId": "the-ghost-1vjypr",
+      "partTitle": "The Ghost",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-ghost-1vjypr-13",
+      "label": "The Ghost (Section 4.3.925 - Section 4.4.978)",
+      "partId": "the-ghost-1vjypr",
+      "partTitle": "The Ghost",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-ghost-1vjypr-14",
+      "label": "The Ghost (Section 4.4.978b - Section 4.5.1031b)",
+      "partId": "the-ghost-1vjypr",
+      "partTitle": "The Ghost",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-ghost-1vjypr-15",
+      "label": "The Ghost (Section 4.5.1032b - Section 5.1.1097d)",
+      "partId": "the-ghost-1vjypr",
+      "partTitle": "The Ghost",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-ghost-1vjypr-16",
+      "label": "The Ghost (Section 5.1.1097e - Section 5.2.1166b)",
+      "partId": "the-ghost-1vjypr",
+      "partTitle": "The Ghost",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-ghost-1vjypr-17",
+      "label": "The Ghost (Section 5.2.1167 - Section 5.2.1180b)",
+      "partId": "the-ghost-1vjypr",
+      "partTitle": "The Ghost",
+      "sectionCount": 18,
+      "status": "ready"
+    },
+    {
+      "slug": "the-persian-1ldq65-1",
+      "label": "The Persian (Section 1.1.1 - Section 1.1.46b)",
+      "partId": "the-persian-1ldq65",
+      "partTitle": "The Persian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-persian-1ldq65-2",
+      "label": "The Persian (Section 1.1.47b - Section 1.3.147)",
+      "partId": "the-persian-1ldq65",
+      "partTitle": "The Persian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-persian-1ldq65-3",
+      "label": "The Persian (Section 1.3.147b - Section 2.2.207b)",
+      "partId": "the-persian-1ldq65",
+      "partTitle": "The Persian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-persian-1ldq65-4",
+      "label": "The Persian (Section 2.2.208 - Section 2.2.234d)",
+      "partId": "the-persian-1ldq65",
+      "partTitle": "The Persian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-persian-1ldq65-5",
+      "label": "The Persian (Section 2.2.235b - Section 2.4.285)",
+      "partId": "the-persian-1ldq65",
+      "partTitle": "The Persian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-persian-1ldq65-6",
+      "label": "The Persian (Section 2.4.285b - Section 3.1.341)",
+      "partId": "the-persian-1ldq65",
+      "partTitle": "The Persian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-persian-1ldq65-7",
+      "label": "The Persian (Section 3.1.342 - Section 3.3.439b)",
+      "partId": "the-persian-1ldq65",
+      "partTitle": "The Persian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-persian-1ldq65-8",
+      "label": "The Persian (Section 3.3.440 - Section 4.3.516)",
+      "partId": "the-persian-1ldq65",
+      "partTitle": "The Persian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-persian-1ldq65-9",
+      "label": "The Persian (Section 4.3.516b - Section 4.4.581)",
+      "partId": "the-persian-1ldq65",
+      "partTitle": "The Persian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-persian-1ldq65-10",
+      "label": "The Persian (Section 4.4.581b - Section 4.4.630b)",
+      "partId": "the-persian-1ldq65",
+      "partTitle": "The Persian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-persian-1ldq65-11",
+      "label": "The Persian (Section 4.4.630c - Section 4.5.679b)",
+      "partId": "the-persian-1ldq65",
+      "partTitle": "The Persian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-persian-1ldq65-12",
+      "label": "The Persian (Section 4.5.680 - Section 4.9.741b)",
+      "partId": "the-persian-1ldq65",
+      "partTitle": "The Persian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-persian-1ldq65-13",
+      "label": "The Persian (Section 4.9.743b - Section 5.2.810)",
+      "partId": "the-persian-1ldq65",
+      "partTitle": "The Persian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-persian-1ldq65-14",
+      "label": "The Persian (Section 5.2.810b - Section 5.2.857b)",
+      "partId": "the-persian-1ldq65",
+      "partTitle": "The Persian",
+      "sectionCount": 57,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "the-merchant-1me99z-1",
+      "partTitle": "The Merchant",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mercator",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mercator, or The Merchant",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-merchant-1me99z-2",
+      "partTitle": "The Merchant",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mercator",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mercator, or The Merchant",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-merchant-1me99z-3",
+      "partTitle": "The Merchant",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mercator",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mercator, or The Merchant",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-merchant-1me99z-4",
+      "partTitle": "The Merchant",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mercator",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mercator, or The Merchant",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-merchant-1me99z-5",
+      "partTitle": "The Merchant",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mercator",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mercator, or The Merchant",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-merchant-1me99z-6",
+      "partTitle": "The Merchant",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mercator",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mercator, or The Merchant",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-merchant-1me99z-7",
+      "partTitle": "The Merchant",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mercator",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mercator, or The Merchant",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-merchant-1me99z-8",
+      "partTitle": "The Merchant",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mercator",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mercator, or The Merchant",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-merchant-1me99z-9",
+      "partTitle": "The Merchant",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mercator",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mercator, or The Merchant",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-merchant-1me99z-10",
+      "partTitle": "The Merchant",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mercator",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mercator, or The Merchant",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-merchant-1me99z-11",
+      "partTitle": "The Merchant",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mercator",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mercator, or The Merchant",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-merchant-1me99z-12",
+      "partTitle": "The Merchant",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mercator",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mercator, or The Merchant",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-merchant-1me99z-13",
+      "partTitle": "The Merchant",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mercator",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mercator, or The Merchant",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-merchant-1me99z-14",
+      "partTitle": "The Merchant",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mercator",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mercator, or The Merchant",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-merchant-1me99z-15",
+      "partTitle": "The Merchant",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mercator",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mercator, or The Merchant",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-braggart-soldier-kcqgdf-1",
+      "partTitle": "The Braggart Soldier",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Miles Gloriosus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Miles Gloriosus, or The Braggart Captain",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-braggart-soldier-kcqgdf-2",
+      "partTitle": "The Braggart Soldier",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Miles Gloriosus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Miles Gloriosus, or The Braggart Captain",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-braggart-soldier-kcqgdf-3",
+      "partTitle": "The Braggart Soldier",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Miles Gloriosus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Miles Gloriosus, or The Braggart Captain",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-braggart-soldier-kcqgdf-4",
+      "partTitle": "The Braggart Soldier",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Miles Gloriosus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Miles Gloriosus, or The Braggart Captain",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-braggart-soldier-kcqgdf-5",
+      "partTitle": "The Braggart Soldier",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Miles Gloriosus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Miles Gloriosus, or The Braggart Captain",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-braggart-soldier-kcqgdf-6",
+      "partTitle": "The Braggart Soldier",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Miles Gloriosus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Miles Gloriosus, or The Braggart Captain",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-braggart-soldier-kcqgdf-7",
+      "partTitle": "The Braggart Soldier",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Miles Gloriosus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Miles Gloriosus, or The Braggart Captain",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-braggart-soldier-kcqgdf-8",
+      "partTitle": "The Braggart Soldier",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Miles Gloriosus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Miles Gloriosus, or The Braggart Captain",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-braggart-soldier-kcqgdf-9",
+      "partTitle": "The Braggart Soldier",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Miles Gloriosus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Miles Gloriosus, or The Braggart Captain",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-braggart-soldier-kcqgdf-10",
+      "partTitle": "The Braggart Soldier",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Miles Gloriosus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Miles Gloriosus, or The Braggart Captain",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-braggart-soldier-kcqgdf-11",
+      "partTitle": "The Braggart Soldier",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Miles Gloriosus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Miles Gloriosus, or The Braggart Captain",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-braggart-soldier-kcqgdf-12",
+      "partTitle": "The Braggart Soldier",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Miles Gloriosus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Miles Gloriosus, or The Braggart Captain",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-braggart-soldier-kcqgdf-13",
+      "partTitle": "The Braggart Soldier",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Miles Gloriosus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Miles Gloriosus, or The Braggart Captain",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-braggart-soldier-kcqgdf-14",
+      "partTitle": "The Braggart Soldier",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Miles Gloriosus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Miles Gloriosus, or The Braggart Captain",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-braggart-soldier-kcqgdf-15",
+      "partTitle": "The Braggart Soldier",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Miles Gloriosus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Miles Gloriosus, or The Braggart Captain",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-braggart-soldier-kcqgdf-16",
+      "partTitle": "The Braggart Soldier",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Miles Gloriosus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Miles Gloriosus, or The Braggart Captain",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-braggart-soldier-kcqgdf-17",
+      "partTitle": "The Braggart Soldier",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Miles Gloriosus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Miles Gloriosus, or The Braggart Captain",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-braggart-soldier-kcqgdf-18",
+      "partTitle": "The Braggart Soldier",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Miles Gloriosus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Miles Gloriosus, or The Braggart Captain",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-braggart-soldier-kcqgdf-19",
+      "partTitle": "The Braggart Soldier",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Miles Gloriosus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Miles Gloriosus, or The Braggart Captain",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-braggart-soldier-kcqgdf-20",
+      "partTitle": "The Braggart Soldier",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Miles Gloriosus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Miles Gloriosus, or The Braggart Captain",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-ghost-1vjypr-1",
+      "partTitle": "The Ghost",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mostellaria",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mostellaria, or The Haunted House",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-ghost-1vjypr-2",
+      "partTitle": "The Ghost",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mostellaria",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mostellaria, or The Haunted House",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-ghost-1vjypr-3",
+      "partTitle": "The Ghost",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mostellaria",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mostellaria, or The Haunted House",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-ghost-1vjypr-4",
+      "partTitle": "The Ghost",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mostellaria",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mostellaria, or The Haunted House",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-ghost-1vjypr-5",
+      "partTitle": "The Ghost",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mostellaria",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mostellaria, or The Haunted House",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-ghost-1vjypr-6",
+      "partTitle": "The Ghost",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mostellaria",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mostellaria, or The Haunted House",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-ghost-1vjypr-7",
+      "partTitle": "The Ghost",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mostellaria",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mostellaria, or The Haunted House",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-ghost-1vjypr-8",
+      "partTitle": "The Ghost",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mostellaria",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mostellaria, or The Haunted House",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-ghost-1vjypr-9",
+      "partTitle": "The Ghost",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mostellaria",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mostellaria, or The Haunted House",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-ghost-1vjypr-10",
+      "partTitle": "The Ghost",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mostellaria",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mostellaria, or The Haunted House",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-ghost-1vjypr-11",
+      "partTitle": "The Ghost",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mostellaria",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mostellaria, or The Haunted House",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-ghost-1vjypr-12",
+      "partTitle": "The Ghost",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mostellaria",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mostellaria, or The Haunted House",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-ghost-1vjypr-13",
+      "partTitle": "The Ghost",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mostellaria",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mostellaria, or The Haunted House",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-ghost-1vjypr-14",
+      "partTitle": "The Ghost",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mostellaria",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mostellaria, or The Haunted House",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-ghost-1vjypr-15",
+      "partTitle": "The Ghost",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mostellaria",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mostellaria, or The Haunted House",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-ghost-1vjypr-16",
+      "partTitle": "The Ghost",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mostellaria",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mostellaria, or The Haunted House",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-ghost-1vjypr-17",
+      "partTitle": "The Ghost",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Mostellaria",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mostellaria, or The Haunted House",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-persian-1ldq65-1",
+      "partTitle": "The Persian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Persa",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Persa, or The Persian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-persian-1ldq65-2",
+      "partTitle": "The Persian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Persa",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Persa, or The Persian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-persian-1ldq65-3",
+      "partTitle": "The Persian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Persa",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Persa, or The Persian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-persian-1ldq65-4",
+      "partTitle": "The Persian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Persa",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Persa, or The Persian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-persian-1ldq65-5",
+      "partTitle": "The Persian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Persa",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Persa, or The Persian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-persian-1ldq65-6",
+      "partTitle": "The Persian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Persa",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Persa, or The Persian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-persian-1ldq65-7",
+      "partTitle": "The Persian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Persa",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Persa, or The Persian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-persian-1ldq65-8",
+      "partTitle": "The Persian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Persa",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Persa, or The Persian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-persian-1ldq65-9",
+      "partTitle": "The Persian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Persa",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Persa, or The Persian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-persian-1ldq65-10",
+      "partTitle": "The Persian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Persa",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Persa, or The Persian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-persian-1ldq65-11",
+      "partTitle": "The Persian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Persa",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Persa, or The Persian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-persian-1ldq65-12",
+      "partTitle": "The Persian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Persa",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Persa, or The Persian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-persian-1ldq65-13",
+      "partTitle": "The Persian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Persa",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Persa, or The Persian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-persian-1ldq65-14",
+      "partTitle": "The Persian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Persa",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Persa, or The Persian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-eng2/"
+      }
+    }
+  ]
+}

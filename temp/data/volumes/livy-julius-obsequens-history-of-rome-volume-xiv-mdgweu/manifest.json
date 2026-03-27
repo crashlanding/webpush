@@ -1,0 +1,61 @@
+{
+  "loebNumber": 404,
+  "sortOrder": 404,
+  "slug": "livy-julius-obsequens-history-of-rome-volume-xiv-mdgweu",
+  "title": "Julius Obsequens, History of Rome, Volume XIV",
+  "volumeLabel": "Julius Obsequens, History of Rome, Volume XIV",
+  "authorDisplay": "Livy",
+  "authors": [
+    "Livy"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for Julius Obsequens, History of Rome, Volume XIV. Julius Obsequens, History of Rome, Volume XIV currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "julius-obsequens-history-of-rome-volume-xiv-1bc8ai",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "julius-obsequens-history-of-rome-volume-xiv-1bc8ai",
+      "title": "Julius Obsequens, History of Rome, Volume XIV",
+      "status": "ready",
+      "sectionCount": 50,
+      "chunkSlug": "julius-obsequens-history-of-rome-volume-xiv-1bc8ai",
+      "chunks": [
+        {
+          "slug": "julius-obsequens-history-of-rome-volume-xiv-1bc8ai",
+          "label": "Julius Obsequens, History of Rome, Volume XIV",
+          "partId": "julius-obsequens-history-of-rome-volume-xiv-1bc8ai",
+          "partTitle": "Julius Obsequens, History of Rome, Volume XIV",
+          "sectionCount": 50,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "julius-obsequens-history-of-rome-volume-xiv-1bc8ai",
+      "label": "Julius Obsequens, History of Rome, Volume XIV",
+      "partId": "julius-obsequens-history-of-rome-volume-xiv-1bc8ai",
+      "partTitle": "Julius Obsequens, History of Rome, Volume XIV",
+      "sectionCount": 50,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "julius-obsequens-history-of-rome-volume-xiv-1bc8ai",
+      "partTitle": "Julius Obsequens, History of Rome, Volume XIV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ab urbe condita",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0914.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The History of Rome",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0914.phi001.perseus-eng3/"
+      }
+    }
+  ]
+}

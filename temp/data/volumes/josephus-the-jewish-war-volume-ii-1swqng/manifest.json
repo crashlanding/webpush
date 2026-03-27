@@ -1,0 +1,61 @@
+{
+  "loebNumber": 487,
+  "sortOrder": 487,
+  "slug": "josephus-the-jewish-war-volume-ii-1swqng",
+  "title": "The Jewish War, Volume II",
+  "volumeLabel": "The Jewish War, Volume II",
+  "authorDisplay": "Josephus",
+  "authors": [
+    "Josephus"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for The Jewish War, Volume II. The Jewish War, Volume II currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "the-jewish-war-volume-ii-1os51a",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "the-jewish-war-volume-ii-1os51a",
+      "title": "The Jewish War, Volume II",
+      "status": "ready",
+      "sectionCount": 12,
+      "chunkSlug": "the-jewish-war-volume-ii-1os51a",
+      "chunks": [
+        {
+          "slug": "the-jewish-war-volume-ii-1os51a",
+          "label": "The Jewish War, Volume II",
+          "partId": "the-jewish-war-volume-ii-1os51a",
+          "partTitle": "The Jewish War, Volume II",
+          "sectionCount": 12,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "the-jewish-war-volume-ii-1os51a",
+      "label": "The Jewish War, Volume II",
+      "partId": "the-jewish-war-volume-ii-1os51a",
+      "partTitle": "The Jewish War, Volume II",
+      "sectionCount": 12,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "the-jewish-war-volume-ii-1os51a",
+      "partTitle": "The Jewish War, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἰουδαϊκοῦ πολέμου πρὸς Ῥωμαίους",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0526.tlg004.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Wars of the Jews",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0526.tlg004.perseus-eng2/"
+      }
+    }
+  ]
+}

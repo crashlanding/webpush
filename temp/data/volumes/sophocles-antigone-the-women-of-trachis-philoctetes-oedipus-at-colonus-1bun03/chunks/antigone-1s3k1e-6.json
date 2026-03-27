@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "sophocles-antigone-the-women-of-trachis-philoctetes-oedipus-at-colonus-1bun03",
+  "volumeTitle": "Antigone. The Women of Trachis. Philoctetes. Oedipus at Colonus",
+  "authorDisplay": "Sophocles",
+  "authors": [
+    "Sophocles"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "antigone-1s3k1e-6",
+  "label": "Antigone (Section 756 - Section 931)",
+  "partId": "antigone-1s3k1e",
+  "partTitle": "Antigone",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἀντιγόνη",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg002.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Antigone",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg002.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "756",
+      "label": "Section 756",
+      "chapter": null,
+      "original": "γυναικὸς ὢν δούλευμα μὴ κώτιλλέ με .",
+      "translation": "You woman ’ s slave , do not try to cajole me ."
+    },
+    {
+      "id": "757",
+      "label": "Section 757",
+      "chapter": null,
+      "original": "βούλει λέγειν τι καὶ λέγων μηδὲν κλύειν ;",
+      "translation": "Do you want to have your say and then have done without a reply ?"
+    },
+    {
+      "id": "758",
+      "label": "Section 758",
+      "chapter": null,
+      "original": "ἄληθες ; ἀλλʼ οὐ τόνδʼ Ὄλυμπον , ἴσθʼ ὅτι ,",
+      "translation": "Is that so ? By Olympus above — know this well — you will have no joy for taunting me over and above your censures ."
+    },
+    {
+      "id": "760",
+      "label": "Section 760",
+      "chapter": null,
+      "original": "ἄγαγε τὸ μῖσος ὡς κατʼ ὄμματʼ αὐτίκα",
+      "translation": "Bring out that hated thing , so that with him looking on she may die right now in her bridegroom ’ s presence and at his side !"
+    },
+    {
+      "id": "762",
+      "label": "Section 762",
+      "chapter": null,
+      "original": "οὐ δῆτʼ ἔμοιγε , τοῦτο μὴ δόξῃς ποτέ ,",
+      "translation": "No , not at my side will she die — do not ever imagine it . Nor shall you ever look at me and set eyes on my face again ."
+    },
+    {
+      "id": "765",
+      "label": "Section 765",
+      "chapter": null,
+      "original": "ὡς τοῖς θέλουσι τῶν φίλων μαίνῃ συνών .",
+      "translation": "Indulge in your madness now with whomever of your friends can endure it . Exit Haemon ."
+    },
+    {
+      "id": "766",
+      "label": "Section 766",
+      "chapter": null,
+      "original": "ἁνήρ , ἄναξ , βέβηκεν ἐξ ὀργῆς ταχύς ·",
+      "translation": "The man is gone , King Creon , in anger and haste . A young mind is fierce when stung ."
+    },
+    {
+      "id": "768",
+      "label": "Section 768",
+      "chapter": null,
+      "original": "δράτω · φρονείτω μεῖζον ἢ κατʼ ἄνδρʼ ἰών ·",
+      "translation": "Let him do — no !— let him plan something more immense than befits a man . Farewell to him ! Still he will not save these two girls from death ."
+    },
+    {
+      "id": "770",
+      "label": "Section 770",
+      "chapter": null,
+      "original": "ἄμφω γὰρ αὐτὼ καὶ κατακτεῖναι νοεῖς ;",
+      "translation": "Then the pair of them , you really intend to kill them both ?"
+    },
+    {
+      "id": "771",
+      "label": "Section 771",
+      "chapter": null,
+      "original": "οὐ τήν γε μὴ θιγοῦσαν · εὖ γὰρ οὖν λέγεις .",
+      "translation": "Not the one who did not put her hands to the burial . You are right ."
+    },
+    {
+      "id": "772",
+      "label": "Section 772",
+      "chapter": null,
+      "original": "μόρῳ δὲ ποίῳ καί σφε βουλεύει κτανεῖν ;",
+      "translation": "And by what mode of death do you mean to kill the other ?"
+    },
+    {
+      "id": "773",
+      "label": "Section 773",
+      "chapter": null,
+      "original": "ἄγων ἔρημος ἔνθʼ ἂν ᾖ βροτῶν στίβος",
+      "translation": "I will take her where the path is deserted , unvisited by men , and entomb her alive in a rocky vault ,"
+    },
+    {
+      "id": "775",
+      "label": "Section 775",
+      "chapter": null,
+      "original": "φορβῆς τοσοῦτον ὡς ἄγος μόνον προθείς ,",
+      "translation": "setting out a ration of food , but only as much as piety requires so that all the city may escape defilement . And praying there to Hades , the only god she worships , perhaps she will obtain immunity from death , or else will learn , at last , even this late ,"
+    },
+    {
+      "id": "780",
+      "label": "Section 780",
+      "chapter": null,
+      "original": "πόνος περισσός ἐστι τἀν Ἅιδου σέβειν .",
+      "translation": "that it is fruitless labor to revere the dead . Exit Creon ."
+    },
+    {
+      "id": "1.781",
+      "label": "Section 1.781",
+      "chapter": null,
+      "original": "Ἔρως ἀνίκατε μάχαν , Ἔρως , ὃς ἐν κτήμασι πίπτεις ,",
+      "translation": "Love , the unconquered in battle , Love , you who descend upon riches , and watch the night through on a girl ’ s soft cheek ,"
+    },
+    {
+      "id": "1.785",
+      "label": "Section 1.785",
+      "chapter": null,
+      "original": "φοιτᾷς δʼ ὑπερπόντιος ἔν τʼ ἀγρονόμοις αὐλαῖς ·",
+      "translation": "you roam over the sea and among the homes of men in the wilds . Neither can any immortal escape you ,"
+    },
+    {
+      "id": "1.790",
+      "label": "Section 1.790",
+      "chapter": null,
+      "original": "οὔθʼ ἁμερίων σέ γʼ ἀνθρώπων . ὁ δʼ ἔχων μέμηνεν .",
+      "translation": "nor any man whose life lasts for a day . He who has known you is driven to madness ."
+    },
+    {
+      "id": "1.791",
+      "label": "Section 1.791",
+      "chapter": null,
+      "original": "σὺ καὶ δικαίων ἀδίκους φρένας παρασπᾷς ἐπὶ λώβᾳ ,",
+      "translation": "You seize the minds of just men and drag them to injustice , to their ruin . You it is who have incited this conflict of men whose flesh and blood are one ."
+    },
+    {
+      "id": "1.795",
+      "label": "Section 1.795",
+      "chapter": null,
+      "original": "νικᾷ δʼ ἐναργὴς βλεφάρων ἵμερος εὐλέκτρου",
+      "translation": "But victory belongs to radiant Desire swelling from the eyes of the sweet-bedded bride . Desire sits enthroned in power beside the mighty laws ."
+    },
+    {
+      "id": "1.800",
+      "label": "Section 1.800",
+      "chapter": null,
+      "original": "θεσμῶν . ἄμαχος γὰρ ἐμπαίζει θεὸς Ἀφροδίτα .",
+      "translation": "For in all this divine Aphrodite plays her irresistible game ."
+    },
+    {
+      "id": "801",
+      "label": "Section 801",
+      "chapter": null,
+      "original": "νῦν δʼ ἤδη ʼγὼ καὐτὸς θεσμῶν",
+      "translation": "But now , witnessing this , I too am carried beyond the bounds of loyalty . The power fails me to keep back my streaming tears any longer , when I see Antigone making her way to the chamber where all are laid to rest ,"
+    },
+    {
+      "id": "805",
+      "label": "Section 805",
+      "chapter": null,
+      "original": "τήνδʼ Ἀντιγόνην ἀνύτουσαν .",
+      "translation": "now her bridal chamber ."
+    },
+    {
+      "id": "1.806",
+      "label": "Section 1.806",
+      "chapter": null,
+      "original": "ὁρᾶτʼ ἔμʼ , ὦ γᾶς πατρίας πολῖται , τὰν νεάταν ὁδὸν",
+      "translation": "Citizens of my fatherland , see me setting out on my last journey , looking at my last sunlight ,"
+    },
+    {
+      "id": "1.810",
+      "label": "Section 1.810",
+      "chapter": null,
+      "original": "κοὔποτʼ αὖθις . ἀλλά μʼ ὁ παγκοίτας Ἅιδας ζῶσαν ἄγει",
+      "translation": "and never again . No , Hades who lays all to rest leads me living to Acheron ’ s shore , though I have not had my due portion of the chant that brings the bride , nor has any hymn been mine"
+    },
+    {
+      "id": "1.815",
+      "label": "Section 1.815",
+      "chapter": null,
+      "original": "πώ μέ τις ὕμνος ὕμνησεν , ἀλλʼ Ἀχέροντι νυμφεύσω .",
+      "translation": "for the crowning of marriage . Instead the lord of Acheron will be my groom ."
+    },
+    {
+      "id": "817",
+      "label": "Section 817",
+      "chapter": null,
+      "original": "οὐκοῦν κλεινὴ καὶ ἔπαινον ἔχουσʼ",
+      "translation": "Then in glory and with praise you depart to that deep place of the dead , neither struck by wasting sickness ,"
+    },
+    {
+      "id": "820",
+      "label": "Section 820",
+      "chapter": null,
+      "original": "οὔτε ξιφέων ἐπίχειρα λαχοῦσʼ ,",
+      "translation": "nor having won the wages of the sword . No , guided by your own laws and still alive , unlike any mortal before , you will descend to Hades ."
+    },
+    {
+      "id": "1.823",
+      "label": "Section 1.823",
+      "chapter": null,
+      "original": "ἤκουσα δὴ λυγροτάταν ὀλέσθαι τὰν Φρυγίαν ξέναν",
+      "translation": "I have heard with my own ears how our Phrygian guest , the daughter of Tantalus , perished"
+    },
+    {
+      "id": "1.825",
+      "label": "Section 1.825",
+      "chapter": null,
+      "original": "Ταντάλου Σιπύλῳ πρὸς ἄκρῳ , τὰν κισσὸς ὡς ἀτενὴς",
+      "translation": "in so much suffering on steep Sipylus — how , like clinging ivy , the sprouting stone subdued her . And the rains , as men tell , do not leave her melting form , nor does the snow ,"
+    },
+    {
+      "id": "1.830",
+      "label": "Section 1.830",
+      "chapter": null,
+      "original": "χιών τʼ οὐδαμὰ λείπει , τέγγει δʼ ὑπʼ ὀφρύσι παγκλαύτοις",
+      "translation": "but beneath her weeping lids she dampens her collar . Most like hers is the god-sent fate that leads me to my rest ."
+    },
+    {
+      "id": "834",
+      "label": "Section 834",
+      "chapter": null,
+      "original": "ἀλλὰ θεός τοι καὶ θεογεννής ,",
+      "translation": "Yet she was a goddess , as you know , and the offspring of gods ,"
+    },
+    {
+      "id": "835",
+      "label": "Section 835",
+      "chapter": null,
+      "original": "ἡμεῖς δὲ βροτοὶ καὶ θνητογενεῖς .",
+      "translation": "while we are mortals and mortal-born . Still it is a great thing for a woman who has died to have it said of her that she shared the lot of the godlike in her life , and afterwards , in death ."
+    },
+    {
+      "id": "2.839",
+      "label": "Section 2.839",
+      "chapter": null,
+      "original": "οἴμοι γελῶμαι . τί με , πρὸς θεῶν πατρῴων .",
+      "translation": "Ah , you mock me ! In the name of our fathers ’ gods ,"
+    },
+    {
+      "id": "2.840",
+      "label": "Section 2.840",
+      "chapter": null,
+      "original": "οὐκ οἰχομέναν ὑβρίζεις , ἀλλʼ ἐπίφαντον ;",
+      "translation": "why do you not wait to abuse me until after I have gone , and not to my face , O my city , and you , her wealthy citizens ? Ah , spring of Dirce , and you holy ground of Thebes whose chariots are many ,"
+    },
+    {
+      "id": "2.845",
+      "label": "Section 2.845",
+      "chapter": null,
+      "original": "Θήβας τʼ εὐαρμάτου ἄλσος , ἔμπας ξυμμάρτυρας ὔμμʼ ἐπικτῶμαι ,",
+      "translation": "you , at least , will bear me witness how unwept by loved ones , and by what laws I go to the rock-closed prison of my unheard-of tomb ! Ah , misery !"
+    },
+    {
+      "id": "2.850",
+      "label": "Section 2.850",
+      "chapter": null,
+      "original": "ἰὼ δύστανος , βροτοῖς οὔτε νεκροῖς κυροῦσα",
+      "translation": "I have no home among men or with the shades , no home with the living or with the dead ."
+    },
+    {
+      "id": "3.853",
+      "label": "Section 3.853",
+      "chapter": null,
+      "original": "προβᾶσʼ ἐπʼ ἔσχατον θράσους",
+      "translation": "You have rushed headlong to the far limits of daring , and against the high throne of Justice"
+    },
+    {
+      "id": "3.855",
+      "label": "Section 3.855",
+      "chapter": null,
+      "original": "προσέπεσες , ὦ τέκνον , πολύ ·",
+      "translation": "you have fallen , my daughter , fallen heavily . But in this ordeal you are paying for some paternal crime ."
+    },
+    {
+      "id": "2.858",
+      "label": "Section 2.858",
+      "chapter": null,
+      "original": "ἔψαυσας ἀλγεινοτάτας ἐμοὶ μερίμνας ,",
+      "translation": "You have touched on my most bitter thought"
+    },
+    {
+      "id": "2.860",
+      "label": "Section 2.860",
+      "chapter": null,
+      "original": "ἁμετέρου πότμου κλεινοῖς Λαβδακίδαισιν .",
+      "translation": "and moved my ever-renewed pity for my father and for the entire doom ordained for us , the famed house of Labdacus . Oh , the horrors of our mother ’ s bed ! Oh , the slumbers of the wretched mother at the side"
+    },
+    {
+      "id": "2.865",
+      "label": "Section 2.865",
+      "chapter": null,
+      "original": "ἆται κοιμήματά τʼ αὐτογέννητʼ ἐμῷ πατρὶ δυσμόρου ματρός ,",
+      "translation": "of her own son , my own father ! What manner of parents gave me my miserable being ! It is to them that I go like this , accursed and unwed , to share their home ."
+    },
+    {
+      "id": "2.870",
+      "label": "Section 2.870",
+      "chapter": null,
+      "original": "ἰὼ δυσπότμων κασίγνητε γάμων κυρήσας ,",
+      "translation": "Ah , my brother , the marriage you made was doomed , and by dying you killed me still alive !"
+    },
+    {
+      "id": "3.872",
+      "label": "Section 3.872",
+      "chapter": null,
+      "original": "σέβειν μὲν εὐσέβειά τις ,",
+      "translation": "Your pious action shows a certain reverence , but an offence against power can no way be tolerated by him who has power in his keeping ."
+    },
+    {
+      "id": "3.875",
+      "label": "Section 3.875",
+      "chapter": null,
+      "original": "σὲ δʼ αὐτόγνωτος ὤλεσʼ ὀργά .",
+      "translation": "Your self-willed disposition is what has destroyed you ."
+    },
+    {
+      "id": "876",
+      "label": "Section 876",
+      "chapter": null,
+      "original": "ἄκλαυτος , ἄφιλος , ἀνυμέναιος ταλαίφρων ἄγομαι",
+      "translation": "Unwept , unfriended , without marriage-song , I am led in misery on this journey that cannot be put off . No longer is it permitted me , unhappy girl ,"
+    },
+    {
+      "id": "880",
+      "label": "Section 880",
+      "chapter": null,
+      "original": "θέμις ὁρᾶν ταλαίνᾳ .",
+      "translation": "to look up at this sacred eye of the burning sun . But for my fate no tear is shed , no friend moans in sorrow ."
+    },
+    {
+      "id": "883",
+      "label": "Section 883",
+      "chapter": null,
+      "original": "ἆρʼ ἴστʼ , ἀοιδὰς καὶ γόους πρὸ τοῦ θανεῖν",
+      "translation": "Do you not know that dirges and wailing before death would never be given up , if it were allowed to make them freely ?"
+    },
+    {
+      "id": "885",
+      "label": "Section 885",
+      "chapter": null,
+      "original": "οὐκ ἄξεθʼ ὡς τάχιστα ; καὶ κατηρεφεῖ",
+      "translation": "Take her away — now ! And when you have enshrouded her , as I proclaimed , in her covered tomb , leave her alone , deserted — let her decide whether she wishes to die or to live entombed in such a home . It makes no difference , since our hands are clean so far as regards this girl ."
+    },
+    {
+      "id": "890",
+      "label": "Section 890",
+      "chapter": null,
+      "original": "μετοικίας δʼ οὖν τῆς ἄνω στερήσεται .",
+      "translation": "But no matter what , she will be stripped of her home here above ."
+    },
+    {
+      "id": "891",
+      "label": "Section 891",
+      "chapter": null,
+      "original": "ὦ τύμβος , ὦ νυμφεῖον , ὦ κατασκαφὴς",
+      "translation": "Tomb , bridal-chamber , deep-dug eternal prison where I go to find my own , whom in the greatest numbers destruction has seized and Persephone has welcomed among the dead !"
+    },
+    {
+      "id": "895",
+      "label": "Section 895",
+      "chapter": null,
+      "original": "ὧν λοισθία ʼγὼ καὶ κάκιστα δὴ μακρῷ",
+      "translation": "Last of them all and in by far the most shameful circumstances , I will descend , even before the fated term of my life is spent . But I cherish strong hopes that I will arrive welcome to my father , and pleasant to you , Mother , and welcome , dear brother , to you ."
+    },
+    {
+      "id": "900",
+      "label": "Section 900",
+      "chapter": null,
+      "original": "ἐπεὶ θανόντας αὐτόχειρ ὑμᾶς ἐγὼ",
+      "translation": "For , when each of you died , with my own hands I washed and dressed you and poured drink-offerings at your graves . But now , Polyneices , it is for tending your corpse that I win such reward as this . And yet I honored you rightly , as the wise understand ."
+    },
+    {
+      "id": "905",
+      "label": "Section 905",
+      "chapter": null,
+      "original": "οὐ γάρ ποτʼ οὔτʼ ἄν , εἰ τέκνων μήτηρ ἔφυν ,",
+      "translation": "Never , if I had been a mother of children , or if a husband had been rotting after death , would I have taken that burden upon myself in violation of the citizens ’ will . For the sake of what law , you ask , do I say that ? A husband lost , another might have been found ,"
+    },
+    {
+      "id": "910",
+      "label": "Section 910",
+      "chapter": null,
+      "original": "καὶ παῖς ἀπʼ ἄλλου φωτός , εἰ τοῦδʼ ἤμπλακον ,",
+      "translation": "and if bereft of a child , there could be a second from some other man . But when father and mother are hidden in Hades , no brother could ever bloom for me again . Such was the law whereby I held you first in honor , but for that Creon judged me guilty of wrongdoing"
+    },
+    {
+      "id": "915",
+      "label": "Section 915",
+      "chapter": null,
+      "original": "καὶ δεινὰ τολμᾶν , ὦ κασίγνητον κάρα .",
+      "translation": "and of dreadful outrage , dear brother ! And now he leads me thus in his hands ’ strong grasp , when I have enjoyed no marriage bed or bridal song and have not received any portion of marriage or the nurture of children . But deserted by friends ,"
+    },
+    {
+      "id": "920",
+      "label": "Section 920",
+      "chapter": null,
+      "original": "ζῶσʼ εἰς θανόντων ἔρχομαι κατασκαφάς .",
+      "translation": "in misery I go living to the hollow graves of the dead . What law of the gods have I transgressed ? Why should I look to the gods anymore ? What ally should I call out to , when by my reverence I have earned a name for irreverence ?"
+    },
+    {
+      "id": "925",
+      "label": "Section 925",
+      "chapter": null,
+      "original": "ἀλλʼ εἰ μὲν οὖν τάδʼ ἐστὶν ἐν θεοῖς καλά ,",
+      "translation": "Well , then , if these events please the gods , once I have suffered my doom I will come to know my guilt . But if the guilt lies with my judges , I could wish for them no greater evils than they inflict unjustly on me ."
+    },
+    {
+      "id": "929",
+      "label": "Section 929",
+      "chapter": null,
+      "original": "ἔτι τῶν αὐτῶν ἀνέμων αὑταὶ",
+      "translation": "Still the same tempest of the soul"
+    },
+    {
+      "id": "930",
+      "label": "Section 930",
+      "chapter": null,
+      "original": "ψυχῆς ῥιπαὶ τήνδε γʼ ἔχουσιν .",
+      "translation": "grips this girl with the same fierce gusts ."
+    },
+    {
+      "id": "931",
+      "label": "Section 931",
+      "chapter": null,
+      "original": "τοιγὰρ τούτων τοῖσιν ἄγουσιν",
+      "translation": "Then because of this her guards will have reason to lament their slowness ."
+    }
+  ],
+  "prevChunkSlug": "antigone-1s3k1e-5",
+  "nextChunkSlug": "antigone-1s3k1e-7"
+}

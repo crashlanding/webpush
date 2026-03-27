@@ -1,0 +1,100 @@
+{
+  "loebNumber": 116,
+  "sortOrder": 116,
+  "slug": "sallust-the-war-with-catiline-the-war-with-jugurtha-1l5l34",
+  "title": "The War with Catiline. The War with Jugurtha",
+  "volumeLabel": "The War with Catiline. The War with Jugurtha",
+  "authorDisplay": "Sallust",
+  "authors": [
+    "Sallust"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for The War with Catiline. The War with Jugurtha, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "the-war-with-catiline-qjy2ze",
+  "readyChunkCount": 2,
+  "contents": [
+    {
+      "id": "the-war-with-catiline-qjy2ze",
+      "title": "The War with Catiline",
+      "status": "ready",
+      "sectionCount": 58,
+      "chunkSlug": "the-war-with-catiline-qjy2ze",
+      "chunks": [
+        {
+          "slug": "the-war-with-catiline-qjy2ze",
+          "label": "The War with Catiline",
+          "partId": "the-war-with-catiline-qjy2ze",
+          "partTitle": "The War with Catiline",
+          "sectionCount": 58,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "the-war-with-jugurtha-iol6yv",
+      "title": "The War with Jugurtha",
+      "status": "ready",
+      "sectionCount": 67,
+      "chunkSlug": "the-war-with-jugurtha-iol6yv",
+      "chunks": [
+        {
+          "slug": "the-war-with-jugurtha-iol6yv",
+          "label": "The War with Jugurtha",
+          "partId": "the-war-with-jugurtha-iol6yv",
+          "partTitle": "The War with Jugurtha",
+          "sectionCount": 67,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "the-war-with-catiline-qjy2ze",
+      "label": "The War with Catiline",
+      "partId": "the-war-with-catiline-qjy2ze",
+      "partTitle": "The War with Catiline",
+      "sectionCount": 58,
+      "status": "ready"
+    },
+    {
+      "slug": "the-war-with-jugurtha-iol6yv",
+      "label": "The War with Jugurtha",
+      "partId": "the-war-with-jugurtha-iol6yv",
+      "partTitle": "The War with Jugurtha",
+      "sectionCount": 67,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "the-war-with-catiline-qjy2ze",
+      "partTitle": "The War with Catiline",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Catilinae Coniuratio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0631.phi001.perseus-lat3/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Conspiracy of Catiline",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0631.phi001.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-war-with-jugurtha-iol6yv",
+      "partTitle": "The War with Jugurtha",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Bellum Iugurthinum",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0631.phi002.perseus-lat3/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Jugurthine War",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0631.phi002.perseus-eng2/"
+      }
+    }
+  ]
+}

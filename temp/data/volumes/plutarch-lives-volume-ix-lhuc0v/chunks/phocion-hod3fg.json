@@ -1,0 +1,556 @@
+{
+  "volumeSlug": "plutarch-lives-volume-ix-lhuc0v",
+  "volumeTitle": "Lives, Volume IX",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "phocion-hod3fg",
+  "label": "Phocion",
+  "partId": "lives-volume-ix-15nalc",
+  "partTitle": "Lives, Volume IX",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Phocion",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg049.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Phocion",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg049.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1",
+      "label": "Section 1.1",
+      "chapter": null,
+      "original": "Δημάδης ὁ ῥήτωρ ἰσχύων μὲν ἐν ταῖς Ἀθήναις διὰ τὸ πρὸς χάριν πολιτεύεσθαι Μακεδόνων καὶ Ἀντιπάτρου , πολλὰ δὲ γράφειν καὶ λέγειν ἀναγκαζόμενος παρὰ τὸ ἀξίωμα τῆς πόλεως καὶ τὸ ἦθος , ἔλεγε συγγνώμης ἄξιος εἶναι πολιτευόμενος τὰ ναυάγια τῆς πόλεως , τοῦτο δὲ εἰ καὶ τῷ ῥήτορι θρασύτερον εἴρηται , δόξειεν ἂν ἀληθὲς εἶναι μετενεχθὲν ἐπὶ τὴν Φωκίωνος πολιτείαν .",
+      "translation": "Demades the orator , who was powerful at Athens because he conducted affairs so as to please Antipater and the Macedonians , and was forced to propose and favour many measures which were at variance with the dignity and character of the city , used to say that he was excusable because he was in command of a shipwrecked state . This may have been too hardy an utterance for the orator , but it would seem to be true when transferred to the administration of Phocion ."
+    },
+    {
+      "id": "1.2",
+      "label": "Section 1.2",
+      "chapter": null,
+      "original": "Δημάδης μὲν γὰρ αὐτὸς ἦν ναυάγιον τῆς πόλεως , οὕτως ἀσελγῶς βιώσας καὶ πολιτευσάμενος ὥστε Ἀντίπατρον εἰπεῖν ἐπʼ αὐτοῦ , γέροντος ἤδη γεγονότος , ὅτι καθάπερ ἱερείου διαπεπραγμένου γλῶσσα καὶ κοιλία μόνον ἀπολείπεται · τὴν δὲ Φωκίωνος ἀρετήν , ὥσπερ ἀνταγωνιστῇ βαρεῖ καὶ βιαίῳ καιρῷ συλλαχοῦσαν , αἱ τύχαι τῆς Ἑλλάδος ἀμαυρὰν καὶ ἀλαμπῆ πρὸς δόξαν ἐποίησαν .",
+      "translation": "Demades , indeed , was himself but wreckage of the state , since his life and administration were so outrageous that Antipater said of him , when he was now grown old , that he was like a victim when the sacrifice was over — nothing left but tongue and guts . But the fame of Phocion ’ s virtue , which may be said to have found an antagonist in a grievous and violent time , the fortunes of Greece rendered obscure and dim ."
+    },
+    {
+      "id": "2.1",
+      "label": "Section 2.1",
+      "chapter": null,
+      "original": "καίτοι δοκοῦσιν οἱ δῆμοι μᾶλλον εἰς τοὺς ἀγαθοὺς ἐξυβρίζειν ὅταν εὐτυχῶσιν , ὑπὸ πραγμάτων μεγάλων καὶ δυνάμεως ἐπαιρόμενοι · συμβαίνει δὲ τοὐναντίον , αἱ γὰρ συμφοραὶ πικρὰ μὲν τὰ ἤθη καὶ μικρόλυπα καὶ ἀκροσφαλῆ πρὸς ὀργὰς ποιοῦσι , δύσκολον δὲ τὴν ἀκοὴν καὶ τραχεῖαν , ὑπὸ παντὸς λόγου καὶ ῥήματος τόνον ἔχοντος ἐνοχλουμένην ὁ δὲ ἐπιτιμῶν τοῖς ἐξαμαρτανομένοις ἐξονειδίζειν τὰ δυστυχήματα δοκεῖ , καὶ καταφρονεῖν ὁ παρρησιαζόμενος .",
+      "translation": "And yet it is commonly held that a people is more apt to wreak its insolence upon good men when it is prosperous , being then lifted up by grandeur and power ; but the reverse is often the case . For calamities make men ’ s dispositions bitter , irritable , and prone to wrath , so that no one can say anything to please or soften them , but they are annoyed by every speech or word that has vigour . He who censures them for their transgressions is thought to abuse them for their misfortunes , and he who is outspoken with them , to despise them ."
+    },
+    {
+      "id": "2.2",
+      "label": "Section 2.2",
+      "chapter": null,
+      "original": "καὶ καθάπερ τὸ μέλι λυπεῖ τὰ τετρωμένα καὶ ἡλκωμένα μέρη τοῦ σώματος , οὕτως πολλάκις οἱ ἀληθινοὶ καὶ νοῦν ἔχοντες λόγοι δάκνουσι καὶ παροξύνουσι τοὺς κακῶς πράττοντας , ἐὰν μὴ προσηνεῖς ὦσι καὶ συνείκοντες , ὥσπερ ἀμέλει τὸ ἡδὺ μενοεικὲς ὁ ποιητὴς κέκληκεν , ὡς τῷ ἡδομένῳ τῆς ψυχῆς ὑπεῖκον καὶ μὴ μαχόμενον μηδʼ ἀντιτυποῦν .",
+      "translation": "And just as honey irritates wounded and ulcerated parts of the body , so often words of truth and soberness sting and exasperate those who are in an evil plight , unless uttered with kindness and complaisance ; and therefore , doubtless , the poet calls that which is pleasant menoeikes , on the ground that it yields to that part of the soul which experiences pleasure , and does not fight with it or resist it . [*]"
+    },
+    {
+      "id": "3.1",
+      "label": "Section 3.1",
+      "chapter": null,
+      "original": "ταῦτα δὲ καὶ Κάτωνι τῷ νέῳ συνέβη , καὶ γὰρ οὗτος οὐ πιθανὸν ἔσχεν οὐδὲ προσφιλὲς ὄχλῳ τὸ ἦθος , οὐδὲ ἤνθησεν ἐν τῇ πολιτείᾳ πρὸς p.150 χάριν · ἀλλʼ ὁ μὲν Κικέρων φησὶν αὐτὸν ὥσπερ ἐν τῇ Πλάτωνος πολιτείᾳ καὶ οὐκ ἐν τῇ Ῥωμύλου πολιτευόμενον ὑποστάθμῃ τῆς ὑπατείας ἐκπεσεῖν , ἐμοὶ δὲ ταὐτὸ δοκεῖ παθεῖν τοῖς μὴ καθʼ ὥραν ἐκφανεῖσι καρποῖς .",
+      "translation": "These principles found an illustration in Cato the Younger also . For his manners were not winning , nor pleasing to the populace , nor was he eminent in his public career for popularity . Indeed , Cicero says it was because he acted as if he lived in Plato ’ s commonwealth , and not among the dregs of Romulus , that he was defeated when he stood for the consulship [*] but I think he fared just as fruits do which make their appearance out of season ."
+    },
+    {
+      "id": "3.2",
+      "label": "Section 3.2",
+      "chapter": null,
+      "original": "ὡς γὰρ ἐκείνους ἡδέως ὁρῶντες καὶ θαυμάζοντες οὐ χρῶνται , οὕτως ἡ Κάτωνος ἀρχαιοτροπία διὰ χρόνων πολλῶν ἐπιγενομένη βίοις διεφθορόσι καὶ πονηροῖς ἔθεσι δόξαν μὲν εἶχε μεγάλην καὶ κλέος , οὐκ ἐνήρμοσε δὲ ταῖς χρείαις διὰ βάρος καὶ μέγεθος τῆς ἀρετῆς ἀσύμμετρον τοῖς καθεστῶσι καιροῖς .",
+      "translation": "For , as we look upon these with delight and admiration , but do not use them , so the old-fashioned character of Cato , which , after a long lapse of time , made its appearance among lives that were corrupted and customs that were debased , enjoyed great repute and fame , but was not suited to the needs of men because of the weight and grandeur of its virtue , which were out of all proportion to the immediate times ."
+    },
+    {
+      "id": "4.1",
+      "label": "Section 4.1",
+      "chapter": null,
+      "original": "τὸ μὲν οὖν Κάτωνος ὡμολόγηται γένος ἐκ λαμπρῶν ὑπάρχειν , ὡς λεχθήσεται · Φωκίωνα δὲ τεκμαίρομαι μὴ παντάπασιν εἶναι γένους ἀτίμου καὶ καταπεπτωκότος . εἰ γὰρ ἦν , ὥς φησιν Ἰδομενεύς , δοιδυκοποιοῦ πατρός , οὐκ ἂν ἐν τῷ λόγῳ Γλαύκιππος ὁ Ὑπερείδου μυρία συνειλοχὼς καὶ εἰρηκὼς κατʼ αὐτοῦ κακὰ τὴν δυσγένειαν παρῆκεν , οὐδʼ ἂν οὕτως ἐλευθερίου βίου καὶ σώφρονος παιδείας μετέσχεν ὥστε τῆς Πλάτωνος ἔτι μειράκιον ὤν , ὕστερον δὲ τῆς Ξενοκράτους διατριβῆς , ἐν Ἀκαδημείᾳ μετασχεῖν , καὶ τῶν ἀρίστων ἐξ ἀρχῆς ἐπιτηδευμάτων ζηλωτὴς γενέσθαι .",
+      "translation": "That Cato ’ s lineage , then , was illustrious , is generally admitted , as will be said later ; but Phocion ’ s , as I judge , was not altogether ignoble or lowly . For had he been the son of a pestle-maker , as Idomeneus says , then Glaucippus the son of Hypereides , in the speech wherein he collected countless evil things to say against him , would not have omitted his mean birth ; nor would Phocion have lived on so high a plane or enjoyed so sound an education as to have been a pupil of Plato when he was still a stripling , and later a pupil of Xenocrates , in the Academy , and to have cultivated the noblest behaviour from the very beginning ."
+    },
+    {
+      "id": "4.2",
+      "label": "Section 4.2",
+      "chapter": null,
+      "original": "Φωκίωνα γὰρ οὔτε γελάσαντά τις οὔτε κλαύσαντα ῥᾳδίως Ἀθηναίων εἶδεν , οὐδʼ ἐν βαλανείῳ δημοσιεύοντι λουσάμενον , ὡς ἱστόρηκε Δοῦρις , οὐδὲ ἐκτὸς ἔχοντα τὴν χεῖρα τῆς περιβολῆς , ὅτε τύχοι περιβεβλημένος , ἐπεὶ κατά γε τὴν χώραν καὶ p.154 τὰς στρατείας ἀνυπόδητος ἀεὶ καὶ γυμνὸς ἐβάδιζεν , εἰ μὴ ψῦχος ὑπερβάλλον εἴη καὶ δυσκαρτέρητον , ὥστε καὶ παίζοντας ἤδη τοὺς στρατευομένους σύμβολον μεγάλου ποιεῖσθαι χειμῶνος ἐνδεδυμένον Φωκίωνα .",
+      "translation": "For hardly any Athenian ever saw Phocion in laughter or in tears , or making use of a public bath , as Duris tells us , or holding his hand outside his cloak ,— when he wore a cloak . Since in the country , at least , and on his campaigns , he always walked without shoes or outer garment , unless the cold was excessive and hard to bear , so that presently his soldiers used to say in jest that it was a sign of severe winter when Phocion wore a cloak ."
+    },
+    {
+      "id": "5.1",
+      "label": "Section 5.1",
+      "chapter": null,
+      "original": "τῷ δὲ ἤθει προσηνέστατος ὢν καὶ φιλανθρωπότατος ἀπὸ τοῦ προσώπου δυσξύμβολος ἐφαίνετο καὶ σκυθρωπός , ὥστε μὴ ῥᾳδίως ἄν τινα μόνον ἐντυχεῖν αὐτῷ τῶν ἀσυνήθων , διὸ καὶ Χάρητί ποτε πρὸς τὰς ὀφρῦς αὐτοῦ λέγοντι τῶν Ἀθηναίων ἐπιγελώντων , οὐδὲν , εἶπεν , αὕτη ὑμᾶς λελύπηκεν ἡ ὀφρύς · ὁ δὲ τούτων γέλως πολλὰ κλαῦσαι τὴν πόλιν πεποίηκεν .",
+      "translation": "Though his nature was most gentle and most kind , his countenance made him seem forbidding and sullen , so that hardly any one of those who were not on intimate terms cared to converse with him alone . Therefore , when Chares once made the Athenians laugh by speaking of Phocion ’ s frowning brows , No harm , said Phocion , has come to you from this brow of mine ; but these men ’ s laughter has cost the city many a tear ."
+    },
+    {
+      "id": "5.2",
+      "label": "Section 5.2",
+      "chapter": null,
+      "original": "ὁμοίως δέ πως τοῦ Φωκίωνος καὶ ὁ λόγος ἦν ἐπὶ χρηστοῖς εὐτυχήμασι καὶ διανοήμασι σωτήριος , προστακτικήν τινα καὶ αὐστηρὰν καὶ ἀνήδυντον ἔχων βραχυλογίαν . ὡς γὰρ ὁ Ζήνων ἔλεγεν ὅτι δεῖ τὸν φιλόσοφον εἰς νοῦν ἀποβάπτοντα προφέρεσθαι τὴν λέξιν , οὕτως ὁ Φωκίωνος λόγος πλεῖστον ἐν ἐλαχίστῃ λέξει νοῦν εἶχε . καὶ πρὸς τοῦτο ἔοικεν ἀπιδὼν ὁ Σφήττιος Πολύευκτος εἰπεῖν ὅτι ῥήτωρ μὲν ἄριστος εἴη Δημοσθένης , εἰπεῖν δὲ δεινότατος ὁ Φωκίων .",
+      "translation": "And in like manner Phocion ’ s language , also , was salutary in its excellent inventions and happy conceits , although it had a brevity which was rather imperious , severe , and unpleasant . For , as Zeno used to say that a philosopher should immerse his words in meaning before he utters them , so Phocion ’ s language had most meaning in fewest words . And this is probably what Polyeuctus the Sphettian had in mind when he said that Demosthenes was a most excellent orator , but Phocion a most powerful speaker ."
+    },
+    {
+      "id": "6.1",
+      "label": "Section 6.1",
+      "chapter": null,
+      "original": "νέος δὲ ὢν Χαβρίᾳ προσέμιξεν ἑαυτὸν τῷ στρατηγῷ καὶ παρείπετο , πολλὰ μὲν εἰς ἐμπειρίαν τῶν πολεμικῶν ὠφελούμενος , ἔστι δὲ ἐν οἷς ἐπανορθούμενος τήν ἐκείνου φύσιν ἀνώμαλον οὖσαν καὶ ἄκρατον . νωθρὸς γὰρ ὢν ὁ Χαβρίας καὶ δυσκίνητος ἄλλως ἐν αὐτοῖς τοῖς ἀγῶσιν ὤργα καὶ διεπυροῦτο τῷ θυμῷ καὶ συνεξέπιπτε τοῖς θρασυτάτοις παραβολώτερον , ὥσπερ ἀμέλει καὶ κατέστρεψε τόν βίον ἐν Χίῳ πρῶτος εἰσελάσας τῇ τριήρει καὶ βιαζόμενος πρὸς τήν ἀπόβασιν .",
+      "translation": "When he was a young man , Phocion attached himself to Chabrias the general as a close follower , profiting much thereby in military experience , and sometimes also rectifying that general ’ s temperament , which was uneven and violent . For though Chabrias was sluggish and hard to move at other times , in actual battle his spirit was excited and all on fire , and he would rush on with the boldest at too great a hazard , just as , without doubt , he actually threw away his life at Chios [*] by being the first to drive his trireme to shore and trying to force a landing ."
+    },
+    {
+      "id": "6.2",
+      "label": "Section 6.2",
+      "chapter": null,
+      "original": "ἀσφαλὴς οὖν ἅμα καὶ δραστήριος ὁ Φωκίων φαινόμενος τήν τε μέλλησιν ἀνεθέρμαινε τοῦ Χαβρίου , καὶ πάλιν ἀφῄρει τήν ἄκαιρον ὀξύτητα τῆς ὁρμῆς . ὅθεν εὐμενὴς ὢν ὁ Χαβρίας καὶ χρηστός , ἠγάπα καὶ προῆγεν αὐτὸν ἐπὶ πράξεις καὶ ἡγεμονίας , γνώριμον ποιῶν τοῖς Ἕλλησι , καὶ τὰ πλείστης ἄξια σπουδῆς ἐκείνῳ χρώμενος . κἀκ τῆς περὶ Νάξον ναυμαχίας ὄνομα καὶ δόξαν οὐ μικρὰν Φωκίωνι περιεποίησε · τοῦ γὰρ εὐωνύμου κέρως ἀπέδωκεν αὐτῷ τήν ἡγεμονίαν , καθʼ ὃ καὶ τήν μάχην ὀξεῖαν εἶχεν ὁ ἀγὼν καὶ κρίσιν ἐποίησε ταχεῖαν .",
+      "translation": "So then Phocion , who allowed himself at once safe and active , would put ardour into Chabrias when he delayed , and again would take away the unseasonable intensity of his efforts . Wherefore Chabrias , who was a good-natured and worthy man , made much of him and advanced him to enterprises and commands , making him known to the Greeks , and employing him in most affairs of moment . Especially in the sea-fight off Naxos [*] he conferred no little name and fame upon Phocion ; for he gave him command of the left wing , and here the battle raged hotly and the issue was speedily decided ."
+    },
+    {
+      "id": "7.1",
+      "label": "Section 7.1",
+      "chapter": null,
+      "original": "ἐκ τούτου λέγεται πέμποντος αὐτὸν ἐπὶ τὰς νησιωτικὰς συντάξεις τοῦ Χαβρίου καὶ ναῦς εἴκοσι διδόντος εἰπεῖν , εἰ μὲν ὡς πολεμήσων πέμποιτο , μείζονος δεῖν δυνάμεως , εἰ δὲ ὡς πρὸς συμμάχους , ἀρκεῖν ναῦν μίαν καὶ πλεύσαντα τῇ αὐτοῦ τριήρει καὶ διαλεχθέντα ταῖς πόλεσι καὶ συγγενόμενον τοῖς ἄρχουσιν ἐπιεικῶς καὶ ἀφελῶς καταπλεῦσαι μετὰ πολλῶν νεῶν , ἃς ἀπέστειλαν οἱ σύμμαχοι τὰ χρήματα τοῖς Ἀθηναίοις κομιζούσας .",
+      "translation": "Afterwards , we are told , when Chabrias sent him to get their contributions from the islanders and offered him twenty ships , Phocion said that if he was sent to wage war , he needed a larger force , but if to confer with allies , one ship was enough ; and after sailing out with his own trireme and discussing matters with the cities and dealing with the magistrates considerately and in a straightforward manner , he returned with many ships , which the allies sent off with money for the Athenians ."
+    },
+    {
+      "id": "7.2",
+      "label": "Section 7.2",
+      "chapter": null,
+      "original": "οὐ μόνον δὲ ζῶντα τὸν Χαβρίαν θεραπεύων διετέλει καὶ τιμῶν , ἀλλὰ καὶ τελευτήσαντος αὐτοῦ τῶν προσηκόντων καλῶς ἐπεμελεῖτο , καὶ τὸν παῖδα Κτήσιππον ἐβούλετο μὲν ἄνδρα ποιεῖν ἀγαθόν , ἔμπληκτον δὲ ὁρῶν καὶ ἀνάγωγον ὅμως οὐκ ἀπεῖπεν ἐπανορθούμενος καὶ ἀποκρύπτων τὰ αἴσχη . πλὴν ἅπαξ λέγεται , παρενοχλοῦντος ἐν στρατείᾳ τινὶ τοῦ νεανίσκου καὶ κόπτοντος αὐτὸν ἐρωτήμασιν ἀκαίροις καὶ συμβουλίαις οἷον ἐπανορθουμένου καὶ παραστρατηγοῦντος , εἰπεῖν · ὦ Χαβρία , Χαβρία , μεγάλην γέ σοι χάριν ἐκτίνω τῆς φιλίας ὑπομένων σου τὸν υἱόν . p.160",
+      "translation": "And not only while Chabrias was alive did Phocion continue to show him attention and honour , but also after his death he took good care of his relatives , and especially of his son Ctesippus , whom he wished to make a good man ; and although he saw that the youth was capricious and intractable , he nevertheless persisted in correcting and covering up his disgraceful conduct . Once , however , we are told , when the young man was troublesome to him on an expedition , and plied him with unseasonable questions and advice , like one making corrections and sharing in the command , he cried : O Chabrias , Chabrias , surely I make thee a large return for thy friendship in enduring thy son ."
+    },
+    {
+      "id": "8.1",
+      "label": "Section 8.1",
+      "chapter": null,
+      "original": "οὕτω δὲ συντάξας ἑαυτόν ἐπολιτεύετο μὲν ἀεὶ πρὸς εἰρήνην καὶ ἡσυχίαν , ἐστρατήγησε δὲ πλείστας οὐ μόνον τῶν καθʼ ἑαυτόν , ἀλλὰ καὶ τῶν πρὸ αὐτοῦ στρατηγίας , οὐ παραγγέλλων οὐδὲ μετιών , ἀλλʼ οὐδὲ φεύγων οὐδὲ ἀποδιδράσκων τῆς πόλεως καλούσης , ὁμολογεῖται γὰρ ὅτι πέντε καὶ τεσσαράκοντα στρατηγίας ἔλαβεν οὐδʼ ἅπαξ ἀρχαιρεσίοις παρατυχών , ἀλλʼ ἀπόντα μεταπεμπομένων αὐτὸν ἀεὶ καὶ χειροτονούντων ,",
+      "translation": "Having taken this stand , his civil policies were always in favour of peace and quiet ; and yet he held the office of general more frequently than any man , and I speak not only of the men of his own time , but also of those who came before him . He did not seek the office or canvass for it ; nor , on the other hand , did he flee or run away when his city called him . It is generally admitted , indeed , that he held the office of general forty-five times , although he was not even once present at the election , but was always absent when the people summoned and chose him ."
+    },
+    {
+      "id": "8.2",
+      "label": "Section 8.2",
+      "chapter": null,
+      "original": "ὥστε θαυμάζειν τοὺς οὐκ εὖ φρονοῦντας τὸν δῆμον ὅτι , πλεῖστα τοῦ Φωκίωνος ἀντικρούοντος αὐτῷ καὶ μηδὲν εἰπόντος πώποτε μηδὲ πράξαντος πρὸς χάριν , ὥσπερ ἀξιοῦσι τοὺς βασιλεῖς τοῖς κόλαξι p.162 χρῆσθαι μετὰ τὸ κατὰ χειρὸς ὕδωρ , ἐχρῆτο οὗτος τοῖς μὲν κομψοτέροις ; καὶ ἱλαροῖς ἐν παιδιᾶς μέρει δημαγωγοῖς , ἐπὶ δὲ τὰς ἀρχὰς ἀεὶ νήφων καὶ σπουδάζων τὸν αὐστηρότατον καὶ φρονιμώτατον ἐκάλει τῶν πολιτῶν καὶ μόνον ἢ μᾶλλον ταῖς βουλήσεσιν αὐτοῦ καὶ ὁρμαῖς ἀντιτασσόμενον .",
+      "translation": "Therefore men of little understanding are amazed at the conduct of the Athenian people . For Phocion opposed them more than anybody else , and never said or did anything to win their favour ; and yet , just as kings are supposed to listen to their flatterers after dinner has begun , so the Athenians made use of their more elegant and sprightly leaders by way of diversion , but when they wanted a commander they were always sober and serious , and called upon the severest and most sensible citizen , one who alone , or more than the rest , arrayed himself against their desires and impulses ."
+    },
+    {
+      "id": "9.1",
+      "label": "Section 9.1",
+      "chapter": null,
+      "original": "πρὸς δὲ θυσίαν τινὰ τῶν Ἀθηναίων αἰτούντων ἐπιδόσεις , καὶ τῶν ἄλλων ἐπιδιδόντων , κληθεὶς πολλάκις ἔφη · τούτους αἰτεῖτε τοὺς πλουσίους · ἐγὼ δὲ αἰσχυνοίμην ἄν , εἰ τούτῳ μὴ ἀποδιδοὺς ὑμῖν ἐπιδοίην , δείξας Καλλικλέα τὸν δανειστήν , ὡς δʼ οὐκ ἐπαύοντο κεκραγότες καὶ καταβοῶντες , λόγον εἶπεν αὐτοῖς τοῦτον ·",
+      "translation": "The Athenians were once asking contributions [*] for a public sacrifice , and the rest were contributing , but Phocion , after being many times asked to give , said : Ask from these rich men ; for I should be ashamed to make a contribution to you before I have paid my debt to this man here , pointing to Callicles the money-lender . And once when his audience would not cease shouting and crying him down , he told them this fable ."
+    },
+    {
+      "id": "9.2",
+      "label": "Section 9.2",
+      "chapter": null,
+      "original": "ἀνὴρ δειλὸς ἐπὶ πόλεμον ἐξῄει , φθεγξαμένων δὲ κοράκων τὰ ὅπλα θεὶς ἡσύχαζεν · εἶτα ἀναλαβὼν αὖθις ἐξῄει , καὶ φθεγγομένων πάλιν ὑπέστη , καὶ τέλος εἶπεν · Ὑμεῖς κεκράξεσθε μὲν μέγιστον ὡς p.164 δυνατόν , ἐμοῦ δὲ οὐ γεύσεσθε . πάλιν δέ ποτε τῶν Ἀθηναίων ἐξαγαγεῖν αὐτὸν ἐπὶ τοὺς πολεμίους κελευόντων , ὡς δʼ οὐκ ἐβούλετο , δειλὸν καὶ ἄνανδρον ἀποκαλούντων , οὔτε ὑμεῖς , εἶπεν , ἐμὲ δύνασθε ποιῆσαι θαρσαλέον οὔτε ἐγὼ ὑμᾶς δειλούς . οὐ μὴν ἀλλʼ ἴσμεν ἀλλήλους .",
+      "translation": "A coward was going forth to war , but when some ravens croaked , he laid down his arms and kept quiet ; then he picked them up and was going forth again , and when the ravens croaked once more , he stopped , and said at last : You may croak with all your might , but you shall not get a taste of me . And at another time , when the Athenians urged him to lead forth against the enemy , and called him an unmanly coward because he did not wish to do so , he said : Ye cannot make me bold , nor can I make you cowards . However , we know one another ."
+    },
+    {
+      "id": "10.1",
+      "label": "Section 10.1",
+      "chapter": null,
+      "original": "ἦν δέ τις Ἀρχιβιάδης ἐπικαλούμενος Λακωνιστής , πώγωνά τε καθειμένος ὑπερφυῆ μεγέθει καὶ τρίβωνα φορῶν ἀεὶ καὶ σκυθρωπάζων τοῦτον ἐν βουλῇ θορυβούμενος ὁ Φωκίων ἐπεκαλεῖτο τῷ λόγῳ μάρτυν ἅμα καὶ βοηθόν , ὡς δὲ ἀναστὰς ἐκεῖνος ἃ πρὸς χάριν ἦν τοῖς Ἀθηναίοις συνεβούλευεν , ἁψάμενος αὐτοῦ τῶν γενείων · ὦ Ἀρχιβιάδη , εἶπε , τί οὖν οὐκ ἀπεκείρω ;",
+      "translation": "There was a certain Archibiades , nicknamed Laconistes , because , in imitation of the Spartans , he let his beard grow to an extravagant size , always wore a short cloak , and had a scowl on his face . Phocion was once stormily interrupted in the council , and called upon this man for testimony and support in what he said . But when the man rose up and gave such counsel as was pleasing to the Athenians , Phocion seized him by the beard and said : O Archibiades , why , then , didst thou not shave thyself ?"
+    },
+    {
+      "id": "10.2",
+      "label": "Section 10.2",
+      "chapter": null,
+      "original": "Ἀριστογείτονος δὲ τοῦ συκοφάντου πολεμικοῦ μὲν ὄντος ἐν ταῖς ἐκκλησίαις καὶ παροξύνοντος ἐπὶ τὰς πράξεις τὸν δῆμον , ἐν δὲ τῷ καταλόγῳ προσελθόντος ἐπὶ βακτηρίᾳ τὼ σκέλη καταδεδεμένου , πόρρωθεν αὐτὸν ἀπὸ τοῦ βήματος ἰδὼν ὁ Φωκίων ἀνέκραγε · γράφε καὶ Ἀριστογείτονα χωλὸν καὶ πονηρόν . ὥστε θαυμάζειν ὅπως καὶ ὁπόθεν τραχὺς οὕτως ἀνὴρ καὶ σκυθρωπὸς ἐκτήσατο τὴν τοῦ χρηστοῦ προσηγορίαν .",
+      "translation": "Again , when Aristogeiton the public informer , who was always warlike in the assemblies and tried to urge the people on to action , came to the place of muster leaning on a staff and with both legs bandaged , Phocion spied him from the tribunal when he was afar off , and cried out : Put down Aristogeiton , too , as lame and worthless . So that one might wonder how and why a man so harsh and stern got the surname of The Good ."
+    },
+    {
+      "id": "11.1",
+      "label": "Section 11.1",
+      "chapter": null,
+      "original": "καὶ μὴν οἵ γε σύμμαχοι καὶ οἱ νησιῶται τοὺς Ἀθήνηθεν ἀποστόλους ἑτέρου μὲν ἐκπλέοντος στρατηγοῦ πολεμίους νομίζοντες ἐφράγνυντο p.170 τείχη καὶ λιμένας ἀπεχώννυσαν καὶ κατεκόμιζον ἀπὸ τῆς χώρας εἰς τὰς πόλεις βοσκήματα καὶ ἀνδράποδα καὶ γυναῖκας καὶ παῖδας · εἰ δὲ Φωκίων ἡγοῖτο , πόρρω ναυσὶν ἰδίαις ἀπαντῶντες ἐστεφανωμένοι καὶ χαίροντες ὡς αὑτοὺς κατῆγον .",
+      "translation": "And certainly the allies and the islanders regarded envoys from Athens under the conduct of any other general as enemies , barricading their gates , obstructing their harbours , and bringing into their cities from the country their herds , slaves , women and children ; but whenever Phocion was the leader , they went far out to meet him in their own ships , wearing garlands and rejoicing , and conducted him to their homes themselves ."
+    },
+    {
+      "id": "12.1",
+      "label": "Section 12.1",
+      "chapter": null,
+      "original": "Παραδυομένου δὲ εἰς τὴν Εὔβοιαν τοῦ Φιλίππου καί δύναμιν ἐκ Μακεδονίας διαβιβάζοντος καὶ τὰς πόλεις οἰκειουμένου διὰ τυράννων , Πλουτάρχου δὲ τοῦ Ἐρετριέως καλοῦντος τοὺς paris.1624.747 Ἀθηναίους καί δεομένου τὴν νῆσον ἐξελέσθαι καταλαμβανομένην ὑπὸ τοῦ Μακεδόνος , ἀπεστάλη στρατηγὸς ὁ Φωκίων ἔχων δύναμιν οὐ πολλήν , ὡς τῶν ἐκεῖ συστησομένων ἑτοίμως πρὸς αὐτόν .",
+      "translation": "When Philip was stealing into Euboea and bringing a force across from Macedonia and making the cities his own by means of tyrants and when Plutarch the Eretrian called upon the Athenians and begged them to rescue the island from its occupation by the Macedonian , Phocion was sent out as general with a small force , [*] in the belief that the people of the island would rally readily to his aid ."
+    },
+    {
+      "id": "12.2",
+      "label": "Section 12.2",
+      "chapter": null,
+      "original": "εὑρὼν δὲ προδοτῶν ἅπαντα μεστὰ καί νοσοῦντα καὶ διορωρυγμένα δωροδοκίαις εἰς κίνδυνον μέγαν κατέστη · καί τινα λόφον χαράδρᾳ βαθείᾳ τῶν περὶ τὰς Ταμύνας ἐπιπέδων ἀποκρυπτόμενον καταλαβών συνεῖχεν ἐν τούτῳ καί συνεκράτει τὸ μαχιμώτατον τῆς δυνάμεως .",
+      "translation": "But he found the whole island full of traitors , disaffected , and honeycombed with bribery , and was therefore in a position of great peril . So he took possession of a crest of ground which was separated by a deep ravine from the plains about Tamynae , and on this assembled and held together the best fighting men of his force ."
+    },
+    {
+      "id": "13.1",
+      "label": "Section 13.1",
+      "chapter": null,
+      "original": "ὡς δὲ ἐπῄεσαν οἱ πολέμιοι , κελεύσας ἐν τοῖς ὅπλοις ἀτρεμεῖν ἄχρι ἂν αὐτὸς σφαγιάσηται , πλείω διέτριβε χρόνον ἢ δυσιερῶν ἢ βουλόμενος ἐγγυτέρω τοὺς πολεμίους ἐπισπάσασθαι . διὸ πρῶτον μὲν ὁ Πλούταρχος οἰόμενος ἀποδειλιᾶν p.172 καὶ κατοκνεῖν ἐκεῖνον ἐξέδραμε μετὰ τῶν ξένων ἔπειτα τοῦτον ἰδόντες οἱ ἱππεῖς οὐκ ἐκαρτέρησαν , ἀλλʼ ἤλαυνον εὐθὺς εἰς τοὺς πολεμίους ἀσύντακτοι καὶ σποράδες ἐκ τοῦ στρατοπέδου προσφερόμενοι .",
+      "translation": "When the enemy came up against him , he ordered his men to remain quietly under arms until he should have finished sacrificing , and then waited a considerable time , either because the omens were bad , or because he wished to draw the enemy nearer . Therefore , to begin with , Plutarch , who thought that Phocion ’ s delay was due to cowardice , sallied forth with his mercenaries . Next , the horsemen , catching sight of Plutarch , could not restrain themselves , but rode at once into the enemy , hurrying out of the camp in a disorderly and scattered fashion ."
+    },
+    {
+      "id": "13.2",
+      "label": "Section 13.2",
+      "chapter": null,
+      "original": "νικωμένων δὲ τῶν πρώτων ἅπαντες ἐσκεδάσθησαν καὶ ὁ Πλούταρχος ἔφυγε · καὶ τῷ χάρακι προσμίξαντες ἔνιοι τῶν πολεμίων ἐκκόπτειν ἐπειρῶντο καὶ διασπᾶν ὡς ἁπάντων κεκρατηκότες , ἐν τούτῳ δὲ τῶν ἱερῶν γενομένων , τοὺς μὲν εὐθὺς ἐκ τοῦ στρατοπέδου προσπεσόντες οἱ Ἀθηναῖοι τρέπουσι καὶ καταβάλλουσι τοὺς πλείστους περὶ τοῖς ἐρύμασι φεύγοντας , ὁ δὲ Φωκίων τὴν μὲν φάλαγγα προσέταξεν ἐφεδρεύειν ἀναλαμβάνουσαν ἅμα καὶ προσδεχομένην τοὺς ἐν τῇ φυγῇ πρότερον διασπαρέντας , αὐτὸς δὲ τοὺς ἐπιλέκτους ἔχων ἐνέβαλε τοῖς πολεμίοις .",
+      "translation": "The foremost of them were conquered , and then all of them dispersed and Plutarch took to flight , while some of the enemy gained the ramparts and tried to cut them away and destroy them , supposing themselves to be entirely victorious . But at this point the sacrifices were completed , and the Athenians , bursting out of their camp , routed their assailants and slew most of them as they fled among the entrenchments . Then Phocion ordered his phalanx to halt for the reception and support of the troops which had been scattered in the previous flight , while he himself with his picked men fell upon the main body of the enemy ."
+    },
+    {
+      "id": "14.1",
+      "label": "Section 14.1",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ ταῦτα διαπραξάμενος ἀπέπλευσεν ὁ Φωκίων , ταχὺ μὲν ἐπόθησαν οἱ σύμμαχοι τὴν χρηστότητα καὶ δικαιοσύνην αὐτοῦ , ταχὺ δὲ ἔγνωσαν οἱ Ἀθηναῖοι τὴν ἐμπειρίαν καὶ ῥώμην τοῦ ἀνδρός , ὁ γὰρ μετʼ ἐκεῖνον ἐλθὼν ἐπὶ τὰ πράγματα Μολοσσὸς οὕτως ἐπολέμησεν ὥστε καὶ ζῶν αὐτὸς ὑποχείριος γενέσθαι τοῖς πολεμίοις ·",
+      "translation": "After these things had been accomplished , Phocion sailed back home , and then the allies speedily felt the absence of his probity and justice , and speedily did the Athenians recognize the experience and vigour which had been shown by him . For his successor in command , Molossus , conducted the war in such a way as actually to fall alive into the hands of the enemy ."
+    },
+    {
+      "id": "14.2",
+      "label": "Section 14.2",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ μεγάλα ταῖς ἐλπίσι περινοῶν ὁ Φίλιππος εἰς Ἑλλήσποντον ἦλθε μετὰ πάσης τῆς δυνάμεως , ὡς Χερρόνησον ἐν ταὐτῷ καὶ Πέρινθον ἕξων καὶ Βυζάντιον , ὡρμημένων δὲ τῶν Ἀθηναίων βοηθεῖν οἱ ῥήτορες ἠγωνίσαντο τὸν Χάρητα στρατηγὸν ἀποσταλῆναι , καὶ πλεύσας ἐκεῖνος οὐδὲν ἄξιον τῆς δυνάμεως ἔπραττεν , οὐδὲ αἱ πόλεις ἐδέχοντο τὸν στόλον , ἀλλʼ ὕποπτος ὢν πᾶσιν ἐπλανᾶτο χρηματιζόμενος ἀπὸ τῶν συμμάχων καὶ καταφρονούμενος ὑπὸ τῶν πολεμίων ,",
+      "translation": "And now Philip , cherishing great anticipations , went to the Hellespont with all his forces , [*] expecting to get the Chersonesus , and at the same time Perinthus and Byzantium , into his power . The Athenians were eager to give aid to their allies , but their orators strove successfully to have Chares sent out as commander , and he , after sailing thither , did nothing worthy of the force under his orders , nor would the cities even receive his armament into their harbours . On the contrary , he was held in suspicion by all of them , and wandered about exacting money from the allies and despised by the enemy ,"
+    },
+    {
+      "id": "15.1",
+      "label": "Section 15.1",
+      "chapter": null,
+      "original": "τῶν δὲ Μεγαρέων ἐπικαλουμένων κρύφα , φοβούμενος ὁ Φωκίων τοὺς Βοιωτοὺς μὴ προαισθόμενοι φθάσωσι τὴν βοήθειαν , ἐκκλησίαν συνήγαγεν ἕωθεν , καὶ προσαγγείλας τὰ παρὰ τῶν Μεγαρέων τοῖς Ἀθηναίοις , ὡς ἐπεψηφίσαντο , τῇ σάλπιγγι σημήνας εὐθὺς ἀπὸ τῆς ἐκκλησίας ἦγεν αὐτοὺς τὰ ὅπλα λαβόντας .",
+      "translation": "The people of Megara once made a secret appeal to Athens for help , [*] and Phocion , fearing that the Boeotians might get early knowledge of the appeal and anticipate Athens in sending help , called an assembly early in the morning and announced to the Athenians the message received from Megara . Then , as soon as the requisite decree had been passed , he ordered the trumpeter to give the signal and led them , under arms , directly from the assembly ."
+    },
+    {
+      "id": "15.2",
+      "label": "Section 15.2",
+      "chapter": null,
+      "original": "δεξαμένων δὲ τῶν Μεγαρέων προθύμως τήν τε Νίσαιαν ἐτείχισε , καὶ διὰ μέσου σκέλη δύο πρὸς τὸ ἐπίνειον p.178 ἀπὸ τοῦ ἄστεος ἐνέβαλε , καὶ συνῆψε τῇ θαλάττῃ τήν πόλιν , ὥστε τῶν κατὰ γῆν πολεμίων ὀλίγον ἤδη φροντίζουσαν ἐξηρτῆσθαι τῶν Ἀθηναίων .",
+      "translation": "The Megarians received him eagerly , and he enclosed Nisaea [*] with a wall , built two long walls down to the sea-port from Megara , and thus united the city with the sea , so that she need now pay little heed to enemies on land and could be in close connection with Athens by sea ."
+    },
+    {
+      "id": "16.1",
+      "label": "Section 16.1",
+      "chapter": null,
+      "original": "ἤδη δὲ πρὸς Φίλιππον ἐκπεπολεμωμένων παντάπασι , καί στρατηγῶν αὐτοῦ μὴ παρόντος ἑτέρων ἐπὶ τὸν πόλεμον ᾑρημένων , ὡς κατέπλευσεν ἀπὸ τῶν νήσων , πρῶτον μὲν ἔπειθε τὸν δῆμον εἰρηνικῶς ἔχοντος τοῦ Φιλίππου καί φοβουμένου τὸν κίνδυνον ἰσχυρῶς δέχεσθαι τὰς διαλύσεις ·",
+      "translation": "Presently [*] the relations between Athens and Philip were altogether hostile , and , in Phocion ’ s absence , other generals were chosen to conduct the war . But when Phocion returned with his fleet from the islands , to begin with , he tried to persuade the people , since Philip was peaceably inclined and greatly feared the peril of war , to accept the terms of settlement which he offered ."
+    },
+    {
+      "id": "16.2",
+      "label": "Section 16.2",
+      "chapter": null,
+      "original": "καί τινος ἀντικρούσαντος αὐτῷ τῶν εἰωθότων κυλινδεῖσθαι περὶ τὴν Ἡλιαίαν καί συκοφαντεῖν , καί εἰπόντος , σὺ δὲ τολμᾷς , ὦ Φωκίων , ἀποτρέπειν Ἀθηναίους ἤδη τὰ ὅπλα διὰ χειρῶν ἔχοντας ; ἔγωγε , εἶπε , καί ταῦτα εἰδὼς ὅτι πολέμου μὲν ὄντος ἐγὼ σοῦ , εἰρήνης δὲ γενομένης σὺ ἐμοῦ ἄρξεις . ὡς δʼ οὐκ ἔπειθεν , ἀλλʼ ὁ Δημοσθένης ἐκράτει κελεύων ὡς πορρωτάτω τῆς Ἀττικῆς θέσθαι μάχην τοὺς Ἀθηναίους , ὦ τᾶν , ἔφη , μὴ ποῦ μαχώμεθα σκοπῶμεν , ἀλλὰ πῶς νικήσωμεν .",
+      "translation": "And when one of those who haunted the law-courts in the capacity of public informer opposed him , and said , Canst thou dare , O Phocion , to divert the Athenians from war when they are already under arms ? I can , said he , and that , too , though I know that while there is war thou wilt be under my orders , but when peace has been made I shall be under thine . When , however , he could not prevail , but Demosthenes carried the day and was urging the Athenians to join battle with Philip as far from Attica as possible , My good Sir , said Phocion , let us not ask where we can fight , but how we shall be victorious ."
+    },
+    {
+      "id": "17.1",
+      "label": "Section 17.1",
+      "chapter": null,
+      "original": "Δημοσθένους δὲ λοιδοροῦντος τὸν Ἀλέξανδρον ἤδη προσάγοντα ταῖς Θήβαις ἔφη · σχέτλιε , τίπτʼ ἐθέλεις ἐρεθιζέμεν ἄγριον ἄνδρα καὶ δόξης μεγάλης ὀρεγόμενον ; ἢ βούλει πυρκαϊᾶς τηλικαύτης οὔσης ἐγγὺς ῥιπίσαι [*] τὴν πόλιν ; p.182 ἀλλʼ ἡμεῖς οὐδὲ βουλομένοις ἀπολέσθαι τούτοις ἐπιτρέψομεν , οἱ διὰ τοῦτο στρατηγεῖν ὑπομένοντες .",
+      "translation": "Again , when Demosthenes was heaping abuse upon Alexander , who was already advancing against Thebes , Phocion said :\nRash one , why dost thou seek to provoke a man who is savage ,\n[*] and is reaching out after great glory ? Canst thou wish , when so great a conflagration is near , to fan the city into flame ? But I , who am bearing the burdens of command with this object in view , will not suffer these fellow citizens of mine to perish even if that is their desire ."
+    },
+    {
+      "id": "17.2",
+      "label": "Section 17.2",
+      "chapter": null,
+      "original": "ὡς δὲ ἀπωλώλεισαν αἱ Θῆβαι καὶ ὁ Ἀλέξανδρος ἐξῃτεῖτο τοὺς περὶ Δημοσθένην καὶ Λυκοῦργον καὶ Ὑπερείδην καὶ Χαρίδημον , ἡ δὲ ἐκκλησία πρὸς ἐκεῖνον ἀπέβλεπεν , ὀνομαστὶ πολλάκις καλούμενος ἀνέστη καὶ τῶν φίλων ἕνα παραστησάμενος , ᾧ μάλιστα χρώμενος διετέλει καὶ πιστεύων καὶ ἀγαπῶν , εἰς τοιαῦτα , ἔφη , τὴν πόλιν οὗτοι παραγηόχασιν ὥστʼ ἔγωγε , κἂν Νικοκλέα τις τοῦτον ἐξαιτῇ , διδόναι κελεύσω .",
+      "translation": "And when Thebes had been destroyed [*] and Alexander was demanding the surrender of Demosthenes , Lycurgus , Hypereides , Charidemus , and others , and the assembly turned their eyes upon Phocion and called upon him many times by name , he rose up , and drawing to his side one of his friends , whom he always cherished , trusted , and loved most of all , he said : These men have brought the city to such a pass that I , for my part , even if this Nicocles should be demanded , would urge you to give him up ."
+    },
+    {
+      "id": "18.1",
+      "label": "Section 18.1",
+      "chapter": null,
+      "original": "τὸ μέντοι περὶ τῶν χρημάτων ὁμολογούμενόν ἐστιν ὅτι δωρεὰν αὐτῷ κατέπεμψεν ἑκατὸν τάλαντα , τούτων κομισθέντων εἰς Ἀθήνας , ἠρώτησεν ὁ Φωκίων τοὺς φέροντας τί δή ποτε πολλῶν ὄντων Ἀθηναίων αὐτῷ μόνῳ τοσαῦτα δίδωσιν Ἀλέξανδρος , εἰπόντων δὲ ἐκείνων , ὅτι σὲ κρίνει μόνον ἄνδρα καλὸν καὶ ἀγαθόν οὐκοῦν , εἶπεν ὁ Φωκίων , ἐασάτω με καὶ δοκεῖν ἀεὶ καὶ εἶναι τοιοῦτον .",
+      "translation": "The story about the money , indeed , is generally admitted , namely , that Alexander sent him a present of a hundred talents . [*] When this was brought to Athens , Phocion asked the bearers why in the world , when there were so many Athenians , Alexander offered such a sum to him alone . They replied : Because Alexander judges that thou alone art a man of honour and worth . In that case , said Phocion , let him suffer me to be and be thought such always ."
+    },
+    {
+      "id": "18.2",
+      "label": "Section 18.2",
+      "chapter": null,
+      "original": "ὡς δὲ ἀκολουθήσαντες εἰς οἶκον αὐτῷ πολλὴν ἑώρων εὐτέλειαν , τὴν μὲν γυναῖκα μάττουσαν , ὁ δὲ Φωκίων αὐτὸς ἀνιμήσας ὕδωρ ἐκ τοῦ φρέατος ἀπενίπτετο τοὺς πόδας , ἔτι μᾶλλον ἐνέκειντο καὶ ἠγανάκτουν , paris.1624.750 δεινὸν εἶναι λέγοντες εἰ φίλος ὢν τοῦ βασιλέως p.186 οὕτω διαιτήσεται πονηρῶς . ἰδὼν οὖν ὁ Φωκίων πένητα πρεσβύτην ἐν τριβωνίῳ ῥυπαρῷ πορευόμενον , ἠρώτησεν εἰ τούτου χείρονα νομίζουσιν αὐτόν .",
+      "translation": "But when the messengers accompanied him to his home and saw there a great simplicity ,— his wife kneading bread , while Phocion with his own hands drew water from the well and washed his feet ,— they were indignant , and pressed the money upon him still more urgently , declaring it an intolerable thing that he , though a friend of the king , should live in such poverty . Phocion , accordingly , seeing a poor old man walking the street in a dirty cloak , asked them if they considered him inferior to this man ."
+    },
+    {
+      "id": "19.1",
+      "label": "Section 19.1",
+      "chapter": null,
+      "original": "τῶν δὲ γυναικῶν ἃς ἔγημε , περὶ τῆς προτέρας οὐθὲν ἱστορεῖται , πλὴν ὅτι Κηφισόδοτος ἦν ὁ πλάστης ἀδελφὸς αὐτῆς , τῆς δὲ δευτέρας οὐκ ἐλάττων ἐπὶ σωφροσύνῃ καί ἀφελείᾳ λόγος ἦν παρὰ τοῖς Ἀθηναίοις ἢ Φωκίωνος ἐπὶ χρηστότητι .",
+      "translation": "As for his wives , nothing is told us about the first , except that she was a sister of Cephisodotus the sculptor ; but the reputation which the second had among the Athenians for sobriety and simplicity was not less than that of Phocion for probity ."
+    },
+    {
+      "id": "19.2",
+      "label": "Section 19.2",
+      "chapter": null,
+      "original": "καί ποτε θεωμένων καινοὺς τραγῳδοὺς Ἀθηναίων , ὁ μὲν τραγῳδὸς εἰσιέναι μέλλων βασιλίδος πρόσωπον ᾔτει κεκοσμημένας πολλὰς ὀπαδοὺς πολυτελῶς τὸν χορηγόν καί μὴ παρέχοντος ἠγανάκτει καί κατεῖχε τὸ θέατρον οὐ βουλόμενος προελθεῖν . ὁ δὲ χορηγὸς Μελάνθιος ὠθῶν αὐτὸν εἰς τὸ μέσον ἐβόα · τὴν Φωκίωνος οὐχ ὁρᾷς γυναῖκα προϊοῦσαν ἀεὶ μετὰ μιᾶς θεραπαινίδος , ἀλλʼ ἀλαζονεύῃ καί διαφθείρεις τὴν γυναικωνῖτιν ;",
+      "translation": "And once when the Athenians were witnessing an exhibition of new tragedies , the actor who was to take the part of a queen asked the choregus to furnish him with a great number of attendant women in expensive array ; and when he could not get them , he was indignant , and kept the audience waiting by his refusal to come out . But the choregus , Melanthius , pushed him before the spectators , crying : Dost thou not see that Phocion ’ s wife always goes out with one maid-servant ? Thy vanity will be the undoing of our women-folk ."
+    },
+    {
+      "id": "20.1",
+      "label": "Section 20.1",
+      "chapter": null,
+      "original": "Φώκῳ δὲ τῷ υἱῷ βουλομένῳ ἀγωνίσασθαι Παναθηναίοις ἀποβάτην ἐφῆκεν , [*] οὐχὶ τῆς νίκης ὀρεγόμενος , ἀλλʼ ὅπως ἐπιμεληθεὶς καὶ ἀσκήσας τὸ σῶμα βελτίων ἔσοιτο καὶ γὰρ ἦν ἄλλως φιλοπότης καὶ ἄτακτος ὁ νεανίσκος , νικήσαντος δὲ καὶ πολλῶν αἰτουμένων ἑστιᾶσαι τὰ νικητήρια , τοὺς ἄλλους Φωκίων παραιτησάμενος ἑνὶ τὴν φιλοτιμίαν ταύτην συνεχώρησεν .",
+      "translation": "When Phocus his son wished to compete at the Panathenaic festival as a vaulting rider of horses , Phocion permitted it , not because he was ambitious for the victory , but in order that care and training of the body might make his son a better man ; for in general the youth was fond of wine and irregular in his habits . The youth was victorious , and many asked him to their houses for the victor ’ s banquet ; but Phocion declined the other invitations and granted the coveted honour to one host only ."
+    },
+    {
+      "id": "20.2",
+      "label": "Section 20.2",
+      "chapter": null,
+      "original": "ὡς δὲ ἐλθὼν ἐπὶ τὸ δεῖπνον ἄλλην τε σοβαρὰν ἑώρα p.190 παρασκευὴν καὶ ποδανιπτῆρας οἴνου διʼ ἀρωμάτων προσφερομένους τοῖς εἰσιοῦσι , καλέσας τὸν υἱὸν , οὐ παύσεις ἔφη , τὸν ἑταῖρον , ὦ Φῶκε , διαφθείροντά σου τὴν νίκην ; βουλόμενος δὲ καὶ καθόλου μεταστῆσαι τὸ μειράκιον ἐκ τῆς διαίτης ἐκείνης , ἀπήγαγεν εἰς Λακεδαίμονα καὶ κατέμιξε τοῖς ἀγομένοις τὴν λεγομένην ἀγωγὴν νεανίσκοις .",
+      "translation": "And when he went to the banquet and saw the general magnificence of the preparations , and particularly the foot-basins of spiced wine that were brought to the guests as they entered , he called his son and said : Phocus , do not let thy companion ruin thy victory . Moreover , wishing to remove the young man entirely from that style of living , he took him off to Sparta and put him among the youths who were following the course of discipline called agoge . [*]"
+    },
+    {
+      "id": "21.1",
+      "label": "Section 21.1",
+      "chapter": null,
+      "original": "γράψαντος δὲ τοῦ Ἀλεξάνδρου περὶ τριήρων , ὅπως ἀποστείλωσιν αὐτῷ , καὶ τῶν ῥητόρων ἐνισταμένων , τῆς δὲ βουλῆς τὸν Φωκίωνα λέγειν κελευούσης , λέγω τοίνυν ὑμῖν , εἶπεν , ἢ τοῖς ὅπλοις κρατεῖν ἢ τοῖς κρατοῦσι φίλους εἶναι . Πρὸς δὲ Πυθέαν ἀρχόμενον τότε πρῶτον ἐντυγχάνειν Ἀθηναίοις , ἤδη δὲ λάλον ὄντα καὶ θρασύν , οὐ σιωπήσεις , ἔφη , καὶ ταῦτα νεώνητος ὢν τῷ δήμῳ ;",
+      "translation": "When Alexander wrote asking the Athenians to send him triremes , and the orators opposed the request , and the council bade Phocion speak upon the matter , I tell you , then , he said , either to be superior in arms or to be friends with those who are superior . To Pytheas , who at that time was just beginning to address the Athenians , but was already loquacious and bold , Phocion said : Hold thy peace , thou who art but a newly bought slave of the people !"
+    },
+    {
+      "id": "21.2",
+      "label": "Section 21.2",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ Ἅρπαλος μετὰ χρημάτων πολλῶν ἀποδρὰς Ἀλέξανδρον ἐκ τῆς Ἀσίας τῇ Ἀττικῇ προσέβαλε , καὶ τῶν εἰωθότων p.192 ἀπὸ τοῦ βήματος χρηματίζεσθαι δρόμος ἦν καὶ ἅμιλλα φθειρομένων πρὸς αὐτόν , τούτοις μὲν ἀπὸ πολλῶν μικρὰ δελεάζων προήκατο καὶ διέρριψε , τῷ δὲ Φωκίωνι προσέπεμψε διδοὺς ἑπτακόσια τάλαντα , καὶ τἆλλα πάντα , καὶ μετὰ πάντων ἑαυτὸν ἐκείνῳ [*] μόνῳ παρακατατιθέμενος .",
+      "translation": "And when Harpalus , who had run away from Alexander out of Asia with great sums of money , landed in Attica , [*] and those who were wont to make merchandise of their influence as orators came running to him at breakneck speed , to these men he dropped and scattered small morsels of his wealth by way of bait ; but he sent to Phocion and offered him seven hundred talents , and everything else that he had , and put himself with all his possessions at the sole disposition of Phocion ."
+    },
+    {
+      "id": "22.1",
+      "label": "Section 22.1",
+      "chapter": null,
+      "original": "καὶ δὴ καὶ Πυθονίκης τῆς ἑταίρας ἀποθανούσης , ἣν εἶχεν ὁ Ἅρπαλος ἐρῶν καὶ θυγατρίου πατὴρ ἐξ αὐτῆς γεγόνει , μνημεῖον ἀπὸ χρημάτων πολλῶν ἐπιτελέσαι θελήσας προσέταξε τῷ Χαρικλεῖ τὴν ἐπιμέλειαν .",
+      "translation": "For instance , on the death of Pythonicé the courtesan , who was the passionately loved mistress of Harpalus and had borne him a daughter , Harpalus resolved to build her a very expensive monument , and committed the care of the work to Charicles ."
+    },
+    {
+      "id": "22.2",
+      "label": "Section 22.2",
+      "chapter": null,
+      "original": "οὖσαν δὲ τὴν ὑπουργίαν ταύτην ἀγεννῆ προσκατῄσχυνεν ὁ τάφος συντελεσθείς . διαμένει γὰρ ἔτι νῦν ἐν p.194 Ἕρμει , [*] ᾗ βαδίζομεν ἐξ ἄστεος εἰς Ἐλευσῖνα , μηδὲν ἔχων τῶν τριάκοντα ταλάντων ἄξιον , ὅσα τῷ Ἁρπάλῳ λογισθῆναί φασιν εἰς τὸ ἔργον ὑπὸ τοῦ Χαρικλέους . καὶ μέντοι καὶ τελευτήσαντος αὐτοῦ τὸ παιδάριον ὑπὸ τοῦ Χαρικλέους καὶ τοῦ Φωκίωνος ἀναληφθὲν ἐτύγχανε πάσης ἐπιμελείας .",
+      "translation": "This service was an ignoble one in itself , but it acquired additional disgrace from the completed tomb . For this is still to be seen in Hermus , on the road from Athens to Eleusis , and it has nothing worthy of the large sum of thirty talents which Charicles is said to have charged Harpalus for the work . [*] And yet after the death of Harpalus himself , [*] his daughter was taken up by Charicles and Phocion and educated with every care ."
+    },
+    {
+      "id": "23.1",
+      "label": "Section 23.1",
+      "chapter": null,
+      "original": "ὡς δὲ φέρων ἐνέσεισεν ὁ Λεωσθένης τὴν πόλιν εἰς τὸν Λαμιακὸν [*] πόλεμον , καί τοῦ Φωκίωνος δυσχεραίνοντος ἠρώτα καταγελῶν τί p.196 πεποίηκεν ἀγαθὸν τὴν πόλιν ἔτη τοσαῦτα στρατηγῶν , οὐ μικρόν , ἔφη , τὸ τοὺς πολίτας ἐν τοῖς ἰδίοις μνήμασι θάπτεσθαι .",
+      "translation": "Leosthenes , who had plunged the city into the Lamian war [*] much to Phocion ’ s displeasure , once asked him derisively what good he had done the city during the many years in which he had been general . No slight good , said Phocion , in that its citizens are buried in their own sepulchres ."
+    },
+    {
+      "id": "23.2",
+      "label": "Section 23.2",
+      "chapter": null,
+      "original": "πολλὰ δὲ θρασυνομένου paris.1624.752 καὶ κομπάζοντος ἐν τῷ δήμῳ τοῦ Λεωσθένους , ὁ Φωκίων , οἱ λόγοι σου , εἶπεν , ὦ μειράκιον , ἐοίκασι κυπαρίττοις · μεγάλοι γὰρ ὄντες καί ὑψηλοί καρποὺς οὐ φέρουσιν . ὡς δὲ ἐπαναστὰς ὁ Ὑπερείδης ἠρώτησε , πότε οὖν , ὦ Φωκίων , συμβουλεύσεις πολεμεῖν Ἀθηναίοις ; ὅταν , εἶπε , τοὺς μὲν νέους ἴδω τὴν τάξιν βουλομένους φυλάττειν , τοὺς δὲ πλουσίους εἰσφέρειν , τοὺς δὲ ῥήτορας ἀπέχεσθαι τοῦ κλέπτειν τὰ δημόσια .",
+      "translation": "Again , when Leosthenes was talking very boldly and boastfully in the assembly , Phocion said : Thy speeches , young man , are like cypress-trees , which are large and towering , but bear no fruit . And when Hypereides confronted him with the question , When , then , O Phocion , wilt thou counsel the Athenians to go to war ? Whenever , said Phocion , I see the young men willing to hold their places in the ranks , the rich to make contributions , and the orators to keep their thievish hands away from the public moneys ."
+    },
+    {
+      "id": "24.1",
+      "label": "Section 24.1",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ τοῦ Λεωσθένους ἀποθανόντος οἱ φοβούμενοι τὸν Φωκίωνα , μὴ στρατηγὸς ἐκπεμφθεὶς καταλύσῃ τὸν πόλεμον , ἄνθρωπόν τινα τῶν οὐκ ἐπιφανῶν ἐν ἐκκλησίᾳ παρεσκεύασαν ἀναστάντα λέγειν ὅτι φίλος ὢν τοῦ Φωκίωνος καὶ συμπεφοιτηκὼς παραινεῖ φείδεσθαι τοῦ ἀνδρὸς καὶ φυλάσσειν , ὡς ἄλλον ὅμοιον οὐκ ἔχοντας , ἐκπέμπειν δὲ Ἀντίφιλον ἐπὶ τὸ στράτευμα , καὶ ταῦτα τοῖς Ἀθηναίοις συνεδόκει , παρελθὼν ὁ Φωκίων ἔλεγε μήτε συμπεφοιτηκέναι ποτὲ τῷ ἀνθρώπῳ μήτε ἄλλως γεγονέναι γνώριμος ἢ συνήθης ·",
+      "translation": "But Leosthenes was killed , and then those who feared that Phocion , if he were sent out as general , would put a stop to the war , arranged with a certain obscure person to rise in the assembly and say that he was a friend and intimate associate of Phocion , and therefore advised the people to spare him and keep him in reserve , since they had none other like him , and to send out Antiphilus to the army . This course was approved by the Athenians , whereupon Phocion came forward and said that he had never been intimately associated with the person , nor in any way familiar or acquainted with him ;"
+    },
+    {
+      "id": "24.2",
+      "label": "Section 24.2",
+      "chapter": null,
+      "original": "ἀλλὰ νῦν , εἶπεν , ἀπὸ τῆς σήμερον ἡμέρας καὶ φίλον σε ποιοῦμαι καὶ οἰκεῖον ἃ γὰρ ἦν ἐμοὶ συμφέροντα συμβεβούλευκας . ὡρμημένων δὲ τῶν Ἀθηναίων ἐπὶ τοὺς Βοιωτοὺς στρατεύειν πρῶτον μὲν ἀντεῖχε · καὶ τῶν φίλων λεγόντων ὡς ἀποθανεῖται προσκρούων τοῖς Ἀθηναίοις , ἀδίκως , εἶπεν , ἂν ποιῶ τὸ συμφέρον ἂν δὲ παραβαίνω , δικαίως .",
+      "translation": "But now , said he , from this very day I make thee a friend and close companion , for thou hast counselled what was for my advantage . Again , when the Athenians were bent on making an expedition against the Boeotians , at first he opposed it ; and when his friends told him that he would be put to death by the Athenians if he offended them , That will be unjust , said he , if I act for their advantage ; but if I play them false , it will be just ."
+    },
+    {
+      "id": "25.1",
+      "label": "Section 25.1",
+      "chapter": null,
+      "original": "πορθουμένης δὲ τῆς παραλίας ὑπὸ Μικίωνος συχνοῖς Μακεδόσι καὶ μισθοφόροις ἀποβεβηκότος εἷς Ῥαμνοῦντα καὶ κατατρέχοντος τὴν χώραν , ἐξήγαγε τοὺς Ἀθηναίους ἐπʼ αὐτόν , ὡς δὲ προστρέχοντες ἀλλαχόθεν ἄλλος διεστρατήγουν καὶ συνεβούλευον αὐτοῦ τὸν λόφον καταλαβεῖν , ἐκεῖ περιπέμψαι τοὺς ἱππέας , ἐνταῦθα παρεμβαλεῖν , Ὦ Ἡράκλεις , εἶπεν , ὡς πολλοὺς ὁρῶ στρατηγούς , ὀλίγους δὲ στρατιώτας .",
+      "translation": "However , when their sea-coast was being devastated by Micion , who landed at Rhamnus with a horde of Macedonians and mercenaries and overran the adjacent territory , Phocion led the Athenians out against him . And as they marched , men would run up to their general from all sides and show him what to do . He was advised to seize a hill here , to send his horsemen around thither , or to make his attack upon the enemy there . O Heracles , said Phocion , how many generals I see , and how few soldiers !"
+    },
+    {
+      "id": "25.2",
+      "label": "Section 25.2",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ παρατάξαντος αὐτοῦ τοὺς ὁπλίτας εἷς πολὺ πρὸ τῶν ἄλλων προῆλθεν , εἶτα δείσας ἀντιστάντος ἀνδρὸς πολεμίου πάλιν εἷς τὴν τάξιν ἀνεχώρησεν , ὦ μειράκιον , εἶπεν , οὐκ αἰδῇ δύο τάξεις ἀπολελοιπώς , ἣν ἐτάχθης ὑπὸ τοῦ στρατηγοῦ καὶ πάλιν ἐφʼ ἣν σεαυτὸν ἔταξας ; ἐμβαλὼν δὲ τοῖς πολεμίοις καὶ κατὰ κράτος τρεψάμενος , paris.1624.753 αὐτόν τε τὸν Μικίωνα καὶ πολλοὺς ἄλλους ἀπέκτεινε .",
+      "translation": "Again , after he had drawn up his men-at-arms , one of them went out far in advance of the rest , and then was stricken with fear when an enemy advanced to meet him , and went back again to his post . Shame on thee , young man , said Phocion , for having abandoned two posts , the one which was given thee by thy general , and the one which thou didst give thyself . However , he attacked the enemy , routed them utterly , and slew Micion himself together with many others ."
+    },
+    {
+      "id": "26.1",
+      "label": "Section 26.1",
+      "chapter": null,
+      "original": "ὀλίγῳ δὲ ὕστερον χρόνῳ Κρατεροῦ διαβάντος ἐξ Ἀσίας μετὰ πολλῆς δυνάμεως καὶ γενομένης πάλιν ἐν Κραννῶνι παρατάξεως , ἡττήθησαν μὲν οἱ Ἕλληνες οὔτε μεγάλην ἧτταν οὔτε πολλῶν πεσόντων , ἀπειθείᾳ δὲ πρὸς τοὺς ἄρχοντας ἐπιεικεῖς καὶ νέους ὄντας , καὶ ἅμα τὰς p.202 πόλεις αὐτῶν πειρῶντος Ἀντιπάτρου , διαρρυέντες αἴσχιστα προήκαντο τὴν ἐλευθερίαν .",
+      "translation": "But a short time afterwards Craterus crossed from Asia with a large force , [*] and there was another pitched battle at Crannon . Here the Greeks were defeated . Their defeat was not severe , nor did many of them fall , but owing to their lack of obedience to their commanders , who were young and soft-hearted , and because at the same time Antipater made tempting overtures to their several cities , their army melted away and most shamefully abandoned the cause of freedom ."
+    },
+    {
+      "id": "26.2",
+      "label": "Section 26.2",
+      "chapter": null,
+      "original": "εὐθὺς οὖν ἐπὶ τὰς Ἀθήνας ἄγοντος τοῦ Ἀντιπάτρου τὴν δύναμιν οἱ μὲν περὶ Δημοσθένην καὶ Ὑπερείδην ἀπηλλάγησαν ἐκ τῆς πόλεως , Δημάδης δέ , μηθὲν μέρος ὧν ὤφειλε χρημάτων ἐπὶ ταῖς καταδίκαις ἐκτῖσαι τῇ πόλει · δυνάμενος ἡλώκει γὰρ ἑπτὰ γραφὰς παρανόμων καὶ γεγονὼς ἄτιμος ἐξείργετο τοῦ λέγειν , ἄδειαν εὑρόμενος τότε , γράφει ψήφισμα ἐκπέμπειν [*] πρὸς Ἀντίπατρον ὑπὲρ εἰρήνης πρέσβεις αὐτοκράτορας .",
+      "translation": "At once , therefore , Antipater led his forces against Athens , and Demosthenes and Hypereides left the city . Demades , however though he was unable to pay any portion of the fines which had been imposed upon him by the city ( he had been seven times convicted of introducing illegal measures , had lost his civic rights , and was therefore debarred from speaking in the assembly ), obtained immunity at this time , and brought in a bill for sending to Antipater ambassadors plenipotentiary to treat for peace ."
+    },
+    {
+      "id": "27.1",
+      "label": "Section 27.1",
+      "chapter": null,
+      "original": "Ὡς οὖν ἐπανῆλθεν ὁ Φωκίων εἰς τὸ ἄστυ καὶ τοῖς Ἀθηναίοις ; ταῦτα ἔδοξεν ὑπʼ ἀνάγκης , αὖθις εἰς Θήβας ἐβάδιζε μετὰ Τῶν ἄλλων πρέσβεων , Ξενοκράτην τὸν φιλόσοφον Τῶν Ἀθηναίων προσελομένων . τοσοῦτον γὰρ ἦν ἀξίωμα τῆς ἀρετῆς τοῦ Ξενοκράτους καὶ δόξα καὶ λόγος παρὰ πᾶσιν ὥστε οἴεσθαι μήτε ὕβριν εἶναι μήτε ὠμότητα μήτε θυμὸν ἐν ἀνθρωπίνῃ ψυχῇ φυόμενον , ᾧ Ξενοκράτους μόνον ὀφθέντος οὐκ ἂν αἰδοῦς τι καὶ τιμῆς ἐγγένοιτο πρὸς αὐτόν .",
+      "translation": "Accordingly , Phocion returned to Athens with these demands , and the Athenians acceeded to them , under the necessity that was upon them . Then Phocion went once more to Thebes , with the other ambassadors , to whom the Athenians had added Xenocrates the philosopher . For so high an estimate was set upon the virtue of Xenocrates , and so great was his reputation and fame in the eyes of all , that it was supposed the human heart could harbour no insolence or cruelty or wrath which the mere sight of the man would not infuse with reverence and a desire to do him honour ."
+    },
+    {
+      "id": "27.2",
+      "label": "Section 27.2",
+      "chapter": null,
+      "original": "ἀπέβη δὲ τοὐναντίον ἀγνωμοσύνῃ τινὶ καὶ μισαγαθίᾳ τοῦ Ἀντιπάτρου , πρῶτον μὲν γὰρ οὐκ ἠσπάσατο τὸν Ξενοκράτην τοὺς ἄλλους δεξιωσάμενος · ἐφʼ ᾧ φασιν εἰπεῖν ἐκεῖνον ὡς Ἀντίπατρος καλῶς ποιεῖ μόνον αὐτὸν αἰσχυνόμενος ἐφʼ οἷς ἀγνωμονεῖν μέλλει πρὸς τὴν πόλιν ἔπειτα λέγειν ἀρξάμενον οὐχ ὑπομένων , ἀλλʼ ἀντικρούων καὶ δυσκολαίνων ἐποίησεν ἀποσιωπῆσαι .",
+      "translation": "But the result in this case was the opposite , owing to a certain ruthlessness and hatred of goodness in Antipater . For , in the first place , he would not salute Xenocrates , although he greeted the other ambassadors ; at which Xenocrates is said to have remarked : Antipater does well to feel shame before me alone of his ruthless designs against our city . And again , when the philosopher began to speak , Antipater would not listen to him , but angrily contradicted him and forced him into silence ."
+    },
+    {
+      "id": "28.1",
+      "label": "Section 28.1",
+      "chapter": null,
+      "original": "οὕτω μὲν ἐδέξαντο φρουρὰν Μακεδόνων Ἀθηναῖοι καὶ Μένυλλον ἡγεμόνα , τῶν ἐπιεικῶν τινα καὶ τοῦ Φωκίωνος ἐπιτηδείων , ἐφάνη δὲ ὑπερήφανον τὸ πρόσταγμα , καὶ μᾶλλον ἐξουσίας ὕβρει χρωμένης ἐπίδειξις ἢ πραγμάτων ἕνεκα γιγνομένη κατάληψις . οὐ μικρὸν δὲ τῷ πάθει προσέθηκεν ὁ καιρός , εἰκάδι γὰρ ἡ φρουρὰ Βοηδρομιῶνος εἰσήχθη , μυστηρίων ὄντων , ᾗ τὸν Ἴακχον ἐξ ἄστεος Ἐλευσινάδε πέμπουσιν , ὥστε τῆς τελετῆς συγχυθείσης ἀναλογίζεσθαι τοὺς πολλοὺς καὶ τὰ πρεσβύτερα τῶν θείων καὶ τὰ πρόσφατα .",
+      "translation": "Thus the Athenians were obliged to receive a Macedonian garrison , which was under the command of Menyllus , an equitable man and a friend of Phocion . But the measure was held to be an arrogant one , and rather a display of power which delighted in insolence than an occupation due to stress of circumstance . And it came at a time which added not a little to the distress of the people . For the garrison was introduced on the twentieth of the month Boëdromion , while the celebration of the mysteries was in progress , on the day when the god Iacchus is conducted from the city to Eleusis , so that the disturbance of the sacred rite led most men to reflect upon the attitude of the heavenly powers in earlier times and at the present day ."
+    },
+    {
+      "id": "28.2",
+      "label": "Section 28.2",
+      "chapter": null,
+      "original": "πάλαι μὲν γὰρ ἐν τοῖς ἀρίστοις [*] εὐτυχήμασι τὰς μυστικὰς ὄψεις καὶ φωνὰς p.208 παραγενέσθαι σὺν ἐκπλήξει καὶ θάμβει τῶν πολεμίων , νῦν δὲ τοῖς αὐτοῖς ἱεροῖς τὰ δυσχερέστατα πάθη τῆς Ἑλλάδος ἐπισκοπεῖν τοὺς θεούς , καὶ καθυβρίζεσθαι τὸν ἁγιώτατον τοῦ χρόνου καὶ ἥδιστον αὐτοῖς , ἐπώνυμον τῶν μεγίστων κακῶν γενόμενον . πρότερον μὲν οὖν ὀλίγοις ἔτεσι χρησμὸν ἐξήνεγκαν αἱ Δωδωνίδες τῇ πόλει τὰ ἀκρωτήρια τῆς Ἀρτέμιδος φυλάσσειν , ὅπως ἄλλοι μὴ λάβωσι ·",
+      "translation": "For of old the mystic shapes and voices were vouchsafed to them in the midst of their most glorious successes , and brought consternation and affright upon their enemies ; [*] but now , while the same sacred ceremonies were in progress , the gods looked down with indifference upon the most grievous woes of Hellas , and the profanation of the season which had been most sweet and holy in their eyes made it for the future give its name to their greatest evils . Indeed , a few years before this the Athenians had received an oracle from Dodona bidding them guard the summits of Artemis , [*] that strangers might not seize them ;"
+    },
+    {
+      "id": "29.1",
+      "label": "Section 29.1",
+      "chapter": null,
+      "original": "ὁ δὲ Δημοσθένους ἐν Καλαυρίᾳ καὶ Ὑπερείδου πρὸς Κλεωναῖς θάνατος , περὶ ὧν ἐν ἄλλοις γέγραπται , μονονοὺκ ἔρωτα καὶ πόθον Ἀθηναίοις Ἀλεξάνδρου καὶ Φιλίππου παρίστη . καὶ τοῦτο [*] ὅπερ ὕστερον , ἀναιρεθέντος Ἀντιγόνου καὶ τῶν ἀνελόντων ἐκεῖνον ἀρξαμένων βιάζεσθαι καὶ λυπεῖν τοὺς ἀνθρώπους , ἀνὴρ ἄγροικος ἐν Φρυγίᾳ χωρίον ὀρύττων πυθομένου τινός , τί ποιεῖς ; στενάξας , Ἀντίγονον , εἶπε , ζητῶ ·",
+      "translation": "Moreover , the death of Demosthenes in Calauria , and that of Hypereides at Cleonae , about which I have written elsewhere , [*] made the Athenians yearn almost passionately for Philip and Alexander . At a later time , after Antigonus had been slain , [*] and those who slew him began to oppress and vex the people , a peasant in Phrygia who was digging on his farm was asked by someone what he was doing , and answered : I am looking for Antigonus ."
+    },
+    {
+      "id": "29.2",
+      "label": "Section 29.2",
+      "chapter": null,
+      "original": "τοῦτο [*] πολλοῖς ἐπῄει λέγειν διαμνημονεύουσι τὸν ἐκείνων τῶν βασιλέων θυμόν , ὡς τὸ μέγα καὶ γενναῖον εὐπαραίτητον εἶχον , οὐχ ὥσπερ Ἀντίπατρος ἰδιώτου προσώπῳ καὶ φαυλότητι χλαμυδίου καὶ διαίτης εὐτελείᾳ κατειρωνευόμενος τὴν ἐξουσίαν ἐπαχθέστερος ἦν τοῖς πάσχουσι κακῶς δεσπότης καὶ τύραννος .",
+      "translation": "So now many were moved to speak , as they called to mind how the greatness and generosity of those illustrious kings made their wrath easy to appease ; whereas Antipater , although he tried to conceal his power under the mask of a common man of mean attire and simple mode of life , was really a more burdensome tyrant and master to those who were in trouble ."
+    },
+    {
+      "id": "30.1",
+      "label": "Section 30.1",
+      "chapter": null,
+      "original": "τοῦ δὲ Μενύλλου δωρεὰν αὐτῷ καὶ χρήματα διδόντος , ἀπεκρίνατο μήτʼ ἐκεῖνον Ἀλεξάνδρου βελτίονα εἶναι μήτε κρείττονα τὴν αἰτίαν ἐφʼ ᾗ λήψεται νῦν ὁ τότε μὴ δεξάμενος . ἀλλὰ Φώκῳ γε τῷ παιδὶ λαβεῖν δεομένου τοῦ Μενύλλου , Φώκῳ μὲν , εἶπεν , ἐὰν μὲν σωφρονῇ μεταβαλόμενος , ἀρκέσει τὰ τοῦ πατρός · ὡς δʼ ἔχει νῦν , οὐδὲν ἱκανόν ἐστιν . Ἀντιπάτρῳ δὲ τραχύτερον ἀπεκρίνατο βουλομένῳ τι γενέσθαι διʼ αὐτοῦ τῶν μὴ πρεπόντων οὐ δύναται γὰρ , εἶπεν , Ἀντίπατρος ἅμα μοι καὶ φίλῳ καὶ κόλακι χρῆσθαι .",
+      "translation": "When Menyllus offered Phocion a gift of money , he replied that neither was Menyllus better than Alexander , [*] nor was there any stronger reason why the man who would not accept it then should take it now . Menyllus , however , begged him to take the money for his son Phocus at least , whereupon Phocion said : For Phocus , should he be converted to sobriety of life , his patrimony will be enough ; but as he is now , nothing is sufficient . Again , when Antipater desired him to do something that was not seemly , he gave him a sharper answer , saying : Antipater cannot have from me the services of friend and flatterer at once ."
+    },
+    {
+      "id": "30.2",
+      "label": "Section 30.2",
+      "chapter": null,
+      "original": "τὸν δὲ Ἀντίπατρον αὐτὸν εἰπεῖν λέγουσιν ὡς δυεῖν αὐτῷ φίλων Ἀθήνησιν ὄντων , Φωκίωνος καὶ Δημάδου , τὸν μὲν λαβεῖν οὐ πέπεικε , τὸν δὲ διδοὺς οὐκ ἐμπέπληκε . καὶ μέντοι Φωκίων μὲν ὡς ἀρετὴν ἐπεδείκνυτο τὴν πενίαν , ἐν ᾗ τοσαυτάκις Ἀθηναίων στρατηγήσας καὶ βασιλεῦσι φίλοις χρησάμενος ἐγκατεγήρασε , Δημάδης δὲ τῷ πλούτῳ καὶ παρανομῶν ἐκαλλωπίζετο .",
+      "translation": "And Antipater himself once said , as we are told , that be had two friends at Athens , Phocion and Demades ; one he could never persuade to take anything , the other he could never satisfy with his gifts . And verily Phocion displayed as a virtue the poverty in which ; though he had been so many times a general of Athens and had enjoyed the friendship of kings , he had come to old age ; whereas Demades made a great parade of his wealth , even though he was violating the laws to do so ."
+    },
+    {
+      "id": "31.1",
+      "label": "Section 31.1",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ Ἀντίπατρος ἀποδείξας Πολυσπέρχοντα στρατηγόν , Κάσανδρον δὲ χιλίαρχον , ἐξέλιπεν , εὐθὺς διαναστὰς ὁ Κάσανδρος καὶ προκαταλαμβάνων τὰ πράγματα πέμπει κατὰ τάχος Νικάνορα τῷ Μενύλλῳ διάδοχον τῆς φρουραρχίας , πρὶν ἔκδηλον τὸν Ἀντιπάτρου θάνατον γενέσθαι κελεύσας τὴν Μουνυχίαν παραλαβεῖν .",
+      "translation": "And when Antipater died , after appointing Polysperchon general-in-chief , and Cassander chiliarch , [*] Cassander at once became rebellious , promptly took the government into his own hands , and sent Nicanor with all speed to relieve Menyllus from the command of the garrison at Athens , bidding him take over Munychia before Antipater ’ s death became known ."
+    },
+    {
+      "id": "31.2",
+      "label": "Section 31.2",
+      "chapter": null,
+      "original": "γενομένου δὲ τούτου , καὶ μεθʼ ἡμέρας ὀλίγας πυθομένων τῶν Ἀθηναίων ὅτι τέθνηκεν ὁ Ἀντίπατρος , ἐν αἰτίαις ὁ Φωκίων ἦν καὶ κακῶς paris.1624.756 ἤκουεν ὡς προαισθόμενος καὶ κατασιωπήσας χάριτι τοῦ Νικάνορος . ὁ δὲ τούτων μὲν οὐκ ἐφρόντιζεν , ἐντυγχάνων δὲ τῷ Νικάνορι καὶ διαλεγόμενος εἴς τε τἆλλα τοῖς Ἀθηναίοις πρᾷον αὐτὸν καὶ κεχαρισμένον παρεῖχε , καὶ φιλοτιμίας τινὰς ἔπεισε καὶ δαπάνας ὑποστῆναι γενόμενον ἀγωνοθέτην .",
+      "translation": "This was done , and when , after a few days , the Athenians learned that Antipater was dead , [*] they blamed Phocion severely , alleging that he had known about it before and had held his peace as a favour to Nicanor . Phocion , however , paid no heed to these charges , but by interviews and discussions with Nicanor rendered him in general mild and gracious to the Athenians , and , in particular , persuaded him to undertake sundry expensive exhibitions as director of games ."
+    },
+    {
+      "id": "32.1",
+      "label": "Section 32.1",
+      "chapter": null,
+      "original": "ἐν τούτῳ δὲ καὶ Πολυσπέρχων , τὴν τοῦ βασιλέως ἐπιμέλειαν ἔχων ὑφʼ ἑαυτῷ καὶ καταπολιτευόμενος τὸν Κάσανδρον , ἔπεμψεν ἐπιστολὴν τοῖς ἐν ἄστει γεγραμμένην , ὡς τοῦ βασιλέως ἀποδιδόντος αὐτοῖς τὴν δημοκρατίαν καὶ πολιτεύεσθαι κατὰ τὰ πάτρια πάντας Ἀθηναίους κελεύοντος .",
+      "translation": "In the meantime , too , Polysperchon , who had the king [*] in his own personal charge and was seeking to thwart the schemes of Cassander , sent a letter to the citizens of Athens , announcing that the king restored to them their democracy and ordered that all Athenians should take part in the administration of the city according to their earlier polity ."
+    },
+    {
+      "id": "32.2",
+      "label": "Section 32.2",
+      "chapter": null,
+      "original": "ἦν δὲ τοῦτο κατὰ τοῦ Φωκίωνος ἐπιβουλή , συσκευαζόμενος γὰρ εἰς ἑαυτόν , ὡς μικρὸν ὕστερον ἔδειξε τοῖς ἔργοις , ὁ Πολυσπέρχων τὴν πόλιν , οὐδὲν ἤλπιζε περαίνειν μὴ τοῦ Φωκίωνος ἐκπεσόντος · ἐκπεσεῖσθαι δὲ ἐκεῖνον p.218 ἅμα τῶν ἀπεψηφισμένων ἐπιχυθέντων τῇ πολιτείᾳ καὶ πάλιν τὸ βῆμα δημαγωγῶν κατασχόντων καὶ συκοφαντῶν .",
+      "translation": "This was a plot against Phocion . For Polysperchon was scheming ( as he plainly showed a little later ) to dispose the city in his own interests , and had no hope of succeeding unless Phocion was banished ; he was sure , however , that Phocion would be banished if the disfranchised citizens overwhelmed the administration , and the tribunal was again at the mercy of demagogues and public informers ."
+    },
+    {
+      "id": "33.1",
+      "label": "Section 33.1",
+      "chapter": null,
+      "original": "πραττομένων δὲ τούτων ὁ μὲν Φωκίων ἐθορυβεῖτο καὶ κατεφρονεῖτο τοὺς Ἀθηναίους ἐξάγειν βουλόμενος , Ἀλέξανδρος δὲ ὁ Πολυσπέρχοντος υἱὸς ἧκε μετὰ δυνάμεως , λόγῳ μὲν ἐπὶ τὸν Νικάνορα τοῖς ἐν ἄστει βοηθήσων , ἔργῳ δὲ τὴν πόλιν , εἰ δύναιτο , καταληψόμενος αὐτὴν ἑαυτῇ περιπετῆ γενομένην .",
+      "translation": "In this state of affairs , Phocion , who now wished to lead the Athenians forth to battle , was stormed at and held in derision , and Alexander the son of Polysperchon came with an armed force . His ostensible design was to bring aid to the citizens against Nicanor , but he really wished to seize the city , if he could , now that she was ruinously divided against herself ."
+    },
+    {
+      "id": "33.2",
+      "label": "Section 33.2",
+      "chapter": null,
+      "original": "οἵ τε γὰρ φυγάδες αὐτῷ συνεισβαλόντες εὐθὺς ἦσαν ἐν ἄστει , καὶ τῶν ξένων ἅμα καὶ τῶν ἀτίμων πρὸς αὐτοὺς εἰσδραμόντων ἐκκλησία παμμιγὴς ἠθροίσθη καὶ ἄτακτος , ἐν ᾗ τὸν Φωκίωνα τῆς ἀρχῆς ἀπολύσαντες ἑτέρους εἵλοντο στρατηγούς , εἰ δὲ μὴ συνιὼν εἰς λόγους ὁ Ἀλέξανδρος τῷ Νικάνορι μόνος παρὰ τὸ τεῖχος ὤφθη , καὶ τοῦτο ποιοῦντες πολλάκις ὑποψίαν τοῖς Ἀθηναίοις παρέσχον , οὐκ ἂν ἡ πόλις διέφυγε τὸν κίνδυνον .",
+      "translation": "For the exiles who had burst into the country with him were at once in the city , strangers and disfranchised citizens ran in to join them , and a motley and turbulent assembly was gathered together , in which Phocion was deposed from his command and other generals were chosen . And had not Alexander been seen in close conference with Nicanor near the walls , and had not their interview , which was often repeated , rendered the Athenians suspicious , the city would not have escaped its peril ."
+    },
+    {
+      "id": "34.1",
+      "label": "Section 34.1",
+      "chapter": null,
+      "original": "τὸν δὲ Φωκίωνα καὶ τοὺς μετʼ αὐτοῦ φυλακῆς περιεχούσης , ὅσοι τῶν ἑταίρων ἔτυχον οὐκ ἐγγὺς ἑστῶτες , ὡς τοῦτο εἶδον , ἐγκαλυψάμενοι καὶ διαφυγόντες ἐσώθησαν . ἐκείνους δὲ Κλεῖτος εἷς Ἀθήνας ἀνῆγε λόγῳ μὲν κριθησομένους , ἔργῳ δὲ ἀποθανεῖν κατακεκριμένους .",
+      "translation": "A guard was now placed about Phocion and his associates , and at sight of this all of his friends who were standing at some remove covered up their faces and sought safety in flight . Phocion and his party , however , were taken back to Athens by Cleitus , ostensibly to be tried , but really under sentence of death ."
+    },
+    {
+      "id": "34.2",
+      "label": "Section 34.2",
+      "chapter": null,
+      "original": "καὶ προσῆν τὸ σχῆμα τῇ κομιδῇ λυπηρόν , ἐφʼ ἁμάξαις κομιζομένων αὐτῶν διὰ τοῦ Κεραμεικοῦ πρὸς τὸ θέατρον · ἐκεῖ γὰρ αὐτοὺς προσαγαγὼν ὁ Κλεῖτος συνεῖχεν , ἄχρι οὗ τὴν ἐκκλησίαν ἐπλήρωσαν οἱ ἄρχοντες , οὐ δοῦλον , οὐ ξένον , οὐκ ἄτιμον ἀποκρίναντες , ἀλλὰ πᾶσι καὶ πάσαις ἀναπεπταμένον τὸ βῆμα καὶ τὸ θέατρον παρασχόντες .",
+      "translation": "And besides , the manner of their return to the city was shameful , for they were carried on waggons through the Cerameicus to the theatre . For thither Cleitus brought them and there he kept them , until the magistrates had made up an assembly , from which they excluded neither slave , foreigner , nor disfranchised person , but allowed all alike , both men and women , free access to theatre and tribunal ."
+    },
+    {
+      "id": "35.1",
+      "label": "Section 35.1",
+      "chapter": null,
+      "original": "ἀναγνωσθέντος δὲ τοῦ ψηφίσματος ἠξίουν τινὲς προσγράφειν ὅπως καί στρεβλωθεὶς Φωκίων ἀποθάνοι , καί τὸν τροχὸν εἰσφέρειν καί τοὺς ὑπηρέτας καλεῖν προσέταττον . ὁ δὲ Ἁγνωνίδης καί τὸν Κλεῖτον ὁρῶν δυσχεραίνοντα καί τὸ πρᾶγμα βαρβαρικὸν εἶναι καί μιαρὸν ἡγούμενος , ὅταν , ἔφη , Καλλιμέδοντα τὸν p.228 μαστιγίαν λάβωμεν , ὦ ἄνδρες Ἀθηναῖοι , στρεβλώσομεν · περὶ δὲ Φωκίωνος οὐδὲν ἐγὼ γράφω τοιοῦτον .",
+      "translation": "After the edict had been read aloud , some demanded an additional clause providing that Phocion should be tortured before he was put to death , and insisted that the rack should be brought in and the executioners summoned . But Hagnonides , who saw that Cleitus was displeased at this , and considered the measure abominable and barbarous , said : Whenever we catch that rascally Callimedon , men of Athens , we will put him to the torture ; but I cannot make any such motion in the case of Phocion ."
+    },
+    {
+      "id": "35.2",
+      "label": "Section 35.2",
+      "chapter": null,
+      "original": "ἐνταῦθα τῶν ἐπιεικῶν τις ὑπεφώνησεν ὀρθῶς γε σὺ ποιῶν ἂν γὰρ Φωκίωνα βασανίσωμεν , σὲ τί ποιήσομεν ; ἐπικυρωθέντος δὲ τοῦ ψηφίσματος καί τῆς χειροτονίας ἀποδοθείσης , οὐδεὶς καθήμενος , ἀλλὰ πάντες ἐξαναστάντες , οἱ δὲ πλεῖστοι καί στεφανωσάμενοι , κατεχειροτόνησαν αὐτῶν θάνατον , ἦσαν δὲ σὺν τῷ Φωκίωνι Νικοκλῆς , Θούδιππος , Ἡγήμων , Πυθοκλῆς · Δημητρίου δὲ τοῦ Φαληρέως καί Καλλιμέδοντος καί Χαρικλέους καί τινων ἄλλων ἀπόντων κατεψηφίσθη θάνατος .",
+      "translation": "Here some decent fellow called out in response : Right thou art ; for if we should torture Phocion , what would be left for us to do to thee ? So the form of the edict was approved , and when the show of hands was taken , no one keeping his seat , but all rising to their feet , and most of them wreathing themselves with garlands , they condemned the men to death . Now , there were with Phocion , Nicocles , Thudippus , Hegemon , and Pythocles ; and Demetrius of Phalerum , Callimedon , Charicles , and sundry others , were condemned to death in absentia ."
+    },
+    {
+      "id": "36.1",
+      "label": "Section 36.1",
+      "chapter": null,
+      "original": "ὡς οὖν διαλύσαντες τὴν ἐκκλησίαν ἦγον εἷς τὸ δεσμωτήριον τοὺς ἄνδρας , οἱ μὲν ἄλλοι , περιπλεκομένων τῶν φίλων αὐτοῖς καὶ οἰκείων , ὀδυρόμενοι καὶ καταθρηνοῦντες ἐβάδιζον , τὸ δὲ Φωκίωνος πρόσωπον οἷον ὅτε στρατηγῶν ἀπʼ ἐκκλησίας προὐπέμπετο βλέποντες , ἐθαύμαζον τὴν ἀπάθειαν καὶ μεγαλοψυχίαν τοῦ ἀνδρός .",
+      "translation": "When , accordingly , the assembly had been dissolved and the men were being led to the prison , the rest of them , as their friends and relatives clung about them , walked along lamenting and shedding tears ; but the countenance of Phocion was the same as it used to be when he was escorted from the assembly as general , and when men saw it , they were amazed at the man ’ s calmness and at his grandeur of spirit ."
+    },
+    {
+      "id": "36.2",
+      "label": "Section 36.2",
+      "chapter": null,
+      "original": "οἱ δὲ ἐχθροὶ κακῶς ἔλεγον παρατρέχοντες εἷς δὲ καὶ προσέπτυσεν ἐξεναντίας προσελθών . ὅτε καὶ τὸν Φωκίωνα λέγεται βλέψαντα πρὸς τοὺς ἄρχοντας εἰπεῖν οὐ παύσει τις ἀσχημονοῦντα τοῦτον ; ἐπεὶ δὲ Θούδιππος ἐν τῷ δεσμωτηρίῳ γενόμενος καὶ τὸ κώνειον ὁρῶν τριβόμενον ἠγανάκτει καὶ κατέκλαιε τὴν συμφοράν , ὡς οὐ προσηκόντως τῷ Φωκίωνι συναπολλύμενος , εἶτα οὐκ ἀγαπᾷς , εἶπεν , ὅτι μετὰ Φωκίωνος ἀποθνῄσκεις ;",
+      "translation": "His enemies , however , ran along by his side and reviled him ; and one of them actually came up and spat in his face . At this , as we are told , Phocion looked towards the magistrates and said : Will not someone stop this fellow ’ s unseemly behaviour ? Again , when Thudippus , on entering the prison and seeing the executioner bruising the hemlock , grew angry and bewailed his hard fate , declaring it not fitting that he should perish with Phocion , Is it no satisfaction to thee , then , said Phocion , that thou art put to death in company with Phocion ?"
+    },
+    {
+      "id": "37.1",
+      "label": "Section 37.1",
+      "chapter": null,
+      "original": "ἦν δὲ ἡμέρα μηνὸς Μουνυχιῶνος ἐνάτη ἐπὶ δέκα , καὶ τῷ Διῒ τὴν πομπὴν πέμποντες οἱ ἱππεῖς παρεξῄεσαν ὧν οἱ μὲν ἀφείλοντο τοὺς στεφάνους , οἱ δὲ πρὸς τὰς θύρας δεδακρυμένοι τῆς εἱρκτῆς ἀπέβλεψαν . ἐφάνη δὲ τοῖς μὴ παντάπασιν ὠμοῖς καὶ διεφθαρμένοις ὑπʼ ὀργῆς καὶ φθόνου τὴν ψυχὴν , ἀνοσιώτατον γεγονέναι τὸ μηδʼ ἐπισχεῖν τὴν ἡμέραν ἐκείνην , μηδὲ καθαρεῦσαι δημοσίου φόνου τὴν πόλιν ἑορτάζουσαν .",
+      "translation": "It was the nineteenth day of the month Munychion , [*] and the horsemen conducting the procession in honour of Zeus were passing by the prison . Some of them took off their garlands , and others gazed at the door of the prison with tears in their eyes . And it was thought by all those whose souls were not wholly savage and debauched by rage and jealousy , that an impious thing had been done in not waiting over that day , and so keeping the city pure from a public execution when it was holding festival ."
+    },
+    {
+      "id": "37.2",
+      "label": "Section 37.2",
+      "chapter": null,
+      "original": "οὐ μὴν ἀλλʼ ὥσπερ ἐνδεέστερον ἠγωνισμένοις τοῖς ἐχθροῖς ἔδοξε καὶ τὸ σῶμα τοῦ Φωκίωνος ἐξορίσαι paris.1624.759 καὶ μηδὲ πῦρ ἐναῦσαι μηδένα πρὸς τὴν ταφὴν Ἀθηναίων , διὸ φίλος μὲν οὐδεὶς ἐτόλμησεν ἅψασθαι τοῦ σώματος , Κωνωπίων δέ τις , ὑπουργεῖν εἰθισμένος τὰ τοιαῦτα μισθοῦ , κομισθέντα p.232 τὸν νεκρὸν ὑπὲρ τὴν Ἐλευσῖνα , πῦρ λαβὼν ἐκ τῆς Μεγαρικῆς , ἔκαυσεν .",
+      "translation": "However , his enemies , as if their triumph were incomplete , got a decree passed that the body of Phocion should be carried beyond the boundary of the country , and that no Athenian should light a fire for his obsequies . Therefore no friend of his ventured to touch his body , but a certain Conopion , who was wont to perform such services for hire , carried the body beyond Eleusis , took fire from the Megarian territory , and burned it ."
+    },
+    {
+      "id": "38.1",
+      "label": "Section 38.1",
+      "chapter": null,
+      "original": "καὶ μέντοι χρόνου βραχέος διαγενομένου , καὶ τῶν πραγμάτων διδασκόντων οἷον ἐπιστάτην καὶ φύλακα σωφροσύνης καὶ δικαιοσύνης ὁ δῆμος ἀπώλεσεν , ἀνδριάντα μὲν αὐτοῦ χαλκοῦν ἀνέστησαν , ἔθαψαν δὲ δημοσίοις τέλεσι τὰ ὀστᾶ . τῶν δὲ κατηγόρων Ἁγνωνίδην μὲν αὐτοὶ θάνατον καταχειροτονήσαντες ἀπέκτειναν , Ἐπίκουρον δὲ καὶ Δημόφιλον ἀποδράντας ἐκ τῆς πόλεως ἀνευρὼν ὁ τοῦ Φωκίωνος υἱὸς ἐτιμωρήσατο .",
+      "translation": "And indeed , after a short time had passed , and when the course of events was teaching them what a patron and guardian of moderation and justice the people had lost , they set up a statue of him in bronze , and gave his bones a public burial . Moreover , as regards his accusers , the people themselves condemned Hagnonides and put him to death ; while Epicurus and Demophilus , who had run away from the city , were found out by Phocion ’ s son and visited with his vengeance ."
+    },
+    {
+      "id": "38.2",
+      "label": "Section 38.2",
+      "chapter": null,
+      "original": "τοῦτον οὔτε τἆλλα σπουδαῖον ἄνδρα γενέσθαι φασί , καὶ παιδίσκης ἐρῶντα παρὰ πορνοβοσκῷ τρεφομένης κατὰ τύχην Θεοδώρῳ τῷ ἀθέῳ παραγενέσθαι λόγον ἐν Λυκείῳ διαλεγομένῳ τοιοῦτον εἰ τὸ φίλον λύσασθαι μὴ αἰσχρόν ἐστιν , οὐδὲ τὸ φίλην ὁμοίως · εἰ δὲ μὴ τὸ ἑταῖρον , οὐδὲ τὸ ἑταίραν · θέμενον οὖν ἑαυτῷ πρὸς τὴν ἐπιθυμίαν τὸν λόγον ὡς εὖ ἔχοντα , λύσασθαι τὴν ἑταίραν . ἀλλὰ τὰ μὲν περὶ Φωκίωνα πραχθέντα τῶν περὶ Σωκράτην πάλιν ἀνέμνησε τοὺς Ἕλληνας , ὡς ὁμοιοτάτης ἐκείνῃ τῆς ἁμαρτίας ταύτης καὶ δυστυχίας τῇ πόλει γενομένης .",
+      "translation": "This son of Phocion , [*] we are told , turned out to be a man of no worth in general , and once , being enamoured of a girl who was kept in a brothel , chanced to hear Theodorus the Atheist discourse in the Lyceium as follows : If there is no disgrace in ransoming a man beloved , the same is true of a woman loved ; what is true of a comrade , is true also of a mistress . Accordingly , his passion leading him to think the argument sound , he ransomed his mistress . But Phocion ’ s fate reminded the Greeks anew of that of Socrates ; [*] they felt that the sin and misfortune of Athens were alike in both cases ."
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": "cato-the-younger-ayx49b-1"
+}

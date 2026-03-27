@@ -1,0 +1,151 @@
+{
+  "loebNumber": 58,
+  "sortOrder": 58,
+  "slug": "marcus-aurelius-marcus-aurelius-d1mkfg",
+  "title": "Marcus Aurelius",
+  "volumeLabel": "Marcus Aurelius",
+  "authorDisplay": "Marcus Aurelius",
+  "authors": [
+    "Marcus Aurelius"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Marcus Aurelius. Marcus Aurelius is currently filled with the closest same-author Scaife text that exposes both an original-language version and an English translation.",
+  "status": "ready",
+  "defaultChunkSlug": "pro-a-cluentio-158rgb-1",
+  "readyChunkCount": 4,
+  "contents": [
+    {
+      "id": "marcus-aurelius-w516vz",
+      "title": "Marcus Aurelius",
+      "status": "ready",
+      "sectionCount": 202,
+      "chunkSlug": "pro-a-cluentio-158rgb-1",
+      "chunks": [
+        {
+          "slug": "pro-a-cluentio-158rgb-1",
+          "label": "Pro A. Cluentio (Section 1 - Section 60)",
+          "partId": "marcus-aurelius-w516vz",
+          "partTitle": "Marcus Aurelius",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pro-a-cluentio-158rgb-2",
+          "label": "Pro A. Cluentio (Section 61 - Section 120)",
+          "partId": "marcus-aurelius-w516vz",
+          "partTitle": "Marcus Aurelius",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pro-a-cluentio-158rgb-3",
+          "label": "Pro A. Cluentio (Section 121 - Section 180)",
+          "partId": "marcus-aurelius-w516vz",
+          "partTitle": "Marcus Aurelius",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pro-a-cluentio-158rgb-4",
+          "label": "Pro A. Cluentio (Section 181 - Section 202)",
+          "partId": "marcus-aurelius-w516vz",
+          "partTitle": "Marcus Aurelius",
+          "sectionCount": 22,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "pro-a-cluentio-158rgb-1",
+      "label": "Pro A. Cluentio (Section 1 - Section 60)",
+      "partId": "marcus-aurelius-w516vz",
+      "partTitle": "Marcus Aurelius",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pro-a-cluentio-158rgb-2",
+      "label": "Pro A. Cluentio (Section 61 - Section 120)",
+      "partId": "marcus-aurelius-w516vz",
+      "partTitle": "Marcus Aurelius",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pro-a-cluentio-158rgb-3",
+      "label": "Pro A. Cluentio (Section 121 - Section 180)",
+      "partId": "marcus-aurelius-w516vz",
+      "partTitle": "Marcus Aurelius",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pro-a-cluentio-158rgb-4",
+      "label": "Pro A. Cluentio (Section 181 - Section 202)",
+      "partId": "marcus-aurelius-w516vz",
+      "partTitle": "Marcus Aurelius",
+      "sectionCount": 22,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "pro-a-cluentio-158rgb-1",
+      "partTitle": "Marcus Aurelius",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pro A. Cluentio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi010.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For A. Cluentius",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi010.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pro-a-cluentio-158rgb-2",
+      "partTitle": "Marcus Aurelius",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pro A. Cluentio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi010.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For A. Cluentius",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi010.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pro-a-cluentio-158rgb-3",
+      "partTitle": "Marcus Aurelius",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pro A. Cluentio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi010.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For A. Cluentius",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi010.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pro-a-cluentio-158rgb-4",
+      "partTitle": "Marcus Aurelius",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pro A. Cluentio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi010.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For A. Cluentius",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi010.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "loebNumber": 428,
+  "sortOrder": 428,
+  "slug": "plutarch-moralia-volume-xiv-1h5tvd",
+  "title": "Moralia, Volume XIV",
+  "volumeLabel": "Moralia, Volume XIV",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Moralia, Volume XIV. Moralia, Volume XIV opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "de-sollertia-animalium-1v6q37",
+  "readyChunkCount": 4,
+  "contents": [
+    {
+      "id": "moralia-volume-xiv-vbqih2",
+      "title": "Moralia, Volume XIV",
+      "status": "ready",
+      "sectionCount": 61,
+      "chunkSlug": "de-sollertia-animalium-1v6q37",
+      "chunks": [
+        {
+          "slug": "de-sollertia-animalium-1v6q37",
+          "label": "De sollertia animalium",
+          "partId": "moralia-volume-xiv-vbqih2",
+          "partTitle": "Moralia, Volume XIV",
+          "sectionCount": 37,
+          "status": "ready"
+        },
+        {
+          "slug": "bruta-animalia-ratione-uti-yz5dbi",
+          "label": "Bruta animalia ratione uti",
+          "partId": "moralia-volume-xiv-vbqih2",
+          "partTitle": "Moralia, Volume XIV",
+          "sectionCount": 10,
+          "status": "ready"
+        },
+        {
+          "slug": "de-esu-carnium-i-1hm9jj",
+          "label": "De esu carnium I",
+          "partId": "moralia-volume-xiv-vbqih2",
+          "partTitle": "Moralia, Volume XIV",
+          "sectionCount": 7,
+          "status": "ready"
+        },
+        {
+          "slug": "de-esu-carnium-ii-sgmknl",
+          "label": "De esu carnium II",
+          "partId": "moralia-volume-xiv-vbqih2",
+          "partTitle": "Moralia, Volume XIV",
+          "sectionCount": 7,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "de-sollertia-animalium-1v6q37",
+      "label": "De sollertia animalium",
+      "partId": "moralia-volume-xiv-vbqih2",
+      "partTitle": "Moralia, Volume XIV",
+      "sectionCount": 37,
+      "status": "ready"
+    },
+    {
+      "slug": "bruta-animalia-ratione-uti-yz5dbi",
+      "label": "Bruta animalia ratione uti",
+      "partId": "moralia-volume-xiv-vbqih2",
+      "partTitle": "Moralia, Volume XIV",
+      "sectionCount": 10,
+      "status": "ready"
+    },
+    {
+      "slug": "de-esu-carnium-i-1hm9jj",
+      "label": "De esu carnium I",
+      "partId": "moralia-volume-xiv-vbqih2",
+      "partTitle": "Moralia, Volume XIV",
+      "sectionCount": 7,
+      "status": "ready"
+    },
+    {
+      "slug": "de-esu-carnium-ii-sgmknl",
+      "label": "De esu carnium II",
+      "partId": "moralia-volume-xiv-vbqih2",
+      "partTitle": "Moralia, Volume XIV",
+      "sectionCount": 7,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "de-sollertia-animalium-1v6q37",
+      "partTitle": "Moralia, Volume XIV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πότερα τῶν ζῴων φρονιμώτερα τὰ χερσαῖα ἢ τὰ ἔνυδρα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg129.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Whether land or sea animals are cleverer",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg129.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "bruta-animalia-ratione-uti-yz5dbi",
+      "partTitle": "Moralia, Volume XIV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τοῦ τὰ ἄλογα λόγῳ χρῆσθαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg130.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Beasts are rational",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg130.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "de-esu-carnium-i-1hm9jj",
+      "partTitle": "Moralia, Volume XIV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ σαρκοφαγίας λόγος α′",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg131.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the eating of flesh I",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg131.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "de-esu-carnium-ii-sgmknl",
+      "partTitle": "Moralia, Volume XIV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ σαρκοφαγίας λόγος β′",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg132.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the eating of flesh II",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg132.perseus-eng3/"
+      }
+    }
+  ]
+}

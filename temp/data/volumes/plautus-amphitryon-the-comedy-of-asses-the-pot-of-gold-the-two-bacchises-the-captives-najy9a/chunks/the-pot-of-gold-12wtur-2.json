@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-amphitryon-the-comedy-of-asses-the-pot-of-gold-the-two-bacchises-the-captives-najy9a",
+  "volumeTitle": "Amphitryon. The Comedy of Asses. The Pot of Gold. The Two Bacchises. The Captives",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-pot-of-gold-12wtur-2",
+  "label": "The Pot of Gold (Section 2.1.151 - Section 2.2.220)",
+  "partId": "the-pot-of-gold-12wtur",
+  "partTitle": "The Pot of Gold",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Aulularia",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi003.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Aulularia, or The Concealed Treasure",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi003.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "2.1.151",
+      "label": "Section 2.1.151",
+      "chapter": null,
+      "original": "Quia míhi misero cerebrum éxcutiunt",
+      "translation": "Because , sister , your words are knocking out the brains of unfortunate me ; you are speaking stones [*] ."
+    },
+    {
+      "id": "2.1.153",
+      "label": "Section 2.1.153",
+      "chapter": null,
+      "original": "Heia , hoc face quod te iubet soror .",
+      "translation": "Well , well , do this that your sister requests you ."
+    },
+    {
+      "id": "2.1.153b",
+      "label": "Section 2.1.153b",
+      "chapter": null,
+      "original": "Si lubeat , faciam .",
+      "translation": "If she requests me , I will do it ."
+    },
+    {
+      "id": "2.1.154",
+      "label": "Section 2.1.154",
+      "chapter": null,
+      "original": "In rem hoc tuam est .",
+      "translation": "’ Tis for your own interest ."
+    },
+    {
+      "id": "2.1.154b",
+      "label": "Section 2.1.154b",
+      "chapter": null,
+      "original": "Vt quidem emoriar prius quam ducam .",
+      "translation": "Yes , for me to die before I marry ."
+    },
+    {
+      "id": "2.1.155",
+      "label": "Section 2.1.155",
+      "chapter": null,
+      "original": "sed hís legibús si quam dáre vis dúcam :",
+      "translation": "Let her who comes here to-morrow , be carried out [*] of the house the day after , sister ; on that condition , give me her whom you wish to give ; get ready the nuptials ."
+    },
+    {
+      "id": "2.1.158",
+      "label": "Section 2.1.158",
+      "chapter": null,
+      "original": "Cum máxima possúm tibi , fratér , dare dote ;",
+      "translation": "I am able , brother , to provide you with a wife with a very large marriage-portion ."
+    },
+    {
+      "id": "2.1.160",
+      "label": "Section 2.1.160",
+      "chapter": null,
+      "original": "eam sí iubes , fratér , tibi me póscere , poscam .",
+      "translation": "But she ’ s somewhat aged ; she ’ s of the middle-age of woman . If you request me , brother , to ask her for you , I ’ ll ask her ."
+    },
+    {
+      "id": "2.1.161",
+      "label": "Section 2.1.161",
+      "chapter": null,
+      "original": "Núm non vis me intérrogare te ?",
+      "translation": "Would you like me to ask you a question ?"
+    },
+    {
+      "id": "2.1.161b",
+      "label": "Section 2.1.161b",
+      "chapter": null,
+      "original": "Ímmo , si quid vís , roga .",
+      "translation": "Yes , if you like , ask it ."
+    },
+    {
+      "id": "2.1.162",
+      "label": "Section 2.1.162",
+      "chapter": null,
+      "original": "Post mediam aetatem qui media ducit uxorem domum ,",
+      "translation": "Suppose any old man , past mid-age , brings home a middle-aged wife , if by chance he should have a child by this old woman , do you doubt at all but that the name of that child is Posthumus [*] , all prepared ?"
+    },
+    {
+      "id": "2.1.165",
+      "label": "Section 2.1.165",
+      "chapter": null,
+      "original": "nunc ego istúm , soror , laborem demam et deminuam tibi .",
+      "translation": "Now , sister , I ’ ll remove and lessen this labour for you . I , by the merits of the Gods and of my forefathers , am rich enough ; these high families , haughty pride [*] , bountiful portions , acclamations , imperiousness , vehicles inlaid with ivory , superb mantles and purple , I can ’ t abide , things that by their extravagance reduce men to slavery ."
+    },
+    {
+      "id": "2.1.170",
+      "label": "Section 2.1.170",
+      "chapter": null,
+      "original": "Dic mihi , quaeso , quis ea est , quam vis ducere uxorem ?",
+      "translation": "Tell me , pray , who is she whom you would like to take for a wife ?"
+    },
+    {
+      "id": "2.1.170b",
+      "label": "Section 2.1.170b",
+      "chapter": null,
+      "original": "Eloquar .",
+      "translation": "I ’ ll tell you . Do you know that Euclio , the poor old man close by ?"
+    },
+    {
+      "id": "2.1.172",
+      "label": "Section 2.1.172",
+      "chapter": null,
+      "original": "Novi , hominem haud malum mecastor .",
+      "translation": "I know him ; not a bad sort of man , i ’ faith ."
+    },
+    {
+      "id": "line:172b",
+      "label": "Line 172b",
+      "chapter": null,
+      "original": "Eius cupio filiam",
+      "translation": "I ’ d like his maiden daughter to be promised me in marriage . Don ’ t make any words [*] about it , sister ; I know what you are going to say ; that she ’ s poor . This poor girl pleases me ."
+    },
+    {
+      "id": "2.1.175",
+      "label": "Section 2.1.175",
+      "chapter": null,
+      "original": "Di bene vortant .",
+      "translation": "May the Gods prosper it ."
+    },
+    {
+      "id": "2.1.175b",
+      "label": "Section 2.1.175b",
+      "chapter": null,
+      "original": "Idem ego spero .",
+      "translation": "I hope the same ."
+    },
+    {
+      "id": "2.1.175c",
+      "label": "Section 2.1.175c",
+      "chapter": null,
+      "original": "Quid me ? num quid vis ?",
+      "translation": "What do you want me now for ? Do you wish for anything ?"
+    },
+    {
+      "id": "2.1.175d",
+      "label": "Section 2.1.175d",
+      "chapter": null,
+      "original": "Vale .",
+      "translation": "Farewell ."
+    },
+    {
+      "id": "2.1.176",
+      "label": "Section 2.1.176",
+      "chapter": null,
+      "original": "Et tu , frater .—",
+      "translation": "And you the same , brother ."
+    },
+    {
+      "id": "2.1.176b",
+      "label": "Section 2.1.176b",
+      "chapter": null,
+      "original": "Ego conveniam Eúclionem , si domi est .",
+      "translation": "I ’ ll go meet Euclio , if he ’ s at home . But , see ! the very person is betaking himself home , whence , I know not ."
+    },
+    {
+      "id": "2.2.178",
+      "label": "Section 2.2.178",
+      "chapter": null,
+      "original": "Praesagibat mi animus frustra me ire , quom exibam domo ;",
+      "translation": "My mind had a presentiment that I was going to no purpose when I left my house ; and therefore I went unwillingly ; for neither did any one of the wardsmen come ,"
+    },
+    {
+      "id": "2.2.180",
+      "label": "Section 2.2.180",
+      "chapter": null,
+      "original": "venit neque magister quem dividere argentum oportuit .",
+      "translation": "nor yet the master of the ward , who ought to have distributed the money . Now I ’ m making all haste to hasten home ; for I myself am here , my mind ’ s at home ."
+    },
+    {
+      "id": "2.2.182",
+      "label": "Section 2.2.182",
+      "chapter": null,
+      "original": "Salvos atque fortunatus , Euclio , semper sies .",
+      "translation": "May you be well , and ever fortunate , Euclio !"
+    },
+    {
+      "id": "2.2.183",
+      "label": "Section 2.2.183",
+      "chapter": null,
+      "original": "Di te ament , Megadore .",
+      "translation": "May the Gods bless you , Megadorus !"
+    },
+    {
+      "id": "2.2.183b",
+      "label": "Section 2.2.183b",
+      "chapter": null,
+      "original": "Quid tu ? recten atque ut vis vales ?",
+      "translation": "How are you ? Are you quite well , and as you wish ?"
+    },
+    {
+      "id": "2.2.184",
+      "label": "Section 2.2.184",
+      "chapter": null,
+      "original": "Non temerarium est , ubi dives blande appellat pauperem .",
+      "translation": "It isn ’ t for nothing when a rich man accosts a poor man courteously ;"
+    },
+    {
+      "id": "2.2.185",
+      "label": "Section 2.2.185",
+      "chapter": null,
+      "original": "iam illic homo aurum scit me habere , eo me salutat blandius .",
+      "translation": "now this fellow knows that I ’ ve got some gold ; for that reason he salutes me more courteously ."
+    },
+    {
+      "id": "2.2.186",
+      "label": "Section 2.2.186",
+      "chapter": null,
+      "original": "Ain tu te valere ?",
+      "translation": "Do you say that you are well ?"
+    },
+    {
+      "id": "2.2.186b",
+      "label": "Section 2.2.186b",
+      "chapter": null,
+      "original": "Pol ego haud perbene a pecunia .",
+      "translation": "Troth , I ’ m not very well in the money line ."
+    },
+    {
+      "id": "2.2.187",
+      "label": "Section 2.2.187",
+      "chapter": null,
+      "original": "Pol si est animus aequos tibi , sat hábes qui bene vitam colas .",
+      "translation": "I ’ faith , if you ’ ve a contented mind , you have enough to passing a good life with ."
+    },
+    {
+      "id": "2.2.188",
+      "label": "Section 2.2.188",
+      "chapter": null,
+      "original": "Anus hercle huic indicium fecit de auro , perspicue palam est ,",
+      "translation": "By my faith , the old woman has made a discovery to him about the gold ; ’ tis clear it ’ s all out . I ’ ll cut off her tongue , and tear out her eyes , when I get home ."
+    },
+    {
+      "id": "2.2.190",
+      "label": "Section 2.2.190",
+      "chapter": null,
+      "original": "Quid tu solus tecum loquere ?",
+      "translation": "Why are you talking to yourself ?"
+    },
+    {
+      "id": "2.2.190b",
+      "label": "Section 2.2.190b",
+      "chapter": null,
+      "original": "Meam pauperiem conqueror .",
+      "translation": "I ’ m lamenting my poverty ; I ’ ve a grown-up girl without a portion , and one that can ’ t be disposed of in marriage ; nor have I the ability to marry her to anybody ."
+    },
+    {
+      "id": "2.2.192b",
+      "label": "Section 2.2.192b",
+      "chapter": null,
+      "original": "Tace , bonum habe animum , Euclio .",
+      "translation": "Hold your peace ; be of good courage , Euclio : she shall be given in marriaye ; you shall be assisted by myself . Say , if you have need of aught ; command me ."
+    },
+    {
+      "id": "2.2.194",
+      "label": "Section 2.2.194",
+      "chapter": null,
+      "original": "Nunc petit , cum pollicetur ; inhiat aurum ut devoret .",
+      "translation": "Now is he aiming at my property , while he ’ s making promises ; he ’ s gaping for my gold , that he may devour it ;"
+    },
+    {
+      "id": "2.2.195",
+      "label": "Section 2.2.195",
+      "chapter": null,
+      "original": "altera manu fert lapidem , panem ostentat altera .",
+      "translation": "in the one hand he is carrying a stone [*] . while he shows the bread in the other . I trust no person , who , rich himself , is exceedingly courteous to a poor man ; when he extends his hand with a kind air , then is he loading you with some damage . I know these polypi [*] , who , when they ’ ve touched a thing , hold it fast ."
+    },
+    {
+      "id": "2.2.199",
+      "label": "Section 2.2.199",
+      "chapter": null,
+      "original": "Da mi operam parumper . paucis , Euclio , est quod te volo",
+      "translation": "Give me your attention , Euclio , for a little time : I wish to address you in a few words ,"
+    },
+    {
+      "id": "2.2.200",
+      "label": "Section 2.2.200",
+      "chapter": null,
+      "original": "de communi re appellare mea et tua .",
+      "translation": "about a common concern of yours and mine ."
+    },
+    {
+      "id": "2.2.200b",
+      "label": "Section 2.2.200b",
+      "chapter": null,
+      "original": "Ei misero mihi ,",
+      "translation": "Alas ! woe is me ! my gold has been grabbed from in-doors : now he ’ s wishing for this thing , I ’ m sure , to come to a compromise with me ; but I ’ ll go look in my house ."
+    },
+    {
+      "id": "2.2.203",
+      "label": "Section 2.2.203",
+      "chapter": null,
+      "original": "Quo abis ?",
+      "translation": "Where are you going ?"
+    },
+    {
+      "id": "2.2.203b",
+      "label": "Section 2.2.203b",
+      "chapter": null,
+      "original": "Iam ad te revortar : nunc est quod visam domum .—",
+      "translation": "I ’ ll return to you directly , for there ’ s something I must go and see to at home ."
+    },
+    {
+      "id": "2.2.204",
+      "label": "Section 2.2.204",
+      "chapter": null,
+      "original": "Credo edepol , ubi mentionem ego fecero de filia ,",
+      "translation": "By my troth , I do believe that when I make mention of his daughter ,"
+    },
+    {
+      "id": "2.2.205",
+      "label": "Section 2.2.205",
+      "chapter": null,
+      "original": "mi ut despondeat , sese a me derideri rebitur ;",
+      "translation": "for him to promise her to me , he ’ ll suppose that he ’ s being laughed at by me ; nor is there out of the whole class of paupers one more beggarly than he ."
+    },
+    {
+      "id": "2.2.207",
+      "label": "Section 2.2.207",
+      "chapter": null,
+      "original": "Di me servant , salva res est . salvom est si quid non perit .",
+      "translation": "The Gods do favour me ; my property ’ s all safe . If nothing ’ s lost , it ’ s safe . I was very dreadfully afraid , before I went in-doors ! I was almost dead ! ( Aloud .) I ’ m come back to you , Megadorus , if you wish to say anything tome ."
+    },
+    {
+      "id": "2.2.209b",
+      "label": "Section 2.2.209b",
+      "chapter": null,
+      "original": "Habeo gratiam .",
+      "translation": "I return you thanks ; I beg that as to what I shall enquire of you , you ’ ll not hesitate to speak out boldly ."
+    },
+    {
+      "id": "2.2.211",
+      "label": "Section 2.2.211",
+      "chapter": null,
+      "original": "Dum quidem né quid perconteris quod non lubeat proloqui .",
+      "translation": "So long , indeed , as you enquire nothing that I mayn ’ t choose to speak out upon ."
+    },
+    {
+      "id": "2.2.212",
+      "label": "Section 2.2.212",
+      "chapter": null,
+      "original": "Dic mihi , quali me arbitrare genere prognatum ?",
+      "translation": "Tell me , of what sort of family do you consider me to be sprung ?"
+    },
+    {
+      "id": "2.2.212b",
+      "label": "Section 2.2.212b",
+      "chapter": null,
+      "original": "Bono .",
+      "translation": "Of a good one ."
+    },
+    {
+      "id": "2.2.213",
+      "label": "Section 2.2.213",
+      "chapter": null,
+      "original": "Quid fide ?",
+      "translation": "What think you as to my character ?"
+    },
+    {
+      "id": "2.2.213b",
+      "label": "Section 2.2.213b",
+      "chapter": null,
+      "original": "Bona .",
+      "translation": "’ Tis a good one ."
+    },
+    {
+      "id": "2.2.213c",
+      "label": "Section 2.2.213c",
+      "chapter": null,
+      "original": "Quid factis ?",
+      "translation": "What of my conduct ?"
+    },
+    {
+      "id": "2.2.213d",
+      "label": "Section 2.2.213d",
+      "chapter": null,
+      "original": "Neque malis neque improbis .",
+      "translation": "Neither bad nor dishonest ."
+    },
+    {
+      "id": "2.2.214",
+      "label": "Section 2.2.214",
+      "chapter": null,
+      "original": "Aetatem meam scís ?",
+      "translation": "Do you know my years ?"
+    },
+    {
+      "id": "2.2.214b",
+      "label": "Section 2.2.214b",
+      "chapter": null,
+      "original": "Scio esse grandem , item ut pecuniam .",
+      "translation": "I know that they are plentiful , just like your money ."
+    },
+    {
+      "id": "2.2.215",
+      "label": "Section 2.2.215",
+      "chapter": null,
+      "original": "Certe edepol equidem te civem sine mala omni malitia",
+      "translation": "I ’ faith , for sure I really did always take you to be a citizen without any evil guile , and now I think you so ."
+    },
+    {
+      "id": "2.2.216b",
+      "label": "Section 2.2.216b",
+      "chapter": null,
+      "original": "Aurum huic olet .",
+      "translation": "He smells the gold . ( Aloud .) What do you want with me now ?"
+    },
+    {
+      "id": "2.2.217b",
+      "label": "Section 2.2.217b",
+      "chapter": null,
+      "original": "Quoniam tu me et ego te qualis sis scio ,",
+      "translation": "Since you know me , and I know you , what sort of person you are — a thing , that may it bring a blessing on myself , and you and your daughter , I ask your daughter as my wife . Promise me that it shall be so ."
+    },
+    {
+      "id": "2.2.220",
+      "label": "Section 2.2.220",
+      "chapter": null,
+      "original": "Heia , Megadore , haud decorum facinus tuis factis facis ,",
+      "translation": "Heyday ! Megadorus , you are doing a deed that ’ s not becoming to your usual actions , in laughing at me , a poor man , and guiltless towards yourself and towards your family . For neither in act , nor in words , have I ever deserved it of you , that you should do what you are now doing ."
+    }
+  ],
+  "prevChunkSlug": "the-pot-of-gold-12wtur-1",
+  "nextChunkSlug": "the-pot-of-gold-12wtur-3"
+}

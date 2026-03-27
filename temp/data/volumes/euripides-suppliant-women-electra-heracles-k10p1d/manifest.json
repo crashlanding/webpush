@@ -1,0 +1,889 @@
+{
+  "loebNumber": 9,
+  "sortOrder": 9,
+  "slug": "euripides-suppliant-women-electra-heracles-k10p1d",
+  "title": "Suppliant Women. Electra. Heracles",
+  "volumeLabel": "Suppliant Women. Electra. Heracles",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Suppliant Women. Electra. Heracles, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "suppliant-women-7f9w7a-1",
+  "readyChunkCount": 28,
+  "contents": [
+    {
+      "id": "suppliant-women-7f9w7a",
+      "title": "Suppliant Women",
+      "status": "ready",
+      "sectionCount": 475,
+      "chunkSlug": "suppliant-women-7f9w7a-1",
+      "chunks": [
+        {
+          "slug": "suppliant-women-7f9w7a-1",
+          "label": "Suppliant Women (Section 1 - Section 137)",
+          "partId": "suppliant-women-7f9w7a",
+          "partTitle": "Suppliant Women",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "suppliant-women-7f9w7a-2",
+          "label": "Suppliant Women (Section 138 - Section 292)",
+          "partId": "suppliant-women-7f9w7a",
+          "partTitle": "Suppliant Women",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "suppliant-women-7f9w7a-3",
+          "label": "Suppliant Women (Section 292b - Section 495)",
+          "partId": "suppliant-women-7f9w7a",
+          "partTitle": "Suppliant Women",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "suppliant-women-7f9w7a-4",
+          "label": "Suppliant Women (Section 500 - Section 2.631)",
+          "partId": "suppliant-women-7f9w7a",
+          "partTitle": "Suppliant Women",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "suppliant-women-7f9w7a-5",
+          "label": "Suppliant Women (Section 634 - Section 795)",
+          "partId": "suppliant-women-7f9w7a",
+          "partTitle": "Suppliant Women",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "suppliant-women-7f9w7a-6",
+          "label": "Suppliant Women (Section 2.798 - Section 939)",
+          "partId": "suppliant-women-7f9w7a",
+          "partTitle": "Suppliant Women",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "suppliant-women-7f9w7a-7",
+          "label": "Suppliant Women (Section 940 - Section 1076)",
+          "partId": "suppliant-women-7f9w7a",
+          "partTitle": "Suppliant Women",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "suppliant-women-7f9w7a-8",
+          "label": "Suppliant Women (Section 1077 - Section 1232)",
+          "partId": "suppliant-women-7f9w7a",
+          "partTitle": "Suppliant Women",
+          "sectionCount": 55,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "electra-wuse",
+      "title": "Electra",
+      "status": "ready",
+      "sectionCount": 568,
+      "chunkSlug": "electra-wuse-1",
+      "chunks": [
+        {
+          "slug": "electra-wuse-1",
+          "label": "Electra (Section 1 - Section 224)",
+          "partId": "electra-wuse",
+          "partTitle": "Electra",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "electra-wuse-2",
+          "label": "Electra (Section 225 - Section 284)",
+          "partId": "electra-wuse",
+          "partTitle": "Electra",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "electra-wuse-3",
+          "label": "Electra (Section 285 - Section 2.460)",
+          "partId": "electra-wuse",
+          "partTitle": "Electra",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "electra-wuse-4",
+          "label": "Electra (Section 2.464 - Section 595)",
+          "partId": "electra-wuse",
+          "partTitle": "Electra",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "electra-wuse-5",
+          "label": "Electra (Section 596 - Section 668)",
+          "partId": "electra-wuse",
+          "partTitle": "Electra",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "electra-wuse-6",
+          "label": "Electra (Section 669 - Section 800)",
+          "partId": "electra-wuse",
+          "partTitle": "Electra",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "electra-wuse-7",
+          "label": "Electra (Section 805 - Section 979)",
+          "partId": "electra-wuse",
+          "partTitle": "Electra",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "electra-wuse-8",
+          "label": "Electra (Section 980 - Section 1131)",
+          "partId": "electra-wuse",
+          "partTitle": "Electra",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "electra-wuse-9",
+          "label": "Electra (Section 1132 - Section 1300)",
+          "partId": "electra-wuse",
+          "partTitle": "Electra",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "electra-wuse-10",
+          "label": "Electra (Section 1301 - Section 1357)",
+          "partId": "electra-wuse",
+          "partTitle": "Electra",
+          "sectionCount": 28,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "heracles-1pnoix",
+      "title": "Heracles",
+      "status": "ready",
+      "sectionCount": 550,
+      "chunkSlug": "heracles-1pnoix-1",
+      "chunks": [
+        {
+          "slug": "heracles-1pnoix-1",
+          "label": "Heracles (Section 1 - Section 238)",
+          "partId": "heracles-1pnoix",
+          "partTitle": "Heracles",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "heracles-1pnoix-2",
+          "label": "Heracles (Section 240 - Section 3.436)",
+          "partId": "heracles-1pnoix",
+          "partTitle": "Heracles",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "heracles-1pnoix-3",
+          "label": "Heracles (Section 3.440 - Section 580)",
+          "partId": "heracles-1pnoix",
+          "partTitle": "Heracles",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "heracles-1pnoix-4",
+          "label": "Heracles (Section 583 - Section 1.735)",
+          "partId": "heracles-1pnoix",
+          "partTitle": "Heracles",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "heracles-1pnoix-5",
+          "label": "Heracles (Section 1.740 - Section 901)",
+          "partId": "heracles-1pnoix",
+          "partTitle": "Heracles",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "heracles-1pnoix-6",
+          "label": "Heracles (Section 904 - Section 1060b)",
+          "partId": "heracles-1pnoix",
+          "partTitle": "Heracles",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "heracles-1pnoix-7",
+          "label": "Heracles (Section 1060c - Section 1146)",
+          "partId": "heracles-1pnoix",
+          "partTitle": "Heracles",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "heracles-1pnoix-8",
+          "label": "Heracles (Section 1150 - Section 1252)",
+          "partId": "heracles-1pnoix",
+          "partTitle": "Heracles",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "heracles-1pnoix-9",
+          "label": "Heracles (Section 1253 - Section 1418b)",
+          "partId": "heracles-1pnoix",
+          "partTitle": "Heracles",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "heracles-1pnoix-10",
+          "label": "Heracles (Section 1418c - Section 1427)",
+          "partId": "heracles-1pnoix",
+          "partTitle": "Heracles",
+          "sectionCount": 10,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "suppliant-women-7f9w7a-1",
+      "label": "Suppliant Women (Section 1 - Section 137)",
+      "partId": "suppliant-women-7f9w7a",
+      "partTitle": "Suppliant Women",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "suppliant-women-7f9w7a-2",
+      "label": "Suppliant Women (Section 138 - Section 292)",
+      "partId": "suppliant-women-7f9w7a",
+      "partTitle": "Suppliant Women",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "suppliant-women-7f9w7a-3",
+      "label": "Suppliant Women (Section 292b - Section 495)",
+      "partId": "suppliant-women-7f9w7a",
+      "partTitle": "Suppliant Women",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "suppliant-women-7f9w7a-4",
+      "label": "Suppliant Women (Section 500 - Section 2.631)",
+      "partId": "suppliant-women-7f9w7a",
+      "partTitle": "Suppliant Women",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "suppliant-women-7f9w7a-5",
+      "label": "Suppliant Women (Section 634 - Section 795)",
+      "partId": "suppliant-women-7f9w7a",
+      "partTitle": "Suppliant Women",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "suppliant-women-7f9w7a-6",
+      "label": "Suppliant Women (Section 2.798 - Section 939)",
+      "partId": "suppliant-women-7f9w7a",
+      "partTitle": "Suppliant Women",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "suppliant-women-7f9w7a-7",
+      "label": "Suppliant Women (Section 940 - Section 1076)",
+      "partId": "suppliant-women-7f9w7a",
+      "partTitle": "Suppliant Women",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "suppliant-women-7f9w7a-8",
+      "label": "Suppliant Women (Section 1077 - Section 1232)",
+      "partId": "suppliant-women-7f9w7a",
+      "partTitle": "Suppliant Women",
+      "sectionCount": 55,
+      "status": "ready"
+    },
+    {
+      "slug": "electra-wuse-1",
+      "label": "Electra (Section 1 - Section 224)",
+      "partId": "electra-wuse",
+      "partTitle": "Electra",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "electra-wuse-2",
+      "label": "Electra (Section 225 - Section 284)",
+      "partId": "electra-wuse",
+      "partTitle": "Electra",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "electra-wuse-3",
+      "label": "Electra (Section 285 - Section 2.460)",
+      "partId": "electra-wuse",
+      "partTitle": "Electra",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "electra-wuse-4",
+      "label": "Electra (Section 2.464 - Section 595)",
+      "partId": "electra-wuse",
+      "partTitle": "Electra",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "electra-wuse-5",
+      "label": "Electra (Section 596 - Section 668)",
+      "partId": "electra-wuse",
+      "partTitle": "Electra",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "electra-wuse-6",
+      "label": "Electra (Section 669 - Section 800)",
+      "partId": "electra-wuse",
+      "partTitle": "Electra",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "electra-wuse-7",
+      "label": "Electra (Section 805 - Section 979)",
+      "partId": "electra-wuse",
+      "partTitle": "Electra",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "electra-wuse-8",
+      "label": "Electra (Section 980 - Section 1131)",
+      "partId": "electra-wuse",
+      "partTitle": "Electra",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "electra-wuse-9",
+      "label": "Electra (Section 1132 - Section 1300)",
+      "partId": "electra-wuse",
+      "partTitle": "Electra",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "electra-wuse-10",
+      "label": "Electra (Section 1301 - Section 1357)",
+      "partId": "electra-wuse",
+      "partTitle": "Electra",
+      "sectionCount": 28,
+      "status": "ready"
+    },
+    {
+      "slug": "heracles-1pnoix-1",
+      "label": "Heracles (Section 1 - Section 238)",
+      "partId": "heracles-1pnoix",
+      "partTitle": "Heracles",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "heracles-1pnoix-2",
+      "label": "Heracles (Section 240 - Section 3.436)",
+      "partId": "heracles-1pnoix",
+      "partTitle": "Heracles",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "heracles-1pnoix-3",
+      "label": "Heracles (Section 3.440 - Section 580)",
+      "partId": "heracles-1pnoix",
+      "partTitle": "Heracles",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "heracles-1pnoix-4",
+      "label": "Heracles (Section 583 - Section 1.735)",
+      "partId": "heracles-1pnoix",
+      "partTitle": "Heracles",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "heracles-1pnoix-5",
+      "label": "Heracles (Section 1.740 - Section 901)",
+      "partId": "heracles-1pnoix",
+      "partTitle": "Heracles",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "heracles-1pnoix-6",
+      "label": "Heracles (Section 904 - Section 1060b)",
+      "partId": "heracles-1pnoix",
+      "partTitle": "Heracles",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "heracles-1pnoix-7",
+      "label": "Heracles (Section 1060c - Section 1146)",
+      "partId": "heracles-1pnoix",
+      "partTitle": "Heracles",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "heracles-1pnoix-8",
+      "label": "Heracles (Section 1150 - Section 1252)",
+      "partId": "heracles-1pnoix",
+      "partTitle": "Heracles",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "heracles-1pnoix-9",
+      "label": "Heracles (Section 1253 - Section 1418b)",
+      "partId": "heracles-1pnoix",
+      "partTitle": "Heracles",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "heracles-1pnoix-10",
+      "label": "Heracles (Section 1418c - Section 1427)",
+      "partId": "heracles-1pnoix",
+      "partTitle": "Heracles",
+      "sectionCount": 10,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "suppliant-women-7f9w7a-1",
+      "partTitle": "Suppliant Women",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἱκέτιδες",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg008.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Suppliants",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg008.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "suppliant-women-7f9w7a-2",
+      "partTitle": "Suppliant Women",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἱκέτιδες",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg008.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Suppliants",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg008.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "suppliant-women-7f9w7a-3",
+      "partTitle": "Suppliant Women",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἱκέτιδες",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg008.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Suppliants",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg008.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "suppliant-women-7f9w7a-4",
+      "partTitle": "Suppliant Women",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἱκέτιδες",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg008.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Suppliants",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg008.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "suppliant-women-7f9w7a-5",
+      "partTitle": "Suppliant Women",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἱκέτιδες",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg008.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Suppliants",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg008.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "suppliant-women-7f9w7a-6",
+      "partTitle": "Suppliant Women",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἱκέτιδες",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg008.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Suppliants",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg008.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "suppliant-women-7f9w7a-7",
+      "partTitle": "Suppliant Women",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἱκέτιδες",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg008.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Suppliants",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg008.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "suppliant-women-7f9w7a-8",
+      "partTitle": "Suppliant Women",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἱκέτιδες",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg008.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Suppliants",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg008.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "electra-wuse-1",
+      "partTitle": "Electra",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἠλέκτρα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Electra",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "electra-wuse-2",
+      "partTitle": "Electra",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἠλέκτρα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Electra",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "electra-wuse-3",
+      "partTitle": "Electra",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἠλέκτρα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Electra",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "electra-wuse-4",
+      "partTitle": "Electra",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἠλέκτρα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Electra",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "electra-wuse-5",
+      "partTitle": "Electra",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἠλέκτρα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Electra",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "electra-wuse-6",
+      "partTitle": "Electra",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἠλέκτρα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Electra",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "electra-wuse-7",
+      "partTitle": "Electra",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἠλέκτρα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Electra",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "electra-wuse-8",
+      "partTitle": "Electra",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἠλέκτρα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Electra",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "electra-wuse-9",
+      "partTitle": "Electra",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἠλέκτρα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Electra",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "electra-wuse-10",
+      "partTitle": "Electra",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἠλέκτρα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Electra",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "heracles-1pnoix-1",
+      "partTitle": "Heracles",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἡρακλῆς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg009.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Heracles Mad",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg009.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "heracles-1pnoix-2",
+      "partTitle": "Heracles",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἡρακλῆς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg009.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Heracles Mad",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg009.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "heracles-1pnoix-3",
+      "partTitle": "Heracles",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἡρακλῆς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg009.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Heracles Mad",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg009.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "heracles-1pnoix-4",
+      "partTitle": "Heracles",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἡρακλῆς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg009.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Heracles Mad",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg009.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "heracles-1pnoix-5",
+      "partTitle": "Heracles",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἡρακλῆς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg009.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Heracles Mad",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg009.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "heracles-1pnoix-6",
+      "partTitle": "Heracles",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἡρακλῆς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg009.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Heracles Mad",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg009.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "heracles-1pnoix-7",
+      "partTitle": "Heracles",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἡρακλῆς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg009.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Heracles Mad",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg009.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "heracles-1pnoix-8",
+      "partTitle": "Heracles",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἡρακλῆς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg009.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Heracles Mad",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg009.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "heracles-1pnoix-9",
+      "partTitle": "Heracles",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἡρακλῆς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg009.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Heracles Mad",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg009.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "heracles-1pnoix-10",
+      "partTitle": "Heracles",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἡρακλῆς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg009.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Heracles Mad",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg009.perseus-eng2/"
+      }
+    }
+  ]
+}

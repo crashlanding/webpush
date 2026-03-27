@@ -1,0 +1,103 @@
+{
+  "loebNumber": 232,
+  "sortOrder": 232,
+  "slug": "ovid-art-of-love-cosmetics-remedies-for-love-ibis-walnut-tree-sea-fishing-consolation-d7csbc",
+  "title": "Art of Love. Cosmetics. Remedies for Love. Ibis. Walnut-tree. Sea Fishing. Consolation",
+  "volumeLabel": "Art of Love. Cosmetics. Remedies for Love. Ibis. Walnut-tree. Sea Fishing. Consolation",
+  "authorDisplay": "Ovid",
+  "authors": [
+    "Ovid"
+  ],
+  "language": "latin",
+  "summary": "1 of 7 contents in Art of Love. Cosmetics. Remedies for Love. Ibis. Walnut-tree. Sea Fishing. Consolation are live from Scaife, while the remaining contents stay visible until a confident pair is available.",
+  "status": "partial",
+  "defaultChunkSlug": "art-of-love-r41g0u",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "art-of-love-r41g0u",
+      "title": "Art of Love",
+      "status": "ready",
+      "sectionCount": 3,
+      "chunkSlug": "art-of-love-r41g0u",
+      "chunks": [
+        {
+          "slug": "art-of-love-r41g0u",
+          "label": "Art of Love",
+          "partId": "art-of-love-r41g0u",
+          "partTitle": "Art of Love",
+          "sectionCount": 3,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "cosmetics-pgdv8k",
+      "title": "Cosmetics",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "The original and English Scaife TOCs could not be aligned."
+    },
+    {
+      "id": "remedies-for-love-1950cl",
+      "title": "Remedies for Love",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "The original and English Scaife TOCs could not be aligned."
+    },
+    {
+      "id": "ibis-1cpb7",
+      "title": "Ibis",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Ibis."
+    },
+    {
+      "id": "walnut-tree-lxfx5s",
+      "title": "Walnut-tree",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Walnut-tree."
+    },
+    {
+      "id": "sea-fishing-ihfnd",
+      "title": "Sea Fishing",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Sea Fishing."
+    },
+    {
+      "id": "consolation-1uukur",
+      "title": "Consolation",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Consolation."
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "art-of-love-r41g0u",
+      "label": "Art of Love",
+      "partId": "art-of-love-r41g0u",
+      "partTitle": "Art of Love",
+      "sectionCount": 3,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "art-of-love-r41g0u",
+      "partTitle": "Art of Love",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ars Amatoria",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0959.phi004.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Art of Love",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0959.phi004.perseus-eng2/"
+      }
+    }
+  ]
+}

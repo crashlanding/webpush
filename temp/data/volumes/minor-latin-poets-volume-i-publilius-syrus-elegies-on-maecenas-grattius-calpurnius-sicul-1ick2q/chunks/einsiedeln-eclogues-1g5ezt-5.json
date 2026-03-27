@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "minor-latin-poets-volume-i-publilius-syrus-elegies-on-maecenas-grattius-calpurnius-sicul-1ick2q",
+  "volumeTitle": "Volume I: Publilius Syrus. Elegies on Maecenas. Grattius. Calpurnius Siculus. Laus Pisonis. Einsiedeln Eclogues. Aetna",
+  "authorDisplay": "Minor Latin Poets",
+  "authors": [
+    "Minor Latin Poets"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "einsiedeln-eclogues-1g5ezt-5",
+  "label": "Einsiedeln Eclogues (Section 9.1 - Section 10.30)",
+  "partId": "einsiedeln-eclogues-1g5ezt",
+  "partTitle": "Einsiedeln Eclogues",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Eclogues",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Eclogues",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "9.1",
+      "label": "Section 9.1",
+      "chapter": null,
+      "original": "te , Moeri , pedes ? an , quo via ducit , in urbem ?",
+      "translation": "Say whither , Moeris ?— Make you for the town ,"
+    },
+    {
+      "id": "9.2",
+      "label": "Section 9.2",
+      "chapter": null,
+      "original": "O Lycida , vivi pervenimus , advena nostri",
+      "translation": "or on what errand bent ?"
+    },
+    {
+      "id": "9.3",
+      "label": "Section 9.3",
+      "chapter": null,
+      "original": "( quod numquam veriti sumus ) ut possessor agelli",
+      "translation": "O Lycidas ,"
+    },
+    {
+      "id": "9.4",
+      "label": "Section 9.4",
+      "chapter": null,
+      "original": "diceret : “ Haec mea sunt ; veteres migrate coloni !”",
+      "translation": "we have lived to see , what never yet we feared ,"
+    },
+    {
+      "id": "9.5",
+      "label": "Section 9.5",
+      "chapter": null,
+      "original": "nunc victi , tristes , quoniam Fors omnia versat ,",
+      "translation": "an interloper own our little farm ,"
+    },
+    {
+      "id": "9.6",
+      "label": "Section 9.6",
+      "chapter": null,
+      "original": "hos illi — quod nec vertat bene — mittimus haedos .",
+      "translation": "and say , “ Be off , you former husbandmen !"
+    },
+    {
+      "id": "9.7",
+      "label": "Section 9.7",
+      "chapter": null,
+      "original": "Certe equidem audieram , qua se subducere colles",
+      "translation": "These fields are mine .” Now , cowed and out of heart ,"
+    },
+    {
+      "id": "9.8",
+      "label": "Section 9.8",
+      "chapter": null,
+      "original": "incipiunt , mollique iugum demittere clivo ,",
+      "translation": "since Fortune turns the whole world upside down ,"
+    },
+    {
+      "id": "9.9",
+      "label": "Section 9.9",
+      "chapter": null,
+      "original": "usque ad aquam et veteres ( iam fracta cacumina ) fagos",
+      "translation": "we are taking him — ill luck go with the same !—"
+    },
+    {
+      "id": "9.10",
+      "label": "Section 9.10",
+      "chapter": null,
+      "original": "omnia carminibus vestrum servasse Menalcan .",
+      "translation": "these kids you see ."
+    },
+    {
+      "id": "9.11",
+      "label": "Section 9.11",
+      "chapter": null,
+      "original": "Audieras , et fama fuit ; sed carmina tantum",
+      "translation": "But surely I had heard"
+    },
+    {
+      "id": "9.12",
+      "label": "Section 9.12",
+      "chapter": null,
+      "original": "nostra valent , Lycida , tela inter Martia , quantum",
+      "translation": "that where the hills first draw from off the plain ,"
+    },
+    {
+      "id": "9.13",
+      "label": "Section 9.13",
+      "chapter": null,
+      "original": "Chaonias dicunt aquila veniente columbas .",
+      "translation": "and the high ridge with gentle slope descends ,"
+    },
+    {
+      "id": "9.14",
+      "label": "Section 9.14",
+      "chapter": null,
+      "original": "quod nisi me quacumque novas incidere lites",
+      "translation": "down to the brook-side and the broken crests"
+    },
+    {
+      "id": "9.15",
+      "label": "Section 9.15",
+      "chapter": null,
+      "original": "ante Sinistra cava monuisset ab ilice cornix ,",
+      "translation": "of yonder veteran beeches , all the land"
+    },
+    {
+      "id": "9.16",
+      "label": "Section 9.16",
+      "chapter": null,
+      "original": "nec tuus hic Moeris , nec viveret ipse Menalcas .",
+      "translation": "was by the songs of your Menalcas saved ."
+    },
+    {
+      "id": "9.17",
+      "label": "Section 9.17",
+      "chapter": null,
+      "original": "Heu , cadit in quemquam tantum scelus ? Heu , tua nobis",
+      "translation": "Heard it you had , and so the rumour ran ,"
+    },
+    {
+      "id": "9.18",
+      "label": "Section 9.18",
+      "chapter": null,
+      "original": "paene simul tecum solatia rapta , Menalca ?",
+      "translation": "but ' mid the clash of arms , my Lycidas ,"
+    },
+    {
+      "id": "9.19",
+      "label": "Section 9.19",
+      "chapter": null,
+      "original": "quis caneret nymphas ; quis humum florentibus herbis",
+      "translation": "our songs avail no more than , as ' tis said ,"
+    },
+    {
+      "id": "9.20",
+      "label": "Section 9.20",
+      "chapter": null,
+      "original": "spargeret , aut viridi fontes induceret umbra ?",
+      "translation": "doves of Dodona when an eagle comes ."
+    },
+    {
+      "id": "9.21",
+      "label": "Section 9.21",
+      "chapter": null,
+      "original": "vel quae sublegi tacitus tibi carmina nuper ,",
+      "translation": "Nay , had I not , from hollow ilex-bole"
+    },
+    {
+      "id": "9.22",
+      "label": "Section 9.22",
+      "chapter": null,
+      "original": "cum te ad delicias ferres , Amaryllida , nostras ?",
+      "translation": "warned by a raven on the left , cut short"
+    },
+    {
+      "id": "9.23",
+      "label": "Section 9.23",
+      "chapter": null,
+      "original": "Tityre , dum redeo — brevis est via — pasce capellas ,",
+      "translation": "the rising feud , nor I , your Moeris here ,"
+    },
+    {
+      "id": "9.24",
+      "label": "Section 9.24",
+      "chapter": null,
+      "original": "et potum pastas age , Tityre , et inter agendum",
+      "translation": "no , nor Menalcas , were alive to-day ."
+    },
+    {
+      "id": "9.25",
+      "label": "Section 9.25",
+      "chapter": null,
+      "original": "occursare capro , cornu ferit ille , caveto .",
+      "translation": "Alack ! could any of so foul a crime"
+    },
+    {
+      "id": "9.26",
+      "label": "Section 9.26",
+      "chapter": null,
+      "original": "Immo haec , quae Varo necdum perfecta canebat :",
+      "translation": "be guilty ? Ah ! how nearly , thyself ,"
+    },
+    {
+      "id": "9.27",
+      "label": "Section 9.27",
+      "chapter": null,
+      "original": "“ Vare , tuum nomen , superet modo Mantua nobis —",
+      "translation": "reft was the solace that we had in thee ,"
+    },
+    {
+      "id": "9.28",
+      "label": "Section 9.28",
+      "chapter": null,
+      "original": "Mantua , vae miserae nimium vicina Cremonae —",
+      "translation": "Menalcas ! Who then of the Nymphs had sung ,"
+    },
+    {
+      "id": "9.29",
+      "label": "Section 9.29",
+      "chapter": null,
+      "original": "cantantes sublime ferent ad sidera cycni .”",
+      "translation": "or who with flowering herbs bestrewn the ground ,"
+    },
+    {
+      "id": "9.30",
+      "label": "Section 9.30",
+      "chapter": null,
+      "original": "Sic tua Cyrneas fugiant examina taxos ;",
+      "translation": "and o ' er the fountains drawn a leafy veil ?—"
+    },
+    {
+      "id": "10.1",
+      "label": "Section 10.1",
+      "chapter": null,
+      "original": "Extremum hunc , Arethusa , mihi concede laborem :",
+      "translation": "This now , the very latest of my toils ,"
+    },
+    {
+      "id": "10.2",
+      "label": "Section 10.2",
+      "chapter": null,
+      "original": "pauca meo Gallo , sed quae legat ipsa Lycoris ,",
+      "translation": "vouchsafe me , Arethusa ! needs must I"
+    },
+    {
+      "id": "10.3",
+      "label": "Section 10.3",
+      "chapter": null,
+      "original": "carmina sunt dicenda . neget quis carmina Gallo ?",
+      "translation": "sing a brief song to Gallus — brief , but yet"
+    },
+    {
+      "id": "10.4",
+      "label": "Section 10.4",
+      "chapter": null,
+      "original": "sic tibi , cum fluctus subterlabere Sicanos ,",
+      "translation": "such as Lycoris ' self may fitly read ."
+    },
+    {
+      "id": "10.5",
+      "label": "Section 10.5",
+      "chapter": null,
+      "original": "Doris amara suam non intermisceat undam .",
+      "translation": "Who would not sing for Gallus ? So , when thou"
+    },
+    {
+      "id": "10.6",
+      "label": "Section 10.6",
+      "chapter": null,
+      "original": "incipe ; sollicitos Galli dicamus amores ,",
+      "translation": "beneath Sicanian billows glidest on ,"
+    },
+    {
+      "id": "10.7",
+      "label": "Section 10.7",
+      "chapter": null,
+      "original": "dum tenera attondent simae virgulta capellae .",
+      "translation": "may Doris blend no bitter wave with thine ,"
+    },
+    {
+      "id": "10.8",
+      "label": "Section 10.8",
+      "chapter": null,
+      "original": "non canimus surdis ; respondent omnia silvae .",
+      "translation": "begin ! The love of Gallus be our theme ,"
+    },
+    {
+      "id": "10.9",
+      "label": "Section 10.9",
+      "chapter": null,
+      "original": "Quae nemora , aut qui vos saltus habuere , puellae",
+      "translation": "and the shrewd pangs he suffered , while , hard by ,"
+    },
+    {
+      "id": "10.10",
+      "label": "Section 10.10",
+      "chapter": null,
+      "original": "Naides , indigno cum Gallus amore peribat ?",
+      "translation": "the flat-nosed she-goats browse the tender brush ."
+    },
+    {
+      "id": "10.11",
+      "label": "Section 10.11",
+      "chapter": null,
+      "original": "nam neque Parnasi vobis iuga , nam neque Pindi",
+      "translation": "We sing not to deaf ears ; no word of ours"
+    },
+    {
+      "id": "10.12",
+      "label": "Section 10.12",
+      "chapter": null,
+      "original": "ulla moram fecere , neque Aoniae Aganippe .",
+      "translation": "but the woods echo it . What groves or lawns"
+    },
+    {
+      "id": "10.13",
+      "label": "Section 10.13",
+      "chapter": null,
+      "original": "Illum etiam lauri , etiam flevere myricae .",
+      "translation": "held you , ye Dryad-maidens , when for love —"
+    },
+    {
+      "id": "10.14",
+      "label": "Section 10.14",
+      "chapter": null,
+      "original": "Pinifer illum etiam sola sub rupe iacentem",
+      "translation": "love all unworthy of a loss so dear —"
+    },
+    {
+      "id": "10.15",
+      "label": "Section 10.15",
+      "chapter": null,
+      "original": "Maenalus , et gelidi fleverunt saxa Lycaei .",
+      "translation": "Gallus lay dying ? for neither did the slopes"
+    },
+    {
+      "id": "10.16",
+      "label": "Section 10.16",
+      "chapter": null,
+      "original": "Stant et oves circum ;— nostri nec poenitet illas ,",
+      "translation": "of Pindus or Parnassus stay you then ,"
+    },
+    {
+      "id": "10.17",
+      "label": "Section 10.17",
+      "chapter": null,
+      "original": "nec te poeniteat pecoris , divine poeta ;—",
+      "translation": "no , nor Aonian Aganippe . Him"
+    },
+    {
+      "id": "10.18",
+      "label": "Section 10.18",
+      "chapter": null,
+      "original": "et formosus ovis ad flumina pavit Adonis ;",
+      "translation": "even the laurels and the tamarisks wept ;"
+    },
+    {
+      "id": "10.19",
+      "label": "Section 10.19",
+      "chapter": null,
+      "original": "venit et upilio ; tardi venere subulci ;",
+      "translation": "for him , outstretched beneath a lonely rock ,"
+    },
+    {
+      "id": "10.20",
+      "label": "Section 10.20",
+      "chapter": null,
+      "original": "uvidus hiberna venit de glande Menalcas .",
+      "translation": "wept pine-clad Maenalus , and the flinty crags"
+    },
+    {
+      "id": "10.21",
+      "label": "Section 10.21",
+      "chapter": null,
+      "original": "Omnes “ Unde amor iste ” rogant “ tibi ?” Venit Apollo :",
+      "translation": "of cold Lycaeus . The sheep too stood around —"
+    },
+    {
+      "id": "10.22",
+      "label": "Section 10.22",
+      "chapter": null,
+      "original": "“ Galle , quid insanis ?” inquit ; “ tua cura Lycoris",
+      "translation": "of us they feel no shame , poet divine ;"
+    },
+    {
+      "id": "10.23",
+      "label": "Section 10.23",
+      "chapter": null,
+      "original": "perque nives alium perque horrida castra secuta est .”",
+      "translation": "nor of the flock be thou ashamed : even fair"
+    },
+    {
+      "id": "10.24",
+      "label": "Section 10.24",
+      "chapter": null,
+      "original": "Venit et agresti capitis Silvanus honore ,",
+      "translation": "Adonis by the rivers fed his sheep —"
+    },
+    {
+      "id": "10.25",
+      "label": "Section 10.25",
+      "chapter": null,
+      "original": "florentis ferulas et grandia lilia quassans .",
+      "translation": "came shepherd too , and swine-herd footing slow ,"
+    },
+    {
+      "id": "10.26",
+      "label": "Section 10.26",
+      "chapter": null,
+      "original": "Pan deus Arcadiae venit , quem vidimus ipsi",
+      "translation": "and , from the winter-acorns dripping-wet"
+    },
+    {
+      "id": "10.27",
+      "label": "Section 10.27",
+      "chapter": null,
+      "original": "sanguineis ebuli bacis minioque rubentem .",
+      "translation": "Menalcas . All with one accord exclaim :"
+    },
+    {
+      "id": "10.28",
+      "label": "Section 10.28",
+      "chapter": null,
+      "original": "“ Ecquis erit modus ?” inquit ; “ Amor non talia curat ;",
+      "translation": "“ From whence this love of thine ?” Apollo came ;"
+    },
+    {
+      "id": "10.29",
+      "label": "Section 10.29",
+      "chapter": null,
+      "original": "nec lacrimis crudelis Amor , nec gramina rivis ,",
+      "translation": "“ Gallus , art mad ?” he cried , “ thy bosom ' s care"
+    },
+    {
+      "id": "10.30",
+      "label": "Section 10.30",
+      "chapter": null,
+      "original": "nec cytiso saturantur apes , nec fronde capellae .”",
+      "translation": "another love is following .” Therewithal"
+    }
+  ],
+  "prevChunkSlug": "einsiedeln-eclogues-1g5ezt-4",
+  "nextChunkSlug": null
+}

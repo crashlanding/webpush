@@ -1,0 +1,465 @@
+{
+  "loebNumber": 488,
+  "sortOrder": 488,
+  "slug": "aristophanes-clouds-wasps-peace-1iac3h",
+  "title": "Clouds. Wasps. Peace",
+  "volumeLabel": "Clouds. Wasps. Peace",
+  "authorDisplay": "Aristophanes",
+  "authors": [
+    "Aristophanes"
+  ],
+  "language": "greek",
+  "summary": "1 of 3 contents in Clouds. Wasps. Peace are live from Scaife, while the remaining contents stay visible until a confident pair is available.",
+  "status": "partial",
+  "defaultChunkSlug": "clouds-xffta6-1",
+  "readyChunkCount": 14,
+  "contents": [
+    {
+      "id": "clouds-xffta6",
+      "title": "Clouds",
+      "status": "ready",
+      "sectionCount": 783,
+      "chunkSlug": "clouds-xffta6-1",
+      "chunks": [
+        {
+          "slug": "clouds-xffta6-1",
+          "label": "Clouds (Section 1 - Section 135)",
+          "partId": "clouds-xffta6",
+          "partTitle": "Clouds",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "clouds-xffta6-2",
+          "label": "Clouds (Section 138 - Section 225)",
+          "partId": "clouds-xffta6",
+          "partTitle": "Clouds",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "clouds-xffta6-3",
+          "label": "Clouds (Section 226 - Section 347b)",
+          "partId": "clouds-xffta6",
+          "partTitle": "Clouds",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "clouds-xffta6-4",
+          "label": "Clouds (Section 348 - Section 487)",
+          "partId": "clouds-xffta6",
+          "partTitle": "Clouds",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "clouds-xffta6-5",
+          "label": "Clouds (Section 488 - Section 652)",
+          "partId": "clouds-xffta6",
+          "partTitle": "Clouds",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "clouds-xffta6-6",
+          "label": "Clouds (Section 652b - Section 732b)",
+          "partId": "clouds-xffta6",
+          "partTitle": "Clouds",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "clouds-xffta6-7",
+          "label": "Clouds (Section 733 - Section 825b)",
+          "partId": "clouds-xffta6",
+          "partTitle": "Clouds",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "clouds-xffta6-8",
+          "label": "Clouds (Section 826 - Section 910)",
+          "partId": "clouds-xffta6",
+          "partTitle": "Clouds",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "clouds-xffta6-9",
+          "label": "Clouds (Section 910b - Section 1067)",
+          "partId": "clouds-xffta6",
+          "partTitle": "Clouds",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "clouds-xffta6-10",
+          "label": "Clouds (Section 1068 - Section 1187)",
+          "partId": "clouds-xffta6",
+          "partTitle": "Clouds",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "clouds-xffta6-11",
+          "label": "Clouds (Section 1188 - Section 1276)",
+          "partId": "clouds-xffta6",
+          "partTitle": "Clouds",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "clouds-xffta6-12",
+          "label": "Clouds (Section 1277 - Section 1395)",
+          "partId": "clouds-xffta6",
+          "partTitle": "Clouds",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "clouds-xffta6-13",
+          "label": "Clouds (Section 1397 - Section 1505)",
+          "partId": "clouds-xffta6",
+          "partTitle": "Clouds",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "clouds-xffta6-14",
+          "label": "Clouds (Section 1506 - Section 1510)",
+          "partId": "clouds-xffta6",
+          "partTitle": "Clouds",
+          "sectionCount": 3,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "wasps-1dmhe4",
+      "title": "Wasps",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Wasps."
+    },
+    {
+      "id": "peace-19u3im",
+      "title": "Peace",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Peace."
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "clouds-xffta6-1",
+      "label": "Clouds (Section 1 - Section 135)",
+      "partId": "clouds-xffta6",
+      "partTitle": "Clouds",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "clouds-xffta6-2",
+      "label": "Clouds (Section 138 - Section 225)",
+      "partId": "clouds-xffta6",
+      "partTitle": "Clouds",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "clouds-xffta6-3",
+      "label": "Clouds (Section 226 - Section 347b)",
+      "partId": "clouds-xffta6",
+      "partTitle": "Clouds",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "clouds-xffta6-4",
+      "label": "Clouds (Section 348 - Section 487)",
+      "partId": "clouds-xffta6",
+      "partTitle": "Clouds",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "clouds-xffta6-5",
+      "label": "Clouds (Section 488 - Section 652)",
+      "partId": "clouds-xffta6",
+      "partTitle": "Clouds",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "clouds-xffta6-6",
+      "label": "Clouds (Section 652b - Section 732b)",
+      "partId": "clouds-xffta6",
+      "partTitle": "Clouds",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "clouds-xffta6-7",
+      "label": "Clouds (Section 733 - Section 825b)",
+      "partId": "clouds-xffta6",
+      "partTitle": "Clouds",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "clouds-xffta6-8",
+      "label": "Clouds (Section 826 - Section 910)",
+      "partId": "clouds-xffta6",
+      "partTitle": "Clouds",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "clouds-xffta6-9",
+      "label": "Clouds (Section 910b - Section 1067)",
+      "partId": "clouds-xffta6",
+      "partTitle": "Clouds",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "clouds-xffta6-10",
+      "label": "Clouds (Section 1068 - Section 1187)",
+      "partId": "clouds-xffta6",
+      "partTitle": "Clouds",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "clouds-xffta6-11",
+      "label": "Clouds (Section 1188 - Section 1276)",
+      "partId": "clouds-xffta6",
+      "partTitle": "Clouds",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "clouds-xffta6-12",
+      "label": "Clouds (Section 1277 - Section 1395)",
+      "partId": "clouds-xffta6",
+      "partTitle": "Clouds",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "clouds-xffta6-13",
+      "label": "Clouds (Section 1397 - Section 1505)",
+      "partId": "clouds-xffta6",
+      "partTitle": "Clouds",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "clouds-xffta6-14",
+      "label": "Clouds (Section 1506 - Section 1510)",
+      "partId": "clouds-xffta6",
+      "partTitle": "Clouds",
+      "sectionCount": 3,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "clouds-xffta6-1",
+      "partTitle": "Clouds",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Νεφέλαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Clouds",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "clouds-xffta6-2",
+      "partTitle": "Clouds",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Νεφέλαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Clouds",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "clouds-xffta6-3",
+      "partTitle": "Clouds",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Νεφέλαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Clouds",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "clouds-xffta6-4",
+      "partTitle": "Clouds",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Νεφέλαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Clouds",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "clouds-xffta6-5",
+      "partTitle": "Clouds",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Νεφέλαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Clouds",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "clouds-xffta6-6",
+      "partTitle": "Clouds",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Νεφέλαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Clouds",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "clouds-xffta6-7",
+      "partTitle": "Clouds",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Νεφέλαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Clouds",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "clouds-xffta6-8",
+      "partTitle": "Clouds",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Νεφέλαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Clouds",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "clouds-xffta6-9",
+      "partTitle": "Clouds",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Νεφέλαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Clouds",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "clouds-xffta6-10",
+      "partTitle": "Clouds",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Νεφέλαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Clouds",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "clouds-xffta6-11",
+      "partTitle": "Clouds",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Νεφέλαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Clouds",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "clouds-xffta6-12",
+      "partTitle": "Clouds",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Νεφέλαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Clouds",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "clouds-xffta6-13",
+      "partTitle": "Clouds",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Νεφέλαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Clouds",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "clouds-xffta6-14",
+      "partTitle": "Clouds",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Νεφέλαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Clouds",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "loebNumber": 186,
+  "sortOrder": 186,
+  "slug": "josephus-the-life-against-apion-djb1lo",
+  "title": "The Life. Against Apion",
+  "volumeLabel": "The Life. Against Apion",
+  "authorDisplay": "Josephus",
+  "authors": [
+    "Josephus"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for The Life. Against Apion, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "the-life-i7y9vv",
+  "readyChunkCount": 2,
+  "contents": [
+    {
+      "id": "the-life-i7y9vv",
+      "title": "The Life",
+      "status": "ready",
+      "sectionCount": 76,
+      "chunkSlug": "the-life-i7y9vv",
+      "chunks": [
+        {
+          "slug": "the-life-i7y9vv",
+          "label": "The Life",
+          "partId": "the-life-i7y9vv",
+          "partTitle": "The Life",
+          "sectionCount": 76,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "against-apion-1nlhnh",
+      "title": "Against Apion",
+      "status": "ready",
+      "sectionCount": 2,
+      "chunkSlug": "against-apion-1nlhnh",
+      "chunks": [
+        {
+          "slug": "against-apion-1nlhnh",
+          "label": "Against Apion",
+          "partId": "against-apion-1nlhnh",
+          "partTitle": "Against Apion",
+          "sectionCount": 2,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "the-life-i7y9vv",
+      "label": "The Life",
+      "partId": "the-life-i7y9vv",
+      "partTitle": "The Life",
+      "sectionCount": 76,
+      "status": "ready"
+    },
+    {
+      "slug": "against-apion-1nlhnh",
+      "label": "Against Apion",
+      "partId": "against-apion-1nlhnh",
+      "partTitle": "Against Apion",
+      "sectionCount": 2,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "the-life-i7y9vv",
+      "partTitle": "The Life",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἰωσήπου βίος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0526.tlg002.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Life of Flavius Josephus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0526.tlg002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-apion-1nlhnh",
+      "partTitle": "Against Apion",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Iudaeorum Vetustate sive Contra Apionem",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0526.tlg003.opp-lat1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Apion",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0526.tlg003.perseus-eng2/"
+      }
+    }
+  ]
+}

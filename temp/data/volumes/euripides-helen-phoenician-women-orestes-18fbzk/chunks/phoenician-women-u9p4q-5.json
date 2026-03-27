@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-helen-phoenician-women-orestes-18fbzk",
+  "volumeTitle": "Helen. Phoenician Women. Orestes",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "phoenician-women-u9p4q-5",
+  "label": "Phoenician Women (Section 612b - Section 719)",
+  "partId": "phoenician-women-u9p4q",
+  "partTitle": "Phoenician Women",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Φοίνισσαι",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "The Phoenician Maidens",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "612b",
+      "label": "Section 612b",
+      "chapter": null,
+      "original": "ἀθέμιτόν σοι μητρὸς ὀνομάζειν κάρα .",
+      "translation": "It is not lawful for you to mention your mother ."
+    },
+    {
+      "id": "613",
+      "label": "Section 613",
+      "chapter": null,
+      "original": "ὦ πόλις .",
+      "translation": "O my city !"
+    },
+    {
+      "id": "613b",
+      "label": "Section 613b",
+      "chapter": null,
+      "original": "μολὼν ἐς Ἄργος ἀνακάλει Λέρνης ὕδωρ .",
+      "translation": "Go to Argos , and invoke the waters of Lerna ."
+    },
+    {
+      "id": "614",
+      "label": "Section 614",
+      "chapter": null,
+      "original": "εἶμι , μὴ πόνει · σὲ δʼ αἰνῶ , μῆτερ .",
+      "translation": "I will ; do not be troubled ; but I thank you , mother ."
+    },
+    {
+      "id": "614b",
+      "label": "Section 614b",
+      "chapter": null,
+      "original": "ἔξιθι χθονός .",
+      "translation": "Go forth from the land !"
+    },
+    {
+      "id": "615",
+      "label": "Section 615",
+      "chapter": null,
+      "original": "ἔξιμεν · πατέρα δέ μοι δὸς εἰσιδεῖν .",
+      "translation": "I will go ; but let me see my father ."
+    },
+    {
+      "id": "615b",
+      "label": "Section 615b",
+      "chapter": null,
+      "original": "οὐκ ἂν τύχοις .",
+      "translation": "You will not have your wish ."
+    },
+    {
+      "id": "616",
+      "label": "Section 616",
+      "chapter": null,
+      "original": "ἀλλὰ παρθένους ἀδελφάς .",
+      "translation": "At least then my maiden sisters ."
+    },
+    {
+      "id": "616b",
+      "label": "Section 616b",
+      "chapter": null,
+      "original": "οὐδὲ τάσδʼ ὄψῃ ποτέ .",
+      "translation": "You will not ever see them either ."
+    },
+    {
+      "id": "617",
+      "label": "Section 617",
+      "chapter": null,
+      "original": "ὦ κασίγνηται .",
+      "translation": "Ah , my sisters !"
+    },
+    {
+      "id": "617b",
+      "label": "Section 617b",
+      "chapter": null,
+      "original": "τί ταύτας ἀνακαλεῖς ἔχθιστος ὤν ;",
+      "translation": "Why do you , their bitterest enemy , call on them ?"
+    },
+    {
+      "id": "618",
+      "label": "Section 618",
+      "chapter": null,
+      "original": "μῆτερ , ἀλλά μοι σὺ χαῖρε .",
+      "translation": "To you at least farewell , mother !"
+    },
+    {
+      "id": "618b",
+      "label": "Section 618b",
+      "chapter": null,
+      "original": "χαρτὰ γοῦν πάσχω , τέκνον .",
+      "translation": "Indeed I am faring well , my son !"
+    },
+    {
+      "id": "619",
+      "label": "Section 619",
+      "chapter": null,
+      "original": "οὐκέτʼ εἰμὶ παῖς σός .",
+      "translation": "I am no longer your son ."
+    },
+    {
+      "id": "619b",
+      "label": "Section 619b",
+      "chapter": null,
+      "original": "ἐς πόλλʼ ἀθλία πέφυκʼ ἐγώ .",
+      "translation": "I was born to great sorrow ."
+    },
+    {
+      "id": "620",
+      "label": "Section 620",
+      "chapter": null,
+      "original": "ὅδε γὰρ εἰς ἡμᾶς ὑβρίζει .",
+      "translation": "Because my brother treats me outrageously ."
+    },
+    {
+      "id": "620b",
+      "label": "Section 620b",
+      "chapter": null,
+      "original": "καὶ γὰρ ἀνθυβρίζομαι .",
+      "translation": "I am treated just the same ."
+    },
+    {
+      "id": "621",
+      "label": "Section 621",
+      "chapter": null,
+      "original": "ποῦ ποτε στήσῃ πρὸ πύργων ;",
+      "translation": "Where will you be stationed before the towers ?"
+    },
+    {
+      "id": "621b",
+      "label": "Section 621b",
+      "chapter": null,
+      "original": "ὡς τί μʼ ἱστορεῖς τόδε ;",
+      "translation": "Why do you ask me this ?"
+    },
+    {
+      "id": "622",
+      "label": "Section 622",
+      "chapter": null,
+      "original": "ἀντιτάξομαι κτενῶν σε .",
+      "translation": "I will set myself against you for your death ."
+    },
+    {
+      "id": "622b",
+      "label": "Section 622b",
+      "chapter": null,
+      "original": "κἀμὲ τοῦδʼ ἔρως ἔχει .",
+      "translation": "I too have the same desire ."
+    },
+    {
+      "id": "623",
+      "label": "Section 623",
+      "chapter": null,
+      "original": "ὦ τάλαινʼ ἐγώ · τί δράσετʼ , ὦ τέκνα ;",
+      "translation": "Woe is me ! what will you do , my sons ?"
+    },
+    {
+      "id": "623b",
+      "label": "Section 623b",
+      "chapter": null,
+      "original": "αὐτὸ σημανεῖ .",
+      "translation": "The event will show ."
+    },
+    {
+      "id": "624",
+      "label": "Section 624",
+      "chapter": null,
+      "original": "πατρὸς οὐ φεύξεσθʼ Ἐρινῦς ;",
+      "translation": "Oh , try to escape your father ’ s curse ! Exit Jocasta ."
+    },
+    {
+      "id": "624b",
+      "label": "Section 624b",
+      "chapter": null,
+      "original": "ἐρρέτω πρόπας δόμος .",
+      "translation": "May destruction seize our whole house !"
+    },
+    {
+      "id": "625",
+      "label": "Section 625",
+      "chapter": null,
+      "original": "ὡς τάχʼ οὐκέθʼ αἱματηρὸν τοὐμὸν ἀργήσει ξίφος .",
+      "translation": "Soon my sword will be busy , plunged in gore . But I call my native land and the gods to witness , with what dishonor and bitter treatment I am being driven forth , as though I were a slave , not a son of Oedipus as much as he . If anything happens to you , my city , blame him , not me ;"
+    },
+    {
+      "id": "630",
+      "label": "Section 630",
+      "chapter": null,
+      "original": "οὐχ ἑκὼν γὰρ ἦλθον , ἄκων δʼ ἐξελαύνομαι χθονός .",
+      "translation": "for I did not come willingly , and unwillingly I am driven from the land . And you , Phoebus , lord of highways , and my home , farewell , and my comrades , and statues of the gods , where sheep are sacrificed . For I do not know if I can ever again address you ; though hope is not yet asleep , which makes me confident that with the gods ’ help"
+    },
+    {
+      "id": "635",
+      "label": "Section 635",
+      "chapter": null,
+      "original": "τόνδʼ ἀποκτείνας κρατήσειν τῆσδε Θηβαίας χθονός .",
+      "translation": "I shall slay him and rule this land of Thebes . Exit Polyneices ."
+    },
+    {
+      "id": "636",
+      "label": "Section 636",
+      "chapter": null,
+      "original": "ἔξιθʼ ἐκ χώρας · ἀληθῶς δʼ ὄνομα Πολυνείκη πατὴρ",
+      "translation": "Get out of the country ! It was a true name our father gave you , when , prompted by some god , he called you Polyneices , man of many quarrels . Exit Eteocles ."
+    },
+    {
+      "id": "1.638",
+      "label": "Section 1.638",
+      "chapter": null,
+      "original": "Κάδμος ἔμολε τάνδε γᾶν",
+      "translation": "Cadmus of Tyre came to this land , and at his feet a four-footed ,"
+    },
+    {
+      "id": "1.640",
+      "label": "Section 1.640",
+      "chapter": null,
+      "original": "μόσχος ἀδάματον πέσημα",
+      "translation": "untamed heifer threw itself down , fulfilling an oracle , where the god ’ s prophecy told him to make his home in the plains rich with wheat ,"
+    },
+    {
+      "id": "1.645",
+      "label": "Section 1.645",
+      "chapter": null,
+      "original": "καλλιπόταμος ὕδατος ἵνα τε",
+      "translation": "and where the lovely waters of Dirce pour over the fields , the green and deep-seeded fields ; here Bromius ’ mother gave birth"
+    },
+    {
+      "id": "1.650",
+      "label": "Section 1.650",
+      "chapter": null,
+      "original": "τηρ Διὸς γάμοισι ,",
+      "translation": "from her union with Zeus ; Bromius , round whom the ivy twined its wreaths while he was still a baby , covering him and blessing him in the shades of its green foliage ,"
+    },
+    {
+      "id": "1.655",
+      "label": "Section 1.655",
+      "chapter": null,
+      "original": "Βάκχιον χόρευμα παρθένοισι Θηβαΐαισι",
+      "translation": "a Bacchic dance for the maids and wives inspired in Thebes ."
+    },
+    {
+      "id": "1.657",
+      "label": "Section 1.657",
+      "chapter": null,
+      "original": "ἔνθα φόνιος ἦν δράκων",
+      "translation": "There was Ares ’ murderous dragon , a savage guard ,"
+    },
+    {
+      "id": "1.660",
+      "label": "Section 1.660",
+      "chapter": null,
+      "original": "χλοερὰ δεργμάτων κόραισι",
+      "translation": "watching with wandering eye the watery rivers and fresh streams . Cadmus destroyed it with a jagged stone , when he came there to draw lustral water ; smiting the deadly head"
+    },
+    {
+      "id": "1.665",
+      "label": "Section 1.665",
+      "chapter": null,
+      "original": "ὠλένας δικὼν βολαῖς ,",
+      "translation": "with a blow of his beast-slaying arm ; and by the counsel of PalIas , the motherless goddess , he cast the teeth upon the deep fields to fall to the earth ,"
+    },
+    {
+      "id": "1.670",
+      "label": "Section 1.670",
+      "chapter": null,
+      "original": "ἔνθεν ἐξανῆκε γᾶ",
+      "translation": "from which the earth brought forth a sight fully-armed , above the surface of the soil ; but grim slaughter once again united them to the earth they loved , bedewing with blood the ground that had"
+    },
+    {
+      "id": "1.675",
+      "label": "Section 1.675",
+      "chapter": null,
+      "original": "δεῖξεν αἰθέρος πνοαῖς .",
+      "translation": "shown them to the sunlit breath of heaven ."
+    },
+    {
+      "id": "676",
+      "label": "Section 676",
+      "chapter": null,
+      "original": "καὶ σέ , τὸν προμάτορος",
+      "translation": "And you , Epaphus , born from Io , our first mother , and child of Zeus : you I summon in foreign cry ,"
+    },
+    {
+      "id": "680",
+      "label": "Section 680",
+      "chapter": null,
+      "original": "ἰώ , βαρβάροις λιταῖς ·",
+      "translation": "oh ! in foreign prayers : come , come to this land ; your descendants settled here ; and the goddesses of twofold name , Persephone and the kindly"
+    },
+    {
+      "id": "685",
+      "label": "Section 685",
+      "chapter": null,
+      "original": "Δαμάτηρ θεά ,",
+      "translation": "goddess Demeter the queen of all , Earth the nurse of all , won it for themselves ; send to the help of this land those torch-bearing goddesses ; for to gods all things are easy ."
+    },
+    {
+      "id": "690",
+      "label": "Section 690",
+      "chapter": null,
+      "original": "χώρει σὺ καὶ κόμιζε τὸν Μενοικέως",
+      "translation": "Go , bring Creon , son of Menoeceus , the brother of Jocasta my mother ; tell him I want to consult with him on matters public and private , before we set out to battle and the arrangement of the army ."
+    },
+    {
+      "id": "695",
+      "label": "Section 695",
+      "chapter": null,
+      "original": "καίτοι ποδῶν σῶν μόχθον ἐκλύει παρών ·",
+      "translation": "But he is here , saving you the trouble ; I see him on his way to my house ."
+    },
+    {
+      "id": "697",
+      "label": "Section 697",
+      "chapter": null,
+      "original": "ἦ πόλλʼ ἐπῆλθον εἰσιδεῖν χρῄζων σʼ , ἄναξ",
+      "translation": "I have been everywhere , lord Eteocles , in my desire to see you , and have gone all round the gates and sentinels of Thebes hunting for you ."
+    },
+    {
+      "id": "700",
+      "label": "Section 700",
+      "chapter": null,
+      "original": "καὶ μὴν ἐγὼ σʼ ἔχρῃζον εἰσιδεῖν , Κρέον ·",
+      "translation": "And I wanted to see you , Creon ; for I found the terms of peace far from satisfactory , when I came to confer with Polyneices ."
+    },
+    {
+      "id": "703",
+      "label": "Section 703",
+      "chapter": null,
+      "original": "ἤκουσα μεῖζον αὐτὸν ἢ Θήβας φρονεῖν ,",
+      "translation": "I hear that he has wider aims than Thebes , relying on his alliance with Adrastus and his army . But we must leave this dependent on the gods ;"
+    },
+    {
+      "id": "705",
+      "label": "Section 705",
+      "chapter": null,
+      "original": "ἀλλʼ ἐς θεοὺς χρὴ ταῦτʼ ἀναρτήσαντʼ ἔχειν ·",
+      "translation": "I have come to tell you our chief obstacle ."
+    },
+    {
+      "id": "707",
+      "label": "Section 707",
+      "chapter": null,
+      "original": "τὰ ποῖα ταῦτα ; τὸν λόγον γὰρ ἀγνοῶ .",
+      "translation": "What is that ? I do not understand what you say ."
+    },
+    {
+      "id": "708",
+      "label": "Section 708",
+      "chapter": null,
+      "original": "ἥκει τις αἰχμάλωτος Ἀργείων πάρα .",
+      "translation": "Someone has come who was captured from the Argives ."
+    },
+    {
+      "id": "709",
+      "label": "Section 709",
+      "chapter": null,
+      "original": "λέγει δὲ δὴ τί τῶν ἐκεῖ νεώτερον ;",
+      "translation": "What news does he bring from there ?"
+    },
+    {
+      "id": "710",
+      "label": "Section 710",
+      "chapter": null,
+      "original": "μέλλειν πέριξ πύργοισι Καδμείων πόλιν",
+      "translation": "He says the Argive army intend at once to wind about the city of Thebes and its towers , with their army ."
+    },
+    {
+      "id": "712",
+      "label": "Section 712",
+      "chapter": null,
+      "original": "ἐξοιστέον τἄρʼ ὅπλα Καδμείων πόλει .",
+      "translation": "In that case the city of Cadmus must lead out its army ."
+    },
+    {
+      "id": "713",
+      "label": "Section 713",
+      "chapter": null,
+      "original": "ποῖ ; μῶν νεάζων οὐχ ὁρᾷς ἃ χρή σʼ ὁρᾶν ;",
+      "translation": "Where ? Are you so young that your eyes do not see what they should ?"
+    },
+    {
+      "id": "714",
+      "label": "Section 714",
+      "chapter": null,
+      "original": "ἐκτὸς τάφρων τῶνδʼ , ὡς μαχουμένους τάχα .",
+      "translation": "Across those trenches , to fight at once ."
+    },
+    {
+      "id": "715",
+      "label": "Section 715",
+      "chapter": null,
+      "original": "σμικρὸν τὸ πλῆθος τῆσδε γῆς , οἳ δʼ ἄφθονοι .",
+      "translation": "Our forces are small , while theirs are plentiful ."
+    },
+    {
+      "id": "716",
+      "label": "Section 716",
+      "chapter": null,
+      "original": "ἐγᾦδα κείνους τοῖς λόγοις ὄντας θρασεῖς .",
+      "translation": "I know well they are brave in argument ."
+    },
+    {
+      "id": "717",
+      "label": "Section 717",
+      "chapter": null,
+      "original": "ἔχει τινʼ ὄγκον τἄργος Ἑλλήνων πάρα .",
+      "translation": "Argos has some weight among the Hellenes ."
+    },
+    {
+      "id": "718",
+      "label": "Section 718",
+      "chapter": null,
+      "original": "θάρσει · τάχʼ αὐτῶν πεδίον ἐμπλήσω φόνου .",
+      "translation": "Never fear ! I will soon fill the plain with their dead ."
+    },
+    {
+      "id": "719",
+      "label": "Section 719",
+      "chapter": null,
+      "original": "θέλοιμʼ ἄν · ἀλλὰ τοῦθʼ ὁρῶ πολλοῦ πόνου .",
+      "translation": "I could wish it so ; but I see great difficulties in this ."
+    }
+  ],
+  "prevChunkSlug": "phoenician-women-u9p4q-4",
+  "nextChunkSlug": "phoenician-women-u9p4q-6"
+}

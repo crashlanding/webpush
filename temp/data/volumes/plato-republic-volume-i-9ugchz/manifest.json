@@ -1,0 +1,61 @@
+{
+  "loebNumber": 237,
+  "sortOrder": 237,
+  "slug": "plato-republic-volume-i-9ugchz",
+  "title": "Republic, Volume I",
+  "volumeLabel": "Republic, Volume I",
+  "authorDisplay": "Plato",
+  "authors": [
+    "Plato"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Republic, Volume I. Republic, Volume I currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "republic-volume-i-wzr2s3",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "republic-volume-i-wzr2s3",
+      "title": "Republic, Volume I",
+      "status": "ready",
+      "sectionCount": 50,
+      "chunkSlug": "republic-volume-i-wzr2s3",
+      "chunks": [
+        {
+          "slug": "republic-volume-i-wzr2s3",
+          "label": "Republic, Volume I",
+          "partId": "republic-volume-i-wzr2s3",
+          "partTitle": "Republic, Volume I",
+          "sectionCount": 50,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "republic-volume-i-wzr2s3",
+      "label": "Republic, Volume I",
+      "partId": "republic-volume-i-wzr2s3",
+      "partTitle": "Republic, Volume I",
+      "sectionCount": 50,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "republic-volume-i-wzr2s3",
+      "partTitle": "Republic, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πολιτεία",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg030.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Republic",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg030.perseus-eng2/"
+      }
+    }
+  ]
+}

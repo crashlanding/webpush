@@ -1,0 +1,61 @@
+{
+  "loebNumber": 477,
+  "sortOrder": 477,
+  "slug": "hippocrates-epidemics-2-4-7-1t0dob",
+  "title": "Epidemics 2, 4-7",
+  "volumeLabel": "Epidemics 2, 4-7",
+  "authorDisplay": "Hippocrates",
+  "authors": [
+    "Hippocrates"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Epidemics 2, 4-7, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "epidemics-2-4-7-zuzc4t",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "epidemics-2-4-7-zuzc4t",
+      "title": "Epidemics 2, 4-7",
+      "status": "ready",
+      "sectionCount": 4,
+      "chunkSlug": "epidemics-2-4-7-zuzc4t",
+      "chunks": [
+        {
+          "slug": "epidemics-2-4-7-zuzc4t",
+          "label": "Epidemics 2, 4-7",
+          "partId": "epidemics-2-4-7-zuzc4t",
+          "partTitle": "Epidemics 2, 4-7",
+          "sectionCount": 4,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "epidemics-2-4-7-zuzc4t",
+      "label": "Epidemics 2, 4-7",
+      "partId": "epidemics-2-4-7-zuzc4t",
+      "partTitle": "Epidemics 2, 4-7",
+      "sectionCount": 4,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "epidemics-2-4-7-zuzc4t",
+      "partTitle": "Epidemics 2, 4-7",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Epidemiarum",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg006.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Epidemics",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg006.perseus-eng3/"
+      }
+    }
+  ]
+}

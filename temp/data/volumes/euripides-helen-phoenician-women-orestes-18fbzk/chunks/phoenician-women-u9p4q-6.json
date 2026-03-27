@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-helen-phoenician-women-orestes-18fbzk",
+  "volumeTitle": "Helen. Phoenician Women. Orestes",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "phoenician-women-u9p4q-6",
+  "label": "Phoenician Women (Section 720 - Section 855)",
+  "partId": "phoenician-women-u9p4q",
+  "partTitle": "Phoenician Women",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Φοίνισσαι",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "The Phoenician Maidens",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "720",
+      "label": "Section 720",
+      "chapter": null,
+      "original": "ὡς οὐ καθέξω τειχέων ἔσω στρατόν .",
+      "translation": "I will not keep my army within the walls ."
+    },
+    {
+      "id": "721",
+      "label": "Section 721",
+      "chapter": null,
+      "original": "καὶ μὴν τὸ νικᾶν ἐστι πᾶν εὐβουλία .",
+      "translation": "And yet victory is entirely a matter of good counsel ."
+    },
+    {
+      "id": "722",
+      "label": "Section 722",
+      "chapter": null,
+      "original": "βούλῃ τράπωμαι δῆθʼ ὁδοὺς ἄλλας τινάς ;",
+      "translation": "Do you then want me to turn to some other way ?"
+    },
+    {
+      "id": "723",
+      "label": "Section 723",
+      "chapter": null,
+      "original": "πάσας γε , πρὶν κίνδυνον εἰς ἅπαξ μολεῖν .",
+      "translation": "Yes , to every one , before running the risk once for all ."
+    },
+    {
+      "id": "724",
+      "label": "Section 724",
+      "chapter": null,
+      "original": "εἰ νυκτὸς αὐτοῖς προσβάλοιμεν ἐκ λόχου ;",
+      "translation": "Suppose we fall on them by night from ambush ?"
+    },
+    {
+      "id": "725",
+      "label": "Section 725",
+      "chapter": null,
+      "original": "εἴπερ σφαλείς γε δεῦρο σωθήσῃ πάλιν .",
+      "translation": "Yes , if in the event of defeat you can return safely here ."
+    },
+    {
+      "id": "726",
+      "label": "Section 726",
+      "chapter": null,
+      "original": "ἴσον φέρει νύξ , τοῖς δὲ τολμῶσιν πλέον .",
+      "translation": "Night equalizes risks , though it rather favors daring ."
+    },
+    {
+      "id": "727",
+      "label": "Section 727",
+      "chapter": null,
+      "original": "ἐνδυστυχῆσαι δεινὸν εὐφρόνης κνέφας .",
+      "translation": "The darkness of night is a terrible time to suffer disaster ."
+    },
+    {
+      "id": "728",
+      "label": "Section 728",
+      "chapter": null,
+      "original": "ἀλλʼ ἀμφὶ δεῖπνον οὖσι προσβάλω δόρυ ;",
+      "translation": "Well , shall I attack them as they sit at dinner ?"
+    },
+    {
+      "id": "729",
+      "label": "Section 729",
+      "chapter": null,
+      "original": "ἔκπληξις ἂν γένοιτο · νικῆσαι δὲ δεῖ .",
+      "translation": "That might cause them fright , but victory is what we need ."
+    },
+    {
+      "id": "730",
+      "label": "Section 730",
+      "chapter": null,
+      "original": "βαθύς γέ τοι Διρκαῖος ἀναχωρεῖν πόρος .",
+      "translation": "Dirce ’ s ford is certainly deep enough to prevent their retreat ."
+    },
+    {
+      "id": "731",
+      "label": "Section 731",
+      "chapter": null,
+      "original": "ἅπαν κάκιον τοῦ φυλάσσεσθαι καλῶς .",
+      "translation": "No plan so good as to keep well guarded ."
+    },
+    {
+      "id": "732",
+      "label": "Section 732",
+      "chapter": null,
+      "original": "τί δʼ , εἰ καθιππεύσαιμεν Ἀργείων στρατόν ;",
+      "translation": "What if we ride out against the army of Argos ?"
+    },
+    {
+      "id": "733",
+      "label": "Section 733",
+      "chapter": null,
+      "original": "κἀκεῖ πέφρακται λαὸς ἅρμασιν πέριξ .",
+      "translation": "Their troops too are fenced all round with chariots ."
+    },
+    {
+      "id": "734",
+      "label": "Section 734",
+      "chapter": null,
+      "original": "τί δῆτα δράσω ; πολεμίοισι δῶ πόλιν ;",
+      "translation": "What shall I do , then ? Am I to surrender the city to the enemy ?"
+    },
+    {
+      "id": "735",
+      "label": "Section 735",
+      "chapter": null,
+      "original": "μὴ δῆτα · βουλεύου δʼ , ἐπείπερ εἶ σοφός .",
+      "translation": "No indeed ! But out of your wisdom form some plan ."
+    },
+    {
+      "id": "736",
+      "label": "Section 736",
+      "chapter": null,
+      "original": "τίς οὖν πρόνοια γίγνεται σοφωτέρα ;",
+      "translation": "What forethought is wiser than mine ?"
+    },
+    {
+      "id": "737",
+      "label": "Section 737",
+      "chapter": null,
+      "original": "ἕπτʼ ἄνδρας αὐτοῖς φασιν , ὡς ἤκουσʼ ἐγώ —",
+      "translation": "They have seven men , I hear —"
+    },
+    {
+      "id": "738",
+      "label": "Section 738",
+      "chapter": null,
+      "original": "τί προστετάχθαι δρᾶν ; τὸ γὰρ σθένος βραχύ .",
+      "translation": "What is their appointed task ? their might is small ."
+    },
+    {
+      "id": "739",
+      "label": "Section 739",
+      "chapter": null,
+      "original": "λόχων ἀνάσσειν ἑπτὰ προσκεῖσθαι πύλαις .",
+      "translation": ". . . To attack the seven gates ."
+    },
+    {
+      "id": "740",
+      "label": "Section 740",
+      "chapter": null,
+      "original": "τί δῆτα δρῶμεν ; ἀπορίαν γὰρ οὐ μενῶ .",
+      "translation": "What are we to do then ? I will not wait till every chance is gone ."
+    },
+    {
+      "id": "741",
+      "label": "Section 741",
+      "chapter": null,
+      "original": "ἕπτʼ ἄνδρας αὐτοῖς καὶ σὺ πρὸς πύλαις ἑλοῦ .",
+      "translation": "You also choose seven men to set against them at the gates ."
+    },
+    {
+      "id": "742",
+      "label": "Section 742",
+      "chapter": null,
+      "original": "λόχων ἀνάσσειν ἢ μονοστόλου δορός ;",
+      "translation": "To lead our companies , or to fight single-handed ?"
+    },
+    {
+      "id": "743",
+      "label": "Section 743",
+      "chapter": null,
+      "original": "λόχων , προκρίνας οἵπερ ἀλκιμώτατοι .",
+      "translation": "To lead ; choose the very bravest ones ."
+    },
+    {
+      "id": "744",
+      "label": "Section 744",
+      "chapter": null,
+      "original": "ξυνῆκʼ · ἀμύνειν τειχέων προσαμβάσεις .",
+      "translation": "I understand ; to repel attempts at scaling our walls ."
+    },
+    {
+      "id": "745",
+      "label": "Section 745",
+      "chapter": null,
+      "original": "καὶ ξυστρατήγους γʼ · εἷς δʼ ἀνὴρ οὐ πάνθʼ ὁρᾷ .",
+      "translation": "With others to share the command , for one man doesn ’ t see everything ."
+    },
+    {
+      "id": "746",
+      "label": "Section 746",
+      "chapter": null,
+      "original": "θάρσει προκρίνας ἢ φρενῶν εὐβουλίᾳ ;",
+      "translation": "Selecting them for courage or thoughtful prudence ?"
+    },
+    {
+      "id": "747",
+      "label": "Section 747",
+      "chapter": null,
+      "original": "ἀμφότερον · ἀπολειφθὲν γὰρ οὐδὲν θάτερον .",
+      "translation": "Both ; for one is nothing without the other ."
+    },
+    {
+      "id": "748",
+      "label": "Section 748",
+      "chapter": null,
+      "original": "ἔσται τάδʼ · ἐλθὼν ἑπτάπυργον ἐς πόλιν",
+      "translation": "It shall be done ; I will go to our seven towers and post captains at the gates , as you say ,"
+    },
+    {
+      "id": "750",
+      "label": "Section 750",
+      "chapter": null,
+      "original": "ἴσους ἴσοισι πολεμίοισιν ἀντιθείς .",
+      "translation": "pitting them man for man against the enemy . To tell each one ’ s name is a great waste of time , when the enemy are camped beneath our very walls . But I will go , that my hands may no longer hang idle . And may I find my brother face to face ,"
+    },
+    {
+      "id": "755",
+      "label": "Section 755",
+      "chapter": null,
+      "original": "καὶ ξυσταθέντα διὰ μάχης ἑλεῖν δορί .",
+      "translation": "meet him in battle and kill him with my spear and kill him , for coming to waste my country ! But if I suffer any misfortune , you must see to the marriage between Antigone , my sister and Haemon , your son ; and now , as I take my leave ,"
+    },
+    {
+      "id": "760",
+      "label": "Section 760",
+      "chapter": null,
+      "original": "τὴν πρόσθε ποιῶ νῦν ἐπʼ ἐξόδοις ἐμαῖς .",
+      "translation": "I ratify their previous betrothal . You are my mother ’ s brother , no need to speak at length . Take care of her as she deserves , both for your own sake and mine . As for my father , he has been guilty of folly against himself in putting out his eyes ; I have small praise for him ;"
+    },
+    {
+      "id": "765",
+      "label": "Section 765",
+      "chapter": null,
+      "original": "ἡμᾶς δʼ ἀραῖσιν , ἢν τύχῃ , κατακτενεῖ .",
+      "translation": "by his curses it may be that he will slay us too ."
+    },
+    {
+      "id": "766",
+      "label": "Section 766",
+      "chapter": null,
+      "original": "ἓν δʼ ἐστὶν ἡμῖν ἀργόν , εἴ τι θέσφατον",
+      "translation": "One thing we still have to do : ask Teiresias , the seer , if he has anything to say of heaven ’ s will . I will send your son Menoeceus , who bears your father ’ s name ,"
+    },
+    {
+      "id": "770",
+      "label": "Section 770",
+      "chapter": null,
+      "original": "λαβόντα πέμψω δεῦρο Τειρεσίαν , Κρέον ·",
+      "translation": "to fetch Teiresias here , Creon ; for he will readily converse with you , but I have before now so scorned his prophetic art to his face , that he has reasons to reproach me . This commandment , Creon , I lay upon the city and you :"
+    },
+    {
+      "id": "775",
+      "label": "Section 775",
+      "chapter": null,
+      "original": "ἤνπερ κρατήσῃ τἀμά , Πολυνείκους νέκυν",
+      "translation": "if my cause should prevail , never give Polyneices ’ corpse a grave in Theban soil , and let the one who buries him die , even if it is a friend . This I say to you ; and this to my servants Bring out my weapons and armor ,"
+    },
+    {
+      "id": "780",
+      "label": "Section 780",
+      "chapter": null,
+      "original": "ὡς εἰς ἀγῶνα τὸν προκείμενον δορὸς",
+      "translation": "so that I may start at once for the appointed combat , with justice to lead to victory . We will pray to Caution , the most useful goddess , to save our city . Exit Eteocles ."
+    },
+    {
+      "id": "1.784",
+      "label": "Section 1.784",
+      "chapter": null,
+      "original": "ὦ πολύμοχθος Ἄρης , τί ποθʼ αἵματι",
+      "translation": "O Ares , god of much suffering ! Why , why are you possessed by a love of blood and"
+    },
+    {
+      "id": "1.785",
+      "label": "Section 1.785",
+      "chapter": null,
+      "original": "καὶ θανάτῳ κατέχῃ Βρομίου παράμουσος ἑορταῖς ;",
+      "translation": "death , out of harmony with the festivals of Bromius ? Not for young girls crowned in the lovely dance do you toss your curls , singing to the flute ’ s breath a song to charm the dancers ’ feet ; no , with warriors clad in armor you inspire the Argive army with a lust"
+    },
+    {
+      "id": "1.790",
+      "label": "Section 1.790",
+      "chapter": null,
+      "original": "αἵματι Θήβας",
+      "translation": "for Theban blood , leading your revels that are held without music . Nor do you rush with wild waving of the thyrsus , clad in fawnskin , but with chariots and horses you go to the waters of Ismenus , inspiring the Argives"
+    },
+    {
+      "id": "1.795",
+      "label": "Section 1.795",
+      "chapter": null,
+      "original": "Σπαρτῶν γένναν ,",
+      "translation": "with hatred for the Spartans , arraying in bronze armor against these stone-built walls a band of warriors and their shields ."
+    },
+    {
+      "id": "1.798a",
+      "label": "Section 1.798a",
+      "chapter": null,
+      "original": "ἦ δεινά τις Ἔρις θεός , ἃ τάδε",
+      "translation": "Truly Strife is a goddess to fear , who devised these troubles for the princes of this land ,"
+    },
+    {
+      "id": "1.800",
+      "label": "Section 1.800",
+      "chapter": null,
+      "original": "Λαβδακίδαις πολυμόχθοις .",
+      "translation": "for the much-suffering sons of Labdacus ."
+    },
+    {
+      "id": "1.801",
+      "label": "Section 1.801",
+      "chapter": null,
+      "original": "ὦ ζαθέων πετάλων πολυθηρότα-",
+      "translation": "O snow-capped Cithaeron , dear to Artemis , holy vale of leaves , crowded with wild animals , would that you had never reared the one exposed to die , Oedipus , Jocasta ’ s child , when as a baby he was cast forth from his home ,"
+    },
+    {
+      "id": "1.805",
+      "label": "Section 1.805",
+      "chapter": null,
+      "original": "χρυσοδέτοις περόναις ἐπίσαμον ·",
+      "translation": "marked with a golden brooch ; and would that the Sphinx , that winged maid , monster from the hills , had never come as a grief to our land with her inharmonious songs , she that once drew near our walls and snatched the sons of Cadmus away in her taloned feet to the untrodden light of heaven ,"
+    },
+    {
+      "id": "1.810",
+      "label": "Section 1.810",
+      "chapter": null,
+      "original": "γένναν , ἃν ὁ κατὰ χθονὸς Ἅιδας",
+      "translation": "sent by Hades from hell to plague the men of Thebes ; once more unhappy strife is coming into bloom between the sons of Oedipus in home and city . For never can wrong be right ,"
+    },
+    {
+      "id": "1.815",
+      "label": "Section 1.815",
+      "chapter": null,
+      "original": "οὐδʼ οἱ μὴ νόμιμοι",
+      "translation": "nor can there be good in unlawful children , their mother ’ s birth pangs , their father ’ s pollution ; she came to the bed of her son . . . ."
+    },
+    {
+      "id": "818",
+      "label": "Section 818",
+      "chapter": null,
+      "original": "ἔτεκες , ὦ Γαῖʼ , ἔτεκές ποτε ,",
+      "translation": "O Earth , you once bore — as I heard , I heard the story told by foreigners once in my own home — you bore"
+    },
+    {
+      "id": "820",
+      "label": "Section 820",
+      "chapter": null,
+      "original": "τὰν ἀπὸ θηροτρόφου φοινικολόφοιο δράκοντος",
+      "translation": "a race which sprang of the teeth of a snake with blood-red crest , that fed on beasts , to be the glory and reproach of Thebes ."
+    },
+    {
+      "id": "822",
+      "label": "Section 822",
+      "chapter": null,
+      "original": "Ἁρμονίας δέ ποτʼ εἰς ὑμεναίους",
+      "translation": "In days gone by the sons of heaven came to the wedding of Harmonia , and the walls and towers of Thebes rose to the sound of Amphion ’ s lyre ,"
+    },
+    {
+      "id": "825",
+      "label": "Section 825",
+      "chapter": null,
+      "original": "διδύμων ποταμῶν πόρον ἀμφὶ μέσον ,",
+      "translation": "in the midst between the double streams where Dirce waters the grass-green field before Ismenus ; and Io , our horned ancestress , was mother of the kings of Thebes ;"
+    },
+    {
+      "id": "830",
+      "label": "Section 830",
+      "chapter": null,
+      "original": "μυριάδας δʼ ἀγαθῶν ἑτέροις ἑτέ-",
+      "translation": "thus our city , through an endless succession of various blessings , has set herself upon the heights , crowned with the glory of war ."
+    },
+    {
+      "id": "834",
+      "label": "Section 834",
+      "chapter": null,
+      "original": "ἡγοῦ πάροιθε , θύγατερ · ὡς τυφλῷ ποδὶ",
+      "translation": "led in by his daughter . Lead on , my daughter ; for you are an eye"
+    },
+    {
+      "id": "835",
+      "label": "Section 835",
+      "chapter": null,
+      "original": "ὀφθαλμὸς εἶ σύ , ναυβάταισιν ἄστρον ὥς ·",
+      "translation": "to my blind feet , as a star is to sailors ; lead my steps on to level ground ; then go before , so that I do not stumble , for your father has no strength ; keep safe for me in your maiden hand the auguries I took when I observed omens from birds ,"
+    },
+    {
+      "id": "840",
+      "label": "Section 840",
+      "chapter": null,
+      "original": "θάκοισιν ἐν ἱεροῖσιν , οὗ μαντεύομαι .",
+      "translation": "seated in my holy prophet ’ s chair . Tell me , Menoeceus , son of Creon , how much further toward the city is it , to your father ? For my knees grow weary , I have come a long way and can scarcely go on ."
+    },
+    {
+      "id": "845",
+      "label": "Section 845",
+      "chapter": null,
+      "original": "θάρσει · πέλας γάρ , Τειρεσία , φίλοισι σοῖς",
+      "translation": "Take heart , Teiresias , for you have reached your harbor and are near your friends ; take him by the hand , my child ; for just as every chariot has to wait for outside help to lighten it , so does the step of old age ."
+    },
+    {
+      "id": "849",
+      "label": "Section 849",
+      "chapter": null,
+      "original": "εἶἑν , πάρεσμεν · τί με καλεῖς σπουδῇ , Κρέον ;",
+      "translation": "Enough ; I have arrived ; why , Creon , do you summon me so urgently ?"
+    },
+    {
+      "id": "850",
+      "label": "Section 850",
+      "chapter": null,
+      "original": "οὔπω λελήσμεθʼ · ἀλλὰ σύλλεξαι σθένος",
+      "translation": "I have not forgotten that ; but first collect your strength and regain your breath , shaking off the fatigue of your journey ."
+    },
+    {
+      "id": "852",
+      "label": "Section 852",
+      "chapter": null,
+      "original": "κόπῳ παρεῖμαι γοῦν Ἐρεχθειδῶν ἄπο",
+      "translation": "I am indeed worn out , for I arrived here only yesterday from the court of the Erechtheidae ; they too were at war , fighting with Eumolpus ."
+    },
+    {
+      "id": "855",
+      "label": "Section 855",
+      "chapter": null,
+      "original": "οὗ καλλινίκους Κεκροπίδας ἔθηκʼ ἐγώ ·",
+      "translation": "I gave the victory to Cecrops ’ sons , and I received this golden crown , as you see , the first-fruits of the enemy ’ s spoils ."
+    }
+  ],
+  "prevChunkSlug": "phoenician-women-u9p4q-5",
+  "nextChunkSlug": "phoenician-women-u9p4q-7"
+}

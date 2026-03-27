@@ -1,0 +1,75 @@
+{
+  "loebNumber": 534,
+  "sortOrder": 534,
+  "slug": "apuleius-apologia-florida-de-deo-socratis-biwhdg",
+  "title": "Apologia. Florida. De Deo Socratis",
+  "volumeLabel": "Apologia. Florida. De Deo Socratis",
+  "authorDisplay": "Apuleius",
+  "authors": [
+    "Apuleius"
+  ],
+  "language": "latin",
+  "summary": "1 of 3 contents in Apologia. Florida. De Deo Socratis are live from Scaife, while the remaining contents stay visible until a confident pair is available.",
+  "status": "partial",
+  "defaultChunkSlug": "apologia-k3srj0",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "apologia-k3srj0",
+      "title": "Apologia",
+      "status": "ready",
+      "sectionCount": 15,
+      "chunkSlug": "apologia-k3srj0",
+      "chunks": [
+        {
+          "slug": "apologia-k3srj0",
+          "label": "Apologia",
+          "partId": "apologia-k3srj0",
+          "partTitle": "Apologia",
+          "sectionCount": 15,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "florida-ev2f99",
+      "title": "Florida",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Florida."
+    },
+    {
+      "id": "de-deo-socratis-nx1449",
+      "title": "De Deo Socratis",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for De Deo Socratis."
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "apologia-k3srj0",
+      "label": "Apologia",
+      "partId": "apologia-k3srj0",
+      "partTitle": "Apologia",
+      "sectionCount": 15,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "apologia-k3srj0",
+      "partTitle": "Apologia",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀπολογία",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg059.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Harmonides",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg059.perseus-eng3/"
+      }
+    }
+  ]
+}

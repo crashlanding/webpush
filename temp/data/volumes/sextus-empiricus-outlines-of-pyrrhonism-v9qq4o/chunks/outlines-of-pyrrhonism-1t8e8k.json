@@ -1,0 +1,52 @@
+{
+  "volumeSlug": "sextus-empiricus-outlines-of-pyrrhonism-v9qq4o",
+  "volumeTitle": "Outlines of Pyrrhonism",
+  "authorDisplay": "Sextus Empiricus",
+  "authors": [
+    "Sextus Empiricus"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "outlines-of-pyrrhonism-1t8e8k",
+  "label": "Outlines of Pyrrhonism",
+  "partId": "outlines-of-pyrrhonism-1t8e8k",
+  "partTitle": "Outlines of Pyrrhonism",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Pyrrhoniae Hypotyposes",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0544.tlg001.1st1K-grc1/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Outlines of Pyrrhonism",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0544.tlg001.1st1K-eng1/"
+    }
+  },
+  "sections": [
+    {
+      "id": "book:1",
+      "label": "Book 1",
+      "chapter": null,
+      "original": "Τάδε ἔνεστιν ἐν τῷ πρώτῳ τῶν Πυρρωνείων ὑποτυπώσεων ·\nα ′ περὶ τῆς ἀνωτάτω διαφορᾶς τῶν φιλοσοφιῶν\nβ ′ περὶ τῶν λόγων τῆς σκέψεως\nγ ′ περὶ τῶν ὀνομασιῶν αὐτῆς\nδ ′ τίς ἔννοια σκέψεως\nε ′ περὶ τοῦ σκεπτικοῦ\nς ′ περὶ τῶν ἀρχῶν αὐτῆς\nζ ′ εἰ δογματίζει ὁ σκεπτικός\nη ′ εἰ αἵρεσιν ἔχει\nθ ′ εἰ φυσιολογεῖ\nι ′ εἰ ἀναιρεῖ τὰ φαινόμενα\nια ′ περὶ τοῦ κριτηρίου τῆς σκέψεως\nιβ ′ περὶ τοῦ τέλους αὐτῆς\nιγ ′ περὶ τῶν ὁλοσχερῶν τρόπων τῆς σκέψεως\nιδ ′ περὶ τῶν δέκα τρόπων\nιε ′ περὶ τῶν πέντε τρόπων\nις ′ περὶ τῶν δύο τρόπων\nιζ ′ τίνες τρόποι τῆς τῶν αἰτιολογικῶν\nιη ′ περὶ τῶν σκεπτικῶν φωνῶν\nιθ ′ περὶ τῆς ‘ οὐ μᾶλλον φωνῆς\nκ ′ περὶ ἀφασίας\nκα ′ περὶ τοῦ ‘ τάχα ’ καὶ τοῦ ‘ ἒξεστι ’· καὶ τοῦ ‘ ἐνδέχεται ’\nκβ ′ περὶ τοῦ ‘ ἐπέχω ’\n[*] v.1.p.4\nκγ ′ περὶ τοῦ οὐδὲν ὁρίζω\nκδ ′ περὶ τοῦ πάντα ἐστὶν ἀόριστα ’\nκε ′ περὶ τοῦ πάντα ἐστὶν ἀκατάληπτα\nκζ ′ περὶ τοῦ ἀκαταληπτῶ καἲ οὐ καταλαμβάνω\nκζ ′ περὶ τοῦ παντὶ λόγῳ λόγον ἲσον ἀντικεῖσθαι\nκη ′ παραπήγματα περὶ τῶν σκεπτικῶν φωνῶν\nκθ ′ εἰ ἡ σκεπτικὴ ὁδός ἐστιν ἐπὶ τὴν Ἡρακλείτειον φιλοσοφίαν\nλ ′ εἰ διαφέρειἡ Δημοκρέτειος αἵρεσις τῆς σκέψεως\nλα ′ εἰ διαφέρει ἡ Κυρηναϊκὴ τῆς σκέψεως\nλβ ′ εἰ διαφέρει ἡ Πρωταγόρειος τῆς σκέψεως\nλγ ′ εἰ διαφέρει τῶν Ἀκαδημιῶν ἡ σκέψις\nλδ ′ εἰ ἡ κατὰ τὴν ἰατρικὴν ἐμπειρία ἡ αὐτή ἐστι τῇ σκέψει",
+      "translation": "The natural result of any investigation is that the investigators either discover the object of search or deny that it is discoverable and confess it to be inapprehensible or persist in their search . So , too , with regard to the objects investigated by philosophy , this is probably why some have claimed to have discovered the truth , others have asserted that it cannot be apprehended , while others again go on inquiring . Those who believe they have discovered it are the ‟ Dogmatists ,” specially so called — Aristotle , for example , and Epicurus and the Stoics and certain others ; Cleitomachus and Carneades and other Academics [*] treat it as inapprehensible : the Sceptics keep on searching . Hence it seems reasonable to hold that the main types of philosophy are three — the Dogmatic , the Academic , and the Sceptic . Of the other systems it will best become others to speak : our task at present is to describe in outline the Sceptic doctrine , [*] first premising that of none of our future statements do we positively affirm that the fact is exactly as we state it , but we simply record each fact , like a chronicler , as it appears to us at the moment ."
+    },
+    {
+      "id": "book:2",
+      "label": "Book 2",
+      "chapter": null,
+      "original": "ΠΥΡΡΩΝΕΙΩΝ ΥΠΟΤΥΠΩΣΕΩΝ ΤΩΝ ΕΙΣ TPIA ΤΟ ΔΕΥΤΕΡΟΝ .\n\nΤάδε ἔνεστιν ἐν τῷ δευτέρῳ τῶν Πυρρωνείων ὑποτυπώσεων .\nα ′ εἰ δύναται ζητεῖν ὁ σκεπτικός περὶ τῶν λεγομένων παρὰ τοῖς δογματικοῖς\nβ ′ πόθεν ἀρκτέον τῆς πρὸς τοὺς δογματικούς ζητήσεως\nγ ′ περὶ κριτηρίου\nδ ′ εἰ ἔστι κριτήριον ἀληθείας\nε ′ περὶ τοῦ ὑφ ’ οὖ\nς ′ περὶ τοῦ δι ’ οὖ\nζ ′ περὶ τοῦ καθ ’\nη ′ περὶ ἀληθοῦς καὶ ἀληθείας\nθ ′ εἰ ἔστι τι φύσει ἀληθές\nι ′ περὶ σημείου\nια ′ εἰ ἔστι τι σημεῖον ἐνδεικτικόν\nιβ ′ περὶ\nιγ ′ εἰ ἔστιν\nιδ ′ περὶ συλλογισμῶν\nιε ′ περὶ ἐπαγωγῆς\nις ′ περὶ ὅρων\nιζ ′ περὶ\nιη ′ περὶ τῆς ὀνόματος εἰς σημαινόμενα διαιρέσεως\nιθ ′ εἰ διαιρεῖται ὅλον εἰς μέρη\nκ ′ περὶ γενῶν καὶ εἰδῶν\nκα ′ περὶ κοινῶν συμβεβηκότων\nκβ ′ περὶ",
+      "translation": "Since we have undertaken this inquiry in criticism of the Dogmatists , [*] let us review briefly and in outline the several divisions of so-called philosophy , when we have first made reply to those who keep constantly repeating that the Sceptic is incapable of either investigating or in any way cognizing the objects about which they dogmatize . For they [*] maintain that the Sceptic either apprehends or does not apprehend the statements made by the Dogmatists ; if , then , he apprehends , how can he be perplexed about things which he has , as he says , apprehended ? Whereas if he apprehends not , then neither does he know how to discuss matters which he has not apprehended . For just as he who is ignorant , for instance , of the arguments known as ‟ How far reduced ” [*] or ‟ By two hypotheses ,” [*] is unable also to say anything about them , so the man who does not know each of the statements made by the Dogmatists is unable to criticize them concerning matters of which he has no knowledge . Thus the Sceptic is wholly incapable of investigating the statements made by the Dogmatists . Now let those who speak thus make answer and tell us in what sense they are now using the term ‟ apprehend ,” whether simply of mental conception without the further affirmation of the reality of the objects under discussion , or with the further assumption of the reality of the objects discussed . For if they say that ‟ to apprehend ” means , in their argument , to assent to an ‟ apprehensive impression ,” [*] the apprehensive impression being derived from a real object and being an imprint or stamp upon the mind corresponding to the actual object , such as would not result from what is unreal , then probably not even they themselves will wish to allow their inability to investigate things which , in this sense , they have not apprehended . Thus , for example , when the Stoic criticizes the statement of the Epicurean that ‟ Being is divided ,” [*] or that ‟ God does not foreknow events in the Universe ,” or that ‟ Pleasure is the Good ,” has he apprehended or has he not apprehended ? If he has apprehended these dogmas , by asserting their real truth he entirely overthrows the Porch ; while if he has not apprehended them , he is unable to say anything against them ."
+    },
+    {
+      "id": "3.toc.toc",
+      "label": "Section 3.toc.toc",
+      "chapter": null,
+      "original": "ΠYPPΩΝΕΙΩΝ ΥΠΟΤΥΠΩΣΩΝ ΤΩΝ ΕΙΣ TPIA ΤΟ TPITON .\n\nΤάδε ἔνεστιν ἐν τῷ τρίτῳ τῶν Πυρρωνείων ὑποτυπώσεων .\nα ′ περὶ τοῦ φυσικοῦ μέρους\nβ ′ περὶ ἀρχῶν δραστικῶν\nγ ′ περὶ θεοῦ\nδ ′ περὶ αἰτίου\nε ′ εἴ ἐστι τὶ τινὸς αἴτιον\nς ′ περὶ ἀρχῶν ὑλικῶν\nζ ′ εἰ καταληπτὰ τὰ σώματα\nη ′ περὶ κράσεως\nθ ′ περὶ κινήσεως\nι ′ περὶ τῆς μεταβατικῆς κινήσεως\nια ′ περὶ αὐξήσεως καὶ μειώσεως\nιβ ′ περὶ ἀφαιρέσεως καὶ προσθέσεως\nιγ ′ περὶ μεταθέσεως\nιδ ′ περὶ ὅλου καὶ μέρους\nιε ′ περὶ φυσικῆς μεταβολῆς\nις ′ περὶ γενέσεως καὶ φθορᾶς\nιζ ′ περὶ μονῆς\nιη ′ περὶ τόπου\nιθ ′ περὶ χρόνου\nκ ′ περὶ ἀριθμοῦ\nκα ′ περὶ τοῦ ἠθικοῦ μέρους\nκβ ′ τί ἐστι φύσει ἀγαθὸν καὶ κακὸν καὶ ἀδιάφορον\nκγ ′ εἰ ἔστι τι τούτων φύσει\nκδ ′ τί ἐστιν ἡ λεγομένη τέχνη περὶ βίον\nκε ′ εἰ ἔστι τέχνη περὶ βίον\nκς ′ εἰ γίνεται ἐν ἀνθρώποις ἡ περὶ τὸν βίον τέχνη\nκζ ′ εἰ διδακτή ἐστιν ἡ περὶ τὸν βίον τέχνη\n[*] v.1.p.133\nκη ′ εἰ ἔστι τι διδασκόμενον\nκθ ′ εἰ ἔστιν ὁ διδάσκων καὶ ὁ μανθάνων\nλ ′ εἰ ἔστι τις μαθήσεως τρόπος\nλα ′ εἰ ὠφελεῖ ἡ περὶ τὸν βιὸν τέχνη τὸν ἔχοντα αὐτήν\nλβ ′ διὰ τὶ ὁ σκεπτικὸς ἐνίοτε ἀμυδρούς ταῖς πιθανότησιν ἐρωτᾶν ἐπιτηδεύει λόγους .",
+      "translation": "Concerning the logical division of what is called ‟ Philosophy ” [*] the foregoing account may suffice by way of outline ."
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": null
+}

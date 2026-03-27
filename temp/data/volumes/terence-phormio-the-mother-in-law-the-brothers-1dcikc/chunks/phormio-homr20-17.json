@@ -1,0 +1,66 @@
+{
+  "volumeSlug": "terence-phormio-the-mother-in-law-the-brothers-1dcikc",
+  "volumeTitle": "Phormio. The Mother-in-Law. The Brothers",
+  "authorDisplay": "Terence",
+  "authors": [
+    "Terence"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "phormio-homr20-17",
+  "label": "Phormio (Section 5.8.1054b - Section 5.8.1055c)",
+  "partId": "phormio-homr20",
+  "partTitle": "Phormio",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Phormio",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Phormio; or, The Scheming Parasite",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "5.8.1054b",
+      "label": "Section 5.8.1054b",
+      "chapter": null,
+      "original": "Eamus intro hinc .",
+      "translation": "Let us now away in-doors ."
+    },
+    {
+      "id": "5.8.1054c",
+      "label": "Section 5.8.1054c",
+      "chapter": null,
+      "original": "Fiat : sed ubi est Phaedria ,",
+      "translation": "By all means ; but where is Phaedria ,"
+    },
+    {
+      "id": "5.8.1055",
+      "label": "Section 5.8.1055",
+      "chapter": null,
+      "original": "Iudex noster ?",
+      "translation": "our arbitrator ?"
+    },
+    {
+      "id": "5.8.1055b",
+      "label": "Section 5.8.1055b",
+      "chapter": null,
+      "original": "Iam hic faxo aderit .",
+      "translation": "I ’ ll have him here just now ."
+    },
+    {
+      "id": "5.8.1055c",
+      "label": "Section 5.8.1055c",
+      "chapter": null,
+      "original": "Vos valete et plaudite .",
+      "translation": "( To the AUDIENCE .) Fare you well , and grant us your applause . [*]"
+    }
+  ],
+  "prevChunkSlug": "phormio-homr20-16",
+  "nextChunkSlug": "the-mother-in-law-p1f7n9"
+}

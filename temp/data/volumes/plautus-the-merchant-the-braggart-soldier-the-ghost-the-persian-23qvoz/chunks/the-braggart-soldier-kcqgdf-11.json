@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-braggart-soldier-kcqgdf-11",
+  "label": "The Braggart Soldier (Section 3.3.887 - Section 4.1.958b)",
+  "partId": "the-braggart-soldier-kcqgdf",
+  "partTitle": "The Braggart Soldier",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Miles Gloriosus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Miles Gloriosus, or The Braggart Captain",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "3.3.887",
+      "label": "Section 3.3.887",
+      "chapter": null,
+      "original": "Si quid faciendum est mulieri male atque malitiose ,",
+      "translation": "If a woman has anything to do mischievously and maliciously , in that case her memory is immortal at remembering it for everlasting ; but if anything is to be done for a good purpose , or honestly ,"
+    },
+    {
+      "id": "3.3.890",
+      "label": "Section 3.3.890",
+      "chapter": null,
+      "original": "obliviosae extempulo fiunt , meminisse nequeunt .",
+      "translation": "it will fall out that those same women will become oblivious that instant , and be unable to remember ."
+    },
+    {
+      "id": "3.3.891",
+      "label": "Section 3.3.891",
+      "chapter": null,
+      "original": "Ergo istuc metuo , quom venit vobis faciundum utrumque :",
+      "translation": "Therefore do I fear that same , because both those things happen to be about to be done by us ; for that will be a benefit to me in which you both will be acting mischievously towards the Captain ."
+    },
+    {
+      "id": "3.3.893",
+      "label": "Section 3.3.893",
+      "chapter": null,
+      "original": "Dum nescientes quod bonum faciamus , ne formida .",
+      "translation": "So long as we do anything that ’ s good , not knowing it , don ’ t you fear . No woman is awkward ⋯ Have no apprehensions , they are ready for the worst ."
+    },
+    {
+      "id": "3.3.896",
+      "label": "Section 3.3.896",
+      "chapter": null,
+      "original": "Ita vos decet . consequimini .",
+      "translation": "So it befits you . Do you follow me ."
+    },
+    {
+      "id": "3.3.896b",
+      "label": "Section 3.3.896b",
+      "chapter": null,
+      "original": "Cesso égo illis obviam ire ?",
+      "translation": "Why do I hesitate to go and accost them ?"
+    },
+    {
+      "id": "3.3.897",
+      "label": "Section 3.3.897",
+      "chapter": null,
+      "original": "venire salvom gaudeo , lepide hercle ornatus incedis .",
+      "translation": "I am glad that you have come safe . I ’ faith , you bring them nicely dressed ."
+    },
+    {
+      "id": "3.3.898",
+      "label": "Section 3.3.898",
+      "chapter": null,
+      "original": "Bene opportuneque obviam es , Palaestrio . em tibi adsunt",
+      "translation": "Well met , and opportunely , Palaestrio . See , here they are whom you commissioned me to bring , and in the very dress ."
+    },
+    {
+      "id": "3.3.899b",
+      "label": "Section 3.3.899b",
+      "chapter": null,
+      "original": "eu , noster esto .",
+      "translation": "Well done : accept my thanks ."
+    },
+    {
+      "id": "3.3.900",
+      "label": "Section 3.3.900",
+      "chapter": null,
+      "original": "Palaestrio Acroteleutium salutat .",
+      "translation": "Palaestrio salutes Acroteleutium ."
+    },
+    {
+      "id": "3.3.900b",
+      "label": "Section 3.3.900b",
+      "chapter": null,
+      "original": "Quis hic amabo est ,",
+      "translation": "Prithee , who ’ s this , that calls me so familiarly by name ?"
+    },
+    {
+      "id": "3.3.901b",
+      "label": "Section 3.3.901b",
+      "chapter": null,
+      "original": "Hic noster architectust .",
+      "translation": "This is our master-plotter ."
+    },
+    {
+      "id": "3.3.902",
+      "label": "Section 3.3.902",
+      "chapter": null,
+      "original": "Salve , architecte .",
+      "translation": "Health to you , master-plotter ."
+    },
+    {
+      "id": "3.3.902b",
+      "label": "Section 3.3.902b",
+      "chapter": null,
+      "original": "Salva sis . sed dic mihi , ecquid hic te",
+      "translation": "And health to you . But , tell me , has he any way given you full instructions ?"
+    },
+    {
+      "id": "3.3.903b",
+      "label": "Section 3.3.903b",
+      "chapter": null,
+      "original": "Probe meditatam utramque duco .",
+      "translation": "I bring them both thoroughly prepared ."
+    },
+    {
+      "id": "3.3.904",
+      "label": "Section 3.3.904",
+      "chapter": null,
+      "original": "Audire cupio , quem ad modum ; ne quid peccetis paveo .",
+      "translation": "I ’ d like to hear how . I ’ m afraid lest you should be making some mistake ."
+    },
+    {
+      "id": "3.3.905",
+      "label": "Section 3.3.905",
+      "chapter": null,
+      "original": "Ad tua praecepta de meo nihil his novom adposivi .",
+      "translation": "I have added to your instructions nothing new of my own ."
+    },
+    {
+      "id": "3.3.906",
+      "label": "Section 3.3.906",
+      "chapter": null,
+      "original": "Nempe lúdificari militem tuom erum vis ?",
+      "translation": "I suppose you wish the Captain , your master , to be gulled ."
+    },
+    {
+      "id": "3.3.906b",
+      "label": "Section 3.3.906b",
+      "chapter": null,
+      "original": "Exlocuta es .",
+      "translation": "You ’ ve said what ’ s true ."
+    },
+    {
+      "id": "3.3.907",
+      "label": "Section 3.3.907",
+      "chapter": null,
+      "original": "Lepide et sapienter , commode et facete res paratast .",
+      "translation": "Cleverly and skilfully , adroitly and pleasantly , the whole thing is planned ."
+    },
+    {
+      "id": "3.3.908",
+      "label": "Section 3.3.908",
+      "chapter": null,
+      "original": "Atque huius uxorem volo te esse adsimulare .",
+      "translation": "In fact , I wish you to pretend to be his wife ."
+    },
+    {
+      "id": "3.3.908b",
+      "label": "Section 3.3.908b",
+      "chapter": null,
+      "original": "Fiet .",
+      "translation": "That shall be done ."
+    },
+    {
+      "id": "3.3.909",
+      "label": "Section 3.3.909",
+      "chapter": null,
+      "original": "Quasi militi animum adieceris , simulare .",
+      "translation": "To pretend as though you had set your affection on the Captain ."
+    },
+    {
+      "id": "3.3.909b",
+      "label": "Section 3.3.909b",
+      "chapter": null,
+      "original": "Sic futurum est .",
+      "translation": "And so it shall be ."
+    },
+    {
+      "id": "3.3.910",
+      "label": "Section 3.3.910",
+      "chapter": null,
+      "original": "Quasique ea res per me interpretem et tuam ancillam ei curetur .",
+      "translation": "And as though this affair is managed through me , as the go-between , and your servant-maid ."
+    },
+    {
+      "id": "3.3.911",
+      "label": "Section 3.3.911",
+      "chapter": null,
+      "original": "Bonus vátes poteras esse , nam quae sunt futura dicis .",
+      "translation": "You might have made a good prophet ; for you tell what is to be ."
+    },
+    {
+      "id": "3.3.912",
+      "label": "Section 3.3.912",
+      "chapter": null,
+      "original": "Quasique anulum hunc ancillula tua abs té detulerit ad me ,",
+      "translation": "As though this maid of yours had conveyed from you this ring to me , which I was then to deliver to the Captain , in your name ."
+    },
+    {
+      "id": "3.3.913b",
+      "label": "Section 3.3.913b",
+      "chapter": null,
+      "original": "Vera dicis .",
+      "translation": "You say what ’ s true ."
+    },
+    {
+      "id": "3.3.914",
+      "label": "Section 3.3.914",
+      "chapter": null,
+      "original": "Quid istís nunc memoratis opust quae commeminere ?",
+      "translation": "What need is there to mention these things now , which they remember so well ?"
+    },
+    {
+      "id": "3.3.914b",
+      "label": "Section 3.3.914b",
+      "chapter": null,
+      "original": "Meliust .",
+      "translation": "Still , it is better ."
+    },
+    {
+      "id": "3.3.915",
+      "label": "Section 3.3.915",
+      "chapter": null,
+      "original": "nam , mi patrone , hoc cogitato , ubi probus est architectus ,",
+      "translation": "For think of this , my patron ; when the shipwright is skilful , if he has once laid down the keel exact to its lines , ’ tis easy to build the ship , when ⋯ Now this keel of ours has been skilfully laid and firmly placed ; the workmen and the master-builders are not unskilled in this business ."
+    },
+    {
+      "id": "3.3.920",
+      "label": "Section 3.3.920",
+      "chapter": null,
+      "original": "si non nos materiarius remoratur , quod opus qui det",
+      "translation": "If he who furnishes the timber [*] does not retard us in giving what is needed , I know the adroitness of our ingenuity — soon will the ship be got ready ."
+    },
+    {
+      "id": "3.3.922",
+      "label": "Section 3.3.922",
+      "chapter": null,
+      "original": "Nempe tú novisti militem meum erum ?",
+      "translation": "You know the Captain , my master , then ?"
+    },
+    {
+      "id": "3.3.922b",
+      "label": "Section 3.3.922b",
+      "chapter": null,
+      "original": "Rogare mirumst .",
+      "translation": "’ Tis strange you should ask me . How could I not know that scorn of the public , that swaggering , frizzle-headed , perfumed debauchee ?"
+    },
+    {
+      "id": "3.3.924b",
+      "label": "Section 3.3.924b",
+      "chapter": null,
+      "original": "Num ille te nam novit ?",
+      "translation": "But does he know you ?"
+    },
+    {
+      "id": "3.3.924c",
+      "label": "Section 3.3.924c",
+      "chapter": null,
+      "original": "Numquam vidit :",
+      "translation": "He never saw me : how , then , should he know who I am ?"
+    },
+    {
+      "id": "3.3.925b",
+      "label": "Section 3.3.925b",
+      "chapter": null,
+      "original": "Nimis lépide fabulare ;",
+      "translation": "’ Tis most excellent what you say . For that reason , i ’ faith , the thing will be able to be managed all the more cleverly ."
+    },
+    {
+      "id": "3.3.926b",
+      "label": "Section 3.3.926b",
+      "chapter": null,
+      "original": "Potin ut hominem",
+      "translation": "Can you only find me the man , and then be easy as to the rest ? If I don ’ t make a fool of the fellow , do you lay all the blame on me ."
+    },
+    {
+      "id": "3.3.928b",
+      "label": "Section 3.3.928b",
+      "chapter": null,
+      "original": "Age igitur intro abite ,",
+      "translation": "Well , go you in then ; apply yourselves to this business with all your skill ."
+    },
+    {
+      "id": "3.3.929b",
+      "label": "Section 3.3.929b",
+      "chapter": null,
+      "original": "Alia cura .",
+      "translation": "Trust me for that [*] ."
+    },
+    {
+      "id": "3.3.930",
+      "label": "Section 3.3.930",
+      "chapter": null,
+      "original": "Age , Periplectomene , has nunciam duc intro ; ego ad forum illum",
+      "translation": "Come , Periplecomenus , do you conduct them at once in-doors . I ’ m off to the Forum ; I ’ ll meet him , and give him this ring , and will tell him that it has been delivered to me from your wife , and that she is dying for him . As soon as we shall have come from the Forum , do you send her ( points to MILPHIDIPPA ) to our house as though she were privately sent to him ."
+    },
+    {
+      "id": "3.3.934b",
+      "label": "Section 3.3.934b",
+      "chapter": null,
+      "original": "Faciemus . alia cura .",
+      "translation": "We ’ ll do so ; trust us for that ."
+    },
+    {
+      "id": "3.3.935",
+      "label": "Section 3.3.935",
+      "chapter": null,
+      "original": "Vos modo curate , ego illúm probe iam oneratum huc acciebo . —",
+      "translation": "Do you only attend to the business ; I ’ ll now polish him off with a pretty burden on his back ."
+    },
+    {
+      "id": "3.3.936",
+      "label": "Section 3.3.936",
+      "chapter": null,
+      "original": "Bene ambula , bene rem geras . egone hoc si efficiam plane ,",
+      "translation": "Go , with good luck to you , manage the matter cleverly . ( To ACROTELEUTIUM .) But now , if I shall manage this adroitly , that my guest can this day gain the mistress of the Captain , and carry her off hence to Athens ; if , I say , this day we shall succeed in this plan ,"
+    },
+    {
+      "id": "3.3.939_940",
+      "label": "Section 3.3.939_940",
+      "chapter": null,
+      "original": "quid tibi ego mittam muneris !",
+      "translation": "what shall I give you for a present ?"
+    },
+    {
+      "id": "3.3.939_940b",
+      "label": "Section 3.3.939_940b",
+      "chapter": null,
+      "original": "Datne ab se mulier operam ?",
+      "translation": "⋯ If now the lady seconds our efforts on her part ,"
+    },
+    {
+      "id": "3.3.941",
+      "label": "Section 3.3.941",
+      "chapter": null,
+      "original": "Lepidissume et compsissume .",
+      "translation": "I think it will be right cleverly and adroitly managed ."
+    },
+    {
+      "id": "3.3.941b",
+      "label": "Section 3.3.941b",
+      "chapter": null,
+      "original": "Confido confuturum .",
+      "translation": "When a comparison shall be made of our artifices , I have no fear that I shall not prove superior in the cleverness of my contrivances ."
+    },
+    {
+      "id": "3.3.944",
+      "label": "Section 3.3.944",
+      "chapter": null,
+      "original": "Abeamus ergo intro , haec uti meditemur cogitate ,",
+      "translation": "Let ’ s go in-doors , then , that we may deeply weigh these plans ,"
+    },
+    {
+      "id": "3.3.945",
+      "label": "Section 3.3.945",
+      "chapter": null,
+      "original": "ut accurate et commode hoc quod agendumst exsequamur ,",
+      "translation": "that carefully and cautiously we may carry out what is to be done , so that , when the Captain comes , there may be no tripping ."
+    },
+    {
+      "id": "3.3.946b",
+      "label": "Section 3.3.946b",
+      "chapter": null,
+      "original": "Tu morare . —",
+      "translation": "You are delaying us with your talk ."
+    },
+    {
+      "id": "4.1.947",
+      "label": "Section 4.1.947",
+      "chapter": null,
+      "original": "Vólup est , quod agas , si id procedit lepide at que ex sententia ;",
+      "translation": "’ Tis a pleasure what you do , if it succeeds agreably and to your mind . For I this day have sent my Parasite to King Seleucus , to lead those soldiers , that I have levied , hence to Seleucus ;"
+    },
+    {
+      "id": "4.1.950",
+      "label": "Section 4.1.950",
+      "chapter": null,
+      "original": "qui eius regnum tutarentur , mihi dum fieret otium",
+      "translation": "in order that they may defend his kingdom till I have leisure to attend in person ."
+    },
+    {
+      "id": "4.1.951",
+      "label": "Section 4.1.951",
+      "chapter": null,
+      "original": "Quin tu tuam rem cura potius quam Seleuci , quae tibi",
+      "translation": "Why don ’ t you attend to your own concerns rather than those of Seleucus . What a charming new proposal is being offered to you through me as the negotiator ."
+    },
+    {
+      "id": "4.1.953",
+      "label": "Section 4.1.953",
+      "chapter": null,
+      "original": "Immo omnis res posteriores pono atque operam do tibi .",
+      "translation": "Well then , I lay all other things aside , and I give my attention to you . Speak out : my ears , in fact , I surrender at your disposal ."
+    },
+    {
+      "id": "4.1.955",
+      "label": "Section 4.1.955",
+      "chapter": null,
+      "original": "Circumspice dum , ne quis nostro hic auceps sermoni siet .",
+      "translation": "Look around , then , that no one here may be an eavesdropper for our discourse ; for this business was entrusted me to transact with you in private ."
+    },
+    {
+      "id": "4.1.957",
+      "label": "Section 4.1.957",
+      "chapter": null,
+      "original": "Nemo adest .",
+      "translation": "( looks around ). There ’ s no one near ."
+    },
+    {
+      "id": "4.1.957b",
+      "label": "Section 4.1.957b",
+      "chapter": null,
+      "original": "Hunc arrabonem amoris primum a me accipe .",
+      "translation": "In the first place , receive from me this pledge of affection . ( Gives him the ring .)"
+    },
+    {
+      "id": "4.1.958",
+      "label": "Section 4.1.958",
+      "chapter": null,
+      "original": "Quid hic ? unde est ?",
+      "translation": "What ’ s this ? Whence comes it ?"
+    },
+    {
+      "id": "4.1.958b",
+      "label": "Section 4.1.958b",
+      "chapter": null,
+      "original": "A luculenta átque festiva femina ,",
+      "translation": "From a charming and a handsome lady , one who loves you , and dotes upon your extreme beauty ."
+    }
+  ],
+  "prevChunkSlug": "the-braggart-soldier-kcqgdf-10",
+  "nextChunkSlug": "the-braggart-soldier-kcqgdf-12"
+}

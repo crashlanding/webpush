@@ -1,0 +1,479 @@
+{
+  "volumeSlug": "plutarch-lives-volume-ii-lhuc0g",
+  "volumeTitle": "Lives, Volume II",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "themistocles-1cxbmi",
+  "label": "Themistocles",
+  "partId": "lives-volume-ii-15nalc",
+  "partTitle": "Lives, Volume II",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Θεμιστοκλῆς",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg010.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Themistocles",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg010.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1",
+      "label": "Section 1.1",
+      "chapter": null,
+      "original": "Θεμιστοκλεῖ δὲ τὰ μὲν ἐκ γένους ἀμαυρότερα πρὸς δόξαν ὑπῆρχε · πατρὸς γὰρ ἦν Νεοκλέους οὐ τῶν ἄγαν ἐπιφανῶν Ἀθήνησι , Φρεαρρίου τῶν δήμων ἐκ τῆς Λεοντίδος φυλῆς , νόθος δὲ πρὸς μητρός , ὡς λέγουσιν ·\nἈβρότονον Θρήϊσσα γυνὴ γένος · ἀλλὰ τεκέσθαι τὸν μέγαν Ἕλλησίν φημι Θεμιστοκλέα .\nAthenaeus 13.576.",
+      "translation": "In the case of Themistocles , [*] his family was too obscure to further his reputation . His father was Neocles ,— no very conspicuous man at Athens ,— a Phrearrhian by deme , of the tribe Leontis ; and on his mother ’ s side he was an alien , as her epitaph testifies :—\nAbrotonon was I , and a woman of Thrace , yet I brought forth That great light of the Greeks ,— know ! ’ twas Themistocles .\n[*]"
+    },
+    {
+      "id": "1.2",
+      "label": "Section 1.2",
+      "chapter": null,
+      "original": "Φανίας μέντοι τὴν μητέρα τοῦ Θεμιστοκλέους οὐ Θρᾷτταν , ἀλλὰ Καρίνην , οὐδʼ Ἀβρότονον ὄνομα , ἀλλʼ Εὐτέρπην ἀναγράφει . Νεάνθης δὲ καὶ πόλιν αὐτῇ τῆς Καρίας Ἀλικαρνασσὸν προστίθησι .\nδιὸ καὶ τῶν νόθων εἰς Κυνόσαργες συντελούντων ( τοῦτο δʼ ἐστὶν ἔξω πυλῶν γυμνάσιον Ἡρακλέους , ἐπεὶ κἀκεῖνος οὐκ ἦν γνήσιος ἐν θεοῖς , ἀλλʼ ἐνείχετο νοθείᾳ διὰ τὴν μητέρα θνητὴν οὖσαν ) ἔπειθέ τινας ὁ Θεμιστοκλῆς τῶν εὖ γεγονότων νεανίσκων καταβαίνοντας εἰς τὸ Κυνόσαργες ἀλείφεσθαι μετʼ αὐτοῦ . καὶ τούτου γενομένου δοκεῖ πανούργως τὸν τῶν νόθων καὶ γνησίων διορισμὸν ἀνελεῖν .",
+      "translation": "Phanias , however , writes that the mother of Themistocles was not a Thracian , but a Carian woman , and that her name was not Abrotonon , but Euterpe . And Neanthes actually adds the name of her city in Caria ,— Halicarnassus . It was for the reason given , and because the aliens were wont to frequent Cynosarges ,— this is a place outside the gates , a gymnasium of Heracles ; for he too was not a legitimate god , but had something alien about him , from the fact that his mother was a mortal ,— that Themistocles sought to induce certain well-born youths to go out to Cynosarges and exercise with him ; and by his success in this bit of cunning he is thought to have removed the distinction between aliens and legitimates ."
+    },
+    {
+      "id": "2.1",
+      "label": "Section 2.1",
+      "chapter": null,
+      "original": "ἔτι δὲ παῖς ὢν ὁμολογεῖται φορᾶς μεστὸς εἶναι , καὶ τῇ μὲν φύσει συνετός , τῇ δὲ προαιρέσει μεγαλοπράγμων καὶ πολιτικός . ἐν γὰρ ταῖς ἀνέσεσι καὶ σχολαῖς ἀπὸ τῶν μαθημάτων γινόμενος οὐκ ἔπαιζεν οὐδʼ ἐρρᾳθύμει , καθάπερ οἱ λοιποὶ παῖδες , ἀλλʼ εὑρίσκετο λόγους τινὰς μελετῶν καὶ συνταττόμενος πρὸς ἑαυτόν . ἦσαν δʼ οἱ λόγοι κατηγορία τινὸς ἢ συνηγορία τῶν παίδων .",
+      "translation": "However lowly his birth , it is agreed on all hands that while yet a boy he was impetuous , by nature sagacious , and by election enterprising and prone to public life . In times of relaxation and leisure , when absolved from his lessons , he would not play nor indulge his ease , as the rest of the boys did , but would be found composing and rehearsing to himself mock speeches . These speeches would be"
+    },
+    {
+      "id": "2.2",
+      "label": "Section 2.2",
+      "chapter": null,
+      "original": "ὅθεν εἰώθει λέγειν πρὸς αὐτὸν ὁ διδάσκαλος ὡς οὐδὲν ἔσῃ , παῖ , σὺ μικρόν , ἀλλὰ μέγα πάντως ἀγαθὸν ἢ κακόν . ἐπεὶ καὶ τῶν παιδεύσεων τὰς μὲν ἠθοποιοὺς ἢ πρὸς ἡδονήν τινα καὶ χάριν ἐλευθέριον σπουδαζομένας ὀκνηρῶς καὶ ἀπροθύμως ἐξεμάνθανε , τῶν δὲ εἰς σύνεσιν ἢ πρᾶξιν λεγομένων δῆλος ἦν ὑπερορῶν [*] παρʼ ἡλικίαν , ὡς τῇ φύσει πιστεύων .",
+      "translation": "in accusation or defence of some boy or other . Wherefore his teacher was wont to say to him : My boy , thou wilt be nothing insignificant , but something great , of a surety , either for good or evil . Moreover , when he was set to study , those branches which aimed at the formation of character , or ministered to any gratification or grace of a liberal sort , he would learn reluctantly and sluggishly ; and to all that was said for the cultivation of sagacity or practical efficiency , he clearly showed an indifference far beyond his years , as though he put his confidence in his natural gifts alone ."
+    },
+    {
+      "id": "3.1",
+      "label": "Section 3.1",
+      "chapter": null,
+      "original": "ταχὺ μέντοι καὶ νεανικῶς ἔοικεν ἅψασθαι τοῦ Θεμιστοκλέους τὰ πολιτικὰ πράγματα καὶ σφόδρα ἡ πρὸς δόξαν ὁρμὴ κρατῆσαι . διʼ ἣν εὐθὺς ἐξ ἀρχῆς τοῦ πρωτεύειν ἐφιέμενος ἰταμῶς ὑφίστατο τὰς πρὸς τοὺς δυναμένους ἐν τῇ πόλει καὶ πρωτεύοντας ἀπεχθείας , μάλιστα δὲ Ἀριστείδην τὸν Λυσιμάχου , τὴν ἐναντίαν ἀεὶ πορευόμενον [*] αὐτῷ . καίτοι δοκεῖ παντάπασιν ἡ πρὸς τοῦτον ἔχθρα μειρακιώδη λαβεῖν ἀρχήν · ἠράσθησαν γὰρ ἀμφότεροι τοῦ καλοῦ Στησίλεω , Κείου τὸ γένος ὄντος , ὡς Ἀρίστων ὁ φιλόσοφος ἱστόρηκεν .",
+      "translation": "Speedily , however , as it seems , and while he was still in all the ardor of youth , public affairs laid their grasp upon Themistocles , and his impulse to win reputation got strong mastery over him . Wherefore , from the very beginning , in his desire to be first , he boldly encountered the enmity of men who had power and were already first in the city , especially that of Aristides the son of Lysimachus , who was always his opponent . And yet it is thought that his enmity with this man had an altogether puerile beginning . They were both lovers of the beautiful Stesilaus , a native of Ceos , as Ariston the philosopher has recorded , and thenceforward they continued to be rivals in public life also ."
+    },
+    {
+      "id": "3.2",
+      "label": "Section 3.2",
+      "chapter": null,
+      "original": "ἐκ δὲ τούτου διετέλουν καὶ περὶ τὰ δημόσια στασιάζοντες . οὐ μὴν ἀλλʼ ἡ τῶν βίων καὶ τῶν τρόπων ἀνομοιότης ἔοικεν αὐξῆσαι τὴν διαφοράν . πρᾷος γὰρ ὢν φύσει καὶ καλοκαγαθικὸς τὸν τρόπον ὁ Ἀριστείδης , καὶ πολιτευόμενος οὐ πρὸς χάριν οὐδὲ πρὸς δόξαν , ἀλλʼ ἀπὸ τοῦ βελτίστου μετὰ ἀσφαλείας καὶ δικαιοσύνης , ἠναγκάζετο τῷ Θεμιστοκλεῖ τὸν δῆμον ἐπὶ πολλὰ κινοῦντι καὶ μεγάλας ἐπιφέροντι καινοτομίας ἐναντιοῦσθαι πολλάκις , ἐνιστάμενος αὐτοῦ πρὸς τὴν αὔξησιν .",
+      "translation": "However , the dissimilarity in their lives and characters is likely to have increased their variance . Aristides was gentle by nature , and a conservative in character . He engaged in public life , not to win favour or reputation , but to secure the best results consistent with safety and righteousness , and so he was compelled , since Themistocles stirred the people up to many novel enterprises and introduced great innovations , to oppose him often , and to take a firm stand against his increasing influence ."
+    },
+    {
+      "id": "4.1",
+      "label": "Section 4.1",
+      "chapter": null,
+      "original": "καὶ πρῶτον μὲν τὴν Λαυρεωτικὴν πρόσοδον ἀπὸ τῶν ἀργυρείων μετάλλων ἔθος ἐχόντων Ἀθηναίων διανέμεσθαι , μόνος εἰπεῖν ἐτόλμησε παρελθὼν εἰς τὸν δῆμον , ὡς χρὴ τὴν διανομὴν ἐάσαντας ἐκ τῶν χρημάτων τούτων κατασκευάσασθαι τριήρεις ἐπὶ τὸν πρὸς Αἰγινήτας πόλεμον . ἤκμαζε γὰρ οὗτος ἐν τῇ Ἑλλάδι μάλιστα καὶ κατεῖχον οἱ νησιῶται [*] πλήθει νεῶν τὴν θάλασσαν .",
+      "translation": "And so , in the first place , whereas the Athenians were wont to divide up among themselves the revenue coming from the silver mines at Laureium , he , and he alone , dared to come before the people with a motion that this division be given up , and that with these moneys triremes be constructed for the war against Aegina . [*] This was the fiercest war then troubling Hellas , and the islanders controlled the sea , owing to the number of their ships ."
+    },
+    {
+      "id": "4.2",
+      "label": "Section 4.2",
+      "chapter": null,
+      "original": "ᾗ καὶ ῥᾷον Θεμιστοκλῆς συνέπεισεν , οὐ Δαρεῖον οὐδὲ Πέρσας μακρὰν γὰρ ἦσαν οὗτοι καὶ δέος οὐ πάνυ βέβαιον ὡς ἀφιξόμενοι παρεῖχον ἐπισείων , ἀλλὰ τῇ πρὸς Αἰγινήτας ὀργῇ καὶ φιλονεικίᾳ τῶν πολιτῶν ἀποχρησάμενος εὐκαίρως ἐπὶ τὴν παρασκευήν . ἑκατὸν γὰρ ἀπὸ τῶν χρημάτων ἐκείνων ἐποιήθησαν τριήρεις , αἷς [*] καὶ πρὸς Ξέρξην ἐναυμάχησαν .",
+      "translation": "Wherefore all the more easily did Themistocles carry his point , not by trying to terrify the citizens with dreadful pictures of Darius or the Persians — these were too far away and inspired no very serious fear of their coming , but by making opportune use of the bitter jealousy which they cherished toward Aegina in order to secure the armament he desired . The result was that with those moneys they built a hundred triremes , with which they actually fought at Salamis [*] against Xerxes ."
+    },
+    {
+      "id": "5.1",
+      "label": "Section 5.1",
+      "chapter": null,
+      "original": "σύντονον δὲ αὐτὸν γεγονέναι χρηματιστὴν οἱ μέν τινές φασι διʼ ἐλευθεριότητα · καὶ γὰρ φιλοθύτην ὄντα καὶ λαμπρὸν ἐν ταῖς περὶ τοὺς ξένους δαπάναις ἀφθόνου δεῖσθαι χορηγίας · οἱ δὲ τοὐναντίον γλισχρότητα πολλὴν καὶ μικρολογίαν κατηγοροῦσιν , ὡς καὶ τὰ πεμπόμενα τῶν ἐδωδίμων πωλοῦντος .",
+      "translation": "Some say that Themistocles was an eager money-maker because of his liberality ; for since he was fond of entertaining , and lavished money splendidly on his guests , he required a generous budget . Others , on the contrary , denounce his great stinginess and parsimony , claiming that he used to sell the very food sent in to him as a gift ."
+    },
+    {
+      "id": "5.2",
+      "label": "Section 5.2",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ Φιλίδης ὁ ἱπποτρόφος αἰτηθεὶς ὑπʼ αὐτοῦ πῶλον οὐκ ἔδωκεν , ἠπείλησε τὴν οἰκίαν αὐτοῦ ταχὺ ποιήσειν δούρειον ἵππον , αἰνιξάμενος ἐγκλήματα συγγενικὰ καὶ δίκας τῷ ἀνθρώπῳ πρὸς οἰκείους τινὰς ταράξειν .\nτῇ δὲ φιλοτιμίᾳ πάντας ὑπερέβαλεν , ὥστʼ ἔτι μὲν νέος ὢν καὶ ἀφανὴς Ἐπικλέα τὸν ἐξ Ἑρμιόνης κιθαριστὴν σπουδαζόμενον ὑπὸ τῶν Ἀθηναίων ἐκλιπαρῆσαι μελετᾶν παρʼ αὐτῷ , φιλοτιμούμενος πολλοὺς τὴν οἰκίαν ζητεῖν καὶ φοιτᾶν πρὸς αὐτόν .",
+      "translation": "When Philides the horse-breeder was asked by him for a colt and would not give it , Themistocles threatened speedily to make his house a wooden horse ; thereby darkly intimating that he would stir up accusations against him in his own family , and lawsuits between the man and those of his own household . In his ambition he surpassed all men . For instance , while he was still young and obscure , he prevailed upon Epicles of Hermione , a harpist who was eagerly sought after by the Athenians , to practise at his house , because he was ambitious that many should seek out his dwelling and come often to see him ."
+    },
+    {
+      "id": "6.1",
+      "label": "Section 6.1",
+      "chapter": null,
+      "original": "ἤδη δὲ τοῦ Μήδου καταβαίνοντος ἐπὶ τὴν Ἑλλάδα καὶ τῶν Ἀθηναίων βουλευομένων περὶ στρατηγοῦ , τοὺς μὲν ἄλλους ἑκόντας ἐκστῆναι τῆς στρατηγίας λέγουσιν ἐκπεπληγμένους τὸν κίνδυνον , Ἐπικύδην δὲ τὸν Εὐφημίδου , δημαγωγὸν ὄντα δεινὸν μὲν εἰπεῖν , μαλακὸν δὲ τὴν ψυχὴν καὶ χρημάτων ἥττονα , τῆς ἀρχῆς ἐφίεσθαι καὶ κρατήσειν ἐπίδοξον εἶναι τῇ χειροτονίᾳ . τὸν οὖν Θεμιστοκλέα δείσαντα , μὴ τὰ πράγματα διαφθαρείη παντάπασι τῆς ἡγεμονίας εἰς ἐκεῖνον ἐμπεσούσης , χρήμασι τὴν φιλοτιμίαν ἐξωνήσασθαι παρὰ τοῦ Ἐπικύδους .",
+      "translation": "At last , when the Mede was descending upon Hellas and the Athenians were deliberating who should be their general , all the rest , they say , voluntarily renounced their claims to the generalship , so panic-stricken were they at the danger ; but Epicydes , the son of Euphemides , a popular leader who was powerful in speech but effeminate in spirit and open to bribes , set out to get the office , and was likely to prevail in the election ; so Themistocles , fearing lest matters should go to utter ruin in case the leadership fell to such a man , bribed and bought off the ambition of Epicydes ."
+    },
+    {
+      "id": "6.2",
+      "label": "Section 6.2",
+      "chapter": null,
+      "original": "ἐπαινεῖται δʼ αὐτοῦ καὶ τὸ περὶ τὸν δίγλωττον ἔργον ἐν τοῖς πεμφθεῖσιν ὑπὸ βασιλέως ἐπὶ γῆς καὶ ὕδατος αἴτησιν . ἑρμηνέα γὰρ ὄντα συλλαβὼν διὰ ψηφίσματος ἀπέκτεινεν ὅτι φωνὴν Ἑλληνίδα βαρβάροις προστάγμασιν ἐτόλμησε χρῆσαι .",
+      "translation": "Praise is given to his treatment of the linguist in the company of those who were sent by the King to command earth and water as tokens of submission : this interpreter he caused to be arrested , and had him put to death by special decree , because he dared to prostitute the speech of Hellas to Barbarian stipulations ."
+    },
+    {
+      "id": "7.1",
+      "label": "Section 7.1",
+      "chapter": null,
+      "original": "παραλαβὼν δὲ τὴν ἀρχὴν εὐθὺς μὲν ἐπεχείρει τοὺς πολίτας ἐμβιβάζειν εἰς τὰς τριήρεις , καὶ τὴν πόλιν ἔπειθεν ἐκλιπόντας ὡς προσωτάτω τῆς Ἑλλάδος ἀπαντᾶν τῷ βαρβάρῳ κατὰ θάλατταν . ἐνισταμένων δὲ πολλῶν ἐξήγαγε πολλὴν στρατιὰν εἰς τὰ Τέμπη μετὰ Λακεδαιμονίων , ὡς αὐτόθι προκινδυνευσόντων τῆς Θετταλίας οὔπω τότε μηδίζειν δοκούσης ·",
+      "translation": "On assuming the command , he straightway went to work to embark the citizens on their triremes , and tried to persuade them to leave their city behind them and go as far as possible away from Hellas to meet the Barbarians by sea . But many opposed this plan , and so he led forth a large army to the vale of Tempe , along with the Lacedaemonians , in order to make a stand there in defence of Thessaly , which was not yet at that time supposed to be medizing ."
+    },
+    {
+      "id": "7.2",
+      "label": "Section 7.2",
+      "chapter": null,
+      "original": "ἐπεὶ δʼ ἀνεχώρησαν ἐκεῖθεν ἄπρακτοι καὶ Θετταλῶν βασιλεῖ προσγενομένων ἐμήδιζε τὰ μέχρι Βοιωτίας , μᾶλλον ἤδη τῷ Θεμιστοκλεῖ προσεῖχον οἱ Ἀθηναῖοι περὶ τῆς θαλάσσης , καὶ πέμπεται μετὰ νεῶν ἐπʼ Ἀρτεμίσιον τὰ στενὰ φυλάξων .\nἔνθα δὴ τῶν μὲν Ἑλλήνων Εὐρυβιάδην καὶ Λακεδαιμονιους ἡγεῖσθαι κελευόντων , τῶν δʼ Ἀθηναίων , ὅτι πλήθει τῶν νεῶν σύμπαντας ὁμοῦ τι τοὺς ἄλλους ὑπερέβαλλον , οὐκ ἀξιούντων ἑτέροις ἕπεσθαι ,",
+      "translation": "But soon the army came back from this position without accomplishing anything , the Thessalians went over to the side of the King , and everything was medizing as far as Boeotia , so that at last the Athenians were more kindly disposed to the naval policy of Themistocles , and he was sent with a fleet to Artemisium , to watch the narrows . It was at this place that the Hellenes urged Eurybiades and the Lacedaemonians to take the lead , but the Athenians , since in the number of their ships they surpassed all the rest put together , disdained to follow others ,"
+    },
+    {
+      "id": "8.1",
+      "label": "Section 8.1",
+      "chapter": null,
+      "original": "αἱ δὲ γενόμεναι τότε πρὸς τὰς τῶν βαρβάρων ναῦς περὶ τὰ στενὰ μάχαι κρίσιν μὲν εἰς τὰ ὅλα μεγάλην οὐκ ἐποίησαν , τῇ δὲ πείρᾳ μέγιστα τοὺς Ἕλληνας ὤνησαν , ὑπὸ τῶν ἔργων παρὰ τοὺς κινδύνους διδαχθέντας , ὡς οὔτε πλήθη νεῶν οὔτε κόσμοι καὶ λαμπρότητες ἐπισήμων οὔτε κραυγαὶ κομπώδεις ἢ βάρβαροι παιᾶνες ἔχουσι τι δεινὸν ἀνδράσιν ἐπισταμένοις εἰς χεῖρας ἰέναι καὶ μάχεσθαι τολμῶσιν , ἀλλὰ δεῖ τῶν τοιούτων καταφρονοῦντας ἐπʼ αὐτὰ τὰ σώματα φέρεσθαι καὶ πρὸς ἐκεῖνα διαγωνίζεσθαι συμπλακέντας .",
+      "translation": "The battles which were fought at that time with the ships of the Barbarians in the narrows were not decisive of the main issue , it is true , but they were of the greatest service to the Hellenes in giving them experience , since they were thus taught by actual achievements in the face of danger that neither multitudes of ships nor brilliantly decorated figure-heads nor boastful shouts or barbarous battle-hymns have any terror for men who know how to come to close quarters and dare to fight there ; but that they must despise all such things , rush upon the very persons of their foes , grapple with them , and fight it out to the bitter end ."
+    },
+    {
+      "id": "8.2",
+      "label": "Section 8.2",
+      "chapter": null,
+      "original": "ὃ δὴ καὶ Πίνδαρος οὐ κακῶς ἔοικε συνιδὼν ἐπὶ τῆς ἐν Ἀρτεμισίῳ μάχης εἰπεῖν ·\nὅθι παῖδες Ἀθαναίων ἐβάλοντο φαεννὰν κρηπῖδʼ ἐλευθερίας ·\n(11) Bergk, Frag. 77. ἀρχὴ γὰρ ὄντως τοῦ νικᾶν τὸ θαρρεῖν .\nἔστι δὲ τῆς Εὐβοίας τὸ Ἀρτεμίσιον ὑπὲρ τὴν Ἑστίαιαν αἰγιαλὸς εἰς βορέαν ἀναπεπταμένος , ἀντιτείνει δʼ αὐτῷ μάλιστα τῆς ὑπὸ Φιλοκτήτῃ γενομένης χώρας Ὀλιζών . ἔχει δὲ ναὸν οὐ μέγαν Ἀρτέμιδος ἐπίκλησιν Προσηῴας , καὶ δένδρα περὶ αὐτῷ πέφυκε καὶ στῆλαι κύκλῳ λίθου λευκοῦ πεπήγασιν · ὁ δὲ λίθος τῇ χειρὶ τριβόμενος καὶ χρόαν καὶ ὀσμὴν κροκίζουσαν ἀναδίδωσιν .",
+      "translation": "Of this Pindar seems to have been well aware when he said of the battle of Artemisium :—\nWhere Athenians ’ valiant sons set in radiance eternal Liberty ’ s corner-stone .\n[*] For verily the foundation of victory is courage . Artemisium is a part of Euboea above Hestiaea ,— a sea-beach stretching away to the north ,— and just about opposite to it lies Olizon , in the territory once subject to Philoctetes . It has a small temple of Artemis surnamed Proseoea , which is surrounded by trees and enclosed by upright slabs of white marble . This stone , when you rub it with your hand , gives off the color and the odor of saffron ."
+    },
+    {
+      "id": "9.1",
+      "label": "Section 9.1",
+      "chapter": null,
+      "original": "τῶν μέντοι περὶ Θερμοπύλας εἰς τὸ Ἀρτεμίσιον ἀπαγγελλόντων [*] πυθόμενοι Λεωνίδαν τε κεῖσθαι καὶ κρατεῖν Ξέρξην τῶν κατὰ γῆν παρόδων , εἴσω τῆς Ἑλλάδος ἀνεκομίζοντο , τῶν Ἀθηναίων ἐπὶ πᾶσι τεταγμένων διʼ ἀρετὴν καὶ μέγα τοῖς πεπραγμένοις φρονούντων . παραπλέων δὲ τὴν χώραν ὁ Θεμιστοκλῆς , ᾗπερ κατάρσεις ἀναγκαίας καὶ καταφυγὰς ἑώρα τοῖς πολεμίοις , ἐνεχάραττε κατὰ τῶν λίθων ἐπιφανῆ γράμματα ,",
+      "translation": "However , when they learned by messengers from Thermopylae to Artemisium that Leonidas was slain and that Xerxes was master of the pass , they withdrew further down into Hellas , the Athenians bringing up the extreme rear because of their valor , and greatly elated by their achievements . As Themistocles sailed along the coasts , wherever he saw places at which the enemy must necessarily put in for shelter and supplies , be inscribed conspicuous writings on stones ,"
+    },
+    {
+      "id": "9.2",
+      "label": "Section 9.2",
+      "chapter": null,
+      "original": "τοὺς μὲν εὑρίσκων ἀπὸ τύχης , τοὺς δʼ αὐτὸς ἱστὰς περὶ τὰ ναύλοχα καὶ τὰς ὑδρείας , ἐπισκήπτων Ἴωσι διὰ τῶν γραμμάτων , εἰ μὲν οἷόν τε , μετατάξασθαι πρὸς αὐτοὺς πατέρας ὄντας καὶ προκινδυνεύοντας ὑπὲρ τῆς ἐκείνων ἐλευθερίας , εἰ δὲ μή , κακοῦν τὸ βαρβαρικὸν ἐν ταῖς μάχαις καὶ συνταράττειν . ταῦτα δʼ ἤλπιζεν ἢ μεταστήσειν τοὺς Ἴωνας ἢ ταράξειν ὑποπτοτέρους τοῖς βαρβάροις γενομένους .",
+      "translation": "some of which he found to his hand there by chance , and some he himself caused to be set near the inviting anchorages and watering places . In these writings he solemnly enjoined upon the Ionians , if it were possible , to come over to the side of the Athenians , who were their ancestors , and who were risking all in behalf of their freedom ; but if they could not do this , to damage the Barbarian cause in battle , and bring confusion among them . By this means he hoped either to fetch the Ionians over to his side , or to confound them by bringing the Barbarians into suspicion of them ."
+    },
+    {
+      "id": "10.1",
+      "label": "Section 10.1",
+      "chapter": null,
+      "original": "ἔνθα δὴ Θεμιστοκλῆς ἀπορῶν τοῖς ἀνθρωπίνοις λογισμοῖς προσάγεσθαι τὸ πλῆθος , ὥσπερ ἐν τραγῳδίᾳ μηχανὴν ἄρας , σημεῖα δαιμόνια καὶ χρησμοὺς ἐπῆγεν αὐτοῖς · σημεῖον μὲν λαμβάνων τὸ τοῦ δράκοντος , ὃς ἀφανὴς ἐκείναις ταῖς ἡμέραις ἐκ τοῦ σηκοῦ δοκεῖ γενέσθαι · καὶ τὰς καθʼ ἡμέραν αὐτῷ προτιθεμένας ἀπαρχὰς εὑρίσκοντες ἀψαύστους οἱ ἱερεῖς , ἐξήγγελλον εἰς τοὺς πολλούς , τοῦ Θεμιστοκλέους λόγον διδόντος , ὡς ἀπολέλοιπε τὴν πόλιν ἡ θεὸς ὑφηγουμένη πρὸς τὴν θάλατταν αὐτοῖς .",
+      "translation": "Then indeed it was that Themistocles , despairing of bringing the multitude over to his views by any human reasonings , set up machinery , as it were , to introduce the gods to them as a theatrical manager would for a tragedy , and brought to bear upon them signs from heaven and oracles . As a sign from heaven he took the behavior of the serpent , which is held to have disappeared about that time from the sacred enclosure on the Acropolis . When the priests found that the daily offerings made to it were left whole and untouched , they proclaimed to the multitude ,— Themistocles putting the story into their mouths ,— that the goddess had abandoned her city and was showing them their way to the sea ."
+    },
+    {
+      "id": "10.2",
+      "label": "Section 10.2",
+      "chapter": null,
+      "original": "τῷ δὲ χρησμῷ πάλιν ἐδημαγώγει , λέγων μηδὲν ἄλλο δηλοῦσθαι ξύλινον τεῖχος ἢ τὰς ναῦς · διὸ καὶ τὴν Σαλαμῖνα θείαν , οὐχὶ δεινὴν οὐδὲ σχετλίαν καλεῖν τὸν θεόν , ὡς εὐτυχήματος μεγάλου τοῖς Ἕλλησιν ἐπώνυμον ἐσομένην . κρατήσας δὲ τῇ γνώμῃ ψήφισμα γράφει , τὴν μὲν πόλιν παρακαταθέσθαι τῇ Ἀθηνᾷ τῇ Ἀθηνάων μεδεούσῃ , τοὺς δʼ ἐν ἡλικίᾳ πάντας ἐμβαίνειν εἰς τὰς τριήρεις , παῖδας δὲ καὶ γυναῖκας καὶ ἀνδράποδα σώζειν ἕκαστον ὡς δυνατόν .",
+      "translation": "Moreover , with the well-known oracle [*] he tried again to win the people over to his views , saying that its wooden wall meant nothing else than their fleet ; and that the god in this oracle called Salamis divine , not dreadful nor cruel , for the very reason that the island would sometime give its name to a great piece of good fortune for the Hellenes . At last his opinion prevailed , and so he introduced a bill providing that the city be entrusted for safe keeping to Athena the patroness of Athens , but that all the men of military age embark on the triremes , after finding for their children , wives , and servants , such safety as each best could ."
+    },
+    {
+      "id": "11.1",
+      "label": "Section 11.1",
+      "chapter": null,
+      "original": "ταῦτά τε δὴ μεγάλα τοῦ Θεμιστοκλέους , καὶ τοὺς πολίτας αἰσθόμενος ποθοῦντας Ἀριστείδην καὶ δεδιότας , μὴ διʼ ὀργὴν τῷ βαρβάρῳ προσθεὶς ἑαυτὸν ἀνατρέψῃ τὰ πράγματα τῆς Ἑλλάδος ( ἐξωστράκιστο γὰρ πρὸ τοῦ πολέμου καταστασιασθεὶς ὑπὸ Θεμιστοκλέους ), γράφει ψήφισμα , τοῖς ἐπὶ χρόνῳ μεθεστῶσιν ἐξεῖναι κατελθοῦσι πράττειν καὶ λέγειν τὰ βέλτιστα τῇ Ἑλλάδι μετὰ τῶν ἄλλων πολιτῶν .",
+      "translation": "These were surely great achievements of Themistocles , but there was a greater still to come . When he saw that the citizens yearned for Aristides , and feared lest out of wrath he might join himself to the Barbarian and so subvert the cause of Hellas ,— he had been ostracized before the war in consequence of political defeat at the hands of Themistocles , [*] — he introduced a bill providing that those who had been removed for a time be permitted to return home and devote their best powers to the service of Hellas along with the other citizens ."
+    },
+    {
+      "id": "11.2",
+      "label": "Section 11.2",
+      "chapter": null,
+      "original": "Εὐρυβιάδου δὲ τὴν μὲν ἡγεμονίαν τῶν νεῶν ἔχοντος διὰ τὸ τῆς Σπάρτης ἀξίωμα , μαλακοῦ δὲ περὶ τὸν κίνδυνον ὄντος , αἴρειν δὲ βουλομένου καὶ πλεῖν ἐπὶ τὸν Ἰσθμόν , ὅπου καὶ τὸ πεζὸν ἤθροιστο τῶν Πελοποννησίων , ὁ Θεμιστοκλῆς ἀντέλεγεν · ὅτε καὶ τὰ μνημονευόμενα λεχθῆναί φασι . τοῦ γὰρ Εὐρυβιάδου πρὸς αὐτὸν εἰπόντος · ὦ Θεμιστόκλεις , ἐν τοῖς ἀγῶσι τοὺς προεξανισταμένους ῥαπίζουσι , ναὶ , εἶπεν ὁ Θεμιστοκλῆς , ἀλλὰ τοὺς ἀπολειφθέντας οὐ στεφανοῦσιν .",
+      "translation": "When Eurybiades , who had the command of the fleet on account of the superior claims of Sparta , but who was faint-hearted in time of danger , wished to hoist sail and make for the Isthmus , where the infantry also of the Peloponnesians had been assembled , it was Themistocles who spoke against it , and it was then , they say , that these memorable sayings of his were uttered . When Eurybiades said to him , Themistocles , at the games those who start too soon get a caning , Yes , said Themistocles , but those who lag behind get no crown ."
+    },
+    {
+      "id": "12.1",
+      "label": "Section 12.1",
+      "chapter": null,
+      "original": "λέγεται δʼ ὑπό τινων τὸν μὲν Θεμιστοκλέα περὶ τούτων ἀπὸ τοῦ καταστρώματος ἄνωθεν τῆς νεὼς διαλέγεσθαι , γλαῦκα δʼ ὀφθῆναι διαπετομένην ἀπὸ δεξιᾶς τῶν νεῶν καὶ τοῖς καρχησίοις ἐπικαθίζουσαν · διὸ δὴ καὶ μάλιστα προσέθεντο τῇ γνώμῃ καὶ παρεσκευάζοντο ναυμαχήσοντες .",
+      "translation": "Some tell the story that while Themistocles was thus speaking from off the deck of his ship , an owl was seen to fly through the fleet from the right and alight in his rigging ; wherefore his hearers espoused his opinion most eagerly and prepared to do battle with their ships ."
+    },
+    {
+      "id": "12.2",
+      "label": "Section 12.2",
+      "chapter": null,
+      "original": "ἀλλʼ ἐπεὶ τῶν πολεμίων ὅ τε στόλος τῇ Ἀττικῇ κατὰ τὸ Φαληρικὸν προσφερόμενος τοὺς πέριξ ἀπέκρυψεν αἰγιαλούς , αὐτός τε βασιλεὺς μετὰ τοῦ πεζοῦ στρατοῦ καταβὰς ἐπὶ τὴν θάλατταν ἅθρους ὤφθη , τῶν δὲ δυνάμεων ὁμοῦ γενομένων , ἐξερρύησαν οἱ τοῦ Θεμιστοκλέους λόγοι τῶν Ἑλλήνων καὶ πάλιν ἐπάπταινον οἱ Πελοποννήσιοι πρὸς τὸν Ἰσθμόν , εἴ τις ἄλλο τι λέγοι χαλεπαίνοντες , ἐδόκει δὲ τῆς νυκτὸς ἀποχωρεῖν καὶ παρηγγέλλετο πλοῦς τοῖς κυβερνήταις ,",
+      "translation": "But soon the enemy ’ s armament beset the coast of Attica down to the haven of Phalerum , so as to hide from view the neighboring shores ; then the King in person with his infantry came down to the sea , so that he could be seen with all his hosts ; and presently , in view of this junction of hostile forces , the words of Themistocles ebbed out of the minds of the Hellenes , and the Peloponnesians again turned their eyes wistfully towards the Isthmus and were vexed if any one spake of any other course ; nay , they actually decided to withdraw from their position in the night , and orders for the voyage were issued to the pilots ."
+    },
+    {
+      "id": "13.1",
+      "label": "Section 13.1",
+      "chapter": null,
+      "original": "ἅμα δʼ ἡμέρᾳ Ξέρξης μὲν ἄνω καθῆστο τὸν στόλον ἐποπτεύων καὶ τὴν παράταξιν , ὡς μὲν Φανόδημός φησιν , ὑπὲρ τὸ Ἡράκλειον , ᾗ βραχεῖ πόρῳ διείργεται τῆς Ἀττικῆς ἡ νῆσος , ὡς δʼ Ἀκεστόδωρος , ἐν μεθορίῳ τῆς Μεγαρίδος ὑπὲρ τῶν καλουμένων Κεράτων , χρυσοῦν δίφρον θέμενος καὶ γραμματεῖς πολλοὺς παραστησάμενος , ὧν ἔργον ἦν ἀπογράφεσθαι τὰ κατὰ τὴν μάχην πραττόμενα .",
+      "translation": "At break of day , Xerxes was seated on a high place and overlooking the disposition of his armament . This place was , according to Phanodemus , above the Heracleium , where only a narrow passage separates the island from Attica ; but according to Acestodorus , it was in the border-land of Megara , above the so-called Horns . Here a gilded throne had been set for him at his command , and many secretaries stationed near at hand , whose task it was to make due record of all that was done in the battle ."
+    },
+    {
+      "id": "13.2",
+      "label": "Section 13.2",
+      "chapter": null,
+      "original": "Θεμιστοκλεῖ δὲ παρὰ τὴν ναυαρχίδα τριήρη σφαγιαζομένῳ τρεῖς προσήχθησαν αἰχμάλωτοι , κάλλιστοι μὲν ἰδέσθαι τὴν ὄψιν , ἐσθῆσι δὲ καὶ χρυσῷ κεκοσμημένοι διαπρεπῶς . ἐλέγοντο δὲ Σανδαύκης παῖδες εἶναι τῆς βασιλέως ἀδελφῆς καὶ Ἀρταΰκτου . τούτους ἰδὼν Εὐφραντίδης ὁ μάντις , ὡς ἅμα μὲν ἀνέλαμψεν ἐκ τῶν ἱερῶν μέγα καὶ περιφανὲς πῦρ , ἅμα δὲ πταρμὸς ἐκ δεξιῶν ἐσήμηνε , τὸν Θεμιστοκλέα δεξιωσάμενος ἐκέλευσε τῶν νεανίσκων κατάρξασθαι καὶ καθιερεῦσαι πάντας ὠμηστῇ Διονύσῳ προσευξάμενον · οὕτω γὰρ ἅμα σωτηρίαν τε καὶ νίκην ἔσεσθαι τοῖς Ἕλλησιν .",
+      "translation": "But Themistocles was sacrificing alongside the admiral ’ s trireme . There three prisoners of war were brought to him , of visage most beautiful to behold , conspicuously adorned with raiment and with gold . They were said to be the sons of Sandauce , the King ’ s sister , and Artayctus . When Euphrantides the seer caught sight of them , since at one and that same moment a great and glaring flame shot up from the sacrificial victim and a sneeze gave forth its good omen on the right , he clasped Themistocles by the hand and bade him consecrate the youths , and sacrifice them all to Dionysus Carnivorous , with prayers of supplication ; for on this wise would the Hellenes have a saving victory ."
+    },
+    {
+      "id": "14.1",
+      "label": "Section 14.1",
+      "chapter": null,
+      "original": "περὶ δὲ τοῦ πλήθους τῶν βαρβαρικῶν νεῶν Αἰσχύλος ὁ ποιητὴς ὡς ἂν εἰδὼς καὶ διαβεβαιούμενος ἐν τραγῳδίᾳ Πέρσαις λέγει ταῦτα ·\nΞέρξῃ δέ , καὶ γὰρ οἶδα , χιλιὰς μὲν ἦν ὧν ἦγε [*] πλῆθος · αἱ δʼ ὑπέρκομποι τάχει ἑκατὸν δὶς ἦσαν ἑπτά θʼ · ὧδʼ ἔχει λόγος .\nAesch. Pers. 341-343 (Dindorf). τῶν δʼ Ἀττικῶν ἑκατὸν ὀγδοήκοντα τὸ πλῆθος οὐσῶν ἑκάστη τοὺς ἀπὸ τοῦ καταστρώματος μαχομένους ὀκτωκαίδεκα εἶχεν , ὧν τοξόται τέσσαρες ἦσαν , οἱ λοιποὶ δʼ ὁπλῖται .",
+      "translation": "As regards the number of the Barbarian ships , Aeschylus the poet , in his tragedy of The Persians , as though from personal and positive knowledge , says this :—\nBut Xerxes , and I surely know , had a thousand ships In number under him ; those of surpassing speed Were twice five score beside and seven ; so stands the count .\n[*] The Attic ships were one hundred and eighty in number , and each had eighteen men to fight upon the decks , of whom four were archers and the rest men-at-arms ."
+    },
+    {
+      "id": "14.2",
+      "label": "Section 14.2",
+      "chapter": null,
+      "original": "δοκεῖ δʼ οὐκ ἧττον εὖ τὸν καιρὸν ὁ Θεμιστοκλῆς ἢ τὸν τόπον συνιδὼν καὶ φυλάξας μὴ πρότερον ἀντιπρῴρους καταστῆσαι ταῖς βαρβαρικαῖς τὰς τριήρεις , ἢ τὴν εἰωθυῖαν ὥραν παραγενέσθαι , τὸ πνεῦμα λαμπρὸν ἐκ πελάγους ἀεὶ καὶ κῦμα διὰ τῶν στενῶν κατάγουσαν · ὃ τὰς μὲν Ἑλληνικὰς οὐκ ἔβλαπτε ναῦς ἁλιτενεῖς οὔσας καὶ ταπεινοτέρας , τὰς δὲ βαρβαρικὰς ταῖς τε πρύμναις ἀνεστώσας καὶ τοῖς καταστρώμασιν ὑψορόφους καὶ βαρείας ἐπιφερομένας ἔσφαλλε προσπῖπτον καὶ παρεδίδου πλαγίας τοῖς Ἕλλησιν ὀξέως προσφερομένοις καὶ τῷ Θεμιστοκλεῖ προσέχουσιν , ὡς ὁρῶντι μάλιστα τὸ συμφέρον ,",
+      "translation": "Themistocles is thought to have divined the best time for fighting with no less success than the best place , inasmuch as he took care not to send his triremes bow on against the Barbarian vessels until the hour of the day had come which always brought the breeze fresh from the sea and a swell rolling through the strait . This breeze wrought no harm to the Hellenic ships , since they lay low in the water and were rather small ; but for the Barbarian ships , with their towering sterns and lofty decks and sluggish movements in getting under way , it was fatal , since it smote them and slewed them round broadside to the Hellenes , who set upon them sharply , keeping their eyes on Themistocles , because they thought he saw best what was to be done ,"
+    },
+    {
+      "id": "15.1",
+      "label": "Section 15.1",
+      "chapter": null,
+      "original": "ἐν δὲ τούτῳ τοῦ ἀγῶνος ὄντος φῶς μὲν ἐκλάμψαι μέγα λέγουσιν Ἐλευσινόθεν , ἦχον δὲ καὶ φωνὴν τὸ Θριάσιον κατέχειν πεδίον ἄχρι θαλάττης , ὡς ἀνθρώπων ὁμοῦ πολλῶν τὸν μυστικὸν ἐξαγόντων Ἴακχον . ἐκ δὲ τοῦ πλήθους τῶν φθεγγομένων κατὰ μικρὸν ἀπὸ γῆς ἀναφερόμενον νέφος ἔδοξεν αὖθις ὑπονοστεῖν καὶ κατασκήπτειν εἰς τὰς τριήρεις . ἕτεροι δὲ φάσματα καὶ εἴδωλα καθορᾶν ἔδοξαν ἐνόπλων ἀνδρῶν ἀπʼ Αἰγίνης τὰς χεῖρας ἀνεχόντων πρὸ τῶν Ἑλληνικῶν τριηρῶν · οὓς εἴκαζον Αἰακίδας εἶναι παρακεκλημένους εὐχαῖς πρὸ τῆς μάχης ἐπὶ τὴν βοήθειαν .",
+      "translation": "At this stage of the struggle they say that a great light flamed out from Eleusis , and an echoing cry filled the Thriasian plain down to the sea , as of multitudes of men together conducting the mystic Iacchus in procession . Then out of the shouting throng a cloud seemed to lift itself slowly from the earth , pass out seawards , and settle down upon the triremes . Others fancied they saw apparitions and shapes of armed men coming from Aegina with their hands stretched out to protect the Hellenic triremes . These , they conjectured , were the Aeacidae , who had been prayerfully invoked before the battle to come to their aid . [*]"
+    },
+    {
+      "id": "15.2",
+      "label": "Section 15.2",
+      "chapter": null,
+      "original": "πρῶτος μὲν οὖν λαμβάνει ναῦν Λυκομήδης , ἀνὴρ Ἀθηναῖος τριηραρχῶν , ἧς τὰ παράσημα περικόψας ἀνέθηκεν Ἀπόλλωνι δαφνηφόρῳ Φλυῆσιν . οἱ δʼ ἄλλοι τοῖς βαρβάροις ἐξισούμενοι τὸ πλῆθος ἐν στενῷ κατὰ μέρος προσφερομένους καὶ περιπίπτοντας ἀλλήλοις ἐτρέψαντο , μέχρι δείλης ἀντισχόντας , ὡς εἴρηκε Σιμωνίδης , τὴν καλὴν ἐκείνην καὶ περιβόητον ἀράμενοι νίκην , ἧς οὔθʼ Ἕλλησιν οὔτε βαρβάροις ἐνάλιον ἔργον εἴργασται λαμπρότερον , ἀνδρείᾳ μὲν καὶ προθυμίᾳ κοινῇ τῶν ναυμαχησάντων , γνώμῃ δὲ καὶ δεινότητι τῇ [*] Θεμιστοκλέους .",
+      "translation": "Now the first man to capture an enemy ’ s ship was Lycomedes , an Athenian captain , who cut off its figure-head and dedicated it to Apollo the Laurel-bearer at Phlya . Then the rest , put on an equality in numbers with their foes , because the Barbarians had to attack them by detachments in the narrow strait and so ran foul of one another , routed them , though they resisted till the evening drew on , and thus\nbore away ,\nas Simonides says , [*]\nthat fair and notorious victory , than which no more brilliant exploit was ever performed upon the sea , either by Hellenes or Barbarians , through the manly valor and common ardor of all who fought their ships , but through the clever judgment of Themistocles ."
+    },
+    {
+      "id": "16.1",
+      "label": "Section 16.1",
+      "chapter": null,
+      "original": "μετὰ δὲ τὴν ναυμαχίαν Ξέρξης μὲν ἔτι θυμομαχῶν πρὸς τὴν ἀπότευξιν ἐπεχείρει διὰ χωμάτων ἐπάγειν τὸ πεζὸν τοῖς Ἕλλησιν εἰς Σαλαμῖνα , ἐμφράξας τὸν διὰ μέσου πόρον · Θεμιστοκλῆς δʼ ἀποπειρώμενος Ἀριστείδου λόγῳ γνώμην ἐποιεῖτο λύειν τὸ ζεῦγμα ταῖς ναυσὶν ἐπιπλεύσαντας εἰς Ἑλλήσποντον , ὅπως , ἔφη , τὴν Ἀσίαν ἐν τῇ Εὐρώπῃ λάβωμεν .",
+      "translation": "After the sea-fight , Xerxes , still furious at his failure , undertook to carry moles out into the sea on which he could lead his infantry across to Salamis against the Hellenes , damming up the intervening strait . But Themistocles , merely by way of sounding Aristides , proposed , as though he were in earnest , to sail with the fleet to the Hellespont and break the span of boats there , in order , said he , that we may capture Asia in Europe ."
+    },
+    {
+      "id": "16.2",
+      "label": "Section 16.2",
+      "chapter": null,
+      "original": "δυσχεραίνοντος δὲ τοῦ Ἀριστείδου καὶ λέγοντος ὅτι , νῦν μὲν τρυφῶντι τῷ βαρβάρῳ πεπολεμήκαμεν , ἂν δὲ κατακλείσωμεν εἰς τὴν Ἑλλάδα καὶ καταστήσωμεν εἰς ἀνάγκην ὑπὸ δέους ἄνδρα τηλικούτων δυνάμεων κύριον , οὐκέτι καθήμενος ὑπὸ σκιάδι χρυσῇ θεάσεται τὴν μάχην ἐφʼ ἡσυχίας , ἀλλὰ πάντα τολμῶν καὶ πᾶσιν αὐτὸς παρὼν διὰ τὸν κίνδυνον ἐπανορθώσεται τὰ παρειμένα καὶ βουλεύσεται βέλτιον ὑπὲρ τῶν ὅλων ·",
+      "translation": "Aristides , however , was displeased with the scheme and said : Now indeed the Barbarian with whom we have fought consults his ease and pleasure , but should we shut up in Hellas and bring under fearful compulsion a man who is lord of such vast forces , he will no longer sit under a golden parasol to view the spectacle of the battle at his ease , but he will dare all things , and , superintending everything in person , because of his peril , will rectify his previous remissness and take better counsel for the highest issues thus at stake ."
+    },
+    {
+      "id": "17.1",
+      "label": "Section 17.1",
+      "chapter": null,
+      "original": "πόλεων μὲν οὖν τὴν Αἰγινητῶν ἀριστεῦσαί φησιν Ἡρόδοτος , Θεμιστοκλεῖ δέ , καίπερ ἄκοντες ὑπὸ φθόνου , τὸ πρωτεῖον ἀπέδοσαν ἅπαντες . ἐπεὶ γὰρ ἀναχωρήσαντες εἰς τὸν Ἰσθμὸν ἀπὸ τοῦ βωμοῦ τὴν ψῆφον ἔφερον οἱ στρατηγοί , πρῶτον μὲν ἕκαστος ἑαυτὸν ἀπέφαινεν ἀρετῇ , δεύτερον δὲ μεθʼ ἑαυτὸν Θεμιστοκλέα . Λακεδαιμόνιοι δʼ εἰς τὴν Σπάρτην αὐτὸν καταγαγόντες Εὐρυβιάδῃ μὲν ἀνδρείας , ἐκείνῳ δὲ σοφίας ἀριστεῖον ἔδοσαν θαλλοῦ στέφανον , καὶ τῶν κατὰ τὴν πόλιν ἁρμάτων τὸ πρωτεῦον ἐδωρήσαντο καὶ τριακοσίους τῶν νέων πομποὺς ἄχρι τῶν ὅρων συνεξέπεμψαν .",
+      "translation": "Among the cities , now , Herodotus [*] says that Aegina bore away the prize of valor ; but among individuals , all virtually awarded the first place to Themistocles , though their envy made them unwilling to do this directly . For when the generals withdrew to the Isthmus and solemnly voted on this question , taking their ballots from the very altar of the god there , each one declared for himself as first in valor , but for Themistocles as second after himself . Then the Lacedaemonians brought him down to Sparta , and while they gave Eurybiades the prize for valor , to him they gave one for wisdom ,— a crown of olive in each case ,— and they presented him with the best chariot there was in the city , and sent three hundred picked youth along with him to serve as his escort to the boundary ."
+    },
+    {
+      "id": "17.2",
+      "label": "Section 17.2",
+      "chapter": null,
+      "original": "λέγεται δʼ Ὀλυμπίων τῶν ἐφεξῆς ἀγομένων καὶ παρελθόντος εἰς τὸ στάδιον τοῦ Θεμιστοκλέους , ἀμελήσαντας τῶν ἀγωνιστῶν τοὺς παρόντας ὅλην τὴν ἡμέραν ἐκεῖνον θεᾶσθαι καὶ τοῖς ξένοις ἐπιδεικνύειν ἅμα θαυμάζοντας καὶ κροτοῦντας , ὥστε καὶ αὐτὸν ἡσθέντα πρὸς τοὺς φίλους ὁμολογῆσαι τὸν καρπὸν ἀπέχειν τῶν ὑπὲρ τῆς Ἑλλάδος αὐτῷ πονηθέντων .",
+      "translation": "And it is said that when the next Olympic festival was celebrated , and Themistocles entered the stadium , the audience neglected the contestants all day long to gaze on him , and pointed him out with admiring applause to visiting strangers , so that he too was delighted , and confessed to his friends that he was now reaping in full measure the harvest of his toils in behalf of Hellas ."
+    },
+    {
+      "id": "18.1",
+      "label": "Section 18.1",
+      "chapter": null,
+      "original": "καὶ γὰρ ἦν τῇ φύσει φιλοτιμότατος , εἰ δεῖ τεκμαίρεσθαι διὰ τῶν ἀπομνημονευομένων . αἱρεθεὶς γὰρ ναύαρχος ὑπὸ τῆς πόλεως οὐδὲν οὔτε τῶν ἰδίων οὔτε τῶν κοινῶν κατὰ μέρος ἐχρημάτιζεν , ἀλλʼ ἐπανεβάλλετο [*] τὸ προσπῖπτον εἰς τὴν ἡμέραν ἐκείνην , καθʼ ἣν ἐκπλεῖν ἔμελλεν , ἵνʼ ὁμοῦ πολλὰ πράττων πράγματα καὶ παντοδαποῖς ἀνθρώποις ὁμιλῶν μέγας εἶναι δοκῇ καὶ πλεῖστον δύνασθαι .",
+      "translation": "And indeed he was by nature very fond of honor , if we may judge from his memorable sayings and doings . When , for example , the city had chosen him to be admiral , he would not perform any public or private business at its proper time , but would postpone the immediate duty to the day on which he was to set sail , in order that then , because he did many things all at once and had meetings with all sorts of men , he might be thought to be some great personage and very powerful ."
+    },
+    {
+      "id": "18.2",
+      "label": "Section 18.2",
+      "chapter": null,
+      "original": "τῶν δὲ νεκρῶν τοὺς ἐκπεσόντας ἐπισκοπῶν παρὰ τὴν θάλατταν , ὡς εἶδε περικειμένους ψέλια χρυσᾶ καὶ στρεπτούς , αὐτὸς μὲν παρῆλθε , τῷ δʼ ἑπομένῳ φίλῳ δείξας εἶπεν · ἀνελοῦ σαυτῷ · σὺ γὰρ οὐκ εἶ Θεμιστοκλῆς . πρὸς δέ τινα τῶν καλῶν γεγονότων , Ἀντιφάτην , ὑπερηφάνως αὐτῷ κεχρημένον πρότερον , ὕστερον δὲ θεραπεύοντα διὰ τὴν δόξαν , ὦ μειράκιον , εἶπεν , ὀψὲ μέν , ἀμφότεροι δʼ ἅμα νοῦν ἐσχήκαμεν .",
+      "translation": "Surveying once the dead bodies of the Barbarians which had been cast up along the sea , he saw that they were decked with golden bracelets and collars , and yet passed on by them himself , while to a friend who followed he pointed them out and said : Help thyself , thou art not Themistocles . Again , to one who had once been a beauty , Antiphates , and who had at that time treated him disdainfully , but afterwards courted him because of the reputation he had got , Young man , said he , ’ tis late , ’ tis true , but both of us have come to our senses ."
+    },
+    {
+      "id": "19.1",
+      "label": "Section 19.1",
+      "chapter": null,
+      "original": "γενόμενος δʼ ἀπὸ τῶν πράξεων ἐκείνων εὐθὺς ἐπεχείρει τὴν πόλιν ἀνοικοδομεῖν καὶ τειχίζειν , ὡς μὲν ἱστορεῖ Θεόπομπος , χρήμασι πείσας μὴ ἐναντιωθῆναι τοὺς ἐφόρους , ὡς δʼ οἱ πλεῖστοι , παρακρουσάμενος . ἧκε μὲν γὰρ εἰς Σπάρτην ὄνομα πρεσβείας ἐπιγραψάμενος · ἐγκαλούντων δὲ τῶν Σπαρτιατῶν , ὅτι τειχίζουσι τὸ ἄστυ , καὶ Πολυάρχου κατηγοροῦντος ἐπίτηδες ἐξ Αἰγίνης ἀποσταλέντος ,",
+      "translation": "After the great achievements now described , he straightway undertook to rebuild and fortify the city ,— as Theopompus relates , by bribing the Spartan Ephors not to oppose the project ; but as the majority say , by hoodwinking them . He came with this object to Sparta , ostensibly on an embassy , and when the Spartans brought up the charge that the Athenians were fortifying their city , and Polyarchus was sent expressly from Aegina with the same accusation ,"
+    },
+    {
+      "id": "19.2",
+      "label": "Section 19.2",
+      "chapter": null,
+      "original": "ἠρνεῖτο καὶ πέμπειν ἐκέλευεν εἰς Ἀθήνας τοὺς κατοψομένους , ἅμα μὲν ἐμβάλλων τῷ τειχισμῷ χρόνον ἐκ τῆς διατριβῆς , ἅμα δὲ βουλόμενος ἀντʼ αὐτοῦ τοὺς πεμπομένους ὑπάρχειν τοῖς Ἀθηναίοις . ὃ καὶ συνέβη · γνόντες γὰρ οἱ Λακεδαιμόνιοι τὸ ἀληθὲς οὐκ ἠδίκησαν αὐτόν , ἀλλʼ ἀδήλως χαλεπαίνοντες ἀπέπεμψαν .\nἐκ δὲ τούτου τὸν Πειραιᾶ κατεσκεύαζε , τὴν τῶν λιμένων εὐφυΐαν κατανοήσας καὶ τὴν πόλιν ὅλην ἁρμοττόμενος πρὸς τὴν θάλατταν , καὶ τρόπον τινὰ τοῖς παλαιοῖς βασιλεῦσι τῶν Ἀθηναίων ἀντιπολιτευόμενος .",
+      "translation": "he denied that it was so , and bade them send men to Athens to see for themselves , not only because this delay would secure time for the building of the wall , but also because he wished the Athenians to hold these envoys as hostages for his own person . And this was what actually happened . When the Lacedaemonians found out the truth they did him no harm , but concealed their displeasure and sent him away . After this he equipped the Piraeus , because he had noticed the favorable shape of its harbors , and wished to attach the whole city to the sea ; thus in a certain manner counteracting the policies of the ancient Athenian kings ."
+    },
+    {
+      "id": "20.1",
+      "label": "Section 20.1",
+      "chapter": null,
+      "original": "Θεμιστοκλῆς δὲ καὶ μεῖζόν τι περὶ τῆς ναυτικῆς διενοήθη δυνάμεως . ἐπεὶ γὰρ ὁ τῶν Ἑλλήνων στόλος ἀπηλλαγμένου Ξέρξου κατῆρεν εἰς Παγασὰς καὶ διεχείμαζε , δημηγορῶν ἐν τοῖς Ἀθηναίοις ἔφη τινα πρᾶξιν ἔχειν ὠφέλιμον μὲν αὐτοῖς καὶ σωτήριον , ἀπόρρητον δὲ πρὸς τοὺς πολλούς .",
+      "translation": "But Themistocles cherished yet greater designs even for securing the naval supremacy . When the fleet of the Hellenes , after the departure of Xerxes , had put in at Pagasae and was wintering there , he made a harangue before the Athenians , in which he said that he had a certain scheme in mind which would be useful and salutary for them , but which could not be broached in public ."
+    },
+    {
+      "id": "20.2",
+      "label": "Section 20.2",
+      "chapter": null,
+      "original": "τῶν δʼ Ἀθηναίων Ἀριστείδῃ φράσαι μόνῳ κελευόντων , κἂν ἐκεῖνος δοκιμάσῃ περαίνειν , ὁ μὲν Θεμιστοκλῆς ἔφρασε τῷ Ἀριστείδῃ , τὸ νεώριον ἐμπρῆσαι διανοεῖσθαι τῶν Ἑλλήνων · ὁ δʼ Ἀριστείδης εἰς τὸν δῆμον παρελθὼν ἔφη τῆς πράξεως , ἣν διανοεῖται πράττειν ὁ Θεμιστοκλῆς , μηδεμίαν εἶναι μήτε λυσιτελεστέραν μήτʼ ἀδικωτέραν . οἱ μὲν οὖν Ἀθηναῖοι διὰ ταῦτα παύσασθαι τῷ Θεμιστοκλεῖ προσέταξαν .",
+      "translation": "So the Athenians bade him impart it to Aristides alone , and if he should approve of it , to put it into execution . Themistocles accordingly told Aristides that he purposed to burn the fleet of the Hellenes where it lay ; but Aristides addressed the people , and said of the scheme which Themistocles purposed to carry out , that none could be either more advantageous or more iniquitous . The Athenians therefore ordered Themistocles to give it up ."
+    },
+    {
+      "id": "21.1",
+      "label": "Section 21.1",
+      "chapter": null,
+      "original": "ἦν δὲ καὶ τοῖς συμμάχοις ἐπαχθὴς περιπλέων τε τὰς νήσους καὶ χρηματιζόμενος ἀπʼ αὐτῶν · οἷα καὶ πρὸς Ἀνδρίους ἀργύριον αἰτοῦντά φησιν αὐτὸν Ἡρόδοτος εἰπεῖν τε καὶ ἀκοῦσαι . δύο γὰρ ἥκειν ἔφη θεοὺς κομίζων , Πειθὼ καὶ Βίαν · οἱ δʼ ἔφασαν εἶναι καὶ παρʼ αὐτοῖς θεοὺς μεγάλους δύο , Πενίαν καὶ Ἀπορίαν , ὑφʼ ὧν κωλύεσθαι δοῦναι χρήματα ἐκείνῳ .",
+      "translation": "He made himself hateful to the allies also , by sailing round to the islands and trying to exact money from them . When , for instance , he demanded money of the Andrians , Herodotus [*] says he made a speech to them and got reply as follows : he said he came escorting two gods , Persuasion and Compulsion ; and they replied that they already had two great gods , Penury and Powerlessness , who hindered them from giving him money ."
+    },
+    {
+      "id": "21.2",
+      "label": "Section 21.2",
+      "chapter": null,
+      "original": "Τιμοκρέων δʼ ὁ Ῥόδιος μελοποιὸς ἐν ᾄσματι καθάπτεται πικρότερον τοῦ Θεμιστοκλέους , ὡς ἄλλους μὲν ἐπὶ χρήμασι φυγάδας διαπραξαμένου κατελθεῖν , αὐτὸν δὲ ξένον ὄντα καὶ φίλον προεμένου διʼ ἀργύριον . λέγει δʼ οὕτως ·\nἀλλʼ εἰ τύγε Παυσανίαν ἢ καὶ τύγε Ξάνθιππον αἰνεῖς ἢ τύγε Λευτυχίδαν , ἐγὼ δʼ Ἀριστείδαν ἐπαινέω ἄνδρʼ ἱερᾶν ἀπʼ Ἀθανᾶν ἐλθεῖν ἕνα λῷστον · ἐπεὶ Θεμιστοκλῆ ἤχθαρε Λατώ ,",
+      "translation": "Timocreon , the lyric poet of Rhodes , assailed Themistocles very bitterly in a song , to the effect that for bribes he had secured the restoration of other exiles , but had abandoned him , though a host and a friend , and all for money . The song runs thus :— [*]\nCome , if thou praisest Pausanias , or if Xanthippus , Or if Leotychidas , then I shall praise Aristides , The one best man of all Who came from sacred Athens ; since Leto loathes Themistocles ,"
+    },
+    {
+      "id": "22.1",
+      "label": "Section 22.1",
+      "chapter": null,
+      "original": "ἤδη δὲ καὶ τῶν πολιτῶν διὰ τὸ φθονεῖν ἡδέως τὰς διαβολὰς προσιεμένων ἠναγκάζετο λυπηρὸς εἶναι τῶν αὑτοῦ πράξεων πολλάκις ἐν τῷ δήμῳ μνημονεύων · καὶ πρὸς τοὺς δυσχεραίνοντας τί κοπιᾶτε , εἶπεν , ὑπὸ τῶν αὐτῶν πολλάκις εὖ πάσχοντες ; ἠνίασε δὲ τοὺς πολλοὺς καὶ τὸ τῆς Ἀρτέμιδος ἱερὸν εἱσάμενος , ἣν Ἀριστοβούλην μὲν προσηγόρευσεν , ὡς ἄριστα τῇ πόλει καὶ τοῖς Ἕλλησι βουλευσάμενος ,",
+      "translation": "And at last , when even his fellow-citizens were led by their jealousy of his greatness to welcome such slanders against him , he was forced to allude to his own achievements when he addressed the Assembly , till he became tiresome thereby , and he once said to the malcontents : Why are ye vexed that the same men should often benefit you ? He offended the multitude also by building the temple of Artemis , whom he surnamed Aristoboule , or Best Counsellor , intimating thus that it was he who had given the best counsel to the city and to the Hellenes ."
+    },
+    {
+      "id": "22.2",
+      "label": "Section 22.2",
+      "chapter": null,
+      "original": "πλησίον δὲ τῆς οἰκίας κατεσκεύασεν ἐν Μελίτῃ τὸ ἱερὸν , οὗ νῦν τὰ σώματα τῶν θανατουμένων οἱ δήμιοι προβάλλουσι καὶ τὰ ἱμάτια καὶ τοὺς βρόχους τῶν ἀπαγχομένων καὶ καθαιρεθέντων ἐκφέρουσιν . ἔκειτο δὲ καὶ τοῦ Θεμιστοκλέους εἰκόνιον ἐν τῷ ναῷ τῆς Ἀριστοβούλης ἔτι καθʼ ἡμᾶς · καὶ φαίνεταί τις οὐ τὴν ψυχὴν μόνον , ἀλλὰ καὶ τὴν ὄψιν ἡρωϊκὸς γενόμενος .",
+      "translation": "This temple he established near his house in Melite , where now the public officers cast out the bodies of those who have been put to death , and carry forth the garments and the nooses of those who have dispatched themselves by hanging . A portrait-statue of Themistocles stood in this temple of Aristoboule down to my time , from which he appears to have been a man not only of heroic spirit , but also of heroic presence ."
+    },
+    {
+      "id": "23.1",
+      "label": "Section 23.1",
+      "chapter": null,
+      "original": "ἐκπεσόντος δὲ τῆς πόλεως αὐτοῦ καὶ διατρίβοντος ἐν Ἄργει τὰ περὶ Παυσανίαν συμπεσόντα κατʼ ἐκείνου παρέσχε τοῖς ἐχθροῖς ἀφορμάς . ὁ δὲ γραψάμενος αὐτὸν προδοσίας Λεωβώτης ἦν ὁ Ἀλκμαίωνος Ἀγραυλῆθεν , ἅμα συνεπαιτιωμένων τῶν Σπαρτιατῶν . ὁ γὰρ Παυσανίας πράττων ἐκεῖνα δὴ τὰ περὶ τὴν προδοσίαν πρότερον μὲν ἀπεκρύπτετο τὸν Θεμιστοκλέα , καίπερ ὄντα φίλον ·",
+      "translation": "After he had been thus banished from the city , and while he was sojourning at Argos , circumstances connected with the death of Pausanias gave his enemies at Athens ground for proceeding against him . The one who actually brought in the indictment against him for treason was Leobotes the son of Alcmeon , of the deme Agraule , but the Spartans supported him in the accusation . Pausanias , while engaged in his grand scheme of treachery , at first kept it concealed from Themistocles ;"
+    },
+    {
+      "id": "23.2",
+      "label": "Section 23.2",
+      "chapter": null,
+      "original": "ὡς δʼ εἶδεν ἐκπεπτωκότα τῆς πολιτείας καὶ φέροντα χαλεπῶς ἐθάρσησεν ἐπὶ τὴν κοινωνίαν τῶν πραττομένων παρακαλεῖν , γράμματα [*] τοῦ βασιλέως ἐπιδεικνύμενος αὐτῷ καὶ παροξύνων ἐπὶ τοὺς Ἕλληνας ὡς πονηροὺς καὶ ἀχαρίστους . ὁ δὲ τὴν μὲν δέησιν ἀπετρίψατο τοῦ Παυσανίου καὶ τὴν κοινωνίαν ὅλως ἀπείπατο , πρὸς οὐδένα δὲ τοὺς λόγους ἐξήνεγκεν οὐδὲ κατεμήνυσε τὴν πρᾶξιν , εἴτε παύσεσθαι προσδοκῶν αὐτόν , εἴτʼ ἄλλως καταφανῆ γενήσεσθαι σὺν οὐδενὶ λογισμῷ πραγμάτων ἀτόπων καὶ παραβόλων ὀρεγόμενον .",
+      "translation": "but when he saw him thus banished from his state and in great bitterness of spirit , he made bold to invite him into partnership in his own undertakings , showing him a letter he had received from the king , and inciting him against the Hellenes as a base and thankless people . Themistocles rejected the solicitation of Pausanias , and utterly refused the proffered partnership ; and yet he disclosed the propositions to no one , nor did he even give information of the treacherous scheme , because he expected either that Pausanias would give it up of his own accord , or that in some other way he would be found out , since he was so irrationally grasping after such strange and desperate objects ."
+    },
+    {
+      "id": "24.1",
+      "label": "Section 24.1",
+      "chapter": null,
+      "original": "προαισθόμενος δʼ ἐκεῖνος εἰς Κέρκυραν διεπέρασεν , οὔσης αὐτῷ πρὸς τὴν πόλιν εὐεργεσίας . γενόμενος γὰρ αὐτῶν κριτὴς πρὸς Κορινθίους ἐχόντων διαφοράν , ἔλυσε τὴν ἔχθραν εἴκοσι τάλαντα κρίνας τοὺς Κορινθίους καταβαλεῖν καὶ Λευκάδα κοινῇ νέμειν ἀμφοτέρων ἄποικον . ἐκεῖθεν δʼ εἰς Ἤπειρον ἔφυγε · καὶ διωκόμενος ὑπὸ τῶν Ἀθηναίων καὶ τῶν Λακεδαιμονίων ἔρριψεν αὑτὸν εἰς ἐλπίδας χαλεπὰς καὶ ἀπόρους καταφυγὼν πρὸς Ἄδμητον , ὃς βασιλεὺς μὲν ἦν Μολοττῶν ,",
+      "translation": "But he heard of this in advance , and crossed over to Corcyra , where he had been recognized as a public benefactor of the city . For he had served as arbiter in a dispute between them and the Corinthians , and settled the quarrel by deciding that the Corinthians should pay an indemnity of twenty talents , and administer Leucas as a common colony of both cities . Thence he fled to Epirus , and being pursued by the Athenians and Lacedaemonians , he threw himself upon grievous and desperate chances of escape by taking refuge with Admetus , who was king of the Molossians ,"
+    },
+    {
+      "id": "24.2",
+      "label": "Section 24.2",
+      "chapter": null,
+      "original": "δεηθεὶς δέ τι τῶν Ἀθηναίων καὶ προπηλακισθεὶς ὑπὸ τοῦ Θεμιστοκλέους , ὅτʼ ἤκμαζεν ἐν τῇ πολιτείᾳ , διʼ ὀργῆς εἶχεν αὐτὸν ἀεὶ καὶ δῆλος ἦν , εἰ λάβοι , τιμωρησόμενος . ἐν δὲ τῇ τότε τύχῃ μᾶλλον ὁ Θεμιστοκλῆς φοβηθεὶς συγγενῆ καὶ πρόσφατον φθόνον ὀργῆς παλαιᾶς καὶ βασιλικῆς , ταύτῃ φέρων ὑπέθηκεν ἑαυτόν , ἱκέτης τοῦ Ἀδμήτου καταστὰς ἴδιόν τινα καὶ παρηλλαγμένον τρόπον .",
+      "translation": "and who , since he had once asked some favour of the Athenians and had been insultingly refused it by Themistocles , then at the height of his political influence , was angry with him ever after , and made it plain that he would take vengeance on him if he caught him . But in the desperate fortune of that time Themistocles was more afraid of kindred and recent jealousy than of an anger that was of long standing and royal , and promptly cast himself upon the king ’ s mercy , making himself the suppliant of Admetus in a way quite peculiar and extraordinary ."
+    },
+    {
+      "id": "25.1",
+      "label": "Section 25.1",
+      "chapter": null,
+      "original": "ταῦτα δʼ οὐκ εἰκός ἐστιν οὕτω γενέσθαι . Θεόφραστος γὰρ ἐν τοῖς Περὶ βασιλείας ἱστορεῖ τὸν Θεμιστοκλέα πέμψαντος εἰς Ὀλυμπίαν Ἱέρωνος ἵππους ἀγωνιστὰς καὶ σκηνήν τινα κατεσκευασμένην πολυτελῶς στήσαντος , εἰπεῖν ἐν τοῖς Ἕλλησι λόγον , ὡς χρὴ τὴν σκηνὴν διαρπάσαι τοῦ τυράννου καὶ κωλῦσαι τοὺς ἵππους ἀγωνίσασθαι .",
+      "translation": "But it is not likely that this was so . For Theophrastus , in his work On Royalty , tells how , when Hiero sent horses to compete at Olympia , and set up a sort of booth there with very costly decorations , Themistocles made a speech among the assembled Hellenes , urging them to tear down the booth of the tyrant and prevent his horses from competing ."
+    },
+    {
+      "id": "25.2",
+      "label": "Section 25.2",
+      "chapter": null,
+      "original": "Θουκυδίδης δέ φησι καὶ πλεῦσαι αὐτὸν ἐπὶ τὴν ἑτέραν καταβάντα θάλασσαν ἀπὸ Πύδνης , οὐδενὸς εἰδότος ὅστις εἴη τῶν πλεόντων , μέχρι οὗ πνεύματι τῆς ὁλκάδος εἰς Νάξον καταφερομένης ὑπὸ Ἀθηναίων πολιορκουμένην τότε φοβηθεὶς ἀναδείξειεν ἑαυτὸν τῷ τε ναυκλήρῳ καὶ τῷ κυβερνήτῃ , καὶ τὰ μὲν δεόμενος , τὰ δʼ ἀπειλῶν καὶ λέγων , ὅτι κατηγορήσοι καὶ καταψεύσοιτο πρὸς τοὺς Ἀθηναίους , ὡς οὐκ ἀγνοοῦντες , ἀλλὰ χρήμασι πεισθέντες ἐξ ἀρχῆς , ἀναλάβοιεν αὐτόν , οὕτως ἀναγκάσειε παραπλεῦσαι καὶ λαβέσθαι τῆς Ἀσίας .",
+      "translation": "And Thucydides [*] says that he made his way across the country to the sea , and set sail from Pydna , no one of the passengers knowing who he was until , when the vessel had been carried by a storm to Naxos , to which the Athenians at that time were laying siege , [*] he was terrified , and disclosed himself to the master and the captain of the ship , and partly by entreaties , partly by threats , actually declaring that he would denounce and vilify them to the Athenians as having taken him on board at the start in no ignorance but under bribes ,— in this way compelled them to sail by and make the coast of Asia ."
+    },
+    {
+      "id": "26.1",
+      "label": "Section 26.1",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ κατέπλευσεν εἰς Κύμην καὶ πολλοὺς ᾔσθετο τῶν ἐπὶ θαλάττῃ παραφυλάττοντας αὐτὸν λαβεῖν , μάλιστα δὲ τοὺς περὶ Ἐργοτέλη καὶ Πυθόδωρον ( ἦν γὰρ ἡ θήρα λυσιτελὴς τοῖς τὸ κερδαίνειν ἀπὸ παντὸς ἀγαπῶσι , διακοσίων ἐπικεκηρυγμένων αὐτῷ ταλάντων ὑπὸ τοῦ βασιλέως ), ἔφυγεν εἰς Αἰγάς , Αἰολικὸν πολισμάτιον , ὑπὸ πάντων ἀγνοούμενος πλὴν τοῦ ξένου Νικογένους , ὃς Αἰολέων πλείστην οὐσίαν ἐκέκτητο καὶ τοῖς ἄνω δυνατοῖς γνώριμος ὑπῆρχε .",
+      "translation": "After landing at Cyme , and learning that many people on the coast were watching to seize him , and especially Ergoteles and Pythodorus ,— for the chase was a lucrative one to such as were fond of getting gain from any and every source , since two hundred talents had been publicly set upon his head by the King ,— he fled to Aegae , a little Aeolic citadel . Here no one knew him except his host Nicogenes , the wealthiest man in Aeolia , and well acquainted with the magnates of the interior ."
+    },
+    {
+      "id": "26.2",
+      "label": "Section 26.2",
+      "chapter": null,
+      "original": "παρὰ τούτῳ κρυπτόμενος ἡμέρας ὀλίγας διέτριψεν · εἶτα μετὰ τὸ δεῖπνον ἐκ θυσίας τινος Ὄλβιος ὁ τῶν τέκνων τοῦ Νικογένους παιδαγωγὸς ἔκφρων γενόμενος καὶ θεοφόρητος ἀνεφώνησεν ἐν μέτρῳ [*] ταυτί · νυκτὶ φωνήν , νυκτὶ βουλήν , νυκτὶ τὴν νίκην δίδου . Καὶ μετὰ ταῦτα κοιμηθεὶς ὁ Θεμιστοκλῆς ὄναρ ἔδοξεν ἰδεῖν δράκοντα κατὰ τῆς γαστρὸς αὐτοῦ περιελιττόμενον καὶ προσανέρποντα τῷ τραχήλῳ ·",
+      "translation": "With him he remained in hiding for a few days . During this time , after the dinner which followed a certain sacrifice , Olbius , the paedagogue of the children of Nicogenes , becoming rapt and inspired , lifted up his voice and uttered the following verse :— Night shall speak , and night instruct thee , night shall give thee victory . And in the night that followed , Themistocles , as he lay in bed , thought he saw in a dream that a serpent wound itself along over his body and crept up to his neck ,"
+    },
+    {
+      "id": "27.1",
+      "label": "Section 27.1",
+      "chapter": null,
+      "original": "Θουκυδίδης μὲν οὖν καὶ Χάρων ὁ Λαμψακηνὸς ἱστοροῦσι τεθνηκότος Ξέρξου πρὸς τὸν υἱὸν αὐτοῦ τῷ Θεμιστοκλεῖ γενέσθαι τὴν ἔντευξιν · Ἔφορος δὲ καὶ Δείνων καὶ Κλείταρχος καὶ Ἡρακλείδης , ἔτι δʼ ἄλλοι πλείονες , πρὸς αὐτὸν ἀφικέσθαι τὸν Ξέρξην . τοῖς δὲ χρονικοῖς δοκεῖ μᾶλλον ὁ Θουκυδίδης συμφέρεσθαι , καίπερ οὐδʼ αὐτοῖς ἀτρέμα συνταττομένοις .",
+      "translation": "Now Thucydides [*] and Charon of Lampsacus relate that Xerxes was dead , and that it was his son Artaxerxes with whom Themistocles had his interview ; but Ephorus and Dinon and Clitarchus and Heracleides and yet more besides have it that it was Xerxes to whom he came . With the chronological data Thucydides seems to me more in accord , although these are by no means securely established ."
+    },
+    {
+      "id": "27.2",
+      "label": "Section 27.2",
+      "chapter": null,
+      "original": "ὁ δʼ οὖν Θεμιστοκλῆς γενόμενος παρʼ αὐτὸ τὸ δεινὸν ἐντυγχάνει πρῶτον Ἀρταβάνῳ τῷ χιλιάρχῳ λέγων , Ἕλλην μὲν εἶναι , βούλεσθαι δʼ ἐντυχεῖν βασιλεῖ περὶ μεγίστων πραγμάτων καὶ πρὸς ἃ τυγχάνει μάλιστα σπουδάζων ἐκεῖνος . ὁ δέ φησιν · ὦ ξένε , νόμοι διαφέρουσιν ἀνθρώπων · ἄλλα δʼ ἄλλοις καλά · καλὸν δὲ πᾶσι τὰ οἰκεῖα κοσμεῖν καὶ σώζειν .",
+      "translation": "Be that as it may , Themistocles , thus at the threshold of the dreadful ordeal , had audience first with Artabanus the Chiliarch , or Grand Vizier , and said that he was a Hellene , and that he desired to have an audience with the King on matters which were of the highest importance and for which the monarch entertained the most lively concern . Whereupon the Chiliarch replied : O Stranger , men ’ s customs differ ; different people honor different practices ; but all honor the exaltation and maintenance of their own peculiar ways ."
+    },
+    {
+      "id": "28.1",
+      "label": "Section 28.1",
+      "chapter": null,
+      "original": "ἐπεὶ δʼ οὖν εἰσήχθη πρὸς βασιλέα καὶ προσκυνήσας ἔστη σιωπῇ , προστάξαντος τῷ ἑρμηνεῖ τοῦ βασιλέως ἐρωτῆσαι , τίς ἐστι , καὶ τοῦ ἑρμηνέως ἐρωτήσαντος , εἶπεν · ἥκω σοι , βασιλεῦ , Θεμιστοκλῆς ὁ Ἀθηναῖος ἐγὼ φυγὰς ὑφʼ Ἑλλήνων διωχθείς , ᾧ πολλὰ μὲν ὀφείλουσι Πέρσαι κακά , πλείω δὲ ἀγαθὰ κωλύσαντι τὴν δίωξιν , ὅτε τῆς Ἑλλάδος ἐν ἀσφαλεῖ γενομένης παρέσχε τὰ οἴκοι σωζόμενα χαρίσασθαί τι καὶ ὑμῖν .",
+      "translation": "That may or may not be so . But when he was led into the presence of the King and had made him obeisance , and was standing in silence , the King ordered the interpreter to ask him who he was , and , on the interpreter ’ s asking , he said : I who thus come to thee , O King , am Themistocles the Athenian , an exile , pursued by the Hellenes ; and to me the Persians are indebted for many ills , but for more blessings , since I hindered the pursuit of the Hellenes , at a time when Hellas was brought into safety , and the salvation of my own home gave me an opportunity for showing some favour also to you ."
+    },
+    {
+      "id": "28.2",
+      "label": "Section 28.2",
+      "chapter": null,
+      "original": "ἐμοὶ μὲν οὖν πάντα πρέποντα ταῖς παρούσαις συμφοραῖς ἐστι , καὶ παρεσκευασμένος ἀφῖγμαι δέξασθαί τε χάριν εὐμενῶς διαλλαττομένου καὶ παραιτεῖσθαι μνησικακοῦντος ὀργῆν · σὺ δὲ τοὺς ἐμοὺς ἐχθροὺς μάρτυρας θέμενος ὧν εὐεργέτησα Πέρσας , νῦν ἀπόχρησαι ταῖς ἐμαῖς τύχαις πρὸς ἐπίδειξιν ἀρετῆς μᾶλλον ἢ πρὸς ἀποπλήρωσιν ὀργῆς . σώσεις μὲν γὰρ ἱκέτην σόν , ἀπολεῖς δʼ Ἑλλήνων πολέμιον γενόμενον .",
+      "translation": "Now , therefore , I may look for any sequel to my present calamities , and I come prepared to receive the favour of one who benevolently offers reconciliation , or to deprecate the anger of one who cherishes the remembrance of injuries . But do thou take my foes to witness for the good I wrought the Persians , and now use my misfortunes for the display of thy virtue rather than for the satisfaction of thine anger . For it is a suppliant of thine whom thou wilt save , but an enemy of the Hellenes whom thou wilt destroy ."
+    },
+    {
+      "id": "29.1",
+      "label": "Section 29.1",
+      "chapter": null,
+      "original": "ἅμα δʼ ἡμέρᾳ συγκαλέσας τοὺς φίλους εἰσῆγεν αὐτὸν οὐδὲν [*] ἐλπίζοντα χρηστὸν ἐξ ὧν ἑώρα τοὺς ἐπὶ θύραις , ὡς ἐπύθοντο τοὔνομα παρόντος αὐτοῦ , χαλεπῶς διακειμένους καὶ κακῶς λέγοντας . ἔτι δὲ Ῥωξάνης ὁ χιλίαρχος , ὡς κατʼ αὐτὸν ἦν ὁ Θεμιστοκλῆς προσιών , καθημένου βασιλέως καὶ τῶν ἄλλων σιωπώντων , ἀτρέμα στενάξας εἶπεν · ὄφις Ἕλλην ὁ ποικίλος , ὁ βασιλέως σε δαίμων δεῦρο ἤγαγεν .",
+      "translation": "At daybreak he called his friends together and bade Themistocles to be introduced , who expected no favorable outcome , because he saw that the guards at the gates , when they learned the name of him who was going in , were bitterly disposed and spoke insultingly to him . And besides , Roxanes the Chiliarch , when Themistocles came along opposite him ,— the King being seated and the rest hushed in silence ,— said in an angry undertone : Thou subtle serpent of Hellas , the King ’ s good genius hath brought thee hither ."
+    },
+    {
+      "id": "29.2",
+      "label": "Section 29.2",
+      "chapter": null,
+      "original": "οὐ μὴν ἀλλʼ εἰς ὄψιν ἐλθόντος αὐτοῦ καὶ πάλιν προσκυνήσαντος , ἀσπασάμενος καὶ προσειπὼν φιλοφρόνως ὁ βασιλεύς , ἤδη μὲν ἔφησεν αὐτῷ διακόσια τάλαντα ὀφείλειν · κομίσαντα γὰρ αὑτὸν ἀπολήψεσθαι δικαίως τὸ ἐπικηρυχθὲν τῷ ἀγαγόντι · πολλῷ δὲ πλείω τούτων ὑπισχνεῖτο καὶ παρεθάρρυνε καὶ λέγειν ἐδίδου περὶ τῶν Ἑλληνικῶν , ἃ βούλοιτο , παρρησιαζόμενον .",
+      "translation": "However , when he had come into the King ’ s presence , and had once more paid him obeisance , the King welcomed him and spake him kindly , and said he already owed him two hundred talents , for since he had delivered himself up it was only just that he himself should receive the reward proclaimed for his captor . And he promised him much more besides , and bade him take heart , and gave him leave to say whatever he wished concerning the affairs of Hellas , with all frankness of speech ."
+    },
+    {
+      "id": "30.1",
+      "label": "Section 30.1",
+      "chapter": null,
+      "original": "καταβαίνοντι δʼ αὐτῷ πρὸς τὰς Ἑλληνικὰς πράξεις ἐπὶ θάλατταν Πέρσης ἀνὴρ Ἐπιξύης ὄνομα , σατραπεύων τῆς ἄνω Φρυγίας , ἐπεβούλευσε , παρεσκευακὼς ἔκπαλαι Πισίδας τινὰς ἀποκτενοῦντας , ὅταν ἐν τῇ καλουμένῃ κώμῃ [*] Λεοντοκεφάλῳ γενόμενος καταυλισθῇ . τῷ δὲ λέγεται καθεύδοντι μεσημβρίας τὴν μητέρα τῶν θεῶν ὄναρ φανεῖσαν εἰπεῖν · ὦ Θεμιστόκλεις , ὑστέρει κεφαλῆς λεόντων , ἵνα μὴ λέοντι περιπέσῃς . ἐγὼ δὲ ἀντὶ τούτου σε αἰτῶ θεράπαιναν Μνησιπτολέμαν .",
+      "translation": "Now as he was going down to the sea on his commission to deal with Hellenic affairs , a Persian , Epixyes by name , satrap of Upper Phrygia , plotted against his life , having for a long time kept certain Pisidians in readiness to slay him whenever he should reach the village called Lion ’ s Head , and take up his night ’ s quarters there . But while Themistocles was asleep at midday before , it is said that the Mother of the Gods [*] appeared to him in a dream and said : O Themistocles , shun a head of lions , that thou mayest not encounter a lion . And for this service to thee , I demand of thee Mnesiptolema to be my handmaid ."
+    },
+    {
+      "id": "30.2",
+      "label": "Section 30.2",
+      "chapter": null,
+      "original": "διαταραχθεὶς οὖν ὁ Θεμιστοκλῆς προσευξάμενος τῇ θεῷ τὴν μὲν λεωφόρον ἀφῆκεν , ἑτέρᾳ δὲ περιελθὼν καὶ παραλλάξας τὸν τόπον ἐκεῖνον ἤδη νυκτὸς οὔσης κατηυλίσατο .\nτῶν δὲ τὴν σκηνὴν κομιζόντων ὑποζυγίων ἑνὸς εἰς τὸν ποταμὸν ἐμπεσόντος , οἱ τοῦ Θεμιστοκλέους οἰκέται τὰς αὐλαίας διαβρόχους γενομένας ἐκπετάσαντες ἀνέψυχον . οἱ δὲ Πισίδαι τὰ ξίφη λαβόντες ἐν τούτῳ προσεφέροντο , καὶ τὰ ψυχόμενα πρὸς τὴν σελήνην οὐκ ἀκριβῶς ἰδόντες ᾠήθησαν εἶναι τὴν σκηνὴν τὴν Θεμιστοκλέους κἀκεῖνον ἔνδον εὑρήσειν ἀναπαυόμενον .",
+      "translation": "Much disturbed , of course , Themistocles , with a prayer of acknowledgment to the goddess , forsook the highway , made a circuit by another route , and passing by that place , at last , as night came on , took up his quarters . Now , since one of the beasts of burden which carried the equipage of his tent had fallen into the river , the servants of Themistocles hung up the curtains which had got wet , and were drying them out . The Pisidians , at this juncture , sword in hand , made their approach , and since they could not see distinctly by the light of the moon what it was that was being dried , they thought it was the tent of Themistocles , and that they would find him reposing inside ."
+    },
+    {
+      "id": "31.1",
+      "label": "Section 31.1",
+      "chapter": null,
+      "original": "ὡς δʼ ἦλθεν εἰς Σάρδεις καὶ σχολὴν ἄγων ἐθεᾶτο τῶν ἱερῶν τὴν κατασκευὴν καὶ τῶν ἀναθημάτων τὸ πλῆθος , εἶδε δὲ ἐν μητρὸς ἱερῷ τὴν καλουμένην ὑδροφόρον κόρην χαλκῆν , μέγεθος δίπηχυν , ἣν αὐτὸς ὅτε τῶν Ἀθήνησιν ὑδάτων ἐπιστάτης ἦν , ἑλὼν τοὺς ὑφαιρουμένους τὸ ὕδωρ καὶ παροχετεύοντας , ἀνέθηκεν ἐκ τῆς ζημίας ποιησάμενος , εἴτε δὴ παθών τι πρὸς τὴν αἰχμαλωσίαν τοῦ ἀναθήματος εἴτε βουλόμενος ἐνδείξασθαι τοῖς Ἀθηναίοις , ὅσην ἔχει τιμὴν καὶ δύναμιν ἐν τοῖς βασιλέως πράγμασι , λόγον τῷ Λυδίας σατράπῃ προσήνεγκεν αἰτούμενος ἀποστεῖλαι τὴν κόρην εἰς τὰς Ἀθήνας .",
+      "translation": "When he had come to Sardis and was viewing at his leisure the temples built there and the multitude of their dedicatory offerings , and saw in the temple of the Mother the so-called Water-carrier ,— a maid in bronze , two cubits high , which he himself , when he was water commissioner at Athens , had caused to be made and dedicated from the fines he exacted of those whom he convicted of stealing and tapping the public water ,— whether it was because he felt some chagrin at the capture of the offering , or because he wished to show the Athenians what honor and power he had in the King ’ s service , he addressed a proposition to the Lydian satrap and asked him to restore the maid to Athens ."
+    },
+    {
+      "id": "31.2",
+      "label": "Section 31.2",
+      "chapter": null,
+      "original": "χαλεπαίνοντος δὲ τοῦ βαρβάρου καὶ βασιλεῖ γράψειν φήσαντος ἐπιστολήν , φοβηθεὶς ὁ Θεμιστοκλῆς εἰς τὴν γυναικωνῖτιν κατέφυγε καὶ τὰς παλλακίδας αὐτοῦ θεραπεύσας χρήμασιν ἐκεῖνόν τε κατεπράϋνε τῆς ὀργῆς καὶ πρὸς τὰ ἄλλα παρεῖχεν ἑαυτὸν εὐλαβέστερον , ἤδη καὶ τὸν φθόνον τῶν βαρβάρων δεδοικώς . οὐ γὰρ πλανώμενος περὶ τὴν Ἀσίαν , ὥς φησι Θεόπομπος , ἀλλʼ ἐν Μαγνησίᾳ μὲν οἰκῶν , καρπούμενος δὲ δωρεὰς μεγάλας καὶ τιμώμενος ὅμοια Περσῶν τοῖς ἀρίστοις , ἐπὶ πολὺν χρόνον ἀδεῶς διῆγεν , οὐ πάνυ τι τοῖς Ἑλληνικοῖς πράγμασι βασιλέως προσέχοντος ὑπʼ ἀσχολιῶν περὶ τὰς ἄνω πράξεις .",
+      "translation": "But the Barbarian was incensed and threatened to write a letter to the King about it ; whereat Themistocles was afraid , and so had recourse to the women ’ s chambers , and , by winning the favour of the satrap ’ s concubines with money , succeeded in assuaging his anger . Thereafter he behaved more circumspectly , fearing now even the jealousy of the Barbarians . For he did not wander about over Asia , as Theopompus says , but had a house in Magnesia , and gathered in large gifts , and was honored like the noblest Persians , and so lived on for a long time without concern , because the King paid no heed at all to Hellenic affairs , owing to his occupation with the state of the interior ."
+    },
+    {
+      "id": "32.1",
+      "label": "Section 32.1",
+      "chapter": null,
+      "original": "ἀπέλιπε δὲ Θεμιστοκλῆς παῖδας ἐκ μὲν Ἀρχίππης τῆς Λυσάνδρου τοῦ Ἀλωπεκῆθεν Ἀρχέπτολιν καὶ Πολύευκτον καὶ Κλεόφαντον , οὗ καὶ Πλάτων ὁ φιλόσοφος ὡς ἱππέως ἀρίστου , τἆλλα δʼ οὐδενὸς ἀξίου γενομένου μνημονεύει . τῶν δὲ πρεσβυτάτων Νεοκλῆς μὲν ἔτι παῖς ὢν ὑφʼ ἵππου δηχθεὶς ἀπέθανε , Διοκλέα δὲ Λύσανδρος ὁ πάππος υἱὸν ἐποιήσατο .",
+      "translation": "Themistocles left three sons by Archippe , the daughter of Lysander , of the deme Alopece , namely : Archeptolis , Polyeuctus and Cleophantus , the last of whom Plato the philosopher mentions as a capital horseman , but good for nothing else . [*] One of his two oldest sons , Neocles , died in boyhood from the bite of a horse , and Diocles was adopted by his grandfather Lysander ."
+    },
+    {
+      "id": "32.2",
+      "label": "Section 32.2",
+      "chapter": null,
+      "original": "θυγατέρας δὲ πλείους ἔσχεν , ὧν Μνησιπτολέμαν μὲν ἐκ τῆς ἐπιγαμηθείσης γενομένην Ἀρχέπτολις ὁ ἀδελφὸς οὐκ ὢν ὁμομήτριος ἔγημεν , Ἰταλίαν δὲ Πανθοίδης ὁ Χῖος , Σύβαριν δὲ Νικομήδης ὁ Ἀθηναῖος · Νικομάχην δὲ Φρασικλῆς ὁ ἀδελφιδοῦς Θεμιστοκλέους , ἤδη τετελευτηκότος ἐκείνου , πλεύσας εἰς Μαγνησίαν ἔλαβε παρὰ τῶν ἀδελφῶν , νεωτάτην δὲ πάντων τῶν τέκνων Ἀσίαν ἔθρεψε .",
+      "translation": "He had several daughters , of whom Mnesiptolema , born of his second wife , became the wife of Archeptolis her half-brother , Italia of Panthoides the Chian , and Sybaris of Nicomedes the Athenian . Nicomache was given in marriage by her brothers to Phrasicles , the nephew of Themistocles , who sailed to Magnesia after his uncle ’ s death , and who also took charge of Asia , the youngest of all the children ."
+    }
+  ],
+  "prevChunkSlug": "comparison-of-solon-and-publicola-praajz",
+  "nextChunkSlug": "camillus-1xon6p"
+}

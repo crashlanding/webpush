@@ -1,0 +1,75 @@
+{
+  "loebNumber": 521,
+  "sortOrder": 521,
+  "slug": "philostratus-heroicus-gymnasticus-discourses-1-and-2-9ccg9j",
+  "title": "Heroicus. Gymnasticus. Discourses 1 and 2",
+  "volumeLabel": "Heroicus. Gymnasticus. Discourses 1 and 2",
+  "authorDisplay": "Philostratus",
+  "authors": [
+    "Philostratus"
+  ],
+  "language": "greek",
+  "summary": "1 of 3 contents in Heroicus. Gymnasticus. Discourses 1 and 2 are live from Scaife, while the remaining contents stay visible until a confident pair is available. Discourses 1 and 2 is currently filled with the closest same-author Scaife text that exposes both an original-language version and an English translation.",
+  "status": "partial",
+  "defaultChunkSlug": "de-somniis-lib-i-ii-5y9nvx",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "heroicus-1pvhav",
+      "title": "Heroicus",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Heroicus."
+    },
+    {
+      "id": "gymnasticus-pjtvs7",
+      "title": "Gymnasticus",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Gymnasticus."
+    },
+    {
+      "id": "discourses-1-and-2-1w6xf5",
+      "title": "Discourses 1 and 2",
+      "status": "ready",
+      "sectionCount": 10,
+      "chunkSlug": "de-somniis-lib-i-ii-5y9nvx",
+      "chunks": [
+        {
+          "slug": "de-somniis-lib-i-ii-5y9nvx",
+          "label": "De Somniis (lib. i-ii)",
+          "partId": "discourses-1-and-2-1w6xf5",
+          "partTitle": "Discourses 1 and 2",
+          "sectionCount": 10,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "de-somniis-lib-i-ii-5y9nvx",
+      "label": "De Somniis (lib. i-ii)",
+      "partId": "discourses-1-and-2-1w6xf5",
+      "partTitle": "Discourses 1 and 2",
+      "sectionCount": 10,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "de-somniis-lib-i-ii-5y9nvx",
+      "partTitle": "Discourses 1 and 2",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Somniis (lib. i-ii)",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg019.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the doctrine that Dreams are sent from God, Books 1-2",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg019.1st1K-eng1/"
+      }
+    }
+  ]
+}

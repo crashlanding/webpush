@@ -1,0 +1,61 @@
+{
+  "loebNumber": 433,
+  "sortOrder": 433,
+  "slug": "josephus-jewish-antiquities-volume-viii-n6fhr0",
+  "title": "Jewish Antiquities, Volume VIII",
+  "volumeLabel": "Jewish Antiquities, Volume VIII",
+  "authorDisplay": "Josephus",
+  "authors": [
+    "Josephus"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Jewish Antiquities, Volume VIII. Jewish Antiquities, Volume VIII currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "jewish-antiquities-volume-viii-jc0v3x",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "jewish-antiquities-volume-viii-jc0v3x",
+      "title": "Jewish Antiquities, Volume VIII",
+      "status": "ready",
+      "sectionCount": 23,
+      "chunkSlug": "jewish-antiquities-volume-viii-jc0v3x",
+      "chunks": [
+        {
+          "slug": "jewish-antiquities-volume-viii-jc0v3x",
+          "label": "Jewish Antiquities, Volume VIII",
+          "partId": "jewish-antiquities-volume-viii-jc0v3x",
+          "partTitle": "Jewish Antiquities, Volume VIII",
+          "sectionCount": 23,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "jewish-antiquities-volume-viii-jc0v3x",
+      "label": "Jewish Antiquities, Volume VIII",
+      "partId": "jewish-antiquities-volume-viii-jc0v3x",
+      "partTitle": "Jewish Antiquities, Volume VIII",
+      "sectionCount": 23,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "jewish-antiquities-volume-viii-jc0v3x",
+      "partTitle": "Jewish Antiquities, Volume VIII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἰουδαϊκὴ ἀρχαιολογία",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0526.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Antiquities of the Jews",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0526.tlg001.perseus-eng2/"
+      }
+    }
+  ]
+}

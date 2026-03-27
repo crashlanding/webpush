@@ -1,0 +1,217 @@
+{
+  "loebNumber": 234,
+  "sortOrder": 234,
+  "slug": "plato-timaeus-critias-cleitophon-menexenus-epistles-15uc92",
+  "title": "Timaeus. Critias. Cleitophon. Menexenus. Epistles",
+  "volumeLabel": "Timaeus. Critias. Cleitophon. Menexenus. Epistles",
+  "authorDisplay": "Plato",
+  "authors": [
+    "Plato"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Timaeus. Critias. Cleitophon. Menexenus. Epistles, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "timaeus-5squre",
+  "readyChunkCount": 5,
+  "contents": [
+    {
+      "id": "timaeus-5squre",
+      "title": "Timaeus",
+      "status": "ready",
+      "sectionCount": 76,
+      "chunkSlug": "timaeus-5squre",
+      "chunks": [
+        {
+          "slug": "timaeus-5squre",
+          "label": "Timaeus",
+          "partId": "timaeus-5squre",
+          "partTitle": "Timaeus",
+          "sectionCount": 76,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "critias-18lzva",
+      "title": "Critias",
+      "status": "ready",
+      "sectionCount": 16,
+      "chunkSlug": "critias-18lzva",
+      "chunks": [
+        {
+          "slug": "critias-18lzva",
+          "label": "Critias",
+          "partId": "critias-18lzva",
+          "partTitle": "Critias",
+          "sectionCount": 16,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "cleitophon-1wffun",
+      "title": "Cleitophon",
+      "status": "ready",
+      "sectionCount": 5,
+      "chunkSlug": "cleitophon-1wffun",
+      "chunks": [
+        {
+          "slug": "cleitophon-1wffun",
+          "label": "Cleitophon",
+          "partId": "cleitophon-1wffun",
+          "partTitle": "Cleitophon",
+          "sectionCount": 5,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "menexenus-ovmuo",
+      "title": "Menexenus",
+      "status": "ready",
+      "sectionCount": 16,
+      "chunkSlug": "menexenus-ovmuo",
+      "chunks": [
+        {
+          "slug": "menexenus-ovmuo",
+          "label": "Menexenus",
+          "partId": "menexenus-ovmuo",
+          "partTitle": "Menexenus",
+          "sectionCount": 16,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "epistles-1pmuq5",
+      "title": "Epistles",
+      "status": "ready",
+      "sectionCount": 38,
+      "chunkSlug": "epistles-1pmuq5",
+      "chunks": [
+        {
+          "slug": "epistles-1pmuq5",
+          "label": "Epistles",
+          "partId": "epistles-1pmuq5",
+          "partTitle": "Epistles",
+          "sectionCount": 38,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "timaeus-5squre",
+      "label": "Timaeus",
+      "partId": "timaeus-5squre",
+      "partTitle": "Timaeus",
+      "sectionCount": 76,
+      "status": "ready"
+    },
+    {
+      "slug": "critias-18lzva",
+      "label": "Critias",
+      "partId": "critias-18lzva",
+      "partTitle": "Critias",
+      "sectionCount": 16,
+      "status": "ready"
+    },
+    {
+      "slug": "cleitophon-1wffun",
+      "label": "Cleitophon",
+      "partId": "cleitophon-1wffun",
+      "partTitle": "Cleitophon",
+      "sectionCount": 5,
+      "status": "ready"
+    },
+    {
+      "slug": "menexenus-ovmuo",
+      "label": "Menexenus",
+      "partId": "menexenus-ovmuo",
+      "partTitle": "Menexenus",
+      "sectionCount": 16,
+      "status": "ready"
+    },
+    {
+      "slug": "epistles-1pmuq5",
+      "label": "Epistles",
+      "partId": "epistles-1pmuq5",
+      "partTitle": "Epistles",
+      "sectionCount": 38,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "timaeus-5squre",
+      "partTitle": "Timaeus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Τίμαιος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg031.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Timaeus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg031.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "critias-18lzva",
+      "partTitle": "Critias",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Κριτίας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg032.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Critias",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg032.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "cleitophon-1wffun",
+      "partTitle": "Cleitophon",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Κλειτοφῶν",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg029.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Cleitophon",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg029.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "menexenus-ovmuo",
+      "partTitle": "Menexenus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Μενέξενος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg028.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Menexenus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg028.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "epistles-1pmuq5",
+      "partTitle": "Epistles",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἐπιστολαί",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg036.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Letters",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg036.perseus-eng2/"
+      }
+    }
+  ]
+}

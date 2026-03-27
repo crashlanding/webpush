@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "philo-on-the-creation-allegorical-interpretation-of-genesis-2-and-3-om91r9",
+  "volumeTitle": "On the Creation. Allegorical Interpretation of Genesis 2 and 3",
+  "authorDisplay": "Philo",
+  "authors": [
+    "Philo"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "on-the-creation-1te55q-2",
+  "label": "On the Creation (Section 61 - Section 120)",
+  "partId": "on-the-creation-1te55q",
+  "partTitle": "On the Creation",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "De Opificio Mundi",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg001.1st1K-grc1/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "On the Creation of the World",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg001.1st1K-eng1/"
+    }
+  },
+  "sections": [
+    {
+      "id": "61",
+      "label": "Section 61",
+      "chapter": null,
+      "original": "εἰς τοσαύτας καὶ οὕτως ἀναγκαίας διατείνουσιν ὠφελείας αἱ τῶν κατ ’ οὐρανὸν φύσεις τε καὶ κινήσεις ἀστέρων · εἰς πόσα δ ’ ἄλλα φαίην ἂν ἔγωγε τῶν ἡμῖν μὲν ἀδηλουμένων — οὐ γὰρ πάντα τῷ θνητῷ γένει γνώριμα —, πρὸς δὲ τὴν τοῦ ὅλου συνεργούντων διαμονήν , ἃ θεσμοῖς καὶ νόμοις , οὓς ὥρισεν ὁ θεὸς ἀκινήτους ἐν τῷ παντί , συμβαίνει πάντῃ τε καὶ πάντως ἐπιτελεῖσθαι .",
+      "translation": "To such great and indispensable advantages do the natures of the heavenly bodies and the motions of the stars tend . And to how many other things might I also affirm that they contribute which are as yet unknown to us ? for all things are v.1.p.17 not known to the will of man ; but of the things which contribute towards the durability of the universe , those which are established by laws and ordinances which God has appointed to be unalterable for ever , are accomplished in every instance and in every country ."
+    },
+    {
+      "id": "62",
+      "label": "Section 62",
+      "chapter": null,
+      "original": "20 Γῆς δὲ καὶ οὐρανοῦ διακοσμηθέντων τοῖς προσήκουσι κόσμοις , τῆς μὲν τριάδι , τοῦ δ ’ ὡς ἐλέχθη τετράδι , τὰ θνητὰ γένη ζῳοπλαστεῖν ἐνεχείρει , τὴν ἀρχὴν ἀπὸ τῶν ἐνύδρων ποιούμενος ἡμέρᾳ p. 14 M. πέμπτῃ , νομίσας οὐδὲν οὕτως ἕτερον ἑτέρῳ συγγενὲς ὡς ζῴοις πεντάδα . διαφέρει γὰρ ἔμψυχα ἀψύχων οὐδενὶ μᾶλλον ἢ αἰσθήσει · πενταχῆ δὲ τμητὸν αἴσθησις , εἰς ὅρασιν , εἰς ἀκοήν , εἰς γεῦσιν , εἰς ὄσφρησιν , εἰς ἁφήν · ἑκάστῃ μέντοι προσένειμεν ὁ ποιῶν καὶ ἐξαιρέτους ὕλας καὶ κριτήριον ἴδιον , ᾧ δικάσει τὰ ὑποπίπτοντα · χρώματα μὲν [ ἡ ] ὅρασις , φωνὰς δὲ ἀκοή , χυλοὺς δὲ γεῦσις , καὶ ὄσφρησις ἀτμούς , μαλακότητας δὲ καὶ σκληρότητας καὶ ὅσα θερμὰ ἢ ψυχρὰ λειότητάς τε καὶ τραχύτητας ἁφή .",
+      "translation": "20\nThen when earth and heaven had been adorned with their befitting ornaments , one with a triad , and the other , as has been already said , with a quaternion , God proceeded to create the races of mortal creatures , making the beginning with the aquatic animals on the fifth day , thinking that there was no one thing so akin to another as the number five was to animals ; for animate things differ from inanimate in nothing more than in sensation , and sensation is divided according to a five-fold division , into sight , hearing , taste , smell , and touch . Accordingly , the Creator allotted to each of the senses its appropriate matter , and also its peculiar faculty of judgment , by which it should decide on what came before it . So sight judges of colours , and hearing of sounds , and taste of juices , and smell of vapours , and touch of softness and hardness , and of heat and cold , and of smoothness and roughness :"
+    },
+    {
+      "id": "63",
+      "label": "Section 63",
+      "chapter": null,
+      "original": "παντοῖα οὖν ἰχθύων γένη καὶ κητῶν κελεύει συνίστασθαι κατὰ τόπους διαφέροντα καὶ τοῖς μεγέθεσι καὶ ταῖς ποιότησιν · ἄλλα γὰρ ἐν ἄλλοις πελάγεσιν , ἔστι δ ’ ὅτε καὶ ταὐτά · πλὴν οὐ πανταχοῦ πάντα διεπλάττετο , καὶ μήποτ ’ εἰκότως · χαίρει γὰρ τὰ μέν τινα τεναγώδει καὶ οὐ πάνυ βαθείᾳ θαλάττῃ , τὰ δ ’ ὑποδρόμοις καὶ λιμέσι μήτ ’ ἐπὶ γῆν ἀνέρπειν μήτε [*] [*] v.1.p.21 πόρρω γῆς ἐπινήχεσθαι δυνάμενα , τὰ δὲ κατὰ μέσον καὶ βαθὺ πέλαγος διαιτώμενα τὰς προκεχυμένας ἄκρας ἢ νήσους ἢ πέτρας ἐκτρέπεται · καὶ τὰ μὲν εὐδίᾳ καὶ γαλήνῃ σφριγᾷ , τὰ δὲ κλύδωνι καὶ κυματώσει · ταῖς γὰρ συνεχέσι πληγαῖς γυμναζόμενα καὶ βίᾳ τὴν φορὰν ἀνωθοῦντα κραταιότερά τέ ἐστι καὶ πιαίνεται μᾶλλον . εὐθὺς δὲ καὶ τὰ γένη τῶν πτηνῶν ἐδημιούργει ὡς ἀδελφὰ τῶν καθ ’ ὕδατος — ἑκάτερα γὰρ νηκτά — μηδεμίαν ἰδέαν τῶν ἀεροπόρων ἀτελῆ καταλιπών .",
+      "translation": "therefore He commanded all the races of fish and sea-monsters to stand together in their places , animals differing both in their sizes and in their qualities ; for they vary in different seas , though in some cases they are the same , and every animal was not formed to live every where . And was not this reasonable ? For some of them delight in marshy places , and in water which is very deep ; and some in sewers and harbours , being neither able to crawl up upon the land , nor to swim off far from the land . Some , again , dwell in the middle and in the deep sea , and avoid all the projecting promontories and islands and rocks : some also exult in fine weather and in calms , and some in storms and heavy surf . For being exercised by continual buffetings , and being in the habit of withstanding the current by force , they are very vigorous and become stout .\nAfter that he created the races of birds as akin to the races of aquatic animals ( for they are each of them swimmers ), leaving no species of creatures which traverse the air unfinished ."
+    },
+    {
+      "id": "64",
+      "label": "Section 64",
+      "chapter": null,
+      "original": "21 Ἤδη δ ’ ὕδατος καὶ ἀέρος τὰ προσήκοντα τῶν ζῴων γένη καθάπερ τινὰ κλῆρον οἰκεῖον ἀπειληφότων , πάλιν ἐκάλει τὴν γῆν εἰς τὴν τοῦ ὑπολειφθέντος μέρους γένεσιν — ὑπολέλειπτο δὲ μετὰ τὰ φυτὰ ζῴων τὰ χερσαῖα — καί φησιν · ἐξαγαγέτω ἡ γῆ κτήνη καὶ θηρία καὶ ἑρπετὰ καθ ’ ἕκαστον γένος ( Gen . 1 , 24 ). ἡ δὲ τὰ προσταχθέντα αὐτίκα ἀνίησι τῇ τε κατασκευῇ διαφέροντα καὶ ταῖς ῥώμαις καὶ ταῖς ἐνυπαρχούσαις βλαπτικαῖς ἢ ὠφελητικαῖς δυνάμεσιν .",
+      "translation": "21\nSo now when the air and the water had received their appropriate races of animals as an allotment that was v.1.p.18 their due , God again summoned the earth for the creation of that share which still remained : and after the production of plants , the terrestrial animals still remained . And God said , Let the earth bring forth cattle and beasts , and creeping things of each kind . And the earth did as it was commanded , and immediately sent forth animals differing in their formation and in their strength , and in the injurious or beneficial powers that were implanted in them ."
+    },
+    {
+      "id": "65",
+      "label": "Section 65",
+      "chapter": null,
+      "original": "ἐπὶ δὲ πᾶσιν ἐποίει τὸν ἄνθρωπον · ὃν δὲ τρόπον , μικρὸν ὕστερον ἐρῶ πρότερον ἐκεῖνο δηλώσας , ὅτι παγκάλῳ τῷ τῆς ἀκολουθίας εἱρμῷ κέχρηται , καθ ’ ἣν ὑφηγήσατο ζῳογονίαν . ψυχῆς γὰρ ἡ μὲν ἀργοτάτη καὶ ἥκιστα τετυπωμένη τῷ γένει τῶν ἰχθύων προσκεκλήρωται , ἡ δ ’ ἀκριβεστάτη καὶ κατὰ πάντα ἀρίστη τῷ τῶν ἀνθρώπων , ἡ δ ’ ἀμφοῖν μεθόριος τῷ τῶν χερσαίων καὶ ἀεροπόρων · αὕτη γὰρ αἰσθητικωτέρα μέν ἐστι τῆς ἐν ἰχθύσιν , ἀμυδροτέρα δὲ τῆς ἐν ἀνθρώποις .",
+      "translation": "And after all He made man . But how he made him I will mention presently , after I have first explained that he adopted the most beautiful connection and train of consequences according to the system of the creation of animals which he had sketched out to himself ; for of souls the most sluggish and the most weakly formed has been allotted to the race of fishes ; and the most exquisitely endowed soul , that which is in all respects most excellent , has been given to the race of mankind , and one something between the two to the races of terrestrial animals and those which traverse the air ; for the soul of such creatures is endowed with more acute sensations than the soul of fishes , but is more dull than that of mankind ."
+    },
+    {
+      "id": "66",
+      "label": "Section 66",
+      "chapter": null,
+      "original": "διὸ p. 15 M. τῶν ἐμψύχων πρώτους ἐγέννησεν ἰχθύας πλέον μετέχοντας σωματικῆς ἢ ψυχικῆς οὐσίας , τρόπον τινὰ ζῷα καὶ οὐ ζῷα , κινητὰ [*] v.1.p.22 ἄψυχα , πρὸς αὐτὸ μόνον τὴν τῶν σωμάτων διαμονὴν παρασπαρέντος αὐτοῖς τοῦ ψυχοειδοῦς , καθάπερ φασὶ τοὺς ἅλας τοῖς κρέασιν , ἵνα μὴ ῥᾳδίως φθείροιντο · μετὰ δὲ τοὺς ἰχθύας τὰ πτηνὰ καὶ χερσαῖα · ἤδη γὰρ ταῦτα αἰσθητικώτερα καὶ διὰ τῆς κατασκευῆς ἐμφαίνοντα τρανοτέρας τὰς τῆς ψυχώσεως ἰδιότητας · ἐπὶ δὲ πᾶσιν , ὡς ἐλέχθη , τὸν ἄνθρωπον , ᾧ νοῦν ἐξαίρετον ἐδωρεῖτο , ψυχῆς τινα ψυχὴν καθάπερ κόρην ἐν ὀφθαλμῷ · καὶ γὰρ ταύτην οἱ τὰς φύσεις τῶν πραγμάτων ἀκριβέστερον ἐρευνῶντες ὀφθαλμοῦ λέγουσιν ὀφθαλμὸν εἶναι .",
+      "translation": "And it was on this account that of all living creatures God created fishes first , inasmuch as they partake of corporeal substance in a greater degree than they partake of soul , being in a manner animals and not animals , moving soulless things , having a sort of semblance of soul diffused through them for no object beyond that of keeping their bodies alive ( just as they say that salt preserves meat ), in order that they may not easily be destroyed . And after the fishes , he created winged and terrestrial animals : for these are endowed with a higher degree of sensation , and from their formation show that the properties of their animating principle are of a higher order . But after all the rest , then , as has been said before , he created man , to whom he gave that admirable endowment of mind — the soul , if I may so call it , of the soul , as being like the pupil to the eye ; for those who most accurately investigate the natures of things affirm , that it is the pupil which is the eye of the eye ."
+    },
+    {
+      "id": "67",
+      "label": "Section 67",
+      "chapter": null,
+      "original": "22 Τότε μὲν οὖν ἅμα πάντα συνίστατο . συνισταμένων δ ’ ὁμοῦ πάντων , ἡ τάξις ἀναγκαίως λόγῳ ὑπεγράφετο διὰ τὴν ἐσομένην αὖθις ἐξ ἀλλήλων γένεσιν . ἐν δὲ τοῖς κατὰ μέρος γινομένοις τάξις ἥδ ’ ἐστίν , ἄρχεσθαι μὲν ἀπὸ τοῦ φαυλοτάτου τὴν φύσιν , λήγειν δ ’ εἰς τὸ πάντων ἄριστον · τί δὲ τοῦτ ’ ἐστί , δηλωτέον . τὸ σπέρμα τῶν ζῴων γενέσεως ἀρχὴν εἶναι συμβέβηκε · τοῦθ ’ ὡς ἔστι φαυλότατον ἐοικὸς ἀφρῷ , θεωρεῖται · ἀλλ ’ ὅταν εἰς τὴν μήτραν καταβληθὲν στηρίσῃ , κίνησιν εὐθὺς λαβὸν εἰς φύσιν τρέπεται · φύσις δὲ βέλτιον σπέρματος , ἐπεὶ καὶ κίνησις ἠρεμίας ἐν γενητοῖς · ἡ δ ’ οἷα τεχνίτης ἢ κυριώτερον εἰπεῖν ἀνεπίληπτος τέχνη ζῳοπλαστεῖ τὴν μὲν ὑγρὰν οὐσίαν εἰς τὰ τοῦ σώματος μέλη καὶ μέρη διανέμουσα , τὴν δὲ πνευματικὴν εἰς τὰς τῆς ψυχῆς δυνάμεις τήν τε θρεπτικὴν καὶ τὴν αἰσθητικήν · τὴν γὰρ τοῦ λογισμοῦ τανῦν ὑπερθετέον διὰ τοὺς φάσκοντας θύραθεν αὐτὸν ἐπεισιέναι θεῖον καὶ ἀίδιον ὄντα .",
+      "translation": "22\nSo at last all things were created and existing together . But when they all were collected in one place , then some sort of order was necessarily laid down for them for the sake of the production of them from one another which was v.1.p.19 hereafter to take place . Now in things which exist in part , the principle of order is this , to begin with that which is most inferior in its nature , and to end with that which is the most excellent of all ; and what that is we will explain . It has been arranged that seed should be the principle of the generation of animals . It is plainly seen that this is a thing of no importance , being like foam ; but when it has descended into the womb and remained there , then immediately it receives motion and is changed into nature ; and nature is more excellent than seed , as also motion is better than quiet in created things ; and nature , like a workman , or , to speak more correctly , like a faultless art , endows the moist substance with life , and fashions it , distributing it among the limbs and parts of the body , allotting that portion which can produce breath , and nourishment , and sensation to the powers of the soul : for as to the reasoning powers , we may pass over them for the present , on account of those who say , that the mind enters into the body from without , being something divine and eternal ."
+    },
+    {
+      "id": "68",
+      "label": "Section 68",
+      "chapter": null,
+      "original": "οὐκοῦν ἤρξατο μὲν ἀπὸ σπέρματος εὐτελοῦς ἡ φύσις , ἔληξε δ ’ εἰς τὸ τιμιώτατον , τὴν ζῴου καὶ ἀνθρώπου κατασκευήν . ταὐτὸ δὴ τοῦτο καὶ ἐπὶ τῆς τοῦ παντὸς γενέσεως συμβέβηκεν · ἡνίκα γὰρ ζῷα διαπλάττειν ἔδοξε τῷ δημιουργῷ , τὰ μὲν πρῶτα τῇ τάξει φαυλότερά πως ἦν , ἰχθύες , τὰ δ ’ ὕστατα ἄριστα , ἄνθρωποι , τὰ δ ’ ἄλλα μέσα τῶν [*] v.1.p.23 ἄκρων , ἀμείνω μὲν τῶν προτέρων , χείρω δὲ τῶν ἑτέρων , χερσαῖα καὶ πτηνά .",
+      "translation": "Nature therefore began from an insignificant seed , and ended in the most honourable of things , namely , in the formation of animals and men . And the very same thing took place in the creation of every thing : for when the Creator determined to make animals the first created in his arrangement were in some degree inferior , such as the fishes , and the last were the best , namely , man . And the others the terrestrial and winged creatures were between these extremes , being better than the first created , and inferior to the last ."
+    },
+    {
+      "id": "69",
+      "label": "Section 69",
+      "chapter": null,
+      "original": "23 μετὰ δὴ τἆλλα πάντα , καθάπερ ἐλέχθη , τὸν ἄνθρωπόν φησι γεγενῆσθαι κατ ’ εἰκόνα θεοῦ καὶ καθ ’ ὁμοίωσιν ( Gen . 1 , 26 )· πάνυ καλῶς , ἐμφερέστερον γὰρ οὐδὲν γηγενὲς ἀνθρώπου θεῷ . τὴν δ ’ ἐμφέρειαν μηδεὶς εἰκαζέτω σώματος χαρακτῆρι · οὔτε γὰρ ἀνθρωπόμορφος ὁ θεὸς οὔτε θεοειδὲς τὸ ἀνθρώπειον p. 16 Μ. σῶμα . ἡ δὲ εἰκὼν λέλεκται κατὰ τὸν τῆς ψυχῆς ἡγεμόνα νοῦν · πρὸς γὰρ ἕνα τὸν τῶν ὅλων ἐκεῖνον ὡς ἂν ἀρχέτυπον ὁ ἐν ἑκάστῳ τῶν κατὰ μέρος ἀπεικονίσθη , τρόπον τινὰ θεὸς ὢν τοῦ φέροντος καὶ ἀγαλματοφοροῦντος αὐτόν · ὃν γὰρ ἔχει λόγον ὁ μέγας ἡγεμὼν ἐν ἅπαντι τῷ κόσμῳ , τοῦτον ὡς ἔοικε καὶ ὁ ἀνθρώπινος νοῦς ἐν ἀνθρώπῳ · ἀόρατός τε γάρ ἐστιν αὐτὸς τὰ πάντα ὁρῶν καὶ ἄδηλον ἔχει τὴν οὐσίαν τὰς τῶν ἄλλων καταλαμβάνων · καὶ τέχναις καὶ ἐπιστήμαις πολυσχιδεῖς ἀνατέμνων ὁδοὺς λεωφόρους ἁπάσας διὰ γῆς ἔρχεται καὶ θαλάττης τὰ ἐν ἑκατέρᾳ φύσει διερευνώμενος ·",
+      "translation": "23\nSo then after all the other things , as has been said before , Moses says that man was made in the image and likeness of God . And he says well ; for nothing that is born on the earth is more resembling God than man . And let no one think that he is able to judge of this likeness from the characters of the body : for neither is God a being with the form of a man , nor is the human body like the form of God ; but the resemblance is spoken of with reference to the most important part of the soul , namely , the mind : for the mind which exists in each individual has been created after the likeness of that one mind which is in the universe as its primitive model , being in some sort the God of that body which carries it about and bears its image within it . In the same rank v.1.p.20 that the great Governor occupies in the universal world , that same as it seems does the mind of man occupy in man ; for it is invisible , though it sees everything itself ; and it has an essence which is undiscernible , though it can discern the essences of all other things , and making for itself by art and science all sorts of roads leading in divers directions , and all plain ; it traverses land and sea , investigating everything which is contained in either element ."
+    },
+    {
+      "id": "70",
+      "label": "Section 70",
+      "chapter": null,
+      "original": "καὶ πάλιν πτηνὸς ἀρθεὶς καὶ τὸν ἀέρα καὶ τὰ τούτου παθήματα κατασκεψάμενος ἀνωτέρω φέρεται πρὸς αἰθέρα καὶ τὰς οὐρανοῦ περιόδους , πλανήτων τε καὶ ἀπλανῶν χορείαις συμπεριποληθεὶς κατὰ τοὺς μουσικῆς τελείας νόμους , ἑπόμενος ἔρωτι σοφίας ποδηγετοῦντι , πᾶσαν τὴν αἰσθητὴν οὐσίαν [*] [*] v.1.p.24 ὑπερκύψας , ἐνταῦθα ἐφίεται τῆς νοητῆς ·",
+      "translation": "And again , being raised up on wings , and so surveying and contemplating the air , and all the commotions to which it is subject , it is borne upwards to the higher firmament , and to the revolutions of the heavenly bodies . And also being itself involved in the revolutions of the planets and fixed stars according to the perfect laws of music , and being led on by love , which is the guide of wisdom , it proceeds onwards till , having surmounted all essence intelligible by the external senses , it comes to aspire to such as is perceptible only by the intellect :"
+    },
+    {
+      "id": "71",
+      "label": "Section 71",
+      "chapter": null,
+      "original": "καὶ ὧν εἶδεν ἐνταῦθα αἰσθητῶν ἐν ἐκείνῃ τὰ παραδείγματα καὶ τὰς ἰδέας θεασάμενος , ὑπερβάλλοντα κάλλη , μέθῃ νηφαλίῳ κατασχεθεὶς ὥσπερ οἱ κορυβαντιῶντες ἐνθουσιᾷ , ἑτέρου γεμισθεὶς ἱμέρου καὶ πόθου βελτίονος , ὑφ ’ οὗ πρὸς τὴν ἄκραν ἁψῖδα παραπεμφθεὶς τῶν νοητῶν ἐπ ’ αὐτὸν ἰέναι δοκεῖ τὸν μέγαν βασιλέα · γλιχομένου δ ’ ἰδεῖν , ἀθρόου φωτὸς ἄκρατοι καὶ ἀμιγεῖς αὐγαὶ χειμάρρου τρόπον ἐκχέονται , ὡς ταῖς μαρμαρυγαῖς τὸ τῆς διανοίας ὄμμα σκοτοδινιᾶν . ἐπεὶ δ ’ οὐ σύμπασα εἰκὼν ἐμφερὴς ἀρχετύπῳ παραδείγματι , πολλαὶ δ ’ εἰσὶν ἀνόμοιοι , προσεπεσημήνατο εἰπὼν τῷ κατ ’ εἰκόνα τὸ καθ ’ ὁμοίωσιν εἰς ἔμφασιν ἀκριβοῦς ἐκμαγείου τρανὸν τύπον ἔχοντος .",
+      "translation": "and perceiving in that , the original models and ideas of those things intelligible by the external senses which it saw here full of surpassing beauty , it becomes seized with a sort of sober intoxication like the zealots engaged in the Corybantian festivals , and yields to enthusiasm , becoming filled with another desire , and a more excellent longing , by which it is conducted onwards to the very summit of such things as are perceptible only to the intellect , till it appears to be reaching the great King himself . And while it is eagerly longing to behold him pure and unmingled , rays of divine light are poured forth upon it like a torrent , so as to bewilder the eyes of its intelligence by their splendour .\nBut as it is not every image that resembles its archetypal model , since many are unlike , Moses has shown this by adding to the words after his image , the expression , in his likeness , to prove that it means an accurate impression , having a clear and evident resemblance in form ."
+    },
+    {
+      "id": "72",
+      "label": "Section 72",
+      "chapter": null,
+      "original": "24 Ἀπορήσειε δ ’ ἄν τις οὐκ ἀπὸ σκοποῦ , τί δήποτε τὴν ἀνθρώπου μόνου γένεσιν οὐχ ἑνὶ δημιουργῷ καθάπερ τἆλλα ἀνέθηκεν , ἀλλ ’ ὡσανεὶ πλείοσιν · εἰσάγει γὰρ τὸν πατέρα τῶν ὅλων ταυτὶ λέγοντα · „ ποιήσωμεν ἄνθρωπον κατ ’ εἰκόνα ἡμετέραν καὶ καθ ’ ὁμοίωσιν “. μὴ γὰρ χρεῖός ἐστιν , εἴποιμ ’ ἄν , οὑτινοσοῦν , ᾧ πάντα ὑπήκοα ; ἢ τὸν μὲν οὐρανὸν ἡνίκα ἐποίει καὶ τὴν γῆν καὶ τὴν θάλατταν , οὐδενὸς ἐδεήθη τοῦ συνεργήσοντος , ἄνθρωπον δὲ βραχὺ ζῷον οὕτως καὶ ἐπίκηρον οὐχ οἷός τε ἦν δίχα συμπράξεως ἑτέρων αὐτὸς ἀφ ’ ἑαυτοῦ κατασκευάσασθαι ; τὴν μὲν οὖν ἀληθεστάτην αἰτίαν θεὸν ἀνάγκη μόνον εἰδέναι , τὴν δ ’ εἰκότι στοχασμῷ πιθανὴν καὶ εὔλογον εἶναι δοκοῦσαν οὐκ ἀποκρυπτέον . p. 17 M. ἔστι δὲ ἥδε .",
+      "translation": "24\nAnd he would not err who should raise the question why Moses attributed the creation of man alone not to one creator , as he did that of other animals , but to several . For he introduces the Father of the universe using this language : Let us make man after our image , and in our likeness . Had he then , shall I say , need of any one whatever to help him , He to whom all things are subject ? Or , when he was making the heaven and the earth and the sea , was he in need of no v.1.p.21 one to co-operate with him ; and yet was he unable himself by his own power to make man an animal so short-lived and so exposed to the assaults of fate without the assistance of others ? It is plain that the real cause of his so acting is known to God alone , but one which to a reasonable conjecture appears probable and credible , I think I should not conceal ; and it is this ."
+    },
+    {
+      "id": "73",
+      "label": "Section 73",
+      "chapter": null,
+      "original": "τῶν ὄντων τὰ μὲν οὔτ ’ ἀρετῆς οὔτε κακίας μετέχει , ὥσπερ φυτὰ καὶ ζῷα ἄλογα , τὰ μὲν ὅτι ἄψυχά τέ ἐστι καὶ ἀφαντάστῳ φύσει διοικεῖται , τὰ δ ’ ὅτι νοῦν καὶ λόγον ἐκτέτμηται · κακίας δὲ καὶ [*] [*] v.1.p.25 ἀρετῆς ὡς ἂν οἶκος νοῦς καὶ λόγος , ᾧ πεφύκασιν ἐνδιαιτᾶσθαι · τὰ δ ’ αὖ μόνης κεκοινώνηκεν ἀρετῆς ἀμέτοχα πάσης ὄντα κακίας , ὥσπερ οἱ ἀστέρες · οὗτοι γὰρ ζῷά τε εἶναι λέγονται καὶ ζῷα νοερά , μᾶλλον δὲ νοῦς αὐτὸς ἕκαστος , ὅλος δι ’ ὅλων σπουδαῖος καὶ παντὸς ἀνεπίδεκτος κακοῦ · τὰ δὲ τῆς μικτῆς ἐστι φύσεως , ὥσπερ ἄνθρωπος , ὃς ἐπιδέχεται τἀναντία , φρόνησιν καὶ ἀφροσύνην , σωφροσύνην καὶ ἀκολασίαν , ἀνδρείαν καὶ δειλίαν , δικαιοσύνην καὶ ἀδικίαν , καὶ συνελόντι φράσαι ἀγαθὰ καὶ κακά , καλὰ καὶ αἰσχρά , ἀρετὴν καὶ κακίαν .",
+      "translation": "Of existing things , there are some which partake neither of virtue nor of vice ; as for instance , plants and irrational animals ; the one , because they are destitute of soul , and are regulated by a nature void of sense ; and the other , because they are not endowed with mind or reason . But mind and reason may be looked upon as the abode of virtue and vice ; as it is in them that they seem to dwell . Some things again partake of virtue alone , being without any participation in any kind of vice ; as for instance , the stars , for they are said to be animals , and animals endowed with intelligence ; or I might rather say , the mind of each of them is wholly and entirely virtuous , and unsusceptible of every kind of evil . Some things again are of a mixed nature , like man , who is capable of opposite qualities , of wisdom and folly , of temperance and dissoluteness , of courage and cowardice , of justice and injustice , in short of good and evil , of what is honourable and what is disgraceful , of virtue and vice ."
+    },
+    {
+      "id": "74",
+      "label": "Section 74",
+      "chapter": null,
+      "original": "τῷ δὴ πάντων πατρὶ θεῷ τὰ μὲν σπουδαῖα δι ’ αὑτοῦ μόνου ποιεῖν οἰκειότατον ἦν ἕνεκα τῆς πρὸς αὐτὸν συγγενείας , τὰ δὲ ἀδιάφορα οὐκ ἀλλότριον , ἐπειδὴ καὶ ταῦτα τῆς ἐχθρᾶς αὐτῷ κακίας ἀμοιρεῖ , τὰ δὲ μικτὰ τῇ μὲν οἰκεῖον τῇ δ ’ ἀνοίκειον , οἰκεῖον μὲν ἕνεκα τῆς ἀνακεκραμένης βελτίονος ἰδέας , ἀνοίκειον δὲ ἕνεκα τῆς ἐναντίας καὶ χείρονος .",
+      "translation": "Now it was a very appropriate task for God the Father of all to create by himself alone , those things which were wholly good , on account of their kindred with himself . And it was not inconsistent with his dignity to create those which were indifferent since they too are devoid of evil , which is hateful to him . To create the beings of a mixed nature , was partly consistent and partly inconsistent with his dignity ; consistent by reason of the more excellent idea which is mingled in them ; inconsistent because of the opposite and worse one ."
+    },
+    {
+      "id": "75",
+      "label": "Section 75",
+      "chapter": null,
+      "original": "διὰ τοῦτ ’ ἐπὶ μόνης τῆς ἀνθρώπου γενέσεώς φησιν ὅτι εἶπεν ὁ θεὸς „ ποιήσωμεν “, ὅπερ ἐμφαίνει συμπαράληψιν ἑτέρων ὡς ἂν συνεργῶν , ἵνα ταῖς μὲν ἀνεπιλήπτοις βουλαῖς τε καὶ πράξεσιν ἀνθρώπου κατορθοῦντος ἐπιγράφηται θεὸς ὁ πάντων ἡγεμών , ταῖς δ ’ ἐναντίαις ἕτεροι τῶν ὑπηκόων · ἔδει γὰρ ἀναίτιον εἶναι κακοῦ τὸν πατέρα τοῖς ἐκγόνοις · κακὸν δ ’ ἡ κακία καὶ αἱ κατὰ κακίαν ἐνέργειαι .",
+      "translation": "It is on this account that Moses says , at the creation of man alone that God said , Let us make man , which expression shows an assumption of other beings to himself as assistants , in order that God , the governor of all things , might have all the blameless intentions and actions of man , when he does right attributed to him ; and that his other assistants might bear the imputation of his contrary actions . For it was fitting that the Father should in the eyes of his children be free from all v.1.p.22 imputation of evil ; and vice and energy in accordance with vice are evil ."
+    },
+    {
+      "id": "76",
+      "label": "Section 76",
+      "chapter": null,
+      "original": "πάνυ δὲ καλῶς τὸ γένος ἄνθρωπον εἰπὼν διέκρινε τὰ εἴδη φήσας ἄρρεν τε καὶ θῆλυ δεδημιουργῆσθαι , μήπω τῶν ἐν μέρει μορφὴν λαβόντων , ἐπειδὴ τὰ προσεχέστατα τῶν εἰδῶν ἐνυπάρχει τῷ γένει καὶ ὥσπερ ἐν κατόπτρῳ διαφαίνεται τοῖς ὀξὺ καθορᾶν δυναμένοις .",
+      "translation": "And very beautifully after he had called the whole race man , did he distinguish between the sexes , saying , that they were created male and female ; although all the individuals of the race had not yet assumed their distinctive form ; since the extreme species are contained in the genus , and are beheld , as in a mirror , by those who are able to discern acutely ."
+    },
+    {
+      "id": "77",
+      "label": "Section 77",
+      "chapter": null,
+      "original": "25 p. 18 Μ. Ἐπιζητήσειε δ ’ ἄν τις τὴν αἰτίαν , δι ’ ἣν ὕστατόν ἐστιν ἄνθρωπος τῆς τοῦ κόσμου γενέσεως · ἐφ ’ ἅπασι γὰρ τοῖς ἄλλοις αὐτὸν ὁ ποιητὴς καὶ πατήρ , ὥσπερ αἱ ἱεραὶ γραφαὶ μηνύουσιν , εἰργάσατο . λέγουσιν οὖν οἱ τοῖς νόμοις ἐπὶ πλέον ἐμβαθύναντες καὶ τὰ κατ ’ αὐτοὺς [*] v.1.p.26 ὡς ἔνι μάλιστα μετὰ πάσης ἐξετάσεως ἀκριβοῦντες , ὅτι τῆς αὑτοῦ συγγενείας μεταδοὺς ὁ θεὸς ἀνθρώπῳ τῆς λογικῆς , ἥτις ἀρίστη δωρεῶν ἦν , οὐδὲ τῶν ἄλλων ἐφθόνησεν , ἀλλ ’ ὡς οἰκειοτάτῳ καὶ φιλτάτῳ ζῴῳ τὰ ἐν κόσμῳ πάντα προητοιμάσατο βουληθεὶς γενόμενον αὐτὸν μηδενὸς ἀπορῆσαι τῶν πρός τε τὸ ζῆν καὶ τὸ εὖ ζῆν · ὧν τὸ μὲν παρασκευάζουσιν αἱ χορηγίαι καὶ ἀφθονίαι τῶν πρὸς ἀπόλαυσιν , τὸ δὲ ἡ θεωρία τῶν κατ ’ οὐρανόν , ἀφ ’ ἧς πληχθεὶς ὁ νοῦς ἔρωτα καὶ πόθον ἔσχε τῆς τούτων ἐπιστήμης · ὅθεν τὸ φιλοσοφίας ἀνεβλάστησε γένος , ὑφ ’ οὗ καίτοι θνητὸς ὢν ἄνθρωπος ἀπαθανατίζεται .",
+      "translation": "25\nAnd some one may inquire the cause why it was that man was the last work in the creation of the world . For the Creator and Father created him after every thing else as the sacred scriptures inform us . Accordingly , they who have gone most deeply into the laws , and who to the best of their power have investigated everything that is contained in them with all diligence , say that God , when he had given to man to partake of kindred with himself , grudged him neither reason , which is the most excellent of all gifts , nor anything else that is good ; but before his creation , provided for him every thing in the world , as for the animal most resembling himself , and dearest to him , being desirous that when he was born , he should be in want of nothing requisite for living , and for living well ; the first of which objects is provided for by the abundance of supplies which are furnished to him for his enjoyment , and the other by his power of contemplation of the heavenly bodies , by which the mind is smitten so as to conceive a love and desire for knowledge on those subjects ; owing to which desire , philosophy has sprung up , by which , man , though mortal , is made immortal ."
+    },
+    {
+      "id": "78",
+      "label": "Section 78",
+      "chapter": null,
+      "original": "καθάπερ οὖν οἱ ἑστιάτορες οὐ πρότερον ἐπὶ δεῖπνον καλοῦσιν ἢ τὰ πρὸς εὐωχίαν πάντα εὐτρεπίσαι καὶ οἱ τοὺς γυμνικοὺς ἀγῶνας καὶ σκηνικοὺς τιθέντες , πρὶν συναγαγεῖν τοὺς θεατὰς εἴς τε τὰ θέατρα καὶ τὰ στάδια , εὐτρεπίζουσιν ἀγωνιστῶν καὶ θεαμάτων καὶ ἀκουσμάτων πλῆθος , τὸν αὐτὸν τρόπον καὶ ὁ τῶν ὅλων ἡγεμὼν οἷά τις ἀθλοθέτης καὶ ἑστιάτωρ ἄνθρωπον καλεῖν μέλλων ἐπί τε εὐωχίαν καὶ θεωρίαν τὰ εἰς ἑκάτερον εἶδος προευτρεπίσατο , ἵν ’ εἰς τὸν κόσμον εἰσελθὼν εὐθὺς εὕρῃ καὶ συμπόσιον καὶ θέατρον ἱερώτατον , τὸ μὲν ἁπάντων πλῆρες ὅσα γῆ καὶ ποταμοὶ καὶ θάλαττα καὶ ἀὴρ φέρουσιν εἰς χρῆσιν καὶ ἀπόλαυσιν , τὸ δὲ παντοίων θεαμάτων , ἃ καταπληκτικωτάτας μὲν ἔχει τὰς οὐσίας , καταπληκτικωτάτας δὲ τὰς ποιότητας , θαυμασιωτάτας [*] [*] v.1.p.27 δὲ τὰς κινήσεις καὶ χορείας ἐν τάξεσιν ἡρμοσμέναις καὶ ἀριθμῶν ἀναλογίαις καὶ περιόδων συμφωνίαις · ἐν αἷς ἁπάσαις τὴν ἀρχέτυπον καὶ ἀληθῆ καὶ παραδειγματικὴν μουσικὴν οὐκ ἂν ἁμαρτάνοι τις εἶναι λέγων , ἀφ ’ ἧς οἱ μετὰ ταῦτα ἄνθρωποι γραψάμενοι ἐν ταῖς ἑαυτῶν ψυχαῖς τὰς εἰκόνας ἀναγκαιοτάτην καὶ ὠφελιμωτάτην τέχνην τῷ βίῳ παρέδοσαν .",
+      "translation": "As then , those who make a feast do not invite their guests to the entertainment before they have provided everything for festivity , and as those who celebrate gymnastic or dramatic contests , before they assemble the spectators , provide themselves with an abundance of competitors and spectacles , and sweet sounds , with which to fill the theatres and the stadia ; so in the same manner did the Ruler of all , as a man proposing games , or giving a banquet and being about to invite others to feast and to behold the spectacle , first provide everything for every kind of entertainment , in order that when man came into the world he might at once find a feast ready for him , and a most holy theatre ; the one abounding with everything which the earth , or the rivers , or the sea , or air , brings forth for use and enjoyment , and the other being v.1.p.23 full of every description of light , which has either its essence or its qualities admirable , and its motions and revolutions worthy of notice , being arranged in perfect order , both as to the proportions of its numbers , and the harmony of its periods . And a man would not be far wrong who should say that in all these things there might be discovered that archetypal and real model music , the images of which the subsequent generations of mankind engraved in their own souls , and in this way handed down the art which is the most necessary and the most advantageous to human life ."
+    },
+    {
+      "id": "79",
+      "label": "Section 79",
+      "chapter": null,
+      "original": "26 ἥδε μὲν αἰτία πρώτη , δι ’ ἣν ἄνθρωπος ἐφ ’ ἅπασι γεγενῆσθαι δοκεῖ · δευτέραν δ ’ οὐκ ἀπὸ σκοποῦ λεκτέον . ἅμα τῇ πρώτῃ γενέσει τὰς εἰς τὸ ζῆν παρασκευὰς ἁπάσας εὗρεν ἄνθρωπος , εἰς διδασκαλίαν τῶν ἔπειτα , μόνον οὐκ ἄντικρυς βοώσης τῆς φύσεως , ὅτι μιμούμενοι τὸν ἀρχηγέτην τοῦ γένους ἀπόνως καὶ ἀταλαιπώρως ἐν ἀφθονωτάτῃ τῶν ἀναγκαίων εὐπορίᾳ διάξουσιν . τουτὶ δὲ συμβήσεται , p. 19 M. ἐὰν μήτε αἱ ἄλογοι ἡδοναὶ ψυχῆς δυναστεύσωσι γαστριμαργίαν καὶ λαγνείαν ἐπιτειχίσασαι μήτε αἱ δόξης ἢ χρημάτων ἢ ἀρχῆς ἐπιθυμίαι τὸ τοῦ βίου κράτος ἀνάψωνται μήτε στείλωσι καὶ κάμψωσι διάνοιαν αἱ λῦπαι μήθ ’ ὁ κακὸς σύμβουλος φόβος τὰς ἐπὶ τὰ σπουδαῖα τῶν ἔργων ὁρμὰς ἀναχαιτίσῃ μήτ ’ ἀφροσύνη καὶ δειλία καὶ ἀδικία καὶ τὸ τῶν ἄλλων κακιῶν ἀμήχανον πλῆθος ἐπιθῆται .",
+      "translation": "26\nThis is the first reason on account of which it seems that man was created after all other animals . And there is another not altogether unreasonable , which I must mention . At the moment of his first birth , man found all the requisites for life ready prepared for him that he might teach them to those who should come afterwards . Nature all but crying out with a distinct voice , that men , imitating the Author of their being , should pass their lives without labour and without trouble , living in the most ungrudging abundance and plenty . And this would be the case if there were neither irrational pleasures to obtain mastery over the soul raising up a wall of gluttony and lasciviousness , nor desires of glory , or power , or riches , to assume dominion over life , nor pains to contract and warp the intellect , nor that evil councillor — fear , to restrain the natural inclinations towards virtuous actions , nor folly and cowardice , and injustice , and the incalculable multitude of other evils to attack them ."
+    },
+    {
+      "id": "80",
+      "label": "Section 80",
+      "chapter": null,
+      "original": "νυνὶ μὲν γὰρ πάντων ὅσα λέλεκται παρευημερησάντων καὶ τῶν ἀνθρώπων ἀνέδην ἐκκεχυμένων εἴς τε τὰ πάθη καὶ τὰς ἀκράτορας καὶ ὑπαιτίους ἃς οὐδ ’ εἰπεῖν θέμις ὀρέξεις , ἀπαντᾶται δίκη προσήκουσα τιμωρὸς ἀσεβῶν ἐπιτηδευμάτων · ἔστι δ ’ ἡ δίκη τὸ τῶν ἀναγκαίων δυσπόριστον · μόλις γὰρ ἀνατέμνοντες τὴν [*] v.1.p.28 πεδιάδα καὶ πηγῶν ῥεῖθρα καὶ ποταμῶν ἐποχετεύοντες σπείροντές τε καὶ φυτεύοντες καὶ τὸν γεωπόνων κάματον μεθ ’ ἡμέραν καὶ νύκτωρ ἀτρύτως ἐκδεχόμενοι δι ’ ἔτους συγκομίζουσι τὰ ἐπιτήδεια καὶ ταῦτ ’ ἔστιν ὅτε λυπρὰ καὶ οὐ πάνυ διαρκῆ διὰ πολλὰς βλαβέντα αἰτίας · ἢ γὰρ ὄμβρων ἐπαλλήλων φοραὶ κατέσυραν ἢ χαλάζης βάρος ἐπενεχθείσης ἀθρόως κατέκλασεν ἢ χιὼν περιέψυξεν ἢ βία πνευμάτων ῥίζαις αὐταῖς ἀνέτρεψε ·",
+      "translation": "But now that all the evils which I have now been mentioning are vigorous , and that men abandon themselves without restraint to their passions , and to those unbridled and guilty inclinations , which it is impious even to mention , justice encounters them as a suitable chastiser of wicked habits ; and therefore , as a punishment for wrong doers , the necessaries of life have been made difficult of acquisition . For men ploughing up the plains with difficulty , and bringing streams from rivers , and fountains by channels , and sowing and planting , and submitting indefatigably day and night to the labour of cultivating the ground , provide themselves every year with what is necessary , even that at times being attended with pain ; and not very sufficient in quantity , from being injured by many causes . For either a fall of incessant rain has carried away the crops , or the weight of hail which v.1.p.24 has fallen upon them has crushed them altogether , or snow has chilled them , or the violence of the winds has torn them up by the roots ; for water and air cause many alterations , tending to destroy the productiveness of the crops ."
+    },
+    {
+      "id": "81",
+      "label": "Section 81",
+      "chapter": null,
+      "original": "πολλὰ γὰρ ὕδωρ καὶ ἀὴρ εἰς ἀγονίαν καρπῶν νεωτερίζουσιν . εἰ δὲ σωφροσύνῃ μὲν ἐξευμαρισθεῖεν αἱ ἄμετροι τῶν παθῶν ὁρμαί , δικαιοσύνῃ δὲ αἱ περὶ τἀδικεῖν σπουδαί τε καὶ φιλοτιμίαι καὶ συνελόντι φράσαι ταῖς ἀρεταῖς καὶ ταῖς κατ ’ ἀρετὰς ἐνεργείαις αἱ κακίαι καὶ αἱ κατ ’ αὐτὰς ἀνήνυτοι πράξεις , ἀνῃρημένου μὲν τοῦ πολέμου τοῦ κατὰ ψυχήν , ὃς ἀψευδῶς ἐστι πολέμων ἀργαλεώτατος καὶ βαρύτατος , εἰρήνης δ ’ ἐπισχούσης καὶ ταῖς ἐν ἡμῖν δυνάμεσιν εὐνομίαν παρασκευαζούσης ἡσυχῇ τε καὶ πρᾴως , ἐλπὶς ἂν ἦν τὸν θεὸν ἅτε φιλάρετον καὶ φιλόκαλον καὶ προσέτι φιλάνθρωπον τἀγαθὰ αὐτόματα παρασχεῖν ἐξ ἑτοίμου τῷ γένει · δῆλον γὰρ ὡς εὐμαρέστερον τοῦ τὰ μὴ ὄντα εἰς τὸ εἶναι παραγαγεῖν τὸ τὴν ἐκ τῶν ὄντων φορὰν ἄνευ τέχνης γεωργικῆς ἐπιδαψιλεύσασθαι .",
+      "translation": "But if the immoderate violence of the passions were appeased by temperance , and the inclination to do wrong and depraved ambition were corrected by justice , and in short if the vices and unhallowed actions done in accordance with them , were corrected by the virtues , and the energies in accordance with them , the war of the soul being terminated , which is in good truth the most grievous and heavy of all wars , and peace being established , and founding amid all our faculties , a due regard for law , with all tranquillity and mildness , then there would be hope that God , as being a friend to virtue , and a friend to honour , and above all a friend to man , would bestow upon the race of man , all kinds of spontaneous blessings from his ready store . For it is evident that it is easier to supply most abundantly the requisite supplies without having recourse to agricultural means , from treasures which already exist , than to bring forth what as yet has no existence ."
+    },
+    {
+      "id": "82",
+      "label": "Section 82",
+      "chapter": null,
+      "original": "27 δευτέρα μὲν αἰτία ἥδε λελέχθω , τρίτη δ ’ ἐστὶ τοιάδε . ἀρχὴν καὶ τέλος τῶν γεγονότων ὁ θεὸς ἁρμόσασθαι διανοηθεὶς ὡς ἀναγκαῖα καὶ φίλτατα ἀρχὴν μὲν οὐρανὸν ἐποίει , τέλος δὲ ἄνθρωπον , τὸν μὲν τῶν ἐν αἰσθητοῖς ἀφθάρτων τελειότατον , τὸν δὲ τῶν γηγενῶν καὶ φθαρτῶν ἄριστον , βραχύν , p. 20 M. εἰ δεῖ τἀληθὲς εἰπεῖν , οὐρανὸν πολλὰς ἐν αὑτῷ φύσεις ἀστεροειδεῖς ἀγαλματοφοροῦντα τέχναις καὶ ἐπιστήμαις καὶ τοῖς καθ ’ ἑκάστην ἀρετὴν ἀοιδίμοις θεωρήμασιν · ἐπειδὴ γὰρ ἐναντία φύσει τό τε φθαρτὸν καὶ τὸ ἄφθαρτον , εἴδους ἑκατέρου τὸ κάλλιστον ἀρχῇ καὶ τέλει [*] v.1.p.29 προσένειμεν , ἀρχῇ μὲν οὐρανόν , ὡς ἐλέχθη , τέλει δὲ ἄνθρωπον .",
+      "translation": "27\nI have now mentioned the second reason . There is also a third , which is as follows :— God , intending to adapt the beginning and the end of all created things together , as being all necessary and dear to one another , made heaven the beginning , and man the end : the one being the most perfect of incorruptible things , among those things which are perceptible by the external senses ; and the other , the best of all earthborn and perishable productions — a short-lived heaven if one were to speak the truth , bearing within himself many starlike natures , by means of certain arts and sciences , and illustrious speculations , according to every kind of virtue . For since the corruptible and the incorruptible , are by nature opposite , he has allotted the best thing of each species to the beginning and to the end . Heaven , as I before said , to the beginning , and man to the end ."
+    },
+    {
+      "id": "83",
+      "label": "Section 83",
+      "chapter": null,
+      "original": "28 ἐπὶ πᾶσι μέντοι κἀκεῖνο λέγεται πρὸς ἀπόδοσιν αἰτίας ἀναγκαίας . ἔδει πάντων γεγονότων ὕστατον φῦναι τὸν ἄνθρωπον , ἵνα τελευταῖος ἐξαπιναίως τοῖς ἄλλοις ζῴοις ἐπιφανεὶς ἐμποιήσῃ κατάπληξιν · ἔμελλε γὰρ ἰδόντα πρῶτον τεθηπέναι καὶ προσκυνεῖν ὡς ἂν ἡγεμόνα φύσει καὶ δεσπότην · διὸ καὶ θεασάμενα πάντα διὰ πάντων ἡμερώθη καὶ ὅσα τὰς φύσεις ἀγριώτατα κατὰ τὴν πρώτην εὐθὺς πρόσοψιν ἐγίνετο χειροηθέστατα , τὰς μὲν ἀτιθάσους λύττας ἐπιδεικνύμενα κατ ’ ἀλλήλων , εἰς δὲ μόνον τὸν ἄνθρωπον τιθασευόμενα .",
+      "translation": "28\nAnd besides all this , another is also mentioned among the necessary causes . It was necessary that man should be the last of all created beings ; in order that being so , and appearing suddenly , he might strike terror into the other animals . For it was fitting that they , as soon as they first saw him should admire and worship him , as their natural ruler and master ; on which account , they all , as soon as they saw him , v.1.p.25 became tame before him ; even those , who by nature were most savage , becoming at once most manageable at the first sight of him ; displaying their unbridled ferocity to one another , and being tame to man alone ."
+    },
+    {
+      "id": "84",
+      "label": "Section 84",
+      "chapter": null,
+      "original": "παρ ’ ἣν αἰτίαν καὶ γεννήσας αὐτὸν ὁ πατὴρ ἡγεμονικὸν φύσει ζῷον οὐκ ἔργῳ μόνον ἀλλὰ καὶ τῇ διὰ λόγου χειροτονίᾳ καθίστη τῶν ὑπὸ σελήνην ἁπάντων βασιλέα χερσαίων καὶ ἐνύδρων καὶ ἀεροπόρων · ὅσα γὰρ θνητὰ ἐν τοῖς τρισὶ στοιχείοις γῇ ὕδατι ἀέρι πάντα ὑπέταττεν αὐτῷ , τὰ κατ ’ οὐρανὸν ὑπεξελόμενος ἅτε θειοτέρας μοίρας ἐπιλαχόντα . πίστις δὲ τῆς ἀρχῆς ἐναργεστάτη τὰ φαινόμενα · θρεμμάτων ἔστιν ὅτε πλήθη μυρία πρὸς ἀνδρὸς ἑνὸς ἄγεται τοῦ τυχόντος οὔθ ’ ὁπλοφοροῦντος οὔτε σίδηρον οὔτε τι τῶν ἀμυντηρίων ἐπιφερομένου , διφθέραν δ ’ αὐτὸ μόνον ἔχοντος σκεπαστήριον καὶ βακτηρίαν ἕνεκα τοῦ διασημῆναί τε καὶ ἐν ταῖς ὁδοιπορίαις εἰ κάμοι στηρίσασθαι ·",
+      "translation": "For which reason the Father who made him to be a being dominant over them by nature not merely in fact , but also by express verbal appointment , established him as the king of all the animals , beneath the moon , whether terrestrial or aquatic , or such as traverse the air . For every mortal thing which lives in the three elements , land , water or air , did he put in subjection to him , excepting only the beings that are in heaven , as creatures who have a more divine portion . And what is apparent to our eyes is the most evident proof of this . For at times , innumerable herds of beasts are led about by one man , not armed , nor wearing iron , nor any defensive weapon , but clad only in a skin for a garment , and carrying a staff , for the purpose of making signs , and to lean upon also in his journeys if he become weary ."
+    },
+    {
+      "id": "85",
+      "label": "Section 85",
+      "chapter": null,
+      "original": "τὰς γοῦν πολυζῴους ἀγέλας προβάτων αἰγῶν βοῶν ἄγει ποιμὴν αἰπόλος βουκόλος , ἄνθρωποι μηδὲ τοῖς σώμασιν ἐρρωμένοι καὶ σφριγῶντες , ὡς ἕνεκα γοῦν εὐεξίας ἐμποιῆσαι τοῖς ἰδοῦσι κατάπληξιν · καὶ αἱ [*] [*] v.1.p.30 τοσαῦται τῶν τοσούτων ἀλκαί τε καὶ δυνάμεις εὐοπλούντων — ἔχουσι γὰρ τὰς ἐκ φύσεως παρασκευὰς αἷς ἀμύνονται — καθάπερ δοῦλοι δεσπότην κατεπτήχασι καὶ τὰ προσταττόμενα δρῶσι · ταῦροι μὲν καταζεύγνυνται πρὸς ἄροτον γῆς καὶ βαθείας αὔλακας ἀνατέμνοντες δι ’ ἡμέρας , ἔστι δ ’ ὅτε καὶ νυκτός , μακρὸν δόλιχον ἀποτείνουσι γεωπόνου τινὸς ἐφεστῶτος · κριοὶ δὲ βρίθοντες βαθέσι μαλλοῖς ὑπόποκοι κατὰ τὴν ἔαρος ὥραν ὑπὸ ποιμένος κελευσθέντες ἵστανται μετ ’ ἠρεμίας ἢ καὶ ἡσυχῇ κατακλινέντες ἐμπαρέχουσιν ἀποκείρασθαι τὸ ἔριον ἐθιζόμενοι καθάπερ αἱ πόλεις τὸν ἐτήσιον ἀποδιδόναι p. 21 M. δασμὸν τῷ φύσει βασιλεῖ ·",
+      "translation": "And so the shepherd , and the goatherd , and the cowherd , lead numerous flocks of sheep , and goats , and herds of oxen ; men neither vigorous , nor active in their bodies , so as to strike those who behold them with admiration because of their fine appearance ; and all the might and power of such numerous and well-armed beasts ( for they have means of self-defence given them by nature ), yet dread them as slaves do their master , and do all that is commanded them . Bulls are yoked to the plough to till the ground , and cutting deep furrows all day , sometimes even for a long space of time together , while some farmer is managing them . And rams being weighed down with heavy fleeces of wool , in the spring season , at the command of the shepherd , stand quietly , and lying down , without resistance , permit their wool to be shorn off , being accustomed naturally , like cities , to yield a yearly tribute to their sovereign ."
+    },
+    {
+      "id": "86",
+      "label": "Section 86",
+      "chapter": null,
+      "original": "καὶ μὴν τό γε θυμικώτατον ζῷον ἵππος ῥᾳδίως [ ἄγεται ] χαλιναγωγηθείς , ἵνα μὴ σκιρτῶν ἀφηνιάζῃ , καὶ τὰ νῶτα κοιλάνας εὖ μάλα πρὸς τὸ εὔεδρον δέχεται τὸν ἔποχον καὶ μετέωρον ἀναβαστάσας ὀξύτατα θεῖ σπουδάζων , εἰς οὓς ἂν ἐπείγηται γίνεσθαι τόπους ἐκεῖνος , ἀφικνεῖσθαι καὶ διακομίζειν · ὁ δ ’ ἐφιδρυμένος ἄνευ καμάτων κατὰ πολλὴν ἡσυχίαν ἑτέρου σώματι καὶ",
+      "translation": "And moreover , that most spirited of animals , the horse , is easily guided after he has been bridled ; in order that he may not become frisky , and shake off the rein ; and he hollows his back in an admirable manner to receive his rider and to afford him a good seat , and then bearing him aloft , he gallops at a rapid pace , being eager to arrive at and carry him to the place to which he is urging him . And the rider without any toil , but in the most perfect quiet , makes a rapid journey , by using the body and feet of another animal . v.1.p.26"
+    },
+    {
+      "id": "87",
+      "label": "Section 87",
+      "chapter": null,
+      "original": "ποσὶν ἀνύτει τὸν δρόμον . 29 πολλὰ δ ’ ἂν ἔχοι τις λέγειν ἕτερα βουλόμενος ἀπομηκύνειν εἰς ἔνδειξιν τοῦ μηδὲν ἀπελευθεριάζειν ὑπεξῃρημένον τῆς ἀνθρώπου ἡγεμονίας · δείγματος δ ’ ἕνεκα καὶ τὰ ῥηθέντα ἀρκεῖ . χρὴ μέντοι μηδ ’ ἐκεῖνο ἀγνοεῖν ὅτι οὐ παρ ’ ὅσον ὕστατον γέγονεν ἄνθρωπος διὰ τὴν τάξιν ἠλάττωται .",
+      "translation": "29\nAnd any one who was inclined to dwell upon this subject might bring forward a great many other instances , to prove that there is no animal in the enjoyment of perfect liberty , and exempt from the dominion of man ; but what has been already said is sufficient by way of example . We ought , however , not to be ignorant of this also , that it is no proof because man was the last created animal that he is the lowest in rank , and charioteers and pilots are witnesses of this ;"
+    },
+    {
+      "id": "88",
+      "label": "Section 88",
+      "chapter": null,
+      "original": "μάρτυρες δ ’ ἡνίοχοι καὶ κυβερνῆται · οἱ μὲν γὰρ ὑστερίζοντες τῶν ὑποζυγίων καὶ κατόπιν αὐτῶν ἐξεταζόμενοι ᾗ ἂν ἐθέλωσιν αὐτὰ ἄγουσι τῶν ἡνιῶν ἐνειλημμένοι καὶ τοτὲ μὲν ἐφιέντες πρὸς ὀξὺν δρόμον τοτὲ δ ’ ἀναχαιτίζοντες , εἰ φορᾷ τοῦ [*] v.1.p.31 δέοντος πλείονι θέοι · οἱ δ ’ αὖ κυβερνῆται πρὸς τὸ τῆς νεὼς ἔσχατον χωρίον πρύμναν παρελθόντες πάντων ὡς ἔπος εἰπεῖν εἰσιν ἄριστοι τῶν ἐμπλεόντων , ἅτε τῆς νεὼς καὶ τῶν ἐν αὐτῇ τὴν σωτηρίαν ἐν χερσὶ ταῖς αὑτῶν ἔχοντες . ἡνίοχον δή τινα καὶ κυβερνήτην ἐφ ’ ἅπασιν ὁ ποιητὴς ἐδημιούργει τὸν ἄνθρωπον , ἵνα ἡνιοχῇ καὶ κυβερνᾷ τὰ περίγεια ζῴων καὶ φυτῶν λαβὼν τὴν ἐπιμέλειαν οἷά τις ὕπαρχος τοῦ πρώτου καὶ μεγάλου βασιλέως .",
+      "translation": "for the charioteers sit behind their beasts of burden , and are placed at , their backs , and yet when they have the reins in their hands , they guide them wherever they choose , and at one time they urge them on to a swift pace , and at another time they hold them back , if they are going on at a speed greater than is desirable . And pilots again , sitting in the hindmost part of the ship , that is the stern are , as one may say , the most important of all the people in the ship , inasmuch as they have the safety of the ship and of all those who are in it , in their hands . And so the Creator has made man to be as it were a charioteer and pilot over all other animals , in order that he may hold the reins and direct the course of every thing upon earth , having the superintendence of all animals and plants , as a sort of viceroy of the principal and mighty King ."
+    },
+    {
+      "id": "89",
+      "label": "Section 89",
+      "chapter": null,
+      "original": "30 Ἐπεὶ δ ’ ὁ σύμπας κόσμος ἐτελειώθη κατὰ τὴν ἑξάδος ἀριθμοῦ τελείου φύσιν , τὴν ἐπιοῦσαν ἡμέραν ἑβδόμην ἐσέμνυνεν ὁ πατὴρ ἐπαινέσας καὶ ἁγίαν προσειπών · ἑορτὴ γὰρ οὐ μιᾶς πόλεως ἢ χώρας ἐστὶν ἀλλὰ τοῦ παντός , ἣν κυρίως ἄξιον καὶ μόνην πάνδημον ὀνομάζειν καὶ τοῦ κόσμου γενέθλιον .",
+      "translation": "30\nBut after the whole world had been completed according to the perfect nature of the number six , the Father hallowed the day following , the seventh , praising it , and calling it holy . For that day is the festival , not of one city or one country , but of all the earth ; a day which alone it is right to call the day of festival for all people , and the birthday of the world ."
+    },
+    {
+      "id": "90",
+      "label": "Section 90",
+      "chapter": null,
+      "original": "τὴν δ ’ ἑβδομάδος φύσιν οὐκ οἶδ ’ εἴ τις ἱκανῶς ἂν ὑμνῆσαι δύναιτο παντὸς οὖσαν λόγου κρείττονα · οὐ μὴν ὅτι θαυμασιωτέρα τῶν περὶ αὐτῆς λεγομένων ἐστί , διὰ τοῦθ ’ ἡσυχαστέον , ἀλλ ’ ἐπιτολμητέον , εἰ καὶ μὴ πάντα μηδὲ τὰ κυριώτατα οἷόν τε , τὰ γοῦν ταῖς ἡμετέραις διανοίαις ἐφικτὰ δηλῶσαι .",
+      "translation": "And I know not if any one would be able to celebrate the nature of the number seven in adequate terms , since it is superior to every form of expression . But it does not follow that because it is more admirable than anything that can be said of it , that on that account one ought to keep silence ; but rather we ought to try , even if one cannot say everything which is proper , or even that which is most proper , at all events to utter such things as may be attainable by our capacities ."
+    },
+    {
+      "id": "91",
+      "label": "Section 91",
+      "chapter": null,
+      "original": "διχῶς ἑβδομὰς λέγεται , ἡ μὲν ἐντὸς δεκάδος , ἥτις ἑπτάκις μονάδι μόνῃ μετρεῖται συνεστῶσα ἐκ μονάδων ἑπτά , ἡ δ ’ ἐκτὸς δεκάδος , ἀριθμὸς οὗ πάντως ἀρχὴ μονὰς κατὰ τοὺς διπλασίους ἢ τριπλασίους ἢ συνόλως ἀναλογοῦντας ἀριθμούς , ὡς ἔχει ὁ ἑξηκοντατέσσαρα p. 22 Μ. καὶ ὁ ἑπτακόσια εἰκοσιεννέα , ὁ μὲν κατὰ τὸν ἀπὸ μονάδος διπλάσιον παραυξηθείς , ὁ δ ’ αὖ κατὰ τὸν τριπλάσιον .",
+      "translation": "The number seven is spoken of in two ways ; the one within the number ten which is measured by repeating the unit alone seven times , and which consists of seven units ; the other is the number outside ten , the beginning of which is altogether the unit increasing according to a twofold or threefold , or any v.1.p.27 other proportion whatever ; as are the numbers sixty-four , and seven hundred and twenty-nine ; the one number of which is increased by doubling on from the unit , and the other by trebling . And it is not well to examine either species superficially , but the second has a most manifest pre-eminence ."
+    },
+    {
+      "id": "92",
+      "label": "Section 92",
+      "chapter": null,
+      "original": "ἑκάτερον δὲ εἶδος οὐ παρέργως ἐπισκεπτέον . τὸ μὲν δὴ δεύτερον ἐμφανεστάτην ἔχει προνομίαν · αἰεὶ γὰρ ὁ ἀπὸ μονάδος συντιθέμενος ἐν διπλασίοις ἢ τριπλασίοις ἢ συνόλως ἀναλογοῦσιν ἕβδομος ἀριθμὸς κύβος τε καὶ τετράγωνός ἐστιν , ἀμφότερα τὰ εἴδη περιέχων τῆς τε ἀσωμάτου καὶ σωματικῆς οὐσίας , τῆς μὲν ἀσωμάτου κατὰ τὴν ἐπίπεδον ἣν ἀποτελοῦσι τετράγωνοι , τῆς δὲ σωματικῆς κατὰ τὴν στερεὰν ἣν ἀποτελοῦσι κύβοι . [*] v.1.p.32 σαφεστάτη δ ’ οἱ λεχθέντες ἀριθμοὶ πίστις ·",
+      "translation": "For in every case the number which is combined from the unit in double or treble ratio , or any other ratio , whatsoever , is the seventh number , a cube and a square , embracing both species , both that of the incorporeal and that of the corporeal essence . That of the incorporeal essence according to the superficies which quadrangular figures present , and that of the corporeal essence according to the other figure which cubes make ;"
+    },
+    {
+      "id": "93",
+      "label": "Section 93",
+      "chapter": null,
+      "original": "αὐτίκα ὁ ἀπὸ μονάδος ἐν διπλασίονι λόγῳ παραυξηθεὶς ἕβδομος , ὁ τέσσαρα καὶ ἑξήκοντα , τετράγωνος μέν ἐστιν ὀκτάκις ὀκτὼ πολυπλασιασθέντων , κύβος δὲ τεσσάρων ἐπὶ τέσσαρα τετράκις · καὶ πάλιν ὁ ἐν τριπλασίονι λόγῳ παραυξηθεὶς ἀπὸ μονάδος ἕβδομος , ὁ ἑπτακόσια εἰκοσιεννέα , τετράγωνος μὲν πολυπλασιασθέντος ἐφ ’ αὑτὸν τοῦ ἑπτὰ καὶ εἴκοσι , κύβος δὲ τοῦ ἐννέα ἐφ ’ αὑτὸν ἐννάκις .",
+      "translation": "and the clearest proof of this is afforded by the numbers already spoken of . In the seventh number increasing immediately from the unit in a twofold ratio , namely , the number sixty-four , is a square formed by the multiplication of eight by eight , and it is also a cube by the multiplication of four and four , four times . And again , the seventh number from the unit being increased in a threefold ratio , that is to say , the number seven hundred and twenty-nine , is a square , the number seven and twenty being multiplied by itself ; and it is also a cube , by nine being multiplied by itself nine times ."
+    },
+    {
+      "id": "94",
+      "label": "Section 94",
+      "chapter": null,
+      "original": "καὶ ἀεὶ τὸν ἕβδομον ποιούμενός τις ἀντὶ μονάδος ἀρχὴν καὶ παραύξων κατὰ τὴν αὐτὴν ἀναλογίαν ἄχρις ἑβδομάδος εὑρήσει πάντως τὸν παραυξηθέντα κύβον τε καὶ τετράγωνον · ἀπὸ γοῦν τοῦ ἑξηκοντατέσσαρα ὁ συντεθεὶς ἐν διπλασίονι λόγῳ γεννήσει ἕβδομον τὸν τετρακισχίλια καὶ ἐνενηκονταέξ , τετράγωνον ὁμοῦ καὶ κύβον , τετράγωνον μὲν αὐτὸν πλευρὰν ἔχοντα τὸν ἑξηκοντατέσσαρα , κύβον δὲ τὸν ἑκκαίδεκα .",
+      "translation": "And in every case a man making his beginning from the unit , and proceeding on to the seventh number , and increasing in the same ratio till he comes to the number seven , will at all times find the number , when increased , both a cube and a square . At all events , he who begins with the number sixty-four , and combines them in a doubling ratio , will make the seventh number four thousand and ninety-six , which is both a square and a cube , having sixty-four as its square root , and sixteen as its cube root ."
+    },
+    {
+      "id": "95",
+      "label": "Section 95",
+      "chapter": null,
+      "original": "31 μεταβατέον δὲ καὶ ἐπὶ θάτερον ἑβδομάδος εἶδος τὸ περιεχόμενον ἐν δεκάδι , θαυμαστὴν ἐπιδεικνύμενον καὶ οὐκ ἐλάττονα τοῦ προτέρου φύσιν . αὐτίκα συνέστηκε τὰ ἑπτὰ ἐξ ἑνὸς καὶ δυοῖν καὶ τεττάρων ἐχόντων δύο λόγους ἁρμονικωτάτους , τόν τε διπλάσιον καὶ τετραπλάσιον , τὸν μὲν τὴν διὰ πασῶν συμφωνίαν , τὸν δὲ τετραπλάσιον τὴν δὶς διὰ πασῶν ἀποτελοῦντα . περιέχει δὲ καὶ διαιρέσεις ἄλλας ζυγάδην τρόπον τινὰ συνεστώσας ἑβδομάς · διαιρεῖται γὰρ πρῶτον μὲν εἰς μονάδα καὶ ἑξάδα , ἔπειτα εἰς δυάδα καὶ πεντάδα , καὶ τελευταῖον εἰς τριάδα καὶ τετράδα .",
+      "translation": "31\nAnd we must also pass on to the other species of the number seven , which is contained in the number ten , and which displays an admirable nature , and one not inferior to the previously mentioned species . The number seven consists of one , and two and four , numbers which have two most harmonious ratios , the twofold and the fourfold ratio ; the former of which affects the diapason harmony , while the fourfold ratio causes that of the double diapason . It also comprehends other divisions , existing in some kind of yoke-like combination . For it is divided first of all into the number one , and the number six ; then into the two and the five ; and last of all , into v.1.p.28 the three and the four ."
+    },
+    {
+      "id": "96",
+      "label": "Section 96",
+      "chapter": null,
+      "original": "μουσικωτάτη δὲ καὶ ἡ τούτων ἀναλογία τῶν ἀριθμῶν · τὰ μὲν γὰρ ἓξ πρὸς ἓν ἔχει λόγον ἑξαπλάσιον , ὁ δ ’ ἑξαπλάσιος λόγος τὸ μέγιστον ἐν τοῖς οὖσι [*] [*] v.1.p.33 ποιεῖ διάστημα , ᾧ διέστηκε τὸ ὀξύτατον ἀπὸ τοῦ βαρυτάτου , καθάπερ ἀποδείξομεν , ὅταν ἀπὸ τῶν ἀριθμῶν μετέλθωμεν ἐπὶ τὸν ἐν ἁρμονίαις λόγον · τὰ δὲ πέντε πρὸς δύο πλείστην ἐν ἁρμονίᾳ δύναμιν ἐπιδείκνυται σχεδὸν ἐνάμιλλον τῇ διὰ πασῶν , ὅπερ ἐν τῇ κανονικῇ θεωρίᾳ σαφέστατα παρίσταται · τὰ δὲ τέσσαρα πρὸς τρία 23 Μ. τὴν πρώτην ἁρμονίαν ἀποτελεῖ τὴν ἐπίτριτον , ἥτις ἐστὶ διὰ τεσσάρων .",
+      "translation": "And the proportion of these numbers is a most musical one ; for the number six bears to the number one a six-fold ratio , and the six-fold ratio causes the greatest possible difference between existing tones ; the distance namely , by which the sharpest tone is separated from the flattest , as we shall show when we pass on from numbers to the discussion of harmony . Again , the ratio of four to two displays the greatest power in harmony , almost equal to that of the diapason , as is most evidently shown in the rules of that art . And the ratio of four to three effects the first harmony , that in the thirds , which is the diatessaron ."
+    },
+    {
+      "id": "97",
+      "label": "Section 97",
+      "chapter": null,
+      "original": "32 ἐπιδείκνυται δὲ καὶ ἕτερον κάλλος αὑτῆς ἑβδομὰς ἱερώτατον νοηθῆναι . συνεστῶσα γὰρ ἐκ τριάδος καὶ τετράδος τὸ ἐν τοῖς οὖσιν ἀκλινὲς καὶ ὀρθὸν φύσει παρέχεται · ὃν δὲ τρόπον , δηλωτέον . τὸ ὀρθογώνιον τρίγωνον , ὅπερ ἐστὶν ἀρχὴ ποιοτήτων , ἐξ ἀριθμῶν συνέστηκε τοῦ τρία καὶ τέσσαρα καὶ πέντε · τὰ δὲ τρία καὶ τέσσαρα , ἅπερ ἐστὶν ἑβδομάδος οὐσία , τὴν ὀρθὴν γωνίαν ἀποτελεῖ · ἡ μὲν γὰρ ἀμβλεῖα καὶ ὀξεῖα τὸ ἀνώμαλον καὶ ἄτακτον καὶ ἄνισον ἐμφαίνουσιν · ἀμβλυτέρα γὰρ καὶ ὀξυτέρα γίνεται ἑτέρα ἑτέρας · ὀρθὴ δ ’ οὐκ ἐπιδέχεται σύγκρισιν οὐδ ’ ὀρθοτέρα γίνεται παρ ’ ἑτέραν , ἀλλ ’ ἐν ὁμοίῳ μένει τὴν ἰδίαν φύσιν οὔποτ ’ ἀλλάττουσα . εἰ δὴ τὸ μὲν ὀρθογώνιον τρίγωνον σχημάτων καὶ ποιοτήτων ἐστὶν ἀρχή , τούτου δὲ τὸ ἀναγκαιότατον , τὴν ὀρθὴν γωνίαν , ἡ οὐσία τῆς ἑβδομάδος παρέχεται , τριὰς ὁμοῦ καὶ τετράς , νομίζοιτ ’ ἂν εἰκότως ἥδε πηγὴ παντὸς σχήματος καὶ πάσης ποιότητος .",
+      "translation": "32\nThe number seven displays also another beauty which it possesses , and one which is most sacred to think of . For as it consists of three and four , it displays in existing things a line which is free from all deviation and upright by nature . And in what way it does so I must show .\nThe rectangular triangle , which is the beginning of all qualities , consists of the numbers three [*] and four , and five ; and the three and the four , which are the essence of the seven , contain the right angle ; for the obtuse angle and the acute angle show irregularity , and disorder , and inequality ; for one may be more acute or more obtuse than another . But a right angle does not admit of comparison , nor is one right angle more a right angle than another : but one remains similar to another , never changing its peculiar nature . But if the right-angled triangle is the beginning of all figures and of all qualities , and if the essence of the number seven , that is to say , the numbers three and four together , supply the most necessary part of this , namely , the right angle , then seven may be rightly thought to be the fountain of every figure and of every quality ."
+    },
+    {
+      "id": "98",
+      "label": "Section 98",
+      "chapter": null,
+      "original": "πρὸς δὲ τοῖς εἰρημένοις κἀκεῖνο λέγοιτ ’ ἂν δεόντως , ὅτι τὰ μὲν τρία ἐπιπέδου σχήματός ἐστιν ἀριθμός — ἐπειδὴ σημεῖον μὲν κατὰ μονάδα , γραμμὴ δὲ κατὰ δυάδα , ἐπίπεδον δὲ κατὰ τριάδα τέτακται —, τὰ δὲ τέσσαρα στερεοῦ κατὰ τὴν τοῦ ἑνὸς πρόσθεσιν , βάθους ἐπιπέδῳ προστεθέντος · ἐξ οὗ δῆλόν ἐστιν ὅτι ἡ τῆς ἑβδομάδος οὐσία γεωμετρίας καὶ στερεομετρίας ἀρχὴ καὶ συνελόντι φράσαι ἀσωμάτων ὁμοῦ καὶ σωμάτων .",
+      "translation": "And besides what has been already advanced , this also may be asserted that three is the number of a plane figure , since a point has been laid down to be , according to a unit , and a line according to the number two , and a plane superficies according to v.1.p.29 to the number three . Also , four is the number of a cube , by the addition of one to the number of a plane superficies , depth being added to the superficies . From which it is plain that the essence of the number seven is the foundation of geometry and trigonometry ; and in a word , of all incorporeal and corporeal substances ."
+    },
+    {
+      "id": "99",
+      "label": "Section 99",
+      "chapter": null,
+      "original": "33 Τοσοῦτο δ ’ ἐν ἑβδομάδι πέφυκεν εἶναι τὸ ἱεροπρεπές , ὥστ ’ [*] v.1.p.34 ἐξαίρετον ἔχει λόγον παρὰ τοὺς ἐν δεκάδι πάντας ἀριθμούς · ἐκείνων γὰρ οἱ μὲν γεννῶσιν οὐ γεννώμενοι , οἱ δὲ γεννῶνται μέν , οὐ γεννῶσι δέ , οἱ δὲ ἀμφότερα καὶ γεννῶσι καὶ γεννῶνται · μόνη δ ’ ἑβδομὰς ἐν οὐδενὶ μέρει θεωρεῖται . τὴν δ ’ ὑπόσχεσιν ἀποδείξει βεβαιωτέον . τὸ μὲν οὖν ἓν γεννᾷ τοὺς ἑξῆς ἅπαντας ἀριθμοὺς ὑπ ’ οὐδενὸς γεννώμενον τὸ παράπαν · τὰ δ ’ ὀκτὼ γεννᾶται μὲν ὑπὸ τοῦ δὶς τέσσαρα , γεννᾷ δ ’ οὐδένα τῶν ἐν δεκάδι · ὁ δ ’ αὖ τέσσαρα τὴν ἀμφοῖν καὶ γονέων καὶ ἐκγόνων ἔχει τάξιν · γεννᾷ μὲν γὰρ τὸν ὀκτὼ δὶς γενόμενος , γεννᾶται δὲ ὑπὸ τοῦ δὶς δύο .",
+      "translation": "33\nAnd such great sanctity is there in the number seven , that it has a preeminent rank beyond all the other numbers in the first decade . For of the other numbers , some produce without being produced , others are produced but have no productive power themselves ; others again both produce and are produced . But the number seven alone is contemplated in no part . And this proposition we must confirm by demonstration . Now the number one produces all the other numbers in order , being itself produced absolutely by no other ; and the number eight is produced by twice four , but itself produces no other number in the decade . Again , four has the rank of both , that is , of parents and of offspring ; for it produces eight when doubled , and it is produced by twice two ."
+    },
+    {
+      "id": "100",
+      "label": "Section 100",
+      "chapter": null,
+      "original": "μόνος δ ’ ὡς ἔφην ὁ ἑπτὰ οὔτε γεννᾶν πέφυκεν οὔτε γεννᾶσθαι . δι ’ ἣν p. 24 M. αἰτίαν οἱ μὲν ἄλλοι φιλόσοφοι τὸν ἀριθμὸν τοῦτον ἐξομοιοῦσι τῇ ἀμήτορι Νίκῃ καὶ Παρθένῳ , ἣν ἐκ τῆς τοῦ Διὸς κεφαλῆς ἀναφανῆναι λόγος ἔχει , οἱ δὲ Πυθαγόρειοι τῷ ἡγεμόνι τῶν συμπάντων · τὸ γὰρ μήτε γεννῶν μήτε γεννώμενον ἀκίνητον μένει · ἐν κινήσει γὰρ ἡ γένεσις , ἐπεὶ καὶ τὸ γεννῶν καὶ τὸ γεννώμενον οὐκ ἄνευ κινήσεως , τὸ μὲν ἵνα γεννήσῃ , τὸ δὲ ἵνα γεννηθῇ · μόνον δ ’ οὔτε κινοῦν οὔτε κινούμενον ὁ πρεσβύτερος ἄρχων καὶ ἡγεμών , οὗ λέγοιτ ’ ἂν προσηκόντως εἰκὼν ἑβδομάς . μαρτυρεῖ δέ μου τῷ λόγῳ καὶ Φιλόλαος ἐν τούτοις · „ Ἔστι γάρ , φησίν , ἡγεμὼν καὶ ἄρχων ἁπάντων θεὸς εἷς ἀεὶ ὤν , μόνιμος , ἀκίνητος , αὐτὸς αὑτῷ ὅμοιος , ἕτερος τῶν ἄλλων .“",
+      "translation": "But seven alone , as I said before , neither produces nor is produced , on which account other philosophers liken this number to Victory , who had no mother , and to the virgin goddess , whom the fable asserts to have sprung from the head of Jupiter : and the Pythagoreans compare it to the Ruler of all things . For that which neither produces , nor is produced , remains immovable . For generation consists in motion , since that which is generated , cannot be so without motion , both to cause production , and to be produced . And the only thing which neither moves nor is moved , is the Elder , Ruler , and Lord of the universe , of whom the number seven may reasonably be called a likeness . And Philolaus gives his testimony to this doctrine of mine in the following Words :— for God , says he is the ruler and Lord of all things , being one , eternal , lasting , immovable , himself like to himself , and different from all other beings ."
+    },
+    {
+      "id": "101",
+      "label": "Section 101",
+      "chapter": null,
+      "original": "34 ἐν μὲν οὖν τοῖς νοητοῖς τὸ ἀκίνητον καὶ ἀπαθὲς ἐπιδείκνυται ἑβδομάς , ἐν δὲ τοῖς αἰσθητοῖς μεγάλην καὶ συνεκτικωτάτην δύναμιν , * * * [*] [*] v.1.p.35 οἷς τὰ ἐπίγεια πάντα πέφυκε βελτιοῦσθαι , σελήνης τε περιόδοις . ὃν δὲ τρόπον , ἐπισκεπτέον . ἀπὸ μονάδος συντεθεὶς ἑξῆς ὁ ἑπτὰ ἀριθμὸς γεννᾷ τὸν ὀκτὼ καὶ εἴκοσι τέλειον καὶ τοῖς αὑτοῦ μέρεσιν ἰσούμενον · ὁ δὲ γεννηθεὶς ἀριθμὸς ἀποκαταστατικός ἐστι σελήνης , ἀφ ’ οὗ ἤρξατο σχήματος λαμβάνειν αὔξησιν αἰσθητῶς , εἰς ἐκεῖνο κατὰ μείωσιν ἀνακαμπτούσης · αὔξεται μὲν γὰρ ἀπὸ τῆς πρώτης μηνοειδοῦς ἐπιλάμψεως ἄχρι διχοτόμου ἡμέραις ἑπτά , εἶθ ’ ἑτέραις τοσαύταις πλησιφαὴς γίνεται καὶ πάλιν ὑποστρέφει διαυλοδρομοῦσα τὴν αὐτὴν ὁδόν , ἀπὸ μὲν τῆς πλησιφαοῦς ἐπὶ τὴν διχότομον ἑπτὰ πάλιν ἡμέραις , εἶτ ’ ἀπὸ ταύτης ἐπὶ τὴν μηνοειδῆ ταῖς ἴσαις · ἐξ ὧν ὁ λεχθεὶς ἀριθμὸς συμπεπλήρωται .",
+      "translation": "34\nAmong the things then which are perceptible only by intellect , the number seven is proved to be the only thing free from motion and accident ; but among things perceptible by the external senses , it displays a great and comprehensive power , contributing to the improvement of all terrestrial things , and affecting even the periodical changes of the moon . And v.1.p.30 in what manner it does this , we must consider . The number seven when compounded of numbers beginning with the unit , makes eight-and-twenty , a perfect number , and one equalised in its parts . And the number so produced , is calculated to reproduce the revolutions of the moon , bringing her back to the point from which she first began to increase in a manner perceptible by the external senses , and to which she returns by waning . For she increases from her first crescent-shaped figure , to that of a half circle in seven days ; and in seven more , she becomes a full orb ; and then again she turns back , retracing the same path , like a runner of the diaulos , [*] receding from an orb full of light , to a half circle again in seven days , and lastly , in an equal number she diminishes from a half circle to the form of a crescent ; and thus the number before mentioned is completed ."
+    },
+    {
+      "id": "102",
+      "label": "Section 102",
+      "chapter": null,
+      "original": "Καλεῖται δ ’ ἡ ἑβδομὰς ὑπὸ τῶν κυρίως τοῖς ὀνόμασιν εἰωθότων χρῆσθαι καὶ τελεσφόρος , ἐπειδὴ ταύτῃ τελεσφορεῖται τὰ σύμπαντα . τεκμηριώσαιτο δ ’ ἄν τις ἐκ τοῦ πᾶν σῶμα ὀργανικὸν τρισὶ μὲν κεχρῆσθαι διαστάσεσι , μήκει πλάτει καὶ βάθει , τέτταρσι δὲ πέρασι , σημείῳ καὶ γραμμῇ καὶ ἐπιφανείᾳ καὶ στερεῷ , δι ’ ὧν συντεθέντων ἀποτελεῖται ἑβδομάς . ἀμήχανον δ ’ ἦν τὰ σώματα ἑβδομάδι μετρεῖσθαι κατὰ τὴν ἐκ διαστάσεων τριῶν καὶ περάτων τεττάρων σύνθεσιν , εἰ μὴ συνέβαινε τὰς τῶν πρώτων ἀριθμῶν ἰδέας ἑνὸς καὶ δυοῖν καὶ τριῶν καὶ τεττάρων , οἷς θεμελιοῦται δεκάς , ἑβδομάδος φύσιν περιέχειν · οἱ γὰρ λεχθέντες ἀριθμοὶ τέσσαρας μὲν ἔχουσιν ὅρους , τὸν πρῶτον , τὸν δεύτερον , τὸν τρίτον , τὸν τέταρτον , διαστάσεις δὲ τρεῖς · πρώτη μὲν διάστασις p. 25 M. ἡ ἀπὸ τοῦ ἑνὸς ἐπὶ τὰ δύο , δευτέρα δὲ ἡ ἀπὸ τῶν δυοῖν ἐπὶ τὰ τρία , τρίτη δὲ ἡ ἀπὸ τῶν τριῶν ἐπὶ τὰ τέσσαρα .",
+      "translation": "And the number seven by those persons who are in the habit of employing names with strict propriety is called the perfecting number ; because by it , everything is perfected . And any one may receive a confirmation of this from the fact , that every organic body has three dimensions , length , depth , and breadth ; and four boundaries , the point , the line , the superficies , and the solid ; and by these , when combined , the number seven is made up .\nBut it would be impossible for bodies to be measured by the number seven , according to the combination of the three dimensions , and the four boundaries , if it did not happen that the ideas of the first numbers , one , two , three and four , in in which the number ten is founded , comprised the nature of the number seven . For the aforesaid numbers have four boundaries , the first , the second , the third , the fourth , and three intervals . The first interval being that between one and two ; the second , that between two and three ; the third , that between three and four ."
+    },
+    {
+      "id": "103",
+      "label": "Section 103",
+      "chapter": null,
+      "original": "35 δίχα δὲ τῶν εἰρημένων ἐναργέστατα παριστᾶσι τὴν τελεσφόρον δύναμιν ἑβδομάδος καὶ αἱ ἐκ βρέφους ἄχρι γήρως ἀνθρώπων ἡλικίαι μετρούμεναι ταύτῃ · κατὰ μὲν οὖν τὴν πρώτην [*] [*] v.1.p.36 ἑπταετίαν ἔκφυσις ὀδόντων ἐστί · κατὰ δὲ τὴν δευτέραν καιρὸς τοῦ δύνασθαι προΐεσθαι σπέρμα γόνιμον · τρίτῃ δὲ γενείων αὔξησις καὶ τετάρτῃ πρὸς ἰσχὺν ἐπίδοσις · πέμπτῃ δ ’ αὖ γάμων ὥρα · ἕκτῃ δὲ συνέσεως ἀκμή · τῇ δὲ ἑβδόμῃ βελτίωσις ἀμφοῖν καὶ συναύξησις νοῦ καὶ λόγου · ὀγδόῃ δὲ ἡ ἐν ἑκατέρῳ τελείωσις · κατὰ δὲ τὴν ἐνάτην ἐπιείκεια καὶ πρᾳότης τῶν παθῶν ἐπὶ πλέον ἡμερωθέντων · κατὰ δὲ τὴν δεκάτην τοῦ βίου τὸ εὐκταῖον τέλος , ἔτι τῶν ὀργανικῶν μελῶν συνεστηκότων · φιλεῖ γὰρ τὸ μακρὸν γῆρας ἕκαστον ὑποσκελίζειν καὶ παραιρεῖσθαι .",
+      "translation": "35\nAnd besides what has been already said , the growth of men from infancy to old age , when measured by the number seven , displays in a most evident manner its perfecting power ; for in the first period of seven years , the putting forth of the teeth takes place . And at the end of the second period of the same length , he arrives at the age of puberty : at the end v.1.p.31 of the third period , the growth of the beard takes place . The fourth period sees him arrive at the fullness of his manly strength . The fifth seven years is the season for marriage . In the sixth period he arrives at the maturity of his understanding . The seventh period is that of the most rapid improvement and growth of both his intellectual and reasoning powers . The eighth is the sum of the perfection of both . In the ninth , his passions assume a mildness and gentleness , from being to a great degree tamed . In the tenth , the desirable end of life comes upon him , while his limbs and organic senses are still unimpaired : for excessive old age is apt to weaken and enfeeble them all ."
+    },
+    {
+      "id": "section:104",
+      "label": "Section 104",
+      "chapter": null,
+      "original": "τὰς ἡλικίας ταύτας ἀνέγραψε καὶ Σόλων ὁ τῶν Ἀθηναίων νομοθέτης ἐλεγεῖα ποιήσας τάδε ·\nΠαῖς μὲν ἄνηβος ἐὼν ἔτι νήπιος ἕρκος ὀδόντων φύσας ἐκβάλλει πρῶτον ἐν ἕπτ ’ ἔτεσιν · τοὺς δ ’ ἑτέρους ὅτε δὴ τελέσῃ θεὸς ἕπτ ’ ἐνιαυτούς , ἥβης ἐκφαίνει σήματα γιγνομένης · τῇ τριτάτῃ δὲ γένειον ἀεξομένων ἔτι γυίων λαχνοῦται , χροιῆς ἄνθος ἀμειβομένης · τῇ δὲ τετάρτῃ πᾶς τις ἐν ἑβδομάδ ’ ἐστὶν ἄριστος ἰσχύν , ἥν τ ’ ἄνδρες σήματ ’ ἔχους ’ ἀρετῆς · πέμπτῃ δ ’ ὥριον ἄνδρα γάμου μεμνημένον εἶναι καὶ παίδων ζητεῖν ἐξοπίσω γενεήν · [*] [*] v.1.p.37\nτῇ δ ’ ἕκτῃ περὶ πάντα καταρτύεται νόος ἀνδρός , οὐδ ’ ἕρδειν ἔθ ’ ὁμῶς ἔργ ’ ἀπάλαμνα θέλει · ἑπτὰ δὲ νοῦν καὶ γλῶσσαν ἐν ἑβδομάσιν μέγ ’ ἄριστος ὀκτώ τ ’, ἀμφοτέρων τέσσαρα καὶ δέκ ’ ἔτη · τῇ δ ’ ἐνάτῃ ἔτι μὴν δύναται , μαλακώτερα δ ’ αὐτοῦ πρὸς μεγάλην ἀρετὴν γλῶσσά τε καὶ σοφίη · τὴν δεκάτην δ ’ εἴ τις τελέσας κατὰ μέτρον ἵκοιτο , οὐκ ἂν ἄωρος ἐὼν μοῖραν ἔχοι θανάτου .",
+      "translation": "And Solon , the Athenian lawgiver , described these different ages in the following elegiac verses :—\nIn seven years from th ’ earliest breath , The child puts forth his hedge of teeth ; When strengthened by a similar span , He first displays some signs of man . As in a third , his limbs increase , A beard buds o ’ er his changing face . When he has passed a fourth such time , His strength and vigour ’ s in its prime . When five times seven years o ’ er his head Have passed , the man should think to wed ; At forty two , the wisdom ’ s clear To shun vile deeds of folly or fear : While seven times seven years to sense Add ready wit and eloquence . And seven years further skill admit To raise them to their perfect height . When nine such periods have passed , His powers , though milder grown , still last ; When God has granted ten times seven , The aged man prepares for heaven ."
+    },
+    {
+      "id": "105",
+      "label": "Section 105",
+      "chapter": null,
+      "original": "36 Ὁ μὲν οὖν Σόλων ἑβδομάσι δέκα ταῖς εἰρημέναις καταριθμεῖ τὸν ἀνθρώπινον βίον . ὁ δ ’ ἰατρὸς Ἱπποκράτης ἡλικίας ἑπτὰ εἶναί φησι , παιδίου , p. 26 M. παιδός , μειρακίου , νεανίσκου , ἀνδρός , πρεσβύτου , γέροντος , ταύτας δὲ μετρεῖσθαι μὲν ἑβδομάσιν , οὐ μὴν ταῖς κατὰ τὸ ἑξῆς . λέγει δ ’ οὕτως · „ Ἐν ἀνθρώπου φύσει ἑπτά εἰσιν ὧραι , ἃς ἡλικίας καλέουσι , παιδίον , παῖς , μειράκιον , νεανίσκος , ἀνήρ , πρεσβύτης , γέρων · καὶ παιδίον μέν ἐστιν ἄχρις ἑπτὰ ἐτέων ὀδόντων ἐκβολῆς · παῖς δ ’ ἄχρι γονῆς ἐκφύσιος , ἐς τὰ δὶς ἑπτά · μειράκιον δ ’ ἄχρι γενείου λαχνώσιος , ἐς τὰ τρὶς ἑπτά · νεανίσκος δ ’ ἄχρις αὐξήσιος ὅλου τοῦ σώματος , ἐς τὰ τετράκις ἑπτά · ἀνὴρ δ ’ ἄχρις ἑνὸς δέοντος ἐτέων πεντήκοντα , ἐς τὰ ἑπτάκις ἑπτά · πρεσβύτης δ ’ ἄχρι πεντήκοντα ἕξ , ἐς τὰ ἑπτάκις ὀκτώ · τὸ δ ’ ἐντεῦθεν γέρων .“ λέγεται δὲ κἀκεῖνο πρὸς διασύστασιν ἑβδομάδος ὡς [*] [*] v.1.p.38 θαυμαστὴν ἐχούσης ἐν τῇ φύσει τάξιν , ἐπεὶ συνέστηκεν ἐκ τριῶν καὶ τεττάρων · τὸν μὲν τρίτον ἀπὸ μονάδος , εἰ διπλασιάζοι τις , εὑρήσει τετράγωνον , τὸν δὲ τέταρτον κύβον , τὸν δ ’ ἐξ ἀμφοῖν ἕβδομον κύβον ὁμοῦ καὶ τετράγωνον ·",
+      "translation": "36\nSolon therefore thus computes the life of man by the aforesaid ten periods of seven years . But Hippocrates the physician says that there are seven [*] ages of man , infancy , childhood , boyhood , youth , manhood , middle age , old age ; and that these too , are measured by periods of seven , though not v.1.p.32 in the same order . And he speaks thus ; In the nature of man there are seven seasons , which men call ages ; infancy , childhood , boyhood , and the rest . He is an infant till he reaches his seventh year , the age of the shedding of his teeth . He is a child till he arrives at the age of puberty , which takes place in fourteen years . He is a boy till his beard begins to grow , and that time is the end of a third period of seven years . He is a youth till the completion of the growth of his whole body , which coincides with the fourth seven years . Then he is a man till he reaches his forty-ninth year , or seven times seven periods . He is a middle aged man till he is fifty-six , or eight times seven years old ; and after that he is an old man ."
+    },
+    {
+      "id": "106",
+      "label": "Section 106",
+      "chapter": null,
+      "original": "ὁ μὲν οὖν ἀπὸ μονάδος τρίτος ἐν διπλασίονι λόγῳ , τέτταρα , τετράγωνός ἐστιν , ὁ δὲ τέταρτος , ὀκτώ , κύβος , ὁ δὲ ἕβδομος , τέσσαρα πρὸς τοῖς ἑξήκοντα , κύβος ὁμοῦ καὶ τετράγωνος · ὡς εἶναι τελεσφόρον ὄντως τὸν ἕβδομον ἀριθμόν , ἀμφοτέρας τὰς ἰσότητας καταγγέλλοντα τήν τ ’ ἐπίπεδον διὰ τετραγώνου κατὰ τὴν πρὸς τριάδα συγγένειαν καὶ τὴν στερεὰν διὰ κύβου κατὰ τὴν πρὸς τετράδα οἰκειότητα · ἐκ τριάδος δὲ καὶ τετράδος ἑβδομάς .",
+      "translation": "And it is also affirmed for the particular praise of the number seven , that it has a very admirable rank in nature , because it is composed of three and four . And if any one doubles the the third number after the unit , he will find a square ; and if he doubles the fourth number , he will find a cube . And if he doubles the seventh from both , he will both a cube and a square ; therefore , the third number from the unit is a square in a double ratio . And the fourth number , eight , is a cube . And the seventh number , being sixty-four , is both a cube and a square at the same time ; so that the seventh number is really a perfecting one , signifying both equalities , — the plane superficies by the square , according to the connection with the number three , and the solid by the cube according to its relationship to the number four ; and of the numbers three and four , are composed the number seven ."
+    },
+    {
+      "id": "107",
+      "label": "Section 107",
+      "chapter": null,
+      "original": "37 Ἔστι δὲ οὐ τελεσφόρος μόνον , ἀλλὰ καὶ ὡς ἔπος εἰπεῖν ἁρμονικωτάτη καὶ τρόπον τινὰ πηγὴ τοῦ καλλίστου διαγράμματος , ὃ πάσας μὲν τὰς ἁρμονίας , τὴν διὰ τεττάρων , τὴν διὰ πέντε , τὴν διὰ πασῶν , πάσας δὲ τὰς ἀναλογίας , τὴν ἀριθμητικήν , τὴν γεωμετρικήν , ἔτι δὲ τὴν ἁρμονικὴν περιέχει . τὸ δὲ πλινθίον συνέστηκεν ἐκ τῶνδε τῶν ἀριθμῶν , ἓξ ὀκτὼ ἐννέα δώδεκα · ὁ μὲν ὀκτὼ πρὸς ἓξ ἐν ἐπιτρίτῳ λόγῳ , καθ ’ ὃν ἡ διὰ τεττάρων ἁρμονία ἐστίν · ὁ δὲ ἐννέα πρὸς ἓξ ἐν ἡμιολίῳ , καθ ’ ὃν ἡ διὰ πέντε · ὁ δὲ δώδεκα πρὸς ἓξ ἐν διπλασίονι , καθ ’ ὃν ἡ διὰ πασῶν .",
+      "translation": "37\nBut this number is not only a perfecter of things , but it is also , so to say , the most harmonious of numbers ; and in a manner the source of that most beautiful diagram which describes all the harmonies , that of fourths , and that of fifths , and the diapason . It also comprises all the proportions , the arithmetical , the geometrical , and moreover the harmonic proportion . And the square consists of these numbers , six , eight , nine , and twelve ; and eight bears to six the ratio of being one third greater , which is the diatessaron of harmony . And nine bears to six the ratio of being half as great again , which is the ratio of fifths . And twelve is to six , in a twofold proportion ; and this is the same as the diapason ."
+    },
+    {
+      "id": "108",
+      "label": "Section 108",
+      "chapter": null,
+      "original": "ἔχει δὲ ὡς ἔλεγον καὶ τὰς ἀναλογίας πάσας · ἀριθμητικὴν μὲν ἐκ τῶν ἓξ καὶ ἐννέα καὶ δώδεκα · οἷς γὰρ ὑπερέχει ὁ μέσος τοῦ πρώτου τρισίν , τούτοις ὑπερέχεται ὑπὸ τοῦ τελευταίου · γεωμετρικὴν δὲ ἐκ τῶν τεσσάρων · ὃν γὰρ λόγον ἔχει τὰ ὀκτὼ πρὸς ἕξ , p. 27 Μ. τοῦτον τὰ δώδεκα πρὸς ἐννέα · ὁ δὲ λόγος ἐπίτριτος · ἁρμονικὴν δὲ ἐκ τριῶν , τοῦ ἓξ καὶ ὀκτὼ καὶ δώδεκα .",
+      "translation": "The number seven comprises also , as I have said , all the proportions of v.1.p.33 arithmetrical proportion , from the numbers six , and nine , and twelve ; for as the number in the middle exceeds the first number by three , it is also exceeded by three by the last number . And geometrical proportion is according to these four numbers . For the same ratio that eight bears to six , that also does twelve bear to nine . And this is the ratio of thirds . Harmonic ratio consists of three numbers , six , and eight , and twelve ."
+    },
+    {
+      "id": "109",
+      "label": "Section 109",
+      "chapter": null,
+      "original": "ἁρμονικῆς δ ’ ἀναλογίας διττὴ κρίσις · μία μέν , ὅταν ὃν λόγον ἔχει ὁ ἔσχατος πρὸς τὸν πρῶτον τοῦτον ἔχῃ ἡ ὑπεροχὴ [*] v.1.p.39 ᾗ ὑπερέχει ὁ ἔσχατος τοῦ μέσου πρὸς τὴν ὑπεροχὴν ᾗ ὑπερέχεται ὑπὸ τοῦ μέσου ὁ πρῶτος . ἐναργεστάτην δὲ πίστιν λάβοι τις ἂν ἐκ τῶν προκειμένων ἀριθμῶν , τοῦ ἓξ καὶ ὀκτὼ καὶ δώδεκα · ὁ μὲν γὰρ τελευταῖος τοῦ πρώτου διπλάσιος , ἡ δ ’ ὑπεροχὴ πάλιν διπλασία · τὰ μὲν γὰρ δώδεκα τῶν ὀκτὼ τέτταρσιν ὑπερέχει , τὰ δὲ ὀκτὼ τῶν ἓξ δυσί · τὰ δὲ τέσσαρα τῶν δυοῖν διπλάσια . ἑτέρα δὲ βάσανος τῆς ἁρμονικῆς",
+      "translation": "But there are two ways of judging of harmonic proportion . One when , whatever ratio the last number bears to the first , the excess by which the last number exceeds the middle one is the same as the excess by which the middle number exceeds the first . And any one may derive a most evident proof of this from the numbers before mentioned , six , and eight , and twelve : for the last number is double the first . And again , the excess of twelve over eight is double the excess of eight over six . For the number twelve exceeds eight by four , and eight exceeds six by two ; and four is the double of two ."
+    },
+    {
+      "id": "110",
+      "label": "Section 110",
+      "chapter": null,
+      "original": "ἀναλογίας , ὅταν ὁ μέσος τῶν ἄκρων ἴσῳ μορίῳ καὶ ὑπερέχῃ καὶ ὑπερέχηται · ὁ γὰρ ὄγδοος μέσος ὢν ὑπερέχει μὲν τοῦ πρώτου τρίτῳ μορίῳ · ὑφαιρεθέντων γὰρ τῶν ἕξ , τὰ λοιπὰ δύο τρίτον ἐστὶ τοῦ πρώτου · ὑπερέχεται δ ’ ὑπὸ τοῦ τελευταίου τῷ ἴσῳ · εἰ γὰρ ὑφαιρεθείη τῶν δώδεκα τὰ ὀκτώ , τὰ λοιπὰ τέσσαρα γίνεται τοῦ τελευταίου τρίτον .",
+      "translation": "And another test of harmonic proportion is , when the middle term exceeds and is exceeded by those on each side of it , by an equal portion ; for eight being the middle term , exceeds the first term by a third part ; for if six be subtracted from it , the remainder two is one third of the original number six : and it is exceeded by the last term in an equal proportion ; for if eight be taken from twelve , the remainder four is one third of the whole number twelve ."
+    },
+    {
+      "id": "111",
+      "label": "Section 111",
+      "chapter": null,
+      "original": "38 Ταῦτα μὲν ἀναγκαίως περὶ σεμνότητος , ἣν ἔχει τὸ διάγραμμα ἢ πλινθίον ἢ ὅ τι χρὴ καλεῖν , προειρήσθω · τοσαύτας ἰδέας καὶ ἔτι πλείους ἑβδομὰς ἐν ἀσωμάτοις καὶ νοητοῖς ἐπιδείκνυται . διατείνει δ ’ αὐτῆς ἡ φύσις καὶ ἐπὶ τὴν ὁρατὴν ἅπασαν οὐσίαν , οὐρανὸν καὶ γῆν , τὰ πέρατα τοῦ παντός , φθάσασα . τί γὰρ οὐ φιλέβδομον τῶν ἐν τῷ κόσμῳ μέρος , ἔρωτι καὶ πόθῳ δαμασθὲν ἑβδομάδος ;",
+      "translation": "38\nLet this then be premised , as of necessity it must , respecting the honourable qualities which this diagram or square has , and the name to which it is entitled , and the number seven unfolds an equal number of ideas , and even more in the case of incorporeal things , which are perceptible only by the intellect ; and its nature extends also over every visible essence , reaching to both heaven and earth , which are the boundaries of every thing . For what portion of all the things on earth is there which is not fond of seven ; being subdued by an affection and longing for the seventh ."
+    },
+    {
+      "id": "112",
+      "label": "Section 112",
+      "chapter": null,
+      "original": "αὐτίκα τὸν οὐρανόν φασιν ἑπτὰ διεζῶσθαι κύκλοις , ὧν ὀνόματα εἶναι τάδε · ἀρκτικόν , ἀνταρκτικόν , θερινὸν τροπικόν , χειμερινὸν τροπικόν , ἰσημερινόν , ζῳδιακόν , καὶ προσέτι γαλαξίαν · ὁ γὰρ ὁρίζων πάθος ἐστὶν ἡμέτερον , ὡς ἂν ὀξυωπίας ἔχῃ τις ἢ τοὐναντίον , ἀποτεμνομένης τῆς αἰσθήσεως τοτὲ μὲν ἐλάττω τοτὲ δὲ μείζω περιγραφήν .",
+      "translation": "Accordingly men say , that the heaven is girdled with seven circles , the names of which are as follows ; the arctic , the antarctic , the summer tropic , the winter tropic , the equinoctial , the zodiac , and last of all the galaxy . For the horizon is something which affects ourselves , in proportion as any one has acute vision , or the contrary ; our sensation cutting off at one time a lesser , and at v.1.p.34 another time a greater circumference ."
+    },
+    {
+      "id": "113",
+      "label": "Section 113",
+      "chapter": null,
+      "original": "οἵ γε μὴν πλάνητες , ἡ ἀντίρροπος στρατιὰ [*] [*] v.1.p.40 τῇ τῶν ἀπλανῶν , ἑπτὰ διακοσμοῦνται τάξεσι , πλείστην ἐπιδεικνύμενοι συμπάθειαν πρὸς ἀέρα καὶ γῆν · τὸν μὲν γὰρ εἰς τὰς ἐτησίους ἐπικαλουμένας ὥρας τρέπουσι καὶ μεταβάλλουσι καθ ’ ἑκάστην μυρίας ὅσας ἐμποιοῦντες μεταβολὰς νηνεμίαις , αἰθρίαις , νεφώσεσι , βίαις ἐξαισίοις πνευμάτων · πάλιν τε ποταμοὺς πλημμυροῦσι καὶ μειοῦσι καὶ πεδία λιμνάζουσι καὶ τοὐναντίον ἀφαυαίνουσι · καὶ πελαγῶν ἐργάζονται τροπὰς ἐξαναχωρούντων ἢ παλιρροίαις χρωμένων · εὐρεῖς γὰρ ἔστιν ὅτε κόλποι θαλάττης ὑποσυρείσης ἀμπώτεσι βαθὺς ἐξαίφνης αἰγιαλός εἰσι καὶ μικρὸν ὕστερον ἀναχυθείσης πελάγη βαθύτατα οὐ βραχείαις p. 28 Μ. ὁλκάσιν ἀλλὰ μυριοφόροις ναυσὶν ἐμπλεόμενα · καὶ μὲν δὴ τὰ ἐπίγεια πάντα , ζῷά τε αὖ καὶ φυτὰ καρποὺς γεννῶντα , αὔξουσι καὶ τελεσφοροῦσι τὴν ἐν ἑκάστοις φύσιν δολιχεύειν παρασκευάζοντες , ὡς νέα παλαιοῖς ἐπανθεῖν καὶ ἐπακμάζειν",
+      "translation": "The planets too , and the corresponding host of fixed stars , are arrayed in seven divisions , displaying a very great sympathy with the air and the earth . For they turn the air towards the times , that are called the seasons of the year , causing in each of them innumerable changes by calm weather , and pleasant breezes , and clouds , and irresistible blasts of wind . And again , they make rivers to overflow and to subside , and turn plains into lakes ; and again , on the contrary , they dry up the waters : they also cause the alterations of the seas , when they recede , and return with a reflux . For at times , when the tide recedes on a sudden , an extensive line of shore occupies what is usually a wide gulf of sea ; and in a short time afterwards , the waters are brought back , and there appears a sea , sailed over , not by shallow boats , but by ships of exceeding great burden .\nAnd they also give increase and perfection to all the terrestrial animals and plants which produce fruit , endowing each with a nature to last a long time , so that new plants may flourish and come to maturity ; — the old ones having passed away , in order to provide an abundant supply of necessary things ."
+    },
+    {
+      "id": "114",
+      "label": "Section 114",
+      "chapter": null,
+      "original": "πρὸς χορηγίας ἀφθόνους τῶν δεομένων . 39 ἄρκτος γε μήν , ἥν φασι πλωτήρων εἶναι προπομπόν , ἐξ ἑπτὰ ἀστέρων συνέστηκεν · εἰς ἣν ἀφορῶντες κυβερνῆται τὰς ἐν θαλάττῃ μυρίας ὁδοὺς ἀνέτεμον ἀπίστῳ πράγματι καὶ μείζονι ἢ κατὰ φύσιν ἀνθρωπίνην ἐπιθέμενοι · στοχασμῷ γὰρ τῶν εἰρημένων ἀστέρων τὰς πρὶν ἀδηλουμένας χώρας ἀνεῦρον , νήσους μὲν οἱ τὴν ἤπειρον οἰκοῦντες , νησιῶται δὲ ἠπείρους · ἔδει γὰρ ὑπὸ τοῦ καθαρωτάτου τῆς οὐσίας οὐρανοῦ ζῴῳ τῷ θεοφιλεστάτῳ γῆς ὁμοῦ καὶ θαλάττης ἀναδειχθῆναι τοὺς μυχοὺς ἀνθρώπων γένει .",
+      "translation": "39\nMoreover , the constellation Ursa Major , which men call the guide of mariners , consists of seven stars , which the pilots keeping in view , steer in innumerable paths across the sea , directing their endeavours towards an incredible task , beyond the capacity of human intellect . For it is through conjectures , directed by the aforementioned stars , that they have discovered countries which were previously unknown ; those who dwell on the continent having discovered islands , and islanders having found out continents . For it was fitting that the recesses both of earth and sea should be revealed to that God-loving animal , the race of mankind , by the purest of essences , namely heaven ."
+    },
+    {
+      "id": "115",
+      "label": "Section 115",
+      "chapter": null,
+      "original": "πρὸς δὲ τοῖς εἰρημένοις καὶ ὁ τῶν πλειάδων χορὸς ἀστέρων ἑβδομάδι συμπεπλήρωται , ὧν αἱ ἐπιτολαὶ καὶ ἀποκρύψεις μεγάλων ἀγαθῶν αἴτιαι γίνονται πᾶσι · δυομένων μὲν γὰρ αὔλακες ἀνατέμνονται πρὸς σπόρον · [*] v.1.p.41 ἡνίκα δ ’ ἂν μέλλωσιν ἐπιτέλλειν , ἄμητον εὐαγγελίζονται , καὶ ἐπιτείλασαι χαίροντας γεωπόνους πρὸς συγκομιδὴν τῶν ἀναγκαίων ἐγείρουσιν · οἱ δ ’ ἄσμενοι τὰς τροφὰς ἀποτίθενται πρὸς τὴν καθ ’ ἑκάστην ἡμέραν χρῆσιν .",
+      "translation": "And besides the stars above mentioned the band of the Pleiades is also made up of seven stars , the rising and occultation of which are the causes of great benefits to all men . For when they set , the furrows are ploughed up for the purpose of sowing ; and when they are about to rise , they bring glad tidings of harvest ; and after they have arisen , they awaken the rejoicing husbandman to the collection of their necessary food . And they with joy store up their food for their daily use ."
+    },
+    {
+      "id": "116",
+      "label": "Section 116",
+      "chapter": null,
+      "original": "ὅ τε μέγας ἡγεμὼν ἡμέρας ἥλιος διττὰς καθ ’ ἕκαστον ἐνιαυτὸν ἀποτελῶν ἰσημερίας , ἔαρι καὶ μετοπώρῳ , τὴν μὲν ἐαρινὴν ἐν κριῷ , τὴν δὲ μετοπωρινὴν ἐν ζυγῷ , ἐναργεστάτην παρέχεται πίστιν τοῦ περὶ τὴν ἑβδόμην θεοπρεποῦς · ἑκατέρα γὰρ τῶν ἰσημεριῶν ἑβδόμῳ γίνεται μηνί , καθ ’ ἃς καὶ ἑορτάζειν διείρηται νόμῳ τὰς μεγίστας καὶ δημοτελεστάτας ἑορτάς , ἐπειδήπερ ἀμφοτέραις τὰ ὅσα ἐκ γῆς τελειογονεῖται , ἔαρι μὲν ὁ τοῦ σίτου καρπὸς καὶ τῶν ἄλλων ὅσα σπαρτά , μετοπώρῳ δὲ ὁ τῆς ἀμπέλου καὶ τῶν ἄλλων πλείστων ἀκροδρύων .",
+      "translation": "And the sun , the ruler of the day , making two equinoxes v.1.p.35 every year , both in spring and autumn . The spring equinox in the constellation of Aries , and the autumnal one in Libra , gives the most evident demonstration possible of the divine dignity of the number seven . For each of the equinoxes takes place in the seventh month , at which time men are expressly commanded by law to celebrate the greatest and most popular and comprehensive festivals ; since it is owing to both these seasons , that all the fruits of the earth are engendered and brought to perfection ; the fruit of corn , and all other things which are sown , being owing to the vernal equinox ; and that of the vine , and of all the other plants which bear hard berries , of which there are great numbers , to the autumnal one ."
+    },
+    {
+      "id": "117",
+      "label": "Section 117",
+      "chapter": null,
+      "original": "40 Ἐπεὶ δ ’ ἐκ τῶν οὐρανίων τὰ ἐπίγεια ἤρτηται κατά τινα φυσικὴν συμπάθειαν , ὁ τῆς ἑβδομάδος λόγος ἄνωθεν ἀρξάμενος κατέβη καὶ πρὸς ἡμᾶς τοῖς θνητοῖς γένεσιν ἐπιφοιτήσας . αὐτίκα τῆς ἡμετέρας ψυχῆς τὸ δίχα τοῦ ἡγεμονικοῦ μέρος ἑπταχῆ σχίζεται , εἰς πέντε αἰσθήσεις καὶ τὸ φωνητήριον ὄργανον καὶ ἐπὶ πᾶσι τὸ γόνιμον · ἃ δὴ πάντα καθάπερ ἐν τοῖς θαύμασιν ὑπὸ τοῦ ἡγεμονικοῦ νευροσπαστούμενα τοτὲ μὲν ἠρεμεῖ τοτὲ δὲ κινεῖται τὰς ἁρμοττούσας σχέσεις καὶ κινήσεις ἕκαστον .",
+      "translation": "40\nAnd since all the things on the earth depend upon the heavenly bodies according to a certain natural sympathy , it is in heaven too that the ratio of the number seven began , and from thence it descended to us also , coming down to visit the race of mortal men . And so again , besides the dominant part of our mind , our soul is divided into seven divisions ; there being five senses , and besides them the vocal organ , and after that the generative power . All which things , like the puppets in a raree show , which are moved by strings by the manager , are at one time quiet , and at another time in motion , each according to its suitable habits and capacities of motion ."
+    },
+    {
+      "id": "118",
+      "label": "Section 118",
+      "chapter": null,
+      "original": "ὁμοίως δὲ καὶ τοῦ σώματος εἴ τις ἐξετάζειν ἐπιχειρήσειε τά τ ’ ἐκτὸς καὶ ἐντὸς μέρη , καθ ’ ἑκάτερον ἑπτὰ εὑρήσει · τὰ μὲν οὖν ἐν φανερῷ ταῦτ ’ ἐστί · κεφαλή , στέρνα , γαστήρ , p. 29 Μ. διτταὶ χεῖρες , διτταὶ βάσεις · τὰ δ ’ ἐντὸς λεγόμενα σπλάγχνα στόμαχος , καρδία , πνεύμων , σπλήν , ἧπαρ , νεφροὶ δύο .",
+      "translation": "And in the same way , if any one were to set about investigating the different parts of the body , in both their interior and the exterior arrangement , he will in each case find seven divisions . Those which are visible are as follow ; — the head , the chest , the belly , two arms , and two legs ; the internal parts , or the entrails , as they are called , are the stomach , the heart , the lungs , the spleen , the liver , and the two kidneys ."
+    },
+    {
+      "id": "119",
+      "label": "Section 119",
+      "chapter": null,
+      "original": "πάλιν δ ’ αὖ τὸ ἡγεμονικώτατον ἐν ζῴῳ κεφαλὴ τοῖς ἀναγκαιοτάτοις ἑπτὰ χρῆται , δυσὶν ὀφθαλμοῖς , ἀκοαῖς ἴσαις , αὐλοῖς μυκτῆρος δυσίν , ἑβδόμῳ στόματι , δι ’ οὗ γίνεται θνητῶν μέν , ὡς ἔφη Πλάτων , εἴσοδος , [*] [*] v.1.p.42 ἔξοδος δ ’ ἀφθάρτων · ἐπεισέρχεται μὲν γὰρ αὐτῷ σιτία καὶ ποτά , φθαρτοῦ σώματος φθαρταὶ τροφαί , λόγοι δ ’ ἐξίασιν ἀθανάτου ψυχῆς ἀθάνατοι",
+      "translation": "Again , the principal and dominant part in an animal is the head , and that has seven most necessary divisions : two eyes , an equal number of ears , two channels for the nostrils , and the mouth to make up seven , through which as Plato says , mortal things find their entrance , and immortal things their exit . For into the mouth do enter meat and drink , perishable food of a perishable body ; but from out of it proceed words — the immortal laws of an immortal soul , by means of which rational life is regulated ."
+    },
+    {
+      "id": "120",
+      "label": "Section 120",
+      "chapter": null,
+      "original": "νόμοι , δι ’ ὧν ὁ λογικὸς βίος κυβερνᾶται . 41 τὰ δὲ διὰ τῆς ἀρίστης τῶν αἰσθήσεων ὄψεως κρινόμενα μετέχει τοῦ ἀριθμοῦ κατὰ γένος · ἑπτὰ γάρ ἐστι τὰ ὁρώμενα , σῶμα , διάστασις , σχῆμα , μέγεθος , χρῶμα , κίνησις , στάσις , καὶ παρὰ ταῦτα οὐδὲν ἕτερον .",
+      "translation": "41\nAgain , the things which are judged of by the best of v.1.p.36 the senses , sight , partake of number according to their kind . For the things which are seen are seven ; body , distance , shape , magnitude , colour , motion , tranquillity , and besides these there is nothing ."
+    }
+  ],
+  "prevChunkSlug": "on-the-creation-1te55q-1",
+  "nextChunkSlug": "on-the-creation-1te55q-3"
+}

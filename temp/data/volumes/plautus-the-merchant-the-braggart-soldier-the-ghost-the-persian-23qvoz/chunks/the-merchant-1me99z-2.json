@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-merchant-1me99z-2",
+  "label": "The Merchant (Section 1.2.156b - Section 1.2.202b)",
+  "partId": "the-merchant-1me99z",
+  "partTitle": "The Merchant",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Mercator",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Mercator, or The Merchant",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.2.156b",
+      "label": "Section 1.2.156b",
+      "chapter": null,
+      "original": "Ah ,",
+      "translation": "Ah ! your words , upon my faith , are increasing my weakness . You are worrying me to death !"
+    },
+    {
+      "id": "1.2.158",
+      "label": "Section 1.2.158",
+      "chapter": null,
+      "original": "Sicine mi obsequens es ?",
+      "translation": "What , is this the way you ’ re obedient to me ?"
+    },
+    {
+      "id": "1.2.158b",
+      "label": "Section 1.2.158b",
+      "chapter": null,
+      "original": "Quid vis faciam ?",
+      "translation": "What do you want me to do ?"
+    },
+    {
+      "id": "1.2.158c",
+      "label": "Section 1.2.158c",
+      "chapter": null,
+      "original": "Tun ? id quod volo .",
+      "translation": "What , you ? What I want is this —"
+    },
+    {
+      "id": "1.2.159",
+      "label": "Section 1.2.159",
+      "chapter": null,
+      "original": "Quid id est igitur quod vis ?",
+      "translation": "What is it then that you do want ?"
+    },
+    {
+      "id": "1.2.159b",
+      "label": "Section 1.2.159b",
+      "chapter": null,
+      "original": "Dicam .",
+      "translation": "I ’ ll tell you ."
+    },
+    {
+      "id": "1.2.159c",
+      "label": "Section 1.2.159c",
+      "chapter": null,
+      "original": "Dice .",
+      "translation": "Tell me , then ."
+    },
+    {
+      "id": "1.2.160",
+      "label": "Section 1.2.160",
+      "chapter": null,
+      "original": "Dormientis spectatores metuis ne ex somno excites ?",
+      "translation": "Are you afraid lest you should wake the drowsy Spectators [*] from their nap ?"
+    },
+    {
+      "id": "1.2.161",
+      "label": "Section 1.2.161",
+      "chapter": null,
+      "original": "Vae tibi .",
+      "translation": "Woe be to you !"
+    },
+    {
+      "id": "1.2.161b",
+      "label": "Section 1.2.161b",
+      "chapter": null,
+      "original": "Tibi equidem a portu adporto hoc —",
+      "translation": "For my part , that same am I bringing to you from the harbour ."
+    },
+    {
+      "id": "1.2.161c",
+      "label": "Section 1.2.161c",
+      "chapter": null,
+      "original": "Quid fers ? dic mihi .",
+      "translation": "What are you bringing ? Tell me ."
+    },
+    {
+      "id": "1.2.162",
+      "label": "Section 1.2.162",
+      "chapter": null,
+      "original": "Vim metum , cruciatum curam , iurgiumque atque inopiam .",
+      "translation": "Violence , alarm , torture , care , strife , and beggary ."
+    },
+    {
+      "id": "1.2.163",
+      "label": "Section 1.2.163",
+      "chapter": null,
+      "original": "Perii , tu quidem thensaurum huc mi adportavisti mali .",
+      "translation": "I ’ m undone ! You really are bringing me hither a store of evils . I ’ m ruined outright ."
+    },
+    {
+      "id": "1.2.164b",
+      "label": "Section 1.2.164b",
+      "chapter": null,
+      "original": "Immo es —",
+      "translation": "Why , yes , you are —"
+    },
+    {
+      "id": "1.2.164c",
+      "label": "Section 1.2.164c",
+      "chapter": null,
+      "original": "Scio iam , miserum dices tu .",
+      "translation": "I know it already ; you ’ ll be saying I ’ m wretched ."
+    },
+    {
+      "id": "1.2.164d",
+      "label": "Section 1.2.164d",
+      "chapter": null,
+      "original": "Dixi ego tacens .",
+      "translation": "’ Tis you have said so ; I ’ m mum ."
+    },
+    {
+      "id": "1.2.165",
+      "label": "Section 1.2.165",
+      "chapter": null,
+      "original": "Quid istuc est mali ?",
+      "translation": "What mishap is this ?"
+    },
+    {
+      "id": "1.2.165b",
+      "label": "Section 1.2.165b",
+      "chapter": null,
+      "original": "Ne rogites , maxumum infortunium est .",
+      "translation": "Don ’ t enquire . It is a very great calamity ."
+    },
+    {
+      "id": "1.2.166",
+      "label": "Section 1.2.166",
+      "chapter": null,
+      "original": "Obsecro , dissolve iam me ; nimis diu animi pendeo .",
+      "translation": "Prithee , do relieve me at once . Too long a time have I been in suspense ."
+    },
+    {
+      "id": "1.2.167",
+      "label": "Section 1.2.167",
+      "chapter": null,
+      "original": "Placide , multa exquirere etiam prius volo quam vapulem .",
+      "translation": "Softly ; I still wish to make many enquiries before I ’ m beaten ."
+    },
+    {
+      "id": "1.2.168",
+      "label": "Section 1.2.168",
+      "chapter": null,
+      "original": "Hercle vero vapulabis , nisi iam loquere aut hinc abis .",
+      "translation": "By my troth , you assuredly will be beaten , unless you say at once , or get away from here ."
+    },
+    {
+      "id": "1.2.169",
+      "label": "Section 1.2.169",
+      "chapter": null,
+      "original": "Hoc sis vide , ut palpatur . nullust , quando occepit , blandior .",
+      "translation": "Do look at that , please , how he does coax me ; there ’ s no one more flattering when he sets about it ."
+    },
+    {
+      "id": "1.2.170",
+      "label": "Section 1.2.170",
+      "chapter": null,
+      "original": "Obsecro hercle oroque ut istuc quid sit actutum indices ,",
+      "translation": "By heavens , I do entreat and beseech you to disclose to me at once what it is ; inasmuch as I see that I must be the suppliant of my own servant ."
+    },
+    {
+      "id": "1.2.172",
+      "label": "Section 1.2.172",
+      "chapter": null,
+      "original": "Tandem indignus videor ?",
+      "translation": "And do I seem so unworthy of it ?"
+    },
+    {
+      "id": "1.2.172b",
+      "label": "Section 1.2.172b",
+      "chapter": null,
+      "original": "Immo dignus .",
+      "translation": "Oh no , quite worthy ."
+    },
+    {
+      "id": "1.2.172c",
+      "label": "Section 1.2.172c",
+      "chapter": null,
+      "original": "Equidem credidi .",
+      "translation": "Well , so I thought ."
+    },
+    {
+      "id": "1.2.173",
+      "label": "Section 1.2.173",
+      "chapter": null,
+      "original": "Obsecro , num navis periit ?",
+      "translation": "Prithee , is the ship lost ?"
+    },
+    {
+      "id": "1.2.173b",
+      "label": "Section 1.2.173b",
+      "chapter": null,
+      "original": "Salvast navis , ne time .",
+      "translation": "The ship ’ s all right ; don ’ t fear about that ."
+    },
+    {
+      "id": "1.2.174",
+      "label": "Section 1.2.174",
+      "chapter": null,
+      "original": "Quid alia armamenta ?",
+      "translation": "Well then , the rest of the cargo ?"
+    },
+    {
+      "id": "1.2.174b",
+      "label": "Section 1.2.174b",
+      "chapter": null,
+      "original": "Salva et sana sunt .",
+      "translation": "That ’ s right and tight ."
+    },
+    {
+      "id": "1.2.174c",
+      "label": "Section 1.2.174c",
+      "chapter": null,
+      "original": "Quin tu expedis",
+      "translation": "Why then don ’ t you tell"
+    },
+    {
+      "id": "1.2.175",
+      "label": "Section 1.2.175",
+      "chapter": null,
+      "original": "quid siet quod me per urbem currens quaerebas modo .",
+      "translation": "me what it is , for which , just now , running through the city , you were seeking me ?"
+    },
+    {
+      "id": "1.2.176",
+      "label": "Section 1.2.176",
+      "chapter": null,
+      "original": "Tu quidem ex óre orationem mi eripis .",
+      "translation": "Really , you are taking the words out of my mouth ."
+    },
+    {
+      "id": "1.2.176b",
+      "label": "Section 1.2.176b",
+      "chapter": null,
+      "original": "Taceo .",
+      "translation": "I ’ ll hold my tongue ."
+    },
+    {
+      "id": "1.2.176c",
+      "label": "Section 1.2.176c",
+      "chapter": null,
+      "original": "Tace .",
+      "translation": "Do hold your tongue . I doubt , if I brought you any good news , you ’ d be dreadfully pressing , who are now insisting upon my speaking out , when you must hear bad news ."
+    },
+    {
+      "id": "1.2.179",
+      "label": "Section 1.2.179",
+      "chapter": null,
+      "original": "Obsecro hercle te , istuc ut tu mihi malum facias palam .",
+      "translation": "Troth then , prithee do you let me know what this misfortune is ."
+    },
+    {
+      "id": "1.2.180",
+      "label": "Section 1.2.180",
+      "chapter": null,
+      "original": "Eloquar , quandoquidem me oras . tuos pater —",
+      "translation": "Since you beg of me , I ’ ll tell you . Your father —"
+    },
+    {
+      "id": "1.2.180b",
+      "label": "Section 1.2.180b",
+      "chapter": null,
+      "original": "Quid meus pater ?",
+      "translation": "My father did what ?"
+    },
+    {
+      "id": "1.2.181",
+      "label": "Section 1.2.181",
+      "chapter": null,
+      "original": "Tuam amicam —",
+      "translation": "Your mistress —"
+    },
+    {
+      "id": "1.2.181b",
+      "label": "Section 1.2.181b",
+      "chapter": null,
+      "original": "Quid eam ?",
+      "translation": "What about her ?"
+    },
+    {
+      "id": "1.2.181c",
+      "label": "Section 1.2.181c",
+      "chapter": null,
+      "original": "Vidit .",
+      "translation": "He has seen her ."
+    },
+    {
+      "id": "1.2.181d",
+      "label": "Section 1.2.181d",
+      "chapter": null,
+      "original": "Vidit ? vae misero mihi .",
+      "translation": "Seen her ? Ah wretch that I am ! What I ask you , answer me ."
+    },
+    {
+      "id": "1.2.182b",
+      "label": "Section 1.2.182b",
+      "chapter": null,
+      "original": "Quin tu , si quid vis , roga .",
+      "translation": "Nay , but do you ask me , if you want anything ."
+    },
+    {
+      "id": "1.2.183",
+      "label": "Section 1.2.183",
+      "chapter": null,
+      "original": "Qui potuit videre ?",
+      "translation": "How could he see her ?"
+    },
+    {
+      "id": "1.2.183b",
+      "label": "Section 1.2.183b",
+      "chapter": null,
+      "original": "Oculis .",
+      "translation": "With his eyes ."
+    },
+    {
+      "id": "1.2.183c",
+      "label": "Section 1.2.183c",
+      "chapter": null,
+      "original": "Quo pacto ?",
+      "translation": "In what way ?"
+    },
+    {
+      "id": "1.2.183d",
+      "label": "Section 1.2.183d",
+      "chapter": null,
+      "original": "Hiantibus .",
+      "translation": "Wide open ."
+    },
+    {
+      "id": "1.2.184",
+      "label": "Section 1.2.184",
+      "chapter": null,
+      "original": "In hinc dierectus ? núgare in re capitali mea .",
+      "translation": "Away hence and be hanged . You are trifling , when my life ’ s at stake ."
+    },
+    {
+      "id": "1.2.185",
+      "label": "Section 1.2.185",
+      "chapter": null,
+      "original": "Qui , malum , ego nugor , si tibi quod me rogas respondeo ?",
+      "translation": "How the plague am I trifling , if I answer you what you ask me ?"
+    },
+    {
+      "id": "1.2.186",
+      "label": "Section 1.2.186",
+      "chapter": null,
+      "original": "Certen vidit ?",
+      "translation": "Did he see her for certain ?"
+    },
+    {
+      "id": "1.2.186b",
+      "label": "Section 1.2.186b",
+      "chapter": null,
+      "original": "Tam hercle certe quám ego te aut tu me vides .",
+      "translation": "Aye , troth , as certainly as I see you and you see me ."
+    },
+    {
+      "id": "1.2.187",
+      "label": "Section 1.2.187",
+      "chapter": null,
+      "original": "Vbi eam vidit ?",
+      "translation": "Where did he see her ?"
+    },
+    {
+      "id": "1.2.187b",
+      "label": "Section 1.2.187b",
+      "chapter": null,
+      "original": "Intus intra navem , út prope astitit ;",
+      "translation": "Down on board the ship , as he stood near the prow and chatted with her ."
+    },
+    {
+      "id": "1.2.188b",
+      "label": "Section 1.2.188b",
+      "chapter": null,
+      "original": "Perdidisti me , pater .",
+      "translation": "Father , you have undone me . Come now , you , come now , you sir ? Why , you whip-rascal , didn ’ t you take care that he mightn ’ t see her ? Why , villain , didn ’ t you stow her away , that my father mightn ’ t perceive her ?"
+    },
+    {
+      "id": "1.2.191",
+      "label": "Section 1.2.191",
+      "chapter": null,
+      "original": "Quia negotiosi eramus nos nostris negotiis :",
+      "translation": "Because we were busily employed about our business ; we were engaged in packing up and arranging the cargo . While these things were being done , your father was brought alongside in a very small boat ; and not an individual beheld the man until he was aboard the ship ."
+    },
+    {
+      "id": "1.2.195",
+      "label": "Section 1.2.195",
+      "chapter": null,
+      "original": "Nequiquam , mare , subterfugi á tuis tempestatibus :",
+      "translation": "In vain have I escaped the sea with its dreadful tempests ! Just now I really did suppose that I was both ashore and in a place of safety ; but I see that by the raging waves I am being hurried towards the rocks . Say on ; what took place ?"
+    },
+    {
+      "id": "1.2.198b",
+      "label": "Section 1.2.198b",
+      "chapter": null,
+      "original": "Postquam aspexit mulierem ,",
+      "translation": "After he espied the woman , he began to ask her to whom she belonged ."
+    },
+    {
+      "id": "1.2.199_200b",
+      "label": "Section 1.2.199_200b",
+      "chapter": null,
+      "original": "Quid respondit ?",
+      "translation": "What did she answer ?"
+    },
+    {
+      "id": "1.2.199_200c",
+      "label": "Section 1.2.199_200c",
+      "chapter": null,
+      "original": "Ilico",
+      "translation": "That instant I ran up and interposed , saying that you had bought her as a maid-servant for your mother ."
+    },
+    {
+      "id": "1.2.202b",
+      "label": "Section 1.2.202b",
+      "chapter": null,
+      "original": "Visun est tibi credere id ?",
+      "translation": "Did he seem to believe you in that ?"
+    }
+  ],
+  "prevChunkSlug": "the-merchant-1me99z-1",
+  "nextChunkSlug": "the-merchant-1me99z-3"
+}

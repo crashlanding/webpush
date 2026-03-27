@@ -1,0 +1,211 @@
+{
+  "loebNumber": 47,
+  "sortOrder": 47,
+  "slug": "plutarch-lives-volume-ii-lhuc0g",
+  "title": "Lives, Volume II",
+  "volumeLabel": "Lives, Volume II",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Lives, Volume II. Lives, Volume II opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "solon-1bo3m7",
+  "readyChunkCount": 6,
+  "contents": [
+    {
+      "id": "lives-volume-ii-15nalc",
+      "title": "Lives, Volume II",
+      "status": "ready",
+      "sectionCount": 344,
+      "chunkSlug": "solon-1bo3m7",
+      "chunks": [
+        {
+          "slug": "solon-1bo3m7",
+          "label": "Solon",
+          "partId": "lives-volume-ii-15nalc",
+          "partTitle": "Lives, Volume II",
+          "sectionCount": 63,
+          "status": "ready"
+        },
+        {
+          "slug": "publicola-1l2kt8",
+          "label": "Publicola",
+          "partId": "lives-volume-ii-15nalc",
+          "partTitle": "Lives, Volume II",
+          "sectionCount": 46,
+          "status": "ready"
+        },
+        {
+          "slug": "comparison-of-solon-and-publicola-praajz",
+          "label": "Comparison of Solon and Publicola",
+          "partId": "lives-volume-ii-15nalc",
+          "partTitle": "Lives, Volume II",
+          "sectionCount": 8,
+          "status": "ready"
+        },
+        {
+          "slug": "themistocles-1cxbmi",
+          "label": "Themistocles",
+          "partId": "lives-volume-ii-15nalc",
+          "partTitle": "Lives, Volume II",
+          "sectionCount": 64,
+          "status": "ready"
+        },
+        {
+          "slug": "camillus-1xon6p",
+          "label": "Camillus",
+          "partId": "lives-volume-ii-15nalc",
+          "partTitle": "Lives, Volume II",
+          "sectionCount": 85,
+          "status": "ready"
+        },
+        {
+          "slug": "pericles-88mg9v",
+          "label": "Pericles",
+          "partId": "lives-volume-ii-15nalc",
+          "partTitle": "Lives, Volume II",
+          "sectionCount": 78,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "solon-1bo3m7",
+      "label": "Solon",
+      "partId": "lives-volume-ii-15nalc",
+      "partTitle": "Lives, Volume II",
+      "sectionCount": 63,
+      "status": "ready"
+    },
+    {
+      "slug": "publicola-1l2kt8",
+      "label": "Publicola",
+      "partId": "lives-volume-ii-15nalc",
+      "partTitle": "Lives, Volume II",
+      "sectionCount": 46,
+      "status": "ready"
+    },
+    {
+      "slug": "comparison-of-solon-and-publicola-praajz",
+      "label": "Comparison of Solon and Publicola",
+      "partId": "lives-volume-ii-15nalc",
+      "partTitle": "Lives, Volume II",
+      "sectionCount": 8,
+      "status": "ready"
+    },
+    {
+      "slug": "themistocles-1cxbmi",
+      "label": "Themistocles",
+      "partId": "lives-volume-ii-15nalc",
+      "partTitle": "Lives, Volume II",
+      "sectionCount": 64,
+      "status": "ready"
+    },
+    {
+      "slug": "camillus-1xon6p",
+      "label": "Camillus",
+      "partId": "lives-volume-ii-15nalc",
+      "partTitle": "Lives, Volume II",
+      "sectionCount": 85,
+      "status": "ready"
+    },
+    {
+      "slug": "pericles-88mg9v",
+      "label": "Pericles",
+      "partId": "lives-volume-ii-15nalc",
+      "partTitle": "Lives, Volume II",
+      "sectionCount": 78,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "solon-1bo3m7",
+      "partTitle": "Lives, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Σόλων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg007.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Solon",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg007.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "publicola-1l2kt8",
+      "partTitle": "Lives, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ποπλικόλας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg008.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Publicola",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg008.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "comparison-of-solon-and-publicola-praajz",
+      "partTitle": "Lives, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Σόλωνος καὶ Ποπλικόλα σύγκρισις",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg009.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Comparison of Solon and Publicola",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg009.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "themistocles-1cxbmi",
+      "partTitle": "Lives, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Θεμιστοκλῆς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg010.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Themistocles",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg010.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "camillus-1xon6p",
+      "partTitle": "Lives, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Κάμιλλος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg011.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Camillus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pericles-88mg9v",
+      "partTitle": "Lives, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περικλῆς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg012.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pericles",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg012.perseus-eng2/"
+      }
+    }
+  ]
+}

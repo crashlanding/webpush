@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "sophocles-ajax-electra-oedipus-tyrannus-udpp93",
+  "volumeTitle": "Ajax. Electra. Oedipus Tyrannus",
+  "authorDisplay": "Sophocles",
+  "authors": [
+    "Sophocles"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "electra-wuse-1",
+  "label": "Electra (Section 1 - Section 3.230)",
+  "partId": "electra-wuse",
+  "partTitle": "Electra",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἠλέκτρα",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Electra",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1",
+      "label": "Section 1",
+      "chapter": null,
+      "original": "ὦ τοῦ στρατηγήσαντος ἐν Τροίᾳ ποτὲ",
+      "translation": "Son of him who once commanded our forces at Troy , son of Agamemnon !— now you may survey all that your heart has desired for so long . There is the ancient Argos of your yearning ,"
+    },
+    {
+      "id": "5",
+      "label": "Section 5",
+      "chapter": null,
+      "original": "τῆς οἰστροπλῆγος ἄλσος Ἰνάχου κόρης ·",
+      "translation": "that consecrated land from which the gad-fly drove the daughter of Inachus ; there , Orestes , is the Lycean market place , named from the wolf-slaying god ; there on the left is Hera ’ s famous temple ; and in this place to which we have come , know that you see Mycenae , the rich in gold ,"
+    },
+    {
+      "id": "10",
+      "label": "Section 10",
+      "chapter": null,
+      "original": "πολύφθορόν τε δῶμα Πελοπιδῶν τόδε ,",
+      "translation": "and here the house of Pelops ’ heirs , so often stained with bloodshed . Long ago from here , away from the murder of your father , I carried you for her whose blood is yours , your sister , and saved you and reared you up to manhood to be the avenger of your murdered father ."
+    },
+    {
+      "id": "15",
+      "label": "Section 15",
+      "chapter": null,
+      "original": "νῦν οὖν , Ὀρέστα καὶ σὺ φίλτατε ξένων",
+      "translation": "Now , therefore , Orestes , and you , best of allies , Pylades , our plan of action must be quickly laid ; for look , already the sun ’ s bright ray is stirring the birds ’ songs into clarity , and the kindly darkness of the stars is spent ."
+    },
+    {
+      "id": "20",
+      "label": "Section 20",
+      "chapter": null,
+      "original": "πρὶν οὖν τινʼ ἀνδρῶν ἐξοδοιπορεῖν στέγης ,",
+      "translation": "Before , then , anyone comes out from the house , we must make our plans , since we are at the point where it is no longer opportune to hesitate , but it is the moment for action ."
+    },
+    {
+      "id": "23",
+      "label": "Section 23",
+      "chapter": null,
+      "original": "ὦ φίλτατʼ ἀνδρῶν προσπόλων , ὥς μοι σαφῆ",
+      "translation": "True friend and follower , how well you prove your loyalty to our house !"
+    },
+    {
+      "id": "25",
+      "label": "Section 25",
+      "chapter": null,
+      "original": "ὥσπερ γὰρ ἵππος εὐγενής , κἂν ᾖ γέρων ,",
+      "translation": "Just as a thoroughbred mount , even if advanced in years , does not lose courage in danger , but pricks up his ears , so you speed us forward and follow in the first ranks . I will tell you , then , what I have determined ."
+    },
+    {
+      "id": "30",
+      "label": "Section 30",
+      "chapter": null,
+      "original": "ὀξεῖαν ἀκοὴν τοῖς ἐμοῖς λόγοις διδούς ,",
+      "translation": "Listen closely to my words and correct me , if I miss the mark in any way .\nWhen I went to the Pythian oracle to learn how I might avenge my father on his murderers ,"
+    },
+    {
+      "id": "35",
+      "label": "Section 35",
+      "chapter": null,
+      "original": "χρῇ μοι τοιαῦθʼ ὁ Φοῖβος ὧν πεύσει τάχα ·",
+      "translation": "Phoebus gave me the commandment which you will now hear : that alone , and by stealth , without the aid of arms or large numbers , I should carry off my right hand ’ s just slaughters . Accordingly , since I received this divine declaration , you must go into that house there"
+    },
+    {
+      "id": "40",
+      "label": "Section 40",
+      "chapter": null,
+      "original": "δόμων ἔσω τῶνδʼ , ἴσθι πᾶν τὸ δρώμενον ,",
+      "translation": "when opportunity gives you entrance , and learn all that is happening , so that you may report to us out of sure knowledge . Your age and the lapse of time will prevent them from recognizing you ; they will never suspect who you are with that silvered hair . Let your story be that you are a Phocian stranger"
+    },
+    {
+      "id": "45",
+      "label": "Section 45",
+      "chapter": null,
+      "original": "Φωκέως παρʼ ἀνδρὸς Φανοτέως ἥκων · ὃ γὰρ",
+      "translation": "sent by Phanoteus , since he is the greatest of their allies . Tell them , and affirm it with your oath , that Orestes has perished by a fatal chance , hurled at the Pythian games"
+    },
+    {
+      "id": "50",
+      "label": "Section 50",
+      "chapter": null,
+      "original": "δίφρων κυλισθείς · ὧδʼ ὁ μῦθος ἑστάτω .",
+      "translation": "from his speeding chariot . Let that be the substance of your message . Meanwhile , we will first crown my father ’ s tomb as the god ordered with libations and the luxuriant tribute of a severed lock ; then we will return here , bearing in our hands an urn of hammered bronze"
+    },
+    {
+      "id": "55",
+      "label": "Section 55",
+      "chapter": null,
+      "original": "ὃ καὶ σὺ θάμνοις οἶσθά που κεκρυμμένον ,",
+      "translation": "— now hidden , as you no doubt know , in the brushwood — so that we may gladden them with the false tidings that this body of mine exists no more , but has been consumed with fire and reduced to ashes . How does it hurt me , when by feigned death"
+    },
+    {
+      "id": "60",
+      "label": "Section 60",
+      "chapter": null,
+      "original": "ἔργοισι σωθῶ κἀξενέγκωμαι κλέος ;",
+      "translation": "I find true life and win renown ? No word is ill-omened , I trust , if it yields gain . For often before now I have seen clever men die in false report ; then , when they return home , they are held in greater honor ."
+    },
+    {
+      "id": "65",
+      "label": "Section 65",
+      "chapter": null,
+      "original": "ὡς κἄμʼ ἐπαυχῶ τῆσδε τῆς φήμης ἄπο",
+      "translation": "And so for myself I trust that as a result of this rumor I , too , shall live , shining down like a star upon my enemies .\nBut you , O my fatherland and native gods of my soil , receive me with good fortune in this journey , and you also , house of my ancestors ,"
+    },
+    {
+      "id": "70",
+      "label": "Section 70",
+      "chapter": null,
+      "original": "δίκῃ καθαρτὴς πρὸς θεῶν ὡρμημένος ·",
+      "translation": "since I come by divine mandate to cleanse you as justice demands . Do not dismiss me from this land in dishonor , but grant that I may rule over my possessions and restore my house !\nI have said enough . Go now , old one , and take care to watch over your task ."
+    },
+    {
+      "id": "75",
+      "label": "Section 75",
+      "chapter": null,
+      "original": "νὼ δʼ ἔξιμεν · καιρὸς γάρ , ὅσπερ ἀνδράσιν",
+      "translation": "The two of us will depart ; for so opportunity bids , chief ruler of every enterprise for men ."
+    },
+    {
+      "id": "77",
+      "label": "Section 77",
+      "chapter": null,
+      "original": "ἰώ μοί μοι δύστηνος .",
+      "translation": "ah , me , ah , joyless me !"
+    },
+    {
+      "id": "78",
+      "label": "Section 78",
+      "chapter": null,
+      "original": "καὶ μὴν θυρῶν ἔδοξα προσπόλων τινὸς",
+      "translation": "Listen , my son ; from the doors of the house , I think , came the sound of some serving girl moaning inside ."
+    },
+    {
+      "id": "80",
+      "label": "Section 80",
+      "chapter": null,
+      "original": "ἆρʼ ἐστὶν ἡ δύστηνος Ἠλέκτρα · θέλεις",
+      "translation": "Can it be my joyless Electra ? Shall we remain here and listen to her cries ?"
+    },
+    {
+      "id": "82",
+      "label": "Section 82",
+      "chapter": null,
+      "original": "ἥκιστα · μηδὲν πρόσθεν ἢ τὰ Λοξίου",
+      "translation": "No , no ; before all else , let us strive to obey the commands of Loxias and from them make a fair beginning by pouring libations to your father . For such actions bring"
+    },
+    {
+      "id": "85",
+      "label": "Section 85",
+      "chapter": null,
+      "original": "νίκην τʼ ἐφʼ ἡμῖν καὶ κράτος τῶν δρωμένων .",
+      "translation": "victory within our grasp and give us mastery in all our doings . Exeunt Paedagogus on the spectators left , Orestes and Pylades on the right ."
+    },
+    {
+      "id": "86",
+      "label": "Section 86",
+      "chapter": null,
+      "original": "ὦ φάος ἁγνὸν",
+      "translation": "O you pure sunlight , and you air , light ’ s equal partner over earth , how often have you heard the chords of my laments"
+    },
+    {
+      "id": "90",
+      "label": "Section 90",
+      "chapter": null,
+      "original": "στέρνων πληγὰς αἱμασσομένων ,",
+      "translation": "and the thudding blows against this bloodied breast at the time of gloomy night ’ s leaving off ! My accursed bed in that house of suffering there knows well already how I observe my night-long rites — how often I bewail my miserable"
+    },
+    {
+      "id": "95",
+      "label": "Section 95",
+      "chapter": null,
+      "original": "πατέρʼ , ὃν κατὰ μὲν βάρβαρον αἶαν",
+      "translation": "father , whom bloody Ares did not welcome with deadly gifts in a foreign land , but my mother and her bedfellow Aegisthus split his head with murderous axe , just as woodmen chop an oak ."
+    },
+    {
+      "id": "100",
+      "label": "Section 100",
+      "chapter": null,
+      "original": "κοὐδεὶς τούτων οἶκτος ἀπʼ ἄλλης",
+      "translation": "And for this crime no pitying cry bursts from any lips but mine , when you , Father , have died a death so cruel and so deserving of pity !"
+    },
+    {
+      "id": "103",
+      "label": "Section 103",
+      "chapter": null,
+      "original": "ἀλλʼ οὐ μὲν δὴ",
+      "translation": "But never will I end from cries and bitter lamentation ,"
+    },
+    {
+      "id": "105",
+      "label": "Section 105",
+      "chapter": null,
+      "original": "ἔστʼ ἂν παμφεγγεῖς ἄστρων",
+      "translation": "while I look on the stars ’ glistening flashes or on this light of day . No , like the nightingale , slayer of her offspring , I will wail without ceasing , and cry aloud to all here at the doors of my father ."
+    },
+    {
+      "id": "110",
+      "label": "Section 110",
+      "chapter": null,
+      "original": "ὦ δῶμʼ Ἀΐδου καὶ Περσεφόνης ,",
+      "translation": "O House of Hades and Persephone ! O Hermes of the shades ! O potent Curse , and you fearsome daughters of the gods , the Erinyes , who take note when a life is unjustly taken , when a marriage-bed is thievishly dishonored ,"
+    },
+    {
+      "id": "115",
+      "label": "Section 115",
+      "chapter": null,
+      "original": "ἔλθετʼ , ἀρήξατε , τίσασθε πατρὸς",
+      "translation": "come , help me , bring vengeance for the murder of my father and send me my brother . I no longer have the strength to hold up alone against"
+    },
+    {
+      "id": "120",
+      "label": "Section 120",
+      "chapter": null,
+      "original": "λύπης ἀντίρροπον ἄχθος .",
+      "translation": "the load of grief that crushes me ."
+    },
+    {
+      "id": "1.121",
+      "label": "Section 1.121",
+      "chapter": null,
+      "original": "ὦ παῖ , παῖ δυστανοτάτας",
+      "translation": "Ah , Electra , child of a most wretched mother , why are you always wasting away in this unsated mourning for Agamemnon , who long ago was godlessly"
+    },
+    {
+      "id": "1.125",
+      "label": "Section 1.125",
+      "chapter": null,
+      "original": "ματρὸς ἁλόντʼ ἀπάταις Ἀγαμέμνονα",
+      "translation": "ensnared in your false mother ’ s wiles and betrayed by her corrupt hand ? May the one who did that perish , if I may speak such a curse without breaking the gods ’ laws ."
+    },
+    {
+      "id": "1.130",
+      "label": "Section 1.130",
+      "chapter": null,
+      "original": "ἥκετʼ ἐμῶν καμάτων παραμύθιον .",
+      "translation": "you have come to relieve me in my troubles . I know and feel it : it does not escape me . Still I cannot leave this task undone , nor abandon this mourning for my poor father . Ah , friends whose love responds to mine in every mood ,"
+    },
+    {
+      "id": "1.135",
+      "label": "Section 1.135",
+      "chapter": null,
+      "original": "ἐᾶτέ μʼ ὧδʼ ἀλύειν ,",
+      "translation": "allow me to rave as I am , oh , please , I beg you !"
+    },
+    {
+      "id": "1.137",
+      "label": "Section 1.137",
+      "chapter": null,
+      "original": "ἀλλʼ οὔτοι τόν γʼ ἐξ Ἀΐδα",
+      "translation": "But never by weeping nor by prayer will you resurrect your father from the pool of Hades which receives all men ."
+    },
+    {
+      "id": "1.140",
+      "label": "Section 1.140",
+      "chapter": null,
+      "original": "ἀλλʼ ἀπὸ τῶν μετρίων ἐπʼ ἀμήχανον",
+      "translation": "No , by grieving without end and beyond due limits you will find cureless misery and your own ruin ; in these actions there is no deliverance from evils . Tell us , why do you pursue such suffering ?"
+    },
+    {
+      "id": "1.145",
+      "label": "Section 1.145",
+      "chapter": null,
+      "original": "οἰχομένων γονέων ἐπιλάθεται .",
+      "translation": "Foolish is the child who forgets a parent ’ s piteous death . No , closer to my heart is the mourner who eternally wails , Itys , Itys , that bird mad with grief , the messenger of Zeus ."
+    },
+    {
+      "id": "1.150",
+      "label": "Section 1.150",
+      "chapter": null,
+      "original": "ἰὼ παντλάμων Νιόβα , σὲ δʼ ἔγωγε νέμω θεόν ,",
+      "translation": "Ah , all-suffering Niobe , you I count divine , since you weep forever in your rocky tomb !"
+    },
+    {
+      "id": "2.155",
+      "label": "Section 2.155",
+      "chapter": null,
+      "original": "ἄχος ἐφάνη βροτῶν ,",
+      "translation": "though you face it with less restraint than those girls inside , Chrysothemis and Iphianassa , whose parents and blood you share . They still live , as he , too , lives , sorrowing in his secluded youth ,"
+    },
+    {
+      "id": "2.160",
+      "label": "Section 2.160",
+      "chapter": null,
+      "original": "ὄλβιος , ὃν ἁ κλεινὰ",
+      "translation": "yet happy in that this famous realm of the Mycenaeans shall one day receive him as a noble lord , if with the blessing of Zeus ’ s escort he , Orestes , returns to this land ."
+    },
+    {
+      "id": "2.164",
+      "label": "Section 2.164",
+      "chapter": null,
+      "original": "ὅν γʼ ἐγὼ ἀκάματα προσμένουσʼ , ἄτεκνος ,",
+      "translation": "Yes , I await him with unwearied longing ,"
+    },
+    {
+      "id": "2.165",
+      "label": "Section 2.165",
+      "chapter": null,
+      "original": "τάλαινʼ , ἀνύμφευτος αἰὲν οἰχνῶ ,",
+      "translation": "as I walk my sad path from day to day childless and unwed , bathed in tears , bearing that endless doom of evils . But he forgets all that he has suffered and learned ."
+    },
+    {
+      "id": "2.170",
+      "label": "Section 2.170",
+      "chapter": null,
+      "original": "ἔρχεται ἀγγελίας ἀπατώμενον ;",
+      "translation": "What message comes to me that is not proven false ? He constantly desires to be with us , but though he desires it , he does not choose to appear ."
+    },
+    {
+      "id": "2.175",
+      "label": "Section 2.175",
+      "chapter": null,
+      "original": "ἔτι μέγας οὐρανῷ",
+      "translation": "is still mighty , and he sees and rules all . Leave your oversharp anger to him ; be neither excessively hostile to those you hate , nor forgetful of them , since Time is a god who brings ease ."
+    },
+    {
+      "id": "2.180",
+      "label": "Section 2.180",
+      "chapter": null,
+      "original": "οὔτε γὰρ ὁ τὰν Κρῖσαν",
+      "translation": "Neither the son of Agamemnon , who dwells by Crisa ’ s cattle-feeding shore nor the god who reigns beside Acheron is unmindful of you ."
+    },
+    {
+      "id": "2.185",
+      "label": "Section 2.185",
+      "chapter": null,
+      "original": "ἀλλʼ ἐμὲ μὲν ὁ πολὺς ἀπολέλοιπεν ἤδη",
+      "translation": "But the best part of life has passed away leaving me in hopelessness , and I have no strength left . I waste away without children and have no loving husband to champion me , but like some despised foreign slave ,"
+    },
+    {
+      "id": "2.190",
+      "label": "Section 2.190",
+      "chapter": null,
+      "original": "οἰκονομῶ θαλάμους πατρός , ὧδε μὲν",
+      "translation": "I serve in the halls of my father , wrapped in shabby garments and standing to eat scanty meals ."
+    },
+    {
+      "id": "3.193",
+      "label": "Section 3.193",
+      "chapter": null,
+      "original": "οἰκτρὰ μὲν νόστοις αὐδά ,",
+      "translation": "Mournful was the voice heard at his return , and mournful the voice amidst your father ’ s reclining banquet"
+    },
+    {
+      "id": "3.195",
+      "label": "Section 3.195",
+      "chapter": null,
+      "original": "ὅτε οἱ παγχάλκων ἀνταία",
+      "translation": "when the straight , swift blow of the bronze-jawed axe was sped against him . Deceit was the plotter , Lust the slayer , two dread parents of a dreadful"
+    },
+    {
+      "id": "3.200",
+      "label": "Section 3.200",
+      "chapter": null,
+      "original": "ἦν ὁ ταῦτα πράσσων .",
+      "translation": "phantom , whether it was god or mortal that did this deed ."
+    },
+    {
+      "id": "3.201",
+      "label": "Section 3.201",
+      "chapter": null,
+      "original": "ὦ πασᾶν κείνα πλέον ἁμέρα",
+      "translation": "O that hated day , hated beyond all that have come to me ; O that night , the terrible grief of that unutterable feast , the shameless death-strokes"
+    },
+    {
+      "id": "3.205",
+      "label": "Section 3.205",
+      "chapter": null,
+      "original": "τοὺς ἐμὸς ἴδε πατὴρ",
+      "translation": "my father saw from their twin hands , hands which took my life captive by treachery , which cast me to ruin ! May the great god of Olympus"
+    },
+    {
+      "id": "3.210",
+      "label": "Section 3.210",
+      "chapter": null,
+      "original": "ποίνιμα πάθεα παθεῖν πόροι ,",
+      "translation": "create for them sufferings in penalty , and may they never have enjoyment of their splendor since they have committed such crimes !"
+    },
+    {
+      "id": "3.213",
+      "label": "Section 3.213",
+      "chapter": null,
+      "original": "φράζου μὴ πόρσω φωνεῖν .",
+      "translation": "Be advised to say no more ; do you not see by what actions"
+    },
+    {
+      "id": "3.215",
+      "label": "Section 3.215",
+      "chapter": null,
+      "original": "τὰ παρόντʼ οἰκείας εἰς ἄτας",
+      "translation": "under the present circumstances you plunge so shamefully into self-made miseries ? You have far excelled in achieving misfortune , ever breeding wars in your hardhearted soul . But such strife"
+    },
+    {
+      "id": "3.220",
+      "label": "Section 3.220",
+      "chapter": null,
+      "original": "οὐκ ἐριστὰ πλάθειν .",
+      "translation": "should not be pushed into a conflict with the powerful ."
+    },
+    {
+      "id": "3.221",
+      "label": "Section 3.221",
+      "chapter": null,
+      "original": "δεινοῖς ἠναγκάσθην , δεινοῖς ·",
+      "translation": "I have been forced to it , forced by a terrible compulsion . I know my own passion ; it does not escape me ; but , under such terrible compulsion , I will not restrain these disastrous cries of frenzy ,"
+    },
+    {
+      "id": "3.225",
+      "label": "Section 3.225",
+      "chapter": null,
+      "original": "ὄφρα με βίος ἔχῃ .",
+      "translation": "so long as life is in me . Who indeed , my noble friends , who that keeps what is appropriate in mind , would think any word of comfort right for my ears ? Let me be , let me be , my comforters !"
+    },
+    {
+      "id": "3.230",
+      "label": "Section 3.230",
+      "chapter": null,
+      "original": "οὐδέ ποτʼ ἐκ καμάτων ἀποπαύσομαι",
+      "translation": "For these ills will be reckoned with those which have no cure ; I will never know a respite from my pains , or the sum of this wailing ."
+    }
+  ],
+  "prevChunkSlug": "ajax-17r5s-9",
+  "nextChunkSlug": "electra-wuse-2"
+}

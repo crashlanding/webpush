@@ -1,0 +1,472 @@
+{
+  "volumeSlug": "tyrtaeus-solon-theognis-mimnermus-greek-elegiac-poetry-mlp6bj",
+  "volumeTitle": "Solon, Theognis, Mimnermus, Greek Elegiac Poetry",
+  "authorDisplay": "Tyrtaeus",
+  "authors": [
+    "Tyrtaeus"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "solon-theognis-mimnermus-greek-elegiac-poetry-1b4ss9",
+  "label": "Solon, Theognis, Mimnermus, Greek Elegiac Poetry",
+  "partId": "solon-theognis-mimnermus-greek-elegiac-poetry-1b4ss9",
+  "partTitle": "Solon, Theognis, Mimnermus, Greek Elegiac Poetry",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Σόλων",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg007.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Solon",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg007.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1",
+      "label": "Section 1.1",
+      "chapter": null,
+      "original": "δίδυμος ὁ γραμματικὸς ἐν τῇ περὶ τῶν ἀξόνων τῶν Σόλωνος ἀντιγραφῇ πρὸς Ἀσκληπιάδην Φιλοκλέους τινὸς τέθεικε λέξιν , ἐν ᾗ τὸν Σόλωνα πατρὸς Εὐφορίωνος ἀποφαίνει παρὰ τὴν τῶν ἄλλων δόξαν , ὅσοι μέμνηνται Σόλωνος . Ἐξηκεστίδου γὰρ αὐτὸν ἅπαντες ὁμαλῶς γεγονέναι λέγουσιν , ἀνδρὸς οὐσίᾳ μέν , ὥς φασι , καὶ δυνάμει μέσου τῶν πολιτῶν , οἰκίας δὲ πρώτης κατὰ γένος · ἦν γὰρ Κοδρίδης ἀνέκαθεν .",
+      "translation": "Didymus the grammarian , in his reply to Asclepiades on Solon ’ s tables of law , mentions a remark of one Philocles , in which it is stated that Solon ’ s father was Euphorion , contrary to the opinion of all others who have written about Solon . For they all unite in saying that he was a son of Execestides , a man of moderate wealth and influence in the city , but a member of its foremost family , being descended from Codrus ."
+    },
+    {
+      "id": "1.2",
+      "label": "Section 1.2",
+      "chapter": null,
+      "original": "τὴν δὲ μητέρα τοῦ Σόλωνος Ἡρακλείδης ὁ Ποντικὸς ἱστορεῖ τῆς Πεισιστράτου μητρὸς ἀνεψιὰν γενέσθαι . καὶ φιλία τὸ πρῶτον ἦν αὐτοῖς πολλὴ μὲν διὰ τὴν συγγένειαν , πολλὴ δὲ διὰ τὴν εὐφυΐαν καὶ ὥραν , ὡς ἔνιοί φασιν , ἐρωτικῶς τὸν Πεισίστρατον ἀσπαζομένου τοῦ Σόλωνος . ὅθεν ὕστερον , ὡς ἔοικεν , εἰς διαφορὰν αὐτῶν ἐν τῇ πολιτείᾳ καταστάντων οὐδὲν ἤνεγκεν ἡ ἔχθρα σκληρὸν οὐδʼ ἄγριον πάθος , ἀλλὰ παρέμεινεν ἐκεῖνα τὰ δίκαια ταῖς ψυχαῖς , καὶ παρεφύλαξε , τυφόμενα Δίου πυρὸς ἔτι ζῶσαν φλόγα , Eur. Ba. 8 τὴν ἐρωτικὴν μνήμην καὶ χάριν .",
+      "translation": "Solon ’ s mother , according to Heracleides Ponticus , was a cousin of the mother of Peisistratus . And the two men were at first great friends , largely because of their kinship , and largely because of the youthful beauty of Peisistratus , with whom , as some say , Solon was passionately in love . And this may be the reason why , in later years , when they were at variance about matters of state , their enmity did not bring with it any harsh or savage feelings , but their former amenities lingered in their spirits , and preserved there , smouldering with a lingering flame of Zeus-sent fire , [*] the grateful memory of their love ."
+    },
+    {
+      "id": "2.1",
+      "label": "Section 2.1",
+      "chapter": null,
+      "original": "ὁ δʼ οὖν Σόλων τὴν οὐσίαν τοῦ πατρὸς ἐλαττώσαντος εἰς φιλανθρωπίας τινάς , ὥς φησιν Ἕρμιππος , καὶ χάριτας , οὐκ ἂν ἀπορήσας τῶν βουλομένων ἐπαρκεῖν , αἰδούμενος δὲ λαμβάνειν παρʼ ἑτέρων ἐξ οἰκίας γεγονὼς εἰθισμένης ἑτέροις βοηθεῖν , ὥρμησε νέος ὢν ἔτι πρὸς ἐμπορίαν . καίτοι φασὶν ἔνιοι πολυπειρίας ἕνεκα μᾶλλον καὶ ἱστορίας ἢ χρηματισμοῦ πλανηθῆναι τὸν Σόλωνα .",
+      "translation": "Solon , then , after his father had impaired his estate in sundry benevolent charities , as Hermippus tells us , might have found friends enough who were willing to aid him . But he was ashamed to take from others , since he belonged to a family which had always helped others , and therefore , while still a young man , embarked in commerce . And yet some say that he travelled to get experience and learning rather than to make money ."
+    },
+    {
+      "id": "2.2",
+      "label": "Section 2.2",
+      "chapter": null,
+      "original": "σοφίας μὲν γὰρ ἦν ὁμολογουμένως ἐραστής , ὅς γε καὶ πρεσβύτερος ὢν ἔλεγε γηράσκειν αἰεὶ πολλὰ διδασκόμενος · [*] πλοῦτον δʼ οὐκ ἐθαύμαζεν , ἀλλὰ καί φησιν ὁμοίως πλουτεῖν ᾧ τε [*]\nπολὺς ἄργυρός ἐστι καὶ χρυσὸς καὶ γῆς πυροφόρου πεδία ἵπποι θʼ ἡμίονοί τε , καὶ ᾧ μόνα ταῦτα πάρεστι , γαστρί τε καὶ πλευρῇ καὶ ποσὶν ἁβρὰ παθεῖν , παιδός τʼ ἠδὲ γυναικός , ἐπὴν καὶ ταῦτʼ ἀφίκηται , ἥβη , σὺν δʼ ὥρη γίνεται ἁρμοδία .\nSolon, Frag. 24. 1-6 (Bergk)",
+      "translation": "For he was admittedly a lover of wisdom , since even when he was well on in years he would say that he grew old ever learning many things ; and he was not an admirer of wealth , but actually says that two men are alike wealthy of whom one\nmuch silver hath , And gold , and wide domains of wheat-bearing soil , Horses and mules ; while to the other only enough belongs To give him comfort of food , and clothes , and shoes , Enjoyment of child and blooming wife , when these too come , And only years commensurate therewith are his .\n[*]"
+    },
+    {
+      "id": "3.1",
+      "label": "Section 3.1",
+      "chapter": null,
+      "original": "τὸ δʼ οὖν εὐδάπανον τῷ Σόλωνι καὶ ὑγρὸν πρὸς τὴν δίαιταν , καὶ τὸ φορτικώτερον ἢ φιλοσοφώτερον ἐν τοῖς ποιήμασι διαλέγεσθαι περὶ τῶν ἡδονῶν , τὸν ἐμπορικὸν οἴονται βίον προστετρῖφθαι · πολλοὺς γὰρ ἔχοντα κινδύνους καὶ μεγάλους ἀνταπαιτεῖν πάλιν εὐπαθείας τινὰς καὶ ἀπολαύσεις .",
+      "translation": "Accordingly it Solon ’ s way of living was expensive and profuse and if in his poems , he speaks of pleasure with more freedom than becomes a philosopher , this is thought to be due to his mercantile life ; he encountered manly and great dangers , and sought his reward therefor in sundry luxuries and enjoyments ."
+    },
+    {
+      "id": "3.2",
+      "label": "Section 3.2",
+      "chapter": null,
+      "original": "ὅτι δʼ αὑτὸν ἐν τῇ τῶν πενήτων μερίδι μᾶλλον ἢ τῇ τῶν πλουσίων ἔταττε , δῆλόν ἐστιν ἐκ τούτων ·\nπολλοὶ γὰρ πλουτεῦσι κακοί , ἀγαθοὶ δὲ πένονται · ἀλλʼ ἡμεῖς αὐτοῖς οὐ διαμειψόμεθα τῆς ἀρετῆς τὸν πλοῦτον · ἐπεὶ τὸ μὲν ἔμπεδον αἰεί , χρήματα δʼ ἀνθρώπων ἄλλοτε ἄλλος ἔχει .\nSolon, Frag. 15 (Bergk)",
+      "translation": "But that he classed himself among the poor rather than the rich , is clear from these verses :— [*]\nFor often evil men are rich , and good men poor ; But we will not exchange with them Our virtue for their wealth since one abides always , While riches change their owners every day ."
+    },
+    {
+      "id": "4.1",
+      "label": "Section 4.1",
+      "chapter": null,
+      "original": "γενέσθαι δὲ μετʼ ἀλλήλων ἔν τε Δελφοῖς ὁμοῦ λέγονται καὶ πάλιν ἐν Κορίνθῳ , Περιάνδρου σύλλογόν τινα κοινὸν αὐτῶν καὶ συμπόσιον κατασκευάσαντος . ἔτι δὲ μᾶλλον εἰς ἀξίωμα καὶ δόξαν αὐτοὺς κατέστησεν ἡ τοῦ τρίποδος περίοδος καὶ διὰ πάντων ἀνακύκλησις καὶ ἀνθύπειξις μετʼ εὐμενείας φιλοτίμου γενομένη .",
+      "translation": "They are all said to have met together at Delphi , and again in Corinth , where Periander arranged something like a joint conference for them , and a banquet . But what contributed still more to their honor and fame was the circuit which the tripod made among them , its passing round through all their hands , and their mutual declination of it , with generous expressions of good will ."
+    },
+    {
+      "id": "4.2",
+      "label": "Section 4.2",
+      "chapter": null,
+      "original": "Κῴων γάρ , ὥς φασι , καταγόντων σαγήνην , καὶ ξένων ἐκ Μιλήτου πριαμένων τὸν βόλον οὔπω φανερὸν ὄντα , χρυσοῦς ἐφάνη τρίπους ἑλκόμενος , ὃν λέγουσιν Ἑλένην πλέουσαν ἐκ Τροίας αὐτόθι καθεῖναι χρησμοῦ τινος ἀναμνησθεῖσαν παλαιοῦ . γενομένης δὲ τοῖς ξένοις πρῶτον ἀντιλογίας πρὸς τοὺς ἁλιέας περὶ τοῦ τρίποδος , εἶτα τῶν πόλεων ἀναδεξαμένων τὴν διαφορὰν ἄχρι πολέμου προελθοῦσαν , ἀνεῖλεν ἀμφοτέροις ἡ Πυθία τῷ σοφωτάτῳ τὸν τρίποδα ἀποδοῦναι .",
+      "translation": "Some Coans , as the story goes , were dragging in a net , and some strangers from Miletus bought the catch as yet unseen . It proved to contain a golden tripod which Helen , on her voyage from Troy , is said to have thrown in there , when she called to mind a certain ancient oracle . First the strangers had a dispute with the fishermen about the tripod , and then their cities took up the quarrel and went at last to war , whereupon the Pythian priestess of Apollo told both parties in an oracle that the tripod must be given to the wisest man ."
+    },
+    {
+      "id": "5.1",
+      "label": "Section 5.1",
+      "chapter": null,
+      "original": "ἰδίᾳ δʼ Ἀναχάρσεώς τε πρὸς Σόλωνα καὶ πάλιν Θάλεω συνουσίαν τινὰ καὶ λόγους ἀναγράφουσι τοιούτους . Ἀνάχαρσιν μὲν εἰς Ἀθήνας φασὶν ἐπὶ τὴν Σόλωνος οἰκίαν ἐλθόντα κόπτειν , καὶ λέγειν ὡς ξένος ὢν ἀφῖκται φιλίαν ποιησόμενος καὶ ξενίαν πρὸς αὐτόν . ἀποκριναμένου δὲ τοῦ Σόλωνος ὡς οἴκοι βέλτιόν ἐστι ποιεῖσθαι φιλίας , οὐκοῦν , φάναι τὸν Ἀνάχαρσιν , αὐτὸς ὢν οἴκοι σὺ ποίησαι φιλίαν καὶ ξενίαν πρὸς ἡμᾶς .",
+      "translation": "In particular we are told of private intercourse between Solon and Anacharsis , and between Solon and Thales , of which the following accounts are given . [*] Anacharsis came to Athens , knocked at Solon ’ s door , and said that he was a stranger who had come to make ties of friendship and hospitality with him . On Solon ’ s replying that it was better to make one ’ s friendships at home , Well then , said Anacharsis , do thou , who art at home , make me thy friend and guest ."
+    },
+    {
+      "id": "5.2",
+      "label": "Section 5.2",
+      "chapter": null,
+      "original": "οὕτω δὴ θαυμάσαντα τὴν ἀγχίνοιαν τοῦ ἀνδρὸς τὸν Σόλωνα δέξασθαι φιλοφρόνως , καὶ χρόνον τινὰ κατασχεῖν παρʼ αὑτῷ , ἤδη τὰ δημόσια πράττοντα καὶ συνταττόμενον τοὺς νόμους . τὸν οὖν Ἀνάχαρσιν πυθόμενον καταγελᾶν τῆς πραγματείας τοῦ Σόλωνος , οἰομένου γράμμασιν ἐφέξειν τὰς ἀδικίας καὶ πλεονεξίας τῶν πολιτῶν , ἃ μηδὲν τῶν ἀραχνίων διαφέρειν , ἀλλʼ ὡς ἐκεῖνα τοὺς μὲν ἀσθενεῖς καὶ λεπτοὺς τῶν ἁλισκομένων καθέξειν , ὑπὸ δὲ τῶν δυνατῶν καὶ πλουσίων διαρραγήσεσθαι .",
+      "translation": "So Solon , admiring the man ’ s ready wit , received him graciously and kept him with him some time . This was when he was already engaged in public affairs and compiling his laws . Anacharsis , accordingly , on learning what Solon was about , laughed at him for thinking that he could check the injustice and rapacity of the citizens by written laws , which were just like spiders ’ webs ; they would hold the weak and delicate who might be caught in their meshes , but would be torn in pieces by the rich and powerful ."
+    },
+    {
+      "id": "6.1",
+      "label": "Section 6.1",
+      "chapter": null,
+      "original": "πρὸς Θαλῆν δʼ εἰς Μίλητον ἐλθόντα τὸν Σόλωνα θαυμάζειν ὅτι γάμου καὶ παιδοποιΐας τὸ παράπαν ἠμέληκε . καὶ τὸν Θαλῆν τότε μὲν σιωπῆσαι , διαλιπόντα δʼ ὀλίγας ἡμέρας ἄνδρα παρασκευάσαι ξένον , ἀρτίως ἥκειν φάσκοντα δεκαταῖον ἐξ Ἀθηνῶν . πυθομένου δὲ τοῦ Σόλωνος εἰ δή τι καινὸν ἐν ταῖς Ἀθήναις , δεδιδαγμένον ἃ χρὴ λέγειν τὸν ἄνθρωπον , οὐδέν , εἰπεῖν , ἕτερον , εἰ μὴ νὴ Δία νεανίσκου τινὸς ἦν ἐκφορὰ καὶ προὔπεμπεν ἡ πόλις .",
+      "translation": "On his visit to Thales at Miletus , Solon is said to have expressed astonishment that his host was wholly indifferent to marriage and the getting of children . At the time Thales made no answer , but a few days afterwards he contrived to have a stranger say that he was just arrived after a ten days ’ journey from Athens . When Solon asked what news there was at Athens , the man , who was under instructions what to say , answered : None other than the funeral of a young man , who was followed to the grave by the whole city ."
+    },
+    {
+      "id": "6.2",
+      "label": "Section 6.2",
+      "chapter": null,
+      "original": "ἦν γὰρ υἱός , ὡς ἔφασαν , ἀνδρὸς ἐνδόξου καὶ πρωτεύοντος ἀρετῇ τῶν πολιτῶν · οὐ παρῆν δέ , ἀλλʼ ἀποδημεῖν ἔφασαν αὐτὸν ἤδη πολὺν χρόνον . ὡς δυστυχὴς ἐκεῖνος , φάναι τὸν Σόλωνα . τίνα δὲ ὠνόμαζον αὐτόν ; ἤκουσα , φάναι , τοὔνομα , τὸν ἄνθρωπον , ἀλλʼ οὐ μνημονεύω · πλὴν ὅτι πολὺς λόγος ἦν αὐτοῦ σοφίας καὶ δικαιοσύνης . οὕτω δὴ καθʼ ἑκάστην ἀπόκρισιν τῷ φόβῳ προσαγόμενον τὸν Σόλωνα καὶ τέλος ἤδη συντεταραγμένον αὐτὸν ὑποβάλλειν τοὔνομα τῷ ξένῳ , πυνθανόμενον μὴ Σόλωνος ὁ τεθνηκὼς υἱὸς ὠνομάζετο .",
+      "translation": "For he was the son , as I was told , of an honored citizen who excelled all others in virtue ; he was not at the funeral of his son ; they told me that he had been travelling abroad for a long time . O the miserable man ! said Solon ; pray , what was his name ? I heard the name , the man said , but I cannot recall it ; only there was great talk of his wisdom and justice . Thus every answer heightened Solon ’ s fears , and at last , in great distress of soul , he told his name to the stranger and asked him if it was Solon ’ s son that was dead ."
+    },
+    {
+      "id": "7.1",
+      "label": "Section 7.1",
+      "chapter": null,
+      "original": "ἄτοπος δὲ καὶ ἀγεννὴς ὁ τῷ φόβῳ τῆς ἀποβολῆς τὴν κτῆσιν ὧν χρὴ προϊέμενος · οὕτω γὰρ ἄν τις οὐ πλοῦτον , οὐ δόξαν , οὐ σοφίαν ἀγαπήσειε παραγενομένην , δεδιὼς στέρεσθαι . καὶ γὰρ ἀρετήν , ἧς κτῆμα μεῖζον οὐδὲν οὐδʼ ἥδιον , ἐξισταμένην ὑπὸ νόσων καὶ φαρμάκων ὁρῶμεν · αὐτῷ τε Θαλῇ μὴ γήμαντι πλέον οὐδὲν εἰς ἀφοβίαν , εἰ μὴ καὶ φίλων κτῆσιν ἔφυγε καὶ οἰκείων καὶ πατρίδος .",
+      "translation": "However , it is irrational and ignoble to renounce the acquisition of what we want for fear of losing it ; for on this principle a man cannot be gratified by the possession of wealth , or honor , or wisdom , for fear he may be deprived of them . Indeed , even virtue , the most valuable and pleasing possession in the world , is often banished by sickness and drugs . And Thales himself , though unmarried , was nevertheless not wholly free from apprehension , unless he also avoided having friends , or relations , or country ."
+    },
+    {
+      "id": "7.2",
+      "label": "Section 7.2",
+      "chapter": null,
+      "original": "ἀλλὰ καὶ παῖδα θετὸν ἔσχε ποιησάμενος αὐτὸς τὸν τῆς ἀδελφῆς , ὥς φασι , Κύβισθον . ἐχούσης γάρ τι τῆς ψυχῆς ἀγαπητικὸν ἐν ἑαυτῇ καὶ πεφυκυίας , ὥσπερ αἰσθάνεσθαι καὶ διανοεῖσθαι καὶ μνημονεύειν , οὕτω καὶ φιλεῖν , ἐνδύεταί τι τούτῳ καὶ προσφύεται τῶν ἐκτὸς οἷς οἰκεῖον οὐδέν ἐστιν , καὶ καθάπερ οἶκον ἢ χώραν γνησίων ἔρημον διαδόχων , τὸ φιλόστοργον ἀλλότριοι καὶ νόθοι παῖδες ἢ θεράποντες εἰσοικισάμενοι καὶ καταλαβόντες ἅμα τῷ φιλεῖν τὸ φροντίζειν καὶ δεδιέναι περὶ αὐτῶν ἐνεποίησαν .",
+      "translation": "On the contrary , he had a son by his own adoption , as we are told , Cybisthus , his sister ’ s son . For the soul has in itself a capacity for affection , and loves just as naturally as it perceives , understands , and remembers . It clothes itself in this capacity , and attaches itself to those who are not akin to it , and just as if it were a house or an estate that lacks lawful heirs , this craving for affection is entered and occupied by alien and illegitimate children , or retainers , who , along with love for them , inspire anxiety and fear in their behalf ."
+    },
+    {
+      "id": "8.1",
+      "label": "Section 8.1",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ μακρόν τινα καὶ δυσχερῆ πόλεμον οἱ ἐν ἄστει περὶ τῆς Σαλαμινίων νήσου Μεγαρεῦσι πολεμοῦντες ἐξέκαμον , καὶ νόμον ἔθεντο μήτε γράψαι τινὰ μήτʼ εἰπεῖν αὖθις ὡς χρὴ τὴν πόλιν ἀντιποιεῖσθαι τῆς Σαλαμῖνος , ἢ θανάτῳ ζημιοῦσθαι , βαρέως φέρων τὴν ἀδοξίαν ὁ Σόλων , καὶ τῶν νέων ὁρῶν πολλοὺς δεομένους ἀρχῆς ἐπὶ τὸν πὸλεμον , αὐτοὺς δὲ μὴ θαρροῦντας ἄρξασθαι διὰ τὸν νόμον , ἐσκήψατο μὲν ἔκστασιν τῶν λογισμῶν ,",
+      "translation": "Once when the Athenians were tired out with a war which they were waging against the Megarians for the island of Salamis , they made a law that no one in future , on pain of death , should move , in writing or orally , that the city take up its contention for Salamis . Solon could not endure the disgrace of this , and when he saw that many of the young men wanted steps taken to bring on the war , but did not dare to take those steps themselves on account of the law , he pretended to be out of his head ,"
+    },
+    {
+      "id": "8.2",
+      "label": "Section 8.2",
+      "chapter": null,
+      "original": "καὶ λόγος εἰς τὴν πόλιν ἐκ τῆς οἰκίας διεδόθη παρακινητικῶς ἔχειν αὐτόν , ἐλεγεῖα δὲ κρύφα συνθεὶς καὶ μελετήσας ὥστε λέγειν ἀπὸ στόματος , ἐξεπήδησεν εἰς τὴν ἀγορὰν ἄφνω πιλίδιον περιθέμενος . ὄχλου δὲ πολλοῦ συνδραμόντος ἀναβὰς ἐπὶ τὸν τοῦ κήρυκος λίθον ἐν ᾠδῇ διεξῆλθε τὴν ἐλεγείαν , ἧς ἐστιν ἀρχή ·\nαὐτὸς κῆρυξ ἦλθον ἀφʼ ἱμερτῆς Σαλαμῖνος , κόσμον ἐπέων ᾠδὴν ἀντʼ ἀγορῆς θέμενος .\nSolon, Frag. 1 (Bergk)",
+      "translation": "and a report was given out to the city by his family that he showed signs of madness . He then secretly composed some elegiac verses , and after rehearsing them so that he could say them by rote , he sallied out into the market-place of a sudden , with a cap upon his head . After a large crowd had collected there , he got upon the herald ’ s stone and recited the poem which begins :—\nBehold in me a herald come from lovely Salamis , With a song in ordered verse instead of a harangue .\n[*]"
+    },
+    {
+      "id": "9.1",
+      "label": "Section 9.1",
+      "chapter": null,
+      "original": "ἄλλοι δέ φασιν οὐ τοῦτον τὸν τρόπον γενέσθαι τὴν κατάληψιν , ἀλλὰ πρῶτον μὲν αὐτῷ τὸν ἐν Δελφοῖς θεὸν χρῆσαι ·\nἀρχηγοὺς χώρας θυσίαις ἥρωας ἐνοίκους ἵλασο , τοὺς κόλποις Ἀσωπιὰς ἀμφικαλύπτει , οἳ φθίμενοι δέρκονται ἐς ἠέλιον δύνοντα ·\nτὸν δὲ Σόλωνα διαπλεύσαντα νυκτὸς εἰς τὴν νῆσον ἐντεμεῖν σφάγια Περιφήμῳ καὶ Κυχρεῖ τοῖς ἥρωσιν .",
+      "translation": "Others , however , say that the island was not taken in his way , but that Solon first received this oracle from the god at Delphi :—\nThe tutelary heroes of the land where once they lived , with sacred rites Propitiate , whom the Asopian plain now hides in its bosom ; There they lie buried with their faces toward the setting sun .\nThereupon Solon sailed by night to the island and made sacrifices to the heroes Periphemus and Cychreus ."
+    },
+    {
+      "id": "9.2",
+      "label": "Section 9.2",
+      "chapter": null,
+      "original": "εἶτα παρὰ τῶν Ἀθηναίων ἐθελοντὰς λαβεῖν πεντακοσίους , δόγματος γενομένου τούτους , ἄν κατασχῶσι τὴν νῆσον , κυρίους εἶναι τοῦ πολιτεύματος . ἀναχθέντα δὲ συχναῖς ἁλιάσιν ἅμα τριακοντόρου συμπαραπλεούσης ὑφορμίσασθαι τῇ Σαλαμῖνι κατὰ χηλήν τινα πρὸς τὴν Εὔβοιαν [*] ἀποβλέπουσαν . πυθομένους δὲ τοὺς ἐν Σαλαμῖνι Μεγαρεῖς ἔκ τινος φήμης οὐδὲν βέβαιον , αὐτοὺς μὲν εἰς τὰ ὅπλα θορυβουμένους βαδίζειν , ναῦν δʼ ἀποστεῖλαι κατασκεψομένην τῶν πολεμίων ·",
+      "translation": "Then he took five hundred Athenian volunteers , a decree having been made that these should be supreme in the government of the island if they took it , and setting sail with a number of fishing boats convoyed by a thirty-oared ship , he anchored off the island of Salamis , at a point of land looking towards Euboea . But the Megarians in the city of Salamis , hearing only an uncertain report of what had happened , armed themselves hurriedly and set out for the place , at the same time dispatching a ship to spy out the enemy ."
+    },
+    {
+      "id": "10.1",
+      "label": "Section 10.1",
+      "chapter": null,
+      "original": "οὐ μὴν ἀλλὰ τῶν Μεγαρέων ἐπιμενόντων πολλὰ κακὰ καὶ δρῶντες ἐν τῷ πολέμῳ καὶ πάσχοντες , ἐποιήσαντο Λακεδαιμονίους διαλλακτὰς καὶ δικαστάς . οἱ μὲν οὖν πολλοὶ τῷ Σόλωνι συναγωνίσασθαι λέγουσι τὴν Ὁμήρου δόξαν · ἐμβαλόντα γὰρ αὐτὸν ἔπος εἰς νεῶν κατάλογον ἐπὶ τῆς δίκης ἀναγνῶναι ·\nΑἴας δʼ ἐκ Σαλαμῖνος ἄγεν δυοκαίδεκα νῆας , στῆσε δʼ ἄγων ἵνʼ Ἀθηναίων ἵσταντο φάλαγγες .\nHom. Il. 2.557-558",
+      "translation": "Notwithstanding all this , the Megarians persisted in their opposition , and both sides inflicted and suffered many injuries in the war , so that finally they made the Lacedaemonians arbiters and judges of the strife . Accordingly , most writers say that the fame of Homer favoured the contention of Solon ; for after himself inserting a verse into the Catalogue of Ships , he read the passage at the trial thus :—\nAjax from Salamis brought twelve ships , And bringing , stationed them near the Athenian hosts .\n[*]"
+    },
+    {
+      "id": "10.2",
+      "label": "Section 10.2",
+      "chapter": null,
+      "original": "αὐτοὶ δʼ Ἀθηναῖοι ταῦτα μὲν οἴονται φλυαρίαν εἶναι , τὸν δὲ Σόλωνά φασιν ἀποδεῖξαι τοῖς δικασταῖς ὅτι Φιλαῖος καὶ Εὐρυσάκης , Αἴαντος υἱοί , Ἀθήνησι πολιτείας μεταλαβόντες παρέδοσαν τὴν νῆσον αὐτοῖς , καὶ κατῴκησαν ὁ μὲν ἐν Βραυρῶνι τῆς Ἀττικῆς , ὁ δὲ ἐν Μελίτῃ · καὶ δῆμον ἐπώνυμον Φιλαίου τῶν Φιλαϊδῶν ἔχουσιν , ὅθεν ἦν Πεισίστρατος .",
+      "translation": "The Athenians themselves , however , think this an idle tale and say that Solon proved to the judges that Philaeus and Eurysaces , the sons of Ajax , became citizens of Athens , made over their island to them , and took up their residence in Attica , one at Brauron , and the other at Melite ; and they have a township named after Philaeus , namely Philaidae , to which Peisistratus belonged ."
+    },
+    {
+      "id": "11.2",
+      "label": "Section 11.2",
+      "chapter": null,
+      "original": "οὐ μέντοι στρατηγὸς ἐπὶ τοῦτον ἀπεδείχθη τὸν πόλεμον , ὡς λέγειν φησὶν Ἕρμιππος Εὐάνθη τὸν Σάμιον · οὔτε γὰρ Αἰσχίνης ὁ ῥήτωρ τοῦτʼ εἴρηκεν , ἔν τε τοῖς Δελφῶν ὑπομνήμασιν Ἀλκμαίων , οὐ Σόλων , Ἀθηναίων στρατηγὸς ἀναγέγραπται .",
+      "translation": "He was not , however , appointed general for this war , as Evanthes the Samian says ( according to Hermippus ), for Aeschines the orator makes no such statement , [*] and in the records of Delphi it is stated that Alcmaeon , and not Solon , commanded the Athenians ."
+    },
+    {
+      "id": "12.1",
+      "label": "Section 12.1",
+      "chapter": null,
+      "original": "τὸ δὲ Κυλώνειον ἄγος ἤδη μὲν ἐκ πολλοῦ διετάραττε τὴν πόλιν , ἐξ οὗ τοὺς συνωμότας τοῦ Κύλωνος ἱκετεύοντας τὴν θεὸν Μεγακλῆς ὁ ἄρχων ἐπὶ δίκῃ κατελθεῖν ἔπεισεν · ἐξάψαντας δὲ τοῦ ἕδους κρόκην κλωστὴν καὶ ταύτης ἐχομένους , ὡς ἐγένοντο περὶ τὰς σεμνὰς θεὰς καταβαίνοντες , αὐτομάτως τῆς κρόκης ῥαγείσης , ὥρμησε συλλαμβάνειν ὁ Μεγακλῆς καὶ οἱ συνάρχοντες , ὡς τῆς θεοῦ τὴν ἱκεσίαν ἀπολεγομένης · καὶ τοὺς μὲν ἔξω κατέλευσαν , οἱ δὲ τοῖς βωμοῖς προσφυγόντες ἀπεσφάγησαν · μόνοι δʼ ἀφείθησαν οἱ τὰς γυναῖκας αὐτῶν ἱκετεύσαντες .",
+      "translation": "Now the Cylonian pollution had for a long time agitated the city , ever since Megacles the archon had persuaded Cylon and his fellow conspirators , who had taken sanctuary in the temple of Athena , to come down and stand their trial . [*] They fastened a braided thread to the image of the goddess and kept hold of it , but when they reached the shrine of the Erinyes on their way down , the thread broke of its own accord , upon which Megacles and his fellow-archons rushed to seize them , on the plea that the goddess refused them the rights of suppliants . Those who were outside of sacred precincts were stoned to death , and those who took refuge at the altars were slaughtered there ; only those were spared who made supplication to the wives of the archons ."
+    },
+    {
+      "id": "12.2",
+      "label": "Section 12.2",
+      "chapter": null,
+      "original": "ἐκ τούτου δὲ κληθέντες ἐναγεῖς ἐμισοῦντο · καὶ τῶν Κυλωνείων οἱ περιγενόμενοι πάλιν ἦσαν ἰσχυροί , καὶ στασιάζοντες ἀεὶ διετέλουν πρὸς τοὺς ἀπὸ τοῦ Μεγακλέους . ἐν δὲ τῷ τότε χρόνῳ τῆς στάσεως ἀκμὴν λαβούσης μάλιστα καὶ τοῦ δήμου διαστάντος , ἤδη δόξαν ἔχων ὁ Σόλων παρῆλθεν εἰς μέσον ἅμα τοῖς ἀρίστοις τῶν Ἀθηναίων , καὶ δεόμενος καὶ διδάσκων ἔπεισε τοὺς ἐναγεῖς λεγομένους δίκην ὑποσχεῖν καὶ κριθῆναι τριακοσίων ἀριστίνδην δικαζόντων .",
+      "translation": "Therefore the archons were called polluted men and were held in execration . The survivors of the followers of Cylon also recovered strength , and were forever at variance with the descendants of Megacles . At this particular time the quarrel was at its height and the people divided between the two factions . Solon , therefore , being now in high repute , interposed between them , along with the noblest of the Athenians , and by his entreaties and injunctions persuaded the men who were held to be polluted to submit to a trial , and to abide by the decision of three hundred jurors selected from the nobility ."
+    },
+    {
+      "id": "13.1",
+      "label": "Section 13.1",
+      "chapter": null,
+      "original": "οἱ δʼ Ἀθηναῖοι τῆς Κυλωνείου πεπαυμένης ταραχῆς καὶ μεθεστώτων , ὥσπερ εἴρηται , τῶν ἐναγῶν , τὴν παλαιᾶν αὖθις στάσιν ὑπὲρ τῆς πολιτείας ἐστασίαζον , ὅσας ἡ χώρα διαφορὰς εἶχεν , εἰς τοσαῦτα μέρη τῆς πόλεως διαστάσης . ἦν γὰρ τὸ μὲν τῶν Διακρίων γένος δημοκρατικώτατον , ὀλιγαρχικώτατον δὲ τὸ τῶν Πεδιέων · τρίτοι δʼ οἱ Πάραλοι μέσον τινὰ καὶ μεμιγμένον αἱρούμενοι πολιτείας τρόπον , ἐμποδὼν ἦσαν καὶ διεκώλυον τοὺς ἑτέρους κρατῆσαι .",
+      "translation": "But the Athenians , now that the Cylonian disturbance was over and the polluted persons banished , as described , [*] relapsed into their old disputes about the form of government , the city being divided into as many parties as there were diversities in its territory . The Hill-men favoured an extreme democracy ; the Plain-men an extreme oligarchy ; the Shore-men formed a third party , [*] which preferred an intermediate and mixed form of government , was opposed to the other two , and prevented either from gaining the ascendancy ."
+    },
+    {
+      "id": "13.2",
+      "label": "Section 13.2",
+      "chapter": null,
+      "original": "τότε δὲ τῆς τῶν πενήτων πρὸς τοὺς πλουσίους ἀνωμαλίας ὥσπερ ἀκμὴν λαβούσης παντάπασιν ἐπισφαλῶς ἡ πόλις διέκειτο , καὶ μόνως ἂν ἐδόκει καταστῆναι καὶ παύσασθαι ταραττομένη τυραννίδος γενομένης . ἅπας μὲν γὰρ ὁ δῆμος ἦν ὑπόχρεως τῶν πλουσίων . ἢ γὰρ ἐγεώργουν ἐκείνοις ἕκτα τῶν γινομένων τελοῦντες , ἑκτημόριοι προσαγορευόμενοι καὶ θῆτες , ἢ χρέα λαμβάνοντες ἐπὶ τοῖς σώμασιν ἀγώγιμοι τοῖς δανείζουσιν ἦσαν , οἱ μὲν αὐτοῦ δουλεύοντες , οἱ δʼ ἐπὶ τὴν ξένην πιπρασκόμενοι .",
+      "translation": "At that time , too , the disparity between the rich and the poor had culminated , as it were , and the city was in an altogether perilous condition ; it seemed as if the only way to settle its disorders and stop its turmoils was to establish a tyranny . All the common people were in debt to the rich . For they either tilled their lands for them , paying them a sixth of the increase ( whence they were called Hectemoiroi and Thetes ), or else they pledged their persons for debts and could be seized by their creditors , some becoming slaves at home , and others being sold into foreign countries ."
+    },
+    {
+      "id": "14.1",
+      "label": "Section 14.1",
+      "chapter": null,
+      "original": "ἐνταῦθα δὴ τῶν Ἀθηναίων οἱ φρονιμώτατοι συνορῶντες τὸν Σόλωνα μόνον μάλιστα τῶν ἁμαρτημάτων ἐκτὸς ὄντα , καὶ μήτε τοῖς πλουσίοις κοινωνοῦντα τῆς ἀδικίας μήτε ταῖς τῶν πενήτων ἀνάγκαις ἐνεχόμενον , ἐδέοντο τοῖς κοινοῖς προσελθεῖν καὶ καταπαῦσαι τὰς διαφοράς . καίτοι Φανίας ὁ Λέσβιος αὐτὸν ἱστορεῖ τὸν Σόλωνα , χρησάμενον ἀπάτῃ πρὸς ἀμφοτέρους ἐπὶ σωτηρίᾳ τῆς πόλεως , ὑποσχέσθαι κρύφα τοῖς μὲν ἀπόροις τὴν νέμησιν , τοῖς δὲ χρηματικοῖς βεβαίωσιν τῶν συμβολαίων .",
+      "translation": "At this point , the wisest of the Athenians cast their eyes upon Solon . They saw that he was the one man least implicated in the errors of the time ; that he was neither associated with the rich in their injustice , nor involved in the necessities of the poor . They therefore besought him to come forward publicly and put an end to the prevailing dissensions . And yet Phanias the Lesbian writes that Solon of his own accord played a trick upon both parties in order to save the city , and secretly promised to the poor the distribution of land which they desired , and to the rich , validation of their securities ."
+    },
+    {
+      "id": "14.2",
+      "label": "Section 14.2",
+      "chapter": null,
+      "original": "ἀλλʼ αὐτὸς ὁ Σόλων ὀκνῶν φησι τὸ πρῶτον ἅψασθαι τῆς πολιτείας , καὶ δεδοικὼς τῶν μὲν τὴν φιλοχρηματίαν , τῶν δὲ τὴν ὑπερηφανίαν . ᾑρέθη δὲ ἄρχων μετὰ Φιλόμβροτον ὁμοῦ καὶ διαλλακτὴς καὶ νομοθέτης , δεξαμένων προθύμως αὐτὸν ὡς μὲν εὔπορον τῶν πλουσίων , ὡς δὲ χρηστὸν τῶν πενήτων . λέγεται δὲ καὶ φωνή τις αὐτοῦ περιφερομένη πρότερον , εἰπόντος ὡς τὸ ἴσον πόλεμον οὐ ποιεῖ , καὶ τοῖς κτηματικοῖς ἀρέσκειν καὶ τοῖς ἀκτήμοσι , τῶν μὲν ἀξίᾳ καὶ ἀρετῇ , τῶν δὲ μέτρῳ καὶ ἀριθμῷ τὸ ἴσον ἕξειν προσδοκώντων ·",
+      "translation": "But Solon himself says that he entered public life reluctantly , and fearing one party ’ s greed and the other party ’ s arrogance . [*] However , he was chosen archon [*] to succeed Philombrotus , and made mediator and legislator for the crisis , the rich accepting him readily because he was well-to-do , and the poor because he was honest . It is also said that a certain utterance of his which was current before his election , to the effect that equality bred no war , pleased both the men of substance and those who had none ; the former expecting to have equality based on worth and excellence , the latter on measure and count ."
+    },
+    {
+      "id": "15.1",
+      "label": "Section 15.1",
+      "chapter": null,
+      "original": "ταῦτα τοὺς πολλοὺς καὶ φαύλους περὶ αὐτοῦ πεποίηκε λέγοντας . οὐ μὴν ἀπωσάμενός γε τὴν τυραννίδα τὸν πρᾳότατον ἐχρήσατο τρόπον τοῖς πράγμασιν , οὐδὲ μαλακῶς οὐδʼ ὑπείκων τοῖς δυναμένοις οὐδὲ πρὸς ἡδονὴν τῶν ἑλομένων ἔθετο τοὺς νόμους · ἀλλʼ ᾗ μὲν ἄριστον ἦν , οὐκ ἐπήγαγεν ἰατρείαν οὐδὲ καινοτομίαν , φοβηθεὶς μὴ συγχέας παντάπασι καὶ ταράξας τὴν πόλιν ἀσθενέστερος γένηται τοῦ καταστῆσαι πάλιν καὶ συναρμόσασθαι πρὸς τὸ ἄριστον ·",
+      "translation": "Thus he represents the multitude and men of low degree as speaking of him . However , though he rejected the tyranny , he did not administer affairs in the mildest possible manner , nor in the enactment of his laws did he show a feeble spirit , nor make concessions to the powerful , nor consult the pleasure of his electors . Nay , where a condition was as good as it could well be , he applied no remedy , and introduced no innovation , fearing lest , after utterly confusing and confounding the city , he should be too weak to establish it again and recompose it for the best ."
+    },
+    {
+      "id": "15.2",
+      "label": "Section 15.2",
+      "chapter": null,
+      "original": "ἃ δὲ καὶ λέγων ἤλπιζε πειθομένοις καὶ προσάγων ἀνάγκην ὑπομένουσι χρήσασθαι , ταῦτʼ ἔπραττεν , ὥς φησιν αὐτός , ὁμοῦ βίην τε καὶ δίκην συναρμόσας . [*] Solon, Frag. 36. 14 (Bergk) ὅθεν ὕστερον ἐρωτηθεὶς εἰ τοὺς ἀρίστους Ἀθηναίοις νόμους ἔγραψεν , ὧν ἄν , ἔφη , προσεδέξαντο τοὺς ἀρίστους .\nἃ δʼ οὖ οἱ νεώτεροι τοὺς Ἀθηναίους λέγουσι τὰς τῶν πραγμάτων δυσχερείας ὀνόμασι χρηστοῖς καὶ φιλανθρώποις ἐπικαλύπτοντας ἀστείως ὑποκορίζεσθαι ,",
+      "translation": "But those things wherein he hoped to find them open to persuasion or submissive to compulsion , these he did , Combining both force and justice together , [*] as he says himself . Therefore when he was afterwards asked if he had enacted the best laws for the Athenians , he replied , The best they would receive .\nNow later writers observe that the ancient Athenians used to cover up the ugliness of things with auspicious and kindly terms , giving them polite and endearing names ."
+    },
+    {
+      "id": "16.1",
+      "label": "Section 16.1",
+      "chapter": null,
+      "original": "ἤρεσε δʼ οὐδετέροις , ἀλλʼ ἐλύπησε καὶ τοὺς πλουσίους ἀνελὼν τὰ συμβόλαια , καὶ μᾶλλον ἔτι τοὺς πένητας , ὅτι γῆς ἀναδασμὸν οὐκ ἐποίησεν ἐλπίσασιν αὐτοῖς , οὐδὲ παντάπασιν , ὥσπερ ὁ Λυκοῦργος , ὁμαλοὺς τοῖς βίοις καὶ ἴσους κατέστησεν . ἀλλʼ ἐκεῖνος μὲν ἑνδέκατος ὢν ἀφʼ Ἡρακλέους καὶ βεβασιλευκὼς ἔτη πολλὰ τῆς Λακεδαίμονος , ἀξίωμα μέγα καὶ φίλους καὶ δύναμιν οἷς ἔγνω καλῶς περὶ τῆς πολιτείας ὑπηρετοῦσαν εἶχε , καὶ βίᾳ μᾶλλον ἢ πειθοῖ χρησάμενος , ὥστε καὶ τὸν ὀφθαλμὸν ἐκκοπῆναι , κατειργάσατο τὸ μέγιστον εἰς σωτηρίαν πόλεως καὶ ὁμόνοιαν , μηδένα πένητα μηδὲ πλούσιον εἶναι τῶν πολιτῶν ·",
+      "translation": "He pleased neither party , however ; the rich were vexed because he took away their securities for debt , and the poor still more , because he did not redistribute the land , as they had expected , nor make all men equal and alike in their way of living , as Lycurgus did . But Lycurgus was eleventh in descent from Heracles , and had been king in Lacedaemon for many years . He therefore had great authority , many friends , and power to support his reforms in the commonwealth . He also employed force rather than persuasion , insomuch that he actually lost his eye thereby , [*] and most effectually guaranteed the safety and unanimity of the city by making all its citizens neither poor nor rich ."
+    },
+    {
+      "id": "16.2",
+      "label": "Section 16.2",
+      "chapter": null,
+      "original": "σόλων δὲ τούτου μὲν οὐκ ἐφίκετο τῇ πολιτεία δημοτικὸς ὢν καὶ μέσος , ἐνδεέστερον δὲ τῆς ὑπαρχούσης δυνάμεως οὐδὲν ἔπαξεν , ὁρμώμενος ἐκ μόνου τοῦ βούλεσθαι καὶ πιστεύειν αὐτῷ τοὺς πολίτας . ὅτι δʼ οὖν προσέκρουσε τοῖς πλείστοις ἕτερα προσδοκήσασιν , αὐτὸς εἴρηκε περὶ αὐτῶν , ὡς\nχαῦνα μὲν τότʼ ἐφράσαντο , νῦν δέ μοι χολούμενοι λοξὸν ὀφθαλμοῖς ὁρῶσι πάντες ὥστε δήϊον .\nSolon, Frag. 34 (Bergk) καίτοι φησὶν ὡς , εἴ τις ἄλλος ἔσχε τὴν αὐτὴν δύναμιν ,\nοὐκ ἂν κατέσχε δῆμον , οὐδʼ ἐπαύσατο , πρὶν ἀνταράξας , πῖαρ ἐξεῖλεν γάλα .\n[*] Solon; Aristot. Ath. Pol. 12.5",
+      "translation": "Solon , on the contrary , could not secure this feature in his commonwealth , since he was a man of the people and of modest station ; yet he in no wise acted short of his real power , relying as he did only on the wishes of the citizens and their confidence in him . Nevertheless he gave offence to the greater part of them , who expected different results , as he himself says of them in the lines —\nThen they had extravagant thoughts of me , but now , incensed , All look askance at me , as if I were their foe\n[*] And yet had any other man , he says , acquired the same power ,\nHe had not held the people down , nor made an end Until he had confounded all , and skimmed the cream ."
+    },
+    {
+      "id": "17.1",
+      "label": "Section 17.1",
+      "chapter": null,
+      "original": "πρῶτον μὲν οὖν τοὺς Δράκοντος νόμους ἀνεῖλε πλὴν τῶν φονικῶν ἅπαντας , διὰ τὴν χαλεπότητα καὶ τὸ μέγεθος τῶν ἐπιτιμίων . μία γὰρ ὀλίγου δεῖν ἅπασιν ὥριστο τοῖς ἁμαρτάνουσι ζημία θάνατος , ὥστε καὶ τοὺς ἀργίας ἁλόντας ἀποθνήσκειν , καὶ τοὺς λάχανα κλέψαντας ἢ ὀπώραν ὁμοίως κολάζεσθαι τοῖς ἱεροσύλοις καὶ ἀνδροφόνοις .",
+      "translation": "In the first place , then , he repealed the laws of Draco , all except those concerning homicide [*] because they were too severe and their penalties too heavy . For one penalty was assigned to almost all transgressions , namely death , so that even those convicted of idleness were put to death , and those who stole salad or fruit received the same punishment as those who committed sacrilege or murder ."
+    },
+    {
+      "id": "17.2",
+      "label": "Section 17.2",
+      "chapter": null,
+      "original": "διὸ Δημάδης ὕστερον εὐδοκίμησεν εἰπὼν ὅτι διʼ αἵματος , οὐ διὰ μέλανος , τοὺς νόμους ὁ Δράκων ἔγραψεν . αὐτὸς δʼ ἐκεῖνος , ὥς φασιν , ἐρωτώμενος διὰ τί τοῖς πλείστοις ἀδικήμασι ζημίαν ἔταξε θάνατον , ἀπεκρίνατο τὰ μὲν μικρὰ ταύτης ἄξια νομίζειν , τοῖς δὲ μεγάλοις οὐκ ἔχειν μείζονα .",
+      "translation": "Therefore Demades , in later times , made a hit when he said that Draco ’ s laws were written not with ink , but blood . And Draco himself , they say , being asked why he made death the penalty for most offences , replied that in his opinion the lesser ones deserved it , and for the greater ones no heavier penalty could be found"
+    },
+    {
+      "id": "18.1",
+      "label": "Section 18.1",
+      "chapter": null,
+      "original": "δεύτερον δὲ Σόλων τὰς μὲν ἀρχὰς ἁπάσας , ὥσπερ ἦσαν , τοῖς εὐπόροις ἀπολιπεῖν βουλόμενος , τὴν δʼ ἄλλην μῖξαι πολιτείαν , ἧς ὁ δῆμος οὐ μετεῖχεν , ἔλαβε τὰ τιμήματα τῶν πολιτῶν , καὶ τοὺς μὲν ἐν ξηροῖς ὁμοῦ καὶ ὑγροῖς μέτρα πεντακόσια ποιοῦντας πρώτους ἔταξε καὶ πεντακοσιομεδίμνους προσηγόρευσε · δευτέρους δὲ τοὺς ἵππον τρέφειν δυναμένους ἢ μέτρα ποιεῖν τριακόσια ·",
+      "translation": "In the second place , wishing to leave all the magistracies in the hands of the well-to-do , as they were , but to give the common people a share in the rest of the government , of which they had hitherto been deprived , Solon made an appraisement of the property of the citizens . [*] Those who enjoyed a yearly increase of five hundred measures ( wet and dry ), he placed in the first class , and called them Pentakosiomedimnoi ; the second class was composed of those who were able to keep a horse , or had a yearly increase of three hundred measures ,"
+    },
+    {
+      "id": "18.2",
+      "label": "Section 18.2",
+      "chapter": null,
+      "original": "καὶ τούτους ἱππάδα τελοῦντας ἐκάλουν · ζευγῖται δʼ οἱ τοῦ τρίτου τιμήματος ὠνομάσθησαν , οἷς μέτρον ἦν συναμφοτέρων διακοσίων . οἱ δὲ λοιποὶ πάντες ἐκαλοῦντο θῆτες , οἷς οὐδεμίαν ἄρχειν ἔδωκεν ἀρχήν , ἀλλὰ τῷ συνεκκλησιάζειν καὶ δικάζειν μόνον μετεῖχον τῆς πολιτείας . ὃ κατʼ ἀρχὰς μὲν οὐδέν , ὕστερον δὲ παμμέγεθες ἐφάνη · τὰ γὰρ πλεῖστα τῶν διαφόρων ἐνέπιπτεν εἰς τοὺς δικαστάς . καὶ γὰρ ὅσα ταῖς ἀρχαῖς ἔταξε κρίνειν , ὁμοίως καὶ περὶ ἐκείνων εἰς τὸ δικαστήριον ἐφέσεις ἔδωκε τοῖς βουλομένοις .",
+      "translation": "and they were called Hippada Telountes , since they paid a Knight ’ s tax ; the members of the third class , whose yearly increase amounted to two hundred measures ( wet and dry together ), were called Zeugitai . All the rest were called Thetes , they were not allowed to hold any office , but took part in the administration only as members of the assembly and as jurors . This last privilege seemed at first of no moment , but afterwards proved to be of the very highest importance , since most disputes finally came into the hands of these jurors . For even in cases which Solon assigned to the magistrates for decision , he allowed also an appeal to a popular court when any one desired it ."
+    },
+    {
+      "id": "19.1",
+      "label": "Section 19.1",
+      "chapter": null,
+      "original": "συστησάμενος δὲ τὴν ἐν Ἀρείῳ πάγῳ βουλὴν ἐκ τῶν κατʼ ἐνιαυτὸν ἀρχόντων , ἧς διὰ τὸ ἄρξαι καὶ αὐτὸς μετεῖχεν , ἔτι δʼ ὁρῶν τὸν δῆμον οἰδοῦντα καὶ θρασυνόμενον τῇ τῶν χρεῶν ἀφέσει , δευτέραν προσκατένειμε βουλήν , ἀπὸ φυλῆς ἑκάστης , τεττάρων οὐσῶν , ἑκατὸν ἄνδρας ἐπιλεξάμενος , οὓς προβουλεύειν ἔταξε τοῦ δήμου καὶ μηδὲν ἐᾶν ἀπροβούλευτον εἰς ἐκκλησίαν εἰσφέρεσθαι .",
+      "translation": "After he had established the council of the Areiopagus , consisting of those who had been archons year by year ( and he himself was a member of this body since he had been archon ), he observed that the common people were uneasy and bold in consequence of their release from debt , and therefore established another council besides , consisting of four hundred men , one hundred chosen from each of the four tribes . [*] These were to deliberate on public matters before the people did , and were not to allow any matter to come before the popular assembly without such previous deliberation ."
+    },
+    {
+      "id": "19.2",
+      "label": "Section 19.2",
+      "chapter": null,
+      "original": "τὴν δʼ ἄνω βουλὴν ἐπίσκοπον πάντων καὶ φύλακα τῶν νόμων ἐκάθισεν , οἰόμενος ἐπὶ δυσὶ βουλαῖς ὥσπερ ἀγκύραις ὁρμοῦσαν ἧττον ἐν σάλῳ τὴν πόλιν ἔσεσθαι καὶ μᾶλλον ἀτρεμοῦντα τὸν δῆμον παρέξειν .\nοἱ μὲν οὖν πλεῖστοι τὴν ἐξ Ἀρείου πάγου βουλήν , ὥσπερ εἴρηται , Σόλωνα συστήσασθαί φασι · καὶ μαρτυρεῖν αὐτοῖς δοκεῖ μάλιστα τὸ μηδαμοῦ τὸν Δράκοντα λέγειν μηδʼ ὀνομάζειν Ἀρεοπαγίτας , ἀλλὰ τοῖς ἐφέταις ἀεὶ διαλέγεσθαι περὶ τῶν φονικῶν .",
+      "translation": "Then he made the upper council a general overseer in the state , and guardian of the laws , thinking that the city with its two councils , riding as it were at double anchor , would be less tossed by the surges , and would keep its populace in greater quiet .\nNow most writers say that the council of the Areiopagus , as I have stated , was established by Solon . And their view seems to be strongly supported by the fact that Draco nowhere makes any mention whatsoever of Areiopagites , but always addresses himself to the ephetai in cases of homicide ."
+    },
+    {
+      "id": "20.1",
+      "label": "Section 20.1",
+      "chapter": null,
+      "original": "τῶν δʼ ἄλλων αὐτοῦ νόμων ἴδιος μὲν μάλιστα καὶ παράδοξος ὁ κελεύων ἄτιμον εἶναι τὸν ἐν στάσει μηδετέρας μερίδος γενόμενον . βούλεται δʼ , ὡς ἔοικε , μὴ ἀπαθῶς μηδʼ ἀναισθήτως ἔχειν πρὸς τὸ κοινόν , ἐν ἀσφαλεῖ θέμενον τὰ οἰκεῖα καὶ τῷ μὴ συναλγεῖν μηδὲ συννοσεῖν τῇ πατρίδι καλλωπιζόμενον , ἀλλʼ αὐτόθεν τοῖς τὰ βελτίω καὶ δικαιότερα πράττουσι προσθέμενον , συγκινδυνεύειν καὶ βοηθεῖν , μᾶλλον ἢ περιμένειν ἀκινδύνως τὰ τῶν κρατούντων .",
+      "translation": "Among his other laws there is a very peculiar and surprising one which ordains that he shall be disfranchised who , in time of faction , takes neither side . [*] He wishes , probably , that a man should not be insensible or indifferent to the common weal , arranging his private affairs securely and glorying in the fact that he has no share in the distempers and distresses of his country , but should rather espouse promptly the better and more righteous cause , share its perils and give it his aid , instead of waiting in safety to see which cause prevails ."
+    },
+    {
+      "id": "20.2",
+      "label": "Section 20.2",
+      "chapter": null,
+      "original": "ἄτοπος δὲ δοκεῖ καὶ γελοῖος ὁ τῇ ἐπικλήρῳ διδούς , ἂν ὁ κρατῶν καὶ κύριος γεγονὼς κατὰ τὸν νόμον αὐτὸς μὴ δυνατὸς ᾖ πλησιάζειν , ὑπὸ τῶν ἔγγιστα του ἀνδρὸς ὀπύεσθαι . καί τοῦτο δʼ ὀρθῶς ἔχειν τινές φασι πρός τοὺς μὴ δυναμένους συνεῖναι , χρημάτων δʼ ἕνεκα λαμβάνοντας ἐπικλήρους καὶ τῷ νόμῳ καταβιαζομένους τὴν φύσιν . ὁρῶντες γὰρ ᾧ βούλεται τὴν ἐπίκληρον συνοῦσαν ἢ προήσονται τὸν γάμον ἢ μετʼ αἰσχύνης καθέξουσι , φιλοπλουτίας καὶ ὕβρεως δίκην διδόντες .",
+      "translation": "That law , too , seems absurd and ridiculous , which permits an heiress in case the man under whose power and authority she is placed by law is himself unable to consort with her , to be married by one of his next of kin . Some , however , say that this was a wise provision against those who are unable to perform the duties of a husband , and yet , for the sake of their property , marry heiresses , and so under cover of law , do violence to nature . For when they see that the heiress can consort with whom she pleases , they will either desist from such a marriage , or make it to their shame , and be punished for their avarice and insolence ."
+    },
+    {
+      "id": "21.1",
+      "label": "Section 21.1",
+      "chapter": null,
+      "original": "ἐπαινεῖται δὲ τοῦ Σόλωνος καὶ ὁ κωλύων νόμος τὸν τεθνηκότα κακῶς ἀγορεύειν . καὶ γὰρ ὅσιον τοὺς μεθεστῶτας ἱεροὺς νομίζειν , καὶ δίκαιον ἀπέχεσθαι τῶν οὐχ ὑπαρχόντων , καὶ πολιτικὸν ἀφαιρεῖν τῆς ἔχθρας τὸ ἀΐδιον . ζῶντα δὲ κακῶς λέγειν ἐκώλυσε πρὸς ἱεροῖς καὶ δικαστηρίοις καὶ ἀρχείοις καὶ θεωρίας οὔσης ἀγώνων · ἤ τρεῖς δραχμὰς τῷ ἰδιώτῃ , δύο δʼ ἄλλας ἀποτίνειν εἰς τὸ δημόσιον ἔταξε . τὸ γὰρ μηδαμοῦ κρατεῖν ὀργῆς ἀπαίδευτον καὶ ἀκόλαστον · τὸ δὲ πανταχοῦ χαλεπόν , ἐνίοις δὲ ἀδύνατον · δεῖ δὲ πρὸς τὸ δυνατὸν γράφεσθαι τὸν νόμον , εἰ βούλεται χρησίμως ὀλίγους , ἀλλὰ μὴ πολλοὺς ἀχρήστως κολάζειν .",
+      "translation": "Praise is given also to that law of Solon which forbids speaking ill of the dead . For it is piety to regard the deceased as sacred , justice to spare the absent , and good policy to rob hatred of its perpetuity . He also forbade speaking ill of the living in temples , courts-of-law , public offices , and at festivals ; the transgressor must pay three drachmas to the person injured , and two more into the public treasury . For never to master one ’ s anger is a mark of intemperance and lack of training ; but always to do so is difficult , and for some , impossible . And a law must regard the possibilities in the case , if its maker wishes to punish a few to some purpose , and not many to no purpose ."
+    },
+    {
+      "id": "21.2",
+      "label": "Section 21.2",
+      "chapter": null,
+      "original": "εὐδοκίμησε δὲ κἀν τῷ περὶ διαθηκῶν νόμῳ · πρότερον γὰρ οὐκ ἐξῆν , ἀλλʼ ἐν τῷ γένει τοῦ τεθνηκότος ἔδει τὰ χρήματα καὶ τὸν οἶκον καταμένειν , ὁ δʼ ᾧ βούλεταί τις ἐπιτρέψας , εἰ μὴ παῖδες εἶεν αὐτῷ , δοῦναι τὰ αὑτοῦ , φιλίαν τε συγγενείας ἐτίμησε μᾶλλον καὶ χάριν ἀνάγκης , καὶ τὰ χρήματα κτήματα τῶν ἐχόντων ἐποίησεν .",
+      "translation": "He was highly esteemed also for his law concerning wills . Before his time , no will could be made , but the entire estate of the deceased must remain in his family . Whereas he , by permitting a man who had no children to give his property to whom he wished , ranked friendship above kinship , and favour above necessity , and made a man ’ s possessions his own property ."
+    },
+    {
+      "id": "22.1",
+      "label": "Section 22.1",
+      "chapter": null,
+      "original": "ὁρῶν δὲ τὸ μὲν ἄστυ πιμπλάμενον ἀνθρώπων ἀεὶ συρρεόντων πανταχόθεν ἐπʼ ἀδείας εἰς τὴν Ἀττικήν , τὰ δὲ πλεῖστα τῆς χώρας ἀγεννῆ καὶ φαῦλα , τοὺς δὲ χρωμένους τῇ θαλάττῃ μηδὲν εἰωθότας εἰσάγειν τοῖς μηδὲν ἔχουσιν ἀντιδοῦναι , πρὸς τὰς τέχνας ἔτρεψε τοὺς πολίτας , καὶ νόμον ἔγραψεν υἱῷ τρέφειν τὸν πατέρα μὴ διδαξάμενον τέχνην ἐπάναγκες μὴ εἶναι .",
+      "translation": "Observing that the city was getting full of people who were constantly streaming into Attica from all quarters for greater security of living , and that most of the country was unfruitful and worthless , and that seafaring men are not wont to import goods for those who have nothing to give them in exchange , he turned the attention of the citizens to the arts of manufacture , and enacted a law that no son who had not been taught a trade should be compelled to support his father ."
+    },
+    {
+      "id": "22.2",
+      "label": "Section 22.2",
+      "chapter": null,
+      "original": "τῷ μὲν γὰρ Λυκούργῳ καὶ πόλιν οἰκοῦντι καθαρὰν ὄχλου ξενικοῦ καὶ χώραν κεκτημένῳ πολλοῖσι πολλήν , δὶς τοσοῖσδε πλείονα , [*] Euripides, unknown; Nauck, Trag. Graec. Frag. (2), p. 680 κατʼ Εὐριπίδην , καὶ τὸ μέγιστον , εἱλωτικοῦ πλήθους , ὃ βέλτιον ἦν μὴ σχολάζειν , ἀλλὰ τριβόμενον ἀεὶ καὶ πονοῦν ταπεινοῦσθαι , περικεχυμένου τῇ Λακεδαίμονι , καλῶς εἶχεν ἀσχολιῶν ἐπιπόνων καὶ βαναύσων ἀπαλλάξαντα τοὺς πολίτας συνέχειν ἐν τοῖς ὅπλοις , μίαν τέχνην ταύτην ἐκμανθάνοντας καὶ ἀσκοῦντας ·",
+      "translation": "It was well enough for Lycurgus , whose city was free from swarms of strangers , and whose country was , in the words of Euripides , For many large , for twice as many more than large , [*] and because , above all , that country was flooded with a multitude of Helots , whom it was better not to leave in idleness , but to keep down by continual hardships and toil ,— it was well enough for him to set his citizens free from laborious and mechanical occupations and confine their thoughts to arms , giving them this one trade to learn and practice ."
+    },
+    {
+      "id": "23.1",
+      "label": "Section 23.1",
+      "chapter": null,
+      "original": "ὅλως δὲ πλείστην ἔχειν ἀτοπίαν οἱ περὶ τῶν γυναικῶν νόμοι τῷ Σόλωνι δοκοῦσι . μοιχὸν μὲν γὰρ ἀνελεῖν τῷ λαβόντι δέδωκεν · ἐὰν δʼ ἁρπάσῃ τις ἐλευθέραν γυναῖκα καὶ βιάσηται , ζημίαν ἑκατὸν δραχμὰς ἔταξε · κἂν προαγωγεύῃ , δραχμὰς εἴκοσι , πλὴν ὅσαι πεφασμένως πωλοῦνται , λέγων δὴ τὰς ἑταίρας . αὗται γὰρ ἐμφανῶς φοιτῶσι πρὸς τοὺς διδόντας .",
+      "translation": "But in general Solon ’ s laws concerning women seem very absurd . For instance , he permitted an adulterer caught in the act to be killed ; but if a man committed rape upon a free woman , he was merely to be fined a hundred drachmas ; and if he gained his end by persuasion , twenty drachmas , unless it were with one of those who sell themselves openly , meaning of course the courtesans . For these go openly to those who offer them their price ."
+    },
+    {
+      "id": "23.2",
+      "label": "Section 23.2",
+      "chapter": null,
+      "original": "ἔτι δʼ οὔτε θυγατέρας πωλεῖν οὔτʼ ἀδελφὰς δίδωσι , πλὴν ἂν μὴ λάβῃ παρθένον ἀνδρὶ συγγεγενημένην . τὸ δʼ αὐτὸ πρᾶγμα ποτὲ μὲν πικρῶς καὶ ἀπαραιτήτως κολάζειν , ποτὲ δʼ εὐκόλως καὶ παίζοντα , πρόστιμον ζημίαν τὴν τυχοῦσαν ὁρίζοντα , ἄλογόν ἐστι · πλὴν εἰ μὴ σπανίζοντος τότε τοῦ νομίσματος ἐν τῇ πόλει μεγάλας ἐποίει τὰς ἀργυρικὰς ζημίας τὸ δυσπόριστον .",
+      "translation": "Still further , no man is allowed to sell a daughter or a sister , unless he find that she is no longer a virgin . But to punish the same offence now severely and inexorably , and now mildly and pleasantly , making the penalty a slight fine , is unreasonable ; unless money was scarce in the city at that time , and the difficulty of procuring it made these monetary punishments heavy ."
+    },
+    {
+      "id": "24.1",
+      "label": "Section 24.1",
+      "chapter": null,
+      "original": "τῶν δὲ γινομένων διάθεσιν πρὸς ξένους ἐλαίου μόνον ἔδωκεν , ἄλλα δʼ ἐξάγειν ἐκώλυσε · καὶ κατὰ τῶν ἐξαγόντων ἀρὰς τὸν ἄρχοντα ποιεῖσθαι προσέταξεν , ἢ ἐκτίνειν αὐτὸν ἑκατὸν δραχμὰς εἰς τὸ δημόσιον . καὶ πρῶτος ἄξων ἐστὶν ὁ τοῦτον περιέχων τὸν νόμον . οὐκ ἂν οὖν τις ἡγήσαιτο παντελῶς ἀπιθάνους τοὺς λέγοντας ὅτι καὶ σύκων ἐξαγωγὴ τὸ παλαιὸν ἀπείρητο , καὶ τὸ φαίνειν ἐνδεικνύμενον τοὺς ἐξάγοντας κληθῆναι συκοφαντεῖν . ἔγραψε δὲ καὶ βλάβης τετραπόδων νόμον , ἐν ᾧ καὶ κύνα δακόντα παραδοῦναι κελεύει κλοιῷ τριπήχει δεδεμένον · τὸ μὲν ἐνθύμημα χάριεν πρὸς ἀσφάλειαν .",
+      "translation": "Of the products of the soil , he allowed oil only to be sold abroad , but forbade the exportation of others ; and if any did so export , the archon was to pronounce curses upon them , or else himself pay a hundred drachmas into the public treasury . His first table is the one which contains this law . One cannot , therefore , wholly disbelieve those who say that the exportation of figs also was anciently forbidden , and that the one who showed up , or pointed out such exporters , was called a sycophant , or fig-shower . He also enacted a law concerning injuries received from beasts , according to which a dog that had bitten anybody must be delivered up with a wooden collar three cubits long fastened to it ; a happy device this for promoting safety ."
+    },
+    {
+      "id": "24.2",
+      "label": "Section 24.2",
+      "chapter": null,
+      "original": "παρέχει δʼ ἀπορίαν καὶ ὁ τῶν δημοποιήτων νόμος , ὅτι γενέσθαι πολίταις οὐ δίδωσι πλὴν τοῖς φεύγουσιν ἀειφυγίᾳ τὴν ἑαυτῶν ἢ πανεστίοις Ἀθήναζε μετοικιζομένοις ἐπὶ τέχνῃ . τοῦτο δὲ ποιῆσαί φασιν αὐτὸν οὐχ οὕτως ἀπελαύνοντα τοὺς ἄλλους ὡς κατακαλούμενον Ἀθήναζε τούτους ἐπὶ βεβαίῳ τῷ μεθέξειν τῆς πολιτείας , καὶ ἅμα πιστοὺς νομίζοντα τοὺς μὲν ἀποβεβληκότας τὴν ἑαυτῶν διὰ τὴν ἀνάγκην , τοὺς δʼ ἀπολελοιπότας διὰ τὴν γνώμην .",
+      "translation": "But the law concerning naturalized citizens is of doubtful character . He permitted only those to be made citizens who were permanently exiled from their own country , or who removed to Athens with their entire families to ply a trade . This he did , as we are told , not so much to drive away other foreigners , as to invite these particular ones to Athens with the full assurance of becoming citizens ; he also thought that reliance could be placed both on those who had been forced to abandon their own country , and on those who had left it with a fixed purpose ."
+    },
+    {
+      "id": "25.1",
+      "label": "Section 25.1",
+      "chapter": null,
+      "original": "ἰσχὺν δὲ τοῖς νόμοις πᾶσιν εἰς ἑκατὸν ἐνιαυτοὺς ἔδωκε · καὶ κατεγράφησαν εἰς ξυλίνους ἄξονας ἐν πλαισίοις περιέχουσι στρεφομένους , ὧν ἔτι καθʼ ἡμᾶς ἐν Πρυτανείῳ λείψανα μικρὰ διεσώζετο · καὶ προσηγορεύθησαν , ὡς Ἀριστοτέλης φησί , κύρβεις . καὶ Κρατῖνος ὁ κωμικὸς εἴρηκέ που ·\nπρὸς τοῦ Σόλωνος καὶ Δράκοντος οἷσι νῦν φρύγουσιν ἤδη τὰς κάχρυς τοῖς κύρβεσιν .\nCratinus, unknown; Kock, Com. Att. Frag. i. p. 94.",
+      "translation": "All his laws were to have force for a hundred years , and they were written on axones , or wooden tablets , which revolved with the oblong frames containing them . Slight remnants of these were still preserved in the Prytaneium when I was at Athens , and they were called , according to Aristotle , [*] kurbeis . Cratinus , also , the comic poet , somewhere says :—\nBy Solon , and by Draco too I make mine oath , Whose kurbeis now are used to parch our barley-corns .\n[*]"
+    },
+    {
+      "id": "25.2",
+      "label": "Section 25.2",
+      "chapter": null,
+      "original": "ἔνιοι δέ φασιν ἰδίως ἐν οἷς ἱερὰ καὶ θυσίαι περιέχονται , κύρβεις , ἄξονας δὲ τοὺς ἄλλους ὠνομάσθαι , κοινὸν μὲν οὖν ὤμνυεν ὅρκον ἡ βουλὴ τοὺς Σόλωνος νόμους ἐμπεδώσειν , ἴδιον δʼ ἕκαστος τῶν θεσμοθετῶν ἐν ἀγορᾷ πρὸς τῷ λίθῳ , καταφατίζων , εἴ τι παραβαίη τῶν θεσμῶν , ἀνδριάντα χρυσοῦν ἰσομέτρητον ἀναθήσειν ἐν Δελφοῖς . [*]",
+      "translation": "But some say that only those tablets which relate to sacred rites and sacrifices are properly called kurbeis , and the rest are called axones . However that may be , the council took a joint oath to ratify the laws of Solon , and each of the thesmothetai , or guardians of the statutes , swore separately at the herald ’ s stone in the market-place , vowing that if he transgressed the statutes in any way , he would dedicate at Delphi a golden statue of commensurate worth ."
+    },
+    {
+      "id": "26.1",
+      "label": "Section 26.1",
+      "chapter": null,
+      "original": "πρῶτον μὲν οὖν εἰς Αἴγυπτον ἀφίκετο καὶ διέτριψεν , ὡς αὐτός φησι , Νείλου ἐπὶ προχοῇσι Κανωβίδος ἐγγύθεν ἀκτῆς . Solon, Frag. 7 (Bergk) χρόνον δέ τινα καὶ τοῖς περὶ Ψένωφιν τὸν Ἡλιουπολίτην καὶ Σῶγχιν τὸν Σαΐτην , λογιωτάτοις οὖσι τῶν ἱερέων , συνεφιλοσόφησε · παρʼ ὧν καὶ τὸν Ἀτλαντικὸν ἀκούσας λόγον , ὡς Πλάτων φησίν , ἐπεχείρησε διὰ ποιήματος ἐξενεγκεῖν εἰς τοὺς Ἕλληνας .",
+      "translation": "In the first place , then , he went to Egypt , [*] and lived , as he himself says , [*] Where Nile pours Forth his floods , near the Canobic shore . He also spent some time in studies with Psenophis of Heliopolis and Sonchis of Sais , who were very learned priests . From these , as Plato says , [*] he heard the story of the lost Atlantis , and tried to introduce it in a poetical form to the Greeks . [*]"
+    },
+    {
+      "id": "26.2",
+      "label": "Section 26.2",
+      "chapter": null,
+      "original": "ἔπειτα πλεύσας εἰς Κύπρον ἠγαπήθη διαφερόντως ὑπὸ Φιλοκύπρου τινὸς τῶν ἐκεῖ βασιλέων , ὃς εἶχεν οὐ μεγάλην πόλιν , ᾠκισμένην ὑπὸ Δημοφῶντος τοῦ Θησέως , περὶ τὸν Κλάριον ποταμὸν ἐν χωρίοις ὀχυροῖς μέν , ἄλλως δὲ δυσχερέσι καὶ φαύλοις κειμένην . ἔπεισεν οὖν αὐτὸν ὁ Σόλων ὑποκειμένου καλοῦ πεδίου μεταθέντα τὴν πόλιν ἡδίονα καὶ μείζονα κατασκευάσαι .",
+      "translation": "Next he sailed to Cyprus , and was greatly beloved of Philocyprus , one of the kings of the island . This prince had a small city founded by Demophon , the son of Theseus and lying near the river Clarius , in a position which was strong , but otherwise incommodious and sorry . Solon therefore persuaded him to remove the city to the fair plain which lay below it , and make it more spacious and pleasant ."
+    },
+    {
+      "id": "27.1",
+      "label": "Section 27.1",
+      "chapter": null,
+      "original": "τὴν δὲ πρὸς Κροῖσον ἔντευξιν αὐτοῦ δοκοῦσιν ἔνιοι τοῖς χρόνοις ὡς πεπλασμένην ἐλέγχειν . ἐγὼ δὲ λόγον ἔνδοξον οὕτω καὶ τοσούτους μάρτυρας ἔχοντα , καὶ , ὃ μεῖζόν ἐστι , πρέποντα τῷ Σόλωνος ἤθει καὶ τῆς ἐκείνου μεγαλοφροσύνης καὶ σοφίας ἄξιον , οὔ μοι δοκῶ προήσεσθαι χρονικοῖς τισι λεγομένοις κανόσιν , οὓς μυρίοι διορθοῦντες ἄχρι σήμερον εἰς οὐδὲν αὑτοῖς ὁμολογούμενον δύνανται καταστῆσαι τὰς ἀντιλογίας .",
+      "translation": "As for his interview with Croesus , some think to prove by chronology that it is fictitious . But when a story is so famous and so well-attested , and , what is more to the point , when it comports so well with the character of Solon , and is so worthy of his magnanimity and wisdom , I do not propose to reject it out of deference to any chronological canons , so called , which thousands are to this day revising , without being able to bring their contradictions into any general agreement ."
+    },
+    {
+      "id": "27.2",
+      "label": "Section 27.2",
+      "chapter": null,
+      "original": "τὸν δʼ οὖν Σόλωνά φασιν εἰς Σάρδεις δεηθέντι τῷ Κροίσῳ παραγενόμενον , παθεῖν τι παραπλήσιον ἀνδρὶ χερσαίῳ κατιόντι πρῶτον ἐπὶ θάλατταν . ἐκεῖνός τε γὰρ ὁρῶν ἄλλον ἐξ ἄλλου ποταμὸν ᾤετο τὴν θάλασσαν εἶναι , καὶ τῷ Σόλωνι τὴν αὐλὴν διαπορευομένῳ καὶ πολλοὺς ὁρῶντι τῶν βασιλικῶν κεκοσμημένους πολυτελῶς , καὶ σοβοῦντας ἐν ὄχλῳ προπομπῶν καὶ δορυφόρων , ἕκαστος ἐδόκει Κροῖσος εἶναι , μέχρι πρὸς αὐτὸν ἤχθη , πᾶν ὅσον ἐν λίθοις , ἐν βαφαῖς ἐσθῆτος , ἐν τέχναις χρυσοῦ περὶ κόσμον ἐκπρεπὲς ἔχειν ἢ περιττὸν ἢ ζηλωτὸν ἐδόκει περικείμενον , ὡς δὴ θέαμα σεμνότατον ὀφθείη καὶ ποικιλώτατον .",
+      "translation": "So then , they say that Solon , on visiting Sardis at the invitation of Croesus , [*] had much the same experience as an inland man who goes down for the first time to the sea . For just as such a man thinks each successive river that he sees to be the sea , so Solon , as he passed through the court and beheld many of the king ’ s retainers in costly apparel and moving proudly amid a throng of couriers and armed guards , thought each in turn to be Croesus , until he was brought to the king himself , who was decked out with everything in the way of precious stones , dyed raiment , and wrought gold that men deem remarkable , or extravagant , or enviable , in order that he might present a most august and gorgeous spectacle ."
+    },
+    {
+      "id": "28.1",
+      "label": "Section 28.1",
+      "chapter": null,
+      "original": "ὁ δὲ λογοποιὸς Αἴσωπος , ἐτύγχανε γὰρ εἰς Σάρδεις μετάπεμπτος γεγονὼς ὑπὸ Κροίσου καὶ τιμώμενος , ἠχθέσθη τῷ Σόλωνι μηδεμιᾶς τυχόντι φιλανθρωπίας · καὶ προτρέπων αὐτόν , ὦ Σόλων , ἔφη , τοῖς βασιλεῦσι δεῖ ὡς ἥκιστα ἢ ὡς ἥδιστα ὁμιλεῖν . καὶ ὁ Σόλων , μὰ Δίʼ , εἶπεν , ἀλλʼ ὡς ἥκιστα ἢ ὡς ἄριστα .",
+      "translation": "Now it so happened that Aesop , the writer of fables , was in Sardis , having been summoned thither by Croesus , and receiving much honor at his hands . He was distressed that Solon met with no kindly treatment , and said to him by way of advice : O Solon , our converse with kings should be either as rare , or as pleasing as is possible . No , indeed . said Solon , but either as rare or as beneficial as is possible ."
+    },
+    {
+      "id": "28.2",
+      "label": "Section 28.2",
+      "chapter": null,
+      "original": "τότε μὲν οὖν ὁ Κροῖσος οὕτω τοῦ Σόλωνος κατεφρόνησεν · ἐπεὶ δὲ Κύρῳ συμβαλὼν ἐκρατήθη μάχῃ , καὶ τὴν πόλιν ἀπώλεσε , καὶ ζῶν ἁλοὺς αὐτὸς ἔμελλε καταπίμπρασθαι , καὶ γενομένης πυρᾶς ἀνεβιβάσθη δεδεμένος θεωμένων Περσῶν ἁπάντων καὶ Κύρου παρόντος , ἐφʼ ὅσον ἐξικνεῖτο καὶ δυνατὸς ἦν τῇ φωνῇ φθεγξάμενος ἀνεβόησε τρίς , ὦ Σόλων . θαυμάσας οὖν ὁ Κῦρος ἔπεμψε τοὺς ἐρησομένους ὅστις ἀνθρώπων ἢ θεῶν οὗτός ἐστιν ὁ Σόλων , ὃν ἐν τύχαις [*] ἀπόροις μόνον ἀνακαλεῖται .",
+      "translation": "At this time , then , Croesus held Solon in a contempt like this ; but afterwards he encountered Cyrus , was defeated in battle , lost his city , was taken alive and condemned to be burnt ; and then , as he lay bound upon the pyre in the sight of all the Persians and of Cyrus himself , with all the reach and power of which his voice was capable , he called out thrice :( 1 ) O Solon ! Cyrus , then , astonished at this , sent men to ask him what man or god this Solon was on whom alone he called in his extremity ."
+    },
+    {
+      "id": "29.1",
+      "label": "Section 29.1",
+      "chapter": null,
+      "original": "οἱ δὲ ἐν ἄστει πάλιν ἐστασίαζον ἀποδημοῦντος τοῦ Σόλωνος · καὶ προειστήκει τῶν μὲν Πεδιέων Λυκοῦργος , τῶν δὲ Παράλων Μεγακλῆς ὁ Ἀλκμαίωνος , Πεισίστρατος δὲ τῶν Διακρίων , ἐν οἷς ἦν ὁ θητικὸς ὄχλος καὶ μάλιστα τοῖς πλουσίοις ἀχθόμενος · ὥστε χρῆσθαι μὲν ἔτι τοῖς νόμοις τὴν πόλιν , ἤδη δὲ πράγματα νεώτερα προσδοκᾶν καὶ ποθεῖν ἅπαντας ἑτέραν κατάστασιν , οὐκ ἴσον ἐλπίζοντας , ἀλλὰ πλέον ἕξειν ἐν τῇ μεταβολῇ καὶ κρατήσειν παντάπασι τῶν διαφερομένων .",
+      "translation": "But the people of Athens were again divided into factions while Solon was away . The Plain-men were headed by Lycurgus ; the Shore-men by Megacles the son of Alcmaeon , and the Hill-men by Peisistratus . [*] Among the last was the multitude of Thetes who were the bitter enemies of the rich . As a consequence , though the city still observed the new laws yet all were already expecting a revolution and desirous of a different form of government , not in hopes of an equality , but each party thinking to be bettered by the change , and to get the entire mastery of its opponents ."
+    },
+    {
+      "id": "29.2",
+      "label": "Section 29.2",
+      "chapter": null,
+      "original": "οὕτω δὲ τῶν πραγμάτων ἐχόντων ὁ Σόλων παραγενόμενος εἰς τὰς Ἀθήνας , αἰδῶ μὲν εἶχε καὶ τιμὴν παρὰ πᾶσιν , ἐν δὲ κοινῷ λέγειν καὶ πράσσειν ὁμοίως οὐκ ἔτʼ ἦν δυνατὸς οὐδὲ πρόθυμος ὑπὸ γήρως , ἀλλʼ ἐντυγχάνων ἰδίᾳ τοῖς προεστῶσι τῶν στάσεων ἀνδράσιν ἐπειρᾶτο διαλύειν καὶ συναρμόττειν , μάλιστα τοῦ Πεισιστράτου προσέχειν δοκοῦντος αὐτῷ . καὶ γὰρ αἱμύλον τι καὶ προσφιλὲς εἶχεν ἐν τῷ διαλέγεσθαι , καὶ βοηθητικὸς ἦν τοῖς πένησι καὶ πρὸς τὰς ἔχθρας ἐπιεικὴς καὶ μέτριος .",
+      "translation": "Such was the state of affairs when Solon returned to Athens . He was revered and honored by all , but owing to his years he no longer had the strength or the ardor to speak and act in public as before . He did , however , confer privately with the chiefs of the opposing factions , endeavoring to reconcile and harmonize them , and Peisistratus seemed to pay him more heed than the others . For Peisistratus had an insinuating and agreeable quality in his address , he was ready to help the poor and was reasonable and moderate in his enmities ."
+    },
+    {
+      "id": "30.1",
+      "label": "Section 30.1",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ κατατρώσας αὐτὸς ἑαυτὸν ὁ Πεισίστρατος ἧκεν εἰς ἀγορὰν ἐπὶ ζεύγους κομιζόμενος , καὶ παρώξυνε τὸν δῆμον ὡς διὰ τὴν πολιτείαν ὑπὸ τῶν ἐχθρῶν ἐπιβεβουλευμένος , καὶ πολλοὺς εἶχεν ἀγανακτοῦντας καὶ βοῶντας , προσελθὼν ἐγγὺς ὁ Σόλων καὶ παραστάς , οὐ καλῶς , εἶπεν , ὦ παῖ Ἱπποκράτους , ὑποκρίνῃ τὸν Ὁμηρικὸν Ὀδυσσέα · ταῦτα γὰρ ποιεῖς τοὺς πολίτας παρακρουόμενος οἷς ἐκεῖνος τοὺς πολεμίους ἐξηπάτησεν , αἰκισάμενος ἑαυτόν .",
+      "translation": "Now when Peisistratus , after inflicting a wound upon himself , [*] came into the market-place riding in a chariot , and tried to exasperate the populace with the charge that his enemies had plotted against his life on account of his political opinions and many of them greeted the charge with angry cries Solon drew near and accosted him , saying : O son of Hippocrates , thou art playing the Homeric Odysseus badly ; for when he disfigured himself it was to deceive his enemies [*] but thou doest it to mislead thy fellow-citizens ."
+    },
+    {
+      "id": "30.2",
+      "label": "Section 30.2",
+      "chapter": null,
+      "original": "ἐκ τούτου τὸ μὲν πλῆθος ἦν ἕτοιμον ὑπερμαχεῖν τοῦ Πεισιστράτου , καὶ συνῆλθεν εἰς ἐκκλησίαν ὁ δῆμος . Ἀρίστωνος δὲ γράψαντος ὅπως δοθῶσι πεντήκοντα κορυνηφόροι τῷ Πεισιστράτῳ φυλακὴ τοῦ σώματος , ἀντεῖπεν ὁ Σόλων ἀναστὰς καὶ πολλὰ διεξῆλθεν ὅμοια τούτοις οἷς διὰ τῶν ποιημάτων γέγραφεν ·\nεἰς γὰρ γλῶσσαν ὁρᾶτε καὶ εἰς ἔπη αἱμύλοι ἀνδρός . ὑμῶν δʼ εἷς μὲν ἕκαστος ἀλώπεκος ἴχνεσι βαίνει , σύμπασιν δʼ ὑμῖν χαῦνος ἔνεστι νόος .\nSolon, Frag. 11. 7, 5, 6 (Bergk). Plutarch has changed the order; Bekker and Cobet restore it.",
+      "translation": "After this the multitude was ready to fight for Peisistratus , and a general assembly of the people was held . Here Ariston made a motion that Peisistratus be allowed a body-guard of fifty club-bearers , but Solon formally opposed it , and said many things which were like what he has written in his poems :—\nYe have regard indeed to the speech and words of a wily man . Yet every one of you walks with the steps of a fox , And in you all dwells an empty mind .\n[*]"
+    },
+    {
+      "id": "31.1",
+      "label": "Section 31.1",
+      "chapter": null,
+      "original": "ἐπὶ τούτοις δὲ πολλῶν νουθετούντων αὐτὸν ὡς ἀποθανούμενον ὑπὸ τοῦ τυράννου , καὶ πυνθανομένων τίνι πιστεύων οὕτως ἀπονοεῖται , τῷ γήρᾳ , εἶπεν . οὐ μὴν ἀλλʼ ὁ Πεισίστρατος ἐγκρατὴς γενόμενος τῶν πραγμάτων οὕτως ἐξεθεράπευσε τὸν Σόλωνα , τιμῶν καὶ φιλοφρονούμενος καὶ μεταπεμπόμενος , ὥστε καὶ σύμβουλον εἶναι καὶ πολλὰ τῶν πρασσομένων ἐπαινεῖν . καὶ γὰρ ἐφύλαττε τοὺς πλείστους νόμους τοῦ Σόλωνος , ἐμμένων πρῶτος αὐτὸς καὶ τοὺς φίλους ἀναγκάζων ·",
+      "translation": "In view of this , many warned him that the tyrant would put him to death , and asked him on what he relied that he was so lost to all sense , to which he answered , My old age . However , when Peisistratus had become master of the situation , he paid such court to Solon by honoring him , showing him kindness , and inviting him to his palace , that Solon actually became his counsellor and approved of many of his acts . For he retained most of Solon ’ s laws , observing them first himself , and compelling his friends to do so ."
+    },
+    {
+      "id": "31.2",
+      "label": "Section 31.2",
+      "chapter": null,
+      "original": "ὅς γε καὶ φόνου προσκληθεὶς εἰς Ἀρειον πάγον , ἤδη τυραννῶν , ἀπήντησε κοσμίως ἀπολογησόμενος , ὁ δὲ κατήγορος οὐχ ὑπήκουσε · καὶ νόμους αὐτὸς ἑτέρους ἔγραψεν , ὧν ἐστι καὶ ὁ τοὺς πηρωθέντας ἐν πολέμῳ δημοσίᾳ τρέφεσθαι κελεύων . τοῦτο δέ φησιν Ἡρακλείδης καὶ πρότερον ἐπὶ Θερσίππῳ πηρωθέντι τοῦ Σόλωνος ψηφισαμένου μιμήσασθαι τὸν Πεισίστρατον . ὡς δὲ Θεόφραστος ἱστόρηκε , καὶ τὸν τῆς ἀργίας νόμον οὐ Σόλων ἔθηκεν , ἀλλὰ Πεισίστρατος , ᾧ τήν τε χώραν ἐνεργοτέραν καὶ τὴν πόλιν ἠρεμαιοτέραν ἐποίησεν .",
+      "translation": "For instance , he was summoned before the Areiopagus on a charge of murder , when he was already tyrant , and presented himself there to make his defence in due form , but his accuser did not put in an appearance . He also made other laws himself , one of which provides that those who are maimed in war shall be maintained at the public charge . But Heracleides says that even before that Solon had caused a decree to be passed to this effect in the case of Thersippus , who had been so maimed , and that Peisistratus was following his example . Moreover , Theophrastus writes that the law against idleness , in consequence of which the country became more productive and the city more tranquil , was not made by Solon , but by Peisistratus ."
+    },
+    {
+      "id": "32.1",
+      "label": "Section 32.1",
+      "chapter": null,
+      "original": "ὡς δὲ χώρας καλῆς ἔδαφος ὁ Πλάτων ἔρημον , αὐτῷ δέ πως κατὰ συγγένειαν προσῆκον , ἐξεργάσασθαι καὶ διακοσμῆσαι φιλοτιμούμενος τὴν Ἀτλαντικὴν ὑπόθεσιν , πρόθυρα μὲν μεγάλα καὶ περιβόλους καὶ αὐλὰς τῇ ἀρχῇ περιέθηκεν , οἷα λόγος οὐδεὶς ἄλλος ἔσχεν οὐδὲ μῦθος οὐδὲ ποίησις ,",
+      "translation": "Plato , ambitious to elaborate and adorn the subject of the lost Atlantis , as if it were the soil of a fair estate unoccupied , but appropriately his by virtue of some kinship with Solon , [*] began the work by laying out great porches , enclosures , and courtyards , such as no story , tale , or poesy ever had before ."
+    },
+    {
+      "id": "32.2",
+      "label": "Section 32.2",
+      "chapter": null,
+      "original": "ὀψὲ δὲ ἀρξάμενος προκατέλυσε τοῦ ἔργου τὸν βίον , ὅσῳ μᾶλλον εὐφραίνει τὰ γεγραμμένα , τοσούτῳ μᾶλλον τοῖς ἀπολειφθεῖσιν ἀνιάσας . ὡς γὰρ ἡ πόλις τῶν Ἀθηναίων τὸ Ὀλυμπιεῖον , οὕτως ἡ Πλάτωνος σοφία τὸν Ἀτλαντικὸν ἐν πολλοῖς καλοῖς μόνον ἔργον ἀτελὲς ἔσχηκεν .",
+      "translation": "But he was late in beginning , and ended his life before his work . [*] Therefore the greater our delight in what he actually wrote , the greater is our distress in view of what he left undone . For as the Olympieium in the city of Athens , so the tale of the lost Atlantis in the wisdom of Plato is the only one among many beautiful works to remain unfinished ."
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": null
+}

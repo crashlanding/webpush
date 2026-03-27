@@ -1,0 +1,66 @@
+{
+  "volumeSlug": "terence-the-woman-of-andros-the-self-tormentor-the-eunuch-y550q8",
+  "volumeTitle": "The Woman of Andros. The Self-Tormentor. The Eunuch",
+  "authorDisplay": "Terence",
+  "authors": [
+    "Terence"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-self-tormentor-nt3lty-16",
+  "label": "The Self-Tormentor (Section 5.5.1066b - Section 5.5.1067c)",
+  "partId": "the-self-tormentor-nt3lty",
+  "partTitle": "The Self-Tormentor",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Heautontimorumenos",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi002.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Heautontimorumenos; or, The Self-Tormenter",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi002.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "5.5.1066b",
+      "label": "Section 5.5.1066b",
+      "chapter": null,
+      "original": "Pater , hoc nunc restat .",
+      "translation": "Father , this now remains ."
+    },
+    {
+      "id": "5.5.1066c",
+      "label": "Section 5.5.1066c",
+      "chapter": null,
+      "original": "Quid ?",
+      "translation": "What is it ?"
+    },
+    {
+      "id": "5.5.1066d",
+      "label": "Section 5.5.1066d",
+      "chapter": null,
+      "original": "Syro ignoscas volo",
+      "translation": "I want you to pardon Syrus for what he has done for my sake ."
+    },
+    {
+      "id": "5.5.1067b",
+      "label": "Section 5.5.1067b",
+      "chapter": null,
+      "original": "Fiat .",
+      "translation": "Be it so ."
+    },
+    {
+      "id": "5.5.1067c",
+      "label": "Section 5.5.1067c",
+      "chapter": null,
+      "original": "Vos valete , et plaudite !",
+      "translation": "( To the Audience .) Fare you well , and grant us your applause ."
+    }
+  ],
+  "prevChunkSlug": "the-self-tormentor-nt3lty-15",
+  "nextChunkSlug": "the-eunuch-xjo25n-1"
+}

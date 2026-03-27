@@ -1,0 +1,38 @@
+{
+  "volumeSlug": "plautus-amphitryon-the-comedy-of-asses-the-pot-of-gold-the-two-bacchises-the-captives-najy9a",
+  "volumeTitle": "Amphitryon. The Comedy of Asses. The Pot of Gold. The Two Bacchises. The Captives",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "amphitryon-1m5n87-13",
+  "label": "Amphitryon (Section 5.2.1146 - Section 5.2.1146)",
+  "partId": "amphitryon-1m5n87",
+  "partTitle": "Amphitryon",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Amphitruo",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi001.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Amphitryon, or Jupiter in Disguise",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi001.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "5.2.1146",
+      "label": "Section 5.2.1146",
+      "chapter": null,
+      "original": "nunc , spectatores , Iovis súmmi causa clare plaudite .",
+      "translation": "Spectators , now , for the sake of supreme Jove [*] , give loud applause ."
+    }
+  ],
+  "prevChunkSlug": "amphitryon-1m5n87-12",
+  "nextChunkSlug": "the-comedy-of-asses-1sfwt8-1"
+}

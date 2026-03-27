@@ -1,0 +1,458 @@
+{
+  "volumeSlug": "demosthenes-orations-volume-v-1jvwr4",
+  "volumeTitle": "Orations, Volume V",
+  "authorDisplay": "Demosthenes",
+  "authors": [
+    "Demosthenes"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "against-boeotus-ii-1x0r88",
+  "label": "Against Boeotus II",
+  "partId": "orations-volume-v-89ijnp",
+  "partTitle": "Orations, Volume V",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "πρὸς Βοιωτὸν περὶ προικὸς μητρῴας",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg040.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Mantitheus Against Boeotus II",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg040.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1",
+      "label": "Section 1",
+      "chapter": null,
+      "original": "πάντων ἐστὶν ἀνιαρότατον , ὦ ἄνδρες δικασταί , ὅταν τις ὀνόματι μὲν ἀδελφὸς προσαγορευθῇ τινῶν , τῷ δʼ ἔργῳ ἐχθροὺς ἔχῃ τούτους , καὶ ἀναγκάζηται πολλὰ καὶ δεινὰ παθὼν ὑπʼ αὐτῶν εἰσιέναι εἰς δικαστήριον , ὃ νῦν ἐμοὶ συμβέβηκεν .",
+      "translation": "Nothing is more painful , men of the jury , than when a man is addressed by name as brother of certain persons , whom in fact he regards as enemies , and when he is compelled , on account of the many cruel wrongs which he has suffered at their hands , to come into court ; as is my case now ."
+    },
+    {
+      "id": "2",
+      "label": "Section 2",
+      "chapter": null,
+      "original": "οὐ γὰρ μόνον ἀτύχημά μοι ἐξ ἀρχῆς ἐγένετο , διότι Πλαγγὼν ἡ τούτων μήτηρ ἐξαπατήσασα τὸν πατέρα μου καὶ ἐπιορκήσασα φανερῶς , ἠνάγκασεν αὐτὸν ὑπομεῖναι τούτους ποιήσασθαι , καὶ διὰ τοῦτο τὰ δύο μέρη τῶν πατρῴων ἀπεστερήθην · ἀλλὰ πρὸς τούτοις ἐξελήλαμαι μὲν ἐκ τῆς πατρῴας οἰκίας ὑπὸ τούτων , ἐν ᾗ καὶ ἐγενόμην καὶ ἐτράφην , καὶ εἰς ἣν οὐχ ὁ πατὴρ αὐτοὺς ἀλλʼ ἐγὼ τελευτήσαντος ἐκείνου παρεδεξάμην ,",
+      "translation": "For instance , I have not only had the misfortune in the beginning that Plangon , the mother of these men , by deceit and manifest perjury , compelled my father to bring himself to acknowledge them , and that consequently I was robbed of two-thirds of my inheritance ; but , in addition to this , I have been driven by these men out of the house of my fathers , in which I was born and brought up , and into which they were admitted , not by my father , but by myself after his death ;"
+    },
+    {
+      "id": "3",
+      "label": "Section 3",
+      "chapter": null,
+      "original": "ἀποστεροῦμαι δὲ τὴν προῖκα τῆς ἐμαυτοῦ μητρός , περὶ ἧς νυνὶ δικάζομαι , αὐτὸς μὲν τούτοις δίκας ὑπὲρ ὧν ἐνεκάλουν μοι πάντων δεδωκώς , πλὴν εἴ τινα νῦν ἕνεκα τῆς δίκης ταύτης ἀντειλήχασίν μοι συκοφαντοῦντες , ὡς καὶ ὑμῖν ἔσται καταφανές , παρὰ δὲ τούτων ἐν ἕνδεκα ἔτεσιν οὐ δυνάμενος τυχεῖν τῶν μετρίων , ἀλλὰ νῦν εἰς ὑμᾶς βοηθοὺς καταπεφευγώς .",
+      "translation": "and I am being robbed of my mother ’ s dowry , for which I am now bringing suit , although I have myself given them satisfaction in all the matters in which they made claims upon me , except some trifling cross-demands which they have maliciously brought against me on account of this action , as will be perfectly clear to you also ; yet in the course of eleven years I have been unable to obtain from them a reasonable settlement , and so at length I have had recourse to you for help ."
+    },
+    {
+      "id": "4",
+      "label": "Section 4",
+      "chapter": null,
+      "original": "δέομαι οὖν ἁπάντων ὑμῶν , ὦ ἄνδρες δικασταί , μετʼ εὐνοίας τέ μου ἀκοῦσαι οὕτως ὅπως ἂν δύνωμαι λέγοντος , κἂν ὑμῖν δοκῶ δεινὰ πεπονθέναι , συγγνώμην ἔχειν μοι ζητοῦντι κομίσασθαι τἀμαυτοῦ , ἄλλως τε καὶ εἰς θυγατρὸς ἔκδοσιν · συνέβη γάρ μοι δεηθέντος τοῦ πατρὸς ὀκτωκαιδεκέτη γῆμαι , καὶ διὰ τοῦτο εἶναί μοι θυγατέρα ἤδη ἐπίγαμον .",
+      "translation": "I beg you all , men of the jury , to listen to me with goodwill , while I speak as best I can ; and if I seem to you to have suffered cruel wrongs , to pardon me for seeking to recover what is my own , especially as it is for a marriage-portion for my daughter . For it so happened that I married at my father ’ s request when I was only eighteen , and that I have a daughter who is already of marriageable age ."
+    },
+    {
+      "id": "5",
+      "label": "Section 5",
+      "chapter": null,
+      "original": "ὥστʼ ἐμοὶ μὲν δικαίως ἂν ἀδικουμένῳ διὰ πολλὰ βοηθήσαιτε , τούτοις δὲ εἰκότως ἂν ὀργίζοισθε · οἵτινες , ὦ γῆ καὶ θεοί , ἐξὸν αὐτοῖς τὰ δίκαια ποιήσασι μὴ εἰσιέναι εἰς δικαστήριον , οὐκ αἰσχύνονται μὲν ἀναμιμνῄσκοντες ὑμᾶς εἴ τι ἢ ὁ πατὴρ ἡμῶν μὴ ὀρθῶς διεπράξατο ἢ οὗτοι εἰς ἐκεῖνον ἥμαρτον , ἀναγκάζουσι δʼ ἐμὲ δικάζεσθαι αὑτοῖς . ἵνα δὲ ἀκριβῶς εἰδῆτε , ὡς οὐκ ἐγὼ τούτου αἴτιός εἰμι ἀλλʼ οὗτοι , ἐξ ἀρχῆς ὑμῖν , ὡς ἂν ἐν βραχυτάτοις δύνωμαι , διηγήσομαι τὰ πραχθέντα .",
+      "translation": "It is , therefore , just on many accounts that you should aid me who am being wronged , and fitting that you should feel indignation against the men , who — O Earth and the Gods — when they need not have come into court at all had they done what is fair , are not ashamed to remind you of any improper acts of my father , or of wrongs which they committed against him , but even force me to go to law with them . To make you understand clearly that it is they , not I , who are to blame for this , I will set forth to you the facts of the case from the beginning with the utmost possible brevity ."
+    },
+    {
+      "id": "6",
+      "label": "Section 6",
+      "chapter": null,
+      "original": "ἡ γὰρ μήτηρ ἡ ἐμή , ὦ ἄνδρες δικασταί , θυγάτηρ μὲν ἦν Πολυαράτου Χολαργέως , ἀδελφὴ δὲ Μενεξένου καὶ Βαθύλλου καὶ Περιάνδρου . ἐκδόντος δὲ αὐτὴν τοῦ πατρὸς Κλεομέδοντι τῷ Κλέωνος υἱεῖ , καὶ προῖκα τάλαντον ἐπιδόντος , τὸ μὲν πρῶτον τούτῳ συνῴκει · γενομένων δʼ αὐτῇ τριῶν μὲν θυγατέρων , υἱοῦ δʼ ἑνὸς Κλέωνος , καὶ μετὰ ταῦτα τοῦ ἀνδρὸς αὐτῇ τελευτήσαντος , ἀπολιποῦσα τὸν οἶκον καὶ κομισαμένη τὴν προῖκα ,",
+      "translation": "My mother , men of the jury , was the daughter of Polyaratus , of Cholargus [*] , and sister of Menexenus , and Bathyllus and Periander . Her father gave her in marriage to Cleomedon , son of Cleon , [*] adding a talent as her marriage-portion ; and at the first she dwelt with him as his wife , and bore him three daughters and one son , Cleon . After this her husband died , and she left his family , receiving back her marriage-portion ."
+    },
+    {
+      "id": "7",
+      "label": "Section 7",
+      "chapter": null,
+      "original": "πάλιν ἐκδόντων αὐτὴν τῶν ἀδελφῶν Μενεξένου καὶ Βαθύλλου ( ὁ γὰρ Περίανδρος ἔτι παῖς ἦν ) καὶ τὸ τάλαντον ἐπιδόντων , συνῴκησε τῷ ἐμῷ πατρί . καὶ γίγνομαι αὐτοῖς ἐγώ τε καὶ ἄλλος ἀδελφὸς νεώτερος ἐμοῦ , ὃς ἔτι παῖς ὢν ἐτελεύτησεν . ὡς δʼ ἀληθῆ λέγω , περὶ τούτων ὑμῖν πρῶτον τοὺς μάρτυρας παρέξομαι .\nΜΑΡΤΥΡΕΣ .",
+      "translation": "Her brothers , Menexenus and . Bathyllus ( for Periander was still a boy ) then gave her again in marriage with the talent for her dowry , and she dwelt with my father as his wife . There were born to them myself and another brother , younger than I , who died while still a child .\nTo prove that I am speaking the truth , I will first bring forward witnesses to establish these facts .\nThe Witnesses"
+    },
+    {
+      "id": "8",
+      "label": "Section 8",
+      "chapter": null,
+      "original": "τὴν μὲν τοίνυν μητέρα τὴν ἐμὴν οὕτως ὁ πατήρ μου γήμας εἶχε γυναῖκα ἐν τῇ οἰκίᾳ τῇ ἑαυτοῦ , ἐμέ τε ἐπαίδευεν καὶ ἠγάπα , ὥσπερ καὶ ὑμεῖς ἅπαντες τοὺς ὑμετέρους παῖδας ἀγαπᾶτε . τῇ δὲ τούτων μητρὶ Πλαγγόνι ἐπλησίασεν ὅντινα δή ποτʼ οὖν τρόπον · οὐ γὰρ ἐμὸν τοῦτο λέγειν ἐστίν .",
+      "translation": "My father , then , having thus married my mother , maintained her as his wife in his own house ; and he brought me up and showed me a father ’ s affection such as you also all show to your children . But with Plangon , the mother of these men , he formed a connection of some sort or other ( it is not for me to say what it was );"
+    },
+    {
+      "id": "9",
+      "label": "Section 9",
+      "chapter": null,
+      "original": "καὶ οὕτως οὐ πάντα γε ἦν ὑπὸ τῆς ἐπιθυμίας κεκρατημένος , ὥστε οὐδὲ τῆς μητρὸς τῆς ἐμῆς ἀποθανούσης ἠξίωσεν αὐτὴν εἰς τὴν οἰκίαν παρʼ ἑαυτὸν εἰσδέξασθαι , οὐδὲ τούτους , ὡς υἱεῖς εἰσιν αὑτοῦ , πεισθῆναι · ἀλλὰ τὸν μὲν ἄλλον χρόνον οὗτοι διῆγον οὐκ ὄντες τοῦ ἐμοῦ πατρός , ὡς καὶ ὑμῶν οἱ πολλοὶ ἴσασιν , ἐπειδὴ δὲ οὗτος αὐξηθεὶς καὶ μεθʼ αὑτοῦ παρασκευασάμενος ἐργαστήριον συκοφαντῶν , ὧν ἡγεμὼν ἦν Μνησικλῆς καὶ Μενεκλῆς ἐκεῖνος ὁ τὴν Νῖνον ἑλών , μεθʼ ὧν οὗτος ἐδικάζετό",
+      "translation": "however , he was not so wholly the slave of his passion as to deem it right even after my mother ’ s death to receive the woman into his own house , or to admit that the defendants were his children . No , for all the rest of the time they lived as not being sons of my father , as most of you know ; but after Boeotus had grown up and had associated with himself a gang of blackmailers , [*] whose leaders were Mnesicles and that Menecles who secured the conviction of Ninus , in connection with these men he brought suit against my father , claiming that he was his son ."
+    },
+    {
+      "id": "10",
+      "label": "Section 10",
+      "chapter": null,
+      "original": "μου τῷ πατρὶ φάσκων υἱὸς εἶναι ἐκείνου — συνόδων δὲ γιγνομένων πολλῶν ὑπὲρ τούτων , καὶ τοῦ πατρὸς οὐκ ἂν φάσκοντος πεισθῆναι , ὡς οὗτοι γεγόνασιν ἐξ αὑτοῦ , τελευτῶσα ἡ Πλαγγών , ὦ ἄνδρες δικασταί ( πάντα γὰρ εἰρήσεται τἀληθῆ πρὸς ὑμᾶς ), μετὰ τοῦ Μενεκλέους ἐνεδρεύσασα τὸν πατέρα μου καὶ ἐξαπατήσασα ὅρκῳ , ὃς μέγιστος δοκεῖ καὶ δεινότατος παρὰ πᾶσιν ἀνθρώποις εἶναι , ὡμολόγησεν τριάκοντα μνᾶς λαβοῦσα τούτους μὲν τοῖς αὑτῆς ἀδελφοῖς εἰσποιήσειν υἱεῖς , αὐτὴ δέ , ἂν πρὸς τῷ διαιτητῇ προκαλῆται αὐτὴν ὁ πατήρ μου ὀμόσαι ἦ μὴν τοὺς παῖδας ἐξ αὑτοῦ γεγονέναι , οὐ δέξεσθαι τὴν πρόκλησιν · τούτων γὰρ γενομένων οὔτε τούτους ἀποστερήσεσθαι τῆς πολιτείας , τῷ τε πατρί μου οὐκέτι δυνήσεσθαι αὐτοὺς πράγματα παρέχειν , τῆς μητρὸς αὐτῶν οὐ δεξαμένης τὸν ὅρκον .",
+      "translation": "Many meetings took place about these matters , and my father declared that he would never be convinced that these men were his children , and finally Plangon , men of the jury ( for the whole truth shall be told you ), having in conjunction with Menecles laid a snare for my father , and deceived him by an oath that among all mankind is held to be the greatest and most awful , [*] agreed that , if she were paid thirty minae , she would get her brothers to adopt these men , and that , on her own part , if my father should challenge her before the arbitrator to swear that the children were in very truth his sons , she would decline the challenge . For if this were done , she said , the defendants would not be deprived of their civic rights , [*] but they would no longer be able to make trouble for my father , seeing that their mother had refused the oath ."
+    },
+    {
+      "id": "11",
+      "label": "Section 11",
+      "chapter": null,
+      "original": "συγχωρηθέντων δὲ τούτων — τί ἂν ὑμῖν μακρολογοίην ; ὡς γὰρ πρὸς τὸν διαιτητὴν ἀπήντησεν , παραβᾶσα πάντα τὰ ὡμολογημένα ἡ Πλαγγὼν δέχεταί τε τὴν πρόκλησιν καὶ ὄμνυσιν ἐν τῷ Δελφινίῳ ἄλλον ὅρκον ἐναντίον τῷ προτέρῳ , ὡς καὶ ὑμῶν οἱ πολλοὶ ἴσασιν · περιβόητος γὰρ ἡ πρᾶξις ἐγένετο . καὶ οὕτως ὁ πατήρ μου διὰ τὴν ἑαυτοῦ πρόκλησιν ἀναγκασθεὶς ἐμμεῖναι τῇ διαίτῃ , ἐπὶ μὲν τοῖς γεγενημένοις ἠγανάκτει καὶ βαρέως ἔφερεν , καὶ εἰς τὴν οἰκίαν οὐδʼ ὣς εἰσδέξασθαι τούτους ἠξίωσεν , εἰς δὲ τοὺς φράτερας ἠναγκάσθη εἰσαγαγεῖν . καὶ τοῦτον μὲν ἐνέγραψε Βοιωτόν , τὸν δʼ ἕτερον Πάμφιλον .",
+      "translation": "When these terms had been accepted — for why should I make my story a long one ?— he went to meet her before the arbitrator , and Plangon , contrary to all that she had agreed to do , accepted the challenge , and swore in the Delphinium [*] an oath which was the very opposite of her former one , as most of you know well ; for the transaction became a notorious one . Thus , my father was compelled on account of his own challenge to abide by the arbitrator ’ s award , but he was indignant at what had been done , and took the matter heavily to heart , and did not even so consent to admit these men into his house ; but he was compelled to introduce them to the clansmen . The defendant he enrolled as Boeotus , and the other as Pamphilus ."
+    },
+    {
+      "id": "12",
+      "label": "Section 12",
+      "chapter": null,
+      "original": "ἐμὲ δʼ εὐθὺς ἔπειθε περὶ ὀκτωκαίδεκʼ ἔτη γεγενημένον τὴν Εὐφήμου γῆμαι θυγατέρα , βουλόμενος παῖδας ἐξ ἐμοῦ γενομένους ἐπιδεῖν . ἐγὼ δέ , ὦ ἄνδρες δικασταί , νομίζων δεῖν καὶ πρότερον καὶ ἐπειδὴ οὗτοι ἐλύπουν αὐτὸν δικαζόμενοι καὶ πράγματα παρέχοντε , ἐμὲ τοὐναντίον εὐφραίνειν ἅπαντα ποιοῦντα ὅσα ἐκείνῳ χαριεῖσθαι μέλλοιμι , ἐπείσθην αὐτῷ .",
+      "translation": "As for me , he forthwith persuaded me , for I was about eighteen years of age , to marry the daughter of Euphemus , wishing to live to see children born to me . I , men of the jury , as before , so especially then , when these men were beginning to annoy him with lawsuits and were proving troublesome , thought that I , on the contrary , ought to strive to gladden him by doing everything whereby I could give him pleasure , and so obeyed him ."
+    },
+    {
+      "id": "13",
+      "label": "Section 13",
+      "chapter": null,
+      "original": "γήμαντος δέ μου τὸν τρόπον τοῦτον , ἐκεῖνος μὲν τὸ θυγάτριόν μοι ἐπιδὼν γενόμενον , οὐ πολλοῖς ἔτεσιν ὕστερον ἀρρωστήσας ἐτελεύτησεν · ἐγὼ δʼ , ὦ ἄνδρες δικασταί , ζῶντος μὲν τοῦ πατρὸς οὐδὲν ᾤμην δεῖν ἐναντιοῦσθαι αὐτῷ , τελευτήσαντος δὲ ἐκείνου εἰσεδεξάμην τε τούτους εἰς τὴν οἰκίαν καὶ τῶν ὄντων ἁπάντων μετέδωκα , οὐχ ὡς ἀδελφοῖς οὖσιν ( οὐδὲ γὰρ ὑμῶν τοὺς πολλοὺς λελήθασιν ὃν τρόπον οὗτοι γεγόνασιν ), νομίζων δʼ ἀναγκαῖον εἶναί μοι , ἐπειδὴ ὁ πατὴρ ἐξηπατήθη , πείθεσθαι τοῖς νόμοις τοῖς ὑμετέροις .",
+      "translation": "When I had married in this way , and he had lived to see my little daughter born , not many years later he fell sick and died . Then , although during my father ’ s lifetime , men of the jury , I had thought it my duty to oppose him in nothing , yet after his death I received these men into the house , and gave them a share of all the property , not as being really my brothers ( for most of you are well aware of the manner in which they became such ), but thinking that , as my father had been beguiled , it was my duty to obey your laws ."
+    },
+    {
+      "id": "14",
+      "label": "Section 14",
+      "chapter": null,
+      "original": "καὶ οὕτως ὑπʼ ἐμοῦ εἰς τὴν οἰκίαν εἰσδεχθέντες , ὡς ἐνεμόμεθα τὰ πατρῷα , ἀξιοῦντος ἐμοῦ ἀπολαβεῖν τὴν τῆς μητρὸς προῖκα ἀντενεκάλουν καὶ οὗτοι , καὶ ἔφασαν ὀφείλεσθαι καὶ τῇ αὑτῶν μητρὶ τὴν ἴσην προῖκα . συμβουλευσάντων δʼ ἡμῖν τῶν παρόντων , τὰ μὲν ἄλλα πάντα ἐνειμάμεθα , τὴν δὲ οἰκίαν καὶ τοὺς παῖδας τοὺς διακόνους τοῦ πατρὸς ἐξαιρέτους ἐποιησάμεθα ,",
+      "translation": "And when they had thus been received by me into the house , we proceeded to divide the inheritance ; and upon my demanding that my mother ’ s marriage-portion be repaid to me , these men put in a counter-claim , and alleged that a portion of like amount was owing to their mother . [*] On the advice of friends who were present we divided all the rest of the property but kept apart the house and the domestic servants of my father ,"
+    },
+    {
+      "id": "15",
+      "label": "Section 15",
+      "chapter": null,
+      "original": "ἵνʼ ἐκ μὲν τῆς οἰκίας , ὁποτέροις ἂν ἡμῶν φαίνηται ὀφειλομένη ἡ προίξ , οὗτοι αὐτὴν κομίσωνται , ἐκ δὲ τῶν παίδων κοινῶν ὄντων , ἐάν τι οὗτοι τῶν πατρῴων ἐπιζητῶσιν , πυνθάνωνται , καὶ βασανίζοντες αὐτοὺς καὶ ἄλλῳ ὅτῳ ἂν τρόπῳ βούλωνται ζητοῦντες . ὅτι δὲ καὶ ταῦτʼ ἀληθῆ λέγω , ἐκ τούτων τῶν μαρτυριῶν εἴσεσθε .\nΜΑΡΤΥΡΙΑΙ",
+      "translation": "in order that whichever party of us might establish his claim to the dowry should recover it from the value of the house ; and from the slaves , who were common property , the defendants , should they wish to search out [*] any of my father ’ s effects , might make inquiry by torturing them , or by prosecuting their search in any other way they might please .\nThat I am speaking the truth in this also you will know from these depositions .\nThe Depositions"
+    },
+    {
+      "id": "16",
+      "label": "Section 16",
+      "chapter": null,
+      "original": "μετὰ ταῦτα τοίνυν οὗτοί τε ἐμοὶ δίκας ἔλαχον ὑπὲρ ὧν ἐνεκάλουν κἀγὼ τούτοις ὑπὲρ τῆς προικός . καὶ τὸ μὲν πρῶτον παραγραψάμενοι Σόλωνα Ἑρχιέα διαιτητὴν τούτῳ ἐπετρέψαμεν δικάσαι περὶ ὧν ἐνεκαλοῦμεν ἀλλήλοις · ὡς δʼ οὐκ ἀπήντων οὗτοι , ἀλλʼ ἐφυγοδίκουν καὶ χρόνος διετρίβετο συχνός , τῷ μὲν Σόλωνι συνέβη τελευτῆσαι τὸν βίον , οὗτοι δὲ πάλιν ἐξ ὑπαρχῆς λαγχάνουσί μοι τὰς δίκας , καὶ ἐγὼ τούτῳ , προσκαλεσάμενος αὐτὸν καὶ ἐπιγραψάμενος ἐπὶ τὸ ἔγκλημα Βοιωτόν · τοῦτο γὰρ αὐτῷ ὁ πατὴρ ἔθετο τοὔνομα .",
+      "translation": "After this these men brought action against me to establish their claims , and I sued them for the marriage-portion . At the first we had Solon , of Erchia , [*] registered as arbitrator , and submitted to him for decision the claims we advanced against each other . These men , however , did not appear , but avoided the hearing ; and thus considerable time was wasted , and it came about that Solon died . These men then instituted their suit against me afresh , and I my suit against the defendant , summoning him under the name of Boeotus , and inscribing that name on the complaint ; for that was the name my father gave him ."
+    },
+    {
+      "id": "17",
+      "label": "Section 17",
+      "chapter": null,
+      "original": "περὶ μὲν οὖν ὧν οὗτοί μοι ἐδικάζοντο , παρόντος τούτου καὶ ἀντιδικοῦντος καὶ οὐκ ἔχοντος ἐπιδεῖξαι οὐδὲν ὧν ἐνεκάλουν , ἀπεδιῄτησέν μου ὁ διαιτητής · καὶ οὗτος συνειδὼς αὑτῷ ἀδίκως ἐγκαλοῦντι οὔτε ἐφῆκεν εἰς τὸ δικαστήριον , οὔτε νῦν περὶ ἐκείνων εἴληχέ μοι δίκην οὐδεμίαν , ἀλλὰ περὶ ἄλλων τινῶν , λύσειν τοῖς ἐγκλήμασι τούτοις τὴν δίκην ταύτην οἰόμενος . ἣν δʼ ἐγὼ τοῦτον ἐδίωκον τότε περὶ τῆς προικός , ἐπιδημοῦντος τούτου ἐνθάδε καὶ οὐκ ἀπαντήσαντος πρὸς τὸν διαιτητήν , ἐρήμην κατεδιῄτησεν αὐτοῦ .",
+      "translation": "In the suit which these men brought against me , Boeotus appeared and fought the case , but , since he was unable to establish any of their claims , the arbitrator decided in my favor ; and Boeotus , conscious that he was making charges without any just basis , did not appeal to a jury , and has not now entered any suit against me in regard to these matters , but in regard to some others , thinking to break down this suit of mine by these counter-charges . [*] In the suit which at that time I was carrying on against Boeotus in regard to the marriage-portion , since he was here in Athens and did not appear before the arbitrator , the latter gave judgement against him by default ."
+    },
+    {
+      "id": "18",
+      "label": "Section 18",
+      "chapter": null,
+      "original": "οὑτοσὶ δέ , ὦ ἄνδρες δικασταί , οὔτε ἠντεδίκει τότε παρὼν οὔτε ἔφη με καταδιαιτήσασθαι τὴν δίκην αὑτοῦ · οὐ γὰρ εἶναι Βοιωτὸν αὑτῷ ὄνομα , ἀλλὰ Μαντίθεον , καὶ οὕτως ὀνόματι ἀμφισβητῶν ἔργῳ τὴν προῖκά με τῆς μητρὸς ἀποστερεῖ . ἀπορῶν δʼ ἐγὼ τί ἄν τις χρήσαιτο τῷ πράγματι , οὕτω πάλιν τὴν αὐτὴν ταύτην δίκην λαχὼν αὐτῷ Μαντιθέῳ ἑνδεκάτῳ ἔτει νῦν εἰς ὑμᾶς καταπέφευγα . ὡς δὲ καὶ ταῦτʼ ἀληθῆ λέγω , ἀναγνώσεται ὑμῖν τὰς περὶ τούτων μαρτυρίας .\nΜΑΡΤΥΡΙΑΙ .",
+      "translation": "And Boeotus , men of the jury , though he was here at the time would not contest the suit , but declared that I had not received the arbitrator ’ s verdict against him , for his name was not Boeotus , but Mantitheus ; and thus , by quibbling about a name , he is in fact depriving me of my mother ’ s portion . As I was at a loss to know how one should deal with a matter like this , I instituted the same suit afresh against him as Mantitheus , and now in the eleventh year I have come to you for help .\nTo prove that I am speaking the truth in this also , the clerk will read the depositions dealing with these matters .\nThe Depositions"
+    },
+    {
+      "id": "19",
+      "label": "Section 19",
+      "chapter": null,
+      "original": "ὅτι μὲν τοίνυν , ὦ ἄνδρες δικασταί , ἥ τε μήτηρ μου τάλαντον ἐπενεγκαμένη προῖκα , ἐκδοθεῖσα ὑπὸ τῶν ἀδελφῶν τῶν αὑτῆς , ὥσπερ οἱ νόμοι κελεύουσιν , συνῴκησεν τῷ πατρί , καὶ ὃν τρόπον ἐγὼ τούτους εἰσεδεξάμην εἰς τὴν οἰκίαν τοῦ πατρὸς τελευτήσαντος , καὶ ὅτι ἀπέφυγον αὐτοὺς τὰς δίκας ἅς μοι ἐνεκάλουν , ταῦτα μὲν πάντα καὶ μεμαρτύρηται ὑμῖν καὶ ἐπιδέδεικται . ἴθι δὴ λαβὲ καὶ τὸν περὶ τῆς προικὸς νόμον τουτονί .\nΝΟΜΟΣ .",
+      "translation": "That my mother , therefore , men of the jury , bringing a talent as her dowry , and given in marriage by her brothers , as the laws command , lived with my father as his wife ; the manner , too , in which I received these men into the house after my father ’ s death ; and the fact that I obtained a verdict in the suits which they brought against me ;— all this has been established for you by proofs and by testimony .\nCome now , take also this law concerning the marriage-portion .\nThe Law"
+    },
+    {
+      "id": "20",
+      "label": "Section 20",
+      "chapter": null,
+      "original": "οὕτω τοίνυν τοῦ νόμου ἔχοντος , οἶμαι τουτονὶ Βοιωτὸν ἢ Μαντίθεον ἢ ὅ τι ποτʼ ἄλλο χαίρει προσαγορευόμενος , δικαίαν μὲν ἀπολογίαν καὶ ἀληθινὴν οὐδεμίαν ἕξειν εἰπεῖν , ἐπιχειρήσειν δὲ τῇ τόλμῃ καὶ τῇ θρασύτητι τῇ ἑαυτοῦ πιστεύοντα περιιστάναι τὰς αὑτῶν συμφορὰς εἰς ἐμέ , ἅπερ καὶ ἰδίᾳ ποιεῖν εἴωθεν , λέγων ὡς δημευθείσης τῆς τοῦ Παμφίλου οὐσίας , ὃς ἦν πατὴρ τῆς Πλαγγόνος , τὰ περιγενόμενα χρήματα ὁ πατὴρ ὁ ἐμὸς ἔλαβεν ἐκ τοῦ βουλευτηρίου , καὶ οὕτως ἀποφαίνειν πειρώμενος τὴν μὲν αὑτοῦ μητέρα ἐπενεγκαμένην προῖκα πλέον ἢ ἑκατὸν μνᾶς , τὴν δʼ ἐμὴν ἄπροικον φάσκων συνοικῆσαι .",
+      "translation": "Such being the law , I fancy that this man — call him Boeotus or Mantitheus , or any other name by which he likes to be addressed — will have no valid or genuine defence to offer , but , relying upon his own audaciousness and effrontery , will endeavor to attach to me the misfortunes of his own family , as he is wont to do also in private life ; and will allege that when the property of Pamphilus , who was the father of Plangon , was confiscated , my father took from out the council-chamber [*] the surplus proceeds [*] and he will thus try to show that his own mother brought a dowry of more than one hundred minae , while my mother ( he will claim ) brought my father no portion whatever ."
+    },
+    {
+      "id": "21",
+      "label": "Section 21",
+      "chapter": null,
+      "original": "ταῦτα διέξεισιν , ὦ ἄνδρες δικασταί , οὔτε μαρτυρίαν οὐδεμίαν ἐμβεβλημένος ὑπὲρ τούτων οὔτʼ ἀγνοῶν ὡς οὐδὲν ὑγιὲς λέγει , ἀλλʼ ἀκριβῶς εἰδὼς ὅτι ὁμολογῶν μὲν ἀδικεῖν ἐν ὑμῖν οὐδείς πω ἀπέφυγεν , ψευδόμενος δὲ καὶ παραγωγὰς λέγων ἤδη τις δίκην οὐκ ἔδωκεν . ἵνα οὖν μὴ ἐξαπατηθῆτε ὑπʼ αὐτοῦ , βέλτιον εἶναί μοι δοκεῖ βραχέα καὶ περὶ τούτου πρὸς ὑμᾶς εἰπεῖν .",
+      "translation": "These things he will state at length to you , men of the jury , although he has not put a single deposition in the box to substantiate them , and knows very well that there is not a word of truth in what he says ; for he is fully conscious that in your court no man who confessed his guilt was ever acquitted , whereas by lying and advancing arguments to lead you astray many a man ere now has avoided paying the penalty for his deeds . In order , then , that you may not be deceived by him , I think it is better to speak to you briefly about this matter also ."
+    },
+    {
+      "id": "22",
+      "label": "Section 22",
+      "chapter": null,
+      "original": "ἐὰν γὰρ λέγῃ ὡς ἡ μὲν ἐμὴ μήτηρ οὐκ ἐπηνέγκατο προῖκα , ἡ δὲ τούτων ἐπηνέγκατο , ἐνθυμεῖσθε ὅτι περιφανῶς ψεύδεται . πρῶτον μὲν γὰρ ὁ Πάμφιλος ὁ πατὴρ τῆς τούτου μητρὸς πέντε τάλαντα τῷ δημοσίῳ ὀφείλων ἐτελεύτησεν , καὶ τοσούτου ἐδέησεν περιγενέσθαι τι τοῖς ἐκείνου παισὶν τῆς οὐσίας ἀπογραφείσης καὶ δημευθείσης , ὥστε οὐδὲ τὸ ὄφλημα πᾶν ὑπὲρ αὐτοῦ ἐκτέτεισται , ἀλλʼ ἔτι καὶ νῦν ὁ Πάμφιλος ὀφείλων τῷ δημοσίῳ ἐγγέγραπται . πῶς οὖν οἷόν τε τὸν ἐμὸν πατέρα χρήματα λαβεῖν ἐκ τῆς Παμφίλου οὐσίας , ἣ οὐδὲ αὐτὸ τὸ ὄφλημα ἱκανὴ ἐγένετο τῇ πόλει ἐκτεῖσαι ;",
+      "translation": "For if he shall say that my mother did not bring with her a marriage-portion , while their mother did , bear in mind that he is manifestly lying . To begin with , Pamphilus , the father of this man ’ s mother , died owing five talents to the public treasury , and so far from there being any surplus proceeds for his children after his property had been scheduled and confiscated , even his indebtedness has not been paid in full , but to this day Pamphilus stands inscribed as a debtor to the treasury . How , then , can it be that my father received money from the estate of Pamphilus , which proved inadequate to pay in full even the debt due to the city ?"
+    },
+    {
+      "id": "23",
+      "label": "Section 23",
+      "chapter": null,
+      "original": "ἔπειτα , ὦ ἄνδρες δικασταί , ἐνθυμεῖσθε ὅτι , εἰ τὰ μάλιστα περιεγένετο τὰ χρήματα ταῦτα , ὥσπερ οὗτοί φασιν , οὐκ ἂν ὁ ἐμὸς πατὴρ αὐτὰ ἔλαβεν , ἀλλʼ οἱ τοῦ Παμφίλου υἱεῖς , Βοιωτὸς καὶ Ἡδύλος καὶ Εὐθύδημος , οἳ οὐκ ἂν δήπου ἐπὶ μὲν τῷ τἀλλότρια λαμβάνειν ὅτι ἂν οὖν ἐποίουν , ὡς καὶ ὑμεῖς ἅπαντες ἴστε , τὰ δʼ αὑτῶν τὸν ἐμὸν πατέρα περιεῖδον κομισάμενον .",
+      "translation": "Furthermore , men of the jury , bear this in mind , that were it never so true that this surplus money did accrue as these men pretend , it was not my father who would have received it , but the sons of Pamphilus , Boeotus and Hedylus and Euthydemus ; and , I fancy , they are not men who would go to all lengths to get hold of the property of others , as you all know , and yet at the same time quietly have allowed my father to take possession of what was theirs ."
+    },
+    {
+      "id": "24",
+      "label": "Section 24",
+      "chapter": null,
+      "original": "ὅτι μὲν τοίνυν ἥ γε τούτων μήτηρ οὐκ ἐπηνέγκατο προῖκα , ἀλλʼ οὗτοι τοῦτο ψεύδονται , ἱκανῶς ὑμᾶς μεμαθηκέναι νομίζω · ὅτι δὲ ἡ ἐμὴ μήτηρ ἐπηνέγκατο , ῥᾳδίως ἐγὼ δείξω . πρῶτον μὲν γὰρ Πολυαράτου θυγάτηρ ἦν , ὃς καὶ ὑφʼ ὑμῶν ἐτιμᾶτο καὶ πολλὴν οὐσίαν ἐκέκτητο · ἔπειτα μεμαρτύρηται ὑμῖν ὡς καὶ ἡ ἀδελφὴ αὐτῆς τοσαύτην προῖκα ἐπενεγκαμένη Ἐρυξιμάχῳ συνῴκησεν , τῷ Χαβρίου κηδεστῇ .",
+      "translation": "That the mother of these men did not bring with her a marriage-portion , but that they are lying in regard to this , I think has been proved to you quite adequately ; but that my mother did bring one , I shall easily show . In the first place , she was the daughter of Polyaratus , who was both honored by you citizens , and had acquired a large estate . Secondly , it has been proved to you by witnesses that her sister brought a dowry of the like amount when she married Eryximachus , the brother-in-law of Chabrias . [*]"
+    },
+    {
+      "id": "25",
+      "label": "Section 25",
+      "chapter": null,
+      "original": "πρὸς δὲ τούτοις φαίνεταί μου ἡ μήτηρ τὸ πρῶτον ἐκδοθεῖσα Κλεομέδοντι , οὗ φασι τὸν πατέρα Κλέωνα τῶν ὑμετέρων προγόνων στρατηγοῦντα , Λακεδαιμονίων πολλοὺς ἐν Πύλῳ ζῶντας λαβόντα , μάλιστα πάντων ἐν τῇ πόλει εὐδοκιμῆσαι · ὥστε οὔτε τὸν ἐκείνου προσῆκεν υἱὸν ἄπροικον αὐτὴν γῆμαι , οὔτε Μενέξενον καὶ Βάθυλλον εἰκός ἐστιν , αὐτούς τε οὐσίαν πολλὴν κεκτημένους καὶ Κλεομέδοντος τελευτήσαντος κομισαμένους τὴν προῖκα , ἀποστερῆσαι τὴν ἀδελφὴν τὴν ἑαυτῶν , ἀλλὰ προσθέντας αὐτοὺς ἐκδοῦναι τῷ ἡμετέρῳ πατρί , καθάπερ καὶ αὐτοὶ πρὸς ὑμᾶς καὶ οἱ ἄλλοι μεμαρτυρήκασιν .",
+      "translation": "Besides all this , my mother is shown to have been first given in marriage to Cleomedon , whose father Cleon , we are told , [*] commanded troops among whom were your ancestors , and captured alive a large number of Lacedaemonians in Pylos , [*] and won greater renown than any other man in the state ; so it was not fitting that the son of that famous man should wed my mother without a dowry , nor is it likely that Menexenus and Bathyllus , who had large fortunes themselves , and who , after Cleomedon ’ s death , received back the dowry , defrauded their own sister ; rather , they would themselves have added to her portion , when they gave her in marriage to my father , as they themselves and the others have testified before you ."
+    },
+    {
+      "id": "26",
+      "label": "Section 26",
+      "chapter": null,
+      "original": "χωρὶς δὲ τούτων ἐνθυμήθητε , διὰ τί ἄν ποτε ὁ πατήρ , εἴπερ ἡ μὲν ἐμὴ μήτηρ μὴ ἦν ἐγγυητὴ μηδὲ ἠνέγκατο προῖκα , ἡ δὲ τούτων ἠνέγκατο , τοὺς μὲν οὐκ ἔφη αὑτοῦ υἱεῖς εἶναι , ἐμὲ δὲ καὶ ἐποιεῖτο καὶ ἐπαίδευεν ; ὅτι νὴ Δία , ὡς οὗτοι φήσουσιν , ἐμοὶ χαριζόμενος καὶ τῇ ἐμῇ μητρὶ τούτους ἠτίμαζεν .",
+      "translation": "And besides this , just consider why in the world , if my mother had not been a lawfully espoused wife , and had brought no dowry , while the mother of these men did , should my father have denied that they were his sons , and have acknowledged me , and brought me up ? Because , forsooth , as these men will claim , he dishonored them in order to show favor to me and my mother ."
+    },
+    {
+      "id": "27",
+      "label": "Section 27",
+      "chapter": null,
+      "original": "ἀλλʼ ἐκείνη μὲν ἔτι παῖδα μικρὸν ἐμὲ καταλιποῦσα αὐτὴ τὸν βίον ἐτελεύτησεν , ἡ δὲ τούτων μήτηρ Πλαγγὼν καὶ πρότερον καὶ μετὰ ταῦτα εὐπρεπὴς τὴν ὄψιν οὖσα ἐπλησίαζεν αὐτῷ · ὥστε πολὺ μᾶλλον εἰκὸς ἦν αὐτὸν διὰ τὴν ζῶσαν γυναῖκα , ἧς ἐρῶν ἐτύγχανε , τὸν τῆς τεθνεώσης υἱὸν ἀτιμάζειν , ἢ διʼ ἐμὲ καὶ τὴν τετελευτηκυῖαν τοὺς ἐκ τῆς ζώσης καὶ πλησιαζούσης αὐτῷ παῖδας μὴ ποιεῖσθαι .",
+      "translation": "But my mother died , leaving me still a little boy , whereas the mother of these men , Plangon , who was a handsome woman , maintained her connection with him both before and after that ; so that it was much more likely that for the sake of the living woman , with whom he was in love all this time , he would dishonor the son of her who was dead , than that for my sake and my dead mother ’ s he would refuse to acknowledge the children of her who was living and maintaining her connection with him ."
+    },
+    {
+      "id": "28",
+      "label": "Section 28",
+      "chapter": null,
+      "original": "καίτοι οὗτός γε εἰς τοῦτο τόλμης ἥκει , ὥστε φησὶ τὸν πατέρα μου δεκάτην ὑπὲρ αὑτοῦ ἑστιᾶσαι . καὶ περὶ τούτου μόνον Τιμοκράτους καὶ Προμάχου ἐμβέβληται μαρτυρίας , οἳ οὔτε γένει προσήκουσί μου τῷ πατρὶ οὐδὲν οὔτε φίλοι ἦσαν ἐκείνῳ . οὕτω δὲ φανερῶς τὰ ψευδῆ μεμαρτυρήκασιν , ὥστε ὃν πάντων ὑμῶν εἰδότων οὑτοσὶ δίκην λαχὼν ἄκοντα ἠνάγκασε ποιήσασθαι αὑτόν , τοῦτον οὗτοι , ὥσπερ κλητῆρες , δύο μόνοι ὄντες μαρτυροῦσιν δεκάτην ὑπὲρ τούτου ἑστιᾶσαι .",
+      "translation": "My opponent , however , has come to such a pitch of audacity as to declare that my father made feast for him on the tenth day . [*] And in regard to this he has put in depositions of Timocrates [*] and Promachus alone , who are in no way related to my father , and were not friends of his . The testimony they have borne is so patently false , that , whereas you all know that Boeotus by instituting proceedings forced my father against his will to acknowledge him these men , like witnesses to a summons — and only two of them — depose that he made a feast for this fellow on the tenth day !"
+    },
+    {
+      "id": "29",
+      "label": "Section 29",
+      "chapter": null,
+      "original": "οἷς τίς ἂν ὑμῶν πιστεύσειεν ; καὶ μὴν οὐδʼ ἐκεῖνό γε εἰπεῖν αὐτῷ ἐνδέχεται , ὡς μικρὸν μὲν ὄντα ἐποιεῖτο αὐτὸν ὁ πατήρ , μείζω δὲ γενόμενον τῇ μητρὶ ὀργισθείς τι τῇ τούτων ἠτίμαζεν · πολὺ γὰρ δήπου μᾶλλον εἰώθασιν , ὧν ἂν ἐν αὑτοῖς διενεχθῶσιν γυνὴ καὶ ἀνήρ , διαλλάττεσθαι διὰ τοὺς παῖδας ἢ διὰ τὰς πρὸς ἑαυτοὺς ὀργὰς τοὺς κοινοὺς παῖδας πρὸς μισεῖν . ὥστε ἐὰν μὲν ἐπιχειρῇ ταῦτα λέγειν , μὴ ἐπιτρέπετε ἀναισχυντεῖν .",
+      "translation": "Is there anyone of you who can believe that ? And assuredly it is not open to him to say this , either — that when he was a little child my father acknowledged him , but that when he was grown he scorned him because of some quarrel with the mother of these men ; [*] for surely man and wife are much more apt , in cases where they are at variance with one another , to become reconciled for the sake of their children than , because of their enmity toward each other , to hate their common children as well . If , therefore , he attempts to say this , do not permit him to brazen it out ."
+    },
+    {
+      "id": "30",
+      "label": "Section 30",
+      "chapter": null,
+      "original": "ἂν δὲ λέγῃ περὶ τῶν δικῶν ἃς ἀπεδιῄτησέν μου ὁ διαιτητής , καὶ φάσκῃ ὑπʼ ἐμοῦ ἀπαράσκευος ληφθῆναι , πρῶτον μὲν μέμνησθε ὅτι οὐκ ὀλίγος χρόνος ἐγένετο , ἐν ᾧ ἔδει παρασκευάσασθαι αὐτόν , ἀλλʼ ἔτη πολλά , ἔπειθʼ ὅτι οὗτος ἦν ὁ διώκων , ὥστε πολὺ μᾶλλον ἦν εἰκὸς ἐμὲ ὑπὸ τούτου ἀπαράσκευον ληφθῆναι ἢ τοῦτον ὑπʼ ἐμοῦ .",
+      "translation": "And should he go on to talk about the actions brought by them , which the arbitrator decided in my favor , and claim that he was caught by me unprepared , remember , first , that it was not a short time that he had in which to prepare himself , but a great many years , and secondly , that it was he who brought the suit , so that it was much more likely that I should be taken unprepared by him than he by me ."
+    },
+    {
+      "id": "31",
+      "label": "Section 31",
+      "chapter": null,
+      "original": "ἔτι δὲ πάντες ὑμῖν οἱ πρὸς τῷ διαιτητῇ παρόντες μεμαρτυρήκασιν ὡς οὗτος παρὼν αὐτός , ὅτε ἀπεδιῄτησέ μου ὁ διαιτητής , οὔτε ἐφῆκεν εἰς τὸ δικαστήριον ἐνέμεινέ τε τῇ διαίτῃ . καίτοι ἄτοπον δοκεῖ μοι εἶναι , εἰ οἱ μὲν ἄλλοι , ὅταν οἴωνται ἀδικεῖσθαι , καὶ τὰς πάνυ μικρὰς δίκας εἰς ὑμᾶς ἐφιᾶσιν , οὗτος δέ μοι περὶ προικὸς δίκην ταλάντου λαχών , ταύτης , ὡς αὐτός φησιν , ἀδίκως ἀποδιαιτηθείσης ἐνέμεινεν .",
+      "translation": "And further , all those who were present before the arbitrator have given testimony that Boeotus was present when the arbitrator gave his decision in my favor and that he did not appeal to the court , but acquiesced in the decision . And yet it seems to me a strange thing that , whereas other men , who consider that they are being wronged , [*] bring before you on appeal cases even of the slightest import , this fellow , who had brought suit against me to recover a talent as the marriage-portion , and had this suit decided against him by the arbitrator , unjustly , as he claims , should acquiesce in the decision ."
+    },
+    {
+      "id": "32",
+      "label": "Section 32",
+      "chapter": null,
+      "original": "νὴ Δίʼ , ἀπράγμων γάρ τις ἴσως ἐστὶν ἄνθρωπος καὶ οὐ φιλόδικος . ἐβουλόμην τἄν , ὦ ἄνδρες δικασταί , τοιοῦτον αὐτὸν εἶναι . νυνὶ δὲ ὑμεῖς μὲν οὕτως ἐστὲ κοινοὶ καὶ φιλάνθρωποι , ὥστε οὐδὲ τοὺς τῶν τριάκοντα υἱεῖς φυγαδεῦσαι ἐκ τῆς πόλεως ἠξιώσατε · οὗτος δὲ ἐμοὶ μετὰ Μενεκλέους τοῦ πάντων τούτων ἀρχιτέκτονος ἐπιβουλεύσας , καὶ ἐξ ἀντιλογίας καὶ λοιδορίας πληγὰς συναψάμενος , ἐπιτεμὼν τὴν κεφαλὴν τὴν αὑτοῦ τραύματος εἰς Ἄρειον πάγον με προσεκαλέσατο , ὡς φυγαδεύσων ἐκ τῆς πόλεως .",
+      "translation": "Ah , but it may be said that he is a man who loves peace and hates litigation . I could indeed wish , men of the jury , that he were a man of that type . But here is the truth : you are so generous and so kind toward your fellow-men that you did not deem it right to banish from the city even the sons of the Thirty Tyrants [*] ; but Boeotus , plotting against me with Menecles , who is the prime mover in all these schemes , having managed to get up a quarrel that from disputes and revilings should come to blows , cut his own head , and summoned me before the Areopagus on a charge of murderous assault , with the intention of driving me into exile from the city ."
+    },
+    {
+      "id": "33",
+      "label": "Section 33",
+      "chapter": null,
+      "original": "καὶ εἰ μὴ Εὐθύδικος ὁ ἰατρός , πρὸς ὃν οὗτοι τὸ πρῶτον ἦλθον δεόμενοι ἐπιτεμεῖν τὴν κεφαλὴν αὐτοῦ , πρὸς τὴν ἐξ Ἀρείου πάγου βουλὴν εἶπεν τὴν ἀλήθειαν πᾶσαν , τοιαύτην ἂν δίκην οὗτος εἰλήφει παρʼ ἐμοῦ τοῦ μηδὲν ἀδικοῦντος , ἣν ὑμεῖς οὐδὲ κατὰ τῶν τὰ μέγιστʼ ἀδικούντων ὑμᾶς ἐπιχειρήσαιτʼ ἂν ποιήσασθαι . ἵνα δὲ μὴ δοκῶ διαβάλλειν αὐτόν , ἀνάγνωθί μοι τὰς μαρτυρίας .\nΜΑΡΤΥΡΙΑΙ .",
+      "translation": "And if Euthydicus , the physician , to whom these men had gone in the first instance , asking him to make a cut on the head of Boeotus — had not told to the court of the Areopagus the whole truth , this man would have taken such vengeance upon me , who was guilty of no wrong toward him , as you would not try to inflict on those who were guilty of the greatest wrongs toward you .\nThat I may not be thought to be slandering him , read , please , the depositions .\nThe Depositions"
+    },
+    {
+      "id": "34",
+      "label": "Section 34",
+      "chapter": null,
+      "original": "τοῦτον μὲν τοίνυν οὕτω μέγαν καὶ φοβερὸν ἀγῶνά μοι οὐχ ὡς εὐήθης ὤν , ἀλλʼ ὡς ἐπίβουλος καὶ κακοῦργος κατεσκεύασεν . μετὰ δὲ ταῦτα ἀντὶ τοῦ ὀνόματος οὗ ἔθετο αὐτῷ ὁ πατὴρ Βοιωτόν , ὥσπερ καὶ πρὸς ὑμᾶς μεμαρτύρηται , ἐπειδὴ ἐκεῖνος ἐτελεύτησε , Μαντίθεον ἑαυτὸν ἐγγράψας εἰς τοὺς δημότας , καὶ τοῦ αὐτοῦ ἐμοὶ καὶ πατρὸς καὶ δήμου προσαγορευόμενος , οὐ μόνον τὴν δίκην ταύτην , περὶ ἧς νυνὶ δικάζομαι , ἀνάδικον ἐποίησεν , ἀλλὰ καὶ χειροτονησάντων ὑμῶν ἐμὲ ταξίαρχον , ἧκεν αὐτὸς ἐπὶ τὸ δικαστήριον δοκιμασθησόμενος , δίκην δὲ ἐξούλης ὠφληκώς , ταύτην οὐκ αὐτὸς ὠφληκέναι φησίν , ἀλλʼ ἐμέ .",
+      "translation": "This great and formidable contest , then , he got up against me , not as a simple-minded fellow , but as a conspirator and a villain . But after this , instead of the name , Boeotus , which my father had given him , as has been proved to you by witnesses , after my father ’ s death he had his name inscribed on the list of the demesmen as Mantitheus , and being further addressed by the name of the same father and the same deme as I myself , he not only forced a retrial of the case in which I am now suing him , [*] but when you had elected me taxiarch , he came in person to the court to pass the probationary test [*] ; and when judgement had been given against him in an ejectment suit , he declared that it was not against him but against me that the judgement had been given ."
+    },
+    {
+      "id": "35",
+      "label": "Section 35",
+      "chapter": null,
+      "original": "ὡς δʼ ἐν κεφαλαίῳ εἰπεῖν , κακά μοι παρέχων ἠνάγκασέ με λαχεῖν αὑτῷ δίκην περὶ τοῦ ὀνόματος , οὐχ ἵνα χρήματα παρʼ αὐτοῦ λάβω , ὦ ἄνδρες δικασταί , ἀλλʼ ἵνα , ἐὰν ὑμῖν δοκῶ δεινὰ πάσχειν καὶ βλάπτεσθαι μεγάλα , οὑτοσὶ καλῆται Βοιωτός , ὥσπερ ὁ πατὴρ αὐτῷ ἔθετο . ὅτι τοίνυν ἀληθῆ καὶ ταῦτα λέγω , λαβέ μοι καὶ τὰς περὶ τούτων μαρτυρίας .\nΜΑΡΤΥΡΙΑΙ .",
+      "translation": "And to sum up the matter for you , he gave me so much trouble that he compelled me to bring suit against him regarding the name , not in order to get money from him , men of the jury , but that , if it should appear to you that I am being outrageously treated and am suffering grievous wrongs , he may go on being called Boeotus , as my father named him .\nTo prove that I am speaking the truth in this also , take , please , the depositions bearing on these matters .\nThe Depositions"
+    },
+    {
+      "id": "36",
+      "label": "Section 36",
+      "chapter": null,
+      "original": "πρὸς τούτοις τοίνυν καὶ ὅτι ἐγὼ στρατευόμενος καὶ μετὰ Ἀμεινίου ξενολογήσας , ἄλλοθέν τε χρήματα εὐπορήσας καὶ ἐκ Μυτιλήνης παρὰ τοῦ ὑμετέρου προξένου Ἀπολλωνίδου καὶ παρὰ τῶν φίλων τῆς πόλεως λαβὼν τριακοσίους στατῆρας Φωκαιᾶς , ἀνήλωσα εἰς τοὺς στρατιώτας , ἵνα πρᾶξίς τις πραχθείη καὶ ὑμῖν καὶ ἐκείνοις συμφέρουσα ,",
+      "translation": "In addition to all this , on the charge that , when I was on military service and had collected mercenaries with Ameinias [*] ( seeing that I was well-provided with funds from other sources , and had collected from Mytilene from your proxenus [*] Apollonides and the friends of our city three hundred Phocaic staters , [*] and had spent that sum upon these troops , in order that a matter might be prosecuted which was of advantage to you and to them alike )—"
+    },
+    {
+      "id": "37",
+      "label": "Section 37",
+      "chapter": null,
+      "original": "περὶ τούτων μοι δικάζεται ὡς πατρικὸν κεκομισμένῳ χρέως παρὰ τῆς πόλεως τῆς Μυτιληναίων , Καμμῦ τῷ τυραννοῦντι Μυτιλήνης ὑπηρετῶν , ὃς καὶ ὑμῖν κοινῇ καὶ ἐμοὶ ἰδίᾳ ἐχθρός ἐστιν . ὅτι δὲ ὁ πατὴρ ἡμῶν , ἣν ἐψηφίσαντο αὐτῷ δωρεὰν οἱ Μυτιληναῖοι , εὐθὺς αὐτὸς ἐκομίσατο , καὶ ὡς οὐδὲν ὠφείλετο αὐτῷ χρέως ἐν Μυτιλήνῃ , τῶν ὑμετέρων φίλων παρέξομαι μαρτυρίαν .\nΜΑΡΤΥΡΙΑ .",
+      "translation": "for this he brings suit against me , alleging that I had collected a debt due to my father from the city of the Mytileneans . In this he was seeking to serve Cammys , [*] tyrant of Mytilene , who is an enemy of Athens and a private enemy of mine .\nBut to prove that my father at the time received in person the reward which the people of Mytilene voted him , and that no debt was owing to him in Mytilene , I will produce a deposition of your friends .\nThe Deposition"
+    },
+    {
+      "id": "38",
+      "label": "Section 38",
+      "chapter": null,
+      "original": "ἔχων τοίνυν , ὦ ἄνδρες δικασταί , καὶ ἄλλα πολλὰ καὶ δεινὰ λέγειν , ἃ οὗτος καὶ εἰς ἐμὲ καὶ εἰς ὑμῶν ἐνίους ἡμάρτηκεν , ἀναγκάζομαι διὰ τὸ ὀλίγον εἶναί μοι τὸ ὕδωρ παραλιπεῖν . νομίζω δὲ καὶ ἐκ τούτων ὑμῖν ἱκανῶς ἐπιδεδεῖχθαι , ὡς οὐ τοῦ αὐτοῦ ἀνθρώπου ἐστίν , ἀγῶνα μέν μοι περὶ φυγῆς κατασκευάζειν καὶ δίκας οὐδὲν προσηκούσας δικάζεσθαι , πρὸς δὲ τὸν διαιτητὴν ἀπαντᾶν ἀπαράσκευον . ὥστε περὶ μὲν τούτων ἂν ἐπιχειρῇ λέγειν , οὐκ οἴομαι ὑμᾶς ἀποδέξεσθαι .",
+      "translation": "I could mention many other outrageous acts of which Boeotus has been guilty , men of the jury , both against myself and against you ; but I am compelled to pass them by as but little water is left me in the clepsydra . [*] I think , however , that , even as it is , you have been shown conclusively that the same man who got up against me a suit involving the risk of banishment , and sued me on charges which concerned me not at all , is not one who would have come before the arbitrator unprepared ; so that if he tries to say anything about this , I imagine that you will not tolerate it ."
+    },
+    {
+      "id": "39",
+      "label": "Section 39",
+      "chapter": null,
+      "original": "ἂν δὲ λέγῃ ὡς ἀξιοῦντος αὐτοῦ ἐπιτρέψαι Κόνωνι τῷ Τιμοθέου περὶ ἁπάντων ἐγὼ οὐκ ἐβουλόμην ἐπιτρέπειν , ἐνθυμεῖσθε ὡς ἐξαπατᾶν ὑμᾶς ἐπιχειρήσει . ἐγὼ γὰρ περὶ μὲν ὧν αἱ δίκαι οὔπω τέλος εἶχον , ἕτοιμος ἦν ἐπιτρέπειν καὶ Κόνωνι καὶ ἄλλῳ διαιτητῇ ἴσῳ , ὅτῳ οὗτος βούλοιτο · περὶ δὲ ὧν τρὶς πρὸς τὸν διαιτητὴν ἀπαντήσαντος τούτου καὶ ἀντιδικοῦντος ὁ μὲν διαιτητὴς ἀπέγνω μου , οὗτος δὲ ἐν τοῖς γνωσθεῖσιν ἐνέμεινεν , ὡς καὶ ὑμῖν μεμαρτύρηται , οὐκ ᾤμην δίκαιον εἶναι ταῦτα πάλιν ἀνάδικα γίγνεσθαι ·",
+      "translation": "If , however , he declares that he offered to turn over all matters at issue between us to Conon , [*] son of Timotheus , for arbitration , and that I refused to submit them , be sure that he will be trying to mislead you . I , for my part , was ready to submit all matters upon which a decision had not yet been rendered , either to Conon or to any other impartial arbitrator whom Boeotus might choose ; but matters regarding which the arbitrator had given a decision in my favor , after Boeotus had thrice appeared before him and contested the case ,— a decision in which Boeotus acquiesced , as witnesses have testified to you ,— these matters , I thought , could not justly be reopened ."
+    },
+    {
+      "id": "40",
+      "label": "Section 40",
+      "chapter": null,
+      "original": "τί γὰρ ἂν ἦν πέρας ἡμῖν τοῦ διαλυθῆναι , εἰ τὰ κατὰ τοὺς νόμους διαιτηθέντα λύσας ἑτέρῳ διαιτητῇ ἐπέτρεψα περὶ τῶν αὐτῶν ἐγκλημάτων , ἄλλως τε καὶ ἀκριβῶς εἰδὼς ὅτι , εἰ καὶ πρὸς τοὺς ἄλλους μὴ ἐπιεικές ἐστιν ταῖς διαίταις ἰσχυρίζεσθαι , πρός γε τοῦτον ἁπάντων δικαιότατον ἦν οὕτως προσφέρεσθαι .",
+      "translation": "For to what final settlement could we ever have come , if I had made invalid a decision given by an arbitrator in accordance with the laws , and had referred the same charge to the decision of another arbitrator ?— especially as I knew full well that , even though in relation to other men it is not proper to insist overmuch on the decisions of arbitrators , yet it is peculiarly fair to deal thus with Boeotus ."
+    },
+    {
+      "id": "41",
+      "label": "Section 41",
+      "chapter": null,
+      "original": "φέρε γάρ , εἴ τις αὐτὸν ξενίας γράψαιτο λέγων ὡς διομνύμενος ὁ πατὴρ οὐκ ἔφη τοῦτον υἱὸν αὑτοῦ εἶναι , ἔσθʼ ὅτῳ ἂν ἄλλῳ ἰσχυρίζοιτο πρὸς ταῦτα ἢ διότι τῆς μητρὸς αὐτῶν ὀμοσάσης καὶ τοῦ διαιτητοῦ καταγνόντος ἠναγκάσθη ὁ πατὴρ ἡμῶν ἐμμεῖναι τῇ διαίτῃ ;",
+      "translation": "For come , suppose someone should indict him for the usurpation of the rights of citizenship , declaring that my father denied on oath that this man was his son ; could he rely on anything else to meet this charge than that , because of their mother ’ s oath and the decision of the arbitrators , my father was forced to abide by the award ?"
+    },
+    {
+      "id": "42",
+      "label": "Section 42",
+      "chapter": null,
+      "original": "οὐκοῦν δεινόν , εἰ οὗτος αὐτὸς κατὰ γνῶσιν διαιτητοῦ ὑμέτερος πολίτης γεγενημένος καὶ πρὸς ἐμὲ τὴν οὐσίαν νειμάμενος καὶ τυχὼν τῶν μετρίων ἁπάντων , ἃς ἐγὼ δίκας τοῦτον ἀπέφυγον παρόντα καὶ ἀντιδικοῦντα καὶ τοῖς γνωσθεῖσιν ἐμμένοντα , ταύτας ἀναδίκους ἀξιῶν γίγνεσθαι δίκαιόν τι δοκοίη λέγειν ὑμῖν , ὥσπερ , ὅταν μὲν τούτῳ συμφέρῃ , δέον εἶναι κυρίας τὰς διαίτας , ὅταν δὲ μὴ συμφέρῃ , προσῆκον τὴν τούτου γνώμην κυριωτέραν γενέσθαι τῶν κατὰ τοὺς ὑμετέρους νόμους γνωσθέντων .",
+      "translation": "It would , then , be an outrageous thing , if this man , after having become a citizen of your city through an arbitrator ’ s decision , and having secured a share of my inheritance , and obtained all that was fair , should be thought by you to have any justice in his claim , when he demanded the reopening of the suits in which I won my acquittal , when he was present and argued against it , and acquiesced in the verdict ; just as though , when it is to his interest , awards ought to be valid , but , when it is not to his interest , his opinion should have more weight than decisions rendered in accordance with your laws ."
+    },
+    {
+      "id": "43",
+      "label": "Section 43",
+      "chapter": null,
+      "original": "ὃς οὕτως ἐπίβουλός ἐστιν , ὥστε καὶ τὴν δίαιταν ταύτην ἐπιτρέπειν με προὐκαλεῖτο , οὐχ ὅπως ἀπαλλαγῇ πρός με , ἀλλʼ ἵνα , ὥσπερ καὶ πρότερον ἕνδεκα ἔτη διήγαγε κακουργῶν , οὕτως καὶ νῦν τὰ ἀποδιαιτηθέντα μου λύσας ἐξ ἀρχῆς με συκοφαντῇ καὶ τὴν δίκην ταύτην ἐκκρούῃ .",
+      "translation": "He is such a crafty schemer that his purpose even in this proposal of arbitration was not made that he might be rid of his disputes with me , but that , as he had for eleven years previously carried on his knavery , so now , by rendering invalid the decisions given in my favor by the arbitrator , he might afresh institute his malicious proceedings against me , and elude the present suit ."
+    },
+    {
+      "id": "44",
+      "label": "Section 44",
+      "chapter": null,
+      "original": "τεκμήριον δὲ τούτου μέγιστον · οὔτε γὰρ τὴν πρόκλησιν ἐδέχετο , ἣν ἐγὼ κατὰ τοὺς νόμους προὐκαλούμην αὐτόν , πρότερόν τε Ξενίππῳ , ὃν οὗτος προὐβάλετο διαιτητήν , ἐπιτρέψαντός μου περὶ τῆς τοῦ ὀνόματος δίκης , ἀπηγόρευσεν αὑτῷ μὴ διαιτᾶν . ὅτι δὲ καὶ ταῦτʼ ἀληθῆ λέγω , ἐκ τῆς μαρτυρίας καὶ τῆς προκλήσεως εἴσεσθε .\nΜΑΡΤΥΡΙΑ . ΠΡΟΚΛΗΣΙΣ .",
+      "translation": "Here is a convincing proof of this . He would not accept the challenge which I gave him according to the laws ; and when I had previously referred the suit about the name to Xenippus , whom he had proposed as arbitrator , he forbade him to render any decision .\nThat I am speaking the truth on these matters also you will learn from the deposition and the challenge .\nThe Deposition . The Challenge"
+    },
+    {
+      "id": "45",
+      "label": "Section 45",
+      "chapter": null,
+      "original": "ταύτην τοίνυν τὴν πρόκλησιν οὐ δεξάμενος , ἀλλʼ ἐνεδρεύων με καὶ τὴν δίκην ὅτι πλεῖστον χρόνον ἐκκρούειν βουλόμενος , κατηγορήσει , ὡς ἐγὼ πυνθάνομαι , οὐ μόνον ἐμοῦ , ἀλλὰ καὶ τοῦ πατρός , λέγων ὡς ἐκεῖνος ἐμοὶ χαριζόμενος πολλὰ τοῦτον ἠδίκησεν . ὑμεῖς δʼ , ὦ ἄνδρες δικασταί , μάλιστα μέν , ὥσπερ αὐτοὶ οὐκ ἂν ἀξιώσαιτε κακῶς ἀκούειν ὑπὸ τῶν ὑμετέρων παίδων , οὕτω μηδὲ τούτῳ ἐπιτρέπετε περὶ τοῦ πατρὸς βλασφημεῖν ·",
+      "translation": "This challenge , then , he did not accept , wishing rather to lay a snare for me and to delay the suit as long as he possibly could ; and now , as I learn , he will accuse not only me , but my father as well , alleging that my father wronged him in many ways in order to show favor to me . But I beg you , men of the jury , as you would yourselves deem it an unseemly thing to be evil spoken of by your own children , not to allow this man either to speak evil of his father ."
+    },
+    {
+      "id": "46",
+      "label": "Section 46",
+      "chapter": null,
+      "original": "καὶ γὰρ ἂν εἴη δεινόν , εἰ αὐτοὶ μὲν πρὸς τοὺς ἐπὶ τῆς ὀλιγαρχίας πολλοὺς τῶν πολιτῶν ἀκρίτους ἀποκτείναντας διαλλαγέντες ἐμμένετε ταῖς ὁμολογίαις , ὥσπερ χρὴ τοὺς καλοὺς κἀγαθοὺς ἄνδρας , τούτῳ δὲ πρὸς τὸν πατέρα ζῶντα καὶ διαλυθέντι καὶ πολλὰ παρὰ τὸ δίκαιον πλεονεκτήσαντι νῦν μνησικακεῖν ἐπιτρέψετε καὶ κακῶς λέγειν ἐκεῖνον .",
+      "translation": "For it would indeed be an outrageous thing when you yourselves , after having come to terms with those who in the time of the oligarchy put to death without trial numbers of your countrymen , abide by your compact with them , [*] as men of honor should do , that you should allow this man , who was reconciled with my father while he lived , and won many advantages to which he had no right , now to renew the quarrel and to speak evil of that father when he is no more . Do not suffer this , men of the jury ."
+    },
+    {
+      "id": "47",
+      "label": "Section 47",
+      "chapter": null,
+      "original": "μηδαμῶς , ὦ ἄνδρες δικασταί , ἀλλὰ μάλιστα μὲν κωλύετε αὐτὸν ταῦτα ποιεῖν , ἂν δʼ ἄρα βιάζηται ὑμᾶς καὶ λοιδορῆται , ἐνθυμεῖσθε ὅτι αὐτὸς ἑαυτοῦ καταμαρτυρεῖ μὴ ἐξ ἐκείνου γεγενῆσθαι . οἱ μὲν γὰρ φύσει παῖδες ὄντες , κἂν πρὸς ζῶντας τοὺς πατέρας διενεχθῶσιν , ἀλλʼ οὖν τελευτήσαντας αὐτοὺς ἐπαινοῦσιν · οἱ δὲ νομιζόμενοι μὲν υἱεῖς , μὴ ὄντες δὲ γένει ἐξ ἐκείνων , ῥᾳδίως μὲν αὐτοῖς διαφέρονται ζῶσιν , οὐδὲν δὲ φροντίζουσι περὶ τεθνεώτων αὐτῶν βλασφημοῦντες .",
+      "translation": "If it be possible , prevent him from acting in this way ; but if he persists in defying you and in speaking evil of my father , remember that he is bearing witness against himself that he is no son of his . For those who are true-born children , even though they may quarrel with their fathers while they are alive yet speak well of them when they are dead ; whereas those who are accounted sons , but are not in truth children of their supposed fathers , quarrel with them without scruple while they are alive , and think nothing of slandering them when they are dead ."
+    },
+    {
+      "id": "48",
+      "label": "Section 48",
+      "chapter": null,
+      "original": "χωρὶς δὲ τούτων ἐνθυμεῖσθε ὡς ἄτοπόν ἐστιν , εἰ οὗτος τὸν πατέρα ὡς ἁμαρτόντα εἰς αὑτὸν λοιδορήσει , διὰ τὰ ἐκείνου ἁμαρτήματα ὑμέτερος πολίτης γεγενημένος . κἀγὼ μὲν διὰ τὴν τούτων μητέρα τὰ δύο μέρη τῆς οὐσίας ἀφαιρεθείς , ὅμως ὑμᾶς αἰσχύνομαι λέγειν περὶ ἐκείνης τι φλαῦρον ·",
+      "translation": "And , besides , think how absurd it is that this fellow should abuse my father for his failings toward him , when it was thanks to this father ’ s failings [*] that he became a citizen of your state . I , on my part , have , thanks to the mother of these men , been deprived of two-thirds of my property , but for all that I have too much respect for you to speak disparagingly of her ."
+    },
+    {
+      "id": "49",
+      "label": "Section 49",
+      "chapter": null,
+      "original": "οὗτος δʼ , ὃν ἠνάγκασεν αὑτῷ πατέρα γενέσθαι , τοῦτον οὐκ αἰσχύνεται ψέγων ἐναντίον ὑμῶν , ἀλλʼ εἰς τοῦτο ἀμαθίας ἥκει , ὥστε τῶν νόμων ἀπαγορευόντων μηδὲ τοὺς τῶν ἄλλων πατέρας κακῶς λέγειν τεθνεῶτας , οὗτος , οὗ φησιν υἱὸς εἶναι , τοῦτον λοιδορήσει , ᾧ προσῆκεν καὶ εἴ τις ἄλλος ἐβλασφήμει περὶ αὐτοῦ ἀγανακτεῖν .",
+      "translation": "But Boeotus feels no shame in disparaging before you the man whom he compelled to become his father , and has even come to such a pitch of vulgarity that , although the laws forbid speaking ill even of other men ’ s fathers after they are dead , he will slander the man whose son he claims to be ; whereas it would be proper for him to show resentment if anyone else spoke evil of him ."
+    },
+    {
+      "id": "50",
+      "label": "Section 50",
+      "chapter": null,
+      "original": "οἴομαι δʼ αὐτόν , ὦ ἄνδρες δικασταί , ἐπειδὰν τῶν ἄλλων ἀπορῇ , κακῶς τέ με ἐπιχειρήσειν λέγειν καὶ διαβάλλειν πειράσεσθαι , διεξιόνθʼ ὡς ἐγὼ μὲν καὶ ἐτράφην καὶ ἐπαιδεύθην καὶ ἔγημα ἐν τῇ τοῦ πατρὸς οἰκίᾳ , αὐτὸς δὲ οὐδενὸς τούτων μετέσχεν . ὑμεῖς δʼ ἐνθυμεῖσθʼ ὅτι ἐμὲ μὲν ἡ μήτηρ παῖδα καταλιποῦσα ἐτελεύτησεν , ὥστε μοι ἱκανὸν ἦν ἀπὸ τοῦ τόκου τῆς προικὸς καὶ τρέφεσθαι καὶ παιδεύεσθαι ·",
+      "translation": "I fancy , men of the jury , that , when he is at a loss for anything else to say , he will undertake to speak evil of me , and will try to bring me into disrepute , rehearsing at length how I was reared and educated and married in my father ’ s house , while he had no share in any of these advantages . But I bid you bear in mind that my mother died leaving me a child , so that the interest of her marriage-portion was sufficient to rear and educate me ;"
+    },
+    {
+      "id": "51",
+      "label": "Section 51",
+      "chapter": null,
+      "original": "ἡ δὲ τούτων μήτηρ Πλαγγών , τρέφουσα μεθʼ αὑτῆς τούτους καὶ θεραπαίνας συχνὰς καὶ αὐτὴ πολυτελῶς ζῶσα , καὶ εἰς ταῦτα τὸν πατέρα τὸν ἐμὸν χορηγὸν ἑαυτῇ ὑπὸ τῆς ἐπιθυμίας ἔχουσα καὶ πολλὰ δαπανᾶν ἀναγκάζουσα , οὐκ ἴσα δήπου τῆς ἐκείνου οὐσίας ἐμοὶ ἀνήλωκεν , ὥστε πολὺ μᾶλλον προσήκει ἐμὲ τούτοις ἐγκαλεῖν ἢ αὐτὸν ἐγκλήματʼ ἔχειν ὑπὸ τούτων .",
+      "translation": "whereas Plangon , the mother of these men , maintained them and a host of female servants in her own house , and herself lived lavishly , having my father ready , because of his passion for her , to supply the funds for all this , and forcing him to heavy expenditures . She therefore spent far more of his property than I did , so that I might with far better reason bring charges against them than they against me ."
+    },
+    {
+      "id": "52",
+      "label": "Section 52",
+      "chapter": null,
+      "original": "ὃς πρὸς τοῖς ἄλλοις εἴκοσι μὲν μνᾶς δανεισάμενος μετὰ τοῦ πατρὸς παρὰ Βλεπαίου τοῦ τραπεζίτου εἰς ὠνήν τινα μετάλλων , ἐπειδὴ ὁ πατὴρ ἐτελεύτησεν , τὰ μὲν μέταλλα πρὸς τούτους ἐνειμάμην , τὸ δάνειον δʼ αὐτὸς εἰσεπράχθην , ἑτέρας δὲ χιλίας εἰς τὴν τοῦ πατρὸς ταφὴν παρὰ Λυσιστράτου Θορικίου δανεισάμενος ἰδίᾳ ἐκτέτεικα . ὡς δʼ ἀληθῆ καὶ ταῦτα λέγω , ἐκ τούτων τῶν μαρτυριῶν εἴσεσθε .\nΜΑΡΤΥΡΙΑΙ .",
+      "translation": "For , besides all the rest , in connection with my father I borrowed twenty minae from Blepaeus the banker , for the purchase of some mining properties , and after my father ’ s death I shared the mines with these men , but had to pay the loan myself . I also borrowed another thousand drachmae from Lysistratus of Thoricus for my father ’ s funeral , and have personally paid the debt .\nThat I am speaking the truth on these matters also you will learn from these depositions .\nThe Depositions"
+    },
+    {
+      "id": "53",
+      "label": "Section 53",
+      "chapter": null,
+      "original": "τοσαῦτα τοίνυν ἐμοῦ ἐλαττουμένου φανερῶς , οὑτοσὶ νῦν σχετλιάζων καὶ δεινοπαθῶν καὶ τὴν προῖκά με τῆς μητρὸς ἀποστερήσει ; ἀλλʼ ὑμεῖς , ὦ ἄνδρες δικασταί , πρὸς Διὸς καὶ θεῶν , μὴ καταπλαγῆτε ὑπὸ τῆς κραυγῆς τῆς τούτου · πολὺς γάρ , πολὺς καὶ τολμηρός ἐστιν ἅνθρωπος , καὶ οὕτως κακοῦργος , ὥστε περὶ ὧν ἂν μὴ ἔχῃ μαρτυρίας παρασχέσθαι , ταῦτα φήσει ὑμᾶς εἰδέναι , ὦ ἄνδρες δικασταί , ὃ πάντες ποιοῦσιν οἱ μηδὲν ὑγιὲς λέγοντες .",
+      "translation": "When I am thus so clearly at a disadvantage in so many respects , shall this man now by making a great to-do and outcry about his wrongs , rob me also of my mother ’ s marriage-portion ? But do not , men of the jury , I beg you by Zeus and the Gods , do not be overwhelmed by the noise he makes . He is a violent fellow , violent and ready to go to all lengths ; and he is so unscrupulous that , if he has no witnesses to prove a fact , he will say that it is well known to you , men of the jury ,— a trick to which all those have recourse who have no just argument to advance ."
+    },
+    {
+      "id": "54",
+      "label": "Section 54",
+      "chapter": null,
+      "original": "ὑμεῖς οὖν , ἐάν τι τοιοῦτον τεχνάζῃ , μὴ ἐπιτρέπετε αὐτῷ , ἀλλʼ ἐξελέγχετε , καὶ ὅ τι ἂν μὴ ἕκαστος ὑμῶν εἰδῇ , μηδὲ τὸν πλησίον δοκιμαζέτω εἰδέναι , ἀλλʼ ἀξιούτω τοῦτον ἀποδεικνύναι σαφῶς ὑπὲρ ὧν ἂν λέγῃ , καὶ μὴ ὑμᾶς φάσκοντα εἰδέναι , περὶ ὧν αὐτὸς οὐδὲν ἕξει εἰπεῖν δίκαιον , ἀποδιδράσκειν τὴν ἀλήθειαν , ἐπεὶ καὶ ἐγώ , ὦ ἄνδρες δικασταί , πάντων ὑμῶν εἰδότων ὃν τρόπον ἀναγκασθεὶς ὁ πατήρ μου ἐποιήσατο τούτους , οὐδὲν ἧττον δικάζομαι νῦν αὐτοῖς καὶ μάρτυρας ὑποδίκους παρέσχημαι .",
+      "translation": "If he shall try any such trick , do not tolerate it ; expose him . What anyone of you does not know , let his deem that his neighbor does not know either . Let him demand that Boeotus prove clearly whatever statements he may make , and not shirk the truth by declaring that you know things about which he will have no just argument to advance ; since I , on my part , men of the jury , although you all know the way in which my father was compelled to adopt these men , am none the less suing them at law , and have brought forward witnesses responsible for their testimony . [*]"
+    },
+    {
+      "id": "55",
+      "label": "Section 55",
+      "chapter": null,
+      "original": "καίτοι οὐκ ἴσος γʼ ἡμῖν ἐστιν ὁ κίνδυνος , ἀλλʼ ἐμοὶ μέν , ἐὰν ὑμεῖς νυνὶ ὑπὸ τούτων ἐξαπατηθῆτε , οὐκ ἐξέσται ἔτι δικάσασθαι περὶ τῆς προικός · τούτοις δʼ , εἰ φασὶν ἀδίκως ἀποδιαιτῆσαί μου τὸν διαιτητὴν τὰς δίκας , καὶ τότʼ ἐξῆν εἰς ὑμᾶς ἐφεῖναι καὶ νῦν ἐγγενήσεται πάλιν , ἐὰν βούλωνται , παρʼ ἐμοῦ λαβεῖν ἐν ὑμῖν τὸ δίκαιον .",
+      "translation": "And yet the risk is not the same for both of us . On my part , if you are now led astray by these men , it will not be open to me to bring suit again for the marriage-portion ; but they , if they claim that the arbitrator was wrong in giving his decision in my favor , as at that time they had the right to appeal to your court , so now again will be permitted , if they so wish , to recover their rights from me in your court ."
+    },
+    {
+      "id": "56",
+      "label": "Section 56",
+      "chapter": null,
+      "original": "καὶ ἐγὼ μέν , ἐάν , ὃ μὴ γένοιτο , ὑμεῖς με ἐγκαταλίπητε , οὐχ ἕξω ὁπόθεν προῖκα ἐπιδῶ τῇ θυγατρί , ἧς τῇ μὲν φύσει πατήρ εἰμι , τὴν δʼ ἡλικίαν αὐτῆς εἰ ἴδοιτε , οὐκ ἂν θυγατέρα μου ἀλλʼ ἀδελφὴν εἶναι αὐτὴν νομίσαιτε · οὗτοι δέ , ἐὰν ὑμεῖς μοι βοηθήσητε , οὐδὲν ἐκ τῶν ἰδίων ἀποτείσουσιν , ἀλλʼ ἐκ τῆς οἰκίας τὰ ἐμὰ ἐμοὶ ἀποδώσουσιν , ἣν ἐξειλόμεθα μὲν κοινῇ πάντες εἰς τὴν ἔκτεισιν τῆς προικός , οἰκοῦντες δὲ αὐτὴν οὗτοι μόνοι διατελοῦσιν .",
+      "translation": "I , if you leave me in the lurch , which I pray may not happen , shall have no means of giving a dowry to my daughter , whose own father I am , although , if you see her size , you would deem she was not my daughter but my sister [*] ; but these men , if you come to my aid , will pay nothing out of their own property , but will restore to me what is my own from the house which by common agreement we reserved for the settlement of the marriage-portion , but in which these men have been living by themselves ."
+    },
+    {
+      "id": "57",
+      "label": "Section 57",
+      "chapter": null,
+      "original": "οὔτε γὰρ ἁρμόττει μοι θυγατέρα ἐπίγαμον ἔχοντι οἰκεῖν μετὰ τοιούτων , οἳ οὐ μόνον αὐτοὶ ἀσελγῶς ζῶσιν , ἀλλὰ καὶ ὁμοίους αὑτοῖς ἑτέρους πολλοὺς εἰς τὴν οἰκίαν εἰσάγουσιν , οὔτε μὰ τὸν Δία ἀσφαλὲς εἶναί μοι νομίζω συζῆν τούτοις ἐν τῷ αὐτῷ · ὅπου γὰρ οὕτω φανερῶς μοι ἐπιβουλεύσαντες εἰς Ἄρειον πάγον ἀγῶνα κατεσκεύασαν , τίνος ἂν οὗτοι ἢ φαρμακείας ἢ ἄλλης κακουργίας τοιαύτης ὑμῖν ἀποσχέσθαι δοκοῦσιν ;",
+      "translation": "For it is not fitting that I , having a daughter of marriageable age , should dwell with men of their sort , who are not only themselves living licentious lives , but who also bring into the house a host of others of like stamp with themselves ; nay , by Zeus , I do not deem it safe to live in the same house with them myself . When they have thus openly laid a plot , and got up a charge against me before the Areopagus , do you suppose there is any poisoning or any other such villainy from which they would abstain ?"
+    },
+    {
+      "id": "58",
+      "label": "Section 58",
+      "chapter": null,
+      "original": "οἵ γε πρὸς τοῖς ἄλλοις ( ἀρτίως γὰρ καὶ τοῦτο ἀνεμνήσθην ) εἰς τοσαύτην ὑπερβολὴν τόλμης ἥκουσιν , ὥστε καὶ Κρίτωνος μαρτυρίαν ἐνεβάλοντο , ὡς ἐώνηται τὸ τρίτον παρʼ ἐμοῦ μέρος τῆς οἰκίας · ἥν , ὅτι ψευδής ἐστι , ῥᾳδίως εἴσεσθε . πρῶτον μὲν γὰρ οὐχ οὕτω μετρίως ζῇ Κρίτων ὥστε παρʼ ἑτέρου οἰκίαν ὠνεῖσθαι , ἀλλʼ οὕτως πολυτελῶς καὶ ἀσώτως ὥστε πρὸς τοῖς ἑαυτοῦ καὶ τὰ τῶν ἄλλων ἀναλίσκειν · ἔπειτα οὐ μαρτυρεῖ τούτῳ νῦν , ἀλλʼ ἐμοὶ ἀντιδικεῖ · τίς γὰρ ὑμῶν οὐκ οἶδεν ὅτι μάρτυρες μέν εἰσιν οὗτοι , οἷς μὴ μέτεστι τοῦ πράγματος περὶ οὗ ἡ δίκη ἐστίν , ἀντίδικοι δʼ οἱ κοινωνοῦντες τῶν πραγμάτων περὶ ὧν ἂν δικάζηταί τις αὐτοῖς ; ὃ Κρίτωνι συμβέβηκεν .",
+      "translation": "Besides all the rest ( for this has occurred to me just now ), they have come to such a pitch of audacity as to have put in a deposition of Crito , alleging that he has purchased from me my one-third share in the house . Now that this is false you will easily perceive ; for in the first place Crito does not live so economically as to be able to purchase a house from someone else , but so extravagantly and licentiously that he spends the property of others as well as his own . Again , he is not now this man ’ s witness , but rather my adversary . For who among you is ignorant that witnesses are those who have no interest in the matter at issue in the suit ; while adversaries are those who are involved in the matters in regard to which one goes to law with them ? The latter is the case with Crito ."
+    },
+    {
+      "id": "59",
+      "label": "Section 59",
+      "chapter": null,
+      "original": "ἔτι δὲ τοσούτων ὑμῶν ὄντων , ὦ ἄνδρες δικασταί , καὶ τῶν ἄλλων Ἀθηναίων πολλῶν , ἄλλος μὲν οὐδεὶς αὐτῷ παραγενέσθαι μεμαρτύρηκε , Τιμοκράτης δὲ μόνος , ὥσπερ ἀπὸ μηχανῆς , μαρτυρεῖ μὲν δεκάτην ἑστιᾶσαι τούτῳ τὸν ἐμὸν πατέρα , ἡλικιώτης ὢν τοῦ νυνὶ φεύγοντος τὴν δίκην , φησὶν δὲ πάντα ἁπλῶς εἰδέναι ἃ δὴ τούτοις συμφέρει , μαρτυρεῖ δὲ νυνὶ μόνος Κρίτωνι παρεῖναι , ὅτε παρʼ ἐμοῦ τὴν οἰκίαν ἐωνεῖτο . ὃ τίς ἂν ὑμῶν πιστεύσειεν ; ἄλλως τε καὶ ὅτι οὐ περὶ τῆς οἰκίας , πότερα ἐώνηται Κρίτων αὐτὴν ἢ μή , νυνὶ δικάζομαι , ἀλλὰ περὶ προικός , ἣν ἐνεγκαμένης τῆς μητρὸς οἱ νόμοι κελεύουσιν ἐμὲ κομίζεσθαι .",
+      "translation": "And furthermore , out of all your number , men of the jury , out of all the host of the rest of the Athenians , not a single other person has testified that he was present at this sale ; Timocrates alone , like a god from the machine , [*] testified that my father gave a feast to Boeotus on the tenth day ( and Timocrates is of the same age as the present defendant !). Timocrates declares that he has perfect knowledge of all that is for the advantage of these men ; and now on his own sole authority he testifies that he was present with Crito when he bought the house from me . Who among you will believe this ? Not one , of course ; especially since I am not now suing about the house to determine whether Crito bought it or not , but about the marriage-portion which , seeing that my mother brought it with her , the laws declare that I should recover ."
+    },
+    {
+      "id": "60",
+      "label": "Section 60",
+      "chapter": null,
+      "original": "ὥστε καθάπερ ὑμῖν ἐγὼ καὶ ἐκ μαρτύρων πολλῶν καὶ ἐκ τεκμηρίων ἐπέδειξα , ἐπενεγκαμένην μὲν τὴν μητέρα μου τάλαντον προῖκα , οὐ κομισάμενον δὲ τοῦτʼ ἐμὲ ἐκ τῆς πατρῴας οὐσίας , ἐξαίρετον δʼ ἡμῖν γενομένην τὴν οἰκίαν εἰς ταῦτα , οὕτω κελεύετε καὶ τοῦτον ἐπιδεικνύναι ὑμῖν , ἢ ὡς οὐκ ἀληθῆ λέγω , ἢ ὡς οὐ προσήκει μοι κομίσασθαι τὴν προῖκα · περὶ τούτων γὰρ ὑμεῖς νυνὶ τὴν ψῆφον οἴσετε .",
+      "translation": "Therefore , as I have proved to you by an abundance of testimony and of circumstantial evidence that my mother did bring a talent as her dowry ; that I have not recovered it from my father ’ s estate ; and that the house was set apart by us to secure its payment ; so do you demand of Boeotus that he prove to you , either that I am not speaking the truth , or that it is not right that I should recover the marriage-portion ; for these are the questions regarding which you are now going to cast your votes ."
+    },
+    {
+      "id": "61",
+      "label": "Section 61",
+      "chapter": null,
+      "original": "ἐὰν δὲ μὴ ἔχων περὶ ὧν φεύγει τὴν δίκην μήτε μάρτυρας ἀξιόχρεως παρασχέσθαι μήτʼ ἄλλο πιστὸν μηδέν , ἑτέρους παρεμβάλλῃ λόγους κακουργῶν , καὶ βοᾷ καὶ σχετλιάζῃ μηδὲν πρὸς τὸ πρᾶγμα , πρὸς Διὸς καὶ θεῶν μὴ ἐπιτρέπετε αὐτῷ , ἀλλὰ βοηθεῖτέ μοι τὰ δίκαια , ἐξ ἁπάντων τῶν εἰρημένων ἐνθυμούμενοι , ὅτι πολὺ δικαιότερόν ἐστι τὴν τῆς ἐμῆς μητρὸς προῖκα τῇ ἐμῇ θυγατρὶ εἰς ἔκδοσιν ὑμᾶς ψηφίσασθαι , ἢ Πλαγγόνα καὶ τούτους πρὸς τοῖς ἄλλοις καὶ τὴν οἰκίαν τὴν εἰς τὴν προῖκα ἐξαίρετον γενομένην ἀφελέσθαι ἡμᾶς παρὰ πάντα τὰ δίκαια .",
+      "translation": "But if , having no trustworthy witnesses , nor any other proofs regarding the matters upon which he is being sued , he shall try unscrupulously to introduce irrelevant arguments , and if he indulges in outcries and protestations which have nothing to do with the matter , I adjure you by Zeus and the Gods , do not tolerate it ; nay , render me the help that is my due , remembering in the light of all that I have urged that it is far more just that you should by your verdict give my mother ’ s portion to my daughter for her dowry , than that Plangon and these men , in addition to all the rest that they have done , should , in utter defiance of justice , rob me also of my house , which was set apart to secure the payment of the marriage-portion ."
+    }
+  ],
+  "prevChunkSlug": "against-boeotus-i-1ixd6d",
+  "nextChunkSlug": "against-spudias-20iu8g"
+}

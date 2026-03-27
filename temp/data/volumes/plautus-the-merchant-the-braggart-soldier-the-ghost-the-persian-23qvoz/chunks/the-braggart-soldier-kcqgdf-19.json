@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-braggart-soldier-kcqgdf-19",
+  "label": "The Braggart Soldier (Section 4.8.1360 - Section 5.1.1415)",
+  "partId": "the-braggart-soldier-kcqgdf",
+  "partTitle": "The Braggart Soldier",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Miles Gloriosus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Miles Gloriosus, or The Braggart Captain",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "4.8.1360",
+      "label": "Section 4.8.1360",
+      "chapter": null,
+      "original": "Fac sis frugi .",
+      "translation": "Take care and be honest ."
+    },
+    {
+      "id": "4.8.1360b",
+      "label": "Section 4.8.1360b",
+      "chapter": null,
+      "original": "Iam non possum , amisi omnem lubidinem .",
+      "translation": "I can be so no longer ; I have lost all inclination [*] ."
+    },
+    {
+      "id": "4.8.1361",
+      "label": "Section 4.8.1361",
+      "chapter": null,
+      "original": "I , sequere illos , ne morere .",
+      "translation": "Go , follow them ; don ’ t linger ."
+    },
+    {
+      "id": "4.8.1361b",
+      "label": "Section 4.8.1361b",
+      "chapter": null,
+      "original": "Bene vale .",
+      "translation": "Fare you right well ."
+    },
+    {
+      "id": "4.8.1361c",
+      "label": "Section 4.8.1361c",
+      "chapter": null,
+      "original": "Et tu bene vale .",
+      "translation": "And heartily fare you well ."
+    },
+    {
+      "id": "4.8.1362",
+      "label": "Section 4.8.1362",
+      "chapter": null,
+      "original": "Quaeso memineris , si forte liber fieri occeperim",
+      "translation": "Prithee , do remember me ; if perchance I should happen to be made free , I ’ ll send the news to you ; don ’ t you forsake me [*] ."
+    },
+    {
+      "id": "4.8.1363b",
+      "label": "Section 4.8.1363b",
+      "chapter": null,
+      "original": "Non est meum .",
+      "translation": "That is not my habit ."
+    },
+    {
+      "id": "4.8.1364",
+      "label": "Section 4.8.1364",
+      "chapter": null,
+      "original": "Cogitato identidem , tibi quam fidelis fuerim .",
+      "translation": "Consider every now and then how faithful I have been to you ."
+    },
+    {
+      "id": "4.8.1365",
+      "label": "Section 4.8.1365",
+      "chapter": null,
+      "original": "si id facies , tum demum scibis , tibi qui bonus sit , qui malus .",
+      "translation": "If you do that , then at last you ’ ll know who is honest towards you and who dishonest ."
+    },
+    {
+      "id": "4.8.1366",
+      "label": "Section 4.8.1366",
+      "chapter": null,
+      "original": "Scio et perspexi saepe .",
+      "translation": "I know it ; I have often found that true , as well before as to-day in especial ."
+    },
+    {
+      "id": "4.8.1366b",
+      "label": "Section 4.8.1366b",
+      "chapter": null,
+      "original": "Verum cum antehac , hodie maxume",
+      "translation": "Do you know it ? Aye , and this day I ’ ll make you hereafter say still more how true it is ."
+    },
+    {
+      "id": "4.8.1368",
+      "label": "Section 4.8.1368",
+      "chapter": null,
+      "original": "Vix reprimor quin te manere iubeam .",
+      "translation": "I can hardly refrain from bidding you to stay ."
+    },
+    {
+      "id": "4.8.1368b",
+      "label": "Section 4.8.1368b",
+      "chapter": null,
+      "original": "Cave istuc feceris :",
+      "translation": "Take you care how [*] you do that . They may say that you are a liar and not truthful , that you have no honor ;"
+    },
+    {
+      "id": "4.8.1370",
+      "label": "Section 4.8.1370",
+      "chapter": null,
+      "original": "dicent servorum praeter me esse hic fidelem neminem .",
+      "translation": "they may say that no one of your slaves is trustworthy except my-self . If , indeed , I thought you could do it with honor , I should advise you . But it cannot be ; take care how you do so ."
+    },
+    {
+      "id": "4.8.1372b",
+      "label": "Section 4.8.1372b",
+      "chapter": null,
+      "original": "Abi iam .",
+      "translation": "Be off ;"
+    },
+    {
+      "id": "4.8.1372c",
+      "label": "Section 4.8.1372c",
+      "chapter": null,
+      "original": "Patiar quidquid est .",
+      "translation": "I ’ ll be content then , whatever happens ."
+    },
+    {
+      "id": "4.8.1373",
+      "label": "Section 4.8.1373",
+      "chapter": null,
+      "original": "Bene vale igitur .",
+      "translation": "Then , fare you well ."
+    },
+    {
+      "id": "4.8.1373b",
+      "label": "Section 4.8.1373b",
+      "chapter": null,
+      "original": "Ire meliust strenue . —",
+      "translation": "’ Twere better you should go with a good heart ."
+    },
+    {
+      "id": "4.8.1373c",
+      "label": "Section 4.8.1373c",
+      "chapter": null,
+      "original": "Etiam nunc vale .",
+      "translation": "Still , once more , farewell ."
+    },
+    {
+      "id": "4.8.1374",
+      "label": "Section 4.8.1374",
+      "chapter": null,
+      "original": "ante hoc factum hunc sum arbitratus semper servom pessumum :",
+      "translation": "Before this affair , I had always thought that he was a most rascally servant ;"
+    },
+    {
+      "id": "4.8.1375",
+      "label": "Section 4.8.1375",
+      "chapter": null,
+      "original": "eum fidelem mi esse invenio . cum egomet mecum cogito ,",
+      "translation": "still , I find that he is faithful to me . When I consider with myself , I have done unwisely in parting with him . I ’ ll go hence at once now to my love here : the door , too , I perceive , makes a noise there ."
+    },
+    {
+      "id": "4.9.1378",
+      "label": "Section 4.9.1378",
+      "chapter": null,
+      "original": "Ne me moneatis , memini ego officium meum ,",
+      "translation": "Don ’ t you be advising me ; I remember my duty ; this moment I ’ ll find him . Wherever on earth he may chance to be ,"
+    },
+    {
+      "id": "4.9.1380",
+      "label": "Section 4.9.1380",
+      "chapter": null,
+      "original": "investigabo , óperae non parcam meae .",
+      "translation": "I ’ ll search him out ; I ’ ll not be sparing of my pains ."
+    },
+    {
+      "id": "4.9.1381",
+      "label": "Section 4.9.1381",
+      "chapter": null,
+      "original": "Me quaerit illic . ibo huic puero obviam .",
+      "translation": "’ Tis I he is looking for , I ’ ll go and meet this boy ."
+    },
+    {
+      "id": "4.9.1382",
+      "label": "Section 4.9.1382",
+      "chapter": null,
+      "original": "Ehem , te quaero . salve , vir lepidissime ,",
+      "translation": "O , I ’ m looking for you ; save you , dearest sir , one loaded by opportunity with her gifts , and whom before all others two Divinities do favour ."
+    },
+    {
+      "id": "4.9.1384b",
+      "label": "Section 4.9.1384b",
+      "chapter": null,
+      "original": "Qui duo ?",
+      "translation": "What two ?"
+    },
+    {
+      "id": "4.9.1384c",
+      "label": "Section 4.9.1384c",
+      "chapter": null,
+      "original": "Mars et Venus .",
+      "translation": "Mars and Venus ."
+    },
+    {
+      "id": "4.9.1385",
+      "label": "Section 4.9.1385",
+      "chapter": null,
+      "original": "Facetum puerum .",
+      "translation": "A sprightly boy ."
+    },
+    {
+      "id": "4.9.1385b",
+      "label": "Section 4.9.1385b",
+      "chapter": null,
+      "original": "Intro te ut eas obsecrat ,",
+      "translation": "She entreats that you will go in ; she wishes — she longs for you , and while expecting you , she ’ s dying for you . Do succour one in love . Why do you stay ? Why don ’ t you go in ?"
+    },
+    {
+      "id": "4.9.1387b",
+      "label": "Section 4.9.1387b",
+      "chapter": null,
+      "original": "Eo . —",
+      "translation": "Well , I ’ ll go ."
+    },
+    {
+      "id": "4.9.1388",
+      "label": "Section 4.9.1388",
+      "chapter": null,
+      "original": "Ipsus illic sese iam impedivit in plagas ;",
+      "translation": "There has he entangled himself at once in the toils . The snare is prepared : the old gentleman is standing at his post [*]"
+    },
+    {
+      "id": "4.9.1390",
+      "label": "Section 4.9.1390",
+      "chapter": null,
+      "original": "ut adoriatur moechum , qui formast ferox ,",
+      "translation": "to attack the letcher , who is so boastful of his good looks ; who thinks that , whatever woman sees him , all are in love with him ; whom all , both men and women , detest . Now I will on to the uproar ; I hear a tumult within ."
+    },
+    {
+      "id": "5.1.1394",
+      "label": "Section 5.1.1394",
+      "chapter": null,
+      "original": "Dúcite istum ; sí non sequitur , rápite sublimén foras ,",
+      "translation": "Bring that fellow along . If he doesn ’ t follow , drag him , lifted on high [*] , out of doors ."
+    },
+    {
+      "id": "5.1.1395",
+      "label": "Section 5.1.1395",
+      "chapter": null,
+      "original": "facite inter terram atque caelum ut sit situs , discindite .",
+      "translation": "Make him to be between heaven and earth ; cut him in pieces ."
+    },
+    {
+      "id": "5.1.1396",
+      "label": "Section 5.1.1396",
+      "chapter": null,
+      "original": "Obsecro hercle , Periplectomene , te .",
+      "translation": "By my troth , I do entreat you , Periplecomenus ."
+    },
+    {
+      "id": "5.1.1396b",
+      "label": "Section 5.1.1396b",
+      "chapter": null,
+      "original": "Nequiquam hercle obsecras .",
+      "translation": "By my troth , you do entreat in vain . Take care , Cario , that that knife of yours is very sharp ."
+    },
+    {
+      "id": "5.1.1398",
+      "label": "Section 5.1.1398",
+      "chapter": null,
+      "original": "Quin iamdudum gestit moecho hóc abdomen adimere ,",
+      "translation": "Why , it ’ s already longing to rip up the stomach of this letcher . I ’ ll make his entrails hang just as a bauble hangs from a baby ’ s neck ."
+    },
+    {
+      "id": "5.1.1400",
+      "label": "Section 5.1.1400",
+      "chapter": null,
+      "original": "Perii .",
+      "translation": "I ’ m a dead man ."
+    },
+    {
+      "id": "5.1.1400b",
+      "label": "Section 5.1.1400b",
+      "chapter": null,
+      "original": "Haud etiam , numero hoc dicis .",
+      "translation": "Not yet ; you say so too soon ."
+    },
+    {
+      "id": "5.1.1400c",
+      "label": "Section 5.1.1400c",
+      "chapter": null,
+      "original": "Iamne in hominem ínvolo ?",
+      "translation": "Shall I have at this fellow now ?"
+    },
+    {
+      "id": "5.1.1401",
+      "label": "Section 5.1.1401",
+      "chapter": null,
+      "original": "Immo etiam prius vérberetur fustibus .",
+      "translation": "Aye ,— but first let him be thrashed with cudgels ."
+    },
+    {
+      "id": "5.1.1401b",
+      "label": "Section 5.1.1401b",
+      "chapter": null,
+      "original": "Multum quidem .",
+      "translation": "True , right lustily ."
+    },
+    {
+      "id": "5.1.1402",
+      "label": "Section 5.1.1402",
+      "chapter": null,
+      "original": "Cur es ausus subigitare álienam uxorem , impudens ?",
+      "translation": "Why have you dared , you disgraceful fellow , to seduce another man ’ s wife ?"
+    },
+    {
+      "id": "5.1.1403",
+      "label": "Section 5.1.1403",
+      "chapter": null,
+      "original": "Ita me di ament , ultro ventumst ad me .",
+      "translation": "So may the Gods bless me , she came to me of her own accord ."
+    },
+    {
+      "id": "5.1.1403b",
+      "label": "Section 5.1.1403b",
+      "chapter": null,
+      "original": "Mentitur , feri .",
+      "translation": "It ’ s a lie . Lay on ."
+    },
+    {
+      "id": "5.1.1404",
+      "label": "Section 5.1.1404",
+      "chapter": null,
+      "original": "Mane , dum narro .",
+      "translation": "Stay , while I tell —"
+    },
+    {
+      "id": "5.1.1404b",
+      "label": "Section 5.1.1404b",
+      "chapter": null,
+      "original": "Quid cessatis ?",
+      "translation": "Why are you hesitating ?"
+    },
+    {
+      "id": "5.1.1404c",
+      "label": "Section 5.1.1404c",
+      "chapter": null,
+      "original": "Non licet mihi dicere ?",
+      "translation": "Will you not let me speak ?"
+    },
+    {
+      "id": "5.1.1405",
+      "label": "Section 5.1.1405",
+      "chapter": null,
+      "original": "Dic .",
+      "translation": "Speak , then ."
+    },
+    {
+      "id": "5.1.1405b",
+      "label": "Section 5.1.1405b",
+      "chapter": null,
+      "original": "Oratus sum , ad eam ut irem .",
+      "translation": "I was entreated to come here ."
+    },
+    {
+      "id": "5.1.1405c",
+      "label": "Section 5.1.1405c",
+      "chapter": null,
+      "original": "Quor ire ausus esausu's ? em tibi .",
+      "translation": "How did you dare ? There ’ s for you , take that ."
+    },
+    {
+      "id": "5.1.1406",
+      "label": "Section 5.1.1406",
+      "chapter": null,
+      "original": "Oiei , satis sum verberatus . obsecro .",
+      "translation": "O ! O ! I ’ ve had enough . Prithee , now ."
+    },
+    {
+      "id": "5.1.1406b",
+      "label": "Section 5.1.1406b",
+      "chapter": null,
+      "original": "Quam mox seco ?",
+      "translation": "Am I to begin cutting him up at once ?"
+    },
+    {
+      "id": "5.1.1407",
+      "label": "Section 5.1.1407",
+      "chapter": null,
+      "original": "Vbi lubet : dispennite hominem divorsum et distendite .",
+      "translation": "As soon as you like . Stretch the fellow out , and spread out his pinions [*] in opposite ways ."
+    },
+    {
+      "id": "5.1.1408",
+      "label": "Section 5.1.1408",
+      "chapter": null,
+      "original": "Obsecro hercle te , ut mea verba aúdias prius quam secat .",
+      "translation": "By heavens , prithee , do hear my words before he cuts me ."
+    },
+    {
+      "id": "5.1.1409",
+      "label": "Section 5.1.1409",
+      "chapter": null,
+      "original": "Loquere .",
+      "translation": "Speak before you ’ re made of no sex ."
+    },
+    {
+      "id": "5.1.1409b",
+      "label": "Section 5.1.1409b",
+      "chapter": null,
+      "original": "Non volui nec factum est : viduam hercle esse censui ,",
+      "translation": "I supposed that she was a widow ; and so her maid , who was her go-between , informed me ."
+    },
+    {
+      "id": "5.1.1411",
+      "label": "Section 5.1.1411",
+      "chapter": null,
+      "original": "Iura te non nociturum esse hómini de hac re nemini ,",
+      "translation": "Now take an oath that you won ’ t injure any person for this affair , because you have been beaten here today , or shall be beaten hereafter , if we let you go safe hence , you dear little grandson of Venus [*] ."
+    },
+    {
+      "id": "5.1.1414",
+      "label": "Section 5.1.1414",
+      "chapter": null,
+      "original": "Iuro per Iovem et Mavortem , me nociturum nemini ,",
+      "translation": "I swear by Dione [*] and Mars that I will hurt no one"
+    },
+    {
+      "id": "5.1.1415",
+      "label": "Section 5.1.1415",
+      "chapter": null,
+      "original": "quod ego hic hodie vapularim , iureque id factum arbitror ;",
+      "translation": "because I have been beaten here this day ; and I think that it was rightfully done ; and if I don ’ t go hence further injured , I am rightly punished for the offence ."
+    }
+  ],
+  "prevChunkSlug": "the-braggart-soldier-kcqgdf-18",
+  "nextChunkSlug": "the-braggart-soldier-kcqgdf-20"
+}

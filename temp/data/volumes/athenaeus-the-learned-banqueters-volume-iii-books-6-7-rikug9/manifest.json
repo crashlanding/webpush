@@ -1,0 +1,61 @@
+{
+  "loebNumber": 224,
+  "sortOrder": 224,
+  "slug": "athenaeus-the-learned-banqueters-volume-iii-books-6-7-rikug9",
+  "title": "The Learned Banqueters, Volume III: Books 6-7",
+  "volumeLabel": "The Learned Banqueters, Volume III: Books 6-7",
+  "authorDisplay": "Athenaeus",
+  "authors": [
+    "Athenaeus"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for The Learned Banqueters, Volume III: Books 6-7, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "the-learned-banqueters-books-6-7-1090a8",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "the-learned-banqueters-books-6-7-1090a8",
+      "title": "The Learned Banqueters: Books 6-7",
+      "status": "ready",
+      "sectionCount": 2,
+      "chunkSlug": "the-learned-banqueters-books-6-7-1090a8",
+      "chunks": [
+        {
+          "slug": "the-learned-banqueters-books-6-7-1090a8",
+          "label": "The Learned Banqueters: Books 6-7",
+          "partId": "the-learned-banqueters-books-6-7-1090a8",
+          "partTitle": "The Learned Banqueters: Books 6-7",
+          "sectionCount": 2,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "the-learned-banqueters-books-6-7-1090a8",
+      "label": "The Learned Banqueters: Books 6-7",
+      "partId": "the-learned-banqueters-books-6-7-1090a8",
+      "partTitle": "The Learned Banqueters: Books 6-7",
+      "sectionCount": 2,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "the-learned-banqueters-books-6-7-1090a8",
+      "partTitle": "The Learned Banqueters: Books 6-7",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Δειπνοσοφισταί",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0008.tlg001.perseus-grc3/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Deipnosophists",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0008.tlg001.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "loebNumber": 485,
+  "sortOrder": 485,
+  "slug": "pindar-nemean-odes-isthmian-odes-fragments-1u4pd7",
+  "title": "Nemean Odes. Isthmian Odes. Fragments",
+  "volumeLabel": "Nemean Odes. Isthmian Odes. Fragments",
+  "authorDisplay": "Pindar",
+  "authors": [
+    "Pindar"
+  ],
+  "language": "greek",
+  "summary": "2 of 3 contents in Nemean Odes. Isthmian Odes. Fragments are live from Scaife, while the remaining contents stay visible until a confident pair is available. Isthmian Odes is currently filled with the closest same-author Scaife text that exposes both an original-language version and an English translation.",
+  "status": "partial",
+  "defaultChunkSlug": "nemean-odes-19mziz-1",
+  "readyChunkCount": 3,
+  "contents": [
+    {
+      "id": "nemean-odes-19mziz",
+      "title": "Nemean Odes",
+      "status": "ready",
+      "sectionCount": 114,
+      "chunkSlug": "nemean-odes-19mziz-1",
+      "chunks": [
+        {
+          "slug": "nemean-odes-19mziz-1",
+          "label": "Nemean Odes (Section 1.1 - Section 7.5)",
+          "partId": "nemean-odes-19mziz",
+          "partTitle": "Nemean Odes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "nemean-odes-19mziz-2",
+          "label": "Nemean Odes (Section 7.9 - Section 11.30)",
+          "partId": "nemean-odes-19mziz",
+          "partTitle": "Nemean Odes",
+          "sectionCount": 54,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "isthmian-odes-1dnqev",
+      "title": "Isthmian Odes",
+      "status": "ready",
+      "sectionCount": 79,
+      "chunkSlug": "isthmean-cwisqr",
+      "chunks": [
+        {
+          "slug": "isthmean-cwisqr",
+          "label": "Isthmean",
+          "partId": "isthmian-odes-1dnqev",
+          "partTitle": "Isthmian Odes",
+          "sectionCount": 79,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "fragments-13g3hm",
+      "title": "Fragments",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Fragments."
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "nemean-odes-19mziz-1",
+      "label": "Nemean Odes (Section 1.1 - Section 7.5)",
+      "partId": "nemean-odes-19mziz",
+      "partTitle": "Nemean Odes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "nemean-odes-19mziz-2",
+      "label": "Nemean Odes (Section 7.9 - Section 11.30)",
+      "partId": "nemean-odes-19mziz",
+      "partTitle": "Nemean Odes",
+      "sectionCount": 54,
+      "status": "ready"
+    },
+    {
+      "slug": "isthmean-cwisqr",
+      "label": "Isthmean",
+      "partId": "isthmian-odes-1dnqev",
+      "partTitle": "Isthmian Odes",
+      "sectionCount": 79,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "nemean-odes-19mziz-1",
+      "partTitle": "Nemean Odes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Νεμεονῖκαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0033.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Nemean Odes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0033.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "nemean-odes-19mziz-2",
+      "partTitle": "Nemean Odes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Νεμεονῖκαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0033.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Nemean Odes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0033.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "isthmean-cwisqr",
+      "partTitle": "Isthmian Odes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἰσθμιονῖκαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0033.tlg004.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Isthmean Odes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0033.tlg004.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "loebNumber": 265,
+  "sortOrder": 265,
+  "slug": "eusebius-ecclesiastical-history-volume-ii-iwedyo",
+  "title": "Ecclesiastical History, Volume II",
+  "volumeLabel": "Ecclesiastical History, Volume II",
+  "authorDisplay": "Eusebius",
+  "authors": [
+    "Eusebius"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Ecclesiastical History, Volume II. Ecclesiastical History, Volume II currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "ecclesiastical-history-volume-ii-bwchxn",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "ecclesiastical-history-volume-ii-bwchxn",
+      "title": "Ecclesiastical History, Volume II",
+      "status": "ready",
+      "sectionCount": 10,
+      "chunkSlug": "ecclesiastical-history-volume-ii-bwchxn",
+      "chunks": [
+        {
+          "slug": "ecclesiastical-history-volume-ii-bwchxn",
+          "label": "Ecclesiastical History, Volume II",
+          "partId": "ecclesiastical-history-volume-ii-bwchxn",
+          "partTitle": "Ecclesiastical History, Volume II",
+          "sectionCount": 10,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "ecclesiastical-history-volume-ii-bwchxn",
+      "label": "Ecclesiastical History, Volume II",
+      "partId": "ecclesiastical-history-volume-ii-bwchxn",
+      "partTitle": "Ecclesiastical History, Volume II",
+      "sectionCount": 10,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "ecclesiastical-history-volume-ii-bwchxn",
+      "partTitle": "Ecclesiastical History, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Historia Ecclesiastica",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg2018.tlg002.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Historia Ecclesiastica",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg2018.tlg002.1st1K-eng1/"
+      }
+    }
+  ]
+}

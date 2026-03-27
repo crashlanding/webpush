@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-braggart-soldier-kcqgdf-4",
+  "label": "The Braggart Soldier (Section 2.3.313 - Section 2.4.363b)",
+  "partId": "the-braggart-soldier-kcqgdf",
+  "partTitle": "The Braggart Soldier",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Miles Gloriosus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Miles Gloriosus, or The Braggart Captain",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "2.3.313",
+      "label": "Section 2.3.313",
+      "chapter": null,
+      "original": "Sceledre , Sceledre , quis homo in terra te alter est audacior ?",
+      "translation": "Sceledrus , Sceledrus , what one man is there on earth more impudent than yourself ? Who more than yourself has been born with the Deities hostile and enraged ?"
+    },
+    {
+      "id": "2.3.314b",
+      "label": "Section 2.3.314b",
+      "chapter": null,
+      "original": "Quid est ?",
+      "translation": "What ’ s the matter ?"
+    },
+    {
+      "id": "2.3.315",
+      "label": "Section 2.3.315",
+      "chapter": null,
+      "original": "Iuben tibi oculos exfodiri , quibus id quod nusquam est vides ?",
+      "translation": "Do you want those eyes of yours gouged out , with which you see what never existed ?"
+    },
+    {
+      "id": "2.3.316",
+      "label": "Section 2.3.316",
+      "chapter": null,
+      "original": "Quid , nusquam ?",
+      "translation": "How , what never existed ?"
+    },
+    {
+      "id": "2.3.316b",
+      "label": "Section 2.3.316b",
+      "chapter": null,
+      "original": "Non ego tuam empsim vitam vitiosa nuce .",
+      "translation": "I would not buy your life at the price of a rotten nut ."
+    },
+    {
+      "id": "2.3.317",
+      "label": "Section 2.3.317",
+      "chapter": null,
+      "original": "Quid negotist ?",
+      "translation": "Why , what ’ s the matter ?"
+    },
+    {
+      "id": "2.3.317b",
+      "label": "Section 2.3.317b",
+      "chapter": null,
+      "original": "Quid negoti sit rogas ?",
+      "translation": "What ’ s the matter , do you ask ?"
+    },
+    {
+      "id": "2.3.317c",
+      "label": "Section 2.3.317c",
+      "chapter": null,
+      "original": "Cur non rogem ?",
+      "translation": "And why shouldn ’ t I ask ?"
+    },
+    {
+      "id": "2.3.318",
+      "label": "Section 2.3.318",
+      "chapter": null,
+      "original": "Non tu tibi istam praetruncari linguam largiloquam iubes ?",
+      "translation": "Why don ’ t you beg for that tongue of yours to be cut out , that prates so at random ?"
+    },
+    {
+      "id": "2.3.319",
+      "label": "Section 2.3.319",
+      "chapter": null,
+      "original": "Quam ob rem iubeam ?",
+      "translation": "Why should I beg for that ?"
+    },
+    {
+      "id": "2.3.319b",
+      "label": "Section 2.3.319b",
+      "chapter": null,
+      "original": "Philocomasium eccam domi , quam in proxumo",
+      "translation": "Why , Philocomasium is there at home , she whom"
+    },
+    {
+      "id": "2.3.320",
+      "label": "Section 2.3.320",
+      "chapter": null,
+      "original": "vidisse aibas te osculantem atque amplexantem cum altero .",
+      "translation": "you were saying that you had seen next door kissing and toying with another man ."
+    },
+    {
+      "id": "2.3.321",
+      "label": "Section 2.3.321",
+      "chapter": null,
+      "original": "Mirumst lolio victitare te tam vili tritico .",
+      "translation": "’ Tis a wonder that you are in the habit of feeding on darnel [*] , with wheat at so low a price ."
+    },
+    {
+      "id": "2.3.322",
+      "label": "Section 2.3.322",
+      "chapter": null,
+      "original": "Quid iam ?",
+      "translation": "Why so ?"
+    },
+    {
+      "id": "2.3.322b",
+      "label": "Section 2.3.322b",
+      "chapter": null,
+      "original": "Quia luscitiosus esluscitiosu's .",
+      "translation": "Because you are so dim of sight ."
+    },
+    {
+      "id": "2.3.322c",
+      "label": "Section 2.3.322c",
+      "chapter": null,
+      "original": "Verbero , edepol tu quidem",
+      "translation": "You gallows-bird , ’ tis you , indeed , that are blind , with a vengeance , and not dim of sight ; for , sure enough , there she is at home ."
+    },
+    {
+      "id": "2.3.324",
+      "label": "Section 2.3.324",
+      "chapter": null,
+      "original": "Quid , domi ?",
+      "translation": "How ? At home ?"
+    },
+    {
+      "id": "2.3.324b",
+      "label": "Section 2.3.324b",
+      "chapter": null,
+      "original": "Domi hercle vero .",
+      "translation": "At home , i ’ faith , undoubtedly ."
+    },
+    {
+      "id": "2.3.324c",
+      "label": "Section 2.3.324c",
+      "chapter": null,
+      "original": "Abi , ludis me , Palaestrio .",
+      "translation": "Be off with you ; you are playing with me , Palaestrio"
+    },
+    {
+      "id": "2.3.325",
+      "label": "Section 2.3.325",
+      "chapter": null,
+      "original": "Tum mihi sunt manus ínquinatae .",
+      "translation": "My hands are dirty , then ."
+    },
+    {
+      "id": "2.3.325b",
+      "label": "Section 2.3.325b",
+      "chapter": null,
+      "original": "Qui dum ?",
+      "translation": "How so ?"
+    },
+    {
+      "id": "2.3.325c",
+      "label": "Section 2.3.325c",
+      "chapter": null,
+      "original": "Quia ludo luto .",
+      "translation": "Because I am playing with dirt ."
+    },
+    {
+      "id": "2.3.326",
+      "label": "Section 2.3.326",
+      "chapter": null,
+      "original": "Vae capiti tuo .",
+      "translation": "A mischief on your head ."
+    },
+    {
+      "id": "2.3.326b",
+      "label": "Section 2.3.326b",
+      "chapter": null,
+      "original": "Tuo istuc , Sceledre , promitto fore ,",
+      "translation": "Nay rather , Sceledrus , it shall be on yours , I promise you , unless you change for fresh your eyes and your talk . But our door made a noise ."
+    },
+    {
+      "id": "2.3.328b",
+      "label": "Section 2.3.328b",
+      "chapter": null,
+      "original": "At ego ilico observo foris ;",
+      "translation": "Well , I shall watch here out of doors , for there is no way by which she can pass hence in-doors , except through the front door ."
+    },
+    {
+      "id": "2.3.330",
+      "label": "Section 2.3.330",
+      "chapter": null,
+      "original": "Quin domi eccam . nescio quae te , Sceledre , scelera suscitant .",
+      "translation": "But there she is , at home . I don ’ t know , Scledrus , what mischief is possessing you ."
+    },
+    {
+      "id": "2.3.331",
+      "label": "Section 2.3.331",
+      "chapter": null,
+      "original": "Mihi ego video , mihi ego sapio , mihi ego credo plurumum :",
+      "translation": "I see for my own self , I judge for my own self , I have especial faith in my own self : no man shall frighten me out of it , but that she is in that house . ( Points to the house of PERIPLECOMENUS .) Here I ’ ll take my stand , that she may not steal out home without my knowledge ."
+    },
+    {
+      "id": "2.3.334",
+      "label": "Section 2.3.334",
+      "chapter": null,
+      "original": "Meus illic homo est , deturbabo iam ego illum de pugnaculis .",
+      "translation": "This fellow is in my hands ; now will I drive him from his strong hold ."
+    },
+    {
+      "id": "2.3.335",
+      "label": "Section 2.3.335",
+      "chapter": null,
+      "original": "vin iam faciam , ut stultividum ⋯ fateare ?",
+      "translation": "( To SCLEDRUS ) Do you wish me now to make you own that you don ’ t see correctly ?"
+    },
+    {
+      "id": "2.3.335b",
+      "label": "Section 2.3.335b",
+      "chapter": null,
+      "original": "Age face .",
+      "translation": "Come , do it then ."
+    },
+    {
+      "id": "2.3.336",
+      "label": "Section 2.3.336",
+      "chapter": null,
+      "original": "Neque te quicquam sapere corde neque oculis uti ?",
+      "translation": "And that you neither think aright in your mind , nor yet make use of your eyes ?"
+    },
+    {
+      "id": "2.3.336b",
+      "label": "Section 2.3.336b",
+      "chapter": null,
+      "original": "Volo .",
+      "translation": "I ’ d have you do it ."
+    },
+    {
+      "id": "2.3.337",
+      "label": "Section 2.3.337",
+      "chapter": null,
+      "original": "Nempe tu istíc ais esse erilem concubinam ?",
+      "translation": "Do you say , then that the lady of your master is there in that house ?"
+    },
+    {
+      "id": "2.3.337b",
+      "label": "Section 2.3.337b",
+      "chapter": null,
+      "original": "Atque arguo",
+      "translation": "I assert , as well , that I saw here here in this house ( points to the house of PERIPLECOMENUS ) , toying with a strange man ."
+    },
+    {
+      "id": "2.3.339",
+      "label": "Section 2.3.339",
+      "chapter": null,
+      "original": "Scin tu nullum commeatum hínc esse a nobis ?",
+      "translation": "don ’ t you know that there is no communication between our house here and that one ?"
+    },
+    {
+      "id": "2.3.339b",
+      "label": "Section 2.3.339b",
+      "chapter": null,
+      "original": "Scio .",
+      "translation": "I know it ."
+    },
+    {
+      "id": "2.3.340",
+      "label": "Section 2.3.340",
+      "chapter": null,
+      "original": "Neque solarium neque hortum , nisi per impluvium ?",
+      "translation": "Neither by the terrace [*] , nor by the garden , only through the skylight ?"
+    },
+    {
+      "id": "2.3.340b",
+      "label": "Section 2.3.340b",
+      "chapter": null,
+      "original": "Scio .",
+      "translation": "I know it ."
+    },
+    {
+      "id": "2.3.341",
+      "label": "Section 2.3.341",
+      "chapter": null,
+      "original": "Quid nunc ? si ea domist , si facio , ut eam exire hinc videas domo ,",
+      "translation": "What then , if she is now at home ? If I shall make her , so as you may see her , come out hence from our house , are you not deserving of many a lashing ?"
+    },
+    {
+      "id": "2.3.342b",
+      "label": "Section 2.3.342b",
+      "chapter": null,
+      "original": "Dignus .",
+      "translation": "I am so deserving ."
+    },
+    {
+      "id": "2.3.342c",
+      "label": "Section 2.3.342c",
+      "chapter": null,
+      "original": "Serva istas fores ,",
+      "translation": "Watch that door , then , that she may not privily betake herself out thence without your knowledge and pass here into our house ."
+    },
+    {
+      "id": "2.3.344",
+      "label": "Section 2.3.344",
+      "chapter": null,
+      "original": "Consilium est ita facere .",
+      "translation": "’ Tis my intention to do so ."
+    },
+    {
+      "id": "2.3.344b",
+      "label": "Section 2.3.344b",
+      "chapter": null,
+      "original": "Pede ego iam illam huc tibi sistam in viam . —",
+      "translation": "Upon her feet [*] will I place her this moment here before you in the street ."
+    },
+    {
+      "id": "2.3.345",
+      "label": "Section 2.3.345",
+      "chapter": null,
+      "original": "Agedum ergo face . vólo scire , utrum egon id quod vidi viderim",
+      "translation": "Come , then , and do so ."
+    },
+    {
+      "id": "2.3.346",
+      "label": "Section 2.3.346",
+      "chapter": null,
+      "original": "an illic faciat , quod facturum dicit , ut ea sit domi .",
+      "translation": "I wish to know whether I did see that which I did see , [*] or whether he can do that which he says he can do — make her to be at home . For , really , I have eyes of my own , and I don ’ t ever ask to borrow them out of doors . But this fellow is forever fawning about her ; he is always near her ; he is called first to meat ; his mess is given [*] to him first ."
+    },
+    {
+      "id": "2.3.350",
+      "label": "Section 2.3.350",
+      "chapter": null,
+      "original": "nam illic noster est fortasse circiter triennium ,",
+      "translation": "For this fellow has been , perhaps , about three years with us ; nor fares it better with any other servant in our family than with him . But it is necessary for me to mind what I am about ; to keep my eye upon this door . If I take my station here , this way , in faith , I warrant they will never impose on me ."
+    },
+    {
+      "id": "2.4.354",
+      "label": "Section 2.4.354",
+      "chapter": null,
+      "original": "Praecépta facito ut mémineris .",
+      "translation": "Be sure to remember my instructions ."
+    },
+    {
+      "id": "2.4.354b",
+      "label": "Section 2.4.354b",
+      "chapter": null,
+      "original": "Totiéns monere mírumst .",
+      "translation": "It ’ s strange you should so often remind me ."
+    },
+    {
+      "id": "2.4.355",
+      "label": "Section 2.4.355",
+      "chapter": null,
+      "original": "At metuo ut satis sis subdola .",
+      "translation": "But I fear you may not prove cunning enough ."
+    },
+    {
+      "id": "2.4.355b",
+      "label": "Section 2.4.355b",
+      "chapter": null,
+      "original": "Cedo vel decem , edocebo",
+      "translation": "Give me even ten scholars , though far from artful , I could instruct them so as to prove artful ; in me alone is there a superabundance of artfulness ;"
+    },
+    {
+      "id": "2.4.357",
+      "label": "Section 2.4.357",
+      "chapter": null,
+      "original": "Age nunciam insiste in dolos ; ego abs te procul recedam .",
+      "translation": "come , then , now put your plans in force ; I ’ ll step aside here ."
+    },
+    {
+      "id": "2.4.358",
+      "label": "Section 2.4.358",
+      "chapter": null,
+      "original": "quid ais tu , Sceledre ?",
+      "translation": "What have you to say , Scledrus ?"
+    },
+    {
+      "id": "2.4.358b",
+      "label": "Section 2.4.358b",
+      "chapter": null,
+      "original": "Hanc rem gero . habeo auris , loquere quidvis .",
+      "translation": "I ’ m about this business of mine ; I have got ears , say what you please ."
+    },
+    {
+      "id": "2.4.359",
+      "label": "Section 2.4.359",
+      "chapter": null,
+      "original": "Credo ego istoc extemplo tibi esse eundum actutum extra portam ,",
+      "translation": "I think that in that self-same position [*] you will have to die outside the gates ,"
+    },
+    {
+      "id": "2.4.360",
+      "label": "Section 2.4.360",
+      "chapter": null,
+      "original": "dispessis manibus , patibulum quom habebis .",
+      "translation": "when , with hands outstretched , you will be carrying your cross ."
+    },
+    {
+      "id": "2.4.360b",
+      "label": "Section 2.4.360b",
+      "chapter": null,
+      "original": "Quamnam ob rem ?",
+      "translation": "For what reason so ?"
+    },
+    {
+      "id": "2.4.361",
+      "label": "Section 2.4.361",
+      "chapter": null,
+      "original": "Respice dum ad laevam : quis illaec est mulier ?",
+      "translation": "Just look on your left hand ; who is that lady ?"
+    },
+    {
+      "id": "2.4.361b",
+      "label": "Section 2.4.361b",
+      "chapter": null,
+      "original": "Pro di immortales ,",
+      "translation": "O ye immortal Gods , it really is the lady of my master !"
+    },
+    {
+      "id": "2.4.362b",
+      "label": "Section 2.4.362b",
+      "chapter": null,
+      "original": "Mihi quoque pol ita videtur .",
+      "translation": "I ’ faith , so she seems to me as well . Do then , now , since so you would have it —"
+    },
+    {
+      "id": "2.4.363b",
+      "label": "Section 2.4.363b",
+      "chapter": null,
+      "original": "Quid agam ?",
+      "translation": "Do what ?"
+    }
+  ],
+  "prevChunkSlug": "the-braggart-soldier-kcqgdf-3",
+  "nextChunkSlug": "the-braggart-soldier-kcqgdf-5"
+}

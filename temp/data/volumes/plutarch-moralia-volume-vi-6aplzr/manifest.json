@@ -1,0 +1,181 @@
+{
+  "loebNumber": 337,
+  "sortOrder": 337,
+  "slug": "plutarch-moralia-volume-vi-6aplzr",
+  "title": "Moralia, Volume VI",
+  "volumeLabel": "Moralia, Volume VI",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Moralia, Volume VI. Moralia, Volume VI opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "de-iside-et-osiride-545x8r",
+  "readyChunkCount": 5,
+  "contents": [
+    {
+      "id": "moralia-volume-vi-1ff3qc",
+      "title": "Moralia, Volume VI",
+      "status": "ready",
+      "sectionCount": 186,
+      "chunkSlug": "de-iside-et-osiride-545x8r",
+      "chunks": [
+        {
+          "slug": "de-iside-et-osiride-545x8r",
+          "label": "De Iside et Osiride",
+          "partId": "moralia-volume-vi-1ff3qc",
+          "partTitle": "Moralia, Volume VI",
+          "sectionCount": 80,
+          "status": "ready"
+        },
+        {
+          "slug": "de-e-apud-delphos-1dl6b2",
+          "label": "De E apud Delphos",
+          "partId": "moralia-volume-vi-1ff3qc",
+          "partTitle": "Moralia, Volume VI",
+          "sectionCount": 21,
+          "status": "ready"
+        },
+        {
+          "slug": "de-pythiae-oraculis-fny56d",
+          "label": "De Pythiae oraculis",
+          "partId": "moralia-volume-vi-1ff3qc",
+          "partTitle": "Moralia, Volume VI",
+          "sectionCount": 30,
+          "status": "ready"
+        },
+        {
+          "slug": "de-defectu-oraculorum-rlasc2",
+          "label": "De Defectu Oraculorum",
+          "partId": "moralia-volume-vi-1ff3qc",
+          "partTitle": "Moralia, Volume VI",
+          "sectionCount": 52,
+          "status": "ready"
+        },
+        {
+          "slug": "an-virtus-doceri-possit-17kauv",
+          "label": "An Virtus Doceri Possit",
+          "partId": "moralia-volume-vi-1ff3qc",
+          "partTitle": "Moralia, Volume VI",
+          "sectionCount": 3,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "de-iside-et-osiride-545x8r",
+      "label": "De Iside et Osiride",
+      "partId": "moralia-volume-vi-1ff3qc",
+      "partTitle": "Moralia, Volume VI",
+      "sectionCount": 80,
+      "status": "ready"
+    },
+    {
+      "slug": "de-e-apud-delphos-1dl6b2",
+      "label": "De E apud Delphos",
+      "partId": "moralia-volume-vi-1ff3qc",
+      "partTitle": "Moralia, Volume VI",
+      "sectionCount": 21,
+      "status": "ready"
+    },
+    {
+      "slug": "de-pythiae-oraculis-fny56d",
+      "label": "De Pythiae oraculis",
+      "partId": "moralia-volume-vi-1ff3qc",
+      "partTitle": "Moralia, Volume VI",
+      "sectionCount": 30,
+      "status": "ready"
+    },
+    {
+      "slug": "de-defectu-oraculorum-rlasc2",
+      "label": "De Defectu Oraculorum",
+      "partId": "moralia-volume-vi-1ff3qc",
+      "partTitle": "Moralia, Volume VI",
+      "sectionCount": 52,
+      "status": "ready"
+    },
+    {
+      "slug": "an-virtus-doceri-possit-17kauv",
+      "label": "An Virtus Doceri Possit",
+      "partId": "moralia-volume-vi-1ff3qc",
+      "partTitle": "Moralia, Volume VI",
+      "sectionCount": 3,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "de-iside-et-osiride-545x8r",
+      "partTitle": "Moralia, Volume VI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ Ἴσιδος και Ὀσίριδος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg089.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Isis and Osiris",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg089.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "de-e-apud-delphos-1dl6b2",
+      "partTitle": "Moralia, Volume VI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τοῦ Ε τοῦ ἐν Δελφοῖς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg090.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Ε at Delphi",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg090.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "de-pythiae-oraculis-fny56d",
+      "partTitle": "Moralia, Volume VI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τοῦ μὴ χρᾶν ἔμμετρα νῦν τὴν Πυθίαν",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg091.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Oracle at Delphi no Longer Given in Verse",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg091.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "de-defectu-oraculorum-rlasc2",
+      "partTitle": "Moralia, Volume VI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τῶν ἐκλελοιπότων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg092.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Obsolesence of Oracles",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg092.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "an-virtus-doceri-possit-17kauv",
+      "partTitle": "Moralia, Volume VI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Εἰ διδακτὸν ἡ ἀρετή",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg093.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Can Virtue Be Taught?",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg093.perseus-eng3/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "loebNumber": 222,
+  "sortOrder": 222,
+  "slug": "plutarch-moralia-volume-ii-6aplok",
+  "title": "Moralia, Volume II",
+  "volumeLabel": "Moralia, Volume II",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Moralia, Volume II. Moralia, Volume II opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "de-capienda-ex-inimicis-utilitate-z6sa9n",
+  "readyChunkCount": 5,
+  "contents": [
+    {
+      "id": "moralia-volume-ii-1ff3q0",
+      "title": "Moralia, Volume II",
+      "status": "ready",
+      "sectionCount": 67,
+      "chunkSlug": "de-capienda-ex-inimicis-utilitate-z6sa9n",
+      "chunks": [
+        {
+          "slug": "de-capienda-ex-inimicis-utilitate-z6sa9n",
+          "label": "De capienda ex inimicis utilitate",
+          "partId": "moralia-volume-ii-1ff3q0",
+          "partTitle": "Moralia, Volume II",
+          "sectionCount": 11,
+          "status": "ready"
+        },
+        {
+          "slug": "de-amicorum-multitudine-gjdhiu",
+          "label": "De amicorum multitudine",
+          "partId": "moralia-volume-ii-1ff3q0",
+          "partTitle": "Moralia, Volume II",
+          "sectionCount": 9,
+          "status": "ready"
+        },
+        {
+          "slug": "de-fortuna-f29y9q",
+          "label": "De fortuna",
+          "partId": "moralia-volume-ii-1ff3q0",
+          "partTitle": "Moralia, Volume II",
+          "sectionCount": 6,
+          "status": "ready"
+        },
+        {
+          "slug": "de-virtute-et-vitio-1npqpr",
+          "label": "De virtute et vitio",
+          "partId": "moralia-volume-ii-1ff3q0",
+          "partTitle": "Moralia, Volume II",
+          "sectionCount": 4,
+          "status": "ready"
+        },
+        {
+          "slug": "consolatio-ad-apollonium-10t2x5",
+          "label": "Consolatio ad Apollonium",
+          "partId": "moralia-volume-ii-1ff3q0",
+          "partTitle": "Moralia, Volume II",
+          "sectionCount": 37,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "de-capienda-ex-inimicis-utilitate-z6sa9n",
+      "label": "De capienda ex inimicis utilitate",
+      "partId": "moralia-volume-ii-1ff3q0",
+      "partTitle": "Moralia, Volume II",
+      "sectionCount": 11,
+      "status": "ready"
+    },
+    {
+      "slug": "de-amicorum-multitudine-gjdhiu",
+      "label": "De amicorum multitudine",
+      "partId": "moralia-volume-ii-1ff3q0",
+      "partTitle": "Moralia, Volume II",
+      "sectionCount": 9,
+      "status": "ready"
+    },
+    {
+      "slug": "de-fortuna-f29y9q",
+      "label": "De fortuna",
+      "partId": "moralia-volume-ii-1ff3q0",
+      "partTitle": "Moralia, Volume II",
+      "sectionCount": 6,
+      "status": "ready"
+    },
+    {
+      "slug": "de-virtute-et-vitio-1npqpr",
+      "label": "De virtute et vitio",
+      "partId": "moralia-volume-ii-1ff3q0",
+      "partTitle": "Moralia, Volume II",
+      "sectionCount": 4,
+      "status": "ready"
+    },
+    {
+      "slug": "consolatio-ad-apollonium-10t2x5",
+      "label": "Consolatio ad Apollonium",
+      "partId": "moralia-volume-ii-1ff3q0",
+      "partTitle": "Moralia, Volume II",
+      "sectionCount": 37,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "de-capienda-ex-inimicis-utilitate-z6sa9n",
+      "partTitle": "Moralia, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πῶς ἄν τις ἀπ’ ἐχθρῶν ὠφελοῖτο",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg072.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "How To Profit By One's Enemies",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg072.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "de-amicorum-multitudine-gjdhiu",
+      "partTitle": "Moralia, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ πολυφιλίας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg073.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Having Many Friends",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg073.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "de-fortuna-f29y9q",
+      "partTitle": "Moralia, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τύχης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg074.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Chance",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg074.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "de-virtute-et-vitio-1npqpr",
+      "partTitle": "Moralia, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ ἀρετῆς καὶ κακιάς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg075.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Virtue and Vice",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg075.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "consolatio-ad-apollonium-10t2x5",
+      "partTitle": "Moralia, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πραμυθητικὸς πρὸς Ἀπολλώνιον",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg076.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "A Letter of Condolence to Apollonius",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg076.perseus-eng3/"
+      }
+    }
+  ]
+}

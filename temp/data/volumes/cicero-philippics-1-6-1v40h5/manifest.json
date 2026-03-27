@@ -1,0 +1,61 @@
+{
+  "loebNumber": 189,
+  "sortOrder": 189,
+  "slug": "cicero-philippics-1-6-1v40h5",
+  "title": "Philippics 1-6",
+  "volumeLabel": "Philippics 1-6",
+  "authorDisplay": "Cicero",
+  "authors": [
+    "Cicero"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for Philippics 1-6, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "philippics-1-6-o76htx",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "philippics-1-6-o76htx",
+      "title": "Philippics 1-6",
+      "status": "ready",
+      "sectionCount": 56,
+      "chunkSlug": "philippics-1-6-o76htx",
+      "chunks": [
+        {
+          "slug": "philippics-1-6-o76htx",
+          "label": "Philippics 1-6",
+          "partId": "philippics-1-6-o76htx",
+          "partTitle": "Philippics 1-6",
+          "sectionCount": 56,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "philippics-1-6-o76htx",
+      "label": "Philippics 1-6",
+      "partId": "philippics-1-6-o76htx",
+      "partTitle": "Philippics 1-6",
+      "sectionCount": 56,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "philippics-1-6-o76htx",
+      "partTitle": "Philippics 1-6",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Philippicae",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi035.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Philippics",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi035.perseus-eng1/"
+      }
+    }
+  ]
+}

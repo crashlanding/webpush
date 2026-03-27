@@ -1,0 +1,150 @@
+{
+  "volumeSlug": "plutarch-lives-volume-viii-1mcb3n",
+  "volumeTitle": "Lives, Volume VIII",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "caesar-x97nbx-3",
+  "label": "Caesar (Section 61.2 - Section 69.2)",
+  "partId": "lives-volume-viii-wfl60u",
+  "partTitle": "Lives, Volume VIII",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Caesar",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg048.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Caesar",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg048.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "61.2",
+      "label": "Section 61.2",
+      "chapter": null,
+      "original": "τῶν δʼ εὐγενῶν νεανίσκων καί ἀρχόντων πολλοὶ διαθέουσιν ἀνὰ τὴν πόλιν γυμνοί , σκύτεσι λασίοις τοὺς ἐμποδὼν ἐπὶ παιδιᾷ καί γέλωτι παίοντες πολλαὶ δὲ καί τῶν ἐν τέλει γυναικῶν ἐπίτηδες ὑπαντῶσαι παρέχουσιν ὥσπερ ἐν διδασκάλου τὼ χεῖρε ταῖς πληγαῖς , πεπεισμέναι πρὸς εὐτοκίαν κυούσαις , ἀγόνοις δὲ πρὸς κύησιν ἀγαθὸν εἶναι .",
+      "translation": "At this time many of the noble youths and of the magistrates run up and down through the city naked , for sport and laughter striking those they meet with shaggy thongs . And many women of rank also purposely get in their way , and like children at school present their hands to be struck , believing that the pregnant will thus be helped to an easy delivery , and the barren to pregnancy ."
+    },
+    {
+      "id": "62.1",
+      "label": "Section 62.1",
+      "chapter": null,
+      "original": "οὕτω δὴ τρέπονται πρὸς Μᾶρκον Βροῦτον οἱ πολλοί , γένος μὲν ἐκεῖθεν εἶναι δοκοῦντα πρὸς πατέρων , καὶ τὸ πρὸς μητρὸς δὲ ἀπὸ Σερουιλίων , paris.1624.737 οἰκίας ἑτέρας ἐπιφανοῦς , γαμβρὸν δὲ καί ἀδελφιδοῦν Κάτωνος . τοῦτον ἐξ ἑαυτοῦ μὲν ὁρμῆσαι πρὸς κατάλυσιν τῆς μοναρχίας ἤμβλυνον αἱ παρὰ Καίσαρος τιμαὶ καὶ χάριτες .",
+      "translation": "Under these circumstances the multitude turned their thoughts towards Marcus Brutus , who was thought to be a descendant of the elder Brutus on his father ’ s side , on his mother ’ s side belonged to the Servilii , another illustrious house , and was a son-in-law and nephew of Cato . The desires which Brutus felt to attempt of his own accord the abolition of the monarchy were blunted by the favours and honours that he had received from Caesar ."
+    },
+    {
+      "id": "62.2",
+      "label": "Section 62.2",
+      "chapter": null,
+      "original": "οὐ γὰρ μόνον ἐσώθη περὶ Φάρσαλον ἀπὸ τῆς Πομπηΐου φυγῆς , οὐδὲ πολλοὺς τῶν ἐπιτηδείων ἔσωσεν ἐξαιτησάμενος , ἀλλὰ καὶ πίστιν εἶχε μεγάλην παρʼ αὐτῷ . καὶ στρατηγίαν μὲν ἐν τοῖς τότε τὴν ἐπιφανεστάτην ἔλαβεν , ὑπατεύειν δὲ ἔμελλεν εἰς τέταρτον ἔτος , ἐρίσαντος Κασσίου προτιμηθείς · λέγεται γὰρ ὁ Καῖσαρ εἰπεῖν ὡς δικαιότερα μὲν λέγοι Κάσσιος , αὐτὸς μέντοι Βροῦτον οὐκ ἂν παρέλθοι .",
+      "translation": "For not only had his life been spared at Pharsalus after Pompey ’ s flight , and the lives of many of his friends at his entreaty , but also he had great credit with Caesar . He had received the most honourable of the praetorships for the current year , and was to be consul three years later , having been preferred to Cassius , who was a rival candidate . For Caesar , as we are told , said that Cassius urged the juster claims to the office , but that for his own part he could not pass Brutus by . [*]"
+    },
+    {
+      "id": "63.1",
+      "label": "Section 63.1",
+      "chapter": null,
+      "original": "ἀλλʼ ἔοικεν οὐχ οὕτως ἀπροσδόκητον ὡς ἀφύλακτον εἶναι τὸ πεπρωμένον , ἐπεὶ καὶ σημεῖα θαυμαστὰ καὶ φάσματα φανῆναι λέγουσι . σέλα μὲν οὖν οὐράνια καὶ κτύπους νύκτωρ πολλαχοῦ διαφερομένους καὶ καταίροντας εἰς ἀγορὰν ἐρήμους ὄρνιθας οὐκ ἄξιον ἴσως ἐπὶ πάθει τηλικούτῳ μνημονεῦσαι ·",
+      "translation": "But destiny , it would seem , is not so much unexpected as it is unavoidable , since they say that amazing signs and apparitions were seen . Now , as for lights in the heavens , crashing sounds borne all about by night , and birds of omen coming down into the forum , it is perhaps not worth while to mention these precursors of so great an event ;"
+    },
+    {
+      "id": "63.2",
+      "label": "Section 63.2",
+      "chapter": null,
+      "original": "Στράβων δὲ ὁ φιλόσοφος ἱστορεῖ πολλοὺς μὲν ἀνθρώπους διαπύρους ἐπιφερομένους φανῆναι , στρατιώτου δὲ ἀνδρὸς οἰκέτην ἐκ τῆς χειρὸς ἐκβαλεῖν πολλὴν φλόγα καὶ δοκεῖν καίεσθαι τοῖς ὁρῶσιν , ὡς δὲ ἐπαύσατο , μηδὲν ἔχειν κακὸν τὸν ἄνθρωπον · αὐτῷ δὲ p.590 Καίσαρι θύοντι τὴν καρδίαν ἀφανῆ γενέσθαι τοῦ ἱερείου καὶ δεινὸν εἶναι τὸ τέρας ; οὐ γὰρ ἂν φύσει γε συστῆναι ζῷον ἀκάρδιον .",
+      "translation": "but Strabo the philosopher says [*] that multitudes of men all on fire were seen rushing up , and a soldier ’ s slave threw from his hand a copious flame and seemed to the spectators to be burning , but when the flame ceased the man was uninjured ; he says , moreover , that when Caesar himself was sacrificing , the heart of the victim was not to be found , and the prodigy caused fear , since in the course of nature , certainly , an animal without a heart could not exist ."
+    },
+    {
+      "id": "64.1",
+      "label": "Section 64.1",
+      "chapter": null,
+      "original": "ἐν δὲ τούτῳ Δέκιμος Βροῦτος ἐπίκλησιν Ἀλβῖνος , πιστευόμενος μὲν ὑπὸ Καίσαρος , ὥστε καὶ δεύτερος ὑπʼ αὐτοῦ κληρονόμος γεγράφθαι , τοῖς δὲ περὶ Βροῦτον τὸν ἕτερον καὶ Κάσσιον μετέχων τῆς συνωμοσίας , φοβηθεὶς μὴ τὴν ἡμέραν ἐκείνην διακρουσαμένου τοῦ Καίσαρος ἔκπυστος ἡ πρᾶξις γένηται , τούς τε μάντεις ἐχλεύαζε καὶ καθήπτετο τοῦ Καίσαρος ,",
+      "translation": "But at this juncture Decimus Brutus , surnamed Albinus , who was so trusted by Caesar that he was entered in his will as his second heir , but was partner in the conspiracy of the other Brutus and Cassius , fearing that if Caesar should elude that day , their undertaking would become known , ridiculed the seers and chided Caesar"
+    },
+    {
+      "id": "64.2",
+      "label": "Section 64.2",
+      "chapter": null,
+      "original": "ὡς αἰτίας καὶ διαβολὰς ἑαυτῷ κτωμένου πρὸς τὴν σύγκλητον ἐντρυφᾶσθαι δοκοῦσαν ἥκειν μὲν γὰρ αὐτὴν κελεύσαντος ἐκείνου , καὶ προθύμους εἶναι ψηφίζεσθαι πάντας ὅπως τῶν ἐκτὸς Ἰταλίας ἐπαρχιῶν βασιλεὺς ἀναγορεύοιτο καὶ φοροίη διάδημα τὴν ἄλλην ἐπιὼν γῆν καὶ θάλασσαν ·",
+      "translation": "for laying himself open to malicious charges on the part of the senators , who would think themselves mocked at ; for they had met at his bidding , and were ready and willing to vote as one man that he should be declared king of the provinces outside of Italy , and might wear a diadem when he went anywhere else by land or sea ;"
+    },
+    {
+      "id": "65.1",
+      "label": "Section 65.1",
+      "chapter": null,
+      "original": "Ἀρτεμίδωρος δὲ Κνίδιος τὸ γένος , Ἑλληνικῶν λόγων σοφιστὴς καὶ διὰ τοῦτο γεγονὼς ἐνίοις συνήθης τῶν περὶ Βροῦτον , ὥστε καὶ γνῶναι τὰ πλεῖστα τῶν πραττομένων , ἧκε μὲν ἐν βιβλιδίῳ κομίζων ἅπερ ἔμελλε μηνύειν , ὁρῶν δὲ τὸν Καίσαρα τῶν βιβλιδίων ἕκαστον δεχόμενον καὶ παραδιδόντα τοῖς περὶ αὐτὸν ὑπηρέταις , ἐγγὺς σφόδρα προσελθών , τοῦτο , ἔφη , Καῖσαρ , ἀνάγνωθι μόνος καὶ ταχέως · γέγραπται γὰρ ὑπὲρ πραγμάτων μεγάλων καὶ σοὶ διαφερόντων .",
+      "translation": "Furthermore , Artemidorus , a Cnidian by birth , a teacher of Greek philosophy , and on this account brought into intimacy with some of the followers of Brutus , so that he also knew most of what they were doing , came bringing to Caesar in a small roll the disclosures which he was going to make ; but seeing that Caesar took all such rolls and handed them to his attendants , he came quite near , and said : Read this , Caesar , by thyself , and speedily ; for it contains matters of importance and of concern to thee ."
+    },
+    {
+      "id": "65.2",
+      "label": "Section 65.2",
+      "chapter": null,
+      "original": "δεξάμενος οὖν ὁ Καῖσαρ ἀναγνῶναι μὲν ὑπὸ πλήθους τῶν ἐντυγχανόντων ἐκωλύθη , καίπερ ὁρμήσας πολλάκις , ἐν δὲ τῇ χειρὶ κατέχων καὶ φυλάττων μόνον ἐκεῖνο παρῆλθεν εἰς τὴν σύγκλητον ἔνιοι δέ φασιν ἄλλον ἐπιδοῦναι τὸ βιβλίον τοῦτο , τὸν δʼ Ἀρτεμίδωρον οὐδὲ ὅλως προσελθεῖν , ἀλλʼ ἐκθλιβῆναι παρὰ πᾶσαν τὴν ὁδόν .",
+      "translation": "Accordingly , Caesar took the roll and would have read it , but was prevented by the multitude of people who engaged his attention , although he set out to do so many times , and holding in his hand and retaining that roll alone , he passed on into the senate . Some , however , say that another person gave him this roll , and that Artemidorus did not get to him at all , but was crowded away all along the route ."
+    },
+    {
+      "id": "66.1",
+      "label": "Section 66.1",
+      "chapter": null,
+      "original": "ἀλλὰ ταῦτα μὲν ἤδη που φέρει καὶ τὸ αὐτόματον · ὁ δὲ δεξάμενος τὸν φόνον ἐκεῖνον καὶ τὸν ἀγῶνα χῶρος , εἰς ὃν ἡ σύγκλητος ἠθροίσθη τότε , Πομπηΐου μὲν εἰκόνα κειμένην ἔχων , Πομπηΐου δὲ ἀνάθημα γεγονὼς τῶν p.596 προσκεκοσμημένων τῷ θεάτρῳ , παντάπασιν ἀπέφαινε δαίμονός paris.1624.739 τινος ὑφηγουμένου καὶ καλοῦντος ἐκεῖ τὴν πρᾶξιν ἔργον γεγονέναι .",
+      "translation": "So far , perhaps , these things may have happened of their own accord ; the place , however , which was the scene of that struggle and murder , and in which the senate was then assembled , since it contained a statue of Pompey and had been dedicated by Pompey as an additional ornament to his theatre , made it wholly clear that it was the work of some heavenly power which was calling and guiding the action thither ."
+    },
+    {
+      "id": "66.2",
+      "label": "Section 66.2",
+      "chapter": null,
+      "original": "καὶ γὰρ οὖν καὶ λέγεται Κάσσιος εἰς τὸν ἀνδριάντα τοῦ Πομπηΐου πρὸ τῆς ἐγχειρήσεως ἀποβλέπων ἐπικαλεῖσθαι σιωπῇ , καίπερ οὐκ ἀλλότριος ὢν τῶν Ἐπικούρου λόγων ἀλλʼ ὁ καιρὸς , ὡς ἔοικεν , ἤδη τοῦ δεινοῦ παρεστῶτος ἐνθουσιασμὸν ἐνεποίει καὶ πάθος ἀντὶ τῶν προτέρων λογισμῶν .",
+      "translation": "Indeed , it is also said that Cassius , turning his eyes toward the statue of Pompey before the attack began , invoked it silently , although he was much addicted to the doctrines of Epicurus ; [*] but the crisis , as it would seem , when the dreadful attempt was now close at hand , replaced his former cool calculations with divinely inspired emotion ."
+    },
+    {
+      "id": "67.1",
+      "label": "Section 67.1",
+      "chapter": null,
+      "original": "Κατειργασμένου δὲ τοῦ ἀνδρός ἡ μὲν γερουσία , καίπερ εἰς μέσον ἐλθόντος Βρούτου ὥς p.600 τι περὶ τῶν πεπραγμένων ἐροῦντος , οὐκ ἀνασχομένη διὰ θυρῶν ἐξέπιπτε καὶ φεύγουσα κατέπλησε ταραχῆς καὶ δέους ἀπόρου τὸν δῆμον , ὥστε τοὺς μὲν οἰκίας κλείειν , τοὺς δὲ ἀπολείπειν τραπέζας καὶ χρηματιστήρια , δρόμῳ δὲ χωρεῖν τοὺς μὲν ἐπὶ τὸν τόπον ὀψομένους τὸ πάθος , τοὺς δὲ ἐκεῖθεν ἑωρακότας .",
+      "translation": "Caesar thus done to death , the senators , although Brutus came forward as if to say something about what had been done , would not wait to hear him , but burst out of doors and fled , thus filling the people with confusion and helpless fear , so that some of them closed their houses , while others left their counters and places of business and ran , first to the place to see what had happened , then away from the place when they had seen ."
+    },
+    {
+      "id": "67.2",
+      "label": "Section 67.2",
+      "chapter": null,
+      "original": "Ἀντώνιος δὲ καὶ Λέπιδος οἱ μάλιστα φίλοι Καίσαρος ὑπεκδύντες εἰς οἰκίας ἑτέρας κατέφυγον . οἱ δὲ περὶ Βροῦτον , ὥσπερ ἦσαν ἔτι θερμοὶ τῷ φόνῳ , γυμνὰ τὰ ξίφη δεικνύντες , ἅμα πάντες ἀπὸ τοῦ βουλευτηρίου συστραφέντες ἐχώρουν εἰς τὸ Καπιτώλιον , οὐ φεύγουσιν ἐοικότες , ἀλλὰ μάλα φαιδροὶ καὶ θαρραλέοι , παρακαλοῦντες ἐπὶ τὴν ἐλευθερίαν τὸ πλῆθος καὶ προσδεχόμενοι τοὺς ἀρίστους τῶν ἐντυγχανόντων .",
+      "translation": "Antony and Lepidus , the chief friends of Caesar , stole away and took refuge in the houses of others . But Brutus and his partisans , just as they were , still warm from the slaughter , displaying their daggers bare , went all in a body out of the senate-house and marched to the Capitol , not like fugitives , but with glad faces and full of confidence , summoning the multitude to freedom , and welcoming into their ranks the most distinguished of those who met them ."
+    },
+    {
+      "id": "68.1",
+      "label": "Section 68.1",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ τῶν διαθηκῶν τῶν Καίσαρος ἀνοιχθεισῶν εὑρέθη δεδομένη Ῥωμαίων ἑκάστῳ δόσις ἀξιόλογος , καί τὸ σῶμα κομιζόμενον διʼ ἀγορᾶς ἐθεάσαντο ταῖς πληγαῖς διαλελωβημένον , οὐκέτι κόσμον εἶχεν οὐδὲ τάξιν αὐτῶν τὸ πλῆθος , ἀλλὰ τῷ μὲν νεκρῷ περισωρεύσαντες ἐξ ἀγορᾶς βάθρα καί κιγκλίδας καί τραπέζας ὑφῆψαν αὐτοῦ καὶ κατέκαυσαν , ἀράμενοι δὲ δαλοὺς διαπύρους ἔθεον ἐπὶ τὰς οἰκίας τῶν ἀνῃρηκότων ὡς καταφλέξοντες , ἄλλοι δὲ ἐφοίτων πανταχόσε τῆς πόλεως συλλαβεῖν καί διασπάσασθαι τοὺς ἄνδρας ζητοῦντες .",
+      "translation": "But when the will of Caesar was opened and it was found that he had given every Roman citizen a considerable gift , and when the multitude saw his body carried through the forum all disfigured with its wounds , they no longer kept themselves within the restraints of order and discipline , but after heaping round the body benches , railings , and tables from the forum , they set fire to them and burned it there ; then , lifting blazing brands on high , they ran to the houses of the murderers with intent to burn them down , while others went every whither through the city seeking to seize the men themselves and tear them to pieces ."
+    },
+    {
+      "id": "68.2",
+      "label": "Section 68.2",
+      "chapter": null,
+      "original": "οἷς ἐκείνων μὲν οὐδεὶς ἀπήντησεν , ἀλλὰ εὖ πεφραγμένοι πάντες ἦσαν . Κίννας δέ τις τῶν Καίσαρος ἑταίρων ἔτυχε μὲν , ὥς φασι , τῆς παρῳχημένης νυκτὸς ὄψιν ἑωρακὼς ἄτοπον ἐδόκει γὰρ ὑπὸ Καίσαρος ἐπὶ δεῖπνον καλεῖσθαι , παραιτούμενος δὲ ἄγεσθαι τῆς χειρὸς ὑπʼ αὐτοῦ μὴ βουλόμενος , ἀλλʼ ἀντιτείνων . ὡς δʼ ἤκουσεν ἐν ἀγορᾷ τὸ σῶμα καίεσθαι τοῦ Καίσαρος , ἀναστὰς ἐβάδιζεν ἐπὶ τιμῇ , καίπερ ὑφορώμενός τε τὴν ὄψιν ἅμα καί πυρέττων .",
+      "translation": "Not one of these came in their way , but all were well barricaded . There was a certain Cinna , however , one of the friends of Caesar , who chanced , as they say , to have seen during the previous night a strange vision . He dreamed , that is , that he was invited to supper by Caesar , and that when he excused himself , Caesar led him along by the hand , although he did not wish to go , but resisted . Now , when he heard that they were burning the body of Caesar in the forum , he rose up and went thither out of respect , although he had misgivings arising from his vision , and was at the same time in a fever ."
+    },
+    {
+      "id": "69.1",
+      "label": "Section 69.1",
+      "chapter": null,
+      "original": "θνῄσκει δὲ Καῖσαρ τὰ μὲν πάντα γεγονὼς ἔτη πεντήκοντα καὶ ἕξ , Πομπηΐῳ δʼ ἐπιβιώσας οὐ πολὺ πλέον ἐτῶν τεσσάρων , ἣν δὲ τῷ βίῳ παντὶ ἀρχὴν καὶ δυναστείαν διὰ κινδύνων τοσούτων διώκων μόλις κατειργάσατο , ταύτης οὐδὲν ὅτι μὴ τοὔνομα μόνον καὶ τὴν ἐπίφθονον καρπωσάμενος δόξαν παρὰ τῶν πολιτῶν .",
+      "translation": "At the time of his death Caesar was fully fifty-six years old , but he had survived Pompey not much more than four years , while of the power and dominion which he had sought all his life at so great risks , and barely achieved at last , of this he had reaped no fruit but the name of it only , and a glory which had awakened envy on the part of his fellow citizens ."
+    },
+    {
+      "id": "69.2",
+      "label": "Section 69.2",
+      "chapter": null,
+      "original": "ὁ μέντοι μέγας αὐτοῦ δαίμων , ᾧ παρὰ τὸν βίον ἐχρήσατο , καὶ τελευτήσαντος ἐπηκολούθησε τιμωρὸς τοῦ φόνου , διά τε γῆς πάσης καὶ θαλάττης ἐλαύνων καὶ ἀνιχνεύων ἄχρι τοῦ μηδένα λιπεῖν τῶν ἀπεκτονότων , ἀλλὰ καὶ τοὺς καθʼ ὁτιοῦν ἢ χειρὶ τοῦ ἔργου θιγόντας ἢ γνώμης μετασχόντας ἐπεξελθεῖν .",
+      "translation": "However , the great guardian-genius of the man , whose help he had enjoyed through life , followed upon him even after death as an avenger of his murder , driving and tracking down his slayers over every land and sea until not one of them was left , but even those who in any way soever either put hand to the deed or took part in the plot were punished ."
+    }
+  ],
+  "prevChunkSlug": "caesar-x97nbx-2",
+  "nextChunkSlug": null
+}

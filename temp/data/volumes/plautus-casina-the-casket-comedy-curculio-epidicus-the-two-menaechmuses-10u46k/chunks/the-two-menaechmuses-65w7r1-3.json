@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-casina-the-casket-comedy-curculio-epidicus-the-two-menaechmuses-10u46k",
+  "volumeTitle": "Casina. The Casket Comedy. Curculio. Epidicus. The Two Menaechmuses",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-two-menaechmuses-65w7r1-3",
+  "label": "The Two Menaechmuses (Section 1.3.216b - Section 2.2.302)",
+  "partId": "the-two-menaechmuses-65w7r1",
+  "partTitle": "The Two Menaechmuses",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Menaechmi",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi010.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Menaechmi, or The Twin Brothers",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi010.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.3.216b",
+      "label": "Section 1.3.216b",
+      "chapter": null,
+      "original": "Ego hercle vero te et servabo et te sequar ,",
+      "translation": "By my troth , I certainly shall keep an eye on you , and follow you . I wouldn ’ t take the wealth of the Gods to lose you this day ."
+    },
+    {
+      "id": "1.3.218",
+      "label": "Section 1.3.218",
+      "chapter": null,
+      "original": "Evocate intus Culindrum mihi coquom actutum foras .",
+      "translation": "Call Cylindrus , the cook , out of doors this moment from within ."
+    },
+    {
+      "id": "1.4.219",
+      "label": "Section 1.4.219",
+      "chapter": null,
+      "original": "sportulam cape atque argentum . eccos tris nummos habes .",
+      "translation": "Take a hand-basket and some money . See , you have three didrachmns here ."
+    },
+    {
+      "id": "1.4.220",
+      "label": "Section 1.4.220",
+      "chapter": null,
+      "original": "Habeo .",
+      "translation": "I have so ."
+    },
+    {
+      "id": "1.4.220b",
+      "label": "Section 1.4.220b",
+      "chapter": null,
+      "original": "Abi atque obsonium adfer ; tribus vide quod sit satis :",
+      "translation": "Go and bring some provisions , see that there ’ s enough for three ; let it be neither deficient nor overmuch ."
+    },
+    {
+      "id": "1.4.221b",
+      "label": "Section 1.4.221b",
+      "chapter": null,
+      "original": "Cuius modi hí homines erunt ?",
+      "translation": "What sort of persons are these to be ?"
+    },
+    {
+      "id": "1.4.222",
+      "label": "Section 1.4.222",
+      "chapter": null,
+      "original": "Ego et Menaechmus et parasitus eius .",
+      "translation": "Myself , Menaechmus , and his Parasite ."
+    },
+    {
+      "id": "1.4.222b",
+      "label": "Section 1.4.222b",
+      "chapter": null,
+      "original": "Iam isti sunt decem ;",
+      "translation": "Then these make ten , for the Parasite easily performs the duty of eight persons [*] ."
+    },
+    {
+      "id": "1.4.224",
+      "label": "Section 1.4.224",
+      "chapter": null,
+      "original": "Elocuta sum convivas , ceterum cura .",
+      "translation": "I ’ ve now told you the guests ; do you take care of the rest ."
+    },
+    {
+      "id": "1.4.224b",
+      "label": "Section 1.4.224b",
+      "chapter": null,
+      "original": "Licet .",
+      "translation": "Very well ."
+    },
+    {
+      "id": "1.4.225",
+      "label": "Section 1.4.225",
+      "chapter": null,
+      "original": "cocta sunt , iube ire accubitum .",
+      "translation": "It ’ s cooked already ; bid them go and take their places ."
+    },
+    {
+      "id": "1.4.225b",
+      "label": "Section 1.4.225b",
+      "chapter": null,
+      "original": "Redi cito .",
+      "translation": "Make haste back ."
+    },
+    {
+      "id": "1.4.225c",
+      "label": "Section 1.4.225c",
+      "chapter": null,
+      "original": "Iam ego hic ero .—",
+      "translation": "I ’ ll be here directly ."
+    },
+    {
+      "id": "2.1.226",
+      "label": "Section 2.1.226",
+      "chapter": null,
+      "original": "Voluptas nullast navitis , Messenio ,",
+      "translation": "There ’ s no greater pleasure to voyagers , in my notion , Messenio , than at the moment when from sea they espy the land afar ."
+    },
+    {
+      "id": "2.1.228b",
+      "label": "Section 2.1.228b",
+      "chapter": null,
+      "original": "Maior , non dicam dolo ,",
+      "translation": "There is a greater , I ’ ll say it without subterfuge ,— if on your arrival you see the land that is your own ."
+    },
+    {
+      "id": "2.1.230",
+      "label": "Section 2.1.230",
+      "chapter": null,
+      "original": "sed quaeso , quam ob rem nunc Epidamnum venimus ?",
+      "translation": "But , prithee , why are we now come to Epidamnus ? Why , like the sea , are we going round all the islands ?"
+    },
+    {
+      "id": "2.1.232",
+      "label": "Section 2.1.232",
+      "chapter": null,
+      "original": "Fratrem quaesitum geminum germanum meum .",
+      "translation": "To seek for my own twin-brother born ?"
+    },
+    {
+      "id": "2.1.233",
+      "label": "Section 2.1.233",
+      "chapter": null,
+      "original": "Nam quid modi futurum est illum quaerere ?",
+      "translation": "Why , what end is there to be of searching for him ? This is the sixth year that we ’ ve devoted our attention to this business ."
+    },
+    {
+      "id": "2.1.235",
+      "label": "Section 2.1.235",
+      "chapter": null,
+      "original": "Histros , Hispanos , Massiliensis , Hilurios ,",
+      "translation": "We have been already carried round the Istrians [*] , the Hispanians , the Massilians , the Illyrians , all the Upper Adriatic Sea , and foreign Greece [*] , and all the shores of Italy , wherever the sea reaches them . If you had been searching for a needle , I do believe you would , long ere this , have found the needle , if it were visible ."
+    },
+    {
+      "id": "2.1.240",
+      "label": "Section 2.1.240",
+      "chapter": null,
+      "original": "hominem inter vivos quaeritamus mortuom ;",
+      "translation": "Among the living are we seeking a person that ’ s dead ; for long ago should we have found him if he had been alive ."
+    },
+    {
+      "id": "2.1.242",
+      "label": "Section 2.1.242",
+      "chapter": null,
+      "original": "Ergo istuc quaero certum qui faciat mihi ,",
+      "translation": "For that reason I am looking for a person to give me that information for certain , who can say that he knows that he really is dead ; after that I shall never take any trouble in seeking further ."
+    },
+    {
+      "id": "2.1.245",
+      "label": "Section 2.1.245",
+      "chapter": null,
+      "original": "verum aliter vivos numquam desistam exsequi .",
+      "translation": "But otherwise I shall never , while I ’ m alive , desist ; I know how dear he is to my heart ."
+    },
+    {
+      "id": "2.1.247",
+      "label": "Section 2.1.247",
+      "chapter": null,
+      "original": "In scirpo nodum quaeris . quin nos hinc domum",
+      "translation": "You are seeking a knot in a bulrush [*] . Why don ’ t we return homeward hence , unless we are to write a history [*] ?"
+    },
+    {
+      "id": "2.1.249",
+      "label": "Section 2.1.249",
+      "chapter": null,
+      "original": "Dictum facessas , datum edis , caveas malo .",
+      "translation": "Have done with your witty sayings , and be on your guard against a mischief ."
+    },
+    {
+      "id": "2.1.250",
+      "label": "Section 2.1.250",
+      "chapter": null,
+      "original": "molestus ne sis , non tuo hoc fiet modo .",
+      "translation": "Don ’ t you be troublesome ; this matter shan ’ t be done at your bidding ."
+    },
+    {
+      "id": "2.1.250b",
+      "label": "Section 2.1.250b",
+      "chapter": null,
+      "original": "Em",
+      "translation": "Aye , aye ; by that same expression do I rest assured that I ’ m a slave ; he couldn ’ t in a few words have said more in a plain-spoken way . But still I can ’ t restrain myself from speaking . ( Aloud .) Do you hear , Menaechmus ? When I look in the purse ,"
+    },
+    {
+      "id": "2.1.255",
+      "label": "Section 2.1.255",
+      "chapter": null,
+      "original": "viaticati hercle admodum aestive sumus .",
+      "translation": "I find , i ’ faith , we ’ re only equipped for our journey like summer travellers [*] . By my troth , I guess , if you don ’ t be returning home , while you ’ re seeking your twin-brother , you ’ ll surely be groaning [*] , when you have nothing left . For such is this race of people ; among the men of Epidamnus there are debauchees and very great drinkers ;"
+    },
+    {
+      "id": "2.1.260",
+      "label": "Section 2.1.260",
+      "chapter": null,
+      "original": "tum sycophantae et palpatores plurumi",
+      "translation": "swindlers besides , and many wheedlers are living in this city ; then the women in the harlot line are said nowhere in the world to be more captivating . The name of Epidamnus was given to this city for the very reason , because hardly any person sojourns here without some damnable mishaps [*] ."
+    },
+    {
+      "id": "2.1.265",
+      "label": "Section 2.1.265",
+      "chapter": null,
+      "original": "Ego istúc cavebo . cedo dum huc mihi marsuppium .",
+      "translation": "I ’ ll guard against that . Just give me the purse this way ."
+    },
+    {
+      "id": "2.1.266",
+      "label": "Section 2.1.266",
+      "chapter": null,
+      "original": "Quid eo vis ?",
+      "translation": "What do you want with it ?"
+    },
+    {
+      "id": "2.1.266b",
+      "label": "Section 2.1.266b",
+      "chapter": null,
+      "original": "Iam aps te metuo de verbis tuis .",
+      "translation": "I ’ m apprehensive then about yourself , from your expressions ."
+    },
+    {
+      "id": "2.1.267",
+      "label": "Section 2.1.267",
+      "chapter": null,
+      "original": "Quid metuis ?",
+      "translation": "Why are you apprehensive ?"
+    },
+    {
+      "id": "2.1.267b",
+      "label": "Section 2.1.267b",
+      "chapter": null,
+      "original": "Ne mihi damnum in Epidamno duis .",
+      "translation": "Lest you should cause me some damnable mishap in Epidamnus . You are a great admirer of the women , Messenio , and I ’ m a passionate man , of an unmanageable disposition ;"
+    },
+    {
+      "id": "2.1.270",
+      "label": "Section 2.1.270",
+      "chapter": null,
+      "original": "id utrumque , argentum quando habebo , cavero ,",
+      "translation": "of both these things will I have a care , when I ’ ve got the money , that you shall not commit a fault , and that I shall not be in a passion with you ."
+    },
+    {
+      "id": "2.1.272",
+      "label": "Section 2.1.272",
+      "chapter": null,
+      "original": "Cape atque serva . me lubente feceris .",
+      "translation": "Take and keep it ; with all my heart you may do so ."
+    },
+    {
+      "id": "2.2.273",
+      "label": "Section 2.2.273",
+      "chapter": null,
+      "original": "Bene opsonavi atque ex mea sententia ,",
+      "translation": "I ’ ve catered well , and to my mind . I ’ ll set a good breakfast before the breakfasters ."
+    },
+    {
+      "id": "2.2.275",
+      "label": "Section 2.2.275",
+      "chapter": null,
+      "original": "sed eccúm Menaechmum video . vae tergo meo ,",
+      "translation": "But see , I perceive Menaechmus . Woe to my back ; the guests are now already walking before the door , before I ’ ve returned with the provisions . I ’ ll go and accost him . Save you , Menaechmus ."
+    },
+    {
+      "id": "2.2.278b",
+      "label": "Section 2.2.278b",
+      "chapter": null,
+      "original": "Di te amabunt quisquis es .",
+      "translation": "The Gods bless you , whoever you are . ⋯"
+    },
+    {
+      "id": "2.2.279",
+      "label": "Section 2.2.279",
+      "chapter": null,
+      "original": "Quisquis ⋯ quis ego sim ?",
+      "translation": "⋯ who I am ?"
+    },
+    {
+      "id": "2.2.280",
+      "label": "Section 2.2.280",
+      "chapter": null,
+      "original": "Non hercle vero .",
+      "translation": "I ’ faith , not I , indeed ."
+    },
+    {
+      "id": "2.2.280b",
+      "label": "Section 2.2.280b",
+      "chapter": null,
+      "original": "Vbi convivae ceteri ?",
+      "translation": "Where are the other guests ?"
+    },
+    {
+      "id": "2.2.281",
+      "label": "Section 2.2.281",
+      "chapter": null,
+      "original": "Quos tu convivas quaeris ?",
+      "translation": "What guests are you enquiring about ?"
+    },
+    {
+      "id": "2.2.281b",
+      "label": "Section 2.2.281b",
+      "chapter": null,
+      "original": "Parasitum tuom .",
+      "translation": "Your Parasite ."
+    },
+    {
+      "id": "2.2.282",
+      "label": "Section 2.2.282",
+      "chapter": null,
+      "original": "Meum parasitum ? certe hic insanust homo .",
+      "translation": "My Parasite ? Surely this fellow ’ s deranged ."
+    },
+    {
+      "id": "2.2.283",
+      "label": "Section 2.2.283",
+      "chapter": null,
+      "original": "Dixin tibi esse hic sycophantas plurumos ?",
+      "translation": "Didn ’ t I tell you that there were many swindlers here ?"
+    },
+    {
+      "id": "2.2.285",
+      "label": "Section 2.2.285",
+      "chapter": null,
+      "original": "Quem tu parasitum quaeris , adulescens , meum ?",
+      "translation": "What Parasite of mine , young man , are you enquiring about ?"
+    },
+    {
+      "id": "2.2.286",
+      "label": "Section 2.2.286",
+      "chapter": null,
+      "original": "Peniculum éccum in vidulo salvom fero .",
+      "translation": "See , I ’ ve got your sponge [*] [ Peniculus ] all safe in the wallet ."
+    },
+    {
+      "id": "2.2.287",
+      "label": "Section 2.2.287",
+      "chapter": null,
+      "original": "Menaechme , numero huc advenis ad prandium .",
+      "translation": "Menaechmus , you ’ ve come here too soon for breakfast ; I ’ m but now returning with the provisions ."
+    },
+    {
+      "id": "2.2.288b",
+      "label": "Section 2.2.288b",
+      "chapter": null,
+      "original": "Responde mihi ,",
+      "translation": "Answer me this , young man : at what price do pigs sell here [*] ,"
+    },
+    {
+      "id": "2.2.290",
+      "label": "Section 2.2.290",
+      "chapter": null,
+      "original": "sacres sinceri ?",
+      "translation": "unblemished ones , for sacrifice ?"
+    },
+    {
+      "id": "2.2.290b",
+      "label": "Section 2.2.290b",
+      "chapter": null,
+      "original": "Nummis .",
+      "translation": "At a didrachm a-piece ."
+    },
+    {
+      "id": "2.2.290c",
+      "label": "Section 2.2.290c",
+      "chapter": null,
+      "original": "Nummum a me accipe :",
+      "translation": "Receive , then , a didrachm of me ; bid a sacrifice be made for you at my expense ; for , by my faith , I really am sure in very truth that you are deranged , who are annoying me , a person that ’ s a stranger , whoever you are ."
+    },
+    {
+      "id": "2.2.294",
+      "label": "Section 2.2.294",
+      "chapter": null,
+      "original": "Cylindrus ego sum : non nosti nomen meum ?",
+      "translation": "I am Cylindrus ; don ’ t you know my name ?"
+    },
+    {
+      "id": "2.2.295",
+      "label": "Section 2.2.295",
+      "chapter": null,
+      "original": "Si tu Cylindrus seu Coriendrus , perieris .",
+      "translation": "Whether you are Cylindrus or Caliendrus [*] , confound you . I don ’ t know you , and , in fact , I don ’ t want to know you ."
+    },
+    {
+      "id": "2.2.297",
+      "label": "Section 2.2.297",
+      "chapter": null,
+      "original": "Est tibi Menaechmo nomen , tantum quod sciam .",
+      "translation": "Well , your name , however , is Menaechmus , that I do know ."
+    },
+    {
+      "id": "2.2.298",
+      "label": "Section 2.2.298",
+      "chapter": null,
+      "original": "Pro sano loqueris quom me appellas nomine .",
+      "translation": "You speak like a sane person when you call me by my name . But where have you known me ?"
+    },
+    {
+      "id": "2.2.299b",
+      "label": "Section 2.2.299b",
+      "chapter": null,
+      "original": "Vbi ego te noverim ,",
+      "translation": "Where have I known you ,"
+    },
+    {
+      "id": "2.2.300",
+      "label": "Section 2.2.300",
+      "chapter": null,
+      "original": "qui amicam habes eram meam hanc Erotium ?",
+      "translation": "you who have Erotium , this mistress of mine ( pointing to the house ) , for your lady ?"
+    },
+    {
+      "id": "2.2.301",
+      "label": "Section 2.2.301",
+      "chapter": null,
+      "original": "Neque hercle ego habeo , neque te quis homo sis scio .",
+      "translation": "By my troth , I have not , nor do I know yourself what person you are ."
+    },
+    {
+      "id": "2.2.302",
+      "label": "Section 2.2.302",
+      "chapter": null,
+      "original": "Non scis quis ego sim , qui tibi saepissime",
+      "translation": "Not know who I am , who have many a time filled the cups for your own self at our house , when you ’ ve been drinking ?"
+    }
+  ],
+  "prevChunkSlug": "the-two-menaechmuses-65w7r1-2",
+  "nextChunkSlug": "the-two-menaechmuses-65w7r1-4"
+}

@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-stichus-trinummus-truculentus-tale-of-a-travelling-bag-fragments-bj13xq",
+  "volumeTitle": "Stichus. Trinummus. Truculentus. Tale of a Travelling Bag. Fragments",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "truculentus-z2dyee-10",
+  "label": "Truculentus (Section 4.3.846 - Section 5.1.919)",
+  "partId": "truculentus-z2dyee",
+  "partTitle": "Truculentus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Truculentus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi020.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Truculentus, or The Churl",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi020.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "4.3.846",
+      "label": "Section 4.3.846",
+      "chapter": null,
+      "original": "Bene agis mecum .",
+      "translation": "You act kindly towards me ."
+    },
+    {
+      "id": "4.3.846b",
+      "label": "Section 4.3.846b",
+      "chapter": null,
+      "original": "Filium istinc tuom te meliust repetere .",
+      "translation": "’ Twere best for you to demand your son back from thence . ( Pointing to the house of PHRONESIUM .) But your wife , as soon as possible , take away from my house . I shall at once , therefore , send a messenger to that kinsman of mine by marriage , and tell him to look out for another match for his son ."
+    },
+    {
+      "id": "4.3.850",
+      "label": "Section 4.3.850",
+      "chapter": null,
+      "original": "At ego ab hac puerum reposcam , ne mox infitias eat ;",
+      "translation": "But I ’ ll demand back the child of her , lest by-and-by she should deny it . That ’ s of no use ; for she herself , of her own accord , has discovered the whole matter to me , how it happened . But see , right opportunely , i ’ faith , is she coming out of doors from her house . Assuredly , a far-darting sting has that woman , who even from that distance is wounding my heart ."
+    },
+    {
+      "id": "4.4.854",
+      "label": "Section 4.4.854",
+      "chapter": null,
+      "original": "Blitea et luteast meretrix nisi quae sapit in vino ad rem suam ;",
+      "translation": "A woman is a spoony and a trolloping slut , if she hasn ’ t a view to her own interests , even in her cups ."
+    },
+    {
+      "id": "4.4.855",
+      "label": "Section 4.4.855",
+      "chapter": null,
+      "original": "si alia membra vino madeant , cor sit saltem sobrium .",
+      "translation": "If her other limbs are soaked in wine , at least let her head be sober . But it ’ s a vexation to me that my hair-dresser has been thus badly treated . She has been telling me that this child has been discovered to be the son of Dinarchus . When I heard that ⋯ ( She moves , as if going .)"
+    },
+    {
+      "id": "4.4.858a",
+      "label": "Section 4.4.858a",
+      "chapter": null,
+      "original": "Lubet adire quam penes est mea omnis res et liberi .",
+      "translation": "She ’ s going , in whose hands are all my fortune and my children ."
+    },
+    {
+      "id": "4.4.859",
+      "label": "Section 4.4.859",
+      "chapter": null,
+      "original": "Video eccum qui suis tutorem med optavit liberis .",
+      "translation": "I see him who has constituted me the guardian of his property ."
+    },
+    {
+      "id": "4.4.860",
+      "label": "Section 4.4.860",
+      "chapter": null,
+      "original": "Mulier , ad te sum profectus .",
+      "translation": "Madam , here am I ."
+    },
+    {
+      "id": "4.4.860b",
+      "label": "Section 4.4.860b",
+      "chapter": null,
+      "original": "Quid agitur , voluptas mea ?",
+      "translation": "It certainly is he . What ’ s the matter , my love ?"
+    },
+    {
+      "id": "4.4.861",
+      "label": "Section 4.4.861",
+      "chapter": null,
+      "original": "Non voluptas , aufer nugas , nil ego nunc de istac re ago .",
+      "translation": "No love ; cease your trifling . I ’ ve nothing now to do with that subject ."
+    },
+    {
+      "id": "4.4.862",
+      "label": "Section 4.4.862",
+      "chapter": null,
+      "original": "Scio mecastor quid velis ét quid postules et quid petas :",
+      "translation": "By my faith , I know what you want , and what you desire , and what you ask for . You want to see me ; you desire to caress me ; you ask for the child ."
+    },
+    {
+      "id": "4.4.864",
+      "label": "Section 4.4.864",
+      "chapter": null,
+      "original": "Di immortales , ut planiloqua est , paucis ut rem ipsam attigit .",
+      "translation": "Immortal Gods ! how plain she speaks . How , in a few words , has she hit upon the very point !"
+    },
+    {
+      "id": "4.4.865",
+      "label": "Section 4.4.865",
+      "chapter": null,
+      "original": "Scio equidem sponsam tibi esse et filium ex sponsa tua",
+      "translation": "As for me , I know that you are betrothed , and that you have a son by your betrothed , and that a wife is now going to be married by you ; that now your thoughts are elsewhere , that myself you are going to consider as forsaken . But still consider , the little mouse , how sagacious an animal it is , which never entrusts its life to one hole only ;"
+    },
+    {
+      "id": "4.4.870",
+      "label": "Section 4.4.870",
+      "chapter": null,
+      "original": "quin , si unum obsideatur , aliud iam perfugium ele gerit .",
+      "translation": "inasmuch as , if one hole is blocked up , it seeks another as a place of refuge ."
+    },
+    {
+      "id": "4.4.871",
+      "label": "Section 4.4.871",
+      "chapter": null,
+      "original": "Otium ubi erit , de istis rebus tum amplius tecum loquar .",
+      "translation": "When there ’ s leisure , then I ’ ll talk to you on those matters more at large ; at present , give me up the child ."
+    },
+    {
+      "id": "4.4.872b",
+      "label": "Section 4.4.872b",
+      "chapter": null,
+      "original": "Immo amabo ut hos dies aliquos sinas",
+      "translation": "No ; do , there ’ s a dear , let it be at my house the few next days ."
+    },
+    {
+      "id": "4.4.873b",
+      "label": "Section 4.4.873b",
+      "chapter": null,
+      "original": "Minime .",
+      "translation": "Certainly not ."
+    },
+    {
+      "id": "4.4.873c",
+      "label": "Section 4.4.873c",
+      "chapter": null,
+      "original": "Amabo .",
+      "translation": "Do , there ’ s a dear ."
+    },
+    {
+      "id": "4.4.873d",
+      "label": "Section 4.4.873d",
+      "chapter": null,
+      "original": "Quid opus est ?",
+      "translation": "What occasion is there ?"
+    },
+    {
+      "id": "4.4.873e",
+      "label": "Section 4.4.873e",
+      "chapter": null,
+      "original": "In rem meam est .",
+      "translation": "It ’ s for my interest . This for the next three days at least , until the Captain is circumvented somehow ;"
+    },
+    {
+      "id": "4.4.875",
+      "label": "Section 4.4.875",
+      "chapter": null,
+      "original": "sine me habere : siquidem habebo , tibi quoque etiam proderit ;",
+      "translation": "for that same purpose . If I get anything , it shall be for your own advantage as well . If you take the child away , all hope in the Captain will evaporate from my heart ."
+    },
+    {
+      "id": "4.4.877",
+      "label": "Section 4.4.877",
+      "chapter": null,
+      "original": "Factum cupio , nam nefacere si velim , non est locus ;",
+      "translation": "I would have that done ; but , when it ’ s taken home , to do it again [*] , if I were to wish it , I have not the opportunity . Now make use of the child , and take care of it , because you have the means by which to take care of it ."
+    },
+    {
+      "id": "4.4.879",
+      "label": "Section 4.4.879",
+      "chapter": null,
+      "original": "Multum amo te ób istam rem mecastor . ubi domi metues malum ,",
+      "translation": "Upon my faith , I do love you much for this matter . When you shall be afraid of a scolding at home ,"
+    },
+    {
+      "id": "4.4.880",
+      "label": "Section 4.4.880",
+      "chapter": null,
+      "original": "fugito huc ad me : saltem amicus mi esto † manubinarius .",
+      "translation": "do you take shelter here in my house . At least , prove a friend , to help me to a profitable speculation ."
+    },
+    {
+      "id": "4.4.881",
+      "label": "Section 4.4.881",
+      "chapter": null,
+      "original": "Bene vale , Phronesium .",
+      "translation": "Kindly farewell , Phronesium ."
+    },
+    {
+      "id": "4.4.881b",
+      "label": "Section 4.4.881b",
+      "chapter": null,
+      "original": "An non et iam tuom oculum vocas ?",
+      "translation": "Won ’ t you any longer call me apple of your eye ?"
+    },
+    {
+      "id": "4.4.882",
+      "label": "Section 4.4.882",
+      "chapter": null,
+      "original": "Id quoque interim † futatim nomen commemorabitur .",
+      "translation": "That name too , meanwhile , shall be repeated full oft ."
+    },
+    {
+      "id": "4.4.883b",
+      "label": "Section 4.4.883b",
+      "chapter": null,
+      "original": "Fac valeas .",
+      "translation": "Do you wish for anything else ?"
+    },
+    {
+      "id": "4.4.883c",
+      "label": "Section 4.4.883c",
+      "chapter": null,
+      "original": "Operae ubi mi erit , ad te venero .—",
+      "translation": "Fare thee well ; when I have leisure , I ’ ll come to your house ."
+    },
+    {
+      "id": "4.4.884",
+      "label": "Section 4.4.884",
+      "chapter": null,
+      "original": "Ille quidem hinc abiit , abscessit . dicere hic quidvis licet .",
+      "translation": "Well , he ’ s gone away from here , and has taken his departure ; we may say here whatever we please ."
+    },
+    {
+      "id": "4.4.885",
+      "label": "Section 4.4.885",
+      "chapter": null,
+      "original": "verum est verbum quod memoratur : ubi amici ibidem sunt opes .",
+      "translation": "’ Tis a true proverb that ’ s quoted , Where the friends are , there are the riches . Through him , there ’ s still some hope that the Captain may be duped to-day ; whom , by the powers , I love better than my own self ,— so long as I get out of him what I want : since , when we have got much , not much of it is seen that has been given . Such are the brilliant prospects of Courtesans !"
+    },
+    {
+      "id": "4.4.889b",
+      "label": "Section 4.4.889b",
+      "chapter": null,
+      "original": "Áha tace .",
+      "translation": "Hush ! hush ! be quiet ."
+    },
+    {
+      "id": "4.4.889c",
+      "label": "Section 4.4.889c",
+      "chapter": null,
+      "original": "Quid est , obsecro ?",
+      "translation": "Prithee , what is it ?"
+    },
+    {
+      "id": "4.4.890",
+      "label": "Section 4.4.890",
+      "chapter": null,
+      "original": "Pater adest pueri .",
+      "translation": "The father of the child is coming ."
+    },
+    {
+      "id": "4.4.890b",
+      "label": "Section 4.4.890b",
+      "chapter": null,
+      "original": "Sine eumpse adire huc . sine , si is est modo .",
+      "translation": "Well , let him come here . Let him , if it only is he ,"
+    },
+    {
+      "id": "4.4.892",
+      "label": "Section 4.4.892",
+      "chapter": null,
+      "original": "Ne istum ecastor hodie aspiciam confectum fallaciis .",
+      "translation": "If he does come , for very sure , i ’ faith , I ’ ll do him to-day with some cunning tricks ."
+    },
+    {
+      "id": "5.1.893",
+      "label": "Section 5.1.893",
+      "chapter": null,
+      "original": "Ego minam auri fero supplicium † damnis ad amicam meam :",
+      "translation": "That I should love [*] for this ! I ’ m taking an atonement for my offences to my mistress ! That that may be taken by her in kindly part which I ’ ve squandered before , I ’ ll add this as well ."
+    },
+    {
+      "id": "5.1.895",
+      "label": "Section 5.1.895",
+      "chapter": null,
+      "original": "sed quid video ? eram atque ancillam ante aedis . adeundae haec mihi .",
+      "translation": "But what ’ s this ? I see the mistress and her maid before the house . I must accost her . ( Addressing them .) What are you doing here ?"
+    },
+    {
+      "id": "5.1.896b",
+      "label": "Section 5.1.896b",
+      "chapter": null,
+      "original": "Ne me appella quaeso .",
+      "translation": "Don ’ t speak to me ."
+    },
+    {
+      "id": "5.1.896c",
+      "label": "Section 5.1.896c",
+      "chapter": null,
+      "original": "Aha nimium saeviter .",
+      "translation": "You are too angry ."
+    },
+    {
+      "id": "5.1.897",
+      "label": "Section 5.1.897",
+      "chapter": null,
+      "original": "Potine ut mihi molestus ne sis ?",
+      "translation": "Leave me alone . Can ’ t you possibly cease to be an annoyance to me ?"
+    },
+    {
+      "id": "5.1.897b",
+      "label": "Section 5.1.897b",
+      "chapter": null,
+      "original": "Ecquid , Astaphium , litiumst ?",
+      "translation": "What is the matter , my dear little Astaphium ?"
+    },
+    {
+      "id": "5.1.898",
+      "label": "Section 5.1.898",
+      "chapter": null,
+      "original": "Merito ecastor tibi succenset .",
+      "translation": "I ’ faith , she ’ s angry with you with good reason ."
+    },
+    {
+      "id": "5.1.898b",
+      "label": "Section 5.1.898b",
+      "chapter": null,
+      "original": "Egon , atque isti etiam parum",
+      "translation": "What , I ? I ’ m not even half spiteful enough to . wards that fellow ."
+    },
+    {
+      "id": "5.1.899b",
+      "label": "Section 5.1.899b",
+      "chapter": null,
+      "original": "Ego , mea voluptas , si quid peccavi prius ,",
+      "translation": "My love , if I have at all offended before ,"
+    },
+    {
+      "id": "5.1.900",
+      "label": "Section 5.1.900",
+      "chapter": null,
+      "original": "supplicium ad te hanc mínam fero auri . si minus crédis , respice .",
+      "translation": "I present you with this mina of gold . If you smile upon me , deign me a look ."
+    },
+    {
+      "id": "5.1.901",
+      "label": "Section 5.1.901",
+      "chapter": null,
+      "original": "Manus vetat prius quám penes sese habeat quicquam credere .",
+      "translation": "My hand forbids me to believe anything , before it holds in its possession . We require food for the child ; we require it for the dame [*] as well , that bathes the child ; we require it for the nurse [*] , as well , that she may have a leather bottle full of old wine in ample style , that night and day she may tipple ; we stand in need of fire ; we want coals , too ;"
+    },
+    {
+      "id": "5.1.905",
+      "label": "Section 5.1.905",
+      "chapter": null,
+      "original": "fasciis opus est , pulvinis , cunis , incunabulis ,",
+      "translation": "we want swathes , napkins , the cradle , the cradle-bed ; oil we want ; the child requires flour , for pap ; all day we are wanting something ; never , in the same one day , can our task be performed , but what there ’ s always need of something ; for the children of officers cannot be reared upon medlars [*] ."
+    },
+    {
+      "id": "5.1.909",
+      "label": "Section 5.1.909",
+      "chapter": null,
+      "original": "Respice ergo , áccipe hoc , qui ístuc efficias opus .",
+      "translation": "Look upon me then . Take this ( presenting the money ) , with which to satisfy these necessities ."
+    },
+    {
+      "id": "5.1.910",
+      "label": "Section 5.1.910",
+      "chapter": null,
+      "original": "Cedo , quamquam parum est .",
+      "translation": "Give it me , although it ’ s very little ."
+    },
+    {
+      "id": "5.1.911",
+      "label": "Section 5.1.911",
+      "chapter": null,
+      "original": "Tuo arbitratu quod iubebis dabitur . da nunc savium .",
+      "translation": "Whatever you shall order , shall be given at your demand . Give me a kiss now . ( Tries to kiss her .)"
+    },
+    {
+      "id": "5.1.912",
+      "label": "Section 5.1.912",
+      "chapter": null,
+      "original": "Mitte me , inquam , odiosu'sodiosus es .",
+      "translation": "Leave me alone , I say ! You are a nuisance !"
+    },
+    {
+      "id": "5.1.912b",
+      "label": "Section 5.1.912b",
+      "chapter": null,
+      "original": "Nil fit , non amor , teritur dies .",
+      "translation": "It ’ s no use , I ’ m not loved by her ; the day wears apace . More than ten pounds of silver have I lost in this short time by reason of my passion ."
+    },
+    {
+      "id": "5.1.914",
+      "label": "Section 5.1.914",
+      "chapter": null,
+      "original": "Accipe hoc atque auferto intro .",
+      "translation": "Take this , and carry it away in-doors . ( ASTAPHIUM carries it in .) ( Enter STRABAX , from the house .)"
+    },
+    {
+      "id": "5.1.914b",
+      "label": "Section 5.1.914b",
+      "chapter": null,
+      "original": "Vbi mea amicast gentium ?",
+      "translation": "Where in the world is my mistress ?"
+    },
+    {
+      "id": "5.1.915",
+      "label": "Section 5.1.915",
+      "chapter": null,
+      "original": "neque ruri neque hic óperis quicquam facio , corrumpor situ ,",
+      "translation": "I get on with no business , either in the country or here , at this rate ; I ’ m spoiling with mouldiness , I ’ m grown so dreadfully numbed with lying waiting here upon the couch . But look , I perceive her . Hallo ! sweetheart , what are you about ?"
+    },
+    {
+      "id": "5.1.917b",
+      "label": "Section 5.1.917b",
+      "chapter": null,
+      "original": "Quis illic est homo ?",
+      "translation": "What fellow is that ?"
+    },
+    {
+      "id": "5.1.918",
+      "label": "Section 5.1.918",
+      "chapter": null,
+      "original": "Quém ego ecastor mage amo quam te . ⋯",
+      "translation": "One that , upon my honor , I love far more than yourself ."
+    },
+    {
+      "id": "5.1.918b",
+      "label": "Section 5.1.918b",
+      "chapter": null,
+      "original": "Quam me ? quo modo ?",
+      "translation": "Than myself ? In what way ?"
+    },
+    {
+      "id": "5.1.919",
+      "label": "Section 5.1.919",
+      "chapter": null,
+      "original": "Hoc modo , ut molestus ne sis .",
+      "translation": "Why , this way , that you are not to be troublesome to me . ( Moves as if going .)"
+    }
+  ],
+  "prevChunkSlug": "truculentus-z2dyee-9",
+  "nextChunkSlug": "truculentus-z2dyee-11"
+}

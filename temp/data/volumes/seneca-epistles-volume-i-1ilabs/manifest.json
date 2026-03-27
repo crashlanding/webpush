@@ -1,0 +1,27 @@
+{
+  "loebNumber": 75,
+  "sortOrder": 75,
+  "slug": "seneca-epistles-volume-i-1ilabs",
+  "title": "Epistles, Volume I",
+  "volumeLabel": "Epistles, Volume I",
+  "authorDisplay": "Seneca",
+  "authors": [
+    "Seneca"
+  ],
+  "language": "latin",
+  "summary": "A catalog placeholder for Epistles, Volume I. Scaife does not currently provide a confidently matchable original-and-English pair for this volume.",
+  "status": "placeholder",
+  "defaultChunkSlug": null,
+  "readyChunkCount": 0,
+  "contents": [
+    {
+      "id": "epistles-volume-i-abofaq",
+      "title": "Epistles, Volume I",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Epistles, Volume I."
+    }
+  ],
+  "chunks": [],
+  "citations": []
+}

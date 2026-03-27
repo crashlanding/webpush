@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-amphitryon-the-comedy-of-asses-the-pot-of-gold-the-two-bacchises-the-captives-najy9a",
+  "volumeTitle": "Amphitryon. The Comedy of Asses. The Pot of Gold. The Two Bacchises. The Captives",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-two-bacchises-vx7o9q-13",
+  "label": "The Two Bacchises (Section 4.9.993d - Section 5.1.1095)",
+  "partId": "the-two-bacchises-vx7o9q",
+  "partTitle": "The Two Bacchises",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Bacchides",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi004.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Bacchides, or The Twin Sisters",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi004.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "4.9.993d",
+      "label": "Section 4.9.993d",
+      "chapter": null,
+      "original": "Át enim id quod te iúbeo facias .",
+      "translation": "Still do you only do that which I bid you ."
+    },
+    {
+      "id": "4.9.994",
+      "label": "Section 4.9.994",
+      "chapter": null,
+      "original": "Iústumst ut tuós tibi servos tuo árbitratu sérviat .",
+      "translation": "I ’ ll come . ’ Tis right to do so ; your own servant ought to be obedient at your command ."
+    },
+    {
+      "id": "4.9.995",
+      "label": "Section 4.9.995",
+      "chapter": null,
+      "original": "Hoc áge sis nunciam .",
+      "translation": "Give your attention then ."
+    },
+    {
+      "id": "4.9.995b",
+      "label": "Section 4.9.995b",
+      "chapter": null,
+      "original": "Vbi lubet , recita : aúrium operam tíbi dico .",
+      "translation": "When you choose , read on ; I devote to you the attention of my ears ."
+    },
+    {
+      "id": "4.9.996",
+      "label": "Section 4.9.996",
+      "chapter": null,
+      "original": "Ceraé quidem haud parsit néque stilo ;",
+      "translation": "Heyday ! he hasn ’ t been sparing [*] of his wax or pen . But whatever it is , I ’ m resolved to read it through . Attend to me , please , this very instant ."
+    },
+    {
+      "id": "4.9.997",
+      "label": "Section 4.9.997",
+      "chapter": null,
+      "original": "“ Patér , ducentos Phílippos quaeso Chrýsalo",
+      "translation": "( He reads .) Father , I beseech you , do give two hundred Philippeans to Chrysalus , if you wish me to be safe or alive for you —"
+    },
+    {
+      "id": "4.9.999",
+      "label": "Section 4.9.999",
+      "chapter": null,
+      "original": "malum quidem hercle magnum .",
+      "translation": "By my troth , really a very great mistake ,"
+    },
+    {
+      "id": "4.9.999b",
+      "label": "Section 4.9.999b",
+      "chapter": null,
+      "original": "Tibi dico .",
+      "translation": "I tell you ."
+    },
+    {
+      "id": "4.9.999c",
+      "label": "Section 4.9.999c",
+      "chapter": null,
+      "original": "Quid est ?",
+      "translation": "What ’ s the matter ?"
+    },
+    {
+      "id": "4.9.1000",
+      "label": "Section 4.9.1000",
+      "chapter": null,
+      "original": "Non prius salutem scripsit ?",
+      "translation": "He hasn ’ t first written the salutation to you ."
+    },
+    {
+      "id": "4.9.1000b",
+      "label": "Section 4.9.1000b",
+      "chapter": null,
+      "original": "Nusquam sentio .",
+      "translation": "I don ’ t see it anywhere ."
+    },
+    {
+      "id": "4.9.1001",
+      "label": "Section 4.9.1001",
+      "chapter": null,
+      "original": "Non dabis , si sapies ; verum si das maxume ,",
+      "translation": "If you are wise , you ’ ll not give it ; but at the best , if you give it him , why , let him find out some other porter for himself , if he is wise ; for I won ’ t carry it if you order me ever so much . I ’ ve been quite enough suspected as it is , when I was guiltless of a fault ."
+    },
+    {
+      "id": "4.9.1005",
+      "label": "Section 4.9.1005",
+      "chapter": null,
+      "original": "Ausculta porro , dum hoc quod scriptumst perlego .",
+      "translation": "Listen on now , while I read through what ’ s written ."
+    },
+    {
+      "id": "4.9.1006",
+      "label": "Section 4.9.1006",
+      "chapter": null,
+      "original": "Inde a principio iam inpudens epistula est .",
+      "translation": "Even from its very commencement the letter is an impertinent one ."
+    },
+    {
+      "id": "4.9.1007",
+      "label": "Section 4.9.1007",
+      "chapter": null,
+      "original": "“ Pudet prodire me ad te in conspectum , pater :",
+      "translation": "( Reading .) I am ashamed , father , to appear before you in your presence ; such disgraceful conduct of mine have I heard that you are aware of , that I have formed an intercourse with the wife of a strange Captain ."
+    },
+    {
+      "id": "4.9.1010",
+      "label": "Section 4.9.1010",
+      "chapter": null,
+      "original": "pol haud derides ; nam ducentis aureis",
+      "translation": "By my troth , you are not joking there ; for I have saved your life from the consequences of this foul deed with two hundred golden Philippeans ."
+    },
+    {
+      "id": "4.9.1012",
+      "label": "Section 4.9.1012",
+      "chapter": null,
+      "original": "Nihil est illorum quin ego illi dixerim .",
+      "translation": "There ’ s not a particle of these things but what I ’ ve told him ."
+    },
+    {
+      "id": "4.9.1013",
+      "label": "Section 4.9.1013",
+      "chapter": null,
+      "original": "“ Stulte fecisse fateor . sed quaeso , pater ,",
+      "translation": "I confess that I have acted foolishly . But I beseech you , father , do not forsake me , if , in my folly , I have transgressed ."
+    },
+    {
+      "id": "4.9.1015",
+      "label": "Section 4.9.1015",
+      "chapter": null,
+      "original": "ego animo cupido atque oculis indomitis fui ;",
+      "translation": "Of fierce desires , and eyes uncontrolled , have I been ; I have been urged on to do a deed of which I am now ashamed . It were proper , then , that you should have taken heed before you were ashamed ."
+    },
+    {
+      "id": "4.9.1018",
+      "label": "Section 4.9.1018",
+      "chapter": null,
+      "original": "Eadem istaec verba dudum illi dixi omnia .",
+      "translation": "All these very same words did I say to him only just now ."
+    },
+    {
+      "id": "4.9.1019",
+      "label": "Section 4.9.1019",
+      "chapter": null,
+      "original": "“ Quaeso ut sat habeas id , pater , quod Chrysalus",
+      "translation": "I beseech you , father , to consider that it is enough that Chrysalus"
+    },
+    {
+      "id": "4.9.1020",
+      "label": "Section 4.9.1020",
+      "chapter": null,
+      "original": "me obiurigavit plurumis verbis malis ,",
+      "translation": "has reproached me with many cutting words , and by his advice has made me a better man , so that ’ tis right that you should return him sincere thanks ."
+    },
+    {
+      "id": "4.9.1023",
+      "label": "Section 4.9.1023",
+      "chapter": null,
+      "original": "Estne istuc istic scriptum ?",
+      "translation": "Is that written there ?"
+    },
+    {
+      "id": "4.9.1023b",
+      "label": "Section 4.9.1023b",
+      "chapter": null,
+      "original": "Em specta , tum scies .",
+      "translation": "Look and see , then you ’ ll know ."
+    },
+    {
+      "id": "4.9.1024",
+      "label": "Section 4.9.1024",
+      "chapter": null,
+      "original": "Vt qui deliquit supplex est ultro omnibus .",
+      "translation": "He that has so offended , how humble to all he is , and of his own accord ."
+    },
+    {
+      "id": "4.9.1025",
+      "label": "Section 4.9.1025",
+      "chapter": null,
+      "original": "“ Nunc si me fas est obsecrare abs te , pater ,",
+      "translation": "Now , father , if even yet I may be allowed to ask anything of you , do give me two hundred Philippean pieces , I do entreat you ."
+    },
+    {
+      "id": "4.9.1027",
+      "label": "Section 4.9.1027",
+      "chapter": null,
+      "original": "Ne unum quidem hercle , si sapis .",
+      "translation": "By my troth , now , not one even , if you are wise ."
+    },
+    {
+      "id": "4.9.1027b",
+      "label": "Section 4.9.1027b",
+      "chapter": null,
+      "original": "Sine perlegam .",
+      "translation": "Let me read on . ( Reading .) In set form [*] I have taken an oath that I would give this to the woman this day before nightfall ,"
+    },
+    {
+      "id": "4.9.1030",
+      "label": "Section 4.9.1030",
+      "chapter": null,
+      "original": "prius quam á me abiret . nunc , pater , ne perierem",
+      "translation": "ere she leaves me . Now , father , have a care that I be not forsworn , and take me hence away from her as soon as you can , on whose account I have incurred so much loss and guilt . Take care and let not the two hundred pieces be a cause of annoyance to you ; I will repay you innumerable times as much , if I live ."
+    },
+    {
+      "id": "4.9.1035",
+      "label": "Section 4.9.1035",
+      "chapter": null,
+      "original": "vale atque haec cura ”. quid nunc censes , Chrysale ?",
+      "translation": "Farewell , and do attend to these matters . Now , Chrysalus , what do you think ?"
+    },
+    {
+      "id": "4.9.1036",
+      "label": "Section 4.9.1036",
+      "chapter": null,
+      "original": "Nihil ego tibi hodie consili quicquam dabo ,",
+      "translation": "I won ’ t give you one bit of advice this day , and I won ’ t run the risk , that if any mistake is made , you should say that you had done it by my counsel . But , as I conceive , if I were in your place ,"
+    },
+    {
+      "id": "4.9.1040",
+      "label": "Section 4.9.1040",
+      "chapter": null,
+      "original": "dem potius aurum quam illum corrumpi sinam .",
+      "translation": "I would rather give the gold than suffer him to be corrupted . There is a twofold choice consider which you would adopt ; either to lose the gold , or for a lover to be forsworn . I neither order you , nor forbid you , nor do I persuade you ."
+    },
+    {
+      "id": "4.9.1044",
+      "label": "Section 4.9.1044",
+      "chapter": null,
+      "original": "Miseret me illius .",
+      "translation": "I ’ m sorry for him ."
+    },
+    {
+      "id": "4.9.1044b",
+      "label": "Section 4.9.1044b",
+      "chapter": null,
+      "original": "Tuos est , non mirum facis .",
+      "translation": "You don ’ t do anything surprising — he is your son ."
+    },
+    {
+      "id": "4.9.1045",
+      "label": "Section 4.9.1045",
+      "chapter": null,
+      "original": "si plus perdundum sit , periisse suaviust ,",
+      "translation": "If still more must be lost , ’ tis better for it to go , than for this disgrace to be everywhere proclaimed ."
+    },
+    {
+      "id": "4.9.1047",
+      "label": "Section 4.9.1047",
+      "chapter": null,
+      "original": "Ne ille edepol Ephesi multo mavellem foret ,",
+      "translation": "By my troth , I certainly had much rather he had been at Ephesus , so long as he was well , than that he had returned home . But why don ’ t I hasten to get rid of that which is doomed to be squandered away ?"
+    },
+    {
+      "id": "4.9.1050",
+      "label": "Section 4.9.1050",
+      "chapter": null,
+      "original": "binos ducentos Philippos iam intus ecferam ,",
+      "translation": "I ’ ll bring you just now from in-doors twice two hundred Philippeans , both those which , a little time since , to my sorrow , I promised to the Captain , and these others . Wait there ; I ’ ll be out to you , Chrysalus , this instant ."
+    },
+    {
+      "id": "4.9.1053",
+      "label": "Section 4.9.1053",
+      "chapter": null,
+      "original": "Fit vasta Troia , scindunt proceres Pergamum .",
+      "translation": "Troy is laid waste , the chiefs have razed Pergamus . I knew some time ago that I should be the ruin of Pergamus ."
+    },
+    {
+      "id": "4.9.1055",
+      "label": "Section 4.9.1055",
+      "chapter": null,
+      "original": "edepol qui me esse dicat cruciatu malo",
+      "translation": "I ’ faith I wouldn ’ t dare make a bet with him who should say that I was deserving of severe torture ; so great confusion am I making . But the door makes a noise ; the plunder ’ s being brought forth from Troy . For the present I ’ ll hold my tongue ."
+    },
+    {
+      "id": "4.9.1059",
+      "label": "Section 4.9.1059",
+      "chapter": null,
+      "original": "Cape hoc tibi aurum , Chrysale , i , fer filio .",
+      "translation": "Take you this gold , Chrysalus ; go , carry it to my son ."
+    },
+    {
+      "id": "4.9.1060",
+      "label": "Section 4.9.1060",
+      "chapter": null,
+      "original": "ego ad forum autem hinc ibo , ut solvam militi .",
+      "translation": "But I ’ ll go hence to the market-place to pay this to the Captain ."
+    },
+    {
+      "id": "4.9.1061",
+      "label": "Section 4.9.1061",
+      "chapter": null,
+      "original": "Non equidem accipiam . proin tu quaeras qui ferat .",
+      "translation": "For my part , I ’ ll not receive it ; do you seek somebody at once to take it . I won ’ t have it entrusted to me ."
+    },
+    {
+      "id": "4.9.1062b",
+      "label": "Section 4.9.1062b",
+      "chapter": null,
+      "original": "Cape vero , odiose facis .",
+      "translation": "But do take it ; you ’ re worrying me now ."
+    },
+    {
+      "id": "4.9.1063",
+      "label": "Section 4.9.1063",
+      "chapter": null,
+      "original": "Non equidem capiam .",
+      "translation": "For my part , I ’ ll not take it ."
+    },
+    {
+      "id": "4.9.1063b",
+      "label": "Section 4.9.1063b",
+      "chapter": null,
+      "original": "At quaeso .",
+      "translation": "But , prithee do ."
+    },
+    {
+      "id": "4.9.1063c",
+      "label": "Section 4.9.1063c",
+      "chapter": null,
+      "original": "Dico ut res se habet .",
+      "translation": "I am telling you what is the fact ."
+    },
+    {
+      "id": "4.9.1064",
+      "label": "Section 4.9.1064",
+      "chapter": null,
+      "original": "Morare .",
+      "translation": "You are delaying me ."
+    },
+    {
+      "id": "4.9.1064b",
+      "label": "Section 4.9.1064b",
+      "chapter": null,
+      "original": "Nolo , inquam , aurum concredi mihi .",
+      "translation": "I don ’ t want , I say , the gold to be entrusted to me . At all events , find some person to keep a watch upon me ."
+    },
+    {
+      "id": "4.9.1065b",
+      "label": "Section 4.9.1065b",
+      "chapter": null,
+      "original": "Ohe , odiose facis .",
+      "translation": "You ’ re plaguing me ."
+    },
+    {
+      "id": "4.9.1066",
+      "label": "Section 4.9.1066",
+      "chapter": null,
+      "original": "Cedo , sí necesse est .",
+      "translation": "Well , give it me , if it must be so ."
+    },
+    {
+      "id": "4.9.1066b",
+      "label": "Section 4.9.1066b",
+      "chapter": null,
+      "original": "Cura hoc . iam égo huc revenero .—",
+      "translation": "Take care of it . I ’ ll be back here just now ."
+    },
+    {
+      "id": "4.9.1067",
+      "label": "Section 4.9.1067",
+      "chapter": null,
+      "original": "Curatum est — esse te senem miserrumum .",
+      "translation": "I ’ ve taken care — that you shall be a most wretched old fellow ; this is bringing an undertaking to a fair ending ; even as it has proved my lot to go rejoicing , laden with the spoil ."
+    },
+    {
+      "id": "4.9.1070",
+      "label": "Section 4.9.1070",
+      "chapter": null,
+      "original": "salute nostra atque urbe capta per dolum",
+      "translation": "With safety to myself , and the city taken by stratagem , I now bring home my whole army unhurt . But , Spectators , don ’ t you now be surprised that I don ’ t go in triumph ; ’ tis such a common thing , I don ’ t care for it . Still however , the soldiers shall be received with the usual honeyed wine ."
+    },
+    {
+      "id": "4.9.1075",
+      "label": "Section 4.9.1075",
+      "chapter": null,
+      "original": "nunc hanc praedam omnem iam ad quaestorem deferam .—",
+      "translation": "Now I ’ ll carry off all this booty at once to the Quaestor [*] ."
+    },
+    {
+      "id": "4.10.1076",
+      "label": "Section 4.10.1076",
+      "chapter": null,
+      "original": "Quam mágis in pectore meó foveo quas méus filius turbás turbet ,",
+      "translation": "The more I revolve it in my breast , what disturbances my son has raised , into what a course of life , and into what habits he unwittingly has headlong plunged himself , the greater is my concern , and the more do I dread lest he may be ruined or corrupted . I know it ; I once was of the same age , and I did all these things ; but in a quiet way ."
+    },
+    {
+      "id": "4.10.1080",
+      "label": "Section 4.10.1080",
+      "chapter": null,
+      "original": "neque plácitant mores quíbus video volgo ín gnatos essé parentes :",
+      "translation": "I was gay , I had my mistress , I drank , I feasted , I made presents , but still it was seldom I did so . The methods , too , please me not which I see parents in general employ towards their sons . I have determined to give some latitude to my son , that he may have some scope for his inclinations . I think that ’ s right ; but still , I don ’ t wish him to give way too much to sloth and wantonness . Now I ’ m going to Mnesilochus ,"
+    },
+    {
+      "id": "4.10.1084a",
+      "label": "Section 4.10.1084a",
+      "chapter": null,
+      "original": "viso écquid eum ad virtútem aut ad",
+      "translation": "to see whether , as I requested , by his endeavours he has turned him for me to virtue and to sobriety ; as , indeed , I am sure he has done if he has met him , of such a disposition is he by nature ."
+    },
+    {
+      "id": "5.1.1087",
+      "label": "Section 5.1.1087",
+      "chapter": null,
+      "original": "Quicúmque ubi ubi sunt , quí fuerunt quiqué futuri sunt pósthac",
+      "translation": "Whoever there are in any place whatsoever , whoever have been , and whoever shall be , in time to come , fools , blockheads , idiots , dolts , sots , oafs , lubbers [*] , I singly by far exceed them all in folly and absurd ways ."
+    },
+    {
+      "id": "5.1.1090",
+      "label": "Section 5.1.1090",
+      "chapter": null,
+      "original": "perií , pudet : hocine me aétatis ludós bis factum esse índigne ?",
+      "translation": "I ’ m undone . I ’ m ashamed of myself ; that I at this time of life should disgracefully have been twice made a fool of ! The more I think of this confusion which my son has made , the more am I incensed . I ’ m ruined , and I ’ m utterly destroyed ; I ’ m distracted in every possible way . All plagues harass me , by all modes of death do I perish . This day has Chrysalus rent me in pieces ; Chrysalus has plundered wretched me ;"
+    },
+    {
+      "id": "5.1.1095",
+      "label": "Section 5.1.1095",
+      "chapter": null,
+      "original": "is mé scelus auro usque áttondit dolis dóctis indoctum , út lubitumst .",
+      "translation": "he , the villain , by his clever tricks , has shaved , to the very quick , simple me , just as he has pleased . For the Captain says that she is a Courtezan , whom that fellow said was his wife ; and he has informed me of everything , as each particular happened ; how that she had been hired by him for this year ; how that that much gold was left to be repaid [*] , which I , most simple man , had promised him . ’ Tis this , this , I say , through which my breast boils with indignation [*] ; ’ tis this , in fine , by which I am distracted ;"
+    }
+  ],
+  "prevChunkSlug": "the-two-bacchises-vx7o9q-12",
+  "nextChunkSlug": "the-two-bacchises-vx7o9q-14"
+}

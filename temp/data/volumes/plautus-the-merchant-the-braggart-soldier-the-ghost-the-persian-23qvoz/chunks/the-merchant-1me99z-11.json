@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-merchant-1me99z-11",
+  "label": "The Merchant (Section 4.4.750 - Section 4.5.812)",
+  "partId": "the-merchant-1me99z",
+  "partTitle": "The Merchant",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Mercator",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Mercator, or The Merchant",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "4.4.750",
+      "label": "Section 4.4.750",
+      "chapter": null,
+      "original": "Non estis cenaturi ?",
+      "translation": "Are you not going to have a dinner ?"
+    },
+    {
+      "id": "4.4.750b",
+      "label": "Section 4.4.750b",
+      "chapter": null,
+      "original": "Iam saturi sumus .",
+      "translation": "We are full already ."
+    },
+    {
+      "id": "4.4.751",
+      "label": "Section 4.4.751",
+      "chapter": null,
+      "original": "Sed —",
+      "translation": "But —"
+    },
+    {
+      "id": "4.4.751b",
+      "label": "Section 4.4.751b",
+      "chapter": null,
+      "original": "Intérii .",
+      "translation": "I ’ m utterly undone ."
+    },
+    {
+      "id": "4.4.751c",
+      "label": "Section 4.4.751c",
+      "chapter": null,
+      "original": "Quid ais tu ? etiamne haec illi tibi",
+      "translation": "What say you ? Have those persons ordered these things to be brought to you as well , between whom you were appointed arbitrator ?"
+    },
+    {
+      "id": "4.4.753",
+      "label": "Section 4.4.753",
+      "chapter": null,
+      "original": "Haecin tua est amica , quam dudum mihi",
+      "translation": "Is this person ( pointing to DORIPPA ) your mistress , whom a little time since you told me you were in love with , when you were buying the provisions ?"
+    },
+    {
+      "id": "4.4.754b",
+      "label": "Section 4.4.754b",
+      "chapter": null,
+      "original": "Non taces ?",
+      "translation": "Won ’ t you hold your tongue ?"
+    },
+    {
+      "id": "4.4.755",
+      "label": "Section 4.4.755",
+      "chapter": null,
+      "original": "Satis scítum filum mulieris . verum hercle anet .",
+      "translation": "A very pretty figure of a woman ! I ’ faith , she does love a sweetheart ."
+    },
+    {
+      "id": "4.4.756",
+      "label": "Section 4.4.756",
+      "chapter": null,
+      "original": "Abin díerectus ?",
+      "translation": "Won ’ t you be off to perdition ?"
+    },
+    {
+      "id": "4.4.756b",
+      "label": "Section 4.4.756b",
+      "chapter": null,
+      "original": "Haud malast .",
+      "translation": "She ’ s not amiss ."
+    },
+    {
+      "id": "4.4.756c",
+      "label": "Section 4.4.756c",
+      "chapter": null,
+      "original": "At tu malu's (malus es) .",
+      "translation": "But you are amiss ."
+    },
+    {
+      "id": "4.4.757",
+      "label": "Section 4.4.757",
+      "chapter": null,
+      "original": "Scitam hercle opinor concubinam hanc .",
+      "translation": "I ’ troth , I do fancy she ’ s a nice bed-fellow ."
+    },
+    {
+      "id": "4.4.757b",
+      "label": "Section 4.4.757b",
+      "chapter": null,
+      "original": "Non abis ?",
+      "translation": "Won ’ t you be off ? I ’ m not the person that hired you just now ."
+    },
+    {
+      "id": "4.4.758b",
+      "label": "Section 4.4.758b",
+      "chapter": null,
+      "original": "Quid est ?",
+      "translation": "How ’ s that ? Nay but , upon my faith , you are that very man ."
+    },
+    {
+      "id": "4.4.759b",
+      "label": "Section 4.4.759b",
+      "chapter": null,
+      "original": "Vae misero mihi .",
+      "translation": "Alas wretch that I am !"
+    },
+    {
+      "id": "4.4.760",
+      "label": "Section 4.4.760",
+      "chapter": null,
+      "original": "Nempe uxor rurist tua , quam dudum dixeras",
+      "translation": "Your wife ’ s in the country , I suppose , whom you were saying a little time ago you hated full as much as vipers ."
+    },
+    {
+      "id": "4.4.761b",
+      "label": "Section 4.4.761b",
+      "chapter": null,
+      "original": "Egone istuc dixi tibi ?",
+      "translation": "I , said that to you ?"
+    },
+    {
+      "id": "4.4.762",
+      "label": "Section 4.4.762",
+      "chapter": null,
+      "original": "Mihi quidem hercle .",
+      "translation": "Aye , to me , upon my faith ."
+    },
+    {
+      "id": "4.4.762b",
+      "label": "Section 4.4.762b",
+      "chapter": null,
+      "original": "Ita me amabit Iuppiter ,",
+      "translation": "So may Jupiter love me , wife , I never did say that ."
+    },
+    {
+      "id": "4.4.763b",
+      "label": "Section 4.4.763b",
+      "chapter": null,
+      "original": "Etiam negas ?",
+      "translation": "Do you deny that as well ?"
+    },
+    {
+      "id": "4.4.764",
+      "label": "Section 4.4.764",
+      "chapter": null,
+      "original": "palam istaec fiunt , te me odisse .",
+      "translation": "This is made clear , that you detest me ."
+    },
+    {
+      "id": "4.4.764b",
+      "label": "Section 4.4.764b",
+      "chapter": null,
+      "original": "Quin nego .",
+      "translation": "But I deny it ."
+    },
+    {
+      "id": "4.4.765",
+      "label": "Section 4.4.765",
+      "chapter": null,
+      "original": "Non , non te odisse aiebat , sed uxorem suam ;",
+      "translation": "He didn ’ t say he hated you , but his wife ."
+    },
+    {
+      "id": "4.4.766",
+      "label": "Section 4.4.766",
+      "chapter": null,
+      "original": "et uxórem suam ruri esse aiebat .",
+      "translation": "And he said that his wife was in the country ."
+    },
+    {
+      "id": "4.4.766b",
+      "label": "Section 4.4.766b",
+      "chapter": null,
+      "original": "Haec east .",
+      "translation": "This is she . Why are you annoying me ?"
+    },
+    {
+      "id": "4.4.767b",
+      "label": "Section 4.4.767b",
+      "chapter": null,
+      "original": "Quia novisse me negas ;",
+      "translation": "Because you say that you don ’ t know me . Are you afraid of her ?"
+    },
+    {
+      "id": "4.4.768b",
+      "label": "Section 4.4.768b",
+      "chapter": null,
+      "original": "Sapio , nam mihi unicast .",
+      "translation": "I ’ m wise in being so ; for she ’ s my only companion ."
+    },
+    {
+      "id": "4.4.769",
+      "label": "Section 4.4.769",
+      "chapter": null,
+      "original": "Vin me experiri ?",
+      "translation": "Do you wish to use my services ?"
+    },
+    {
+      "id": "4.4.769b",
+      "label": "Section 4.4.769b",
+      "chapter": null,
+      "original": "Nolo .",
+      "translation": "I don ’ t wish ."
+    },
+    {
+      "id": "4.4.769c",
+      "label": "Section 4.4.769c",
+      "chapter": null,
+      "original": "Mercedem cedo .",
+      "translation": "Give me my pay ."
+    },
+    {
+      "id": "4.4.770",
+      "label": "Section 4.4.770",
+      "chapter": null,
+      "original": "Cras petito ; dabitur . nunc abi .",
+      "translation": "Ask for it to-morrow ; it shall be given you ; for the present , be off ."
+    },
+    {
+      "id": "4.4.770b",
+      "label": "Section 4.4.770b",
+      "chapter": null,
+      "original": "Heu miserae mihi .",
+      "translation": "( Aside .) Alas , wretch that I am !"
+    },
+    {
+      "id": "4.4.771",
+      "label": "Section 4.4.771",
+      "chapter": null,
+      "original": "Nunc ego verum illud verbum esse experior vetus :",
+      "translation": "I now find that that old saying is a true one , that some bad comes through a bad neighbour ."
+    },
+    {
+      "id": "4.4.773",
+      "label": "Section 4.4.773",
+      "chapter": null,
+      "original": "Cur hic astamus ? quin abimus ? incommodi",
+      "translation": "Why are we standing here ?"
+    },
+    {
+      "id": "4.4.774",
+      "label": "Section 4.4.774",
+      "chapter": null,
+      "original": "si quid tibi evénit , id non est culpa mea .",
+      "translation": "If any inconvenience happens to you , that ’ s not my fault ."
+    },
+    {
+      "id": "4.4.775",
+      "label": "Section 4.4.775",
+      "chapter": null,
+      "original": "Quin me eradicas miserum .",
+      "translation": "Why , you are utterly ruining wretched me"
+    },
+    {
+      "id": "4.4.775b",
+      "label": "Section 4.4.775b",
+      "chapter": null,
+      "original": "Scio iam quid velis :",
+      "translation": "I understand now what you want . You mean , you wish me to go away from here ."
+    },
+    {
+      "id": "4.4.776b",
+      "label": "Section 4.4.776b",
+      "chapter": null,
+      "original": "Volo inquam .",
+      "translation": "I do wish it , I say ."
+    },
+    {
+      "id": "4.4.776c",
+      "label": "Section 4.4.776c",
+      "chapter": null,
+      "original": "Abibitur .",
+      "translation": "I ’ ll be off . Pay me a drachma ."
+    },
+    {
+      "id": "4.4.777b",
+      "label": "Section 4.4.777b",
+      "chapter": null,
+      "original": "Dabitur .",
+      "translation": "It shall be paid ."
+    },
+    {
+      "id": "4.4.777c",
+      "label": "Section 4.4.777c",
+      "chapter": null,
+      "original": "Dari ergo sis iube .",
+      "translation": "Then order it to be paid me , please . It can be paid in the meantime , while they are putting down the provisions ."
+    },
+    {
+      "id": "4.4.778b",
+      "label": "Section 4.4.778b",
+      "chapter": null,
+      "original": "Quin abis ?",
+      "translation": "Why don ’ t you be off ? Can ’ t you cease being troublesome ?"
+    },
+    {
+      "id": "4.4.779b",
+      "label": "Section 4.4.779b",
+      "chapter": null,
+      "original": "Agite apponite",
+      "translation": "Come , do you set down"
+    },
+    {
+      "id": "4.4.780",
+      "label": "Section 4.4.780",
+      "chapter": null,
+      "original": "obsonium istuc ante pedes illi seni .",
+      "translation": "those provisions before the feet of that old gentleman . These baskets I ’ ll order to be fetched from your house either by-and-by or else to-morrow . ( To the SCULLIONS .) Do you follow me ."
+    },
+    {
+      "id": "4.4.782b",
+      "label": "Section 4.4.782b",
+      "chapter": null,
+      "original": "Fortasse te illum mirari coquom ,",
+      "translation": "Perhaps you are surprised at that Cook , that he came and brought these things . I ’ ll tell you why it is ."
+    },
+    {
+      "id": "4.4.784",
+      "label": "Section 4.4.784",
+      "chapter": null,
+      "original": "Non miror si quid damni facis aut flagiti .",
+      "translation": "I ’ m not surprised if you do anything wrongful or criminal ;"
+    },
+    {
+      "id": "4.4.785",
+      "label": "Section 4.4.785",
+      "chapter": null,
+      "original": "nec pol ego patiar , sic me nuptam tam male",
+      "translation": "and , by heavens , I ’ ll not put up with it , that I am married thus unfortunately , and that harlots are brought into my house in this way . Syra , go ask my father , in my name , to come here directly together with you ."
+    },
+    {
+      "id": "4.4.788b",
+      "label": "Section 4.4.788b",
+      "chapter": null,
+      "original": "Eo .—",
+      "translation": "I ’ ll go ."
+    },
+    {
+      "id": "4.4.789",
+      "label": "Section 4.4.789",
+      "chapter": null,
+      "original": "Nescis negoti quid sit , uxor , obsecro .",
+      "translation": "Prithee , wife , you don ’ t know what the matter is ."
+    },
+    {
+      "id": "4.4.790",
+      "label": "Section 4.4.790",
+      "chapter": null,
+      "original": "conceptis verbis iam iusiurandum dabo ,",
+      "translation": "In set form now will I make oath , that I have never had anything to do with her . ( Exit SYRA .) What , is Syra gone now ? By heaven , I ’ m undone ! ( DORIPPA goes into the house .) ( to himself .) But , see , she ’ s off as well ! Woe to wretched me ! Then , neighbour Demipho , may the Gods and Goddesses confound you , together with your mistress and your intriguings !"
+    },
+    {
+      "id": "4.4.795",
+      "label": "Section 4.4.795",
+      "chapter": null,
+      "original": "suspicione implevit me indignissime ,",
+      "translation": "He has most unjustly loaded me with suspicions ; he has stirred up enemies against me . At home my wife is most infuriated . I ’ ll be off to the Forum , and tell this to Demipho , that I ’ ll drag this woman by the hair into the street , unless he takes her hence out of this house wherever he chooses ."
+    },
+    {
+      "id": "4.4.800",
+      "label": "Section 4.4.800",
+      "chapter": null,
+      "original": "uxor , heus uxor , quamquam tu irata es mihi ,",
+      "translation": "( Goes to the door and calls .) Hark you ! wife , wife ! although you ’ re angry at me , you ’ ll order , if you are wise , these things to be carried hence indoors . We shall be able by-and-by to dine all the better upon the same ."
+    },
+    {
+      "id": "4.5.803",
+      "label": "Section 4.5.803",
+      "chapter": null,
+      "original": "Era quo me misit , ad patrem , non est domi :",
+      "translation": "Whither my mistress sent me , to her father —, he ’ s not at home ; they said that he has gone off into the country . Now , I ’ ll take home this answer ."
+    },
+    {
+      "id": "4.5.805",
+      "label": "Section 4.5.805",
+      "chapter": null,
+      "original": "Defessus sum urbem totam pervenarier :",
+      "translation": "I ’ m quite tired with hunting the whole city through ; I find nothing whatever about this woman . But my mother has returned from the country ; for I see Syra standing before the house . Syra !"
+    },
+    {
+      "id": "4.5.808b",
+      "label": "Section 4.5.808b",
+      "chapter": null,
+      "original": "Quis est qui me vocat ?",
+      "translation": "Who is it that ’ s calling me ?"
+    },
+    {
+      "id": "4.5.809",
+      "label": "Section 4.5.809",
+      "chapter": null,
+      "original": "Erus atque alumnus tuos sum .",
+      "translation": "’ Tis I , your master and foster-child ."
+    },
+    {
+      "id": "4.5.809b",
+      "label": "Section 4.5.809b",
+      "chapter": null,
+      "original": "Salve , alumne mi .",
+      "translation": "Save you , my foster-child ."
+    },
+    {
+      "id": "4.5.810",
+      "label": "Section 4.5.810",
+      "chapter": null,
+      "original": "Iam mater rure rediit ? responde mihi .",
+      "translation": "Has my mother returned from the country then ? Answer me ."
+    },
+    {
+      "id": "4.5.811",
+      "label": "Section 4.5.811",
+      "chapter": null,
+      "original": "Sua quidem salute ac familiai maxuma .",
+      "translation": "Aye , for her own especial sake and that of the family ."
+    },
+    {
+      "id": "4.5.812",
+      "label": "Section 4.5.812",
+      "chapter": null,
+      "original": "Quid istúc negotist ?",
+      "translation": "What is it that ’ s the matter ?"
+    }
+  ],
+  "prevChunkSlug": "the-merchant-1me99z-10",
+  "nextChunkSlug": "the-merchant-1me99z-12"
+}

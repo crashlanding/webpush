@@ -1,0 +1,151 @@
+{
+  "loebNumber": 499,
+  "sortOrder": 499,
+  "slug": "plutarch-moralia-volume-xvi-1h5tvo",
+  "title": "Moralia, Volume XVI",
+  "volumeLabel": "Moralia, Volume XVI",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Moralia, Volume XVI. Moralia, Volume XVI opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "de-communibus-notitiis-adversus-stoicos-p36azn",
+  "readyChunkCount": 4,
+  "contents": [
+    {
+      "id": "moralia-volume-xvi-vbqirw",
+      "title": "Moralia, Volume XVI",
+      "status": "ready",
+      "sectionCount": 122,
+      "chunkSlug": "de-communibus-notitiis-adversus-stoicos-p36azn",
+      "chunks": [
+        {
+          "slug": "de-communibus-notitiis-adversus-stoicos-p36azn",
+          "label": "De communibus notitiis adversus Stoicos",
+          "partId": "moralia-volume-xvi-vbqirw",
+          "partTitle": "Moralia, Volume XVI",
+          "sectionCount": 50,
+          "status": "ready"
+        },
+        {
+          "slug": "non-posse-suaviter-vivi-secundum-epicurum-1rn15e",
+          "label": "Non Posse Suaviter Vivi Secundum Epicurum",
+          "partId": "moralia-volume-xvi-vbqirw",
+          "partTitle": "Moralia, Volume XVI",
+          "sectionCount": 31,
+          "status": "ready"
+        },
+        {
+          "slug": "adversus-coloten-1gnpm5",
+          "label": "Adversus Coloten",
+          "partId": "moralia-volume-xvi-vbqirw",
+          "partTitle": "Moralia, Volume XVI",
+          "sectionCount": 34,
+          "status": "ready"
+        },
+        {
+          "slug": "an-recte-dictum-sit-latenter-esse-vivendum-11zvzf",
+          "label": "An Recte Dictum Sit Latenter Esse Vivendum",
+          "partId": "moralia-volume-xvi-vbqirw",
+          "partTitle": "Moralia, Volume XVI",
+          "sectionCount": 7,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "de-communibus-notitiis-adversus-stoicos-p36azn",
+      "label": "De communibus notitiis adversus Stoicos",
+      "partId": "moralia-volume-xvi-vbqirw",
+      "partTitle": "Moralia, Volume XVI",
+      "sectionCount": 50,
+      "status": "ready"
+    },
+    {
+      "slug": "non-posse-suaviter-vivi-secundum-epicurum-1rn15e",
+      "label": "Non Posse Suaviter Vivi Secundum Epicurum",
+      "partId": "moralia-volume-xvi-vbqirw",
+      "partTitle": "Moralia, Volume XVI",
+      "sectionCount": 31,
+      "status": "ready"
+    },
+    {
+      "slug": "adversus-coloten-1gnpm5",
+      "label": "Adversus Coloten",
+      "partId": "moralia-volume-xvi-vbqirw",
+      "partTitle": "Moralia, Volume XVI",
+      "sectionCount": 34,
+      "status": "ready"
+    },
+    {
+      "slug": "an-recte-dictum-sit-latenter-esse-vivendum-11zvzf",
+      "label": "An Recte Dictum Sit Latenter Esse Vivendum",
+      "partId": "moralia-volume-xvi-vbqirw",
+      "partTitle": "Moralia, Volume XVI",
+      "sectionCount": 7,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "de-communibus-notitiis-adversus-stoicos-p36azn",
+      "partTitle": "Moralia, Volume XVI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τῶν κοινῶν ἐννοιῶν πρὸς τοὺς Στωικοὺς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg138.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Of common conceptions, against the Stoics.",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg138.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "non-posse-suaviter-vivi-secundum-epicurum-1rn15e",
+      "partTitle": "Moralia, Volume XVI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὅτι οὐδ' ἡδέως ζῆν ἔστι κατ' Ἐπίκουρον",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg139.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "That it is Not Possible to Live Pleasurably According to the Doctrine of Epicurus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg139.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "adversus-coloten-1gnpm5",
+      "partTitle": "Moralia, Volume XVI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πρὸς Κωλώτην",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg140.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Colotes, the Disciple and Favorite of Epicurus.",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg140.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "an-recte-dictum-sit-latenter-esse-vivendum-11zvzf",
+      "partTitle": "Moralia, Volume XVI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Εἰ καλῶς εἴρηται τὸ λάθε βιώτας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg141.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Whether 'Twere Rightly Said, Live Concealed.",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg141.perseus-eng2/"
+      }
+    }
+  ]
+}

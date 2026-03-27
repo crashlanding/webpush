@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-helen-phoenician-women-orestes-18fbzk",
+  "volumeTitle": "Helen. Phoenician Women. Orestes",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "helen-15fyzc-2",
+  "label": "Helen (Section 124 - Section 293)",
+  "partId": "helen-15fyzc",
+  "partTitle": "Helen",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἑλένη",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Helen",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "124",
+      "label": "Section 124",
+      "chapter": null,
+      "original": "οὔκουν ἐν Ἄργει γʼ οὐδʼ ἐπʼ Εὐρώτα ῥοαῖς .",
+      "translation": "No ; he is neither in Argos nor by the streams of the Eurotas ."
+    },
+    {
+      "id": "125",
+      "label": "Section 125",
+      "chapter": null,
+      "original": "αἰαῖ · κακὸν τόδʼ εἶπας οἷς κακὸν λέγεις .",
+      "translation": "Alas ! This is evil news for those to whom you bring it ."
+    },
+    {
+      "id": "126",
+      "label": "Section 126",
+      "chapter": null,
+      "original": "ὡς κεῖνος ἀφανὴς σὺν δάμαρτι κλῄζεται .",
+      "translation": "He is said to have disappeared with his wife ."
+    },
+    {
+      "id": "127",
+      "label": "Section 127",
+      "chapter": null,
+      "original": "οὐ πᾶσι πορθμὸς αὑτὸς Ἀργείοισιν ἦν ;",
+      "translation": "Wasn ’ t there the same passage for all the Argives ?"
+    },
+    {
+      "id": "128",
+      "label": "Section 128",
+      "chapter": null,
+      "original": "ἦν , ἀλλὰ χειμὼν ἄλλοσʼ ἄλλον ὥρισεν .",
+      "translation": "Yes ; but a tempest scattered them in every direction ."
+    },
+    {
+      "id": "129",
+      "label": "Section 129",
+      "chapter": null,
+      "original": "ποίοισιν ἐν νώτοισι ποντίας ἁλός ;",
+      "translation": "On which surface of the salty ocean ?"
+    },
+    {
+      "id": "130",
+      "label": "Section 130",
+      "chapter": null,
+      "original": "μέσον περῶσι πέλαγος Αἰγαίου πόρου .",
+      "translation": "While they were crossing the Aegean in mid-channel ."
+    },
+    {
+      "id": "131",
+      "label": "Section 131",
+      "chapter": null,
+      "original": "κἀκ τοῦδε Μενέλαν οὔτις εἶδʼ ἀφιγμένον ;",
+      "translation": "And from that time does no one know of Menelaos ’ arrival ?"
+    },
+    {
+      "id": "132",
+      "label": "Section 132",
+      "chapter": null,
+      "original": "οὐδείς · θανὼν δὲ κλῄζεται καθʼ Ἑλλάδα .",
+      "translation": "No one ; but throughout Hellas he is reported to be dead ."
+    },
+    {
+      "id": "133",
+      "label": "Section 133",
+      "chapter": null,
+      "original": "ἀπωλόμεσθα · Θεστιὰς δʼ ἔστιν κόρη ;",
+      "translation": "I am wholly lost . Is the daughter of Thestius alive ?"
+    },
+    {
+      "id": "134",
+      "label": "Section 134",
+      "chapter": null,
+      "original": "Λήδαν ἔλεξας ; οἴχεται θανοῦσα δή .",
+      "translation": "You speak of Leda ? She is dead and gone , indeed ."
+    },
+    {
+      "id": "135",
+      "label": "Section 135",
+      "chapter": null,
+      "original": "οὔ πού νιν Ἑλένης αἰσχρὸν ὤλεσεν κλέος ;",
+      "translation": "It wasn ’ t Helen ’ s disgraceful fame that killed her , surely ?"
+    },
+    {
+      "id": "136",
+      "label": "Section 136",
+      "chapter": null,
+      "original": "φασίν , βρόχῳ γʼ ἅψασαν εὐγενῆ δέρην .",
+      "translation": "Yes , they say she tied a noose around her noble neck ."
+    },
+    {
+      "id": "137",
+      "label": "Section 137",
+      "chapter": null,
+      "original": "οἱ Τυνδάρειοι δʼ εἰσὶν ἢ οὐκ εἰσὶν κόροι ;",
+      "translation": "Are the sons of Tyndareus still alive or not ?"
+    },
+    {
+      "id": "138",
+      "label": "Section 138",
+      "chapter": null,
+      "original": "τεθνᾶσι καὶ οὐ τεθνᾶσι · δύο δʼ ἐστὸν λόγω .",
+      "translation": "They are dead , and not dead : it is a double story ."
+    },
+    {
+      "id": "139",
+      "label": "Section 139",
+      "chapter": null,
+      "original": "πότερος ὁ κρείσσων ; ὦ τάλαινʼ ἐγὼ κακῶν .",
+      "translation": "Which report is the stronger ? I am so unhappy at these evils !"
+    },
+    {
+      "id": "140",
+      "label": "Section 140",
+      "chapter": null,
+      "original": "ἄστροις σφʼ ὁμοιωθέντε φάσʼ εἶναι θεώ .",
+      "translation": "Men say that they are gods in the likeness of stars ."
+    },
+    {
+      "id": "141",
+      "label": "Section 141",
+      "chapter": null,
+      "original": "καλῶς ἔλεξας τοῦτο · θάτερον δὲ τί ;",
+      "translation": "That is good news ; but what is the other story ?"
+    },
+    {
+      "id": "142",
+      "label": "Section 142",
+      "chapter": null,
+      "original": "σφαγαῖς ἀδελφῆς οὕνεκʼ ἐκπνεῦσαι βίον .",
+      "translation": "That they killed themselves because of their sister . But enough of such talk ! I do not need to grieve twice . As to why I came to this royal palace ,"
+    },
+    {
+      "id": "145",
+      "label": "Section 145",
+      "chapter": null,
+      "original": "τὴν θεσπιῳδὸν Θεονόην χρῄζων ἰδεῖν ,",
+      "translation": "wanting to see the prophetess Theonoe , you be my patron , so I might obtain an oracle : how I should steer a favorable course to the island of Cyprus , where Apollo has declared I am to live , giving it the island name of"
+    },
+    {
+      "id": "150",
+      "label": "Section 150",
+      "chapter": null,
+      "original": "Σαλαμῖνα θέμενον τῆς ἐκεῖ χάριν πάτρας .",
+      "translation": "Salamis in honor of that fatherland over there ."
+    },
+    {
+      "id": "151",
+      "label": "Section 151",
+      "chapter": null,
+      "original": "πλοῦς , ὦ ξένʼ , αὐτὸς σημανεῖ · σὺ δʼ ἐκλιπὼν",
+      "translation": "The voyage itself will explain that , stranger ; leave this land and escape , before the son of Proteus , the ruler of this land , catches sight of you ; now he is away with his trusty hounds tracking his savage quarry to the death ;"
+    },
+    {
+      "id": "155",
+      "label": "Section 155",
+      "chapter": null,
+      "original": "κτείνει γὰρ Ἕλληνʼ ὅντινʼ ἂν λάβῃ ξένον .",
+      "translation": "for he kills every visitor from Hellas that he catches . Do not seek to learn his reason , and I will not say ; for how could I help you ?"
+    },
+    {
+      "id": "158",
+      "label": "Section 158",
+      "chapter": null,
+      "original": "καλῶς ἔλεξας , ὦ γύναι · θεοὶ δέ σοι",
+      "translation": "Lady , you have spoken well . May the gods grant you a return for your kindness !"
+    },
+    {
+      "id": "160",
+      "label": "Section 160",
+      "chapter": null,
+      "original": "Ἑλένῃ δʼ ὅμοιον σῶμʼ ἔχουσʼ οὐ τὰς φρένας",
+      "translation": "Although you have a body like Helen ’ s , your heart is not like hers , but very different . May she die miserably , and never reach the streams of Eurotas ! But may you always have good fortune , lady ."
+    },
+    {
+      "id": "164",
+      "label": "Section 164",
+      "chapter": null,
+      "original": "ὤ , μεγάλων ἀχέων καταβαλλομένα μέγαν οἶκτον",
+      "translation": "Oh , as I begin the great lament of my great distress ,"
+    },
+    {
+      "id": "165",
+      "label": "Section 165",
+      "chapter": null,
+      "original": "ποῖον ἁμιλλαθῶ γόον ; ἢ τίνα μοῦσαν ἐπέλθω",
+      "translation": "what mourning shall I strive to utter ? or what Muse shall I approach with tears or songs of death or woe ? Alas !"
+    },
+    {
+      "id": "1.167",
+      "label": "Section 1.167",
+      "chapter": null,
+      "original": "πτεροφόροι νεάνιδες ,",
+      "translation": "Winged maidens , virgin daughters of Earth , the Sirens , may you come to my mourning"
+    },
+    {
+      "id": "1.170",
+      "label": "Section 1.170",
+      "chapter": null,
+      "original": "μόλοιτʼ ἔχουσαι Λίβυν",
+      "translation": "with Libyan flute or pipe or lyre , tears to match my plaintive woes ; grief for grief and mournful chant for chant , may Persephone send choirs of death"
+    },
+    {
+      "id": "1.175",
+      "label": "Section 1.175",
+      "chapter": null,
+      "original": "Φερσέφασσα",
+      "translation": "in harmony with my lamentation , so that she may receive as thanks from me , in addition to my tears , a paean for the departed dead beneath her gloomy roof ."
+    },
+    {
+      "id": "1.179",
+      "label": "Section 1.179",
+      "chapter": null,
+      "original": "κυανοειδὲς ἀμφʼ ὕδωρ",
+      "translation": "Beside the deep-blue water"
+    },
+    {
+      "id": "1.180",
+      "label": "Section 1.180",
+      "chapter": null,
+      "original": "ἔτυχον ἕλικά τʼ ἀνὰ χλόαν",
+      "translation": "and on the tangled grass , I happened to be drying purple robes in the sun ’ s golden blaze near the young reed shoots ; from my mistress , from where she cried aloud her misery ,"
+    },
+    {
+      "id": "1.185",
+      "label": "Section 1.185",
+      "chapter": null,
+      "original": "ὅμαδον ἔκλυον , ἄλυρον ἔλεγον ,",
+      "translation": "I heard a sound , a mournful song not fit for the lyre , because she was then shrieking , lamenting with her wails ; just as a Naiad nymph , who sends a song of woe ringing over the hills , cries out , under the rocky hollows , with screams"
+    },
+    {
+      "id": "1.190",
+      "label": "Section 1.190",
+      "chapter": null,
+      "original": "Πανὸς ἀναβοᾷ γάμους .",
+      "translation": "at the rape of Pan ."
+    },
+    {
+      "id": "2.191",
+      "label": "Section 2.191",
+      "chapter": null,
+      "original": "ἰὼ ἰώ ·",
+      "translation": "Oh ! Oh ! Maidens of Hellas , the prey of barbarian sailors ! An Achaean sailor"
+    },
+    {
+      "id": "2.195",
+      "label": "Section 2.195",
+      "chapter": null,
+      "original": "τις ἔμολεν ἔμολε δάκρυα δάκρυσί μοι φέρων .",
+      "translation": "came , he came bringing tears upon tears to me . Ilion has been destroyed and is left to the enemy ’ s fire through me , the death-giver , through my name , full of suffering ."
+    },
+    {
+      "id": "2.200",
+      "label": "Section 2.200",
+      "chapter": null,
+      "original": "Λήδα δʼ ἐν ἀγχόναις",
+      "translation": "Leda sought death by hanging , in anguish over my disgrace . My husband , after much wandering in the sea , has died and is gone ;"
+    },
+    {
+      "id": "2.205",
+      "label": "Section 2.205",
+      "chapter": null,
+      "original": "κάστορός τε συγγόνου τε",
+      "translation": "and Castor and his brother , twin glory of their native land , have vanished , vanished , leaving the plains that shook to their galloping horses ,"
+    },
+    {
+      "id": "2.210",
+      "label": "Section 2.210",
+      "chapter": null,
+      "original": "δονακόεντος Εὐρώ-",
+      "translation": "and the schools of reed-fringed Eurotas , scene of youthful labors ."
+    },
+    {
+      "id": "2.211",
+      "label": "Section 2.211",
+      "chapter": null,
+      "original": "αἰαῖ αἰαῖ ·",
+      "translation": "Alas , alas ! for your mournful fate and destiny , lady ! You were fated , fated to have a life full of pain , when Zeus begot you on your mother ,"
+    },
+    {
+      "id": "2.215",
+      "label": "Section 2.215",
+      "chapter": null,
+      "original": "χιονόχρως κύκνου πτερῷ",
+      "translation": "shining through the air on the wings of a snow-white swan . What evil is not yours ? What life have you not endured ? Your mother is dead ;"
+    },
+    {
+      "id": "2.220",
+      "label": "Section 2.220",
+      "chapter": null,
+      "original": "δίδυμά τε Διὸς οὐκ εὐ-",
+      "translation": "the twin beloved sons of Zeus do not enjoy happiness ; and you do not see your fatherland , while through the cities a rumor goes , mistress , which hands you over"
+    },
+    {
+      "id": "2.225",
+      "label": "Section 2.225",
+      "chapter": null,
+      "original": "πότνια , παραδίδωσι λέχεσιν ,",
+      "translation": "to the bed of a barbarian ; your husband has lost his life in the salty waves , and never again will you bring glee to your father ’ s halls and Athene of the Bronze House ."
+    },
+    {
+      "id": "229",
+      "label": "Section 229",
+      "chapter": null,
+      "original": "φεῦ φεῦ , τίς ἢ Φρυγῶν",
+      "translation": "Ah ! Who was it , either from Phrygia"
+    },
+    {
+      "id": "230",
+      "label": "Section 230",
+      "chapter": null,
+      "original": "ἢ τίς Ἑλλανίας ἀπὸ χθονὸς",
+      "translation": "or from Hellas , who cut the pine that brought tears to Ilion ? From this wood the son of Priam built his deadly ship , and sailed by barbarian oars"
+    },
+    {
+      "id": "235",
+      "label": "Section 235",
+      "chapter": null,
+      "original": "τὰν ἐμὰν ἐφʼ ἑστίαν ,",
+      "translation": "to my home , to that most ill-fated beauty , to win me as his wife ; and with him sailed deceitful and murderous Kypris , bearing death for the Danaans ."
+    },
+    {
+      "id": "240",
+      "label": "Section 240",
+      "chapter": null,
+      "original": "ὦ τάλαινα συμφορᾶς .",
+      "translation": "Oh , unhappy in my misfortune ! But Hera , the holy beloved of Zeus on her golden throne , sent the swift-footed son of Maia . I was gathering fresh rose leaves in the folds of my robe ,"
+    },
+    {
+      "id": "245",
+      "label": "Section 245",
+      "chapter": null,
+      "original": "ἔσω πέπλων ῥόδεα πέταλα ,",
+      "translation": "so that I might go to the goddess of the Bronze House ; he carried me off through the air to this luckless land , and made me an object of miserable strife , of strife between Hellas and the sons of Priam . And my name"
+    },
+    {
+      "id": "250",
+      "label": "Section 250",
+      "chapter": null,
+      "original": "παρὰ Σιμουντίοις ῥοαῖσι",
+      "translation": "beside the streams of Simois bears a false rumor ."
+    },
+    {
+      "id": "253",
+      "label": "Section 253",
+      "chapter": null,
+      "original": "ἔχεις μὲν ἀλγείνʼ , οἶδα · σύμφορον δέ τοι",
+      "translation": "You have sorrows , I know ; but it is best to bear as lightly as we can the necessary evils of life ."
+    },
+    {
+      "id": "255",
+      "label": "Section 255",
+      "chapter": null,
+      "original": "φίλαι γυναῖκες , τίνι πότμῳ συνεζύγην ;",
+      "translation": "Dear friends , to what a fate am I yoked ? Did my mother bear me as a wonder to mankind ? For no other woman , Hellene or barbarian , gives birth to a white vessel of chicks , in which they say Leda bore me to Zeus ."
+    },
+    {
+      "id": "260",
+      "label": "Section 260",
+      "chapter": null,
+      "original": "τέρας γὰρ ὁ βίος καὶ τὰ πράγματʼ ἐστί μου ,",
+      "translation": "My life and all I do is a wonder , partly because of Hera , and partly my beauty is to blame . If only I could be rubbed out like a painting , and have again in turn a plainer form instead of beauty , and the Hellenes would have forgotten the evil fate that I now have ,"
+    },
+    {
+      "id": "265",
+      "label": "Section 265",
+      "chapter": null,
+      "original": "Ἕλληνες ἐπελάθοντο , τὰς δὲ μὴ κακὰς",
+      "translation": "and would remember what part of my life is not evil , as they now remember what is ."
+    },
+    {
+      "id": "267",
+      "label": "Section 267",
+      "chapter": null,
+      "original": "ὅστις μὲν οὖν ἐς μίαν ἀποβλέπων τύχην",
+      "translation": "When someone looks to one event only , and is ill-treated by the gods , it is hard , but all the same it can be borne . But I am involved in countless troubles ."
+    },
+    {
+      "id": "270",
+      "label": "Section 270",
+      "chapter": null,
+      "original": "πρῶτον μὲν οὐκ οὖσʼ ἄδικος , εἰμὶ δυσκλεής ·",
+      "translation": "First , although I never acted wrongly , my good name is gone . And this trouble is stronger than the reality , if someone incurs blame for wrongs that are not his own . Next , the gods have removed me from my native country to barbarian habits , and bereft of friends"
+    },
+    {
+      "id": "275",
+      "label": "Section 275",
+      "chapter": null,
+      "original": "δούλη καθέστηκʼ οὖσʼ ἐλευθέρων ἄπο ·",
+      "translation": "I have become a slave although I am free by birth ; for among barbarians all are slaves except one . And the only anchor of my fortunes is gone , the hope that my husband would come one day and free me of my woes — he is dead , he no longer exists ."
+    },
+    {
+      "id": "280",
+      "label": "Section 280",
+      "chapter": null,
+      "original": "μήτηρ δʼ ὄλωλε , καὶ φονεὺς αὐτῆς ἐγώ ,",
+      "translation": "My mother is dead , and I am called her murderer — unjustly , but that injustice is mine to bear ; while the one who was born the glory of the house , my daughter , is growing gray as a virgin , without a husband ; and those two Dioskouroi , called the sons of Zeus , are no more ."
+    },
+    {
+      "id": "285",
+      "label": "Section 285",
+      "chapter": null,
+      "original": "οὐκ ἐστόν . ἀλλὰ πάντʼ ἔχουσα δυστυχῆ",
+      "translation": "But with all my misfortunes , I am as good as dead in my circumstances , though not in fact . And this is the last evil of all : if ever I should come home , I would be shut out by barred doors , for people would think I was that Helen of Troy , coming back with Menelaos ."
+    },
+    {
+      "id": "290",
+      "label": "Section 290",
+      "chapter": null,
+      "original": "εἰ μὲν γὰρ ἔζη πόσις , ἀνεγνώσθημεν ἂν",
+      "translation": "If my husband were still alive , we could have recognized each other by recourse to tokens which are evident to us alone . But now this is not so , and he can never be saved ."
+    },
+    {
+      "id": "293",
+      "label": "Section 293",
+      "chapter": null,
+      "original": "τί δῆτʼ ἔτι ζῶ ; τίνʼ ὑπολείπομαι τύχην ;",
+      "translation": "Why then do I still live ? What fortune do I have left ? Shall I choose marriage in exchange for evils ,"
+    }
+  ],
+  "prevChunkSlug": "helen-15fyzc-1",
+  "nextChunkSlug": "helen-15fyzc-3"
+}

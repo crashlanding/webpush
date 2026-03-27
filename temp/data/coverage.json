@@ -1,0 +1,3874 @@
+{
+  "generatedAt": "2026-03-26T22:57:51.588Z",
+  "totalVolumes": 561,
+  "readyVolumes": 247,
+  "partialVolumes": 46,
+  "placeholderVolumes": 268,
+  "readyChunks": 1479,
+  "failures": [
+    {
+      "loebNumber": 1,
+      "slug": "apollonius-rhodius-argonautica-osbais",
+      "title": "Argonautica",
+      "status": "placeholder",
+      "partTitle": "Argonautica",
+      "reason": "No Scaife original-and-English work pair could be matched for Argonautica."
+    },
+    {
+      "loebNumber": 6,
+      "slug": "catullus-tibullus-catullus-tibullus-pervigilium-veneris-xqlyyz",
+      "title": "Catullus. Tibullus. Pervigilium Veneris",
+      "status": "placeholder",
+      "partTitle": "Catullus",
+      "reason": "No Scaife original-and-English work pair could be matched for Catullus."
+    },
+    {
+      "loebNumber": 6,
+      "slug": "catullus-tibullus-catullus-tibullus-pervigilium-veneris-xqlyyz",
+      "title": "Catullus. Tibullus. Pervigilium Veneris",
+      "status": "placeholder",
+      "partTitle": "Tibullus",
+      "reason": "No Scaife original-and-English work pair could be matched for Tibullus."
+    },
+    {
+      "loebNumber": 6,
+      "slug": "catullus-tibullus-catullus-tibullus-pervigilium-veneris-xqlyyz",
+      "title": "Catullus. Tibullus. Pervigilium Veneris",
+      "status": "placeholder",
+      "partTitle": "Pervigilium Veneris",
+      "reason": "No Scaife original-and-English work pair could be matched for Pervigilium Veneris."
+    },
+    {
+      "loebNumber": 7,
+      "slug": "cicero-letters-to-atticus-volume-i-1cymw0",
+      "title": "Letters to Atticus, Volume I",
+      "status": "placeholder",
+      "partTitle": "Letters to Atticus, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Letters to Atticus, Volume I."
+    },
+    {
+      "loebNumber": 8,
+      "slug": "cicero-letters-to-atticus-volume-ii-q6cf4i",
+      "title": "Letters to Atticus, Volume II",
+      "status": "placeholder",
+      "partTitle": "Letters to Atticus, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Letters to Atticus, Volume II."
+    },
+    {
+      "loebNumber": 13,
+      "slug": "julian-volume-i-qw1x7w",
+      "title": "Volume I",
+      "status": "placeholder",
+      "partTitle": "Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Volume I."
+    },
+    {
+      "loebNumber": 15,
+      "slug": "petronius-seneca-satyricon-apocolocyntosis-1quhv7",
+      "title": "Seneca, Satyricon. Apocolocyntosis",
+      "status": "placeholder",
+      "partTitle": "Seneca, Satyricon",
+      "reason": "No Scaife original-and-English work pair could be matched for Seneca, Satyricon."
+    },
+    {
+      "loebNumber": 16,
+      "slug": "philostratus-apollonius-of-tyana-volume-i-1hiuih",
+      "title": "Apollonius of Tyana, Volume I",
+      "status": "placeholder",
+      "partTitle": "Apollonius of Tyana, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Apollonius of Tyana, Volume I."
+    },
+    {
+      "loebNumber": 17,
+      "slug": "philostratus-apollonius-of-tyana-volume-ii-pionme",
+      "title": "Apollonius of Tyana, Volume II",
+      "status": "placeholder",
+      "partTitle": "Apollonius of Tyana, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Apollonius of Tyana, Volume II."
+    },
+    {
+      "loebNumber": 18,
+      "slug": "propertius-elegies-1y4rzx",
+      "title": "Elegies",
+      "status": "placeholder",
+      "partTitle": "Elegies",
+      "reason": "No Scaife original-and-English work pair could be matched for Elegies."
+    },
+    {
+      "loebNumber": 19,
+      "slug": "quintus-smyrnaeus-posthomerica-1iogi6",
+      "title": "Posthomerica",
+      "status": "placeholder",
+      "partTitle": "Posthomerica",
+      "reason": "No Scaife original-and-English work pair could be matched for Posthomerica."
+    },
+    {
+      "loebNumber": 24,
+      "slug": "the-apostolic-fathers-volume-i-i-clement-ii-clement-ignatius-polycarp-didache-wid8ne",
+      "title": "Volume I: I Clement. II Clement. Ignatius. Polycarp. Didache",
+      "status": "placeholder",
+      "partTitle": "The Apostolic Fathers: I Clement",
+      "reason": "No Scaife original-and-English work pair could be matched for The Apostolic Fathers: I Clement."
+    },
+    {
+      "loebNumber": 24,
+      "slug": "the-apostolic-fathers-volume-i-i-clement-ii-clement-ignatius-polycarp-didache-wid8ne",
+      "title": "Volume I: I Clement. II Clement. Ignatius. Polycarp. Didache",
+      "status": "placeholder",
+      "partTitle": "II Clement",
+      "reason": "No Scaife original-and-English work pair could be matched for II Clement."
+    },
+    {
+      "loebNumber": 24,
+      "slug": "the-apostolic-fathers-volume-i-i-clement-ii-clement-ignatius-polycarp-didache-wid8ne",
+      "title": "Volume I: I Clement. II Clement. Ignatius. Polycarp. Didache",
+      "status": "placeholder",
+      "partTitle": "Polycarp",
+      "reason": "No Scaife original-and-English work pair could be matched for Polycarp."
+    },
+    {
+      "loebNumber": 25,
+      "slug": "the-apostolic-fathers-volume-ii-epistle-of-barnabas-papias-and-quadratus-epistle-to-diog-lytca6",
+      "title": "Volume II: Epistle of Barnabas. Papias and Quadratus. Epistle to Diognetus. The Shepherd of Hermas",
+      "status": "placeholder",
+      "partTitle": "Papias and Quadratus",
+      "reason": "No Scaife original-and-English work pair could be matched for Papias and Quadratus."
+    },
+    {
+      "loebNumber": 25,
+      "slug": "the-apostolic-fathers-volume-ii-epistle-of-barnabas-papias-and-quadratus-epistle-to-diog-lytca6",
+      "title": "Volume II: Epistle of Barnabas. Papias and Quadratus. Epistle to Diognetus. The Shepherd of Hermas",
+      "status": "placeholder",
+      "partTitle": "Epistle to Diognetus",
+      "reason": "No Scaife original-and-English work pair could be matched for Epistle to Diognetus."
+    },
+    {
+      "loebNumber": 26,
+      "slug": "augustine-confessions-volume-i-k01c42",
+      "title": "Confessions, Volume I",
+      "status": "placeholder",
+      "partTitle": "Confessions, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Confessions, Volume I."
+    },
+    {
+      "loebNumber": 27,
+      "slug": "augustine-confessions-volume-ii-1fs8zq",
+      "title": "Confessions, Volume II",
+      "status": "placeholder",
+      "partTitle": "Confessions, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Confessions, Volume II."
+    },
+    {
+      "loebNumber": 28,
+      "slug": "theocritus-moschus-bion-theocritus-moschus-bion-6qgo5o",
+      "title": "Moschus, Bion, Theocritus. Moschus. Bion",
+      "status": "placeholder",
+      "partTitle": "Moschus, Bion, Theocritus",
+      "reason": "No Scaife original-and-English work pair could be matched for Moschus, Bion, Theocritus."
+    },
+    {
+      "loebNumber": 28,
+      "slug": "theocritus-moschus-bion-theocritus-moschus-bion-6qgo5o",
+      "title": "Moschus, Bion, Theocritus. Moschus. Bion",
+      "status": "placeholder",
+      "partTitle": "Moschus",
+      "reason": "No Scaife original-and-English work pair could be matched for Moschus."
+    },
+    {
+      "loebNumber": 28,
+      "slug": "theocritus-moschus-bion-theocritus-moschus-bion-6qgo5o",
+      "title": "Moschus, Bion, Theocritus. Moschus. Bion",
+      "status": "placeholder",
+      "partTitle": "Bion",
+      "reason": "No Scaife original-and-English work pair could be matched for Bion."
+    },
+    {
+      "loebNumber": 29,
+      "slug": "julian-volume-ii-1g9f04",
+      "title": "Volume II",
+      "status": "placeholder",
+      "partTitle": "Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Volume II."
+    },
+    {
+      "loebNumber": 30,
+      "slug": "cicero-on-duties-1a0k23",
+      "title": "On Duties",
+      "status": "placeholder",
+      "partTitle": "On Duties",
+      "reason": "No Scaife original-and-English work pair could be matched for On Duties."
+    },
+    {
+      "loebNumber": 32,
+      "slug": "dio-cassius-roman-history-volume-i-a65wox",
+      "title": "Roman History, Volume I",
+      "status": "placeholder",
+      "partTitle": "Roman History, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Roman History, Volume I."
+    },
+    {
+      "loebNumber": 34,
+      "slug": "john-damascene-barlaam-and-ioasaph-1quoon",
+      "title": "Barlaam and Ioasaph",
+      "status": "placeholder",
+      "partTitle": "Barlaam and Ioasaph",
+      "reason": "No Scaife original-and-English work pair could be matched for Barlaam and Ioasaph."
+    },
+    {
+      "loebNumber": 35,
+      "slug": "tacitus-agricola-germania-dialogue-on-oratory-zo7l04",
+      "title": "Agricola. Germania. Dialogue on Oratory",
+      "status": "placeholder",
+      "partTitle": "Agricola",
+      "reason": "No Scaife original-and-English work pair could be matched for Agricola."
+    },
+    {
+      "loebNumber": 35,
+      "slug": "tacitus-agricola-germania-dialogue-on-oratory-zo7l04",
+      "title": "Agricola. Germania. Dialogue on Oratory",
+      "status": "placeholder",
+      "partTitle": "Germania",
+      "reason": "No Scaife original-and-English work pair could be matched for Germania."
+    },
+    {
+      "loebNumber": 35,
+      "slug": "tacitus-agricola-germania-dialogue-on-oratory-zo7l04",
+      "title": "Agricola. Germania. Dialogue on Oratory",
+      "status": "placeholder",
+      "partTitle": "Dialogue on Oratory",
+      "reason": "No Scaife original-and-English work pair could be matched for Dialogue on Oratory."
+    },
+    {
+      "loebNumber": 37,
+      "slug": "dio-cassius-roman-history-volume-ii-v6mxm0",
+      "title": "Roman History, Volume II",
+      "status": "placeholder",
+      "partTitle": "Roman History, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Roman History, Volume II."
+    },
+    {
+      "loebNumber": 45,
+      "slug": "achilles-tatius-leucippe-and-clitophon-ppmwb3",
+      "title": "Leucippe and Clitophon",
+      "status": "placeholder",
+      "partTitle": "Leucippe and Clitophon",
+      "reason": "No Scaife original-and-English work pair could be matched for Leucippe and Clitophon."
+    },
+    {
+      "loebNumber": 53,
+      "slug": "dio-cassius-roman-history-volume-iii-17ba8b",
+      "title": "Roman History, Volume III",
+      "status": "placeholder",
+      "partTitle": "Roman History, Volume III",
+      "reason": "No Scaife original-and-English work pair could be matched for Roman History, Volume III."
+    },
+    {
+      "loebNumber": 57,
+      "slug": "hesiod-theogony-works-and-days-testimonia-1176gx",
+      "title": "Theogony. Works and Days. Testimonia",
+      "status": "placeholder",
+      "partTitle": "Theogony",
+      "reason": "The original and English Scaife TOCs could not be aligned."
+    },
+    {
+      "loebNumber": 57,
+      "slug": "hesiod-theogony-works-and-days-testimonia-1176gx",
+      "title": "Theogony. Works and Days. Testimonia",
+      "status": "placeholder",
+      "partTitle": "Testimonia",
+      "reason": "No Scaife original-and-English work pair could be matched for Testimonia."
+    },
+    {
+      "loebNumber": 59,
+      "slug": "pliny-the-younger-letters-volume-ii-books-8-10-panegyricus-1dnuaa",
+      "title": "Letters, Volume II: Books 8-10. Panegyricus",
+      "status": "placeholder",
+      "partTitle": "Books 8-10",
+      "reason": "No Scaife original-and-English work pair could be matched for Books 8-10."
+    },
+    {
+      "loebNumber": 62,
+      "slug": "seneca-tragedies-volume-i-dbt3bk",
+      "title": "Tragedies, Volume I",
+      "status": "placeholder",
+      "partTitle": "Tragedies, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Tragedies, Volume I."
+    },
+    {
+      "loebNumber": 64,
+      "slug": "virgil-aeneid-books-7-12-appendix-vergiliana-eafelr",
+      "title": "Aeneid: Books 7-12. Appendix Vergiliana",
+      "status": "placeholder",
+      "partTitle": "Appendix Vergiliana",
+      "reason": "No Scaife original-and-English work pair could be matched for Appendix Vergiliana."
+    },
+    {
+      "loebNumber": 66,
+      "slug": "dio-cassius-roman-history-volume-iv-v6mxmd",
+      "title": "Roman History, Volume IV",
+      "status": "placeholder",
+      "partTitle": "Roman History, Volume IV",
+      "reason": "No Scaife original-and-English work pair could be matched for Roman History, Volume IV."
+    },
+    {
+      "loebNumber": 67,
+      "slug": "the-greek-anthology-volume-i-books-1-5-dfffle",
+      "title": "Volume I: Books 1-5",
+      "status": "placeholder",
+      "partTitle": "The Greek Anthology: Books 1-5",
+      "reason": "No Scaife original-and-English work pair could be matched for The Greek Anthology: Books 1-5."
+    },
+    {
+      "loebNumber": 68,
+      "slug": "the-greek-anthology-volume-ii-books-7-8-1eyioj",
+      "title": "Volume II: Books 7-8",
+      "status": "placeholder",
+      "partTitle": "The Greek Anthology: Books 7-8",
+      "reason": "No Scaife original-and-English work pair could be matched for The Greek Anthology: Books 7-8."
+    },
+    {
+      "loebNumber": 69,
+      "slug": "longus-xenophon-of-ephesus-daphnis-and-chloe-anthia-and-habrocomes-18s0y3",
+      "title": "Xenophon of Ephesus, Daphnis and Chloe. Anthia and Habrocomes",
+      "status": "placeholder",
+      "partTitle": "Xenophon of Ephesus, Daphnis and Chloe",
+      "reason": "No Scaife original-and-English work pair could be matched for Xenophon of Ephesus, Daphnis and Chloe."
+    },
+    {
+      "loebNumber": 69,
+      "slug": "longus-xenophon-of-ephesus-daphnis-and-chloe-anthia-and-habrocomes-18s0y3",
+      "title": "Xenophon of Ephesus, Daphnis and Chloe. Anthia and Habrocomes",
+      "status": "placeholder",
+      "partTitle": "Anthia and Habrocomes",
+      "reason": "No Scaife original-and-English work pair could be matched for Anthia and Habrocomes."
+    },
+    {
+      "loebNumber": 70,
+      "slug": "theophrastus-enquiry-into-plants-volume-i-books-1-5-1fh0k9",
+      "title": "Enquiry into Plants, Volume I: Books 1-5",
+      "status": "placeholder",
+      "partTitle": "Enquiry into Plants: Books 1-5",
+      "reason": "No Scaife original-and-English work pair could be matched for Enquiry into Plants: Books 1-5."
+    },
+    {
+      "loebNumber": 74,
+      "slug": "boethius-theological-tractates-the-consolation-of-philosophy-933mfj",
+      "title": "Theological Tractates. The Consolation of Philosophy",
+      "status": "placeholder",
+      "partTitle": "Theological Tractates",
+      "reason": "No Scaife original-and-English work pair could be matched for Theological Tractates."
+    },
+    {
+      "loebNumber": 74,
+      "slug": "boethius-theological-tractates-the-consolation-of-philosophy-933mfj",
+      "title": "Theological Tractates. The Consolation of Philosophy",
+      "status": "placeholder",
+      "partTitle": "The Consolation of Philosophy",
+      "reason": "No Scaife original-and-English work pair could be matched for The Consolation of Philosophy."
+    },
+    {
+      "loebNumber": 75,
+      "slug": "seneca-epistles-volume-i-1ilabs",
+      "title": "Epistles, Volume I",
+      "status": "placeholder",
+      "partTitle": "Epistles, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Epistles, Volume I."
+    },
+    {
+      "loebNumber": 76,
+      "slug": "seneca-epistles-volume-ii-1mmaw1",
+      "title": "Epistles, Volume II",
+      "status": "placeholder",
+      "partTitle": "Epistles, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Epistles, Volume II."
+    },
+    {
+      "loebNumber": 77,
+      "slug": "seneca-epistles-volume-iii-15fk83",
+      "title": "Epistles, Volume III",
+      "status": "placeholder",
+      "partTitle": "Epistles, Volume III",
+      "reason": "No Scaife original-and-English work pair could be matched for Epistles, Volume III."
+    },
+    {
+      "loebNumber": 78,
+      "slug": "seneca-tragedies-volume-ii-1m0hl4",
+      "title": "Tragedies, Volume II",
+      "status": "placeholder",
+      "partTitle": "Tragedies, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Tragedies, Volume II."
+    },
+    {
+      "loebNumber": 79,
+      "slug": "theophrastus-enquiry-into-plants-volume-ii-books-6-9-on-odours-weather-signs-1he6ra",
+      "title": "Enquiry into Plants, Volume II: Books 6-9. On Odours. Weather Signs",
+      "status": "placeholder",
+      "partTitle": "Books 6-9",
+      "reason": "No Scaife original-and-English work pair could be matched for Books 6-9."
+    },
+    {
+      "loebNumber": 79,
+      "slug": "theophrastus-enquiry-into-plants-volume-ii-books-6-9-on-odours-weather-signs-1he6ra",
+      "title": "Enquiry into Plants, Volume II: Books 6-9. On Odours. Weather Signs",
+      "status": "placeholder",
+      "partTitle": "On Odours",
+      "reason": "No Scaife original-and-English work pair could be matched for On Odours."
+    },
+    {
+      "loebNumber": 79,
+      "slug": "theophrastus-enquiry-into-plants-volume-ii-books-6-9-on-odours-weather-signs-1he6ra",
+      "title": "Enquiry into Plants, Volume II: Books 6-9. On Odours. Weather Signs",
+      "status": "placeholder",
+      "partTitle": "Weather Signs",
+      "reason": "No Scaife original-and-English work pair could be matched for Weather Signs."
+    },
+    {
+      "loebNumber": 82,
+      "slug": "dio-cassius-roman-history-volume-v-a65wpa",
+      "title": "Roman History, Volume V",
+      "status": "placeholder",
+      "partTitle": "Roman History, Volume V",
+      "reason": "No Scaife original-and-English work pair could be matched for Roman History, Volume V."
+    },
+    {
+      "loebNumber": 83,
+      "slug": "dio-cassius-roman-history-volume-vi-v6mxx7",
+      "title": "Roman History, Volume VI",
+      "status": "placeholder",
+      "partTitle": "Roman History, Volume VI",
+      "reason": "No Scaife original-and-English work pair could be matched for Roman History, Volume VI."
+    },
+    {
+      "loebNumber": 84,
+      "slug": "the-greek-anthology-volume-iii-book-9-kskohf",
+      "title": "Volume III: Book 9",
+      "status": "placeholder",
+      "partTitle": "The Greek Anthology: Book 9",
+      "reason": "No Scaife original-and-English work pair could be matched for The Greek Anthology: Book 9."
+    },
+    {
+      "loebNumber": 85,
+      "slug": "the-greek-anthology-volume-iv-books-10-12-1sg47g",
+      "title": "Volume IV: Books 10-12",
+      "status": "placeholder",
+      "partTitle": "The Greek Anthology: Books 10-12",
+      "reason": "No Scaife original-and-English work pair could be matched for The Greek Anthology: Books 10-12."
+    },
+    {
+      "loebNumber": 86,
+      "slug": "the-greek-anthology-volume-v-books-13-16-alupp8",
+      "title": "Volume V: Books 13-16",
+      "status": "placeholder",
+      "partTitle": "The Greek Anthology: Books 13-16",
+      "reason": "No Scaife original-and-English work pair could be matched for The Greek Anthology: Books 13-16."
+    },
+    {
+      "loebNumber": 91,
+      "slug": "juvenal-persius-juvenal-and-persius-1hs08v",
+      "title": "Persius, Juvenal and Persius",
+      "status": "placeholder",
+      "partTitle": "Persius, Juvenal and Persius",
+      "reason": "No Scaife original-and-English work pair could be matched for Persius, Juvenal and Persius."
+    },
+    {
+      "loebNumber": 92,
+      "slug": "clement-of-alexandria-the-exhortation-to-the-greeks-the-rich-man-s-salvation-to-the-newl-10g9wn",
+      "title": "The Exhortation to the Greeks. The Rich Man's Salvation. To the Newly Baptized",
+      "status": "placeholder",
+      "partTitle": "The Exhortation to the Greeks",
+      "reason": "No Scaife original-and-English work pair could be matched for The Exhortation to the Greeks."
+    },
+    {
+      "loebNumber": 92,
+      "slug": "clement-of-alexandria-the-exhortation-to-the-greeks-the-rich-man-s-salvation-to-the-newl-10g9wn",
+      "title": "The Exhortation to the Greeks. The Rich Man's Salvation. To the Newly Baptized",
+      "status": "placeholder",
+      "partTitle": "The Rich Man's Salvation",
+      "reason": "No Scaife original-and-English work pair could be matched for The Rich Man's Salvation."
+    },
+    {
+      "loebNumber": 92,
+      "slug": "clement-of-alexandria-the-exhortation-to-the-greeks-the-rich-man-s-salvation-to-the-newl-10g9wn",
+      "title": "The Exhortation to the Greeks. The Rich Man's Salvation. To the Newly Baptized",
+      "status": "placeholder",
+      "partTitle": "To the Newly Baptized",
+      "reason": "No Scaife original-and-English work pair could be matched for To the Newly Baptized."
+    },
+    {
+      "loebNumber": 96,
+      "slug": "ausonius-volume-i-books-1-17-q5o74u",
+      "title": "Volume I: Books 1-17",
+      "status": "placeholder",
+      "partTitle": "Books 1-17",
+      "reason": "No Scaife original-and-English work pair could be matched for Books 1-17."
+    },
+    {
+      "loebNumber": 97,
+      "slug": "cicero-letters-to-atticus-volume-iii-u4gf7b",
+      "title": "Letters to Atticus, Volume III",
+      "status": "placeholder",
+      "partTitle": "Letters to Atticus, Volume III",
+      "reason": "No Scaife original-and-English work pair could be matched for Letters to Atticus, Volume III."
+    },
+    {
+      "loebNumber": 106,
+      "slug": "aeschines-speeches-1n17n4",
+      "title": "Speeches",
+      "status": "placeholder",
+      "partTitle": "Speeches",
+      "reason": "No Scaife original-and-English work pair could be matched for Speeches."
+    },
+    {
+      "loebNumber": 112,
+      "slug": "fronto-correspondence-volume-i-gru1or",
+      "title": "Correspondence, Volume I",
+      "status": "placeholder",
+      "partTitle": "Correspondence, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Correspondence, Volume I."
+    },
+    {
+      "loebNumber": 113,
+      "slug": "fronto-correspondence-volume-ii-mr32ji",
+      "title": "Correspondence, Volume II",
+      "status": "placeholder",
+      "partTitle": "Correspondence, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Correspondence, Volume II."
+    },
+    {
+      "loebNumber": 115,
+      "slug": "ausonius-paulinus-pellaeus-volume-ii-books-18-20-paulinus-pellaeus-eucharisticus-1kh6xs",
+      "title": "Paulinus Pellaeus, Volume II: Books 18-20. Paulinus Pellaeus: Eucharisticus",
+      "status": "placeholder",
+      "partTitle": "Books 18-20",
+      "reason": "No Scaife original-and-English work pair could be matched for Books 18-20."
+    },
+    {
+      "loebNumber": 115,
+      "slug": "ausonius-paulinus-pellaeus-volume-ii-books-18-20-paulinus-pellaeus-eucharisticus-1kh6xs",
+      "title": "Paulinus Pellaeus, Volume II: Books 18-20. Paulinus Pellaeus: Eucharisticus",
+      "status": "placeholder",
+      "partTitle": "Paulinus Pellaeus: Eucharisticus",
+      "reason": "No Scaife original-and-English work pair could be matched for Paulinus Pellaeus: Eucharisticus."
+    },
+    {
+      "loebNumber": 129,
+      "slug": "callimachus-hecale-hymns-epigrams-1yv31p",
+      "title": "Hecale. Hymns. Epigrams",
+      "status": "placeholder",
+      "partTitle": "Hecale",
+      "reason": "No Scaife original-and-English work pair could be matched for Hecale."
+    },
+    {
+      "loebNumber": 129,
+      "slug": "callimachus-hecale-hymns-epigrams-1yv31p",
+      "title": "Hecale. Hymns. Epigrams",
+      "status": "placeholder",
+      "partTitle": "Hymns",
+      "reason": "No Scaife original-and-English work pair could be matched for Hymns."
+    },
+    {
+      "loebNumber": 132,
+      "slug": "menander-aspis-georgos-dis-exapaton-dyskolos-encheiridion-epitrepontes-zvgilz",
+      "title": "Aspis. Georgos. Dis Exapaton. Dyskolos. Encheiridion. Epitrepontes",
+      "status": "placeholder",
+      "partTitle": "Aspis",
+      "reason": "No Scaife original-and-English work pair could be matched for Aspis."
+    },
+    {
+      "loebNumber": 132,
+      "slug": "menander-aspis-georgos-dis-exapaton-dyskolos-encheiridion-epitrepontes-zvgilz",
+      "title": "Aspis. Georgos. Dis Exapaton. Dyskolos. Encheiridion. Epitrepontes",
+      "status": "placeholder",
+      "partTitle": "Georgos",
+      "reason": "No Scaife original-and-English work pair could be matched for Georgos."
+    },
+    {
+      "loebNumber": 132,
+      "slug": "menander-aspis-georgos-dis-exapaton-dyskolos-encheiridion-epitrepontes-zvgilz",
+      "title": "Aspis. Georgos. Dis Exapaton. Dyskolos. Encheiridion. Epitrepontes",
+      "status": "placeholder",
+      "partTitle": "Dis Exapaton",
+      "reason": "No Scaife original-and-English work pair could be matched for Dis Exapaton."
+    },
+    {
+      "loebNumber": 132,
+      "slug": "menander-aspis-georgos-dis-exapaton-dyskolos-encheiridion-epitrepontes-zvgilz",
+      "title": "Aspis. Georgos. Dis Exapaton. Dyskolos. Encheiridion. Epitrepontes",
+      "status": "placeholder",
+      "partTitle": "Dyskolos",
+      "reason": "No Scaife original-and-English work pair could be matched for Dyskolos."
+    },
+    {
+      "loebNumber": 132,
+      "slug": "menander-aspis-georgos-dis-exapaton-dyskolos-encheiridion-epitrepontes-zvgilz",
+      "title": "Aspis. Georgos. Dis Exapaton. Dyskolos. Encheiridion. Epitrepontes",
+      "status": "placeholder",
+      "partTitle": "Encheiridion",
+      "reason": "No Scaife original-and-English work pair could be matched for Encheiridion."
+    },
+    {
+      "loebNumber": 132,
+      "slug": "menander-aspis-georgos-dis-exapaton-dyskolos-encheiridion-epitrepontes-zvgilz",
+      "title": "Aspis. Georgos. Dis Exapaton. Dyskolos. Encheiridion. Epitrepontes",
+      "status": "placeholder",
+      "partTitle": "Epitrepontes",
+      "reason": "No Scaife original-and-English work pair could be matched for Epitrepontes."
+    },
+    {
+      "loebNumber": 134,
+      "slug": "philostratus-eunapius-lives-of-the-sophists-lives-of-philosophers-and-sophists-5m3tcm",
+      "title": "Eunapius, Lives of the Sophists. Lives of Philosophers and Sophists",
+      "status": "placeholder",
+      "partTitle": "Eunapius, Lives of the Sophists",
+      "reason": "No Scaife original-and-English work pair could be matched for Eunapius, Lives of the Sophists."
+    },
+    {
+      "loebNumber": 134,
+      "slug": "philostratus-eunapius-lives-of-the-sophists-lives-of-philosophers-and-sophists-5m3tcm",
+      "title": "Eunapius, Lives of the Sophists. Lives of Philosophers and Sophists",
+      "status": "placeholder",
+      "partTitle": "Lives of Philosophers and Sophists",
+      "reason": "No Scaife original-and-English work pair could be matched for Lives of Philosophers and Sophists."
+    },
+    {
+      "loebNumber": 135,
+      "slug": "claudian-panegyric-on-probinus-and-olybrius-against-rufinus-1-and-2-war-against-gildo-ag-1bobyt",
+      "title": "Panegyric on Probinus and Olybrius. Against Rufinus 1 and 2. War against Gildo. Against Eutropius 1 and 2. Fescennine Verses on the Marriage of Honorius. Epithalamium of Honorius and Maria. Panegyrics on the Third and Fourth Consulships of Honorius. Panegyric on the Consulship of Manlius. On Stilicho's Consulship 1",
+      "status": "placeholder",
+      "partTitle": "Panegyric on Probinus and Olybrius",
+      "reason": "No Scaife original-and-English work pair could be matched for Panegyric on Probinus and Olybrius."
+    },
+    {
+      "loebNumber": 135,
+      "slug": "claudian-panegyric-on-probinus-and-olybrius-against-rufinus-1-and-2-war-against-gildo-ag-1bobyt",
+      "title": "Panegyric on Probinus and Olybrius. Against Rufinus 1 and 2. War against Gildo. Against Eutropius 1 and 2. Fescennine Verses on the Marriage of Honorius. Epithalamium of Honorius and Maria. Panegyrics on the Third and Fourth Consulships of Honorius. Panegyric on the Consulship of Manlius. On Stilicho's Consulship 1",
+      "status": "placeholder",
+      "partTitle": "Against Rufinus 1 and 2",
+      "reason": "No Scaife original-and-English work pair could be matched for Against Rufinus 1 and 2."
+    },
+    {
+      "loebNumber": 135,
+      "slug": "claudian-panegyric-on-probinus-and-olybrius-against-rufinus-1-and-2-war-against-gildo-ag-1bobyt",
+      "title": "Panegyric on Probinus and Olybrius. Against Rufinus 1 and 2. War against Gildo. Against Eutropius 1 and 2. Fescennine Verses on the Marriage of Honorius. Epithalamium of Honorius and Maria. Panegyrics on the Third and Fourth Consulships of Honorius. Panegyric on the Consulship of Manlius. On Stilicho's Consulship 1",
+      "status": "placeholder",
+      "partTitle": "War against Gildo",
+      "reason": "No Scaife original-and-English work pair could be matched for War against Gildo."
+    },
+    {
+      "loebNumber": 135,
+      "slug": "claudian-panegyric-on-probinus-and-olybrius-against-rufinus-1-and-2-war-against-gildo-ag-1bobyt",
+      "title": "Panegyric on Probinus and Olybrius. Against Rufinus 1 and 2. War against Gildo. Against Eutropius 1 and 2. Fescennine Verses on the Marriage of Honorius. Epithalamium of Honorius and Maria. Panegyrics on the Third and Fourth Consulships of Honorius. Panegyric on the Consulship of Manlius. On Stilicho's Consulship 1",
+      "status": "placeholder",
+      "partTitle": "Against Eutropius 1 and 2",
+      "reason": "No Scaife original-and-English work pair could be matched for Against Eutropius 1 and 2."
+    },
+    {
+      "loebNumber": 135,
+      "slug": "claudian-panegyric-on-probinus-and-olybrius-against-rufinus-1-and-2-war-against-gildo-ag-1bobyt",
+      "title": "Panegyric on Probinus and Olybrius. Against Rufinus 1 and 2. War against Gildo. Against Eutropius 1 and 2. Fescennine Verses on the Marriage of Honorius. Epithalamium of Honorius and Maria. Panegyrics on the Third and Fourth Consulships of Honorius. Panegyric on the Consulship of Manlius. On Stilicho's Consulship 1",
+      "status": "placeholder",
+      "partTitle": "Fescennine Verses on the Marriage of Honorius",
+      "reason": "No Scaife original-and-English work pair could be matched for Fescennine Verses on the Marriage of Honorius."
+    },
+    {
+      "loebNumber": 135,
+      "slug": "claudian-panegyric-on-probinus-and-olybrius-against-rufinus-1-and-2-war-against-gildo-ag-1bobyt",
+      "title": "Panegyric on Probinus and Olybrius. Against Rufinus 1 and 2. War against Gildo. Against Eutropius 1 and 2. Fescennine Verses on the Marriage of Honorius. Epithalamium of Honorius and Maria. Panegyrics on the Third and Fourth Consulships of Honorius. Panegyric on the Consulship of Manlius. On Stilicho's Consulship 1",
+      "status": "placeholder",
+      "partTitle": "Epithalamium of Honorius and Maria",
+      "reason": "No Scaife original-and-English work pair could be matched for Epithalamium of Honorius and Maria."
+    },
+    {
+      "loebNumber": 135,
+      "slug": "claudian-panegyric-on-probinus-and-olybrius-against-rufinus-1-and-2-war-against-gildo-ag-1bobyt",
+      "title": "Panegyric on Probinus and Olybrius. Against Rufinus 1 and 2. War against Gildo. Against Eutropius 1 and 2. Fescennine Verses on the Marriage of Honorius. Epithalamium of Honorius and Maria. Panegyrics on the Third and Fourth Consulships of Honorius. Panegyric on the Consulship of Manlius. On Stilicho's Consulship 1",
+      "status": "placeholder",
+      "partTitle": "Panegyrics on the Third and Fourth Consulships of Honorius",
+      "reason": "No Scaife original-and-English work pair could be matched for Panegyrics on the Third and Fourth Consulships of Honorius."
+    },
+    {
+      "loebNumber": 135,
+      "slug": "claudian-panegyric-on-probinus-and-olybrius-against-rufinus-1-and-2-war-against-gildo-ag-1bobyt",
+      "title": "Panegyric on Probinus and Olybrius. Against Rufinus 1 and 2. War against Gildo. Against Eutropius 1 and 2. Fescennine Verses on the Marriage of Honorius. Epithalamium of Honorius and Maria. Panegyrics on the Third and Fourth Consulships of Honorius. Panegyric on the Consulship of Manlius. On Stilicho's Consulship 1",
+      "status": "placeholder",
+      "partTitle": "Panegyric on the Consulship of Manlius",
+      "reason": "No Scaife original-and-English work pair could be matched for Panegyric on the Consulship of Manlius."
+    },
+    {
+      "loebNumber": 135,
+      "slug": "claudian-panegyric-on-probinus-and-olybrius-against-rufinus-1-and-2-war-against-gildo-ag-1bobyt",
+      "title": "Panegyric on Probinus and Olybrius. Against Rufinus 1 and 2. War against Gildo. Against Eutropius 1 and 2. Fescennine Verses on the Marriage of Honorius. Epithalamium of Honorius and Maria. Panegyrics on the Third and Fourth Consulships of Honorius. Panegyric on the Consulship of Manlius. On Stilicho's Consulship 1",
+      "status": "placeholder",
+      "partTitle": "On Stilicho's Consulship 1",
+      "reason": "No Scaife original-and-English work pair could be matched for On Stilicho's Consulship 1."
+    },
+    {
+      "loebNumber": 136,
+      "slug": "claudian-on-stilicho-s-consulship-2-3-panegyric-on-the-sixth-consulship-of-honorius-the-7na9qj",
+      "title": "On Stilicho's Consulship 2-3. Panegyric on the Sixth Consulship of Honorius. The Gothic War. Shorter Poems. Rape of Proserpina",
+      "status": "placeholder",
+      "partTitle": "On Stilicho's Consulship 2-3",
+      "reason": "No Scaife original-and-English work pair could be matched for On Stilicho's Consulship 2-3."
+    },
+    {
+      "loebNumber": 136,
+      "slug": "claudian-on-stilicho-s-consulship-2-3-panegyric-on-the-sixth-consulship-of-honorius-the-7na9qj",
+      "title": "On Stilicho's Consulship 2-3. Panegyric on the Sixth Consulship of Honorius. The Gothic War. Shorter Poems. Rape of Proserpina",
+      "status": "placeholder",
+      "partTitle": "Panegyric on the Sixth Consulship of Honorius",
+      "reason": "No Scaife original-and-English work pair could be matched for Panegyric on the Sixth Consulship of Honorius."
+    },
+    {
+      "loebNumber": 136,
+      "slug": "claudian-on-stilicho-s-consulship-2-3-panegyric-on-the-sixth-consulship-of-honorius-the-7na9qj",
+      "title": "On Stilicho's Consulship 2-3. Panegyric on the Sixth Consulship of Honorius. The Gothic War. Shorter Poems. Rape of Proserpina",
+      "status": "placeholder",
+      "partTitle": "The Gothic War",
+      "reason": "No Scaife original-and-English work pair could be matched for The Gothic War."
+    },
+    {
+      "loebNumber": 136,
+      "slug": "claudian-on-stilicho-s-consulship-2-3-panegyric-on-the-sixth-consulship-of-honorius-the-7na9qj",
+      "title": "On Stilicho's Consulship 2-3. Panegyric on the Sixth Consulship of Honorius. The Gothic War. Shorter Poems. Rape of Proserpina",
+      "status": "placeholder",
+      "partTitle": "Shorter Poems",
+      "reason": "No Scaife original-and-English work pair could be matched for Shorter Poems."
+    },
+    {
+      "loebNumber": 136,
+      "slug": "claudian-on-stilicho-s-consulship-2-3-panegyric-on-the-sixth-consulship-of-honorius-the-7na9qj",
+      "title": "On Stilicho's Consulship 2-3. Panegyric on the Sixth Consulship of Honorius. The Gothic War. Shorter Poems. Rape of Proserpina",
+      "status": "placeholder",
+      "partTitle": "Rape of Proserpina",
+      "reason": "No Scaife original-and-English work pair could be matched for Rape of Proserpina."
+    },
+    {
+      "loebNumber": 139,
+      "slug": "historia-augusta-volume-i-7ltbwy",
+      "title": "Volume I",
+      "status": "placeholder",
+      "partTitle": "Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Volume I."
+    },
+    {
+      "loebNumber": 140,
+      "slug": "historia-augusta-volume-ii-mox3hz",
+      "title": "Volume II",
+      "status": "placeholder",
+      "partTitle": "Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Volume II."
+    },
+    {
+      "loebNumber": 141,
+      "slug": "cicero-tusculan-disputations-po3rip",
+      "title": "Tusculan Disputations",
+      "status": "placeholder",
+      "partTitle": "Tusculan Disputations",
+      "reason": "No Scaife original-and-English work pair could be matched for Tusculan Disputations."
+    },
+    {
+      "loebNumber": 142,
+      "slug": "sappho-alcaeus-greek-lyric-volume-i-sappho-and-alcaeus-s8kb99",
+      "title": "Alcaeus, Greek Lyric, Volume I: Sappho and Alcaeus",
+      "status": "placeholder",
+      "partTitle": "Alcaeus, Greek Lyric: Sappho and Alcaeus",
+      "reason": "No Scaife original-and-English work pair could be matched for Alcaeus, Greek Lyric: Sappho and Alcaeus."
+    },
+    {
+      "loebNumber": 143,
+      "slug": "anacreon-greek-lyric-volume-ii-anacreon-anacreontea-choral-lyric-from-olympus-to-alcman-1y9h1b",
+      "title": "Greek Lyric, Volume II: Anacreon, Anacreontea, Choral Lyric from Olympus to Alcman",
+      "status": "placeholder",
+      "partTitle": "Greek Lyric: Anacreon, Anacreontea, Choral Lyric from Olympus to Alcman",
+      "reason": "No Scaife original-and-English work pair could be matched for Greek Lyric: Anacreon, Anacreontea, Choral Lyric from Olympus to Alcman."
+    },
+    {
+      "loebNumber": 144,
+      "slug": "greek-lyric-volume-v-the-new-school-of-poetry-and-anonymous-songs-and-hymns-pfx63o",
+      "title": "Volume V: The New School of Poetry and Anonymous Songs and Hymns",
+      "status": "placeholder",
+      "partTitle": "The New School of Poetry and Anonymous Songs and Hymns",
+      "reason": "No Scaife original-and-English work pair could be matched for The New School of Poetry and Anonymous Songs and Hymns."
+    },
+    {
+      "loebNumber": 145,
+      "slug": "aeschylus-persians-seven-against-thebes-suppliants-prometheus-bound-ol57q",
+      "title": "Persians. Seven against Thebes. Suppliants. Prometheus Bound",
+      "status": "placeholder",
+      "partTitle": "Suppliants",
+      "reason": "The original and English Scaife TOCs could not be aligned."
+    },
+    {
+      "loebNumber": 148,
+      "slug": "hippocrates-prognostic-regimen-in-acute-diseases-the-sacred-disease-the-art-breaths-law-iz8fbw",
+      "title": "Prognostic. Regimen in Acute Diseases. The Sacred Disease. The Art. Breaths. Law. Decorum. Dentition",
+      "status": "placeholder",
+      "partTitle": "Regimen in Acute Diseases",
+      "reason": "The original and English Scaife TOCs could not be aligned."
+    },
+    {
+      "loebNumber": 148,
+      "slug": "hippocrates-prognostic-regimen-in-acute-diseases-the-sacred-disease-the-art-breaths-law-iz8fbw",
+      "title": "Prognostic. Regimen in Acute Diseases. The Sacred Disease. The Art. Breaths. Law. Decorum. Dentition",
+      "status": "placeholder",
+      "partTitle": "Breaths",
+      "reason": "No Scaife original-and-English work pair could be matched for Breaths."
+    },
+    {
+      "loebNumber": 148,
+      "slug": "hippocrates-prognostic-regimen-in-acute-diseases-the-sacred-disease-the-art-breaths-law-iz8fbw",
+      "title": "Prognostic. Regimen in Acute Diseases. The Sacred Disease. The Art. Breaths. Law. Decorum. Dentition",
+      "status": "placeholder",
+      "partTitle": "Decorum",
+      "reason": "No Scaife original-and-English work pair could be matched for Decorum."
+    },
+    {
+      "loebNumber": 148,
+      "slug": "hippocrates-prognostic-regimen-in-acute-diseases-the-sacred-disease-the-art-breaths-law-iz8fbw",
+      "title": "Prognostic. Regimen in Acute Diseases. The Sacred Disease. The Art. Breaths. Law. Decorum. Dentition",
+      "status": "placeholder",
+      "partTitle": "Dentition",
+      "reason": "No Scaife original-and-English work pair could be matched for Dentition."
+    },
+    {
+      "loebNumber": 149,
+      "slug": "hippocrates-wounds-in-the-head-in-the-surgery-fractures-joints-instruments-of-reduction-1xngj8",
+      "title": "Wounds in the Head. In the Surgery. Fractures. Joints. Instruments of Reduction",
+      "status": "placeholder",
+      "partTitle": "Fractures",
+      "reason": "The original and English Scaife TOCs could not be aligned."
+    },
+    {
+      "loebNumber": 150,
+      "slug": "hippocrates-heracleitus-nature-of-man-regimen-in-health-humours-aphorisms-regimen-1-3-dr-ldc88k",
+      "title": "Heracleitus, Nature of Man. Regimen in Health. Humours. Aphorisms. Regimen 1-3. Dreams. Heracleitus: On the Universe",
+      "status": "placeholder",
+      "partTitle": "Heracleitus, Nature of Man",
+      "reason": "No Scaife original-and-English work pair could be matched for Heracleitus, Nature of Man."
+    },
+    {
+      "loebNumber": 150,
+      "slug": "hippocrates-heracleitus-nature-of-man-regimen-in-health-humours-aphorisms-regimen-1-3-dr-ldc88k",
+      "title": "Heracleitus, Nature of Man. Regimen in Health. Humours. Aphorisms. Regimen 1-3. Dreams. Heracleitus: On the Universe",
+      "status": "placeholder",
+      "partTitle": "Regimen in Health",
+      "reason": "The original and English Scaife TOCs could not be aligned."
+    },
+    {
+      "loebNumber": 150,
+      "slug": "hippocrates-heracleitus-nature-of-man-regimen-in-health-humours-aphorisms-regimen-1-3-dr-ldc88k",
+      "title": "Heracleitus, Nature of Man. Regimen in Health. Humours. Aphorisms. Regimen 1-3. Dreams. Heracleitus: On the Universe",
+      "status": "placeholder",
+      "partTitle": "Humours",
+      "reason": "No Scaife original-and-English work pair could be matched for Humours."
+    },
+    {
+      "loebNumber": 150,
+      "slug": "hippocrates-heracleitus-nature-of-man-regimen-in-health-humours-aphorisms-regimen-1-3-dr-ldc88k",
+      "title": "Heracleitus, Nature of Man. Regimen in Health. Humours. Aphorisms. Regimen 1-3. Dreams. Heracleitus: On the Universe",
+      "status": "placeholder",
+      "partTitle": "Regimen 1-3",
+      "reason": "The original and English Scaife TOCs could not be aligned."
+    },
+    {
+      "loebNumber": 150,
+      "slug": "hippocrates-heracleitus-nature-of-man-regimen-in-health-humours-aphorisms-regimen-1-3-dr-ldc88k",
+      "title": "Heracleitus, Nature of Man. Regimen in Health. Humours. Aphorisms. Regimen 1-3. Dreams. Heracleitus: On the Universe",
+      "status": "placeholder",
+      "partTitle": "Dreams",
+      "reason": "No Scaife original-and-English work pair could be matched for Dreams."
+    },
+    {
+      "loebNumber": 150,
+      "slug": "hippocrates-heracleitus-nature-of-man-regimen-in-health-humours-aphorisms-regimen-1-3-dr-ldc88k",
+      "title": "Heracleitus, Nature of Man. Regimen in Health. Humours. Aphorisms. Regimen 1-3. Dreams. Heracleitus: On the Universe",
+      "status": "placeholder",
+      "partTitle": "Heracleitus: On the Universe",
+      "reason": "No Scaife original-and-English work pair could be matched for Heracleitus: On the Universe."
+    },
+    {
+      "loebNumber": 151,
+      "slug": "ovid-tristia-ex-ponto-1lhq18",
+      "title": "Tristia. Ex Ponto",
+      "status": "placeholder",
+      "partTitle": "Tristia",
+      "reason": "No Scaife original-and-English work pair could be matched for Tristia."
+    },
+    {
+      "loebNumber": 151,
+      "slug": "ovid-tristia-ex-ponto-1lhq18",
+      "title": "Tristia. Ex Ponto",
+      "status": "placeholder",
+      "partTitle": "Ex Ponto",
+      "reason": "No Scaife original-and-English work pair could be matched for Ex Ponto."
+    },
+    {
+      "loebNumber": 152,
+      "slug": "velleius-paterculus-velleius-paterculus-19tat0",
+      "title": "Velleius Paterculus",
+      "status": "placeholder",
+      "partTitle": "Velleius Paterculus",
+      "reason": "No Scaife original-and-English work pair could be matched for Velleius Paterculus."
+    },
+    {
+      "loebNumber": 154,
+      "slug": "cicero-on-old-age-on-friendship-on-divination-1732hk",
+      "title": "On Old Age. On Friendship. On Divination",
+      "status": "placeholder",
+      "partTitle": "On Old Age",
+      "reason": "No Scaife original-and-English work pair could be matched for On Old Age."
+    },
+    {
+      "loebNumber": 156,
+      "slug": "aeneas-tacticus-asclepiodotus-onasander-aeneas-tacticus-asclepiodotus-and-onasander-192zdu",
+      "title": "Asclepiodotus, Onasander, Aeneas Tacticus, Asclepiodotus, and Onasander",
+      "status": "placeholder",
+      "partTitle": "Asclepiodotus, Onasander, Aeneas Tacticus, Asclepiodotus, and Onasander",
+      "reason": "No Scaife original-and-English work pair could be matched for Asclepiodotus, Onasander, Aeneas Tacticus, Asclepiodotus, and Onasander."
+    },
+    {
+      "loebNumber": 157,
+      "slug": "julian-volume-iii-1lffwc",
+      "title": "Volume III",
+      "status": "placeholder",
+      "partTitle": "Volume III",
+      "reason": "No Scaife original-and-English work pair could be matched for Volume III."
+    },
+    {
+      "loebNumber": 158,
+      "slug": "cicero-pro-archia-post-reditum-in-senatu-post-reditum-ad-quirites-de-domo-sua-de-haruspi-11gqdp",
+      "title": "Pro Archia. Post Reditum in Senatu. Post Reditum ad Quirites. De Domo Sua. De Haruspicum Responsis. Pro Plancio",
+      "status": "placeholder",
+      "partTitle": "De Domo Sua",
+      "reason": "No Scaife original-and-English work pair could be matched for De Domo Sua."
+    },
+    {
+      "loebNumber": 158,
+      "slug": "cicero-pro-archia-post-reditum-in-senatu-post-reditum-ad-quirites-de-domo-sua-de-haruspi-11gqdp",
+      "title": "Pro Archia. Post Reditum in Senatu. Post Reditum ad Quirites. De Domo Sua. De Haruspicum Responsis. Pro Plancio",
+      "status": "placeholder",
+      "partTitle": "De Haruspicum Responsis",
+      "reason": "No Scaife original-and-English work pair could be matched for De Haruspicum Responsis."
+    },
+    {
+      "loebNumber": 174,
+      "slug": "frontinus-stratagems-aqueducts-of-rome-1oxqwy",
+      "title": "Stratagems. Aqueducts of Rome",
+      "status": "placeholder",
+      "partTitle": "Stratagems",
+      "reason": "No Scaife original-and-English work pair could be matched for Stratagems."
+    },
+    {
+      "loebNumber": 174,
+      "slug": "frontinus-stratagems-aqueducts-of-rome-1oxqwy",
+      "title": "Stratagems. Aqueducts of Rome",
+      "status": "placeholder",
+      "partTitle": "Aqueducts of Rome",
+      "reason": "No Scaife original-and-English work pair could be matched for Aqueducts of Rome."
+    },
+    {
+      "loebNumber": 175,
+      "slug": "dio-cassius-roman-history-volume-vii-17bahy",
+      "title": "Roman History, Volume VII",
+      "status": "placeholder",
+      "partTitle": "Roman History, Volume VII",
+      "reason": "No Scaife original-and-English work pair could be matched for Roman History, Volume VII."
+    },
+    {
+      "loebNumber": 176,
+      "slug": "dio-cassius-roman-history-volume-viii-1s60ha",
+      "title": "Roman History, Volume VIII",
+      "status": "placeholder",
+      "partTitle": "Roman History, Volume VIII",
+      "reason": "No Scaife original-and-English work pair could be matched for Roman History, Volume VIII."
+    },
+    {
+      "loebNumber": 177,
+      "slug": "dio-cassius-roman-history-volume-ix-v6mxmf",
+      "title": "Roman History, Volume IX",
+      "status": "placeholder",
+      "partTitle": "Roman History, Volume IX",
+      "reason": "No Scaife original-and-English work pair could be matched for Roman History, Volume IX."
+    },
+    {
+      "loebNumber": 178,
+      "slug": "aristophanes-acharnians-knights-10l8u8",
+      "title": "Acharnians. Knights",
+      "status": "placeholder",
+      "partTitle": "Acharnians",
+      "reason": "No Scaife original-and-English work pair could be matched for Acharnians."
+    },
+    {
+      "loebNumber": 178,
+      "slug": "aristophanes-acharnians-knights-10l8u8",
+      "title": "Acharnians. Knights",
+      "status": "placeholder",
+      "partTitle": "Knights",
+      "reason": "No Scaife original-and-English work pair could be matched for Knights."
+    },
+    {
+      "loebNumber": 179,
+      "slug": "aristophanes-birds-lysistrata-women-at-the-thesmophoria-w0sjv4",
+      "title": "Birds. Lysistrata. Women at the Thesmophoria",
+      "status": "placeholder",
+      "partTitle": "Lysistrata",
+      "reason": "No Scaife original-and-English work pair could be matched for Lysistrata."
+    },
+    {
+      "loebNumber": 179,
+      "slug": "aristophanes-birds-lysistrata-women-at-the-thesmophoria-w0sjv4",
+      "title": "Birds. Lysistrata. Women at the Thesmophoria",
+      "status": "placeholder",
+      "partTitle": "Women at the Thesmophoria",
+      "reason": "No Scaife original-and-English work pair could be matched for Women at the Thesmophoria."
+    },
+    {
+      "loebNumber": 180,
+      "slug": "aristophanes-frogs-assemblywomen-wealth-inh52r",
+      "title": "Frogs. Assemblywomen. Wealth",
+      "status": "placeholder",
+      "partTitle": "Frogs",
+      "reason": "No Scaife original-and-English work pair could be matched for Frogs."
+    },
+    {
+      "loebNumber": 180,
+      "slug": "aristophanes-frogs-assemblywomen-wealth-inh52r",
+      "title": "Frogs. Assemblywomen. Wealth",
+      "status": "placeholder",
+      "partTitle": "Assemblywomen",
+      "reason": "No Scaife original-and-English work pair could be matched for Assemblywomen."
+    },
+    {
+      "loebNumber": 180,
+      "slug": "aristophanes-frogs-assemblywomen-wealth-inh52r",
+      "title": "Frogs. Assemblywomen. Wealth",
+      "status": "placeholder",
+      "partTitle": "Wealth",
+      "reason": "No Scaife original-and-English work pair could be matched for Wealth."
+    },
+    {
+      "loebNumber": 181,
+      "slug": "lucretius-on-the-nature-of-things-1ikwht",
+      "title": "On the Nature of Things",
+      "status": "placeholder",
+      "partTitle": "On the Nature of Things",
+      "reason": "No Scaife original-and-English work pair could be matched for On the Nature of Things."
+    },
+    {
+      "loebNumber": 194,
+      "slug": "horace-satires-epistles-the-art-of-poetry-1s6kk9",
+      "title": "Satires. Epistles. The Art of Poetry",
+      "status": "placeholder",
+      "partTitle": "Epistles",
+      "reason": "No Scaife original-and-English work pair could be matched for Epistles."
+    },
+    {
+      "loebNumber": 194,
+      "slug": "horace-satires-epistles-the-art-of-poetry-1s6kk9",
+      "title": "Satires. Epistles. The Art of Poetry",
+      "status": "placeholder",
+      "partTitle": "The Art of Poetry",
+      "reason": "The original and English Scaife TOCs could not be aligned."
+    },
+    {
+      "loebNumber": 199,
+      "slug": "aristotle-longinus-demetrius-poetics-longinus-on-the-sublime-demetrius-on-style-glxb1v",
+      "title": "Longinus, Demetrius, Poetics. Longinus: On the Sublime. Demetrius: On Style",
+      "status": "placeholder",
+      "partTitle": "Longinus: On the Sublime",
+      "reason": "No Scaife original-and-English work pair could be matched for Longinus: On the Sublime."
+    },
+    {
+      "loebNumber": 199,
+      "slug": "aristotle-longinus-demetrius-poetics-longinus-on-the-sublime-demetrius-on-style-glxb1v",
+      "title": "Longinus, Demetrius, Poetics. Longinus: On the Sublime. Demetrius: On Style",
+      "status": "placeholder",
+      "partTitle": "Demetrius: On Style",
+      "reason": "No Scaife original-and-English work pair could be matched for Demetrius: On Style."
+    },
+    {
+      "loebNumber": 202,
+      "slug": "isaeus-isaeus-v7th1o",
+      "title": "Isaeus",
+      "status": "placeholder",
+      "partTitle": "Isaeus",
+      "reason": "No Scaife original-and-English work pair could be matched for Isaeus."
+    },
+    {
+      "loebNumber": 206,
+      "slug": "statius-silvae-1dxrtn",
+      "title": "Silvae",
+      "status": "placeholder",
+      "partTitle": "Silvae",
+      "reason": "No Scaife original-and-English work pair could be matched for Silvae."
+    },
+    {
+      "loebNumber": 207,
+      "slug": "statius-thebaid-volume-i-thebaid-1apk1v",
+      "title": "Thebaid, Volume I: Thebaid",
+      "status": "placeholder",
+      "partTitle": "Thebaid: Thebaid",
+      "reason": "No Scaife original-and-English work pair could be matched for Thebaid: Thebaid."
+    },
+    {
+      "loebNumber": 213,
+      "slug": "cicero-on-the-republic-on-the-laws-tdk6n0",
+      "title": "On the Republic. On the Laws",
+      "status": "placeholder",
+      "partTitle": "On the Republic",
+      "reason": "No Scaife original-and-English work pair could be matched for On the Republic."
+    },
+    {
+      "loebNumber": 214,
+      "slug": "seneca-moral-essays-volume-i-18t9es",
+      "title": "Moral Essays, Volume I",
+      "status": "placeholder",
+      "partTitle": "Moral Essays, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Moral Essays, Volume I."
+    },
+    {
+      "loebNumber": 215,
+      "slug": "basil-letters-volume-ii-letters-59-185-1x0lah",
+      "title": "Letters, Volume II: Letters 59-185",
+      "status": "placeholder",
+      "partTitle": "Letters: Letters 59-185",
+      "reason": "No Scaife TOC items were selected for this text."
+    },
+    {
+      "loebNumber": 218,
+      "slug": "epictetus-discourses-books-3-4-fragments-the-encheiridion-1htk8c",
+      "title": "Discourses, Books 3-4. Fragments. The Encheiridion",
+      "status": "placeholder",
+      "partTitle": "Fragments",
+      "reason": "No Scaife original-and-English work pair could be matched for Fragments."
+    },
+    {
+      "loebNumber": 219,
+      "slug": "oppian-colluthus-tryphiodorus-oppian-colluthus-and-tryphiodorus-qhyd2t",
+      "title": "Colluthus, Tryphiodorus, Oppian, Colluthus, and Tryphiodorus",
+      "status": "placeholder",
+      "partTitle": "Colluthus, Tryphiodorus, Oppian, Colluthus, and Tryphiodorus",
+      "reason": "No Scaife original-and-English work pair could be matched for Colluthus, Tryphiodorus, Oppian, Colluthus, and Tryphiodorus."
+    },
+    {
+      "loebNumber": 220,
+      "slug": "lucan-the-civil-war-pharsalia-67ku1h",
+      "title": "The Civil War (Pharsalia)",
+      "status": "placeholder",
+      "partTitle": "The Civil War (Pharsalia)",
+      "reason": "No Scaife original-and-English work pair could be matched for The Civil War (Pharsalia)."
+    },
+    {
+      "loebNumber": 225,
+      "slug": "theophrastus-herodas-sophron-characters-herodas-mimes-sophron-and-other-mime-fragments-1lhcya",
+      "title": "Herodas, Sophron, Characters. Herodas: Mimes. Sophron and Other Mime Fragments",
+      "status": "placeholder",
+      "partTitle": "Herodas, Sophron, Characters",
+      "reason": "No Scaife original-and-English work pair could be matched for Herodas, Sophron, Characters."
+    },
+    {
+      "loebNumber": 225,
+      "slug": "theophrastus-herodas-sophron-characters-herodas-mimes-sophron-and-other-mime-fragments-1lhcya",
+      "title": "Herodas, Sophron, Characters. Herodas: Mimes. Sophron and Other Mime Fragments",
+      "status": "placeholder",
+      "partTitle": "Herodas: Mimes",
+      "reason": "No Scaife original-and-English work pair could be matched for Herodas: Mimes."
+    },
+    {
+      "loebNumber": 225,
+      "slug": "theophrastus-herodas-sophron-characters-herodas-mimes-sophron-and-other-mime-fragments-1lhcya",
+      "title": "Herodas, Sophron, Characters. Herodas: Mimes. Sophron and Other Mime Fragments",
+      "status": "placeholder",
+      "partTitle": "Sophron and Other Mime Fragments",
+      "reason": "No Scaife original-and-English work pair could be matched for Sophron and Other Mime Fragments."
+    },
+    {
+      "loebNumber": 228,
+      "slug": "aristotle-physics-volume-i-m8myb7",
+      "title": "Physics, Volume I",
+      "status": "placeholder",
+      "partTitle": "Physics, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Physics, Volume I."
+    },
+    {
+      "loebNumber": 231,
+      "slug": "florus-epitome-of-roman-history-9lfmcy",
+      "title": "Epitome of Roman History",
+      "status": "placeholder",
+      "partTitle": "Epitome of Roman History",
+      "reason": "No Scaife original-and-English work pair could be matched for Epitome of Roman History."
+    },
+    {
+      "loebNumber": 232,
+      "slug": "ovid-art-of-love-cosmetics-remedies-for-love-ibis-walnut-tree-sea-fishing-consolation-d7csbc",
+      "title": "Art of Love. Cosmetics. Remedies for Love. Ibis. Walnut-tree. Sea Fishing. Consolation",
+      "status": "placeholder",
+      "partTitle": "Cosmetics",
+      "reason": "The original and English Scaife TOCs could not be aligned."
+    },
+    {
+      "loebNumber": 232,
+      "slug": "ovid-art-of-love-cosmetics-remedies-for-love-ibis-walnut-tree-sea-fishing-consolation-d7csbc",
+      "title": "Art of Love. Cosmetics. Remedies for Love. Ibis. Walnut-tree. Sea Fishing. Consolation",
+      "status": "placeholder",
+      "partTitle": "Remedies for Love",
+      "reason": "The original and English Scaife TOCs could not be aligned."
+    },
+    {
+      "loebNumber": 232,
+      "slug": "ovid-art-of-love-cosmetics-remedies-for-love-ibis-walnut-tree-sea-fishing-consolation-d7csbc",
+      "title": "Art of Love. Cosmetics. Remedies for Love. Ibis. Walnut-tree. Sea Fishing. Consolation",
+      "status": "placeholder",
+      "partTitle": "Ibis",
+      "reason": "No Scaife original-and-English work pair could be matched for Ibis."
+    },
+    {
+      "loebNumber": 232,
+      "slug": "ovid-art-of-love-cosmetics-remedies-for-love-ibis-walnut-tree-sea-fishing-consolation-d7csbc",
+      "title": "Art of Love. Cosmetics. Remedies for Love. Ibis. Walnut-tree. Sea Fishing. Consolation",
+      "status": "placeholder",
+      "partTitle": "Walnut-tree",
+      "reason": "No Scaife original-and-English work pair could be matched for Walnut-tree."
+    },
+    {
+      "loebNumber": 232,
+      "slug": "ovid-art-of-love-cosmetics-remedies-for-love-ibis-walnut-tree-sea-fishing-consolation-d7csbc",
+      "title": "Art of Love. Cosmetics. Remedies for Love. Ibis. Walnut-tree. Sea Fishing. Consolation",
+      "status": "placeholder",
+      "partTitle": "Sea Fishing",
+      "reason": "No Scaife original-and-English work pair could be matched for Sea Fishing."
+    },
+    {
+      "loebNumber": 232,
+      "slug": "ovid-art-of-love-cosmetics-remedies-for-love-ibis-walnut-tree-sea-fishing-consolation-d7csbc",
+      "title": "Art of Love. Cosmetics. Remedies for Love. Ibis. Walnut-tree. Sea Fishing. Consolation",
+      "status": "placeholder",
+      "partTitle": "Consolation",
+      "reason": "No Scaife original-and-English work pair could be matched for Consolation."
+    },
+    {
+      "loebNumber": 236,
+      "slug": "arrian-anabasis-of-alexander-volume-i-6uw21t",
+      "title": "Anabasis of Alexander, Volume I",
+      "status": "placeholder",
+      "partTitle": "Anabasis of Alexander, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Anabasis of Alexander, Volume I."
+    },
+    {
+      "loebNumber": 239,
+      "slug": "augustine-select-letters-1dc1yk",
+      "title": "Select Letters",
+      "status": "placeholder",
+      "partTitle": "Select Letters",
+      "reason": "No Scaife original-and-English work pair could be matched for Select Letters."
+    },
+    {
+      "loebNumber": 243,
+      "slug": "basil-letters-volume-iii-letters-186-248-15ed1b",
+      "title": "Letters, Volume III: Letters 186-248",
+      "status": "placeholder",
+      "partTitle": "Letters: Letters 186-248",
+      "reason": "No Scaife TOC items were selected for this text."
+    },
+    {
+      "loebNumber": 244,
+      "slug": "lysias-lysias-y4hdcu",
+      "title": "Lysias",
+      "status": "placeholder",
+      "partTitle": "Lysias",
+      "reason": "No Scaife original-and-English work pair could be matched for Lysias."
+    },
+    {
+      "loebNumber": 246,
+      "slug": "bede-ecclesiastical-history-volume-i-prhg46",
+      "title": "Ecclesiastical History, Volume I",
+      "status": "placeholder",
+      "partTitle": "Ecclesiastical History, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Ecclesiastical History, Volume I."
+    },
+    {
+      "loebNumber": 248,
+      "slug": "bede-ecclesiastical-history-volume-ii-hbs9wz",
+      "title": "Ecclesiastical History, Volume II",
+      "status": "placeholder",
+      "partTitle": "Ecclesiastical History, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Ecclesiastical History, Volume II."
+    },
+    {
+      "loebNumber": 250,
+      "slug": "tertullian-minucius-felix-apology-de-spectaculis-minucius-felix-octavius-iagwc2",
+      "title": "Minucius Felix, Apology. De Spectaculis. Minucius Felix: Octavius",
+      "status": "placeholder",
+      "partTitle": "Minucius Felix, Apology",
+      "reason": "No Scaife original-and-English work pair could be matched for Minucius Felix, Apology."
+    },
+    {
+      "loebNumber": 250,
+      "slug": "tertullian-minucius-felix-apology-de-spectaculis-minucius-felix-octavius-iagwc2",
+      "title": "Minucius Felix, Apology. De Spectaculis. Minucius Felix: Octavius",
+      "status": "placeholder",
+      "partTitle": "De Spectaculis",
+      "reason": "No Scaife original-and-English work pair could be matched for De Spectaculis."
+    },
+    {
+      "loebNumber": 250,
+      "slug": "tertullian-minucius-felix-apology-de-spectaculis-minucius-felix-octavius-iagwc2",
+      "title": "Minucius Felix, Apology. De Spectaculis. Minucius Felix: Octavius",
+      "status": "placeholder",
+      "partTitle": "Minucius Felix: Octavius",
+      "reason": "No Scaife original-and-English work pair could be matched for Minucius Felix: Octavius."
+    },
+    {
+      "loebNumber": 252,
+      "slug": "cicero-pro-milone-in-pisonem-pro-scauro-pro-fonteio-pro-rabirio-postumo-pro-marcello-pro-vvrzxs",
+      "title": "Pro Milone. In Pisonem. Pro Scauro. Pro Fonteio. Pro Rabirio Postumo. Pro Marcello. Pro Ligario. Pro Rege Deiotaro",
+      "status": "placeholder",
+      "partTitle": "In Pisonem",
+      "reason": "No Scaife original-and-English work pair could be matched for In Pisonem."
+    },
+    {
+      "loebNumber": 252,
+      "slug": "cicero-pro-milone-in-pisonem-pro-scauro-pro-fonteio-pro-rabirio-postumo-pro-marcello-pro-vvrzxs",
+      "title": "Pro Milone. In Pisonem. Pro Scauro. Pro Fonteio. Pro Rabirio Postumo. Pro Marcello. Pro Ligario. Pro Rege Deiotaro",
+      "status": "placeholder",
+      "partTitle": "Pro Rabirio Postumo",
+      "reason": "No Scaife original-and-English work pair could be matched for Pro Rabirio Postumo."
+    },
+    {
+      "loebNumber": 252,
+      "slug": "cicero-pro-milone-in-pisonem-pro-scauro-pro-fonteio-pro-rabirio-postumo-pro-marcello-pro-vvrzxs",
+      "title": "Pro Milone. In Pisonem. Pro Scauro. Pro Fonteio. Pro Rabirio Postumo. Pro Marcello. Pro Ligario. Pro Rege Deiotaro",
+      "status": "placeholder",
+      "partTitle": "Pro Marcello",
+      "reason": "No Scaife original-and-English work pair could be matched for Pro Marcello."
+    },
+    {
+      "loebNumber": 252,
+      "slug": "cicero-pro-milone-in-pisonem-pro-scauro-pro-fonteio-pro-rabirio-postumo-pro-marcello-pro-vvrzxs",
+      "title": "Pro Milone. In Pisonem. Pro Scauro. Pro Fonteio. Pro Rabirio Postumo. Pro Marcello. Pro Ligario. Pro Rege Deiotaro",
+      "status": "placeholder",
+      "partTitle": "Pro Ligario",
+      "reason": "No Scaife original-and-English work pair could be matched for Pro Ligario."
+    },
+    {
+      "loebNumber": 252,
+      "slug": "cicero-pro-milone-in-pisonem-pro-scauro-pro-fonteio-pro-rabirio-postumo-pro-marcello-pro-vvrzxs",
+      "title": "Pro Milone. In Pisonem. Pro Scauro. Pro Fonteio. Pro Rabirio Postumo. Pro Marcello. Pro Ligario. Pro Rege Deiotaro",
+      "status": "placeholder",
+      "partTitle": "Pro Rege Deiotaro",
+      "reason": "No Scaife original-and-English work pair could be matched for Pro Rege Deiotaro."
+    },
+    {
+      "loebNumber": 253,
+      "slug": "ovid-fasti-ihvu1j",
+      "title": "Fasti",
+      "status": "placeholder",
+      "partTitle": "Fasti",
+      "reason": "No Scaife original-and-English work pair could be matched for Fasti."
+    },
+    {
+      "loebNumber": 254,
+      "slug": "seneca-moral-essays-volume-ii-13lypb",
+      "title": "Moral Essays, Volume II",
+      "status": "placeholder",
+      "partTitle": "Moral Essays, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Moral Essays, Volume II."
+    },
+    {
+      "loebNumber": 255,
+      "slug": "aristotle-physics-volume-ii-1e5r1x",
+      "title": "Physics, Volume II",
+      "status": "placeholder",
+      "partTitle": "Physics, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Physics, Volume II."
+    },
+    {
+      "loebNumber": 256,
+      "slug": "philostratus-the-elder-philostratus-the-younger-callistratus-philostratus-the-elder-imag-ojaj05",
+      "title": "Philostratus the Younger, Callistratus, Philostratus the Elder, Imagines. Philostratus the Younger, Imagines. Callistratus, Descriptions",
+      "status": "placeholder",
+      "partTitle": "Philostratus the Younger, Callistratus, Philostratus the Elder, Imagines",
+      "reason": "No Scaife original-and-English work pair could be matched for Philostratus the Younger, Callistratus, Philostratus the Elder, Imagines."
+    },
+    {
+      "loebNumber": 256,
+      "slug": "philostratus-the-elder-philostratus-the-younger-callistratus-philostratus-the-elder-imag-ojaj05",
+      "title": "Philostratus the Younger, Callistratus, Philostratus the Elder, Imagines. Philostratus the Younger, Imagines. Callistratus, Descriptions",
+      "status": "placeholder",
+      "partTitle": "Philostratus the Younger, Imagines",
+      "reason": "No Scaife original-and-English work pair could be matched for Philostratus the Younger, Imagines."
+    },
+    {
+      "loebNumber": 256,
+      "slug": "philostratus-the-elder-philostratus-the-younger-callistratus-philostratus-the-elder-imag-ojaj05",
+      "title": "Philostratus the Younger, Callistratus, Philostratus the Elder, Imagines. Philostratus the Younger, Imagines. Callistratus, Descriptions",
+      "status": "placeholder",
+      "partTitle": "Callistratus, Descriptions",
+      "reason": "No Scaife original-and-English work pair could be matched for Callistratus, Descriptions."
+    },
+    {
+      "loebNumber": 257,
+      "slug": "dio-chrysostom-discourses-1-11-1vf5rv",
+      "title": "Discourses 1-11",
+      "status": "placeholder",
+      "partTitle": "Discourses 1-11",
+      "reason": "No Scaife original-and-English work pair could be matched for Discourses 1-11."
+    },
+    {
+      "loebNumber": 259,
+      "slug": "archilochus-semonides-hipponax-greek-iambic-poetry-11nrqu",
+      "title": "Semonides, Hipponax, Greek Iambic Poetry",
+      "status": "placeholder",
+      "partTitle": "Semonides, Hipponax, Greek Iambic Poetry",
+      "reason": "No Scaife original-and-English work pair could be matched for Semonides, Hipponax, Greek Iambic Poetry."
+    },
+    {
+      "loebNumber": 262,
+      "slug": "jerome-select-letters-4hvnbh",
+      "title": "Select Letters",
+      "status": "placeholder",
+      "partTitle": "Select Letters",
+      "reason": "No Scaife original-and-English work pair could be matched for Select Letters."
+    },
+    {
+      "loebNumber": 263,
+      "slug": "historia-augusta-volume-iii-1s6hir",
+      "title": "Volume III",
+      "status": "placeholder",
+      "partTitle": "Volume III",
+      "reason": "No Scaife original-and-English work pair could be matched for Volume III."
+    },
+    {
+      "loebNumber": 266,
+      "slug": "select-papyri-volume-i-private-documents-ubb289",
+      "title": "Volume I: Private Documents",
+      "status": "placeholder",
+      "partTitle": "Private Documents",
+      "reason": "No Scaife original-and-English work pair could be matched for Private Documents."
+    },
+    {
+      "loebNumber": 268,
+      "slug": "cicero-on-the-nature-of-the-gods-academics-1lv1gw",
+      "title": "On the Nature of the Gods. Academics",
+      "status": "placeholder",
+      "partTitle": "On the Nature of the Gods",
+      "reason": "No Scaife original-and-English work pair could be matched for On the Nature of the Gods."
+    },
+    {
+      "loebNumber": 268,
+      "slug": "cicero-on-the-nature-of-the-gods-academics-1lv1gw",
+      "title": "On the Nature of the Gods. Academics",
+      "status": "placeholder",
+      "partTitle": "Academics",
+      "reason": "No Scaife original-and-English work pair could be matched for Academics."
+    },
+    {
+      "loebNumber": 269,
+      "slug": "arrian-anabasis-of-alexander-volume-ii-1yjdnn",
+      "title": "Anabasis of Alexander, Volume II",
+      "status": "placeholder",
+      "partTitle": "Anabasis of Alexander, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Anabasis of Alexander, Volume II."
+    },
+    {
+      "loebNumber": 270,
+      "slug": "basil-letters-volume-iv-letters-249-368-on-greek-literature-11j6zo",
+      "title": "Letters, Volume IV: Letters 249-368. On Greek Literature",
+      "status": "placeholder",
+      "partTitle": "Letters 249-368",
+      "reason": "No Scaife original-and-English work pair could be matched for Letters 249-368."
+    },
+    {
+      "loebNumber": 270,
+      "slug": "basil-letters-volume-iv-letters-249-368-on-greek-literature-11j6zo",
+      "title": "Letters, Volume IV: Letters 249-368. On Greek Literature",
+      "status": "placeholder",
+      "partTitle": "On Greek Literature",
+      "reason": "No Scaife original-and-English work pair could be matched for On Greek Literature."
+    },
+    {
+      "loebNumber": 277,
+      "slug": "silius-italicus-punica-volume-i-kmhvja",
+      "title": "Punica, Volume I",
+      "status": "placeholder",
+      "partTitle": "Punica, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Punica, Volume I."
+    },
+    {
+      "loebNumber": 278,
+      "slug": "silius-italicus-punica-volume-ii-3dnvn",
+      "title": "Punica, Volume II",
+      "status": "placeholder",
+      "partTitle": "Punica, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Punica, Volume II."
+    },
+    {
+      "loebNumber": 279,
+      "slug": "diodorus-siculus-library-of-history-volume-i-4zfioo",
+      "title": "Library of History, Volume I",
+      "status": "placeholder",
+      "partTitle": "Library of History, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Library of History, Volume I."
+    },
+    {
+      "loebNumber": 282,
+      "slug": "select-papyri-volume-ii-public-documents-1ca0ta",
+      "title": "Volume II: Public Documents",
+      "status": "placeholder",
+      "partTitle": "Public Documents",
+      "reason": "No Scaife original-and-English work pair could be matched for Public Documents."
+    },
+    {
+      "loebNumber": 283,
+      "slug": "cato-varro-on-agriculture-1b92rx",
+      "title": "Varro, On Agriculture",
+      "status": "placeholder",
+      "partTitle": "Varro, On Agriculture",
+      "reason": "No Scaife original-and-English work pair could be matched for Varro, On Agriculture."
+    },
+    {
+      "loebNumber": 284,
+      "slug": "minor-latin-poets-volume-i-publilius-syrus-elegies-on-maecenas-grattius-calpurnius-sicul-1ick2q",
+      "title": "Volume I: Publilius Syrus. Elegies on Maecenas. Grattius. Calpurnius Siculus. Laus Pisonis. Einsiedeln Eclogues. Aetna",
+      "status": "placeholder",
+      "partTitle": "Publilius Syrus",
+      "reason": "No Scaife original-and-English work pair could be matched for Publilius Syrus."
+    },
+    {
+      "loebNumber": 284,
+      "slug": "minor-latin-poets-volume-i-publilius-syrus-elegies-on-maecenas-grattius-calpurnius-sicul-1ick2q",
+      "title": "Volume I: Publilius Syrus. Elegies on Maecenas. Grattius. Calpurnius Siculus. Laus Pisonis. Einsiedeln Eclogues. Aetna",
+      "status": "placeholder",
+      "partTitle": "Elegies on Maecenas",
+      "reason": "No Scaife original-and-English work pair could be matched for Elegies on Maecenas."
+    },
+    {
+      "loebNumber": 284,
+      "slug": "minor-latin-poets-volume-i-publilius-syrus-elegies-on-maecenas-grattius-calpurnius-sicul-1ick2q",
+      "title": "Volume I: Publilius Syrus. Elegies on Maecenas. Grattius. Calpurnius Siculus. Laus Pisonis. Einsiedeln Eclogues. Aetna",
+      "status": "placeholder",
+      "partTitle": "Grattius",
+      "reason": "No Scaife original-and-English work pair could be matched for Grattius."
+    },
+    {
+      "loebNumber": 284,
+      "slug": "minor-latin-poets-volume-i-publilius-syrus-elegies-on-maecenas-grattius-calpurnius-sicul-1ick2q",
+      "title": "Volume I: Publilius Syrus. Elegies on Maecenas. Grattius. Calpurnius Siculus. Laus Pisonis. Einsiedeln Eclogues. Aetna",
+      "status": "placeholder",
+      "partTitle": "Calpurnius Siculus",
+      "reason": "No Scaife original-and-English work pair could be matched for Calpurnius Siculus."
+    },
+    {
+      "loebNumber": 284,
+      "slug": "minor-latin-poets-volume-i-publilius-syrus-elegies-on-maecenas-grattius-calpurnius-sicul-1ick2q",
+      "title": "Volume I: Publilius Syrus. Elegies on Maecenas. Grattius. Calpurnius Siculus. Laus Pisonis. Einsiedeln Eclogues. Aetna",
+      "status": "placeholder",
+      "partTitle": "Laus Pisonis",
+      "reason": "No Scaife original-and-English work pair could be matched for Laus Pisonis."
+    },
+    {
+      "loebNumber": 284,
+      "slug": "minor-latin-poets-volume-i-publilius-syrus-elegies-on-maecenas-grattius-calpurnius-sicul-1ick2q",
+      "title": "Volume I: Publilius Syrus. Elegies on Maecenas. Grattius. Calpurnius Siculus. Laus Pisonis. Einsiedeln Eclogues. Aetna",
+      "status": "placeholder",
+      "partTitle": "Aetna",
+      "reason": "No Scaife original-and-English work pair could be matched for Aetna."
+    },
+    {
+      "loebNumber": 285,
+      "slug": "aristotle-athenian-constitution-eudemian-ethics-virtues-and-vices-1cl487",
+      "title": "Athenian Constitution. Eudemian Ethics. Virtues and Vices",
+      "status": "placeholder",
+      "partTitle": "Athenian Constitution",
+      "reason": "No Scaife original-and-English work pair could be matched for Athenian Constitution."
+    },
+    {
+      "loebNumber": 285,
+      "slug": "aristotle-athenian-constitution-eudemian-ethics-virtues-and-vices-1cl487",
+      "title": "Athenian Constitution. Eudemian Ethics. Virtues and Vices",
+      "status": "placeholder",
+      "partTitle": "Virtues and Vices",
+      "reason": "No Scaife original-and-English work pair could be matched for Virtues and Vices."
+    },
+    {
+      "loebNumber": 286,
+      "slug": "valerius-flaccus-argonautica-pkrws6",
+      "title": "Argonautica",
+      "status": "placeholder",
+      "partTitle": "Argonautica",
+      "reason": "No Scaife original-and-English work pair could be matched for Argonautica."
+    },
+    {
+      "loebNumber": 288,
+      "slug": "aristotle-on-the-soul-parva-naturalia-on-breath-6cp9ak",
+      "title": "On the Soul. Parva Naturalia. On Breath",
+      "status": "placeholder",
+      "partTitle": "On the Soul",
+      "reason": "No Scaife original-and-English work pair could be matched for On the Soul."
+    },
+    {
+      "loebNumber": 288,
+      "slug": "aristotle-on-the-soul-parva-naturalia-on-breath-6cp9ak",
+      "title": "On the Soul. Parva Naturalia. On Breath",
+      "status": "placeholder",
+      "partTitle": "Parva Naturalia",
+      "reason": "No Scaife original-and-English work pair could be matched for Parva Naturalia."
+    },
+    {
+      "loebNumber": 288,
+      "slug": "aristotle-on-the-soul-parva-naturalia-on-breath-6cp9ak",
+      "title": "On the Soul. Parva Naturalia. On Breath",
+      "status": "placeholder",
+      "partTitle": "On Breath",
+      "reason": "No Scaife original-and-English work pair could be matched for On Breath."
+    },
+    {
+      "loebNumber": 291,
+      "slug": "sextus-empiricus-against-logicians-1p7hzv",
+      "title": "Against Logicians",
+      "status": "placeholder",
+      "partTitle": "Against Logicians",
+      "reason": "No Scaife original-and-English work pair could be matched for Against Logicians."
+    },
+    {
+      "loebNumber": 296,
+      "slug": "sidonius-poems-letters-ltcpx9",
+      "title": "Poems. Letters",
+      "status": "placeholder",
+      "partTitle": "Poems",
+      "reason": "No Scaife original-and-English work pair could be matched for Poems."
+    },
+    {
+      "loebNumber": 303,
+      "slug": "diodorus-siculus-library-of-history-volume-ii-cg4zch",
+      "title": "Library of History, Volume II",
+      "status": "placeholder",
+      "partTitle": "Library of History, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Library of History, Volume II."
+    },
+    {
+      "loebNumber": 307,
+      "slug": "aristotle-minor-works-1sufio",
+      "title": "Minor Works",
+      "status": "placeholder",
+      "partTitle": "Minor Works",
+      "reason": "No Scaife original-and-English work pair could be matched for Minor Works."
+    },
+    {
+      "loebNumber": 308,
+      "slug": "minor-attic-orators-volume-i-antiphon-andocides-i1o74y",
+      "title": "Volume I: Antiphon. Andocides",
+      "status": "placeholder",
+      "partTitle": "Antiphon",
+      "reason": "No Scaife original-and-English work pair could be matched for Antiphon."
+    },
+    {
+      "loebNumber": 309,
+      "slug": "cicero-pro-sestio-in-vatinium-1ivld9",
+      "title": "Pro Sestio. In Vatinium",
+      "status": "placeholder",
+      "partTitle": "In Vatinium",
+      "reason": "No Scaife original-and-English work pair could be matched for In Vatinium."
+    },
+    {
+      "loebNumber": 310,
+      "slug": "seneca-moral-essays-volume-iii-kdyvpp",
+      "title": "Moral Essays, Volume III",
+      "status": "placeholder",
+      "partTitle": "Moral Essays, Volume III",
+      "reason": "No Scaife original-and-English work pair could be matched for Moral Essays, Volume III."
+    },
+    {
+      "loebNumber": 311,
+      "slug": "sextus-empiricus-against-physicists-against-ethicists-gclapa",
+      "title": "Against Physicists. Against Ethicists",
+      "status": "placeholder",
+      "partTitle": "Against Physicists",
+      "reason": "No Scaife original-and-English work pair could be matched for Against Physicists."
+    },
+    {
+      "loebNumber": 311,
+      "slug": "sextus-empiricus-against-physicists-against-ethicists-gclapa",
+      "title": "Against Physicists. Against Ethicists",
+      "status": "placeholder",
+      "partTitle": "Against Ethicists",
+      "reason": "No Scaife original-and-English work pair could be matched for Against Ethicists."
+    },
+    {
+      "loebNumber": 312,
+      "slug": "tacitus-annals-799fsq",
+      "title": "Annals",
+      "status": "placeholder",
+      "partTitle": "Annals",
+      "reason": "No Scaife original-and-English work pair could be matched for Annals."
+    },
+    {
+      "loebNumber": 314,
+      "slug": "livius-andronicus-naevius-caecilius-fragmentary-republican-latin-volume-vi-1xvml9",
+      "title": "Naevius, Caecilius, Fragmentary Republican Latin, Volume VI",
+      "status": "placeholder",
+      "partTitle": "Naevius, Caecilius, Fragmentary Republican Latin, Volume VI",
+      "reason": "No Scaife original-and-English work pair could be matched for Naevius, Caecilius, Fragmentary Republican Latin, Volume VI."
+    },
+    {
+      "loebNumber": 316,
+      "slug": "aristotle-problems-volume-i-l1mziu",
+      "title": "Problems, Volume I",
+      "status": "placeholder",
+      "partTitle": "Problems, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Problems, Volume I."
+    },
+    {
+      "loebNumber": 317,
+      "slug": "aristotle-problems-volume-ii-d4s3hv",
+      "title": "Problems, Volume II",
+      "status": "placeholder",
+      "partTitle": "Problems, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Problems, Volume II."
+    },
+    {
+      "loebNumber": 319,
+      "slug": "dionysius-of-halicarnassus-roman-antiquities-volume-i-7e00rt",
+      "title": "Roman Antiquities, Volume I",
+      "status": "placeholder",
+      "partTitle": "Roman Antiquities, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Roman Antiquities, Volume I."
+    },
+    {
+      "loebNumber": 322,
+      "slug": "tacitus-annals-799fsq-2",
+      "title": "Annals",
+      "status": "placeholder",
+      "partTitle": "Annals",
+      "reason": "No Scaife original-and-English work pair could be matched for Annals."
+    },
+    {
+      "loebNumber": 323,
+      "slug": "aristotle-parts-of-animals-movement-of-animals-progression-of-animals-dybyrd",
+      "title": "Parts of Animals. Movement of Animals. Progression of Animals",
+      "status": "placeholder",
+      "partTitle": "Parts of Animals",
+      "reason": "No Scaife original-and-English work pair could be matched for Parts of Animals."
+    },
+    {
+      "loebNumber": 323,
+      "slug": "aristotle-parts-of-animals-movement-of-animals-progression-of-animals-dybyrd",
+      "title": "Parts of Animals. Movement of Animals. Progression of Animals",
+      "status": "placeholder",
+      "partTitle": "Movement of Animals",
+      "reason": "No Scaife original-and-English work pair could be matched for Movement of Animals."
+    },
+    {
+      "loebNumber": 323,
+      "slug": "aristotle-parts-of-animals-movement-of-animals-progression-of-animals-dybyrd",
+      "title": "Parts of Animals. Movement of Animals. Progression of Animals",
+      "status": "placeholder",
+      "partTitle": "Progression of Animals",
+      "reason": "No Scaife original-and-English work pair could be matched for Progression of Animals."
+    },
+    {
+      "loebNumber": 325,
+      "slug": "aristotle-categories-on-interpretation-prior-analytics-1801w0",
+      "title": "Categories. On Interpretation. Prior Analytics",
+      "status": "placeholder",
+      "partTitle": "Categories",
+      "reason": "No Scaife original-and-English work pair could be matched for Categories."
+    },
+    {
+      "loebNumber": 325,
+      "slug": "aristotle-categories-on-interpretation-prior-analytics-1801w0",
+      "title": "Categories. On Interpretation. Prior Analytics",
+      "status": "placeholder",
+      "partTitle": "On Interpretation",
+      "reason": "No Scaife original-and-English work pair could be matched for On Interpretation."
+    },
+    {
+      "loebNumber": 325,
+      "slug": "aristotle-categories-on-interpretation-prior-analytics-1801w0",
+      "title": "Categories. On Interpretation. Prior Analytics",
+      "status": "placeholder",
+      "partTitle": "Prior Analytics",
+      "reason": "No Scaife original-and-English work pair could be matched for Prior Analytics."
+    },
+    {
+      "loebNumber": 328,
+      "slug": "plautus-stichus-trinummus-truculentus-tale-of-a-travelling-bag-fragments-bj13xq",
+      "title": "Stichus. Trinummus. Truculentus. Tale of a Travelling Bag. Fragments",
+      "status": "placeholder",
+      "partTitle": "Tale of a Travelling Bag",
+      "reason": "No Scaife original-and-English work pair could be matched for Tale of a Travelling Bag."
+    },
+    {
+      "loebNumber": 328,
+      "slug": "plautus-stichus-trinummus-truculentus-tale-of-a-travelling-bag-fragments-bj13xq",
+      "title": "Stichus. Trinummus. Truculentus. Tale of a Travelling Bag. Fragments",
+      "status": "placeholder",
+      "partTitle": "Fragments",
+      "reason": "No Scaife original-and-English work pair could be matched for Fragments."
+    },
+    {
+      "loebNumber": 329,
+      "slug": "lucilius-remains-of-old-latin-volume-iii-lucilius-the-twelve-tables-toun4b",
+      "title": "Remains of Old Latin, Volume III: Lucilius. The Twelve Tables",
+      "status": "placeholder",
+      "partTitle": "Lucilius",
+      "reason": "No Scaife original-and-English work pair could be matched for Lucilius."
+    },
+    {
+      "loebNumber": 329,
+      "slug": "lucilius-remains-of-old-latin-volume-iii-lucilius-the-twelve-tables-toun4b",
+      "title": "Remains of Old Latin, Volume III: Lucilius. The Twelve Tables",
+      "status": "placeholder",
+      "partTitle": "The Twelve Tables",
+      "reason": "No Scaife original-and-English work pair could be matched for The Twelve Tables."
+    },
+    {
+      "loebNumber": 330,
+      "slug": "pliny-natural-history-volume-i-books-1-2-1d5dsh",
+      "title": "Natural History, Volume I: Books 1-2",
+      "status": "placeholder",
+      "partTitle": "Natural History: Books 1-2",
+      "reason": "No Scaife TOC items were selected for this text."
+    },
+    {
+      "loebNumber": 333,
+      "slug": "varro-on-the-latin-language-volume-i-hy8vdv",
+      "title": "On the Latin Language, Volume I",
+      "status": "placeholder",
+      "partTitle": "On the Latin Language, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for On the Latin Language, Volume I."
+    },
+    {
+      "loebNumber": 334,
+      "slug": "varro-on-the-latin-language-volume-ii-1n9un5",
+      "title": "On the Latin Language, Volume II",
+      "status": "placeholder",
+      "partTitle": "On the Latin Language, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for On the Latin Language, Volume II."
+    },
+    {
+      "loebNumber": 335,
+      "slug": "greek-mathematical-works-volume-i-thales-to-euclid-1i03fa",
+      "title": "Volume I: Thales to Euclid",
+      "status": "placeholder",
+      "partTitle": "Thales to Euclid",
+      "reason": "No Scaife original-and-English work pair could be matched for Thales to Euclid."
+    },
+    {
+      "loebNumber": 338,
+      "slug": "aristotle-on-the-heavens-19vht6",
+      "title": "On the Heavens",
+      "status": "placeholder",
+      "partTitle": "On the Heavens",
+      "reason": "No Scaife original-and-English work pair could be matched for On the Heavens."
+    },
+    {
+      "loebNumber": 339,
+      "slug": "dio-chrysostom-discourses-12-30-u5siys",
+      "title": "Discourses 12-30",
+      "status": "placeholder",
+      "partTitle": "Discourses 12-30",
+      "reason": "No Scaife original-and-English work pair could be matched for Discourses 12-30."
+    },
+    {
+      "loebNumber": 340,
+      "slug": "diodorus-siculus-library-of-history-volume-iii-uqq5x4",
+      "title": "Library of History, Volume III",
+      "status": "placeholder",
+      "partTitle": "Library of History, Volume III",
+      "reason": "No Scaife original-and-English work pair could be matched for Library of History, Volume III."
+    },
+    {
+      "loebNumber": 342,
+      "slug": "cicero-brutus-orator-7zsu8h",
+      "title": "Brutus. Orator",
+      "status": "placeholder",
+      "partTitle": "Brutus",
+      "reason": "No Scaife original-and-English work pair could be matched for Brutus."
+    },
+    {
+      "loebNumber": 342,
+      "slug": "cicero-brutus-orator-7zsu8h",
+      "title": "Brutus. Orator",
+      "status": "placeholder",
+      "partTitle": "Orator",
+      "reason": "No Scaife original-and-English work pair could be matched for Orator."
+    },
+    {
+      "loebNumber": 343,
+      "slug": "procopius-on-buildings-general-index-9m67om",
+      "title": "On Buildings. General Index",
+      "status": "placeholder",
+      "partTitle": "On Buildings",
+      "reason": "No Scaife original-and-English work pair could be matched for On Buildings."
+    },
+    {
+      "loebNumber": 343,
+      "slug": "procopius-on-buildings-general-index-9m67om",
+      "title": "On Buildings. General Index",
+      "status": "placeholder",
+      "partTitle": "General Index",
+      "reason": "No Scaife original-and-English work pair could be matched for General Index."
+    },
+    {
+      "loebNumber": 344,
+      "slug": "nonnos-dionysiaca-volume-i-qp0xr8",
+      "title": "Dionysiaca, Volume I",
+      "status": "placeholder",
+      "partTitle": "Dionysiaca, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Dionysiaca, Volume I."
+    },
+    {
+      "loebNumber": 347,
+      "slug": "dionysius-of-halicarnassus-roman-antiquities-volume-ii-fyoi2o",
+      "title": "Roman Antiquities, Volume II",
+      "status": "placeholder",
+      "partTitle": "Roman Antiquities, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Roman Antiquities, Volume II."
+    },
+    {
+      "loebNumber": 348,
+      "slug": "cicero-on-the-orator-books-1-2-yf4jhm",
+      "title": "On the Orator: Books 1-2",
+      "status": "placeholder",
+      "partTitle": "On the Orator: Books 1-2",
+      "reason": "No Scaife original-and-English work pair could be matched for On the Orator: Books 1-2."
+    },
+    {
+      "loebNumber": 349,
+      "slug": "cicero-on-the-orator-book-3-on-fate-stoic-paradoxes-divisions-of-oratory-5uimyz",
+      "title": "On the Orator: Book 3. On Fate. Stoic Paradoxes. Divisions of Oratory",
+      "status": "placeholder",
+      "partTitle": "On the Orator: Book 3",
+      "reason": "No Scaife original-and-English work pair could be matched for On the Orator: Book 3."
+    },
+    {
+      "loebNumber": 349,
+      "slug": "cicero-on-the-orator-book-3-on-fate-stoic-paradoxes-divisions-of-oratory-5uimyz",
+      "title": "On the Orator: Book 3. On Fate. Stoic Paradoxes. Divisions of Oratory",
+      "status": "placeholder",
+      "partTitle": "On Fate",
+      "reason": "No Scaife original-and-English work pair could be matched for On Fate."
+    },
+    {
+      "loebNumber": 349,
+      "slug": "cicero-on-the-orator-book-3-on-fate-stoic-paradoxes-divisions-of-oratory-5uimyz",
+      "title": "On the Orator: Book 3. On Fate. Stoic Paradoxes. Divisions of Oratory",
+      "status": "placeholder",
+      "partTitle": "Stoic Paradoxes",
+      "reason": "No Scaife original-and-English work pair could be matched for Stoic Paradoxes."
+    },
+    {
+      "loebNumber": 349,
+      "slug": "cicero-on-the-orator-book-3-on-fate-stoic-paradoxes-divisions-of-oratory-5uimyz",
+      "title": "On the Orator: Book 3. On Fate. Stoic Paradoxes. Divisions of Oratory",
+      "status": "placeholder",
+      "partTitle": "Divisions of Oratory",
+      "reason": "No Scaife original-and-English work pair could be matched for Divisions of Oratory."
+    },
+    {
+      "loebNumber": 352,
+      "slug": "pliny-natural-history-volume-ii-books-3-7-ltatls",
+      "title": "Natural History, Volume II: Books 3-7",
+      "status": "placeholder",
+      "partTitle": "Natural History: Books 3-7",
+      "reason": "No Scaife TOC items were selected for this text."
+    },
+    {
+      "loebNumber": 353,
+      "slug": "pliny-natural-history-volume-iii-books-8-11-1ctpqx",
+      "title": "Natural History, Volume III: Books 8-11",
+      "status": "placeholder",
+      "partTitle": "Natural History: Books 8-11",
+      "reason": "No Scaife TOC items were selected for this text."
+    },
+    {
+      "loebNumber": 354,
+      "slug": "nonnos-dionysiaca-volume-ii-1a7kgr",
+      "title": "Dionysiaca, Volume II",
+      "status": "placeholder",
+      "partTitle": "Dionysiaca, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Dionysiaca, Volume II."
+    },
+    {
+      "loebNumber": 356,
+      "slug": "nonnos-dionysiaca-volume-iii-bwdcec",
+      "title": "Dionysiaca, Volume III",
+      "status": "placeholder",
+      "partTitle": "Dionysiaca, Volume III",
+      "reason": "No Scaife original-and-English work pair could be matched for Dionysiaca, Volume III."
+    },
+    {
+      "loebNumber": 357,
+      "slug": "dionysius-of-halicarnassus-roman-antiquities-volume-iii-1wof8i",
+      "title": "Roman Antiquities, Volume III",
+      "status": "placeholder",
+      "partTitle": "Roman Antiquities, Volume III",
+      "reason": "No Scaife original-and-English work pair could be matched for Roman Antiquities, Volume III."
+    },
+    {
+      "loebNumber": 358,
+      "slug": "dio-chrysostom-discourses-31-36-u6vh65",
+      "title": "Discourses 31-36",
+      "status": "placeholder",
+      "partTitle": "Discourses 31-36",
+      "reason": "No Scaife original-and-English work pair could be matched for Discourses 31-36."
+    },
+    {
+      "loebNumber": 359,
+      "slug": "remains-of-old-latin-volume-iv-archaic-inscriptions-vlz7gg",
+      "title": "Volume IV: Archaic Inscriptions",
+      "status": "placeholder",
+      "partTitle": "Archaic Inscriptions",
+      "reason": "No Scaife original-and-English work pair could be matched for Archaic Inscriptions."
+    },
+    {
+      "loebNumber": 360,
+      "slug": "select-papyri-volume-iii-poetry-26rflz",
+      "title": "Volume III: Poetry",
+      "status": "placeholder",
+      "partTitle": "Poetry",
+      "reason": "No Scaife original-and-English work pair could be matched for Poetry."
+    },
+    {
+      "loebNumber": 361,
+      "slug": "columella-on-agriculture-volume-i-rirudr",
+      "title": "On Agriculture, Volume I",
+      "status": "placeholder",
+      "partTitle": "On Agriculture, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for On Agriculture, Volume I."
+    },
+    {
+      "loebNumber": 362,
+      "slug": "greek-mathematical-works-volume-ii-aristarchus-to-pappus-6k9mpf",
+      "title": "Volume II: Aristarchus to Pappus",
+      "status": "placeholder",
+      "partTitle": "Aristarchus to Pappus",
+      "reason": "No Scaife original-and-English work pair could be matched for Aristarchus to Pappus."
+    },
+    {
+      "loebNumber": 363,
+      "slug": "philo-every-good-man-is-free-on-the-contemplative-life-on-the-eternity-of-the-world-agai-1l0c9q",
+      "title": "Every Good Man is Free. On the Contemplative Life. On the Eternity of the World. Against Flaccus. Apology for the Jews. On Providence",
+      "status": "placeholder",
+      "partTitle": "Apology for the Jews",
+      "reason": "No Scaife original-and-English work pair could be matched for Apology for the Jews."
+    },
+    {
+      "loebNumber": 363,
+      "slug": "philo-every-good-man-is-free-on-the-contemplative-life-on-the-eternity-of-the-world-agai-1l0c9q",
+      "title": "Every Good Man is Free. On the Contemplative Life. On the Eternity of the World. Against Flaccus. Apology for the Jews. On Providence",
+      "status": "placeholder",
+      "partTitle": "On Providence",
+      "reason": "No Scaife original-and-English work pair could be matched for On Providence."
+    },
+    {
+      "loebNumber": 364,
+      "slug": "dionysius-of-halicarnassus-roman-antiquities-volume-iv-fyoi31",
+      "title": "Roman Antiquities, Volume IV",
+      "status": "placeholder",
+      "partTitle": "Roman Antiquities, Volume IV",
+      "reason": "No Scaife original-and-English work pair could be matched for Roman Antiquities, Volume IV."
+    },
+    {
+      "loebNumber": 366,
+      "slug": "aristotle-generation-of-animals-ovp563",
+      "title": "Generation of Animals",
+      "status": "placeholder",
+      "partTitle": "Generation of Animals",
+      "reason": "No Scaife original-and-English work pair could be matched for Generation of Animals."
+    },
+    {
+      "loebNumber": 368,
+      "slug": "quintus-curtius-history-of-alexander-volume-i-1bwie3",
+      "title": "History of Alexander, Volume I",
+      "status": "placeholder",
+      "partTitle": "History of Alexander, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for History of Alexander, Volume I."
+    },
+    {
+      "loebNumber": 369,
+      "slug": "quintus-curtius-history-of-alexander-volume-ii-1sdl18",
+      "title": "History of Alexander, Volume II",
+      "status": "placeholder",
+      "partTitle": "History of Alexander, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for History of Alexander, Volume II."
+    },
+    {
+      "loebNumber": 372,
+      "slug": "dionysius-of-halicarnassus-roman-antiquities-volume-v-7e00s6",
+      "title": "Roman Antiquities, Volume V",
+      "status": "placeholder",
+      "partTitle": "Roman Antiquities, Volume V",
+      "reason": "No Scaife original-and-English work pair could be matched for Roman Antiquities, Volume V."
+    },
+    {
+      "loebNumber": 373,
+      "slug": "isocrates-evagoras-helen-busiris-plataicus-concerning-the-team-of-horses-trapeziticus-ag-578633",
+      "title": "Evagoras. Helen. Busiris. Plataicus. Concerning the Team of Horses. Trapeziticus. Against Callimachus. Aegineticus. Against Lochites. Against Euthynus. Letters",
+      "status": "placeholder",
+      "partTitle": "Letters",
+      "reason": "No Scaife original-and-English work pair could be matched for Letters."
+    },
+    {
+      "loebNumber": 375,
+      "slug": "diodorus-siculus-library-of-history-volume-iv-cg4zcu",
+      "title": "Library of History, Volume IV",
+      "status": "placeholder",
+      "partTitle": "Library of History, Volume IV",
+      "reason": "No Scaife original-and-English work pair could be matched for Library of History, Volume IV."
+    },
+    {
+      "loebNumber": 376,
+      "slug": "dio-chrysostom-discourses-37-60-u6zb5q",
+      "title": "Discourses 37-60",
+      "status": "placeholder",
+      "partTitle": "Discourses 37-60",
+      "reason": "No Scaife original-and-English work pair could be matched for Discourses 37-60."
+    },
+    {
+      "loebNumber": 377,
+      "slug": "diodorus-siculus-library-of-history-volume-ix-cg4zcw",
+      "title": "Library of History, Volume IX",
+      "status": "placeholder",
+      "partTitle": "Library of History, Volume IX",
+      "reason": "No Scaife original-and-English work pair could be matched for Library of History, Volume IX."
+    },
+    {
+      "loebNumber": 378,
+      "slug": "dionysius-of-halicarnassus-roman-antiquities-volume-vi-fyoidv",
+      "title": "Roman Antiquities, Volume VI",
+      "status": "placeholder",
+      "partTitle": "Roman Antiquities, Volume VI",
+      "reason": "No Scaife original-and-English work pair could be matched for Roman Antiquities, Volume VI."
+    },
+    {
+      "loebNumber": 379,
+      "slug": "philo-on-the-embassy-to-gaius-general-indexes-j2fm48",
+      "title": "On the Embassy to Gaius. General Indexes",
+      "status": "placeholder",
+      "partTitle": "General Indexes",
+      "reason": "No Scaife original-and-English work pair could be matched for General Indexes."
+    },
+    {
+      "loebNumber": 380,
+      "slug": "philo-questions-on-genesis-1buajo",
+      "title": "Questions on Genesis",
+      "status": "placeholder",
+      "partTitle": "Questions on Genesis",
+      "reason": "No Scaife original-and-English work pair could be matched for Questions on Genesis."
+    },
+    {
+      "loebNumber": 382,
+      "slug": "sextus-empiricus-against-professors-1slu43",
+      "title": "Against Professors",
+      "status": "placeholder",
+      "partTitle": "Against Professors",
+      "reason": "No Scaife original-and-English work pair could be matched for Against Professors."
+    },
+    {
+      "loebNumber": 383,
+      "slug": "alciphron-aelian-philostratus-alciphron-aelian-and-philostratus-fmsmd1",
+      "title": "Aelian, Philostratus, Alciphron, Aelian, and Philostratus",
+      "status": "placeholder",
+      "partTitle": "Aelian, Philostratus, Alciphron, Aelian, and Philostratus",
+      "reason": "No Scaife original-and-English work pair could be matched for Aelian, Philostratus, Alciphron, Aelian, and Philostratus."
+    },
+    {
+      "loebNumber": 384,
+      "slug": "diodorus-siculus-library-of-history-volume-v-4zfip1",
+      "title": "Library of History, Volume V",
+      "status": "placeholder",
+      "partTitle": "Library of History, Volume V",
+      "reason": "No Scaife original-and-English work pair could be matched for Library of History, Volume V."
+    },
+    {
+      "loebNumber": 385,
+      "slug": "dio-chrysostom-discourses-61-80-fragments-letters-1ebmrp",
+      "title": "Discourses 61-80. Fragments. Letters",
+      "status": "placeholder",
+      "partTitle": "Discourses 61-80",
+      "reason": "No Scaife original-and-English work pair could be matched for Discourses 61-80."
+    },
+    {
+      "loebNumber": 385,
+      "slug": "dio-chrysostom-discourses-61-80-fragments-letters-1ebmrp",
+      "title": "Discourses 61-80. Fragments. Letters",
+      "status": "placeholder",
+      "partTitle": "Fragments",
+      "reason": "No Scaife original-and-English work pair could be matched for Fragments."
+    },
+    {
+      "loebNumber": 385,
+      "slug": "dio-chrysostom-discourses-61-80-fragments-letters-1ebmrp",
+      "title": "Discourses 61-80. Fragments. Letters",
+      "status": "placeholder",
+      "partTitle": "Letters",
+      "reason": "No Scaife original-and-English work pair could be matched for Letters."
+    },
+    {
+      "loebNumber": 386,
+      "slug": "cicero-on-invention-the-best-kind-of-orator-topics-14hw0w",
+      "title": "On Invention. The Best Kind of Orator. Topics",
+      "status": "placeholder",
+      "partTitle": "On Invention",
+      "reason": "No Scaife original-and-English work pair could be matched for On Invention."
+    },
+    {
+      "loebNumber": 386,
+      "slug": "cicero-on-invention-the-best-kind-of-orator-topics-14hw0w",
+      "title": "On Invention. The Best Kind of Orator. Topics",
+      "status": "placeholder",
+      "partTitle": "The Best Kind of Orator",
+      "reason": "No Scaife original-and-English work pair could be matched for The Best Kind of Orator."
+    },
+    {
+      "loebNumber": 386,
+      "slug": "cicero-on-invention-the-best-kind-of-orator-topics-14hw0w",
+      "title": "On Invention. The Best Kind of Orator. Topics",
+      "status": "placeholder",
+      "partTitle": "Topics",
+      "reason": "No Scaife original-and-English work pair could be matched for Topics."
+    },
+    {
+      "loebNumber": 387,
+      "slug": "prudentius-preface-daily-round-divinity-of-christ-origin-of-sin-fight-for-mansoul-agains-17rpx6",
+      "title": "Preface. Daily Round. Divinity of Christ. Origin of Sin. Fight for Mansoul. Against Symmachus 1",
+      "status": "placeholder",
+      "partTitle": "Preface",
+      "reason": "No Scaife original-and-English work pair could be matched for Preface."
+    },
+    {
+      "loebNumber": 387,
+      "slug": "prudentius-preface-daily-round-divinity-of-christ-origin-of-sin-fight-for-mansoul-agains-17rpx6",
+      "title": "Preface. Daily Round. Divinity of Christ. Origin of Sin. Fight for Mansoul. Against Symmachus 1",
+      "status": "placeholder",
+      "partTitle": "Daily Round",
+      "reason": "No Scaife original-and-English work pair could be matched for Daily Round."
+    },
+    {
+      "loebNumber": 387,
+      "slug": "prudentius-preface-daily-round-divinity-of-christ-origin-of-sin-fight-for-mansoul-agains-17rpx6",
+      "title": "Preface. Daily Round. Divinity of Christ. Origin of Sin. Fight for Mansoul. Against Symmachus 1",
+      "status": "placeholder",
+      "partTitle": "Divinity of Christ",
+      "reason": "No Scaife original-and-English work pair could be matched for Divinity of Christ."
+    },
+    {
+      "loebNumber": 387,
+      "slug": "prudentius-preface-daily-round-divinity-of-christ-origin-of-sin-fight-for-mansoul-agains-17rpx6",
+      "title": "Preface. Daily Round. Divinity of Christ. Origin of Sin. Fight for Mansoul. Against Symmachus 1",
+      "status": "placeholder",
+      "partTitle": "Origin of Sin",
+      "reason": "No Scaife original-and-English work pair could be matched for Origin of Sin."
+    },
+    {
+      "loebNumber": 387,
+      "slug": "prudentius-preface-daily-round-divinity-of-christ-origin-of-sin-fight-for-mansoul-agains-17rpx6",
+      "title": "Preface. Daily Round. Divinity of Christ. Origin of Sin. Fight for Mansoul. Against Symmachus 1",
+      "status": "placeholder",
+      "partTitle": "Fight for Mansoul",
+      "reason": "No Scaife original-and-English work pair could be matched for Fight for Mansoul."
+    },
+    {
+      "loebNumber": 387,
+      "slug": "prudentius-preface-daily-round-divinity-of-christ-origin-of-sin-fight-for-mansoul-agains-17rpx6",
+      "title": "Preface. Daily Round. Divinity of Christ. Origin of Sin. Fight for Mansoul. Against Symmachus 1",
+      "status": "placeholder",
+      "partTitle": "Against Symmachus 1",
+      "reason": "No Scaife original-and-English work pair could be matched for Against Symmachus 1."
+    },
+    {
+      "loebNumber": 388,
+      "slug": "dionysius-of-halicarnassus-roman-antiquities-volume-vii-1wofi5",
+      "title": "Roman Antiquities, Volume VII",
+      "status": "placeholder",
+      "partTitle": "Roman Antiquities, Volume VII",
+      "reason": "No Scaife original-and-English work pair could be matched for Roman Antiquities, Volume VII."
+    },
+    {
+      "loebNumber": 389,
+      "slug": "diodorus-siculus-library-of-history-volume-vii-uqqfk5",
+      "title": "Library of History, Volume VII",
+      "status": "placeholder",
+      "partTitle": "Library of History, Volume VII",
+      "reason": "No Scaife original-and-English work pair could be matched for Library of History, Volume VII."
+    },
+    {
+      "loebNumber": 390,
+      "slug": "diodorus-siculus-library-of-history-volume-x-4zfip3",
+      "title": "Library of History, Volume X",
+      "status": "placeholder",
+      "partTitle": "Library of History, Volume X",
+      "reason": "No Scaife original-and-English work pair could be matched for Library of History, Volume X."
+    },
+    {
+      "loebNumber": 391,
+      "slug": "aristotle-posterior-analytics-topica-1kahnz",
+      "title": "Posterior Analytics. Topica",
+      "status": "placeholder",
+      "partTitle": "Posterior Analytics",
+      "reason": "No Scaife original-and-English work pair could be matched for Posterior Analytics."
+    },
+    {
+      "loebNumber": 391,
+      "slug": "aristotle-posterior-analytics-topica-1kahnz",
+      "title": "Posterior Analytics. Topica",
+      "status": "placeholder",
+      "partTitle": "Topica",
+      "reason": "No Scaife original-and-English work pair could be matched for Topica."
+    },
+    {
+      "loebNumber": 394,
+      "slug": "pliny-natural-history-volume-ix-books-33-35-pp1qdf",
+      "title": "Natural History, Volume IX: Books 33-35",
+      "status": "placeholder",
+      "partTitle": "Natural History: Books 33-35",
+      "reason": "No Scaife TOC items were selected for this text."
+    },
+    {
+      "loebNumber": 395,
+      "slug": "minor-attic-orators-volume-ii-lycurgus-dinarchus-demades-hyperides-beryub",
+      "title": "Volume II: Lycurgus. Dinarchus. Demades. Hyperides",
+      "status": "placeholder",
+      "partTitle": "Dinarchus",
+      "reason": "No Scaife original-and-English work pair could be matched for Dinarchus."
+    },
+    {
+      "loebNumber": 395,
+      "slug": "minor-attic-orators-volume-ii-lycurgus-dinarchus-demades-hyperides-beryub",
+      "title": "Volume II: Lycurgus. Dinarchus. Demades. Hyperides",
+      "status": "placeholder",
+      "partTitle": "Demades",
+      "reason": "No Scaife original-and-English work pair could be matched for Demades."
+    },
+    {
+      "loebNumber": 395,
+      "slug": "minor-attic-orators-volume-ii-lycurgus-dinarchus-demades-hyperides-beryub",
+      "title": "Volume II: Lycurgus. Dinarchus. Demades. Hyperides",
+      "status": "placeholder",
+      "partTitle": "Hyperides",
+      "reason": "No Scaife original-and-English work pair could be matched for Hyperides."
+    },
+    {
+      "loebNumber": 397,
+      "slug": "aristotle-meteorologica-17oxo6",
+      "title": "Meteorologica",
+      "status": "placeholder",
+      "partTitle": "Meteorologica",
+      "reason": "No Scaife original-and-English work pair could be matched for Meteorologica."
+    },
+    {
+      "loebNumber": 398,
+      "slug": "prudentius-against-symmachus-2-crowns-of-martyrdom-scenes-from-history-epilogue-hlm8ox",
+      "title": "Against Symmachus 2. Crowns of Martyrdom. Scenes From History. Epilogue",
+      "status": "placeholder",
+      "partTitle": "Against Symmachus 2",
+      "reason": "No Scaife original-and-English work pair could be matched for Against Symmachus 2."
+    },
+    {
+      "loebNumber": 398,
+      "slug": "prudentius-against-symmachus-2-crowns-of-martyrdom-scenes-from-history-epilogue-hlm8ox",
+      "title": "Against Symmachus 2. Crowns of Martyrdom. Scenes From History. Epilogue",
+      "status": "placeholder",
+      "partTitle": "Epilogue",
+      "reason": "No Scaife original-and-English work pair could be matched for Epilogue."
+    },
+    {
+      "loebNumber": 399,
+      "slug": "diodorus-siculus-library-of-history-volume-vi-cg4zno",
+      "title": "Library of History, Volume VI",
+      "status": "placeholder",
+      "partTitle": "Library of History, Volume VI",
+      "reason": "No Scaife original-and-English work pair could be matched for Library of History, Volume VI."
+    },
+    {
+      "loebNumber": 400,
+      "slug": "aristotle-on-sophistical-refutations-on-coming-to-be-and-passing-away-on-the-cosmos-1m8r6t",
+      "title": "On Sophistical Refutations. On Coming-to-be and Passing Away. On the Cosmos",
+      "status": "placeholder",
+      "partTitle": "On Sophistical Refutations",
+      "reason": "No Scaife original-and-English work pair could be matched for On Sophistical Refutations."
+    },
+    {
+      "loebNumber": 400,
+      "slug": "aristotle-on-sophistical-refutations-on-coming-to-be-and-passing-away-on-the-cosmos-1m8r6t",
+      "title": "On Sophistical Refutations. On Coming-to-be and Passing Away. On the Cosmos",
+      "status": "placeholder",
+      "partTitle": "On Coming-to-be and Passing Away",
+      "reason": "No Scaife original-and-English work pair could be matched for On Coming-to-be and Passing Away."
+    },
+    {
+      "loebNumber": 400,
+      "slug": "aristotle-on-sophistical-refutations-on-coming-to-be-and-passing-away-on-the-cosmos-1m8r6t",
+      "title": "On Sophistical Refutations. On Coming-to-be and Passing Away. On the Cosmos",
+      "status": "placeholder",
+      "partTitle": "On the Cosmos",
+      "reason": "No Scaife original-and-English work pair could be matched for On the Cosmos."
+    },
+    {
+      "loebNumber": 401,
+      "slug": "philo-questions-on-exodus-1xmk1w",
+      "title": "Questions on Exodus",
+      "status": "placeholder",
+      "partTitle": "Questions on Exodus",
+      "reason": "No Scaife original-and-English work pair could be matched for Questions on Exodus."
+    },
+    {
+      "loebNumber": 402,
+      "slug": "caesar-alexandrian-war-african-war-spanish-war-10aoyy",
+      "title": "Alexandrian War. African War. Spanish War",
+      "status": "placeholder",
+      "partTitle": "African War",
+      "reason": "No Scaife original-and-English work pair could be matched for African War."
+    },
+    {
+      "loebNumber": 402,
+      "slug": "caesar-alexandrian-war-african-war-spanish-war-10aoyy",
+      "title": "Alexandrian War. African War. Spanish War",
+      "status": "placeholder",
+      "partTitle": "Spanish War",
+      "reason": "No Scaife original-and-English work pair could be matched for Spanish War."
+    },
+    {
+      "loebNumber": 403,
+      "slug": "cicero-rhetorica-ad-herennium-1gq5ye",
+      "title": "Rhetorica ad Herennium",
+      "status": "placeholder",
+      "partTitle": "Rhetorica ad Herennium",
+      "reason": "No Scaife original-and-English work pair could be matched for Rhetorica ad Herennium."
+    },
+    {
+      "loebNumber": 407,
+      "slug": "columella-on-agriculture-volume-ii-smi6y",
+      "title": "On Agriculture, Volume II",
+      "status": "placeholder",
+      "partTitle": "On Agriculture, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for On Agriculture, Volume II."
+    },
+    {
+      "loebNumber": 408,
+      "slug": "columella-on-agriculture-volume-iii-ondo1b",
+      "title": "On Agriculture, Volume III",
+      "status": "placeholder",
+      "partTitle": "On Agriculture, Volume III",
+      "reason": "No Scaife original-and-English work pair could be matched for On Agriculture, Volume III."
+    },
+    {
+      "loebNumber": 409,
+      "slug": "diodorus-siculus-library-of-history-volume-xi-cg4zpe",
+      "title": "Library of History, Volume XI",
+      "status": "placeholder",
+      "partTitle": "Library of History, Volume XI",
+      "reason": "No Scaife original-and-English work pair could be matched for Library of History, Volume XI."
+    },
+    {
+      "loebNumber": 411,
+      "slug": "augustine-city-of-god-volume-i-4knd7y",
+      "title": "City of God, Volume I",
+      "status": "placeholder",
+      "partTitle": "City of God, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for City of God, Volume I."
+    },
+    {
+      "loebNumber": 412,
+      "slug": "augustine-city-of-god-volume-ii-1yr0bx",
+      "title": "City of God, Volume II",
+      "status": "placeholder",
+      "partTitle": "City of God, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for City of God, Volume II."
+    },
+    {
+      "loebNumber": 413,
+      "slug": "augustine-city-of-god-volume-iii-1qbwmd",
+      "title": "City of God, Volume III",
+      "status": "placeholder",
+      "partTitle": "City of God, Volume III",
+      "reason": "No Scaife original-and-English work pair could be matched for City of God, Volume III."
+    },
+    {
+      "loebNumber": 414,
+      "slug": "augustine-city-of-god-volume-iv-1yr0bx",
+      "title": "City of God, Volume IV",
+      "status": "placeholder",
+      "partTitle": "City of God, Volume IV",
+      "reason": "No Scaife original-and-English work pair could be matched for City of God, Volume IV."
+    },
+    {
+      "loebNumber": 415,
+      "slug": "augustine-city-of-god-volume-v-4knd8b",
+      "title": "City of God, Volume V",
+      "status": "placeholder",
+      "partTitle": "City of God, Volume V",
+      "reason": "No Scaife original-and-English work pair could be matched for City of God, Volume V."
+    },
+    {
+      "loebNumber": 416,
+      "slug": "augustine-city-of-god-volume-vi-1yr0c8",
+      "title": "City of God, Volume VI",
+      "status": "placeholder",
+      "partTitle": "City of God, Volume VI",
+      "reason": "No Scaife original-and-English work pair could be matched for City of God, Volume VI."
+    },
+    {
+      "loebNumber": 417,
+      "slug": "augustine-city-of-god-volume-vii-1qbww0",
+      "title": "City of God, Volume VII",
+      "status": "placeholder",
+      "partTitle": "City of God, Volume VII",
+      "reason": "No Scaife original-and-English work pair could be matched for City of God, Volume VII."
+    },
+    {
+      "loebNumber": 419,
+      "slug": "pliny-natural-history-volume-x-books-36-37-dts37f",
+      "title": "Natural History, Volume X: Books 36-37",
+      "status": "placeholder",
+      "partTitle": "Natural History: Books 36-37",
+      "reason": "No Scaife TOC items were selected for this text."
+    },
+    {
+      "loebNumber": 421,
+      "slug": "callimachus-aetia-iambi-lyric-poems-zac3gh",
+      "title": "Aetia. Iambi. Lyric Poems",
+      "status": "placeholder",
+      "partTitle": "Aetia",
+      "reason": "No Scaife original-and-English work pair could be matched for Aetia."
+    },
+    {
+      "loebNumber": 421,
+      "slug": "callimachus-aetia-iambi-lyric-poems-zac3gh",
+      "title": "Aetia. Iambi. Lyric Poems",
+      "status": "placeholder",
+      "partTitle": "Iambi",
+      "reason": "No Scaife original-and-English work pair could be matched for Iambi."
+    },
+    {
+      "loebNumber": 421,
+      "slug": "callimachus-aetia-iambi-lyric-poems-zac3gh",
+      "title": "Aetia. Iambi. Lyric Poems",
+      "status": "placeholder",
+      "partTitle": "Lyric Poems",
+      "reason": "No Scaife original-and-English work pair could be matched for Lyric Poems."
+    },
+    {
+      "loebNumber": 422,
+      "slug": "diodorus-siculus-library-of-history-volume-viii-tmaopw",
+      "title": "Library of History, Volume VIII",
+      "status": "placeholder",
+      "partTitle": "Library of History, Volume VIII",
+      "reason": "No Scaife original-and-English work pair could be matched for Library of History, Volume VIII."
+    },
+    {
+      "loebNumber": 423,
+      "slug": "diodorus-siculus-library-of-history-volume-xii-uqqh1j",
+      "title": "Library of History, Volume XII",
+      "status": "placeholder",
+      "partTitle": "Library of History, Volume XII",
+      "reason": "No Scaife original-and-English work pair could be matched for Library of History, Volume XII."
+    },
+    {
+      "loebNumber": 432,
+      "slug": "lucian-soloecista-lucius-or-the-ass-amores-halcyon-demosthenes-podagra-ocypus-cyniscus-p-1qrloq",
+      "title": "Soloecista. Lucius or The Ass. Amores. Halcyon. Demosthenes. Podagra. Ocypus. Cyniscus. Philopatris. Charidemus. Nero",
+      "status": "placeholder",
+      "partTitle": "Lucius or The Ass",
+      "reason": "The original and English Scaife TOCs could not be aligned."
+    },
+    {
+      "loebNumber": 432,
+      "slug": "lucian-soloecista-lucius-or-the-ass-amores-halcyon-demosthenes-podagra-ocypus-cyniscus-p-1qrloq",
+      "title": "Soloecista. Lucius or The Ass. Amores. Halcyon. Demosthenes. Podagra. Ocypus. Cyniscus. Philopatris. Charidemus. Nero",
+      "status": "placeholder",
+      "partTitle": "Amores",
+      "reason": "No Scaife original-and-English work pair could be matched for Amores."
+    },
+    {
+      "loebNumber": 432,
+      "slug": "lucian-soloecista-lucius-or-the-ass-amores-halcyon-demosthenes-podagra-ocypus-cyniscus-p-1qrloq",
+      "title": "Soloecista. Lucius or The Ass. Amores. Halcyon. Demosthenes. Podagra. Ocypus. Cyniscus. Philopatris. Charidemus. Nero",
+      "status": "placeholder",
+      "partTitle": "Podagra",
+      "reason": "No Scaife original-and-English work pair could be matched for Podagra."
+    },
+    {
+      "loebNumber": 432,
+      "slug": "lucian-soloecista-lucius-or-the-ass-amores-halcyon-demosthenes-podagra-ocypus-cyniscus-p-1qrloq",
+      "title": "Soloecista. Lucius or The Ass. Amores. Halcyon. Demosthenes. Podagra. Ocypus. Cyniscus. Philopatris. Charidemus. Nero",
+      "status": "placeholder",
+      "partTitle": "Ocypus",
+      "reason": "No Scaife original-and-English work pair could be matched for Ocypus."
+    },
+    {
+      "loebNumber": 432,
+      "slug": "lucian-soloecista-lucius-or-the-ass-amores-halcyon-demosthenes-podagra-ocypus-cyniscus-p-1qrloq",
+      "title": "Soloecista. Lucius or The Ass. Amores. Halcyon. Demosthenes. Podagra. Ocypus. Cyniscus. Philopatris. Charidemus. Nero",
+      "status": "placeholder",
+      "partTitle": "Cyniscus",
+      "reason": "No Scaife original-and-English work pair could be matched for Cyniscus."
+    },
+    {
+      "loebNumber": 432,
+      "slug": "lucian-soloecista-lucius-or-the-ass-amores-halcyon-demosthenes-podagra-ocypus-cyniscus-p-1qrloq",
+      "title": "Soloecista. Lucius or The Ass. Amores. Halcyon. Demosthenes. Podagra. Ocypus. Cyniscus. Philopatris. Charidemus. Nero",
+      "status": "placeholder",
+      "partTitle": "Philopatris",
+      "reason": "No Scaife original-and-English work pair could be matched for Philopatris."
+    },
+    {
+      "loebNumber": 432,
+      "slug": "lucian-soloecista-lucius-or-the-ass-amores-halcyon-demosthenes-podagra-ocypus-cyniscus-p-1qrloq",
+      "title": "Soloecista. Lucius or The Ass. Amores. Halcyon. Demosthenes. Podagra. Ocypus. Cyniscus. Philopatris. Charidemus. Nero",
+      "status": "placeholder",
+      "partTitle": "Charidemus",
+      "reason": "No Scaife original-and-English work pair could be matched for Charidemus."
+    },
+    {
+      "loebNumber": 432,
+      "slug": "lucian-soloecista-lucius-or-the-ass-amores-halcyon-demosthenes-podagra-ocypus-cyniscus-p-1qrloq",
+      "title": "Soloecista. Lucius or The Ass. Amores. Halcyon. Demosthenes. Podagra. Ocypus. Cyniscus. Philopatris. Charidemus. Nero",
+      "status": "placeholder",
+      "partTitle": "Nero",
+      "reason": "No Scaife original-and-English work pair could be matched for Nero."
+    },
+    {
+      "loebNumber": 434,
+      "slug": "minor-latin-poets-volume-ii-florus-hadrian-nemesianus-reposianus-tiberianus-dicta-catoni-is6ozi",
+      "title": "Volume II: Florus. Hadrian. Nemesianus. Reposianus. Tiberianus. Dicta Catonis. Phoenix. Avianus. Rutilius Namatianus. Others",
+      "status": "placeholder",
+      "partTitle": "Florus",
+      "reason": "No Scaife original-and-English work pair could be matched for Florus."
+    },
+    {
+      "loebNumber": 434,
+      "slug": "minor-latin-poets-volume-ii-florus-hadrian-nemesianus-reposianus-tiberianus-dicta-catoni-is6ozi",
+      "title": "Volume II: Florus. Hadrian. Nemesianus. Reposianus. Tiberianus. Dicta Catonis. Phoenix. Avianus. Rutilius Namatianus. Others",
+      "status": "placeholder",
+      "partTitle": "Hadrian",
+      "reason": "No Scaife original-and-English work pair could be matched for Hadrian."
+    },
+    {
+      "loebNumber": 434,
+      "slug": "minor-latin-poets-volume-ii-florus-hadrian-nemesianus-reposianus-tiberianus-dicta-catoni-is6ozi",
+      "title": "Volume II: Florus. Hadrian. Nemesianus. Reposianus. Tiberianus. Dicta Catonis. Phoenix. Avianus. Rutilius Namatianus. Others",
+      "status": "placeholder",
+      "partTitle": "Nemesianus",
+      "reason": "No Scaife original-and-English work pair could be matched for Nemesianus."
+    },
+    {
+      "loebNumber": 434,
+      "slug": "minor-latin-poets-volume-ii-florus-hadrian-nemesianus-reposianus-tiberianus-dicta-catoni-is6ozi",
+      "title": "Volume II: Florus. Hadrian. Nemesianus. Reposianus. Tiberianus. Dicta Catonis. Phoenix. Avianus. Rutilius Namatianus. Others",
+      "status": "placeholder",
+      "partTitle": "Reposianus",
+      "reason": "No Scaife original-and-English work pair could be matched for Reposianus."
+    },
+    {
+      "loebNumber": 434,
+      "slug": "minor-latin-poets-volume-ii-florus-hadrian-nemesianus-reposianus-tiberianus-dicta-catoni-is6ozi",
+      "title": "Volume II: Florus. Hadrian. Nemesianus. Reposianus. Tiberianus. Dicta Catonis. Phoenix. Avianus. Rutilius Namatianus. Others",
+      "status": "placeholder",
+      "partTitle": "Tiberianus",
+      "reason": "No Scaife original-and-English work pair could be matched for Tiberianus."
+    },
+    {
+      "loebNumber": 434,
+      "slug": "minor-latin-poets-volume-ii-florus-hadrian-nemesianus-reposianus-tiberianus-dicta-catoni-is6ozi",
+      "title": "Volume II: Florus. Hadrian. Nemesianus. Reposianus. Tiberianus. Dicta Catonis. Phoenix. Avianus. Rutilius Namatianus. Others",
+      "status": "placeholder",
+      "partTitle": "Dicta Catonis",
+      "reason": "No Scaife original-and-English work pair could be matched for Dicta Catonis."
+    },
+    {
+      "loebNumber": 434,
+      "slug": "minor-latin-poets-volume-ii-florus-hadrian-nemesianus-reposianus-tiberianus-dicta-catoni-is6ozi",
+      "title": "Volume II: Florus. Hadrian. Nemesianus. Reposianus. Tiberianus. Dicta Catonis. Phoenix. Avianus. Rutilius Namatianus. Others",
+      "status": "placeholder",
+      "partTitle": "Phoenix",
+      "reason": "No Scaife original-and-English work pair could be matched for Phoenix."
+    },
+    {
+      "loebNumber": 434,
+      "slug": "minor-latin-poets-volume-ii-florus-hadrian-nemesianus-reposianus-tiberianus-dicta-catoni-is6ozi",
+      "title": "Volume II: Florus. Hadrian. Nemesianus. Reposianus. Tiberianus. Dicta Catonis. Phoenix. Avianus. Rutilius Namatianus. Others",
+      "status": "placeholder",
+      "partTitle": "Avianus",
+      "reason": "No Scaife original-and-English work pair could be matched for Avianus."
+    },
+    {
+      "loebNumber": 434,
+      "slug": "minor-latin-poets-volume-ii-florus-hadrian-nemesianus-reposianus-tiberianus-dicta-catoni-is6ozi",
+      "title": "Volume II: Florus. Hadrian. Nemesianus. Reposianus. Tiberianus. Dicta Catonis. Phoenix. Avianus. Rutilius Namatianus. Others",
+      "status": "placeholder",
+      "partTitle": "Rutilius Namatianus",
+      "reason": "No Scaife original-and-English work pair could be matched for Rutilius Namatianus."
+    },
+    {
+      "loebNumber": 434,
+      "slug": "minor-latin-poets-volume-ii-florus-hadrian-nemesianus-reposianus-tiberianus-dicta-catoni-is6ozi",
+      "title": "Volume II: Florus. Hadrian. Nemesianus. Reposianus. Tiberianus. Dicta Catonis. Phoenix. Avianus. Rutilius Namatianus. Others",
+      "status": "placeholder",
+      "partTitle": "Others",
+      "reason": "No Scaife original-and-English work pair could be matched for Others."
+    },
+    {
+      "loebNumber": 435,
+      "slug": "ptolemy-tetrabiblos-eew37n",
+      "title": "Tetrabiblos",
+      "status": "placeholder",
+      "partTitle": "Tetrabiblos",
+      "reason": "No Scaife original-and-English work pair could be matched for Tetrabiblos."
+    },
+    {
+      "loebNumber": 437,
+      "slug": "aristotle-history-of-animals-volume-i-daycqk",
+      "title": "History of Animals, Volume I",
+      "status": "placeholder",
+      "partTitle": "History of Animals, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for History of Animals, Volume I."
+    },
+    {
+      "loebNumber": 438,
+      "slug": "aristotle-history-of-animals-volume-ii-1la0p1",
+      "title": "History of Animals, Volume II",
+      "status": "placeholder",
+      "partTitle": "History of Animals, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for History of Animals, Volume II."
+    },
+    {
+      "loebNumber": 439,
+      "slug": "aristotle-history-of-animals-volume-iii-1yvw93",
+      "title": "History of Animals, Volume III",
+      "status": "placeholder",
+      "partTitle": "History of Animals, Volume III",
+      "reason": "No Scaife original-and-English work pair could be matched for History of Animals, Volume III."
+    },
+    {
+      "loebNumber": 440,
+      "slug": "plotinus-ennead-volume-i-porphyry-on-the-life-of-plotinus-ennead-i-jlvt8k",
+      "title": "Ennead, Volume I: Porphyry on the Life of Plotinus. Ennead I",
+      "status": "placeholder",
+      "partTitle": "Porphyry on the Life of Plotinus",
+      "reason": "No Scaife original-and-English work pair could be matched for Porphyry on the Life of Plotinus."
+    },
+    {
+      "loebNumber": 440,
+      "slug": "plotinus-ennead-volume-i-porphyry-on-the-life-of-plotinus-ennead-i-jlvt8k",
+      "title": "Ennead, Volume I: Porphyry on the Life of Plotinus. Ennead I",
+      "status": "placeholder",
+      "partTitle": "Ennead I",
+      "reason": "No Scaife original-and-English work pair could be matched for Ennead I."
+    },
+    {
+      "loebNumber": 441,
+      "slug": "plotinus-ennead-volume-ii-1xh0yf",
+      "title": "Ennead, Volume II",
+      "status": "placeholder",
+      "partTitle": "Ennead, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Ennead, Volume II."
+    },
+    {
+      "loebNumber": 442,
+      "slug": "plotinus-ennead-volume-iii-1ntnto",
+      "title": "Ennead, Volume III",
+      "status": "placeholder",
+      "partTitle": "Ennead, Volume III",
+      "reason": "No Scaife original-and-English work pair could be matched for Ennead, Volume III."
+    },
+    {
+      "loebNumber": 443,
+      "slug": "plotinus-ennead-volume-iv-1xh0ys",
+      "title": "Ennead, Volume IV",
+      "status": "placeholder",
+      "partTitle": "Ennead, Volume IV",
+      "reason": "No Scaife original-and-English work pair could be matched for Ennead, Volume IV."
+    },
+    {
+      "loebNumber": 444,
+      "slug": "plotinus-ennead-volume-v-1c6h8c",
+      "title": "Ennead, Volume V",
+      "status": "placeholder",
+      "partTitle": "Ennead, Volume V",
+      "reason": "No Scaife original-and-English work pair could be matched for Ennead, Volume V."
+    },
+    {
+      "loebNumber": 445,
+      "slug": "plotinus-ennead-volume-vi-1-5-kxhk5l",
+      "title": "Ennead, Volume VI: 1-5",
+      "status": "placeholder",
+      "partTitle": "Ennead: 1-5",
+      "reason": "No Scaife original-and-English work pair could be matched for Ennead: 1-5."
+    },
+    {
+      "loebNumber": 446,
+      "slug": "aelian-on-animals-volume-i-jq3sj3",
+      "title": "On Animals, Volume I",
+      "status": "placeholder",
+      "partTitle": "On Animals, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for On Animals, Volume I."
+    },
+    {
+      "loebNumber": 447,
+      "slug": "cicero-pro-caelio-de-provinciis-consularibus-pro-balbo-16hgb3",
+      "title": "Pro Caelio. De Provinciis Consularibus. Pro Balbo",
+      "status": "placeholder",
+      "partTitle": "Pro Caelio",
+      "reason": "No Scaife original-and-English work pair could be matched for Pro Caelio."
+    },
+    {
+      "loebNumber": 447,
+      "slug": "cicero-pro-caelio-de-provinciis-consularibus-pro-balbo-16hgb3",
+      "title": "Pro Caelio. De Provinciis Consularibus. Pro Balbo",
+      "status": "placeholder",
+      "partTitle": "Pro Balbo",
+      "reason": "No Scaife original-and-English work pair could be matched for Pro Balbo."
+    },
+    {
+      "loebNumber": 448,
+      "slug": "aelian-on-animals-volume-ii-178d4o",
+      "title": "On Animals, Volume II",
+      "status": "placeholder",
+      "partTitle": "On Animals, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for On Animals, Volume II."
+    },
+    {
+      "loebNumber": 449,
+      "slug": "aelian-on-animals-volume-iii-1pna1s",
+      "title": "On Animals, Volume III",
+      "status": "placeholder",
+      "partTitle": "On Animals, Volume III",
+      "reason": "No Scaife original-and-English work pair could be matched for On Animals, Volume III."
+    },
+    {
+      "loebNumber": 450,
+      "slug": "seneca-natural-questions-volume-i-wgkg2a",
+      "title": "Natural Questions, Volume I",
+      "status": "placeholder",
+      "partTitle": "Natural Questions, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Natural Questions, Volume I."
+    },
+    {
+      "loebNumber": 451,
+      "slug": "libanius-selected-orations-volume-i-x5qh6c",
+      "title": "Selected Orations, Volume I",
+      "status": "placeholder",
+      "partTitle": "Selected Orations, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Selected Orations, Volume I."
+    },
+    {
+      "loebNumber": 452,
+      "slug": "libanius-selected-orations-volume-ii-xi80ut",
+      "title": "Selected Orations, Volume II",
+      "status": "placeholder",
+      "partTitle": "Selected Orations, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Selected Orations, Volume II."
+    },
+    {
+      "loebNumber": 457,
+      "slug": "seneca-natural-questions-volume-ii-bu12d3",
+      "title": "Natural Questions, Volume II",
+      "status": "placeholder",
+      "partTitle": "Natural Questions, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Natural Questions, Volume II."
+    },
+    {
+      "loebNumber": 458,
+      "slug": "philostratus-apollonius-of-tyana-volume-iii-9qzqlv",
+      "title": "Apollonius of Tyana, Volume III",
+      "status": "placeholder",
+      "partTitle": "Apollonius of Tyana, Volume III",
+      "reason": "No Scaife original-and-English work pair could be matched for Apollonius of Tyana, Volume III."
+    },
+    {
+      "loebNumber": 459,
+      "slug": "menander-heros-theophoroumene-karchedonios-kitharistes-kolax-koneiazomenai-leukadia-miso-cspjd9",
+      "title": "Heros. Theophoroumene. Karchedonios. Kitharistes. Kolax. Koneiazomenai. Leukadia. Misoumenos. Perikeiromene. Perinthia",
+      "status": "placeholder",
+      "partTitle": "Theophoroumene",
+      "reason": "No Scaife original-and-English work pair could be matched for Theophoroumene."
+    },
+    {
+      "loebNumber": 459,
+      "slug": "menander-heros-theophoroumene-karchedonios-kitharistes-kolax-koneiazomenai-leukadia-miso-cspjd9",
+      "title": "Heros. Theophoroumene. Karchedonios. Kitharistes. Kolax. Koneiazomenai. Leukadia. Misoumenos. Perikeiromene. Perinthia",
+      "status": "placeholder",
+      "partTitle": "Karchedonios",
+      "reason": "No Scaife original-and-English work pair could be matched for Karchedonios."
+    },
+    {
+      "loebNumber": 459,
+      "slug": "menander-heros-theophoroumene-karchedonios-kitharistes-kolax-koneiazomenai-leukadia-miso-cspjd9",
+      "title": "Heros. Theophoroumene. Karchedonios. Kitharistes. Kolax. Koneiazomenai. Leukadia. Misoumenos. Perikeiromene. Perinthia",
+      "status": "placeholder",
+      "partTitle": "Kitharistes",
+      "reason": "No Scaife original-and-English work pair could be matched for Kitharistes."
+    },
+    {
+      "loebNumber": 459,
+      "slug": "menander-heros-theophoroumene-karchedonios-kitharistes-kolax-koneiazomenai-leukadia-miso-cspjd9",
+      "title": "Heros. Theophoroumene. Karchedonios. Kitharistes. Kolax. Koneiazomenai. Leukadia. Misoumenos. Perikeiromene. Perinthia",
+      "status": "placeholder",
+      "partTitle": "Kolax",
+      "reason": "No Scaife original-and-English work pair could be matched for Kolax."
+    },
+    {
+      "loebNumber": 459,
+      "slug": "menander-heros-theophoroumene-karchedonios-kitharistes-kolax-koneiazomenai-leukadia-miso-cspjd9",
+      "title": "Heros. Theophoroumene. Karchedonios. Kitharistes. Kolax. Koneiazomenai. Leukadia. Misoumenos. Perikeiromene. Perinthia",
+      "status": "placeholder",
+      "partTitle": "Koneiazomenai",
+      "reason": "No Scaife original-and-English work pair could be matched for Koneiazomenai."
+    },
+    {
+      "loebNumber": 459,
+      "slug": "menander-heros-theophoroumene-karchedonios-kitharistes-kolax-koneiazomenai-leukadia-miso-cspjd9",
+      "title": "Heros. Theophoroumene. Karchedonios. Kitharistes. Kolax. Koneiazomenai. Leukadia. Misoumenos. Perikeiromene. Perinthia",
+      "status": "placeholder",
+      "partTitle": "Leukadia",
+      "reason": "No Scaife original-and-English work pair could be matched for Leukadia."
+    },
+    {
+      "loebNumber": 459,
+      "slug": "menander-heros-theophoroumene-karchedonios-kitharistes-kolax-koneiazomenai-leukadia-miso-cspjd9",
+      "title": "Heros. Theophoroumene. Karchedonios. Kitharistes. Kolax. Koneiazomenai. Leukadia. Misoumenos. Perikeiromene. Perinthia",
+      "status": "placeholder",
+      "partTitle": "Perikeiromene",
+      "reason": "No Scaife original-and-English work pair could be matched for Perikeiromene."
+    },
+    {
+      "loebNumber": 459,
+      "slug": "menander-heros-theophoroumene-karchedonios-kitharistes-kolax-koneiazomenai-leukadia-miso-cspjd9",
+      "title": "Heros. Theophoroumene. Karchedonios. Kitharistes. Kolax. Koneiazomenai. Leukadia. Misoumenos. Perikeiromene. Perinthia",
+      "status": "placeholder",
+      "partTitle": "Perinthia",
+      "reason": "No Scaife original-and-English work pair could be matched for Perinthia."
+    },
+    {
+      "loebNumber": 460,
+      "slug": "menander-samia-sikyonioi-synaristosai-phasma-unidentified-fragments-5khukh",
+      "title": "Samia. Sikyonioi. Synaristosai. Phasma. Unidentified Fragments",
+      "status": "placeholder",
+      "partTitle": "Samia",
+      "reason": "No Scaife original-and-English work pair could be matched for Samia."
+    },
+    {
+      "loebNumber": 460,
+      "slug": "menander-samia-sikyonioi-synaristosai-phasma-unidentified-fragments-5khukh",
+      "title": "Samia. Sikyonioi. Synaristosai. Phasma. Unidentified Fragments",
+      "status": "placeholder",
+      "partTitle": "Sikyonioi",
+      "reason": "No Scaife original-and-English work pair could be matched for Sikyonioi."
+    },
+    {
+      "loebNumber": 460,
+      "slug": "menander-samia-sikyonioi-synaristosai-phasma-unidentified-fragments-5khukh",
+      "title": "Samia. Sikyonioi. Synaristosai. Phasma. Unidentified Fragments",
+      "status": "placeholder",
+      "partTitle": "Synaristosai",
+      "reason": "No Scaife original-and-English work pair could be matched for Synaristosai."
+    },
+    {
+      "loebNumber": 460,
+      "slug": "menander-samia-sikyonioi-synaristosai-phasma-unidentified-fragments-5khukh",
+      "title": "Samia. Sikyonioi. Synaristosai. Phasma. Unidentified Fragments",
+      "status": "placeholder",
+      "partTitle": "Phasma",
+      "reason": "No Scaife original-and-English work pair could be matched for Phasma."
+    },
+    {
+      "loebNumber": 460,
+      "slug": "menander-samia-sikyonioi-synaristosai-phasma-unidentified-fragments-5khukh",
+      "title": "Samia. Sikyonioi. Synaristosai. Phasma. Unidentified Fragments",
+      "status": "placeholder",
+      "partTitle": "Unidentified Fragments",
+      "reason": "No Scaife original-and-English work pair could be matched for Unidentified Fragments."
+    },
+    {
+      "loebNumber": 461,
+      "slug": "bacchylides-corinna-greek-lyric-volume-iv-bacchylides-corinna-and-others-1ogw9m",
+      "title": "Corinna, Greek Lyric, Volume IV: Bacchylides, Corinna, and Others",
+      "status": "placeholder",
+      "partTitle": "Corinna, Greek Lyric: Bacchylides, Corinna, and Others",
+      "reason": "No Scaife original-and-English work pair could be matched for Corinna, Greek Lyric: Bacchylides, Corinna, and Others."
+    },
+    {
+      "loebNumber": 462,
+      "slug": "cicero-letters-to-quintus-and-brutus-letter-fragments-letter-to-octavian-invectives-hand-1fc80n",
+      "title": "Letters to Quintus and Brutus. Letter Fragments. Letter to Octavian. Invectives. Handbook of Electioneering",
+      "status": "placeholder",
+      "partTitle": "Letters to Quintus and Brutus",
+      "reason": "No Scaife original-and-English work pair could be matched for Letters to Quintus and Brutus."
+    },
+    {
+      "loebNumber": 462,
+      "slug": "cicero-letters-to-quintus-and-brutus-letter-fragments-letter-to-octavian-invectives-hand-1fc80n",
+      "title": "Letters to Quintus and Brutus. Letter Fragments. Letter to Octavian. Invectives. Handbook of Electioneering",
+      "status": "placeholder",
+      "partTitle": "Letter Fragments",
+      "reason": "No Scaife original-and-English work pair could be matched for Letter Fragments."
+    },
+    {
+      "loebNumber": 462,
+      "slug": "cicero-letters-to-quintus-and-brutus-letter-fragments-letter-to-octavian-invectives-hand-1fc80n",
+      "title": "Letters to Quintus and Brutus. Letter Fragments. Letter to Octavian. Invectives. Handbook of Electioneering",
+      "status": "placeholder",
+      "partTitle": "Letter to Octavian",
+      "reason": "No Scaife original-and-English work pair could be matched for Letter to Octavian."
+    },
+    {
+      "loebNumber": 462,
+      "slug": "cicero-letters-to-quintus-and-brutus-letter-fragments-letter-to-octavian-invectives-hand-1fc80n",
+      "title": "Letters to Quintus and Brutus. Letter Fragments. Letter to Octavian. Invectives. Handbook of Electioneering",
+      "status": "placeholder",
+      "partTitle": "Invectives",
+      "reason": "No Scaife original-and-English work pair could be matched for Invectives."
+    },
+    {
+      "loebNumber": 462,
+      "slug": "cicero-letters-to-quintus-and-brutus-letter-fragments-letter-to-octavian-invectives-hand-1fc80n",
+      "title": "Letters to Quintus and Brutus. Letter Fragments. Letter to Octavian. Invectives. Handbook of Electioneering",
+      "status": "placeholder",
+      "partTitle": "Handbook of Electioneering",
+      "reason": "No Scaife original-and-English work pair could be matched for Handbook of Electioneering."
+    },
+    {
+      "loebNumber": 463,
+      "slug": "seneca-the-elder-declamations-volume-i-controversiae-books-1-6-tu6pft",
+      "title": "Declamations, Volume I: Controversiae, Books 1-6",
+      "status": "placeholder",
+      "partTitle": "Declamations: Controversiae, Books 1-6",
+      "reason": "No Scaife original-and-English work pair could be matched for Declamations: Controversiae, Books 1-6."
+    },
+    {
+      "loebNumber": 464,
+      "slug": "seneca-the-elder-declamations-volume-ii-controversiae-books-7-10-suasoriae-fragments-1yjyxu",
+      "title": "Declamations, Volume II: Controversiae, Books 7-10. Suasoriae. Fragments",
+      "status": "placeholder",
+      "partTitle": "Controversiae, Books 7-10",
+      "reason": "No Scaife original-and-English work pair could be matched for Controversiae, Books 7-10."
+    },
+    {
+      "loebNumber": 464,
+      "slug": "seneca-the-elder-declamations-volume-ii-controversiae-books-7-10-suasoriae-fragments-1yjyxu",
+      "title": "Declamations, Volume II: Controversiae, Books 7-10. Suasoriae. Fragments",
+      "status": "placeholder",
+      "partTitle": "Suasoriae",
+      "reason": "No Scaife original-and-English work pair could be matched for Suasoriae."
+    },
+    {
+      "loebNumber": 464,
+      "slug": "seneca-the-elder-declamations-volume-ii-controversiae-books-7-10-suasoriae-fragments-1yjyxu",
+      "title": "Declamations, Volume II: Controversiae, Books 7-10. Suasoriae. Fragments",
+      "status": "placeholder",
+      "partTitle": "Fragments",
+      "reason": "No Scaife original-and-English work pair could be matched for Fragments."
+    },
+    {
+      "loebNumber": 465,
+      "slug": "dionysius-of-halicarnassus-critical-essays-volume-i-1noy2i",
+      "title": "Critical Essays, Volume I",
+      "status": "placeholder",
+      "partTitle": "Critical Essays, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Critical Essays, Volume I."
+    },
+    {
+      "loebNumber": 466,
+      "slug": "dionysius-of-halicarnassus-critical-essays-volume-ii-3oeqp8",
+      "title": "Critical Essays, Volume II",
+      "status": "placeholder",
+      "partTitle": "Critical Essays, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Critical Essays, Volume II."
+    },
+    {
+      "loebNumber": 467,
+      "slug": "cornelius-nepos-on-great-generals-on-historians-1udxft",
+      "title": "On Great Generals. On Historians",
+      "status": "placeholder",
+      "partTitle": "On Great Generals",
+      "reason": "No Scaife original-and-English work pair could be matched for On Great Generals."
+    },
+    {
+      "loebNumber": 467,
+      "slug": "cornelius-nepos-on-great-generals-on-historians-1udxft",
+      "title": "On Great Generals. On Historians",
+      "status": "placeholder",
+      "partTitle": "On Historians",
+      "reason": "No Scaife original-and-English work pair could be matched for On Historians."
+    },
+    {
+      "loebNumber": 468,
+      "slug": "plotinus-ennead-volume-vi-6-9-kxhnv6",
+      "title": "Ennead, Volume VI: 6-9",
+      "status": "placeholder",
+      "partTitle": "Ennead: 6-9",
+      "reason": "No Scaife original-and-English work pair could be matched for Ennead: 6-9."
+    },
+    {
+      "loebNumber": 469,
+      "slug": "manilius-astronomica-j23l3w",
+      "title": "Astronomica",
+      "status": "placeholder",
+      "partTitle": "Astronomica",
+      "reason": "No Scaife original-and-English work pair could be matched for Astronomica."
+    },
+    {
+      "loebNumber": 471,
+      "slug": "theophrastus-de-causis-plantarum-volume-i-books-1-2-59hi0y",
+      "title": "De Causis Plantarum, Volume I: Books 1-2",
+      "status": "placeholder",
+      "partTitle": "De Causis Plantarum: Books 1-2",
+      "reason": "No Scaife original-and-English work pair could be matched for De Causis Plantarum: Books 1-2."
+    },
+    {
+      "loebNumber": 472,
+      "slug": "hippocrates-affections-diseases-1-diseases-2-12uixo",
+      "title": "Affections. Diseases 1. Diseases 2",
+      "status": "placeholder",
+      "partTitle": "Affections",
+      "reason": "No Scaife original-and-English work pair could be matched for Affections."
+    },
+    {
+      "loebNumber": 472,
+      "slug": "hippocrates-affections-diseases-1-diseases-2-12uixo",
+      "title": "Affections. Diseases 1. Diseases 2",
+      "status": "placeholder",
+      "partTitle": "Diseases 2",
+      "reason": "The original and English Scaife TOCs could not be aligned."
+    },
+    {
+      "loebNumber": 473,
+      "slug": "hippocrates-diseases-3-internal-affections-regimen-in-acute-diseases-1at9j7",
+      "title": "Diseases 3. Internal Affections. Regimen in Acute Diseases",
+      "status": "placeholder",
+      "partTitle": "Internal Affections",
+      "reason": "No Scaife original-and-English work pair could be matched for Internal Affections."
+    },
+    {
+      "loebNumber": 473,
+      "slug": "hippocrates-diseases-3-internal-affections-regimen-in-acute-diseases-1at9j7",
+      "title": "Diseases 3. Internal Affections. Regimen in Acute Diseases",
+      "status": "placeholder",
+      "partTitle": "Regimen in Acute Diseases",
+      "reason": "The original and English Scaife TOCs could not be aligned."
+    },
+    {
+      "loebNumber": 474,
+      "slug": "theophrastus-de-causis-plantarum-volume-ii-books-3-4-axmuz1",
+      "title": "De Causis Plantarum, Volume II: Books 3-4",
+      "status": "placeholder",
+      "partTitle": "De Causis Plantarum: Books 3-4",
+      "reason": "No Scaife original-and-English work pair could be matched for De Causis Plantarum: Books 3-4."
+    },
+    {
+      "loebNumber": 475,
+      "slug": "theophrastus-de-causis-plantarum-volume-iii-books-5-6-18nznu",
+      "title": "De Causis Plantarum, Volume III: Books 5-6",
+      "status": "placeholder",
+      "partTitle": "De Causis Plantarum: Books 5-6",
+      "reason": "No Scaife original-and-English work pair could be matched for De Causis Plantarum: Books 5-6."
+    },
+    {
+      "loebNumber": 476,
+      "slug": "stesichorus-ibycus-simonides-greek-lyric-volume-iii-stesichorus-ibycus-simonides-and-oth-fwq8lk",
+      "title": "Ibycus, Simonides, Greek Lyric, Volume III: Stesichorus, Ibycus, Simonides, and Others",
+      "status": "placeholder",
+      "partTitle": "Ibycus, Simonides, Greek Lyric: Stesichorus, Ibycus, Simonides, and Others",
+      "reason": "No Scaife original-and-English work pair could be matched for Ibycus, Simonides, Greek Lyric: Stesichorus, Ibycus, Simonides, and Others."
+    },
+    {
+      "loebNumber": 478,
+      "slug": "libanius-autobiography-and-selected-letters-volume-i-4adfm5",
+      "title": "Autobiography and Selected Letters, Volume I",
+      "status": "placeholder",
+      "partTitle": "Autobiography and Selected Letters, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Autobiography and Selected Letters, Volume I."
+    },
+    {
+      "loebNumber": 479,
+      "slug": "libanius-autobiography-and-selected-letters-volume-ii-1pwge5",
+      "title": "Autobiography and Selected Letters, Volume II",
+      "status": "placeholder",
+      "partTitle": "Autobiography and Selected Letters, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Autobiography and Selected Letters, Volume II."
+    },
+    {
+      "loebNumber": 481,
+      "slug": "chariton-callirhoe-1x2mkg",
+      "title": "Callirhoe",
+      "status": "placeholder",
+      "partTitle": "Callirhoe",
+      "reason": "No Scaife original-and-English work pair could be matched for Callirhoe."
+    },
+    {
+      "loebNumber": 482,
+      "slug": "hippocrates-places-in-man-glands-fleshes-prorrhetic-1-2-physician-use-of-liquids-ulcers-r9yv70",
+      "title": "Places in Man. Glands. Fleshes. Prorrhetic 1-2. Physician. Use of Liquids. Ulcers. Haemorrhoids and Fistulas",
+      "status": "placeholder",
+      "partTitle": "Glands",
+      "reason": "No Scaife original-and-English work pair could be matched for Glands."
+    },
+    {
+      "loebNumber": 482,
+      "slug": "hippocrates-places-in-man-glands-fleshes-prorrhetic-1-2-physician-use-of-liquids-ulcers-r9yv70",
+      "title": "Places in Man. Glands. Fleshes. Prorrhetic 1-2. Physician. Use of Liquids. Ulcers. Haemorrhoids and Fistulas",
+      "status": "placeholder",
+      "partTitle": "Fleshes",
+      "reason": "No Scaife original-and-English work pair could be matched for Fleshes."
+    },
+    {
+      "loebNumber": 482,
+      "slug": "hippocrates-places-in-man-glands-fleshes-prorrhetic-1-2-physician-use-of-liquids-ulcers-r9yv70",
+      "title": "Places in Man. Glands. Fleshes. Prorrhetic 1-2. Physician. Use of Liquids. Ulcers. Haemorrhoids and Fistulas",
+      "status": "placeholder",
+      "partTitle": "Prorrhetic 1-2",
+      "reason": "No Scaife original-and-English work pair could be matched for Prorrhetic 1-2."
+    },
+    {
+      "loebNumber": 482,
+      "slug": "hippocrates-places-in-man-glands-fleshes-prorrhetic-1-2-physician-use-of-liquids-ulcers-r9yv70",
+      "title": "Places in Man. Glands. Fleshes. Prorrhetic 1-2. Physician. Use of Liquids. Ulcers. Haemorrhoids and Fistulas",
+      "status": "placeholder",
+      "partTitle": "Physician",
+      "reason": "No Scaife original-and-English work pair could be matched for Physician."
+    },
+    {
+      "loebNumber": 482,
+      "slug": "hippocrates-places-in-man-glands-fleshes-prorrhetic-1-2-physician-use-of-liquids-ulcers-r9yv70",
+      "title": "Places in Man. Glands. Fleshes. Prorrhetic 1-2. Physician. Use of Liquids. Ulcers. Haemorrhoids and Fistulas",
+      "status": "placeholder",
+      "partTitle": "Use of Liquids",
+      "reason": "No Scaife original-and-English work pair could be matched for Use of Liquids."
+    },
+    {
+      "loebNumber": 482,
+      "slug": "hippocrates-places-in-man-glands-fleshes-prorrhetic-1-2-physician-use-of-liquids-ulcers-r9yv70",
+      "title": "Places in Man. Glands. Fleshes. Prorrhetic 1-2. Physician. Use of Liquids. Ulcers. Haemorrhoids and Fistulas",
+      "status": "placeholder",
+      "partTitle": "Haemorrhoids and Fistulas",
+      "reason": "No Scaife original-and-English work pair could be matched for Haemorrhoids and Fistulas."
+    },
+    {
+      "loebNumber": 483,
+      "slug": "sophocles-fragments-8vmgal",
+      "title": "Fragments",
+      "status": "placeholder",
+      "partTitle": "Fragments",
+      "reason": "No Scaife original-and-English work pair could be matched for Fragments."
+    },
+    {
+      "loebNumber": 485,
+      "slug": "pindar-nemean-odes-isthmian-odes-fragments-1u4pd7",
+      "title": "Nemean Odes. Isthmian Odes. Fragments",
+      "status": "placeholder",
+      "partTitle": "Fragments",
+      "reason": "No Scaife original-and-English work pair could be matched for Fragments."
+    },
+    {
+      "loebNumber": 486,
+      "slug": "aelian-historical-miscellany-owb553",
+      "title": "Historical Miscellany",
+      "status": "placeholder",
+      "partTitle": "Historical Miscellany",
+      "reason": "No Scaife original-and-English work pair could be matched for Historical Miscellany."
+    },
+    {
+      "loebNumber": 488,
+      "slug": "aristophanes-clouds-wasps-peace-1iac3h",
+      "title": "Clouds. Wasps. Peace",
+      "status": "placeholder",
+      "partTitle": "Wasps",
+      "reason": "No Scaife original-and-English work pair could be matched for Wasps."
+    },
+    {
+      "loebNumber": 488,
+      "slug": "aristophanes-clouds-wasps-peace-1iac3h",
+      "title": "Clouds. Wasps. Peace",
+      "status": "placeholder",
+      "partTitle": "Peace",
+      "reason": "No Scaife original-and-English work pair could be matched for Peace."
+    },
+    {
+      "loebNumber": 491,
+      "slug": "cicero-letters-to-atticus-volume-iv-q6cf4v",
+      "title": "Letters to Atticus, Volume IV",
+      "status": "placeholder",
+      "partTitle": "Letters to Atticus, Volume IV",
+      "reason": "No Scaife original-and-English work pair could be matched for Letters to Atticus, Volume IV."
+    },
+    {
+      "loebNumber": 492,
+      "slug": "valerius-maximus-memorable-doings-and-sayings-volume-i-10x6j8",
+      "title": "Memorable Doings and Sayings, Volume I",
+      "status": "placeholder",
+      "partTitle": "Memorable Doings and Sayings, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Memorable Doings and Sayings, Volume I."
+    },
+    {
+      "loebNumber": 493,
+      "slug": "valerius-maximus-memorable-doings-and-sayings-volume-ii-82tow2",
+      "title": "Memorable Doings and Sayings, Volume II",
+      "status": "placeholder",
+      "partTitle": "Memorable Doings and Sayings, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Memorable Doings and Sayings, Volume II."
+    },
+    {
+      "loebNumber": 496,
+      "slug": "homeric-hymns-homeric-apocrypha-lives-of-homer-shhk75",
+      "title": "",
+      "status": "placeholder",
+      "partTitle": "",
+      "reason": "Scaife does not currently expose a confidently matchable original-and-English public-domain pair for this volume."
+    },
+    {
+      "loebNumber": 497,
+      "slug": "greek-epic-fragments-1islng",
+      "title": "",
+      "status": "placeholder",
+      "partTitle": "",
+      "reason": "Scaife does not currently expose a confidently matchable original-and-English public-domain pair for this volume."
+    },
+    {
+      "loebNumber": 498,
+      "slug": "statius-thebaid-volume-ii-thebaid-12pow6",
+      "title": "Thebaid, Volume II: Thebaid",
+      "status": "placeholder",
+      "partTitle": "Thebaid: Thebaid",
+      "reason": "No Scaife original-and-English work pair could be matched for Thebaid: Thebaid."
+    },
+    {
+      "loebNumber": 500,
+      "slug": "quintilian-the-lesser-declamations-volume-i-1wdduz",
+      "title": "The Lesser Declamations, Volume I",
+      "status": "placeholder",
+      "partTitle": "The Lesser Declamations, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for The Lesser Declamations, Volume I."
+    },
+    {
+      "loebNumber": 501,
+      "slug": "quintilian-the-lesser-declamations-volume-ii-1nmo38",
+      "title": "The Lesser Declamations, Volume II",
+      "status": "placeholder",
+      "partTitle": "The Lesser Declamations, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for The Lesser Declamations, Volume II."
+    },
+    {
+      "loebNumber": 502,
+      "slug": "aristophanes-fragments-1ae6an",
+      "title": "Fragments",
+      "status": "placeholder",
+      "partTitle": "Fragments",
+      "reason": "No Scaife original-and-English work pair could be matched for Fragments."
+    },
+    {
+      "loebNumber": 503,
+      "slug": "hesiod-the-shield-catalogue-of-women-other-fragments-q3i9in",
+      "title": "The Shield. Catalogue of Women. Other Fragments",
+      "status": "placeholder",
+      "partTitle": "Catalogue of Women",
+      "reason": "No Scaife original-and-English work pair could be matched for Catalogue of Women."
+    },
+    {
+      "loebNumber": 503,
+      "slug": "hesiod-the-shield-catalogue-of-women-other-fragments-q3i9in",
+      "title": "The Shield. Catalogue of Women. Other Fragments",
+      "status": "placeholder",
+      "partTitle": "Other Fragments",
+      "reason": "No Scaife original-and-English work pair could be matched for Other Fragments."
+    },
+    {
+      "loebNumber": 504,
+      "slug": "euripides-fragments-433e2l",
+      "title": "Fragments",
+      "status": "placeholder",
+      "partTitle": "Fragments",
+      "reason": "No Scaife original-and-English work pair could be matched for Fragments."
+    },
+    {
+      "loebNumber": 505,
+      "slug": "aeschylus-fragments-1yl922",
+      "title": "Fragments",
+      "status": "placeholder",
+      "partTitle": "Fragments",
+      "reason": "No Scaife original-and-English work pair could be matched for Fragments."
+    },
+    {
+      "loebNumber": 506,
+      "slug": "euripides-fragments-433e2l-2",
+      "title": "Fragments",
+      "status": "placeholder",
+      "partTitle": "Fragments",
+      "reason": "No Scaife original-and-English work pair could be matched for Fragments."
+    },
+    {
+      "loebNumber": 508,
+      "slug": "hellenistic-collection-elgxds",
+      "title": "",
+      "status": "placeholder",
+      "partTitle": "",
+      "reason": "Scaife does not currently expose a confidently matchable original-and-English public-domain pair for this volume."
+    },
+    {
+      "loebNumber": 509,
+      "slug": "hippocrates-coan-prenotions-anatomical-and-minor-clinical-writings-cr4qhh",
+      "title": "Coan Prenotions. Anatomical and Minor Clinical Writings",
+      "status": "placeholder",
+      "partTitle": "Coan Prenotions",
+      "reason": "No Scaife original-and-English work pair could be matched for Coan Prenotions."
+    },
+    {
+      "loebNumber": 509,
+      "slug": "hippocrates-coan-prenotions-anatomical-and-minor-clinical-writings-cr4qhh",
+      "title": "Coan Prenotions. Anatomical and Minor Clinical Writings",
+      "status": "placeholder",
+      "partTitle": "Anatomical and Minor Clinical Writings",
+      "reason": "No Scaife original-and-English work pair could be matched for Anatomical and Minor Clinical Writings."
+    },
+    {
+      "loebNumber": 513,
+      "slug": "fragments-of-old-comedy-volume-i-alcaeus-to-diocles-egxvwd",
+      "title": "Volume I: Alcaeus to Diocles",
+      "status": "placeholder",
+      "partTitle": "Alcaeus to Diocles",
+      "reason": "No Scaife original-and-English work pair could be matched for Alcaeus to Diocles."
+    },
+    {
+      "loebNumber": 514,
+      "slug": "fragments-of-old-comedy-volume-ii-diopeithes-to-pherecrates-12gpwh",
+      "title": "Volume II: Diopeithes to Pherecrates",
+      "status": "placeholder",
+      "partTitle": "Diopeithes to Pherecrates",
+      "reason": "No Scaife original-and-English work pair could be matched for Diopeithes to Pherecrates."
+    },
+    {
+      "loebNumber": 515,
+      "slug": "fragments-of-old-comedy-volume-iii-philonicus-to-xenophon-adespota-1mcicq",
+      "title": "Volume III: Philonicus to Xenophon. Adespota",
+      "status": "placeholder",
+      "partTitle": "Philonicus to Xenophon",
+      "reason": "No Scaife original-and-English work pair could be matched for Philonicus to Xenophon."
+    },
+    {
+      "loebNumber": 515,
+      "slug": "fragments-of-old-comedy-volume-iii-philonicus-to-xenophon-adespota-1mcicq",
+      "title": "Volume III: Philonicus to Xenophon. Adespota",
+      "status": "placeholder",
+      "partTitle": "Adespota",
+      "reason": "No Scaife original-and-English work pair could be matched for Adespota."
+    },
+    {
+      "loebNumber": 516,
+      "slug": "galen-method-of-medicine-volume-i-8nywju",
+      "title": "Method of Medicine, Volume I",
+      "status": "placeholder",
+      "partTitle": "Method of Medicine, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Method of Medicine, Volume I."
+    },
+    {
+      "loebNumber": 517,
+      "slug": "galen-method-of-medicine-volume-ii-1jjpv7",
+      "title": "Method of Medicine, Volume II",
+      "status": "placeholder",
+      "partTitle": "Method of Medicine, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Method of Medicine, Volume II."
+    },
+    {
+      "loebNumber": 518,
+      "slug": "galen-method-of-medicine-volume-iii-h8kk4q",
+      "title": "Method of Medicine, Volume III",
+      "status": "placeholder",
+      "partTitle": "Method of Medicine, Volume III",
+      "reason": "No Scaife original-and-English work pair could be matched for Method of Medicine, Volume III."
+    },
+    {
+      "loebNumber": 520,
+      "slug": "hippocrates-generation-nature-of-the-child-diseases-4-nature-of-women-and-barrenness-sm8mkq",
+      "title": "Generation. Nature of the Child. Diseases 4. Nature of Women and Barrenness",
+      "status": "placeholder",
+      "partTitle": "Generation",
+      "reason": "No Scaife original-and-English work pair could be matched for Generation."
+    },
+    {
+      "loebNumber": 520,
+      "slug": "hippocrates-generation-nature-of-the-child-diseases-4-nature-of-women-and-barrenness-sm8mkq",
+      "title": "Generation. Nature of the Child. Diseases 4. Nature of Women and Barrenness",
+      "status": "placeholder",
+      "partTitle": "Nature of the Child",
+      "reason": "No Scaife original-and-English work pair could be matched for Nature of the Child."
+    },
+    {
+      "loebNumber": 520,
+      "slug": "hippocrates-generation-nature-of-the-child-diseases-4-nature-of-women-and-barrenness-sm8mkq",
+      "title": "Generation. Nature of the Child. Diseases 4. Nature of Women and Barrenness",
+      "status": "placeholder",
+      "partTitle": "Nature of Women and Barrenness",
+      "reason": "No Scaife original-and-English work pair could be matched for Nature of Women and Barrenness."
+    },
+    {
+      "loebNumber": 521,
+      "slug": "philostratus-heroicus-gymnasticus-discourses-1-and-2-9ccg9j",
+      "title": "Heroicus. Gymnasticus. Discourses 1 and 2",
+      "status": "placeholder",
+      "partTitle": "Heroicus",
+      "reason": "No Scaife original-and-English work pair could be matched for Heroicus."
+    },
+    {
+      "loebNumber": 521,
+      "slug": "philostratus-heroicus-gymnasticus-discourses-1-and-2-9ccg9j",
+      "title": "Heroicus. Gymnasticus. Discourses 1 and 2",
+      "status": "placeholder",
+      "partTitle": "Gymnasticus",
+      "reason": "No Scaife original-and-English work pair could be matched for Gymnasticus."
+    },
+    {
+      "loebNumber": 522,
+      "slug": "sallust-fragments-of-the-histories-letters-to-caesar-d4qycq",
+      "title": "Fragments of the Histories. Letters to Caesar",
+      "status": "placeholder",
+      "partTitle": "Fragments of the Histories",
+      "reason": "No Scaife original-and-English work pair could be matched for Fragments of the Histories."
+    },
+    {
+      "loebNumber": 522,
+      "slug": "sallust-fragments-of-the-histories-letters-to-caesar-d4qycq",
+      "title": "Fragments of the Histories. Letters to Caesar",
+      "status": "placeholder",
+      "partTitle": "Letters to Caesar",
+      "reason": "No Scaife original-and-English work pair could be matched for Letters to Caesar."
+    },
+    {
+      "loebNumber": 523,
+      "slug": "galen-on-the-constitution-of-the-art-of-medicine-the-art-of-medicine-a-method-of-medicin-1ayd62",
+      "title": "On the Constitution of the Art of Medicine. The Art of Medicine. A Method of Medicine to Glaucon",
+      "status": "placeholder",
+      "partTitle": "On the Constitution of the Art of Medicine",
+      "reason": "No Scaife original-and-English work pair could be matched for On the Constitution of the Art of Medicine."
+    },
+    {
+      "loebNumber": 523,
+      "slug": "galen-on-the-constitution-of-the-art-of-medicine-the-art-of-medicine-a-method-of-medicin-1ayd62",
+      "title": "On the Constitution of the Art of Medicine. The Art of Medicine. A Method of Medicine to Glaucon",
+      "status": "placeholder",
+      "partTitle": "The Art of Medicine",
+      "reason": "No Scaife original-and-English work pair could be matched for The Art of Medicine."
+    },
+    {
+      "loebNumber": 523,
+      "slug": "galen-on-the-constitution-of-the-art-of-medicine-the-art-of-medicine-a-method-of-medicin-1ayd62",
+      "title": "On the Constitution of the Art of Medicine. The Art of Medicine. A Method of Medicine to Glaucon",
+      "status": "placeholder",
+      "partTitle": "A Method of Medicine to Glaucon",
+      "reason": "No Scaife original-and-English work pair could be matched for A Method of Medicine to Glaucon."
+    },
+    {
+      "loebNumber": 524,
+      "slug": "early-greek-philosophy-volume-i-1pn1hb",
+      "title": "Volume I",
+      "status": "placeholder",
+      "partTitle": "Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Volume I."
+    },
+    {
+      "loebNumber": 525,
+      "slug": "early-greek-philosophy-volume-ii-1s1chd",
+      "title": "Volume II",
+      "status": "placeholder",
+      "partTitle": "Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Volume II."
+    },
+    {
+      "loebNumber": 526,
+      "slug": "early-greek-philosophy-volume-iii-1vbpho",
+      "title": "Volume III",
+      "status": "placeholder",
+      "partTitle": "Volume III",
+      "reason": "No Scaife original-and-English work pair could be matched for Volume III."
+    },
+    {
+      "loebNumber": 527,
+      "slug": "early-greek-philosophy-volume-iv-1s1che",
+      "title": "Volume IV",
+      "status": "placeholder",
+      "partTitle": "Volume IV",
+      "reason": "No Scaife original-and-English work pair could be matched for Volume IV."
+    },
+    {
+      "loebNumber": 528,
+      "slug": "early-greek-philosophy-volume-v-1pn1hb",
+      "title": "Volume V",
+      "status": "placeholder",
+      "partTitle": "Volume V",
+      "reason": "No Scaife original-and-English work pair could be matched for Volume V."
+    },
+    {
+      "loebNumber": 529,
+      "slug": "early-greek-philosophy-volume-vi-1s1chp",
+      "title": "Volume VI",
+      "status": "placeholder",
+      "partTitle": "Volume VI",
+      "reason": "No Scaife original-and-English work pair could be matched for Volume VI."
+    },
+    {
+      "loebNumber": 530,
+      "slug": "early-greek-philosophy-volume-vii-1vbprb",
+      "title": "Volume VII",
+      "status": "placeholder",
+      "partTitle": "Volume VII",
+      "reason": "No Scaife original-and-English work pair could be matched for Volume VII."
+    },
+    {
+      "loebNumber": 531,
+      "slug": "early-greek-philosophy-volume-viii-r6wxrr",
+      "title": "Volume VIII",
+      "status": "placeholder",
+      "partTitle": "Volume VIII",
+      "reason": "No Scaife original-and-English work pair could be matched for Volume VIII."
+    },
+    {
+      "loebNumber": 532,
+      "slug": "early-greek-philosophy-volume-ix-1s1che",
+      "title": "Volume IX",
+      "status": "placeholder",
+      "partTitle": "Volume IX",
+      "reason": "No Scaife original-and-English work pair could be matched for Volume IX."
+    },
+    {
+      "loebNumber": 533,
+      "slug": "aelius-aristides-orations-volume-i-1rb5ky",
+      "title": "Orations, Volume I",
+      "status": "placeholder",
+      "partTitle": "Orations, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Orations, Volume I."
+    },
+    {
+      "loebNumber": 534,
+      "slug": "apuleius-apologia-florida-de-deo-socratis-biwhdg",
+      "title": "Apologia. Florida. De Deo Socratis",
+      "status": "placeholder",
+      "partTitle": "Florida",
+      "reason": "No Scaife original-and-English work pair could be matched for Florida."
+    },
+    {
+      "loebNumber": 534,
+      "slug": "apuleius-apologia-florida-de-deo-socratis-biwhdg",
+      "title": "Apologia. Florida. De Deo Socratis",
+      "status": "placeholder",
+      "partTitle": "De Deo Socratis",
+      "reason": "No Scaife original-and-English work pair could be matched for De Deo Socratis."
+    },
+    {
+      "loebNumber": 535,
+      "slug": "galen-hygiene-volume-i-115138",
+      "title": "Hygiene, Volume I",
+      "status": "placeholder",
+      "partTitle": "Hygiene, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Hygiene, Volume I."
+    },
+    {
+      "loebNumber": 536,
+      "slug": "galen-hygiene-volume-ii-eu4wd4",
+      "title": "Hygiene, Volume II",
+      "status": "placeholder",
+      "partTitle": "Hygiene, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Hygiene, Volume II."
+    },
+    {
+      "loebNumber": 538,
+      "slug": "hippocrates-diseases-of-women-1-2-kg6ql8",
+      "title": "Diseases of Women 1–2",
+      "status": "placeholder",
+      "partTitle": "Diseases of Women 1–2",
+      "reason": "No Scaife original-and-English work pair could be matched for Diseases of Women 1–2."
+    },
+    {
+      "loebNumber": 539,
+      "slug": "menander-rhetor-dionysius-of-halicarnassus-menander-rhetor-dionysius-of-halicarnassus-ar-10m5ic",
+      "title": "Dionysius of Halicarnassus, Menander Rhetor. Dionysius of Halicarnassus, Ars Rhetorica",
+      "status": "placeholder",
+      "partTitle": "Dionysius of Halicarnassus, Menander Rhetor",
+      "reason": "No Scaife original-and-English work pair could be matched for Dionysius of Halicarnassus, Menander Rhetor."
+    },
+    {
+      "loebNumber": 539,
+      "slug": "menander-rhetor-dionysius-of-halicarnassus-menander-rhetor-dionysius-of-halicarnassus-ar-10m5ic",
+      "title": "Dionysius of Halicarnassus, Menander Rhetor. Dionysius of Halicarnassus, Ars Rhetorica",
+      "status": "placeholder",
+      "partTitle": "Dionysius of Halicarnassus, Ars Rhetorica",
+      "reason": "No Scaife original-and-English work pair could be matched for Dionysius of Halicarnassus, Ars Rhetorica."
+    },
+    {
+      "loebNumber": 540,
+      "slug": "fragmentary-republican-latin-volume-iii-1bf27t",
+      "title": "Volume III",
+      "status": "placeholder",
+      "partTitle": "Volume III",
+      "reason": "No Scaife original-and-English work pair could be matched for Volume III."
+    },
+    {
+      "loebNumber": 541,
+      "slug": "fragmentary-republican-latin-volume-iv-8ej1m2",
+      "title": "Volume IV",
+      "status": "placeholder",
+      "partTitle": "Volume IV",
+      "reason": "No Scaife original-and-English work pair could be matched for Volume IV."
+    },
+    {
+      "loebNumber": 542,
+      "slug": "fragmentary-republican-latin-volume-v-ilnq49",
+      "title": "Volume V",
+      "status": "placeholder",
+      "partTitle": "Volume V",
+      "reason": "No Scaife original-and-English work pair could be matched for Volume V."
+    },
+    {
+      "loebNumber": 545,
+      "slug": "aelius-aristides-orations-volume-ii-18rrk4",
+      "title": "Orations, Volume II",
+      "status": "placeholder",
+      "partTitle": "Orations, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Orations, Volume II."
+    },
+    {
+      "loebNumber": 546,
+      "slug": "galen-on-temperaments-on-non-uniform-distemperment-the-soul-s-traits-depend-on-bodily-te-1mwvd6",
+      "title": "On Temperaments. On Non-Uniform Distemperment. The Soul’s Traits Depend on Bodily Temperament",
+      "status": "placeholder",
+      "partTitle": "On Temperaments",
+      "reason": "No Scaife original-and-English work pair could be matched for On Temperaments."
+    },
+    {
+      "loebNumber": 546,
+      "slug": "galen-on-temperaments-on-non-uniform-distemperment-the-soul-s-traits-depend-on-bodily-te-1mwvd6",
+      "title": "On Temperaments. On Non-Uniform Distemperment. The Soul’s Traits Depend on Bodily Temperament",
+      "status": "placeholder",
+      "partTitle": "On Non-Uniform Distemperment",
+      "reason": "No Scaife original-and-English work pair could be matched for On Non-Uniform Distemperment."
+    },
+    {
+      "loebNumber": 546,
+      "slug": "galen-on-temperaments-on-non-uniform-distemperment-the-soul-s-traits-depend-on-bodily-te-1mwvd6",
+      "title": "On Temperaments. On Non-Uniform Distemperment. The Soul’s Traits Depend on Bodily Temperament",
+      "status": "placeholder",
+      "partTitle": "The Soul’s Traits Depend on Bodily Temperament",
+      "reason": "No Scaife original-and-English work pair could be matched for The Soul’s Traits Depend on Bodily Temperament."
+    },
+    {
+      "loebNumber": 547,
+      "slug": "quintilian-the-major-declamations-volume-i-bzd5ml",
+      "title": "The Major Declamations, Volume I",
+      "status": "placeholder",
+      "partTitle": "The Major Declamations, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for The Major Declamations, Volume I."
+    },
+    {
+      "loebNumber": 548,
+      "slug": "quintilian-the-major-declamations-volume-ii-garkmk",
+      "title": "The Major Declamations, Volume II",
+      "status": "placeholder",
+      "partTitle": "The Major Declamations, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for The Major Declamations, Volume II."
+    },
+    {
+      "loebNumber": 549,
+      "slug": "quintilian-the-major-declamations-volume-iii-81ydnh",
+      "title": "The Major Declamations, Volume III",
+      "status": "placeholder",
+      "partTitle": "The Major Declamations, Volume III",
+      "reason": "No Scaife original-and-English work pair could be matched for The Major Declamations, Volume III."
+    },
+    {
+      "loebNumber": 550,
+      "slug": "callimachus-miscellaneous-epics-and-elegies-other-fragments-testimonia-ftang5",
+      "title": "Miscellaneous Epics and Elegies. Other Fragments. Testimonia",
+      "status": "placeholder",
+      "partTitle": "Miscellaneous Epics and Elegies",
+      "reason": "No Scaife original-and-English work pair could be matched for Miscellaneous Epics and Elegies."
+    },
+    {
+      "loebNumber": 550,
+      "slug": "callimachus-miscellaneous-epics-and-elegies-other-fragments-testimonia-ftang5",
+      "title": "Miscellaneous Epics and Elegies. Other Fragments. Testimonia",
+      "status": "placeholder",
+      "partTitle": "Other Fragments",
+      "reason": "No Scaife original-and-English work pair could be matched for Other Fragments."
+    },
+    {
+      "loebNumber": 551,
+      "slug": "cato-testimonia-origines-bh4qsg",
+      "title": "Testimonia. Origines",
+      "status": "placeholder",
+      "partTitle": "Origines",
+      "reason": "No Scaife original-and-English work pair could be matched for Origines."
+    },
+    {
+      "loebNumber": 552,
+      "slug": "cato-orations-other-fragments-s4tqfn",
+      "title": "Orations. Other Fragments",
+      "status": "placeholder",
+      "partTitle": "Orations",
+      "reason": "No Scaife original-and-English work pair could be matched for Orations."
+    },
+    {
+      "loebNumber": 552,
+      "slug": "cato-orations-other-fragments-s4tqfn",
+      "title": "Orations. Other Fragments",
+      "status": "placeholder",
+      "partTitle": "Other Fragments",
+      "reason": "No Scaife original-and-English work pair could be matched for Other Fragments."
+    },
+    {
+      "loebNumber": 553,
+      "slug": "maximus-of-tyre-philosophical-orations-volume-i-3hzx2e",
+      "title": "Philosophical Orations, Volume I",
+      "status": "placeholder",
+      "partTitle": "Philosophical Orations, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Philosophical Orations, Volume I."
+    },
+    {
+      "loebNumber": 554,
+      "slug": "maximus-of-tyre-philosophical-orations-volume-ii-11gtf4",
+      "title": "Philosophical Orations, Volume II",
+      "status": "placeholder",
+      "partTitle": "Philosophical Orations, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Philosophical Orations, Volume II."
+    },
+    {
+      "loebNumber": 556,
+      "slug": "cicero-fragmentary-speeches-1e4whb",
+      "title": "Fragmentary Speeches",
+      "status": "placeholder",
+      "partTitle": "Fragmentary Speeches",
+      "reason": "No Scaife original-and-English work pair could be matched for Fragmentary Speeches."
+    },
+    {
+      "loebNumber": 557,
+      "slug": "justin-epitome-of-pompeius-trogus-volume-i-12s4b9",
+      "title": "Epitome of Pompeius Trogus, Volume I",
+      "status": "placeholder",
+      "partTitle": "Epitome of Pompeius Trogus, Volume I",
+      "reason": "No Scaife original-and-English work pair could be matched for Epitome of Pompeius Trogus, Volume I."
+    },
+    {
+      "loebNumber": 558,
+      "slug": "justin-epitome-of-pompeius-trogus-volume-ii-1tpwtx",
+      "title": "Epitome of Pompeius Trogus, Volume II",
+      "status": "placeholder",
+      "partTitle": "Epitome of Pompeius Trogus, Volume II",
+      "reason": "No Scaife original-and-English work pair could be matched for Epitome of Pompeius Trogus, Volume II."
+    },
+    {
+      "loebNumber": 560,
+      "slug": "augustine-the-teacher-teaching-christianity-1dvc68",
+      "title": "The Teacher. Teaching Christianity",
+      "status": "placeholder",
+      "partTitle": "The Teacher",
+      "reason": "No Scaife original-and-English work pair could be matched for The Teacher."
+    },
+    {
+      "loebNumber": 560,
+      "slug": "augustine-the-teacher-teaching-christianity-1dvc68",
+      "title": "The Teacher. Teaching Christianity",
+      "status": "placeholder",
+      "partTitle": "Teaching Christianity",
+      "reason": "No Scaife original-and-English work pair could be matched for Teaching Christianity."
+    }
+  ]
+}

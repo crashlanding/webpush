@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-little-carthaginian-pseudolus-the-rope-rpgc9x",
+  "volumeTitle": "The Little Carthaginian. Pseudolus. The Rope",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-rope-i828ht-11",
+  "label": "The Rope (Section 4.3.945b - Section 4.3.1011b)",
+  "partId": "the-rope-i828ht",
+  "partTitle": "The Rope",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Rudens",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Rudens, or The Fisherman's Rope",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "4.3.945b",
+      "label": "Section 4.3.945b",
+      "chapter": null,
+      "original": "Aúdi .",
+      "translation": "Listen ."
+    },
+    {
+      "id": "4.3.946",
+      "label": "Section 4.3.946",
+      "chapter": null,
+      "original": "Non aúdio .",
+      "translation": "I won ’ t listen ."
+    },
+    {
+      "id": "4.3.946b",
+      "label": "Section 4.3.946b",
+      "chapter": null,
+      "original": "At pol qui aúdies póst .",
+      "translation": "But , upon my faith , you shall listen ."
+    },
+    {
+      "id": "4.3.946c",
+      "label": "Section 4.3.946c",
+      "chapter": null,
+      "original": "Quin loquere quíd vis .",
+      "translation": "Nay but , another time , tell me what you want ."
+    },
+    {
+      "id": "4.3.947",
+      "label": "Section 4.3.947",
+      "chapter": null,
+      "original": "Eho máne dum , est óperae pretium quod tíbi ego narraré volo .",
+      "translation": "Come now , it ’ s worth your while at once to hear what I want to tell you ."
+    },
+    {
+      "id": "4.3.948",
+      "label": "Section 4.3.948",
+      "chapter": null,
+      "original": "Elóquere quid id est ?",
+      "translation": "Say on , whatever it is ."
+    },
+    {
+      "id": "4.3.948b",
+      "label": "Section 4.3.948b",
+      "chapter": null,
+      "original": "Víde num quispíam consequitur própe nos .",
+      "translation": "See whether any person is following near us ."
+    },
+    {
+      "id": "4.3.949",
+      "label": "Section 4.3.949",
+      "chapter": null,
+      "original": "Écquid est quód mea réferat ?",
+      "translation": "Why , what reason is there that it should matter to me ?"
+    },
+    {
+      "id": "4.3.949b",
+      "label": "Section 4.3.949b",
+      "chapter": null,
+      "original": "Scílicet .",
+      "translation": "So it is ;"
+    },
+    {
+      "id": "4.3.950",
+      "label": "Section 4.3.950",
+      "chapter": null,
+      "original": "séd boni cónsili écquid in té mihi est ?",
+      "translation": "but can you give me some good advice ?"
+    },
+    {
+      "id": "4.3.951",
+      "label": "Section 4.3.951",
+      "chapter": null,
+      "original": "Quíd negoti ést , modo díce .",
+      "translation": "What ’ s the business ? Only tell me ."
+    },
+    {
+      "id": "4.3.951b",
+      "label": "Section 4.3.951b",
+      "chapter": null,
+      "original": "Dicám , tace ,",
+      "translation": "I ’ ll tell you ; keep silence ; if only you ’ ll give me your word that you won ’ t prove treacherous to me ."
+    },
+    {
+      "id": "4.3.953",
+      "label": "Section 4.3.953",
+      "chapter": null,
+      "original": "Dó fidem tibi , fídus ero , quísquis es .",
+      "translation": "I do give you my word ; I ’ ll be true to you , whoever you are ."
+    },
+    {
+      "id": "4.3.953b",
+      "label": "Section 4.3.953b",
+      "chapter": null,
+      "original": "Aúdi .",
+      "translation": "Listen . I saw a person commit a theft ;"
+    },
+    {
+      "id": "4.3.955",
+      "label": "Section 4.3.955",
+      "chapter": null,
+      "original": "norám dominum , id cui fíebat ,",
+      "translation": "I knew the owner to whom that same property belonged . Afterwards I came myself to the thief , and I made him a proposal in these terms : I know the person on whom that theft was committed ; now if you are ready to give me half , I ’ ll not make a discovery to the owner ."
+    },
+    {
+      "id": "4.3.960",
+      "label": "Section 4.3.960",
+      "chapter": null,
+      "original": "is míhi nihil etiam réspondit . quid inde aéquom est dari mihi ? dímidium",
+      "translation": "He didn ’ t even give me an answer . What is it fair should be given me out of it ? Half , I trust you will say ."
+    },
+    {
+      "id": "4.3.961b",
+      "label": "Section 4.3.961b",
+      "chapter": null,
+      "original": "Immo hercle étiam amplius , nam nísi dat , domino dícundum",
+      "translation": "Aye , even more ; but unless he gives it you , I think it ought to be told to the owner ."
+    },
+    {
+      "id": "4.3.962b",
+      "label": "Section 4.3.962b",
+      "chapter": null,
+      "original": "Tuo consilió faciam . nunc ádvorte animum ; námque hoc omne",
+      "translation": "I ’ ll act on your advice . Now give me your attention ; for it is to yourself all this relates ."
+    },
+    {
+      "id": "4.3.962ab",
+      "label": "Section 4.3.962ab",
+      "chapter": null,
+      "original": "Quid fáctumst ?",
+      "translation": "What has been done by me ?"
+    },
+    {
+      "id": "4.3.963",
+      "label": "Section 4.3.963",
+      "chapter": null,
+      "original": "Vídulum istum cúiust novi ego hóminem iam pridem .",
+      "translation": "I ’ ve known the person for a long time to whom that wallet belongs ."
+    },
+    {
+      "id": "4.3.963b",
+      "label": "Section 4.3.963b",
+      "chapter": null,
+      "original": "Quid est ?",
+      "translation": "What do you mean ?"
+    },
+    {
+      "id": "4.3.964",
+      "label": "Section 4.3.964",
+      "chapter": null,
+      "original": "Et quo pacto periit .",
+      "translation": "And in what manner it was lost ."
+    },
+    {
+      "id": "4.3.964b",
+      "label": "Section 4.3.964b",
+      "chapter": null,
+      "original": "At ego quo pacto inventust scio",
+      "translation": "But I know in what manner it was found ;"
+    },
+    {
+      "id": "4.3.965",
+      "label": "Section 4.3.965",
+      "chapter": null,
+      "original": "et qui invenit hominem novi et dominus qui nunc est scio .",
+      "translation": "and I know the person who found it , and who is now the owner . That , I ’ faith , is not a bit the more your matter than it is my own . I know the person to whom it now belongs ; you , the person to whom it formerly belonged . This shall no individual get away from me ; don ’ t you be expecting to get it in a hurry ."
+    },
+    {
+      "id": "4.3.969",
+      "label": "Section 4.3.969",
+      "chapter": null,
+      "original": "Non ferat si dominus veniat ?",
+      "translation": "If the owner comes , shan ’ t he get it away ?"
+    },
+    {
+      "id": "4.3.969b",
+      "label": "Section 4.3.969b",
+      "chapter": null,
+      "original": "Dominus huic , ne frustra sis ,",
+      "translation": "That you mayn ’ t be mistaken , no born person is there that ’ s owner of this but my own self — who took this in my own fishing ."
+    },
+    {
+      "id": "4.3.971",
+      "label": "Section 4.3.971",
+      "chapter": null,
+      "original": "Itane vero ?",
+      "translation": "Was it really so ?"
+    },
+    {
+      "id": "4.3.971b",
+      "label": "Section 4.3.971b",
+      "chapter": null,
+      "original": "Ecquem esse dices in mari piscem meum ?",
+      "translation": "Which fish in the sea will you say is my own ? When I catch them , if indeed I do catch them , they are my own ; as my own I keep them . They are not claimed as having a right to freedom [*] nor does any person demand a share in them . In the market I sell them all openly as my own wares ."
+    },
+    {
+      "id": "4.3.975",
+      "label": "Section 4.3.975",
+      "chapter": null,
+      "original": "mare quidem commune certost omnibus .",
+      "translation": "Indeed , the sea is , surely , common to all persons ."
+    },
+    {
+      "id": "4.3.975b",
+      "label": "Section 4.3.975b",
+      "chapter": null,
+      "original": "Adsentio :",
+      "translation": "I agree to that ; prithee , then , why any the less is it proper that this wallet should be common to me ? It was found in the sea ."
+    },
+    {
+      "id": "4.3.977b",
+      "label": "Section 4.3.977b",
+      "chapter": null,
+      "original": "Esne impudenter impudens ?",
+      "translation": "Assuredly you are an outrageously impudent fellow ; for if this is justice which you are saying , then fishermen would be ruined . Inasmuch as , the moment that the fish were exposed upon the stalls ,"
+    },
+    {
+      "id": "4.3.980",
+      "label": "Section 4.3.980",
+      "chapter": null,
+      "original": "nemo emat , suam quisque partem piscium poscant sibi ,",
+      "translation": "no one would buy them ; every person would be demanding his own share of the fish for himself ; he would be saying that they were caught in the sea that was common to all ."
+    },
+    {
+      "id": "4.3.981b",
+      "label": "Section 4.3.981b",
+      "chapter": null,
+      "original": "Quid ais , impudens ?",
+      "translation": "What do you say , you impudent fellow ? Do you dare to compare a wallet with fish ? Pray , does it appear to be the same thing ?"
+    },
+    {
+      "id": "4.3.983b",
+      "label": "Section 4.3.983b",
+      "chapter": null,
+      "original": "In manu non est mea :",
+      "translation": "The matter doesn ’ t lie in my power ; when I ’ ve cast my hook and net into the sea , whatever has adhered I draw out ."
+    },
+    {
+      "id": "4.3.985",
+      "label": "Section 4.3.985",
+      "chapter": null,
+      "original": "meum quod rete atque hami nancti sunt , meum potissimumst .",
+      "translation": "Whatever my net and hooks have got , that in especial is my own ."
+    },
+    {
+      "id": "4.3.986",
+      "label": "Section 4.3.986",
+      "chapter": null,
+      "original": "Immo hercle haud est , siquidem quod vas excepisti .",
+      "translation": "Nay but , I ’ faith , it is not ; if , indeed , you ’ ve fished up any article that ’ s made [*]"
+    },
+    {
+      "id": "4.3.986b",
+      "label": "Section 4.3.986b",
+      "chapter": null,
+      "original": "Philosophe .",
+      "translation": "Philosopher , you ."
+    },
+    {
+      "id": "4.3.987",
+      "label": "Section 4.3.987",
+      "chapter": null,
+      "original": "Sed tu enumquam piscatorem vidisti , venefice ,",
+      "translation": "But look now , you conjurer , did you ever see a fisherman who caught a wallet-fish , or exposed one for sale in the market ? But , indeed , you shan ’ t here be taking possession of all the profits that you choose ;"
+    },
+    {
+      "id": "4.3.990",
+      "label": "Section 4.3.990",
+      "chapter": null,
+      "original": "et vitorem et piscatorem te esse , impure , postulas .",
+      "translation": "you expect , you dirty fellow , to be both a maker of wallets [*] and a fisherman . Either you must show me a fish that is a wallet , or else you shall carry nothing off that wasn ’ t produced in the sea and has no scales ."
+    },
+    {
+      "id": "4.3.993",
+      "label": "Section 4.3.993",
+      "chapter": null,
+      "original": "Quid , tu numquam audisti esse antehac vidulum piscem ?",
+      "translation": "What , did you never hear before to-day that a wallet was a fish ?"
+    },
+    {
+      "id": "4.3.993b",
+      "label": "Section 4.3.993b",
+      "chapter": null,
+      "original": "Scelus ,",
+      "translation": "Villain , there is no such fish ."
+    },
+    {
+      "id": "4.3.994b",
+      "label": "Section 4.3.994b",
+      "chapter": null,
+      "original": "Immo est profecto ; ego , qui sum piscator , scio ;",
+      "translation": "Yes , there certainly is ; I , who am a fisherman , know it ."
+    },
+    {
+      "id": "4.3.995",
+      "label": "Section 4.3.995",
+      "chapter": null,
+      "original": "verum raro capitur , nullus minus saepe ad terram venit .",
+      "translation": "But it is seldom caught ; no fish more rarely comes near the land ."
+    },
+    {
+      "id": "4.3.996",
+      "label": "Section 4.3.996",
+      "chapter": null,
+      "original": "Nil agis , dare verba speras mihi te posse , furcifer .",
+      "translation": "It ’ s to no purpose ; you hope that you can be cheating me , you rogue . Of what colour is it ?"
+    },
+    {
+      "id": "4.3.997",
+      "label": "Section 4.3.997",
+      "chapter": null,
+      "original": "Quo colore est , hoc colore capiuntur pauxilluli ;",
+      "translation": "Of this colour very few are caught : some are of a purple skin , there are great and black ones also ."
+    },
+    {
+      "id": "4.3.998b",
+      "label": "Section 4.3.998b",
+      "chapter": null,
+      "original": "Scio .",
+      "translation": "I understand ; by my troth , you ’ ll be turning into a wallet-fish I fancy , if you don ’ t take care ;"
+    },
+    {
+      "id": "4.3.1000",
+      "label": "Section 4.3.1000",
+      "chapter": null,
+      "original": "fiet tibi puniceum corium , postea atrum denuo .",
+      "translation": "your skin will be purple , and then afterwards black ."
+    },
+    {
+      "id": "4.3.1001",
+      "label": "Section 4.3.1001",
+      "chapter": null,
+      "original": "Quod scelus hodie hoc inveni .",
+      "translation": "What a villain this that I have met with to-day !"
+    },
+    {
+      "id": "4.3.1001b",
+      "label": "Section 4.3.1001b",
+      "chapter": null,
+      "original": "Verba facimus , it dies .",
+      "translation": "We are wasting words ; the day wears apace . Consider , please , by whose arbitration do you wish us to proceed ?"
+    },
+    {
+      "id": "4.3.1002b",
+      "label": "Section 4.3.1002b",
+      "chapter": null,
+      "original": "Viduli",
+      "translation": "By the arbitration of the wallet ."
+    },
+    {
+      "id": "4.3.1003b",
+      "label": "Section 4.3.1003b",
+      "chapter": null,
+      "original": "Stultus es .",
+      "translation": "Really so , indeed ? You are a fool ."
+    },
+    {
+      "id": "4.3.1003c",
+      "label": "Section 4.3.1003c",
+      "chapter": null,
+      "original": "Salve , Thales .",
+      "translation": "My respects to you , Mister Thales [*]"
+    },
+    {
+      "id": "4.3.1004",
+      "label": "Section 4.3.1004",
+      "chapter": null,
+      "original": "Tu istunc hodie non feres , nisi das sequestrum aut arbitrum ,",
+      "translation": "You shan ’ t carry that off this day , unless you find a place of safe keeping for it , or an umpire ,"
+    },
+    {
+      "id": "4.3.1005",
+      "label": "Section 4.3.1005",
+      "chapter": null,
+      "original": "quoius haec res arbitratu fiat .",
+      "translation": "by whose arbitration this matter may be settled ."
+    },
+    {
+      "id": "4.3.1005b",
+      "label": "Section 4.3.1005b",
+      "chapter": null,
+      "original": "Quaeso , sanus es ?",
+      "translation": "Prithee , are you in your senses ?"
+    },
+    {
+      "id": "4.3.1006",
+      "label": "Section 4.3.1006",
+      "chapter": null,
+      "original": "Elleborosus sum .",
+      "translation": "I ’ m mad , in need of hellebore ."
+    },
+    {
+      "id": "4.3.1006b",
+      "label": "Section 4.3.1006b",
+      "chapter": null,
+      "original": "At ego cerritus , hunc non amittam tamen .",
+      "translation": "But I ’ m troubled with sprites ; still I shan ’ t let this go ."
+    },
+    {
+      "id": "4.3.1007",
+      "label": "Section 4.3.1007",
+      "chapter": null,
+      "original": "Verbum etiam adde unum , iam in cerebro colaphos apstrudam tuo ;",
+      "translation": "Only add a single word more , that instant I ’ ll drive my fists smash into your brains . This instant on this spot , just as a new napkin is wont to be wrung , I ’ ll wring out of you whatever moisture there is , if you don ’ t let this go ."
+    },
+    {
+      "id": "4.3.1010",
+      "label": "Section 4.3.1010",
+      "chapter": null,
+      "original": "Tange : adfligam ad terram te itidem ut piscem soleo polypum .",
+      "translation": "Touch me ; I ’ ll dash you down on the ground just in such fashion as I ’ m in the habit of doing with a polypus fish [*] . Would you like to fight ?"
+    },
+    {
+      "id": "4.3.1011b",
+      "label": "Section 4.3.1011b",
+      "chapter": null,
+      "original": "Quid opust ? quin tu potius praedam divide .",
+      "translation": "What need is there ? Nay , in preference , divide the booty ."
+    }
+  ],
+  "prevChunkSlug": "the-rope-i828ht-10",
+  "nextChunkSlug": "the-rope-i828ht-12"
+}

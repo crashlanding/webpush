@@ -1,0 +1,211 @@
+{
+  "loebNumber": 65,
+  "sortOrder": 65,
+  "slug": "plutarch-lives-volume-iii-r33unt",
+  "title": "Lives, Volume III",
+  "volumeLabel": "Lives, Volume III",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Lives, Volume III. Lives, Volume III opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "fabius-maximus-1wuftr",
+  "readyChunkCount": 6,
+  "contents": [
+    {
+      "id": "lives-volume-iii-ci3e3i",
+      "title": "Lives, Volume III",
+      "status": "ready",
+      "sectionCount": 303,
+      "chunkSlug": "fabius-maximus-1wuftr",
+      "chunks": [
+        {
+          "slug": "fabius-maximus-1wuftr",
+          "label": "Fabius Maximus",
+          "partId": "lives-volume-iii-ci3e3i",
+          "partTitle": "Lives, Volume III",
+          "sectionCount": 54,
+          "status": "ready"
+        },
+        {
+          "slug": "comparison-of-pericles-and-fabius-maximus-19xfuw",
+          "label": "Comparison of Pericles and Fabius Maximus",
+          "partId": "lives-volume-iii-ci3e3i",
+          "partTitle": "Lives, Volume III",
+          "sectionCount": 6,
+          "status": "ready"
+        },
+        {
+          "slug": "alcibiades-8nt7gp",
+          "label": "Alcibiades",
+          "partId": "lives-volume-iii-ci3e3i",
+          "partTitle": "Lives, Volume III",
+          "sectionCount": 76,
+          "status": "ready"
+        },
+        {
+          "slug": "caius-marcius-coriolanus-lqxj7k",
+          "label": "Caius Marcius Coriolanus",
+          "partId": "lives-volume-iii-ci3e3i",
+          "partTitle": "Lives, Volume III",
+          "sectionCount": 77,
+          "status": "ready"
+        },
+        {
+          "slug": "comparison-of-alcibiades-and-coriolanus-mnxyop",
+          "label": "Comparison of Alcibiades and Coriolanus",
+          "partId": "lives-volume-iii-ci3e3i",
+          "partTitle": "Lives, Volume III",
+          "sectionCount": 10,
+          "status": "ready"
+        },
+        {
+          "slug": "timoleon-11wpmz",
+          "label": "Timoleon",
+          "partId": "lives-volume-iii-ci3e3i",
+          "partTitle": "Lives, Volume III",
+          "sectionCount": 80,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "fabius-maximus-1wuftr",
+      "label": "Fabius Maximus",
+      "partId": "lives-volume-iii-ci3e3i",
+      "partTitle": "Lives, Volume III",
+      "sectionCount": 54,
+      "status": "ready"
+    },
+    {
+      "slug": "comparison-of-pericles-and-fabius-maximus-19xfuw",
+      "label": "Comparison of Pericles and Fabius Maximus",
+      "partId": "lives-volume-iii-ci3e3i",
+      "partTitle": "Lives, Volume III",
+      "sectionCount": 6,
+      "status": "ready"
+    },
+    {
+      "slug": "alcibiades-8nt7gp",
+      "label": "Alcibiades",
+      "partId": "lives-volume-iii-ci3e3i",
+      "partTitle": "Lives, Volume III",
+      "sectionCount": 76,
+      "status": "ready"
+    },
+    {
+      "slug": "caius-marcius-coriolanus-lqxj7k",
+      "label": "Caius Marcius Coriolanus",
+      "partId": "lives-volume-iii-ci3e3i",
+      "partTitle": "Lives, Volume III",
+      "sectionCount": 77,
+      "status": "ready"
+    },
+    {
+      "slug": "comparison-of-alcibiades-and-coriolanus-mnxyop",
+      "label": "Comparison of Alcibiades and Coriolanus",
+      "partId": "lives-volume-iii-ci3e3i",
+      "partTitle": "Lives, Volume III",
+      "sectionCount": 10,
+      "status": "ready"
+    },
+    {
+      "slug": "timoleon-11wpmz",
+      "label": "Timoleon",
+      "partId": "lives-volume-iii-ci3e3i",
+      "partTitle": "Lives, Volume III",
+      "sectionCount": 80,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "fabius-maximus-1wuftr",
+      "partTitle": "Lives, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Φάβιος Μάξιμος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg013.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Fabius Maximus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg013.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "comparison-of-pericles-and-fabius-maximus-19xfuw",
+      "partTitle": "Lives, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περικλέους καὶ Φαβίου σύγκρισις",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg014.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Comparison of Pericles and Fabius Maximus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "alcibiades-8nt7gp",
+      "partTitle": "Lives, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀλκιβιάδης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg015.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Alcibiades",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "caius-marcius-coriolanus-lqxj7k",
+      "partTitle": "Lives, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Γάϊος Μάρκιος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg016.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Caius Marcius Coriolanus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "comparison-of-alcibiades-and-coriolanus-mnxyop",
+      "partTitle": "Lives, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀλκιβιάδου καὶ Κοριολὰνου σύγκρισις",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg017.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Comparison of Alcibiades and Coriolanus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "timoleon-11wpmz",
+      "partTitle": "Lives, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Timoleon",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg018.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Timoleon",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg018.perseus-eng2/"
+      }
+    }
+  ]
+}

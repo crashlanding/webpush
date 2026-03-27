@@ -1,0 +1,91 @@
+{
+  "loebNumber": 5,
+  "sortOrder": 5,
+  "slug": "appian-roman-history-volume-iv-bb9913",
+  "title": "Roman History, Volume IV",
+  "volumeLabel": "Roman History, Volume IV",
+  "authorDisplay": "Appian",
+  "authors": [
+    "Appian"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Roman History, Volume IV. Roman History, Volume IV opens a closest available slice of Appianus of Alexandria on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "numidian-affairs-i91dfj",
+  "readyChunkCount": 2,
+  "contents": [
+    {
+      "id": "roman-history-volume-iv-xu1ery",
+      "title": "Roman History, Volume IV",
+      "status": "ready",
+      "sectionCount": 24,
+      "chunkSlug": "numidian-affairs-i91dfj",
+      "chunks": [
+        {
+          "slug": "numidian-affairs-i91dfj",
+          "label": "Numidian Affairs",
+          "partId": "roman-history-volume-iv-xu1ery",
+          "partTitle": "Roman History, Volume IV",
+          "sectionCount": 5,
+          "status": "ready"
+        },
+        {
+          "slug": "macedonian-affairs-1jmlid",
+          "label": "Macedonian Affairs",
+          "partId": "roman-history-volume-iv-xu1ery",
+          "partTitle": "Roman History, Volume IV",
+          "sectionCount": 19,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "numidian-affairs-i91dfj",
+      "label": "Numidian Affairs",
+      "partId": "roman-history-volume-iv-xu1ery",
+      "partTitle": "Roman History, Volume IV",
+      "sectionCount": 5,
+      "status": "ready"
+    },
+    {
+      "slug": "macedonian-affairs-1jmlid",
+      "label": "Macedonian Affairs",
+      "partId": "roman-history-volume-iv-xu1ery",
+      "partTitle": "Roman History, Volume IV",
+      "sectionCount": 19,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "numidian-affairs-i91dfj",
+      "partTitle": "Roman History, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "ἐκ τῆς Νομαδικῆς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg010.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Numidian Affairs",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg010.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "macedonian-affairs-1jmlid",
+      "partTitle": "Roman History, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "ἐκ τῆς Μακεδονικῆς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg011.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Macedonian Affairs",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg011.perseus-eng2/"
+      }
+    }
+  ]
+}

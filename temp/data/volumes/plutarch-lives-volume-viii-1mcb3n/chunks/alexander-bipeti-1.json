@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plutarch-lives-volume-viii-1mcb3n",
+  "volumeTitle": "Lives, Volume VIII",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "alexander-bipeti-1",
+  "label": "Alexander (Section 1.1 - Section 30.2)",
+  "partId": "lives-volume-viii-wfl60u",
+  "partTitle": "Lives, Volume VIII",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Alexander",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg047.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Alexander",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg047.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1",
+      "label": "Section 1.1",
+      "chapter": null,
+      "original": "τὸν Ἀλεξάνδρου τοῦ βασιλέως βίον καὶ τοῦ Καίσαρος , ὑφʼ οὗ κατελύθη Πομπήϊος , ἐν τούτῳ τῷ βιβλίῳ γράφοντες , διὰ τὸ πλῆθος τῶν ὑποκειμένων πράξεων οὐδὲν ἄλλο προεροῦμεν ἢ παραιτησόμεθα τοὺς ἀναγινώσκοντας , ἐὰν μὴ πάντα μηδὲ καθʼ ἕκαστον ἐξειργασμένως τι τῶν περιβοήτων ἀπαγγέλλωμεν , ἀλλὰ ἐπιτέμνοντες τὰ πλεῖστα , μὴ συκοφαντεῖν .",
+      "translation": "It is the life of Alexander the king , and of Caesar , who overthrew Pompey , that I am writing in this book , and the multitude of the deeds to be treated is so great that I shall make no other preface than to entreat my readers , in case I do not tell of all the famous actions of these men , nor even speak exhaustively at all in each particular case , but in epitome for the most part , not to complain ."
+    },
+    {
+      "id": "1.2",
+      "label": "Section 1.2",
+      "chapter": null,
+      "original": "οὔτε γὰρ ἱστορίας γράφομεν , ἀλλὰ βίους , οὔτε ταῖς ἐπιφανεστάταις πράξεσι πάντως ἔνεστι δήλωσις ἀρετῆς ἢ κακίας , ἀλλὰ πρᾶγμα βραχὺ πολλάκις καὶ ῥῆμα καὶ paris.1624.665 παιδιά τις ἔμφασιν ἤθους ἐποίησε μᾶλλον ἢ μάχαι μυριόνεκροι καὶ παρατάξεις αἱ μέγισται καὶ πολιορκίαι πόλεων .",
+      "translation": "For it is not Histories that I am writing , but Lives ; and in the most illustrious deeds there is not always a manifestation of virtue or vice , nay , a slight thing like a phrase or a jest often makes a greater revelation of character than battles where thousands fall , or the greatest armaments , or sieges of cities ."
+    },
+    {
+      "id": "2.1",
+      "label": "Section 2.1",
+      "chapter": null,
+      "original": "Ἀλέξανδρος ὅτι τῷ γένει πρὸς πατρὸς μὲν ἦν Ἡρακλείδης ἀπὸ Καράνου , πρὸς δὲ μητρὸς Αἰακίδης ἀπὸ Νεοπτολέμου , τῶν πάνυ πεπιστευμένων ἐστί . λέγεται δέ Φίλιππος ἐν p.226 θρᾴκῃ τῇ Ὀλυμπιάδι συμμυηθείς αὐτός τε μειράκιον ὢν ἔτι κἀκείνης παιδὸς ὀρφανῆς γονέων ἐρασθῆναι καὶ τὸν γάμον οὕτως ἁρμόσαι , πείσας τὸν ἀδελφὸν αὐτῆς Ἀρύμβαν .",
+      "translation": "As for the lineage of Alexander , on his father ’ s side he was a descendant of Heracles through Caranus , and on his mother ’ s side a descendant of Aeacus through Neoptolemus ; this is accepted without any question . And we are told that Philip , after being initiated into the mysteries of Samothrace at the same time with Olympias , he himself being still a youth and she an orphan child , fell in love with her and betrothed himself to her at once with the consent of her brother , Arymbas ."
+    },
+    {
+      "id": "2.2",
+      "label": "Section 2.2",
+      "chapter": null,
+      "original": "ἡ μὲν οὖν νύμφη , πρὸ τῆς νυκτός ᾗ συνείρχθησαν εἰς τὸν θάλαμον , ἔδοξε βροντῆς γενομένης ἐμπεσεῖν αὐτῆς τῇ γαστρὶ κεραυνόν , ἐκ δὲ τῆς πληγῆς πολὺ πῦρ ἀναφθέν , εἶτα ῥηγνύμενον εἰς φλόγας πάντῃ φερομένας διαλυθῆναι . ὁ δὲ Φίλιππος ὑστέρῳ χρόνῳ μετὰ τὸν γάμον εἶδεν ὄναρ αὑτὸν ἐπιβάλλοντα σφραγῖδα τῇ γαστρὶ τῆς γυναικός · ἡ δὲ γλυφὴ τῆς σφραγῖδος , ὡς ᾤετο , λέοντος εἶχεν εἰκόνα .",
+      "translation": "Well , then , the night before that on which the marriage was consummated , the bride dreamed that there was a peal of thunder and that a thunder-bolt fell upon her womb , and that thereby much fire was kindled , which broke into flames that travelled all about , and then was extinguished . At a later time , too , after the marriage , Philip dreamed that he was putting a seal upon his wife ’ s womb ; and the device of the seal , as he thought , was the figure of a lion ."
+    },
+    {
+      "id": "3.1",
+      "label": "Section 3.1",
+      "chapter": null,
+      "original": "οὐ μὴν ἀλλὰ Φιλίππῳ μὲν , μετὰ τὸ φάσμα πέμψαντι Χαίρωνα τὸν Μεγαλοπολίτην εἰς Δελφοὺς , χρησμὸν κομισθῆναι λέγουσι παρὰ τοῦ θεοῦ κελεύοντος Ἄμμωνι θύειν καὶ σέβεσθαι μάλιστα τοῦτον τὸν θεόν ἀποβαλεῖν δὲ τῶν ὄψεων αὐτὸν τὴν ἑτέραν , ἣν τῷ τῆς θύρας ἁρμῷ προσβαλών κατώπτευσεν ἐν μορφῇ δράκοντος συνευναζόμενον τῇ γυναικὶ τὸν θεόν .",
+      "translation": "However , after his vision , as we are told , Philip sent Chaeron of Megalopolis to Delphi , by whom an oracle was brought him from Apollo , who bade him sacrifice to Ammon and hold that god in greatest reverence , but told him he was to lose that one of his eyes which he had applied to the chink in the door when he espied the god , in the form of a serpent , sharing the couch of his wife ."
+    },
+    {
+      "id": "3.2",
+      "label": "Section 3.2",
+      "chapter": null,
+      "original": "ἡ δὲ Ὀλυμπιάς , ὡς Ἐρατοσθένης φησί , προπέμπουσα τὸν Ἀλέξανδρον ἐπὶ τὴν στρατείαν , καὶ φράσασα μόνῳ τὸ περὶ τὴν τέκνωσιν ἀπόρρητον , ἐκέλευεν ἄξια φρονεῖν τῆς γενέσεως , ἕτεροι δέ φασιν αὐτὴν ἀφοσιοῦσθαι καὶ λέγειν οὐ παύσεταί με διαβάλλων Ἀλέξανδρος πρὸς τὴν Ἥραν ;",
+      "translation": "Moreover , Olympias , as Eratosthenes says , when she sent Alexander forth upon his great expedition , told him , and him alone , the secret of his begetting , and bade him have purposes worthy of his birth . Others , on the contrary , say that she repudiated the idea , and said : Alexander must cease slandering me to Hera . [*]"
+    },
+    {
+      "id": "4.1",
+      "label": "Section 4.1",
+      "chapter": null,
+      "original": "τὴν μὲν οὖν ἰδέαν τοῦ σώματος οἱ Λυσίππειοι μάλιστα τῶν ἀνδριάντων ἐμφαίνουσιν , ὑφʼ οὗ μόνου καὶ αὐτὸς ἠξίου πλάττεσθαι . καὶ γὰρ μάλισθʼ ἃ πολλοὶ τῶν διαδόχων ὕστερον καὶ τῶν φίλων ἀπεμιμοῦντο , τήν τε ἀνάτασιν τοῦ αὐχένος εἰς εὐώνυμον ἡσυχῇ κεκλιμένου καὶ Τὴν ὑγρότητα τῶν ὀμμάτων , διατετήρηκεν ἀκριβῶς ὁ τεχνίτης .",
+      "translation": "The outward appearance of Alexander is best represented by the statues of him which Lysippus made , and it was by this artist alone that Alexander himself thought it fit that he should be modelled . For those peculiarities which many of his successors and friends afterwards tried to imitate , namely , the poise of the neck , which was bent slightly to the left , and the melting glance of his eyes , this artist has accurately observed ."
+    },
+    {
+      "id": "4.2",
+      "label": "Section 4.2",
+      "chapter": null,
+      "original": "Ἀπελλῆς δὲ γράφων τὸν κεραυνοφόρον οὐκ ἐμιμήσατο Τὴν χρόαν , ἀλλὰ φαιότερον καὶ πεπινωμένον ἐποίησεν . ἦν δὲ λευκός , ὥς φασιν ἡ δὲ p.232 λευκότης ἐπεφοίνισσεν αὐτοῦ περὶ τὸ στῆθος μάλιστα καὶ τὸ πρόσωπον , ὅτι δὲ τοῦ χρωτὸς ἥδιστον ἀπέπνει καὶ τὸ στόμα κατεῖχεν εὐωδία καὶ Τὴν σάρκα πᾶσαν , ὥστε πληροῦσθαι τοὺς χιτωνίσκους , ἀνέγνωμεν ἐν ὑπομνήμασιν Ἀριστοξενείοις .",
+      "translation": "Apelles , however , in painting him as wielder of the thunderbolt , did not reproduce his complexion , but made it too dark and swarthy . Whereas he was of a fair colour , as they say , and his fairness passed into ruddiness on his breast particularly , and in his face . Moreover , that a very pleasant odour exhaled from his skin and that there was a fragrance about his mouth and all his flesh , so that his garments were filled with it , this we have read in the Memoirs of Aristoxenus ."
+    },
+    {
+      "id": "5.1",
+      "label": "Section 5.1",
+      "chapter": null,
+      "original": "τοὺς δὲ παρὰ τοῦ Περσῶν βασιλέως πρέσβεις ἥκοντας ἀποδημοῦντος Φιλίππου ξενίζων καὶ γενόμενος συνήθης οὕτως ἐχειρώσατο τῇ φιλοφροσύνῃ καὶ τῷ μηδὲν ἐρώτημα παιδικὸν ἐρωτῆσαι μηδὲ μικρόν , ἀλλʼ ὁδῶν τε μήκη καὶ πορείας τῆς ἄνω τρόπον ἐκπυνθάνεσθαι , καὶ περὶ αὐτοῦ τοῦ βασιλέως , ὁποῖος εἴη πρὸς τοὺς πολέμους , καὶ τίς ἡ Περσῶν ἀλκὴ καὶ δύναμις , ὥστε θαυμάζειν ἐκείνους καὶ τὴν λεγομένην Φιλίππου δεινότητα μηδὲν ἡγεῖσθαι πρὸς τὴν τοῦ παιδὸς ὁρμὴν καὶ μεγαλοπραγμοσύνην .",
+      "translation": "He once entertained the envoys from the Persian king who came during Philip ’ s absence , and associated with them freely . He won upon them by his friendliness , and by asking no childish or trivial questions , but by enquiring about the length of the roads and the character of the journey into the interior , about the king himself , what sort of a warrior he was , and what the prowess and might of the Persians . The envoys were therefore astonished and regarded the much-talked-of ability of Philip as nothing compared with his son ’ s eager disposition to do great things ."
+    },
+    {
+      "id": "5.2",
+      "label": "Section 5.2",
+      "chapter": null,
+      "original": "ὁσάκις γοῦν ἀπαγγελθείη Φίλιππος ἢ πόλιν ἔνδοξον ᾑρηκὼς ἢ μάχην τινὰ περιβόητον νενικηκώς , οὐ πάνυ φαιδρὸς ἦν ἀκούων , ἀλλὰ πρὸς τοὺς ἡλικιώτας ἔλεγεν · ὦ παῖδες , πάντα προλήψεται ὁ πατήρ ἐμοὶ δὲ οὐδὲν ἀπολείψει μεθʼ ὑμῶν ἔργον ἀποδείξασθαι μέγα καὶ λαμπρόν .",
+      "translation": "At all events , as often as tidings were brought that Philip had either taken a famous city or been victorious in some celebrated battle , Alexander was not very glad to hear them , but would say to his comrades : Boys , my father will anticipate everything ; and for me he will leave no great or brilliant achievement to be displayed to the world with your aid ."
+    },
+    {
+      "id": "6.1",
+      "label": "Section 6.1",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ Φιλονίκου τοῦ Θεσσαλοῦ τὸν Βουκεφάλαν ἀγαγόντος ὤνιον τῷ Φιλίππῳ τρισκαίδεκα ταλάντων κατέβησαν εἰς τὸ πεδίον δοκιμάσοντες τὸν ἵππον , ἐδόκει τε χαλεπὸς εἶναι καὶ κομιδῇ δύσχρηστος , οὔτε ἀναβάτην προσιέμενος οὔτε φωνὴν ὑπομένων τινὸς τῶν περὶ τὸν Φίλιππον , ἀλλʼ ἁπάντων κατεξανιστάμενος ,",
+      "translation": "Once upon a time Philoneicus the Thessalian brought Bucephalas , offering to sell him to Philip for thirteen talents , [*] and they went down into the plain to try the horse , who appeared to be savage and altogether intractable , neither allowing any one to mount him , nor heeding the voice of any of Philip ’ s attendants , but rearing up against all of them ."
+    },
+    {
+      "id": "6.2",
+      "label": "Section 6.2",
+      "chapter": null,
+      "original": "δυσχεραίνοντος δὲ τοῦ Φιλίππου καὶ κελεύοντος ἀπάγειν ὡς παντάπασιν ἄγριον καὶ ἀκόλαστον , παρὼν Ἀλέξανδρος εἶπεν · οἷον ἵππον ἀπολλύουσι διʼ ἀπειρίαν καὶ μαλακίαν χρήσασθαι μὴ δυνάμενοι , τὸ μὲν οὖν πρῶτον ὁ Φίλιππος ἐσιώπησε · πολλάκις δὲ αὐτοῦ παραφθεγγομένου καὶ περιπαθοῦντος , ἐπιτιμᾷς σύ , ἔφη , πρεσβυτέροις ὥς τι πλέον αὐτὸς εἰδὼς ἢ μᾶλλον ἵππῳ χρήσασθαι p.238 δυνάμενος ;",
+      "translation": "Then Philip was vexed and ordered the horse to be led away , believing him to be altogether wild and unbroken ; but Alexander , who was near by , said : What a horse they are losing , because , for lack of skill and courage , they cannot manage him ! At first , then , Philip held his peace ; but as Alexander many times let fall such words and showed great distress , he said : Dost thou find fault with thine elders in the belief that thou knowest more than they do or art better able to manage a horse ?"
+    },
+    {
+      "id": "7.1",
+      "label": "Section 7.1",
+      "chapter": null,
+      "original": "καθορῶν δὲ τὴν φύσιν αὐτοῦ δυσκίνητον μὲν οὖσαν ἐρίσαντος μὴ βιασθῆναι , ῥᾳδίως δὲ ἀγομένην ὑπὸ λόγου πρὸς τὸ δέον , αὐτός τε p.240 πείθειν ἐπειρᾶτο μᾶλλον ἢ προστάττειν , καὶ τοῖς περὶ μουσικὴν καὶ τὰ ἐγκύκλια παιδευταῖς οὐ πάνυ τι πιστεύων τὴν ἐπιστασίαν αὐτοῦ καὶ κατάρτισιν , ὡς μείζονος οὖσαν πραγματείας καὶ κατὰ τὸν Σοφοκλέα\nπολλῶν χαλινῶν ἔργον οἰάκων θʼ ἅμα ,",
+      "translation": "And since Philip saw that his son ’ s nature was unyielding and that he resisted compulsion , but was easily led by reasoning into the path of duty , he himself tried to persuade rather than to command him ; and because he would not wholly entrust the direction and training of the boy to the ordinary teachers of poetry and the formal studies , feeling that it was a matter of too great importance , and , in the words of Sophocles , [*] A task for many bits and rudder-sweeps as well ,"
+    },
+    {
+      "id": "7.2",
+      "label": "Section 7.2",
+      "chapter": null,
+      "original": "μετεπέμψατο τῶν φιλοσόφων τὸν ἐνδοξότατον paris.1624.668 καὶ λογιώτατον Ἀριστοτέλην , καλὰ καὶ πρέποντα διδασκάλια τελέσας αὐτῷ . τὴν γὰρ Σταγειριτῶν πόλιν , ἐξ ἧς ἦν Ἀριστοτέλης , ἀνάστατον ὑπʼ αὐτοῦ γεγενημένην συνῴκισε πάλιν , καὶ τοὺς διαφυγόντας ἢ δουλεύοντας τῶν πολιτῶν ἀποκατέστησε .",
+      "translation": "he sent for the most famous and learned of philosophers , Aristotle , and paid him a noble and appropriate tuition-fee . The city of Stageira , that is , of which Aristotle was a native , and which he had himself destroyed , he peopled again , and restored to it those of its citizens who were in exile or slavery ."
+    },
+    {
+      "id": "8.1",
+      "label": "Section 8.1",
+      "chapter": null,
+      "original": "δοκεῖ δέ μοι καὶ τὸ φιλιατρεῖν Ἀλεξάνδρῳ προστρίψασθαι μᾶλλον ἑτέρων Ἀριστοτέλης · οὐ γὰρ μόνον τὴν θεωρίαν ἠγάπησεν , ἀλλὰ καὶ νοσοῦσιν ἐβοήθει τοῖς φίλοις καὶ συνέταττε θεραπείας τινὰς καὶ διαίτας , ὡς ἐκ τῶν ἐπιστολῶν λαβεῖν ἔστιν , ἦν δὲ καὶ φύσει φιλόλογος καὶ φιλαναγνώστης .",
+      "translation": "Moreover , in my opinion Alexander ’ s love of the art of healing was inculcated in him by Aristotle preeminently . For he was not only fond of the theory of medicine , but actually came to the aid of his friends when they were sick , and prescribed for them certain treatments and regimens , as one can gather from his letters . He was also by nature a lover of learning and a lover of reading ."
+    },
+    {
+      "id": "8.2",
+      "label": "Section 8.2",
+      "chapter": null,
+      "original": "καὶ τὴν μὲν Ἰλιάδα τῆς πολεμικῆς ἀρετῆς ἐφόδιον καὶ νομίζων καὶ ὀνομάζων , ἔλαβε μὲν Ἀριστοτέλους διορθώσαντος ἣν ἐκ τοῦ νάρθηκος καλοῦσιν , εἶχε δὲ ἀεὶ μετὰ τοῦ ἐγχειριδίου κειμένην ὑπὸ τὸ προσκεφάλαιον , ὡς Ὀνησίκριτος ἱστόρηκε , τῶν δὲ ἀλλων βιβλίων οὐκ εὐπορῶν ἐν τοῖς ἄνω τόποις Ἅρπαλον ἐκέλευσε πέμψαι .",
+      "translation": "And since he thought and called the Iliad a viaticum of the military art , he took with him Aristotle ’ s recension of the poem , called the Iliad of the Casket , [*] and always kept it lying with his dagger under his pillow , as Onesicritus informs us ; and when he could find no other books in the interior of Asia , he ordered Harpalus to send him some ."
+    },
+    {
+      "id": "9.1",
+      "label": "Section 9.1",
+      "chapter": null,
+      "original": "Φιλίππου δὲ στρατεύοντος ἐπὶ Βυζαντίους , ἦν μὲν ἑκκαιδεκέτης Ἀλέξανδρος , ἀπολειφθεὶς δὲ κύριος ἐν Μακεδονίᾳ τῶν πραγμάτων καὶ τῆς σφραγῖδος , Μαίδων τε τοὺς ἀφεστῶτας κατεστρέψατο , καὶ πόλιν ἑλὼν αὐτῶν τοὺς μὲν βαρβάρους ἐξήλασε , συμμίκτους δὲ κατοικίσας Ἀλεξανδρόπολιν προσηγόρευσεν .",
+      "translation": "While Philip was making an expedition against Byzantium , [*] Alexander , though only sixteen years of age , was left behind as regent in Macedonia and keeper of the royal seal , and during this time he subdued the rebellious Maedi , and after taking their city , drove out the Barbarians , settled there a mixed population , and named the city Alexandropolis ."
+    },
+    {
+      "id": "9.2",
+      "label": "Section 9.2",
+      "chapter": null,
+      "original": "ἐν δὲ Χαιρωνείᾳ τῆς πρὸς τοὺς Ἕλληνας μάχης παρὼν μετέσχε , καὶ λέγεται πρῶτος ἐνσεῖσαι τῷ ἱερῷ λόχῳ τῶν Θηβαίων , ἔτι δὲ καὶ καθʼ ἡμᾶς ἐδείκνυτο παλαιὰ paris.1624.669 παρὰ τὸν Κηφισὸν Ἀλεξάνδρου καλουμένη δρῦς , πρὸς ἣν τότε κατεσκήνωσε , καὶ τὸ πολυάνδριον οὐ πόρρω τῶν Μακεδόνων ἐστίν .",
+      "translation": "He was also present at Chaeroneia and took part in the battle against the Greeks , [*] and he is said to have been the first to break the ranks of the Sacred Band of the Thebans . And even down to our day there was shown an ancient oak by the Cephisus , called Alexander ’ s oak , near which at that time he pitched his tent ; and the general sepulchre of the Macedonians is not far away ."
+    },
+    {
+      "id": "10.1",
+      "label": "Section 10.1",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ Πιξόδαρος , ὁ Καρίας σατράπης , ὑποδυόμενος διʼ οἰκειότητος εἰς τὴν Φιλίππου συμμαχίαν , ἐβούλετο τὴν πρεσβυτάτην τῶν θυγατέρων Ἀρριδαίῳ τῷ Φιλίππου γυναῖκα δοῦναι καὶ περὶ τούτων Ἀριστόκριτον εἰς Μακεδονίαν ἀπέστειλεν , αὖθις ἐγίνοντο λόγοι καὶ διαβολαὶ παρὰ τῶν φίλων καὶ τῆς μητρὸς πρὸς Ἀλέξανδρον , ὡς Ἀρριδαῖον ἐπὶ τῇ βασιλείᾳ Φιλίππου γάμοις λαμπροῖς καὶ πράγμασι μεγάλοις εἰσοικειοῦντος .",
+      "translation": "But when Pixodarus , the satrap of Caria , trying by means of a tie of relationship to steal into a military alliance with Philip , wished to give his eldest daughter in marriage to Arrhidaeus the son of Philip , and sent Aristocritus to Macedonia on this errand , once more slanderous stories kept coming to Alexander from his friends and his mother , who said that Philip , by means of a brilliant marriage and a great connexion , was trying to settle the kingdom upon Arrhidaeus . Greatly disturbed by these stories ,"
+    },
+    {
+      "id": "10.2",
+      "label": "Section 10.2",
+      "chapter": null,
+      "original": "ὑφʼ ὧν διαταραχθεὶς πέμπει Θεσσαλὸν εἰς Καρίαν , τὸν τῶν τραγῳδιῶν ὑποκριτήν , Πιξοδάρῳ διαλεξόμενον ὡς χρὴ τὸν νόθον ἐάσαντα , καὶ οὐ φρενήρη , μεθαρμόσασθαι τὸ κῆδος εἰς Ἀλέξανδρον . καὶ Πιξοδάρῳ μὲν οὐ παρὰ μικρὸν ἤρεσκε ταῦτα τῶν προτέρων μᾶλλον , ὁ δὲ Φίλιππος αἰσθόμενος , ἰὼν εἰς τὸ Ἀλεξάνδρου δωμάτιον , [*] παραλαβὼν τῶν φίλων αὐτοῦ καὶ συνήθων ἕνα , Φιλώταν τὸν Παρμενίωνος ,",
+      "translation": "Alexander sent Thessalus , the tragic actor , to Caria , to argue with Pixodarus that he ought to ignore the bastard brother , who was also a fool , and make Alexander his connexion by marriage . And this plan was vastly more pleasing to Pixodarus than the former . But Philip , becoming aware of this , went to Alexander ’ s chamber , taking with him one of Alexander ’ s friends and companions , Philotas the son of Parmenio ,"
+    },
+    {
+      "id": "11.1",
+      "label": "Section 11.1",
+      "chapter": null,
+      "original": "παρέλαβε μὲν οὖν ἔτη γεγονὼς εἴκοσι τὴν βασιλείαν , φθόνους μεγάλους καὶ δεινὰ μίση καὶ κινδύνους πανταχόθεν ἔχουσαν . οὔτε γὰρ τὰ βάρβαρα καὶ πρόσοικα γένη τὴν δούλωσιν ἔφερε , ποθοῦντα τὰς πατρίους βασιλείας , οὔτε τὴν Ἑλλάδα κρατήσας τοῖς ὅπλοις ὁ Φίλιππος οἷον καταζεῦξαι καὶ τιθασεῦσαι χρόνον ἔσχεν , ἀλλὰ μόνον p.252 μεταβαλὼν καὶ ταράξας τὰ πράγματα πολὺν σάλον ἔχοντα καὶ κίνησιν ὑπὸ ἀηθείας ἀπέλιπε .",
+      "translation": "Thus it was that at the age of twenty years Alexander received the kingdom , which was exposed to great jealousies , dire hatreds , and dangers on every hand . For the neighbouring tribes of Barbarians would not tolerate their servitude , and longed for their hereditary kingdoms ; and as for Greece , although Philip had conquered her in the field , he had not had time enough to make her tame under his yoke , but had merely disturbed and changed the condition of affairs there , and then left them in a great surge and commotion , owing to the strangeness of the situation ."
+    },
+    {
+      "id": "11.2",
+      "label": "Section 11.2",
+      "chapter": null,
+      "original": "φοβουμένων δὲ τῶν Μακεδόνων τὸν καιρόν , καὶ τὰ μὲν Ἑλληνικὰ πάντως ἀφεῖναι καὶ μὴ προσβιάζεσθαι τὸν Ἀλέξανδρον οἰομένων δεῖν , τοὺς δὲ ἀφισταμένους τῶν βαρβάρων ἀνακαλεῖσθαι πρᾴως καὶ θεραπεύειν τὰς ἀρχὰς τῶν νεωτερισμῶν , αὐτὸς ἀπʼ ἐναντίων λογισμῶν ὥρμησε τόλμῃ καὶ μεγαλοφροσύνῃ κτᾶσθαι τὴν ἀσφάλειαν καὶ σωτηρίαν τοῖς πράγμασιν , ὡς , κἂν ὁτιοῦν ὑφιέμενος ὀφθῇ τοῦ φρονήματος , ἐπιβησομένων ἁπάντων .",
+      "translation": "The Macedonian counsellors of Alexander had fears of the crisis , and thought he should give up the Greek states altogether and use no more compulsion there , and that he should call the revolting Barbarians back to their allegiance by mild measures and try to arrest the first symptoms of their revolutions ; but he himself set out from opposite principles to win security and safety for his realm by boldness and a lofty spirit , assured that , were he seen to abate his dignity even but a little , all his enemies would set upon him ."
+    },
+    {
+      "id": "12.1",
+      "label": "Section 12.1",
+      "chapter": null,
+      "original": "ἐν δὲ τοῖς πολλοῖς πάθεσι καὶ χαλεποῖς ἐκείνοις ἃ τὴν πόλιν κατεῖχε , Θρᾷκές τινες ἐκκόψαντες οἰκίαν Τιμοκλείας , γυναικὸς ἐνδόξου καὶ σώφρονος , αὐτοὶ μὲν τὰ χρήματα διήρπαζον , ὁ δὲ ἡγεμὼν τῇ γυναικὶ πρὸς βίαν συγγενόμενος καὶ καταισχύνας , ἀνέκρινεν εἴ που χρυσίον ἔχοι κεκρυμμένον ἢ ἀργύριον .",
+      "translation": "Among the many and grievous calamities which thus possessed the city , some Thracians broke into the house of Timocleia , a woman of high repute and chastity , and while the rest were plundering her property , their leader shamefully violated her , and then asked her if she had gold or silver concealed anywhere ."
+    },
+    {
+      "id": "12.2",
+      "label": "Section 12.2",
+      "chapter": null,
+      "original": "ἡ δὲ ἔχειν ὡμολόγησε , p.256 καὶ μόνον εἰς τὸν κῆπον ἀγαγοῦσα καὶ δείξασα φρέαρ , ἐνταῦθα ἔφη τῆς πόλεως ἁλισκομένης paris.1624.671 καταβαλεῖν αὐτὴ τὰ τιμιώτατα τῶν χρημάτων . ἐγκύπτοντος δὲ τοῦ Θρᾳκὸς καὶ κατασκεπτομένου τὸν τόπον , ἔωσεν αὐτὸν ἐξόπισθεν γενομένη , καὶ τῶν λίθων ἐπεμβαλοῦσα πολλοὺς ἀπέκτεινεν .",
+      "translation": "She admitted that she had , and after leading him by himself into the garden and showing him a well , told him that when the city was taken she had with her own hands cast in there her most valuable possessions . Then , as the Thracian was bending over and inspecting the place , she came behind him and pushed him in , cast many stones upon him , and killed him ."
+    },
+    {
+      "id": "13.1",
+      "label": "Section 13.1",
+      "chapter": null,
+      "original": "Ἀθηναίοις δὲ διηλλάγη , καίπερ οὐ μετρίως ἐνεγκοῦσι τὸ περὶ Θήβας δυστύχημα · καὶ γὰρ τὴν τῶν μυστηρίων ἑορτὴν ἐν χερσὶν ἔχοντες ὑπὸ πένθους ἀφῆκαν , καὶ τοῖς καταφυγοῦσιν ἐπὶ [*] τὴν πόλιν ἁπάντων μετεδίδοσαν τῶν φιλανθρώπων .",
+      "translation": "Furthermore , he was reconciled with the Athenians , although they showed exceeding sorrow at the misfortunes of Thebes ; for although they had begun the festival of the mysteries , they gave it up in consequence of their grief ; [*] and upon the Thebans who sought refuge in their city they bestowed every kindness ."
+    },
+    {
+      "id": "13.2",
+      "label": "Section 13.2",
+      "chapter": null,
+      "original": "ἀλλʼ εἴτε μεστὸς ὢν ἤδη τὸν θυμὸν , ὥσπερ οἱ λέοντες , εἴτε ἐπιεικὲς ἔργον ὠμοτάτῳ καὶ σκυθρωποτάτῳ παραβαλεῖν βουλόμενος , οὐ μόνον ἀφῆκεν αἰτίας πάσης , ἀλλὰ καὶ προσέχειν ἐκέλευσε τοῖς πράγμασι τὸν νοῦν τὴν πόλιν , ὡς , εἴ τι συμβαίη περὶ αὐτὸν , ἄρξουσαν τῆς Ἑλλάδος . ὕστερον μέντοι πολλάκις αὐτὸν ἡ Θηβαίων ἀνιᾶσαι συμφορὰ λέγεται καὶ πρᾳότερον οὐκ ὀλίγοις παρασχεῖν .",
+      "translation": "But notwithstanding this , whether his rage was now sated , as a lion ’ s might be , or whether he wished to offset a deed of the most sullen savagery with one that was merciful , he not only remitted all his charges against the city , but even bade it give good heed to its affairs , since , if anything should happen to him , it would have the rule over Greece . In later times , moreover , as we are told , the calamity of the Thebans often gave him remorse , and made him milder towards many people ."
+    },
+    {
+      "id": "14.1",
+      "label": "Section 14.1",
+      "chapter": null,
+      "original": "εἰς δὲ τὸν Ἰσθμὸν τῶν Ἑλλήνων συλλεγέντων καὶ ψηφισαμένων ἐπὶ Πέρσας μετʼ Ἀλεξάνδρου στρατεύειν ἡγεμὼν ἀνηγορεύθη . πολλῶν δὲ καὶ πολιτικῶν ἀνδρῶν καὶ φιλοσόφων ἀπηντηκότων αὐτῷ καὶ συνηδομένων , ἤλπιζε καὶ Διογένην τὸν Σινωπέα ταὐτὸ ποιήσειν , διατρίβοντα περὶ Κόρινθον .",
+      "translation": "And now a general assembly of the Greeks was held at the Isthmus , [*] where a vote was passed to make an expedition against Persia with Alexander , and he was proclaimed their leader . Thereupon many statesmen and philosophers came to him with their congratulations , and he expected that Diogenes of Sinope also , who was tarrying in Corinth , would do likewise ."
+    },
+    {
+      "id": "14.2",
+      "label": "Section 14.2",
+      "chapter": null,
+      "original": "ὡς δὲ ἐκεῖνος ἐλάχιστον Ἀλεξάνδρου λόγον ἔχων ἐν τῷ Κρανείῳ σχολὴν ἦγεν , αὐτὸς ἐπορεύετο πρὸς αὐτόν ἔτυχε δὲ κατακείμενος ἐν ἡλίῳ . καὶ μικρὸν μὲν ἀνεκάθισεν , ἀνθρώπων τοσούτων ἐπερχομένων , καὶ διέβλεψεν εἰς τὸν Ἀλέξανδρον . ὡς δὲ ἐκεῖνος ἀσπασάμενος καὶ προσειπὼν αὐτόν ἠρώτησεν εἴ τινος τυγχάνει δεόμενος , μικρὸν εἶπεν , ἀπὸ τοῦ ἡλίου μετάστηθι .",
+      "translation": "But since that philosopher took not the slightest notice of Alexander , and continued to enjoy his leisure in the suburb Craneion , Alexander went in person to see him ; and he found him lying in the sun . Diogenes raised himself up a little when he saw so many persons coming towards him , and fixed his eyes upon Alexander . And when that monarch addressed him with greetings , and asked if he wanted anything , Yes , said Diogenes , stand a little out of my sun ."
+    },
+    {
+      "id": "15.1",
+      "label": "Section 15.1",
+      "chapter": null,
+      "original": "τῆς δὲ στρατιᾶς τὸ πλῆθος οἱ μὲν ἐλάχιστον λέγοντες τρισμυρίους πεζοὺς καὶ τετρακισχιλίους ἱππεῖς , οἱ δὲ πλεῖστον πεζοὺς μὲν τετρακισμυρίους καὶ τρισχιλίους , ἱππέας δὲ πεντακισχιλίους ἀναγράφουσιν . ἐφόδιον δὲ τούτοις οὐ πλέον ἑβδομήκοντα ταλάντων ἔχειν αὐτόν Ἀριστόβουλος ἱστορεῖ , Δοῦρις δὲ τριάκοντα μόνον ἡμερῶν διατροφήν , Ὀνησίκριτος δὲ καὶ διακόσια τάλαντα προσοφείλειν .",
+      "translation": "As to the number of his forces , those who put it at the smallest figure mention thirty thousand foot and four thousand horse ; those who put it at the highest , forty-three thousand foot and five thousand horse . [*] To provision these forces , Aristobulus says he had not more than seventy talents ; Duris speaks of maintenance for only thirty days ; and Onesicritus says he owed two hundred talents besides ."
+    },
+    {
+      "id": "15.2",
+      "label": "Section 15.2",
+      "chapter": null,
+      "original": "ἀλλὰ καίπερ ἀπὸ μικρῶν καὶ στενῶν οὕτως ὁρμώμενος , οὐ πρότερον p.262 ἐπέβη τῆς νεώς ἢ τὰ τῶν ἑταίρων πράγματα σκεψάμενος ἀπονεῖμαι τῷ μὲν ἀγρόν , τῷ δὲ κώμην , τῷ δὲ συνοικίας πρόσοδον ἢ λιμένος . ἤδη δὲ κατανηλωμένων καὶ διαγεγραμμένων σχεδὸν ἁπάντων τῶν βασιλικῶν ὁ Περδίκκας σεαυτῷ δέ , εἶπεν , ὦ βασιλεῦ , τί καταλείπεις ; τοῦ δὲ φήσαντος ὅτι τὰς ἐλπίδας , οὐκοῦν , ἔφη , καὶ ἡμεῖς τούτων κοινωνήσομεν οἱ μετὰ σοῦ στρατευόμενοι .",
+      "translation": "But although he set out with such meagre and narrow resources , he would not set foot upon his ship until he had enquired into the circumstances of his companions and allotted to one a farm , to another a village , and to another the revenue from some hamlet or harbour . And when at last nearly all of the crown property had been expended or allotted , Perdiccas said to him : But for thyself , O king , what art thou leaving ? And when the king answered , My hopes , In these , then , said Perdiccas , we also will share who make the expedition with thee ."
+    },
+    {
+      "id": "16.1",
+      "label": "Section 16.1",
+      "chapter": null,
+      "original": "ἐν δὲ τούτῳ τῶν Δαρείου στρατηγῶν μεγάλην δύναμιν ἡθροικότων καὶ παρατεταγμένων ἐπὶ τῇ διαβάσει τοῦ Γρανικοῦ , μάχεσθαι μὲν p.264 ἴσως ἀναγκαῖον ἦν , ὥσπερ ἐν πύλαις τῆς Ἀσίας , περὶ τῆς εἰσόδου καὶ ἀρχῆς · τοῦ δὲ ποταμοῦ τὸ βάθος καὶ τὴν ἀνωμαλίαν καὶ τραχύτητα τῶν πέραν ὄχθων , πρός οὓς ἔδει γίνεσθαι τὴν ἀπόβασιν μετὰ μάχης , τῶν πλείστων δεδιότων , ἐνίων δὲ καὶ τὸ περὶ τόν μῆνα νενομισμένον οἰομένων δεῖν φυλάξασθαι",
+      "translation": "Meanwhile the generals of Dareius had assembled a large force and set it in array at the crossing of the river Granicus , so that it was practically necessary to fight , as it were at the gates of Asia , for entrance and dominion there . But most of the Macedonian officers were afraid of the depth of the river , and of the roughness and unevenness of the farther banks , up which they would have to climb while fighting . Some , too , thought they ought to observe carefully the customary practice in regard to the month"
+    },
+    {
+      "id": "16.2",
+      "label": "Section 16.2",
+      "chapter": null,
+      "original": "( Δαισίου γὰρ οὐκ εἱώθεισαν οἱ βασιλεῖ τῶν Μακεδόνων ἐξάγειν τὴν στρατιάν ), τοῦτο μὲν ἐπηνωρθώσατο κελεύσας δεύτερον Ἀρτεμίσιον ἄγειν , τοῦ δὲ Παρμενίωνος , ὡς ὀψὲ τῆς ὥρας οὔσης , οὐκ ἐῶντος ἀποκινδυνεύειν , εἰπὼν αἰσχύνεσθαι τόν Ἑλλήσποντον εἰ φοβήσεται τόν Γρανικὸν διαβεβηκὼς ἐκεῖνον , ἐμβάλλει τῷ ῥεύματι σὺν ἴλαις ἱππέων τρισκαίδεκα .",
+      "translation": "( for in the month of Daesius the kings of Macedonia were not wont to take the field with an army ). This objection Alexander removed by bidding them call the month a second Artemisius ; and when Parmenio , on the ground that it was too late in the day , objected to their risking the passage , he declared that the Hellespont would blush for shame , if , after having crossed that strait , he should be afraid of the Granicus , and plunged into the stream with thirteen troops of horsemen ."
+    },
+    {
+      "id": "17.1",
+      "label": "Section 17.1",
+      "chapter": null,
+      "original": "οὗτος ὁ ἀγὼν μεγάλην εὐθὺς ἐποίησε τῶν πραγμάτων μεταβολὴν πρὸς Ἀλέξανδρον , ὥστε καὶ Σάρδεις , τὸ πρόσχημα τῆς ἐπὶ θαλάσσῃ τῶν βαρβάρων ἡγεμονίας , παραλαβεῖν καὶ τἆλλα προστίθεσθαι . μόνη δὲ Ἁλικαρνασσὸς ἀντέστη καὶ Μίλητος , ἃς ἑλὼν κατὰ κράτος καὶ τὰ περὶ αὐτὰς πάντα χειρωσάμενος ἀμφίβολος ἦν πρὸς τὰ λοιπὰ τῇ γνώμῃ .",
+      "translation": "This contest at once made a great change in the situation to Alexander ’ s advantage , so that he received the submission even of Sardis , the bulwark of the barbarian dominion on the sea-coast , and added the rest of the country to his conquests . Halicarnassus alone withstood him , and Miletus , which cities he took by storm [*] and subdued all the territories about them . Then he was in doubt as to his future course ."
+    },
+    {
+      "id": "17.2",
+      "label": "Section 17.2",
+      "chapter": null,
+      "original": "καὶ πολλάκις μὲν ἔσπευδε Δαρείῳ συμπεσὼν ἀποκινδυνεῦσαι περὶ τῶν ὅλων , πολλάκις δὲ τοῖς ἐπὶ θαλάσσῃ πράγμασι καὶ χρήμασι διενοεῖτο πρῶτον οἷον ἐνασκήσας καὶ ῥώσας αὑτόν οὕτως ἀναβαίνειν ἐπʼ p.270 ἐκεῖνον . ἔστι δὲ τῆς Λυκίας κρήνη περὶ τὴν Ξανθίων πόλιν , ἧς τότε λέγουσιν αὐτομάτως περιτραπείσης καὶ ὑπερβαλούσης ἐκ βυθοῦ δέλτον ἐκπεσεῖν χαλκῆν τύπους ἔχουσαν ἀρχαίων γραμμάτων , ἐν οἷς ἐδηλοῦτο παύσεσθαι [*] τὴν Περσῶν ἀρχὴν ὑπὸ Ἑλλήνων καταλυθεῖσαν .",
+      "translation": "Many times he was eager to encounter Dareius and put the whole issue to hazard , and many times he would make up his mind to practice himself first , as it were , and strengthen himself by acquiring the regions along the sea with their resources , and then to go up against that monarch . Now , there is in Lycia , near the city of Xanthus , a spring , which at this time , as we are told , was of its own motion upheaved from its depths , and overflowed , and cast forth a bronze tablet bearing the prints of ancient letters , in which it was made known that the empire of the Persians would one day be destroyed by the Greeks and come to an end ."
+    },
+    {
+      "id": "18.1",
+      "label": "Section 18.1",
+      "chapter": null,
+      "original": "μετὰ ταῦτα Πισιδῶν τε τοὺς ἀντιστάντας ᾕρει καί Φρυγίαν ἐχειροῦτο καί Γόρδιον πόλιν , ἑστίαν Μίδου τοῦ παλαιοῦ γενέσθαι λεγομένην , παραλαβών , τὴν θρυλουμένην ἅμαξαν εἶδε φλοιῷ κρανείας ἐνδεδεμένην , καί λόγον ἐπʼ αὐτῇ πιστευόμενον ὑπὸ τῶν βαρβάρων ἤκουσεν , ὡς τῷ λύσαντι τὸν δεσμὸν εἵμαρται βασιλεῖ γενέσθαι τῆς οἰκουμένης .",
+      "translation": "After this , he overpowered such of the Pisidians as had offered him resistance , and subdued Phrygia ; and after he had taken the city of Gordium , [*] reputed to have been the home of the ancient Midas , he saw the much-talked-of waggon bound fast to its yoke with bark of the cornel-tree , and heard a story confidently told about it by the Barbarians , to the effect that whosoever loosed the fastening was destined to become king of the whole world ."
+    },
+    {
+      "id": "18.2",
+      "label": "Section 18.2",
+      "chapter": null,
+      "original": "οἱ μὲν οὖν πολλοί φασι , τῶν δεσμῶν τυφλὰς ἐχόντων τὰς ἀρχὰς καί διʼ ἀλλήλων πολλάκις σκολιοῖς ἑλιγμοῖς ὑποφερομένων , τὸν Ἀλέξανδρον ἀμηχανοῦντα λῦσαι διατεμεῖν τῇ μαχαίρᾳ τὸ σύναμμα , καί πολλὰς ἐξ αὐτοῦ κοπέντος ἀρχὰς φανῆναι . Ἀριστόβουλος δὲ καί πάνυ λέγει ῥᾳδίαν αὐτῷ τὴν λύσιν γενέσθαι , ἐξελόντι τοῦ ῥυμοῦ τὸν ἕστορα καλούμενον , ᾧ συνείχετο τὸ ζυγόδεσμον , εἶθʼ οὕτως ὑφελκύσαντι τὸν ζυγόν .",
+      "translation": "Well , then , most writers say that since the fastenings had their ends concealed , and were intertwined many times in crooked coils , Alexander was at a loss how to proceed , and finally loosened the knot by cutting it through with his sword , and that when it was thus smitten many ends were to be seen . But Aristobulus says that he undid it very easily , by simply taking out the so-called hestor , or pin , of the waggon-pole , by which the yoke-fastening was held together , and then drawing away the yoke . [*]"
+    },
+    {
+      "id": "19.1",
+      "label": "Section 19.1",
+      "chapter": null,
+      "original": "ἔτι δὲ μᾶλλον ἐθάρρησε καταγνοὺς δειλίαν Ἀλεξάνδρου πολὺν χρόνον ἐν Κιλικίᾳ διατρίψαντος . ἦν δὲ ἡ διατριβὴ διὰ νόσον , ἣν οἱ μὲν ἐκ κόπων , οἱ δὲ λουσαμένῳ ἐν τῷ τοῦ Κύδνου ῥεύματι καταπαγέντι [*] προσπεσεῖν λέγουσι .",
+      "translation": "Dareius was still more encouraged by Alexander ’ s long delay in Cilicia , which he attributed to cowardice . The delay was due , however , to a sickness , which assailed him in consequence of fatigues , according to some , [*] but according to others , because he took a bath in the river Cydnus , whose waters were icy cold ."
+    },
+    {
+      "id": "19.2",
+      "label": "Section 19.2",
+      "chapter": null,
+      "original": "τῶν μὲν οὖν ἄλλων ἰατρῶν οὐδεὶς ἐθάρρει βοηθήσειν , ἀλλὰ τὸν κίνδυνον οἰόμενοι πάσης ἰσχυρότερον εἶναι βοηθείας ἐφοβοῦντο τὴν ἐκ τοῦ σφαλῆναι διαβολὴν πρὸς τοὺς Μακεδόνας · Φίλιππος δʼ ὁ p.276 Ἀκαρνὰν μοχθηρὰ μὲν ἑώρα τὰ περὶ αὐτὸν ὄντα , τῇ δὲ φιλίᾳ πιστεύων , καὶ δεινὸν ἡγούμενος εἰ κινδυνεύοντι μὴ συγκινδυνεύσει μέχρι τῆς ἐσχάτης πείρας βοηθῶν καὶ παραβαλλόμενος , ἐπεχείρησε φαρμακείᾳ καὶ συνέπεισεν αὐτὸν ὑπομεῖναι καὶ πιεῖν , σπεύδοντα ῥωσθῆναι πρὸς τὸν πόλεμον .",
+      "translation": "Be that as it may , none of the other physicians had the courage to administer remedies , but thinking that the danger was too great to be overcome by any remedy whatever , they were afraid of the charges which would be made against them by the Macedonians in consequence of their failure ; but Philip the Acarnanian , who saw that the king was in an evil plight , put confidence in his friendship , and thinking it a shameful thing not to share his peril by exhausting the resources of art in trying to help him even at great risk , prepared a medicine and persuaded him to drink it boldly , if he was anxious to regain his strength for the war ."
+    },
+    {
+      "id": "20.1",
+      "label": "Section 20.1",
+      "chapter": null,
+      "original": "ἦν δέ τις ἐν τῷ Δαρείου στρατῷ πεφευγὼς ἐκ Μακεδονίας ἀνὴρ Μακεδών , Ἀμύντας , οὐκ ἄπειρος τῆς Ἀλεξάνδρου φύσεως , οὗτος ὡρμημένον ἰδὼν Δαρεῖον εἴσω τῶν στενῶν βαδίζειν ἐπʼ Ἀλέξανδρον , ἐδεῖτο κατὰ χώραν ὑπομένειν , ἐν πλάτος ἔχουσι πεδίοις καί ἀναπεπταμένοις πρὸς ἐλάττονας πλήθει τοσούτῳ διαμαχούμενον .",
+      "translation": "Now , there was in the army of Dareius a certain Macedonian who had fled from his country , Amyntas by name , and he was well acquainted with the nature of Alexander . This man , when he saw that Dareius was eager to attack Alexander within the narrow passes of the mountains , begged him to remain where he was , that he might fight a decisive battle with his vast forces against inferior numbers in plains that were broad and spacious ."
+    },
+    {
+      "id": "20.2",
+      "label": "Section 20.2",
+      "chapter": null,
+      "original": "ἀποκριναμένου δὲ Δαρείου δεδιέναι μὴ φθάσωσιν αὑτὸν ἀποδράντες οἱ πολέμιοι καί διαφυγὼν Ἀλέξανδρος , ἀλλὰ τούτου γε , εἶπεν , ὦ βασιλεῦ , χάριν θάρρει βαδιεῖται γὰρ ἐκεῖνος ἐπὶ σέ , καί σχεδὸν ἤδη βαδίζει . ταῦτα λέγων Ἀμύντας οὐκ ἔπειθεν , ἀλλʼ ἀναστὰς ἐπορεύετο Δαρεῖος εἰς Κιλικίαν , ἅμα δὲ Ἀλέξανδρος εἰς Συρίαν ἐπʼ ἐκεῖνον .",
+      "translation": "And when Dareius replied that he was afraid the enemy would run away before he could get at them , and Alexander thus escape him , Indeed , said Amyntas , on this point , O king , thou mayest be without fear ; for he will march against thee , nay , at this very moment , probably , he is on the march . Dareius would not listen to these words of Amyntas , but broke camp and marched into Cilicia , and at the same time Alexander marched into Syria against him ."
+    },
+    {
+      "id": "21.1",
+      "label": "Section 21.1",
+      "chapter": null,
+      "original": "τρεπομένῳ δὲ πρὸς τὸ δεῖπνον αὐτῷ φράζει τις ἐν τοῖς αἰχμαλώτοις ἀγομένας μητέρα καὶ γυναῖκα Δαρείου καὶ θυγατέρας δύο παρθένους ἰδούσας τὸ ἅρμα καὶ τὰ τόξα κόπτεσθαι καὶ θρηνεῖν , ὡς ἀπολωλότος ἐκείνου . συχνὸν οὖν ἐπισχὼν χρόνον Ἀλέξανδρος , καὶ ταῖς ἐκείνων τύχαις μᾶλλον ἢ ταῖς ἑαυτοῦ ἐμπαθὴς γενόμενος , πέμπει Λεοννάτον , ἀπαγγεῖλαι κελεύσας ὡς οὔτε Δαρεῖος τέθνηκεν οὔτε Ἀλέξανδρον δεδιέναι χρή ·",
+      "translation": "As he was betaking himself to supper , someone told him that among the prisoners were the mother , wife , and two unmarried daughters of Dareius , and that at sight of his chariot and bow they beat their breasts and lamented , believing that he was dead . Accordingly , after a considerable pause , more affected by their affliction than by his own success , he sent Leonnatus , with orders to tell them that Dareius was not dead , and that they need have no fear of Alexander ;"
+    },
+    {
+      "id": "21.2",
+      "label": "Section 21.2",
+      "chapter": null,
+      "original": "Δαρείῳ γὰρ ὑπὲρ ἡγεμονίας πολεμεῖν , ἐκείναις δὲ πάντα ὑπάρξειν ὧν καὶ Δαρείου βασιλεύοντος ἠξιοῦντο . τοῦ δὲ λόγου ταῖς γυναιξὶν ἡμέρου καὶ χρηστοῦ φανέντος ἔτι μᾶλλον τὰ τῶν ἔργων ἀπήντα φιλάνθρωπα . θάψαι γὰρ ὅσους ἐβούλοντο Περσῶν ἔδωκεν , ἐσθῆτι καὶ κόσμῳ χρησαμέναις ἐκ τῶν λαφύρων , θεραπείας τε καὶ τιμῆς ἦν εἶχον οὐδʼ ὁτιοῦν ἀφεῖλε , συντάξεις δὲ καὶ μείζονας ἐκαρποῦντο τῶν προτέρων .",
+      "translation": "for it was Dareius upon whom he was waging war for supremacy , but they should have everything which they used to think their due when Dareius was undisputed king . If this message was thought by the women to be mild and kindly , still more did the actions of Alexander prove to be humane . For he gave them permission to bury whom they pleased of the Persians , and to use for this purpose raiment and adornment from the spoils , and he abated not one jot of their honourable maintenance , nay , they enjoyed even larger allowances than before ."
+    },
+    {
+      "id": "22.1",
+      "label": "Section 22.1",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ Φιλόξενος ὁ τῶν ἐπὶ θαλάττῃ στρατηγὸς ἔγραψεν εἶναι παρʼ αὐτῷ Θεόδωρόν τινα Ταραντῖνον ἔχοντα παῖδας ὠνίους δύο τὴν ὄψιν ὑπερφυεῖς , καὶ πυνθανόμενος εἰ πρίηται , χαλεπῶς ἐνεγκὼν ἐβόα πολλάκις πρὸς τοὺς φίλους , ἐρωτῶν τί πώποτε Φιλόξενος αἰσχρὸν αὐτῷ p.286 συνεγνωκώς τοιαῦτα ὀνείδη προξενῶν κάθηται , τὸν δὲ Φιλόξενον αὐτόν ἐν ἐπιστολῇ πολλὰ λοιδορήσας ἐκέλευσεν αὐτοῖς φορτίοις τὸν Θεόδωρον paris.1624.677 εἰς τὸν ὄλεθρον ἀποστέλλειν .",
+      "translation": "Moreover , when Philoxenus , the commander of his forces on the sea-board , wrote that there was with him a certain Theodorus , of Tarentum , who had two boys of surpassing beauty to sell , and enquired whether Alexander would buy them , Alexander was incensed , and cried out many times to his friends , asking them what shameful thing Philoxenus had ever seen in him that he should spend his time in making such disgraceful proposals . And on Philoxenus himself he heaped much reproach in a letter , bidding him send Theodorus to perdition , merchandize and all ."
+    },
+    {
+      "id": "22.2",
+      "label": "Section 22.2",
+      "chapter": null,
+      "original": "ἐπέπληξε δὲ καὶ Ἅγνωνι γράψαντι πρὸς αὐτόν ὅτι Κρωβύλον εὐδοκιμοῦντα ἐν Κορίνθῳ βούλεται πριάμενος ἀγαγεῖν πρὸς αὐτόν , πυνθανόμενος δὲ μισθοφόρων τινῶν γύναια διεφθαρκέναι Δάμωνα καὶ Τιμόθεον Μακεδόνας τῶν ὑπὸ Παρμενίωνι στρατευομένων , ἔγραψε Παρμενίωνι κελεύων , ἐὰν ἐλεγχθῶσιν , ὡς θηρία ἐπὶ καταφθορᾷ τῶν ἀνθρώπων γεγονότα τιμωρησάμενον ἀποκτεῖναι .",
+      "translation": "He severely rebuked Hagnon also for writing to him that he wanted to buy Crobylus , whose beauty was famous in Corinth , as a present for him . Furthermore , on learning that Damon and Timotheus , two Macedonian soldiers under Parmenio ’ s command , had ruined the wives of certain mercenaries , he wrote to Parmenio ordering him , in case the men were convicted , to punish them and put them to death as wild beasts born for the destruction of mankind ."
+    },
+    {
+      "id": "23.1",
+      "label": "Section 23.1",
+      "chapter": null,
+      "original": "ἦν δὲ καὶ πρός οἶνον ἧττον ἢ ἐδόκει καταφερής . ἔδοξε δὲ διὰ τὸν χρόνον ὃν οὐ πίνων μᾶλλον ἢ λαλῶν εἷλκεν ἐφʼ ἑκάστης κύλικος , ἀει μακρόν τινα λόγον διατιθέμενος , καὶ ταῦτα πολλῆς σχολῆς οὔσης , ἐπεὶ πρός γε τὰς πράξεις οὐκ οἶνος ἐκεῖνον , οὐχ ὕπνος , οὐ παιδιά τις , οὐ γάμος , οὐ θέα , καθάπερ ἄλλους στρατηγούς , ἐπέσχε .",
+      "translation": "To the use of wine also he was less addicted than was generally believed . The belief arose from the time which he would spend over each cup , more in talking than in drinking , always holding some long discourse , and this too when he had abundant leisure . For in the stress of affairs he was not to be detained , as other commanders were , either by wine , or sleep , or any sport , or amour , or spectacle ."
+    },
+    {
+      "id": "23.2",
+      "label": "Section 23.2",
+      "chapter": null,
+      "original": "δηλοῖ δὲ ὁ βίος , ὃν βιώσας βραχὺν παντάπασι , πλείστων καὶ μεγίστων πράξεων ἐνέπλησεν . ἐν δὲ ταῖς σχολαῖς πρῶτον μὲν ἀναστὰς καὶ θύσας τοῖς θεοῖς εὐθὺς ἠρίστα καθήμενος · ἔπειτα διημέρευε κυνηγῶν ἢ δικάζων ἢ συντάττων τι τῶν πολεμικῶν ἢ ἀναγινώσκων . εἰ δὲ ὁδὸν βαδίζοι μὴ λίαν ἐπείγουσαν , ἐμάνθανεν ἅμα πορευόμενος ἢ τοξεύειν ἢ ἐπιβαίνειν ἅρματος ἐλαυνομένου καὶ ἀποβαίνειν .",
+      "translation": "This is proved by his life , which though altogether brief , he filled to overflowing with the greatest exploits . In his times of leisure , however , after rising and sacrificing to the gods , he immediately took breakfast sitting ; then , he would spend the day in hunting , or administering justice , or arranging his military affairs , or reading . If he were making a march which was not very urgent , he would practise , as he went along , either archery or mounting and dismounting from a chariot that was under way ."
+    },
+    {
+      "id": "24.1",
+      "label": "Section 24.1",
+      "chapter": null,
+      "original": "μετὰ δὲ τὴν μάχην τὴν ἐν Ἰσσῷ πέμψας εἰς Δαμασκόν ἔλαβε τὰ χρήματα καὶ τὰς ἀποσκευὰς καὶ τὰ τέκνα καὶ τὰς γυναῖκας τῶν Περσῶν . καὶ πλεῖστα μὲν ὠφελήθησαν οἱ τῶν Θεσσαλῶν ἱππεῖς · τούτους γὰρ ἄνδρας ἀγαθοὺς διαφερόντως ἐν τῇ μάχῃ γενομένους ἔπεμψεν p.292 ἐπίτηδες ὠφεληθῆναι βουλόμενος · ἐνεπλήσθη δὲ καὶ τὸ λοιπὸν εὐπορίας στρατόπεδον .",
+      "translation": "After the battle at Issus , [*] he sent to Damascus and seized the money and baggage of the Persians together with their wives and children . And most of all did the Thessalian horsemen enrich themselves , for they had shown themselves surpassingly brave in the battle , and Alexander sent them on this expedition purposely , wishing to have them enrich themselves . But the rest of the army also was filled with wealth ."
+    },
+    {
+      "id": "24.2",
+      "label": "Section 24.2",
+      "chapter": null,
+      "original": "καὶ γευσάμενοι τότε πρῶτον οἱ Μακεδόνες χρυσοῦ καὶ ἀργύρου καὶ γυναικῶν καὶ διαίτης βαρβαρικῆς , ὥσπερ κύνες ἔσπευδον ἁψάμενοι στίβου διώκειν καὶ ἀνιχνεύειν τὸν τῶν Περσῶν πλοῦτον .\nοὐ μὴν ἀλλʼ Ἀλεξάνδρῳ πρῶτον ἐδόκει κρατύνεσθαι τὰ πρὸς θαλάσσῃ . Κύπρον μὲν οὖν εὐθὺς οἱ βασιλεῖς ἧκον ἐγχειρίζοντες αὐτῷ , καὶ Φοινίκην πλὴν Τύρου .",
+      "translation": "Then for the first time the Macedonians got a taste of gold and silver and women and barbaric luxury of life , and now that they had struck the trail , they were like dogs in their eagerness to pursue and track down the wealth of the Persians . However , Alexander determined first to make himself master of the sea-coasts . As for Cyprus , then , its kings came at once and put the island in his hands , together with Phoenicia , with the exception of Tyre ."
+    },
+    {
+      "id": "25.1",
+      "label": "Section 25.1",
+      "chapter": null,
+      "original": "ἡ δὲ πολιορκία τοιοῦτον ἔσχε πέρας , Ἀλεξάνδρου τὴν μὲν πολλὴν τῆς δυνάμεως ἀναπαύοντος ἀπὸ πολλῶν ἀγώνων τῶν ἔμπροσθεν , ὀλίγους δέ τινας , ὡς μὴ σχολάζοιεν οἱ πολέμιοι , paris.1624.679 τοῖς τείχεσι προσάγοντος , Ἀρίστανδρος ὁ μάντις ἐσφαγιάζετο καὶ τὰ σημεῖα κατιδὼν θρασύτερον p.296 διωρίσατο πρὸς τοὺς παρόντας ἐν ἐκείνῳ τῷ μηνὶ πάντως ἁλώσεσθαι τὴν πόλιν .",
+      "translation": "The siege of the city had the following issue . While Alexander was giving the greater part of his forces a rest from the many struggles which they had undergone , and was leading up only a few men to attack the walls , in order that the enemy might have no respite , Aristander the seer made a sacrifice , and after taking the omens , declared very confidently to the bystanders that the city would certainly be captured during that month ."
+    },
+    {
+      "id": "25.2",
+      "label": "Section 25.2",
+      "chapter": null,
+      "original": "γενομένου δὲ χλευασμοῦ καὶ γέλωτος ἦν γὰρ ἡ τελευταία τοῦ μηνὸς ἡμέρα , διηπορημένον αὐτόν ἰδὼν ὁ βασιλεύς καὶ συμφιλοτιμούμενος ἀεὶ τοῖς μαντεύμασιν ἐκέλευε μηκέτι τριακάδα τὴν ἡμέραν ἐκείνην , ἀλλὰ τρίτην φθίνοντος ἀριθμεῖν · καὶ τῇ σάλπιγγι σημήνας ἀπεπειρᾶτο τῶν τειχῶν ἐρρωμενέστερον ἤπερ ἐξ ἀρχῆς διενοήθη . γενομένης δὲ λαμπρᾶς ἐπιβολῆς καὶ μηδὲ τῶν ἐπὶ στρατοπέδου καρτερούντων , ἀλλὰ συντρεχόντων καὶ προσβοηθούντων , ἀπεῖπον οἱ Τύριοι · καὶ τὴν πόλιν εἷλε κατʼ ἐκείνην τὴν ἡμέραν .",
+      "translation": "His words produced laughter and jesting , since it was then the last day of the month , and the king , seeing that he was perplexed , and being always eager to support his prophecies , gave orders to reckon that day , not as the thirtieth of the month , but as the twenty-eighth ; and then , after the trumpet had sounded the signal , he attacked the walls with greater vigour than he had at first intended . The assault became fierce , and even those troops which had been left in camp could not restrain themselves , but ran in throngs to help the assailants , and the Tyrians gave up the fight . So Alexander took the city on that day ."
+    },
+    {
+      "id": "26.1",
+      "label": "Section 26.1",
+      "chapter": null,
+      "original": "κιβωτίου δέ τινος αὐτῷ προσενεχθέντος , οὗ πολυτελέστερον οὐδὲν ἐφάνη τοῖς τὰ Δαρείου χρήματα καὶ τὰς ἀποσκευὰς παραλαμβάνουσιν , ἠρώτα τοὺς φίλους ὅ τι δοκοίη μάλιστα τῶν ἀξίων σπουδῆς εἰς αὐτὸ καταθέσθαι · πολλὰ δὲ πολλῶν λεγόντων αὐτὸς ἔφη τὴν Ἰλιάδα φρουρήσειν ἐνταῦθα καταθέμενος .",
+      "translation": "When a small coffer was brought to him , which those in charge of the baggage and wealth of Dareius thought the most precious thing there , he asked his friends what valuable object they thought would most fittingly be deposited in it . And when many answered and there were many opinions , Alexander himself said he was going to deposit the Iliad there for safe keeping . [*]"
+    },
+    {
+      "id": "26.2",
+      "label": "Section 26.2",
+      "chapter": null,
+      "original": "καὶ ταῦτα μὲν οὐκ ὀλίγοι τῶν ἀξιοπίστων μεμαρτυρήκασιν . εἰ δʼ , ὅπερ Ἀλεξανδρεῖς λέγουσιν Ἡρακλείδῃ πιστεύοντες , ἀληθές ἐστιν , οὔκουν ἀργὸς οὐδὲ ἀσύμβολος αὐτῷ συστρατεύειν ἔοικεν Ὅμηρος , λέγουσι γὰρ ὅτι τῆς Αἰγύπτου κρατήσας ἐβούλετο πόλιν μεγάλην καὶ πολυάνθρωπον Ἑλληνίδα συνοικίσας ἐπώνυμον ἑαυτοῦ καταλιπεῖν , καί τινα τόπον γνώμῃ τῶν ἀρχιτεκτόνων ὅσον οὐδέπω διεμετρεῖτο καὶ περιέβαλλεν .",
+      "translation": "This is attested by many trustworthy authorities . And if what the Alexandrians tell us on the authority of Heracleides is true , then it would seem that Homer was no idle or unprofitable companion for him in his expedition . They say , namely , that after his conquest of Egypt he wished to found a large and populous Greek city which should bear his name , and by the advice of his architects was on the point of measuring off and enclosing a certain site for it ."
+    },
+    {
+      "id": "27.1",
+      "label": "Section 27.1",
+      "chapter": null,
+      "original": "ἐν γοῦν τῇ τότε πορείᾳ τὰ συντυχόντα ταῖς ἀπορίαις παρὰ τοῦ θεοῦ βοηθήματα τῶν ὑστέρων χρησμῶν ἐπιστεύθη μᾶλλον τρόπον δέ τινα καὶ τοῖς χρησμοῖς ἡ πίστις ἐκ τούτων ὑπῆρξε , πρῶτον μὲν γὰρ ἐκ Διὸς ὕδωρ πολὺ καὶ διαρκεῖς ὑετοὶ γενόμενοι τόν τε τῆς δίψης φόβον ἔλυσαν , καὶ τὴν ξηρότητα κατασβέσαντες τῆς ἄμμου , νοτερᾶς γενομένης καὶ πρὸς αὑτὴν ξυμπεσούσης , εὔπνουν τόν ἀέρα καὶ καθαρώτερον παρέσχον .",
+      "translation": "At all events , during the journey which he made at this time , the assistance rendered him by Heaven in his perplexities met with more credence than the oracles which he afterwards received , nay , in a way , the oracles obtained credence in consequence of such assistance . For , to begin with , much rain from heaven and persistent showers removed all fear of thirst , quenched the dryness of the sand , so that it became moist and compact , and made the air purer and good to breathe ."
+    },
+    {
+      "id": "27.2",
+      "label": "Section 27.2",
+      "chapter": null,
+      "original": "ἔπειτα τῶν ὅρων , οἵπερ ἦσαν τοῖς ὁδηγοῖς , συγχυθέντων καὶ πλάνης οὔσης καὶ διασπασμοῦ τῶν βαδιζόντων διὰ τὴν ἄγνοιαν , κόρακες ἐκφανέντες ὑπελάμβανον τὴν ἡγεμονίαν τῆς πορείας , ἑπομένων μὲν ἔμπροσθεν πετόμενοι καὶ σπεύδοντες , ὑστεροῦντας δὲ καὶ βραδύνοντας ἀναμένοντες ·",
+      "translation": "Again , when the marks for the guides became confused , and the travellers were separated and wandered about in ignorance of the route , ravens appeared and assumed direction of their march , [*] flying swiftly on in front of them when they followed , and waiting for them when they marched slowly and lagged behind ."
+    },
+    {
+      "id": "28.1",
+      "label": "Section 28.1",
+      "chapter": null,
+      "original": "καθόλου δὲ πρὸς μὲν τοὺς βαρβάρους σοβαρὸς ἦν καὶ σφόδρα πεπεισμένῳ περὶ τῆς ἐκ θεοῦ γενέσεως καὶ τεκνώσεως ὅμοιος , τοῖς δὲ Ἕλλησι μετρίως καὶ ὑποφειδομένως ἑαυτὸν ἐξεθείαζε πλὴν περὶ Σάμου γράφων Ἀθηναίοις , ἐγὼ μὲν οὐκ ἂν , φησὶν , ὑμῖν ἐλευθέραν πόλιν ἔδωκα καὶ ἔνδοξον ἔχετε δὲ αὐτὴν λαβόντες παρὰ τοῦ τότε κυρίου καὶ πατρὸς ἐμοῦ προσαγορευομένου , λέγων τὸν Φίλιππον .",
+      "translation": "In general , he bore himself haughtily towards the Barbarians , and like one fully persuaded of his divine birth and parentage , but with the Greeks it was within limits and somewhat rarely that he assumed his own divinity . However , in writing to the Athenians concerning Samos , he said : I cannot have given you that free and illustrious city ; for ye received it from him who was then your master and was called my father , meaning Philip ."
+    },
+    {
+      "id": "28.2",
+      "label": "Section 28.2",
+      "chapter": null,
+      "original": "ὕστερον δὲ πληγῇ περιπεσὼν ὑπὸ τοξεύματος καὶ περιαλγὴς γενόμενος , τοῦτο μὲν εἶπεν , ὦ φίλοι , τὸ ῥέον αἷμα , καὶ οὐκ\nἰχώρ , οἷός πέρ τε ῥέει μακάρεσσι θεοῖσιν .\nἐπεὶ δὲ μεγάλης ποτὲ βροντῆς γενομένης καὶ πάντων ἐκπλαγέντων Ἀνάξαρχος ὁ σοφιστὴς παρὼν ἔφη πρὸς αὐτὸν , μή τι σὺ τοιοῦτον ὁ τοῦ Διός ; γελάσας ἐκεῖνος , οὐ βούλομαι γὰρ , εἶπε , φοβερὸς εἶναι τοῖς φίλοις , ὥσπερ σύ με κελεύεις ὁ καταφαυλίζων μου τὸ δεῖπνον , ὅτι ταῖς τραπέζαις ἰχθύας ὁρᾷς · ἐπικειμένους , οὐ σατραπῶν κεφαλάς .",
+      "translation": "At a later time , however , when he had been hit by an arrow and was suffering great pain , he said :\nThis , my friends , that flows here , is blood , and not Ichor , such as flows from the veins of the blessed gods . [*] Once , too , there came a great peal of thunder , and all were terrified at it ; whereupon Anaxarchus the sophist who was present said to Alexander : Couldst thou , the son of Zeus , thunder like that ? At this , Alexander laughed and said : Nay , I do not wish to cause fear in my friends , as thou wouldst have me do , thou who despisest my suppers because , as thou sayest , thou seest the tables furnished with fish , and not with satraps ’ heads . [*]"
+    },
+    {
+      "id": "29.1",
+      "label": "Section 29.1",
+      "chapter": null,
+      "original": "εἰς δὲ Φοινίκην ἐπανελθὼν ἐξ Αἰγύπτου θυσίας τοῖς θεοῖς καὶ πομπὰς ἐπετέλει καὶ χορῶν κυκλίων καὶ τραγικῶν ἀγῶνας , οὐ μόνον ταῖς παρασκευαῖς , ἀλλὰ καὶ ταῖς ἁμίλλαις λαμπροὺς γενομένους , ἐχορήγουν γὰρ οἱ βασιλεῖς τῶν Κυπρίων , ὥσπερ Ἀθήνησιν οἱ κληρούμενοι τὰς φυλάς , καὶ ἠγωνίζοντο θαυμαστῇ φιλοτιμίᾳ πρὸς ἀλλήλους , μάλιστα δὲ Νικοκρέων ὁ Σαλαμίνιος καὶ Πασικράτης ὁ Σόλιος διεφιλονείκησαν .",
+      "translation": "When he had returned from Egypt into Phoenicia , [*] he honoured the gods with sacrifices and solemn processions , and held contests of dithyrambic choruses and tragedies which were made brilliant , not only by their furnishings , but also by the competitors who exhibited them . For the kings of Cyprus were the choregi , or exhibitors , just like , at Athens , those chosen by lot from the tribes , and they competed against each other with amazing ambition . Most eager of all was the contention between Nicocreon of Salamis and Pasicrates of Soli ."
+    },
+    {
+      "id": "29.2",
+      "label": "Section 29.2",
+      "chapter": null,
+      "original": "οὗτοι γὰρ ἔλαχον τοῖς ἐνδοξοτάτοις ὑποκριταῖς χορηγεῖν , Πασικράτης μὲν Ἀθηνοδορῳ , Νικοκρέων δὲ Θεσσαλῷ , περὶ ὃν ἐσπουδάκει καὶ αὐτὸς Ἀλέξανδρος , οὐ μὴν διέφηνε τὴν σπουδὴν πρότερον ἢ ταῖς ψήφοις ἀναγορευθῆναι νικῶντα τὸν Ἀθηνόδωρον . τότε δέ , ὡς ἔοικεν , ἀπιὼν ἔφη τοὺς μὲν κριτὰς ἐπαινεῖν , αὐτὸς μέντοι μέρος ἂν ἡδέως προέσθαι τῆς βασιλείας ἐπὶ τῷ μὴ Θεσσαλὸν ἰδεῖν νενικημένον .",
+      "translation": "For the lot assigned to these exhibitors the most celebrated actors , to Pasicrates Athenodorus , and to Nicocreon Thessalus , in whose success Alexander himself was interested . He did not reveal this interest , however , until , by the votes of the judges , Athenodorus had been proclaimed victor . But then , as it would appear , on leaving the theatre , he said that he approved the decision of the judges , but would gladly have given up a part of his kingdom rather than to have seen Thessalus vanquished ."
+    },
+    {
+      "id": "30.1",
+      "label": "Section 30.1",
+      "chapter": null,
+      "original": "ταχὺ μέντοι μετεμελήθη τῆς Δαρείου γυναικὸς ἀποθανούσης ἐν ὠδῖσι καὶ φανερὸς ἦν paris.1624.682 ἀνιώμενος ὡς ἐπίδειξιν οὐ μικρὰν ἀφῃρημένος χρηστότητος . ἔθαψεν οὖν τὴν ἄνθρωπον οὐδεμιᾶς πολυτελείας φειδόμενος , τῶν δὲ θαλαμηπόλων τις εὐνούχων , οἳ συνεαλώκεισαν ταῖς γυναιξίν , ἀποδρὰς ἐκ τοῦ στρατοπέδου καὶ πρὸς Δαρεῖον ἀφιππασάμενος , Τείρεως ὄνομα , φράζει τὸν θάνατον αὐτῷ τῆς γυναικός .",
+      "translation": "Soon , however , he repented him of this answer , when the wife of Dareius died in childbirth , and it was evident that he was distressed at this loss of opportunity to show great kindness . Accordingly , he gave the woman a sumptuous burial . One of the eunuchs of the bed-chamber who had been captured with the women , Teireos by name , ran away from the camp , made his way on horseback to Dareius , and told him of the death of his wife ."
+    },
+    {
+      "id": "30.2",
+      "label": "Section 30.2",
+      "chapter": null,
+      "original": "ὡς δὲ πληξάμενος τὴν κεφαλὴν καὶ ἀνακλαύσας φεῦ τοῦ Περσῶν ἔφη δαίμονος , εἰ τὴν βασιλέως γυναῖκα καὶ ἀδελφὴν οὐ μόνον αἰχμάλωτον γενέσθαι p.312 ζῶσαν , ἀλλὰ καὶ τελευτήσασαν ἄμοιρον κεῖσθαι ταφῆς βασιλικῆς ὑπολαβὼν ὁ θαλαμηπόλος , ἀλλὰ ταφῆς γε χάριν εἶπεν , ὦ βασιλεῦ , καὶ τιμῆς ἁπάσης καὶ τοῦ πρέποντος οὐδὲν ἔχεις αἰτιάσασθαι τὸν πονηρὸν δαίμονα Περσῶν .",
+      "translation": "Then the king , beating upon his head and bursting into lamentation , said : Alas for the evil genius of the Persians , if the sister and wife of their king must not only become a captive in her life , but also in her death be deprived of royal burial . Nay , O King , answered the chamberlain , as regards her burial , and her receiving every fitting honour , thou hast no charge to make against the evil genius of the Persians ."
+    }
+  ],
+  "prevChunkSlug": "comparison-of-agesilaus-and-pompey-1iingk",
+  "nextChunkSlug": "alexander-bipeti-2"
+}

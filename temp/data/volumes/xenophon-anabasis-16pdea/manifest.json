@@ -1,0 +1,61 @@
+{
+  "loebNumber": 90,
+  "sortOrder": 90,
+  "slug": "xenophon-anabasis-16pdea",
+  "title": "Anabasis",
+  "volumeLabel": "Anabasis",
+  "authorDisplay": "Xenophon",
+  "authors": [
+    "Xenophon"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Anabasis, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "anabasis-1izqwp",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "anabasis-1izqwp",
+      "title": "Anabasis",
+      "status": "ready",
+      "sectionCount": 35,
+      "chunkSlug": "anabasis-1izqwp",
+      "chunks": [
+        {
+          "slug": "anabasis-1izqwp",
+          "label": "Anabasis",
+          "partId": "anabasis-1izqwp",
+          "partTitle": "Anabasis",
+          "sectionCount": 35,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "anabasis-1izqwp",
+      "label": "Anabasis",
+      "partId": "anabasis-1izqwp",
+      "partTitle": "Anabasis",
+      "sectionCount": 35,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "anabasis-1izqwp",
+      "partTitle": "Anabasis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Anabasis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg006.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Anabasis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg006.perseus-eng2/"
+      }
+    }
+  ]
+}

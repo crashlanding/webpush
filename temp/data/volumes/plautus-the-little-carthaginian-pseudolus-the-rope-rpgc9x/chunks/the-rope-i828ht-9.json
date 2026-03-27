@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-little-carthaginian-pseudolus-the-rope-rpgc9x",
+  "volumeTitle": "The Little Carthaginian. Pseudolus. The Rope",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-rope-i828ht-9",
+  "label": "The Rope (Section 3.5.787 - Section 3.6.854b)",
+  "partId": "the-rope-i828ht",
+  "partTitle": "The Rope",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Rudens",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Rudens, or The Fisherman's Rope",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "3.5.787",
+      "label": "Section 3.5.787",
+      "chapter": null,
+      "original": "Immo ad te accedent .",
+      "translation": "On the contrary , they shall move towards you ."
+    },
+    {
+      "id": "3.5.787b",
+      "label": "Section 3.5.787b",
+      "chapter": null,
+      "original": "Non hercle equidem censeo .",
+      "translation": "I ’ faith , for my own part , I don ’ t think so ."
+    },
+    {
+      "id": "3.5.788",
+      "label": "Section 3.5.788",
+      "chapter": null,
+      "original": "Quid ages , si accedent propius ?",
+      "translation": "If they do move nearer to you , what will you do ?"
+    },
+    {
+      "id": "3.5.788b",
+      "label": "Section 3.5.788b",
+      "chapter": null,
+      "original": "Ego recessero .",
+      "translation": "I ’ ll retire . But , old fellow , if ever I catch you in the city ,"
+    },
+    {
+      "id": "3.5.790",
+      "label": "Section 3.5.790",
+      "chapter": null,
+      "original": "numquam hercle quisquam me lenonem dixerit ,",
+      "translation": "never again , upon my faith , shall any one call me a Procurer , if I don ’ t give you some most disagreable sport ."
+    },
+    {
+      "id": "3.5.792",
+      "label": "Section 3.5.792",
+      "chapter": null,
+      "original": "Facito istuc quod minitare ; sed nunc interim ,",
+      "translation": "Do what you threaten . But now , in the meantime , if you do touch them , a heavy punishment shall be inflicted on you ."
+    },
+    {
+      "id": "3.5.794",
+      "label": "Section 3.5.794",
+      "chapter": null,
+      "original": "Quam magnum vero ?",
+      "translation": "How heavy , in fact ?"
+    },
+    {
+      "id": "3.5.794b",
+      "label": "Section 3.5.794b",
+      "chapter": null,
+      "original": "Quantum lenoni sat est .",
+      "translation": "Just as much as is sufficient for a Procurer ."
+    },
+    {
+      "id": "3.5.795",
+      "label": "Section 3.5.795",
+      "chapter": null,
+      "original": "Minacias ego flocci non faciam tuas ,",
+      "translation": "These threats of yours I don ’ t value one straw ; I certainly shall seize them both this instant without your leave ."
+    },
+    {
+      "id": "3.5.796b",
+      "label": "Section 3.5.796b",
+      "chapter": null,
+      "original": "Tange dum .",
+      "translation": "Just touch them ."
+    },
+    {
+      "id": "3.5.797",
+      "label": "Section 3.5.797",
+      "chapter": null,
+      "original": "Tangam hercle vero .",
+      "translation": "By my troth , I surely will touch them ."
+    },
+    {
+      "id": "3.5.797b",
+      "label": "Section 3.5.797b",
+      "chapter": null,
+      "original": "Tanges , at scin quo modo ?",
+      "translation": "You will touch them , but do you know with what result ? Go then , Turbalio , with all haste , and bring hither from out of the house two cudgels ."
+    },
+    {
+      "id": "3.5.799b",
+      "label": "Section 3.5.799b",
+      "chapter": null,
+      "original": "Clavas ?",
+      "translation": "Cudgels ?"
+    },
+    {
+      "id": "3.5.799c",
+      "label": "Section 3.5.799c",
+      "chapter": null,
+      "original": "Sed probas . propera cito .",
+      "translation": "Aye , good ones ; make haste speedily . ( TURBALIO goes in .)"
+    },
+    {
+      "id": "3.5.800",
+      "label": "Section 3.5.800",
+      "chapter": null,
+      "original": "ego te hodie faxo recte acceptum , ut dignus es .",
+      "translation": "I ’ ll let you have a reception this day in proper style , as you are deserving of ."
+    },
+    {
+      "id": "3.5.801",
+      "label": "Section 3.5.801",
+      "chapter": null,
+      "original": "Eheu , scelestus galeam in navi perdidi ;",
+      "translation": "Alas ! cursedly unfortunate . I lost my headpiece in the ship ; it would now have been handy for me , if it had been saved . ( To DAEMONES .) May I at least address these women ?"
+    },
+    {
+      "id": "3.5.803b",
+      "label": "Section 3.5.803b",
+      "chapter": null,
+      "original": "Non licet .",
+      "translation": "You may not ⋯"
+    },
+    {
+      "id": "3.5.804_805",
+      "label": "Section 3.5.804_805",
+      "chapter": null,
+      "original": "ehem , optime edepol eccum clavator ádvenit .",
+      "translation": "( TURBALIO enters bringing two cudgels .) Well now , by my faith , look , the cudgel-man is coming very opportunely here ."
+    },
+    {
+      "id": "3.5.806",
+      "label": "Section 3.5.806",
+      "chapter": null,
+      "original": "Illud quidem edepol tinnimentum est auribus .",
+      "translation": "By my troth , this surely is a tingling for my ears ."
+    },
+    {
+      "id": "3.5.807",
+      "label": "Section 3.5.807",
+      "chapter": null,
+      "original": "Age accipe illinc alteram clavam , Sparax .",
+      "translation": "Come , Sparax , do you take this other cudgel . ( Giving him one .) Come , take your stand , one on one side , the other on one other . Take your stations both of you . ( They stand with lifted cudgels on each side of he altar .) Just so . Now then attend to me :"
+    },
+    {
+      "id": "3.5.810",
+      "label": "Section 3.5.810",
+      "chapter": null,
+      "original": "si hercle illic illas hodie digito tetigerit",
+      "translation": "if , I ’ faith , that fellow there should this day touch these women with his finger against their inclination , if you don ’ t give him a reception [*] with these cudgels even to that degree that he shan ’ t know which way he is to get home , you are undone , both of you . If he shall call for any one , do you make answer to this fellow in their stead ."
+    },
+    {
+      "id": "3.5.815",
+      "label": "Section 3.5.815",
+      "chapter": null,
+      "original": "sin ipse abire hínc volet , quantum potest",
+      "translation": "But if he himself shall attempt to get away from here , that instant , as hard a you can , lay on to his legs with your sticks ."
+    },
+    {
+      "id": "3.5.817",
+      "label": "Section 3.5.817",
+      "chapter": null,
+      "original": "Etiam me abire hinc non sinent ?",
+      "translation": "Are they not even to allow me to go away from here ?"
+    },
+    {
+      "id": "3.5.817b",
+      "label": "Section 3.5.817b",
+      "chapter": null,
+      "original": "Dixi satis .",
+      "translation": "I ’ ve said sufficient . And when that servant comes here with his master , he that has gone to fetch his master , do you at once go home ."
+    },
+    {
+      "id": "3.5.820",
+      "label": "Section 3.5.820",
+      "chapter": null,
+      "original": "curate haec sultis magna diligentia .—",
+      "translation": "Attend to this with great diligence , will you ."
+    },
+    {
+      "id": "3.5.821",
+      "label": "Section 3.5.821",
+      "chapter": null,
+      "original": "Heu hercle , ne istic fana mutantur cito :",
+      "translation": "O rare , by my troth , the Temple here is surely changed all of a sudden ; this is now the Temple of Hercules [*] which was that of Venus before ; in such fashion has the old fellow planted two statues here with clubs . I ’ faith , I don ’ t know now whither in the world I shall fly from here ;"
+    },
+    {
+      "id": "3.5.825",
+      "label": "Section 3.5.825",
+      "chapter": null,
+      "original": "ita nunc mi utrumque saevit , et terra et mare .",
+      "translation": "so greatly are they both raging now against me , both land and sea . Palaestra !"
+    },
+    {
+      "id": "3.5.826b",
+      "label": "Section 3.5.826b",
+      "chapter": null,
+      "original": "Quid vis ?",
+      "translation": "What do you want ?"
+    },
+    {
+      "id": "3.5.826c",
+      "label": "Section 3.5.826c",
+      "chapter": null,
+      "original": "Apage , controversia est ,",
+      "translation": "Away with you , there is a misunderstanding between us ; that , indeed , is not my Palaestra [*] that answers . Harkye , Ampelisca ."
+    },
+    {
+      "id": "3.5.828b",
+      "label": "Section 3.5.828b",
+      "chapter": null,
+      "original": "Cave sis infortunio .",
+      "translation": "Beware of a mishap , will you ."
+    },
+    {
+      "id": "3.5.829",
+      "label": "Section 3.5.829",
+      "chapter": null,
+      "original": "Vltro te . signa ut homines satis recte monent .",
+      "translation": "So far as they can , the worthless fellows advise me rightly enough ."
+    },
+    {
+      "id": "3.5.830",
+      "label": "Section 3.5.830",
+      "chapter": null,
+      "original": "sed vobis dico , heús vos , num molestiaest ,",
+      "translation": "( Aloud .) But , harkye , I ask you , whether it is any harm to you for me to come nearer to these women ?"
+    },
+    {
+      "id": "3.5.831b",
+      "label": "Section 3.5.831b",
+      "chapter": null,
+      "original": "Nil nobis quidem .",
+      "translation": "Why none at all to ourselves ."
+    },
+    {
+      "id": "3.5.832",
+      "label": "Section 3.5.832",
+      "chapter": null,
+      "original": "Numquid molestum mihi erit ?",
+      "translation": "Will there be any harm to myself ?"
+    },
+    {
+      "id": "3.5.832b",
+      "label": "Section 3.5.832b",
+      "chapter": null,
+      "original": "Nil , si caveris .",
+      "translation": "None at all , if you only take care ."
+    },
+    {
+      "id": "3.5.833",
+      "label": "Section 3.5.833",
+      "chapter": null,
+      "original": "Quid est quod caveam ?",
+      "translation": "What is it that I ’ m to take care against ?"
+    },
+    {
+      "id": "3.5.833b",
+      "label": "Section 3.5.833b",
+      "chapter": null,
+      "original": "Em , a crasso infortunio .",
+      "translation": "Why , look you , against a heavy mishap ."
+    },
+    {
+      "id": "3.5.834",
+      "label": "Section 3.5.834",
+      "chapter": null,
+      "original": "Quaeso hercle , abire ut liceat .",
+      "translation": "Troth now , prithee , do let me approach them ."
+    },
+    {
+      "id": "3.5.834b",
+      "label": "Section 3.5.834b",
+      "chapter": null,
+      "original": "Abeas , si velis .",
+      "translation": "Approach them , if you like ."
+    },
+    {
+      "id": "3.5.835",
+      "label": "Section 3.5.835",
+      "chapter": null,
+      "original": "Bene hercle factum . habeo vobis gratiam .",
+      "translation": "I ’ faith , obligingly done ; I return you thanks , I ’ ll go nearer to them ."
+    },
+    {
+      "id": "3.5.836b",
+      "label": "Section 3.5.836b",
+      "chapter": null,
+      "original": "Illic astato ilico .",
+      "translation": "Do you stand there on the spot , where you are ."
+    },
+    {
+      "id": "3.5.837",
+      "label": "Section 3.5.837",
+      "chapter": null,
+      "original": "Edepol proveni nequiter multis modis .",
+      "translation": "By my faith , I ’ ve come scurvily off in many ways . Still , I ’ m resolved to get the better of them this day by constantly besieging them ."
+    },
+    {
+      "id": "3.6.839",
+      "label": "Section 3.6.839",
+      "chapter": null,
+      "original": "Meamne ílle amicam leno vi , violentia",
+      "translation": "And did the Procurer attempt by force and violence"
+    },
+    {
+      "id": "3.6.840",
+      "label": "Section 3.6.840",
+      "chapter": null,
+      "original": "de ara deripere Veneris voluit ?",
+      "translation": "to drag my mistress away from the altar of Venus ?"
+    },
+    {
+      "id": "3.6.840b",
+      "label": "Section 3.6.840b",
+      "chapter": null,
+      "original": "Admodum .",
+      "translation": "Even so ."
+    },
+    {
+      "id": "3.6.841",
+      "label": "Section 3.6.841",
+      "chapter": null,
+      "original": "Quin occidisti extemplo ?",
+      "translation": "Why didn ’ t you kill him on the instant ?"
+    },
+    {
+      "id": "3.6.841b",
+      "label": "Section 3.6.841b",
+      "chapter": null,
+      "original": "Gladius non erat .",
+      "translation": "I hadn ’ t a sword ."
+    },
+    {
+      "id": "3.6.842",
+      "label": "Section 3.6.842",
+      "chapter": null,
+      "original": "Caperes aut fustem aut lapidem .",
+      "translation": "You should have taken either a stick or a stone ."
+    },
+    {
+      "id": "3.6.842b",
+      "label": "Section 3.6.842b",
+      "chapter": null,
+      "original": "Quid ? ego quasi canem",
+      "translation": "What ! ought I to have pelted this most villanous fellow with stones like a dog ? ⋯"
+    },
+    {
+      "id": "3.6.844",
+      "label": "Section 3.6.844",
+      "chapter": null,
+      "original": "Nunc pol ego perii , Plesidippus eccum adest .",
+      "translation": "By my troth , but I ’ m undone now ; see , here ’ s Plesidippus ;"
+    },
+    {
+      "id": "3.6.845",
+      "label": "Section 3.6.845",
+      "chapter": null,
+      "original": "converret iam hic me totum cum pulvisculo .",
+      "translation": "he ’ ll be sweeping me away altogether this moment with the dust ."
+    },
+    {
+      "id": "3.6.846",
+      "label": "Section 3.6.846",
+      "chapter": null,
+      "original": "Etiamne in ara tunc sedebant mulieres ,",
+      "translation": "Were the damsels sitting on the altar even then when you set out to come to me ?"
+    },
+    {
+      "id": "3.6.847b",
+      "label": "Section 3.6.847b",
+      "chapter": null,
+      "original": "Ibidem nunc sedent .",
+      "translation": "Yes , and now they are sitting in the same place ."
+    },
+    {
+      "id": "3.6.848",
+      "label": "Section 3.6.848",
+      "chapter": null,
+      "original": "Quis illás nunc illic servat ?",
+      "translation": "Who is now protecting them there ?"
+    },
+    {
+      "id": "3.6.848b",
+      "label": "Section 3.6.848b",
+      "chapter": null,
+      "original": "Nescio quis senex ,",
+      "translation": "Some old gentleman , I don ’ t know who , a neighbour of the Temple of Venus — he gave very kind assistance ;"
+    },
+    {
+      "id": "3.6.850",
+      "label": "Section 3.6.850",
+      "chapter": null,
+      "original": "is nunc cum servis servat . ego mandaveram .",
+      "translation": "he is now protecting them with his servants — I committed them to his charge ."
+    },
+    {
+      "id": "3.6.851",
+      "label": "Section 3.6.851",
+      "chapter": null,
+      "original": "Duc me ad lenonem recta . ubi illic est homo ?",
+      "translation": "Lead me straight to the Procurer . Where is this fellow ?"
+    },
+    {
+      "id": "3.6.852",
+      "label": "Section 3.6.852",
+      "chapter": null,
+      "original": "Salve .",
+      "translation": "Health to you ."
+    },
+    {
+      "id": "3.6.852b",
+      "label": "Section 3.6.852b",
+      "chapter": null,
+      "original": "Salutem nil moror . opta ocius :",
+      "translation": "I want none of your healths . Make your choice quickly , whether you lad rather be seized by your throat wrenched [*] , or be dragged along ; choose whichever you please , while you may ."
+    },
+    {
+      "id": "3.6.854b",
+      "label": "Section 3.6.854b",
+      "chapter": null,
+      "original": "Neutrum volo .",
+      "translation": "I wish for neither ."
+    }
+  ],
+  "prevChunkSlug": "the-rope-i828ht-8",
+  "nextChunkSlug": "the-rope-i828ht-10"
+}

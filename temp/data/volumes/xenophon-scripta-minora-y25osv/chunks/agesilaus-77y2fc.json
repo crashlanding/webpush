@@ -1,0 +1,185 @@
+{
+  "volumeSlug": "xenophon-scripta-minora-y25osv",
+  "volumeTitle": "Scripta Minora",
+  "authorDisplay": "Xenophon",
+  "authors": [
+    "Xenophon"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "agesilaus-77y2fc",
+  "label": "Agesilaus",
+  "partId": "scripta-minora-11ri19",
+  "partTitle": "Scripta Minora",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Agesilaus",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg009.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Agesilaus",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg009.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1",
+      "label": "Section 1.1",
+      "chapter": null,
+      "original": "οἶδα μὲν ὅτι τῆς Ἀγησιλάου ἀρετῆς τε καὶ δόξης οὐ ῥᾴδιον ἄξιον ἔπαινον γράψαι , ὅμως δʼ ἐγχειρητέον . οὐ γὰρ ἂν καλῶς ἔχοι εἰ ὅτι τελέως ἀνὴρ ἀγαθὸς ἐγένετο , διὰ τοῦτο οὐδὲ μειόνων ἂν τυγχάνοι ἐπαίνων .",
+      "translation": "I know how difficult it is to write an appreciation of Agesilaus that shall be worthy of his virtue and glory . Nevertheless the attempt must be made . For it would not be seemly that so good a man , just because of his perfection , should receive no tributes of praise , however inadequate ."
+    },
+    {
+      "id": "1.2",
+      "label": "Section 1.2",
+      "chapter": null,
+      "original": "περὶ μὲν οὖν εὐγενείας αὐτοῦ τί ἄν τις μεῖζον καὶ κάλλιον εἰπεῖν ἔχοι ἢ ὅτι ἔτι καὶ νῦν τοῖς προγόνοις ὀνομαζομένοις ἀπομνημονεύεται ὁπόστος ἀφʼ Ἡρακλέους ἐγένετο , καὶ τούτοις οὐκ ἰδιώταις ἀλλʼ ἐκ βασιλέων βασιλεῦσιν ;",
+      "translation": "Now concerning his high birth what greater and nobler could be said than this , that even to-day the line of his descent from Heracles [*] is traced through the roll of his ancestors , and those no simple citizens , but kings and sons of kings ?"
+    },
+    {
+      "id": "2.1",
+      "label": "Section 2.1",
+      "chapter": null,
+      "original": "διαβὰς δὲ τὸν Ἑλλήσποντον ἐπορεύετο διὰ τῶν αὐτῶν ἐθνῶν ὧνπερ ὁ Πέρσης τῷ παμπληθεῖ στόλῳ · καὶ ἣν ἐνιαυσίαν ὁδὸν ὁ βάρβαρος ἐποιήσατο , ταύτην μεῖον ἢ ἐν μηνὶ καθήνυσεν ὁ Ἀγησίλαος . οὐ γὰρ ὡς ὑστερήσειε τῆς πατρίδος προεθυμεῖτο .",
+      "translation": "After crossing the Hellespont , he passed through the very same tribes as the Persian king with his mighty host ; and the distance that had been traversed by the barbarian in a year was covered by Agesilaus in less than a month . For he had no intention of arriving too late to aid his fatherland ."
+    },
+    {
+      "id": "2.2",
+      "label": "Section 2.2",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ ἐξαμείψας Μακεδονίαν εἰς Θετταλίαν ἀφίκετο , Λαρισαῖοι μὲν καὶ Κραννώνιοι καὶ Σκοτουσαῖοι καὶ Φαρσάλιοι σύμμαχοι ὄντες Βοιωτοῖς , καὶ πάντες δὲ Θετταλοὶ πλὴν ὅσοι αὐτῶν φυγάδες τότε ὄντες ἐτύγχανον , ἐκακούργουν αὐτὸν ἐφεπόμενοι . ὁ δὲ τέως μὲν ἦγεν ἐν πλαισίῳ τὸ στράτευμα , τοὺς ἡμίσεις μὲν ἔμπροσθεν , τοὺς ἡμίσεις δὲ ἐπʼ οὐρᾷ ἔχων τῶν ἱππέων · ἐπεὶ δʼ ἐκώλυον τῆς πορείας αὐτὸν οἱ Θετταλοὶ ἐπιτιθέμενοι τοῖς ὄπισθεν , παραπέμπει ἐπʼ οὐρὰν καὶ τὸ ἀπὸ τοῦ προηγουμένου στρατεύματος ἱππικὸν πλὴν τῶν περὶ ἑαυτόν .",
+      "translation": "When he had passed through Macedonia and reached Thessaly , the people of Larisa , Crannon , Scotussa and Pharsalus , who were allies of the Boeotians , all the Thessalians , in fact , except those who happened to be in exile at the time , followed at his heels and kept molesting him . For a time he led the army in a hollow square , with one half of the cavalry in front and the other half in the rear ; but finding his progress hampered by Thessalian attacks on his rearguard , he sent round all the cavalry from the vanguard to the rear , except his own escort ."
+    },
+    {
+      "id": "3.1",
+      "label": "Section 3.1",
+      "chapter": null,
+      "original": "καὶ ταῦτα μὲν δὴ εἴρηται ὅσα τῶν ἐκείνου ἔργων μετὰ πλείστων μαρτύρων ἐπράχθη . τὰ γὰρ τοιαῦτα οὐ τεκμηρίων προσδεῖται , ἀλλʼ ἀναμνῆσαι μόνον ἀρκεῖ καὶ εὐθὺς πιστεύεται . νῦν δὲ τὴν ἐν τῇ ψυχῇ αὐτοῦ ἀρετὴν πειράσομαι δηλοῦν , διʼ ἣν ταῦτα ἔπραττε καὶ πάντων τῶν καλῶν ἤρα καὶ πάντα τὰ αἰσχρὰ ἐξεδίωκεν .",
+      "translation": "Such , then , is the record of my hero ’ s deeds , so far as they were done before a crowd of witnesses . Actions like these need no proofs ; the mere mention of them is enough and they command belief immediately . But now I will attempt to show the virtue that was in his soul , the virtue through which he wrought those deeds and loved all that is honourable and put away all that is base ."
+    },
+    {
+      "id": "3.2",
+      "label": "Section 3.2",
+      "chapter": null,
+      "original": "Ἀγησίλαος γὰρ τὰ μὲν θεῖα οὕτως ἐσέβετο ὡς καὶ οἱ πολέμιοι τοὺς ἐκείνου ὅρκους καὶ τὰς ἐκείνου σπονδὰς πιστοτέρας ἐνόμιζον ἢ τὴν ἑαυτῶν φιλίαν · οἳ καὶ πρὸς ἀλλήλους ἔστιν ὅτε μὲν ὤκνουν εἰς ταὐτὸν ἰέναι , Ἀγησιλάῳ δὲ αὑτοὺς ἐνεχείριζον . ὅπως δὲ μή τις ἀπιστῇ , καὶ ὀνομάσαι βούλομαι τοὺς ἐπιφανεστάτους αὐτῶν .",
+      "translation": "Agesilaus had such reverence for religion , that even his enemies considered his oaths and his treaties more to be relied on than their own friendship with one another : for there were times when they shrank from meeting together , [*] and yet would place themselves in the power of Agesilaus . And lest anyone should think this statement incredible , I wish to name the most famous among them . Spithridates the Persian , for example , knew that"
+    },
+    {
+      "id": "4.1",
+      "label": "Section 4.1",
+      "chapter": null,
+      "original": "περί γε μὴν τῆς εἰς χρήματα δικαιοσύνης ποῖα ἄν τις μείζω τεκμήρια ἔχοι τῶνδε ; ὑπὸ γὰρ Ἀγησιλάου στέρεσθαι μὲν οὐδεὶς οὐδὲν πώποτε ἐνεκάλεσεν , εὖ δὲ πεπονθέναι πολλοὶ πολλὰ ὡμολόγουν . ὅτῳ δὲ ἡδὺ τὰ αὑτοῦ διδόναι ἐπʼ ὠφελείᾳ ἀνθρώπων , πῶς ἂν οὗτος ἐθέλοι τὰ ἀλλότρια ἀποστερεῖν ἐφʼ ᾧ κακόδοξος εἶναι ; εἰ γὰρ χρημάτων ἐπιθυμοίη , πολὺ ἀπραγμονέστερον τὰ αὑτοῦ φυλάττειν ἢ τὰ μὴ προσήκοντα λαμβάνειν .",
+      "translation": "Next comes his Justice in money matters . Of this what proofs can be more convincing than the following ? No man ever made any complaint that he had been defrauded by Agesilaus : but many acknowledged that they had received many benefits from him . One who delighted to give away his own for the good of others could not possibly be minded to defraud others at the price of disgrace . For if he had coveted money it would have cost him far less trouble to keep his own than to take what did not belong to him ."
+    },
+    {
+      "id": "4.2",
+      "label": "Section 4.2",
+      "chapter": null,
+      "original": "ὃς δὲ δὴ καὶ χάριτας ἀποστερεῖν μὴ ἐθέλοι , ὧν οὐκ εἰσὶ δίκαι πρὸς τὸν μὴ ἀποδιδόντα , πῶς ἅ γε καὶ νόμος κωλύει ἐθέλοι ἂν ἀποστερεῖν ; Ἀγησίλαος δὲ οὐ μόνον τὸ μὴ ἀποδιδόναι χάριτας ἄδικον ἔκρινεν , ἀλλὰ καὶ τὸ μὴ πολὺ μείζους τὸν μείζω δυνάμενον .",
+      "translation": "A man who would not leave unpaid debts of gratitude , which are not recoverable in the courts , cannot have been minded to commit thefts that are forbidden by law . And Agesilaus held it wrong not only to repudiate a debt of gratitude , but , having greater means , not to render in return a much greater kindness ."
+    },
+    {
+      "id": "5.1",
+      "label": "Section 5.1",
+      "chapter": null,
+      "original": "ἀλλὰ μὴν καὶ ὅσαι γε ἡδοναὶ πολλῶν κρατοῦσιν ἀνθρώπων , ποίας οἶδέ τις Ἀγησίλαον ἡττηθέντα ; ὃς μέθης μὲν ἀποσχέσθαι ὁμοίως ᾤετο χρῆναι καὶ λαιμαργίας , σίτων δʼ ὑπὲρ καιρὸν ὁμοίως ὡς καὶ ἁμαρτίας . διμοιρίαν γε μὴν λαμβάνων ἐν ταῖς θοίναις οὐχ ὅπως ἀμφοτέραις ἐχρῆτο , ἀλλὰ διαπέμπων οὐδετέραν αὑτῷ κατέλειπε , νομίζων βασιλεῖ τοῦτο διπλασιασθῆναι οὐχὶ πλησμονῆς ἕνεκα , ἀλλʼ ὅπως ἔχοι καὶ τούτῳ τιμᾶν εἴ τινα βούλοιτο .",
+      "translation": "Again , among all the pleasures that prove too strong for many men , who can mention one to which Agesilaus yielded ? Drunkenness , he thought , should be avoided like madness , overeating like idleness . [*] Moreover , he received a double ration at the public meals , but instead of consuming both portions himself , he distributed both and left neither for himself , holding that the purpose of this double allowance to the king was not to provide him with a heavy meal , but to give him the opportunity of honouring whomsoever he would ."
+    },
+    {
+      "id": "5.2",
+      "label": "Section 5.2",
+      "chapter": null,
+      "original": "οὐ μὴν ὕπνῳ γε δεσπότῃ ἀλλʼ ἀρχομένῳ ὑπὸ τῶν πράξεων ἐχρῆτο , καὶ εὐνήν γε εἰ μὴ τῶν συνόντων φαυλοτάτην ἔχοι , αἰδούμενος οὐκ ἄδηλος ἦν · ἡγεῖτο γὰρ ἄρχοντι προσήκειν οὐ μαλακίᾳ ἀλλὰ καρτερίᾳ τῶν ἰδιωτῶν περιεῖναι .",
+      "translation": "As for sleep , [*] it was not his master , but the servant of his activities ; and unless he occupied the humblest bed among his comrades , he could not conceal his shame : for he thought that a ruler ’ s superiority over ordinary men should be shown not by weakness but by endurance ."
+    },
+    {
+      "id": "6.1",
+      "label": "Section 6.1",
+      "chapter": null,
+      "original": "ἀνδρείας γε μὴν οὐκ ἀφανῆ τεκμήριά μοι δοκεῖ παρασχέσθαι ὑφιστάμενος μὲν ἀεὶ πολεμεῖν πρὸς τοὺς ἰσχυροτάτους τῶν ἐχθρῶν τῇ τε πόλει καὶ τῇ Ἑλλάδι , ἐν δὲ τοῖς πρὸς τούτους ἀγῶσι πρῶτον μὲν ἑαυτὸν τάττων .",
+      "translation": "As for Courage , he seems to me to have afforded clear proofs of that by always engaging himself to fight against the strongest enemies of his state and of Greece , and by always placing himself in the forefront of the struggle ."
+    },
+    {
+      "id": "6.2",
+      "label": "Section 6.2",
+      "chapter": null,
+      "original": "ἔνθα γε μὴν ἠθέλησαν αὐτῷ οἱ πολέμιοι μάχην συνάψαι , οὐ φόβῳ τρεψάμενος νίκης ἔτυχεν , ἀλλὰ μάχῃ ἀντιτύπῳ κρατήσας τρόπαιον ἐστήσατο , ἀθάνατα μὲν τῆς ἑαυτοῦ ἀρετῆς μνημεῖα καταλιπών , σαφῆ δὲ καὶ αὐτὸς σημεῖα ἀπενεγκάμενος τοῦ θυμῷ μάχεσθαι · ὥστʼ οὐκ ἀκούοντας ἀλλʼ ὁρῶντας ἐξῆν αὐτοῦ τὴν ψυχὴν δοκιμάζειν .",
+      "translation": "When the enemy were willing to join battle with him , [*] it was not by their panic flight that he won victory , but it was after overcoming them in stubborn fighting that he set up a trophy , leaving behind him imperishable memorials of his own valour , and bearing in his own body visible tokens of the fury of his fighting , so that not by hearsay but by the evidence of their own eyes men could judge what manner of man he was ."
+    },
+    {
+      "id": "7.1",
+      "label": "Section 7.1",
+      "chapter": null,
+      "original": "ὥς γε μὴν φιλόπολις ἦν καθʼ ἓν μὲν ἕκαστον μακρὸν ἂν εἴη γράφειν · οἴομαι γὰρ οὐδὲν εἶναι τῶν πεπραγμένων αὐτῷ ὅ τι οὐκ εἰς τοῦτο συντείνει . ὡς δʼ ἐν βραχεῖ εἰπεῖν , ἅπαντες ἐπιστάμεθα ὅτι Ἀγησίλαος , ὅπου ᾤετο τὴν πατρίδα τι ὠφελήσειν , οὐ πόνων ὑφίετο , οὐ κινδύνων ἀφίστατο , οὐ χρημάτων ἐφείδετο , οὐ σῶμα , οὐ γῆρας προὐφασίζετο , ἀλλὰ καὶ βασιλέως ἀγαθοῦ τοῦτο ἔργον ἐνόμιζε , τὸ τοὺς ἀρχομένους ὡς πλεῖστα ἀγαθὰ ποιεῖν .",
+      "translation": "Of his Patriotism it would be a long task to write in complete detail , for there is no single action of his , I think , that does not illustrate that quality . To speak briefly , we all know that when Agesilaus thought he would be serving his fatherland he never shirked toil , never shrank from danger , never spared money , never excused himself on the score of bodily weakness or old age ; [*] but believed that it is the duty of a good king to do as much good as possible to his subjects ."
+    },
+    {
+      "id": "7.2",
+      "label": "Section 7.2",
+      "chapter": null,
+      "original": "ἐν τοῖς μεγίστοις δὲ ὠφελήμασι τῆς πατρίδος καὶ τόδε ἐγὼ τίθημι αὐτοῦ , ὅτι δυνατώτατος ὢν ἐν τῇ πόλει φανερὸς ἦν μάλιστα τοῖς νόμοις λατρεύων . τίς γὰρ ἂν ἠθέλησεν ἀπειθεῖν ὁρῶν τὸν βασιλέα πειθόμενον ; τίς δʼ ἂν ἡγούμενος μειονεκτεῖν νεώτερόν τι ἐπεχείρησε ποιεῖν εἰδὼς τὸν βασιλέα νομίμως καὶ τὸ κρατεῖσθαι φέροντα ;",
+      "translation": "Among the greatest services he rendered to his fatherland I reckon the fact that , though the most powerful man in the state , he was clearly a devoted servant of the laws . For who would be minded to disobey when he saw the king obeying ? Who would turn revolutionist , thinking himself defrauded of his due , when he knew that the king was ready to yield in accordance with the laws ?"
+    },
+    {
+      "id": "8.1",
+      "label": "Section 8.1",
+      "chapter": null,
+      "original": "ἀλλὰ μὴν ἄξιόν γε αὐτοῦ καὶ τὸ εὔχαρι μὴ σιωπᾶσθαι · ᾧ γε ὑπαρχούσης μὲν τιμῆς , παρούσης δὲ δυνάμεως , πρὸς δὲ τούτοις βασιλείας , καὶ ταύτης οὐκ ἐπιβουλευομένης ἀλλʼ ἀγαπωμένης , τὸ μὲν μεγάλαυχον οὐκ εἶδέ τις , τὸ δὲ φιλόστοργον καὶ θεραπευτικὸν τῶν φίλων καὶ μὴ ζητῶν κατενόησεν ἄν .",
+      "translation": "Another quality that should not go unrecorded is his urbanity . For although he held honour in fee , and had power at his beck , and to these added sovereignty — sovereignty not plotted against but regarded with affection — yet no traces of arrogance could have been detected in him , whereas signs of a fatherly affection and readiness to serve his friends , even if unsought , were evident ."
+    },
+    {
+      "id": "8.2",
+      "label": "Section 8.2",
+      "chapter": null,
+      "original": "καὶ μὴν μετεῖχε μὲν ἥδιστα παιδικῶν λόγων , συνεσπούδαζε δὲ πᾶν ὅ τι δέοι φίλοις . διὰ δὲ τὸ εὔελπις καὶ εὔθυμος καὶ ἀεὶ ἱλαρὸς εἶναι πολλοὺς ἐποίει μὴ τοῦ διαπράξασθαί τι μόνον ἕνεκα πλησιάζειν , ἀλλὰ καὶ τοῦ ἥδιον διημερεύειν . ἥκιστα δʼ ὢν οἷος μεγαληγορεῖν ὅμως τῶν ἐπαινούντων αὑτοὺς οὐ βαρέως ἤκουεν , ἡγούμενος βλάπτειν οὐδὲν αὐτούς , ὑπισχνεῖσθαι δὲ ἄνδρας ἀγαθοὺς ἔσεσθαι .",
+      "translation": "He delighted , moreover , to take his part in light talk , yet he showed an eager sympathy with friends in all their serious concerns . Thanks to his optimism , good humour , and cheerfulness he was a centre of attraction to many , who came not merely for purposes of business , but to pass the day more pleasantly . Little inclined to boastfulness himself , he heard without annoyance the self-praise of others , thinking that , by indulging in it , they did no harm and gave earnest of high endeavour ."
+    },
+    {
+      "id": "9.1",
+      "label": "Section 9.1",
+      "chapter": null,
+      "original": "ἀλλὰ μὴν ἐρῶ γε ὡς καὶ τὸν τρόπον ὑπεστήσατο τῇ τοῦ Πέρσου ἀλαζονείᾳ . πρῶτον μὲν γὰρ ὁ μὲν τῷ σπανίως ὁρᾶσθαι ἐσεμνύνετο , Ἀγησίλαος δὲ τῷ ἀεὶ ἐμφανὴς εἶναι ἠγάλλετο , νομίζων αἰσχρουργίᾳ μὲν τὸ ἀφανίζεσθαι πρέπειν , τῷ δὲ εἰς κάλλος βίῳ τὸ φῶς μᾶλλον κόσμον παρέχειν .",
+      "translation": "I will next point out the contrast between his behaviour and the imposture of the Persian king . In the first place the Persian thought his dignity required that he should be seldom seen : Agesilaus delighted to be constantly visible , believing that , whereas secrecy was becoming to an ugly career , the light shed lustre on a life of noble purpose ."
+    },
+    {
+      "id": "9.2",
+      "label": "Section 9.2",
+      "chapter": null,
+      "original": "ἔπειτα δὲ ὁ μὲν τῷ δυσπρόσοδος εἶναι ἐσεμνύνετο , ὁ δὲ τῷ πᾶσιν εὐπρόσοδος εἶναι ἔχαιρε · καὶ ὁ μὲν ἡβρύνετο τῷ βραδέως διαπράττειν , ὁ δὲ τότε μάλιστα ἔχαιρεν ὁπότε τάχιστα τυχόντας ὧν δέοιντο ἀποπέμποι .",
+      "translation": "In the second place , the one prided himself on being difficult of approach : the other was glad to make himself accessible to all . And the one affected tardiness in negotiation : the other was best pleased when he could dismiss his suitors quickly with their requests granted ."
+    },
+    {
+      "id": "10.1",
+      "label": "Section 10.1",
+      "chapter": null,
+      "original": "ἐγὼ μὲν οὖν τοιαῦτα ἐπαινῶ Ἀγησίλαον . ταῦτα γὰρ οὐχ ὥσπερ εἰ θησαυρῷ τις ἐντύχοι , πλουσιώτερος μὲν ἂν εἴη , οἰκονομικώτερος δὲ οὐδὲν ἄν , καὶ εἰ νόσου δὲ πολεμίοις ἐμπεσούσης κρατήσειεν , εὐτυχέστερος μὲν ἂν εἴη , στρατηγικώτερος δὲ οὐδὲν ἄν · ὁ δὲ καρτερίᾳ μὲν πρωτεύων ἔνθα πονεῖν καιρός , ἀλκῇ δὲ ὅπου ἀνδρείας ἀγών , γνώμῃ δὲ ὅπου βουλῆς ἔργον , οὗτος ἔμοιγε δοκεῖ δικαίως ἀνὴρ ἀγαθὸς παντελῶς ἂν νομίζεσθαι .",
+      "translation": "Such , then , are the qualities for which I praise Agesilaus . These are the marks that distinguish him , say , from the man who , lighting on a treasure , becomes wealthier but not wiser in business , or from the man who wins victory through an outbreak of sickness among the enemy , and adds to his success but not to his knowledge of strategy . The man who is foremost in endurance when the hour comes for toil , in valour when the contest calls for courage , in wisdom when the need is for counsel — he is the man , I think , who may fairly be regarded as the perfect embodiment of goodness ."
+    },
+    {
+      "id": "10.2",
+      "label": "Section 10.2",
+      "chapter": null,
+      "original": "εἰ δὲ καλὸν εὕρημα ἀνθρώποις στάθμη καὶ κανὼν πρὸς τὸ ὀρθὰ ἐργάζεσθαι , καλὸν ἄν μοι δοκεῖ εἶναι ἡ Ἀγησιλάου ἀρετὴ παράδειγμα γενέσθαι τοῖς ἀνδραγαθίαν ἀσκεῖν βουλομένοις . τίς γὰρ ἂν ἢ θεοσεβῆ μιμούμενος ἀνόσιος γένοιτο ἢ δίκαιον ἄδικος ἢ σώφρονα ὑβριστὴς ἢ ἐγκρατῆ ἀκρατής ; καὶ γὰρ δὴ οὐχ οὕτως ἐπὶ τῷ ἄλλων βασιλεύειν ὡς ἐπὶ τῷ ἑαυτοῦ ἄρχειν ἐμεγαλύνετο , οὐδʼ ἐπὶ τῷ πρὸς τοὺς πολεμίους ἀλλʼ ἐπὶ τῷ πρὸς πᾶσαν ἀρετὴν ἡγεῖσθαι τοῖς πολίταις .",
+      "translation": "If line and rule are a noble discovery of man as aids to the production of good work , I think that the virtue of Agesilaus may well stand as a noble example for those to follow who wish to make moral goodness a habit . For who that imitates a pious , a just , a sober , a self-controlled man , can come to be unrighteous , unjust , violent , wanton ? In point of fact , Agesilaus prided himself less on reigning over others than on ruling himself , less on leading the people against their enemies than on guiding them to all virtue ."
+    },
+    {
+      "id": "11.1",
+      "label": "Section 11.1",
+      "chapter": null,
+      "original": "βούλομαι δὲ καὶ ἐν κεφαλαίοις ἐπανελθεῖν τὴν ἀρετὴν αὐτοῦ , ὡς ἂν ὁ ἔπαινος εὐμνημονεστέρως ἔχῃ . Ἀγησίλαος ἱερὰ μὲν καὶ τὰ ἐν τοῖς πολεμίοις ἐσέβετο , ἡγούμενος τοὺς θεοὺς οὐχ ἧττον ἐν τῇ πολεμίᾳ χρῆναι ἢ ἐν τῇ φιλίᾳ συμμάχους ποιεῖσθαι · ἱκέτας δὲ θεῶν οὐδὲ ἐχθροὺς ἐβιάζετο , νομίζων ἄλογον εἶναι τοὺς μὲν ἐξ ἱερῶν κλέπτοντας ἱεροσύλους καλεῖν , τοὺς δὲ βωμῶν ἱκέτας ἀποσπῶντας εὐσεβεῖς ἡγεῖσθαι .",
+      "translation": "I propose to go through the story of his virtue again , and to summarize it , in order that the praise of it may be more easily remembered . Agesilaus reverenced holy places even when they belonged to an enemy , thinking that he ought to make allies of the gods no less in hostile than in friendly countries . To suppliants of the gods , even if his foes , he did no violence , believing it unreasonable to call robbers of temples sacrilegious and yet to consider those who dragged suppliants from altars pious men ."
+    },
+    {
+      "id": "11.2",
+      "label": "Section 11.2",
+      "chapter": null,
+      "original": "ἐκεῖνός γε μὴν ὑμνῶν οὔποτʼ ἔληγεν ὡς τοὺς θεοὺς οἴοιτο οὐδὲν ἧττον ὁσίοις ἔργοις ἢ ἁγνοῖς ἱεροῖς ἥδεσθαι . ἀλλὰ μὴν καὶ ὁπότε εὐτυχοίη , οὐκ ἀνθρώπων ὑπερεφρόνει , ἀλλὰ θεοῖς χάριν ᾔδει . καὶ θαρρῶν πλείονα ἔθυεν ἢ ὀκνῶν ηὔχετο . εἴθιστο δὲ φοβούμενος μὲν ἱλαρὸς φαίνεσθαι , εὐτυχῶν δὲ πρᾷος εἶναι .",
+      "translation": "My hero never failed to dwell on his opinion that the gods have pleasure in righteous deeds no less than in holy temples . In the hour of success he was not puffed up with pride , but gave thanks to the gods . He offered more sacrifices when confident than prayers when in doubt . He was wont to look cheerful when in fear , and to be humble when successful ."
+    }
+  ],
+  "prevChunkSlug": "hiero-15ie1t",
+  "nextChunkSlug": "constitution-of-the-lacedaimonians-gf9o1z"
+}

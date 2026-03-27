@@ -1,0 +1,115 @@
+{
+  "volumeSlug": "xenophon-scripta-minora-y25osv",
+  "volumeTitle": "Scripta Minora",
+  "authorDisplay": "Xenophon",
+  "authors": [
+    "Xenophon"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "ways-and-means-1ryw4c",
+  "label": "Ways and Means",
+  "partId": "scripta-minora-11ri19",
+  "partTitle": "Scripta Minora",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ways and Means",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg011.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Ways and Means",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg011.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1",
+      "label": "Section 1.1",
+      "chapter": null,
+      "original": "ἐγὼ μὲν τοῦτο ἀεί ποτε νομίζω , ὁποῖοί τινες ἂν οἱ προστάται ὦσι , τοιαύτας καὶ τὰς πολιτείας γίγνεσθαι . ἐπεὶ δὲ τῶν Ἀθήνησι προεστηκότων ἔλεγόν τινες ὡς γιγνώσκουσι μὲν τὸ δίκαιον οὐδενὸς ἧττον τῶν ἄλλων ἀνθρώπων , διὰ δὲ τὴν τοῦ πλήθους πενίαν ἀναγκάζεσθαι ἔφασαν ἀδικώτεροι εἶναι περὶ τὰς πόλεις , ἐκ τούτου ἐπεχείρησα σκοπεῖν εἴ πῃ δύναιντʼ ἂν οἱ πολῖται διατρέφεσθαι ἐκ τῆς ἑαυτῶν , ὅθενπερ καὶ δικαιότατον , νομίζων , εἰ τοῦτο γένοιτο , ἅμα τῇ τε πενίᾳ αὐτῶν ἐπικεκουρῆσθαι ἂν καὶ τῷ ὑπόπτους τοῖς Ἕλλησιν εἶναι .",
+      "translation": "For my part I have always held that the constitution of a state reflects the character of the leading politicians . [*] But some of the leading men at Athens have stated that they recognize justice as clearly as other men ; but , they have said , owing to the poverty of the masses , we are forced to be somewhat unjust in our treatment of the cities . This set me thinking whether by any means the citizens might obtain food entirely from their own soil , which would certainly be the fairest way . I felt that , were this so , they would be relieved of their poverty , and also of the suspicion with which they are regarded by the Greek world ."
+    },
+    {
+      "id": "1.2",
+      "label": "Section 1.2",
+      "chapter": null,
+      "original": "σκοποῦντι δή μοι ἃ ἐπενόησα τοῦτο μὲν εὐθὺς ἀνεφαίνετο , ὅτι ἡ χώρα πέφυκεν οἵα πλείστας προσόδους παρέχεσθαι . ὅπως δὲ γνωσθῇ ὅτι ἀληθὲς τοῦτο λέγω , πρῶτον διηγήσομαι τὴν φύσιν τῆς Ἀττικῆς .",
+      "translation": "Now as I thought over my ideas , one thing seemed clear at once , that the country is by its nature capable of furnishing an ample revenue . To drive home the truth of this statement I will first describe the natural properties of Attica ."
+    },
+    {
+      "id": "2.1",
+      "label": "Section 2.1",
+      "chapter": null,
+      "original": "τούτων μὲν οὖν ἁπάντων , ὥσπερ εἶπον , νομίζω αὐτὴν τὴν χώραν αἰτίαν εἶναι . εἰ δὲ πρὸς τοῖς αὐτοφυέσιν ἀγαθοῖς πρῶτον μὲν τῶν μετοίκων ἐπιμέλεια γένοιτο · αὕτη γὰρ ἡ πρόσοδος τῶν καλλίστων ἔμοιγε δοκεῖ εἶναι , ἐπείπερ αὐτοὶ αὑτοὺς τρέφοντες καὶ πολλὰ ὠφελοῦντες τὰς πόλεις οὐ λαμβάνουσι μισθόν , ἀλλὰ μετοίκιον προσφέρουσιν —",
+      "translation": "All these advantages , as I have said , are , I believe , due to the country itself . But instead of limiting ourselves to the blessings that may be called indigenous , suppose that , in the first place , we studied the interests of the resident aliens . For in them we have one of the very best sources of revenue , in my opinion , inasmuch as they are self-supporting and , so far from receiving payment for the many services they render to states , they contribute by paying a special tax ."
+    },
+    {
+      "id": "2.2",
+      "label": "Section 2.2",
+      "chapter": null,
+      "original": "ἐπιμέλειά γε μὴν ἥδʼ ἂν ἀρκεῖν μοι δοκεῖ , εἰ ἀφέλοιμεν μὲν ὅσα μηδὲν ὠφελοῦντα τὴν πόλιν ἀτιμίας δοκεῖ τοῖς μετοίκοις παρέχειν , ἀφέλοιμεν δὲ καὶ τὸ συστρατεύεσθαι ὁπλίτας μετοίκους τοῖς ἀστοῖς . μέγας μὲν γὰρ ὁ κίνδυνος ἀπόντι · μέγα δὲ καὶ τὸ ἀπὸ τῶν τέκνων καὶ τῶν οἰκιῶν ἀπιέναι .",
+      "translation": "I think that we should study their interests sufficiently , if we relieved them of the duties that seem to impose a certain measure of disability on the resident alien without conferring any benefit on the state , and also of the obligation to serve in the infantry along with the citizens . Apart from the personal risk , it is no small thing to leave their trades [*] and their private affairs . [*]"
+    },
+    {
+      "id": "3.1",
+      "label": "Section 3.1",
+      "chapter": null,
+      "original": "ὥς γε μὴν καὶ ἐμπορεύεσθαι ἡδίστη τε καὶ κερδαλεωτάτη ἡ πόλις , νῦν ταῦτα λέξω . πρῶτον μὲν γὰρ δήπου ναυσὶ καλλίστας καὶ ἀσφαλεστάτας ὑποδοχὰς ἔχει , ὅπου γʼ ἔστιν εἰσορμισθέντας ἀδεῶς ἕνεκα χειμῶνος ἀναπαύεσθαι .",
+      "translation": "I shall now say something of the unrivalled amenities and advantages of our city as a commercial centre .\nIn the first place , I presume , she possesses the finest and safest accomodation for shipping , since vessels can anchor here and ride safe at their moorings in spite of bad weather ."
+    },
+    {
+      "id": "3.2",
+      "label": "Section 3.2",
+      "chapter": null,
+      "original": "ἀλλὰ μὴν καὶ τοῖς ἐμπόροις ἐν μὲν ταῖς πλείσταις τῶν πόλεων ἀντιφορτίζεσθαί τι ἀνάγκη · νομίσμασι γὰρ οὐ χρησίμοις ἔξω χρῶνται · ἐν δὲ ταῖς Ἀθήναις πλεῖστα μὲν ἔστιν ἀντεξάγειν ὧν ἂν δέωνται ἄνθρωποι , ἢν δὲ μὴ βούλωνται ἀντιφορτίζεσθαι , καὶ οἱ ἀργύριον ἐξάγοντες καλὴν ἐμπορίαν ἐξάγουσιν . ὅπου γὰρ ἂν πωλῶσιν αὐτό , πανταχοῦ πλέον τοῦ ἀρχαίου λαμβάνουσιν .",
+      "translation": "Moreover , at most other ports merchants are compelled to ship a return cargo , because the local currency has no circulation in other states ; but at Athens they have the opportunity of exchanging their cargo and exporting very many classes of goods that are in demand , or , if they do not want to ship a return cargo of goods , it is sound business to export silver ; for , wherever they sell it , they are sure to make a profit on the capital invested ."
+    },
+    {
+      "id": "4.1",
+      "label": "Section 4.1",
+      "chapter": null,
+      "original": "τά γε μὴν ἀργύρεια εἰ κατασκευασθείη ὡς δεῖ , πάμπολλα ἂν νομίζω χρήματα ἐξ αὐτῶν καὶ ἄνευ τῶν ἄλλων προσόδων προσιέναι . βούλομαι δὲ καὶ τοῖς μὴ εἰδόσι τὴν τούτων δύναμιν δηλῶσαι . ταύτην γὰρ γνόντες καὶ ὅπως χρῆσθαι δεῖ αὐτοῖς ἄμεινον ἂν βουλεύοισθε .",
+      "translation": "As for the silver mines , I believe that if a proper system of working were introduced , a vast amount of money would be obtained from them apart from our other sources of revenue . I want to point out the possibilities of these mines to those who do not know . For , once you realize their possibilities , you will be in a better position to consider how the mines should be managed ."
+    },
+    {
+      "id": "4.2",
+      "label": "Section 4.2",
+      "chapter": null,
+      "original": "οὐκοῦν ὅτι μὲν πάνυ πάλαι ἐνεργά ἐστι , πᾶσι σαφές · οὐδεὶς γοῦν οὐδὲ πειρᾶται λέγειν ἀπὸ ποίου χρόνου ἐπεχειρήθη · οὕτω δὲ πάλαι ὀρυττομένης τε καὶ ἐκφορουμένης τῆς ἀργυρίτιδος κατανοήσατε τί μέρος οἱ ἐκβεβλημένοι σωροὶ τῶν αὐτοφυῶν τε καὶ ὑπαργύρων λόφων .",
+      "translation": "Now , we all agree that the mines have been worked for many generations . At any rate , no one even attempts to date the beginning of mining operations . And yet , although digging and the removal of the silver ore have been carried on for so long a time , note how small is the size of the dumps compared with the virgin and silver-laden hills ."
+    },
+    {
+      "id": "5.1",
+      "label": "Section 5.1",
+      "chapter": null,
+      "original": "εἰ δὲ σαφὲς δοκεῖ εἶναι ὡς , εἰ μέλλουσι πᾶσαι αἱ πρόσοδοι ἔκπλεῳ προσιέναι , ὅτι εἰρήνην δεῖ ὑπάρχειν , ἆρʼ οὐκ ἄξιον καὶ εἰρηνοφύλακας καθιστάναι ; πολὺ γὰρ ἂν καὶ αὕτη αἱρεθεῖσα ἡ ἀρχὴ προσφιλεστέραν καὶ οἰκειοτέραν εἰσαφικνεῖσθαι πᾶσιν ἀνθρώποις ποιήσειε τὴν πόλιν .",
+      "translation": "If it seems clear that the state cannot obtain a full revenue from all sources unless she has peace , is it not worth while to set up a board of guardians of peace ? Were such a board constituted , it would help to increase the popularity of the city and to make it more attractive and more densely thronged with visitors from all parts ."
+    },
+    {
+      "id": "5.2",
+      "label": "Section 5.2",
+      "chapter": null,
+      "original": "εἰ δέ τινες οὕτω γιγνώσκουσιν , ὡς ἐὰν ἡ πόλις εἰρήνην ἄγουσα διατελῇ , ἀδυνατωτέρα τε καὶ ἀδοξοτέρα καὶ ἧττον ὀνομαστὴ ἐν τῇ Ἑλλάδι ἔσται , καὶ οὗτοί γε ὡς ἐμῇ δόξῃ παραγγέλλω σκοποῦσιν . εὐδαιμονέσταται μὲν γὰρ δήπου πόλεις λέγονται , αἳ ἂν πλεῖστον χρόνον ἐν εἰρήνῃ διατελῶσι · πασῶν δὲ πόλεων Ἀθῆναι μάλιστα πεφύκασιν ἐν εἰρήνῃ αὔξεσθαι .",
+      "translation": "If any are inclined to think that a lasting peace for our city will involve a loss of her power and glory and fame in Greece , they too , in my opinion , are out in their calculations . For I presume that those states are reckoned the happiest that enjoy the longest period of unbroken peace ; and of all states Athens is by nature most suited to flourish in peace ."
+    },
+    {
+      "id": "6.1",
+      "label": "Section 6.1",
+      "chapter": null,
+      "original": "ἀλλʼ εἴ γε μὴν τῶν εἰρημένων ἀδύνατον μὲν μηδέν ἐστι μηδὲ χαλεπόν , πραττομένων δὲ αὐτῶν προσφιλέστεροι μὲν τοῖς Ἕλλησι γενησόμεθα , ἀσφαλέστερον δὲ οἰκήσομεν , εὐκλεέστεροι δὲ ἐσόμεθα , καὶ ὁ μὲν δῆμος τροφῆς εὐπορήσει , οἱ δὲ πλούσιοι τῆς εἰς τὸν πόλεμον δαπάνης ἀπαλλαγήσονται , περιουσίας δὲ πολλῆς γενομένης μεγαλοπρεπέστερον μὲν ἔτι ἢ νῦν ἑορτὰς ἄξομεν , ἱερὰ δʼ ἐπισκευάσομεν , τείχη δὲ καὶ νεώρια ἀνορθώσομεν , ἱερεῦσι δὲ καὶ βουλῇ καὶ ἀρχαῖς καὶ ἱππεῦσι τὰ πάτρια ἀποδώσομεν , πῶς οὐκ ἄξιον ὡς τάχιστα τούτοις ἐγχειρεῖν , ἵνα ἔτι ἐφʼ ἡμῶν ἐπίδωμεν τὴν πόλιν μετʼ ἀσφαλείας εὐδαιμονοῦσαν ;",
+      "translation": "Well now , surely , if none of these proposals is impossible or even difficult , if by carrying them into effect we shall be regarded with more affection by the Greeks , shall live in greater security , and be more glorious ; if the people will be maintained in comfort and the rich no more burdened with the expenses of war ; if with a large surplus in hand we shall celebrate our festivals with even more splendour than at present , shall restore the temples , and repair the walls and docks , and shall give back to priests , councillors , magistrates , knights their ancient privileges ; surely , I say , our proper course is to proceed with this scheme forthwith , that already in our generation we may come to see our city secure and prosperous ."
+    },
+    {
+      "id": "6.2",
+      "label": "Section 6.2",
+      "chapter": null,
+      "original": "εἴ γε μὴν ταῦτα δόξειεν ὑμῖν πράττειν , συμβουλεύσαιμʼ ἂν ἔγωγε πέμψαντας καὶ εἰς Δωδώνην καὶ εἰς Δελφοὺς ἐπερέσθαι τοὺς θεοὺς εἰ λῷον καὶ ἄμεινον εἴη ἂν τῇ πόλει οὕτω κατασκευαζομένῃ καὶ αὐτίκα καὶ εἰς τὸν ἔπειτα χρόνον .",
+      "translation": "Furthermore , if you decide to go forward with the plan , I should advise you to send to Dodona and Delphi , and inquire of the gods whether such a design is fraught with weal for the state both now and in days to come ."
+    }
+  ],
+  "prevChunkSlug": "constitution-of-the-lacedaimonians-gf9o1z",
+  "nextChunkSlug": "on-the-cavalry-commander-19p3zb"
+}

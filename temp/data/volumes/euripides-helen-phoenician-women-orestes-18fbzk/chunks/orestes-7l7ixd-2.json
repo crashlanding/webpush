@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-helen-phoenician-women-orestes-18fbzk",
+  "volumeTitle": "Helen. Phoenician Women. Orestes",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "orestes-7l7ixd-2",
+  "label": "Orestes (Section 1.147 - Section 262)",
+  "partId": "orestes-7l7ixd",
+  "partTitle": "Orestes",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ὀρέστης",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Orestes",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.147",
+      "label": "Section 1.147",
+      "chapter": null,
+      "original": "ἴδʼ , ἀτρεμαῖον ὡς ὑπόροφον φέρω",
+      "translation": "See , how soft and low I drop my voice ."
+    },
+    {
+      "id": "1.148b",
+      "label": "Section 1.148b",
+      "chapter": null,
+      "original": "ναί , οὕτως ·",
+      "translation": "Yes , do so ; approach now , softly , softly !"
+    },
+    {
+      "id": "1.150",
+      "label": "Section 1.150",
+      "chapter": null,
+      "original": "λόγον ἀπόδος ἐφʼ ὅ τι χρέος ἐμόλετέ ποτε .",
+      "translation": "Give me an account of why you have come here . For at last he has lain down , and sleeps ."
+    },
+    {
+      "id": "1.153",
+      "label": "Section 1.153",
+      "chapter": null,
+      "original": "πῶς ἔχει ; λόγου μετάδος , ὦ φίλα ·",
+      "translation": "How is he ? You give us an account , my dear ; what has happened , what misfortune ?"
+    },
+    {
+      "id": "1.155",
+      "label": "Section 1.155",
+      "chapter": null,
+      "original": "ἔτι μὲν ἐμπνέει , βραχὺ δʼ ἀναστένει .",
+      "translation": "He is still breathing , but his moans grow feeble ."
+    },
+    {
+      "id": "1.156",
+      "label": "Section 1.156",
+      "chapter": null,
+      "original": "τί φῄς ; ὦ τάλας .",
+      "translation": "What are you saying ? turning to Orestes . Unhappy Orestes !"
+    },
+    {
+      "id": "1.158",
+      "label": "Section 1.158",
+      "chapter": null,
+      "original": "ὀλεῖς , εἰ βλέφαρα κινήσεις",
+      "translation": "You will kill him , if you disturb him from the sweet sleep he now enjoys ."
+    },
+    {
+      "id": "1.160",
+      "label": "Section 1.160",
+      "chapter": null,
+      "original": "μέλεος ἐχθίστων θεόθεν ἐργμάτων ,",
+      "translation": "Poor sufferer , for his hateful deeds , inspired by a god !"
+    },
+    {
+      "id": "1.162",
+      "label": "Section 1.162",
+      "chapter": null,
+      "original": "φεῦ μόχθων .",
+      "translation": "Ah , misery ! Injustice it was , after all , from an unjust mouth , when Loxias on the tripod of Themis"
+    },
+    {
+      "id": "1.165",
+      "label": "Section 1.165",
+      "chapter": null,
+      "original": "φόνον ὁ Λοξίας ἐμᾶς ματέρος .",
+      "translation": "decreed my mother ’ s most unnatural murder ."
+    },
+    {
+      "id": "2.166",
+      "label": "Section 2.166",
+      "chapter": null,
+      "original": "ὁρᾷς ; ἐν πέπλοισι κινεῖ δέμας .",
+      "translation": "Do you see ? He stirs beneath his robe !"
+    },
+    {
+      "id": "2.167",
+      "label": "Section 2.167",
+      "chapter": null,
+      "original": "σὺ γάρ νιν , ὦ τάλαινα ,",
+      "translation": "Alas ! Your noisy chatter has roused him from his sleep ."
+    },
+    {
+      "id": "2.169",
+      "label": "Section 2.169",
+      "chapter": null,
+      "original": "εὕδειν μὲν οὖν ἔδοξα .",
+      "translation": "No , I think he is asleep ."
+    },
+    {
+      "id": "2.170",
+      "label": "Section 2.170",
+      "chapter": null,
+      "original": "οὐκ ἀφʼ ἡμῶν , οὐκ ἀπʼ οἴκων",
+      "translation": "Leave us , go away from the house ! circle back again ! cease this noise !"
+    },
+    {
+      "id": "2.173",
+      "label": "Section 2.173",
+      "chapter": null,
+      "original": "ὑπνώσσει .",
+      "translation": "He is asleep ."
+    },
+    {
+      "id": "2.173b",
+      "label": "Section 2.173b",
+      "chapter": null,
+      "original": "λέγεις εὖ .",
+      "translation": "You are right . [*] O Lady Night ,"
+    },
+    {
+      "id": "2.175",
+      "label": "Section 2.175",
+      "chapter": null,
+      "original": "ὑπνοδότειρα τῶν πολυπόνων βροτῶν ,",
+      "translation": "giver of sleep to hard-working mortals , come from Erebus , come , wing your way to the palace of Agamemnon ."
+    },
+    {
+      "id": "2.180",
+      "label": "Section 2.180",
+      "chapter": null,
+      "original": "ὑπὸ γὰρ ἀλγέων ὑπό τε συμφορᾶς",
+      "translation": "For with misery and woe we are lost , we are gone ."
+    },
+    {
+      "id": "2.181",
+      "label": "Section 2.181",
+      "chapter": null,
+      "original": "διοιχόμεθʼ , οἰχόμεθα . κτύπον ἠγάγετʼ · οὐχὶ σῖγα",
+      "translation": "There ! To the Chorus . that noise again ! Do be still and keep the sound of your voice"
+    },
+    {
+      "id": "2.185",
+      "label": "Section 2.185",
+      "chapter": null,
+      "original": "ἄνα κέλαδον ἀπὸ λέχεος ἥ-",
+      "translation": "away from his couch ; let him enjoy his sleep in peace , my dear !"
+    },
+    {
+      "id": "2.187",
+      "label": "Section 2.187",
+      "chapter": null,
+      "original": "θρόει τίς κακῶν τελευτὰ μένει .",
+      "translation": "Tell me , what end of troubles awaits him ."
+    },
+    {
+      "id": "2.188",
+      "label": "Section 2.188",
+      "chapter": null,
+      "original": "θανεῖν θανεῖν , τί δʼ ἄλλο ;",
+      "translation": "Death , death ; what else ? For he has no desire for food ."
+    },
+    {
+      "id": "2.190",
+      "label": "Section 2.190",
+      "chapter": null,
+      "original": "πρόδηλος ἆρʼ ὁ πότμος .",
+      "translation": "Then his destiny is already clear ."
+    },
+    {
+      "id": "2.191",
+      "label": "Section 2.191",
+      "chapter": null,
+      "original": "ἐξέθυσʼ ὁ Φοῖβος ἡμᾶς",
+      "translation": "Phoebus offered us up for sacrifice , when he ordered the pitiable , unnatural murder of our mother , who killed our father ."
+    },
+    {
+      "id": "2.194",
+      "label": "Section 2.194",
+      "chapter": null,
+      "original": "δίκᾳ μέν .",
+      "translation": "It was just ."
+    },
+    {
+      "id": "2.194b",
+      "label": "Section 2.194b",
+      "chapter": null,
+      "original": "καλῶς δʼ οὔ .",
+      "translation": "But it was not well done ."
+    },
+    {
+      "id": "2.195",
+      "label": "Section 2.195",
+      "chapter": null,
+      "original": "ἔκανες ἔθανες , ὦ",
+      "translation": "You killed and were killed , my mother ! and you have slain a father and your own children ;"
+    },
+    {
+      "id": "2.200",
+      "label": "Section 2.200",
+      "chapter": null,
+      "original": "ὀλόμεθʼ ἰσονέκυες , ὀλόμεθα .",
+      "translation": "for we are dead or as good as dead . You are in your grave , and the greater part of my life is spent in weeping and wailing ,"
+    },
+    {
+      "id": "2.205",
+      "label": "Section 2.205",
+      "chapter": null,
+      "original": "δάκρυσί τʼ ἐννυχίοις , ἄγαμος",
+      "translation": "and tears at night ; unmarried , childless , I drag out forever a joyless existence ."
+    },
+    {
+      "id": "208",
+      "label": "Section 208",
+      "chapter": null,
+      "original": "ὅρα παροῦσα , παρθένʼ Ἠλέκτρα , πέλας ,",
+      "translation": "Electra , you are nearby ; see whether your brother has not died without your knowing it ;"
+    },
+    {
+      "id": "210",
+      "label": "Section 210",
+      "chapter": null,
+      "original": "οὐ γάρ μʼ ἀρέσκει τῷ λίαν παρειμένῳ .",
+      "translation": "for I do not like his utter prostration ."
+    },
+    {
+      "id": "211",
+      "label": "Section 211",
+      "chapter": null,
+      "original": "ὦ φίλον ὕπνου θέλγητρον , ἐπίκουρον νόσου ,",
+      "translation": "Sweet charm of sleep , savior in sickness , how sweetly you came to me , how needed ! Revered forgetfulness of troubles , how wise a goddess you are , and invoked by every suffering soul !"
+    },
+    {
+      "id": "215",
+      "label": "Section 215",
+      "chapter": null,
+      "original": "πόθεν ποτʼ ἦλθον δεῦρο ; πῶς δʼ ἀφικόμην ;",
+      "translation": "Addressing Electra . Where have I come from ? How am I here ? For I have lost all previous recollection and remember nothing ."
+    },
+    {
+      "id": "217",
+      "label": "Section 217",
+      "chapter": null,
+      "original": "ὦ φίλταθʼ , ὥς μʼ ηὔφρανας εἰς ὕπνον πεσών .",
+      "translation": "My dearest , how glad I was to see you fall asleep ! Do you want me take you in my arms and lift your body ?"
+    },
+    {
+      "id": "219",
+      "label": "Section 219",
+      "chapter": null,
+      "original": "λαβοῦ λαβοῦ δῆτʼ , ἐκ δʼ ὄμορξον ἀθλίου",
+      "translation": "Take , oh ! take me in your arms , and from this sufferer ’ s mouth"
+    },
+    {
+      "id": "220",
+      "label": "Section 220",
+      "chapter": null,
+      "original": "στόματος ἀφρώδη πέλανον ὀμμάτων τʼ ἐμῶν .",
+      "translation": "and eyes wipe off the flakes of foam ."
+    },
+    {
+      "id": "221",
+      "label": "Section 221",
+      "chapter": null,
+      "original": "ἰδού · τὸ δούλευμʼ ἡδύ , κοὐκ ἀναίνομαι",
+      "translation": "There ! The service is sweet , and I do not refuse to tend a brother ’ s limbs with a sister ’ s hand ."
+    },
+    {
+      "id": "223",
+      "label": "Section 223",
+      "chapter": null,
+      "original": "ὑπόβαλε πλευροῖς πλευρά , καὐχμώδη κόμην",
+      "translation": "Prop me up , your side to mine ; brush the matted hair from my face , for I see dimly ."
+    },
+    {
+      "id": "225",
+      "label": "Section 225",
+      "chapter": null,
+      "original": "ὦ βοστρύχων πινῶδες ἄθλιον κάρα ,",
+      "translation": "Ah , poor head , how dirty your hair ! How savage you look , remaining so long unwashed !"
+    },
+    {
+      "id": "227",
+      "label": "Section 227",
+      "chapter": null,
+      "original": "κλῖνόν μʼ ἐς εὐνὴν αὖθις · ὅταν ἀνῇ νόσος",
+      "translation": "Put me once more upon the couch ; whenever the madness leaves me , I am unnerved and weak ."
+    },
+    {
+      "id": "229",
+      "label": "Section 229",
+      "chapter": null,
+      "original": "ἰδού . φίλον τοι τῷ νοσοῦντι δέμνιον ,",
+      "translation": "As she lays him down . There ! His couch is welcome to the sick man ,"
+    },
+    {
+      "id": "230",
+      "label": "Section 230",
+      "chapter": null,
+      "original": "ἀνιαρὸν ὂν τὸ κτῆμʼ , ἀναγκαῖον δʼ ὅμως .",
+      "translation": "a painful possession , but a necessary one ."
+    },
+    {
+      "id": "231",
+      "label": "Section 231",
+      "chapter": null,
+      "original": "αὖθίς μʼ ἐς ὀρθὸν στῆσον , ἀνακύκλει δέμας ·",
+      "translation": "Set me upright once again , turn my body round ; it is their helplessness that makes the sick so hard to please ."
+    },
+    {
+      "id": "233",
+      "label": "Section 233",
+      "chapter": null,
+      "original": "ἦ κἀπὶ γαίας ἁρμόσαι πόδας θέλεις ,",
+      "translation": "Will you set your feet upon the ground and take a step at last ? Change is always pleasant ."
+    },
+    {
+      "id": "235",
+      "label": "Section 235",
+      "chapter": null,
+      "original": "μάλιστα · δόξαν γὰρ τόδʼ ὑγιείας ἔχει .",
+      "translation": "Oh , yes ; for that has a semblance of health ; and the semblance is preferable , though it is far from the truth ."
+    },
+    {
+      "id": "237",
+      "label": "Section 237",
+      "chapter": null,
+      "original": "ἄκουε δὴ νῦν , ὦ κασίγνητον κάρα ,",
+      "translation": "Hear me now , my brother , while the Furies permit you to use your senses ."
+    },
+    {
+      "id": "239",
+      "label": "Section 239",
+      "chapter": null,
+      "original": "λέξεις τι καινόν · κεἰ μὲν εὖ , χάριν φέρεις ·",
+      "translation": "You have news to tell ; if it is good , you do me a kindness ;"
+    },
+    {
+      "id": "240",
+      "label": "Section 240",
+      "chapter": null,
+      "original": "εἰ δʼ ἐς βλάβην τινʼ , ἅλις ἔχω τὸ δυστυχεῖν .",
+      "translation": "but if it tends to my hurt , I have suffered enough ."
+    },
+    {
+      "id": "241",
+      "label": "Section 241",
+      "chapter": null,
+      "original": "Μενέλαος ἥκει , σοῦ κασίγνητος πατρός ,",
+      "translation": "Menelaus , your father ’ s brother , has come ; his ships are moored in Nauplia ."
+    },
+    {
+      "id": "243",
+      "label": "Section 243",
+      "chapter": null,
+      "original": "πῶς εἶπας ; ἥκει φῶς ἐμοῖς καὶ σοῖς κακοῖς",
+      "translation": "What did you say ? Has he come to be a light in our troubles , a man of our own family , who owes gratitude to our father ?"
+    },
+    {
+      "id": "245",
+      "label": "Section 245",
+      "chapter": null,
+      "original": "ἥκει — τὸ πιστὸν τόδε λόγων ἐμῶν δέχου —",
+      "translation": "He has come , and is bringing Helen from the walls of Troy — accept this as proof of what I say ."
+    },
+    {
+      "id": "247",
+      "label": "Section 247",
+      "chapter": null,
+      "original": "εἰ μόνος ἐσώθη , μᾶλλον ἂν ζηλωτὸς ἦν ·",
+      "translation": "If he had returned alone in safety , he would be more enviable ; but if he is bringing his wife , he has come with great mischief ."
+    },
+    {
+      "id": "249",
+      "label": "Section 249",
+      "chapter": null,
+      "original": "ἐπίσημον ἔτεκε Τυνδάρεως ἐς τὸν ψόγον",
+      "translation": "Tyndareus begot a race of daughters notorious for blame ,"
+    },
+    {
+      "id": "250",
+      "label": "Section 250",
+      "chapter": null,
+      "original": "γένος θυγατέρων δυσκλεές τʼ ἀνʼ Ἑλλάδα .",
+      "translation": "infamous throughout Hellas ."
+    },
+    {
+      "id": "251",
+      "label": "Section 251",
+      "chapter": null,
+      "original": "σύ νυν διάφερε τῶν κακῶν · ἔξεστι γάρ ·",
+      "translation": "Then you be different from that evil brood , for you can be ; and not only in words , but also in heart ."
+    },
+    {
+      "id": "253",
+      "label": "Section 253",
+      "chapter": null,
+      "original": "οἴμοι , κασίγνητʼ , ὄμμα σὸν ταράσσεται ,",
+      "translation": "Ah ! brother , your eye is growing wild , and in a moment you are turning mad again , when you were just now sane ."
+    },
+    {
+      "id": "255",
+      "label": "Section 255",
+      "chapter": null,
+      "original": "ὦ μῆτερ , ἱκετεύω σε , μὴ ʼπίσειέ μοι",
+      "translation": "Mother , I implore you ! Do not shake at me those maidens with their bloodshot eyes and snaky hair . Here they are , close by , to leap on me !"
+    },
+    {
+      "id": "258",
+      "label": "Section 258",
+      "chapter": null,
+      "original": "μένʼ , ὦ ταλαίπωρʼ , ἀτρέμα σοῖς ἐν δεμνίοις ·",
+      "translation": "Lie still , poor sufferer , on your couch ; your eye sees nothing , you only imagine that you recognize them ."
+    },
+    {
+      "id": "260",
+      "label": "Section 260",
+      "chapter": null,
+      "original": "ὦ Φοῖβʼ , ἀποκτενοῦσί μʼ αἱ κυνώπιδες",
+      "translation": "O Phoebus ! they will kill me , the hounds of hell , death ’ s priestesses with glaring eyes , the dreadful goddesses ."
+    },
+    {
+      "id": "262",
+      "label": "Section 262",
+      "chapter": null,
+      "original": "οὔτοι μεθήσω · χεῖρα δʼ ἐμπλέξασʼ ἐμὴν",
+      "translation": "I will not let you go ; but with arms twined round you , I will prevent your piteous leaping ."
+    }
+  ],
+  "prevChunkSlug": "orestes-7l7ixd-1",
+  "nextChunkSlug": "orestes-7l7ixd-3"
+}

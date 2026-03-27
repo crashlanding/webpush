@@ -1,0 +1,259 @@
+{
+  "loebNumber": 63,
+  "sortOrder": 63,
+  "slug": "virgil-eclogues-georgics-aeneid-books-1-6-5x1n6d",
+  "title": "Eclogues. Georgics. Aeneid: Books 1-6",
+  "volumeLabel": "Eclogues. Georgics. Aeneid: Books 1-6",
+  "authorDisplay": "Virgil",
+  "authors": [
+    "Virgil"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for Eclogues. Georgics. Aeneid: Books 1-6, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "eclogues-e8mpul-1",
+  "readyChunkCount": 7,
+  "contents": [
+    {
+      "id": "eclogues-e8mpul",
+      "title": "Eclogues",
+      "status": "ready",
+      "sectionCount": 300,
+      "chunkSlug": "eclogues-e8mpul-1",
+      "chunks": [
+        {
+          "slug": "eclogues-e8mpul-1",
+          "label": "Eclogues (Section 1.1 - Section 2.30)",
+          "partId": "eclogues-e8mpul",
+          "partTitle": "Eclogues",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "eclogues-e8mpul-2",
+          "label": "Eclogues (Section 3.1 - Section 4.30)",
+          "partId": "eclogues-e8mpul",
+          "partTitle": "Eclogues",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "eclogues-e8mpul-3",
+          "label": "Eclogues (Section 5.1 - Section 6.30)",
+          "partId": "eclogues-e8mpul",
+          "partTitle": "Eclogues",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "eclogues-e8mpul-4",
+          "label": "Eclogues (Section 7.1 - Section 8.30)",
+          "partId": "eclogues-e8mpul",
+          "partTitle": "Eclogues",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "eclogues-e8mpul-5",
+          "label": "Eclogues (Section 9.1 - Section 10.30)",
+          "partId": "eclogues-e8mpul",
+          "partTitle": "Eclogues",
+          "sectionCount": 60,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "georgics-voc6gj",
+      "title": "Georgics",
+      "status": "ready",
+      "sectionCount": 4,
+      "chunkSlug": "georgics-voc6gj",
+      "chunks": [
+        {
+          "slug": "georgics-voc6gj",
+          "label": "Georgics",
+          "partId": "georgics-voc6gj",
+          "partTitle": "Georgics",
+          "sectionCount": 4,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "aeneid-books-1-6-h41288",
+      "title": "Aeneid: Books 1-6",
+      "status": "ready",
+      "sectionCount": 6,
+      "chunkSlug": "aeneid-books-1-6-h41288",
+      "chunks": [
+        {
+          "slug": "aeneid-books-1-6-h41288",
+          "label": "Aeneid: Books 1-6",
+          "partId": "aeneid-books-1-6-h41288",
+          "partTitle": "Aeneid: Books 1-6",
+          "sectionCount": 6,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "eclogues-e8mpul-1",
+      "label": "Eclogues (Section 1.1 - Section 2.30)",
+      "partId": "eclogues-e8mpul",
+      "partTitle": "Eclogues",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "eclogues-e8mpul-2",
+      "label": "Eclogues (Section 3.1 - Section 4.30)",
+      "partId": "eclogues-e8mpul",
+      "partTitle": "Eclogues",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "eclogues-e8mpul-3",
+      "label": "Eclogues (Section 5.1 - Section 6.30)",
+      "partId": "eclogues-e8mpul",
+      "partTitle": "Eclogues",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "eclogues-e8mpul-4",
+      "label": "Eclogues (Section 7.1 - Section 8.30)",
+      "partId": "eclogues-e8mpul",
+      "partTitle": "Eclogues",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "eclogues-e8mpul-5",
+      "label": "Eclogues (Section 9.1 - Section 10.30)",
+      "partId": "eclogues-e8mpul",
+      "partTitle": "Eclogues",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "georgics-voc6gj",
+      "label": "Georgics",
+      "partId": "georgics-voc6gj",
+      "partTitle": "Georgics",
+      "sectionCount": 4,
+      "status": "ready"
+    },
+    {
+      "slug": "aeneid-books-1-6-h41288",
+      "label": "Aeneid: Books 1-6",
+      "partId": "aeneid-books-1-6-h41288",
+      "partTitle": "Aeneid: Books 1-6",
+      "sectionCount": 6,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "eclogues-e8mpul-1",
+      "partTitle": "Eclogues",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Eclogues",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Eclogues",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "eclogues-e8mpul-2",
+      "partTitle": "Eclogues",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Eclogues",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Eclogues",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "eclogues-e8mpul-3",
+      "partTitle": "Eclogues",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Eclogues",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Eclogues",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "eclogues-e8mpul-4",
+      "partTitle": "Eclogues",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Eclogues",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Eclogues",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "eclogues-e8mpul-5",
+      "partTitle": "Eclogues",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Eclogues",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Eclogues",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "georgics-voc6gj",
+      "partTitle": "Georgics",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Georgicon",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi002.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Georgics",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "aeneid-books-1-6-h41288",
+      "partTitle": "Aeneid: Books 1-6",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Aeneid",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi003.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Aeneid",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi003.perseus-eng2/"
+      }
+    }
+  ]
+}

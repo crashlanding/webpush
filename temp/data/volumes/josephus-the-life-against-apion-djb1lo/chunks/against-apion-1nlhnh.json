@@ -1,0 +1,45 @@
+{
+  "volumeSlug": "josephus-the-life-against-apion-djb1lo",
+  "volumeTitle": "The Life. Against Apion",
+  "authorDisplay": "Josephus",
+  "authors": [
+    "Josephus"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "against-apion-1nlhnh",
+  "label": "Against Apion",
+  "partId": "against-apion-1nlhnh",
+  "partTitle": "Against Apion",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "De Iudaeorum Vetustate sive Contra Apionem",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0526.tlg003.opp-lat1/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Against Apion",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0526.tlg003.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1",
+      "label": "Section 1.1",
+      "chapter": null,
+      "original": "1 Sufficienter ut arbitror et per libros antiquitatum , opulentissime uirorum Epaphrodite , legentibus eos aperui de nostro genere Iudaeorum , quia et uetustissimum est et primam conscientiam propriam habuit nec non et quemadmodum regionem , quam nunc habuimus , habitauit . quinque milia enim annorum numerum historiam continentem ex nostris sacris libris Graeco sermone conscripsi .",
+      "translation": "1\n[*] I SUPPOSE that by my books of the Antiquity of the Jews , most excellent Epaphroditus , [*] have made it evident to those who peruse them , that our Jewish nation is of very great antiquity , and had a distinct subsistence of its own originally ; as also , I have therein declared how we came to inhabit this country wherein we now live . Those Antiquities contain the history of five thousand years , and are taken out of our sacred books , but are translated by me into the Greek tongue . However , since I observe a considerable number of people giving ear to the reproaches that are laid against us by those who bear ill-will to us , and will not believe what I have written concerning the antiquity of our nation , while they take it for a plain sign that our nation is of a late date , because they are not so much as vouchsafed a bare mention by the most famous historiographers among the Grecians . I therefore have thought myself under an obligation to write somewhat briefly about these subjects , in order to convict those that reproach us of spite and voluntary falsehood , and to correct the ignorance of others , and withal to instruct all those who are desirous of knowing the truth of what great antiquity we really are . As for the witnesses whom I shall produce for the proof of what I say , they shall be such as are esteemed to be of the greatest reputation for truth , and the most skillful in the knowledge of all antiquity by the Greeks themselves . I will also show , that those who have written so reproachfully and falsely about us are to be convicted by what they have written themselves to the contrary . I shall also endeavor to give an account of the reasons why it hath so happened , that there have not been a great number of Greeks who have made mention of our nation in their histories . I will , however , bring those Grecians to light who have not omitted such our history , for the sake of those that either do not know them , or pretend not to know them already ."
+    },
+    {
+      "id": "2.1",
+      "label": "Section 2.1",
+      "chapter": null,
+      "original": "1 Priori quidem uolumine , karissime mihi Epaphrodite , de antiquitate nostra monstraui Phoenicum et Chaldaeorum Aegyptiorumque litteris satisfaciens ueritati multosque Graecorum conscriptores adducens et meam e diuerso disputationem aduersus Manethonem et Chaeremonem et alios quosdam exhibui .",
+      "translation": "1\nIN the former book , most honored Epaphroditus , I have demonstrated our antiquity , and confirmed the truth of what I have said , from the writings of the Phoenicians , and Chaldeans , and Egyptians . I have , moreover , produced many of the Grecian writers as witnesses thereto . I have also made a refutation of Manetho and Cheremon , and of certain others of our enemies . I shall now [*] therefore begin a confutation of the remaining authors who have written any thing against us ; although I confess I have had a doubt upon me about Apion [*] the grammarian , whether I ought to take the trouble of confuting him or not ; for some of his writings contain much the same accusations which the others have laid against us , some things that he hath added are very frigid and contemptible , and for the greatest part of what he says , it is very scurrilous , and , to speak no more than the plain truth , it shows him to be a very unlearned person , and what he lays together looks like the work of a man of very bad morals , and of one no better in his whole life than a mountebank . Yet , because there are a great many men so very foolish , that they are rather caught by such orations than by what is written with care , and take pleasure in reproaching other men , and cannot abide to hear them commended , I thought it to be necessary not to let this man go off without examination , who had written such an accusation against us , as if he would bring us to make an answer in open court . For I also have observed , that many men are very much delighted when they see a man who first began to reproach another , to be himself exposed to contempt on account of the vices he hath himself been guilty of . However , it is not a very easy thing to go over this man ' s discourse , nor to know plainly what he means ; yet does he seem , amidst a great confusion and disorder in his falsehoods , to produce , in the first place , such things as resemble what we have examined already , and relate to the departure of our forefathers out of Egypt ; and , in the second place , he accuses those Jews that are inhabitants of Alexandria ; as , in the third place , he mixes with those things such accusations as concern the sacred purifications , with the other legal rites used in the temple ."
+    }
+  ],
+  "prevChunkSlug": "the-life-i7y9vv",
+  "nextChunkSlug": null
+}

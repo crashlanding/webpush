@@ -1,0 +1,206 @@
+{
+  "loebNumber": 148,
+  "sortOrder": 148,
+  "slug": "hippocrates-prognostic-regimen-in-acute-diseases-the-sacred-disease-the-art-breaths-law-iz8fbw",
+  "title": "Prognostic. Regimen in Acute Diseases. The Sacred Disease. The Art. Breaths. Law. Decorum. Dentition",
+  "volumeLabel": "Prognostic. Regimen in Acute Diseases. The Sacred Disease. The Art. Breaths. Law. Decorum. Dentition",
+  "authorDisplay": "Hippocrates",
+  "authors": [
+    "Hippocrates"
+  ],
+  "language": "greek",
+  "summary": "4 of 8 contents in Prognostic. Regimen in Acute Diseases. The Sacred Disease. The Art. Breaths. Law. Decorum. Dentition are live from Scaife, while the remaining contents stay visible until a confident pair is available.",
+  "status": "partial",
+  "defaultChunkSlug": "prognostic-vtwp6e",
+  "readyChunkCount": 4,
+  "contents": [
+    {
+      "id": "prognostic-vtwp6e",
+      "title": "Prognostic",
+      "status": "ready",
+      "sectionCount": 25,
+      "chunkSlug": "prognostic-vtwp6e",
+      "chunks": [
+        {
+          "slug": "prognostic-vtwp6e",
+          "label": "Prognostic",
+          "partId": "prognostic-vtwp6e",
+          "partTitle": "Prognostic",
+          "sectionCount": 25,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "regimen-in-acute-diseases-kflq33",
+      "title": "Regimen in Acute Diseases",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "The original and English Scaife TOCs could not be aligned."
+    },
+    {
+      "id": "the-sacred-disease-uz7puv",
+      "title": "The Sacred Disease",
+      "status": "ready",
+      "sectionCount": 18,
+      "chunkSlug": "the-sacred-disease-uz7puv",
+      "chunks": [
+        {
+          "slug": "the-sacred-disease-uz7puv",
+          "label": "The Sacred Disease",
+          "partId": "the-sacred-disease-uz7puv",
+          "partTitle": "The Sacred Disease",
+          "sectionCount": 18,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "the-art-564mpg",
+      "title": "The Art",
+      "status": "ready",
+      "sectionCount": 87,
+      "chunkSlug": "the-art-564mpg",
+      "chunks": [
+        {
+          "slug": "the-art-564mpg",
+          "label": "The Art",
+          "partId": "the-art-564mpg",
+          "partTitle": "The Art",
+          "sectionCount": 87,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "breaths-tv2i9f",
+      "title": "Breaths",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Breaths."
+    },
+    {
+      "id": "law-1mrm",
+      "title": "Law",
+      "status": "ready",
+      "sectionCount": 5,
+      "chunkSlug": "law-1mrm",
+      "chunks": [
+        {
+          "slug": "law-1mrm",
+          "label": "Law",
+          "partId": "law-1mrm",
+          "partTitle": "Law",
+          "sectionCount": 5,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "decorum-1h1fb1",
+      "title": "Decorum",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Decorum."
+    },
+    {
+      "id": "dentition-1ri8jz",
+      "title": "Dentition",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Dentition."
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "prognostic-vtwp6e",
+      "label": "Prognostic",
+      "partId": "prognostic-vtwp6e",
+      "partTitle": "Prognostic",
+      "sectionCount": 25,
+      "status": "ready"
+    },
+    {
+      "slug": "the-sacred-disease-uz7puv",
+      "label": "The Sacred Disease",
+      "partId": "the-sacred-disease-uz7puv",
+      "partTitle": "The Sacred Disease",
+      "sectionCount": 18,
+      "status": "ready"
+    },
+    {
+      "slug": "the-art-564mpg",
+      "label": "The Art",
+      "partId": "the-art-564mpg",
+      "partTitle": "The Art",
+      "sectionCount": 87,
+      "status": "ready"
+    },
+    {
+      "slug": "law-1mrm",
+      "label": "Law",
+      "partId": "law-1mrm",
+      "partTitle": "Law",
+      "sectionCount": 5,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "prognostic-vtwp6e",
+      "partTitle": "Prognostic",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Prognosticon",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg003.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Of the Prognostics",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-sacred-disease-uz7puv",
+      "partTitle": "The Sacred Disease",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De morbo sacro",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg027.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Sacred Disease",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg027.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-art-564mpg",
+      "partTitle": "The Art",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De articulis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg010.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Articulations",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg010.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "law-1mrm",
+      "partTitle": "Law",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Lex",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg014.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Law",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg014.perseus-eng2/"
+      }
+    }
+  ]
+}

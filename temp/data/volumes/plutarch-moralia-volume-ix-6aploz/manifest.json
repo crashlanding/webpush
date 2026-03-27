@@ -1,0 +1,151 @@
+{
+  "loebNumber": 425,
+  "sortOrder": 425,
+  "slug": "plutarch-moralia-volume-ix-6aploz",
+  "title": "Moralia, Volume IX",
+  "volumeLabel": "Moralia, Volume IX",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Moralia, Volume IX. Moralia, Volume IX opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "de-vitioso-pudore-1a9x8h",
+  "readyChunkCount": 4,
+  "contents": [
+    {
+      "id": "moralia-volume-ix-1ff3q1",
+      "title": "Moralia, Volume IX",
+      "status": "ready",
+      "sectionCount": 82,
+      "chunkSlug": "de-vitioso-pudore-1a9x8h",
+      "chunks": [
+        {
+          "slug": "de-vitioso-pudore-1a9x8h",
+          "label": "De Vitioso Pudore",
+          "partId": "moralia-volume-ix-1ff3q1",
+          "partTitle": "Moralia, Volume IX",
+          "sectionCount": 19,
+          "status": "ready"
+        },
+        {
+          "slug": "de-invidia-et-odio-ckynkh",
+          "label": "De Invidia et Odio",
+          "partId": "moralia-volume-ix-1ff3q1",
+          "partTitle": "Moralia, Volume IX",
+          "sectionCount": 8,
+          "status": "ready"
+        },
+        {
+          "slug": "de-se-ipsum-citra-invidiam-laudando-5a6tt1",
+          "label": "De Se Ipsum Citra Invidiam Laudando",
+          "partId": "moralia-volume-ix-1ff3q1",
+          "partTitle": "Moralia, Volume IX",
+          "sectionCount": 22,
+          "status": "ready"
+        },
+        {
+          "slug": "de-sera-numinis-vindicta-uyjiij",
+          "label": "De Sera Numinis Vindicta",
+          "partId": "moralia-volume-ix-1ff3q1",
+          "partTitle": "Moralia, Volume IX",
+          "sectionCount": 33,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "de-vitioso-pudore-1a9x8h",
+      "label": "De Vitioso Pudore",
+      "partId": "moralia-volume-ix-1ff3q1",
+      "partTitle": "Moralia, Volume IX",
+      "sectionCount": 19,
+      "status": "ready"
+    },
+    {
+      "slug": "de-invidia-et-odio-ckynkh",
+      "label": "De Invidia et Odio",
+      "partId": "moralia-volume-ix-1ff3q1",
+      "partTitle": "Moralia, Volume IX",
+      "sectionCount": 8,
+      "status": "ready"
+    },
+    {
+      "slug": "de-se-ipsum-citra-invidiam-laudando-5a6tt1",
+      "label": "De Se Ipsum Citra Invidiam Laudando",
+      "partId": "moralia-volume-ix-1ff3q1",
+      "partTitle": "Moralia, Volume IX",
+      "sectionCount": 22,
+      "status": "ready"
+    },
+    {
+      "slug": "de-sera-numinis-vindicta-uyjiij",
+      "label": "De Sera Numinis Vindicta",
+      "partId": "moralia-volume-ix-1ff3q1",
+      "partTitle": "Moralia, Volume IX",
+      "sectionCount": 33,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "de-vitioso-pudore-1a9x8h",
+      "partTitle": "Moralia, Volume IX",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ δυσωπίας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg104.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Of Bashfulness",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg104.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "de-invidia-et-odio-ckynkh",
+      "partTitle": "Moralia, Volume IX",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ φθόνου καὶ μίσους",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg105.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Of Envy and Hatred",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg105.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "de-se-ipsum-citra-invidiam-laudando-5a6tt1",
+      "partTitle": "Moralia, Volume IX",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τοῦ ἑαυτὸν ἐπαινεῖν ἀνεπιφθόνως",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg106.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "How a Man May Inoffensively Praise Himself Without Being Liable to Envy",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg106.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "de-sera-numinis-vindicta-uyjiij",
+      "partTitle": "Moralia, Volume IX",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τῶν ὑπὸ τοῦ θείου βραδέως τιμωρουμένων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg107.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Concerning Such Whom God is Slow to Punish",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg107.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "loebNumber": 38,
+  "sortOrder": 38,
+  "slug": "suetonius-lives-of-the-caesars-volume-ii-1vymxg",
+  "title": "Lives of the Caesars, Volume II",
+  "volumeLabel": "Lives of the Caesars, Volume II",
+  "authorDisplay": "Suetonius",
+  "authors": [
+    "Suetonius"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for Lives of the Caesars, Volume II. Lives of the Caesars, Volume II opens a closest available slice of Suetonius on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "galba-14tmcx",
+  "readyChunkCount": 6,
+  "contents": [
+    {
+      "id": "lives-of-the-caesars-volume-ii-sejnmj",
+      "title": "Lives of the Caesars, Volume II",
+      "status": "ready",
+      "sectionCount": 112,
+      "chunkSlug": "galba-14tmcx",
+      "chunks": [
+        {
+          "slug": "galba-14tmcx",
+          "label": "Galba",
+          "partId": "lives-of-the-caesars-volume-ii-sejnmj",
+          "partTitle": "Lives of the Caesars, Volume II",
+          "sectionCount": 23,
+          "status": "ready"
+        },
+        {
+          "slug": "otho-1gwjw",
+          "label": "Otho",
+          "partId": "lives-of-the-caesars-volume-ii-sejnmj",
+          "partTitle": "Lives of the Caesars, Volume II",
+          "sectionCount": 12,
+          "status": "ready"
+        },
+        {
+          "slug": "vitellius-5vdxdv",
+          "label": "Vitellius",
+          "partId": "lives-of-the-caesars-volume-ii-sejnmj",
+          "partTitle": "Lives of the Caesars, Volume II",
+          "sectionCount": 18,
+          "status": "ready"
+        },
+        {
+          "slug": "divus-vespasianus-1xn8xq",
+          "label": "Divus Vespasianus",
+          "partId": "lives-of-the-caesars-volume-ii-sejnmj",
+          "partTitle": "Lives of the Caesars, Volume II",
+          "sectionCount": 25,
+          "status": "ready"
+        },
+        {
+          "slug": "divus-titus-13q4de",
+          "label": "Divus Titus",
+          "partId": "lives-of-the-caesars-volume-ii-sejnmj",
+          "partTitle": "Lives of the Caesars, Volume II",
+          "sectionCount": 11,
+          "status": "ready"
+        },
+        {
+          "slug": "domitianus-1rxba9",
+          "label": "Domitianus",
+          "partId": "lives-of-the-caesars-volume-ii-sejnmj",
+          "partTitle": "Lives of the Caesars, Volume II",
+          "sectionCount": 23,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "galba-14tmcx",
+      "label": "Galba",
+      "partId": "lives-of-the-caesars-volume-ii-sejnmj",
+      "partTitle": "Lives of the Caesars, Volume II",
+      "sectionCount": 23,
+      "status": "ready"
+    },
+    {
+      "slug": "otho-1gwjw",
+      "label": "Otho",
+      "partId": "lives-of-the-caesars-volume-ii-sejnmj",
+      "partTitle": "Lives of the Caesars, Volume II",
+      "sectionCount": 12,
+      "status": "ready"
+    },
+    {
+      "slug": "vitellius-5vdxdv",
+      "label": "Vitellius",
+      "partId": "lives-of-the-caesars-volume-ii-sejnmj",
+      "partTitle": "Lives of the Caesars, Volume II",
+      "sectionCount": 18,
+      "status": "ready"
+    },
+    {
+      "slug": "divus-vespasianus-1xn8xq",
+      "label": "Divus Vespasianus",
+      "partId": "lives-of-the-caesars-volume-ii-sejnmj",
+      "partTitle": "Lives of the Caesars, Volume II",
+      "sectionCount": 25,
+      "status": "ready"
+    },
+    {
+      "slug": "divus-titus-13q4de",
+      "label": "Divus Titus",
+      "partId": "lives-of-the-caesars-volume-ii-sejnmj",
+      "partTitle": "Lives of the Caesars, Volume II",
+      "sectionCount": 11,
+      "status": "ready"
+    },
+    {
+      "slug": "domitianus-1rxba9",
+      "label": "Domitianus",
+      "partId": "lives-of-the-caesars-volume-ii-sejnmj",
+      "partTitle": "Lives of the Caesars, Volume II",
+      "sectionCount": 23,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "galba-14tmcx",
+      "partTitle": "Lives of the Caesars, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Galba",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1348.abo017.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Galba",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1348.abo017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "otho-1gwjw",
+      "partTitle": "Lives of the Caesars, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Otho",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1348.abo018.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Otho",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1348.abo018.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "vitellius-5vdxdv",
+      "partTitle": "Lives of the Caesars, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Vitellius",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1348.abo019.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Vitellius",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1348.abo019.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "divus-vespasianus-1xn8xq",
+      "partTitle": "Lives of the Caesars, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Divus Vespasianus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1348.abo020.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Vespasian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1348.abo020.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "divus-titus-13q4de",
+      "partTitle": "Lives of the Caesars, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Divus Titus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1348.abo021.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Titus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1348.abo021.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "domitianus-1rxba9",
+      "partTitle": "Lives of the Caesars, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Domitianus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1348.abo022.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Domitian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1348.abo022.perseus-eng2/"
+      }
+    }
+  ]
+}

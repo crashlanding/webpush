@@ -1,0 +1,451 @@
+{
+  "loebNumber": 302,
+  "sortOrder": 302,
+  "slug": "lucian-the-passing-of-peregrinus-the-runaways-toxaris-or-friendship-the-dance-lexiphanes-cb5kdh",
+  "title": "The Passing of Peregrinus. The Runaways. Toxaris or Friendship. The Dance. Lexiphanes. The Eunuch. Astrology. The Mistaken Critic. The Parliament of the Gods. The Tyrannicide. Disowned",
+  "volumeLabel": "The Passing of Peregrinus. The Runaways. Toxaris or Friendship. The Dance. Lexiphanes. The Eunuch. Astrology. The Mistaken Critic. The Parliament of the Gods. The Tyrannicide. Disowned",
+  "authorDisplay": "Lucian",
+  "authors": [
+    "Lucian"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for The Passing of Peregrinus. The Runaways. Toxaris or Friendship. The Dance. Lexiphanes. The Eunuch. Astrology. The Mistaken Critic. The Parliament of the Gods. The Tyrannicide. Disowned, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "the-passing-of-peregrinus-simrgh",
+  "readyChunkCount": 11,
+  "contents": [
+    {
+      "id": "the-passing-of-peregrinus-simrgh",
+      "title": "The Passing of Peregrinus",
+      "status": "ready",
+      "sectionCount": 45,
+      "chunkSlug": "the-passing-of-peregrinus-simrgh",
+      "chunks": [
+        {
+          "slug": "the-passing-of-peregrinus-simrgh",
+          "label": "The Passing of Peregrinus",
+          "partId": "the-passing-of-peregrinus-simrgh",
+          "partTitle": "The Passing of Peregrinus",
+          "sectionCount": 45,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "the-runaways-991dbd",
+      "title": "The Runaways",
+      "status": "ready",
+      "sectionCount": 33,
+      "chunkSlug": "the-runaways-991dbd",
+      "chunks": [
+        {
+          "slug": "the-runaways-991dbd",
+          "label": "The Runaways",
+          "partId": "the-runaways-991dbd",
+          "partTitle": "The Runaways",
+          "sectionCount": 33,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "toxaris-or-friendship-9ec5r",
+      "title": "Toxaris or Friendship",
+      "status": "ready",
+      "sectionCount": 63,
+      "chunkSlug": "toxaris-or-friendship-9ec5r",
+      "chunks": [
+        {
+          "slug": "toxaris-or-friendship-9ec5r",
+          "label": "Toxaris or Friendship",
+          "partId": "toxaris-or-friendship-9ec5r",
+          "partTitle": "Toxaris or Friendship",
+          "sectionCount": 63,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "the-dance-1vi6tx",
+      "title": "The Dance",
+      "status": "ready",
+      "sectionCount": 85,
+      "chunkSlug": "the-dance-1vi6tx",
+      "chunks": [
+        {
+          "slug": "the-dance-1vi6tx",
+          "label": "The Dance",
+          "partId": "the-dance-1vi6tx",
+          "partTitle": "The Dance",
+          "sectionCount": 85,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "lexiphanes-cpk76l",
+      "title": "Lexiphanes",
+      "status": "ready",
+      "sectionCount": 25,
+      "chunkSlug": "lexiphanes-cpk76l",
+      "chunks": [
+        {
+          "slug": "lexiphanes-cpk76l",
+          "label": "Lexiphanes",
+          "partId": "lexiphanes-cpk76l",
+          "partTitle": "Lexiphanes",
+          "sectionCount": 25,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "the-eunuch-xjo25n",
+      "title": "The Eunuch",
+      "status": "ready",
+      "sectionCount": 13,
+      "chunkSlug": "the-eunuch-xjo25n",
+      "chunks": [
+        {
+          "slug": "the-eunuch-xjo25n",
+          "label": "The Eunuch",
+          "partId": "the-eunuch-xjo25n",
+          "partTitle": "The Eunuch",
+          "sectionCount": 13,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "astrology-4mqzx0",
+      "title": "Astrology",
+      "status": "ready",
+      "sectionCount": 29,
+      "chunkSlug": "astrology-4mqzx0",
+      "chunks": [
+        {
+          "slug": "astrology-4mqzx0",
+          "label": "Astrology",
+          "partId": "astrology-4mqzx0",
+          "partTitle": "Astrology",
+          "sectionCount": 29,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "the-mistaken-critic-s53yt1",
+      "title": "The Mistaken Critic",
+      "status": "ready",
+      "sectionCount": 32,
+      "chunkSlug": "the-mistaken-critic-s53yt1",
+      "chunks": [
+        {
+          "slug": "the-mistaken-critic-s53yt1",
+          "label": "The Mistaken Critic",
+          "partId": "the-mistaken-critic-s53yt1",
+          "partTitle": "The Mistaken Critic",
+          "sectionCount": 32,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "the-parliament-of-the-gods-c79hen",
+      "title": "The Parliament of the Gods",
+      "status": "ready",
+      "sectionCount": 19,
+      "chunkSlug": "the-parliament-of-the-gods-c79hen",
+      "chunks": [
+        {
+          "slug": "the-parliament-of-the-gods-c79hen",
+          "label": "The Parliament of the Gods",
+          "partId": "the-parliament-of-the-gods-c79hen",
+          "partTitle": "The Parliament of the Gods",
+          "sectionCount": 19,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "the-tyrannicide-z9zh2l",
+      "title": "The Tyrannicide",
+      "status": "ready",
+      "sectionCount": 23,
+      "chunkSlug": "the-tyrannicide-z9zh2l",
+      "chunks": [
+        {
+          "slug": "the-tyrannicide-z9zh2l",
+          "label": "The Tyrannicide",
+          "partId": "the-tyrannicide-z9zh2l",
+          "partTitle": "The Tyrannicide",
+          "sectionCount": 23,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "disowned-5rvbhz",
+      "title": "Disowned",
+      "status": "ready",
+      "sectionCount": 33,
+      "chunkSlug": "disowned-5rvbhz",
+      "chunks": [
+        {
+          "slug": "disowned-5rvbhz",
+          "label": "Disowned",
+          "partId": "disowned-5rvbhz",
+          "partTitle": "Disowned",
+          "sectionCount": 33,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "the-passing-of-peregrinus-simrgh",
+      "label": "The Passing of Peregrinus",
+      "partId": "the-passing-of-peregrinus-simrgh",
+      "partTitle": "The Passing of Peregrinus",
+      "sectionCount": 45,
+      "status": "ready"
+    },
+    {
+      "slug": "the-runaways-991dbd",
+      "label": "The Runaways",
+      "partId": "the-runaways-991dbd",
+      "partTitle": "The Runaways",
+      "sectionCount": 33,
+      "status": "ready"
+    },
+    {
+      "slug": "toxaris-or-friendship-9ec5r",
+      "label": "Toxaris or Friendship",
+      "partId": "toxaris-or-friendship-9ec5r",
+      "partTitle": "Toxaris or Friendship",
+      "sectionCount": 63,
+      "status": "ready"
+    },
+    {
+      "slug": "the-dance-1vi6tx",
+      "label": "The Dance",
+      "partId": "the-dance-1vi6tx",
+      "partTitle": "The Dance",
+      "sectionCount": 85,
+      "status": "ready"
+    },
+    {
+      "slug": "lexiphanes-cpk76l",
+      "label": "Lexiphanes",
+      "partId": "lexiphanes-cpk76l",
+      "partTitle": "Lexiphanes",
+      "sectionCount": 25,
+      "status": "ready"
+    },
+    {
+      "slug": "the-eunuch-xjo25n",
+      "label": "The Eunuch",
+      "partId": "the-eunuch-xjo25n",
+      "partTitle": "The Eunuch",
+      "sectionCount": 13,
+      "status": "ready"
+    },
+    {
+      "slug": "astrology-4mqzx0",
+      "label": "Astrology",
+      "partId": "astrology-4mqzx0",
+      "partTitle": "Astrology",
+      "sectionCount": 29,
+      "status": "ready"
+    },
+    {
+      "slug": "the-mistaken-critic-s53yt1",
+      "label": "The Mistaken Critic",
+      "partId": "the-mistaken-critic-s53yt1",
+      "partTitle": "The Mistaken Critic",
+      "sectionCount": 32,
+      "status": "ready"
+    },
+    {
+      "slug": "the-parliament-of-the-gods-c79hen",
+      "label": "The Parliament of the Gods",
+      "partId": "the-parliament-of-the-gods-c79hen",
+      "partTitle": "The Parliament of the Gods",
+      "sectionCount": 19,
+      "status": "ready"
+    },
+    {
+      "slug": "the-tyrannicide-z9zh2l",
+      "label": "The Tyrannicide",
+      "partId": "the-tyrannicide-z9zh2l",
+      "partTitle": "The Tyrannicide",
+      "sectionCount": 23,
+      "status": "ready"
+    },
+    {
+      "slug": "disowned-5rvbhz",
+      "label": "Disowned",
+      "partId": "disowned-5rvbhz",
+      "partTitle": "Disowned",
+      "sectionCount": 33,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "the-passing-of-peregrinus-simrgh",
+      "partTitle": "The Passing of Peregrinus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τῆς Περεγρίνου Τελευτῆς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg042.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Passing of Peregrinus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg042.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-runaways-991dbd",
+      "partTitle": "The Runaways",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Δραπέται",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg043.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Runaways",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg043.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "toxaris-or-friendship-9ec5r",
+      "partTitle": "Toxaris or Friendship",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Τόξαρις ἢ Φιλία",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg044.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Toxaris, or Friendship",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg044.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-dance-1vi6tx",
+      "partTitle": "The Dance",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ Ὀρχήσεως",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg045.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Dance",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg045.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "lexiphanes-cpk76l",
+      "partTitle": "Lexiphanes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Λεξιφάνης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg046.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Lexiphanes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg046.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-eunuch-xjo25n",
+      "partTitle": "The Eunuch",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Εὐνοῦχος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg047.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Eunuch",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg047.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "astrology-4mqzx0",
+      "partTitle": "Astrology",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τῆς Ἀστρολογίας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg048.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Astrology",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg048.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-mistaken-critic-s53yt1",
+      "partTitle": "The Mistaken Critic",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ψευδολογιστής",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg049.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Mistaken Critic, or a Discourse on the Word",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg049.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-parliament-of-the-gods-c79hen",
+      "partTitle": "The Parliament of the Gods",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Θεῶν Ἐκκλησία",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg050.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Parliament of the Gods",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg050.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-tyrannicide-z9zh2l",
+      "partTitle": "The Tyrannicide",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Τυραννοκτόνος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg051.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Tyrannicide",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg051.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "disowned-5rvbhz",
+      "partTitle": "Disowned",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀποκηρυττόμενος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg052.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Disowned",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg052.perseus-eng2/"
+      }
+    }
+  ]
+}

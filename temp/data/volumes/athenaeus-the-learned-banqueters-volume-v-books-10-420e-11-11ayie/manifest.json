@@ -1,0 +1,61 @@
+{
+  "loebNumber": 274,
+  "sortOrder": 274,
+  "slug": "athenaeus-the-learned-banqueters-volume-v-books-10-420e-11-11ayie",
+  "title": "The Learned Banqueters, Volume V: Books 10.420e-11",
+  "volumeLabel": "The Learned Banqueters, Volume V: Books 10.420e-11",
+  "authorDisplay": "Athenaeus",
+  "authors": [
+    "Athenaeus"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for The Learned Banqueters, Volume V: Books 10.420e-11. The Learned Banqueters: Books 10.420e-11 uses a manual book-range map on Scaife because the Loeb volume cuts through longer books and sections.",
+  "status": "ready",
+  "defaultChunkSlug": "the-learned-banqueters-books-10-420e-11-cgta9j",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "the-learned-banqueters-books-10-420e-11-cgta9j",
+      "title": "The Learned Banqueters: Books 10.420e-11",
+      "status": "ready",
+      "sectionCount": 2,
+      "chunkSlug": "the-learned-banqueters-books-10-420e-11-cgta9j",
+      "chunks": [
+        {
+          "slug": "the-learned-banqueters-books-10-420e-11-cgta9j",
+          "label": "The Learned Banqueters: Books 10.420e-11",
+          "partId": "the-learned-banqueters-books-10-420e-11-cgta9j",
+          "partTitle": "The Learned Banqueters: Books 10.420e-11",
+          "sectionCount": 2,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "the-learned-banqueters-books-10-420e-11-cgta9j",
+      "label": "The Learned Banqueters: Books 10.420e-11",
+      "partId": "the-learned-banqueters-books-10-420e-11-cgta9j",
+      "partTitle": "The Learned Banqueters: Books 10.420e-11",
+      "sectionCount": 2,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "the-learned-banqueters-books-10-420e-11-cgta9j",
+      "partTitle": "The Learned Banqueters: Books 10.420e-11",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Δειπνοσοφισταί",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0008.tlg001.perseus-grc3/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Deipnosophists",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0008.tlg001.perseus-eng2/"
+      }
+    }
+  ]
+}

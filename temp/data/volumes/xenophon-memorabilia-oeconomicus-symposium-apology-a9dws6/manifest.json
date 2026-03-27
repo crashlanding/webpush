@@ -1,0 +1,178 @@
+{
+  "loebNumber": 168,
+  "sortOrder": 168,
+  "slug": "xenophon-memorabilia-oeconomicus-symposium-apology-a9dws6",
+  "title": "Memorabilia. Oeconomicus. Symposium. Apology",
+  "volumeLabel": "Memorabilia. Oeconomicus. Symposium. Apology",
+  "authorDisplay": "Xenophon",
+  "authors": [
+    "Xenophon"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Memorabilia. Oeconomicus. Symposium. Apology, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "memorabilia-13q3nu",
+  "readyChunkCount": 4,
+  "contents": [
+    {
+      "id": "memorabilia-13q3nu",
+      "title": "Memorabilia",
+      "status": "ready",
+      "sectionCount": 20,
+      "chunkSlug": "memorabilia-13q3nu",
+      "chunks": [
+        {
+          "slug": "memorabilia-13q3nu",
+          "label": "Memorabilia",
+          "partId": "memorabilia-13q3nu",
+          "partTitle": "Memorabilia",
+          "sectionCount": 20,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "oeconomicus-e791ia",
+      "title": "Oeconomicus",
+      "status": "ready",
+      "sectionCount": 42,
+      "chunkSlug": "oeconomicus-e791ia",
+      "chunks": [
+        {
+          "slug": "oeconomicus-e791ia",
+          "label": "Oeconomicus",
+          "partId": "oeconomicus-e791ia",
+          "partTitle": "Oeconomicus",
+          "sectionCount": 42,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "symposium-x1iyc4",
+      "title": "Symposium",
+      "status": "ready",
+      "sectionCount": 18,
+      "chunkSlug": "symposium-x1iyc4",
+      "chunks": [
+        {
+          "slug": "symposium-x1iyc4",
+          "label": "Symposium",
+          "partId": "symposium-x1iyc4",
+          "partTitle": "Symposium",
+          "sectionCount": 18,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "apology-ee9ub9",
+      "title": "Apology",
+      "status": "ready",
+      "sectionCount": 34,
+      "chunkSlug": "apology-ee9ub9",
+      "chunks": [
+        {
+          "slug": "apology-ee9ub9",
+          "label": "Apology",
+          "partId": "apology-ee9ub9",
+          "partTitle": "Apology",
+          "sectionCount": 34,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "memorabilia-13q3nu",
+      "label": "Memorabilia",
+      "partId": "memorabilia-13q3nu",
+      "partTitle": "Memorabilia",
+      "sectionCount": 20,
+      "status": "ready"
+    },
+    {
+      "slug": "oeconomicus-e791ia",
+      "label": "Oeconomicus",
+      "partId": "oeconomicus-e791ia",
+      "partTitle": "Oeconomicus",
+      "sectionCount": 42,
+      "status": "ready"
+    },
+    {
+      "slug": "symposium-x1iyc4",
+      "label": "Symposium",
+      "partId": "symposium-x1iyc4",
+      "partTitle": "Symposium",
+      "sectionCount": 18,
+      "status": "ready"
+    },
+    {
+      "slug": "apology-ee9ub9",
+      "label": "Apology",
+      "partId": "apology-ee9ub9",
+      "partTitle": "Apology",
+      "sectionCount": 34,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "memorabilia-13q3nu",
+      "partTitle": "Memorabilia",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Memorabilia",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg002.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Memorabilia",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "oeconomicus-e791ia",
+      "partTitle": "Oeconomicus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Economics",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Economics",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "symposium-x1iyc4",
+      "partTitle": "Symposium",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Symposium",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg004.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Symposium",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "apology-ee9ub9",
+      "partTitle": "Apology",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Apology",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg005.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Apology",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg005.perseus-eng2/"
+      }
+    }
+  ]
+}

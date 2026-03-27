@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-merchant-1me99z-4",
+  "label": "The Merchant (Section 2.2.301 - Section 2.3.385)",
+  "partId": "the-merchant-1me99z",
+  "partTitle": "The Merchant",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Mercator",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Mercator, or The Merchant",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "2.2.301",
+      "label": "Section 2.2.301",
+      "chapter": null,
+      "original": "Sed ausimne ego tibi eloqui fideliter ?",
+      "translation": "But , if I wished at all , could I venture to disclose something to you ?"
+    },
+    {
+      "id": "2.2.302",
+      "label": "Section 2.2.302",
+      "chapter": null,
+      "original": "Audacter .",
+      "translation": "Boldly ."
+    },
+    {
+      "id": "2.2.302b",
+      "label": "Section 2.2.302b",
+      "chapter": null,
+      "original": "Animum advorte .",
+      "translation": "Give heed , then ."
+    },
+    {
+      "id": "2.2.302c",
+      "label": "Section 2.2.302c",
+      "chapter": null,
+      "original": "Fiet sedulo .",
+      "translation": "It shall be carefully done ."
+    },
+    {
+      "id": "2.2.303",
+      "label": "Section 2.2.303",
+      "chapter": null,
+      "original": "Hodie ire in ludum occepi litterarium ,",
+      "translation": "This day , Lysimachus , I ’ ve begun to go to school to learn my letters . I know three letters already ."
+    },
+    {
+      "id": "2.2.304b",
+      "label": "Section 2.2.304b",
+      "chapter": null,
+      "original": "Quid ternas ?",
+      "translation": "How ? Three letters ?"
+    },
+    {
+      "id": "2.2.304c",
+      "label": "Section 2.2.304c",
+      "chapter": null,
+      "original": "Amo .",
+      "translation": "A M O [ I am in love ]."
+    },
+    {
+      "id": "2.2.305",
+      "label": "Section 2.2.305",
+      "chapter": null,
+      "original": "Tun capite cano amas , senex nequissime ?",
+      "translation": "What ! you , in love , with your hoary head , you most shocking old fellow ?"
+    },
+    {
+      "id": "2.2.306",
+      "label": "Section 2.2.306",
+      "chapter": null,
+      "original": "Si canum seu istuc rutilum sive atrumst , amo .",
+      "translation": "Whether that is hoary , or whether red , or whether black , I ’ m in love ."
+    },
+    {
+      "id": "2.2.307",
+      "label": "Section 2.2.307",
+      "chapter": null,
+      "original": "Ludificas nunc tu me hic , opinor , Demipho .",
+      "translation": "You ’ re now playing upon me in this , I fancy , Demipho ."
+    },
+    {
+      "id": "2.2.308",
+      "label": "Section 2.2.308",
+      "chapter": null,
+      "original": "Decide collum stanti , si falsum loquor ;",
+      "translation": "Cut my throat , if it ’ s false , what I ’ m saying . That you may be sure I ’ m in love , take a knife , and do you cut off"
+    },
+    {
+      "id": "2.2.310",
+      "label": "Section 2.2.310",
+      "chapter": null,
+      "original": "digitum vel aurem vel tu nasum vel labrum :",
+      "translation": "either my finger , or my ear , or my nose , or my lip : if I move me , or feel that I ’ m being cut , then , Lysimachus , I give you leave to torture me to death here with being in love ."
+    },
+    {
+      "id": "2.2.313",
+      "label": "Section 2.2.313",
+      "chapter": null,
+      "original": "Si umquam vidistis pictum amatorem , em illic est .",
+      "translation": "If ever you ’ ve seen a lover in a picture , why , there he is ( pointing at DEMIPHO ) : for really , in my way of thinking , an antiquated , decrepit old man"
+    },
+    {
+      "id": "2.2.315",
+      "label": "Section 2.2.315",
+      "chapter": null,
+      "original": "tantidemst quasi sit signum pictum in pariete .",
+      "translation": "is just about the same as though he were a figure painted upon a wall ."
+    },
+    {
+      "id": "2.2.316",
+      "label": "Section 2.2.316",
+      "chapter": null,
+      "original": "Nunc tu me , credo , castigare cogitas .",
+      "translation": "Now , I suppose , you are thinking of censuring me ."
+    },
+    {
+      "id": "2.2.317",
+      "label": "Section 2.2.317",
+      "chapter": null,
+      "original": "Egon té ?",
+      "translation": "What , I , censure you ?"
+    },
+    {
+      "id": "2.2.317b",
+      "label": "Section 2.2.317b",
+      "chapter": null,
+      "original": "Nihil est iam quod tu mihi suscenseas :",
+      "translation": "Well , there ’ s no reason that you should censure me . Other distinguished men have done the like before ."
+    },
+    {
+      "id": "2.2.319_320",
+      "label": "Section 2.2.319_320",
+      "chapter": null,
+      "original": "humanum amarest , humanum autem ignoscerest :",
+      "translation": "It ’ s natural to be in love , it ’ s natural , as well , to be considerate . Then , please , don ’ t reprove me ; no inclination impelled me to this ."
+    },
+    {
+      "id": "2.2.322",
+      "label": "Section 2.2.322",
+      "chapter": null,
+      "original": "Quin non obiurgo .",
+      "translation": "Why , I ’ m not reproving you ."
+    },
+    {
+      "id": "2.2.322b",
+      "label": "Section 2.2.322b",
+      "chapter": null,
+      "original": "At ne deteriorem tamen",
+      "translation": "But still , don ’ t you think any the worse of me for acting thus ."
+    },
+    {
+      "id": "2.2.323b",
+      "label": "Section 2.2.323b",
+      "chapter": null,
+      "original": "Egon te ? ah , ne di siverint .",
+      "translation": "I , think the worse of you ? O , may the Deities forbid it ."
+    },
+    {
+      "id": "2.2.324",
+      "label": "Section 2.2.324",
+      "chapter": null,
+      "original": "Vide sís modo etiam .",
+      "translation": "Still , please , only do take care of that ."
+    },
+    {
+      "id": "2.2.324b",
+      "label": "Section 2.2.324b",
+      "chapter": null,
+      "original": "Visumst .",
+      "translation": "Due care is taken ."
+    },
+    {
+      "id": "2.2.324c",
+      "label": "Section 2.2.324c",
+      "chapter": null,
+      "original": "Certen ?",
+      "translation": "Quite sure ?"
+    },
+    {
+      "id": "2.2.324d",
+      "label": "Section 2.2.324d",
+      "chapter": null,
+      "original": "Perdis me .",
+      "translation": "You ’ re wearing me out ."
+    },
+    {
+      "id": "2.2.325",
+      "label": "Section 2.2.325",
+      "chapter": null,
+      "original": "hic homo ex amore insanit . numquid vis ?",
+      "translation": "This person ’ s deranged through love . ( To DEMIPHO .) Do you desire aught with me ?"
+    },
+    {
+      "id": "2.2.325b",
+      "label": "Section 2.2.325b",
+      "chapter": null,
+      "original": "Vale .",
+      "translation": "Farewell !"
+    },
+    {
+      "id": "2.2.326",
+      "label": "Section 2.2.326",
+      "chapter": null,
+      "original": "Ad portum propero , nam ibi mihi negotium est .",
+      "translation": "I ’ m making haste to the harbour ; for I ’ ve got business there ."
+    },
+    {
+      "id": "2.2.327",
+      "label": "Section 2.2.327",
+      "chapter": null,
+      "original": "Bene ambulato .",
+      "translation": "Good luck go with you ."
+    },
+    {
+      "id": "2.2.327b",
+      "label": "Section 2.2.327b",
+      "chapter": null,
+      "original": "Bene vale .—",
+      "translation": "Heartily fare you well ."
+    },
+    {
+      "id": "2.2.327c",
+      "label": "Section 2.2.327c",
+      "chapter": null,
+      "original": "Bene sit tibi .",
+      "translation": "Kindly fare you well ."
+    },
+    {
+      "id": "2.2.328",
+      "label": "Section 2.2.328",
+      "chapter": null,
+      "original": "quin mihi quoque etiamst ad portum negotium .",
+      "translation": "( DEMIPHO continues , to himself .) And what ’ s more , I too as well have got some business at the harbour ; now , therefore , I shall be off thither . But , look ! most opportunely I see my son . I ’ ll wait for the fellow ; it ’ s necessary for me now to see him ,"
+    },
+    {
+      "id": "2.2.331",
+      "label": "Section 2.2.331",
+      "chapter": null,
+      "original": "huic persuadere quo modo potis siem ,",
+      "translation": "to persuade him , as far as I possibly can , to sell her to me , and not make a present of her to his mother ; for I ’ ve heard that he has brought her as a present for her . But I have need of precaution , that he mayn ’ t any way imagine that I have set my fancy upon her ."
+    },
+    {
+      "id": "2.3.335",
+      "label": "Section 2.3.335",
+      "chapter": null,
+      "original": "Homó me misérior nullúst aeque , opínor ,",
+      "translation": "Never , I do think , was any person more wretched than myself , nor one who had more everlasting crosses . Isn ’ t it the fact , that whatever thing there is that I have commenced to attempt , it cannot fall out to my wish according as I desire ? To such an extent is some evil fortune always befalling me ,"
+    },
+    {
+      "id": "2.3.340",
+      "label": "Section 2.3.340",
+      "chapter": null,
+      "original": "bonum quaé meum comprimit cónsilium .",
+      "translation": "which overwhelms my fair intentions . To my misfortune , I procured me a mistress to please my inclination ; I acquired her for a sum of money , fancying that I could keep her unknown to my father . He has found her out , and has seen her , and has undone me . Nor have I yet determined what to say when he asks me ,"
+    },
+    {
+      "id": "2.3.345",
+      "label": "Section 2.3.345",
+      "chapter": null,
+      "original": "ita animi decem in pectore incerti certant .",
+      "translation": "so much do uncertain thoughts , aye , tenfold , struggle within my breast ; nor know I now in my mind what resolution I can possibly take ; so much uncertainty , mingled with anxiety , is there in my feelings , at one moment the advice of my servant pleases me , then again it doesn ’ t please me , and it doesn ’ t seem possible for my father"
+    },
+    {
+      "id": "2.3.350",
+      "label": "Section 2.3.350",
+      "chapter": null,
+      "original": "induci ut putet matri ancillam emptam esse illam .",
+      "translation": "to be induced to think that she was bought as a maid-servant for my mother . Now , if I say , as is the fact , and declare that I purchased her for myself , what will he think of me ? He may take her away , too , and carry her hence beyond sea , to be sold !"
+    },
+    {
+      "id": "2.3.354_355",
+      "label": "Section 2.3.354_355",
+      "chapter": null,
+      "original": "scio saevos quam sit , domo doctus . igitur",
+      "translation": "Well taught at home , I know how severe he is . Is this , then , being in love ? I ’ d rather be at the plough-tail [*] than love in this fashion . Before to-day , long ago , he drove me away against my inclination from his house , my home , and bade me go and traffic . There did I meet with this misfortune . When its misery can surpass its pleasure , what is there delightful in it ?"
+    },
+    {
+      "id": "2.3.360",
+      "label": "Section 2.3.360",
+      "chapter": null,
+      "original": "nequíquam abdidi , abscondidi , abstrusam habebam :",
+      "translation": "In vain I ’ ve hidden her , concealed her , kept her in secret ; my father ’ s a very fly [*] ; nothing can be kept away from him ; nothing so sacred or so profane is there , but that he ’ s there at once ; neither have I any assured hope in my mind through which to feel confidence in my fortunes ."
+    },
+    {
+      "id": "2.3.364",
+      "label": "Section 2.3.364",
+      "chapter": null,
+      "original": "Quíd illuc est quod solus secum fabulatur filius ?",
+      "translation": "What ’ s the reason of this , that my son is talking to himself alone ? He seems to me anxious about some matter , I know not what ."
+    },
+    {
+      "id": "2.3.365b",
+      "label": "Section 2.3.365b",
+      "chapter": null,
+      "original": "Attatae ,",
+      "translation": "Heyday , now ! Why , surely it ’ s my father here that I see . I ’ ll go and accost him . ( Accosting him .) How goes it , father ?"
+    },
+    {
+      "id": "2.3.367",
+      "label": "Section 2.3.367",
+      "chapter": null,
+      "original": "Vnde incedis , quid festinas , gnate mi ?",
+      "translation": "Whence do you come ? Why are you in a hurry , my son ?"
+    },
+    {
+      "id": "2.3.367b",
+      "label": "Section 2.3.367b",
+      "chapter": null,
+      "original": "Recte , pater .",
+      "translation": "It ’ s all right , father ."
+    },
+    {
+      "id": "2.3.368",
+      "label": "Section 2.3.368",
+      "chapter": null,
+      "original": "Ita volo , sed istúc quid est , tibi quod commutatust color ?",
+      "translation": "So I trust ; but what ’ s the reason that your colour ’ s so changed ? Do you feel ill at all ?"
+    },
+    {
+      "id": "2.3.369b",
+      "label": "Section 2.3.369b",
+      "chapter": null,
+      "original": "Nescio quid meo animost aegre , pater .",
+      "translation": "I know not what it is affects my spirits , father ;"
+    },
+    {
+      "id": "2.3.370",
+      "label": "Section 2.3.370",
+      "chapter": null,
+      "original": "poste hac nocte non quievi satis mea ex sententia .",
+      "translation": "this last night I didn ’ t rest quite as well as I wished ."
+    },
+    {
+      "id": "2.3.371",
+      "label": "Section 2.3.371",
+      "chapter": null,
+      "original": "Per mare ut vectu's (vectus es) , nunc oculi terram mirantur tui .",
+      "translation": "As you ’ ve been travelling by sea , your eyes , I suppose , are at present rather unaccustomed to the shore ."
+    },
+    {
+      "id": "2.3.372",
+      "label": "Section 2.3.372",
+      "chapter": null,
+      "original": "Magis opinor —",
+      "translation": "No doubt it is that ; but it will be going off presently ."
+    },
+    {
+      "id": "2.3.372b",
+      "label": "Section 2.3.372b",
+      "chapter": null,
+      "original": "Id est profecto ; verum actutum abscesserit .",
+      "translation": "Troth , it ’ s for that reason you are pale ; if you were prudent , you ’ d go home and lie down ."
+    },
+    {
+      "id": "2.3.374",
+      "label": "Section 2.3.374",
+      "chapter": null,
+      "original": "Otium non est : mandatis rebus praevorti volo .",
+      "translation": "I haven ’ t the leisure ; I wish to attend to business on commission ."
+    },
+    {
+      "id": "2.3.375",
+      "label": "Section 2.3.375",
+      "chapter": null,
+      "original": "Cras agito , perendie agito .",
+      "translation": "Attend to it to-morrow ; the day after , attend to it ."
+    },
+    {
+      "id": "2.3.375b",
+      "label": "Section 2.3.375b",
+      "chapter": null,
+      "original": "Saepe ex te audivi , pater :",
+      "translation": "I ’ ve often heard from you , father , it behoves all wise men , the first thing , to give their earliest attention to business upon commission ."
+    },
+    {
+      "id": "2.3.377",
+      "label": "Section 2.3.377",
+      "chapter": null,
+      "original": "Age igitur ; nolo advorsari tuam advorsum sententiam .",
+      "translation": "Do so , then ; I have no wish to be striving against your opinion ."
+    },
+    {
+      "id": "2.3.378",
+      "label": "Section 2.3.378",
+      "chapter": null,
+      "original": "Salvos sum , siquidem ísti dicto solida et perpetuast fides .",
+      "translation": "I ’ m all right , if , indeed , his adherence to that sentiment is immoveable and lasting ."
+    },
+    {
+      "id": "2.3.379",
+      "label": "Section 2.3.379",
+      "chapter": null,
+      "original": "Quid illuc est quod ille á me solus se in consilium sevocat ?",
+      "translation": "Why is it that he calls himself aside into counsel with himself ?"
+    },
+    {
+      "id": "2.3.380",
+      "label": "Section 2.3.380",
+      "chapter": null,
+      "original": "iam nón vereor ne illam me amare hic potuerit resciscere ;",
+      "translation": "I ’ m not afraid now lest he should be able to come to know that I ’ m in love with her , because I ’ ve not as yet done anything in a foolish manner , as people in love are wont to do ."
+    },
+    {
+      "id": "2.3.382",
+      "label": "Section 2.3.382",
+      "chapter": null,
+      "original": "Res adhuc quidem hercle in tutost , nam hunc nescire sat scio",
+      "translation": "I ’ faith , the affair for the present is really quite safe ; for I ’ m quite certain that he doesn ’ t know anything about that mistress of mine ; if he did know , his talk would have been different ."
+    },
+    {
+      "id": "2.3.384",
+      "label": "Section 2.3.384",
+      "chapter": null,
+      "original": "Quin ego hunc adgredior de illa ?",
+      "translation": "Why don ’ t I accost him about her ?"
+    },
+    {
+      "id": "2.3.384b",
+      "label": "Section 2.3.384b",
+      "chapter": null,
+      "original": "Quin ego hinc me amolior ?",
+      "translation": "Why don ’ t I betake myself off hence ?"
+    },
+    {
+      "id": "2.3.385",
+      "label": "Section 2.3.385",
+      "chapter": null,
+      "original": "eo ego , ut quae mandata amicus amicis tradam .",
+      "translation": "( Aloud .) I ’ m going to deliver the commissions from my friends to their friends ."
+    }
+  ],
+  "prevChunkSlug": "the-merchant-1me99z-3",
+  "nextChunkSlug": "the-merchant-1me99z-5"
+}

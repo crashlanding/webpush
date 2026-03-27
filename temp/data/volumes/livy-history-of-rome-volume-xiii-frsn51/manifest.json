@@ -1,0 +1,61 @@
+{
+  "loebNumber": 396,
+  "sortOrder": 396,
+  "slug": "livy-history-of-rome-volume-xiii-frsn51",
+  "title": "History of Rome, Volume XIII",
+  "volumeLabel": "History of Rome, Volume XIII",
+  "authorDisplay": "Livy",
+  "authors": [
+    "Livy"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for History of Rome, Volume XIII. History of Rome, Volume XIII currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "history-of-rome-volume-xiii-116gvp",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "history-of-rome-volume-xiii-116gvp",
+      "title": "History of Rome, Volume XIII",
+      "status": "ready",
+      "sectionCount": 50,
+      "chunkSlug": "history-of-rome-volume-xiii-116gvp",
+      "chunks": [
+        {
+          "slug": "history-of-rome-volume-xiii-116gvp",
+          "label": "History of Rome, Volume XIII",
+          "partId": "history-of-rome-volume-xiii-116gvp",
+          "partTitle": "History of Rome, Volume XIII",
+          "sectionCount": 50,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "history-of-rome-volume-xiii-116gvp",
+      "label": "History of Rome, Volume XIII",
+      "partId": "history-of-rome-volume-xiii-116gvp",
+      "partTitle": "History of Rome, Volume XIII",
+      "sectionCount": 50,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "history-of-rome-volume-xiii-116gvp",
+      "partTitle": "History of Rome, Volume XIII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ab urbe condita",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0914.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The History of Rome",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0914.phi001.perseus-eng3/"
+      }
+    }
+  ]
+}

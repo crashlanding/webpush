@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "aristophanes-birds-lysistrata-women-at-the-thesmophoria-w0sjv4",
+  "volumeTitle": "Birds. Lysistrata. Women at the Thesmophoria",
+  "authorDisplay": "Aristophanes",
+  "authors": [
+    "Aristophanes"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "birds-127vsq-15",
+  "label": "Birds (Section 1.1496b - Section 1.1585)",
+  "partId": "birds-127vsq",
+  "partTitle": "Birds",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ὄρνιθες",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg006.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Birds",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg006.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1496b",
+      "label": "Section 1.1496b",
+      "chapter": null,
+      "original": "τῶν θεῶν ὁρᾷς τινα",
+      "translation": "Can you see any god behind me ?"
+    },
+    {
+      "id": "1.1497b",
+      "label": "Section 1.1497b",
+      "chapter": null,
+      "original": "μὰ Δίʼ ἐγὼ μὲν οὔ .",
+      "translation": "No , none . But who are you , pray ?"
+    },
+    {
+      "id": "1.1498b",
+      "label": "Section 1.1498b",
+      "chapter": null,
+      "original": "πηνίκʼ ἐστὶν ἄρα τῆς ἡμέρας ;",
+      "translation": "What ' s the time , please ?"
+    },
+    {
+      "id": "1.1499",
+      "label": "Section 1.1499",
+      "chapter": null,
+      "original": "ὁπηνίκα ; σμικρόν τι μετὰ μεσημβρίαν .",
+      "translation": "The time ? Why , it ' s past noon ."
+    },
+    {
+      "id": "1.1500",
+      "label": "Section 1.1500",
+      "chapter": null,
+      "original": "ἀλλὰ σὺ τίς εἶ ;",
+      "translation": "Who are you ?"
+    },
+    {
+      "id": "1.1500b",
+      "label": "Section 1.1500b",
+      "chapter": null,
+      "original": "βουλυτὸς ἢ περαιτέρω ;",
+      "translation": "Is it the fall of day ? Is it no later than that ?"
+    },
+    {
+      "id": "1.1501",
+      "label": "Section 1.1501",
+      "chapter": null,
+      "original": "οἴμʼ ὡς βδελύττομαί σε .",
+      "translation": "This is getting dull !"
+    },
+    {
+      "id": "1.1501b",
+      "label": "Section 1.1501b",
+      "chapter": null,
+      "original": "τί γὰρ ὁ Ζεὺς ποιεῖ ;",
+      "translation": "What is Zeus doing ? Is he dispersing the clouds or gathering them ?"
+    },
+    {
+      "id": "1.1503",
+      "label": "Section 1.1503",
+      "chapter": null,
+      "original": "οἴμωζε μεγάλʼ .",
+      "translation": "Watch out for yourself !"
+    },
+    {
+      "id": "1.1503b",
+      "label": "Section 1.1503b",
+      "chapter": null,
+      "original": "οὕτω μὲν ἐκκεκαλύψομαι .",
+      "translation": "Come , I will raise my mask ."
+    },
+    {
+      "id": "1.1504",
+      "label": "Section 1.1504",
+      "chapter": null,
+      "original": "ὦ φίλε Προμηθεῦ .",
+      "translation": "Ah ! my dear Prometheus !"
+    },
+    {
+      "id": "1.1504b",
+      "label": "Section 1.1504b",
+      "chapter": null,
+      "original": "παῦε παῦε , μὴ βόα .",
+      "translation": "Sh ! Sh ! speak lower !"
+    },
+    {
+      "id": "1.1505",
+      "label": "Section 1.1505",
+      "chapter": null,
+      "original": "τί γὰρ ἔστι ;",
+      "translation": "Why , what ' s the matter , Prometheus ?"
+    },
+    {
+      "id": "1.1505b",
+      "label": "Section 1.1505b",
+      "chapter": null,
+      "original": "σίγα , μὴ κάλει μου τοὔνομα ·",
+      "translation": "Sh ! sh ! Don ' t call me by my name ; you will be my ruin , if Zeus should see me here . But , if you want me to tell you how things are going in heaven , take this umbrella and shield me , so that the gods don ' t see me ."
+    },
+    {
+      "id": "1.1510",
+      "label": "Section 1.1510",
+      "chapter": null,
+      "original": "ἰοὺ ἰού ·",
+      "translation": "I can recognize Prometheus in this cunning trick . Come , quick then , and fear nothing ; speak on ."
+    },
+    {
+      "id": "1.1513",
+      "label": "Section 1.1513",
+      "chapter": null,
+      "original": "ἄκουε δή νυν .",
+      "translation": "Then listen ."
+    },
+    {
+      "id": "1.1513b",
+      "label": "Section 1.1513b",
+      "chapter": null,
+      "original": "ὡς ἀκούοντος λέγε .",
+      "translation": "I am listening , proceed !"
+    },
+    {
+      "id": "1.1514",
+      "label": "Section 1.1514",
+      "chapter": null,
+      "original": "ἀπόλωλεν ὁ Ζεύς .",
+      "translation": "Zeus is done for ."
+    },
+    {
+      "id": "1.1514b",
+      "label": "Section 1.1514b",
+      "chapter": null,
+      "original": "πηνίκʼ ἄττʼ ἀπώλετο ;",
+      "translation": "Ah ! and since when , pray ?"
+    },
+    {
+      "id": "1.1515",
+      "label": "Section 1.1515",
+      "chapter": null,
+      "original": "ἐξ οὗπερ ὑμεῖς ᾠκίσατε τὸν ἀέρα .",
+      "translation": "Since you founded this city in the air . There is not a man who now sacrifices to the gods ; the smoke of the victims no longer reaches us . Not the smallest offering comes ! We fast as though it were the festival of Demeter ."
+    },
+    {
+      "id": "1.1520",
+      "label": "Section 1.1520",
+      "chapter": null,
+      "original": "ἄνευ θυηλῶν · οἱ δὲ βάρβαροι θεοὶ",
+      "translation": "The barbarian gods , who are dying of hunger , are bawling like Illyrians and threaten to make an armed descent upon Zeus , if he does not open markets where joints of the victims are sold ."
+    },
+    {
+      "id": "1.1525",
+      "label": "Section 1.1525",
+      "chapter": null,
+      "original": "εἰσὶν γὰρ ἕτεροι βάρβαροι θεοί τινες",
+      "translation": "What ! there are other gods besides you , barbarian gods who dwell above Olympus ?"
+    },
+    {
+      "id": "1.1526b",
+      "label": "Section 1.1526b",
+      "chapter": null,
+      "original": "οὐ γάρ εἰσι βάρβαροι ,",
+      "translation": "If there were no barbarian gods , who would be the patron of Execestides ?"
+    },
+    {
+      "id": "1.1528",
+      "label": "Section 1.1528",
+      "chapter": null,
+      "original": "ὄνομα δὲ τούτοις τοῖς θεοῖς τοῖς βαρβάροις",
+      "translation": "And what is the name of these gods ?"
+    },
+    {
+      "id": "1.1529b",
+      "label": "Section 1.1529b",
+      "chapter": null,
+      "original": "ὅ τι ἔστιν ; Τριβαλλοί .",
+      "translation": "Their name ? Why , the Triballi ."
+    },
+    {
+      "id": "1.1529c",
+      "label": "Section 1.1529c",
+      "chapter": null,
+      "original": "μανθάνω .",
+      "translation": "Ah , indeed !"
+    },
+    {
+      "id": "1.1530",
+      "label": "Section 1.1530",
+      "chapter": null,
+      "original": "ἐντεῦθεν ἆρα τοὐπιτριβείης ἐγένετο ;",
+      "translation": "' tis from that no doubt that we derive the word ‘ tribulation .'"
+    },
+    {
+      "id": "1.1531",
+      "label": "Section 1.1531",
+      "chapter": null,
+      "original": "μάλιστα πάντων . ἓν δέ σοι λέγω σαφές ·",
+      "translation": "Most likely . But one thing I can tell you for certain , namely , that Zeus and the celestial Triballi are going to send deputies here to sue for peace . Now don ' t you treat with them , unless"
+    },
+    {
+      "id": "1.1535",
+      "label": "Section 1.1535",
+      "chapter": null,
+      "original": "τὸ σκῆπτρον ὁ Ζεὺς τοῖσιν ὄρνισιν πάλιν ,",
+      "translation": "Zeus restores the scepter to the birds and gives you Basileia in marriage ."
+    },
+    {
+      "id": "1.1537",
+      "label": "Section 1.1537",
+      "chapter": null,
+      "original": "τίς ἐστιν ἡ Βασίλεια ;",
+      "translation": "Who is this Basileia ?"
+    },
+    {
+      "id": "1.1537b",
+      "label": "Section 1.1537b",
+      "chapter": null,
+      "original": "καλλίστη κόρη ,",
+      "translation": "A very fine young damsel , who makes the lightning for Zeus ; all things come from her ,"
+    },
+    {
+      "id": "1.1540",
+      "label": "Section 1.1540",
+      "chapter": null,
+      "original": "τὴν εὐνομίαν τὴν σωφροσύνην τὰ νεώρια ,",
+      "translation": "wisdom , good laws , virtue , the fleet , calumnies , the public paymaster and the triobolus ."
+    },
+    {
+      "id": "1.1542",
+      "label": "Section 1.1542",
+      "chapter": null,
+      "original": "ἅπαντά γʼ ἆρʼ αὐτῷ ταμιεύει ;",
+      "translation": "Ah ! then she is a sort of general manageress to the god ."
+    },
+    {
+      "id": "1.1542b",
+      "label": "Section 1.1542b",
+      "chapter": null,
+      "original": "φήμʼ ἐγώ .",
+      "translation": "Yes , precisely . If he gives you her for your wife , yours will be the almighty power . That is what I have come to tell you ;"
+    },
+    {
+      "id": "1.1545",
+      "label": "Section 1.1545",
+      "chapter": null,
+      "original": "ἀεί ποτʼ ἀνθρώποις γὰρ εὔνους εἴμʼ ἐγώ .",
+      "translation": "for you know my constant and habitual goodwill towards men ."
+    },
+    {
+      "id": "1.1546",
+      "label": "Section 1.1546",
+      "chapter": null,
+      "original": "μόνον θεῶν γὰρ διὰ σʼ ἀπανθρακίζομεν .",
+      "translation": "Oh , yes ! it ' s thanks to you that we roast our meat ."
+    },
+    {
+      "id": "1.1547",
+      "label": "Section 1.1547",
+      "chapter": null,
+      "original": "μισῶ δʼ ἅπαντας τοὺς θεούς , ὡς οἶσθα σύ .",
+      "translation": "I hate the gods , as you know ."
+    },
+    {
+      "id": "1.1548",
+      "label": "Section 1.1548",
+      "chapter": null,
+      "original": "νὴ τὸν Δίʼ ἀεὶ δῆτα θεομισὴς ἔφυς .",
+      "translation": "Aye , by Zeus , you have always detested them ."
+    },
+    {
+      "id": "1.1549",
+      "label": "Section 1.1549",
+      "chapter": null,
+      "original": "Τίμων καθαρός . ἀλλʼ ὡς ἂν ἀποτρέχω πάλιν ,",
+      "translation": "Towards them I am a veritable Timon ; but I must return in all haste ,"
+    },
+    {
+      "id": "1.1550",
+      "label": "Section 1.1550",
+      "chapter": null,
+      "original": "φέρε τὸ σκιάδειον , ἵνα με κἂν ὁ Ζεὺς ἴδῃ",
+      "translation": "so give me the umbrella ; if Zeus should see me from up there , he would think I was escorting one of the Canephori ."
+    },
+    {
+      "id": "1.1552",
+      "label": "Section 1.1552",
+      "chapter": null,
+      "original": "καὶ τὸν δίφρον γε διφροφόρει τονδὶ λαβών .",
+      "translation": "Wait , take this stool as well . Prometheus leaves . Pisthetaerus goes into the thicket ."
+    },
+    {
+      "id": "1.1553",
+      "label": "Section 1.1553",
+      "chapter": null,
+      "original": "πρὸς δὲ τοῖς Σκιάποσιν λίμνη",
+      "translation": "Near by the land of the Sciapodes there is a marsh , from the borders whereof the unwashed"
+    },
+    {
+      "id": "1.1555",
+      "label": "Section 1.1555",
+      "chapter": null,
+      "original": "ψυχαγωγεῖ Σωκράτης ·",
+      "translation": "Socrates evokes the souls of men . Pisander came one day to see his soul , which he had left there when still alive . He offered"
+    },
+    {
+      "id": "1.1560",
+      "label": "Section 1.1560",
+      "chapter": null,
+      "original": "τινʼ , ἧς λαιμοὺς τεμὼν ὥσπερ",
+      "translation": "a little victim , a camel , slit his throat and , following the example of Odysseus , stepped one pace backwards . Then that bat of a Chaerephon came up from hell to drink the camel ' s blood ."
+    },
+    {
+      "id": "1.1565",
+      "label": "Section 1.1565",
+      "chapter": null,
+      "original": "τὸ μὲν πόλισμα τῆς Νεφελοκοκκυγίας",
+      "translation": "This is the city of Nephelococcygia , to which we come as ambassadors . To Triballus . Hi ! what are you up to ? you are throwing your cloak over the left shoulder . Come , fling it quick over the right ! And why , pray , does it draggle in this fashion ? Have you ulcers to hide like Lespodias ?"
+    },
+    {
+      "id": "1.1570",
+      "label": "Section 1.1570",
+      "chapter": null,
+      "original": "ὦ δημοκρατία ποῖ προβιβᾷς ἡμᾶς ποτε ,",
+      "translation": "Oh ! democracy ! whither , oh ! whither are you leading us ? Is it possible that the gods have chosen such an envoy ?"
+    },
+    {
+      "id": "1.1572",
+      "label": "Section 1.1572",
+      "chapter": null,
+      "original": "ἕξεις ἀτρέμας ;",
+      "translation": "You are undisturbed ?"
+    },
+    {
+      "id": "1.1572b",
+      "label": "Section 1.1572b",
+      "chapter": null,
+      "original": "οἴμωζε · πολὺ γὰρ δή σʼ ἐγὼ",
+      "translation": "Ugh ! you cursed savage ! you are by far the most barbarous of all the gods . —"
+    },
+    {
+      "id": "1.1574",
+      "label": "Section 1.1574",
+      "chapter": null,
+      "original": "ἄγε δὴ τί δρῶμεν Ἡράκλεις ;",
+      "translation": "Tell me , Heracles , what are we going to do ?"
+    },
+    {
+      "id": "1.1574b",
+      "label": "Section 1.1574b",
+      "chapter": null,
+      "original": "ἀκήκοας",
+      "translation": "I have already told you"
+    },
+    {
+      "id": "1.1575",
+      "label": "Section 1.1575",
+      "chapter": null,
+      "original": "ἐμοῦ γʼ ὅτι τὸν ἄνθρωπον ἄγχειν βούλομαι ,",
+      "translation": "that I want to strangle the fellow who dared to wall us out ."
+    },
+    {
+      "id": "1.1577",
+      "label": "Section 1.1577",
+      "chapter": null,
+      "original": "ἀλλʼ ὦγάθʼ ᾑρήμεσθα περὶ διαλλαγῶν",
+      "translation": "But , my friend , we are envoys of peace ."
+    },
+    {
+      "id": "1.1578b",
+      "label": "Section 1.1578b",
+      "chapter": null,
+      "original": "διπλασίως μᾶλλον ἄγχειν μοι δοκεῖ .",
+      "translation": "All the more reason why I wish to strangle him ."
+    },
+    {
+      "id": "1.1579",
+      "label": "Section 1.1579",
+      "chapter": null,
+      "original": "τὴν τυρόκνηστίν τις δότω · φέρε σίλφιον ·",
+      "translation": "Hand me the cheese-grater ; bring me the silphium for sauce ;"
+    },
+    {
+      "id": "1.1580",
+      "label": "Section 1.1580",
+      "chapter": null,
+      "original": "τυρὸν φερέτω τις · πυρπόλει τοὺς ἄνθρακας .",
+      "translation": "pass me the cheese and watch the coals ."
+    },
+    {
+      "id": "1.1581",
+      "label": "Section 1.1581",
+      "chapter": null,
+      "original": "τὸν ἄνδρα χαίρειν οἱ θεοὶ κελεύομεν",
+      "translation": "Mortal ! we who greet you are three gods ."
+    },
+    {
+      "id": "1.1582b",
+      "label": "Section 1.1582b",
+      "chapter": null,
+      "original": "ἀλλʼ ἐπικνῶ τὸ σίλφιον .",
+      "translation": "Wait a bit till I have prepared my silphium pickle ."
+    },
+    {
+      "id": "1.1583",
+      "label": "Section 1.1583",
+      "chapter": null,
+      "original": "τὰ δὲ κρέα τοῦ ταῦτʼ ἐστίν ;",
+      "translation": "What are these meats ?"
+    },
+    {
+      "id": "1.1583b",
+      "label": "Section 1.1583b",
+      "chapter": null,
+      "original": "ὄρνιθές τινες",
+      "translation": "These are birds that have been punished with death"
+    },
+    {
+      "id": "1.1585",
+      "label": "Section 1.1585",
+      "chapter": null,
+      "original": "ἔδοξαν ἀδικεῖν .",
+      "translation": "for attacking the people ' s friends ."
+    }
+  ],
+  "prevChunkSlug": "birds-127vsq-14",
+  "nextChunkSlug": "birds-127vsq-16"
+}

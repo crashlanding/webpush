@@ -1,0 +1,241 @@
+{
+  "volumeSlug": "xenophon-scripta-minora-y25osv",
+  "volumeTitle": "Scripta Minora",
+  "authorDisplay": "Xenophon",
+  "authors": [
+    "Xenophon"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "constitution-of-the-lacedaimonians-gf9o1z",
+  "label": "Constitution of the Lacedaimonians",
+  "partId": "scripta-minora-11ri19",
+  "partTitle": "Scripta Minora",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Constitution of the Lacedaimonians",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg010.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Constitution of the Lacedaimonians",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg010.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1",
+      "label": "Section 1.1",
+      "chapter": null,
+      "original": "ἀλλʼ ἐγὼ ἐννοήσας ποτὲ ὡς ἡ Σπάρτη τῶν ὀλιγανθρωποτάτων πόλεων οὖσα δυνατωτάτη τε καὶ ὀνομαστοτάτη ἐν τῇ Ἑλλάδι ἐφάνη , ἐθαύμασα ὅτῳ ποτὲ τρόπῳ τοῦτʼ ἐγένετο · ἐπεὶ μέντοι κατενόησα τὰ ἐπιτηδεύματα τῶν Σπαρτιατῶν , οὐκέτι ἐθαύμαζον .",
+      "translation": "It occurred to me one day that Sparta , though among the most thinly populated of states , was evidently the most powerful and most celebrated city in Greece ; and I fell to wondering how this could have happened . But when I considered the institutions of the Spartans , I wondered no longer ."
+    },
+    {
+      "id": "1.2",
+      "label": "Section 1.2",
+      "chapter": null,
+      "original": "Λυκοῦργον μέντοι τὸν θέντα αὐτοῖς τοὺς νόμους , οἷς πειθόμενοι ηὐδαιμόνησαν , τοῦτον καὶ θαυμάζω καὶ εἰς τὰ ἔσχατα μάλα σοφὸν ἡγοῦμαι . ἐκεῖνος γὰρ οὐ μιμησάμενος τὰς ἄλλας πόλεις , ἀλλὰ καὶ ἐναντία γνοὺς ταῖς πλείσταις , προέχουσαν εὐδαιμονίᾳ τὴν πατρίδα ἐπέδειξεν .",
+      "translation": "Lycurgus , who gave them the laws that they obey , and to which they owe their prosperity , I do regard with wonder ; and I think that he reached the utmost limit of wisdom . For it was not by imitating other states , but by devising a system utterly different from that of most others , that he made his country pre-eminently prosperous ."
+    },
+    {
+      "id": "2.1",
+      "label": "Section 2.1",
+      "chapter": null,
+      "original": "ἐγὼ μέντοι , ἐπεὶ καὶ περὶ γενέσεως ἐξήγημαι , βούλομαι καὶ τὴν παιδείαν ἑκατέρων σαφηνίσαι . τῶν μὲν τοίνυν ἄλλων Ἑλλήνων οἱ φάσκοντες κάλλιστα τοὺς υἱεῖς παιδεύειν , ἐπειδὰν τάχιστα αὐτοῖς οἱ παῖδες τὰ λεγόμενα ξυνιῶσιν , εὐθὺς μὲν ἐπʼ αὐτοῖς παιδαγωγοὺς θεράποντας ἐφιστᾶσιν , εὐθὺς δὲ πέμπουσιν εἰς διδασκάλων μαθησομένους καὶ γράμματα καὶ μουσικὴν καὶ τὰ ἐν παλαίστρᾳ . πρὸς δὲ τούτοις τῶν παίδων πόδας μὲν ὑποδήμασιν ἁπαλύνουσι , σώματα δὲ ἱματίων μεταβολαῖς διαθρύπτουσι · σίτου γε μὴν αὐτοῖς γαστέρα μέτρον νομίζουσιν .",
+      "translation": "Having dealth with the subject of birth , I wish next to explain the educational system of Lycurgus , and how it differs from other systems .\nIn the other Greek states parents who profess to give their sons the best education place their boys under the care and control of a moral tutor [*] as soon as they can understand what is said to them , and send them to a school to learn letters , music and the exercises of the wrestling-ground . Moreover , they soften the children ’ s feet by giving them sandals , and pamper their bodies with changes of clothing ; and it is customary to allow them as much food as they can eat ."
+    },
+    {
+      "id": "2.2",
+      "label": "Section 2.2",
+      "chapter": null,
+      "original": "ὁ δὲ Λυκοῦργος , ἀντὶ μὲν τοῦ ἰδίᾳ ἕκαστον παιδαγωγοὺς δούλους ἐφιστάναι , ἄνδρα ἐπέστησε κρατεῖν αὐτῶν ἐξ ὧνπερ αἱ μέγισται ἀρχαὶ καθίστανται , ὃς δὴ καὶ παιδονόμος καλεῖται , τοῦτον δὲ κύριον ἐποίησε καὶ ἁθροίζειν τοὺς παῖδας καὶ ἐπισκοποῦντα , εἴ τις ῥᾳδιουργοίη , ἰσχυρῶς κολάζειν . ἔδωκε δʼ αὐτῷ καὶ τῶν ἡβώντων μαστιγοφόρους , ὅπως τιμωροῖεν ὁπότε δέοι , ὥστε πολλὴν μὲν αἰδῶ , πολλὴν δὲ πειθὼ ἐκεῖ συμπαρεῖναι .",
+      "translation": "Lycurgus , on the contrary , instead of leaving each father to appoint a slave to act as tutor , gave the duty of controlling the boys to a member of the class from which the highest offices are filled , in fact to the Warden as he is called . He gave this person authority to gather the boys together , to take charge of them and to punish them severely in case of misconduct . He also assigned to him a staff of youths provided with whips to chastise them when necessary ; and the result is that modesty and obedience are inseparable companions at Sparta ."
+    },
+    {
+      "id": "3.1",
+      "label": "Section 3.1",
+      "chapter": null,
+      "original": "ὅταν γε μὴν ἐκ παίδων εἰς τὸ μειρακιοῦσθαι ἐκβαίνωσι , τηνικαῦτα οἱ μὲν ἄλλοι παύουσι μὲν ἀπὸ παιδαγωγῶν , παύουσι δὲ ἀπὸ διδασκάλων , ἄρχουσι δὲ οὐδένες ἔτι αὐτῶν , ἀλλʼ αὐτονόμους ἀφιᾶσιν · ὁ δὲ Λυκοῦργος καὶ τούτων τἀναντία ἔγνω .",
+      "translation": "When a boy ceases to be a child , and begins to be a lad , others release him from his moral tutor and his schoolmaster : he is then no longer under a ruler and is allowed to go his own way . Here again Lycurgus introduced a wholly different system ."
+    },
+    {
+      "id": "3.2",
+      "label": "Section 3.2",
+      "chapter": null,
+      "original": "καταμαθὼν γὰρ τοῖς τηλικούτοις μέγιστον μὲν φρόνημα ἐμφυόμενον , μάλιστα δὲ ὕβριν ἐπιπολάζουσαν , ἰσχυροτάτας δὲ ἐπιθυμίας τῶν ἡδονῶν παρισταμένας , τηνικαῦτα πλείστους μὲν πόνους αὐτοῖς ἐπέβαλε , πλείστην δὲ ἀσχολίαν ἐμηχανήσατο .",
+      "translation": "For he observed that at this time of life self-will makes strong root in a boy ’ s mind , a tendency to insolence manifests itself , and a keen appetite for pleasure in different forms takes possession of him . At this stage , therefore , he imposed on him a ceaseless round of work , and contrived a constant round of occupation ."
+    },
+    {
+      "id": "4.1",
+      "label": "Section 4.1",
+      "chapter": null,
+      "original": "περί γε μὴν τῶν ἡβώντων πολὺ μάλιστα ἐσπούδασε , νομίζων τούτους , εἰ γένοιντο οἵους δεῖ , πλεῖστον ῥέπειν ἐπὶ τὸ ἀγαθὸν τῇ πόλει .",
+      "translation": "For those who had reached the prime of life he showed by far the deepest solicitude . For he believed that if these were of the right stamp they must exercise a powerful influence for good on the state ."
+    },
+    {
+      "id": "4.2",
+      "label": "Section 4.2",
+      "chapter": null,
+      "original": "ὁρῶν οὖν , οἷς ἂν μάλιστα φιλονικία ἐγγένηται , τούτων καὶ χοροὺς ἀξιακροατοτάτους γιγνομένους καὶ γυμνικοὺς ἀγῶνας ἀξιοθεατοτάτους , ἐνόμιζεν , εἰ καὶ τοὺς ἡβῶντας συμβάλλοι εἰς ἔριν περὶ ἀρετῆς , οὕτως ἂν καὶ τούτους ἐπὶ πλεῖστον ἀφικνεῖσθαι ἀνδραγαθίας . ὡς οὖν τούτους αὖ συνέβαλεν , ἐξηγήσομαι .",
+      "translation": "He saw that where the spirit of rivalry [*] is strongest among the people , there the choruses are most worth hearing and the athletic contests afford the finest spectacle . He believed , therefore , that if he could match the young men together in a strife of valour , they too would reach a high level of manly excellence . [*] I will proceed to explain , therefore , how he instituted matches between the young men ."
+    },
+    {
+      "id": "5.1",
+      "label": "Section 5.1",
+      "chapter": null,
+      "original": "ἃ μὲν οὖν ἑκάστῃ ἡλικίᾳ ἐνομοθέτησεν ὁ Λυκοῦργος ἐπιτηδεύματα σχεδὸν εἴρηται · οἵαν δὲ καὶ πᾶσι δίαιταν κατεσκεύασε , νῦν πειράσομαι διηγεῖσθαι .",
+      "translation": "I have given a fairly complete account of the institutions of Lycurgus so far as they apply to the successive stages of life . I will now try to describe the system that he established for all alike ."
+    },
+    {
+      "id": "5.2",
+      "label": "Section 5.2",
+      "chapter": null,
+      "original": "Λυκοῦργος τοίνυν παραλαβὼν τοὺς Σπαρτιάτας ὥσπερ τοὺς ἄλλους Ἕλληνας οἴκοι σκηνοῦντας , γνοὺς ἐν τούτοις πλεῖστα ῥᾳδιουργεῖσθαι , εἰς τὸ φανερὸν ἐξήγαγε τὰ συσκήνια , οὕτως ἡγούμενος ἥκιστʼ ἂν παραβαίνεσθαι τὰ προσταττόμενα .",
+      "translation": "Lycurgus found the Spartans boarding at home like the other Greeks , and came to the conclusion that the custom was responsible for a great deal of misconduct . He therefore established the public messes outside in the open , [*] thinking that this would reduce disregard of orders to a minimum ."
+    },
+    {
+      "id": "6.1",
+      "label": "Section 6.1",
+      "chapter": null,
+      "original": "ἐναντία γε μὴν ἔγνω καὶ τάδε τοῖς πλείστοις . ἐν μὲν γὰρ ταῖς ἄλλαις πόλεσι τῶν ἑαυτοῦ ἕκαστος καὶ παίδων καὶ οἰκετῶν καὶ χρημάτων ἄρχουσιν · ὁ δὲ Λυκοῦργος , κατασκευάσαι βουλόμενος ὡς ἂν μηδὲν βλάπτοντες ἀπολαύοιέν τι οἱ πολῖται ἀλλήλων ἀγαθόν , ἐποίησε παίδων ἕκαστον ὁμοίως τῶν ἑαυτοῦ καὶ τῶν ἀλλοτρίων ἄρχειν .",
+      "translation": "In the following respects , again , his institutions differ from the ordinary type . In most states every man has control of his own children , servants and goods . Lycurgus wanted to secure that the citizens should get some advantage from one another without doing any harm . He therefore gave every father authority over other men ’ s children as well as over his own ."
+    },
+    {
+      "id": "6.2",
+      "label": "Section 6.2",
+      "chapter": null,
+      "original": "ὅταν δέ τις εἰδῇ ὅτι οὗτοι πατέρες εἰσὶ τῶν παίδων , ὧν αὐτὸς ἄρχει ἀνάγκη οὕτως ἄρχειν ὥσπερ ἂν καὶ τῶν ἑαυτοῦ ἄρχεσθαι βούλοιτο . ἢν δέ τις παῖς ποτε πληγὰς λαβὼν ὑπʼ ἄλλου κατείπῃ πρὸς τὸν πατέρα , αἰσχρόν ἐστι μὴ οὐκ ἄλλας πληγὰς ἐμβάλλειν τῷ υἱεῖ . οὕτω πιστεύουσιν ἀλλήλοις μηδὲν αἰσχρὸν προστάττειν τοῖς παισίν .",
+      "translation": "When a man knows that fathers have this power , he is bound to rule the children over whom he exercises authority as he would wish his own to be ruled . [*] If a boy tells his own father when he has been whipped by another father , it is a disgrace if the parent does not give his son another whipping . So completely do they trust one another not to give any improper orders to the children ."
+    },
+    {
+      "id": "7.1",
+      "label": "Section 7.1",
+      "chapter": null,
+      "original": "ἐναντία γε μὴν καὶ τάδε τοῖς ἄλλοις Ἕλλησι κατέστησεν ὁ Λυκοῦργος ἐν τῇ Σπάρτῃ νόμιμα . ἐν μὲν γὰρ δήπου ταῖς ἄλλαις πόλεσι πάντες χρηματίζονται ὅσον δύνανται · ὁ μὲν γὰρ γεωργεῖ , ὁ δὲ ναυκληρεῖ , ὁ δʼ ἐμπορεύεται , οἱ δὲ καὶ ἀπὸ τεχνῶν τρέφονται ·",
+      "translation": "Nor does this exhaust the list of the customs established by Lycurgus at Sparta that are contrary to those of the other Greeks . In other states , I suppose , all men make as much money as they can . One is a farmer , another a ship-owner , another a merchant , and others live by different handicrafts ."
+    },
+    {
+      "id": "7.2",
+      "label": "Section 7.2",
+      "chapter": null,
+      "original": "ἐν δὲ τῇ Σπάρτῃ ὁ Λυκοῦργος τοῖς μὲν ἐλευθέροις τῶν μὲν ἀμφὶ χρηματισμὸν ἀπεῖπε μηδενὸς ἅπτεσθαι , ὅσα δὲ ἐλευθερίαν ταῖς πόλεσι παρασκευάζει , ταῦτα ἔταξε μόνα ἔργα αὑτῶν νομίζειν .",
+      "translation": "But at Sparta Lycurgus forbade freeborn citizens to have anything to do with business affairs . He insisted on their regarding as their own concern only those activities that make for civic freedom ."
+    },
+    {
+      "id": "8.1",
+      "label": "Section 8.1",
+      "chapter": null,
+      "original": "ἀλλὰ γὰρ ὅτι μὲν ἐν Σπάρτῃ μάλιστα πείθονται ταῖς ἀρχαῖς τε καὶ τοῖς νόμοις , ἴσμεν ἅπαντες . ἐγὼ μέντοι οὐδʼ ἐγχειρῆσαι οἶμαι πρότερον τὸν Λυκοῦργον ταύτην τὴν εὐταξίαν καθιστάναι πρὶν ὁμογνώμονας ἐποιήσατο τοὺς κρατίστους τῶν ἐν τῇ πόλει .",
+      "translation": "To continue : we all know that obedience to the magistrates and the laws is found in the highest degree in Sparta . For my part , however , I think that Lycurgus did not so much as attempt to introduce this habit of discipline until he had secured agreement among the most important men in the state ."
+    },
+    {
+      "id": "8.2",
+      "label": "Section 8.2",
+      "chapter": null,
+      "original": "τεκμαίρομαι δὲ ταῦτα , ὅτι ἐν μὲν ταῖς ἄλλαις πόλεσιν οἱ δυνατώτεροι οὐδὲ βούλονται δοκεῖν τὰς ἀρχὰς φοβεῖσθαι , ἀλλὰ νομίζουσι τοῦτο ἀνελεύθερον εἶναι · ἐν δὲ τῇ Σπάρτῃ οἱ κράτιστοι καὶ ὑπέρχονται μάλιστα τὰς ἀρχὰς καὶ τῷ ταπεινοὶ εἶναι μεγαλύνονται καὶ τῷ ὅταν καλῶνται τρέχοντες ἀλλὰ μὴ βαδίζοντες ὑπακούειν , νομίζοντες , ἢν αὐτοὶ κατάρχωσι τοῦ σφόδρα πείθεσθαι , ἕψεσθαι καὶ τοὺς ἄλλους · ὅπερ καὶ γεγένηται .",
+      "translation": "I base my inference on the following facts . In other states the most powerful citizens do not even wish it to be thought that they fear the magistrates : they believe such fear to be a badge of slavery . But at Sparta the most important men show the utmost deference to the magistrates : they pride themselves on their humility , on running instead of walking to answer any call , in the belief that , if they lead , the rest will follow along the path of eager obedience . And so it has proved ."
+    },
+    {
+      "id": "9.1",
+      "label": "Section 9.1",
+      "chapter": null,
+      "original": "ἄξιον δὲ τοῦ Λυκούργου καὶ τόδε ἀγασθῆναι , τὸ κατεργάσασθαι ἐν τῇ πόλει αἱρετώτερον εἶναι τὸν καλὸν θάνατον ἀντὶ τοῦ αἰσχροῦ βίου · καὶ γὰρ δὴ ἐπισκοπῶν τις ἂν εὕροι μείους ἀποθνῄσκοντας τούτων ἢ τῶν ἐκ τοῦ φοβεροῦ ἀποχωρεῖν αἱρουμένων .",
+      "translation": "The following achievement of Lycurgus , again , deserves admiration . He caused his people to choose an honourable death in preference to a disgraceful life . And , in fact , one would find on consideration that they actually lose a smaller proportion of their men than those who prefer to retire from the danger zone ."
+    },
+    {
+      "id": "9.2",
+      "label": "Section 9.2",
+      "chapter": null,
+      "original": "ὡς τἀληθὲς εἰπεῖν καὶ ἕπεται τῇ ἀρετῇ τὸ σῴζεσθαι εἰς τὸν πλείω χρόνον μᾶλλον ἢ τῇ κακίᾳ · καὶ γὰρ ῥᾴων καὶ ἡδίων καὶ εὐπορωτέρα καὶ ἰσχυροτέρα . δῆλον δὲ ὅτι καὶ εὔκλεια μάλιστα ἕπεται τῇ ἀρετῇ · καὶ γὰρ συμμαχεῖν πως πάντες τοῖς ἀγαθοῖς βούλονται .",
+      "translation": "To tell the truth , escape from premature death more generally goes with valour than with cowardice : for valour is actually easier and pleasanter and more resourceful and mightier . [*] And obviously glory adheres to the side of valour , for all men want to ally themselves somehow with the brave ."
+    },
+    {
+      "id": "10.1",
+      "label": "Section 10.1",
+      "chapter": null,
+      "original": "καλῶς δέ μοι δοκεῖ ὁ Λυκοῦργος νομοθετῆσαι καὶ ᾗ μέχρι γήρως ἀσκοῖτʼ ἂν ἀρετή . ἐπὶ γὰρ τῷ τέρματι τοῦ βίου τὴν κρίσιν τῆς γεροντίας προσθεὶς ἐποίησε μηδὲ ἐν τῷ γήρᾳ ἀμελεῖσθαι τὴν καλοκἀγαθίαν .",
+      "translation": "The law by which Lycurgus encouraged the practice of virtue up to old age is another excellent measure in my opinion . By requiring men to face the ordeal of election to the Council of Elders near the end of life , he prevented neglect of high principles even in old age ."
+    },
+    {
+      "id": "10.2",
+      "label": "Section 10.2",
+      "chapter": null,
+      "original": "ἀξιάγαστον δʼ αὐτοῦ καὶ τὸ ἐπικουρῆσαι τῷ τῶν ἀγαθῶν γήρᾳ · θεὶς γὰρ τοὺς γέροντας κυρίους τοῦ περὶ τῆς ψυχῆς ἀγῶνος διέπραξεν ἐντιμότερον εἶναι τὸ γῆρας τῆς τῶν ἀκμαζόντων ῥώμης .",
+      "translation": "Worthy of admiration also is the protection that he afforded to the old age of good men . For the enactment by which he made the Elders judges in trials on the capital charge caused old age to be held in greater honour than the full vigour of manhood ."
+    },
+    {
+      "id": "11.1",
+      "label": "Section 11.1",
+      "chapter": null,
+      "original": "καὶ ταῦτα μὲν δὴ κοινὰ ἀγαθὰ καὶ ἐν εἰρήνῃ καὶ ἐν πολέμῳ · εἰ δέ τις βούλεται καταμαθεῖν ὅ τι καὶ εἰς τὰς στρατείας βέλτιον τῶν ἄλλων ἐμηχανήσατο , ἔξεστι καὶ τούτων ἀκούειν .",
+      "translation": "The blessings that I have enumerated so far were shared by all alike in peace and in war . But if anyone wishes to discover in what respect Lycurgus ’ organisation of the army on active service was better than other systems , here is the information that he seeks ."
+    },
+    {
+      "id": "11.2",
+      "label": "Section 11.2",
+      "chapter": null,
+      "original": "πρῶτον μὲν τοίνυν οἱ ἔφοροι προκηρύττουσι τὰ ἔτη εἰς ἃ δεῖ στρατεύεσθαι καὶ ἱππεῦσι καὶ ὁπλίταις , ἔπειτα δὲ καὶ τοῖς χειροτέχναις · ὥστε ὅσοισπερ ἐπὶ πόλεως χρῶνται ἄνθρωποι , πάντων τούτων καὶ ἐπὶ στρατιᾶς οἱ Λακεδαιμόνιοι εὐποροῦσι · καὶ ὅσων δὲ ὀργάνων ἡ στρατιὰ κοινῇ δεηθείη ἄν , ἅπαντα τὰ μὲν ἁμάξῃ προστέτακται παρέχειν , τὰ δὲ ὑποζυγίῳ · οὕτω γὰρ ἥκιστʼ ἂν τὸ ἐλλεῖπον διαλάθοι .",
+      "translation": "The Ephors issue a proclamation stating the age-limit fixed for the levy , first for the cavalry and infantry , and then for the handicraftsmen . Thus the Lacedaemonians are well supplied in the field with all things that are found useful in civil life . All the implements that an army may require in common are ordered to be assembled , some in carts , some on baggage animals ; thus anything missing is not at all likely to be overlooked ."
+    },
+    {
+      "id": "12.1",
+      "label": "Section 12.1",
+      "chapter": null,
+      "original": "ἐρῶ δὲ καὶ ᾗ στρατοπεδεύεσθαι ἐνόμισε χρῆναι Λυκοῦργος . διὰ μὲν γὰρ τὸ τὰς γωνίας τοῦ τετραγώνου ἀχρήστους εἶναι κύκλον ἐστρατοπεδεύσατο , εἰ μὴ ὄρος ἀσφαλὲς εἴη ἢ τεῖχος ἢ ποταμὸν ὄπισθεν ἔχοιεν .",
+      "translation": "I will now explain the method of encampment approved by Lycurgus .\nSeeing that the angles of a square are useless , he introduced the circular form of camp , except where there was a secure hill or wall , or a river afforded protection in the rear ."
+    },
+    {
+      "id": "12.2",
+      "label": "Section 12.2",
+      "chapter": null,
+      "original": "φυλακάς γε μὴν ἐποίησε μεθημερινὰς τὰς μὲν παρὰ τὰ ὅπλα εἴσω βλεπούσας · οὐ γὰρ πολεμίων ἕνεκα ἀλλὰ φίλων αὗται καθίστανται · τούς γε μὴν πολεμίους ἱππεῖς φυλάττουσιν ἀπὸ χωρίων ὧν ἂν ἐκ πλείστου προορῷεν εἰ δέ τις προσίοι .",
+      "translation": "He caused sentries to be posted by day facing inwards along the place where the arms were kept , for the object of these is to keep an eye not on the enemy but on their friends . The enemy is watched by cavalry from positions that command the widest outlook ."
+    },
+    {
+      "id": "13.1",
+      "label": "Section 13.1",
+      "chapter": null,
+      "original": "διηγήσομαι δὲ καὶ ἣν ἐπὶ στρατιᾶς ὁ Λυκοῦργος βασιλεῖ δύναμιν καὶ τιμὴν κατεσκεύασε . πρῶτον μὲν γὰρ ἐπὶ φρουρᾶς τρέφει ἡ πόλις βασιλέα καὶ τοὺς σὺν αὐτῷ · συσκηνοῦσι δὲ αὐτῷ οἱ πολέμαρχοι , ὅπως ἀεὶ συνόντες μᾶλλον καὶ κοινοβουλῶσιν , ἤν τι δέωνται · συσκηνοῦσι δὲ καὶ ἄλλοι τρεῖς ἄνδρες τῶν ὁμοίων · οὗτοι τούτοις ἐπιμελοῦνται πάντων τῶν ἐπιτηδείων , ὡς μηδεμία ἀσχολία ᾖ αὐτοῖς τῶν πολεμικῶν ἐπιμελεῖσθαι .",
+      "translation": "I will also give an account of the power and honour that Lycurgus conferred on the King in the field . In the first place , while on military service the King and his staff are maintained by the state . The colonels mess with the King , in order that constant intercourse may give better opportunities for taking counsel together in case of need . Three of the peers also attend the King ’ s mess . These three take entire charge of the commissariat for the King and his staff , so that these may devote all their time to affairs of war ."
+    },
+    {
+      "id": "13.2",
+      "label": "Section 13.2",
+      "chapter": null,
+      "original": "ἐπαναλήψομαι δὲ ὡς ἐξορμᾶται σὺν στρατιᾷ ὁ βασιλεύς . θύει μὲν γὰρ πρῶτον οἴκοι ὢν Διὶ Ἀγήτορι καὶ τοῖς σιοῖν αὐτῷ · ἢν δὲ ἐνταῦθα καλλιερήσῃ , λαβὼν ὁ πυρφόρος πῦρ ἀπὸ τοῦ βωμοῦ προηγεῖται ἐπὶ τὰ ὅρια τῆς χώρας · ὁ δὲ βασιλεὺς ἐκεῖ αὖ θύεται Διὶ καὶ Ἀθηνᾷ .",
+      "translation": "But I will go back to the beginning , and explain how the King sets out with an army . First he offers up sacrifice at home to Zeus the Leader and to the gods associated with him . [*] If the sacrifice appears propitious , the Fire-bearer takes fire from the altar and leads the way to the borders of the land . There the King offers sacrifice again to Zeus and Athena ."
+    },
+    {
+      "id": "14.1",
+      "label": "Section 14.1",
+      "chapter": null,
+      "original": "εἰ δέ τίς με ἔροιτο εἰ καὶ νῦν ἔτι μοι δοκοῦσιν οἱ Λυκούργου νόμοι ἀκίνητοι διαμένειν , τοῦτο μὰ Δία οὐκ ἂν ἔτι θρασέως εἴποιμι .",
+      "translation": "Should anyone ask me whether I think that the laws of Lycurgus still remain unchanged at this day , I certainly could not say that with any confidence whatever . [*]"
+    },
+    {
+      "id": "14.2",
+      "label": "Section 14.2",
+      "chapter": null,
+      "original": "οἶδα γὰρ πρότερον μὲν Λακεδαιμονίους αἱρουμένους οἴκοι τὰ μέτρια ἔχοντας ἀλλήλοις συνεῖναι μᾶλλον ἢ ἁρμόζοντας ἐν ταῖς πόλεσι καὶ κολακευομένους διαφθείρεσθαι .",
+      "translation": "For I know that formerly the Lacedaemonians preferred to live together at home with moderate fortunes rather than expose themselves to the corrupting influences of flattery as governors of dependent states ."
+    },
+    {
+      "id": "15.1",
+      "label": "Section 15.1",
+      "chapter": null,
+      "original": "βούλομαι δὲ καὶ ἃς βασιλεῖ πρὸς τὴν πόλιν συνθήκας ὁ Λυκοῦργος ἐποίησε διηγήσασθαι · μόνη γὰρ δὴ αὕτη ἀρχὴ διατελεῖ οἵαπερ ἐξ ἀρχῆς κατεστάθη · τὰς δὲ ἄλλας πολιτείας εὕροι ἄν τις μετακεκινημένας καὶ ἔτι καὶ νῦν μετακινουμένας .",
+      "translation": "I wish also to give an account of the compact made by Lycurgus between King and state . For this is the only government that continues exactly as it was originally established , whereas other constitutions will be found to have undergone and still to be undergoing modifications ."
+    },
+    {
+      "id": "15.2",
+      "label": "Section 15.2",
+      "chapter": null,
+      "original": "ἔθηκε γὰρ θύειν μὲν βασιλέα πρὸ τῆς πόλεως τὰ δημόσια ἅπαντα , ὡς ἀπὸ τοῦ θεοῦ ὄντα , καὶ στρατιὰν ὅποι ἂν ἡ πόλις ἐκπέμπῃ ἡγεῖσθαι .",
+      "translation": "He ordained that the King shall offer all the public sacrifices on behalf of the state , in virtue of his divine descent , and that , whatever may be the destination to which the state sends out an army , he shall be its leader ."
+    }
+  ],
+  "prevChunkSlug": "agesilaus-77y2fc",
+  "nextChunkSlug": "ways-and-means-1ryw4c"
+}

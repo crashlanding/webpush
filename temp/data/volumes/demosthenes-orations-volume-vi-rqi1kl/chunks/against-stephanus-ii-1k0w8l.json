@@ -1,0 +1,227 @@
+{
+  "volumeSlug": "demosthenes-orations-volume-vi-rqi1kl",
+  "volumeTitle": "Orations, Volume VI",
+  "authorDisplay": "Demosthenes",
+  "authors": [
+    "Demosthenes"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "against-stephanus-ii-1k0w8l",
+  "label": "Against Stephanus II",
+  "partId": "orations-volume-vi-173mrj",
+  "partTitle": "Orations, Volume VI",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "κατὰ Στεφάνου ψευδομαρτυριῶν β΄",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg046.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Apollodorus Against Stephanus, Charged with False Testimony II",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg046.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1",
+      "label": "Section 1",
+      "chapter": null,
+      "original": "ὅτι μὲν οὐκ ἀπορήσειν ἔμελλε Στέφανος οὑτοσὶ ὅ τι ἀπολογήσεται περὶ τῆς μαρτυρίας , παράγων τῷ λόγῳ ὡς οὐ πάντα μεμαρτύρηκε τὰ ἐν τῷ γραμματείῳ γεγραμμένα , καὶ ἐξαπατῶν ὑμᾶς , καὶ αὐτὸς σχεδόν τι ὑπενόουν , ὦ ἄνδρες δικασταί . πανοῦργός τε γάρ ἐστιν , καὶ οἱ γράφοντες καὶ οἱ συμβουλεύοντες ὑπὲρ Φορμίωνος πολλοί · ἅμα τʼ εἰκός ἐστι τοὺς ἐγχειροῦντας τὰ ψευδῆ μαρτυρεῖν καὶ τὴν ἀπολογίαν εὐθέως ὑπὲρ αὐτῶν μελετᾶν .",
+      "translation": "Even of myself , men of the jury , I could pretty well suspect that this fellow Stephanus would not be at a loss for something to say in defence of his testimony ; and that he would seek to mislead and deceive you in his speech by alleging that he has not borne witness to everything written in the deposition . For he is a knave , and there are many to write speeches and give advice on Phormio ’ s behalf . Furthermore it is but natural that those who undertake to give false testimony should at the start prepare some means of defending it ."
+    },
+    {
+      "id": "2",
+      "label": "Section 2",
+      "chapter": null,
+      "original": "ὅτι δʼ ἐν τοσούτῳ λόγῳ οὐδαμοῦ μάρτυρας παρέσχετο ὑμῖν , ὡς ἢ διατιθεμένῳ τῷ πατρὶ τῷ ἐμῷ παρεγένετό που αὐτὸς ταύτην τὴν διαθήκην , ὥστʼ εἰδέναι ταῦτα ὅτι ἀντίγραφά ἐστιν ὧν ὁ πατήρ μου διέθετο , ἢ ἀνοιχθὲν εἶδε τὸ γραμματεῖον ὅ φασι διαθέμενον ἐκεῖνον καταλιπεῖν , ταῦτα συμμέμνησθέ μοι .",
+      "translation": "But I bid you to bear this in mind , that in his address , long as it was , he nowhere brought forward witnesses to prove to you either that he was himself present when my father made this will , so as to know that this is a copy of the will which my father made , or that he saw the document opened which they declare my father drew up and left as his will ."
+    },
+    {
+      "id": "3",
+      "label": "Section 3",
+      "chapter": null,
+      "original": "ἀλλὰ μὴν ὁπότε μεμαρτύρηκεν ἀντίγραφα εἶναι τῶν διαθηκῶν τῶν Πασίωνος τὰ ἐν τῷ γραμματείῳ γεγραμμένα , τὰς δὲ διαθήκας μὴ ἔχει ἐπιδεῖξαι μήθʼ ὡς ὁ πατὴρ διέθετο ἡμῶν μήθʼ ὡς αὐτὸς εἶδεν παραγενόμενος αὐτὰς διατιθεμένου τοῦ πατρός , πῶς οὐ περιφανῶς οὗτος ἐξελέγχεται τὰ ψευδῆ μεμαρτυρηκώς ;",
+      "translation": "When , however , my opponent has testified that what was written in the document was a copy of the will of Pasio , but is unable to prove either that my father made a will or that he was himself present and saw it when my father drew it up , is he not manifestly proved to have given false testimony ?"
+    },
+    {
+      "id": "4",
+      "label": "Section 4",
+      "chapter": null,
+      "original": "εἰ τοίνυν πρόκλησίν φησιν εἶναι καὶ μὴ μαρτυρίαν , οὐκ ἀληθῆ λέγει . ἅπαντα γὰρ ὅσα παρέχονται εἰς τὸ δικαστήριον προκαλούμενοι ἀλλήλους οἱ ἀντίδικοι , διὰ μαρτυρίας παρέχονται . οὐ γὰρ ἂν εἰδείηθʼ ὑμεῖς εἴτʼ ἐστὶν ἀληθῆ εἴτε ψευδῆ ἅ φασιν ἑκάτεροι , εἰ μή τις καὶ τοὺς μάρτυρας παρέχοιτο . ὅταν δὲ παράσχηται , τούτοις πιστεύοντες ὑποδίκοις οὖσιν ψηφίζεσθε ἐκ τῶν λεγομένων καὶ μαρτυρουμένων ἃ ἂν ὑμῖν δοκῇ δίκαια εἶναι .",
+      "translation": "If , now , he maintains that it was a challenge and not a deposition , he is not telling the truth . For all pieces of evidence which the parties to a suit bring before the court when they tender challenges to one another , they bring in by means of depositions . Otherwise you would not know whether what they severally say is true or false , if they did not bring forward the witnesses also . But when they do bring in witnesses , you rely upon these as being responsible , and so from the statements and the testimony offered you cast your votes for what seems to you to be a just verdict ."
+    },
+    {
+      "id": "5",
+      "label": "Section 5",
+      "chapter": null,
+      "original": "βούλομαι τοίνυν καὶ τὴν μαρτυρίαν ἐξελέγξαι , ὅτι οὐ πρόκλησίς ἐστιν , καὶ ὡς ἔδει μαρτυρεῖν αὐτούς , εἴπερ ἐγίγνετο ἡ πρόκλησις , ὡς οὐκ ἐγίγνετο . μαρτυροῦσι παρεῖναι πρὸς τῷ διαιτητῇ Τεισίᾳ , ὅτε προὐκαλεῖτο Φορμίων Ἀπολλόδωρον ἀνοίγειν τὸ γραμματεῖον , ὃ παρεῖχεν Ἀμφίας ὁ Κηφισοφῶντος κηδεστής , Ἀπολλόδωρον δʼ οὐκ ἐθέλειν ἀνοίγειν . οὕτω μὲν ἂν μαρτυροῦντες ἐδόκουν ἀληθῆ μαρτυρεῖν · ἀντίγραφα δὲ τῶν διαθηκῶν τῶν Πασίωνος μαρτυρεῖν εἶναι τὰ ἐν τῷ γραμματείῳ ὃ παρείχετο Φορμίων , μήτε παραγενομένους ἐκείνῳ διατιθεμένῳ μήτʼ εἰδότας εἰ διέθετο , πῶς οὐ περιφανῶς ἀναισχυντία δοκεῖ ὑμῖν εἶναι ;",
+      "translation": "I wish therefore to prove to you that the deposition is not a challenge , and to show you how they ought to have deposed if the challenge was given , which it was not ,— The deponents testify that they were present before the arbitrator Teisias , when Phormio challenged Apollodorus to open the document which Amphias , the brother-in-law of Cephisophon , produced , and that Apollodorus refused to open it . If they had given their evidence in this way , they would have appeared to be speaking the truth . But to depose that what was written in the document which Phormio produced was a copy of the will of Pasio , without having been present when Pasio made the will , or knowing that he had made one , does this not seem to you to be a manifest piece of insolence ?"
+    },
+    {
+      "id": "6",
+      "label": "Section 6",
+      "chapter": null,
+      "original": "ἀλλὰ μὴν εἰ φησὶ Φορμίωνος λέγοντος πιστεύειν ταῦτʼ ἀληθῆ εἶναι , τοῦ αὐτοῦ ἀνδρός ἐστιν πιστεύειν τε λέγοντι τούτῳ ταῦτα καὶ κελεύοντι μαρτυρεῖν . οἱ δέ γε νόμοι οὐ ταῦτα λέγουσιν , ἀλλʼ ἃ ἂν εἰδῇ τις καὶ οἷς ἂν παραγένηται πραττομένοις , ταῦτα μαρτυρεῖν κελεύουσιν ἐν γραμματείῳ γεγραμμένα , ἵνα μήτʼ ἀφελεῖν ἐξῇ μηδὲν μήτε προσθεῖναι τοῖς γεγραμμένοις .",
+      "translation": "And surely , if he says that he believed this to be true because Phormio said it was , it would be like the same man to believe him when he said this , and to testify to it at his bidding . The laws , however , do not say this , but ordain that a man may testify to what he knows , or to matters at the doing of which he was present , and that his testimony must be committed to writing in order that it may not be possible to subtract anything from what is written , or to add anything to it ."
+    },
+    {
+      "id": "7",
+      "label": "Section 7",
+      "chapter": null,
+      "original": "ἀκοὴν δʼ οὐκ ἐῶσι ζῶντος μαρτυρεῖν , ἀλλὰ τεθνεῶτος , τῶν δὲ ἀδυνάτων καὶ ὑπερορίων ἐκμαρτυρίαν γεγραμμένην ἐν τῷ γραμματείῳ · καὶ ἀπὸ τῆς αὐτῆς ἐπισκήψεως τήν τε μαρτυρίαν καὶ ἐκμαρτυρίαν ἀγωνίζεσθαι ἅμα , ἵνʼ ἐὰν μὲν ἀναδέχηται ὁ ἐκμαρτυρήσας , ἐκεῖνος ὑπόδικος ᾖ τῶν ψευδομαρτυρίων , ἐὰν δὲ μὴ ἀναδέχηται , οἱ μαρτυρήσαντες τὴν ἐκμαρτυρίαν .",
+      "translation": "Hearsay evidence they do not admit from a living person , but only from one who is dead ; but in the case of those who are sick or absent from the country they allow evidence to be introduced , provided it be in written form , and the absent witness and the one submitting his testimony shall alike be liable to action under the same impeachment , in order that , if the absent witness acknowledges his evidence , he may be liable to action for giving false testimony , and if he does not acknowledge it , the one who submitted his testimony may be liable ."
+    },
+    {
+      "id": "8",
+      "label": "Section 8",
+      "chapter": null,
+      "original": "στέφανος τοίνυν οὑτοσί , οὔτʼ εἰδὼς διαθήκας καταλιπόντα τὸν πατέρα ἡμῶν , οὔτε παραγενόμενος πώποτε διατιθεμένῳ τῷ πατρὶ ἡμῶν , ἀκούσας δὲ Φορμίωνος , μεμαρτύρηκεν ἀκοὴν τὰ ψευδῆ τε καὶ παρὰ τὸν νόμον . καὶ ταῦθʼ ὅτι ἀληθῆ λέγω , αὐτὸν ὑμῖν τὸν νόμον ἀναγνώσεται .\nΝΟΜΟΣ .\n\nἀκοὴν εἶναι μαρτυρεῖν τεθνεῶτος , ἐκμαρτυρίαν δὲ ὑπερορίου καὶ ἀδυνάτου .",
+      "translation": "Now Stephanus here , without knowing that my father left a will or having ever been present when he drew one up , but having been told this by Phormio , has given hearsay evidence which is false , and has done it in defiance of the law .\nTo prove that I am telling the truth in this , the clerk shall read you the law itself .\nThe Law\n\nIt shall be lawful to introduce hearsay evidence from one that is dead , and written evidence given in absence from one who is out of the country , or is sick ."
+    },
+    {
+      "id": "9",
+      "label": "Section 9",
+      "chapter": null,
+      "original": "ὡς τοίνυν καὶ παρʼ ἕτερον νόμον μεμαρτύρηκεν , ἐπιδεῖξαι ὑμῖν βούλομαι , ἵνα εἰδῆτε ὅτι μεγάλων ἀδικημάτων οὐκ ἔχων καταφυγὴν ὁ Φορμίων , πρόφασιν λαβὼν λόγῳ τὴν πρόκλησιν , ἔργῳ αὐτὸς αὑτῷ μεμαρτύρηκε προστησάμενος τούτους , διʼ ὧν οἱ μὲν δικασταὶ ἐξηπατήθησαν ὡς ἀληθῆ τούτων μαρτυρούντων , ἐγὼ δὲ ἀπεστερήθην ὧν ὁ πατήρ μοι κατέλιπεν χρημάτων καὶ τοῦ δίκην λαβεῖν περὶ ὧν ἀδικοῦμαι . μαρτυρεῖν γὰρ οἱ νόμοι οὐκ ἐῶσιν αὐτὸν αὑτῷ οὔτʼ ἐπὶ ταῖς γραφαῖς οὔτʼ ἐπὶ ταῖς δίκαις οὔτʼ ἐν ταῖς εὐθύναις . ὁ τοίνυν Φορμίων αὐτὸς αὑτῷ μεμαρτύρηκεν , ὁπότε φασὶν οὗτοι ἀκούσαντες ἐκείνου ταῦτα μεμαρτυρηκέναι .",
+      "translation": "Now I wish to prove to you that he has given evidence contrary to another law also , that you may know that Phormio , having no harbor of refuge from the grievous wrongs he has committed , had made a pretence of the challenge , but actually has given evidence for himself , screening himself behind the testimony of these men , by which the jurymen were deceived , assuming that they were testifying to the truth , and I was robbed of the property which my father left me and of reparation for the wrongs which I have suffered . For the laws do not permit a man to give evidence for himself either in criminal suits or in civil suits or in audits . Phormio , however , has given evidence for himself , when these men say that they have given this testimony on the strength of what they heard from him ."
+    },
+    {
+      "id": "10",
+      "label": "Section 10",
+      "chapter": null,
+      "original": "ἵνα δὲ εἰδῆτε ἀκριβῶς , αὐτὸν τὸν νόμον μοι ἀνάγνωθι .\nΝΟΜΟΣ .\n\nτοῖν ἀντιδίκοιν ἐπάναγκες εἶναι ἀποκρίνασθαι ἀλλήλοις τὸ ἐρωτώμενον , μαρτυρεῖν δὲ μή .\n\nσκέψασθε τοίνυν τουτονὶ τὸν νόμον , ὃς κελεύει ὑποδίκους εἶναι τῶν ψευδομαρτυρίων καὶ κατʼ αὐτὸ τοῦτο , ὅτι μαρτυρεῖ παρὰ τὸν νόμον .\nΝΟΜΟΣ .\n\nἔστω δὲ καὶ ὑπόδικος τῶν ψευδομαρτυρίων ὁ μαρτυρήσας αὐτοῦ τούτου , ὅτι μαρτυρεῖ παρὰ τὸν νόμον · καὶ ὁ προβαλόμενος κατὰ ταὐτά .",
+      "translation": "But that you may be fully convinced of this , ( to the clerk ) please read the law itself .\nThe Law\n\nThe two parties to a suit shall be compelled to answer one another ’ s questions , but they may not testify .\n\nNow consider this law also which ordains that action for false testimony may also be brought on this very ground , namely , that one testifies contrary to law .\nThe Law\n\nThe witness shall also be liable to action for giving false testimony on the mere ground that he gives evidence contrary to law , and the one producing him shall also be liable in the selfsame manner ."
+    },
+    {
+      "id": "11",
+      "label": "Section 11",
+      "chapter": null,
+      "original": "ἔτι τοίνυν κἂν ἀπὸ τοῦ γραμματείου γνοίη τις , ἐν ᾧ ἡ μαρτυρία γέγραπται , ὅτι τὰ ψευδῆ μεμαρτύρηκεν . λελευκωμένον τε γάρ ἐστιν καὶ οἴκοθεν κατεσκευασμένον . καίτοι τοὺς μὲν τὰ πεπραγμένα μαρτυροῦντας προσήκει οἴκοθεν τὰς μαρτυρίας κατεσκευασμένας μαρτυρεῖν , τοὺς δὲ τὰς προκλήσεις μαρτυροῦντας , τοὺς ἀπὸ ταὐτομάτου προσστάντας , ἐν μάλθῃ γεγραμμένην τὴν μαρτυρίαν , ἵνα , ἐάν τι προσγράψαι ἢ ἀπαλεῖψαι βουληθῇ , ῥᾴδιον ᾖ .",
+      "translation": "Furthermore , even from the tablet upon which the deposition is written one can tell that he has given false evidence . For it is whitened , and was prepared at home . [*] Yet it is only those who testify to facts who should offer depositions prepared at home ; those who testify to challenges , who stand forward on the spur of the moment , should present their depositions written in wax , in order that , if one wants to add or to erase anything , it may be easier to do so ."
+    },
+    {
+      "id": "12",
+      "label": "Section 12",
+      "chapter": null,
+      "original": "οὐκοῦν κατὰ μὲν ταῦτα πάντα ἐξελέγχεται τὰ ψευδῆ μεμαρτυρηκὼς καὶ παρὰ τὸν νόμον · βούλομαι δʼ ὑμῖν καὶ αὐτὸ τοῦτο ἐπιδεῖξαι , ὡς οὔτε διέθετο ὁ πατὴρ ἡμῶν διαθήκην οὐδεμίαν οὔθʼ οἱ νόμοι ἐῶσιν . εἰ γάρ τις ἔροιτο ὑμᾶς , καθʼ ὁποίους νόμους δεῖ πολιτεύεσθαι ἡμᾶς , δῆλον ὅτι ἀποκρίναισθʼ ἂν κατὰ τοὺς κειμένους . ἀλλὰ μὴν οἵ γε νόμοι ἀπαγορεύουσι μηδὲ νόμον ἐξεῖναι ἐπʼ ἀνδρὶ θεῖναι , ἂν μὴ τὸν αὐτὸν ἐφʼ ἅπασιν Ἀθηναίοις .",
+      "translation": "In all these things , then , he is shown to have given false testimony , and to have given it contrary to law ; but I wish to prove this further fact , that our father did not make a will , and could not legally make one . For , if anyone should ask you in accordance with what laws we should live as citizens , you would of course answer , the established laws . But look you , the laws ordain , nor shall it be permitted to enact a law applying to an individual , unless the same law applies also to all the Athenians ."
+    },
+    {
+      "id": "13",
+      "label": "Section 13",
+      "chapter": null,
+      "original": "οὐκοῦν ὁ μὲν νόμος οὑτοσὶ τοῖς αὐτοῖς νόμοις πολιτεύεσθαι ἡμᾶς κελεύει καὶ οὐκ ἄλλους ἄλλοις . ὁ δὲ πατὴρ ἐτελεύτησεν ἐπὶ Δυσνικήτου ἄρχοντος , ὁ δὲ Φορμίων Ἀθηναῖος ἐγένετο ἐπὶ Νικοφήμου ἄρχοντος , δεκάτῳ ἔτει ὕστερον ἢ ὁ πατὴρ ἡμῶν ἀπέθανεν . πῶς ἂν οὖν μὴ εἰδὼς ὁ πατὴρ αὐτὸν Ἀθηναῖον ἐσόμενον , ἔδωκεν ἂν τὴν ἑαυτοῦ γυναῖκα , καὶ προὐπηλάκισε μὲν ἂν ἡμᾶς , κατεφρόνησε δʼ ἂν τῆς δωρεᾶς ἧς παρʼ ὑμῶν ἔλαβεν , παρεῖδε δʼ ἂν τοὺς νόμους ; πότερα δὲ κάλλιον ἦν αὐτῷ ζῶντι πρᾶξαι ταῦτα , εἴπερ ἐβούλετο , ἢ ἀποθανόντα διαθήκας καταλιπεῖν , ἃς οὐ κύριος ἦν ;",
+      "translation": "This law , then , ordains that we should live as citizens under the same laws and not one under one law , another under another . But my father died during the archonship of Dysnicetus , [*] and Phormio became an Athenian citizen during the archonship of Nicophemus , [*] in the tenth year after my father died . How , then , could my father , not knowing that Phormio was to become an Athenian citizen , have given him in marriage his own wife , and thus have outraged us , shown his contempt of the gift of citizenship which he had received from you , and disregarded your laws ? And which was the more honorable course for him — to do this during his lifetime , supposing he wished to do it , or to leave behind him at his death a will which he had no legal right to make ?"
+    },
+    {
+      "id": "14",
+      "label": "Section 14",
+      "chapter": null,
+      "original": "ἀλλὰ μὴν αὐτῶν τῶν νόμων ἀκούσαντες γνώσεσθε , ὡς οὐ κύριος ἦν διαθέσθαι . λέγε τὸν νόμον .\nΝΟΜΟΣ .\n\nὅσοι μὴ ἐπεποίηντο , ὥστε μήτε ἀπειπεῖν μήτʼ ἐπιδικάσασθαι , ὅτε Σόλων εἰσῄει τὴν ἀρχήν , τὰ ἑαυτοῦ διαθέσθαι εἶναι ὅπως ἂν ἐθέλῃ , ἂν μὴ παῖδες ὦσι γνήσιοι ἄρρενες , ἂν μὴ μανιῶν ἢ γήρως ἢ φαρμάκων ἢ νόσου ἕνεκα , ἢ γυναικὶ πειθόμενος , ὑπὸ τούτων του παρανοῶν , ἢ ὑπʼ ἀνάγκης ἢ ὑπὸ δεσμοῦ καταληφθείς .",
+      "translation": "And verily , when you have heard the laws themselves you will see clearly that Pasio had no right to make a will .\n( To the clerk .) Read the law .\nThe Law\n\nAny citizen , with the exception of those who had been adopted when Solon entered upon his office , and had thereby become unable either to renounce or to claim an inheritance , [*] shall have the right to dispose of his own property by will as he shall see fit , if he have no male children lawfully born , unless his mind be impaired by one of these things , lunacy or old age or drugs or disease , or unless he be under the influence of a woman , or under constraint or deprived of his liberty . [*]"
+    },
+    {
+      "id": "15",
+      "label": "Section 15",
+      "chapter": null,
+      "original": "τοῦ μὲν νόμου τοίνυν ἀκηκόατε , ὃς οὐκ ἐᾷ διαθήκας διαθέσθαι , ἐὰν παῖδες ὦσι γνήσιοι . οὗτοι δέ φασι ταῦτα διαθέσθαι τὸν πατέρα , ὡς δὲ παρεγένοντο οὐκ ἔχουσιν ἐπιδεῖξαι . ἄξιον δὲ καὶ τόδε ἐνθυμηθῆναι , ὅτι ὅσοι μὴ ἐπεποίηντο ἀλλʼ ἦσαν πεφυκότες γνήσιοι , τούτοις ὁ νόμος δίδωσιν , ἐὰν ἄπαιδες ὦσιν , διαθέσθαι τὰ ἑαυτῶν . ὁ τοίνυν πατὴρ ἡμῶν ἐπεποίητο ὑπὸ τοῦ δήμου πολίτης , ὥστε οὐδὲ κατὰ τοῦτο ἐξῆν αὐτῷ διαθέσθαι διαθήκην , ἄλλως τε καὶ περὶ τῆς γυναικός , ἧς οὐδὲ κύριος ἐκ τῶν νόμων ἦν , παῖδές τε ἦσαν αὐτῷ .",
+      "translation": "You have heard the law , then , which does not permit a man to dispose of his property by will , if he have male children lawfully born . But these men declare that my father made this will , yet they cannot prove that they were present at the time . Another thing also deserves to be borne in mind , that it is to those who had not been adopted , but were lawfully born , that the law gives the right , in case of their being childless , to dispose of their property by will . Now my father had been adopted as a citizen by the people , so that on this account also he had not the right to make a will , especially in regard to his wife , of whom he was not even the legal guardian ; and besides he had children ."
+    },
+    {
+      "id": "16",
+      "label": "Section 16",
+      "chapter": null,
+      "original": "σκέψασθε δὲ καὶ διότι οὐδʼ ἂν ἄπαις τις ᾖ , κύριός ἐστι τὰ αὑτοῦ διαθέσθαι , ἐὰν μὴ εὖ φρονῇ · νοσοῦντα δὲ ἢ φαρμακῶντα ἢ γυναικὶ πειθόμενον ἢ ὑπὸ γήρως ἢ ὑπὸ μανιῶν ἢ ὑπὸ ἀνάγκης τινὸς καταληφθέντα ἄκυρον κελεύουσιν εἶναι οἱ νόμοι . σκοπεῖτε δή , εἰ δοκοῦσιν ὑμῖν εὖ φρονοῦντος ἀνδρὸς εἶναι αἱ διαθῆκαι , ἅς φασι διαθέσθαι οὗτοι τὸν πατέρα .",
+      "translation": "Note further , that even if a man be childless , he has not the right to dispose of his property by will , unless he be of sound mind ; but if he be impaired by disease or the effect of drugs , or be under the influence of a woman , or be the victim of old age or madness , or be under constraint , the laws ordain that he be incompetent . Now consider whether the will , which these men say my father made , seems to you to be the will of a man of sound mind ."
+    },
+    {
+      "id": "17",
+      "label": "Section 17",
+      "chapter": null,
+      "original": "μὴ πρὸς ἄλλο δέ τι παράδειγμα σκέψησθε ἢ πρὸς τὴν μίσθωσιν , εἰ δοκεῖ ὑμῖν ἀκόλουθον εἶναι τῷ τὴν τέχνην μὴ ἐξουσίαν δοῦναι εἰ μὴ ἐν τῷ αὐτῷ ἡμῖν ἐργάζεσθαι , τούτῳ τὴν γυναῖκα δοῦναι τὴν αὑτοῦ καὶ τῶν παίδων ἐᾶσαι κοινωνὸν αὑτῷ γενέσθαι . καὶ μὴ θαυμάζετε , εἰ τἄλλα σκευωρουμένους αὐτοὺς τὰ ἐν τῇ μισθώσει τοῦτο παρέλαθεν . ἴσως μὲν γὰρ οὐδὲ προσεῖχον ἄλλῳ οὐδενὶ ἢ τῷ τὰ χρήματα ἀποστερῆσαι καὶ τῷ προσοφείλοντα τὸν πατέρα ἐγγράψαι · εἶτα δὲ οὐδὲ ἐδόκουν ἐμὲ οὕτω δεινὸν ἔσεσθαι ὥστε ταῦτα ἀκριβῶς ἐξετάσαι .",
+      "translation": "Taking the lease , and nothing else , as an example , tell me whether it seems to you consistent that my father should refuse Phormio permission to carry on his business except in association with us , and yet that he should give him his wife in marriage , and thus make him a partner in his own fatherhood ? And do not be surprised that , while they were arranging all else in regard to the lease so cleverly , they overlooked this . For perhaps they paid no heed to anything else , save to rob me of my money and to set my father down as a debtor to the bank ; and then they did not suppose that I should be clever enough to look into these matters closely ."
+    },
+    {
+      "id": "18",
+      "label": "Section 18",
+      "chapter": null,
+      "original": "σκέψασθε τοίνυν καὶ τοὺς νόμους , παρʼ ὧν κελεύουσι τὰς ἐγγύας ποιεῖσθαι , ἵνʼ εἰδῆτε καὶ ἐκ τούτων ὡς κατεσκευασμένης διαθήκης ψευδὴς μάρτυς γέγονε Στέφανος οὑτοσί .\nΝΟΜΟΣ .\n\nἣν ἂν ἐγγυήσῃ ἐπὶ δικαίοις δάμαρτα εἶναι ἢ πατὴρ ἢ ἀδελφὸς ὁμοπάτωρ ἢ πάππος ὁ πρὸς πατρός , ἐκ ταύτης εἶναι παῖδας γνησίους . ἐὰν δὲ μηδεὶς ᾖ τούτων , ἐὰν μὲν ἐπίκληρός τις ᾖ , τὸν κύριον ἔχειν , ἐὰν δὲ μὴ ᾖ , ὅτῳ ἂν ἐπιτρέψῃ , τοῦτον κύριον εἶναι .",
+      "translation": "Now , then , consider the laws , and see from whom they ordain that betrothals should be made , that you may come to know from them also , that this fellow Stephanus has proved himself to be a false witness to a forged will .\nThe Law\n\nIf a woman be betrothed for lawful marriage by her father or by a brother begotten of the same father or by her grandfather on her father ’ s side , her children shall be legitimate . In case there be none of these relatives , if the woman be an heiress , her guardian shall take her to wife , and if she be not , that man shall be her guardian to whom she may entrust herself ."
+    },
+    {
+      "id": "19",
+      "label": "Section 19",
+      "chapter": null,
+      "original": "οὗτος μὲν τοίνυν ὁ νόμος οὓς ἐποίησεν κυρίους εἶναι , ἀκηκόατε · ὅτι δʼ οὐδεὶς ἦν τούτων τῇ μητρί , οἱ ἀντίδικοί μοι αὐτοὶ μεμαρτυρήκασιν . εἰ γὰρ ἦν , παρείχοντʼ ἄν . ἢ μάρτυρας μὲν ψευδεῖς οἴεσθʼ ἂν παρασχέσθαι καὶ διαθήκας οὐκ οὔσας , ἀδελφὸν δὲ ἢ πάππον ἢ πατέρα οὐκ ἄν , εἴπερ ἦν δυνατὸν ἕνεκα χρημάτων ; ὁπότε τοίνυν μηδεὶς φαίνεται ζῶν τούτων , τότε ἀνάγκη ἐπίκληρον τὴν μητέρα ἡμῶν εἶναι . τῆς τοίνυν ἐπικλήρου σκοπεῖτε τίνας κελεύουσιν οἱ νόμοι κυρίους εἶναι .",
+      "translation": "You have heard what persons this law has appointed to be guardians ; and that my mother had none of these my opponents have themselves borne witness . For if there had been such , they would have produced them . Or do you suppose they would have produced false witnesses and a non-existent will , but would not have produced a brother or a grandfather or a father , if they could have done it for money ? Since , then , it is plain that no one of these was living , it follows necessarily that my mother was an heiress . Now see whom the law ordains to be guardians of an heiress ."
+    },
+    {
+      "id": "20",
+      "label": "Section 20",
+      "chapter": null,
+      "original": "λέγε τὸν νόμον .\nΝΟΜΟΣ .\n\nκαὶ ἐὰν ἐξ ἐπικλήρου τις γένηται καὶ ἅμα ἡβήσῃ ἐπὶ δίετες , κρατεῖν τῶν χρημάτων , τὸν δὲ σῖτον μετρεῖν τῇ μητρί .\n\nοὐκοῦν ὁ μὲν νόμος κελεύει τοὺς παῖδας ἡβήσαντας κυρίους τῆς μητρὸς εἶναι , τὸν δὲ σῖτον μετρεῖν τῇ μητρί . ἐγὼ δὲ φαίνομαι στρατευόμενος καὶ τριηραρχῶν ὑμῖν , ὅτε οὗτος συνῴκησεν τῇ μητρί .",
+      "translation": "( To the clerk .) Read the law .\nThe Law\n\nIf one be born the son of an heiress , two years after he has reached the age of manhood [*] he shall assume control of the estate , and he shall make due provision for his mother ’ s maintenance .\n\nThe law , then , appoints that sons who have reached the age of manhood shall be guardians of their mother and shall make due provision for their mother ’ s maintenance . But it is clear that I was on a military expedition and in command of a trireme in your service , [*] when this man married my mother ."
+    },
+    {
+      "id": "21",
+      "label": "Section 21",
+      "chapter": null,
+      "original": "ἀλλὰ μὴν ὅτι ἐγὼ μὲν ἀπεδήμουν τριηραρχῶν , ἐτετελευτήκει δὲ ὁ πατὴρ πάλαι , ὅτε οὗτος ἔγημε , τὰς δὲ θεραπαίνας αὐτὸν ἐξῄτουν καὶ ἠξίουν περὶ αὐτοῦ τούτου βασανίζεσθαι αὐτάς , εἰ ταῦτʼ ἀληθῆ ἐστι , καὶ ὡς προὐκαλούμην , λαβέ μοι τὴν μαρτυρίαν .\nΜΑΡΤΥΡΙΑ .\n\nμαρτυροῦσι παρεῖναι ὅτε προὐκαλεῖτο Ἀπολλόδωρος Φορμίωνα , ὅτε ἠξίου παραδοῦναι Ἀπολλόδωρος Φορμίωνα τὰς θεραπαίνας εἰς βάσανον , εἰ μή φησι Φορμίων καὶ πρότερον διεφθαρκέναι τὴν μητέρα τὴν ἐμήν , πρὶν οὗ ἀποφαίνει Φορμίων γῆμαι ἐγγυησάμενος αὐτὴν παρὰ Πασίωνος . ταῦτα δὲ προκαλουμένου Ἀπολλοδώρου οὐκ ἠθέλησε Φορμίων παραδοῦναι τὰς θεραπαίνας .",
+      "translation": "Nay more , to prove that I was absent in command of a trireme , and that my father had been dead for some time , when the fellow married , I demanded of him the female slaves , and claimed the right of having them put to the torture to establish this very point , whether what I am saying is true — to prove all this , and that I tendered him a challenge , ( to the clerk ) please take the deposition .\nThe Deposition\n\nThe deponents testify that they were present when Apollodorus challenged Phormio , namely , when Apollodorus demanded that Phormio give up the female slaves for the torture , if Phormo denied that he had seduced my mother before the time when Phormio declares that he married her , after she had been betrothed to him by Pasio . And when Apollodorus tendered this challenge , Phormio refused to surrender the female slaves ."
+    },
+    {
+      "id": "22",
+      "label": "Section 22",
+      "chapter": null,
+      "original": "τὸν τοίνυν νόμον ἐπὶ τούτοις ἀνάγνωθι , ὃς κελεύει ἐπιδικασίαν εἶναι τῶν ἐπικλήρων ἁπασῶν , καὶ ξένων καὶ ἀστῶν , καὶ περὶ μὲν τῶν πολιτῶν τὸν ἄρχοντα εἰσάγειν καὶ ἐπιμελεῖσθαι , περὶ δὲ τῶν μετοίκων τὸν πολέμαρχον , καὶ ἀνεπίδικον μὴ ἐξεῖναι ἔχειν μήτε κλῆρον μήτε ἐπίκληρον .\nΝΟΜΟΣ .\n\nκληροῦν δὲ τὸν ἄρχοντα κλήρων καὶ ἐπικλήρων , ὅσοι εἰσὶ μῆνες , πλὴν τοῦ σκιροφοριῶνος . ἀνεπίδικον δὲ κλῆρον μὴ ἔχειν .",
+      "translation": "Now in addition to this read the law which appoints that there shall be an adjudication of all heiresses , whether alien or citizen , and that in the case of those who are citizens the archon shall have jurisdiction and shall take charge of the matter , and in the case of those who are resident aliens , the polemarch ; and it shall not be lawful for anyone to obtain an inheritance or an heiress without legal adjudication .\nThe Law\n\nThe archon shall assign by lot days for the trial of claims to inheritances or heiresses in every month except Scirophorion [*] ; and no one shall obtain an inheritance without adjudication ."
+    },
+    {
+      "id": "23",
+      "label": "Section 23",
+      "chapter": null,
+      "original": "οὐκοῦν αὐτόν , εἴπερ ἐβούλετο ὀρθῶς διαπράττεσθαι , λαχεῖν ἔδει τῆς ἐπικλήρου , εἴτε κατὰ δόσιν αὐτῷ προσῆκεν εἴτε κατὰ γένος , εἰ μὲν ὡς ὑπὲρ ἀστῆς , πρὸς τὸν ἄρχοντα , εἰ δὲ ὡς ὑπὲρ ξένης , πρὸς τὸν πολέμαρχον , καὶ τότε , εἴπερ τι λέγειν εἶχε δίκαιον , πείσαντα ὑμῶν τοὺς λαχόντας μετὰ τῶν νόμων καὶ τῆς ψήφου κύριον εἶναι , καὶ μὴ αὐτὸν αὑτῷ νόμους ἰδίους θέμενον διαπράξασθαι ἃ ἐβούλετο .",
+      "translation": "Well then , if he had wished to proceed regularly , he ought to have entered his claim for the heiress , whether the claim was based upon a gift or upon nearness of kin , before the archon , if he claimed her as a citizen , and before the polemarch , if as an alien ; and then , if he had any just claim to advance , it was his duty to convince those of you who were drawn on the jury , and so obtain the woman by their verdict and in a manner sanctioned by your laws , instead of having made laws valid for himself alone , and in that way having accomplished what he desired ."
+    },
+    {
+      "id": "24",
+      "label": "Section 24",
+      "chapter": null,
+      "original": "σκέψασθε δὴ καὶ τονδὶ τὸν νόμον , ὃς κελεύει τὴν διαθήκην , ἣν ἂν παίδων ὄντων γνησίων ὁ πατὴρ διαθῆται ἐὰν ἀποθάνωσιν οἱ παῖδες πρὶν ἡβῆσαι , κυρίαν εἶναι .\nΝΟΜΟΣ .\n\nὅ τι ἂν γνησίων ὄντων υἱέων ὁ πατὴρ διαθῆται ἐὰν ἀποθάνωσιν οἱ υἱεῖς πρὶν ἐπὶ δίετες ἡβᾶν , τὴν τοῦ πατρὸς διαθήκην κυρίαν εἶναι .",
+      "translation": "Note , too , the following law , that a will shall be valid which a father makes , even though he has sons lawfully born , provided the sons die before they reach the age of manhood .\nThe Law\n\nWhatsoever will a father shall make , while he has lawfully born sons , if the sons die within two years after having reached the age of manhood , that father ’ s will shall be valid ."
+    },
+    {
+      "id": "25",
+      "label": "Section 25",
+      "chapter": null,
+      "original": "οὐκοῦν ὁπότε ζῶσιν , ἄκυρος μὲν ἡ διαθήκη ἐστίν , ἥν φασιν οὗτοι τὸν πατέρα καταλιπεῖν , παρὰ πάντας δὲ τοὺς νόμους μεμαρτύρηκε Στέφανος οὑτοσὶ τὰ ψευδῆ , ὡς ἀντίγραφά ἐστι τῆς διαθήκης τῆς Πασίωνος · πῶς γὰρ σὺ οἶσθα , καὶ ποῦ παραγενόμενος διατιθεμένῳ τῷ πατρί ; κακοτεχνῶν δὲ φαίνει περὶ τὰς δίκας , τὰ ψευδῆ μὲν αὐτὸς μαρτυρῶν ἑτοίμως , κλέπτων δὲ τὰς ἀληθεῖς μαρτυρίας , ἐξαπατῶν δὲ τοὺς δικαστάς , συνιστάμενος δʼ ἐπὶ ταῖς δίκαις . οἱ δὲ νόμοι καὶ περὶ τῶν τοιούτων γραφὴν πεποιήκασιν .",
+      "translation": "Well then , seeing that the sons are alive , the will which these men say my father left is invalid , and this man Stephanus has borne false witness in defiance of all the laws , in declaring that the document is a copy of Pasio ’ s will . ( To Stephanus .) Why , how do you know that it is ? Where were you ever present when my father made it ? You are shown to have been guilty of trickery in the suit , to have given false witness yourself without scruple , to have stolen depositions which supported the truth , to have misled the jury , and to have entered into a conspiracy to defeat justice . But the laws have provided criminal suits for actions such as these ."
+    },
+    {
+      "id": "26",
+      "label": "Section 26",
+      "chapter": null,
+      "original": "καί μοι ἀνάγνωθι τὸν νόμον .\nΝΟΜΟΣ .\n\nἐάν τις συνιστῆται , ἢ συνδεκάζῃ τὴν ἡλιαίαν ἢ τῶν δικαστηρίων τι τῶν Ἀθήνησιν ἢ τὴν βουλὴν ἐπὶ δωροδοκίᾳ χρήματα διδοὺς ἢ δεχόμενος , ἢ ἑταιρείαν συνιστῇ ἐπὶ καταλύσει τοῦ δήμου , ἢ συνήγορος ὢν λαμβάνῃ χρήματα ἐπὶ ταῖς δίκαις ταῖς ἰδίαις ἢ δημοσίαις , τούτων εἶναι τὰς γραφὰς πρὸς τοὺς θεσμοθέτας .",
+      "translation": "( To the clerk .) Read the law , please .\nThe Law\n\nIf any man enter into a conspiracy , or join in seeking to bribe the Heliaea or any of the courts in Athens , or the Senate , by giving or receiving money for corrupt ends , or shall organize a clique for the overthrow of the democracy , or , while serving as public advocate , shall accept money in any suit , private or public , criminal suits shall be entered for these acts before the Thesmothetae ."
+    },
+    {
+      "id": "27",
+      "label": "Section 27",
+      "chapter": null,
+      "original": "ἡδέως ἂν τοίνυν ὑμᾶς ἐροίμην ἐπὶ τούτοις ἅπασι , κατὰ ποίους νόμους ὀμωμοκότες δικάζετε , πότερα κατὰ τοὺς τῆς πόλεως ἢ καθʼ οὓς Φορμίων αὑτῷ νομοθετεῖ . ἐγὼ μὲν τοίνυν τούτους παρέχομαι ὑμῖν , καὶ ἐξελέγχω αὐτοὺς ἀμφοτέρους παραβεβηκότας , Φορμίωνα μὲν ἐξ ἀρχῆς ἀδικήσαντα ἡμᾶς καὶ ἀποστερήσαντα τὰ χρήματα , ἃ ὁ πατὴρ ἡμῖν κατέλιπεν καὶ ἐμίσθωσε τούτῳ μετὰ τῆς τραπέζης καὶ τοῦ ἐργαστηρίου , Στέφανον δὲ τουτονὶ τὰ ψευδῆ μεμαρτυρηκότα καὶ παρὰ τὸν νόμον .",
+      "translation": "So , in the light of all these things , I should like to ask you in accordance with what laws you have sworn to give judgement : whether according to the laws of the state , or according to the laws which Phormio enacts for himself . I bring before you , then , these laws , and I prove that both these men have transgressed them , Phormio by having at the outset wronged me and robbed me of the money which my father left me , and which that father leased to Phormio together with the bank and the manufactory [*] ; Stephanus here , by having given false testimony , and given it in defiance of the law ."
+    },
+    {
+      "id": "28",
+      "label": "Section 28",
+      "chapter": null,
+      "original": "ἄξιον τοίνυν , ὦ ἄνδρες δικασταί , καὶ τόδε ἐνθυμηθῆναι , ὅτι διαθήκης οὐδεὶς πώποτε ἀντίγραφα ἐποιήσατο , ἀλλὰ συγγραφῶν μέν , ἵνα εἰδῶσι καὶ μὴ παραβαίνωσι , διαθηκῶν δὲ οὔ . τούτου γὰρ ἕνεκα κατασεσημασμένας καταλείπουσιν οἱ διατιθέμενοι , ἵνα μηδεὶς εἰδῇ ἃ διατίθενται . πῶς οὖν ὑμεῖς ἴστε ὅτι ἀντίγραφά ἐστιν τῶν διαθηκῶν τῶν Πασίωνος τὰ ἐν τῷ γραμματείῳ γεγραμμένα ;\nδέομαι οὖν ὑμῶν ἁπάντων , ὦ ἄνδρες δικασταί , καὶ ἱκετεύω βοηθῆσαι μὲν ἐμοί , τιμωρήσασθαι δὲ τοὺς ἑτοίμως οὕτως τὰ ψευδῆ μαρτυροῦντας , ὑπέρ τε ὑμῶν αὐτῶν καὶ ἐμοῦ καὶ τοῦ δικαίου καὶ τῶν νόμων .",
+      "translation": "Another thing also , men of the jury , deserves to be borne in mind , that no one ever makes a copy of a will ; they make copies of contracts , that they may know the terms and not violate them ; but not of wills . For this is the very reason why the testators leave a will — that no man may know how they are disposing of their property . How , then , do you people know that what is written in the document is a copy of Pasio ’ s will ?\nI beseech and implore you all , men of the jury , to come to my aid and to punish those who thus without scruple have given false testimony , for your own sakes , for mine , for the sake of justice and the laws ."
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": "against-evergus-and-mnesibulus-5s4qpq"
+}

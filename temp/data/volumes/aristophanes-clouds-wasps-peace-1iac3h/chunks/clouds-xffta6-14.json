@@ -1,0 +1,52 @@
+{
+  "volumeSlug": "aristophanes-clouds-wasps-peace-1iac3h",
+  "volumeTitle": "Clouds. Wasps. Peace",
+  "authorDisplay": "Aristophanes",
+  "authors": [
+    "Aristophanes"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "clouds-xffta6-14",
+  "label": "Clouds (Section 1506 - Section 1510)",
+  "partId": "clouds-xffta6",
+  "partTitle": "Clouds",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Νεφέλαι",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Clouds",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1506",
+      "label": "Section 1506",
+      "chapter": null,
+      "original": "τί γὰρ μαθόντες τοὺς θεοὺς ὑβρίζετε ,",
+      "translation": "For what has come into your heads that you acted insolently toward the gods , and pried into the seat of the moon ?"
+    },
+    {
+      "id": "1508",
+      "label": "Section 1508",
+      "chapter": null,
+      "original": "δίωκε βάλλε παῖε , πολλῶν οὕνεκα ,",
+      "translation": "[*] Chase , pelt , smite them , for many reasons , but especially because you know that they offended against the gods !"
+    },
+    {
+      "id": "1510",
+      "label": "Section 1510",
+      "chapter": null,
+      "original": "ἡγεῖσθʼ ἔξω · κεχόρευται γὰρ",
+      "translation": "Lead the way out ; for we have sufficiently acted as chorus for today ."
+    }
+  ],
+  "prevChunkSlug": "clouds-xffta6-13",
+  "nextChunkSlug": null
+}

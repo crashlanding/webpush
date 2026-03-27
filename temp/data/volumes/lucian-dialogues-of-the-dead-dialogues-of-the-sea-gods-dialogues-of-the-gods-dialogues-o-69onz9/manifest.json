@@ -1,0 +1,178 @@
+{
+  "loebNumber": 431,
+  "sortOrder": 431,
+  "slug": "lucian-dialogues-of-the-dead-dialogues-of-the-sea-gods-dialogues-of-the-gods-dialogues-o-69onz9",
+  "title": "Dialogues of the Dead. Dialogues of the Sea-Gods. Dialogues of the Gods. Dialogues of the Courtesans",
+  "volumeLabel": "Dialogues of the Dead. Dialogues of the Sea-Gods. Dialogues of the Gods. Dialogues of the Courtesans",
+  "authorDisplay": "Lucian",
+  "authors": [
+    "Lucian"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Dialogues of the Dead. Dialogues of the Sea-Gods. Dialogues of the Gods. Dialogues of the Courtesans, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "dialogues-of-the-dead-1ra87v",
+  "readyChunkCount": 4,
+  "contents": [
+    {
+      "id": "dialogues-of-the-dead-1ra87v",
+      "title": "Dialogues of the Dead",
+      "status": "ready",
+      "sectionCount": 81,
+      "chunkSlug": "dialogues-of-the-dead-1ra87v",
+      "chunks": [
+        {
+          "slug": "dialogues-of-the-dead-1ra87v",
+          "label": "Dialogues of the Dead",
+          "partId": "dialogues-of-the-dead-1ra87v",
+          "partTitle": "Dialogues of the Dead",
+          "sectionCount": 81,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "dialogues-of-the-sea-gods-1nmaq1",
+      "title": "Dialogues of the Sea-Gods",
+      "status": "ready",
+      "sectionCount": 40,
+      "chunkSlug": "dialogues-of-the-sea-gods-1nmaq1",
+      "chunks": [
+        {
+          "slug": "dialogues-of-the-sea-gods-1nmaq1",
+          "label": "Dialogues of the Sea-Gods",
+          "partId": "dialogues-of-the-sea-gods-1nmaq1",
+          "partTitle": "Dialogues of the Sea-Gods",
+          "sectionCount": 40,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "dialogues-of-the-gods-1raacb",
+      "title": "Dialogues of the Gods",
+      "status": "ready",
+      "sectionCount": 40,
+      "chunkSlug": "dialogues-of-the-gods-1raacb",
+      "chunks": [
+        {
+          "slug": "dialogues-of-the-gods-1raacb",
+          "label": "Dialogues of the Gods",
+          "partId": "dialogues-of-the-gods-1raacb",
+          "partTitle": "Dialogues of the Gods",
+          "sectionCount": 40,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "dialogues-of-the-courtesans-1l6u9d",
+      "title": "Dialogues of the Courtesans",
+      "status": "ready",
+      "sectionCount": 59,
+      "chunkSlug": "dialogues-of-the-courtesans-1l6u9d",
+      "chunks": [
+        {
+          "slug": "dialogues-of-the-courtesans-1l6u9d",
+          "label": "Dialogues of the Courtesans",
+          "partId": "dialogues-of-the-courtesans-1l6u9d",
+          "partTitle": "Dialogues of the Courtesans",
+          "sectionCount": 59,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "dialogues-of-the-dead-1ra87v",
+      "label": "Dialogues of the Dead",
+      "partId": "dialogues-of-the-dead-1ra87v",
+      "partTitle": "Dialogues of the Dead",
+      "sectionCount": 81,
+      "status": "ready"
+    },
+    {
+      "slug": "dialogues-of-the-sea-gods-1nmaq1",
+      "label": "Dialogues of the Sea-Gods",
+      "partId": "dialogues-of-the-sea-gods-1nmaq1",
+      "partTitle": "Dialogues of the Sea-Gods",
+      "sectionCount": 40,
+      "status": "ready"
+    },
+    {
+      "slug": "dialogues-of-the-gods-1raacb",
+      "label": "Dialogues of the Gods",
+      "partId": "dialogues-of-the-gods-1raacb",
+      "partTitle": "Dialogues of the Gods",
+      "sectionCount": 40,
+      "status": "ready"
+    },
+    {
+      "slug": "dialogues-of-the-courtesans-1l6u9d",
+      "label": "Dialogues of the Courtesans",
+      "partId": "dialogues-of-the-courtesans-1l6u9d",
+      "partTitle": "Dialogues of the Courtesans",
+      "sectionCount": 59,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "dialogues-of-the-dead-1ra87v",
+      "partTitle": "Dialogues of the Dead",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Νεκρικοὶ Διάλογοι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg066.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Dialogues of the Dead",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg066.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "dialogues-of-the-sea-gods-1nmaq1",
+      "partTitle": "Dialogues of the Sea-Gods",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἐνάλιοι Διάλογοι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg067.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Dialogues of the Gods",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg067.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "dialogues-of-the-gods-1raacb",
+      "partTitle": "Dialogues of the Gods",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἐνάλιοι Διάλογοι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg067.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Dialogues of the Gods",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg067.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "dialogues-of-the-courtesans-1l6u9d",
+      "partTitle": "Dialogues of the Courtesans",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἑταιρικοὶ Διάλογοι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg069.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Dialogues of the Courtesans",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg069.perseus-eng3/"
+      }
+    }
+  ]
+}

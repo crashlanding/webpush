@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-suppliant-women-electra-heracles-k10p1d",
+  "volumeTitle": "Suppliant Women. Electra. Heracles",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "electra-wuse-6",
+  "label": "Electra (Section 669 - Section 800)",
+  "partId": "electra-wuse",
+  "partTitle": "Electra",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἠλέκτρα",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Electra",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "669",
+      "label": "Section 669",
+      "chapter": null,
+      "original": "στείχοιμʼ ἄν , εἴ τις ἡγεμὼν γίγνοιθʼ ὁδοῦ .",
+      "translation": "I would go , if some one would show me the way ."
+    },
+    {
+      "id": "670",
+      "label": "Section 670",
+      "chapter": null,
+      "original": "καὶ μὴν ἐγὼ πέμποιμʼ ἂν οὐκ ἀκουσίως .",
+      "translation": "Yes , I can escort you myself , not against my will ."
+    },
+    {
+      "id": "671",
+      "label": "Section 671",
+      "chapter": null,
+      "original": "ὦ Ζεῦ Πατρῷε , καὶ Τροπαῖʼ ἐχθρῶν γενοῦ —",
+      "translation": "O Zeus , god of my fathers , be also the vanquisher of my enemies —"
+    },
+    {
+      "id": "672",
+      "label": "Section 672",
+      "chapter": null,
+      "original": "οἴκτιρέ θʼ ἡμᾶς · οἰκτρὰ γὰρ πεπόνθαμεν —",
+      "translation": "And have pity on us ; for we have suffered pitiably —"
+    },
+    {
+      "id": "673",
+      "label": "Section 673",
+      "chapter": null,
+      "original": "οἴκτιρε δῆτα σούς γε φύντας ἐκγόνους .",
+      "translation": "Yes , indeed , have pity on your own descendants ."
+    },
+    {
+      "id": "674",
+      "label": "Section 674",
+      "chapter": null,
+      "original": "Ἥρα τε , βωμῶν ἣ Μυκηναίων κρατεῖς —",
+      "translation": "And Hera , you who rule Mycenae ’ s altars —"
+    },
+    {
+      "id": "675",
+      "label": "Section 675",
+      "chapter": null,
+      "original": "νίκην δὸς ἡμῖν , εἰ δίκαιʼ αἰτούμεθα .",
+      "translation": "Give us victory , if we are asking for what is right ."
+    },
+    {
+      "id": "676",
+      "label": "Section 676",
+      "chapter": null,
+      "original": "δὸς δῆτα πατρὸς τοῖσδε τιμωρὸν δίκην .",
+      "translation": "Yes , indeed , give them the right of vengeance for their father ."
+    },
+    {
+      "id": "677",
+      "label": "Section 677",
+      "chapter": null,
+      "original": "σύ τʼ , ὦ κάτω γῆς ἀνοσίως οἰκῶν πάτερ —",
+      "translation": "You too , father , living below the earth through an unholy deed —"
+    },
+    {
+      "id": "678",
+      "label": "Section 678",
+      "chapter": null,
+      "original": "καὶ Γαῖʼ ἄνασσα , χεῖρας ᾗ δίδωμʼ ἐμὰς —",
+      "translation": "And Lady Earth , to whom I give my hands —"
+    },
+    {
+      "id": "679",
+      "label": "Section 679",
+      "chapter": null,
+      "original": "ἄμυνʼ ἄμυνε τοῖσδε φιλτάτοις τέκνοις .",
+      "translation": "Defend , defend these , your dearest children ."
+    },
+    {
+      "id": "680",
+      "label": "Section 680",
+      "chapter": null,
+      "original": "νῦν πάντα νεκρὸν ἐλθὲ σύμμαχον λαβών .",
+      "translation": "Now come and bring with you all the dead as allies ."
+    },
+    {
+      "id": "681",
+      "label": "Section 681",
+      "chapter": null,
+      "original": "οἵπερ γε σὺν σοὶ Φρύγας ἀνήλωσαν δορὶ —",
+      "translation": "Those who destroyed the Trojans in war with you —"
+    },
+    {
+      "id": "683",
+      "label": "Section 683",
+      "chapter": null,
+      "original": "χὥσοι στυγοῦσιν ἀνοσίους μιάστορας .",
+      "translation": "Do you hear me , you who suffered dreadful things from my mother ?"
+    },
+    {
+      "id": "682",
+      "label": "Section 682",
+      "chapter": null,
+      "original": "ἤκουσας , ὦ δείνʼ ἐξ ἐμῆς μητρὸς παθών ;",
+      "translation": "And all who hate the unholy and polluted ."
+    },
+    {
+      "id": "684",
+      "label": "Section 684",
+      "chapter": null,
+      "original": "πάντʼ , οἶδʼ , ἀκούει τάδε πατήρ · στείχειν δʼ ἀκμή .",
+      "translation": "Your father hears everything , I know ; but it is time to be on our way ."
+    },
+    {
+      "id": "685",
+      "label": "Section 685",
+      "chapter": null,
+      "original": "καί σοι προφωνῶ πρὸς τάδʼ Αἴγισθον θανεῖν ·",
+      "translation": "And I tell you therefore that Aegisthus is to die ; if you fall dead in the struggle , I am also dead , do not count me as alive ; for I will strike my heart with a two-edged sword . I will go indoors and make things ready there ."
+    },
+    {
+      "id": "690",
+      "label": "Section 690",
+      "chapter": null,
+      "original": "ὡς ἢν μὲν ἔλθῃ πύστις εὐτυχὴς σέθεν ,",
+      "translation": "So that if a good report comes from you , the whole house will cry aloud in triumph ; but , if you die , it will be the opposite of that . These are my words to you ."
+    },
+    {
+      "id": "693",
+      "label": "Section 693",
+      "chapter": null,
+      "original": "πάντʼ οἶδα .",
+      "translation": "I know it all ."
+    },
+    {
+      "id": "693b",
+      "label": "Section 693b",
+      "chapter": null,
+      "original": "πρὸς τάδʼ ἄνδρα γίγνεσθαί σε χρή .",
+      "translation": "Therefore you must be a man . Exeunt Orestes , Pylades , and Old Man . And you , women , please take care to give"
+    },
+    {
+      "id": "695",
+      "label": "Section 695",
+      "chapter": null,
+      "original": "κραυγὴν ἀγῶνος τοῦδε · φρουρήσω δʼ ἐγὼ",
+      "translation": "a shout in signal of this contest . I will keep a sword ready , holding it in my hand , for I will not ever , if defeated , submit to my enemies the right to insult my body . Exit Electra ."
+    },
+    {
+      "id": "1.699",
+      "label": "Section 1.699",
+      "chapter": null,
+      "original": "ἀταλᾶς ὑπὸ ματρὸς ἄρνʼ",
+      "translation": "The story remains in old legends"
+    },
+    {
+      "id": "1.700",
+      "label": "Section 1.700",
+      "chapter": null,
+      "original": "ὀρέων ποτὲ κληδὼν ἐν",
+      "translation": "that Pan , the keeper of wild beasts , breathing sweet-voiced music on his well-joined pipes , once brought from its tender mother on Argive hills"
+    },
+    {
+      "id": "1.705",
+      "label": "Section 1.705",
+      "chapter": null,
+      "original": "χρυσέαν καλλιπλόκαμον",
+      "translation": "a lamb with beautiful golden fleece . A herald stood on the stone platform and cried aloud , To assembly , Mycenaeans , go to assembly"
+    },
+    {
+      "id": "1.710",
+      "label": "Section 1.710",
+      "chapter": null,
+      "original": "ὀψόμενοι τυράννων",
+      "translation": "to see the omens given to our blessed rulers . . . . and they honored the house of Atreus ."
+    },
+    {
+      "id": "1.713",
+      "label": "Section 1.713",
+      "chapter": null,
+      "original": "θυμέλαι δʼ ἐπίτναντο χρυ-",
+      "translation": "The altars of beaten gold were set out ; and through the town the"
+    },
+    {
+      "id": "1.715",
+      "label": "Section 1.715",
+      "chapter": null,
+      "original": "σελαγεῖτο δʼ ἀνʼ ἄστυ πῦρ",
+      "translation": "altar fires of the Argives blazed ; the flute , handmaid of the Muse ’ s song , sounded its note sweetly , and lovely songs of the golden lamb swelled forth , saying that Thyestes had the luck ; for he"
+    },
+    {
+      "id": "1.720",
+      "label": "Section 1.720",
+      "chapter": null,
+      "original": "Θυέστου · κρυφίαις γὰρ εὐ-",
+      "translation": "persuaded Atreus ’ own wife to secret love , and carried off to his house the portent ; coming before the assembly he declared that he had in his"
+    },
+    {
+      "id": "1.725",
+      "label": "Section 1.725",
+      "chapter": null,
+      "original": "λον κατὰ δῶμα ποίμναν .",
+      "translation": "house the horned sheep with fleece of gold ."
+    },
+    {
+      "id": "2.726",
+      "label": "Section 2.726",
+      "chapter": null,
+      "original": "τότε δὴ τότε φαεν-",
+      "translation": "Then , it was then that Zeus changed the radiant paths of the stars , and the light of the sun , and the"
+    },
+    {
+      "id": "2.730",
+      "label": "Section 2.730",
+      "chapter": null,
+      "original": "λευκόν τε πρόσωπον ἀ-",
+      "translation": "bright face of dawn ; and the sun drove across the western back of the sky with hot flame from heaven ’ s fires , while the rain-clouds went northward and Ammon ’ s"
+    },
+    {
+      "id": "2.735",
+      "label": "Section 2.735",
+      "chapter": null,
+      "original": "δραι φθίνουσʼ ἀπειρόδροσοι ,",
+      "translation": "lands grew parched and faint , not knowing moisture , robbed of heaven ’ s fairest showers of rain ."
+    },
+    {
+      "id": "2.737",
+      "label": "Section 2.737",
+      "chapter": null,
+      "original": "λέγεται , τὰν δὲ πί-",
+      "translation": "It is said , but I have small belief in it , that the sun turned round his glowing"
+    },
+    {
+      "id": "2.740",
+      "label": "Section 2.740",
+      "chapter": null,
+      "original": "χρυσωπὸν ἕδραν ἀλλά-",
+      "translation": "throne of gold , changing it to the misfortune of mankind , for the punishment of mortals . But tales that frighten men are profitable for service to the gods ; of whom you had no thought , when you"
+    },
+    {
+      "id": "2.745",
+      "label": "Section 2.745",
+      "chapter": null,
+      "original": "αν . ὧν οὐ μνασθεῖσα πόσιν",
+      "translation": "killed your husband , you who are the relative of famous brothers ."
+    },
+    {
+      "id": "747",
+      "label": "Section 747",
+      "chapter": null,
+      "original": "ἔα ἔα ·",
+      "translation": "Oh , oh ! My friends , did you hear a noise — or did an empty notion come to me ?— like the underground rumbling from Zeus ? Look , the breeze rises , bringing with it a sign ."
+    },
+    {
+      "id": "750",
+      "label": "Section 750",
+      "chapter": null,
+      "original": "δέσποινʼ , ἄμειψον δώματʼ , Ἠλέκτρα , τάδε .",
+      "translation": "Mistress , Electra , leave the house !"
+    },
+    {
+      "id": "751",
+      "label": "Section 751",
+      "chapter": null,
+      "original": "φίλαι , τί χρῆμα ; πῶς ἀγῶνος ἥκομεν ;",
+      "translation": "My friends , what is it ? How do we stand in the contest ?"
+    },
+    {
+      "id": "752",
+      "label": "Section 752",
+      "chapter": null,
+      "original": "οὐκ οἶδα πλὴν ἕν · φόνιον οἰμωγὴν κλύω .",
+      "translation": "I only know this ; I hear a wailing that means bloodshed ."
+    },
+    {
+      "id": "753",
+      "label": "Section 753",
+      "chapter": null,
+      "original": "ἤκουσα κἀγώ , τηλόθεν μέν , ἀλλʼ ὅμως .",
+      "translation": "I heard it also , far off , but still heard ."
+    },
+    {
+      "id": "754",
+      "label": "Section 754",
+      "chapter": null,
+      "original": "μακρὰν γὰρ ἕρπει γῆρυς , ἐμφανής γε μήν .",
+      "translation": "Yes , the sound is coming a long way , but it is clear ."
+    },
+    {
+      "id": "755",
+      "label": "Section 755",
+      "chapter": null,
+      "original": "Ἀργεῖος ὁ στεναγμός · ἦ φίλων ἐμῶν ;",
+      "translation": "The groan was of an Argive ; was it from my friends ?"
+    },
+    {
+      "id": "756",
+      "label": "Section 756",
+      "chapter": null,
+      "original": "οὐκ οἶδα · πᾶν γὰρ μείγνυται μέλος βοῆς .",
+      "translation": "I don ’ t know ; for the whole tune of the shout is confused ."
+    },
+    {
+      "id": "757",
+      "label": "Section 757",
+      "chapter": null,
+      "original": "σφαγὴν ἀυτεῖς τήνδε μοι · τί μέλλομεν ;",
+      "translation": "You are calling out to me my death ; why do I delay ?"
+    },
+    {
+      "id": "758",
+      "label": "Section 758",
+      "chapter": null,
+      "original": "ἔπισχε , τρανῶς ὡς μάθῃς τύχας σέθεν .",
+      "translation": "Hold back , to learn your fortune clearly ."
+    },
+    {
+      "id": "759",
+      "label": "Section 759",
+      "chapter": null,
+      "original": "οὐκ ἔστι · νικώμεσθα · ποῦ γὰρ ἄγγελοι ;",
+      "translation": "No , no ; we are vanquished ; where are the messengers ?"
+    },
+    {
+      "id": "760",
+      "label": "Section 760",
+      "chapter": null,
+      "original": "ἥξουσιν · οὔτοι βασιλέα φαῦλον κτανεῖν .",
+      "translation": "They will come ; it is no trivial matter to kill a king ."
+    },
+    {
+      "id": "761",
+      "label": "Section 761",
+      "chapter": null,
+      "original": "ὦ καλλίνικοι παρθένοι Μυκηνίδες ,",
+      "translation": "O victorious maidens of Mycenae , I report to all his friends that Orestes has conquered , and Aegisthus , the murderer of Agamemnon , lies on the ground ; but we must offer prayers to the gods ."
+    },
+    {
+      "id": "765",
+      "label": "Section 765",
+      "chapter": null,
+      "original": "τίς δʼ εἶ σύ ; πῶς μοι πιστὰ σημαίνεις τάδε ;",
+      "translation": "Who are you ? How trustworthy is your announcement ?"
+    },
+    {
+      "id": "766",
+      "label": "Section 766",
+      "chapter": null,
+      "original": "οὐκ οἶσθʼ ἀδελφοῦ μʼ εἰσορῶσα πρόσπολον ;",
+      "translation": "Don ’ t you know your brother ’ s servant when you look at me ?"
+    },
+    {
+      "id": "767",
+      "label": "Section 767",
+      "chapter": null,
+      "original": "ὦ φίλτατʼ , ἔκ τοι δείματος δυσγνωσίαν",
+      "translation": "O best of friends ! I could not recognize your face out of fear ; but now I know you well . What are you saying ? Is my father ’ s hated murderer dead ?"
+    },
+    {
+      "id": "770",
+      "label": "Section 770",
+      "chapter": null,
+      "original": "τέθνηκε · δίς σοι ταὔθʼ , ἃ γοῦν βούλῃ , λέγω .",
+      "translation": "He is dead ; I am telling you twice what you certainly want to hear ."
+    },
+    {
+      "id": "771",
+      "label": "Section 771",
+      "chapter": null,
+      "original": "ὦ θεοί , Δίκη τε πάνθʼ ὁρῶσʼ , ἦλθές ποτε .",
+      "translation": "O gods , and all-seeing justice , at last you have come . In what way and by what form of death did he kill Thyestes ’ son ? I would like to learn ."
+    },
+    {
+      "id": "774",
+      "label": "Section 774",
+      "chapter": null,
+      "original": "ἐπεὶ μελάθρων τῶνδʼ ἀπήραμεν πόδα ,",
+      "translation": "After we had left this house ,"
+    },
+    {
+      "id": "775",
+      "label": "Section 775",
+      "chapter": null,
+      "original": "ἐσβάντες ᾖμεν δίκροτον εἰς ἁμαξιτὸν",
+      "translation": "we stepped onto the broad highway and went to the place where the famous King of Mycenae was . He turned out to be walking in a well-watered garden , plucking a wreath of tender myrtle-sprays for his head ; when he saw us , he called out , Welcome , strangers ! Who are you"
+    },
+    {
+      "id": "780",
+      "label": "Section 780",
+      "chapter": null,
+      "original": "πόθεν πορεύεσθʼ ; ἔστε τʼ ἐκ ποίας χθονός ;",
+      "translation": "and from where do you come ? from what country ? Orestes said , We are Thessalians , going to the Alpheus river to sacrifice to Olympian Zeus . When Aegisthus heard that , he said , You must be my guests for the feast"
+    },
+    {
+      "id": "785",
+      "label": "Section 785",
+      "chapter": null,
+      "original": "θοίνης γενέσθαι · τυγχάνω δὲ βουθυτῶν",
+      "translation": "with us now , for I happen to be sacrificing an ox to the Nymphs ; and if you get out of bed at dawn , it will make no difference to you . But let us go within — while he was addressing us , he took us by the hand and led us off the road — you must not refuse ."
+    },
+    {
+      "id": "790",
+      "label": "Section 790",
+      "chapter": null,
+      "original": "ἐπεὶ δʼ ἐν οἴκοις ἦμεν , ἐννέπει τάδε ·",
+      "translation": "And when we were in the house , he gave the command : Let someone bring water immediately for my guests , so that they may stand around the altar near the basin . But Orestes said : Just now we purified ourselves in clean water from the river ’ s streams ."
+    },
+    {
+      "id": "795",
+      "label": "Section 795",
+      "chapter": null,
+      "original": "εἰ δὲ ξένους ἀστοῖσι συνθύειν χρεών ,",
+      "translation": "So if strangers must join in the sacrifice with citizens , Aegisthus , we are ready and will not refuse , lord . So they ended their public conversation . The slaves who formed the master ’ s bodyguard laid aside their spears , and all applied their hands to the work ."
+    },
+    {
+      "id": "800",
+      "label": "Section 800",
+      "chapter": null,
+      "original": "οἳ μὲν σφαγεῖον ἔφερον , οἳ δʼ ᾖρον κανᾶ ,",
+      "translation": "Some brought the bowl to catch the blood , others took up baskets , while others kindled fire and set cauldrons around the hearth , and the whole roof rang . Then your mother ’ s bed-fellow took barley for sprinkling , and cast it upon the altar with these words ,"
+    }
+  ],
+  "prevChunkSlug": "electra-wuse-5",
+  "nextChunkSlug": "electra-wuse-7"
+}

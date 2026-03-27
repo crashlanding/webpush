@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-stichus-trinummus-truculentus-tale-of-a-travelling-bag-fragments-bj13xq",
+  "volumeTitle": "Stichus. Trinummus. Truculentus. Tale of a Travelling Bag. Fragments",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "truculentus-z2dyee-8",
+  "label": "Truculentus (Section 4.2.715 - Section 4.3.784)",
+  "partId": "truculentus-z2dyee",
+  "partTitle": "Truculentus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Truculentus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi020.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Truculentus, or The Churl",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi020.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "4.2.715",
+      "label": "Section 4.2.715",
+      "chapter": null,
+      "original": "ego híc interím restitáns praesidébo ,",
+      "translation": "I meantime will stay here behind and watch at this door so long as he is thus transporting his presents home to you ; nor , in the meantime , will I admit any one from there to you who may cause you annoyance . Do you go on , just as you please . Are you not diddling these fellows ?"
+    },
+    {
+      "id": "4.2.719",
+      "label": "Section 4.2.719",
+      "chapter": null,
+      "original": "Quis ístest , Astaphium , índica , qui périt ?",
+      "translation": "How now , Astaphium , tell me , who is this fellow that ’ s on the road to ruin ?"
+    },
+    {
+      "id": "4.2.719b",
+      "label": "Section 4.2.719b",
+      "chapter": null,
+      "original": "Amabo , hicín tu eras ?",
+      "translation": "Prithee , were you here ?"
+    },
+    {
+      "id": "4.2.720",
+      "label": "Section 4.2.720",
+      "chapter": null,
+      "original": "Moléstusne súm ?",
+      "translation": "What — am I troublesome ?"
+    },
+    {
+      "id": "4.2.720b",
+      "label": "Section 4.2.720b",
+      "chapter": null,
+      "original": "Nunc magís quam fuísti ,",
+      "translation": "More now than you were ; for unless a person is of use to us , he is troublesome to us . But , prithee , do lend me your attention , that I may say what I want ."
+    },
+    {
+      "id": "4.2.723",
+      "label": "Section 4.2.723",
+      "chapter": null,
+      "original": "Nám quid est ? núm mea réfert ?",
+      "translation": "Why , what is it ? Does it concern myself ?"
+    },
+    {
+      "id": "4.2.723b",
+      "label": "Section 4.2.723b",
+      "chapter": null,
+      "original": "Non mússito .",
+      "translation": "Not a rap . But what hauls he is making present of in-doors ."
+    },
+    {
+      "id": "4.2.724b",
+      "label": "Section 4.2.724b",
+      "chapter": null,
+      "original": "Quíd ? amator novos quíspiam ?",
+      "translation": "How ? Some new lover ?"
+    },
+    {
+      "id": "4.2.725",
+      "label": "Section 4.2.725",
+      "chapter": null,
+      "original": "Íntegrum et plénum adortást thensaurúm .",
+      "translation": "A fresh one , and a brimming treasure she has hit upon ."
+    },
+    {
+      "id": "4.2.725b",
+      "label": "Section 4.2.725b",
+      "chapter": null,
+      "original": "Quis est ?",
+      "translation": "Who is he ?"
+    },
+    {
+      "id": "4.2.726",
+      "label": "Section 4.2.726",
+      "chapter": null,
+      "original": "Éloquar , sed tú taceto . nóstin tu hunc Strabácem ?",
+      "translation": "I ’ ll tell you , but you be mum . Don ’ t you know this Strabax ?"
+    },
+    {
+      "id": "4.2.726b",
+      "label": "Section 4.2.726b",
+      "chapter": null,
+      "original": "Quidni ?",
+      "translation": "Why shouldn ’ t I ?"
+    },
+    {
+      "id": "4.2.727",
+      "label": "Section 4.2.727",
+      "chapter": null,
+      "original": "Sólus summam núnc habet hic ápud nos , nunc is est fúndus nobis .",
+      "translation": "He alone rules the roast here at our house . He just now is a landed estate to us . With right good spirit is he wantonly wasting away his property ."
+    },
+    {
+      "id": "4.2.728b",
+      "label": "Section 4.2.728b",
+      "chapter": null,
+      "original": "Perit hercle , ego idem ⋯",
+      "translation": "He ’ s on the road to ruin ; i ’ faith , I , too , have come to ruin ."
+    },
+    {
+      "id": "4.2.730",
+      "label": "Section 4.2.730",
+      "chapter": null,
+      "original": "Stúltus es , qui facta infecta facere verbis postules .",
+      "translation": "You are a simpleton , to expect with words to make undone what is done ."
+    },
+    {
+      "id": "4.2.731",
+      "label": "Section 4.2.731",
+      "chapter": null,
+      "original": "Thetis quoque etiam lamentando pausam fecit filio .",
+      "translation": "Even Thetis , too , in weeping , made lamentation for her son ."
+    },
+    {
+      "id": "4.2.732",
+      "label": "Section 4.2.732",
+      "chapter": null,
+      "original": "Non ego nunc intro ad vos mittar ?",
+      "translation": "Can I not now be admitted in-doors to your house ?"
+    },
+    {
+      "id": "4.2.732b",
+      "label": "Section 4.2.732b",
+      "chapter": null,
+      "original": "Quidum quam miles magis ?",
+      "translation": "Why so rather than the Captain ?"
+    },
+    {
+      "id": "4.2.733",
+      "label": "Section 4.2.733",
+      "chapter": null,
+      "original": "Quia enim plus dedi .",
+      "translation": "Why , because I ’ ve given more ."
+    },
+    {
+      "id": "4.2.733b",
+      "label": "Section 4.2.733b",
+      "chapter": null,
+      "original": "Plus enim es íntro missus , quom dabas :",
+      "translation": "But you were admitted more , when you were giving more ; let those who give , in return for that which they give , enjoy our services ."
+    },
+    {
+      "id": "4.2.735",
+      "label": "Section 4.2.735",
+      "chapter": null,
+      "original": "litteras didicisti : quando scis , sine alios discere .",
+      "translation": "You ’ ve learnt your letters ; since you know them yourself , let others learn them ."
+    },
+    {
+      "id": "4.2.736",
+      "label": "Section 4.2.736",
+      "chapter": null,
+      "original": "Discant , dum mihi commentari liceat , ni oblitus siem .",
+      "translation": "Let them learn , so long as it is allowed me to con my lesson , that I may not forget what I have paid for ."
+    },
+    {
+      "id": "4.2.737",
+      "label": "Section 4.2.737",
+      "chapter": null,
+      "original": "Quid erit interea magistrae , dum tu commentabere ?",
+      "translation": "In the meantime , while you , who are a master , shall be conning your lesson , she , as well , is desirous to con hers ."
+    },
+    {
+      "id": "4.2.738b",
+      "label": "Section 4.2.738b",
+      "chapter": null,
+      "original": "Quid ?",
+      "translation": "How so ?"
+    },
+    {
+      "id": "4.2.738c",
+      "label": "Section 4.2.738c",
+      "chapter": null,
+      "original": "Rem accipere identidem .",
+      "translation": "In receiving money ever and anon ."
+    },
+    {
+      "id": "4.2.739",
+      "label": "Section 4.2.739",
+      "chapter": null,
+      "original": "Dedi equidem hodie : iussi ei quinque argenti deferri minas ,",
+      "translation": "For my own part , this very day I gave five minae of silver to be carried to her ,"
+    },
+    {
+      "id": "4.2.740",
+      "label": "Section 4.2.740",
+      "chapter": null,
+      "original": "praeterea una mína obsonatum .",
+      "translation": "besides one for provisions ."
+    },
+    {
+      "id": "4.2.740b",
+      "label": "Section 4.2.740b",
+      "chapter": null,
+      "original": "Idem istuc delatum scio .",
+      "translation": "I know that the same was brought ; with it we are now enjoying ourselves upon your liberality ."
+    },
+    {
+      "id": "4.2.741b",
+      "label": "Section 4.2.741b",
+      "chapter": null,
+      "original": "Ei , meane ut inimici mei",
+      "translation": "For these enemies of mine here to be devouring my property ! By heavens , I ’ d rather that I were dead than submit to that !"
+    },
+    {
+      "id": "4.2.746",
+      "label": "Section 4.2.746",
+      "chapter": null,
+      "original": "† Stultus quid est aperire .",
+      "translation": "You are a simpleton ."
+    },
+    {
+      "id": "4.2.746b",
+      "label": "Section 4.2.746b",
+      "chapter": null,
+      "original": "Quid iam ?",
+      "translation": "Why so ?"
+    },
+    {
+      "id": "4.2.746c",
+      "label": "Section 4.2.746c",
+      "chapter": null,
+      "original": "Quia pol mavelim",
+      "translation": "Because , I ’ troth , I ’ d rather"
+    },
+    {
+      "id": "4.2.743",
+      "label": "Section 4.2.743",
+      "chapter": null,
+      "original": "mihi inimicos invidere , quam med inimicis meis ;",
+      "translation": "that my enemies should envy me , than I my enemies ; for to envy because it goes well with another , and goes badly with yourself , is wretchedness ."
+    },
+    {
+      "id": "4.2.745",
+      "label": "Section 4.2.745",
+      "chapter": null,
+      "original": "qui invident egent ; illis quibus invidetur , i rem habent .",
+      "translation": "Those who are envious , are in want ; they who are envied , possess property ."
+    },
+    {
+      "id": "4.2.747",
+      "label": "Section 4.2.747",
+      "chapter": null,
+      "original": "Non mei licet obsoni me participem fieri ?",
+      "translation": "May I not be a partaker of the provisions bought with the mina ?"
+    },
+    {
+      "id": "4.2.748",
+      "label": "Section 4.2.748",
+      "chapter": null,
+      "original": "Si volebas participari , auferres dimidium domum .",
+      "translation": "If you wanted to be a partaker , you should have taken half home . For here an account of the receipts is entered just as at Acheron ;"
+    },
+    {
+      "id": "4.2.750",
+      "label": "Section 4.2.750",
+      "chapter": null,
+      "original": "intro accipitur ; quando acceptumst , non potest ferri foras .",
+      "translation": "we take in-doors ; when it ’ s got by us , it can ’ t be carried out of doors . ( Turning on her heel .) Kindly farewell ."
+    },
+    {
+      "id": "4.2.751b",
+      "label": "Section 4.2.751b",
+      "chapter": null,
+      "original": "Resiste .",
+      "translation": "Do stay ."
+    },
+    {
+      "id": "4.2.751c",
+      "label": "Section 4.2.751c",
+      "chapter": null,
+      "original": "Omitte .",
+      "translation": "Let me go ! Leave off !"
+    },
+    {
+      "id": "4.2.751d",
+      "label": "Section 4.2.751d",
+      "chapter": null,
+      "original": "A , mitte intro .",
+      "translation": "Do let me go in ."
+    },
+    {
+      "id": "4.2.751e",
+      "label": "Section 4.2.751e",
+      "chapter": null,
+      "original": "Ad te quidem .",
+      "translation": "Yes , to your own house ,"
+    },
+    {
+      "id": "4.2.752",
+      "label": "Section 4.2.752",
+      "chapter": null,
+      "original": "Immo istoc ad vos volo ire .",
+      "translation": "Aye , but here into your house ."
+    },
+    {
+      "id": "4.2.752b",
+      "label": "Section 4.2.752b",
+      "chapter": null,
+      "original": "Non potest , nimium petis .",
+      "translation": "You cannot go ."
+    },
+    {
+      "id": "4.2.753",
+      "label": "Section 4.2.753",
+      "chapter": null,
+      "original": "Experiri sine —",
+      "translation": "I can , very well . Do let me try ."
+    },
+    {
+      "id": "4.2.753b",
+      "label": "Section 4.2.753b",
+      "chapter": null,
+      "original": "Immo opperire . vis est experirier .",
+      "translation": "No , wait here ; it ’ s sheer violence to try ."
+    },
+    {
+      "id": "4.2.754",
+      "label": "Section 4.2.754",
+      "chapter": null,
+      "original": "Dic me adesse .",
+      "translation": "I ’ d say that you are here , if she wasn ’ t engaged ."
+    },
+    {
+      "id": "4.2.755",
+      "label": "Section 4.2.755",
+      "chapter": null,
+      "original": "Redin an non redis ?",
+      "translation": "Are you going to return or not ?"
+    },
+    {
+      "id": "4.2.755b",
+      "label": "Section 4.2.755b",
+      "chapter": null,
+      "original": "Vocat me quae in me potest plus quam potes .",
+      "translation": "I ’ d return , but a voice is calling me that has more influence with me than you have ."
+    },
+    {
+      "id": "4.2.756",
+      "label": "Section 4.2.756",
+      "chapter": null,
+      "original": "Vno verbo —",
+      "translation": "In one word"
+    },
+    {
+      "id": "4.2.756b",
+      "label": "Section 4.2.756b",
+      "chapter": null,
+      "original": "Eloquere .",
+      "translation": "I ’ ll say it ."
+    },
+    {
+      "id": "4.2.756c",
+      "label": "Section 4.2.756c",
+      "chapter": null,
+      "original": "Mittin me intro ?",
+      "translation": "You ’ ll receive me ?"
+    },
+    {
+      "id": "4.2.756d",
+      "label": "Section 4.2.756d",
+      "chapter": null,
+      "original": "Mendax es , abi .",
+      "translation": "You are telling a lie — be off . One word , you said ; but now three words have you uttered , and those untrue ."
+    },
+    {
+      "id": "4.2.758",
+      "label": "Section 4.2.758",
+      "chapter": null,
+      "original": "Abiit intro , exclusit . egon ut haec mihi patiar fieri ?",
+      "translation": "She ’ s off , and she ’ s gone hence in-doors That I should endure these things to be done to me . By heavens , enticer , with my cries I ’ ll be exposing you to ridicule in the street ,"
+    },
+    {
+      "id": "4.2.760",
+      "label": "Section 4.2.760",
+      "chapter": null,
+      "original": "quae adversum legem accepisti a plurimis pecuniam ;",
+      "translation": "you who , contrary to law , have received money from many a one . Upon my faith , I ’ ll forthwith cause your name to be before every magistrate [*] , and after that I ’ ll sue you for fourfold [*] , you sorceress , you kidnapper of children . By the powers , I ’ ll now disclose all your disgraceful deeds . Worthless creature that I am , who have lost everything I had ! I ’ m become desperate ,"
+    },
+    {
+      "id": "4.2.765",
+      "label": "Section 4.2.765",
+      "chapter": null,
+      "original": "nec mi adeost tantillum pensi iam , quos capiam calceos .",
+      "translation": "and now I haven ’ t the slightest bit of concern what shoes I wear [*] . But why am I trying here ? What , suppose she were to order me to be let in ? I could swear in solemn form that I wouldn ’ t do it if she wished . It ’ s nonsense . If you thump a goad with your fists , your hands are hurt the most . It ’ s no good to be angry at a thing of nothing ; a creature that doesn ’ t value you a straw ."
+    },
+    {
+      "id": "4.2.770",
+      "label": "Section 4.2.770",
+      "chapter": null,
+      "original": "sed quid hoc ést ? pro di immortales , Calliclem video senem ,",
+      "translation": "( Starting .) But what ’ s this ? O immortal Gods , I see old Callicles , him who was my connexion by marriage [*] , bringing two female slaves in bonds , the one the hair-dresser of this Phronesium , the other his own servant-maid . I ’ m greatly alarmed ! inasmuch as one care has so recently taken possession of my heart , I ’ m afraid lest all my former misdeeds should be discovered ."
+    },
+    {
+      "id": "4.3.775",
+      "label": "Section 4.3.775",
+      "chapter": null,
+      "original": "Egon tibi male dícam tibique aut male velim ? ut animus meust ,",
+      "translation": "Do I use ill language to you , or do I wish you so very ill ? According to my ideas , you have both pretty well experienced how mild and gentle a person I am . I interrogated you both , as you were lashed and hanging up by the arms ; I well remember it ; the way in which you quite confessed each point , I know . Here now , I wish in the same way to learn ; do you confess without a punishment ."
+    },
+    {
+      "id": "4.3.780",
+      "label": "Section 4.3.780",
+      "chapter": null,
+      "original": "quamquam vos colubrino ingenio ambae estis , edico prius ,",
+      "translation": "Although you are both of you of the serpent nature , I tell you beforehand , you mustn ’ t be having double tongues , lest with your two tongues I should be putting you to death ; unless , perhaps , you wish to be taken to the men who go clink , clink [*] ."
+    },
+    {
+      "id": "4.3.783",
+      "label": "Section 4.3.783",
+      "chapter": null,
+      "original": "Vis subigit verum fateri , ita lora laedunt bracchia .",
+      "translation": "Violence forces me to confess the truth ; the thongs do so gall my arms ."
+    },
+    {
+      "id": "4.3.784",
+      "label": "Section 4.3.784",
+      "chapter": null,
+      "original": "At si verum mi eritis fassae , vinclis exsolvemini .",
+      "translation": "But , if you confess the truth to me , you shall be relieved from the chains ."
+    }
+  ],
+  "prevChunkSlug": "truculentus-z2dyee-7",
+  "nextChunkSlug": "truculentus-z2dyee-9"
+}

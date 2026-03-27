@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-casina-the-casket-comedy-curculio-epidicus-the-two-menaechmuses-10u46k",
+  "volumeTitle": "Casina. The Casket Comedy. Curculio. Epidicus. The Two Menaechmuses",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-two-menaechmuses-65w7r1-4",
+  "label": "The Two Menaechmuses (Section 2.2.303b - Section 2.3.389)",
+  "partId": "the-two-menaechmuses-65w7r1",
+  "partTitle": "The Two Menaechmuses",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Menaechmi",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi010.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Menaechmi, or The Twin Brothers",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi010.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "2.2.303b",
+      "label": "Section 2.2.303b",
+      "chapter": null,
+      "original": "Ei mihi ,",
+      "translation": "Woe to me , that I ’ ve got nothing with which to break this fellow ’ s head ."
+    },
+    {
+      "id": "2.2.305",
+      "label": "Section 2.2.305",
+      "chapter": null,
+      "original": "Tun cyathissare mihi soles , qui ante hunc diem",
+      "translation": "Are you in the habit of filling the cups for me , who , before this day , have never beheld Epidamnus , nor been there ?"
+    },
+    {
+      "id": "2.2.306b",
+      "label": "Section 2.2.306b",
+      "chapter": null,
+      "original": "Negas ?",
+      "translation": "Do you deny it ?"
+    },
+    {
+      "id": "2.2.307",
+      "label": "Section 2.2.307",
+      "chapter": null,
+      "original": "Nego hercle vero .",
+      "translation": "Upon my honor ,, I decidedly do deny it ."
+    },
+    {
+      "id": "2.2.307b",
+      "label": "Section 2.2.307b",
+      "chapter": null,
+      "original": "Non tu in illisce aedibus",
+      "translation": "Don ’ t you live in that house ?"
+    },
+    {
+      "id": "2.2.308b",
+      "label": "Section 2.2.308b",
+      "chapter": null,
+      "original": "Di illos homines , qui illic habitant , perduint .",
+      "translation": "May the Gods send to perdition those that live there ."
+    },
+    {
+      "id": "2.2.309",
+      "label": "Section 2.2.309",
+      "chapter": null,
+      "original": "Insanit hic quidem , qui ipse male dicit sibi .",
+      "translation": "Surely , this fellow ’ s mad , who is thus uttering curses against his own self ."
+    },
+    {
+      "id": "2.2.310",
+      "label": "Section 2.2.310",
+      "chapter": null,
+      "original": "audin , Menaechme ?",
+      "translation": "Do you hear , Menaechmus ?"
+    },
+    {
+      "id": "2.2.310b",
+      "label": "Section 2.2.310b",
+      "chapter": null,
+      "original": "Quid vis ?",
+      "translation": "What do you want ?"
+    },
+    {
+      "id": "2.2.310c",
+      "label": "Section 2.2.310c",
+      "chapter": null,
+      "original": "Si me consulas ,",
+      "translation": "If you take my advice , that didrachm , which you just now promised to give me —"
+    },
+    {
+      "id": "2.2.312",
+      "label": "Section 2.2.312",
+      "chapter": null,
+      "original": "nam tu quidem hercle certo non sanu'ssanus es satis ,",
+      "translation": "For , i ’ faith , you really for sure are not in your senses , Menaechmus , who are now uttering curses against your own self ."
+    },
+    {
+      "id": "2.2.314_315",
+      "label": "Section 2.2.314_315",
+      "chapter": null,
+      "original": "iubeas , si sapias , porculum adferri tibi .",
+      "translation": "you would order , if you were wise , a pig to be procured with it for yourself ."
+    },
+    {
+      "id": "2.2.316",
+      "label": "Section 2.2.316",
+      "chapter": null,
+      "original": "Eu hercle hominem multum , et odiosum mihi .",
+      "translation": "Alas ! By my faith , a very silly fellow , and an annoyance to me ."
+    },
+    {
+      "id": "2.2.317",
+      "label": "Section 2.2.317",
+      "chapter": null,
+      "original": "Solet iocari saepe mecum illoc modo .",
+      "translation": "He ’ s in the habit of often joking with me in this fashion . How very droll he is , when his wife isn ’ t present . How say you —?"
+    },
+    {
+      "id": "2.2.319b",
+      "label": "Section 2.2.319b",
+      "chapter": null,
+      "original": "Quid vis , inquam .",
+      "translation": "What do you mean , you rascal ?"
+    },
+    {
+      "id": "2.2.319c",
+      "label": "Section 2.2.319c",
+      "chapter": null,
+      "original": "Satin hoc quod vides",
+      "translation": "Has this that you see"
+    },
+    {
+      "id": "2.2.320",
+      "label": "Section 2.2.320",
+      "chapter": null,
+      "original": "tribus vóbis opsonatumst , an opsono amplius ,",
+      "translation": "been provided in sufficient quantity for three persons , or am I to provide still more for yourself and the Parasite and the lady ?"
+    },
+    {
+      "id": "2.2.321b",
+      "label": "Section 2.2.321b",
+      "chapter": null,
+      "original": "Quas tu mulieres ,",
+      "translation": "What ladies — what Parasites are you talking about ?"
+    },
+    {
+      "id": "2.2.322b",
+      "label": "Section 2.2.322b",
+      "chapter": null,
+      "original": "Quod te urget scelus ,",
+      "translation": "What , you villain , urges you to be an annoyance to him ?"
+    },
+    {
+      "id": "2.2.323b",
+      "label": "Section 2.2.323b",
+      "chapter": null,
+      "original": "Quid tibi mecum est rei ?",
+      "translation": "Pray what business have you with me ? I don ’ t know you ; I ’ m talking to this person , whom I do know ."
+    },
+    {
+      "id": "2.2.325",
+      "label": "Section 2.2.325",
+      "chapter": null,
+      "original": "Non edepol tú homo sanus es , certo scio .",
+      "translation": "By my troth , you are not a person in his right senses , that I know for sure ."
+    },
+    {
+      "id": "2.2.326",
+      "label": "Section 2.2.326",
+      "chapter": null,
+      "original": "Iam ergo haec madebunt faxo , nil morabitur .",
+      "translation": "I ’ ll have these things cooked directly ; there shall be no delay . Don ’ t you be going after this anywhere at a distance from the house . Do you want anything ?"
+    },
+    {
+      "id": "2.2.328b",
+      "label": "Section 2.2.328b",
+      "chapter": null,
+      "original": "Vt eas maximam malam crucem .",
+      "translation": "You to go to utter and extreme perdition ."
+    },
+    {
+      "id": "2.2.329",
+      "label": "Section 2.2.329",
+      "chapter": null,
+      "original": "Ire hercle meliust te interim atque accumbere ,",
+      "translation": "I ’ faith , ’ twere better for you to go in-doors at once and take your place ,"
+    },
+    {
+      "id": "2.2.330",
+      "label": "Section 2.2.330",
+      "chapter": null,
+      "original": "dum ego haec appono ad Volcani violentiam .",
+      "translation": "while I ’ m subjecting these things to the strength of the fire [*] . I ’ ll go in-doors now , and tell Erotium that you are standing here , that she may fetch you away hence , rather than you be standing here out of doors ."
+    },
+    {
+      "id": "2.2.333",
+      "label": "Section 2.2.333",
+      "chapter": null,
+      "original": "Iamne abiit illic ? edepol haud mendacia",
+      "translation": "Is he gone then ? He is gone . By my faith , I find by experience that your words are not untrue ."
+    },
+    {
+      "id": "2.2.334b",
+      "label": "Section 2.2.334b",
+      "chapter": null,
+      "original": "Observato modo :",
+      "translation": "Do you only be on your guard ;"
+    },
+    {
+      "id": "2.2.335",
+      "label": "Section 2.2.335",
+      "chapter": null,
+      "original": "nam istic meretricem credo habitare mulierem ,",
+      "translation": "for I do believe that some woman in the harlot line is living here , as , in fact . this madman said , who has just gone away from here ."
+    },
+    {
+      "id": "2.2.337",
+      "label": "Section 2.2.337",
+      "chapter": null,
+      "original": "Sed miror qui ille noverit nomen meum .",
+      "translation": "But I wonder how he came to know my name ."
+    },
+    {
+      "id": "2.2.338",
+      "label": "Section 2.2.338",
+      "chapter": null,
+      "original": "Minime hercle mirum . morem hunc meretrices habent :",
+      "translation": "I ’ faith , ’ tis far from surprising : courtesans have this custom ; they send servant-boys and servant-girls down to the harbour ;"
+    },
+    {
+      "id": "2.2.340",
+      "label": "Section 2.2.340",
+      "chapter": null,
+      "original": "si quae peregrina navis in portum advenit ,",
+      "translation": "if any foreign ship comes into port , they enquire of what country it is , and what its name is ; after that , at once they set themselves to work , and fasten themselves upon him ; if they inveigle him , they send him home a ruined man . Now in this harbour there stands a piratical craft ,"
+    },
+    {
+      "id": "2.2.345",
+      "label": "Section 2.2.345",
+      "chapter": null,
+      "original": "aps qua cavendum nobis sane censeo .",
+      "translation": "against which I really think that we must be on our guard ."
+    },
+    {
+      "id": "2.2.346",
+      "label": "Section 2.2.346",
+      "chapter": null,
+      "original": "Mones quidem hercle recte .",
+      "translation": "I ’ troth , you really counsel aright ."
+    },
+    {
+      "id": "2.2.346b",
+      "label": "Section 2.2.346b",
+      "chapter": null,
+      "original": "Tum demum sciam",
+      "translation": "Then , in fine , shall I be sure that I ’ ve counselled aright , if you are rightly on your guard ."
+    },
+    {
+      "id": "2.2.348",
+      "label": "Section 2.2.348",
+      "chapter": null,
+      "original": "Tace dúm parumper , nam concrepuit ostium :",
+      "translation": "Be silent for a moment , then ; for the door makes a noise . Let ’ s see who ’ s coming out from there ."
+    },
+    {
+      "id": "2.2.349b",
+      "label": "Section 2.2.349b",
+      "chapter": null,
+      "original": "Hoc ponam interim .",
+      "translation": "Meanwhile , I ’ ll lay this down . ( He puts down the wallet .)"
+    },
+    {
+      "id": "2.2.350",
+      "label": "Section 2.2.350",
+      "chapter": null,
+      "original": "asservatote haec sultis , navales pedes .",
+      "translation": "Do you keep watch upon these things , if you please , you sailors [*] ."
+    },
+    {
+      "id": "2.3.351",
+      "label": "Section 2.3.351",
+      "chapter": null,
+      "original": "Sine fóres sic , abi , nolo óperiri .",
+      "translation": "Leave the door ajar [*] thus ; begone . I don ’ t want it shut : prepare , attend , and provide within ; what is requisite , let it be done . Lay down the couches , burn the perfumes ; neatness ,"
+    },
+    {
+      "id": "2.3.354_355",
+      "label": "Section 2.3.354_355",
+      "chapter": null,
+      "original": "inlécebra animost amántium .",
+      "translation": "that is the charm for the minds of lovers . Our agreableness is for the lover ’ s loss , for our own gain . ( To herself .) But where is he whom the Cook said was in front of the house ? O , I see him there — one who is of service to me , and who profits me very much . And right willingly is such usage shown to him , as he deserves to be of especial importance in my house ."
+    },
+    {
+      "id": "2.3.360",
+      "label": "Section 2.3.360",
+      "chapter": null,
+      "original": "nunc éum adibo , adloquar ultro .",
+      "translation": "Now I ’ ll accost him ; I ’ ll address him of my own accord . ( To MENAECHMUS .) My dear life , it seems wonderful to me that you are standing here out of doors , for whom the door is wide open , more so than your own house , inasmuch as this house is at your service . Everything ’ s ready as you requested"
+    },
+    {
+      "id": "2.3.365",
+      "label": "Section 2.3.365",
+      "chapter": null,
+      "original": "atque út voluisti , néque tibi",
+      "translation": "and as you desired ; nor have you now any delay in-doors . The breakfast , as you ordered , is prepared here ; when you please , you may go and take your place ."
+    },
+    {
+      "id": "2.3.369",
+      "label": "Section 2.3.369",
+      "chapter": null,
+      "original": "Quícum haec mulier loquitur ?",
+      "translation": "To whom is this woman addressing herself ?"
+    },
+    {
+      "id": "2.3.369b",
+      "label": "Section 2.3.369b",
+      "chapter": null,
+      "original": "Equidem tecum .",
+      "translation": "Why , I ’ m talking to yourself ."
+    },
+    {
+      "id": "2.3.369c",
+      "label": "Section 2.3.369c",
+      "chapter": null,
+      "original": "Quid mecum tibi",
+      "translation": "What business have I ever had with you , or have I now ?"
+    },
+    {
+      "id": "2.3.370b",
+      "label": "Section 2.3.370b",
+      "chapter": null,
+      "original": "Quia pol te unum ex omnibus",
+      "translation": "Troth , inasmuch as Venus has willed that you singly above all I should exalt ; and that not without your deserving it . For , by my faith , you alone make me , by your kindnesses , to be thriving ."
+    },
+    {
+      "id": "2.3.373",
+      "label": "Section 2.3.373",
+      "chapter": null,
+      "original": "Certo haec mulier aut insana aut ebria est , Messenio ,",
+      "translation": "For sure this woman is either mad or drunk , Messemo , that addresses me , a person whom she knows not in so familiar a way ."
+    },
+    {
+      "id": "2.3.375",
+      "label": "Section 2.3.375",
+      "chapter": null,
+      "original": "Dixin égo istaec hic solere fieri ? folia nunc cadunt ,",
+      "translation": "Didn ’ t I say that these things are in the habit of occurring here ? The leaves are falling now ; in comparison with this , if we shall be here for three days , the trees will be tumbling upon you . For to such a degree are all these Courtesans wheedlers out of one ’ s money . But only let me address her . Harkye , woman , I ’ m speaking to you ."
+    },
+    {
+      "id": "2.3.378b",
+      "label": "Section 2.3.378b",
+      "chapter": null,
+      "original": "Quid est ?",
+      "translation": "What ’ s the matter ?"
+    },
+    {
+      "id": "2.3.379",
+      "label": "Section 2.3.379",
+      "chapter": null,
+      "original": "Vbi tu húnc hominem novisti ?",
+      "translation": "Where have you yourself known this person ?"
+    },
+    {
+      "id": "2.3.379b",
+      "label": "Section 2.3.379b",
+      "chapter": null,
+      "original": "Ibidem ubi hic me iam diu ,",
+      "translation": "In that same place where he has known me for this long time ,"
+    },
+    {
+      "id": "2.3.380",
+      "label": "Section 2.3.380",
+      "chapter": null,
+      "original": "in Epidamno .",
+      "translation": "in Epidamnus ."
+    },
+    {
+      "id": "2.3.380b",
+      "label": "Section 2.3.380b",
+      "chapter": null,
+      "original": "In Epidamno ? qui huc in hanc urbem pedem ,",
+      "translation": "In Epidamnus ? A man who , until this day , has never put a foot here inside of this city ."
+    },
+    {
+      "id": "2.3.381b",
+      "label": "Section 2.3.381b",
+      "chapter": null,
+      "original": "Heia , delicias facis .",
+      "translation": "Heyday ! You are making fun , my dear Menaechmus . But , prithee , why not go in ? There , it will be more suitable for you ."
+    },
+    {
+      "id": "2.3.383",
+      "label": "Section 2.3.383",
+      "chapter": null,
+      "original": "Haec quidem edepol recte appellat meo me mulier nomine .",
+      "translation": "I ’ faith , this woman really does address me rightly by my name . I wonder very much what ’ s the meaning of this business ."
+    },
+    {
+      "id": "2.3.384b",
+      "label": "Section 2.3.384b",
+      "chapter": null,
+      "original": "Oboluit marsuppium",
+      "translation": "That purse that you are carrying has been smelt out by her ."
+    },
+    {
+      "id": "2.3.385b",
+      "label": "Section 2.3.385b",
+      "chapter": null,
+      "original": "Atque edepol tu me monuisti probe .",
+      "translation": "I ’ faith , and rightly have you put me in mind . Take it , then ; I ’ ll know now whether she loves myself or the purse most ."
+    },
+    {
+      "id": "2.3.387",
+      "label": "Section 2.3.387",
+      "chapter": null,
+      "original": "Eamus intro , ut prandeamus .",
+      "translation": "Let ’ s go in the house to breakfast ."
+    },
+    {
+      "id": "2.3.387b",
+      "label": "Section 2.3.387b",
+      "chapter": null,
+      "original": "Bene vocas : tam gratiast .",
+      "translation": "You invite me kindly ; so far , my thanks ."
+    },
+    {
+      "id": "2.3.388",
+      "label": "Section 2.3.388",
+      "chapter": null,
+      "original": "Cur igitur me tibi iussisti coquere dudum prandium ?",
+      "translation": "Why then did you bid me a while since prepare a breakfast for you ?"
+    },
+    {
+      "id": "2.3.389",
+      "label": "Section 2.3.389",
+      "chapter": null,
+      "original": "Egon te iussi coquere ?",
+      "translation": "I , bid you prepare ?"
+    }
+  ],
+  "prevChunkSlug": "the-two-menaechmuses-65w7r1-3",
+  "nextChunkSlug": "the-two-menaechmuses-65w7r1-5"
+}

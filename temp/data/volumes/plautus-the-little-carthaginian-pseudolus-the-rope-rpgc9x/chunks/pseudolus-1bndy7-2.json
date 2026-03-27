@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-little-carthaginian-pseudolus-the-rope-rpgc9x",
+  "volumeTitle": "The Little Carthaginian. Pseudolus. The Rope",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "pseudolus-1bndy7-2",
+  "label": "Pseudolus (Section 1.1.81 - Section 1.2.196)",
+  "partId": "pseudolus-1bndy7",
+  "partTitle": "Pseudolus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Pseudolus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Pseudolus, or The Cheat",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1.81",
+      "label": "Section 1.1.81",
+      "chapter": null,
+      "original": "Eheu .",
+      "translation": "Alas !"
+    },
+    {
+      "id": "1.1.81b",
+      "label": "Section 1.1.81b",
+      "chapter": null,
+      "original": "Neque intus nummus ullus est .",
+      "translation": "Nor is there a single coin in the house ."
+    },
+    {
+      "id": "1.1.81c",
+      "label": "Section 1.1.81c",
+      "chapter": null,
+      "original": "Eheu .",
+      "translation": "Alas !"
+    },
+    {
+      "id": "1.1.82",
+      "label": "Section 1.1.82",
+      "chapter": null,
+      "original": "Ille abducturus est mulierem cras .",
+      "translation": "He ’ s going to carry the damsel away to-morrow ."
+    },
+    {
+      "id": "1.1.82b",
+      "label": "Section 1.1.82b",
+      "chapter": null,
+      "original": "Eheu .",
+      "translation": "Alas !"
+    },
+    {
+      "id": "1.1.83",
+      "label": "Section 1.1.83",
+      "chapter": null,
+      "original": "Istocine pacto me adiuvas ?",
+      "translation": "Is it in that fashion that you help me ?"
+    },
+    {
+      "id": "1.1.83b",
+      "label": "Section 1.1.83b",
+      "chapter": null,
+      "original": "Do id quod mihi est ;",
+      "translation": "I give you that which I have ; for I ’ ve a perpetual supply of those treasures [*] in my house ."
+    },
+    {
+      "id": "1.1.85",
+      "label": "Section 1.1.85",
+      "chapter": null,
+      "original": "Actum est de me hodie . sed potes nunc mutuam",
+      "translation": "It ’ s all over with me this very day . But can you now lend me one drachma , which I ’ ll pay you back to-morrow"
+    },
+    {
+      "id": "1.1.87",
+      "label": "Section 1.1.87",
+      "chapter": null,
+      "original": "Vix hercle , opinor , si me opponam pignori .",
+      "translation": "I ’ faith , I hardly think I could , even though I should pawn myself for it . But what do you want to do with this drachma ?"
+    },
+    {
+      "id": "1.1.88b",
+      "label": "Section 1.1.88b",
+      "chapter": null,
+      "original": "Restim volo",
+      "translation": "I want to purchase a halter for myself ."
+    },
+    {
+      "id": "1.1.89b",
+      "label": "Section 1.1.89b",
+      "chapter": null,
+      "original": "Quam ob rem ?",
+      "translation": "For what reason ?"
+    },
+    {
+      "id": "1.1.89c",
+      "label": "Section 1.1.89c",
+      "chapter": null,
+      "original": "Qui me faciam pensilem .",
+      "translation": "With which to hang myself ."
+    },
+    {
+      "id": "1.1.90",
+      "label": "Section 1.1.90",
+      "chapter": null,
+      "original": "certum est mihi ante tenebras tenebras persequi .",
+      "translation": "I ’ m determined , ere ’ tis dark , to take [*] a leap in the dark ."
+    },
+    {
+      "id": "1.1.91",
+      "label": "Section 1.1.91",
+      "chapter": null,
+      "original": "Quis mi igitur drachumam reddet , si dedero tibi ?",
+      "translation": "Who then shall pay me back my drachma * * * * ? Do you wish purposely to hang yourself for the very reason , that you may cheat mo out of my drachma if I lend it you ?"
+    },
+    {
+      "id": "1.1.94",
+      "label": "Section 1.1.94",
+      "chapter": null,
+      "original": "Profecto nullo pacto possum vivere ,",
+      "translation": "At all events , I can in nowise survive"
+    },
+    {
+      "id": "1.1.95",
+      "label": "Section 1.1.95",
+      "chapter": null,
+      "original": "si illa a me abalienatur atque abducitur .",
+      "translation": "if she ’ s removed and carried off from me ."
+    },
+    {
+      "id": "line:96",
+      "label": "Line 96",
+      "chapter": null,
+      "original": "Quid fles , cucule ? vives .",
+      "translation": "Why do you weep , you cuckoo [*] ? You shall survive ."
+    },
+    {
+      "id": "1.1.96b",
+      "label": "Section 1.1.96b",
+      "chapter": null,
+      "original": "Quid ego ni fleam ,",
+      "translation": "Why should I not weep , who have neither a coin of silver in ready money , nor have the hope of a groat [*] anywhere in the world ?"
+    },
+    {
+      "id": "1.1.99",
+      "label": "Section 1.1.99",
+      "chapter": null,
+      "original": "Vt litterarum ego harum sermonem audio ,",
+      "translation": "As I understand the tenor of this letter ,"
+    },
+    {
+      "id": "1.1.100",
+      "label": "Section 1.1.100",
+      "chapter": null,
+      "original": "nisi tu illi lacrumis fleveris argenteis ,",
+      "translation": "unless you weep for her with tears of silver , the affection which you wish yourself by those tears to prove is of no more value than if you were to pour water into a sieve . But have no fear , I ’ ll not forsake you in your love . In troth , I do trust that this day , from some quarter or other , by my good aid"
+    },
+    {
+      "id": "1.1.105",
+      "label": "Section 1.1.105",
+      "chapter": null,
+      "original": "tibi inventurum esse auxilium argentarium .",
+      "translation": "I shall find you help in the money line . But whence that is to come ,— that whence I know not how to pronounce ; except only that so it shall be ; my eyebrow twitches [*] to that effect ."
+    },
+    {
+      "id": "1.1.108",
+      "label": "Section 1.1.108",
+      "chapter": null,
+      "original": "Vtinam quae dicis dictis facta suppetant .",
+      "translation": "As to what you say , I trust that your deeds may be as good as your words ."
+    },
+    {
+      "id": "1.1.109",
+      "label": "Section 1.1.109",
+      "chapter": null,
+      "original": "Scis tu quidem hercle , mea si commovi sacra ,",
+      "translation": "I ’ faith , you surely know , if I set my plans a-going [*] ,"
+    },
+    {
+      "id": "1.1.110",
+      "label": "Section 1.1.110",
+      "chapter": null,
+      "original": "quo pacto et quantas soleam turbellas dare .",
+      "translation": "after what fashion and how great is the bustle that I am in the habit of causing ."
+    },
+    {
+      "id": "1.1.111",
+      "label": "Section 1.1.111",
+      "chapter": null,
+      "original": "In te nunc omnes spes sunt aetati meae .",
+      "translation": "In you are now centred all the hopes of my existence ."
+    },
+    {
+      "id": "1.1.112",
+      "label": "Section 1.1.112",
+      "chapter": null,
+      "original": "Satin est , si hanc hodie mulierem efficio tibi",
+      "translation": "Is it enough , if I this day make this damsel to be yours , or if I find you twenty minae ?"
+    },
+    {
+      "id": "1.1.114",
+      "label": "Section 1.1.114",
+      "chapter": null,
+      "original": "Satis , sí futurumst .",
+      "translation": "’ Tis enough , if so it is to be ."
+    },
+    {
+      "id": "1.1.114b",
+      "label": "Section 1.1.114b",
+      "chapter": null,
+      "original": "Roga me viginti minas ,",
+      "translation": "Ask of me twenty minae ,"
+    },
+    {
+      "id": "1.1.115",
+      "label": "Section 1.1.115",
+      "chapter": null,
+      "original": "ut me effecturum tibi quod promisi scias .",
+      "translation": "that you may be assured that I ’ ll procure for you that which I have promised . Ask them of me , by my troth , prithee do ; I long to make the promise ."
+    },
+    {
+      "id": "1.1.117",
+      "label": "Section 1.1.117",
+      "chapter": null,
+      "original": "Dabisne argenti mi hodie viginti minas ?",
+      "translation": "Will you this day find me twenty minae of silver ?"
+    },
+    {
+      "id": "1.1.118",
+      "label": "Section 1.1.118",
+      "chapter": null,
+      "original": "Dabo . molestus nunciam ne sis mihi .",
+      "translation": "I will find them ; be no more troublesome to me then . And this I tell you first , that you mayn ’ t deny that it was told you ;"
+    },
+    {
+      "id": "1.1.120",
+      "label": "Section 1.1.120",
+      "chapter": null,
+      "original": "si neminem alium potero , tuom tangam patrem .",
+      "translation": "if I can no one else , I ’ ll diddle your father out of the money ."
+    },
+    {
+      "id": "1.1.121",
+      "label": "Section 1.1.121",
+      "chapter": null,
+      "original": "Di te mihi semper servent . verum , si potest ,",
+      "translation": "So far as filial affection is concerned , even my mother as well . May the Gods always preserve you for me . But what if you are not able ?"
+    },
+    {
+      "id": "1.1.123",
+      "label": "Section 1.1.123",
+      "chapter": null,
+      "original": "De istac re in oculum utrumvis conquiescito .",
+      "translation": "Upon that matter do you go to sleep with either eye ."
+    },
+    {
+      "id": "1.1.124",
+      "label": "Section 1.1.124",
+      "chapter": null,
+      "original": "Oculum anne in aurem ?",
+      "translation": "With the eye or with the ear [*] ?"
+    },
+    {
+      "id": "1.1.124b",
+      "label": "Section 1.1.124b",
+      "chapter": null,
+      "original": "At hoc pervolgatumst minus .",
+      "translation": "The latter is too common an expression ."
+    },
+    {
+      "id": "1.1.125",
+      "label": "Section 1.1.125",
+      "chapter": null,
+      "original": "nunc , ne quis dictum sibi neget , dico omnibus",
+      "translation": "Now , that no one may affirm that it wasn ’ t told him , I tell you all ( to the AUDIENCE ) , in the presence of the youths in this audience , and of all the people , to all my friends and all my acquaintances I give notice , that for this day they must guard against me , and not trust me ."
+    },
+    {
+      "id": "1.1.129_130",
+      "label": "Section 1.1.129_130",
+      "chapter": null,
+      "original": "St , táce opsecro hércle .",
+      "translation": "Hist ! be silent , prithee , by all the powers !"
+    },
+    {
+      "id": "1.1.129_130b",
+      "label": "Section 1.1.129_130b",
+      "chapter": null,
+      "original": "Quid negoti est ?",
+      "translation": "What ’ s the matter ?"
+    },
+    {
+      "id": "1.1.129_130c",
+      "label": "Section 1.1.129_130c",
+      "chapter": null,
+      "original": "Ostium",
+      "translation": "There was a noise at the procurer ’ s door ."
+    },
+    {
+      "id": "1.1.131b",
+      "label": "Section 1.1.131b",
+      "chapter": null,
+      "original": "Crura mavellem modo .",
+      "translation": "I could only wish it were his legs in preference ."
+    },
+    {
+      "id": "1.1.132",
+      "label": "Section 1.1.132",
+      "chapter": null,
+      "original": "Atque ipse egreditur intus , periuri caput .",
+      "translation": "Yes , and he himself is coming out from in-doors , the perjured scoundrel ."
+    },
+    {
+      "id": "1.2.133",
+      "label": "Section 1.2.133",
+      "chapter": null,
+      "original": "Exíte , agite exite , ígnavi , male hábiti et male concíliati ,",
+      "translation": "Get out , come , out with you , you rascals , kept at a loss and bought at a loss , in the minds of not one of whom aught ever comes to do aright ,"
+    },
+    {
+      "id": "1.2.135",
+      "label": "Section 1.2.135",
+      "chapter": null,
+      "original": "quibus , nísi ad hoc exemplum éxperior , non pótest usura usúrpari .",
+      "translation": "of whom I can ’ t make a bit of use , unless I try it after this fashion . ( He flogs the men all round .) At no time did I ever see human beings more like asses ; so hardened are your ribs with stripes ; when you flog them , you hurt yourself the most . Of such a disposition are these whipping-posts who follow this line of conduct ; when the opportunity is given , pilfer , purloin [*] , prig , plunder , drink , eat , and run away ’ s the word . This"
+    },
+    {
+      "id": "1.2.140",
+      "label": "Section 1.2.140",
+      "chapter": null,
+      "original": "ést eorum opus , ut mávelis lúpos apud ovis línquere ,",
+      "translation": "is their method , so that you would choose rather to leave wolves among sheep , than these fellows on guard in your house . Yet , when you look at their appearance , they don ’ t seem amiss ; by their doings they deceive you . Now , therefore , unless you all of you give your attention to this charge , unless you remove drowsiness and sloth from your breasts and eyes ,"
+    },
+    {
+      "id": "1.2.145",
+      "label": "Section 1.2.145",
+      "chapter": null,
+      "original": "ita ego vestra latera loris faciam ut valide varia sint ,",
+      "translation": "I ’ ll make your sides to be right thoroughly marked with thongs , so much so that not even Campanian coverlets are coloured as well , nor yet Alexandrian tapestry [*] of purple embroidered with beasts all over . Even yesterday I already gave you all notice , and assigned to each his own respective employment ; but so utterly worthless are you , so neglectful , of such stubborn dispositions ,"
+    },
+    {
+      "id": "1.2.150",
+      "label": "Section 1.2.150",
+      "chapter": null,
+      "original": "officium vestrum ut vos malo cogatis commonerier ;",
+      "translation": "that you compel me to put you in mind of your duty with a basting . You are so minded I suppose , to get the better of this scourge and myself through the hardness of your hides . Never , i ’ faith , will your hides prove harder , than is this cow-hide of mine . ( He dangles it before them .) Do look at that , please ; they are minding other matters . Attend to this , and give heed to this ."
+    },
+    {
+      "id": "1.2.155",
+      "label": "Section 1.2.155",
+      "chapter": null,
+      "original": "quid nunc ? doletne ? em sic datur , si quis erum servos spernit .",
+      "translation": "( He flogs one of them .) How now ? Does it pain ? Ah , that ’ s the way it ’ s laid on when any slave slights his master . Stand all of you before me , you race of mortals born to be thrashed ; turn your ears this way ; give attention all of you to what I say . You fellow who are holding the pitcher , do you fetch the water ; do you take care that the cauldron ’ s full this instant . You , with the axe , I appoint over the wood-cutting department ."
+    },
+    {
+      "id": "1.2.159",
+      "label": "Section 1.2.159",
+      "chapter": null,
+      "original": "At haec retunsast .",
+      "translation": "But this one is blunted on the edge ."
+    },
+    {
+      "id": "1.2.159b",
+      "label": "Section 1.2.159b",
+      "chapter": null,
+      "original": "Sine siet ; itidem vos quoque estis plagis omnes :",
+      "translation": "Let it be so , then . And so are you yourselves with stripes ;"
+    },
+    {
+      "id": "1.2.160",
+      "label": "Section 1.2.160",
+      "chapter": null,
+      "original": "numqui minus ea gratia tamen omnium opera útor ?",
+      "translation": "yet am I for that reason any the less to enjoy your services ? My orders I give to you , that the house be made clean . You have what you are to do ; make haste , and go in-doors . ( Exit FIRST SLAVE .) Be you the one that makes the couches smooth [*] . Do you wash the plate clean , and arrange it in order as well , Take care that when I return from the Forum , I find things done ; that all be swept , sprinkled , scoured , made smooth , cleaned , and arranged in order ."
+    },
+    {
+      "id": "1.2.165",
+      "label": "Section 1.2.165",
+      "chapter": null,
+      "original": "nam mi hódie natalís dies est , decet éum omnis vos concélebrare .",
+      "translation": "For this day is my birthday ; it befits you all to celebrate it . Take care to lay the gammon of bacon , the brawn , the collared neck , and the udder , in water ; do you hear me ? I wish to entertain tip-top men in first-rate style , that they may fancy that I have property . Go you in-doors , and get these things ready quickly , that there may be no delay when the cook comes . I ’ m going to market , that I may make purchase of whatever fish is there ."
+    },
+    {
+      "id": "1.2.170",
+      "label": "Section 1.2.170",
+      "chapter": null,
+      "original": "i , púere , prae ; ne quísquam pertundát cruminam caútiost .",
+      "translation": "Boy , go you before me ; I must have a care that no one cuts away my purse . Or wait there ; there ’ s something that I had almost forgotten to say at home . Do you hear me , you women ? I have this charge for you — you , misses of distinction , who spend your time with illustrious men in refinements , luxury , and delights ; now shall I know and make trial this day ,"
+    },
+    {
+      "id": "1.2.175",
+      "label": "Section 1.2.175",
+      "chapter": null,
+      "original": "quae cápiti , quae ventri óperam det , quae suaé rei , quae somnó studeat ;",
+      "translation": "which one has regard for her liberty [*] , which for her appetite which thinks on her business , which on sleeping only : this day I ’ ll make trial which I must think of as a freed-woman , and which as one to be sold . Take you care that many a present from your lovers comes in for me this day ; for if your year ’ s board isn ’ t picked up for me , to-morrow I ’ ll turn you adrift on the public . You know that this is my birthday ; where are those youths , the apples of whose eyes you are ,"
+    },
+    {
+      "id": "1.2.180",
+      "label": "Section 1.2.180",
+      "chapter": null,
+      "original": "quibus vítae , quibus delíciae estis , quibus sávia , mammia , méllillae ?",
+      "translation": "whose very existence , whose delight you are ? Where are your kisses , where your bosoms sweet as honey ? Make the bearers of presents to come here then , for my sake , before this house , in whole regiments [*] . Why am I to find clothes for you , gold trinkets , and those things which you need ? What have I , you jades , through your means , except vexation , you women , eager for nothing but the wine ? You are a-soaking away yourselves and your paunches too , at the very time that I ’ m here a-dry ."
+    },
+    {
+      "id": "1.2.185",
+      "label": "Section 1.2.185",
+      "chapter": null,
+      "original": "nunc ádeo hoc factust óptumum , ut nomíne quemque appellem suo ,",
+      "translation": "Now , therefore , this is the best thing to do ; for me to call you each by her name , that no one of you may be declaring to me by-and-by that her business hasn ’ t been told her . Give attention , all of you . In the first place , Hedylium , my business is with you — you , who are the favorite of the corn-merchants , men who have , all of them , immense mountains of wheat piled up at home ;"
+    },
+    {
+      "id": "1.2.190",
+      "label": "Section 1.2.190",
+      "chapter": null,
+      "original": "fac sís sit delatum húc mihi fruméntum , hunc annum quód satis ,",
+      "translation": "take you care that wheat is brought here for me , to suffice this year to come for myself and all my household , and that I may so abound in corn that the city may change my name for me , and instead of the procurer Ballio proclaim me King lasions [*] ."
+    },
+    {
+      "id": "1.2.194",
+      "label": "Section 1.2.194",
+      "chapter": null,
+      "original": "Aúdin , furcifér quae loquitur ? sátin magnificus tíbi videtur ?",
+      "translation": "Do you hear what the gallows-bird is saying ? ⋯ Doesn ’ t he seem a regular boaster to you ?"
+    },
+    {
+      "id": "1.2.195",
+      "label": "Section 1.2.195",
+      "chapter": null,
+      "original": "Pól iste , atque etiam málificus .",
+      "translation": "I ’ troth the fellow does , and a wicked one [*] as well . But hush now , and give attention to this ."
+    },
+    {
+      "id": "1.2.196",
+      "label": "Section 1.2.196",
+      "chapter": null,
+      "original": "Aéschrodora , tú quae amicos tíbi habes lenonum aémulos",
+      "translation": "Aeschrodora , you who have for your patrons the butchers , those rivals of the procurers , who , just like ourselves , by false oaths seek their gains , do you listen ; unless the three larders shall be crammed for me this day with carcases of ample weight , to-morrow , just as they say that formerly the two sons of Jupiter fastened Dirce [*]"
+    }
+  ],
+  "prevChunkSlug": "pseudolus-1bndy7-1",
+  "nextChunkSlug": "pseudolus-1bndy7-3"
+}

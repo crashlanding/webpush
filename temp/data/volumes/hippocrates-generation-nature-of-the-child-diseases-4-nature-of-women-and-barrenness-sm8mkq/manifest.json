@@ -1,0 +1,82 @@
+{
+  "loebNumber": 520,
+  "sortOrder": 520,
+  "slug": "hippocrates-generation-nature-of-the-child-diseases-4-nature-of-women-and-barrenness-sm8mkq",
+  "title": "Generation. Nature of the Child. Diseases 4. Nature of Women and Barrenness",
+  "volumeLabel": "Generation. Nature of the Child. Diseases 4. Nature of Women and Barrenness",
+  "authorDisplay": "Hippocrates",
+  "authors": [
+    "Hippocrates"
+  ],
+  "language": "greek",
+  "summary": "1 of 4 contents in Generation. Nature of the Child. Diseases 4. Nature of Women and Barrenness are live from Scaife, while the remaining contents stay visible until a confident pair is available. Diseases 4 is currently filled with the closest same-author Scaife text that exposes both an original-language version and an English translation.",
+  "status": "partial",
+  "defaultChunkSlug": "de-morbo-sacro-obh4r4",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "generation-120v5f",
+      "title": "Generation",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Generation."
+    },
+    {
+      "id": "nature-of-the-child-t0apml",
+      "title": "Nature of the Child",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Nature of the Child."
+    },
+    {
+      "id": "diseases-4-1sjeml",
+      "title": "Diseases 4",
+      "status": "ready",
+      "sectionCount": 18,
+      "chunkSlug": "de-morbo-sacro-obh4r4",
+      "chunks": [
+        {
+          "slug": "de-morbo-sacro-obh4r4",
+          "label": "De morbo sacro",
+          "partId": "diseases-4-1sjeml",
+          "partTitle": "Diseases 4",
+          "sectionCount": 18,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "nature-of-women-and-barrenness-1tk5jo",
+      "title": "Nature of Women and Barrenness",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Nature of Women and Barrenness."
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "de-morbo-sacro-obh4r4",
+      "label": "De morbo sacro",
+      "partId": "diseases-4-1sjeml",
+      "partTitle": "Diseases 4",
+      "sectionCount": 18,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "de-morbo-sacro-obh4r4",
+      "partTitle": "Diseases 4",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De morbo sacro",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg027.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Sacred Disease",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg027.perseus-eng2/"
+      }
+    }
+  ]
+}

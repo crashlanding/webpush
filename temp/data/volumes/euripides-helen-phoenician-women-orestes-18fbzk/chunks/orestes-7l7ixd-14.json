@@ -1,0 +1,360 @@
+{
+  "volumeSlug": "euripides-helen-phoenician-women-orestes-18fbzk",
+  "volumeTitle": "Helen. Phoenician Women. Orestes",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "orestes-7l7ixd-14",
+  "label": "Orestes (Section 1606 - Section 1691)",
+  "partId": "orestes-7l7ixd",
+  "partTitle": "Orestes",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ὀρέστης",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Orestes",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1606",
+      "label": "Section 1606",
+      "chapter": null,
+      "original": "ὅστις δὲ τιμᾷ μητέρα ;",
+      "translation": "And the one who honors his mother ?"
+    },
+    {
+      "id": "1606b",
+      "label": "Section 1606b",
+      "chapter": null,
+      "original": "εὐδαίμων ἔφυ .",
+      "translation": "He was born fortunate ."
+    },
+    {
+      "id": "1607",
+      "label": "Section 1607",
+      "chapter": null,
+      "original": "οὔκουν σύ γε .",
+      "translation": "Not like you !"
+    },
+    {
+      "id": "1607b",
+      "label": "Section 1607b",
+      "chapter": null,
+      "original": "οὐ γὰρ ἁνδάνουσιν αἱ κακαί .",
+      "translation": "No , for I do not delight in these wicked women ."
+    },
+    {
+      "id": "1608",
+      "label": "Section 1608",
+      "chapter": null,
+      "original": "ἄπαιρε θυγατρὸς φάσγανον .",
+      "translation": "Remove that sword from my daughter !"
+    },
+    {
+      "id": "1608b",
+      "label": "Section 1608b",
+      "chapter": null,
+      "original": "ψευδὴς ἔφυς .",
+      "translation": "You are a liar ."
+    },
+    {
+      "id": "1609",
+      "label": "Section 1609",
+      "chapter": null,
+      "original": "ἀλλὰ κτενεῖς μου θυγατέρα ;",
+      "translation": "Will you kill my daughter ?"
+    },
+    {
+      "id": "1609b",
+      "label": "Section 1609b",
+      "chapter": null,
+      "original": "οὐ ψευδὴς ἔτʼ εἶ .",
+      "translation": "Now you are not a liar !"
+    },
+    {
+      "id": "1610",
+      "label": "Section 1610",
+      "chapter": null,
+      "original": "οἴμοι , τί δράσω ;",
+      "translation": "Ah me ! what shall I do ?"
+    },
+    {
+      "id": "1610b",
+      "label": "Section 1610b",
+      "chapter": null,
+      "original": "πεῖθʼ ἐς Ἀργείους μολὼν —",
+      "translation": "Go to the Argives and persuade them —"
+    },
+    {
+      "id": "1611",
+      "label": "Section 1611",
+      "chapter": null,
+      "original": "πειθὼ τίνα ;",
+      "translation": "Persuade them what ?"
+    },
+    {
+      "id": "1611b",
+      "label": "Section 1611b",
+      "chapter": null,
+      "original": "ἡμᾶς μὴ θανεῖν · αἰτοῦ πόλιν .",
+      "translation": "Not to kill us ; entreat the city ."
+    },
+    {
+      "id": "1612",
+      "label": "Section 1612",
+      "chapter": null,
+      "original": "ἢ παῖδά μου φονεύσετε ;",
+      "translation": "Or you will slay my child ?"
+    },
+    {
+      "id": "1612b",
+      "label": "Section 1612b",
+      "chapter": null,
+      "original": "ὧδʼ ἔχει τάδε .",
+      "translation": "That is correct ."
+    },
+    {
+      "id": "1613",
+      "label": "Section 1613",
+      "chapter": null,
+      "original": "ὦ τλῆμον Ἑλένη —",
+      "translation": "O wretched Helen —"
+    },
+    {
+      "id": "1613b",
+      "label": "Section 1613b",
+      "chapter": null,
+      "original": "τἀμὰ δʼ οὐχὶ τλήμονα ;",
+      "translation": "Am I not wretched ?"
+    },
+    {
+      "id": "1614",
+      "label": "Section 1614",
+      "chapter": null,
+      "original": "σὲ σφάγιον ἐκόμισʼ ἐκ Φρυγῶν —",
+      "translation": "I brought you back from Troy to be a victim —"
+    },
+    {
+      "id": "1614b",
+      "label": "Section 1614b",
+      "chapter": null,
+      "original": "εἰ γὰρ τόδʼ ἦν .",
+      "translation": "If only she had been !"
+    },
+    {
+      "id": "1615",
+      "label": "Section 1615",
+      "chapter": null,
+      "original": "πόνους πονήσας μυρίους .",
+      "translation": "After innumerable troubles ."
+    },
+    {
+      "id": "1615b",
+      "label": "Section 1615b",
+      "chapter": null,
+      "original": "πλήν γʼ εἰς ἐμέ .",
+      "translation": "Except where I was concerned ."
+    },
+    {
+      "id": "1616",
+      "label": "Section 1616",
+      "chapter": null,
+      "original": "πέπονθα δεινά .",
+      "translation": "I have suffered dreadfully !"
+    },
+    {
+      "id": "1616b",
+      "label": "Section 1616b",
+      "chapter": null,
+      "original": "τότε γὰρ ἦσθʼ ἀνωφελής .",
+      "translation": "Yes , for you would not help me then ."
+    },
+    {
+      "id": "1617",
+      "label": "Section 1617",
+      "chapter": null,
+      "original": "ἔχεις με .",
+      "translation": "You have me there ."
+    },
+    {
+      "id": "1617b",
+      "label": "Section 1617b",
+      "chapter": null,
+      "original": "σαυτὸν σύ γʼ ἔλαβες κακὸς γεγώς .",
+      "translation": "Your own cowardice has you . Calling from the roof to Electra Fire the palace from beneath , Electra ; and , Pylades , my most trusty friend ,"
+    },
+    {
+      "id": "1620",
+      "label": "Section 1620",
+      "chapter": null,
+      "original": "Πυλάδη , κάταιθε γεῖσα τειχέων τάδε .",
+      "translation": "kindle the parapet of these walls . The palace is seen to be ablaze ."
+    },
+    {
+      "id": "1621",
+      "label": "Section 1621",
+      "chapter": null,
+      "original": "ὦ γαῖα Δαναῶν ἱππίου τʼ Ἄργους κτίται ,",
+      "translation": "O Danaid earth ! Dwellers in Argos , city of horses , put on your armor and come to help ! For this fellow is forcing his life from your whole city , though he has caused pollution by shedding his mother ’ s blood ."
+    },
+    {
+      "id": "1625",
+      "label": "Section 1625",
+      "chapter": null,
+      "original": "Μενέλαε , παῦσαι λῆμʼ ἔχων τεθηγμένον ·",
+      "translation": "Appearing in the clouds . Menelaus , calm your anger that has been whetted ; I am Phoebus , the son of Leto , drawing near to call you by name . And you also , Orestes , who are keeping guard on the girl , sword in hand , so that you may hear what I have come to say . Helen , whom all your eagerness"
+    },
+    {
+      "id": "1630",
+      "label": "Section 1630",
+      "chapter": null,
+      "original": "ἥμαρτες , ὀργὴν Μενέλεῳ ποιούμενος ,",
+      "translation": "failed to destroy , when you were seeking to anger Menelaus , is here as you see in the enfolding air , rescued from death and not slain by you . I saved her and snatched her from beneath your sword at the bidding of father Zeus ,"
+    },
+    {
+      "id": "1635",
+      "label": "Section 1635",
+      "chapter": null,
+      "original": "Ζηνὸς γὰρ οὖσαν ζῆν νιν ἄφθιτον χρεών ,",
+      "translation": "for she , his child , must be immortal , and take her seat with Castor and Polydeuces in the enfolding air , a savior to mariners . Choose another bride and take her to your home ; for the gods by that one ’ s loveliness"
+    },
+    {
+      "id": "1640",
+      "label": "Section 1640",
+      "chapter": null,
+      "original": "Ἕλληνας εἰς ἓν καὶ Φρύγας συνήγαγον ,",
+      "translation": "joined Troy and Hellas in battle , causing death so that they might draw off from the earth the outrage of unstinting numbers of mortals ."
+    },
+    {
+      "id": "1643",
+      "label": "Section 1643",
+      "chapter": null,
+      "original": "τὰ μὲν καθʼ Ἑλένην ὧδʼ ἔχει · σὲ δʼ αὖ χρεών ,",
+      "translation": "So much for Helen ; as for you , Orestes , you must cross the broders of this land"
+    },
+    {
+      "id": "1645",
+      "label": "Section 1645",
+      "chapter": null,
+      "original": "Παρράσιον οἰκεῖν δάπεδον ἐνιαυτοῦ κύκλον .",
+      "translation": "and dwell for one whole year on Parrhasian soil , which from your flight shall be called the land of Orestes by Azanians and Arcadians . And when you return from there to the city of Athens , undergo your trial by the Avenging Three for your mother ’ s murder ;"
+    },
+    {
+      "id": "1650",
+      "label": "Section 1650",
+      "chapter": null,
+      "original": "Εὐμενίσι τρισσαῖς · θεοὶ δέ σοι δίκης βραβῆς",
+      "translation": "the gods will be arbitrators of your trial , and will take a most righteous vote on you at the hill of Ares , where you are to win your case . And it is destined , Orestes , that you will marry Hermione , at whose neck you are holding your sword ;"
+    },
+    {
+      "id": "1655",
+      "label": "Section 1655",
+      "chapter": null,
+      "original": "Νεοπτόλεμος γαμεῖν νιν , οὐ γαμεῖ ποτε .",
+      "translation": "Neoptolemus shall never marry her , though he thinks he will ; for he is fated to die by a Delphian sword , when he claims satisfaction of me for the death of his father Achilles . Give your sister in marriage to Pylades , to whom you formerly promised her ; the life awaiting him is one of happiness ."
+    },
+    {
+      "id": "1660",
+      "label": "Section 1660",
+      "chapter": null,
+      "original": "Ἄργους δʼ Ὀρέστην , Μενέλεως , ἔα κρατεῖν ,",
+      "translation": "Menelaus , leave Orestes to rule Argos ; go and reign over the Spartan land , keeping it as the dowry of a wife who till this day never ceased causing you innumerable troubles . I will set matters straight between Orestes and the citizens ,"
+    },
+    {
+      "id": "1665",
+      "label": "Section 1665",
+      "chapter": null,
+      "original": "ὅς νιν φονεῦσαι μητέρʼ ἐξηνάγκασα .",
+      "translation": "for I forced him to murder his mother ."
+    },
+    {
+      "id": "1666",
+      "label": "Section 1666",
+      "chapter": null,
+      "original": "ὦ Λοξία μαντεῖε , σῶν θεσπισμάτων .",
+      "translation": "Hail , prophetic Loxias , for your oracles ! You were not a lying prophet after all , but a true seer ; and yet I was afraid that it was some fiend I had listened to , when I seemed to hear your voice ;"
+    },
+    {
+      "id": "1670",
+      "label": "Section 1670",
+      "chapter": null,
+      "original": "ἀλλʼ εὖ τελεῖται , πείσομαι δὲ σοῖς λόγοις .",
+      "translation": "but all is ending well , and I obey your word . There ! I release Hermione from slaughter and agree to make her my wife whenever her father gives her ."
+    },
+    {
+      "id": "1673",
+      "label": "Section 1673",
+      "chapter": null,
+      "original": "ὦ Ζηνὸς Ἑλένη χαῖρε παῖ · ζηλῶ δέ σε",
+      "translation": "All hail , Helen , daughter of Zeus ! I wish you joy of your home in heaven ’ s happy courts ."
+    },
+    {
+      "id": "1675",
+      "label": "Section 1675",
+      "chapter": null,
+      "original": "Ὀρέστα , σοὶ δὲ παῖδʼ ἐγὼ κατεγγυῶ ,",
+      "translation": "To you , Orestes , I betroth my daughter , as Phoebus said ; being noble yourself , may you have benefit from a noble wife , and may I also , in giving her to you ."
+    },
+    {
+      "id": "1678",
+      "label": "Section 1678",
+      "chapter": null,
+      "original": "χωρεῖτέ νυν ἕκαστος οἷ προστάσσομεν ,",
+      "translation": "Go now each one to the place appointed by me ; reconcile your quarrels ."
+    },
+    {
+      "id": "1679b",
+      "label": "Section 1679b",
+      "chapter": null,
+      "original": "πείθεσθαι χρεών .",
+      "translation": "I must obey ."
+    },
+    {
+      "id": "1680",
+      "label": "Section 1680",
+      "chapter": null,
+      "original": "κἀγὼ τοιοῦτος · σπένδομαι δὲ συμφοραῖς ,",
+      "translation": "And so must I ; I make a truce with my fate , Menelaus , and with your oracles , Loxias ."
+    },
+    {
+      "id": "1682",
+      "label": "Section 1682",
+      "chapter": null,
+      "original": "ἴτε νυν καθʼ ὁδόν , τὴν καλλίστην",
+      "translation": "Go your ways , and honor Peace , fairest of goddesses ; I will bring Helen to the halls of Zeus ,"
+    },
+    {
+      "id": "1685",
+      "label": "Section 1685",
+      "chapter": null,
+      "original": "λαμπρῶν ἄστρων πόλον ἐξανύσας ,",
+      "translation": "when I have come to the sky , bright with stars . There , enthroned beside Hera and Hebe , the bride of Heracles , she will be honored by men with libations as a goddess for ever ; along with those Zeus-born sons of Tyndareus ,"
+    },
+    {
+      "id": "1690",
+      "label": "Section 1690",
+      "chapter": null,
+      "original": "ναύταις μεδέουσα θαλάσσης .",
+      "translation": "she will be a guardian of the sea , for the good of sailors ."
+    },
+    {
+      "id": "1691",
+      "label": "Section 1691",
+      "chapter": null,
+      "original": "ὦ μέγα σεμνὴ Νίκη , τὸν ἐμὸν",
+      "translation": "Greatly revered Victory , may you occupy my life , and never cease to crown me !"
+    }
+  ],
+  "prevChunkSlug": "orestes-7l7ixd-13",
+  "nextChunkSlug": null
+}

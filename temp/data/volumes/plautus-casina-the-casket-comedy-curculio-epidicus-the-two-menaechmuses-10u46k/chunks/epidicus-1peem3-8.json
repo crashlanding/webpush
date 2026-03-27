@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-casina-the-casket-comedy-curculio-epidicus-the-two-menaechmuses-10u46k",
+  "volumeTitle": "Casina. The Casket Comedy. Curculio. Epidicus. The Two Menaechmuses",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "epidicus-1peem3-8",
+  "label": "Epidicus (Section 3.4.495 - Section 4.1.555b)",
+  "partId": "epidicus-1peem3",
+  "partTitle": "Epidicus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Epidicus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi009.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Epidicus, or The Fortunate Discovery",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi009.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "3.4.495",
+      "label": "Section 3.4.495",
+      "chapter": null,
+      "original": "mercatus te hodie est de lenone Apoecides ?",
+      "translation": "Did Apaecides purchase you to-day of the procurer ? ( A pause .) Come now , tell me ."
+    },
+    {
+      "id": "3.4.496",
+      "label": "Section 3.4.496",
+      "chapter": null,
+      "original": "Fando ego istunc hominem numquam audivi ante hunc diem ,",
+      "translation": "I never heard of that person before to-day , nor , indeed , was any one able to purchase me for any money ; I ’ ve been free now for more than five years ."
+    },
+    {
+      "id": "3.4.499",
+      "label": "Section 3.4.499",
+      "chapter": null,
+      "original": "Quid tibi negotist meae domi igitur ?",
+      "translation": "What business have you , then , at my house ?"
+    },
+    {
+      "id": "3.4.499b",
+      "label": "Section 3.4.499b",
+      "chapter": null,
+      "original": "Audies .",
+      "translation": "You shall hear ;"
+    },
+    {
+      "id": "3.4.500",
+      "label": "Section 3.4.500",
+      "chapter": null,
+      "original": "conducta veni , ut fidibus cantarem seni ,",
+      "translation": "I came , being hired to perform for an old gentleman while he was sacrificing ."
+    },
+    {
+      "id": "3.4.501b",
+      "label": "Section 3.4.501b",
+      "chapter": null,
+      "original": "Fateor me omnium",
+      "translation": "I do confess that I am the most worthless of all men in Athens of Attica . But do you know Acropolistis the Music-girl ?"
+    },
+    {
+      "id": "3.4.504",
+      "label": "Section 3.4.504",
+      "chapter": null,
+      "original": "Tam facile quam me .",
+      "translation": "As well as my own self ."
+    },
+    {
+      "id": "3.4.504b",
+      "label": "Section 3.4.504b",
+      "chapter": null,
+      "original": "Vbi habitat ?",
+      "translation": "Where does she live ?"
+    },
+    {
+      "id": "3.4.504c",
+      "label": "Section 3.4.504c",
+      "chapter": null,
+      "original": "Postquam liberast",
+      "translation": "Since she has been made free ,"
+    },
+    {
+      "id": "3.4.505",
+      "label": "Section 3.4.505",
+      "chapter": null,
+      "original": "ubi habitet dicere admodum incerte scio .",
+      "translation": "I don ’ t know for certain ."
+    },
+    {
+      "id": "3.4.506",
+      "label": "Section 3.4.506",
+      "chapter": null,
+      "original": "Eho an libera illa est ? quis eam liberaverit ,",
+      "translation": "Well now , I should like to know who has made her free , if you know ?"
+    },
+    {
+      "id": "3.4.507b",
+      "label": "Section 3.4.507b",
+      "chapter": null,
+      "original": "Id quod audivi audies .",
+      "translation": "That which I have heard , you shall hear ; I heard that Stratippocles [*] , the son of Periphanes , had provided in his absence that she should be made free ."
+    },
+    {
+      "id": "3.4.510",
+      "label": "Section 3.4.510",
+      "chapter": null,
+      "original": "Perii hercle , si istaec vera sunt ; planissume",
+      "translation": "By heavens , I ’ m undone [*] , most clearly , if these things are true . Epidicus has disembowelled my purse !"
+    },
+    {
+      "id": "3.4.512",
+      "label": "Section 3.4.512",
+      "chapter": null,
+      "original": "Haec sic audivi . numquid me vis ceterum ?",
+      "translation": "I ’ ve heard to that effect . Do you want me for anything else ?"
+    },
+    {
+      "id": "3.4.513",
+      "label": "Section 3.4.513",
+      "chapter": null,
+      "original": "Malo cruciatu ut pereas atque abeas cito .",
+      "translation": "Away to perdition in the veriest torments , and off this instant !"
+    },
+    {
+      "id": "3.4.514",
+      "label": "Section 3.4.514",
+      "chapter": null,
+      "original": "Fides non reddis ?",
+      "translation": "Won ’ t you give me back my harp ?"
+    },
+    {
+      "id": "3.4.514b",
+      "label": "Section 3.4.514b",
+      "chapter": null,
+      "original": "Neque fides neque tibias .",
+      "translation": "Neither harp nor pipes ."
+    },
+    {
+      "id": "3.4.515",
+      "label": "Section 3.4.515",
+      "chapter": null,
+      "original": "propera igitur fugere hinc , si te di amant .",
+      "translation": "Make haste , then , and escape from here , if the Gods love you !"
+    },
+    {
+      "id": "3.4.515b",
+      "label": "Section 3.4.515b",
+      "chapter": null,
+      "original": "Abiero .",
+      "translation": "I ’ ll be off . At a future time , however , you ’ ll restore it , with the greater disgrace [*] to yourself ."
+    },
+    {
+      "id": "3.4.517",
+      "label": "Section 3.4.517",
+      "chapter": null,
+      "original": "Quid nunc ? qui in tantis positus sum sententiis , †",
+      "translation": "What now ? Shall I , who have been placed before so many edicts [*] , allow him to get with impunity ? No ; even though as much again should be required to be lost , I ’ ll lose it rather than"
+    },
+    {
+      "id": "3.4.520",
+      "label": "Section 3.4.520",
+      "chapter": null,
+      "original": "me impune irrisum esse , habitum depeculatui",
+      "translation": "allow myself to be held in derision with impunity and plundered by them . That I should have been thus cheated openly to my face , and that I should have been set at nought before this Apaecides , who is famed as being the framer and founder of all the laws and ordinances ! He too declares that he is a wise man ! that the hammer ,"
+    },
+    {
+      "id": "3.4.525",
+      "label": "Section 3.4.525",
+      "chapter": null,
+      "original": "sapientiorem vidi excusso manubrio .",
+      "translation": "forsooth , should be wiser than the handle [*] !"
+    },
+    {
+      "id": "4.1.526",
+      "label": "Section 4.1.526",
+      "chapter": null,
+      "original": "Sí quid est homini míseriarum quód miserescat , míser ex animost .",
+      "translation": "If a mortal being has aught of misery , through which , miserable creature , to be wretched from the heart , that same do I experience , for whom full many a woe unites in the same spot , which , all , at the same instant are beating against my breast . A multitude of troubles keep me in suspense ."
+    },
+    {
+      "id": "4.1.530",
+      "label": "Section 4.1.530",
+      "chapter": null,
+      "original": "paupértas , pavór territát mentem ánimi ,",
+      "translation": "Poverty and misery alarm the thoughts of my heart ; nor have I anywhere a spot of safety where to fix my hopes ; in such a way has my daughter fallen into the power of the enemy [*] ; nor do I know where she now is ."
+    },
+    {
+      "id": "4.1.533",
+      "label": "Section 4.1.533",
+      "chapter": null,
+      "original": "Quis illaec est mulier , timido pectore peregre adveniens",
+      "translation": "Who is this woman coming from a distance with a breast filled with alarms , and who thus bewails her lot ?"
+    },
+    {
+      "id": "4.1.534b",
+      "label": "Section 4.1.534b",
+      "chapter": null,
+      "original": "In his dictust locis habitare mihi",
+      "translation": "It was told me that Periphanes was living in this neighbourhood ."
+    },
+    {
+      "id": "4.1.535b",
+      "label": "Section 4.1.535b",
+      "chapter": null,
+      "original": "Me nominat haec ; credo ego illi hospitio usus venit .",
+      "translation": "She ’ s mentioning me ; need of hospitality has befallen her , I suppose ."
+    },
+    {
+      "id": "4.1.536",
+      "label": "Section 4.1.536",
+      "chapter": null,
+      "original": "Pervelim mercedem dare , qui monstret eum mihi hominem aut ubi habitet .",
+      "translation": "I would be very willing to give a reward to any one who would point me out that man , or where he dwells ."
+    },
+    {
+      "id": "4.1.537",
+      "label": "Section 4.1.537",
+      "chapter": null,
+      "original": "Noscito ego hanc , nam videor nescio ubi mi vidisse prius .",
+      "translation": "I recognize her ; for I think I have seen her before ; where , I know not . Is it , or is it not she , whom my mind suspects her to be ?"
+    },
+    {
+      "id": "4.1.539",
+      "label": "Section 4.1.539",
+      "chapter": null,
+      "original": "Di boni , visitavi ⋯ antidhac ?",
+      "translation": "Good Gods ! I have seen this person before !"
+    },
+    {
+      "id": "4.1.540",
+      "label": "Section 4.1.540",
+      "chapter": null,
+      "original": "Certo eást ⋯ quam in Épidauro paupérculam memini cómprimere .",
+      "translation": "It surely is she , a poor woman whom I remember having an intrigue with at Epidaurus ."
+    },
+    {
+      "id": "4.1.541",
+      "label": "Section 4.1.541",
+      "chapter": null,
+      "original": "Plane hícine est , qui mihi in Épidauro primús pudicitiam pépulit .",
+      "translation": "Surely it is he , who at Epidaurus first violated my maiden modesty ."
+    },
+    {
+      "id": "4.1.542",
+      "label": "Section 4.1.542",
+      "chapter": null,
+      "original": "Quaé meo compréssu peperit fíliam quam dómi nunc habeo .",
+      "translation": "She who had the daughter by me whom I ’ ve now got at home ."
+    },
+    {
+      "id": "4.1.543",
+      "label": "Section 4.1.543",
+      "chapter": null,
+      "original": "quíd si adeam —",
+      "translation": "What if I accost him ?"
+    },
+    {
+      "id": "4.1.543b",
+      "label": "Section 4.1.543b",
+      "chapter": null,
+      "original": "Hau scio án congrediar —",
+      "translation": "I don ’ t know whether to make up to her ."
+    },
+    {
+      "id": "4.1.543c",
+      "label": "Section 4.1.543c",
+      "chapter": null,
+      "original": "Si haéc east .",
+      "translation": "If this is she —"
+    },
+    {
+      "id": "4.1.543d",
+      "label": "Section 4.1.543d",
+      "chapter": null,
+      "original": "Si is ést homo , sicut",
+      "translation": "But if it is the man , as length of years renders me doubtful —"
+    },
+    {
+      "id": "4.1.545",
+      "label": "Section 4.1.545",
+      "chapter": null,
+      "original": "Lónga dies meum incértat animum . sín east quam incerte aútumo ,",
+      "translation": "Length of time renders my mind uncertain . But if it is she , whom with some doubt I conjecture it to be , I ’ ll accost her circumspectly ."
+    },
+    {
+      "id": "4.1.546",
+      "label": "Section 4.1.546",
+      "chapter": null,
+      "original": "Múliebris adhibenda míhi malitia nunc est .",
+      "translation": "A woman ’ s artfulness must be employed by me ."
+    },
+    {
+      "id": "4.1.547",
+      "label": "Section 4.1.547",
+      "chapter": null,
+      "original": "Cómpellabo .",
+      "translation": "I ’ ll address her ."
+    },
+    {
+      "id": "4.1.547b",
+      "label": "Section 4.1.547b",
+      "chapter": null,
+      "original": "Orátionis áciem contra cónferam .",
+      "translation": "I ’ ll bring my powers of conversation to bear against him ."
+    },
+    {
+      "id": "4.1.548",
+      "label": "Section 4.1.548",
+      "chapter": null,
+      "original": "Salva sis .",
+      "translation": "Health to you !"
+    },
+    {
+      "id": "4.1.548b",
+      "label": "Section 4.1.548b",
+      "chapter": null,
+      "original": "Salutem accipio mi et meis .",
+      "translation": "That health I accept for me and mine ."
+    },
+    {
+      "id": "4.1.548c",
+      "label": "Section 4.1.548c",
+      "chapter": null,
+      "original": "Quid ceterum ?",
+      "translation": "What besides ?"
+    },
+    {
+      "id": "4.1.549",
+      "label": "Section 4.1.549",
+      "chapter": null,
+      "original": "Salvos sis : quod credidisti reddo .",
+      "translation": "Health to yourself ; what you lent me , I return ."
+    },
+    {
+      "id": "4.1.549b",
+      "label": "Section 4.1.549b",
+      "chapter": null,
+      "original": "Haud accuso fidem .",
+      "translation": "I don ’ t impeach your punctuality ."
+    },
+    {
+      "id": "4.1.550",
+      "label": "Section 4.1.550",
+      "chapter": null,
+      "original": "novin ego te ?",
+      "translation": "Don ’ t I know you ?"
+    },
+    {
+      "id": "4.1.550b",
+      "label": "Section 4.1.550b",
+      "chapter": null,
+      "original": "Si ego te novi , animum inducam , ut tu noveris .",
+      "translation": "If I know you , I ’ ll move your feelings , so that you shall know me ."
+    },
+    {
+      "id": "4.1.551",
+      "label": "Section 4.1.551",
+      "chapter": null,
+      "original": "Vbi te visitavi ?",
+      "translation": "Where have I been in the habit of seeing you ?"
+    },
+    {
+      "id": "4.1.551b",
+      "label": "Section 4.1.551b",
+      "chapter": null,
+      "original": "Inique .",
+      "translation": "You are unfairly hard upon me ."
+    },
+    {
+      "id": "4.1.551c",
+      "label": "Section 4.1.551c",
+      "chapter": null,
+      "original": "Quid iam ?",
+      "translation": "Why so ?"
+    },
+    {
+      "id": "4.1.551d",
+      "label": "Section 4.1.551d",
+      "chapter": null,
+      "original": "Quia",
+      "translation": "Because you think it right that I should be the prompter of your memory ."
+    },
+    {
+      "id": "4.1.552b",
+      "label": "Section 4.1.552b",
+      "chapter": null,
+      "original": "Commode",
+      "translation": "You speak to the purpose ."
+    },
+    {
+      "id": "4.1.553b",
+      "label": "Section 4.1.553b",
+      "chapter": null,
+      "original": "Mira memoras .",
+      "translation": "You say what ’ s strange to me , Periphanes ."
+    },
+    {
+      "id": "4.1.553d",
+      "label": "Section 4.1.553d",
+      "chapter": null,
+      "original": "Em istuc rectius .",
+      "translation": "Ah now ! that ’ s better ."
+    },
+    {
+      "id": "4.1.554",
+      "label": "Section 4.1.554",
+      "chapter": null,
+      "original": "Meministin —",
+      "translation": "Do you remember , Philippa —"
+    },
+    {
+      "id": "4.1.554b",
+      "label": "Section 4.1.554b",
+      "chapter": null,
+      "original": "Memini id quod memini .",
+      "translation": "Yes , I remember that ."
+    },
+    {
+      "id": "4.1.554c",
+      "label": "Section 4.1.554c",
+      "chapter": null,
+      "original": "At in Epidauro —",
+      "translation": "At Epidaurus —"
+    },
+    {
+      "id": "4.1.554d",
+      "label": "Section 4.1.554d",
+      "chapter": null,
+      "original": "Ah , guttula",
+      "translation": "Ah ! you have moistened my burning breast with a little drop of comfort ."
+    },
+    {
+      "id": "4.1.555b",
+      "label": "Section 4.1.555b",
+      "chapter": null,
+      "original": "Virgini pauperculae ,",
+      "translation": "How I relieved the poverty of you , a poor young maiden , and your mother ?"
+    }
+  ],
+  "prevChunkSlug": "epidicus-1peem3-7",
+  "nextChunkSlug": "epidicus-1peem3-9"
+}

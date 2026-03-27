@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-casina-the-casket-comedy-curculio-epidicus-the-two-menaechmuses-10u46k",
+  "volumeTitle": "Casina. The Casket Comedy. Curculio. Epidicus. The Two Menaechmuses",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "curculio-ad3oao-10",
+  "label": "Curculio (Section 5.2.672 - Section 5.3.723)",
+  "partId": "curculio-ad3oao",
+  "partTitle": "Curculio",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Curculio",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi008.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Curculio, or The Forgery",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi008.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "5.2.672",
+      "label": "Section 5.2.672",
+      "chapter": null,
+      "original": "Quid cessas , miles , hanc huic uxorem dare ?",
+      "translation": "Why do you hesitate , Captain , to give her as a wife to him ?"
+    },
+    {
+      "id": "5.2.673",
+      "label": "Section 5.2.673",
+      "chapter": null,
+      "original": "Si haec volt .",
+      "translation": "If she is agreable ."
+    },
+    {
+      "id": "5.2.673b",
+      "label": "Section 5.2.673b",
+      "chapter": null,
+      "original": "Mi frater , cupio .",
+      "translation": "My brother , it is my wish ."
+    },
+    {
+      "id": "5.2.673c",
+      "label": "Section 5.2.673c",
+      "chapter": null,
+      "original": "Fiat .",
+      "translation": "So be it then ."
+    },
+    {
+      "id": "5.2.673d",
+      "label": "Section 5.2.673d",
+      "chapter": null,
+      "original": "Bene facis .",
+      "translation": "You do rightly ."
+    },
+    {
+      "id": "5.2.674",
+      "label": "Section 5.2.674",
+      "chapter": null,
+      "original": "Spondesne , miles , mi hanc uxorem ?",
+      "translation": "Captain , do you betroth me to her for my wife ?"
+    },
+    {
+      "id": "5.2.674b",
+      "label": "Section 5.2.674b",
+      "chapter": null,
+      "original": "Spondeo .",
+      "translation": "I do betroth her ."
+    },
+    {
+      "id": "5.2.675",
+      "label": "Section 5.2.675",
+      "chapter": null,
+      "original": "Et ego hoc idem una spondeo .",
+      "translation": "And to him do I promise support at my expense ."
+    },
+    {
+      "id": "5.2.675b",
+      "label": "Section 5.2.675b",
+      "chapter": null,
+      "original": "Lepide facis .",
+      "translation": "You do kindly . But ⋯"
+    },
+    {
+      "id": "5.2.676",
+      "label": "Section 5.2.676",
+      "chapter": null,
+      "original": "sed eccúm lenonem , incedit , thensaurum meum .",
+      "translation": "⋯ But see , here ’ s the Procurer coming ; my treasurer [*] , I mean ."
+    },
+    {
+      "id": "5.3.679",
+      "label": "Section 5.3.679",
+      "chapter": null,
+      "original": "Argentariis male credi qui aiunt , nugas praedicant :",
+      "translation": "Those who say [*] it ’ s bad for bankers to be trusted , utter nonsense ;"
+    },
+    {
+      "id": "5.3.680",
+      "label": "Section 5.3.680",
+      "chapter": null,
+      "original": "nam et bene et male credi dico ; id adeo ego hodie expertus sum .",
+      "translation": "I say it ’ s neither good nor bad for them to be trusted , and that , I ’ ve fully experienced this day . They are not [*] badly trusted , who never repay , but with whom it is lost outright . As for example , before this Lyco paid me the ten minae , he had to go to every banker ’ s counter . After there were no proceeds , I summoned the fellow with much noise ; he appealed against me to the court . I was most confoundedly afraid that this day he ’ d be settling accounts with me before the Praetor [*] ;"
+    },
+    {
+      "id": "5.3.685",
+      "label": "Section 5.3.685",
+      "chapter": null,
+      "original": "verum amici compulerunt : reddit argentum domo .",
+      "translation": "but my friends forced him , so he paid the money at home . Now I ’ m resolved to make haste to my house ."
+    },
+    {
+      "id": "5.3.686b",
+      "label": "Section 5.3.686b",
+      "chapter": null,
+      "original": "Heus tu , leno , te volo .",
+      "translation": "Hallo ! you Procurer ; I want you ."
+    },
+    {
+      "id": "5.3.687",
+      "label": "Section 5.3.687",
+      "chapter": null,
+      "original": "Et ego te volo .",
+      "translation": "And I want you ."
+    },
+    {
+      "id": "5.3.687b",
+      "label": "Section 5.3.687b",
+      "chapter": null,
+      "original": "At ego vos nolo ambos .",
+      "translation": "But I don ’ t want either of you ."
+    },
+    {
+      "id": "5.3.687c",
+      "label": "Section 5.3.687c",
+      "chapter": null,
+      "original": "Sta sis ilico ,",
+      "translation": "Stay this instant , will you ."
+    },
+    {
+      "id": "5.3.688",
+      "label": "Section 5.3.688",
+      "chapter": null,
+      "original": "atque argentum propere propera vomere .",
+      "translation": "And make you haste to disgorge the money with all despatch ."
+    },
+    {
+      "id": "5.3.688b",
+      "label": "Section 5.3.688b",
+      "chapter": null,
+      "original": "Quid mecum est tibi ?",
+      "translation": "What have you to do with me ? ( To the CAPTAIN .) Or what have you ?"
+    },
+    {
+      "id": "5.3.689b",
+      "label": "Section 5.3.689b",
+      "chapter": null,
+      "original": "Quía ego ex te hódie faciam pilum catapultarium",
+      "translation": "Because this day I shall be making a javelin of you , discharged from a catapulta ,"
+    },
+    {
+      "id": "5.3.690",
+      "label": "Section 5.3.690",
+      "chapter": null,
+      "original": "atque ita te nervo torquebo , ítidem ut catapultae solent .",
+      "translation": "and twist you with the string [*] , just as the catapultas are in the habit of doing ."
+    },
+    {
+      "id": "5.3.691",
+      "label": "Section 5.3.691",
+      "chapter": null,
+      "original": "Delicatum te hodie faciam , cum catello ut accubes ,",
+      "translation": "I ’ ll this day make a coxcomb of you , to be sleeping with a puppy [*] in your bed — an iron one , I mean ."
+    },
+    {
+      "id": "5.3.692b",
+      "label": "Section 5.3.692b",
+      "chapter": null,
+      "original": "At ego vos ambo in robusto carcere",
+      "translation": "But I ’ ll make you both to be rotting in a strong-barred prison ."
+    },
+    {
+      "id": "5.3.693b",
+      "label": "Section 5.3.693b",
+      "chapter": null,
+      "original": "Collum obstringe , abduce istum in malam crucem .",
+      "translation": "Seize him by the throat , and away with him to extreme torture ."
+    },
+    {
+      "id": "5.3.694",
+      "label": "Section 5.3.694",
+      "chapter": null,
+      "original": "Quidquid est , ipse ibit potius .",
+      "translation": "However that is , he ’ ll be going there of his own accord ."
+    },
+    {
+      "id": "5.3.694b",
+      "label": "Section 5.3.694b",
+      "chapter": null,
+      "original": "Pro deum atque hominum fidem ,",
+      "translation": "O Gods and men , your aid !"
+    },
+    {
+      "id": "5.3.695",
+      "label": "Section 5.3.695",
+      "chapter": null,
+      "original": "hocine pacto indemnatum atque intestatum me abripi ?",
+      "translation": "that I , uncondemned , and without evidence against me , should thus be dragged along ! Prithee , Planesium , and you , Phaedromus , do give me assistance ."
+    },
+    {
+      "id": "5.3.697",
+      "label": "Section 5.3.697",
+      "chapter": null,
+      "original": "Frater , obsecro te , noli hunc condemnatum perdere .",
+      "translation": "Brother , I do beseech you , don ’ t ruin him uncondemned ; he treated me kindly and modestly at his house ."
+    },
+    {
+      "id": "5.3.698b",
+      "label": "Section 5.3.698b",
+      "chapter": null,
+      "original": "Haud voluntate id sua :",
+      "translation": "That was through no inclination of his own ; give you thanks to this Aesculapius [*] ( pointing to the Temple ) that you ’ ve preserved your chastity ;"
+    },
+    {
+      "id": "5.3.700",
+      "label": "Section 5.3.700",
+      "chapter": null,
+      "original": "nam si valuisset , iam pridem quoquo posset mitteret .",
+      "translation": "for if he had been well , he ’ d long ago have packed you off wherever he could ."
+    },
+    {
+      "id": "5.3.701",
+      "label": "Section 5.3.701",
+      "chapter": null,
+      "original": "Animum advortite , ego si possum hoc inter vos componere .",
+      "translation": "Now attend to me , both of you , if I can arrange between you . ( To the CAPTAIN .) You let him go . Procurer , come you this way . I ’ ll pronounce my opinion , if indeed you are ready to abide by what I shall decide you should do ."
+    },
+    {
+      "id": "5.3.703b",
+      "label": "Section 5.3.703b",
+      "chapter": null,
+      "original": "Tibi permittimus :",
+      "translation": "We leave it to you ."
+    },
+    {
+      "id": "5.3.704",
+      "label": "Section 5.3.704",
+      "chapter": null,
+      "original": "Dum quidem hercle ita iudices , ne quisquam a me argentum auferat .",
+      "translation": "So long , i ’ faith , as you give a decision to the effect that no one is to take the money away from me ."
+    },
+    {
+      "id": "5.3.705",
+      "label": "Section 5.3.705",
+      "chapter": null,
+      "original": "Quódne promisti ?",
+      "translation": "What , not that which you promised ?"
+    },
+    {
+      "id": "5.3.705b",
+      "label": "Section 5.3.705b",
+      "chapter": null,
+      "original": "Qui promisi ?",
+      "translation": "I , promised ? How ?"
+    },
+    {
+      "id": "5.3.705c",
+      "label": "Section 5.3.705c",
+      "chapter": null,
+      "original": "Lingua .",
+      "translation": "With your tongue ."
+    },
+    {
+      "id": "5.3.705d",
+      "label": "Section 5.3.705d",
+      "chapter": null,
+      "original": "Eadem nunc nego .",
+      "translation": "With that same tongue I now gainsay it ; that was given me by Nature for the purpose of speaking , not of losing my property ."
+    },
+    {
+      "id": "5.3.707",
+      "label": "Section 5.3.707",
+      "chapter": null,
+      "original": "Nihil agit , collum obstringe homini .",
+      "translation": "He ’ s trifling ; seize the fellow by the throat ."
+    },
+    {
+      "id": "5.3.707b",
+      "label": "Section 5.3.707b",
+      "chapter": null,
+      "original": "Iam iam faciam ut iusseris .",
+      "translation": "I ’ ll at once then do as you bid me ."
+    },
+    {
+      "id": "5.3.708",
+      "label": "Section 5.3.708",
+      "chapter": null,
+      "original": "Quando vir bonus es , responde quod rogo .",
+      "translation": "Since you are an honest man , answer me this that I ask you ."
+    },
+    {
+      "id": "5.3.708b",
+      "label": "Section 5.3.708b",
+      "chapter": null,
+      "original": "Roga quód lubet .",
+      "translation": "Ask me what you please ."
+    },
+    {
+      "id": "5.3.709",
+      "label": "Section 5.3.709",
+      "chapter": null,
+      "original": "Promistin , si liberali quisquam hanc assereret manu ,",
+      "translation": "Did you not promise , that if any one should show that she ( pointing to PLANESIUM ) was freeborn ,"
+    },
+    {
+      "id": "5.3.710",
+      "label": "Section 5.3.710",
+      "chapter": null,
+      "original": "te omne argentum redditurum ?",
+      "translation": "you would pay back all the money ?"
+    },
+    {
+      "id": "5.3.710b",
+      "label": "Section 5.3.710b",
+      "chapter": null,
+      "original": "Non commemini dicere .",
+      "translation": "I don ’ t remember saying so ."
+    },
+    {
+      "id": "5.3.711",
+      "label": "Section 5.3.711",
+      "chapter": null,
+      "original": "Quid ? negas ?",
+      "translation": "What , do you deny it ?"
+    },
+    {
+      "id": "5.3.711b",
+      "label": "Section 5.3.711b",
+      "chapter": null,
+      "original": "Nego hercle vero . quo praesente ? quo in loco ?",
+      "translation": "I ’ faith , I really do deny it . In whose presence ? In what place was it ?"
+    },
+    {
+      "id": "5.3.712",
+      "label": "Section 5.3.712",
+      "chapter": null,
+      "original": "Me ipso praesente et Lycone tarpezita .",
+      "translation": "In my own presence , and that of Lyco the banker ."
+    },
+    {
+      "id": "5.3.712b",
+      "label": "Section 5.3.712b",
+      "chapter": null,
+      "original": "Non taces ?",
+      "translation": "Why don ’ t you hold your tongue ?"
+    },
+    {
+      "id": "5.3.713",
+      "label": "Section 5.3.713",
+      "chapter": null,
+      "original": "Non taceo .",
+      "translation": "I shan ’ t hold my tongue ."
+    },
+    {
+      "id": "5.3.713b",
+      "label": "Section 5.3.713b",
+      "chapter": null,
+      "original": "Non ego te flocci facio ; ne me territes .",
+      "translation": "I don ’ t care a rush for you ; don ’ t be bullying me ."
+    },
+    {
+      "id": "5.3.714",
+      "label": "Section 5.3.714",
+      "chapter": null,
+      "original": "Me ipso praesente et Lycone factum est .",
+      "translation": "In my own presence and that of Lyco it took place ."
+    },
+    {
+      "id": "5.3.714b",
+      "label": "Section 5.3.714b",
+      "chapter": null,
+      "original": "Satis credo tibi .",
+      "translation": "I quite believe you ."
+    },
+    {
+      "id": "5.3.715",
+      "label": "Section 5.3.715",
+      "chapter": null,
+      "original": "nunc adeo , ut tu scire possis , leno , meam sententiam :",
+      "translation": "Now , therefore , Procurer , that you may know my judgment , ( pointing to PLANESIUM ) she is a free woman ; he ( pointing to the CAPTAIN ) is her brother , and she is his sister ; she is engaged to me ; do you restore him the money ; that ’ s my decision ."
+    },
+    {
+      "id": "5.3.718",
+      "label": "Section 5.3.718",
+      "chapter": null,
+      "original": "Tu autem in nervo iam iacebis , nisi mi argentum redditur .",
+      "translation": "And as for you , you shall be clapt in prison at once , unless the money ’ s returned me ."
+    },
+    {
+      "id": "5.3.719",
+      "label": "Section 5.3.719",
+      "chapter": null,
+      "original": "Hercle istam rem iudicasti perfidiose , Phaedrome .",
+      "translation": "Upon my faith , Phaedromus , you have given this decision corruptly ."
+    },
+    {
+      "id": "5.3.720",
+      "label": "Section 5.3.720",
+      "chapter": null,
+      "original": "et tibi oberit et te , miles , di deaeque perduint .",
+      "translation": "It shall both be bad for you , and you , Captain ,— may the Gods and Goddesses confound you ."
+    },
+    {
+      "id": "5.3.721",
+      "label": "Section 5.3.721",
+      "chapter": null,
+      "original": "tu me sequere .",
+      "translation": "Then follow me ."
+    },
+    {
+      "id": "5.3.721b",
+      "label": "Section 5.3.721b",
+      "chapter": null,
+      "original": "Quo sequar te ?",
+      "translation": "Follow you where ?"
+    },
+    {
+      "id": "5.3.721c",
+      "label": "Section 5.3.721c",
+      "chapter": null,
+      "original": "Ad trapezitam meum",
+      "translation": "To my banker — to the Praetor [*] ; for it ’ s there that I pay my money to all persons to whom I ’ m indebted ."
+    },
+    {
+      "id": "5.3.723",
+      "label": "Section 5.3.723",
+      "chapter": null,
+      "original": "Ego te in nervom , haud ad praetorem hinc rapiam , ni argentum refers .",
+      "translation": "I ’ ll be carrying you hence to prison , and not to the Praetor , if you don ’ t pay back the money ."
+    }
+  ],
+  "prevChunkSlug": "curculio-ad3oao-9",
+  "nextChunkSlug": "curculio-ad3oao-11"
+}

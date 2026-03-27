@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-ghost-1vjypr-14",
+  "label": "The Ghost (Section 4.4.978b - Section 4.5.1031b)",
+  "partId": "the-ghost-1vjypr",
+  "partTitle": "The Ghost",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Mostellaria",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Mostellaria, or The Haunted House",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "4.4.978b",
+      "label": "Section 4.4.978b",
+      "chapter": null,
+      "original": "Quadraginta etiam dedit huic quae essent pignori ?",
+      "translation": "Has he given forty minae , too , to this person , to be as a deposit ?"
+    },
+    {
+      "id": "4.4.979",
+      "label": "Section 4.4.979",
+      "chapter": null,
+      "original": "Neque istud aio .",
+      "translation": "Nor yet do I say so ."
+    },
+    {
+      "id": "4.4.979b",
+      "label": "Section 4.4.979b",
+      "chapter": null,
+      "original": "Ei , perdis .",
+      "translation": "Ah me ! you ’ ve proved my ruin !"
+    },
+    {
+      "id": "4.4.979c",
+      "label": "Section 4.4.979c",
+      "chapter": null,
+      "original": "Immo suom patrem illic perdidit .",
+      "translation": "Aye , and he has proved the ruin of his father ."
+    },
+    {
+      "id": "4.4.980",
+      "label": "Section 4.4.980",
+      "chapter": null,
+      "original": "Vera cantas .",
+      "translation": "You prophesy the truth ! I could wish it false !"
+    },
+    {
+      "id": "4.4.980b",
+      "label": "Section 4.4.980b",
+      "chapter": null,
+      "original": "Vana vellem . patris videlicet .",
+      "translation": "A friend of his father , I suppose ?"
+    },
+    {
+      "id": "4.4.981",
+      "label": "Section 4.4.981",
+      "chapter": null,
+      "original": "Eu edepol patrem eius miserum praedicas .",
+      "translation": "Ah me ! Upon my faith , you do pronounce him to be a wretched father ."
+    },
+    {
+      "id": "4.4.981b",
+      "label": "Section 4.4.981b",
+      "chapter": null,
+      "original": "Nihil hoc quidem est ,",
+      "translation": "Why really , this is nothing at all — thirty minae , in comparison with the other expenses he has incurred in good living ."
+    },
+    {
+      "id": "4.4.983",
+      "label": "Section 4.4.983",
+      "chapter": null,
+      "original": "Perdidit patrem .",
+      "translation": "He has ruined his father ."
+    },
+    {
+      "id": "4.4.983b",
+      "label": "Section 4.4.983b",
+      "chapter": null,
+      "original": "Vnus istic servos est sacerrimus ,",
+      "translation": "There ’ s one servant there a very great scoundrel , Tranio by name ; he could even waste the revenue of a Hercules [*] ."
+    },
+    {
+      "id": "4.4.985",
+      "label": "Section 4.4.985",
+      "chapter": null,
+      "original": "edepol ne me eiús patris mísere miseret , qui cum istaec sciet",
+      "translation": "On my word , I ’ m sadly distrest for his father ; for when he comes to know that things have gone on thus , a hot coal will be scorching his breast , poor man ."
+    },
+    {
+      "id": "4.4.987",
+      "label": "Section 4.4.987",
+      "chapter": null,
+      "original": "Si quidem istaec vera sunt .",
+      "translation": "If , indeed , this is the truth ."
+    },
+    {
+      "id": "4.4.987b",
+      "label": "Section 4.4.987b",
+      "chapter": null,
+      "original": "Quid meream , quam ob rem mentiar ?",
+      "translation": "What am I to gain , that I should tell a lie ?"
+    },
+    {
+      "id": "4.4.988",
+      "label": "Section 4.4.988",
+      "chapter": null,
+      "original": "Heus vos , ecquis hasce aperit ?",
+      "translation": "( Knocks again at the door .) Hallo , you ! is any one coming to open this door ?"
+    },
+    {
+      "id": "4.4.988b",
+      "label": "Section 4.4.988b",
+      "chapter": null,
+      "original": "Quid istas pultas , ubi nemo intus est ?",
+      "translation": "Why do you knock in this way , when there ’ s no one in the house ?"
+    },
+    {
+      "id": "4.4.989",
+      "label": "Section 4.4.989",
+      "chapter": null,
+      "original": "alio credo comissatum abiisse . abeamus nunciam",
+      "translation": "I fancy that he ’ s gone elsewhere to carouse . Now then , let ’ s begone ."
+    },
+    {
+      "id": "4.4.991",
+      "label": "Section 4.4.991",
+      "chapter": null,
+      "original": "Puere , iamne abis ?",
+      "translation": "What , my lad , are you off then ?"
+    },
+    {
+      "id": "4.4.991b",
+      "label": "Section 4.4.991b",
+      "chapter": null,
+      "original": "Libertas paenulast tergo tuo :",
+      "translation": "Liberty ’ s the overcoat for your back [*] ."
+    },
+    {
+      "id": "4.4.992",
+      "label": "Section 4.4.992",
+      "chapter": null,
+      "original": "mihi , nisi ut erum metuam et curem , nihil est qui tergum tegam .—",
+      "translation": "Nothing have I with which to cover my back , except to pay respect and service to my master ."
+    },
+    {
+      "id": "4.5.993",
+      "label": "Section 4.5.993",
+      "chapter": null,
+      "original": "Perii hercle , quid opust verbis ? ut verba audio ,",
+      "translation": "By my troth , I am undone ! What need is there of talking ? According to the words I have heard , I surely haven ’ t lately voyaged hence to Aegypt ,"
+    },
+    {
+      "id": "4.5.995",
+      "label": "Section 4.5.995",
+      "chapter": null,
+      "original": "sed etiam in terras solas orasque ultumas",
+      "translation": "but even to some desolate land and the most remote shores have I been borne about , so much am I at a loss to know where I now am . But I shall soon know ; for see , here ’ s the person of whom my son bought the house . ( Enter SIMO .)"
+    },
+    {
+      "id": "4.5.998",
+      "label": "Section 4.5.998",
+      "chapter": null,
+      "original": "meus emit . quid agis tu ?",
+      "translation": "What are you about ?"
+    },
+    {
+      "id": "4.5.998b",
+      "label": "Section 4.5.998b",
+      "chapter": null,
+      "original": "A foro incedo domum .",
+      "translation": "I ’ m coming home from the Forum ."
+    },
+    {
+      "id": "4.5.999",
+      "label": "Section 4.5.999",
+      "chapter": null,
+      "original": "Numquid processit ad forum hodie novi ?",
+      "translation": "Has anything new been going on at the Forum to-day ?"
+    },
+    {
+      "id": "4.5.1000",
+      "label": "Section 4.5.1000",
+      "chapter": null,
+      "original": "Etiam .",
+      "translation": "Why yes ."
+    },
+    {
+      "id": "4.5.1000b",
+      "label": "Section 4.5.1000b",
+      "chapter": null,
+      "original": "Quid tandem ?",
+      "translation": "What is it , pray ?"
+    },
+    {
+      "id": "4.5.1000c",
+      "label": "Section 4.5.1000c",
+      "chapter": null,
+      "original": "Vidi efferri mortuom .",
+      "translation": "I saw a dead man being carried to burial ."
+    },
+    {
+      "id": "4.5.1000d",
+      "label": "Section 4.5.1000d",
+      "chapter": null,
+      "original": "Hem .",
+      "translation": "Dear me !"
+    },
+    {
+      "id": "4.5.1001",
+      "label": "Section 4.5.1001",
+      "chapter": null,
+      "original": "Novom unum : vidi mortuom efferri foras .",
+      "translation": "that is something new !"
+    },
+    {
+      "id": "4.5.1002",
+      "label": "Section 4.5.1002",
+      "chapter": null,
+      "original": "modo eum vixisse aiebant .",
+      "translation": "They said that he had been alive but just before ."
+    },
+    {
+      "id": "4.5.1002b",
+      "label": "Section 4.5.1002b",
+      "chapter": null,
+      "original": "Vae capiti tuo .",
+      "translation": "Woe to that head of yours for your nonsense !"
+    },
+    {
+      "id": "4.5.1003",
+      "label": "Section 4.5.1003",
+      "chapter": null,
+      "original": "Quid tu otiosus res novas requiritas ?",
+      "translation": "Why are you , thus idling about , enquiring after the news ?"
+    },
+    {
+      "id": "4.5.1004",
+      "label": "Section 4.5.1004",
+      "chapter": null,
+      "original": "Quia hodie adveni peregre .",
+      "translation": "Because I ’ ve just arrived from abroad ."
+    },
+    {
+      "id": "4.5.1004b",
+      "label": "Section 4.5.1004b",
+      "chapter": null,
+      "original": "Promisi foras ,",
+      "translation": "I ’ m engaged out to dine : don ’ t suppose I shall invite you [*] ."
+    },
+    {
+      "id": "4.5.1006",
+      "label": "Section 4.5.1006",
+      "chapter": null,
+      "original": "Haud postulo edepol .",
+      "translation": "I ’ faith , I don ’ t want ."
+    },
+    {
+      "id": "4.5.1006b",
+      "label": "Section 4.5.1006b",
+      "chapter": null,
+      "original": "Verum cras , nisi quis prius",
+      "translation": "But , to-morrow , unless any person invites me first , I ’ ll even dine with you ."
+    },
+    {
+      "id": "4.5.1008",
+      "label": "Section 4.5.1008",
+      "chapter": null,
+      "original": "Ne istuc quidem edepol postulo . nisi quid magis",
+      "translation": "I ’ faith , and that , too , I don ’ t want . Unless you are engaged with something of greater importance , lend me your attention ."
+    },
+    {
+      "id": "4.5.1009b",
+      "label": "Section 4.5.1009b",
+      "chapter": null,
+      "original": "Maxime .",
+      "translation": "By all means ."
+    },
+    {
+      "id": "4.5.1010",
+      "label": "Section 4.5.1010",
+      "chapter": null,
+      "original": "Minas quadraginta accepisti , quod sciam ,",
+      "translation": "You have received , as far as I understand , forty minae of Philolaches ."
+    },
+    {
+      "id": "4.5.1011b",
+      "label": "Section 4.5.1011b",
+      "chapter": null,
+      "original": "Numquam nummum , quod sciam .",
+      "translation": "Never a coin , so far as I know ."
+    },
+    {
+      "id": "4.5.1012",
+      "label": "Section 4.5.1012",
+      "chapter": null,
+      "original": "Quid , a Tránione servo ?",
+      "translation": "What ? Not from my servant Tranio ?"
+    },
+    {
+      "id": "4.5.1012b",
+      "label": "Section 4.5.1012b",
+      "chapter": null,
+      "original": "Multo hercle id minus .",
+      "translation": "Much less is that the case ."
+    },
+    {
+      "id": "4.5.1013",
+      "label": "Section 4.5.1013",
+      "chapter": null,
+      "original": "Quas arraboni tibi dedit ?",
+      "translation": "Which he gave you by way of deposit ?"
+    },
+    {
+      "id": "4.5.1013b",
+      "label": "Section 4.5.1013b",
+      "chapter": null,
+      "original": "Quid somnias ?",
+      "translation": "What are you dreaming about ?"
+    },
+    {
+      "id": "4.5.1014",
+      "label": "Section 4.5.1014",
+      "chapter": null,
+      "original": "Egone ? at quidem tu , qui istoc te speras modo",
+      "translation": "What , I ? Why , really , ’ tis yourself , who hope that , by dissembling in this manner ,"
+    },
+    {
+      "id": "4.5.1015",
+      "label": "Section 4.5.1015",
+      "chapter": null,
+      "original": "potesse dissimulando infectum hoc reddere .",
+      "translation": "you ’ ll be able to make void this bargain ."
+    },
+    {
+      "id": "4.5.1016",
+      "label": "Section 4.5.1016",
+      "chapter": null,
+      "original": "Quid autem ?",
+      "translation": "Why , what do you mean ?"
+    },
+    {
+      "id": "4.5.1016b",
+      "label": "Section 4.5.1016b",
+      "chapter": null,
+      "original": "Quod me apsente hic tecum filius",
+      "translation": "The business that , in my absence , my son transacted with you here ."
+    },
+    {
+      "id": "4.5.1017b",
+      "label": "Section 4.5.1017b",
+      "chapter": null,
+      "original": "Mecum ut ille hic gesserit ,",
+      "translation": "How did your son ,"
+    },
+    {
+      "id": "4.5.1018_1020",
+      "label": "Section 4.5.1018_1020",
+      "chapter": null,
+      "original": "dum tu hinc abes , negoti ? quidnam aut quo die ?",
+      "translation": "in your absence , transact any business with me ? What pray , or on what day ?"
+    },
+    {
+      "id": "4.5.1021",
+      "label": "Section 4.5.1021",
+      "chapter": null,
+      "original": "Minas tibi octoginta argenti debeo .",
+      "translation": "I owe you eighty minae of silver ."
+    },
+    {
+      "id": "4.5.1022",
+      "label": "Section 4.5.1022",
+      "chapter": null,
+      "original": "Non mihi quidem hercle . verum , si debes , cedo .",
+      "translation": "Not to me , indeed , upon my faith ; but still , if you do owe them , give them me . Faith must be kept . Don ’ t be attempting to deny it ."
+    },
+    {
+      "id": "4.5.1024",
+      "label": "Section 4.5.1024",
+      "chapter": null,
+      "original": "Profecto non negabo debere , et dabo ;",
+      "translation": "Assuredly , I shall not deny that I owe them ; and I shall pay them ."
+    },
+    {
+      "id": "4.5.1025",
+      "label": "Section 4.5.1025",
+      "chapter": null,
+      "original": "tu cave quadraginta accepisse hinc te neges .",
+      "translation": "Do you take care how you deny that you received the forty from him ."
+    },
+    {
+      "id": "4.5.1026bb",
+      "label": "Section 4.5.1026bb",
+      "chapter": null,
+      "original": "Ego dicam tibi .",
+      "translation": "Troth now , prithee , look this way at me , and answer me ."
+    },
+    {
+      "id": "4.5.1027",
+      "label": "Section 4.5.1027",
+      "chapter": null,
+      "original": "Te velle uxorem aiebat tuo nato dare ,",
+      "translation": "He said that you were wishful to give a wife to your son ; for that reason , he said that you intended building on your own premises ."
+    },
+    {
+      "id": "4.5.1029",
+      "label": "Section 4.5.1029",
+      "chapter": null,
+      "original": "Hic aedificare volui ?",
+      "translation": "I , intended building here ?"
+    },
+    {
+      "id": "4.5.1029b",
+      "label": "Section 4.5.1029b",
+      "chapter": null,
+      "original": "Sic dixit mihi .",
+      "translation": "So he told me ."
+    },
+    {
+      "id": "4.5.1030",
+      "label": "Section 4.5.1030",
+      "chapter": null,
+      "original": "Ei mihi , disperii . vocis non habeo satis .",
+      "translation": "Ah me ! I ’ m ruined outright ! I ’ ve hardly any voice left [*] . Neighbours , I ’ m undone , ruined quite !"
+    },
+    {
+      "id": "4.5.1031b",
+      "label": "Section 4.5.1031b",
+      "chapter": null,
+      "original": "Numquid Tranio",
+      "translation": "Has Tranio been causing any confusion ?"
+    }
+  ],
+  "prevChunkSlug": "the-ghost-1vjypr-13",
+  "nextChunkSlug": "the-ghost-1vjypr-15"
+}

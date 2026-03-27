@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-bacchae-iphigenia-at-aulis-rhesus-11kdpx",
+  "volumeTitle": "Bacchae. Iphigenia at Aulis. Rhesus",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "iphigenia-at-aulis-1nu4gk-9",
+  "label": "Iphigenia at Aulis (Section 1132 - Section 1330)",
+  "partId": "iphigenia-at-aulis-1nu4gk",
+  "partTitle": "Iphigenia at Aulis",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἰφιγένεια ἐν Αὐλίδι",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Iphigenia at Aulis",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1132",
+      "label": "Section 1132",
+      "chapter": null,
+      "original": "ἔα ·",
+      "translation": "Ha ! these are heartless words , unwarranted suspicions !"
+    },
+    {
+      "id": "1133",
+      "label": "Section 1133",
+      "chapter": null,
+      "original": "ἔχʼ ἥσυχος .",
+      "translation": "Peace ! answer me that question first ."
+    },
+    {
+      "id": "1134",
+      "label": "Section 1134",
+      "chapter": null,
+      "original": "σὺ δʼ , ἤν γʼ ἐρωτᾷς εἰκότʼ , εἰκότʼ ἂν κλύοις .",
+      "translation": "Put a fair question and you shall have a fair answer ."
+    },
+    {
+      "id": "1135",
+      "label": "Section 1135",
+      "chapter": null,
+      "original": "οὐκ ἄλλʼ ἐρωτῶ , καὶ σὺ μὴ λέγʼ ἄλλα μοι .",
+      "translation": "I have no other questions to put ; give me no other answers ."
+    },
+    {
+      "id": "1136",
+      "label": "Section 1136",
+      "chapter": null,
+      "original": "ὦ πότνια μοῖρα καὶ τύχη δαίμων τʼ ἐμός .",
+      "translation": "O fate revered , O destiny , and my fortune !"
+    },
+    {
+      "id": "1137",
+      "label": "Section 1137",
+      "chapter": null,
+      "original": "κἀμός γε καὶ τῆσδʼ , εἷς τριῶν δυσδαιμόνων .",
+      "translation": "Yes , and mine and hers too ; the three share one bad fortune ."
+    },
+    {
+      "id": "1138",
+      "label": "Section 1138",
+      "chapter": null,
+      "original": "τίνʼ ἠδίκησαι ;",
+      "translation": "Whom have I injured ?"
+    },
+    {
+      "id": "1138b",
+      "label": "Section 1138b",
+      "chapter": null,
+      "original": "τοῦτʼ ἐμοῦ πεύθῃ πάρα ;",
+      "translation": "Do you ask this question ? A thought like that itself amounts to tboughtlessness ."
+    },
+    {
+      "id": "1140",
+      "label": "Section 1140",
+      "chapter": null,
+      "original": "ἀπωλόμεσθα . προδέδοται τὰ κρυπτά μου .",
+      "translation": "Ruined ! my secret betrayed !"
+    },
+    {
+      "id": "1141",
+      "label": "Section 1141",
+      "chapter": null,
+      "original": "πάντʼ οἶδα , καὶ πεπύσμεθʼ ἃ σὺ μέλλεις με δρᾶν ·",
+      "translation": "I know all ; I have heard what you are bent on doing to me . [*] Your very silence and those frequent groans are a confession ; do not tire yourself by telling it ."
+    },
+    {
+      "id": "1144",
+      "label": "Section 1144",
+      "chapter": null,
+      "original": "ἰδοὺ σιωπῶ · τὸ γὰρ ἀναίσχυντον τί δεῖ",
+      "translation": "See , I am silent ; for why should I tell you a falsehood ,"
+    },
+    {
+      "id": "1145",
+      "label": "Section 1145",
+      "chapter": null,
+      "original": "ψευδῆ λέγοντα προσλαβεῖν τῇ συμφορᾷ ;",
+      "translation": "and add effrontery to misfortune ?"
+    },
+    {
+      "id": "1146",
+      "label": "Section 1146",
+      "chapter": null,
+      "original": "ἄκουε δή νυν · ἀνακαλύψω γὰρ λόγους ,",
+      "translation": "Well , now listen ; for I will unfold my meaning and no longer employ dark riddles . In the first place — to reproach you first with this — it was not of my own free will but by force that you took and wed me ,"
+    },
+    {
+      "id": "1150",
+      "label": "Section 1150",
+      "chapter": null,
+      "original": "τὸν πρόσθεν ἄνδρα Τάνταλον κατακτανών ·",
+      "translation": "after slaying Tantalus , my former husband , and dashing [*] my baby on the ground when you had torn him from my breast with brutal violence . Then those two sons of Zeus , who were my brothers , came flashing on horseback to war with you ;"
+    },
+    {
+      "id": "1155",
+      "label": "Section 1155",
+      "chapter": null,
+      "original": "πατὴρ δὲ πρέσβυς Τυνδάρεώς σʼ ἐρρύσατο",
+      "translation": "but Tyndareus , my old father , rescued you because of your suppliant prayers , and you in turn had me to wife . Once I was reconciled to you upon this footing , you will bear me witness I have been a blameless wife to you and your family , chaste in love ,"
+    },
+    {
+      "id": "1160",
+      "label": "Section 1160",
+      "chapter": null,
+      "original": "μέλαθρον αὔξουσʼ , ὥστε σʼ εἰσιόντα τε",
+      "translation": "an honor to your house , that so your coming in might be with joy and your going out with gladness . And it is seldom a man secures a wife like this , though the getting of a worthless woman Is no rarity ."
+    },
+    {
+      "id": "1164",
+      "label": "Section 1164",
+      "chapter": null,
+      "original": "τίκτω δʼ ἐπὶ τρισὶ παρθένοισι παῖδά σοι",
+      "translation": "Besides three daughters , of one of whom you are heartlessly depriving me ,"
+    },
+    {
+      "id": "1165",
+      "label": "Section 1165",
+      "chapter": null,
+      "original": "τόνδʼ , ὧν μιᾶς σὺ τλημόνως μʼ ἀποστερεῖς .",
+      "translation": "I am the mother of this son of yours . If anyone asks you your reason for slaying her , tell me , what will you say ? or must I say it for you ? It is that Menelaus may recover Helen . An honorable exchange , indeed , to pay a wicked woman ’ s price in children ’ s lives !"
+    },
+    {
+      "id": "1170",
+      "label": "Section 1170",
+      "chapter": null,
+      "original": "τἄχθιστα τοῖσι φιλτάτοις ὠνούμεθα .",
+      "translation": "It is buying what we most detest [*] with what we hold most dear . Again , if you go forth with the army , leaving me in your halls and are long absent at Troy , what will my feelings be at home , do you think ? when I behold each vacant chair"
+    },
+    {
+      "id": "1175",
+      "label": "Section 1175",
+      "chapter": null,
+      "original": "κενοὺς δὲ παρθενῶνας , ἐπὶ δὲ δακρύοις",
+      "translation": "and her chamber now deserted , and then sit down alone in tears , making ceaseless lamentation for her , Ah ! my child , he that begot you has slain you himself , he and no one else , nor are was it by another ’ s hand , [*] leaving behind him such a return to his home ."
+    },
+    {
+      "id": "1180",
+      "label": "Section 1180",
+      "chapter": null,
+      "original": "ἐπεὶ βραχείας προφάσεως ἔδει μόνον ,",
+      "translation": "For it needs [*] now only a trifling pretext for me and the daughters remaining to give you the reception it is right you should receive . I adjure you by the gods , do not compel me to sin against you , or sin yourself ."
+    },
+    {
+      "id": "1185",
+      "label": "Section 1185",
+      "chapter": null,
+      "original": "εἶἑν ·",
+      "translation": "Well ; suppose you sacrifice the child ; what prayer will you utter , when it is done ? what will the blessing be that you will invoke upon yourself as you are slaying our daughter ? An ill returning , seeing the disgrace that speeds your going forth ? Is it right that I should pray for any luck to attend you ? Surely we should deem the gods devoid of sense ,"
+    },
+    {
+      "id": "1190",
+      "label": "Section 1190",
+      "chapter": null,
+      "original": "εἰ τοῖσιν αὐθένταισιν εὖ φρονήσομεν ;",
+      "translation": "if we harbored a kindly feeling towards murder ? Shall you embrace your children on your coming back to Argos ? No , you have no right . Will any child of yours ever face you , if you have surrendered one of them to death ? [*] Has this ever entered into your calculations , or does your one duty consist"
+    },
+    {
+      "id": "1195",
+      "label": "Section 1195",
+      "chapter": null,
+      "original": "μόνον διαφέρειν καὶ στρατηλατεῖν μέλει ;",
+      "translation": "in carrying a scepter about and marching at the head of an army ? When you might have made this fair proposal among the Argives ; Is it your wish , Achaeans , to sail for Phrygia ’ s shores ? Why then , cast lots whose daughter has to die . For that would have been a fair course for you to pursue , instead of picking out"
+    },
+    {
+      "id": "1200",
+      "label": "Section 1200",
+      "chapter": null,
+      "original": "σφάγιον παρασχεῖν Δαναΐδαισι παῖδα σήν ,",
+      "translation": "your own child for the victim and presenting her to the Danaids ; or Menelaus , as it was his concern , should have slain Hermione for her mother . As it is , I , who still am true to your bed , must lose my child ; while she , who went astray ,"
+    },
+    {
+      "id": "1205",
+      "label": "Section 1205",
+      "chapter": null,
+      "original": "Σπάρτῃ κομίζουσʼ , εὐτυχὴς γενήσεται .",
+      "translation": "will return with her daughter , and live in happiness at Sparta . If I am wrong in my words , answer me ; but if they have been fairly urged , do not still [*] slay your child , who is mine too , and you will be wise ."
+    },
+    {
+      "id": "1209",
+      "label": "Section 1209",
+      "chapter": null,
+      "original": "πιθοῦ . τὸ γάρ τοι τέκνα συνσῴζειν καλόν ,",
+      "translation": "Hearken to her , Agamemnon , for to join in saving your children ’ s lives is surely a noble deed ;"
+    },
+    {
+      "id": "1210",
+      "label": "Section 1210",
+      "chapter": null,
+      "original": "Ἀγάμεμνον · οὐδεὶς πρὸς τάδʼ ἀντερεῖ βροτῶν .",
+      "translation": "no one will deny this ."
+    },
+    {
+      "id": "1211",
+      "label": "Section 1211",
+      "chapter": null,
+      "original": "εἰ μὲν τὸν Ὀρφέως εἶχον , ὦ πάτερ , λόγον ,",
+      "translation": "If I had the eloquence of Orpheus , my father , to move the rocks by chanted spells to follow me , or to charm by speaking anyone I wished , I would have resorted to it . But as it is , I ’ ll bring my tears — the only art I know ;"
+    },
+    {
+      "id": "1215",
+      "label": "Section 1215",
+      "chapter": null,
+      "original": "δάκρυα παρέξω · ταῦτα γὰρ δυναίμεθʼ ἄν .",
+      "translation": "for that I might attempt . And about your knees , as a suppliant , I twine my limbs — these limbs your wife here bore . Do not destroy me before my time , for it is sweet to look upon the light , and do not force me to visit scenes below ."
+    },
+    {
+      "id": "1220",
+      "label": "Section 1220",
+      "chapter": null,
+      "original": "πρώτη σʼ ἐκάλεσα πατέρα καὶ σὺ παῖδʼ ἐμέ ·",
+      "translation": "I was the first to call you father , you the first to call me child ; I was the first to sit upon your knee and give and take the fond caress . And this was what you would saythen : Shall I see you , my child , living a happy prosperous life"
+    },
+    {
+      "id": "1225",
+      "label": "Section 1225",
+      "chapter": null,
+      "original": "ζῶσάν τε καὶ θάλλουσαν ἀξίως ἐμοῦ ;",
+      "translation": "in a husband ’ s home one day , in a manner worthy of myself ? And I in my turn would ask , as I hung about your beard , where I now am clinging , What then will I do for you ? Shall I be giving you a glad reception in my halls , father ,"
+    },
+    {
+      "id": "1230",
+      "label": "Section 1230",
+      "chapter": null,
+      "original": "πόνων τιθηνοὺς ἀποδιδοῦσά σοι τροφάς ;",
+      "translation": "in your old age , repaying all your anxious care in rearing me ?"
+    },
+    {
+      "id": "1231",
+      "label": "Section 1231",
+      "chapter": null,
+      "original": "τούτων ἐγὼ μὲν τῶν λόγων μνήμην ἔχω ,",
+      "translation": "I remember all we said , it is you who have forgotten and now would take my life . By Pelops , I entreat you spare me , by your father Atreus and my mother here , who suffers now a second time the pangs"
+    },
+    {
+      "id": "1235",
+      "label": "Section 1235",
+      "chapter": null,
+      "original": "νῦν δευτέραν ὠδῖνα τήνδε λαμβάνει .",
+      "translation": "she felt before when bearing me ! What have I to do with the marriage of Paris and Helen ? Why is his coming to prove my ruin , father ? Look upon me ; bestow one glance , one kiss , that this at least I may carry to my death"
+    },
+    {
+      "id": "1240",
+      "label": "Section 1240",
+      "chapter": null,
+      "original": "μνημεῖον , ἢν μὴ τοῖς ἐμοῖς πεισθῇς λόγοις .",
+      "translation": "as a memorial of you , though you do not heed my pleading ."
+    },
+    {
+      "id": "1241",
+      "label": "Section 1241",
+      "chapter": null,
+      "original": "ἀδελφέ , μικρὸς μὲν σύ γʼ ἐπίκουρος φίλοις ,",
+      "translation": "holding up the baby Orestes . Feeble ally though you are , brother , to your loved ones , yet add your tears to mine and entreat our father for your sister ’ s life ; even in babies there is a natural sense of evil ."
+    },
+    {
+      "id": "1245",
+      "label": "Section 1245",
+      "chapter": null,
+      "original": "ἰδοὺ σιωπῶν λίσσεταί σʼ ὅδʼ , ὦ πάτερ .",
+      "translation": "O father , see this speechless supplication made to you ; pity me ; have mercy on my tender years ! Yes , by your beard we two fond hearts implore your pity , the one a baby , a full-grown maid the other . By summing all my pleas in one , I will prevail in what I say :"
+    },
+    {
+      "id": "1250",
+      "label": "Section 1250",
+      "chapter": null,
+      "original": "τὸ φῶς τόδʼ ἀνθρώποισιν ἥδιστον βλέπειν ,",
+      "translation": "to gaze upon the light is man ’ s most cherished gift ; that life below is nothingness , and whoever longs for death is mad . Better live a life of woe than die a death of glory !"
+    },
+    {
+      "id": "1253",
+      "label": "Section 1253",
+      "chapter": null,
+      "original": "ὦ τλῆμον Ἑλένη , διὰ σὲ καὶ τοὺς σοὺς γάμους",
+      "translation": "Ah , wretched Helen ! Great is the struggle that has come sons to the of Atreus and their children , thanks to you and those marriages of yours ."
+    },
+    {
+      "id": "1255",
+      "label": "Section 1255",
+      "chapter": null,
+      "original": "ἐγὼ τά τʼ οἰκτρὰ συνετός εἰμι καὶ τὰ μή ,",
+      "translation": "While loving my own children , I yet understand what should move my pity and what should not ; I would be a madman otherwise . It is terrible for me to bring myself to this , nor is it less terrible to refuse , daughter ; for I must do this . [*] You see the vastness of that naval army ,"
+    },
+    {
+      "id": "1260",
+      "label": "Section 1260",
+      "chapter": null,
+      "original": "χαλκέων θʼ ὅπλων ἄνακτες Ἑλλήνων ὅσοι ,",
+      "translation": "and the numbers of bronze-clad warriors from Hellas , who can neither make their way to Ilium ’ s towers nor raze the far-famed citadel of Troy , unless I offer you according to the word of Calchas the seer . [*] Some mad desire possesses the army of Hellas"
+    },
+    {
+      "id": "1265",
+      "label": "Section 1265",
+      "chapter": null,
+      "original": "πλεῖν ὡς τάχιστα βαρβάρων ἐπὶ χθόνα ,",
+      "translation": "to sail at once to the land of the barbarians , and put a stop to the rape of wives from Hellas , and they will slay my daughter in Argos as well as you and me , if I disregard the goddess ’ s commands . It is not Menelaus who has enslaved me to him , child ,"
+    },
+    {
+      "id": "1270",
+      "label": "Section 1270",
+      "chapter": null,
+      "original": "οὐδʼ ἐπὶ τὸ κείνου βουλόμενον ἐλήλυθα ,",
+      "translation": "nor have I followed his wish ; no , it is Hellas , for whom I must sacrifice you whether I will or not ; to this necessity I bow my head ; for her freedom must be preserved , as far as any help of yours daughter , or mine can go ; or they , who are the sons of Hellas , must be"
+    },
+    {
+      "id": "1275",
+      "label": "Section 1275",
+      "chapter": null,
+      "original": "Ἕλληνας ὄντας λέκτρα συλᾶσθαι βίᾳ .",
+      "translation": "pillaged of their wives by barbarian robbery . Exit Agamemnon ."
+    },
+    {
+      "id": "1276",
+      "label": "Section 1276",
+      "chapter": null,
+      "original": "ὦ τέκνον , ὦ ξέναι ,",
+      "translation": "My child ! oh , foreign women ! Alas for me , for your death ! Your father escapes , surrendering you to Hades ."
+    },
+    {
+      "id": "1279",
+      "label": "Section 1279",
+      "chapter": null,
+      "original": "οἲ ʼγώ , μᾶτερ · ταὐτὸν τόδε γὰρ",
+      "translation": "Alas for me , mother ! for the same"
+    },
+    {
+      "id": "1280",
+      "label": "Section 1280",
+      "chapter": null,
+      "original": "μέλος εἰς ἄμφω πέπτωκε τύχης ,",
+      "translation": "lament has fallen to both of us in our fortune . No more for me the light of day ! no more these beams of the sun ! Oh , oh ! that snow-beat glen in Phrygia and the hills of Ida ,"
+    },
+    {
+      "id": "1285",
+      "label": "Section 1285",
+      "chapter": null,
+      "original": "Πρίαμος ὅθι ποτὲ βρέφος ἁπαλὸν ἔβαλε",
+      "translation": "where Priam once exposed a tender baby , torn from his mother ’ s arms to meet a deadly doom , Paris , called the child of Ida"
+    },
+    {
+      "id": "1290",
+      "label": "Section 1290",
+      "chapter": null,
+      "original": "δαῖος ἐλέγετʼ ἐλέγετʼ ἐν Φρυγῶν πόλει ,",
+      "translation": "in the Phrygians ’ town . Would that he never had settled Alexander , the herdsman reared among the herds , beside that water crystal-clear , where are fountains"
+    },
+    {
+      "id": "1295",
+      "label": "Section 1295",
+      "chapter": null,
+      "original": "Νυμφᾶν κεῖνται",
+      "translation": "of the Nymphs and their meadow rich with blooming flowers , where hyacinths and rose-buds blow for goddesses to gather ! Here one day"
+    },
+    {
+      "id": "1300",
+      "label": "Section 1300",
+      "chapter": null,
+      "original": "Παλλὰς ἔμολε καὶ δολιόφρων Κύπρις",
+      "translation": "came Pallas and Cypris of the subtle heart , Hera too and Hermes messenger of Zeus ; Cypris , proud of the longing she causes ,"
+    },
+    {
+      "id": "1305",
+      "label": "Section 1305",
+      "chapter": null,
+      "original": "Κύπρις , ἃ δὲ δορὶ Παλλάς ,",
+      "translation": "Pallas of her prowess ; and Hera of her royal marriage with king Zeus ; to decide a hateful strife about their beauty ; but it is my death ,"
+    },
+    {
+      "id": "1310",
+      "label": "Section 1310",
+      "chapter": null,
+      "original": "ὄνομα μὲν φέροντα Δαναΐ-",
+      "translation": "maidens , bringing , it is true , glory to the Danaids , that Artemis has received as an offering , before they begin the voyage to Ilium . [*]"
+    },
+    {
+      "id": "1313",
+      "label": "Section 1313",
+      "chapter": null,
+      "original": "ὦ μᾶτερ ὦ μᾶτερ ,",
+      "translation": "O mother , mother ! he that begot me to this life of sorrow has gone and left me all alone ."
+    },
+    {
+      "id": "1315",
+      "label": "Section 1315",
+      "chapter": null,
+      "original": "ὦ δυστάλαινʼ ἐγώ , πικρὰν",
+      "translation": "Ah ! woe is me ! a bitter , bitter sight for me was Helen , evil Helen ! to me now doomed to bleed and die , slaughtered by an impious father !"
+    },
+    {
+      "id": "1319",
+      "label": "Section 1319",
+      "chapter": null,
+      "original": "μή μοι ναῶν χαλκεμβολάδων",
+      "translation": "I wish this Aulis had never received"
+    },
+    {
+      "id": "1320",
+      "label": "Section 1320",
+      "chapter": null,
+      "original": "πρύμνας ἅδʼ Αὐλὶς δέξασθαι",
+      "translation": "in its havens here the stems of their bronze-beaked ships , the fleet which was speeding them to Troy ; and would that Zeus had never breathed on the Euripus a wind to stop the expedition , [*] tempering , as he does ,"
+    },
+    {
+      "id": "1325",
+      "label": "Section 1325",
+      "chapter": null,
+      "original": "αὔραν ἄλλοις ἄλλαν θνατῶν",
+      "translation": "a different breeze to different men , so that some have joy in setting sail , and sorrow some , and others hard constraint , to make some start and others prepare and others delay !"
+    },
+    {
+      "id": "1330",
+      "label": "Section 1330",
+      "chapter": null,
+      "original": "ἦ πολύμοχθον ἄρʼ ἦν γένος , ἦ πολύμοχθον",
+      "translation": "Full of trouble then , it seems , is the race of mortals , full of trouble indeed ; and it is Fate ’ s decree that man should find distress ."
+    }
+  ],
+  "prevChunkSlug": "iphigenia-at-aulis-1nu4gk-8",
+  "nextChunkSlug": "iphigenia-at-aulis-1nu4gk-10"
+}

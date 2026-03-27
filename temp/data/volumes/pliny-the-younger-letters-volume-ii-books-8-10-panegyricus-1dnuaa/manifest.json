@@ -1,0 +1,158 @@
+{
+  "loebNumber": 59,
+  "sortOrder": 59,
+  "slug": "pliny-the-younger-letters-volume-ii-books-8-10-panegyricus-1dnuaa",
+  "title": "Letters, Volume II: Books 8-10. Panegyricus",
+  "volumeLabel": "Letters, Volume II: Books 8-10. Panegyricus",
+  "authorDisplay": "Pliny the Younger",
+  "authors": [
+    "Pliny the Younger"
+  ],
+  "language": "latin",
+  "summary": "1 of 2 contents in Letters, Volume II: Books 8-10. Panegyricus are live from Scaife, while the remaining contents stay visible until a confident pair is available.",
+  "status": "partial",
+  "defaultChunkSlug": "panegyricus-1ruktw-1",
+  "readyChunkCount": 4,
+  "contents": [
+    {
+      "id": "books-8-10-dr6gfe",
+      "title": "Books 8-10",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Books 8-10."
+    },
+    {
+      "id": "panegyricus-1ruktw",
+      "title": "Panegyricus",
+      "status": "ready",
+      "sectionCount": 189,
+      "chunkSlug": "panegyricus-1ruktw-1",
+      "chunks": [
+        {
+          "slug": "panegyricus-1ruktw-1",
+          "label": "Panegyricus (Section 1 - Section 60)",
+          "partId": "panegyricus-1ruktw",
+          "partTitle": "Panegyricus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "panegyricus-1ruktw-2",
+          "label": "Panegyricus (Section 61 - Section 120)",
+          "partId": "panegyricus-1ruktw",
+          "partTitle": "Panegyricus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "panegyricus-1ruktw-3",
+          "label": "Panegyricus (Section 121 - Section 180)",
+          "partId": "panegyricus-1ruktw",
+          "partTitle": "Panegyricus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "panegyricus-1ruktw-4",
+          "label": "Panegyricus (Section 181 - Section 189)",
+          "partId": "panegyricus-1ruktw",
+          "partTitle": "Panegyricus",
+          "sectionCount": 9,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "panegyricus-1ruktw-1",
+      "label": "Panegyricus (Section 1 - Section 60)",
+      "partId": "panegyricus-1ruktw",
+      "partTitle": "Panegyricus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "panegyricus-1ruktw-2",
+      "label": "Panegyricus (Section 61 - Section 120)",
+      "partId": "panegyricus-1ruktw",
+      "partTitle": "Panegyricus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "panegyricus-1ruktw-3",
+      "label": "Panegyricus (Section 121 - Section 180)",
+      "partId": "panegyricus-1ruktw",
+      "partTitle": "Panegyricus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "panegyricus-1ruktw-4",
+      "label": "Panegyricus (Section 181 - Section 189)",
+      "partId": "panegyricus-1ruktw",
+      "partTitle": "Panegyricus",
+      "sectionCount": 9,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "panegyricus-1ruktw-1",
+      "partTitle": "Panegyricus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πανηγυρικός",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg011.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Panegyricus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "panegyricus-1ruktw-2",
+      "partTitle": "Panegyricus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πανηγυρικός",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg011.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Panegyricus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "panegyricus-1ruktw-3",
+      "partTitle": "Panegyricus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πανηγυρικός",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg011.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Panegyricus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "panegyricus-1ruktw-4",
+      "partTitle": "Panegyricus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πανηγυρικός",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg011.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Panegyricus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg011.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-little-carthaginian-pseudolus-the-rope-rpgc9x",
+  "volumeTitle": "The Little Carthaginian. Pseudolus. The Rope",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-little-carthaginian-12yp3b-12",
+  "label": "The Little Carthaginian (Section 4.2.896b - Section 5.2.998)",
+  "partId": "the-little-carthaginian-12yp3b",
+  "partTitle": "The Little Carthaginian",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Poenulus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Poenulus, or The Young Carthaginian",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "4.2.896b",
+      "label": "Section 4.2.896b",
+      "chapter": null,
+      "original": "Quia illas emit in Anactorio parvolas",
+      "translation": "Because he bought them at Anactorium , when little children , of a Sicilian pirate ."
+    },
+    {
+      "id": "4.2.897b",
+      "label": "Section 4.2.897b",
+      "chapter": null,
+      "original": "Quanti ?",
+      "translation": "For how much ?"
+    },
+    {
+      "id": "4.2.897c",
+      "label": "Section 4.2.897c",
+      "chapter": null,
+      "original": "Duodeviginti minis ,",
+      "translation": "For eighteen minae ."
+    },
+    {
+      "id": "4.2.898",
+      "label": "Section 4.2.898",
+      "chapter": null,
+      "original": "duas illas et Giddenenem nutricem earum tertiam .",
+      "translation": "And their nurse for the third ."
+    },
+    {
+      "id": "4.2.899",
+      "label": "Section 4.2.899",
+      "chapter": null,
+      "original": "et ille qui eas vendebat dixit se furtivas vendere :",
+      "translation": "He , too , who sold them told him that he was selling persons who had been kidnapped :"
+    },
+    {
+      "id": "4.2.900",
+      "label": "Section 4.2.900",
+      "chapter": null,
+      "original": "ingenuas Carthagine aibat esse .",
+      "translation": "he said that they were free-born , and from Carthage ."
+    },
+    {
+      "id": "4.2.900b",
+      "label": "Section 4.2.900b",
+      "chapter": null,
+      "original": "Di vostram fidem ,",
+      "translation": "Ye Gods , by our hopes in you ! you mention a most interesting matter ; for my master Agorastocles was born in the same place ; he was stolen thence when about six years old ; after that , the person who stole him brought him here and sold him to my master ; that person adopted him as heir to his wealth , when he departed this life ."
+    },
+    {
+      "id": "4.2.905",
+      "label": "Section 4.2.905",
+      "chapter": null,
+      "original": "Omnia memoras quo id facilius fiat : manu eas adserat",
+      "translation": "You mention everything that can render it the more easy ; let him assert their freedom , his own countrywomen , in an action on their freedom ."
+    },
+    {
+      "id": "4.2.906b",
+      "label": "Section 4.2.906b",
+      "chapter": null,
+      "original": "Tacitus tace modo .",
+      "translation": "Only do keep silence and hold your tongue ."
+    },
+    {
+      "id": "4.2.907",
+      "label": "Section 4.2.907",
+      "chapter": null,
+      "original": "Profecto ad incitas lenonem rediget , si eas abduxerit .",
+      "translation": "He certainly will bring the Procurer to a backgammon , if he gets them away ."
+    },
+    {
+      "id": "4.2.908",
+      "label": "Section 4.2.908",
+      "chapter": null,
+      "original": "Quin prius disperibit faxo , quam unam calcem civerit .",
+      "translation": "Nay but , I ’ ll cause him to be ruined before he moves one foot [*] ; ’ tis so contrived already ."
+    },
+    {
+      "id": "4.2.909b",
+      "label": "Section 4.2.909b",
+      "chapter": null,
+      "original": "Ita di faxint , ne apud lenonem hunc serviam .",
+      "translation": "May the Gods grant it so , that I don ’ t continue the slave of this Procurer ."
+    },
+    {
+      "id": "4.2.910",
+      "label": "Section 4.2.910",
+      "chapter": null,
+      "original": "Hercle qui meus conlibertus faxo eris , si di volent .",
+      "translation": "On the contrary , upon my faith , I ’ ll cause you to be a free man with myself , if the Gods are willing ."
+    },
+    {
+      "id": "4.2.911",
+      "label": "Section 4.2.911",
+      "chapter": null,
+      "original": "Ita di faxint . numquid aliud me morare , Milphio ?",
+      "translation": "May the Gods grant it so ! Do you detain me for anything else , Milphio ?"
+    },
+    {
+      "id": "4.2.912",
+      "label": "Section 4.2.912",
+      "chapter": null,
+      "original": "Valeas beneque ut tibi sit .",
+      "translation": "Fare you well , and may happiness attend you ."
+    },
+    {
+      "id": "4.2.912b",
+      "label": "Section 4.2.912b",
+      "chapter": null,
+      "original": "Pol istuc tibi et tuost ero in manu .",
+      "translation": "I ’ faith , that lies in the power of yourself and your master . Farewell , and mind that these things have been told in secrecy ."
+    },
+    {
+      "id": "4.2.913b",
+      "label": "Section 4.2.913b",
+      "chapter": null,
+      "original": "Non dictumst . vale .",
+      "translation": "This has not been mentioned even . Farewell ."
+    },
+    {
+      "id": "4.2.914",
+      "label": "Section 4.2.914",
+      "chapter": null,
+      "original": "At enim nihil est , nisi dum calet hoc agitur .",
+      "translation": "But really it ’ s of no use , unless this is done while it is warm ."
+    },
+    {
+      "id": "4.2.914b",
+      "label": "Section 4.2.914b",
+      "chapter": null,
+      "original": "Lepidu'slepidus es , quom mones .",
+      "translation": "You are right in your advice ,"
+    },
+    {
+      "id": "4.2.915",
+      "label": "Section 4.2.915",
+      "chapter": null,
+      "original": "et ita hoc fiet .",
+      "translation": "and so it shall be done ."
+    },
+    {
+      "id": "4.2.915b",
+      "label": "Section 4.2.915b",
+      "chapter": null,
+      "original": "Proba materies data est , si probum adhibes fabrum .",
+      "translation": "There ’ s excellent material , if you provide an excellent workman ."
+    },
+    {
+      "id": "4.2.916",
+      "label": "Section 4.2.916",
+      "chapter": null,
+      "original": "Potin ut taceas ?",
+      "translation": "Can ’ t you hold your tongue ?"
+    },
+    {
+      "id": "4.2.916b",
+      "label": "Section 4.2.916b",
+      "chapter": null,
+      "original": "Taceo atque abeo .—",
+      "translation": "I ’ ll hold my tongue and be off ."
+    },
+    {
+      "id": "4.2.916c",
+      "label": "Section 4.2.916c",
+      "chapter": null,
+      "original": "Mihi commoditatem creas .",
+      "translation": "A grand opportunity you ’ ve made for me . ( SYNCERASTUS goes into the house of LYCUS .) He ’ s gone from here . The immortal Gods do will my master to be preserved , and this Procurer utterly ruined ; a mischief so great is impending upon him . Is it not the fact , before one weapon has been launched , then another presses upon him ?"
+    },
+    {
+      "id": "4.2.920",
+      "label": "Section 4.2.920",
+      "chapter": null,
+      "original": "ibo intro , haec ut meo ero memorem . nam huc si ante aedes evocem ,",
+      "translation": "I ’ ll go in-doors , that I may recount these matters to my master . For if I were to call him out hither before the house , and , what you ’ ve ( to the AUDIENCE ) just heard , if I were now here to repeat the same , it would be folly . I ’ d rather in-doors be an annoyance to my master singly , than be so here to all of you . Immortal Gods , what misfortunes , what great calamities do this day await this Procurer . But now there ’ s no reason why I should delay ."
+    },
+    {
+      "id": "4.2.925",
+      "label": "Section 4.2.925",
+      "chapter": null,
+      "original": "ita negotium institutumst , non datur cessatio ;",
+      "translation": "This business is resolved upon ; no pausing is allowed ; for both this must be cleverly managed , which has just now been entrusted to me , and that plan as well which was formed at home must be attended to . If there ’ s any delay , he who sends me a heavy mischance will be acting rightly . Now I ’ ll off in-doors ; until my master comes from the Forum , I ’ ll wait at home ."
+    },
+    {
+      "id": "5.1.930",
+      "label": "Section 5.1.930",
+      "chapter": null,
+      "original": "Yth alonim ualonuth sicorathi symacom syth",
+      "translation": "Hyth alonim [*] vualonuth sicorathi si ma com sith , Chi mach chumyth mumys tyal mictibariim ischi , Lipho canet luth bynuthi ad aedin bynuthii . Birnarob syllo homalonin uby misyrthoho Bythym mothym noctothii velech Antidasmachon ."
+    },
+    {
+      "id": "5.1.935",
+      "label": "Section 5.1.935",
+      "chapter": null,
+      "original": "ys sidobrim chi fel yth chyl is chon chen liful",
+      "translation": "Yssidele berim thyfel yth chylys chon , tern , lyphul Uth bynim ysdibut thinno cuth ru Agorastocles Ythe manet ihy ⋯ chyrsae lycoch sith naso Byuni id chil luhili gerbylim lasibit thym Bodyalyth herayn nyn nuys lym moncoth lusim ."
+    },
+    {
+      "id": "5.1.940",
+      "label": "Section 5.1.940",
+      "chapter": null,
+      "original": "Ythalonimualoniuthsicorathi i sthymhim i hymacomsyth",
+      "translation": "[ Exalonim volanus succuratim mistim Atticum esse Concubitum a bello cutim beant lalacant chona Enus es huiec silec panesse Athidamascon Alem ⋯ induberte felono ⋯ buthume Celtum comucro lueni , at enim avoso uber Bent hyach Aristoclem et se te aneche nasoctelia Elicos alemus [ in ] duberter mi comps vespiti Aodeanee lictor bodes jussum limnicolus .]"
+    },
+    {
+      "id": "5.2.961",
+      "label": "Section 5.2.961",
+      "chapter": null,
+      "original": "Ain tú tibi dixe Syncerastum , Milphio ,",
+      "translation": "Do you say , Milphio , that Syncerastus told you that both of these women were freeborn , and stolen away from Carthage ?"
+    },
+    {
+      "id": "5.2.963b",
+      "label": "Section 5.2.963b",
+      "chapter": null,
+      "original": "Aio , et , si frugi esse vis ,",
+      "translation": "I do say so ; and if you were willing to act wisely , you ’ d at once assert their liberty by an action on their freedom ."
+    },
+    {
+      "id": "5.2.965",
+      "label": "Section 5.2.965",
+      "chapter": null,
+      "original": "nam tuom flagitiumst tuas te popularis pati",
+      "translation": "For it ’ s a disgrace to you for you to allow your own country-people to be slaves before your eyes , who were free women at home ."
+    },
+    {
+      "id": "5.2.967",
+      "label": "Section 5.2.967",
+      "chapter": null,
+      "original": "Pro di immortales , opsecro vostram fidem ,",
+      "translation": "O ye immortal Gods , I do entreat your aid ! What speech is this that my ears devour ! Surely the words of these persons are made of chalk ;"
+    },
+    {
+      "id": "5.2.970",
+      "label": "Section 5.2.970",
+      "chapter": null,
+      "original": "ut mi apsterserunt omnem sorditudinem .",
+      "translation": "how have they cleansed away all the dark spots of woe from me !"
+    },
+    {
+      "id": "5.2.971",
+      "label": "Section 5.2.971",
+      "chapter": null,
+      "original": "Si ad eam rem testis habeam , faciam quod iubes .",
+      "translation": "If you ’ ve got witnesses of this matter , I ’ ll do as you bid me ."
+    },
+    {
+      "id": "5.2.972",
+      "label": "Section 5.2.972",
+      "chapter": null,
+      "original": "Quid tu mihi testis ? quin tu insistis fortiter ?",
+      "translation": "Why speak you to me about witnesses ? Why don ’ t you stoutly insist upon it ? Some way or other , Fortune will be your assistant ."
+    },
+    {
+      "id": "5.2.974",
+      "label": "Section 5.2.974",
+      "chapter": null,
+      "original": "Incipere multost quam impetrare facilius .",
+      "translation": "It ’ s much more easy to begin a thing than to bring it about ."
+    },
+    {
+      "id": "5.2.975",
+      "label": "Section 5.2.975",
+      "chapter": null,
+      "original": "Sed quae illaec avis est , quae huc cum tunicis advenit ?",
+      "translation": "But what bird is this [*] , pray , that ’ s coming hither with the tunic on ? Is he from the baths [*] , I wonder , enveloped in his cloak ?"
+    },
+    {
+      "id": "5.2.977",
+      "label": "Section 5.2.977",
+      "chapter": null,
+      "original": "Facies quidem edepol Punicast .",
+      "translation": "I ’ faith , the countenance is surely Carthaginian ."
+    },
+    {
+      "id": "5.2.977b",
+      "label": "Section 5.2.977b",
+      "chapter": null,
+      "original": "Guggast homo .",
+      "translation": "The man ’ s a Gugga [*] . I ’ faith , he certainly has got some ancient and antiquated servants ."
+    },
+    {
+      "id": "5.2.979",
+      "label": "Section 5.2.979",
+      "chapter": null,
+      "original": "Qui scis ?",
+      "translation": "How do you know ?"
+    },
+    {
+      "id": "5.2.979b",
+      "label": "Section 5.2.979b",
+      "chapter": null,
+      "original": "Viden homines sarcinatos consequi ?",
+      "translation": "Don ’ t you see the fellows following , loaded with luggage ?"
+    },
+    {
+      "id": "5.2.980",
+      "label": "Section 5.2.980",
+      "chapter": null,
+      "original": "† atque ut opinor digitos in manibus non habent .",
+      "translation": "And , as I fancy , they ’ ve got no fingers on their hands ."
+    },
+    {
+      "id": "5.2.981",
+      "label": "Section 5.2.981",
+      "chapter": null,
+      "original": "Quid iam ?",
+      "translation": "Why so ?"
+    },
+    {
+      "id": "5.2.981b",
+      "label": "Section 5.2.981b",
+      "chapter": null,
+      "original": "Quia incedunt cum anulatis auribus .",
+      "translation": "Why , because they go with their rings in their ears [*] ."
+    },
+    {
+      "id": "5.2.982",
+      "label": "Section 5.2.982",
+      "chapter": null,
+      "original": "Adibo hosce atque áppellabo Punice .",
+      "translation": "I ’ ll approach them , and address them in the Punic language : if they answer , I ’ ll continue to speak in the Punic tongue if not , then I ’ ll adapt my language to their usage ."
+    },
+    {
+      "id": "5.2.985",
+      "label": "Section 5.2.985",
+      "chapter": null,
+      "original": "Quid ais tu ? écquid commeministi Punice ?",
+      "translation": "How say you , do you still remember anything of the Punic language ?"
+    },
+    {
+      "id": "5.2.986",
+      "label": "Section 5.2.986",
+      "chapter": null,
+      "original": "Nihil edepol . nam qui scire potui , dic mihi ,",
+      "translation": "Nothing at all , i ’ faith ; for tell me , how could I know , who was but six years old when I was stolen away from Carthage ?"
+    },
+    {
+      "id": "5.2.988",
+      "label": "Section 5.2.988",
+      "chapter": null,
+      "original": "Pro di immortales , plurumi ad illum modum",
+      "translation": "O ye immortal Gods ! very many freeborn children have been lost from Carthage after this manner ."
+    },
+    {
+      "id": "5.2.990",
+      "label": "Section 5.2.990",
+      "chapter": null,
+      "original": "Quid ais tu ?",
+      "translation": "How say you ?"
+    },
+    {
+      "id": "5.2.990b",
+      "label": "Section 5.2.990b",
+      "chapter": null,
+      "original": "Quid vis ?",
+      "translation": "What do you want ?"
+    },
+    {
+      "id": "5.2.990c",
+      "label": "Section 5.2.990c",
+      "chapter": null,
+      "original": "Vin appellem hunc Punice ?",
+      "translation": "Should you like me to address this person in the Punic tongue ?"
+    },
+    {
+      "id": "5.2.991",
+      "label": "Section 5.2.991",
+      "chapter": null,
+      "original": "An scis ?",
+      "translation": "Do you understand it ?"
+    },
+    {
+      "id": "5.2.991b",
+      "label": "Section 5.2.991b",
+      "chapter": null,
+      "original": "Nullus me est hodie Poenus Poenior .",
+      "translation": "No Punic man this day is a better Punic than I ."
+    },
+    {
+      "id": "5.2.992",
+      "label": "Section 5.2.992",
+      "chapter": null,
+      "original": "Adi atque appella , quid velit , quid venerit ,",
+      "translation": "Go and address him , as to what he wants , why he ’ s come , who he is , of what country , and whence he comes . Don ’ t be sparing of your questions ."
+    },
+    {
+      "id": "5.2.994",
+      "label": "Section 5.2.994",
+      "chapter": null,
+      "original": "Avo . quoiates estis aut quo ex oppido ?",
+      "translation": "Avo ! [*] Of what country are you , or from what city ?"
+    },
+    {
+      "id": "5.2.995",
+      "label": "Section 5.2.995",
+      "chapter": null,
+      "original": "Anno byn mytthymballe udradait annech .",
+      "translation": "Hanno Muthumballe bachaëdreanech ."
+    },
+    {
+      "id": "5.2.996",
+      "label": "Section 5.2.996",
+      "chapter": null,
+      "original": "Quid ait ?",
+      "translation": "What does he say ?"
+    },
+    {
+      "id": "5.2.996b",
+      "label": "Section 5.2.996b",
+      "chapter": null,
+      "original": "Hannonem se esse ait Carthagine ,",
+      "translation": "He says that he is Hanno from Carthage , a Carthaginian , son of Muthumbal ."
+    },
+    {
+      "id": "5.2.998",
+      "label": "Section 5.2.998",
+      "chapter": null,
+      "original": "Avo .",
+      "translation": "Avo !"
+    }
+  ],
+  "prevChunkSlug": "the-little-carthaginian-12yp3b-11",
+  "nextChunkSlug": "the-little-carthaginian-12yp3b-13"
+}

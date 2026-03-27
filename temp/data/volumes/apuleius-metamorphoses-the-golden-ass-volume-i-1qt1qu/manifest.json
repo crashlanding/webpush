@@ -1,0 +1,61 @@
+{
+  "loebNumber": 44,
+  "sortOrder": 44,
+  "slug": "apuleius-metamorphoses-the-golden-ass-volume-i-1qt1qu",
+  "title": "Metamorphoses (The Golden Ass), Volume I",
+  "volumeLabel": "Metamorphoses (The Golden Ass), Volume I",
+  "authorDisplay": "Apuleius",
+  "authors": [
+    "Apuleius"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for Metamorphoses (The Golden Ass), Volume I. Metamorphoses (The Golden Ass), Volume I currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "metamorphoses-the-golden-ass-volume-i-gx4uoa",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "metamorphoses-the-golden-ass-volume-i-gx4uoa",
+      "title": "Metamorphoses (The Golden Ass), Volume I",
+      "status": "ready",
+      "sectionCount": 15,
+      "chunkSlug": "metamorphoses-the-golden-ass-volume-i-gx4uoa",
+      "chunks": [
+        {
+          "slug": "metamorphoses-the-golden-ass-volume-i-gx4uoa",
+          "label": "Metamorphoses (The Golden Ass), Volume I",
+          "partId": "metamorphoses-the-golden-ass-volume-i-gx4uoa",
+          "partTitle": "Metamorphoses (The Golden Ass), Volume I",
+          "sectionCount": 15,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "metamorphoses-the-golden-ass-volume-i-gx4uoa",
+      "label": "Metamorphoses (The Golden Ass), Volume I",
+      "partId": "metamorphoses-the-golden-ass-volume-i-gx4uoa",
+      "partTitle": "Metamorphoses (The Golden Ass), Volume I",
+      "sectionCount": 15,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "metamorphoses-the-golden-ass-volume-i-gx4uoa",
+      "partTitle": "Metamorphoses (The Golden Ass), Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Metamorphoses",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0959.phi006.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Metamorphoses",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0959.phi006.perseus-eng3/"
+      }
+    }
+  ]
+}

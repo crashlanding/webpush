@@ -1,0 +1,101 @@
+{
+  "volumeSlug": "quintilian-the-orator-s-education-volume-iv-books-9-10-co8jg6",
+  "volumeTitle": "The Orator's Education, Volume IV: Books 9-10",
+  "authorDisplay": "Quintilian",
+  "authors": [
+    "Quintilian"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-orator-s-education-books-9-10-2s75jf",
+  "label": "The Orator's Education: Books 9-10",
+  "partId": "the-orator-s-education-books-9-10-2s75jf",
+  "partTitle": "The Orator's Education: Books 9-10",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Institutio Oratoria",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1002.phi001.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Institutio Oratoria",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1002.phi001.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "9.1.1",
+      "label": "Section 9.1.1",
+      "chapter": null,
+      "original": "cum sit proximo libro de tropis dictum , sequitur pertinens ad figuras , quae σχήματα Graece vocantur , locus ipsa rei natura coniunctus superiori .",
+      "translation": "In my last book I spoke of tropes . I now come to figures , called σχήματα in Greek , a topic which is naturally and closely connected with the preceding ."
+    },
+    {
+      "id": "9.1.2",
+      "label": "Section 9.1.2",
+      "chapter": null,
+      "original": "nam plerique has tropos esse existimauerunt , quia , sive ex hoc duxerint nomen , quod sint formati quodam modo , sive ex eo , quod vertant orationem , unde et motus dicuntur , fatendum erit esse utrumque eorum etiam in figuris , usus quoque est idem : nam et vim rebus adiiciunt et gratiam praestant . nec desunt qui tropis figurarum nomen imponant , quorum est C . Artorius Proculus .",
+      "translation": "For many authors have considered figures identical with tropes , because whether it be that the latter derive their name from having a certain form or from the fact that they effect alterations in language ( a view which has also led to their being styled motions ), it must be admitted that both these features are found in figures as well . Their employment is also the same . For they add force and charm to our matter . There are some again who call tropes figures , Artorius Proculus among them ."
+    },
+    {
+      "id": "9.1.3",
+      "label": "Section 9.1.3",
+      "chapter": null,
+      "original": "quin adeo similitudo manifesta est , ut ea discernere non sit in promptu . nam quo modo quaedam in his species plane distant , manente tamen generaliter illa societate , quod utraque res de recta et simplici ratione cum aliqua dicendi virtute deflectitur , ita quaedam perquam tenui limite dividuntur , ut cum ironia tam inter figuras sententiae quam inter tropos reperiatur , περίφρασιν autem et ὑπέρβατον et ὀνοματοποιίαν clari quoque auctores figuras verborum potius quam tropos dixerint . quo magis signanda est utriusque rei differentia .",
+      "translation": "Further the resemblance between the two is so close that it is not easy to distinguish between them . For although certain kinds differ , while retaining a general resemblance ( since both involve a departure from the simple and straightforward method of expression coupled with a certain rhetorical excellence ), on the other hand some are distinguished by the narrowest possible dividing line : for example , while irony belongs to figures of thought just as much as to tropes , [*] periphrasis , hyperbaton and onomatopoea [*] have been ranked by distinguished authors as figures of speech rather than tropes ."
+    },
+    {
+      "id": "9.1.4",
+      "label": "Section 9.1.4",
+      "chapter": null,
+      "original": "est igitur tropos sermo a naturali et principali v7-9 p.350 significatione translatus ad aliam ornandae orationis gratia , vel , ut plerique grammatici finiunt , dictio ab eo loco , in quo propria est , translata in eum , in quo propria non est ; figura , sicut nomine ipso patet , conformatio quaedam orationis remota a communi et primum se offerente ratione .",
+      "translation": "It is therefore all the more necessary to point out the distinction between the two . The name of trope v7-9 p.351 is applied to the transference of expressions from their natural and principal signification to another , with a view to the embellishment of style or , as the majority of grammarians define it , the transference of words and phrases from the place which is strictly theirs to another to which they do not properly belong . A figure , on the other hand , as is clear from the name itself , is the term employed when we give our language a conformation other than the obvious and ordinary ."
+    },
+    {
+      "id": "9.1.5",
+      "label": "Section 9.1.5",
+      "chapter": null,
+      "original": "quare in tropis ponuntur verba alia pro aliis , ut in μεταφορᾷ , μετωνυμίᾳ , ἀντονομασίᾳ , μεταλήμψει , συνεκδοχῇ , καταχρήσει , ἀλληγορίᾳ , plerumque ὑπερβολῇ ; namque et rebus fit et verbis . Ὀνοματοποιία fictio est nominis ; ergo hoc quoque pro aliis ponitur , quibus usuri fuimus , si illud non fingeremus . Περίφρασις etiamsi frequenter et id ipsum ,",
+      "translation": "Therefore the substitution of one word for another is placed among tropes , as for example in the case of metaphor , metonymy , antonomasia , metalepsis , synecdochè , catachresis , allegory [*] and , as a rule , hyperbole , which may , of course , be concerned either with words or things . Onomatopoea is the creation of a word and therefore involves substitution for the words which we should use but for such creation ."
+    },
+    {
+      "id": "10.1.1",
+      "label": "Section 10.1.1",
+      "chapter": null,
+      "original": "sed haec eloquendi praecepta , sicut cogitationi sunt necessaria , ita non satis ad vim dicendi valent , nisi illis firma quaedam facilitas , quae apud Graecos ἕξις nominatur , accesserit : ad quam scribendo plus an legendo an dicendo conferatur , solere quaeri scio . quod esset diligentius nobis examinandum , si qualibet earum rerum possemus una esse contenti .",
+      "translation": "But these rules of style , while part of the student ' s theoretical knowledge , are not in themselves sufficient to give him oratorical power . In addition he will require that assured facility which the Greeks call ἕξις I know that many have raised the question as to whether this is best acquired by writing , reading or speaking , and it would indeed be a question calling for serious consideration , if we could rest content with any one of the three ."
+    },
+    {
+      "id": "10.1.2",
+      "label": "Section 10.1.2",
+      "chapter": null,
+      "original": "verum ita sunt inter se conexa et indiscreta omnia ut , si quid ex his defuerit , frustra sit in ceteris laboratum . nam neque solida atque robusta fuerit unquam eloquentia nisi multo stilo vires acceperit , et citra lectionis exemplum labor ille carens rectore fluitabit ; et qui [*] sciet quae quoque sint modo dicenda , nisi tamen in procinctu paratamque ad omnes casus habuerit eloquentiam , velut clausis thesauris incubabit .",
+      "translation": "But they are so intimately and inseparably connected , that if one of them be neglected , we shall but waste the labour which we have devoted to the others . For eloquence will never attain to its full development or robust health , unless it acquires strength by frequent practice in writing , while such practice without the models supplied by reading will be like a ship drifting aimlessly without a steersman . Again , he who knows what he ought to say and how he should say it , will be like a miser brooding over his hoarded treasure , unless he has the weapons of his eloquence ready for battle and prepared to deal with every emergency ."
+    },
+    {
+      "id": "10.1.3",
+      "label": "Section 10.1.3",
+      "chapter": null,
+      "original": "non autem ut quidquid praecipue v10-12 p.4 necessarium est , sic ad efficiendum oratorem maximi protinus erit momenti . nam certe , cum sit in eloquendo positum oratoris officium , dicere ante omnia est , atque hinc initium eius artis fuisse manifestum est ; proximam deinde imitationem , novissimam scribendi quoque diligentiam .",
+      "translation": "But the degree in v10-12 p.5 which a thing is essential does not necessarily make it of immediate and supreme importance for the formation of the ideal orator . For obviously the power of speech is the first essential , since therein lies the primary task of the orator , and it is obvious that it was with this that the art of oratory began , and that the power of imitation comes next , and third and last diligent practice in writing ."
+    },
+    {
+      "id": "10.1.4",
+      "label": "Section 10.1.4",
+      "chapter": null,
+      "original": "sed ut perveniri ad summa nisi ex principiis non potest , ita procedente iam opere etiam [*] minima incipiunt esse quae prima sunt . verum nos non , quomodo instituendus orator , hoc loco dicimus ; nam id quidem aut satis aut certe uti potuimus dictum est ; sed athleta , qui omnes iam perdidicerit a praeceptore numeros , quo genere exercitationis ad certamina praeparandus sit . igitur eum , qui res invenire et disponere sciet , verba quoque et eligendi et collocandi rationem perceperit , instruamus , qua ratione quod didicerit [*] facere quam optime , quam facillime possit .",
+      "translation": "But as perfection cannot be attained without starting at the very beginning , the points which come first in time will , as our training proceeds , become of quite trivial importance . Now we have reached a stage in our enquiry where we are no longer considering the preliminary training of our orator ; for I think the instructions already given should suffice for that ; they are in any case as good as I could make them . Our present task is to consider how our athlete who has learnt all the technique of his art from his trainer , is to be prepared by actual practice for the contests in which he will have to engage . Consequently , we must assume that our student has learned how to conceive and dispose his subject matter and understands how to choose and arrange his words , and must proceed to instruct him how to make the best and readiest use of the knowledge which he has acquired ."
+    },
+    {
+      "id": "10.1.5",
+      "label": "Section 10.1.5",
+      "chapter": null,
+      "original": "num ergo dubium est , quin ei velut opes sint quaedam parandae , quibus uti , ubicunque desideratum erit , possit ? eae constant copia rerum ac verborum .",
+      "translation": "There can then be no doubt that he must accumulate a certain store of resources , to be employed whenever they may be required . The resources of which I speak consist in a copious supply of words and matter ."
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": null
+}

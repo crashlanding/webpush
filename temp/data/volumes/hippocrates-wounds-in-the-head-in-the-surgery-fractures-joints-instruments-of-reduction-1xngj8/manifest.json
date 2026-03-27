@@ -1,0 +1,185 @@
+{
+  "loebNumber": 149,
+  "sortOrder": 149,
+  "slug": "hippocrates-wounds-in-the-head-in-the-surgery-fractures-joints-instruments-of-reduction-1xngj8",
+  "title": "Wounds in the Head. In the Surgery. Fractures. Joints. Instruments of Reduction",
+  "volumeLabel": "Wounds in the Head. In the Surgery. Fractures. Joints. Instruments of Reduction",
+  "authorDisplay": "Hippocrates",
+  "authors": [
+    "Hippocrates"
+  ],
+  "language": "greek",
+  "summary": "4 of 5 contents in Wounds in the Head. In the Surgery. Fractures. Joints. Instruments of Reduction are live from Scaife, while the remaining contents stay visible until a confident pair is available.",
+  "status": "partial",
+  "defaultChunkSlug": "wounds-in-the-head-18k6h7",
+  "readyChunkCount": 4,
+  "contents": [
+    {
+      "id": "wounds-in-the-head-18k6h7",
+      "title": "Wounds in the Head",
+      "status": "ready",
+      "sectionCount": 21,
+      "chunkSlug": "wounds-in-the-head-18k6h7",
+      "chunks": [
+        {
+          "slug": "wounds-in-the-head-18k6h7",
+          "label": "Wounds in the Head",
+          "partId": "wounds-in-the-head-18k6h7",
+          "partTitle": "Wounds in the Head",
+          "sectionCount": 21,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "in-the-surgery-181jf",
+      "title": "In the Surgery",
+      "status": "ready",
+      "sectionCount": 25,
+      "chunkSlug": "in-the-surgery-181jf",
+      "chunks": [
+        {
+          "slug": "in-the-surgery-181jf",
+          "label": "In the Surgery",
+          "partId": "in-the-surgery-181jf",
+          "partTitle": "In the Surgery",
+          "sectionCount": 25,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "fractures-11o1ul",
+      "title": "Fractures",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "The original and English Scaife TOCs could not be aligned."
+    },
+    {
+      "id": "joints-10sal3",
+      "title": "Joints",
+      "status": "ready",
+      "sectionCount": 87,
+      "chunkSlug": "joints-10sal3",
+      "chunks": [
+        {
+          "slug": "joints-10sal3",
+          "label": "Joints",
+          "partId": "joints-10sal3",
+          "partTitle": "Joints",
+          "sectionCount": 87,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "instruments-of-reduction-16mt21",
+      "title": "Instruments of Reduction",
+      "status": "ready",
+      "sectionCount": 42,
+      "chunkSlug": "instruments-of-reduction-16mt21",
+      "chunks": [
+        {
+          "slug": "instruments-of-reduction-16mt21",
+          "label": "Instruments of Reduction",
+          "partId": "instruments-of-reduction-16mt21",
+          "partTitle": "Instruments of Reduction",
+          "sectionCount": 42,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "wounds-in-the-head-18k6h7",
+      "label": "Wounds in the Head",
+      "partId": "wounds-in-the-head-18k6h7",
+      "partTitle": "Wounds in the Head",
+      "sectionCount": 21,
+      "status": "ready"
+    },
+    {
+      "slug": "in-the-surgery-181jf",
+      "label": "In the Surgery",
+      "partId": "in-the-surgery-181jf",
+      "partTitle": "In the Surgery",
+      "sectionCount": 25,
+      "status": "ready"
+    },
+    {
+      "slug": "joints-10sal3",
+      "label": "Joints",
+      "partId": "joints-10sal3",
+      "partTitle": "Joints",
+      "sectionCount": 87,
+      "status": "ready"
+    },
+    {
+      "slug": "instruments-of-reduction-16mt21",
+      "label": "Instruments of Reduction",
+      "partId": "instruments-of-reduction-16mt21",
+      "partTitle": "Instruments of Reduction",
+      "sectionCount": 42,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "wounds-in-the-head-18k6h7",
+      "partTitle": "Wounds in the Head",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De capitis vulneribus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg007.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Injuries of the Head",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg007.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "in-the-surgery-181jf",
+      "partTitle": "In the Surgery",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De officina medici",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg008.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Surgery",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg008.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "joints-10sal3",
+      "partTitle": "Joints",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De articulis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg010.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Articulations",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg010.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "instruments-of-reduction-16mt21",
+      "partTitle": "Instruments of Reduction",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Vectiarius",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg011.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mochlicus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg011.perseus-eng2/"
+      }
+    }
+  ]
+}

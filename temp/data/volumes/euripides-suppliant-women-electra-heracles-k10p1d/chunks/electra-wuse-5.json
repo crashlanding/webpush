@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-suppliant-women-electra-heracles-k10p1d",
+  "volumeTitle": "Suppliant Women. Electra. Heracles",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "electra-wuse-5",
+  "label": "Electra (Section 596 - Section 668)",
+  "partId": "electra-wuse",
+  "partTitle": "Electra",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἠλέκτρα",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Electra",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "596",
+      "label": "Section 596",
+      "chapter": null,
+      "original": "εἶἑν · φίλας μὲν ἡδονὰς ἀσπασμάτων",
+      "translation": "Well ; I have the loving pleasures of your greeting and later I will give them back in turn . You , old man , for you have come at the right time , tell me , what should I do to avenge myself on my father ’ s murderer"
+    },
+    {
+      "id": "600",
+      "label": "Section 600",
+      "chapter": null,
+      "original": "μητέρα τε κοινωνὸν ἀνοσίων γάμων ;",
+      "translation": "and on my mother , the partner in his unholy marriage ? Do I still have any well-disposed friends in Argos ? Or am I wholly bankrupt , just as my fortunes are ? With whom shall I ally myself ? By night or day ? What course shall I take against my enemies ?"
+    },
+    {
+      "id": "605",
+      "label": "Section 605",
+      "chapter": null,
+      "original": "ὦ τέκνον , οὐδεὶς δυστυχοῦντί σοι φίλος .",
+      "translation": "Child , you have no friend in your misfortune . For this thing is a godsend indeed , to share in common , both good and bad . But you — for you have been destroyed from the foundations , in the eyes of your friends , and you have left them no hope — hear it from me and know :"
+    },
+    {
+      "id": "610",
+      "label": "Section 610",
+      "chapter": null,
+      "original": "ἐν χειρὶ τῇ σῇ πάντʼ ἔχεις καὶ τῇ τύχῃ ,",
+      "translation": "all that you have is in your own arm and fortune , to win your father ’ s home and your city ."
+    },
+    {
+      "id": "612",
+      "label": "Section 612",
+      "chapter": null,
+      "original": "τί δῆτα δρῶντες τοῦδʼ ἂν ἐξικοίμεθα ;",
+      "translation": "What must I do then to accomplish this ?"
+    },
+    {
+      "id": "613",
+      "label": "Section 613",
+      "chapter": null,
+      "original": "κτανὼν Θυέστου παῖδα σήν τε μητέρα .",
+      "translation": "Kill Thyestes ’ son and your mother ."
+    },
+    {
+      "id": "614",
+      "label": "Section 614",
+      "chapter": null,
+      "original": "ἥκω ʼπὶ τόνδε στέφανον · ἀλλὰ πῶς λάβω ;",
+      "translation": "I have come for that victor ’ s crown ; but how shall I grasp it ?"
+    },
+    {
+      "id": "615",
+      "label": "Section 615",
+      "chapter": null,
+      "original": "τειχέων μὲν ἐλθὼν ἐντὸς οὐδʼ ἂν εἰ θέλοις .",
+      "translation": "Not by going within the walls , even if you wanted to ."
+    },
+    {
+      "id": "616",
+      "label": "Section 616",
+      "chapter": null,
+      "original": "φρουραῖς κέκασται δεξιαῖς τε δορυφόρων ;",
+      "translation": "Is he well furnished with garrisons and body-guards ?"
+    },
+    {
+      "id": "617",
+      "label": "Section 617",
+      "chapter": null,
+      "original": "ἔγνως · φοβεῖται γάρ σε κοὐχ εὕδει σαφῶς .",
+      "translation": "You have understood ; for , clearly , he is afraid of you , and does not sleep ."
+    },
+    {
+      "id": "618",
+      "label": "Section 618",
+      "chapter": null,
+      "original": "εἶἑν · σὺ δὴ τοὐνθένδε βούλευσον , γέρον .",
+      "translation": "Well ; it is for you to plan the next step , old man ."
+    },
+    {
+      "id": "619",
+      "label": "Section 619",
+      "chapter": null,
+      "original": "κἀμοῦ γʼ ἄκουσον · ἄρτι γάρ μʼ ἐσῆλθέ τι .",
+      "translation": "Hear me then ; for something has just come to me ."
+    },
+    {
+      "id": "620",
+      "label": "Section 620",
+      "chapter": null,
+      "original": "ἐσθλόν τι μηνύσειας , αἰσθοίμην δʼ ἐγώ .",
+      "translation": "May you reveal something good , and may I understand it ."
+    },
+    {
+      "id": "621",
+      "label": "Section 621",
+      "chapter": null,
+      "original": "Αἴγισθον εἶδον , ἡνίχʼ εἷρπον ἐνθάδε .",
+      "translation": "I saw Aegisthus , when I was on my way here ."
+    },
+    {
+      "id": "622",
+      "label": "Section 622",
+      "chapter": null,
+      "original": "προσηκάμην τὸ ῥηθέν . ἐν ποίοις τόποις ;",
+      "translation": "I approve what you have said . Where was he ?"
+    },
+    {
+      "id": "623",
+      "label": "Section 623",
+      "chapter": null,
+      "original": "ἀγρῶν πέλας τῶνδʼ ἱπποφορβίων ἔπι .",
+      "translation": "Near these fields , at his stables ."
+    },
+    {
+      "id": "624",
+      "label": "Section 624",
+      "chapter": null,
+      "original": "τί δρῶνθʼ ; ὁρῶ γὰρ ἐλπίδʼ ἐξ ἀμηχάνων .",
+      "translation": "What was he doing ? I see some hope , out of difficulties ."
+    },
+    {
+      "id": "625",
+      "label": "Section 625",
+      "chapter": null,
+      "original": "Νύμφαις ἐπόρσυνʼ ἔροτιν , ὡς ἔδοξέ μοι .",
+      "translation": "He was preparing a feast for the Nymphs , I thought ."
+    },
+    {
+      "id": "626",
+      "label": "Section 626",
+      "chapter": null,
+      "original": "τροφεῖα παίδων ἢ πρὸ μέλλοντος τόκου ;",
+      "translation": "In return for the bringing up of children or for a coming birth ?"
+    },
+    {
+      "id": "627",
+      "label": "Section 627",
+      "chapter": null,
+      "original": "οὐκ οἶδα πλὴν ἕν · βουσφαγεῖν ὡπλίζετο .",
+      "translation": "I only know this : he was preparing to sacrifice an ox ."
+    },
+    {
+      "id": "628",
+      "label": "Section 628",
+      "chapter": null,
+      "original": "πόσων μετʼ ἀνδρῶν ; ἢ μόνος δμώων μέτα ;",
+      "translation": "With how many men ? Or alone with his slaves ?"
+    },
+    {
+      "id": "629",
+      "label": "Section 629",
+      "chapter": null,
+      "original": "οὐδεὶς παρῆν Ἀργεῖος , οἰκεία δὲ χείρ .",
+      "translation": "No Argive was there , but a band of his own servants ."
+    },
+    {
+      "id": "630",
+      "label": "Section 630",
+      "chapter": null,
+      "original": "οὔ πού τις ὅστις γνωριεῖ μʼ ἰδών , γέρον ;",
+      "translation": "Surely there isn ’ t anyone who will know me if he sees me , old man ?"
+    },
+    {
+      "id": "631",
+      "label": "Section 631",
+      "chapter": null,
+      "original": "δμῶες μέν εἰσιν , οἳ σέ γʼ οὐκ εἶδόν ποτε .",
+      "translation": "There are slaves , who have never even seen you ."
+    },
+    {
+      "id": "632",
+      "label": "Section 632",
+      "chapter": null,
+      "original": "ἡμῖν ἂν εἶεν , εἰ κρατοῖμεν , εὐμενεῖς ;",
+      "translation": "Would they be well disposed to me , if I should prevail ?"
+    },
+    {
+      "id": "633",
+      "label": "Section 633",
+      "chapter": null,
+      "original": "δούλων γὰρ ἴδιον τοῦτο , σοὶ δὲ σύμφορον .",
+      "translation": "Yes , for that is the way of slaves , luckily for you ."
+    },
+    {
+      "id": "634",
+      "label": "Section 634",
+      "chapter": null,
+      "original": "πῶς οὖν ἂν αὐτῷ πλησιασθείην ποτέ ;",
+      "translation": "However might I approach him then ?"
+    },
+    {
+      "id": "635",
+      "label": "Section 635",
+      "chapter": null,
+      "original": "στείχων ὅθεν σε βουθυτῶν ἐσόψεται .",
+      "translation": "By going where he will see you as he sacrifices ."
+    },
+    {
+      "id": "636",
+      "label": "Section 636",
+      "chapter": null,
+      "original": "ὁδὸν παρʼ αὐτήν , ὡς ἔοικʼ , ἀγροὺς ἔχει ;",
+      "translation": "He has fields by the road , it seems ?"
+    },
+    {
+      "id": "637",
+      "label": "Section 637",
+      "chapter": null,
+      "original": "ὅθεν γʼ ἰδών σε δαιτὶ κοινωνὸν καλεῖ .",
+      "translation": "Yes , and when he sees you there , he will invite you to the feast ."
+    },
+    {
+      "id": "638",
+      "label": "Section 638",
+      "chapter": null,
+      "original": "πικρόν γε συνθοινάτορʼ , ἢν θεὸς θέλῃ .",
+      "translation": "I shall be a bitter companion in the feast , if the god wishes it ."
+    },
+    {
+      "id": "639",
+      "label": "Section 639",
+      "chapter": null,
+      "original": "τοὐνθένδε πρὸς τὸ πῖπτον αὐτὸς ἐννόει .",
+      "translation": "After that , you yourself invent something , as it falls out ."
+    },
+    {
+      "id": "640",
+      "label": "Section 640",
+      "chapter": null,
+      "original": "καλῶς ἔλεξας . — ἡ τεκοῦσα δʼ ἐστὶ ποῦ ;",
+      "translation": "Well said . But my mother , where is she ?"
+    },
+    {
+      "id": "641",
+      "label": "Section 641",
+      "chapter": null,
+      "original": "Ἄργει · παρέσται δʼ οὖν πόσει θοίνην ἔπι .",
+      "translation": "At Argos ; but she will join her husband for the feast ."
+    },
+    {
+      "id": "642",
+      "label": "Section 642",
+      "chapter": null,
+      "original": "τί δʼ οὐχ ἅμʼ ἐξωρμᾶτʼ ἐμὴ μήτηρ πόσει ;",
+      "translation": "Why didn ’ t my mother set out with her husband ?"
+    },
+    {
+      "id": "643",
+      "label": "Section 643",
+      "chapter": null,
+      "original": "ψόγον τρέμουσα δημοτῶν ἐλείπετο .",
+      "translation": "From fear of the citizens ’ reproach she stayed behind ."
+    },
+    {
+      "id": "644",
+      "label": "Section 644",
+      "chapter": null,
+      "original": "ξυνῆχʼ · ὕποπτος οὖσα γιγνώσκει πόλει .",
+      "translation": "I understand ; she knows that the city suspects her ."
+    },
+    {
+      "id": "645",
+      "label": "Section 645",
+      "chapter": null,
+      "original": "τοιαῦτα · μισεῖται γὰρ ἀνόσιος γυνή .",
+      "translation": "Something like that ; for an unholy woman is an object of hatred ."
+    },
+    {
+      "id": "646",
+      "label": "Section 646",
+      "chapter": null,
+      "original": "πῶς οὖν ἐκείνην τόνδε τʼ ἐν ταὐτῷ κτενῶ ;",
+      "translation": "How then shall I kill her and him at once ?"
+    },
+    {
+      "id": "647",
+      "label": "Section 647",
+      "chapter": null,
+      "original": "ἐγὼ φόνον γε μητρὸς ἐξαρτύσομαι .",
+      "translation": "I shall prepare my mother ’ s slaughter !"
+    },
+    {
+      "id": "648",
+      "label": "Section 648",
+      "chapter": null,
+      "original": "καὶ μὴν ἐκεῖνά γʼ ἡ τύχη θήσει καλῶς .",
+      "translation": "And as for the other matter , fortune will ordain well ."
+    },
+    {
+      "id": "649",
+      "label": "Section 649",
+      "chapter": null,
+      "original": "ὑπηρετείτω μὲν δυοῖν ὄντοιν ὅδε .",
+      "translation": "Let this man here help us with both ."
+    },
+    {
+      "id": "650",
+      "label": "Section 650",
+      "chapter": null,
+      "original": "ἔσται τάδʼ · εὑρίσκεις δὲ μητρὶ πῶς φόνον ;",
+      "translation": "I will ; but how will you find a way to kill your mother ?"
+    },
+    {
+      "id": "651",
+      "label": "Section 651",
+      "chapter": null,
+      "original": "λέγʼ , ὦ γεραιέ , τάδε Κλυταιμήστρᾳ μολών ·",
+      "translation": "Go to Clytemnestra , old man , and say this : report that I have given birth to a male child ."
+    },
+    {
+      "id": "653",
+      "label": "Section 653",
+      "chapter": null,
+      "original": "πότερα πάλαι τεκοῦσαν ἢ νεωστὶ δή ;",
+      "translation": "That you have given birth some time ago , or quite recently ?"
+    },
+    {
+      "id": "654",
+      "label": "Section 654",
+      "chapter": null,
+      "original": "δέχʼ ἡλίους , ἐν οἷσιν ἁγνεύει λεχώ .",
+      "translation": "Ten days ago , in which a woman who has given birth stays pure ."
+    },
+    {
+      "id": "655",
+      "label": "Section 655",
+      "chapter": null,
+      "original": "καὶ δὴ τί τοῦτο μητρὶ προσβάλλει φόνον ;",
+      "translation": "And how does this grant us the slaughter of your mother ?"
+    },
+    {
+      "id": "656",
+      "label": "Section 656",
+      "chapter": null,
+      "original": "ἥξει κλύουσα λόχιά μου νοσήματα .",
+      "translation": "She will come , when she hears of my childbirth pangs ."
+    },
+    {
+      "id": "657",
+      "label": "Section 657",
+      "chapter": null,
+      "original": "πόθεν ; τί δʼ αὐτῇ σοῦ μέλειν δοκεῖς , τέκνον ;",
+      "translation": "How is that ? Do you think she cares for you , child ?"
+    },
+    {
+      "id": "658",
+      "label": "Section 658",
+      "chapter": null,
+      "original": "ναί · καὶ δακρύσει γʼ ἀξίωμʼ ἐμῶν τόκων .",
+      "translation": "Yes ; and she will weep , surely , over my child ’ s low rank ."
+    },
+    {
+      "id": "659",
+      "label": "Section 659",
+      "chapter": null,
+      "original": "ἴσως · πάλιν τοι μῦθον ἐς καμπὴν ἄγε .",
+      "translation": "Perhaps ; bring your story back again to the turning-point ."
+    },
+    {
+      "id": "660",
+      "label": "Section 660",
+      "chapter": null,
+      "original": "ἐλθοῦσα μέντοι δῆλον ὡς ἀπόλλυται .",
+      "translation": "Well then , if she comes , it is clear that she will die ."
+    },
+    {
+      "id": "661",
+      "label": "Section 661",
+      "chapter": null,
+      "original": "καὶ μὴν ἐπʼ αὐτάς γʼ εἶσι σῶν δόμων πύλας .",
+      "translation": "Yes , she will come right up to the door of your house ."
+    },
+    {
+      "id": "662",
+      "label": "Section 662",
+      "chapter": null,
+      "original": "οὐκοῦν τραπέσθαι σμικρὸν εἰς Ἅιδου τόδε ;",
+      "translation": "Won ’ t it then be a little thing for her to turn aside to Hades ?"
+    },
+    {
+      "id": "663",
+      "label": "Section 663",
+      "chapter": null,
+      "original": "εἰ γὰρ θάνοιμι τοῦτʼ ἰδὼν ἐγώ ποτε .",
+      "translation": "May I die , once I have seen this !"
+    },
+    {
+      "id": "664",
+      "label": "Section 664",
+      "chapter": null,
+      "original": "πρώτιστα μέν νυν τῷδʼ ὑφήγησαι , γέρον —",
+      "translation": "First of all , old man , guide my brother —"
+    },
+    {
+      "id": "665",
+      "label": "Section 665",
+      "chapter": null,
+      "original": "Αἴγισθος ἔνθα νῦν θυηπολεῖ θεοῖς ;",
+      "translation": "To the place where Aegisthus is now sacrificing to the gods ?"
+    },
+    {
+      "id": "666",
+      "label": "Section 666",
+      "chapter": null,
+      "original": "ἔπειτʼ ἀπαντῶν μητρὶ τἀπʼ ἐμοῦ φράσον .",
+      "translation": "Then , going to meet my mother , give her my message ."
+    },
+    {
+      "id": "667",
+      "label": "Section 667",
+      "chapter": null,
+      "original": "ὥστʼ αὐτά γʼ ἐκ σοῦ στόματος εἰρῆσθαι δοκεῖν .",
+      "translation": "So that the very words will seem to have been said by you ."
+    },
+    {
+      "id": "668",
+      "label": "Section 668",
+      "chapter": null,
+      "original": "σὸν ἔργον ἤδη · πρόσθεν εἴληχας φόνου .",
+      "translation": "Your work begins at once ; you have drawn the first lot in the slaughter ."
+    }
+  ],
+  "prevChunkSlug": "electra-wuse-4",
+  "nextChunkSlug": "electra-wuse-6"
+}

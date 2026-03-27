@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-braggart-soldier-kcqgdf-12",
+  "label": "The Braggart Soldier (Section 4.1.960 - Section 4.2.1015)",
+  "partId": "the-braggart-soldier-kcqgdf",
+  "partTitle": "The Braggart Soldier",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Miles Gloriosus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Miles Gloriosus, or The Braggart Captain",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "4.1.960",
+      "label": "Section 4.1.960",
+      "chapter": null,
+      "original": "eius nunc mi ánulum ad te ancilla porro ut deferrem dedit .",
+      "translation": "Her maid just now gave me the ring that I might then give it to you ."
+    },
+    {
+      "id": "4.1.961",
+      "label": "Section 4.1.961",
+      "chapter": null,
+      "original": "Quid ea ? ingenuan an festuca facta e serva liberast ?",
+      "translation": "What ? Is she free born or a freed woman , made free from a slave by the Praetor ’ s rod [*] ?"
+    },
+    {
+      "id": "4.1.962",
+      "label": "Section 4.1.962",
+      "chapter": null,
+      "original": "Vah , egone ut ad te ab libertina esse auderem internuntius ,",
+      "translation": "Pshaw ! Should I presume to be the bearer of a message to you from a person once a slave , who cannot sufficiently answer the demands of the free women who are longing for you ?"
+    },
+    {
+      "id": "4.1.964_965",
+      "label": "Section 4.1.964_965",
+      "chapter": null,
+      "original": "Nuptan est an vidua ?",
+      "translation": "Is she wife , or is she widow ?"
+    },
+    {
+      "id": "4.1.964_965b",
+      "label": "Section 4.1.964_965b",
+      "chapter": null,
+      "original": "Et nupta et vidua .",
+      "translation": "She is both wife and widow ."
+    },
+    {
+      "id": "4.1.964_965c",
+      "label": "Section 4.1.964_965c",
+      "chapter": null,
+      "original": "Quo pacto potis",
+      "translation": "In what way is it possible for the same woman to be a wife and a widow ?"
+    },
+    {
+      "id": "4.1.966b",
+      "label": "Section 4.1.966b",
+      "chapter": null,
+      "original": "Quia adulescens nuptast cum sene .",
+      "translation": "Because she is a young woman married to an old man ."
+    },
+    {
+      "id": "4.1.967",
+      "label": "Section 4.1.967",
+      "chapter": null,
+      "original": "Euge .",
+      "translation": "That ’ s good ."
+    },
+    {
+      "id": "4.1.967b",
+      "label": "Section 4.1.967b",
+      "chapter": null,
+      "original": "Lepida et liberali formast .",
+      "translation": "She is of genteel and charming person ."
+    },
+    {
+      "id": "4.1.967c",
+      "label": "Section 4.1.967c",
+      "chapter": null,
+      "original": "Cave mendacium .",
+      "translation": "Beware of misrepresenting ."
+    },
+    {
+      "id": "4.1.968",
+      "label": "Section 4.1.968",
+      "chapter": null,
+      "original": "Ad tuam formam illa una dignast .",
+      "translation": "It is alone worthy to be compared with your own charms ."
+    },
+    {
+      "id": "4.1.968b",
+      "label": "Section 4.1.968b",
+      "chapter": null,
+      "original": "Hercle pulchram praedicas .",
+      "translation": "By my faith , you make her out to be a beauty . But who is she ?"
+    },
+    {
+      "id": "4.1.969b",
+      "label": "Section 4.1.969b",
+      "chapter": null,
+      "original": "Senis huius uxor Periplectomeni ex proxumo ;",
+      "translation": "The wife of that old gentleman , Periplecomenus , next door ."
+    },
+    {
+      "id": "4.1.970",
+      "label": "Section 4.1.970",
+      "chapter": null,
+      "original": "ea demoritur te atque ab illo cupit abire : odit senem .",
+      "translation": "She is dying for you , and wishes to leave him ; she hates the old fellow . Now she has begged me to entreat and beseech you that you will give her your support and assistance ."
+    },
+    {
+      "id": "4.1.972b",
+      "label": "Section 4.1.972b",
+      "chapter": null,
+      "original": "Cupio hercle equidem , si illa volt .",
+      "translation": "I ’ faith , I ’ m ready for my part if she desires it ."
+    },
+    {
+      "id": "4.1.973",
+      "label": "Section 4.1.973",
+      "chapter": null,
+      "original": "Quae cupit ?",
+      "translation": "Doesn ’ t she long for it ?"
+    },
+    {
+      "id": "4.1.973b",
+      "label": "Section 4.1.973b",
+      "chapter": null,
+      "original": "Quid illá faciemus concubina , quae domist ?",
+      "translation": "What shall we do with that mistress of mine , who is at my house ?"
+    },
+    {
+      "id": "4.1.974",
+      "label": "Section 4.1.974",
+      "chapter": null,
+      "original": "Quin tu illam iube abs te abire quo lubet : sicut soror",
+      "translation": "Why , do you bid her to be gone about her business , wherever she chooses ; as her"
+    },
+    {
+      "id": "4.1.975",
+      "label": "Section 4.1.975",
+      "chapter": null,
+      "original": "eius huc gémina venit Ephesum et mater , accersuntque eam .",
+      "translation": "twin-sister has come here to Ephesus , and her mother , and they are come to fetch her ."
+    },
+    {
+      "id": "4.1.976",
+      "label": "Section 4.1.976",
+      "chapter": null,
+      "original": "Eho tu , an venit Ephesum mater eius ?",
+      "translation": "Ha ! what ’ s that you say ? Has her mother come to Ephesus ?"
+    },
+    {
+      "id": "4.1.976b",
+      "label": "Section 4.1.976b",
+      "chapter": null,
+      "original": "Aiunt qui sciunt .",
+      "translation": "Those say so who know it ."
+    },
+    {
+      "id": "4.1.977",
+      "label": "Section 4.1.977",
+      "chapter": null,
+      "original": "Hercle occasionem lepidam , ut mulierem excludam foras .",
+      "translation": "I ’ faith , a charming opportunity for me to turn the wench out of doors ."
+    },
+    {
+      "id": "4.1.978",
+      "label": "Section 4.1.978",
+      "chapter": null,
+      "original": "Immo vin tu lepide facere ?",
+      "translation": "Aye , but do you wish to do the thing handsomely ?"
+    },
+    {
+      "id": "4.1.978b",
+      "label": "Section 4.1.978b",
+      "chapter": null,
+      "original": "Loquere et consilium cedo .",
+      "translation": "Speak out , and give me your advice ."
+    },
+    {
+      "id": "4.1.979",
+      "label": "Section 4.1.979",
+      "chapter": null,
+      "original": "Vin tu illam actutum amovere , a te ut abeat per gratiam ?",
+      "translation": "Do you wish to pack her off forthwith , that she may quit you with a good grace ?"
+    },
+    {
+      "id": "4.1.980",
+      "label": "Section 4.1.980",
+      "chapter": null,
+      "original": "Cupio .",
+      "translation": "I do so wish ."
+    },
+    {
+      "id": "4.1.980b",
+      "label": "Section 4.1.980b",
+      "chapter": null,
+      "original": "Tum te hoc facere oportet . tibi divitiarum adfatimst :",
+      "translation": "Then this is the thing you must do . You have a superabundance of wealth ; bid the woman to keep as a present for herself the gold and trinkets which you have supplied her with , and to take herself off from your house wherever she likes ."
+    },
+    {
+      "id": "4.1.983",
+      "label": "Section 4.1.983",
+      "chapter": null,
+      "original": "Placet ut dicis ; sed ne et istam amittam et haec mutet fidem",
+      "translation": "It pleases me what you say ; but yet , only think , if I should lose her , and the other change her mind ?"
+    },
+    {
+      "id": "4.1.984b",
+      "label": "Section 4.1.984b",
+      "chapter": null,
+      "original": "Vah delicatus esdelicatu's , quae te tamquam oculos amet .",
+      "translation": "Pshaw ! you ’ re over nice ; a lady , that loves you as her own eyes ."
+    },
+    {
+      "id": "4.1.985",
+      "label": "Section 4.1.985",
+      "chapter": null,
+      "original": "Venus me amat .",
+      "translation": "Venus befriends me ."
+    },
+    {
+      "id": "4.1.985b",
+      "label": "Section 4.1.985b",
+      "chapter": null,
+      "original": "St tace , aperitur foris , concede huc clanculum .",
+      "translation": "Hist ! hush ! the door is opening ; come this way a little out of sight . ( MILPHIDIPPA comes out of the house of PERIPLECOMENUS .) This is her fly-boat — her go-between , that ’ s coming out there ."
+    },
+    {
+      "id": "4.1.987b",
+      "label": "Section 4.1.987b",
+      "chapter": null,
+      "original": "Quae haec celox ?",
+      "translation": "How so — fly-boat ?"
+    },
+    {
+      "id": "4.1.987c",
+      "label": "Section 4.1.987c",
+      "chapter": null,
+      "original": "Ancillula illiust , quae hinc egreditur foras .",
+      "translation": "This is her maid that is coming out of the house , she that brought that ring which I delivered to you ."
+    },
+    {
+      "id": "4.1.988b",
+      "label": "Section 4.1.988b",
+      "chapter": null,
+      "original": "Edepol haec quidem",
+      "translation": "I ’ faith , she too is a prettyish wench ."
+    },
+    {
+      "id": "4.1.989b",
+      "label": "Section 4.1.989b",
+      "chapter": null,
+      "original": "Pithecium haec est prae illa et spinturnicium .",
+      "translation": "This one is a little monkey and an owl [*] in comparison with the other ."
+    },
+    {
+      "id": "4.1.990",
+      "label": "Section 4.1.990",
+      "chapter": null,
+      "original": "viden tu illam oculis venaturam facere atque aucupium auribus ?",
+      "translation": "Do you see how she hunts around with her eyes , and goes fowling about with her ears ."
+    },
+    {
+      "id": "4.2.991",
+      "label": "Section 4.2.991",
+      "chapter": null,
+      "original": "Iam est ante aedis circus ubi sunt ludi faciundi mihi .",
+      "translation": "My Circus , then [*] , is before the house , where my sports are to take place . I ’ ll make pretence , as though I didn ’ t see them , or knew as yet that they are here ."
+    },
+    {
+      "id": "4.2.993",
+      "label": "Section 4.2.993",
+      "chapter": null,
+      "original": "Tace , subauscultemus ecquid de me fiat mentio .",
+      "translation": "Hush ! let ’ s quietly listen , whether any mention is made of me ."
+    },
+    {
+      "id": "4.2.994",
+      "label": "Section 4.2.994",
+      "chapter": null,
+      "original": "Numquis nam hic própe adest qui rem alienam potius curet quam suam ,",
+      "translation": "Is there no one near at hand here , to attend to another ’ s business rather than his own ?—"
+    },
+    {
+      "id": "4.2.995",
+      "label": "Section 4.2.995",
+      "chapter": null,
+      "original": "qui aucupet me quid agam , qui de vesperi vivat suo ?",
+      "translation": "to prowl after [*] me to see what I ’ m about ? No one who is feeding this evening [*] at his own expense ? I dread such men as these , lest they should now come in the way , or prove an hindrance somehow , should my mistress privately pass from her house this way , who is so enamoured of his person , who so dotes upon this very charming man with his exceeding beauty — the Captain Pyrgopolinices"
+    },
+    {
+      "id": "4.2.999b",
+      "label": "Section 4.2.999b",
+      "chapter": null,
+      "original": "Satin haec quoque me deperit ?",
+      "translation": "And doesn ’ t she dote upon me , too ? She is praising my beauty ."
+    },
+    {
+      "id": "4.2.1000",
+      "label": "Section 4.2.1000",
+      "chapter": null,
+      "original": "meam laudat speciem . edepol huius sermo haud cinerem quaeritat .",
+      "translation": "I ’ faith , her language stands in need of no ashes [*] . [*]"
+    },
+    {
+      "id": "4.2.1001",
+      "label": "Section 4.2.1001",
+      "chapter": null,
+      "original": "Quo argumento ?",
+      "translation": "For what reason ?"
+    },
+    {
+      "id": "4.2.1001b",
+      "label": "Section 4.2.1001b",
+      "chapter": null,
+      "original": "Quia enim loquitur laute et minime sordide .",
+      "translation": "Why , because her language is clean spoken and far from slovenly ."
+    },
+    {
+      "id": "4.2.1002",
+      "label": "Section 4.2.1002",
+      "chapter": null,
+      "original": "Quippini ? istaec de te loquitur : nihil attrectat sordidi .",
+      "translation": "Whatever she says about yourself , she handles it in no slovenly way ."
+    },
+    {
+      "id": "4.2.1003",
+      "label": "Section 4.2.1003",
+      "chapter": null,
+      "original": "Tum autem illa ipsa est nimium lepida nimisque nitida femina .",
+      "translation": "And , then , besides , she herself is a very pretty and a very dainty wench ."
+    },
+    {
+      "id": "4.2.1004",
+      "label": "Section 4.2.1004",
+      "chapter": null,
+      "original": "hercle vero iam adlubescit primulum , Palaestrio .",
+      "translation": "Troth , indeed , she has made an impression already , Palaestrio , at first sight ."
+    },
+    {
+      "id": "4.2.1005",
+      "label": "Section 4.2.1005",
+      "chapter": null,
+      "original": "Priusne quam illam oculis tuis videas ?",
+      "translation": "What ! before you have seen the other with your eyes ?"
+    },
+    {
+      "id": "4.2.1005b",
+      "label": "Section 4.2.1005b",
+      "chapter": null,
+      "original": "Video id quod credo tibi .",
+      "translation": "What I see , in that I have faith for myself ; for this mackerel [*] , in the absence of the mullet , compels me to be in love with her ."
+    },
+    {
+      "id": "4.2.1006b",
+      "label": "Section 4.2.1006b",
+      "chapter": null,
+      "original": "Hercle hanc quidem",
+      "translation": "I ’ faith , you really mustn ’ t be falling in love with her , she ’ s engaged to me . If the other weds you to-day , forthwith I shall take this one for my wife ."
+    },
+    {
+      "id": "4.2.1008b",
+      "label": "Section 4.2.1008b",
+      "chapter": null,
+      "original": "Quíd ergo hanc dubitas conloqui ?",
+      "translation": "Why , then , do you delay to accost her ?"
+    },
+    {
+      "id": "4.2.1009",
+      "label": "Section 4.2.1009",
+      "chapter": null,
+      "original": "Sequere hac me ergo .",
+      "translation": "Follow me this way , then ."
+    },
+    {
+      "id": "4.2.1009b",
+      "label": "Section 4.2.1009b",
+      "chapter": null,
+      "original": "Pedisequos tibi sum .",
+      "translation": "I am your lackey at your heels [*] ."
+    },
+    {
+      "id": "4.2.1009c",
+      "label": "Section 4.2.1009c",
+      "chapter": null,
+      "original": "Vtinam , cuius causa foras",
+      "translation": "I wish that I had an opportunity of meeting him on account of whom I came here out of doors ."
+    },
+    {
+      "id": "4.2.1011",
+      "label": "Section 4.2.1011",
+      "chapter": null,
+      "original": "Erit , ét tibi exoptatum óptinget , bonum habe ánimum , ne formída ;",
+      "translation": "It shall be so , and you shall have what you so greatly wish ; be of good courage , don ’ t fear ; there is a certain person who knows where that is which you are seeking ."
+    },
+    {
+      "id": "4.2.1012b",
+      "label": "Section 4.2.1012b",
+      "chapter": null,
+      "original": "Quem ego hic audívi ?",
+      "translation": "Who ’ s that I hear at hand ?"
+    },
+    {
+      "id": "4.2.1013",
+      "label": "Section 4.2.1013",
+      "chapter": null,
+      "original": "Sociúm tuorum concíliorum et partícipem consiliorum .",
+      "translation": "The sharer of your plans and the partaker of your secrets ."
+    },
+    {
+      "id": "4.2.1014",
+      "label": "Section 4.2.1014",
+      "chapter": null,
+      "original": "Tum pól ego id quod celo haú celo .",
+      "translation": "I ’ faith , then , what I do conceal I don ’ t conceal ."
+    },
+    {
+      "id": "4.2.1014b",
+      "label": "Section 4.2.1014b",
+      "chapter": null,
+      "original": "Immo et célas et non célas .",
+      "translation": "Aye , but still you don ’ t conceal it this way ."
+    },
+    {
+      "id": "4.2.1015",
+      "label": "Section 4.2.1015",
+      "chapter": null,
+      "original": "Quo argúmento ?",
+      "translation": "How so ?"
+    }
+  ],
+  "prevChunkSlug": "the-braggart-soldier-kcqgdf-11",
+  "nextChunkSlug": "the-braggart-soldier-kcqgdf-13"
+}

@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-ghost-1vjypr-3",
+  "label": "The Ghost (Section 1.3.258b - Section 1.4.333c)",
+  "partId": "the-ghost-1vjypr",
+  "partTitle": "The Ghost",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Mostellaria",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Mostellaria, or The Haunted House",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.3.258b",
+      "label": "Section 1.3.258b",
+      "chapter": null,
+      "original": "Quid cerussa opust nám ?",
+      "translation": "Why , what need of ceruse have you ?"
+    },
+    {
+      "id": "1.3.258c",
+      "label": "Section 1.3.258c",
+      "chapter": null,
+      "original": "Qui malas oblinam .",
+      "translation": "To paint my cheeks with it ."
+    },
+    {
+      "id": "1.3.259",
+      "label": "Section 1.3.259",
+      "chapter": null,
+      "original": "Vna operá ebur atramento candefacere postules .",
+      "translation": "On the same principle , you would want to be making ivory white with ink ."
+    },
+    {
+      "id": "1.3.260",
+      "label": "Section 1.3.260",
+      "chapter": null,
+      "original": "Lepide dictum de atramento atque ebore . euge , plaudo Scaphae .",
+      "translation": "Cleverly said that , about the ink and the ivory ! Bravo ! I applaud you , Scapha ."
+    },
+    {
+      "id": "1.3.261",
+      "label": "Section 1.3.261",
+      "chapter": null,
+      "original": "Tum tu igitur cedo purpurissum .",
+      "translation": "Well then , do you give me the rouge ."
+    },
+    {
+      "id": "1.3.261b",
+      "label": "Section 1.3.261b",
+      "chapter": null,
+      "original": "Non do . scita es tu quidem .",
+      "translation": "I shan ’ t give it . You really are a clever one . Do you wish to patch up a most clever piece with new daubing ? It ’ s not right that any paint should touch that person , neither ceruse , nor quince-ointment , nor any other wash ."
+    },
+    {
+      "id": "1.3.265",
+      "label": "Section 1.3.265",
+      "chapter": null,
+      "original": "Cape igitur speculum .",
+      "translation": "Take the mirror , then . ( Hands her the glass .)"
+    },
+    {
+      "id": "1.3.265b",
+      "label": "Section 1.3.265b",
+      "chapter": null,
+      "original": "Ei mihi misero , savium speculo dedit .",
+      "translation": "Ah wretched me !— she gave the glass a kiss . I could much wish for a stone , with which to break the head of that glass ."
+    },
+    {
+      "id": "1.3.267",
+      "label": "Section 1.3.267",
+      "chapter": null,
+      "original": "Linteum cape atque exterge tibi manus .",
+      "translation": "Take the towel and wipe your hands ."
+    },
+    {
+      "id": "1.3.267b",
+      "label": "Section 1.3.267b",
+      "chapter": null,
+      "original": "Quid ita , obsecro ?",
+      "translation": "Why so , prithee ?"
+    },
+    {
+      "id": "1.3.268",
+      "label": "Section 1.3.268",
+      "chapter": null,
+      "original": "Vt speculum tenuisti , metuo né olant argentum manus :",
+      "translation": "As you ’ ve been holding the mirror , I ’ m afraid that your hands may smell of silver ; lest Philolaches should suspect you ’ ve been receiving silver somewhere ."
+    },
+    {
+      "id": "1.3.270",
+      "label": "Section 1.3.270",
+      "chapter": null,
+      "original": "Non videor vidisse lenam callidiorem ullam alteras .",
+      "translation": "I don ’ t think that I ever did see any one procuress more cunning . How cleverly and artfully did it occur to the jade ’ s imagination about the mirror !"
+    },
+    {
+      "id": "1.3.272",
+      "label": "Section 1.3.272",
+      "chapter": null,
+      "original": "Etiamne unguentis unguendam censes ?",
+      "translation": "Do you think I ought to be perfumed with unguents as well ?"
+    },
+    {
+      "id": "1.3.272b",
+      "label": "Section 1.3.272b",
+      "chapter": null,
+      "original": "Minime feceris .",
+      "translation": "By no means do so ."
+    },
+    {
+      "id": "1.3.273",
+      "label": "Section 1.3.273",
+      "chapter": null,
+      "original": "Quapropter ?",
+      "translation": "For what reason ?"
+    },
+    {
+      "id": "1.3.273b",
+      "label": "Section 1.3.273b",
+      "chapter": null,
+      "original": "Quia ecastor mulier recte olet , ubi nihil olet .",
+      "translation": "Because , i ’ faith , a woman smells best [*] when she smells of nothing at all . For those old women who are in the habit of anointing themselves with unguents , vampt up creatures ,"
+    },
+    {
+      "id": "1.3.275",
+      "label": "Section 1.3.275",
+      "chapter": null,
+      "original": "vetulae , edentulae , quae vitia corporis fuco occulunt ,",
+      "translation": "old hags , and toothless , who hide the blemishes of the person with paint , when the sweat has blended itself with the unguents , forthwith they stink just like when a cook has poured together a variety of broths ; what they smell of , you don ’ t know , except this only , that you understand that badly they do smell ."
+    },
+    {
+      "id": "1.3.279",
+      "label": "Section 1.3.279",
+      "chapter": null,
+      "original": "Vt perdocte cuncta callet . nihil hac docta doctius .",
+      "translation": "How very cleverly she does understand everything ! There ’ s nothing more knowing than this knowing woman !"
+    },
+    {
+      "id": "1.3.280",
+      "label": "Section 1.3.280",
+      "chapter": null,
+      "original": "verum illud ésse maxima adeo pars vestrorum intellegit ,",
+      "translation": "( To the AUDIENCE .) This is the truth , and a very great portion , in fact , of you know it , who have old women for wives at home who purchased you with their portions ."
+    },
+    {
+      "id": "1.3.282",
+      "label": "Section 1.3.282",
+      "chapter": null,
+      "original": "Agedum contempla aurum et pallam , satin haec me deceat , Scapha .",
+      "translation": "Come now , examine my golden trinkets and my mantle ; does this quite become me , Scapha ?"
+    },
+    {
+      "id": "1.3.283",
+      "label": "Section 1.3.283",
+      "chapter": null,
+      "original": "Non me istuc curare oportet .",
+      "translation": "It befits not me to concern myself about that ."
+    },
+    {
+      "id": "1.3.283b",
+      "label": "Section 1.3.283b",
+      "chapter": null,
+      "original": "Quem obsecro igitur ?",
+      "translation": "Whom then , prithee ?"
+    },
+    {
+      "id": "1.3.283c",
+      "label": "Section 1.3.283c",
+      "chapter": null,
+      "original": "Eloquar :",
+      "translation": "I ’ ll tell you ;"
+    },
+    {
+      "id": "1.3.284_285",
+      "label": "Section 1.3.284_285",
+      "chapter": null,
+      "original": "Philolachem , is ne quid emat , nisi quod sibi placere censeat .",
+      "translation": "Philolaches ; so that he may not buy anything except that which he fancies will please you . For a lover buys the favours of a mistress for himself with gold and purple garments . What need is there for that which he doesn ’ t want as his own , to be shown him still ? Age is to be enveloped in purple ; gold ornaments are unsuitable for a woman . A beautiful woman will be more beautiful naked than drest in purple ."
+    },
+    {
+      "id": "1.3.290",
+      "label": "Section 1.3.290",
+      "chapter": null,
+      "original": "poste nequiquam exornata est bene , si morata est male .",
+      "translation": "Besides , it ’ s in vain she ’ s well-drest if she ’ s ill-conducted ; ill-conduct soils fine ornaments worse than dirt . But if she ’ s beauteous , she ’ s sufficiently adorned ."
+    },
+    {
+      "id": "1.3.292b",
+      "label": "Section 1.3.292b",
+      "chapter": null,
+      "original": "Nimis diu abstineo manum .",
+      "translation": "Too long have I withheld my hand . ( Coming forward .) What are you about here ?"
+    },
+    {
+      "id": "1.3.293b",
+      "label": "Section 1.3.293b",
+      "chapter": null,
+      "original": "Tibi me exorno út placeam .",
+      "translation": "I ’ m decking myself out to please you ."
+    },
+    {
+      "id": "1.3.293c",
+      "label": "Section 1.3.293c",
+      "chapter": null,
+      "original": "Ornata es satis .",
+      "translation": "You are dressed enough . ( To SCAPHA .) Go you hence in-doors , and take away this finery . ( SCAPHA goes into the house .) But , my delight ,"
+    },
+    {
+      "id": "1.3.295",
+      "label": "Section 1.3.295",
+      "chapter": null,
+      "original": "mea Philematium , potare tecum conlibitum est mihi .",
+      "translation": "my Philematium , I have a mind to regale together with you ."
+    },
+    {
+      "id": "1.3.296",
+      "label": "Section 1.3.296",
+      "chapter": null,
+      "original": "Et edepol mihi tecum , nam quod tibi libet idem mihi libet ,",
+      "translation": "And , i ’ faith , so I have with you ; for what you have a mind to , the same have I a mind to , my delight ."
+    },
+    {
+      "id": "1.3.297b",
+      "label": "Section 1.3.297b",
+      "chapter": null,
+      "original": "Em istuc verbum vile est viginti minis .",
+      "translation": "Ha ! at twenty mine that expression were cheap ."
+    },
+    {
+      "id": "1.3.298",
+      "label": "Section 1.3.298",
+      "chapter": null,
+      "original": "Cedo , amabo , decem : bene emptum tibi dare hoc verbum volo .",
+      "translation": "Give me ten , there ’ s a dear ; I wish to let you have that expression bought a bargain ."
+    },
+    {
+      "id": "1.3.299",
+      "label": "Section 1.3.299",
+      "chapter": null,
+      "original": "Etiam nunc decem minae apud te sunt ; vel rationem puta .",
+      "translation": "You ’ ve already got ten minae with you ; or reckon up the account :"
+    },
+    {
+      "id": "1.3.300",
+      "label": "Section 1.3.300",
+      "chapter": null,
+      "original": "triginta minas pro capite tuo dedi .",
+      "translation": "thirty minae I gave for your freedom —"
+    },
+    {
+      "id": "1.3.300b",
+      "label": "Section 1.3.300b",
+      "chapter": null,
+      "original": "Cur exprobras ?",
+      "translation": "Why reproach me with that ?"
+    },
+    {
+      "id": "1.3.301",
+      "label": "Section 1.3.301",
+      "chapter": null,
+      "original": "Egone id exprobrem , qui mihimet cupio id opprobrarier ?",
+      "translation": "What , I reproach you with it ? Why , I had rather that I myself were reproached with it ; no money whatever for this long time have I ever laid out equally well ."
+    },
+    {
+      "id": "1.3.303",
+      "label": "Section 1.3.303",
+      "chapter": null,
+      "original": "Certe ego , quod te amo , operam nusquam melius potui ponere .",
+      "translation": "Surely , in loving you , I never could have better employed my pains ."
+    },
+    {
+      "id": "1.3.304",
+      "label": "Section 1.3.304",
+      "chapter": null,
+      "original": "Bene igitur ratio accepti atque expensi inter nos convenit :",
+      "translation": "The account , then , of receipts and expenditure fully tallies between ourselves ;"
+    },
+    {
+      "id": "1.3.305",
+      "label": "Section 1.3.305",
+      "chapter": null,
+      "original": "tu me amas , ego té amo ; merito id fieri uterque existimat .",
+      "translation": "you love me , I love you . Each thinks that it is so deservedly . Those who rejoice at this , may they ever rejoice at the continuance of their own happiness . Those who envy , let not any one henceforth be ever envious of their blessings ."
+    },
+    {
+      "id": "1.3.308",
+      "label": "Section 1.3.308",
+      "chapter": null,
+      "original": "Age accumbe igitur . cedo aquam manibus , puere , appone hic mensulam .",
+      "translation": "Come , take your place , then . ( At the door , to a SERVANT , who obeys .) Boy , bring some water for the hands ; put a little table here . See where are the dice . Would you like some perfumes ? ( They recline on the couch .)"
+    },
+    {
+      "id": "1.3.309b",
+      "label": "Section 1.3.309b",
+      "chapter": null,
+      "original": "Quid opust ? cum stacta accubo .",
+      "translation": "What need is there ? Along with myrrh I am reclining ."
+    },
+    {
+      "id": "1.3.310",
+      "label": "Section 1.3.310",
+      "chapter": null,
+      "original": "sed estne hic meus sodalis , qui huc incedit cúm amica sua ?",
+      "translation": "But isn ’ t this my friend who ’ s coming hither with his mistress ? ’ Tis he ; it ’ s Callidamates ; look , he ’ s coming . Capital ! my sweet one , see , our comrades are approaching ; they ’ re coming to share the spoil ."
+    },
+    {
+      "id": "1.4.313",
+      "label": "Section 1.4.313",
+      "chapter": null,
+      "original": "Advérsum veníri mihi ád Philolachétem",
+      "translation": "I want you to come for me [*] in good time to the house of Philolaches ; listen you ; well then ! those are your orders . ( Exit SERVANT .)"
+    },
+    {
+      "id": "1.4.315",
+      "label": "Section 1.4.315",
+      "chapter": null,
+      "original": "nam ílli ubi fui , inde éffugi foras ,",
+      "translation": "For from the place where I was , thence did I betake myself off ; so confoundedly tired was I there . with the entertainment and the discourse . Now I ’ ll go to Philolaches to have a bout there he ’ ll receive us with jovial feelings and handsomely . Do I seem to you to be fairly drenched , my bubsy ?"
+    },
+    {
+      "id": "1.4.320",
+      "label": "Section 1.4.320",
+      "chapter": null,
+      "original": "Sémper istóc modo .",
+      "translation": "You ought always to live pursuing this course of life ."
+    },
+    {
+      "id": "1.4.322",
+      "label": "Section 1.4.322",
+      "chapter": null,
+      "original": "Visne égo te ac tu me ampléctare ?",
+      "translation": "Should you like , then , for me to hug you , and you me ?"
+    },
+    {
+      "id": "1.4.323",
+      "label": "Section 1.4.323",
+      "chapter": null,
+      "original": "Si tíbi cordi est faceré , licet .",
+      "translation": "If you ’ ve a mind to do so , of course ."
+    },
+    {
+      "id": "1.4.323b",
+      "label": "Section 1.4.323b",
+      "chapter": null,
+      "original": "Lépida es .",
+      "translation": "You are a charming one . ( He stumbles .) Do hold me up , there ’ s a dear ."
+    },
+    {
+      "id": "1.4.324b",
+      "label": "Section 1.4.324b",
+      "chapter": null,
+      "original": "Cave né cadas , ásta .",
+      "translation": "Take care you don ’ t fall . Stand up ."
+    },
+    {
+      "id": "1.4.325",
+      "label": "Section 1.4.325",
+      "chapter": null,
+      "original": "O — o — ocellús meus , túos sum alumnus , mél meum .",
+      "translation": "O ! you are the apple of my eye . I ’ m your fosterling , my honey ."
+    },
+    {
+      "id": "1.4.326",
+      "label": "Section 1.4.326",
+      "chapter": null,
+      "original": "Cáve modo , né prius ín via accúmbas ,",
+      "translation": "Only do take care that you don ’ t recline in the street , before we get to a place where a couch is ready laid ."
+    },
+    {
+      "id": "1.4.328",
+      "label": "Section 1.4.328",
+      "chapter": null,
+      "original": "Síne , sine cádere me .",
+      "translation": "Do let me fall ."
+    },
+    {
+      "id": "1.4.328b",
+      "label": "Section 1.4.328b",
+      "chapter": null,
+      "original": "Síno , sed hoc , quod mi in manu est :",
+      "translation": "Well , I ’ ll let you . ( Lets go .)"
+    },
+    {
+      "id": "1.4.330",
+      "label": "Section 1.4.330",
+      "chapter": null,
+      "original": "Iacéntis tollet póstea nos ámbos aliquis .",
+      "translation": "But that as well which I ’ ve got hold of in my hand ."
+    },
+    {
+      "id": "1.4.331",
+      "label": "Section 1.4.331",
+      "chapter": null,
+      "original": "Madet hómo .",
+      "translation": "If you fall , you shan ’ t fall without me falling with you . Then some one shall pick us both up as we lie ( Aside .) The man ’ s quite drenched ."
+    },
+    {
+      "id": "1.4.331b",
+      "label": "Section 1.4.331b",
+      "chapter": null,
+      "original": "Tun me ais mammámadere ?",
+      "translation": "Do you say that I am drenched , my bubsy ?"
+    },
+    {
+      "id": "1.4.332",
+      "label": "Section 1.4.332",
+      "chapter": null,
+      "original": "Cedo mánum , nolo equidem te ádfligi .",
+      "translation": "Give me your hand ; I really do not want ⋯ you hurt ."
+    },
+    {
+      "id": "1.4.333",
+      "label": "Section 1.4.333",
+      "chapter": null,
+      "original": "Em téne .",
+      "translation": "There now , take it ."
+    },
+    {
+      "id": "1.4.333b",
+      "label": "Section 1.4.333b",
+      "chapter": null,
+      "original": "Age , i símul .",
+      "translation": "Come , move on with me ."
+    },
+    {
+      "id": "1.4.333c",
+      "label": "Section 1.4.333c",
+      "chapter": null,
+      "original": "Quo ego eam ?",
+      "translation": "Where am I going , do you know ?"
+    }
+  ],
+  "prevChunkSlug": "the-ghost-1vjypr-2",
+  "nextChunkSlug": "the-ghost-1vjypr-4"
+}

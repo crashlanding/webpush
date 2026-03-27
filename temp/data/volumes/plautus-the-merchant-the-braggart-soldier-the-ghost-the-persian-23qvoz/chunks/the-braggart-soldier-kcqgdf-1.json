@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-braggart-soldier-kcqgdf-1",
+  "label": "The Braggart Soldier (Section 1.1.1 - Section 2.1.105)",
+  "partId": "the-braggart-soldier-kcqgdf",
+  "partTitle": "The Braggart Soldier",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Miles Gloriosus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Miles Gloriosus, or The Braggart Captain",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1.1",
+      "label": "Section 1.1.1",
+      "chapter": null,
+      "original": "Curate ut splendor meo sit clupeo clarior",
+      "translation": "Take ye care that the lustre of my shield is more bright than the rays of the sun are wont to be at the time when the sky is clear ; that when occasion comes , the battle being joined , ’ mid the fierce ranks right opposite it may dazzle the eyesight of the enemy ."
+    },
+    {
+      "id": "1.1.5",
+      "label": "Section 1.1.5",
+      "chapter": null,
+      "original": "nam ego hanc machaeram mihi consolari volo ,",
+      "translation": "But , I wish to console this sabre of mine , that it may not lament nor be downcast in spirits , because I have thus long been wearing it keeping holiday , which so longs right dreadfully to make havoc of the enemy . But where is Artotrogus ?"
+    },
+    {
+      "id": "1.1.9b",
+      "label": "Section 1.1.9b",
+      "chapter": null,
+      "original": "Stat propter virum",
+      "translation": "Here he is ; he stands close by the hero ,"
+    },
+    {
+      "id": "1.1.10",
+      "label": "Section 1.1.10",
+      "chapter": null,
+      "original": "fortem atque fortunatum et forma regia ;",
+      "translation": "valiant and successful , and of princely form . Mars could not dare to style himself a warrior so great , nor compare his prowess with yours ."
+    },
+    {
+      "id": "1.1.13",
+      "label": "Section 1.1.13",
+      "chapter": null,
+      "original": "Quemne ego servavi in campis Curculioniis ,",
+      "translation": "Him you mean whom I spared on the Gorgonidonian [*] plains , where Bumbomachides Clytomestoridysarchides ,"
+    },
+    {
+      "id": "1.1.15",
+      "label": "Section 1.1.15",
+      "chapter": null,
+      "original": "erat imperator summus , Neptuni nepos ?",
+      "translation": "the grandson of Neptune , was the chief commander ?"
+    },
+    {
+      "id": "1.1.16",
+      "label": "Section 1.1.16",
+      "chapter": null,
+      "original": "Memini . nempe illum dicis cum armis aureis ,",
+      "translation": "I remember him ; him , I suppose , you mean with the golden armour , whose legions you puffed away with your breath just as the wind blows away leaves or the reed-thatched roof ."
+    },
+    {
+      "id": "1.1.19",
+      "label": "Section 1.1.19",
+      "chapter": null,
+      "original": "Istuc quidem edepol nihil est .",
+      "translation": "That , on my troth , was really nothing at all ."
+    },
+    {
+      "id": "1.1.19b",
+      "label": "Section 1.1.19b",
+      "chapter": null,
+      "original": "Nihil hercle hoc quidemst",
+      "translation": "Faith , that really was nothing at all"
+    },
+    {
+      "id": "1.1.20",
+      "label": "Section 1.1.20",
+      "chapter": null,
+      "original": "praeut alia dicam — quae tu numquam feceris .",
+      "translation": "in comparison with other things I could mention — ( aside ) which you never did . If any person ever beheld a more perjured fellow than this , or one more full of vain boasting , faith let him have me for himself , I ’ ll resign myself for his slave ; if ’ tis not the fact that [*] my one mess of olive pottage [*] is eaten up by me right ravenously ."
+    },
+    {
+      "id": "1.1.25",
+      "label": "Section 1.1.25",
+      "chapter": null,
+      "original": "Vbi tu es ?",
+      "translation": "Where are you ?"
+    },
+    {
+      "id": "1.1.25b",
+      "label": "Section 1.1.25b",
+      "chapter": null,
+      "original": "Eccum . edepol vel elephanto in India ,",
+      "translation": "Lo ! here am I . I ’ troth in what a fashion it was you broke the fore-leg [*] of even an elephant , in India , with your fist ."
+    },
+    {
+      "id": "1.1.27",
+      "label": "Section 1.1.27",
+      "chapter": null,
+      "original": "Quid , bracchium ?",
+      "translation": "How ?— the fore-leg ?"
+    },
+    {
+      "id": "1.1.27b",
+      "label": "Section 1.1.27b",
+      "chapter": null,
+      "original": "Illud dicere volui , femur .",
+      "translation": "I meant to say this — the thigh ."
+    },
+    {
+      "id": "1.1.28",
+      "label": "Section 1.1.28",
+      "chapter": null,
+      "original": "At indíligenter iceram .",
+      "translation": "I struck the blow without an effort ."
+    },
+    {
+      "id": "1.1.28b",
+      "label": "Section 1.1.28b",
+      "chapter": null,
+      "original": "Pol si quidem",
+      "translation": "Troth , if , indeed ,"
+    },
+    {
+      "id": "1.1.29",
+      "label": "Section 1.1.29",
+      "chapter": null,
+      "original": "conisus esses , per corium , per viscera",
+      "translation": "you had put forth your strength , your arm would have passed right through the hide , the entrails , and the frontispiece of the elephant ."
+    },
+    {
+      "id": "1.1.31",
+      "label": "Section 1.1.31",
+      "chapter": null,
+      "original": "Nolo istaec hic nunc .",
+      "translation": "I don ’ t care for these things just now ."
+    },
+    {
+      "id": "1.1.31b",
+      "label": "Section 1.1.31b",
+      "chapter": null,
+      "original": "Ne hercle operae pretium quidemst",
+      "translation": "I ’ faith , ’ tis really not worth the while for you to tell me of it , who know right well your prowess . ( Aside ) ’ Tis my appetite creates [*] all these plagues . I must hear him right out with my ears , that my teeth mayn ’ t have time [*] to grow ,"
+    },
+    {
+      "id": "1.1.35",
+      "label": "Section 1.1.35",
+      "chapter": null,
+      "original": "et adsentandumst quidquid hic mentibitur .",
+      "translation": "and whatever lie he shall tell , to it I must agree ."
+    },
+    {
+      "id": "1.1.36",
+      "label": "Section 1.1.36",
+      "chapter": null,
+      "original": "Quid illúc quod dico ?",
+      "translation": "What was it I was saying ?"
+    },
+    {
+      "id": "1.1.36b",
+      "label": "Section 1.1.36b",
+      "chapter": null,
+      "original": "Ehem , scío iam quid vis dicere .",
+      "translation": "O , I know what you were going to say just now . I ’ faith ’ twas bravely done ; I remember its being done ."
+    },
+    {
+      "id": "1.1.37b",
+      "label": "Section 1.1.37b",
+      "chapter": null,
+      "original": "Quid id est ?",
+      "translation": "What was that ?"
+    },
+    {
+      "id": "1.1.37c",
+      "label": "Section 1.1.37c",
+      "chapter": null,
+      "original": "Quidquid est .",
+      "translation": "Whatever it was you were going to say ."
+    },
+    {
+      "id": "1.1.38",
+      "label": "Section 1.1.38",
+      "chapter": null,
+      "original": "Habes —",
+      "translation": "Have you got your tablets [*] ?"
+    },
+    {
+      "id": "1.1.38b",
+      "label": "Section 1.1.38b",
+      "chapter": null,
+      "original": "Tabellas vis rogare ? habeo , et stilum .",
+      "translation": "Are you intending to enlist [*] ? I have them , and a pen as well ."
+    },
+    {
+      "id": "1.1.39",
+      "label": "Section 1.1.39",
+      "chapter": null,
+      "original": "Facete advortis tuom animum ad animum meum .",
+      "translation": "How cleverly you do suit your mind to my own mind ."
+    },
+    {
+      "id": "1.1.40",
+      "label": "Section 1.1.40",
+      "chapter": null,
+      "original": "Novisse mores tuos me meditate decet",
+      "translation": "’ Tis fit that I should know your inclinations studiously , so that whatever you wish should first occur [*] to me ."
+    },
+    {
+      "id": "1.1.42",
+      "label": "Section 1.1.42",
+      "chapter": null,
+      "original": "Ecquid meministi ?",
+      "translation": "What do you remember ?"
+    },
+    {
+      "id": "1.1.42b",
+      "label": "Section 1.1.42b",
+      "chapter": null,
+      "original": "Memini : centum in Cilicia",
+      "translation": "I do remember this . In Cilicia there were a hundred and fifty men , a hundred in Cryphiolathronia [*] , thirty at Sardis , sixty men of Macedon ,"
+    },
+    {
+      "id": "1.1.45",
+      "label": "Section 1.1.45",
+      "chapter": null,
+      "original": "† sunt homines quos tu occidisti uno die .",
+      "translation": "whom you slaughtered altogether in one day ."
+    },
+    {
+      "id": "1.1.46",
+      "label": "Section 1.1.46",
+      "chapter": null,
+      "original": "Quanta istaec hominum summast ?",
+      "translation": "What is the sum total of those men ?"
+    },
+    {
+      "id": "1.1.46b",
+      "label": "Section 1.1.46b",
+      "chapter": null,
+      "original": "Septem milia .",
+      "translation": "Seven thousand ."
+    },
+    {
+      "id": "1.1.47",
+      "label": "Section 1.1.47",
+      "chapter": null,
+      "original": "Tantum esse oportet . recte rationem tenes .",
+      "translation": "It must be as much : you keep the reckoning well ."
+    },
+    {
+      "id": "1.1.48",
+      "label": "Section 1.1.48",
+      "chapter": null,
+      "original": "At nullos habeo scriptos : sic memini tamen .",
+      "translation": "Yet I have none of them written down ; still , so I remember it was ."
+    },
+    {
+      "id": "1.1.49",
+      "label": "Section 1.1.49",
+      "chapter": null,
+      "original": "Edepol memoria es optuma .",
+      "translation": "By my troth , you have a right good memory ."
+    },
+    {
+      "id": "1.1.49b",
+      "label": "Section 1.1.49b",
+      "chapter": null,
+      "original": "Offae monent .",
+      "translation": "’ Tis the flesh-pots [*] give it a fillip ."
+    },
+    {
+      "id": "1.1.50",
+      "label": "Section 1.1.50",
+      "chapter": null,
+      "original": "Dum tale facies quale adhuc , assiduo edes ,",
+      "translation": "So long as you shall do such as you have done hitherto , you shall always have something to eat : I will always make you a partaker at my table ."
+    },
+    {
+      "id": "1.1.52",
+      "label": "Section 1.1.52",
+      "chapter": null,
+      "original": "Quid ín Cappadocia , ubi tu quingentos simul ,",
+      "translation": "Besides , in Cappadocia , you would have killed five hundred men altogether at one blow , had not your sabre been blunt ."
+    },
+    {
+      "id": "1.1.54",
+      "label": "Section 1.1.54",
+      "chapter": null,
+      "original": "At peditastelli quia erant , sivi viverent .",
+      "translation": "I let them live , because I was quite sick of fighting ."
+    },
+    {
+      "id": "1.1.55",
+      "label": "Section 1.1.55",
+      "chapter": null,
+      "original": "Quid tibi ego dicam , quód omnes mortales sciunt ,",
+      "translation": "Why should I tell you what all mortals know , that you , Pyrgopolinices , live alone upon the earth , with valour , beauty , and achievements most unsurpassed ? All the women are in love with you , and that not without reason , since you are so handsome . Witness those girls that pulled me by my mantle yesterday ."
+    },
+    {
+      "id": "1.1.60b",
+      "label": "Section 1.1.60b",
+      "chapter": null,
+      "original": "Quid eae dixerunt tibi ?",
+      "translation": "What was it they said to you ?"
+    },
+    {
+      "id": "1.1.61",
+      "label": "Section 1.1.61",
+      "chapter": null,
+      "original": "Rogitabant : hicine Achilles est ? inquit mihi .",
+      "translation": "They questioned me about you . Is Achilles here ? says one to me . No , says I , his brother is . Then says the other to me : By my troth , but he is a handsome and a noble man . See how his long hair becomes him ."
+    },
+    {
+      "id": "1.1.65",
+      "label": "Section 1.1.65",
+      "chapter": null,
+      "original": "ne illae sunt fortunatae quae cum isto cubant .”",
+      "translation": "Certainly the women are lucky who share his favours ."
+    },
+    {
+      "id": "1.1.66",
+      "label": "Section 1.1.66",
+      "chapter": null,
+      "original": "Itane aibant tandem ?",
+      "translation": "And pray , did they really say so ?"
+    },
+    {
+      "id": "1.1.66b",
+      "label": "Section 1.1.66b",
+      "chapter": null,
+      "original": "Quaen me ambae obsecraverint ,",
+      "translation": "They both entreated me to bring you past to-day by way of a sight [*] to them ."
+    },
+    {
+      "id": "1.1.68",
+      "label": "Section 1.1.68",
+      "chapter": null,
+      "original": "Nimiast miseria nimis pulchrum esse hominem .",
+      "translation": "’ Tis really a very great plague to be too handsome a man ."
+    },
+    {
+      "id": "1.1.68b",
+      "label": "Section 1.1.68b",
+      "chapter": null,
+      "original": "Immo itast .",
+      "translation": "They are quite a nuisance to me ; they are praying , entreating , beseeching me ,"
+    },
+    {
+      "id": "1.1.70",
+      "label": "Section 1.1.70",
+      "chapter": null,
+      "original": "videre ut liceat , ad sese arcessi iubent ,",
+      "translation": "to let them see you ; bidding me be fetched to them ; so that I can ’ t give my attention to your business ."
+    },
+    {
+      "id": "1.1.72",
+      "label": "Section 1.1.72",
+      "chapter": null,
+      "original": "Videtur tempus esse , ut eamus ad forum ,",
+      "translation": "It seems that it is time for us to go to the Forum , that I may count out their pay to those soldiers whom I have enlisted of late ."
+    },
+    {
+      "id": "1.1.75",
+      "label": "Section 1.1.75",
+      "chapter": null,
+      "original": "nam rex Seleucus me opere oravit maxumo ,",
+      "translation": "For King Seleucus [*] entreated me with most earnest suit that I would raise and enlist recruits for him . To that business have I resolved to devote my attention this day ."
+    },
+    {
+      "id": "1.1.78",
+      "label": "Section 1.1.78",
+      "chapter": null,
+      "original": "Age eamus ergo .",
+      "translation": "Come , let ’ s be going then ."
+    },
+    {
+      "id": "1.1.78b",
+      "label": "Section 1.1.78b",
+      "chapter": null,
+      "original": "Sequimini , satellites . —",
+      "translation": "Guards , follow me ."
+    },
+    {
+      "id": "2.1.79",
+      "label": "Section 2.1.79",
+      "chapter": null,
+      "original": "Mihi ad enarrandum hoc argumentum est comitas ,",
+      "translation": "To tell the subject of this our play , I have all willingness ,"
+    },
+    {
+      "id": "2.1.80",
+      "label": "Section 2.1.80",
+      "chapter": null,
+      "original": "si ad auscultandum vostra erit benignitas ;",
+      "translation": "if you will but have the kindness to listen to it . But he who does not wish to listen , let him arise and go out , that there may be room where he may sit who does wish to listen . Now I will disclose to you both the subject and the name of the play which we are just now about to act , and for the sake of which you are now seated in this mirthful place [*] ,"
+    },
+    {
+      "id": "2.1.86",
+      "label": "Section 2.1.86",
+      "chapter": null,
+      "original": "Alazon Graece huic nomen est comoediae ,",
+      "translation": "Alazon is the name [*] , in Greek , of this Comedy ; the same we call in Latin , the Braggart ( Gloriosus ). This city is Ephesus ; then , the Captain , my master , who has gone off hence to the Forum , a bragging , impudent ,"
+    },
+    {
+      "id": "2.1.90",
+      "label": "Section 2.1.90",
+      "chapter": null,
+      "original": "stercoreus , plenus periuri atque adulteri .",
+      "translation": "stinking fellow , brimful of lying and lasciviousness , says that all the women are following him of their own accord . Wherever he goes , he is the laughing . stock of all ; and so , the Courtesans here — since they make wry mouths at him , you may see the greater part of them with lips all awry ."
+    },
+    {
+      "id": "2.1.95",
+      "label": "Section 2.1.95",
+      "chapter": null,
+      "original": "nam ego hau diu apud hunc servitutem servio ;",
+      "translation": "I wish you now to know this , how I came to be his slave , from him to whom I was servant before ; for ’ tis not long that I have been in slavery to him . Give your attention , for now I will begin the argument . A very worthy young man at Athens was my master ."
+    },
+    {
+      "id": "2.1.100",
+      "label": "Section 2.1.100",
+      "chapter": null,
+      "original": "is amabat meretricem ⋯ matre Athenis Atticis ,",
+      "translation": "He was in love with a Courtesan , brought up at Athens , in Attica , and she on the other hand loved him ; such affection is most worthy to be cherished . In the public service , he was sent to Naupactus [*] as Ambassador on behalf of that mighty republic . In the mean time , by chance , this Captain came to Athens ."
+    },
+    {
+      "id": "2.1.105",
+      "label": "Section 2.1.105",
+      "chapter": null,
+      "original": "insinuat sese ad illam amicam eri †",
+      "translation": "He introduced himself to this lady of my master , began to cajole her mother with presents of wine , trinkets , and costly treats ; and so the Captain made himself on intimate terms with the procuress . As soon as ever an opportunity was presented for this Captain ,"
+    }
+  ],
+  "prevChunkSlug": "the-merchant-1me99z-15",
+  "nextChunkSlug": "the-braggart-soldier-kcqgdf-2"
+}

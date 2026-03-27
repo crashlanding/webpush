@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-little-carthaginian-pseudolus-the-rope-rpgc9x",
+  "volumeTitle": "The Little Carthaginian. Pseudolus. The Rope",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-little-carthaginian-12yp3b-9",
+  "label": "The Little Carthaginian (Section 3.4.717b - Section 3.5.765)",
+  "partId": "the-little-carthaginian-12yp3b",
+  "partTitle": "The Little Carthaginian",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Poenulus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Poenulus, or The Young Carthaginian",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "3.4.717b",
+      "label": "Section 3.4.717b",
+      "chapter": null,
+      "original": "Te sequor .",
+      "translation": "I follow you ."
+    },
+    {
+      "id": "3.4.717c",
+      "label": "Section 3.4.717c",
+      "chapter": null,
+      "original": "Age , age , ambula ,",
+      "translation": "Well , well , walk on ; and then we ’ ll talk together about the other matters that remain ."
+    },
+    {
+      "id": "3.4.719",
+      "label": "Section 3.4.719",
+      "chapter": null,
+      "original": "Eadém narrabo tibi res Spartiaticas .",
+      "translation": "As for me , I ’ ll tell you about the Spartan affairs ."
+    },
+    {
+      "id": "3.4.720",
+      "label": "Section 3.4.720",
+      "chapter": null,
+      "original": "Quin sequere me ergo .—",
+      "translation": "Why then follow me ."
+    },
+    {
+      "id": "3.4.720b",
+      "label": "Section 3.4.720b",
+      "chapter": null,
+      "original": "Abduc intro . addictum tenes .—",
+      "translation": "Lead me in-doors ; lead me in , you have got me made over to you ."
+    },
+    {
+      "id": "3.4.721",
+      "label": "Section 3.4.721",
+      "chapter": null,
+      "original": "Quid nunc mi auctores estis ?",
+      "translation": "What do you advise me now ?"
+    },
+    {
+      "id": "3.4.721b",
+      "label": "Section 3.4.721b",
+      "chapter": null,
+      "original": "Vt frugi sies .",
+      "translation": "To be moderate ."
+    },
+    {
+      "id": "3.4.722",
+      "label": "Section 3.4.722",
+      "chapter": null,
+      "original": "Quid si animus esse non sinit ?",
+      "translation": "What if my feelings will not let me be ?"
+    },
+    {
+      "id": "3.4.722b",
+      "label": "Section 3.4.722b",
+      "chapter": null,
+      "original": "Esto ut sinit .",
+      "translation": "Then be as they will let you ."
+    },
+    {
+      "id": "3.4.723",
+      "label": "Section 3.4.723",
+      "chapter": null,
+      "original": "Vidistis , leno quom aurum accepit ?",
+      "translation": "Did you see it , when the Procurer received the money ?"
+    },
+    {
+      "id": "3.4.723b",
+      "label": "Section 3.4.723b",
+      "chapter": null,
+      "original": "Vidimus .",
+      "translation": "We saw it ."
+    },
+    {
+      "id": "3.4.724",
+      "label": "Section 3.4.724",
+      "chapter": null,
+      "original": "Eum vos meum esse servom scitis ?",
+      "translation": "Did you know that he is my slave ?"
+    },
+    {
+      "id": "3.4.724b",
+      "label": "Section 3.4.724b",
+      "chapter": null,
+      "original": "Scivimus .",
+      "translation": "We knew it ."
+    },
+    {
+      "id": "3.4.725",
+      "label": "Section 3.4.725",
+      "chapter": null,
+      "original": "Rem adversus populi saepe leges ?",
+      "translation": "That it is a thing against the reiterated laws of the people ?"
+    },
+    {
+      "id": "3.4.725b",
+      "label": "Section 3.4.725b",
+      "chapter": null,
+      "original": "Scivimus .",
+      "translation": "We knew it ."
+    },
+    {
+      "id": "3.4.726",
+      "label": "Section 3.4.726",
+      "chapter": null,
+      "original": "Em istaec volo ergo vos commeminisse omnia ,",
+      "translation": "Well then , all these things I wish you to keep in memory before the Praetor by-and-by , when occasion shall come ."
+    },
+    {
+      "id": "3.4.727b",
+      "label": "Section 3.4.727b",
+      "chapter": null,
+      "original": "Meminimus .",
+      "translation": "We remember them ."
+    },
+    {
+      "id": "3.4.728",
+      "label": "Section 3.4.728",
+      "chapter": null,
+      "original": "Quid si recenti re aedis pultem ?",
+      "translation": "What if , while the matter has so recently happened , I knock at the door ?"
+    },
+    {
+      "id": "3.4.728b",
+      "label": "Section 3.4.728b",
+      "chapter": null,
+      "original": "Censeo .",
+      "translation": "I think you ought ."
+    },
+    {
+      "id": "3.4.729",
+      "label": "Section 3.4.729",
+      "chapter": null,
+      "original": "Si pultem , non recludet ?",
+      "translation": "If I do knock , he won ’ t open it [*] ."
+    },
+    {
+      "id": "3.4.729b",
+      "label": "Section 3.4.729b",
+      "chapter": null,
+      "original": "Panem frangito .",
+      "translation": "Then break the pannel [*] ."
+    },
+    {
+      "id": "3.4.730",
+      "label": "Section 3.4.730",
+      "chapter": null,
+      "original": "Si exierit leno , quid tum ? hominem interrogem ,",
+      "translation": "If the Procurer comes out , do you think I ought to enquire of the fellow whether my slave has come to him or not ?"
+    },
+    {
+      "id": "3.4.731b",
+      "label": "Section 3.4.731b",
+      "chapter": null,
+      "original": "Quippini ?",
+      "translation": "Why not ?"
+    },
+    {
+      "id": "3.4.732",
+      "label": "Section 3.4.732",
+      "chapter": null,
+      "original": "Cum auri ducentis nummis Philippis ?",
+      "translation": "With two hundred golden Philippean pieces ?"
+    },
+    {
+      "id": "3.4.732b",
+      "label": "Section 3.4.732b",
+      "chapter": null,
+      "original": "Quippini ?",
+      "translation": "Why not ?"
+    },
+    {
+      "id": "3.4.733",
+      "label": "Section 3.4.733",
+      "chapter": null,
+      "original": "Ibi extémplo leno errabit .",
+      "translation": "Then the Procurer will be going astray at once ."
+    },
+    {
+      "id": "3.4.733b",
+      "label": "Section 3.4.733b",
+      "chapter": null,
+      "original": "Qua de re ?",
+      "translation": "About what matter ?"
+    },
+    {
+      "id": "3.4.733c",
+      "label": "Section 3.4.733c",
+      "chapter": null,
+      "original": "Rogas ?",
+      "translation": "Do you ask ? Because a less sum will be named by one hundred pieces ."
+    },
+    {
+      "id": "3.4.734b",
+      "label": "Section 3.4.734b",
+      "chapter": null,
+      "original": "Bene putas .",
+      "translation": "You judge rightly ."
+    },
+    {
+      "id": "3.4.735",
+      "label": "Section 3.4.735",
+      "chapter": null,
+      "original": "Alium censebit quaeritari .",
+      "translation": "He ’ ll think that some other person is being looked after ."
+    },
+    {
+      "id": "3.4.735b",
+      "label": "Section 3.4.735b",
+      "chapter": null,
+      "original": "Scilicet .",
+      "translation": "No doubt ."
+    },
+    {
+      "id": "3.4.736",
+      "label": "Section 3.4.736",
+      "chapter": null,
+      "original": "Extemplo denegabit .",
+      "translation": "He ’ ll be denying it at once ."
+    },
+    {
+      "id": "3.4.736b",
+      "label": "Section 3.4.736b",
+      "chapter": null,
+      "original": "Iuratus quidem .",
+      "translation": "On his oath even ."
+    },
+    {
+      "id": "3.4.737",
+      "label": "Section 3.4.737",
+      "chapter": null,
+      "original": "Homo fúrti sese adstringet .",
+      "translation": "The fellow will involve himself in the guilt of theft —"
+    },
+    {
+      "id": "3.4.737b",
+      "label": "Section 3.4.737b",
+      "chapter": null,
+      "original": "Hau dubium id quidemst .",
+      "translation": "Beyond a doubt , it certainly is so ."
+    },
+    {
+      "id": "3.4.738",
+      "label": "Section 3.4.738",
+      "chapter": null,
+      "original": "Quantum quantum ad eum erit delatum .",
+      "translation": "Of however much it is that shall have been brough to him ."
+    },
+    {
+      "id": "3.4.738b",
+      "label": "Section 3.4.738b",
+      "chapter": null,
+      "original": "Quippini ?",
+      "translation": "Why not ?"
+    },
+    {
+      "id": "3.4.739",
+      "label": "Section 3.4.739",
+      "chapter": null,
+      "original": "Diespiter vos perduit .",
+      "translation": "Jupiter confound you [*] !"
+    },
+    {
+      "id": "3.4.739b",
+      "label": "Section 3.4.739b",
+      "chapter": null,
+      "original": "Te quippini ?",
+      "translation": "Why not your own self ?"
+    },
+    {
+      "id": "3.4.740",
+      "label": "Section 3.4.740",
+      "chapter": null,
+      "original": "Ibo et pultabo ianuam iam .",
+      "translation": "I ’ ll go and knock at this door ."
+    },
+    {
+      "id": "3.4.740b",
+      "label": "Section 3.4.740b",
+      "chapter": null,
+      "original": "Quippini ?",
+      "translation": "Even so . Why not ?"
+    },
+    {
+      "id": "3.4.741",
+      "label": "Section 3.4.741",
+      "chapter": null,
+      "original": "Tacendi tempus est , nam crepuerunt fores .",
+      "translation": "It ’ s time to be quiet , for the door makes a noise . I see the Procurer Lycus coming out of doors ; come this way , pray !"
+    },
+    {
+      "id": "3.4.743b",
+      "label": "Section 3.4.743b",
+      "chapter": null,
+      "original": "Quippini ? † si voles",
+      "translation": "Why not ? But , if you please , cover up our heads , that the Procurer mayn ’ t know us ,"
+    },
+    {
+      "id": "3.4.745",
+      "label": "Section 3.4.745",
+      "chapter": null,
+      "original": "qui illi malae rei tantae fuimus inlices .",
+      "translation": "who have been his decoyers [*] into so great a calamity ."
+    },
+    {
+      "id": "3.5.746",
+      "label": "Section 3.5.746",
+      "chapter": null,
+      "original": "Suspendant omnes nunciam se haruspices ,",
+      "translation": "Let all soothsayers go hang themselves now at once . Why should I believe them in future , as to what they say ? For they , just now at the sacrifice , told me that evil and the greatest disaster was portended to me ."
+    },
+    {
+      "id": "3.5.750",
+      "label": "Section 3.5.750",
+      "chapter": null,
+      "original": "is explicavi meam rem postilla lucro .",
+      "translation": "I have since then amplified my fortune with profit ."
+    },
+    {
+      "id": "3.5.751",
+      "label": "Section 3.5.751",
+      "chapter": null,
+      "original": "Salvos sis , leno .",
+      "translation": "Save you , Procurer ."
+    },
+    {
+      "id": "3.5.751b",
+      "label": "Section 3.5.751b",
+      "chapter": null,
+      "original": "Di te ament , Agorastocles .",
+      "translation": "May the Gods bless you , Agorastocles ."
+    },
+    {
+      "id": "3.5.752",
+      "label": "Section 3.5.752",
+      "chapter": null,
+      "original": "Magis mé benigne nunc salutas quam antidhac .",
+      "translation": "You now salute me more kindly than hitherto ."
+    },
+    {
+      "id": "3.5.753",
+      "label": "Section 3.5.753",
+      "chapter": null,
+      "original": "Tranquillitas evenit , quasi navi in mari :",
+      "translation": "A calm has come , as though to a ship at sea . Just as the wind is , to that quarter is the sail shifted ."
+    },
+    {
+      "id": "3.5.755",
+      "label": "Section 3.5.755",
+      "chapter": null,
+      "original": "Valeant apud te quos volo ; atque haud te volo .",
+      "translation": "May those ladies be well in your house , to whom I wish it , but to yourself I do not wish it ."
+    },
+    {
+      "id": "3.5.756",
+      "label": "Section 3.5.756",
+      "chapter": null,
+      "original": "Valent ut postulatumst , verum non tibi .",
+      "translation": "They are well , as you desire ; not for you , though ."
+    },
+    {
+      "id": "3.5.757",
+      "label": "Section 3.5.757",
+      "chapter": null,
+      "original": "Mitte ad me , si audes , hodie Adelphasium tuam ,",
+      "translation": "Send your Adelphasium to my house , to-day , please , upon this celebrated and famous festival , the Aphrodisia ."
+    },
+    {
+      "id": "3.5.759",
+      "label": "Section 3.5.759",
+      "chapter": null,
+      "original": "Calidum prandisti prandium hodie ? dic mihi .",
+      "translation": "Have you been breakfasting on a hot breakfast today ? Tell me ."
+    },
+    {
+      "id": "3.5.760",
+      "label": "Section 3.5.760",
+      "chapter": null,
+      "original": "Quid iam ?",
+      "translation": "Why so ?"
+    },
+    {
+      "id": "3.5.760b",
+      "label": "Section 3.5.760b",
+      "chapter": null,
+      "original": "Quia os nunc frigefactas , quom rogas .",
+      "translation": "Because now you are only cooling your mouth [*] , when you ask me ."
+    },
+    {
+      "id": "3.5.761",
+      "label": "Section 3.5.761",
+      "chapter": null,
+      "original": "Hoc age sis , leno . servom esse audivi meum",
+      "translation": "Attend to this , Procurer , will you ; I ’ ve heard that my slave is at your house ."
+    },
+    {
+      "id": "3.5.762b",
+      "label": "Section 3.5.762b",
+      "chapter": null,
+      "original": "Apud me ? numquam factum reperies .",
+      "translation": "At my house ? You ’ ll find that has never been the fact ."
+    },
+    {
+      "id": "3.5.763",
+      "label": "Section 3.5.763",
+      "chapter": null,
+      "original": "Mentire . nam ad te venit aurumque attulit .",
+      "translation": "You lie ; for he has come to your house , and carried off some gold there . Word has been brought me to that effect , by persons I fully believe ."
+    },
+    {
+      "id": "3.5.765",
+      "label": "Section 3.5.765",
+      "chapter": null,
+      "original": "Malus es , captatum me advenis cum testibus .",
+      "translation": "You are an artful fellow : you ’ ve come to entrap me with your witnesses . There ’ s no one of your people in my house , nor anything of yours ."
+    }
+  ],
+  "prevChunkSlug": "the-little-carthaginian-12yp3b-8",
+  "nextChunkSlug": "the-little-carthaginian-12yp3b-10"
+}

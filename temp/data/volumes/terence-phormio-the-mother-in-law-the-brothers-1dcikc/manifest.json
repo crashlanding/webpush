@@ -1,0 +1,619 @@
+{
+  "loebNumber": 23,
+  "sortOrder": 23,
+  "slug": "terence-phormio-the-mother-in-law-the-brothers-1dcikc",
+  "title": "Phormio. The Mother-in-Law. The Brothers",
+  "volumeLabel": "Phormio. The Mother-in-Law. The Brothers",
+  "authorDisplay": "Terence",
+  "authors": [
+    "Terence"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for Phormio. The Mother-in-Law. The Brothers, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "phormio-homr20-1",
+  "readyChunkCount": 19,
+  "contents": [
+    {
+      "id": "phormio-homr20",
+      "title": "Phormio",
+      "status": "ready",
+      "sectionCount": 965,
+      "chunkSlug": "phormio-homr20-1",
+      "chunks": [
+        {
+          "slug": "phormio-homr20-1",
+          "label": "Phormio (Section front.cast - Section 1.2.134b)",
+          "partId": "phormio-homr20",
+          "partTitle": "Phormio",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phormio-homr20-2",
+          "label": "Phormio (Section 1.2.135 - Section 1.4.199b)",
+          "partId": "phormio-homr20",
+          "partTitle": "Phormio",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phormio-homr20-3",
+          "label": "Phormio (Section 1.4.199c - Section 2.1.256)",
+          "partId": "phormio-homr20",
+          "partTitle": "Phormio",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phormio-homr20-4",
+          "label": "Phormio (Section 2.1.257 - Section 2.2.322b)",
+          "partId": "phormio-homr20",
+          "partTitle": "Phormio",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phormio-homr20-5",
+          "label": "Phormio (Section 2.2.324 - Section 2.3.390b)",
+          "partId": "phormio-homr20",
+          "partTitle": "Phormio",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phormio-homr20-6",
+          "label": "Phormio (Section 2.3.390c - Section 2.4.459b)",
+          "partId": "phormio-homr20",
+          "partTitle": "Phormio",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phormio-homr20-7",
+          "label": "Phormio (Section 2.4.460b - Section 3.2.503b)",
+          "partId": "phormio-homr20",
+          "partTitle": "Phormio",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phormio-homr20-8",
+          "label": "Phormio (Section 3.2.504 - Section 3.3.555)",
+          "partId": "phormio-homr20",
+          "partTitle": "Phormio",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phormio-homr20-9",
+          "label": "Phormio (Section 3.3.556 - Section 4.3.630)",
+          "partId": "phormio-homr20",
+          "partTitle": "Phormio",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phormio-homr20-10",
+          "label": "Phormio (Section 4.3.635 - Section 4.5.716)",
+          "partId": "phormio-homr20",
+          "partTitle": "Phormio",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phormio-homr20-11",
+          "label": "Phormio (Section 4.5.718 - Section 5.2.766)",
+          "partId": "phormio-homr20",
+          "partTitle": "Phormio",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phormio-homr20-12",
+          "label": "Phormio (Section 5.2.770 - Section 5.3.809b)",
+          "partId": "phormio-homr20",
+          "partTitle": "Phormio",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phormio-homr20-13",
+          "label": "Phormio (Section 5.3.810 - Section 5.6.861)",
+          "partId": "phormio-homr20",
+          "partTitle": "Phormio",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phormio-homr20-14",
+          "label": "Phormio (Section 5.6.861b - Section 5.7.941b)",
+          "partId": "phormio-homr20",
+          "partTitle": "Phormio",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phormio-homr20-15",
+          "label": "Phormio (Section 5.7.941c - Section 5.8.997b)",
+          "partId": "phormio-homr20",
+          "partTitle": "Phormio",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phormio-homr20-16",
+          "label": "Phormio (Section 5.8.998b - Section 5.8.1054)",
+          "partId": "phormio-homr20",
+          "partTitle": "Phormio",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "phormio-homr20-17",
+          "label": "Phormio (Section 5.8.1054b - Section 5.8.1055c)",
+          "partId": "phormio-homr20",
+          "partTitle": "Phormio",
+          "sectionCount": 5,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "the-mother-in-law-p1f7n9",
+      "title": "The Mother-in-Law",
+      "status": "ready",
+      "sectionCount": 20,
+      "chunkSlug": "the-mother-in-law-p1f7n9",
+      "chunks": [
+        {
+          "slug": "the-mother-in-law-p1f7n9",
+          "label": "The Mother-in-Law",
+          "partId": "the-mother-in-law-p1f7n9",
+          "partTitle": "The Mother-in-Law",
+          "sectionCount": 20,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "the-brothers-20vj5u",
+      "title": "The Brothers",
+      "status": "ready",
+      "sectionCount": 29,
+      "chunkSlug": "the-brothers-20vj5u",
+      "chunks": [
+        {
+          "slug": "the-brothers-20vj5u",
+          "label": "The Brothers",
+          "partId": "the-brothers-20vj5u",
+          "partTitle": "The Brothers",
+          "sectionCount": 29,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "phormio-homr20-1",
+      "label": "Phormio (Section front.cast - Section 1.2.134b)",
+      "partId": "phormio-homr20",
+      "partTitle": "Phormio",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phormio-homr20-2",
+      "label": "Phormio (Section 1.2.135 - Section 1.4.199b)",
+      "partId": "phormio-homr20",
+      "partTitle": "Phormio",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phormio-homr20-3",
+      "label": "Phormio (Section 1.4.199c - Section 2.1.256)",
+      "partId": "phormio-homr20",
+      "partTitle": "Phormio",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phormio-homr20-4",
+      "label": "Phormio (Section 2.1.257 - Section 2.2.322b)",
+      "partId": "phormio-homr20",
+      "partTitle": "Phormio",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phormio-homr20-5",
+      "label": "Phormio (Section 2.2.324 - Section 2.3.390b)",
+      "partId": "phormio-homr20",
+      "partTitle": "Phormio",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phormio-homr20-6",
+      "label": "Phormio (Section 2.3.390c - Section 2.4.459b)",
+      "partId": "phormio-homr20",
+      "partTitle": "Phormio",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phormio-homr20-7",
+      "label": "Phormio (Section 2.4.460b - Section 3.2.503b)",
+      "partId": "phormio-homr20",
+      "partTitle": "Phormio",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phormio-homr20-8",
+      "label": "Phormio (Section 3.2.504 - Section 3.3.555)",
+      "partId": "phormio-homr20",
+      "partTitle": "Phormio",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phormio-homr20-9",
+      "label": "Phormio (Section 3.3.556 - Section 4.3.630)",
+      "partId": "phormio-homr20",
+      "partTitle": "Phormio",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phormio-homr20-10",
+      "label": "Phormio (Section 4.3.635 - Section 4.5.716)",
+      "partId": "phormio-homr20",
+      "partTitle": "Phormio",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phormio-homr20-11",
+      "label": "Phormio (Section 4.5.718 - Section 5.2.766)",
+      "partId": "phormio-homr20",
+      "partTitle": "Phormio",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phormio-homr20-12",
+      "label": "Phormio (Section 5.2.770 - Section 5.3.809b)",
+      "partId": "phormio-homr20",
+      "partTitle": "Phormio",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phormio-homr20-13",
+      "label": "Phormio (Section 5.3.810 - Section 5.6.861)",
+      "partId": "phormio-homr20",
+      "partTitle": "Phormio",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phormio-homr20-14",
+      "label": "Phormio (Section 5.6.861b - Section 5.7.941b)",
+      "partId": "phormio-homr20",
+      "partTitle": "Phormio",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phormio-homr20-15",
+      "label": "Phormio (Section 5.7.941c - Section 5.8.997b)",
+      "partId": "phormio-homr20",
+      "partTitle": "Phormio",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phormio-homr20-16",
+      "label": "Phormio (Section 5.8.998b - Section 5.8.1054)",
+      "partId": "phormio-homr20",
+      "partTitle": "Phormio",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "phormio-homr20-17",
+      "label": "Phormio (Section 5.8.1054b - Section 5.8.1055c)",
+      "partId": "phormio-homr20",
+      "partTitle": "Phormio",
+      "sectionCount": 5,
+      "status": "ready"
+    },
+    {
+      "slug": "the-mother-in-law-p1f7n9",
+      "label": "The Mother-in-Law",
+      "partId": "the-mother-in-law-p1f7n9",
+      "partTitle": "The Mother-in-Law",
+      "sectionCount": 20,
+      "status": "ready"
+    },
+    {
+      "slug": "the-brothers-20vj5u",
+      "label": "The Brothers",
+      "partId": "the-brothers-20vj5u",
+      "partTitle": "The Brothers",
+      "sectionCount": 29,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "phormio-homr20-1",
+      "partTitle": "Phormio",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Phormio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Phormio; or, The Scheming Parasite",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phormio-homr20-2",
+      "partTitle": "Phormio",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Phormio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Phormio; or, The Scheming Parasite",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phormio-homr20-3",
+      "partTitle": "Phormio",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Phormio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Phormio; or, The Scheming Parasite",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phormio-homr20-4",
+      "partTitle": "Phormio",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Phormio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Phormio; or, The Scheming Parasite",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phormio-homr20-5",
+      "partTitle": "Phormio",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Phormio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Phormio; or, The Scheming Parasite",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phormio-homr20-6",
+      "partTitle": "Phormio",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Phormio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Phormio; or, The Scheming Parasite",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phormio-homr20-7",
+      "partTitle": "Phormio",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Phormio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Phormio; or, The Scheming Parasite",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phormio-homr20-8",
+      "partTitle": "Phormio",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Phormio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Phormio; or, The Scheming Parasite",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phormio-homr20-9",
+      "partTitle": "Phormio",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Phormio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Phormio; or, The Scheming Parasite",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phormio-homr20-10",
+      "partTitle": "Phormio",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Phormio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Phormio; or, The Scheming Parasite",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phormio-homr20-11",
+      "partTitle": "Phormio",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Phormio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Phormio; or, The Scheming Parasite",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phormio-homr20-12",
+      "partTitle": "Phormio",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Phormio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Phormio; or, The Scheming Parasite",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phormio-homr20-13",
+      "partTitle": "Phormio",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Phormio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Phormio; or, The Scheming Parasite",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phormio-homr20-14",
+      "partTitle": "Phormio",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Phormio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Phormio; or, The Scheming Parasite",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phormio-homr20-15",
+      "partTitle": "Phormio",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Phormio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Phormio; or, The Scheming Parasite",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phormio-homr20-16",
+      "partTitle": "Phormio",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Phormio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Phormio; or, The Scheming Parasite",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phormio-homr20-17",
+      "partTitle": "Phormio",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Phormio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Phormio; or, The Scheming Parasite",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-mother-in-law-p1f7n9",
+      "partTitle": "The Mother-in-Law",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Hecyra",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi005.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Hecyra; The Mother-in-Law",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi005.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-brothers-20vj5u",
+      "partTitle": "The Brothers",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Adelphi",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi006.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Adelphi; or, The Brothers",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi006.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "volumeSlug": "plutarch-moralia-volume-ix-6aploz",
+  "volumeTitle": "Moralia, Volume IX",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "de-invidia-et-odio-ckynkh",
+  "label": "De Invidia et Odio",
+  "partId": "moralia-volume-ix-1ff3q1",
+  "partTitle": "Moralia, Volume IX",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Περὶ φθόνου καὶ μίσους",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg105.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Of Envy and Hatred",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg105.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1",
+      "label": "Section 1",
+      "chapter": null,
+      "original": "536e [*] οὕτω δὴ καὶ δοκεῖ μηθὲν τοῦ μίσους διαφέρειν ὁ φθόνος ἀλλʼ ὁ αὐτὸς εἶναι . καθόλου μὲν γὰρ ὥσπερ πολυάγκιστρον [*] ἡ κακία τοῖς ἐξηρτημένοις αὐτῆς πάθεσι κινουμένη δεῦρο κἀκεῖσε πολλὰς πρὸς 5 ἄλληλα συναφὰς καὶ περιπλοκὰς ἐνδίδωσι ταῦτα δʼ 536f ὥσπερ νοσήματα συμπαθεῖ ταῖς ἀλλήλων φλεγμοναῖς . ὁ γὰρ εὐτυχῶν ὁμοίως καὶ τὸν μισοῦντα λυπεῖ καὶ τὸν φθονοῦντα . διὸ καὶ τὴν εὔνοιαν ἀμφοτέροις νομίζομεν ἀντικεῖσθαι , βούλησιν οὖσαν ἀγαθῶν 10 τοῖς πλησίον · καὶ τῷ μισεῖν τὸ φθονεῖν ταὐτὸν [*] εἶναι , ὅτι τὴν ἐναντίαν τῷ φιλεῖν ἔχει προαίρεσιν . ἐπεὶ δʼ οὐχ οὕτω ταὐτὸν αἱ ὁμοιότητες ὡς ἕτερον αἱ διαφοραὶ ποιοῦσι , κατὰ ταύτας ζητοῦμεν [*] ἑὰν μεταδιώξωμεν , ἀπὸ τῆς γενέσεως ἀρξάμενοι τῶν παθῶν . 15",
+      "translation": "Envy and hatred are passions so like each other that they are often taken for the same . And generally , vice has ( as it were ) many hooks , whereby it gives unto those passions that hang thereto many opportunities to be twisted and entangled with one another ; for as differing diseases of the body agree in many like causes and effects , so do the disturbance of the mind . He who is in prosperity is equally an occasion of grief to the envious and to the malicious man ; therefore we look upon benevolence , which is a willing our neighbor ’ s good , as an opposite to both envy and hatred , and fancy these two to be the same because they have a contrary purpose to that of love . But their resemblances make them not so much one as their unlikeness makes them distinct . Therefore we endeavor to describe each of them apart , beginning at the original of either passion ."
+    },
+    {
+      "id": "2",
+      "label": "Section 2",
+      "chapter": null,
+      "original": "γεννᾶται τοίνυν τὸ μῖσος ἐκ φαντασίας τοῦ 537a ὅτι πονηρὸς ἢ κοινῶς ἢ πρὸς αὐτόν ἐστιν ὁ μισούμενος · καὶ γὰρ [*] ἀδικεῖσθαι δόξαντες αὐτοὶ [*] πεφύκασι μισεῖν , καὶ τοὺς ἄλλως ἀδικητικοὺς ἢ πονηροὺς προβάλλονται καὶ δυσχεραίνουσι φθονοῦσι δʼ ἁπλῶς 20 τοῖς εὖ πράττειν δοκοῦσιν . ὅθεν ἔοικεν ὁ μὲν [*] φθόνος ἀόριστος εἶναι , καθάπερ ὀφθαλμία πρὸς ἅπαν τὸ 537b λαμπρὸν ἐκταρασσόμενος · τὸ δὲ μῖσος ὥρισται καθʼ ὑποκειμένων ἀεί τινων ἀπερειδόμενον πρὸς αὐτόν . [*]",
+      "translation": "Hatred proceeds from an opinion that the person we hate is evil , if not generally so , at least in particular to us . For they who think themselves injured are apt to hate the author of their wrong ; yea , even those who are reputed injurious or malicious to others than ourselves we usually nauseate and abhor . But envy has only one sort of object , the felicity of others . Whence it becomes infinite , and , like an evil or diseased eye , is offended with every thing that is bright . On the other hand , hatred is always determined by the subject it adheres to ."
+    },
+    {
+      "id": "3",
+      "label": "Section 3",
+      "chapter": null,
+      "original": "δεύτερον δὲ τὸ μισεῖν γίγνεται καὶ πρὸς ἄλογα 5 ζῷα · καὶ γὰρ γαλᾶς καὶ κανθαρίδας ἔνιοι μισοῦσι καὶ φρύνους καὶ ὄφεις · Γερμανικὸς δʼ ἀλεκτρυόνος οὔτε φωνὴν οὔτʼ ὄψιν ὑπέμενεν [*] οἱ δὲ Περσῶν μάγοι τοὺς μῦς ἀπεκτίννυσαν , ὡς αὐτοί τε μισοῦντες καὶ τοῦ θεοῦ δυσχεραίνοντος τὸ ζῷον · ὁμοῦ τι [*] γὰρ 10 πάντες Ἄραβες καὶ Αἰθίοπες μυσάττονται . τὸ μέντοι φθονεῖν πρὸς ; μόνον ἄνθρωπον ἀνθρώπῳ γίγνεται .",
+      "translation": "Secondly , hatred may be conceived even against brutes ; for there are some men who have an antipathy to cats or beetles or toads or serpents . Germanicus could endure neither the crowing nor the sight of a cock ; and the Persian Magi were killers of mice , as creatures which they both hated themselves and accounted odious to God . In like manner also all the Arabians and Ethiopians abhor them . But envy is purely a human passion , and directed only against man ."
+    },
+    {
+      "id": "4",
+      "label": "Section 4",
+      "chapter": null,
+      "original": "κἂν [*] τοῖς θηρίοις δὲ φθόνον μὲν οὐκ εἰκὸς ἐγγίνεσθαι πρὸς ἄλληλα · τοῦ γὰρ εὖ πράττειν ἢ κακῶς ἕτερον φαντασίαν οὐ λαμβάνουσιν , οὐδʼ ἅπτεται 15 τὸ ἔνδοξον ἢ ἄδοξον αὐτῶν , οἷς ὁ φθόνος ἐκτραχύνεται μάλιστα . μισοῦσι δʼ ἄλληλα καὶ ἀπεχθάνονται καὶ πολεμοῦσιν ὥσπερ ἀσπείστους [*] τινὰς πολέμους [*] ἀετοὶ καὶ δράκοντες , κορῶναι καὶ γλαῦκες , 537c αἰγιθαλλοὶ καὶ ἀκανθυλλίδες · ὥστε τούτων γέ φασι 20 μηδὲ τὸ αἷμα κίρνασθαι σφαττομένων , ἀλλὰ κἂν μίξῃς , ἰδίᾳ πάλιν ἀπορρεῖν [*] διακρινόμενον . εἰκότως ; δʼ ἔχει [*] τῷ λέοντι πρὸς τὸν ἀλεκτρυόνα καὶ τῷ ἐλέφαντι πρὸς τὴν ὗν μῖσος ἰσχυρὸν γεγεννηκέναι [*] τὸν φόβον · ὃ γὰρ δεδίασι , καὶ μισεῖν πεφύκασιν ὥστε 25 καὶ ταύτῃ φαίνεσθαι διαφέροντα τοῦ μίσους τὸν φθόνον , τὸ μὲν δεχομένης τῆς τῶν θηρίων φύσεως τὸν δὲ μὴ δεχομένης .",
+      "translation": "Envy is not likely to be found among brutes , whose fancies are not moved by the apprehensions of each other ’ s good or evil ; neither can they be spirited with the notions of glorious or dishonorable , by which envy is chiefly stirred up . Yet they have mutual hatred ; they kill each other , and wage most incredible wars . The eagles and the dragons fight , the crows and the owls , yea , the little titmouse and linnet ; insomuch that it is said , the very blood of these creatures , when slain , will by no means be mixed ; but though you would temper them together , they will immediately separate again . The lion also vehemently hates the cock , and the elephant the hog ; but this probably proceeds from fear ; for what they fear , the same are they inclined to hate .\nWe see then herein a great difference betwixt envy and hate , that the one is natural to brutes , but they are not at all capable of the other ."
+    },
+    {
+      "id": "5",
+      "label": "Section 5",
+      "chapter": null,
+      "original": "ἔτι τοίνυν τὸ μὲν φθονεῖν πρὸς οὐδένα γίγνεται δικαίως · οὐδεὶς γὰρ ἀδικεῖ τῷ εὐτυχεῖν , ἐπὶ 5 τούτῳ δὲ φθονοῦνται μισοῦνται δὲ πολλοὶ δικαίως , 537d ὡς οὓς [*] ἀξιομισήτους καλοῦμεν , [*] ἂν μὴ φεύγωσι τοὺς τοιούτους μηδὲ βδελύττωνται καὶ δυσχεραίνωσι . μέγα δὲ τούτου τεκμήριον , ὅτι μισεῖν μὲν πολλοὺς ὁμολογοῦσιν ἔνιοι φθονεῖν δʼ οὐδενὶ λέγουσι . καὶ γὰρ 10 ἡ μισοπονηρία τῶν ἐπαινουμένων ἐστί · καὶ τὸν ἀδελφιδοῦν τοῦ Λυκούργου Χάριλλον , βασιλεύοντα τῆς Σπάρτης ἐπιεικῆ δʼ ὄντα καὶ πρᾶον ἐπαινούντων τινῶν , ὁ συνάρχων καὶ πῶς ἔφη χρηστός ἐστι Χάριλλος , ὃς οὐδὲ τοῖς πονηροῖς χαλεπός ἐστι ; καὶ 15 τοῦ Θερσίτου ὁ ποιητὴς τὴν μὲν τοῦ σώματος κακίαν πολυμερῶς καὶ περιωδευμένως ἐξεμόρφησε , τὴν 537e δὲ τοῦ ἤθους μοχθηρίαν συντομώτατα καὶ διʼ ἑνὸς [*] ἔφρασεν , ἔχθιστος δʼ Ἀχιλῆι μάλιστʼ ἦν ἠδʼ Ὀδυσῆι [*] 20 ὑπερβολὴ γάρ τις φαυλότητος τὸ τοῖς κρατίστοις ἐχθρὸν εἶναι . καὶ [*] φθονεῖν δʼ ἀρνοῦνται κἂν ἐλέγχωνται , μυρίας σκήψεις προΐσχονται , ὀργίζεσθαι λέγοντες ἢ φοβεῖσθαι τὸν ἄνθρωπον ἢ μισεῖν ἢ ὁ τι ἂν τύχωσιν ἄλλο τῷ φθόνῳ τοῦ [*] πάθους ὄνομα περιβάλλοντες καὶ καλύπτοντες , ὡς μόνον τοῦτο τῶν [*] ψυχῆς νοσημάτων ἀπόρρητον .",
+      "translation": "Further , envy is always unjust ; for none wrong by being happy , and upon this sole account they are envied . But hatred is often just ; for there are some men so much to be avoided and disliked , that we should judge those worthy to be hated themselves who do not shun and detest them . And of this it is no weak evidence , that many will acknowledge they hate , but none will confess they envy ; and hatred of the evil is registered amongst laudable things .\n\nTherefore , as some were commending Charillus , the nephew of Lycurgus and king of Sparta , for his universally mild and gentle disposition ,— How , answered his colleague , can Charillus be a virtuous person , who is pleasing even to the vicious ? So the poet too , when he had variously and with an infinite curiosity described the deformities of Thersites ’ s body , easily couched all the baseness of his manners in a word ,—\nMost hateful to Achilles and Ulysses too ;\nfor to be an enemy to the good is the greatest extravagance of vice .\nMen will deny the envy ; and when it is alleged , will feign a thousand excuses , pretending they were angry , or that they feared or hated the person , cloaking envy with the name of any passion they can think of , and concealing it as the most loathsome sickness of the soul ."
+    },
+    {
+      "id": "6",
+      "label": "Section 6",
+      "chapter": null,
+      "original": "ἀνάγκη [*] τοίνυν τὰ πάθη ταῦτα [*] τοῖς αὐτοῖς ὥσπερ τὰ φυτὰ καὶ τρέφεσθαι καὶ αὔξεσθαι καὶ ἐπιγίγνεσθαι 5 πέφυκεν ἀλλήλοις . μισοῦμέν [*] γε μᾶλλον 537f τοὺς μᾶλλον εἰς πονηρίαν ἐπιδιδόντας , φθονοῦσι δὲ μᾶλλον τοὺς μᾶλλον ἐπʼ ἀρετῇ προϊέναι δοκοῦσι . διὸ καὶ Θεμιστοκλῆς ἔτι μειράκιον ὢν οὐδὲν ἔφη πράττειν λαμπρόν · οὔπω γὰρ φθονεῖσθαι . καθάπερ γὰρ 10 αἱ κανθαρίδες ἐμφύονται μάλιστα τῷ ἀκμάζοντι σίτῳ καὶ τοῖς εὐθαλέσι ῥόδοις , οὕτως ὁ φθόνος ἅπτεται μάλιστα τῶν χρηστῶν καὶ αὐξομένων πρὸς ἀρετὴν καὶ δόξαν ἠθῶν καὶ προσώπων . [*] καὶ τοὐναντίον αὖ πάλιν αἱ μὲν ἄκρατοι πονηρίαι συνεπιτείνουσι τὸ 15 538a μῖσος . τοὺς γοῦν Σωκράτη συκοφαντήσαντας ὡς εἰς ἔσχατον κακίας ἐληλακότας οὕτως ἐμίσησαν οἱ πολῖται καὶ ἀπεστράφησαν , ὡς μήτε πῦρ αὔειν [*] μήτε [*] ἀποκρίνεσθαι πυνθανομένοις μήτʼ λουομένοις κοινωνεῖν ὕδατος , ἀλλʼ ἀναγκάζειν ἐκχεῖν ἐκεῖνο τοὺς 20 παραχύτας ὡς μεμιασμένον , ἕως ἀπήγξαντο μὴ φέροντες τὸ μῖσος . αἱ δὲ τῶν εὐτυχημάτων ὑπεροχαὶ καὶ λαμπρότητες πολλάκις τὸν φθόνον κατασβεννύουσιν . οὐ γὰρ εἰκὸς Ἀλεξάνδρῳ τινὰ φθονεῖν οὐδὲ Κύρῳ , κρατήσασι καὶ γενομένοις κυρίοις ἁπάντων . 25 ἀλλʼ ὥσπερ ὁ ἥλιος , ὧν ἂν ὑπὲρ κορυφῆς γένηται , 538b καταχεόμενος τὸ φῶς ἢ παντάπασι τὴν σκιὰν ἀνεῖλεν ἢ μικρὰν ἐποίησεν , οὕτω πολὺ τῶν ὕψος λαβόντων καὶ γενομένων κατὰ κεφαλῆς τοῦ φθόνου , συστέλλεται καὶ ἀναχωρεῖ καταλαμπόμενος . 5 τὸ μέντοι μῖσος οὐκ ἀνίησιν ἡ τῶν ἐχθρῶν ὑπεροχὴ καὶ δύναμις . ὁ γοῦν Ἀλέξανδρος φθονοῦντα μὲν οὐδένʼ εἶχε , μισοῦντας δὲ πολλοὺς ὑφʼ ὧν τέλος ἐπιβουλευθεὶς ἀπέθανεν . ὁμοίως τοίνυν καὶ τὰ δυστυχήματα τοὺς μὲν φθονοῦντας παύει τὰς δʼ αὖ ἔχθρας 10 οὐκ ἀναιρεῖ · μισοῦσι γὰρ καὶ ταπεινοὺς τοὺς ἐχθροὺς γενομένους , φθονεῖ δʼ οὐδεὶς τῷ δυστυχοῦντι . ἀλλὰ 538c καὶ τὸ ῥηθὲν ὑπό τινος τῶν καθʼ ἡμᾶς σοφιστῶν , ὅτι ἥδισθʼ οἱ φθονοῦντες ἐλεοῦσιν , ἀληθές ἐστιν · ὥστε καὶ ταύτῃ [*] μεγάλην εἶναι τῶν παθῶν διαφοράν , 15 ὡς τὸ μὲν μῖσος οὔτʼ εὐτυχούντων οὔτε δυστυχούντων ἀφίστασθαι πέφυκεν , ὁ δὲ φθόνος πρὸς τὴν ἀμφοῖν ὑπερβολὴν ἀπαγορεύει .",
+      "translation": "Moreover , these disturbances of the mind , like plants , must be nourished and augmented by the same roots from which they spring ; therefore hatred increases as the persons hated grow worse , while envy swells bigger as the envied rise higher in the true braveries of virtue . Upon this consideration Themistocles , whilst he was yet young , said that he had done nothing gallant , for he was not yet envied . And we know that , as the cantharis is most busy with ripe fruits and roses in their beauty , so envy is most employed about the eminently good and those who are glorious in their places and esteem .\nAgain , extreme badness makes hatred more vehement and bitter . The Athenians therefore had so utter an abhorrence of those who accused Socrates , that they would neither lend them fire , nor answer them any question , nor wash with them in the same water , but commanded the servants to pour it out as polluted ; till these sycophants , no longer able to bear up under the pressure of this hatred , put an end to their own lives .\nYet envy often gives place to the splendor of a matchless prosperity . For it is not likely that any envied Alexander or Cyrus , when they arrived at the height of their conquests and became lords of all . But as the sun , where he passes highest and sends down his beams most directly , has none or very little shadow , so they who are exalted to the meridian of fortune , shining aloof over the head of envy , have scarce any thing of their brightness eclipsed , while envy retires , being driven away by the brightness overspreading it .\nOn the contrary , hatred is not vanquished by the greatness and glory of its objects . For though Alexander had not one to envy him , yet he had many haters , by whose treacheries at last he fell . So , on the other side , misfortunes cause envy to cease , but take not enmity away ; for men will be malicious even toward abject enemies , but none envy the distressed . However , what was said by one of our Sophists , that the envious are tenderly inclinable to pity , is true ; and in this appears a great unlikeness of these passions , that hatred leaves neither the happy nor the miserable , but envy becomes languid when its object has either prosperity or adversity in excess ."
+    },
+    {
+      "id": "7",
+      "label": "Section 7",
+      "chapter": null,
+      "original": "ἔτι τοίνυν καὶ μᾶλλον οὕτως ἀπὸ τῶν ἐναντίων ταὐτὸ [*] σκοπῶμεν . λύουσι γὰρ ἔχθρας καὶ μῖσος 20 ἢ πεισθέντες μηδὲν ἀδικεῖσθαι , ἢ δόξαν ὡς χρηστῶν , οὓς ἐμίσουν ὡς πονηρούς , λαβόντες · ἢ τρίτον εὖ παθόντες · ἡ γὰρ τελευταία χάρις ὡς Θουκυδίδης [*] φησὶ κἂν ἐλάττων [*] ᾖ , καιρὸν ἔχουσα δύναται 538d μεῖζον ἔγκλημα λῦσαι τούτων δὲ τὸ μὲν πρῶτον 25 οὐ λύει τὸν φθόνον · πεπεισμένοι γὰρ ἐξ ἀρχῆς μηδὲν ἀδικεῖσθαι φθονοῦσι τὰ δὲ λοιπὰ καὶ παροξύνει τοῖς τε γὰρ δοκοῦσι χρηστοῖς βασκαίνουσι μᾶλλον , ὡς δὴ τὸ μέγιστον ἀγαθὸν τὴν ἀρετὴν ἔχουσι κἂν εὖ πάσχωσιν ὑπὸ τῶν εὐτυχούντων , ἀνιῶνται , φθονοῦντες αὐτοῖς καὶ τῆς προαιρέσεως καὶ τῆς δυνάμεως · τὸ μὲν γὰρ ἀρετῆς ἐστι τὸ δʼ εὐτυχίας ,. ἀγαθὰ 5 δʼ ἀμφότερα , διὸ παντελῶς ἕτερόν ἐστι τοῦ μίσους πάθος ὁ φθόνος , εἰ , διʼ ὧν ἐκεῖνο πραΰνεται , τοῦτο λυπεῖται καὶ παροξύνεται .",
+      "translation": "We shall better understand this from the poising them together .\nMen let go their enmity and hatred , when either they are persuaded they were not injured at all , or if they now believe them to be good whom before they hated as evil , or , lastly , when they are appeased by the insinuations of a benefit received . For as Thucydides saith , A later service or good turn , if it be done at the right moment , will take away the ill resenting of a former fault , though this was greater than the recompense . [*]\n\nYet the first of these removes not envy , for men will persist in this vice , though they know they are not wronged ; and the two latter ( the esteem or credit of a person , and the bestowing a favor ) do exasperate it more . For they most envy the virtuous , as those who are in possession of the chiefest good ; and when they receive a kindness from any in prosperity , it is with reluctance , as though they grudged then not only the power but the will of conferring it ; the one of which comes from their happy fortune , the other from their virtue . Both are good . Therefore envy is an entirely distinct affection from hatred , since , as we see , the very things that appease the one only rouse and exasperate the other ."
+    },
+    {
+      "id": "8",
+      "label": "Section 8",
+      "chapter": null,
+      "original": "ἤδη τοίνυν καὶ τὴν προαίρεσιν αὐτὴν ἑκατέρου πάθους σκοπῶμεν . ἔστι δὲ μισοῦντος μὲν 10 538e προαίρεσις κακῶς ποιῆσαι κατὰ [*] δύναμιν · καὶ [*] οὕτως ὁρίζονται , διάθεσίν τινα καὶ προαίρεσιν ἐπιτηρητικὴν τοῦ κακῶς ποιῆσαι . τῷ φθόνῳ δὲ τοῦτο γοῦν ἄπεστι πολλοὺς γὰρ οἱ φθονοῦντες τῶν συνήθων καὶ οἰκείων ἀπολέσθαι μὲν οὐκ ἂν ἐθέλοιεν οὐδὲ 15 δυστυχῆσαι , βαρύνονται δʼ εὐτυχοῦντας · καὶ κωλύουσι [*] μέν , εἰ δύνανται , τὴν δόξαν αὐτῶν καὶ λαμπρότητα , συμφορὰς δʼ ἀνηκέστους οὐκ ἂν προσβάλοιεν · ἀλλʼ ὥσπερ οἰκίας ὑπερεχούσης τὸ ἐπισκοτοῦν αὐτοῖς καθελόντες ἀρκοῦνται .",
+      "translation": "Now let us consider a little the inclination and bent of either passion .\nThe design of hatred is to endamage ; and hence they define it , an insidious desire and purpose of doing hurt . But envy aims not at this . Many envy their familiars and kinsfolk , but have no thoughts of their ruin nor of so much as bringing any troubles upon them ; only their felicity is a burden . Though they will perhaps diminish their glory and splendor what they can , yet they endeavor not their utter subversion ; being , as it were , content to pull down so much only of an high stately house as hindered the light and obscured them with too great a shade ."
+    }
+  ],
+  "prevChunkSlug": "de-vitioso-pudore-1a9x8h",
+  "nextChunkSlug": "de-se-ipsum-citra-invidiam-laudando-5a6tt1"
+}

@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-little-carthaginian-pseudolus-the-rope-rpgc9x",
+  "volumeTitle": "The Little Carthaginian. Pseudolus. The Rope",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "pseudolus-1bndy7-16",
+  "label": "Pseudolus (Section 4.7.1170b - Section 4.7.1228b)",
+  "partId": "pseudolus-1bndy7",
+  "partTitle": "Pseudolus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Pseudolus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Pseudolus, or The Cheat",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "4.7.1170b",
+      "label": "Section 4.7.1170b",
+      "chapter": null,
+      "original": "Suarum in pugna virium victoria .",
+      "translation": "With the victory of his prowess in battle ; for I was a very great general at home in my own country ."
+    },
+    {
+      "id": "4.7.1172",
+      "label": "Section 4.7.1172",
+      "chapter": null,
+      "original": "An etiam umquam ille expugnavit carcerem , patriam tuam ?",
+      "translation": "Why , did he ever capture a gaol in your country ?"
+    },
+    {
+      "id": "4.7.1173",
+      "label": "Section 4.7.1173",
+      "chapter": null,
+      "original": "Contumeliam si dices , audies .",
+      "translation": "If you utter affronting speeches , you ’ ll be hearing them ."
+    },
+    {
+      "id": "4.7.1173b",
+      "label": "Section 4.7.1173b",
+      "chapter": null,
+      "original": "Quotumo die",
+      "translation": "In what time did you come from Sicyon hither ?"
+    },
+    {
+      "id": "4.7.1174b",
+      "label": "Section 4.7.1174b",
+      "chapter": null,
+      "original": "Altero ad meridie .",
+      "translation": "In one day , by noon ."
+    },
+    {
+      "id": "4.7.1175",
+      "label": "Section 4.7.1175",
+      "chapter": null,
+      "original": "Strenue mehercle iisti .",
+      "translation": "Bravo ! By my troth , you did come quickly ;"
+    },
+    {
+      "id": "4.7.1175b",
+      "label": "Section 4.7.1175b",
+      "chapter": null,
+      "original": "Quamvis pernix híc est homo :",
+      "translation": "how very swift of foot this man is ."
+    },
+    {
+      "id": "4.7.1176",
+      "label": "Section 4.7.1176",
+      "chapter": null,
+      "original": "ubi suram aspicias , scias pósse eum — gerere crassas compedes .",
+      "translation": "When you look at his calves , you might know that he can wear heavy fetters ."
+    },
+    {
+      "id": "4.7.1177",
+      "label": "Section 4.7.1177",
+      "chapter": null,
+      "original": "Quid ais ? tune etiam cubitare solitu ’ (s e) s in cunis puer ?",
+      "translation": "How say you — were you also , when a child , in the habit of sleeping in a cradle ?"
+    },
+    {
+      "id": "4.7.1178",
+      "label": "Section 4.7.1178",
+      "chapter": null,
+      "original": "Scilicet .",
+      "translation": "Of course ."
+    },
+    {
+      "id": "4.7.1178b",
+      "label": "Section 4.7.1178b",
+      "chapter": null,
+      "original": "Etiamne facere solitus es — scin quid loquar ?",
+      "translation": "And were you , too , in the habit of doing [*] — you know what I mean ?"
+    },
+    {
+      "id": "4.7.1179",
+      "label": "Section 4.7.1179",
+      "chapter": null,
+      "original": "Scilicet solitum esse .",
+      "translation": "Of course he was in the habit of doing as other children did ?"
+    },
+    {
+      "id": "4.7.1179b",
+      "label": "Section 4.7.1179b",
+      "chapter": null,
+      "original": "Sanine estis ?",
+      "translation": "Are you men in your senses ?"
+    },
+    {
+      "id": "4.7.1179c",
+      "label": "Section 4.7.1179c",
+      "chapter": null,
+      "original": "Quíd hoc quod te rogo ?",
+      "translation": "What , because I asked you that ?"
+    },
+    {
+      "id": "4.7.1180",
+      "label": "Section 4.7.1180",
+      "chapter": null,
+      "original": "noctu in vigiliam quando ibat miles , quom tu ibas simul ,",
+      "translation": "At night , when the Captain was going on guard , and when you were going with him , did the sword of the officer fit your scabbard ?"
+    },
+    {
+      "id": "4.7.1182",
+      "label": "Section 4.7.1182",
+      "chapter": null,
+      "original": "I in malam crucem .",
+      "translation": "Go to utter perdition ."
+    },
+    {
+      "id": "4.7.1182b",
+      "label": "Section 4.7.1182b",
+      "chapter": null,
+      "original": "Ire licebit tamen tibi hodie temperi .",
+      "translation": "You , indeed , shall have the opportunity of going there in good time to-day ."
+    },
+    {
+      "id": "4.7.1183",
+      "label": "Section 4.7.1183",
+      "chapter": null,
+      "original": "Quin tu mulierem mi emittis , aut redde argentum .",
+      "translation": "But do you bring out the woman to me , or else give me back the money ."
+    },
+    {
+      "id": "4.7.1183b",
+      "label": "Section 4.7.1183b",
+      "chapter": null,
+      "original": "Mane .",
+      "translation": "Wait a bit ."
+    },
+    {
+      "id": "4.7.1184",
+      "label": "Section 4.7.1184",
+      "chapter": null,
+      "original": "Quid maneam ?",
+      "translation": "Why should I wait ?"
+    },
+    {
+      "id": "4.7.1184b",
+      "label": "Section 4.7.1184b",
+      "chapter": null,
+      "original": "Chlamydem hanc commemora quanti conductast .",
+      "translation": "That scarf , tell me for how much it has been lent ."
+    },
+    {
+      "id": "4.7.1184c",
+      "label": "Section 4.7.1184c",
+      "chapter": null,
+      "original": "Quid est ?",
+      "translation": "What matters it ?"
+    },
+    {
+      "id": "4.7.1185",
+      "label": "Section 4.7.1185",
+      "chapter": null,
+      "original": "Quid meret machaera ?",
+      "translation": "How much is the sword hired for ?"
+    },
+    {
+      "id": "4.7.1185b",
+      "label": "Section 4.7.1185b",
+      "chapter": null,
+      "original": "Elleborum hisce hóminibus opus ést .",
+      "translation": "These fellows surely stand in need of hellebore [*] ."
+    },
+    {
+      "id": "4.7.1185c",
+      "label": "Section 4.7.1185c",
+      "chapter": null,
+      "original": "Eho .",
+      "translation": "How now —"
+    },
+    {
+      "id": "4.7.1186",
+      "label": "Section 4.7.1186",
+      "chapter": null,
+      "original": "Mitte .",
+      "translation": "Leave me alone ."
+    },
+    {
+      "id": "4.7.1186b",
+      "label": "Section 4.7.1186b",
+      "chapter": null,
+      "original": "Quid mercedis petasus hodie domino demeret ?",
+      "translation": "What wages does that broad-brimmed hat hire to-day for its owner ?"
+    },
+    {
+      "id": "4.7.1187",
+      "label": "Section 4.7.1187",
+      "chapter": null,
+      "original": "Quid domino ? quid somniatis ? mea quidem haec habeo omnia ,",
+      "translation": "[*] What owner ?"
+    },
+    {
+      "id": "4.7.1188",
+      "label": "Section 4.7.1188",
+      "chapter": null,
+      "original": "meo peculio empta .",
+      "translation": "What are you dreaming about ? Why , I ’ m the owner of all these things , [*] bought with my own savings ."
+    },
+    {
+      "id": "4.7.1188b",
+      "label": "Section 4.7.1188b",
+      "chapter": null,
+      "original": "Nempe quod fémina summa sustinent .",
+      "translation": "Those , you mean , which the upper part of your thighs supports [*] ."
+    },
+    {
+      "id": "4.7.1189_1190",
+      "label": "Section 4.7.1189_1190",
+      "chapter": null,
+      "original": "Vncti hi sunt senes , fricari sese ex antiquo volunt .",
+      "translation": "These old fellows have been anointed ; they want themselves rubbed down [*] , after the old-fashioned custom ."
+    },
+    {
+      "id": "4.7.1191",
+      "label": "Section 4.7.1191",
+      "chapter": null,
+      "original": "Responde , opsecro hercle , vero serio hoc quod te rogo :",
+      "translation": "I ’ faith , prithee , answer me this truly and seriously , which I ask of you : What are you to earn ? For how trifling a sum has Pseudolus hired you ?"
+    },
+    {
+      "id": "4.7.1193",
+      "label": "Section 4.7.1193",
+      "chapter": null,
+      "original": "Quis istic Pseudolust ?",
+      "translation": "Who is this Pseudolus ?"
+    },
+    {
+      "id": "4.7.1193b",
+      "label": "Section 4.7.1193b",
+      "chapter": null,
+      "original": "Praeceptor tuos , qui te hanc fallaciam",
+      "translation": "Your tutor , who has instructed you in this knavery , to take away the woman hence from me by stratagem ."
+    },
+    {
+      "id": "4.7.1195",
+      "label": "Section 4.7.1195",
+      "chapter": null,
+      "original": "Quem tu Pseudolum , quas tu mihi praedicas fallacias ?",
+      "translation": "What Pseudolus , and what stratagem are you talking to me about ? A person that I know of no colour , black or white ."
+    },
+    {
+      "id": "4.7.1196b",
+      "label": "Section 4.7.1196b",
+      "chapter": null,
+      "original": "Non tu istinc abis ?",
+      "translation": "Will you not be off from here ? There ’ s no profit here for swindlers to-day . Therefore you may tell Pseudolus that another person has carried off the prize-the first Harpax that came ."
+    },
+    {
+      "id": "4.7.1199b",
+      "label": "Section 4.7.1199b",
+      "chapter": null,
+      "original": "Is quidem edepol Harpax ego sum .",
+      "translation": "On my word , I really am that Harpax ."
+    },
+    {
+      "id": "4.7.1199c",
+      "label": "Section 4.7.1199c",
+      "chapter": null,
+      "original": "Immo edepol esse vis .",
+      "translation": "Aye , on my word , you want to be ."
+    },
+    {
+      "id": "4.7.1200",
+      "label": "Section 4.7.1200",
+      "chapter": null,
+      "original": "purus putus hic sucophanta est .",
+      "translation": "This is nothing more nor less than a downright impostor ."
+    },
+    {
+      "id": "4.7.1200b",
+      "label": "Section 4.7.1200b",
+      "chapter": null,
+      "original": "Ego tibi argentum dedi",
+      "translation": "I have given yourself the money , and a while ago , immediately on my arrival , the token to your servant ; a letter sealed with the likeness of my master , here before the door ."
+    },
+    {
+      "id": "4.7.1203",
+      "label": "Section 4.7.1203",
+      "chapter": null,
+      "original": "Meo tu epistulam dedisti servo ? quoi servo ?",
+      "translation": "You gave a letter to my servant ? What servant ?"
+    },
+    {
+      "id": "4.7.1203b",
+      "label": "Section 4.7.1203b",
+      "chapter": null,
+      "original": "Suro .",
+      "translation": "To Syrus ."
+    },
+    {
+      "id": "4.7.1204",
+      "label": "Section 4.7.1204",
+      "chapter": null,
+      "original": "Non confidit sycophanta hic nequam est nugis : meditatus malest .",
+      "translation": "The wicked rogue has assurance enough [*] . He hasn ’ t contrived his knavish scheme amiss ."
+    },
+    {
+      "id": "4.7.1205",
+      "label": "Section 4.7.1205",
+      "chapter": null,
+      "original": "edepol hominem verberonem Pseudolum , ut docte dolum",
+      "translation": "By my faith , that whipping-post of a fellow , Pseudolus , how cleverly he has managed his plans ; just as much money as the Captain owed , he has given this man , and has dressed out the fellow that he might take away the woman ⋯ ( To HARPAX .) But the real Harpax himself brought that letter hither to me ."
+    },
+    {
+      "id": "4.7.1209_1210",
+      "label": "Section 4.7.1209_1210",
+      "chapter": null,
+      "original": "Harpax ego vocor , ego servos sum Macedonis militis ;",
+      "translation": "My name is Harpax ; I am the servant of the Macedonian Captain . I ’ m doing nothing roguishly or cheatingly , nor do I know or understand this Pseudolus , what mortal being he is ."
+    },
+    {
+      "id": "4.7.1213",
+      "label": "Section 4.7.1213",
+      "chapter": null,
+      "original": "Tu , nisi mirumst , leno , plane perdidisti mulierem .",
+      "translation": "Unless it ’ s something wonderful , procurer , you ’ ve clearly lost the woman ."
+    },
+    {
+      "id": "4.7.1214",
+      "label": "Section 4.7.1214",
+      "chapter": null,
+      "original": "Edepol ne istuc magis magisque metuo , quom verba audio .",
+      "translation": "Assuredly , by my troth , I ’ m in dread of that more and more , when I come to hear his words ."
+    },
+    {
+      "id": "4.7.1215",
+      "label": "Section 4.7.1215",
+      "chapter": null,
+      "original": "mihi quoque edepol iamdudum ille Surus cor perfrigefacit ,",
+      "translation": "I ’ faith , that Syrus , too , has already set my heart a-freezing , that received the token from him . [*]"
+    },
+    {
+      "id": "4.7.1217",
+      "label": "Section 4.7.1217",
+      "chapter": null,
+      "original": "eho tu , qua facie fuit , dúdum quoi dedisti sumbolum ?",
+      "translation": "( To HARPAX .) How now , you ! of what appearance was the person to whom you delivered the token ?"
+    },
+    {
+      "id": "4.7.1218",
+      "label": "Section 4.7.1218",
+      "chapter": null,
+      "original": "Rufus quidam , ventriosus , crassis suris , subniger ,",
+      "translation": "A certain red-haired fellow [*] , pot-bellied , with thick calves , swarthy , with a big head , sharp eyes , red face ,"
+    },
+    {
+      "id": "4.7.1220",
+      "label": "Section 4.7.1220",
+      "chapter": null,
+      "original": "magnis pedibus .",
+      "translation": "and very large feet ."
+    },
+    {
+      "id": "4.7.1220b",
+      "label": "Section 4.7.1220b",
+      "chapter": null,
+      "original": "Perdidisti , postquam dixisti pedes .",
+      "translation": "You prove our undoing , when you mention the feet . It was Pseudolus himself . It ’ s all up with me . I ’ m dying now , Simo ."
+    },
+    {
+      "id": "4.7.1222",
+      "label": "Section 4.7.1222",
+      "chapter": null,
+      "original": "Hercle te hau sinam emoriri , nisi mi argentum redditur ,",
+      "translation": "By my troth , I shan ’ t let you die , unless the money ’ s returned me-twenty minae ."
+    },
+    {
+      "id": "4.7.1223b",
+      "label": "Section 4.7.1223b",
+      "chapter": null,
+      "original": "Atque etiam mihi aliae viginti minae .",
+      "translation": "And another twenty minae to me as well ."
+    },
+    {
+      "id": "4.7.1224",
+      "label": "Section 4.7.1224",
+      "chapter": null,
+      "original": "Auferen tu id praemium a me , quod promisi per iocum ?",
+      "translation": "And is the sum to be taken of me that I promised by way of a joke ?"
+    },
+    {
+      "id": "4.7.1225",
+      "label": "Section 4.7.1225",
+      "chapter": null,
+      "original": "De improbis viris auferri praemium et praedam decet .",
+      "translation": "From unprincipled men it ’ s proper for both their money and their plunder to be taken ."
+    },
+    {
+      "id": "4.7.1226",
+      "label": "Section 4.7.1226",
+      "chapter": null,
+      "original": "Saltem Pseudolum mihi dedas .",
+      "translation": "At least you might give up Pseudolus to me ."
+    },
+    {
+      "id": "4.7.1226b",
+      "label": "Section 4.7.1226b",
+      "chapter": null,
+      "original": "Pseudolum ego dedam tibi ?",
+      "translation": "I , give up Pseudolus to you ? What has he done amiss ? Did I not tell you a hundred times that you were to beware of him ?"
+    },
+    {
+      "id": "4.7.1228",
+      "label": "Section 4.7.1228",
+      "chapter": null,
+      "original": "Perdidit me .",
+      "translation": "He has ruined me ."
+    },
+    {
+      "id": "4.7.1228b",
+      "label": "Section 4.7.1228b",
+      "chapter": null,
+      "original": "At me viginti modicis multavit minis .",
+      "translation": "And on me he has laid a fine of twenty fair minae ."
+    }
+  ],
+  "prevChunkSlug": "pseudolus-1bndy7-15",
+  "nextChunkSlug": "pseudolus-1bndy7-17"
+}

@@ -1,0 +1,61 @@
+{
+  "loebNumber": 210,
+  "sortOrder": 210,
+  "slug": "josephus-the-jewish-war-volume-iii-nbsnpt",
+  "title": "The Jewish War, Volume III",
+  "volumeLabel": "The Jewish War, Volume III",
+  "authorDisplay": "Josephus",
+  "authors": [
+    "Josephus"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for The Jewish War, Volume III. The Jewish War, Volume III currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "the-jewish-war-volume-iii-11fep3",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "the-jewish-war-volume-iii-11fep3",
+      "title": "The Jewish War, Volume III",
+      "status": "ready",
+      "sectionCount": 12,
+      "chunkSlug": "the-jewish-war-volume-iii-11fep3",
+      "chunks": [
+        {
+          "slug": "the-jewish-war-volume-iii-11fep3",
+          "label": "The Jewish War, Volume III",
+          "partId": "the-jewish-war-volume-iii-11fep3",
+          "partTitle": "The Jewish War, Volume III",
+          "sectionCount": 12,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "the-jewish-war-volume-iii-11fep3",
+      "label": "The Jewish War, Volume III",
+      "partId": "the-jewish-war-volume-iii-11fep3",
+      "partTitle": "The Jewish War, Volume III",
+      "sectionCount": 12,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "the-jewish-war-volume-iii-11fep3",
+      "partTitle": "The Jewish War, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἰουδαϊκοῦ πολέμου πρὸς Ῥωμαίους",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0526.tlg004.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Wars of the Jews",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0526.tlg004.perseus-eng2/"
+      }
+    }
+  ]
+}

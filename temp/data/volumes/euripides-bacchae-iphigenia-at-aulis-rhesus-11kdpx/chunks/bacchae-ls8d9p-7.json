@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-bacchae-iphigenia-at-aulis-rhesus-11kdpx",
+  "volumeTitle": "Bacchae. Iphigenia at Aulis. Rhesus",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "bacchae-ls8d9p-7",
+  "label": "Bacchae (Section 1.995 - Section 1.1179b)",
+  "partId": "bacchae-ls8d9p",
+  "partTitle": "Bacchae",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Βάκχαι",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "The Bacchae",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.995",
+      "label": "Section 1.995",
+      "chapter": null,
+      "original": "τὸν ἄθεον ἄνομον ἄδικον Ἐχίονος",
+      "translation": "this godless , lawless , unjust , earth-born offspring of Echion ."
+    },
+    {
+      "id": "1.997",
+      "label": "Section 1.997",
+      "chapter": null,
+      "original": "ὃς ἀδίκῳ γνώμᾳ παρανόμῳ τʼ ὀργᾷ",
+      "translation": "Whoever with wicked mind and unjust rage regarding your rites , Bacchus , and those of your mother , comes with raving heart"
+    },
+    {
+      "id": "1.1000",
+      "label": "Section 1.1000",
+      "chapter": null,
+      "original": "παρακόπῳ τε λήματι στέλλεται ,",
+      "translation": "and mad disposition violently to overcome by force what is invincible — death is the discipline for his purposes , accepting no excuses when the affairs of the gods are concerned ; to act like a mortal — this is a life that is free from pain . [*]"
+    },
+    {
+      "id": "1.1005",
+      "label": "Section 1.1005",
+      "chapter": null,
+      "original": "τὸ σοφὸν οὐ φθονῶ ·",
+      "translation": "I do not envy wisdom , but rejoice in hunting it . But other things are great and manifest . Oh , for life to flow towards the good , to be pure and pious day and night , and to honor the gods ,"
+    },
+    {
+      "id": "1.1010",
+      "label": "Section 1.1010",
+      "chapter": null,
+      "original": "δίκας ἐκβαλόντα τιμᾶν θεούς .",
+      "translation": "banishing customs that are outside of justice . Let manifest justice go forth , let it go with sword in hand , slaying through the throat"
+    },
+    {
+      "id": "1.1015",
+      "label": "Section 1.1015",
+      "chapter": null,
+      "original": "τὸν ἄθεον ἄνομον ἄδικον Ἐχίονος",
+      "translation": "this godless , lawless , unjust , earth-born offspring of Echion ."
+    },
+    {
+      "id": "1020",
+      "label": "Section 1020",
+      "chapter": null,
+      "original": "ἴθʼ , ὦ Βάκχε , θηραγρευτᾷ βακχᾶν",
+      "translation": "Go , Bacchus , with smiling face throw a deadly noose around the hunter of the Bacchae as he falls beneath the flock of Maenads ."
+    },
+    {
+      "id": "1024",
+      "label": "Section 1024",
+      "chapter": null,
+      "original": "ὦ δῶμʼ ὃ πρίν ποτʼ εὐτύχεις ἀνʼ Ἑλλάδα ,",
+      "translation": "Oh house once fortunate in Hellas ,"
+    },
+    {
+      "id": "1025",
+      "label": "Section 1025",
+      "chapter": null,
+      "original": "Σιδωνίου γέροντος , ὃς τὸ γηγενὲς",
+      "translation": "house of the Sidonian old man who once sowed in the ground the earth-born harvest of the serpent Ophis , how I groan for you , though I am a slave , but still the masters ’ affairs are a concern to good servants . [*] ."
+    },
+    {
+      "id": "1029",
+      "label": "Section 1029",
+      "chapter": null,
+      "original": "τί δʼ ἔστιν ; ἐκ βακχῶν τι μηνύεις νέον ;",
+      "translation": "What is it ? Do you bring some news from the Bacchae ?"
+    },
+    {
+      "id": "1030",
+      "label": "Section 1030",
+      "chapter": null,
+      "original": "Πενθεὺς ὄλωλεν , παῖς Ἐχίονος πατρός .",
+      "translation": "Pentheus , the child of Echion , is dead ."
+    },
+    {
+      "id": "1031",
+      "label": "Section 1031",
+      "chapter": null,
+      "original": "ὦναξ Βρόμιε , θεὸς φαίνῃ μέγας .",
+      "translation": "Lord Bacchus , truly you appear to be a great god ."
+    },
+    {
+      "id": "1032",
+      "label": "Section 1032",
+      "chapter": null,
+      "original": "πῶς φῄς ; τί τοῦτʼ ἔλεξας ; ἦ ʼπὶ τοῖς ἐμοῖς",
+      "translation": "What do you mean ? Why have you said this ? Do you rejoice at the misfortunes of my master , woman ?"
+    },
+    {
+      "id": "1034",
+      "label": "Section 1034",
+      "chapter": null,
+      "original": "εὐάζω ξένα μέλεσι βαρβάροις ·",
+      "translation": "I , a foreign woman , rejoice with foreign songs ;"
+    },
+    {
+      "id": "1035",
+      "label": "Section 1035",
+      "chapter": null,
+      "original": "οὐκέτι γὰρ δεσμῶν ὑπὸ φόβῳ πτήσσω .",
+      "translation": "for no longer do I cower in fear of chains ."
+    },
+    {
+      "id": "1036",
+      "label": "Section 1036",
+      "chapter": null,
+      "original": "Θήβας δʼ ἀνάνδρους ὧδʼ ἄγεις ⋯",
+      "translation": "Do you think Thebes so lacking in men ?"
+    },
+    {
+      "id": "1037",
+      "label": "Section 1037",
+      "chapter": null,
+      "original": "ὁ Διόνυσος ὁ Διόνυσος , οὐ Θῆβαι",
+      "translation": "Dionysus , Dionysus , not Thebes , holds my allegiance ."
+    },
+    {
+      "id": "1039",
+      "label": "Section 1039",
+      "chapter": null,
+      "original": "συγγνωστὰ μέν σοι , πλὴν ἐπʼ ἐξειργασμένοις",
+      "translation": "You may be forgiven , but still it is not good"
+    },
+    {
+      "id": "1040",
+      "label": "Section 1040",
+      "chapter": null,
+      "original": "κακοῖσι χαίρειν , ὦ γυναῖκες , οὐ καλόν .",
+      "translation": "to rejoice at troubles once they have actually taken place , women ."
+    },
+    {
+      "id": "1041",
+      "label": "Section 1041",
+      "chapter": null,
+      "original": "ἔννεπέ μοι , φράσον , τίνι μόρῳ θνῄσκει",
+      "translation": "Tell me , speak , what kind of a death did he die , the unjust man who did unjust things ?"
+    },
+    {
+      "id": "1043",
+      "label": "Section 1043",
+      "chapter": null,
+      "original": "ἐπεὶ θεράπνας τῆσδε Θηβαίας χθονὸς",
+      "translation": "When we left the dwellings of the Theban land and crossed the streams of Asopus ,"
+    },
+    {
+      "id": "1045",
+      "label": "Section 1045",
+      "chapter": null,
+      "original": "λέπας Κιθαιρώνειον εἰσεβάλλομεν",
+      "translation": "we began to ascend the heights of Kithairon , Pentheus and I — for I was following my master — and the stranger who was our guide to the sight . First we sat in a grassy vale ,"
+    },
+    {
+      "id": "1050",
+      "label": "Section 1050",
+      "chapter": null,
+      "original": "σῴζοντες , ὡς ὁρῷμεν οὐχ ὁρώμενοι .",
+      "translation": "keeping our feet and voices quiet , so that we might see them without being seen . There was a little valley surounded by precipices , irrigated with streams , shaded by pine trees , where the Maenads were sitting , their hands busy with delightful labors . Some of them were crowning again"
+    },
+    {
+      "id": "1055",
+      "label": "Section 1055",
+      "chapter": null,
+      "original": "κισσῷ κομήτην αὖθις ἐξανέστεφον ,",
+      "translation": "the worn thyrsos , making it leafy with ivy , while some , like colts freed from the painted yoke , were singing a Bacchic melody to one another . And the unhappy Pentheus said , not seeing the crowd of women : Stranger ,"
+    },
+    {
+      "id": "1060",
+      "label": "Section 1060",
+      "chapter": null,
+      "original": "οὐκ ἐξικνοῦμαι μαινάδων ὄσσοις νόθων ·",
+      "translation": "from where we are standing I cannot see these false Maenads . But on the hill , ascending a lofty pine , I might view properly the shameful acts of the Maenads . And then I saw the stranger perform a marvelous deed . For seizing hold of the lofty top-most branch of the pine tree ,"
+    },
+    {
+      "id": "1065",
+      "label": "Section 1065",
+      "chapter": null,
+      "original": "κατῆγεν , ἦγεν , ἦγεν ἐς μέλαν πέδον ·",
+      "translation": "he pulled it down , pulled it , pulled it to the dark earth . It was bent just as a bow or a curved wheel , when it is marked out by a compass , describes a circular course [*] : in this way the stranger drew the mountain bough with his hands and bent it to the earth , doing no mortal ’ s deed ."
+    },
+    {
+      "id": "1070",
+      "label": "Section 1070",
+      "chapter": null,
+      "original": "Πενθέα δʼ ἱδρύσας ἐλατίνων ὄζων ἔπι ,",
+      "translation": "He sat Pentheus down on the pine branch , and let it go upright through his hands steadily , taking care not to shake him off . The pine stood firmly upright into the sky , with my master seated on its back ."
+    },
+    {
+      "id": "1075",
+      "label": "Section 1075",
+      "chapter": null,
+      "original": "ὤφθη δὲ μᾶλλον ἢ κατεῖδε μαινάδας .",
+      "translation": "He was seen by the Maenads more than he saw them , for sitting on high he was all but apparent , and the stranger was no longer anywhere to be seen , when a voice , Dionysus as I guess , cried out from the air : Young women ,"
+    },
+    {
+      "id": "1080",
+      "label": "Section 1080",
+      "chapter": null,
+      "original": "ἄγω τὸν ὑμᾶς κἀμὲ τἀμά τʼ ὄργια",
+      "translation": "I bring the one who has made you and me and my rites a laughing-stock . Now punish him ! And as he said this a light of holy fire was placed between heaven and earth . 1084 The air became quiet and the woody glen"
+    },
+    {
+      "id": "1085",
+      "label": "Section 1085",
+      "chapter": null,
+      "original": "φύλλʼ εἶχε , θηρῶν δʼ οὐκ ἂν ἤκουσας βοήν .",
+      "translation": "kept its leaves silent , nor would you have heard the sounds of animals . But they , not having heard the sound clearly , stood upright and looked all around . He repeated his order , and when the daughters of Kadmos recognized the clear command of Bacchus ,"
+    },
+    {
+      "id": "1090",
+      "label": "Section 1090",
+      "chapter": null,
+      "original": "ᾖξαν πελείας ὠκύτητʼ οὐχ ἥσσονες",
+      "translation": "they rushed forth , swift as a dove , running with eager speed of feet , his mother Agave , and her sisters , and all the Bacchae . They leapt through the torrent-streaming valley and mountain cliffs , frantic with the inspiration of the god ."
+    },
+    {
+      "id": "1095",
+      "label": "Section 1095",
+      "chapter": null,
+      "original": "ὡς δʼ εἶδον ἐλάτῃ δεσπότην ἐφήμενον ,",
+      "translation": "When they saw my master sitting in the pine , first they climbed a rock towering opposite the tree and began to hurl at him boulders violently thrown . Some aimed with pine branches and other women hurled their thyrsoi through the air"
+    },
+    {
+      "id": "1100",
+      "label": "Section 1100",
+      "chapter": null,
+      "original": "Πενθέως , στόχον δύστηνον · ἀλλʼ οὐκ ἤνυτον .",
+      "translation": "at Pentheus , a sad target indeed . But they did not reach him , for the wretched man , caught with no way out , sat at a height too great for their eagerness . Finally like lightning they smashed oak branches and began to tear up the roots of the tree with ironless levers ."
+    },
+    {
+      "id": "1105",
+      "label": "Section 1105",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ μόχθων τέρματʼ οὐκ ἐξήνυτον ,",
+      "translation": "When they did not succeed in their toils , Agave said : Come , standing round in a circle , each seize a branch , Maenads , so that we may catch the beast who has climbed aloft , and so that he does not make public the secret dances of the god . They applied countless hands"
+    },
+    {
+      "id": "1110",
+      "label": "Section 1110",
+      "chapter": null,
+      "original": "προσέθεσαν ἐλάτῃ κἀξανέσπασαν χθονός ·",
+      "translation": "to the pine and dragged it up from the earth . Pentheus fell crashing to the ground from his lofty seat , wailing greatly : for he knew he was in terrible trouble . 1114 His mother , as priestess , began the slaughter ,"
+    },
+    {
+      "id": "1115",
+      "label": "Section 1115",
+      "chapter": null,
+      "original": "καὶ προσπίτνει νιν · ὃ δὲ μίτραν κόμης ἄπο",
+      "translation": "and fell upon him . He threw the headband from his head so that the wretched Agave might recognize and not kill him . Touching her cheek , he said : It is I , mother , your son , Pentheus , whom you bore in the house of Echion ."
+    },
+    {
+      "id": "1120",
+      "label": "Section 1120",
+      "chapter": null,
+      "original": "οἴκτιρε δʼ ὦ μῆτέρ με , μηδὲ ταῖς ἐμαῖς",
+      "translation": "Pity me , mother , and do not kill me , your child , for my sins . But she , foaming at the mouth and twisting her eyes all about , not thinking as she ought , was possessed by Bacchus , and he did not persuade her ."
+    },
+    {
+      "id": "1125",
+      "label": "Section 1125",
+      "chapter": null,
+      "original": "λαβοῦσα δʼ ὠλένης ἀριστερὰν χέρα ,",
+      "translation": "Seizing his left arm at the elbow and propping her foot against the unfortunate man ’ s side , she tore out his shoulder , not by her own strength , but the god gave facility to her hands . Ino began to work on the other side ,"
+    },
+    {
+      "id": "1130",
+      "label": "Section 1130",
+      "chapter": null,
+      "original": "ῥηγνῦσα σάρκας , Αὐτονόη τʼ ὄχλος τε πᾶς",
+      "translation": "tearing his flesh , while Autonoe and the whole crowd of the Bacchae pressed on . All were making noise together , he groaning as much as he had life left in him , while they shouted in victory . One of them bore his arm , another a foot , boot and all . His ribs were stripped bare"
+    },
+    {
+      "id": "1135",
+      "label": "Section 1135",
+      "chapter": null,
+      "original": "πλευραὶ σπαραγμοῖς · πᾶσα δʼ ᾑματωμένη",
+      "translation": "from their tearings . The whole band , hands bloodied , were playing a game of catch with Pentheus ’ flesh . His body lies in different places , part under the rugged rocks , part in the deep foliage of the woods , not easy to be sought . His miserable head ,"
+    },
+    {
+      "id": "1140",
+      "label": "Section 1140",
+      "chapter": null,
+      "original": "ὅπερ λαβοῦσα τυγχάνει μήτηρ χεροῖν ,",
+      "translation": "which his mother happened to take in her hands , she fixed on the end of a thyrsos and carries through the midst of Kithairon like that of a savage lion , leaving her sisters among the Maenads ’ dances . She is coming inside these walls , preening herself"
+    },
+    {
+      "id": "1145",
+      "label": "Section 1145",
+      "chapter": null,
+      "original": "τειχέων ἔσω τῶνδʼ , ἀνακαλοῦσα Βάκχιον",
+      "translation": "on the ill-fated prey , calling Bacchus her fellow hunter , her accomplice in the chase , the glorious victor — in whose service she wins a triumph of tears . And as for me , I will depart out of the way of this calamity before Agave reaches the house ."
+    },
+    {
+      "id": "1150",
+      "label": "Section 1150",
+      "chapter": null,
+      "original": "τὸ σωφρονεῖν δὲ καὶ σέβειν τὰ τῶν θεῶν",
+      "translation": "Soundness of mind and reverence for the affairs of the gods is best ; and this , I think , is the wisest possession for those mortals who adopt it ."
+    },
+    {
+      "id": "1153",
+      "label": "Section 1153",
+      "chapter": null,
+      "original": "ἀναχορεύσωμεν Βάκχιον ,",
+      "translation": "Let us honor Bacchus with the dance , let us raise a shout for what has befallen"
+    },
+    {
+      "id": "1155",
+      "label": "Section 1155",
+      "chapter": null,
+      "original": "τὰν τοῦ δράκοντος Πενθέος ἐκγενέτα ·",
+      "translation": "Pentheus , descendant of the serpent , who assumed female attire and the wand , the beautiful thyrsos — certain death — and a bull was the leader of his calamity ."
+    },
+    {
+      "id": "1160",
+      "label": "Section 1160",
+      "chapter": null,
+      "original": "βάκχαι Καδμεῖαι ,",
+      "translation": "Kadmean Bacchae , you have accomplished a glorious victory , but one that brings woe and tears . It is a noble contest to cover one ’ s dripping hands with the blood of one ’ s own son ."
+    },
+    {
+      "id": "1165",
+      "label": "Section 1165",
+      "chapter": null,
+      "original": "ἀλλʼ , εἰσορῶ γὰρ ἐς δόμους ὁρμωμένην",
+      "translation": "But , for I see Pentheus ’ mother Agave coming home , her eyes contorted , receive the revel of the god of joy !"
+    },
+    {
+      "id": "1.1168",
+      "label": "Section 1.1168",
+      "chapter": null,
+      "original": "Ἀσιάδες βάκχαι —",
+      "translation": "Asian Bacchae —"
+    },
+    {
+      "id": "1.1168b",
+      "label": "Section 1.1168b",
+      "chapter": null,
+      "original": "τί μʼ ὀροθύνεις , ὤ ;",
+      "translation": "Why do you excite me , oh ?"
+    },
+    {
+      "id": "1.1169",
+      "label": "Section 1.1169",
+      "chapter": null,
+      "original": "φέρομεν ἐξ ὀρέων",
+      "translation": "I am bringing home from the mountain a"
+    },
+    {
+      "id": "1.1170",
+      "label": "Section 1.1170",
+      "chapter": null,
+      "original": "ἕλικα νεότομον ἐπὶ μέλαθρα ,",
+      "translation": "freshly cut tendril to the house , blessed prey ."
+    },
+    {
+      "id": "1.1172",
+      "label": "Section 1.1172",
+      "chapter": null,
+      "original": "ὁρῶ καί σε δέξομαι σύγκωμον .",
+      "translation": "I see it and will accept you as a fellow reveler ."
+    },
+    {
+      "id": "1.1173",
+      "label": "Section 1.1173",
+      "chapter": null,
+      "original": "ἔμαρψα τόνδʼ ἄνευ βρόχων",
+      "translation": "I caught this young wild lion cub without snares ,"
+    },
+    {
+      "id": "1.1175",
+      "label": "Section 1.1175",
+      "chapter": null,
+      "original": "ὡς ὁρᾶν πάρα .",
+      "translation": "as you can see ."
+    },
+    {
+      "id": "1.1176",
+      "label": "Section 1.1176",
+      "chapter": null,
+      "original": "πόθεν ἐρημίας ;",
+      "translation": "From what desert ?"
+    },
+    {
+      "id": "1.1177",
+      "label": "Section 1.1177",
+      "chapter": null,
+      "original": "Κιθαιρὼν ⋯",
+      "translation": "Kithairon —"
+    },
+    {
+      "id": "1.1177b",
+      "label": "Section 1.1177b",
+      "chapter": null,
+      "original": "Κιθαιρών ;",
+      "translation": "Kithairon ?"
+    },
+    {
+      "id": "1.1178",
+      "label": "Section 1.1178",
+      "chapter": null,
+      "original": "κατεφόνευσέ νιν .",
+      "translation": "Slew him ."
+    },
+    {
+      "id": "1.1179",
+      "label": "Section 1.1179",
+      "chapter": null,
+      "original": "τίς ἁ βαλοῦσα ;",
+      "translation": "Who struck him ?"
+    },
+    {
+      "id": "1.1179b",
+      "label": "Section 1.1179b",
+      "chapter": null,
+      "original": "πρῶτον ἐμὸν τὸ γέρας .",
+      "translation": "The honor is mine first ."
+    }
+  ],
+  "prevChunkSlug": "bacchae-ls8d9p-6",
+  "nextChunkSlug": "bacchae-ls8d9p-8"
+}

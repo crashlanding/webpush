@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "aristophanes-clouds-wasps-peace-1iac3h",
+  "volumeTitle": "Clouds. Wasps. Peace",
+  "authorDisplay": "Aristophanes",
+  "authors": [
+    "Aristophanes"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "clouds-xffta6-4",
+  "label": "Clouds (Section 348 - Section 487)",
+  "partId": "clouds-xffta6",
+  "partTitle": "Clouds",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Νεφέλαι",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Clouds",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "348",
+      "label": "Section 348",
+      "chapter": null,
+      "original": "γίγνονται πάνθʼ ὅ τι βούλονται · κᾆτʼ ἢν μὲν ἴδωσι κομήτην",
+      "translation": "They become all things , whatever they please . And then if they see a person with long hair , a wild one of these hairy fellows , like the son of Xenophantes , in derision of his folly , they liken themselves to centaurs ."
+    },
+    {
+      "id": "351",
+      "label": "Section 351",
+      "chapter": null,
+      "original": "τί γὰρ ἢν ἅρπαγα τῶν δημοσίων κατίδωσι Σίμωνα , τί δρῶσιν ;",
+      "translation": "Why , what , if they should see Simon , a plunderer of the public property , what do they do ?"
+    },
+    {
+      "id": "352",
+      "label": "Section 352",
+      "chapter": null,
+      "original": "ἀποφαίνουσαι τὴν φύσιν αὐτοῦ λύκοι ἐξαίφνης ἐγένοντο .",
+      "translation": "They suddenly become wolves , showing up his disposition ."
+    },
+    {
+      "id": "353",
+      "label": "Section 353",
+      "chapter": null,
+      "original": "ταῦτʼ ἄρα ταῦτα Κλεώνυμον αὗται τὸν ῥίψασπιν χθὲς ἰδοῦσαι ,",
+      "translation": "For this reason , then , for this reason , when they yesterday saw Cleonymus the recreant , on this account they became stags , because they saw this most cowardly fellow ."
+    },
+    {
+      "id": "355",
+      "label": "Section 355",
+      "chapter": null,
+      "original": "καὶ νῦν γʼ ὅτι Κλεισθένη εἶδον , ὁρᾷς , διὰ τοῦτʼ ἐγένοντο γυναῖκες .",
+      "translation": "And now too , because they saw Clisthenes , you observe , on this account they became women ."
+    },
+    {
+      "id": "356",
+      "label": "Section 356",
+      "chapter": null,
+      "original": "χαίρετε τοίνυν ὦ δέσποιναι · καὶ νῦν , εἴπερ τινὶ κἄλλῳ ,",
+      "translation": "Hail therefore , O mistresses ! And now , if ever ye did to any other , to me also utter a voice reaching to heaven , O all-powerful queens ."
+    },
+    {
+      "id": "358",
+      "label": "Section 358",
+      "chapter": null,
+      "original": "χαῖρʼ ὦ πρεσβῦτα παλαιογενὲς θηρατὰ λόγων φιλομούσων ,",
+      "translation": "Hail , O ancient veteran , hunter after learned speeches ! And thou , O priest of most subtle trifles ! Tell us what you require ?"
+    },
+    {
+      "id": "360",
+      "label": "Section 360",
+      "chapter": null,
+      "original": "οὐ γὰρ ἂν ἄλλῳ γʼ ὑπακούσαιμεν τῶν νῦν μετεωροσοφιστῶν",
+      "translation": "For we would not hearken to any other of the recent meteorological sophists , except to Prodicus ; to him , on account of his wisdom and intelligence ; and to you , because you walk proudly in the streets , and cast your eyes askance , and endure many hardships with bare feet , and in reliance upon us lookest supercilious ."
+    },
+    {
+      "id": "364",
+      "label": "Section 364",
+      "chapter": null,
+      "original": "ὦ γῆ τοῦ φθέγματος , ὡς ἱερὸν καὶ σεμνὸν καὶ τερατῶδες .",
+      "translation": "O Earth , what a voice ! How holy and dignified and wondrous !"
+    },
+    {
+      "id": "365",
+      "label": "Section 365",
+      "chapter": null,
+      "original": "αὗται γάρ τοι μόναι εἰσὶ θεαί , τἄλλα δὲ πάντʼ ἐστὶ φλύαρος .",
+      "translation": "For , in fact , these alone are goddesses ; and all the rest is nonsense ."
+    },
+    {
+      "id": "366",
+      "label": "Section 366",
+      "chapter": null,
+      "original": "ὁ Ζεὺς δʼ ἡμῖν , φέρε πρὸς τῆς γῆς , οὑλύμπιος οὐ θεός ἐστιν ;",
+      "translation": "But come , by the Earth , is not Jupiter , the Olympian , a god ?"
+    },
+    {
+      "id": "367",
+      "label": "Section 367",
+      "chapter": null,
+      "original": "ποῖος Ζεύς ; οὐ μὴ ληρήσεις · οὐδʼ ἔστι Ζεύς .",
+      "translation": "What Jupiter ? Do not trifle . There is no Jupiter ."
+    },
+    {
+      "id": "367b",
+      "label": "Section 367b",
+      "chapter": null,
+      "original": "τί λέγεις σύ ;",
+      "translation": "What do you say ? Who rains then ? For first of all explain this to me ."
+    },
+    {
+      "id": "369",
+      "label": "Section 369",
+      "chapter": null,
+      "original": "αὗται δήπου · μεγάλοις δέ σʼ ἐγὼ σημείοις αὐτὸ διδάξω .",
+      "translation": "These to be sure . I will teach you it by powerful evidence . Come , where have you ever seen him raining at any time without Clouds ? And yet he ought to rain in fine weather , and these be absent ."
+    },
+    {
+      "id": "372",
+      "label": "Section 372",
+      "chapter": null,
+      "original": "νὴ τὸν Ἀπόλλω τοῦτό γέ τοι δὴ τῷ νῦν λόγῳ εὖ προσέφυσας ·",
+      "translation": "By Apollo , of a truth you have rightly confirmed this by your present argument . And yet , before this , I really thought that Jupiter caused the rain . But tell me who is it that thunders . This makes me tremble ."
+    },
+    {
+      "id": "375",
+      "label": "Section 375",
+      "chapter": null,
+      "original": "αὗται βροντῶσι κυλινδόμεναι .",
+      "translation": "These , as they roll , thunder ."
+    },
+    {
+      "id": "375b",
+      "label": "Section 375b",
+      "chapter": null,
+      "original": "τῷ τρόπῳ ὦ πάντα σὺ τολμῶν ;",
+      "translation": "In what way ? you all-daring man !"
+    },
+    {
+      "id": "376",
+      "label": "Section 376",
+      "chapter": null,
+      "original": "ὅταν ἐμπλησθῶσʼ ὕδατος πολλοῦ κἀναγκασθῶσι φέρεσθαι ,",
+      "translation": "When they are full of much water , and are compelled to be borne along , being necessarily precipitated when full of rain , then they fall heavily upon each other and burst and clap ."
+    },
+    {
+      "id": "379",
+      "label": "Section 379",
+      "chapter": null,
+      "original": "ὁ δʼ ἀναγκάζων ἐστὶ τίς αὐτάς , οὐχ ὁ Ζεύς , ὥστε φέρεσθαι ;",
+      "translation": "Who is it that compels them to borne along ? Is it not Jupiter ?"
+    },
+    {
+      "id": "380",
+      "label": "Section 380",
+      "chapter": null,
+      "original": "ἥκιστʼ ἀλλʼ αἰθέριος Δῖνος .",
+      "translation": "By no means , but aethereal Vortex ."
+    },
+    {
+      "id": "380b",
+      "label": "Section 380b",
+      "chapter": null,
+      "original": "Δῖνος ; τουτί μʼ ἐλελήθειν ,",
+      "translation": "Vortex ? It had escaped my notice that Jupiter did not exist , and that Vortex now reigned in his stead . But you have taught me nothing as yet concerning the clap and the thunder ."
+    },
+    {
+      "id": "383",
+      "label": "Section 383",
+      "chapter": null,
+      "original": "οὐκ ἤκουσάς μου τὰς Νεφέλας ὕδατος μεστὰς ὅτι φημὶ",
+      "translation": "Have you not heard me , that I said that the Clouds , when full of moisture , dash against each other and clap by reason of their density ?"
+    },
+    {
+      "id": "385",
+      "label": "Section 385",
+      "chapter": null,
+      "original": "φέρε τουτὶ τῷ χρὴ πιστεύειν ;",
+      "translation": "Come , how am I to believe this ?"
+    },
+    {
+      "id": "385b",
+      "label": "Section 385b",
+      "chapter": null,
+      "original": "ἀπὸ σαυτοῦ ʼγώ σε διδάξω .",
+      "translation": "I ’ ll teach you from your own case . Were you ever , after being stuffed with broth at the Panathenaic festival , then disturbed in your belly , and did a tumult suddenly rumble through it ?"
+    },
+    {
+      "id": "388",
+      "label": "Section 388",
+      "chapter": null,
+      "original": "νὴ τὸν Ἀπόλλω καὶ δεινὰ ποιεῖ γʼ εὐθύς μοι , καὶ τετάρακται",
+      "translation": "Yes , by Apollo ! And immediately the little broth plays the mischief with me , and is disturbed and rumbles like thunder , and grumbles dreadfully :"
+    },
+    {
+      "id": "390",
+      "label": "Section 390",
+      "chapter": null,
+      "original": "ἀτρέμας πρῶτον παππὰξ παππάξ , κἄπειτʼ ἐπάγει παπαπαππάξ ,",
+      "translation": "at first gently pappax , pappax ; and then it adds papa-pappax ; and finally , it thunders downright papapappax , as they do ."
+    },
+    {
+      "id": "392",
+      "label": "Section 392",
+      "chapter": null,
+      "original": "σκέψαι τοίνυν ἀπὸ γαστριδίου τυννουτουὶ οἷα πέπορδας ·",
+      "translation": "Consider , therefore , how you have trumpeted from a little belly so small ; and how is it not probable that this air , being boundless , should thunder so loudly ?"
+    },
+    {
+      "id": "394",
+      "label": "Section 394",
+      "chapter": null,
+      "original": "ταῦτʼ ἄρα καὶ τὠνόματʼ ἀλλήλοιν βροντὴ καὶ πορδὴ ὁμοίω .",
+      "translation": "For this reason , therefore , the two names also Trump and Thunder , are similar to each other . But teach me this , whence comes the thunderbolt blazing with fire , and burns us to ashes when it smites us , and singes those who survive . For indeed Jupiter evidently hurls this at the perjured ."
+    },
+    {
+      "id": "398",
+      "label": "Section 398",
+      "chapter": null,
+      "original": "καὶ πῶς ὦ μῶρε σὺ καὶ Κρονίων ὄζων καὶ βεκκεσέληνε ,",
+      "translation": "Why , how then , you foolish person , and savouring of the dark ages and antediluvian , if his manner is to smite the perjured , does he not blast Simon ,"
+    },
+    {
+      "id": "400",
+      "label": "Section 400",
+      "chapter": null,
+      "original": "οὐδὲ Κλεώνυμον οὐδὲ Θέωρον ; καίτοι σφόδρα γʼ εἴσʼ ἐπίορκοι ·",
+      "translation": "and Cleonymus , and Theorus ? And yet they are very perjured . But he smites his own temple , and Sunium the promontory of Athens , and the tall oaks . Wherefore , for indeed an oak does not commit perjury ."
+    },
+    {
+      "id": "403",
+      "label": "Section 403",
+      "chapter": null,
+      "original": "οὐκ οἶδʼ · ἀτὰρ εὖ σὺ λέγειν φαίνει . τί γάρ ἐστιν δῆθʼ ὁ κεραυνός ;",
+      "translation": "I do not know ; but you seem to speak well . For what , pray , is the thunderbolt ?"
+    },
+    {
+      "id": "404",
+      "label": "Section 404",
+      "chapter": null,
+      "original": "ὅταν ἐς ταύτας ἄνεμος ξηρὸς μετεωρισθεὶς κατακλῃσθῇ ,",
+      "translation": "When a dry wind , having been raised aloft , is inclosed in these Clouds , it inflates them within , like a bladder ; and then , of necessity , having burst them , it rushes out with vehemence by reason of its density , setting fire to itself through its rushing and impetuosity ."
+    },
+    {
+      "id": "408",
+      "label": "Section 408",
+      "chapter": null,
+      "original": "νὴ Δίʼ ἐγὼ γοῦν ἀτεχνῶς ἔπαθον τουτί ποτε Διασίοισιν",
+      "translation": "By Jupiter , of a truth I once experienced this exactly at the Diasian festival ! I was roasting a haggis for my kinsfolk , and through neglect I did not cut it open ; but it became inflated and then suddenly bursting , befouled my eyes and burned my face ."
+    },
+    {
+      "id": "412",
+      "label": "Section 412",
+      "chapter": null,
+      "original": "ὦ τῆς μεγάλης ἐπιθυμήσας σοφίας ἄνθρωπε παρʼ ἡμῶν ,",
+      "translation": "O mortal , who hast desired great wisdom from us ! How happy will you become among the Athenians and among the Greeks , if you be possessed of a good memory , and be a deep thinker , and endurance of labour be implanted"
+    },
+    {
+      "id": "415",
+      "label": "Section 415",
+      "chapter": null,
+      "original": "ἐν τῇ ψυχῇ , καὶ μὴ κάμνεις μήθʼ ἑστὼς μήτε βαδίζων ,",
+      "translation": "in your soul , and you be not wearied either by standing or walking , nor be exceedingly vexed at shivering with cold , nor long to break your fast , and you refrain from wine , and gymnastics , and the other follies , and consider this the highest excellence , as is proper a clever man should , to conquer by action and counsel , and by battling with your tongue ."
+    },
+    {
+      "id": "420",
+      "label": "Section 420",
+      "chapter": null,
+      "original": "ἀλλʼ οὕνεκά γε ψυχῆς στερρᾶς δυσκολοκοίτου τε μερίμνης",
+      "translation": "As far as regards a sturdy spirit , and care that makes one ’ s bed uneasy , and a frugal spirit and hard-living and savory-eating belly , be of good courage and don ’ t trouble yourself ; I would offer myself to hammer on , for that matter ."
+    },
+    {
+      "id": "423",
+      "label": "Section 423",
+      "chapter": null,
+      "original": "ἄλλο τι δῆτʼ οὖν νομιεῖς ἤδη θεὸν οὐδένα πλὴν ἅπερ ἡμεῖς ,",
+      "translation": "Will you not , pray , now believe in no god , except what we believe in--this Chaos , and the Clouds , and the Tongue--these three ?"
+    },
+    {
+      "id": "425",
+      "label": "Section 425",
+      "chapter": null,
+      "original": "οὐδʼ ἂν διαλεχθείην γʼ ἀτεχνῶς τοῖς ἄλλοις οὐδʼ ἂν ἀπαντῶν ·",
+      "translation": "Absolutely I would not even converse with the others , not even if I met them ; nor would I sacrifice to them , nor make libations , nor offer frankincense ."
+    },
+    {
+      "id": "427",
+      "label": "Section 427",
+      "chapter": null,
+      "original": "λέγε νυν ἡμῖν ὅ τι σοι δρῶμεν θαρρῶν , ὡς οὐκ ἀτυχήσεις",
+      "translation": "Tell us then boldly , what we must do for you ? For you shall not fail in getting it , if you honour and admire us , and seek to become clever ."
+    },
+    {
+      "id": "429",
+      "label": "Section 429",
+      "chapter": null,
+      "original": "ὦ δέσποιναι δέομαι τοίνυν ὑμῶν τουτὶ πάνυ μικρόν ,",
+      "translation": "O mistresses , I request of you then this very small favour , that I be the best of the Greeks in speaking by a hundred stadia ."
+    },
+    {
+      "id": "431",
+      "label": "Section 431",
+      "chapter": null,
+      "original": "ἀλλʼ ἔσται σοι τοῦτο παρʼ ἡμῶν · ὥστε τὸ λοιπόν γʼ ἀπὸ τουδὶ",
+      "translation": "Well , you shall have this from us , so that hence-forward from this time no one shall get more opinions passed in the public assemblies than you ."
+    },
+    {
+      "id": "433",
+      "label": "Section 433",
+      "chapter": null,
+      "original": "μὴ ʼμοί γε λέγειν γνώμας μεγάλας · οὐ γὰρ τούτων ἐπιθυμῶ ,",
+      "translation": "Grant me not to deliver important opinions ; for I do not desire these , but only to pervert the right for my own advantage , and to evade my creditors ."
+    },
+    {
+      "id": "435",
+      "label": "Section 435",
+      "chapter": null,
+      "original": "τεύξει τοίνυν ὧν ἱμείρεις · οὐ γὰρ μεγάλων ἐπιθυμεῖς .",
+      "translation": "Then you shall obtain what you desire ; for you do not covet great things . But commit yourself without fear to our ministers ."
+    },
+    {
+      "id": "437",
+      "label": "Section 437",
+      "chapter": null,
+      "original": "δράσω ταῦθʼ ὑμῖν πιστεύσας · ἡ γὰρ ἀνάγκη με πιέζει",
+      "translation": "I will do so in reliance upon you , for necessity oppresses me , on account of the blood-horses , and the marriage that ruined me . Now , therefore , let them use me as they please ."
+    },
+    {
+      "id": "440",
+      "label": "Section 440",
+      "chapter": null,
+      "original": "τουτὶ τοὐμὸν σῶμʼ αὐτοῖσιν",
+      "translation": "I give up this body to them to be beaten , to be hungered , to be troubled with thirst , to be squalid , to shiver with cold , to flay into a leathern bottle ,"
+    },
+    {
+      "id": "445",
+      "label": "Section 445",
+      "chapter": null,
+      "original": "θρασὺς εὔγλωττος τολμηρὸς ἴτης",
+      "translation": "if I shall escape clear from my debts , and appear to men to be bold , glib of tongue , audacious , impudent , shameless , a fabricator of falsehoods , inventive of words , a practiced knave in lawsuits , a law-tablet , a thorough rattle , a fox , a sharper , a slippery knave , a dissembler , a slippery fellow , an impostor ,"
+    },
+    {
+      "id": "450",
+      "label": "Section 450",
+      "chapter": null,
+      "original": "κέντρων μιαρὸς στρόφις ἀργαλέος",
+      "translation": "a gallows-bird , a blackguard , a twister , a troublesome fellow , a licker-up of hashes . If they call me this , when they meet me , let them do to me absolutely what they please . And if they like ,"
+    },
+    {
+      "id": "455",
+      "label": "Section 455",
+      "chapter": null,
+      "original": "νὴ τὴν Δήμητρʼ ἔκ μου χορδὴν",
+      "translation": "by Ceres , let them serve up a sausage out of me to the deep thinkers ."
+    },
+    {
+      "id": "457",
+      "label": "Section 457",
+      "chapter": null,
+      "original": "λῆμα μὲν πάρεστι τῷδέ γʼ",
+      "translation": "This man has a spirit not void of courage , but prompt . Know , that if you learn these matters from me , you will possess among mortals a glory as high as heaven ."
+    },
+    {
+      "id": "461",
+      "label": "Section 461",
+      "chapter": null,
+      "original": "τί πείσομαι ;",
+      "translation": "What shall I experience ?"
+    },
+    {
+      "id": "462",
+      "label": "Section 462",
+      "chapter": null,
+      "original": "τὸν πάντα χρόνον μετʼ ἐμοῦ",
+      "translation": "You shall pass with me the most enviable of mortal lives the whole time ."
+    },
+    {
+      "id": "465",
+      "label": "Section 465",
+      "chapter": null,
+      "original": "ἆρά γε τοῦτʼ ἄρʼ ἐγώ ποτʼ",
+      "translation": "Shall I then ever see this ?"
+    },
+    {
+      "id": "467b",
+      "label": "Section 467b",
+      "chapter": null,
+      "original": "ὥστε γέ σου πολλοὺς ἐπὶ ταῖσι θύραις ἀεὶ καθῆσθαι ,",
+      "translation": "Yea , so that many be always seated at your gates , wishing to communicate with you and come to a conference with you , to consult with you as to actions and affidavits of many talents , as is worthy of your abilities ."
+    },
+    {
+      "id": "476",
+      "label": "Section 476",
+      "chapter": null,
+      "original": "ἀλλʼ ἐγχείρει τὸν πρεσβύτην ὅ τι περ μέλλεις προδιδάσκειν ,",
+      "translation": "But attempt to teach the old man by degrees whatever you purpose , and scrutinize his intellect , and make trial of his mind ."
+    },
+    {
+      "id": "478",
+      "label": "Section 478",
+      "chapter": null,
+      "original": "ἄγε δὴ κάτειπέ μοι σὺ τὸν σαυτοῦ τρόπον ,",
+      "translation": "Come now , tell me your own turn of mind ; in order that , when I know of what sort it is , I may now , after this , apply to you new engines ."
+    },
+    {
+      "id": "481",
+      "label": "Section 481",
+      "chapter": null,
+      "original": "τί δέ ; τειχομαχεῖν μοι διανοεῖ πρὸς τῶν θεῶν ;",
+      "translation": "What ? By the gods , do you purpose to besiege me ?"
+    },
+    {
+      "id": "482",
+      "label": "Section 482",
+      "chapter": null,
+      "original": "οὔκ , ἀλλὰ βραχέα σου πυθέσθαι βούλομαι .",
+      "translation": "No ; I wish to briefly learn from you if you are possessed of a good memory ."
+    },
+    {
+      "id": "483b",
+      "label": "Section 483b",
+      "chapter": null,
+      "original": "δύο τρόπω νὴ τὸν Δία ·",
+      "translation": "In two ways , by Jove ! If anything be owing to me , I have a very good memory ; but if I owe unhappy man , I am very forgetful ."
+    },
+    {
+      "id": "486",
+      "label": "Section 486",
+      "chapter": null,
+      "original": "ἔνεστι δῆτα μανθάνειν ἐν τῇ φύσει ;",
+      "translation": "Is the power of speaking , pray , implanted in your nature ?"
+    },
+    {
+      "id": "487",
+      "label": "Section 487",
+      "chapter": null,
+      "original": "λέγειν μὲν οὐκ ἔνεστʼ , ἀποστερεῖν δʼ ἔνι .",
+      "translation": "Speaking is not in me , but cheating is ."
+    }
+  ],
+  "prevChunkSlug": "clouds-xffta6-3",
+  "nextChunkSlug": "clouds-xffta6-5"
+}

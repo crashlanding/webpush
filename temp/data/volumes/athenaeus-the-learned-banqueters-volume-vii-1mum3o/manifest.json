@@ -1,0 +1,61 @@
+{
+  "loebNumber": 345,
+  "sortOrder": 345,
+  "slug": "athenaeus-the-learned-banqueters-volume-vii-1mum3o",
+  "title": "The Learned Banqueters, Volume VII",
+  "volumeLabel": "The Learned Banqueters, Volume VII",
+  "authorDisplay": "Athenaeus",
+  "authors": [
+    "Athenaeus"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for The Learned Banqueters, Volume VII. The Learned Banqueters, Volume VII uses a manual book-range map on Scaife because the Loeb volume cuts through longer books and sections.",
+  "status": "ready",
+  "defaultChunkSlug": "the-learned-banqueters-volume-vii-lx1ams",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "the-learned-banqueters-volume-vii-lx1ams",
+      "title": "The Learned Banqueters, Volume VII",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "the-learned-banqueters-volume-vii-lx1ams",
+      "chunks": [
+        {
+          "slug": "the-learned-banqueters-volume-vii-lx1ams",
+          "label": "The Learned Banqueters, Volume VII",
+          "partId": "the-learned-banqueters-volume-vii-lx1ams",
+          "partTitle": "The Learned Banqueters, Volume VII",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "the-learned-banqueters-volume-vii-lx1ams",
+      "label": "The Learned Banqueters, Volume VII",
+      "partId": "the-learned-banqueters-volume-vii-lx1ams",
+      "partTitle": "The Learned Banqueters, Volume VII",
+      "sectionCount": 1,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "the-learned-banqueters-volume-vii-lx1ams",
+      "partTitle": "The Learned Banqueters, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Δειπνοσοφισταί",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0008.tlg001.perseus-grc3/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Deipnosophists",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0008.tlg001.perseus-eng2/"
+      }
+    }
+  ]
+}

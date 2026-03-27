@@ -1,0 +1,61 @@
+{
+  "loebNumber": 272,
+  "sortOrder": 272,
+  "slug": "pausanias-description-of-greece-volume-iii-10p9wr",
+  "title": "Description of Greece, Volume III",
+  "volumeLabel": "Description of Greece, Volume III",
+  "authorDisplay": "Pausanias",
+  "authors": [
+    "Pausanias"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Description of Greece, Volume III. Description of Greece, Volume III currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "description-of-greece-volume-iii-1s8szf",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "description-of-greece-volume-iii-1s8szf",
+      "title": "Description of Greece, Volume III",
+      "status": "ready",
+      "sectionCount": 50,
+      "chunkSlug": "description-of-greece-volume-iii-1s8szf",
+      "chunks": [
+        {
+          "slug": "description-of-greece-volume-iii-1s8szf",
+          "label": "Description of Greece, Volume III",
+          "partId": "description-of-greece-volume-iii-1s8szf",
+          "partTitle": "Description of Greece, Volume III",
+          "sectionCount": 50,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "description-of-greece-volume-iii-1s8szf",
+      "label": "Description of Greece, Volume III",
+      "partId": "description-of-greece-volume-iii-1s8szf",
+      "partTitle": "Description of Greece, Volume III",
+      "sectionCount": 50,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "description-of-greece-volume-iii-1s8szf",
+      "partTitle": "Description of Greece, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἑλλάδος Περιηγήσεως",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0525.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "\n         Description of Greece\n      ",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0525.tlg001.perseus-eng2/"
+      }
+    }
+  ]
+}

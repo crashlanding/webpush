@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-little-carthaginian-pseudolus-the-rope-rpgc9x",
+  "volumeTitle": "The Little Carthaginian. Pseudolus. The Rope",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "pseudolus-1bndy7-5",
+  "label": "Pseudolus (Section 1.3.325b - Section 1.3.363d)",
+  "partId": "pseudolus-1bndy7",
+  "partTitle": "Pseudolus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Pseudolus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Pseudolus, or The Cheat",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.3.325b",
+      "label": "Section 1.3.325b",
+      "chapter": null,
+      "original": "Quia enim non venalem iám habeo Phoenicium .",
+      "translation": "Why , because I ’ ve got no Phœnicium to sell ."
+    },
+    {
+      "id": "1.3.326",
+      "label": "Section 1.3.326",
+      "chapter": null,
+      "original": "Non habes ?",
+      "translation": "Not got her ?"
+    },
+    {
+      "id": "1.3.326b",
+      "label": "Section 1.3.326b",
+      "chapter": null,
+      "original": "Non hercle vero .",
+      "translation": "I ’ faith , not I , indeed ."
+    },
+    {
+      "id": "1.3.326c",
+      "label": "Section 1.3.326c",
+      "chapter": null,
+      "original": "Pseudole , ei accerse hostias ,",
+      "translation": "Pseudolus , go fetch the sacrifice , the victims , the sacrificers [*] , that I may make offering to this supreme Jove . For this Jupiter is now much more mighty to me than is Jupiter himself ."
+    },
+    {
+      "id": "1.3.329",
+      "label": "Section 1.3.329",
+      "chapter": null,
+      "original": "Nolo victumas : agninis me extis placari volo .",
+      "translation": "I want no victims ; with the entrails of minae [*] I wish to be appeased ."
+    },
+    {
+      "id": "1.3.330",
+      "label": "Section 1.3.330",
+      "chapter": null,
+      "original": "Propera , quid stas ? ei accerse agnos . audin quid ait Iuppiter ?",
+      "translation": "Make haste . Why do you hesitate ? Go fetch the lambs ; do you hear what Jupiter says ?"
+    },
+    {
+      "id": "1.3.331",
+      "label": "Section 1.3.331",
+      "chapter": null,
+      "original": "Iam hic ero ; verum extra portam mi etiam currendumst prius .",
+      "translation": "I ’ ll be here this moment ; but first I must run as far as beyond the gate [*] ."
+    },
+    {
+      "id": "1.3.332",
+      "label": "Section 1.3.332",
+      "chapter": null,
+      "original": "Quid eo ?",
+      "translation": "Why thither ?"
+    },
+    {
+      "id": "1.3.332b",
+      "label": "Section 1.3.332b",
+      "chapter": null,
+      "original": "Lanios inde accersam duo cum tintinnabulis ,",
+      "translation": "I ’ ll fetch two sacrificers thence , with their bells ; at the same time I ’ ll fetch thence two bundles of elm twigs , that this day a sufficiency may be provided for the sacrifice to this Jove ."
+    },
+    {
+      "id": "1.3.335",
+      "label": "Section 1.3.335",
+      "chapter": null,
+      "original": "I in malam crucem .",
+      "translation": "Away to utter perdition [*] ."
+    },
+    {
+      "id": "1.3.335b",
+      "label": "Section 1.3.335b",
+      "chapter": null,
+      "original": "Istuc ibit Iuppiter lenonius .",
+      "translation": "Thither shall the pimping Jupiter go ."
+    },
+    {
+      "id": "1.3.336b",
+      "label": "Section 1.3.336b",
+      "chapter": null,
+      "original": "Quidum ?",
+      "translation": "How so ?"
+    },
+    {
+      "id": "1.3.336c",
+      "label": "Section 1.3.336c",
+      "chapter": null,
+      "original": "Ego dicam tibi :",
+      "translation": "I ’ ll tell you ; because , i ’ faith , so long as I shall be alive , you ’ ll never be a man well to do ."
+    },
+    {
+      "id": "1.3.338",
+      "label": "Section 1.3.338",
+      "chapter": null,
+      "original": "Ex tua re non est , ut ego emoriar .",
+      "translation": "It isn ’ t for your interest that I should die ."
+    },
+    {
+      "id": "1.3.338b",
+      "label": "Section 1.3.338b",
+      "chapter": null,
+      "original": "Quidum ?",
+      "translation": "How so ?"
+    },
+    {
+      "id": "1.3.338c",
+      "label": "Section 1.3.338c",
+      "chapter": null,
+      "original": "Sic , quia",
+      "translation": "This way ; because , if I ’ m dead , there will be no one worse than yourself in Athens . For your interest ( to CALIDORUS ) it is that I should die ."
+    },
+    {
+      "id": "1.3.340",
+      "label": "Section 1.3.340",
+      "chapter": null,
+      "original": "Dic mihi , obsecro hercle , verum serio hoc quod te rogo .",
+      "translation": "Troth now , prithee , in serious truth , tell me this that I ask you — have you not got my mistress , Phœnicium , on sale ?"
+    },
+    {
+      "id": "1.3.342",
+      "label": "Section 1.3.342",
+      "chapter": null,
+      "original": "Non edepol habeo profecto , nam iam pridem vendidi .",
+      "translation": "By my faith , I really have not ; for I ’ ve now sold her already ."
+    },
+    {
+      "id": "1.3.343",
+      "label": "Section 1.3.343",
+      "chapter": null,
+      "original": "Quo modo ?",
+      "translation": "In what way ?"
+    },
+    {
+      "id": "1.3.343b",
+      "label": "Section 1.3.343b",
+      "chapter": null,
+      "original": "Sine ornamentis , cum intestinis omnibus .",
+      "translation": "Without her trappings , with all her inwards [*] ."
+    },
+    {
+      "id": "1.3.344",
+      "label": "Section 1.3.344",
+      "chapter": null,
+      "original": "Meam tu amicam vendidisti ?",
+      "translation": "What ? Have you sold my mistress ?"
+    },
+    {
+      "id": "1.3.345",
+      "label": "Section 1.3.345",
+      "chapter": null,
+      "original": "Viginti minis ?",
+      "translation": "For twenty minae ?"
+    },
+    {
+      "id": "1.3.345b",
+      "label": "Section 1.3.345b",
+      "chapter": null,
+      "original": "Vtrum vis , vel quater quinis minis ,",
+      "translation": "Or , in other words , for four times five minae , whichever you please , to a Macedonian Captain ; and I ’ ve already got fifteen of the minae at home ."
+    },
+    {
+      "id": "1.3.347",
+      "label": "Section 1.3.347",
+      "chapter": null,
+      "original": "Quid ego ex te audio ?",
+      "translation": "What is it that I hear of you ?"
+    },
+    {
+      "id": "1.3.347b",
+      "label": "Section 1.3.347b",
+      "chapter": null,
+      "original": "Amicam tuam esse factam argenteam .",
+      "translation": "That your mistress has been turned into money ."
+    },
+    {
+      "id": "1.3.348",
+      "label": "Section 1.3.348",
+      "chapter": null,
+      "original": "Cur id ausu ’ (s e) s facere ?",
+      "translation": "Why did you dare to do so ?"
+    },
+    {
+      "id": "1.3.348b",
+      "label": "Section 1.3.348b",
+      "chapter": null,
+      "original": "Libuit , mea fuit .",
+      "translation": "’ Twas my pleasure ; she was my own ."
+    },
+    {
+      "id": "1.3.348c",
+      "label": "Section 1.3.348c",
+      "chapter": null,
+      "original": "Eho , Pseudole ,",
+      "translation": "Hallo ! Pseudolus . Run , fetch me a sword ."
+    },
+    {
+      "id": "1.3.349b",
+      "label": "Section 1.3.349b",
+      "chapter": null,
+      "original": "Quid opus gladio ?",
+      "translation": "What need is there of a sword ?"
+    },
+    {
+      "id": "1.3.349c",
+      "label": "Section 1.3.349c",
+      "chapter": null,
+      "original": "Qui hunc occidam atque me .",
+      "translation": "With which to kill this fellow this instant , and then myself ."
+    },
+    {
+      "id": "1.3.350",
+      "label": "Section 1.3.350",
+      "chapter": null,
+      "original": "Quin tu ted occidis potius ? nam hunc fames iam occiderit .",
+      "translation": "But why not kill yourself only rather ? For famine will soon be killing him ."
+    },
+    {
+      "id": "1.3.351",
+      "label": "Section 1.3.351",
+      "chapter": null,
+      "original": "Quid ais , quantum terra † tegit hominum periurissume ?",
+      "translation": "What do you say , most perjured of men as many as are living upon the earth ? Did you not take an oath that you would sell her to no person besides myself ?"
+    },
+    {
+      "id": "1.3.353",
+      "label": "Section 1.3.353",
+      "chapter": null,
+      "original": "Fateor .",
+      "translation": "I confess it ."
+    },
+    {
+      "id": "1.3.353b",
+      "label": "Section 1.3.353b",
+      "chapter": null,
+      "original": "Nempe concéptis verbis ?",
+      "translation": "In solemn form [*] , to wit ."
+    },
+    {
+      "id": "1.3.353c",
+      "label": "Section 1.3.353c",
+      "chapter": null,
+      "original": "Etiam consutis quoque .",
+      "translation": "Aye , and well considered too ."
+    },
+    {
+      "id": "1.3.354",
+      "label": "Section 1.3.354",
+      "chapter": null,
+      "original": "Periuravisti , sceleste .",
+      "translation": "You have proved perjured , you villain ."
+    },
+    {
+      "id": "1.3.354b",
+      "label": "Section 1.3.354b",
+      "chapter": null,
+      "original": "At argentum intro condidi .",
+      "translation": "I sacked the money at home , however ."
+    },
+    {
+      "id": "1.3.355",
+      "label": "Section 1.3.355",
+      "chapter": null,
+      "original": "ego scelestus nunc argentum promere possum domo :",
+      "translation": "Villain as I am , I am now able to draw upon a stock of silver in my house ; whereas you who are so dutiful , and born of that grand family , haven ’ t a single coin ."
+    },
+    {
+      "id": "1.3.357",
+      "label": "Section 1.3.357",
+      "chapter": null,
+      "original": "Pseudole , adsiste altrim secus atque onera hunc maledictis .",
+      "translation": "Pseudolus , stand by him on the other side and load this fellow with imprecations ."
+    },
+    {
+      "id": "1.3.357b",
+      "label": "Section 1.3.357b",
+      "chapter": null,
+      "original": "Licet .",
+      "translation": "Very well . Never would I run to the Praetor [*] with equal speed that I might be made free ."
+    },
+    {
+      "id": "1.3.359",
+      "label": "Section 1.3.359",
+      "chapter": null,
+      "original": "Ingere mala multa .",
+      "translation": "Heap on him a multitude of curses ."
+    },
+    {
+      "id": "1.3.359b",
+      "label": "Section 1.3.359b",
+      "chapter": null,
+      "original": "Iam ego te differam dictis meis .",
+      "translation": "Now will I publish you with my rebukes ."
+    },
+    {
+      "id": "1.3.360",
+      "label": "Section 1.3.360",
+      "chapter": null,
+      "original": "impudice .",
+      "translation": "Thou lackshame !"
+    },
+    {
+      "id": "1.3.360b",
+      "label": "Section 1.3.360b",
+      "chapter": null,
+      "original": "Itast .",
+      "translation": "’ Tis the fact ."
+    },
+    {
+      "id": "1.3.360c",
+      "label": "Section 1.3.360c",
+      "chapter": null,
+      "original": "Sceleste .",
+      "translation": "Villain !"
+    },
+    {
+      "id": "1.3.360d",
+      "label": "Section 1.3.360d",
+      "chapter": null,
+      "original": "Dicis vera .",
+      "translation": "You say the truth ."
+    },
+    {
+      "id": "1.3.360e",
+      "label": "Section 1.3.360e",
+      "chapter": null,
+      "original": "Verbero .",
+      "translation": "Whipping-post !"
+    },
+    {
+      "id": "1.3.361",
+      "label": "Section 1.3.361",
+      "chapter": null,
+      "original": "Quippini ?",
+      "translation": "Why not ?"
+    },
+    {
+      "id": "1.3.361b",
+      "label": "Section 1.3.361b",
+      "chapter": null,
+      "original": "Bustirape .",
+      "translation": "Robber of tombs !"
+    },
+    {
+      "id": "1.3.361c",
+      "label": "Section 1.3.361c",
+      "chapter": null,
+      "original": "Certo .",
+      "translation": "No doubt ."
+    },
+    {
+      "id": "1.3.361d",
+      "label": "Section 1.3.361d",
+      "chapter": null,
+      "original": "Furcifer .",
+      "translation": "Gallows-bird !"
+    },
+    {
+      "id": "1.3.361e",
+      "label": "Section 1.3.361e",
+      "chapter": null,
+      "original": "Factum optume .",
+      "translation": "Very well done ."
+    },
+    {
+      "id": "1.3.362",
+      "label": "Section 1.3.362",
+      "chapter": null,
+      "original": "Sociofraude .",
+      "translation": "Cheater of your friends !"
+    },
+    {
+      "id": "1.3.362b",
+      "label": "Section 1.3.362b",
+      "chapter": null,
+      "original": "Sunt mea istaec .",
+      "translation": "That ’ s in my way ."
+    },
+    {
+      "id": "1.3.362c",
+      "label": "Section 1.3.362c",
+      "chapter": null,
+      "original": "Parricida .",
+      "translation": "Parricide !"
+    },
+    {
+      "id": "1.3.362d",
+      "label": "Section 1.3.362d",
+      "chapter": null,
+      "original": "Perge tu .",
+      "translation": "Proceed , you ."
+    },
+    {
+      "id": "1.3.363",
+      "label": "Section 1.3.363",
+      "chapter": null,
+      "original": "Sacrilege .",
+      "translation": "Committer of sacrilege !"
+    },
+    {
+      "id": "1.3.363b",
+      "label": "Section 1.3.363b",
+      "chapter": null,
+      "original": "Fateor .",
+      "translation": "I own it ."
+    },
+    {
+      "id": "1.3.363c",
+      "label": "Section 1.3.363c",
+      "chapter": null,
+      "original": "Periure .",
+      "translation": "Perjurer !"
+    },
+    {
+      "id": "1.3.363d",
+      "label": "Section 1.3.363d",
+      "chapter": null,
+      "original": "Vetera vaticinamini .",
+      "translation": "You ’ re telling nothing new [*] ."
+    }
+  ],
+  "prevChunkSlug": "pseudolus-1bndy7-4",
+  "nextChunkSlug": "pseudolus-1bndy7-6"
+}

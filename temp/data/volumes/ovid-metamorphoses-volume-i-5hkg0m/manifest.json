@@ -1,0 +1,61 @@
+{
+  "loebNumber": 42,
+  "sortOrder": 42,
+  "slug": "ovid-metamorphoses-volume-i-5hkg0m",
+  "title": "Metamorphoses, Volume I",
+  "volumeLabel": "Metamorphoses, Volume I",
+  "authorDisplay": "Ovid",
+  "authors": [
+    "Ovid"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for Metamorphoses, Volume I. Metamorphoses, Volume I currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "metamorphoses-volume-i-1q6ucr",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "metamorphoses-volume-i-1q6ucr",
+      "title": "Metamorphoses, Volume I",
+      "status": "ready",
+      "sectionCount": 15,
+      "chunkSlug": "metamorphoses-volume-i-1q6ucr",
+      "chunks": [
+        {
+          "slug": "metamorphoses-volume-i-1q6ucr",
+          "label": "Metamorphoses, Volume I",
+          "partId": "metamorphoses-volume-i-1q6ucr",
+          "partTitle": "Metamorphoses, Volume I",
+          "sectionCount": 15,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "metamorphoses-volume-i-1q6ucr",
+      "label": "Metamorphoses, Volume I",
+      "partId": "metamorphoses-volume-i-1q6ucr",
+      "partTitle": "Metamorphoses, Volume I",
+      "sectionCount": 15,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "metamorphoses-volume-i-1q6ucr",
+      "partTitle": "Metamorphoses, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Metamorphoses",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0959.phi006.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Metamorphoses",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0959.phi006.perseus-eng3/"
+      }
+    }
+  ]
+}

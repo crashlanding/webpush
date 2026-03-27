@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-suppliant-women-electra-heracles-k10p1d",
+  "volumeTitle": "Suppliant Women. Electra. Heracles",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "electra-wuse-4",
+  "label": "Electra (Section 2.464 - Section 595)",
+  "partId": "electra-wuse",
+  "partTitle": "Electra",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἠλέκτρα",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Electra",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "2.464",
+      "label": "Section 2.464",
+      "chapter": null,
+      "original": "ἐν δὲ μέσῳ κατέλαμπε σάκει φαέθων",
+      "translation": "In the center of the shield the sun ’ s bright circle"
+    },
+    {
+      "id": "2.465",
+      "label": "Section 2.465",
+      "chapter": null,
+      "original": "κύκλος ἀελίοιο",
+      "translation": "was shining on winged horses , and the heavenly chorus of stars , Pleiades , Hyades , bringing defeat to the eyes of Hector ;"
+    },
+    {
+      "id": "2.470",
+      "label": "Section 2.470",
+      "chapter": null,
+      "original": "ἐπὶ δὲ χρυσοτύπῳ κράνει",
+      "translation": "and upon his gold-forged helmet were sphinxes , bearing in their talons prey from singing . On his breast-plate a lioness , breathing flame , was eager in flight , with her claws ,"
+    },
+    {
+      "id": "2.475",
+      "label": "Section 2.475",
+      "chapter": null,
+      "original": "ναῖον ὁρῶσα πῶλον .",
+      "translation": "seeing the colt of Pirene ."
+    },
+    {
+      "id": "476",
+      "label": "Section 476",
+      "chapter": null,
+      "original": "ἄορι δʼ ἐν φονίῳ τετραβάμονες ἵπποι ἔπαλ-",
+      "translation": "On the bloody hilt four-footed horses were prancing , while over their backs black dust rose up . But your adultery killed the lord of such mighty warriors ,"
+    },
+    {
+      "id": "480",
+      "label": "Section 480",
+      "chapter": null,
+      "original": "ἔκανεν ἀνδρῶν , Τυνδαρίς ,",
+      "translation": "evil-minded daughter of Tyndareus ! For this the gods of heaven will one day send you to death ;"
+    },
+    {
+      "id": "485",
+      "label": "Section 485",
+      "chapter": null,
+      "original": "ἔτʼ ἔτι φόνιον ὑπὸ δέραν",
+      "translation": "truly the day will come when I shall see , under your red throat , blood gushing forth at the sword ."
+    },
+    {
+      "id": "487",
+      "label": "Section 487",
+      "chapter": null,
+      "original": "ποῦ ποῦ νεᾶνις πότνιʼ ἐμὴ δέσποινά τε ,",
+      "translation": "Where , where is my young queen and mistress , Agamemnon ’ s child , whom I once brought up ? How steep is the approach to her house ,"
+    },
+    {
+      "id": "490",
+      "label": "Section 490",
+      "chapter": null,
+      "original": "ῥυσῷ γέροντι τῷδε προσβῆναι ποδί .",
+      "translation": "for a wrinkled old man to ascend with this foot ! Still , for these friends , I must drag along my back bent double and sinking knees . Oh , daughter — for I see you now before the house — I have come , bringing you from my own sheep"
+    },
+    {
+      "id": "495",
+      "label": "Section 495",
+      "chapter": null,
+      "original": "ποίμνης νεογνὸν θρέμμʼ ὑποσπάσας τόδε",
+      "translation": "this newborn nursling of the flock , having drawn it away from its mother , and garlands , and cheeses I have taken from the press , and this old treasure of Dionysus , furnished with fragrance , small , but sweet to pour a cup of it into a weaker drink ."
+    },
+    {
+      "id": "500",
+      "label": "Section 500",
+      "chapter": null,
+      "original": "ἴτω φέρων τις τοῖς ξένοις τάδʼ ἐς δόμους ·",
+      "translation": "Let some one carry these gifts into the house for the guests . I have moistened my eyes with tears , and wish to wipe them off on this shred of my robe ."
+    },
+    {
+      "id": "503",
+      "label": "Section 503",
+      "chapter": null,
+      "original": "τί δʼ , ὦ γεραιέ , διάβροχον τόδʼ ὄμμʼ ἔχεις ;",
+      "translation": "Why are your eyes wet , old man ? Have my troubles stirred your memory , after an interval of time ?"
+    },
+    {
+      "id": "505",
+      "label": "Section 505",
+      "chapter": null,
+      "original": "ἢ τὰς Ὀρέστου τλήμονας φυγὰς στένεις",
+      "translation": "Or are you groaning over the sad exile of Orestes , and over my father , whom you once held in your arms and brought up , in vain for you and for your friends ?"
+    },
+    {
+      "id": "508",
+      "label": "Section 508",
+      "chapter": null,
+      "original": "ἀνόνηθʼ · ὅμως δʼ οὖν τοῦτό γʼ οὐκ ἠνεσχόμην .",
+      "translation": "In vain ; but still I could not endure this : for I came to his grave , an addition to my journey ,"
+    },
+    {
+      "id": "510",
+      "label": "Section 510",
+      "chapter": null,
+      "original": "καὶ προσπεσὼν ἔκλαυσʼ ἐρημίας τυχών ,",
+      "translation": "and falling on it I wept for its desolation ; then I opened the wine-skin which I am bringing to the guests , and poured a libation , and set myrtle-sprigs round the tomb . On the alter itself I saw a black-fleeced ram as an offering , and there was blood , not long poured out ,"
+    },
+    {
+      "id": "515",
+      "label": "Section 515",
+      "chapter": null,
+      "original": "ξανθῆς τε χαίτης βοστρύχους κεκαρμένους .",
+      "translation": "and severed locks of yellow hair . And I wondered , child , who ever dared come to the the tomb ; for it was no Argive at least . But perhaps your brother has somehow come secretly and on his return has done honor to his father ’ s wretched grave ."
+    },
+    {
+      "id": "520",
+      "label": "Section 520",
+      "chapter": null,
+      "original": "σκέψαι δὲ χαίτην προστιθεῖσα σῇ κόμῃ ,",
+      "translation": "Go look to see if the color of the cut lock is the same as yours , putting it to your own hair ; it is usual for those who have the same paternal blood to have a close bodily resemblance in most points ."
+    },
+    {
+      "id": "524",
+      "label": "Section 524",
+      "chapter": null,
+      "original": "οὐκ ἄξιʼ ἀνδρός , ὦ γέρον , σοφοῦ λέγεις ,",
+      "translation": "Old man , your words are unworthy of a wise man ,"
+    },
+    {
+      "id": "525",
+      "label": "Section 525",
+      "chapter": null,
+      "original": "εἰ κρυπτὸν ἐς γῆν τήνδʼ ἂν Αἰγίσθου φόβῳ",
+      "translation": "if you think my own brave brother would come to this land secretly for fear of Aegisthus . Then , how will a lock of hair correspond , the one made to grow in the wrestling schools of a well-bred man , the other , a woman ’ s lock , by combing ? No , it is impossible ."
+    },
+    {
+      "id": "530",
+      "label": "Section 530",
+      "chapter": null,
+      "original": "πολλοῖς δʼ ἂν εὕροις βοστρύχους ὁμοπτέρους",
+      "translation": "But you could find in many people hair very similar , although they are not of the same blood , old man ."
+    },
+    {
+      "id": "532",
+      "label": "Section 532",
+      "chapter": null,
+      "original": "σὺ δʼ εἰς ἴχνος βᾶσʼ ἀρβύλης σκέψαι βάσιν",
+      "translation": "Then stand in the footprint and see if the tread of the boot will measure with your own foot , child ."
+    },
+    {
+      "id": "534",
+      "label": "Section 534",
+      "chapter": null,
+      "original": "πῶς δʼ ἂν γένοιτʼ ἂν ἐν κραταιλέῳ πέδῳ",
+      "translation": "How could there be an imprint of feet on a stony plot of ground ?"
+    },
+    {
+      "id": "535",
+      "label": "Section 535",
+      "chapter": null,
+      "original": "γαίας ποδῶν ἔκμακτρον ; εἰ δʼ ἔστιν τόδε ,",
+      "translation": "And if there is , the foot of brother and sister would not be the same in size , for the male conquers ."
+    },
+    {
+      "id": "538",
+      "label": "Section 538",
+      "chapter": null,
+      "original": "οὐκ ἔστιν , εἰ καὶ γῆν κασίγνητος μολών ,",
+      "translation": "There is not , even if your brother , coming to this land . . . by which you might know your loom ’ s weaving ,"
+    },
+    {
+      "id": "540",
+      "label": "Section 540",
+      "chapter": null,
+      "original": "ἐν ᾧ ποτʼ αὐτὸν ἐξέκλεψα μὴ θανεῖν ;",
+      "translation": "in which I once stole him away from death ?"
+    },
+    {
+      "id": "541",
+      "label": "Section 541",
+      "chapter": null,
+      "original": "οὐκ οἶσθʼ , Ὀρέστης ἡνίκʼ ἐκπίπτει χθονός ,",
+      "translation": "Don ’ t you know that I was still young when Orestes was driven out of the land ? And even if I had woven him a robe , how could he , a child then , have the same one now , unless his clothes grew together with his body ?"
+    },
+    {
+      "id": "545",
+      "label": "Section 545",
+      "chapter": null,
+      "original": "ἀλλʼ ἤ τις αὐτοῦ τάφον ἐποικτίρας ξένος",
+      "translation": "But either a stranger , taking pity on his grave . . ."
+    },
+    {
+      "id": "547",
+      "label": "Section 547",
+      "chapter": null,
+      "original": "οἱ δὲ ξένοι ποῦ ; βούλομαι γὰρ εἰσιδὼν",
+      "translation": "Where are the guests ? I want to see them and question them about your brother ."
+    },
+    {
+      "id": "549",
+      "label": "Section 549",
+      "chapter": null,
+      "original": "οἵδʼ ἐκ δόμων βαίνουσι λαιψηρῷ ποδί .",
+      "translation": "There they are , coming quickly out of the house ."
+    },
+    {
+      "id": "550",
+      "label": "Section 550",
+      "chapter": null,
+      "original": "ἀλλʼ εὐγενεῖς μέν , ἐν δὲ κιβδήλῳ τόδε ·",
+      "translation": "They are well-born , but that may ring false ; for many of the well-born are base . However ; I give the guests welcome ."
+    },
+    {
+      "id": "553",
+      "label": "Section 553",
+      "chapter": null,
+      "original": "χαῖρʼ , ὦ γεραιέ . — τοῦ ποτʼ , Ἠλέκτρα , τόδε",
+      "translation": "Welcome , old man ! To which of your friends , Electra , does this ancient remnant of a man belong ?"
+    },
+    {
+      "id": "555",
+      "label": "Section 555",
+      "chapter": null,
+      "original": "οὗτος τὸν ἁμὸν πατέρʼ ἔθρεψεν , ὦ ξένε .",
+      "translation": "This is the one who brought up my father , stranger ."
+    },
+    {
+      "id": "556",
+      "label": "Section 556",
+      "chapter": null,
+      "original": "τί φῄς ; ὅδʼ ὃς σὸν ἐξέκλεψε σύγγονον ;",
+      "translation": "What are you saying ? Is this the one who stole away your brother ?"
+    },
+    {
+      "id": "557",
+      "label": "Section 557",
+      "chapter": null,
+      "original": "ὅδʼ ἔσθʼ ὁ σώσας κεῖνον , εἴπερ ἔστʼ ἔτι .",
+      "translation": "This is the one who saved him , if indeed he is still alive ."
+    },
+    {
+      "id": "558",
+      "label": "Section 558",
+      "chapter": null,
+      "original": "ἔα ·",
+      "translation": "Oh ! Why does he look at me , as if he were examining the clear mark impressed on a silver coin ? Is he comparing me to someone ?"
+    },
+    {
+      "id": "560",
+      "label": "Section 560",
+      "chapter": null,
+      "original": "ἴσως Ὀρέστου σʼ ἥλιχʼ ἥδεται βλέπων .",
+      "translation": "Perhaps he is glad to see in you a companion of Orestes ."
+    },
+    {
+      "id": "561",
+      "label": "Section 561",
+      "chapter": null,
+      "original": "φίλου γε φωτός . τί δὲ κυκλεῖ πέριξ πόδα ;",
+      "translation": "A beloved man , yes . But why is he circling all around me ?"
+    },
+    {
+      "id": "562",
+      "label": "Section 562",
+      "chapter": null,
+      "original": "καὐτὴ τόδʼ εἰσορῶσα θαυμάζω , ξένε .",
+      "translation": "I too am amazed , looking at this , stranger ."
+    },
+    {
+      "id": "563",
+      "label": "Section 563",
+      "chapter": null,
+      "original": "ὦ πότνιʼ , εὔχου , θύγατερ Ἠλέκτρα , θεοῖς .",
+      "translation": "O mistress , daughter Electra , pray to the gods ."
+    },
+    {
+      "id": "564",
+      "label": "Section 564",
+      "chapter": null,
+      "original": "τί τῶν ἀπόντων ἢ τί τῶν ὄντων πέρι ;",
+      "translation": "For what thing , present or absent ?"
+    },
+    {
+      "id": "565",
+      "label": "Section 565",
+      "chapter": null,
+      "original": "λαβεῖν φίλον θησαυρόν , ὃν φαίνει θεός .",
+      "translation": "To have a beloved treasure , which the god is revealing ."
+    },
+    {
+      "id": "566",
+      "label": "Section 566",
+      "chapter": null,
+      "original": "ἰδού · καλῶ θεούς . ἢ τί δὴ λέγεις , γέρον ;",
+      "translation": "See : I call on the gods . Or whatever do you mean , old man ?"
+    },
+    {
+      "id": "567",
+      "label": "Section 567",
+      "chapter": null,
+      "original": "βλέψον νυν ἐς τόνδʼ , ὦ τέκνον , τὸν φίλτατον .",
+      "translation": "Look now at this man , my child , your dearest one ."
+    },
+    {
+      "id": "568",
+      "label": "Section 568",
+      "chapter": null,
+      "original": "πάλαι δέδορκα , μὴ σύ γʼ οὐκέτʼ εὖ φρονῇς .",
+      "translation": "I have been looking for a long time , to see whether you have lost your mind ."
+    },
+    {
+      "id": "569",
+      "label": "Section 569",
+      "chapter": null,
+      "original": "οὐκ εὖ φρονῶ ʼγὼ σὸν κασίγνητον βλέπων ;",
+      "translation": "Lost my mind , because I see your brother ?"
+    },
+    {
+      "id": "570",
+      "label": "Section 570",
+      "chapter": null,
+      "original": "πῶς εἶπας , ὦ γεραίʼ , ἀνέλπιστον λόγον ;",
+      "translation": "What do you mean , old man , by this word , unhoped for ?"
+    },
+    {
+      "id": "571",
+      "label": "Section 571",
+      "chapter": null,
+      "original": "ὁρᾶν Ὀρέστην τόνδε τὸν Ἀγαμέμνονος .",
+      "translation": "That I see Orestes here , Agamemnon ’ s son ."
+    },
+    {
+      "id": "572",
+      "label": "Section 572",
+      "chapter": null,
+      "original": "ποῖον χαρακτῆρʼ εἰσιδών , ᾧ πείσομαι ;",
+      "translation": "What mark do you see , by which I shall be persuaded ?"
+    },
+    {
+      "id": "573",
+      "label": "Section 573",
+      "chapter": null,
+      "original": "οὐλὴν παρʼ ὀφρύν , ἥν ποτʼ ἐν πατρὸς δόμοις",
+      "translation": "A scar along his brow , where he fell and drew blood one day in his father ’ s home when chasing a fawn with you ."
+    },
+    {
+      "id": "575",
+      "label": "Section 575",
+      "chapter": null,
+      "original": "πῶς φῄς ; ὁρῶ μὲν πτώματος τεκμήριον .",
+      "translation": "What are you saying ? I see the sign of the fall ."
+    },
+    {
+      "id": "576",
+      "label": "Section 576",
+      "chapter": null,
+      "original": "ἔπειτα μέλλεις προσπίτνειν τοῖς φιλτάτοις ;",
+      "translation": "Then do you hesitate to embrace your dearest one ?"
+    },
+    {
+      "id": "577",
+      "label": "Section 577",
+      "chapter": null,
+      "original": "ἀλλʼ οὐκέτʼ , ὦ γεραιέ · συμβόλοισι γὰρ",
+      "translation": "Not any longer , old man ; for my heart is persuaded by your tokens . O you who have appeared at last , I hold you , beyond all hope ."
+    },
+    {
+      "id": "579b",
+      "label": "Section 579b",
+      "chapter": null,
+      "original": "κἀξ ἐμοῦ γʼ ἔχῃ χρόνῳ .",
+      "translation": "And you are held by me at last ."
+    },
+    {
+      "id": "580",
+      "label": "Section 580",
+      "chapter": null,
+      "original": "οὐδέποτε δόξασα .",
+      "translation": "I never expected it ."
+    },
+    {
+      "id": "580b",
+      "label": "Section 580b",
+      "chapter": null,
+      "original": "οὐδʼ ἐγὼ γὰρ ἤλπισα .",
+      "translation": "Nor did I hope ."
+    },
+    {
+      "id": "581",
+      "label": "Section 581",
+      "chapter": null,
+      "original": "ἐκεῖνος εἶ σύ ;",
+      "translation": "Are you that one ?"
+    },
+    {
+      "id": "581b",
+      "label": "Section 581b",
+      "chapter": null,
+      "original": "σύμμαχός γέ σοι μόνος .",
+      "translation": "Yes , your one ally . If I draw back the cast of the net I am aiming for — but I have confidence ; or else we must no longer believe in gods , if wrong is to be victorious over right ."
+    },
+    {
+      "id": "585",
+      "label": "Section 585",
+      "chapter": null,
+      "original": "ἔμολες ἔμολες , ὤ , χρόνιος ἁμέρα ,",
+      "translation": "You have come , you have come , oh , long-delayed day , you have lighted up , you have made visible a beacon to the city , who in long ago exile went forth from his father ’ s house , unhappily wandering ."
+    },
+    {
+      "id": "590",
+      "label": "Section 590",
+      "chapter": null,
+      "original": "θεὸς αὖ θεὸς ἁμετέραν τις ἄγει",
+      "translation": "A god , now , a god brings our victory , my dear . Lift up your hands , lift up your words , send prayers to the gods for your brother with fortune , with fortune ,"
+    },
+    {
+      "id": "595",
+      "label": "Section 595",
+      "chapter": null,
+      "original": "κασίγνητον ἐμβατεῦσαι πόλιν .",
+      "translation": "to enter the city ."
+    }
+  ],
+  "prevChunkSlug": "electra-wuse-3",
+  "nextChunkSlug": "electra-wuse-5"
+}

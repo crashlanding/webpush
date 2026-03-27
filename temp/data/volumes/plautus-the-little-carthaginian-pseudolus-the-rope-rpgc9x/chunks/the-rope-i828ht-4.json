@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-little-carthaginian-pseudolus-the-rope-rpgc9x",
+  "volumeTitle": "The Little Carthaginian. Pseudolus. The Rope",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-rope-i828ht-4",
+  "label": "The Rope (Section 2.3.337b - Section 2.4.415)",
+  "partId": "the-rope-i828ht",
+  "partTitle": "The Rope",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Rudens",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Rudens, or The Fisherman's Rope",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "2.3.337b",
+      "label": "Section 2.3.337b",
+      "chapter": null,
+      "original": "Aétatem haud malam male .",
+      "translation": "In misery I pass a life not far advanced [*] ."
+    },
+    {
+      "id": "2.3.337c",
+      "label": "Section 2.3.337c",
+      "chapter": null,
+      "original": "Melius ominare .",
+      "translation": "Do give some better omen ."
+    },
+    {
+      "id": "2.3.338",
+      "label": "Section 2.3.338",
+      "chapter": null,
+      "original": "Verum omnes sapientes decet conferre et fabulari .",
+      "translation": "Still it behoves all prudent persons to confer and talk together . But , prithee , where ’ s your master , Plesidippus ?"
+    },
+    {
+      "id": "2.3.339b",
+      "label": "Section 2.3.339b",
+      "chapter": null,
+      "original": "Heia vero ,",
+      "translation": "Marry , well said , indeed ; as if he wasn ’ t within there ."
+    },
+    {
+      "id": "2.3.340b",
+      "label": "Section 2.3.340b",
+      "chapter": null,
+      "original": "Neque pol est neque huc quidem ullus venit .",
+      "translation": "By my troth , he isn ’ t , nor , in fact , has he come here at all ."
+    },
+    {
+      "id": "2.3.341",
+      "label": "Section 2.3.341",
+      "chapter": null,
+      "original": "Non venit ?",
+      "translation": "He hasn ’ t come ?"
+    },
+    {
+      "id": "2.3.341b",
+      "label": "Section 2.3.341b",
+      "chapter": null,
+      "original": "Vera praedicas .",
+      "translation": "You say the truth ."
+    },
+    {
+      "id": "2.3.341c",
+      "label": "Section 2.3.341c",
+      "chapter": null,
+      "original": "Non est meum , Ampelisca .",
+      "translation": "That ’ s not my way , Ampelisca . But how nearly is the breakfast got ready ?"
+    },
+    {
+      "id": "2.3.342b",
+      "label": "Section 2.3.342b",
+      "chapter": null,
+      "original": "Quod prandium , obsecro te ?",
+      "translation": "What breakfast , I beg of you ?"
+    },
+    {
+      "id": "2.3.343",
+      "label": "Section 2.3.343",
+      "chapter": null,
+      "original": "Nempe rém divinam facitis hic .",
+      "translation": "The sacrifice , I mean , that you are performing here ."
+    },
+    {
+      "id": "2.3.343b",
+      "label": "Section 2.3.343b",
+      "chapter": null,
+      "original": "Quid somnias , amabo ?",
+      "translation": "Prithee , what is it you are dreaming about ?"
+    },
+    {
+      "id": "2.3.344",
+      "label": "Section 2.3.344",
+      "chapter": null,
+      "original": "Certe huc Labrax ad prandium vocavit Plesidippum",
+      "translation": "For certain , Labrax invited Plesidippus hither to a breakfast , your master , my master ."
+    },
+    {
+      "id": "2.3.345b",
+      "label": "Section 2.3.345b",
+      "chapter": null,
+      "original": "Pol haud miranda facta dicis :",
+      "translation": "By my troth , you ’ re telling of no wondrous facts : if he has deceived Gods and men , he has only acted after the fashion of Procurers ."
+    },
+    {
+      "id": "2.3.347",
+      "label": "Section 2.3.347",
+      "chapter": null,
+      "original": "Non rem divinam facitis hic vos neque erus ?",
+      "translation": "Then neither yourselves nor my master are here performing a sacrifice ."
+    },
+    {
+      "id": "2.3.347b",
+      "label": "Section 2.3.347b",
+      "chapter": null,
+      "original": "Hariolare .",
+      "translation": "You are a wizard ."
+    },
+    {
+      "id": "2.3.348",
+      "label": "Section 2.3.348",
+      "chapter": null,
+      "original": "Quid tu agis hic igitur ?",
+      "translation": "What are you doing then ?"
+    },
+    {
+      "id": "2.3.348b",
+      "label": "Section 2.3.348b",
+      "chapter": null,
+      "original": "Ex malis multis metuque summo",
+      "translation": "The Priestess of Venus has received here into her abode both myself and Palaestra , after many mishaps and dreadful alarm , and from being in danger of our lives , destitute of aid and of resources ."
+    },
+    {
+      "id": "2.3.351",
+      "label": "Section 2.3.351",
+      "chapter": null,
+      "original": "An hic Palaestrast , obsecro , erí mei amica ?",
+      "translation": "Prithee , is Palaestra here , the beloved of my master ?"
+    },
+    {
+      "id": "2.3.351b",
+      "label": "Section 2.3.351b",
+      "chapter": null,
+      "original": "Certo .",
+      "translation": "Assuredly ."
+    },
+    {
+      "id": "2.3.352",
+      "label": "Section 2.3.352",
+      "chapter": null,
+      "original": "Inest lepos in nuntio tuo mágnus , mea Ampelisca .",
+      "translation": "Great joyousness is there in your news , my dear Ampelisca . But I greatly long to know what was this danger of yours ."
+    },
+    {
+      "id": "2.3.354",
+      "label": "Section 2.3.354",
+      "chapter": null,
+      "original": "Confracta est , mi Trachalio , hac nocte navis nobis .",
+      "translation": "Last night our ship was wrecked , my dear Trachalio ."
+    },
+    {
+      "id": "2.3.355",
+      "label": "Section 2.3.355",
+      "chapter": null,
+      "original": "Quid navis ? quae istaec fabulast ?",
+      "translation": "How , ship ? What story ’ s this ?"
+    },
+    {
+      "id": "2.3.355b",
+      "label": "Section 2.3.355b",
+      "chapter": null,
+      "original": "Non audivisti , amabo ,",
+      "translation": "Prithee , have you not heard in what way the Procurer intended secretly to carry us away hence to Sicily , and how , whatever there was at home , he placed on board ship ? That has all gone to the bottom now ."
+    },
+    {
+      "id": "2.3.358b",
+      "label": "Section 2.3.358b",
+      "chapter": null,
+      "original": "Oh , Neptune lepide , salve ,",
+      "translation": "O clever Neptune , hail to thee ! Surely , no dicer is more skilful than thyself . Decidedly"
+    },
+    {
+      "id": "2.3.360",
+      "label": "Section 2.3.360",
+      "chapter": null,
+      "original": "nimis lépide iecisti bolum : periurum perdidisti .",
+      "translation": "a right pleasant throw [*] hast thou made ; thou didst break a-villain . But where now is the Procurer Labrax ?"
+    },
+    {
+      "id": "2.3.361b",
+      "label": "Section 2.3.361b",
+      "chapter": null,
+      "original": "Periit potando , opinor .",
+      "translation": "Perished through drinking , I suppose ; Neptune last night invited him to deep potations ."
+    },
+    {
+      "id": "2.3.363",
+      "label": "Section 2.3.363",
+      "chapter": null,
+      "original": "Credo hercle anancaeo datum quod biberet . ut ego amo te ,",
+      "translation": "By my troth , I fancy it was given him to drink by way of cup of necessity [*] . How much I do love you , my dear Ampelisca ; how pleasing you are ; what honied words you do utter ."
+    },
+    {
+      "id": "2.3.365",
+      "label": "Section 2.3.365",
+      "chapter": null,
+      "original": "sed tu et Palaestra quomodo salvae estis ?",
+      "translation": "But you and Palaestra , in what way were you saved ?"
+    },
+    {
+      "id": "2.3.365b",
+      "label": "Section 2.3.365b",
+      "chapter": null,
+      "original": "Scibis faxo .",
+      "translation": "I ’ ll let you know . Both in affright , we leapt from the ship into a boat , because we saw that the ship was being borne upon a rock ; in haste , I unloosed the rope , while they were in dismay . The storm separated us from them with the boat in a direction to the right . And so , tossed about by winds and waves ,"
+    },
+    {
+      "id": "2.3.370",
+      "label": "Section 2.3.370",
+      "chapter": null,
+      "original": "iactatae exemplis plurimis miserae perpetuam noctem ;",
+      "translation": "in a multitude of ways , we , wretched creatures , during the livelong night ⋯ half dead , the wind this day has scarce borne us to the shore ."
+    },
+    {
+      "id": "2.3.372",
+      "label": "Section 2.3.372",
+      "chapter": null,
+      "original": "Novi , Neptunus ita solet , quamvis fastidiosus",
+      "translation": "I understand ; thus is Neptune wont to do ; he is a very dainty Aedile [*] ; if any wares are bad , over he throws them all ."
+    },
+    {
+      "id": "2.3.374_375",
+      "label": "Section 2.3.374_375",
+      "chapter": null,
+      "original": "Vae capiti atque aetati tuae .",
+      "translation": "Woe to your head and life !"
+    },
+    {
+      "id": "2.3.374_375b",
+      "label": "Section 2.3.374_375b",
+      "chapter": null,
+      "original": "Tuo , mea Ampelisca .",
+      "translation": "To your own , my dear Ampelisca . I was sure that the Procurer would do that which he has done ; I often said so . It were better I should let my hair grow [*] , and set up for a soothsayer ."
+    },
+    {
+      "id": "2.3.378",
+      "label": "Section 2.3.378",
+      "chapter": null,
+      "original": "Cavistis ergo tu atque erus ne abiret , cum scibatis .",
+      "translation": "Did you not take care then , you and your master , that he shouldn ’ t go away , when you knew this ?"
+    },
+    {
+      "id": "2.3.379",
+      "label": "Section 2.3.379",
+      "chapter": null,
+      "original": "Quid faceret ?",
+      "translation": "What could he do ?"
+    },
+    {
+      "id": "2.3.379b",
+      "label": "Section 2.3.379b",
+      "chapter": null,
+      "original": "Sí amabat , rogas , quid faceret ? adservaret",
+      "translation": "If he was in love , do you ask what he could do ?"
+    },
+    {
+      "id": "2.3.380",
+      "label": "Section 2.3.380",
+      "chapter": null,
+      "original": "dies nóctesque , in custodia esset semper . verum ecastor",
+      "translation": "Both night and day he should have kept watch ; he should have been always on his guard . But , by my troth , he has done like many others ; thus finely has Plesidippus taken care of her ."
+    },
+    {
+      "id": "2.3.382",
+      "label": "Section 2.3.382",
+      "chapter": null,
+      "original": "Cur tu istuc dicis ?",
+      "translation": "For what reason do you say that ?"
+    },
+    {
+      "id": "2.3.382b",
+      "label": "Section 2.3.382b",
+      "chapter": null,
+      "original": "Res palam est .",
+      "translation": "The thing is evident ."
+    },
+    {
+      "id": "2.3.382c",
+      "label": "Section 2.3.382c",
+      "chapter": null,
+      "original": "Scin tu ? etiam qui it lavatum",
+      "translation": "Don ’ t you know this ? Even he who goes to the bath to bathe , while there he carefully keeps an eye upon his garments , still they are stolen ; inasmuch as some one of those that he is watching is a rogue ;"
+    },
+    {
+      "id": "2.3.385",
+      "label": "Section 2.3.385",
+      "chapter": null,
+      "original": "fur facile qui observat videt : custos qui fur sit nescit .",
+      "translation": "the thief easily marks him for whom he ’ s upon the watch ; the keeper knows not which one is the thief . But bring me to her ; where is she ?"
+    },
+    {
+      "id": "2.3.386b",
+      "label": "Section 2.3.386b",
+      "chapter": null,
+      "original": "I sane in Veneris fanum huc intro ,",
+      "translation": "Well then , go here into the Temple of Venus ; you ’ ll find her sitting there , and in tears ."
+    },
+    {
+      "id": "2.3.387b",
+      "label": "Section 2.3.387b",
+      "chapter": null,
+      "original": "Vt iam istuc mihi molestumst .",
+      "translation": "How disagreable is that to me already . But why is she weeping ?"
+    },
+    {
+      "id": "2.3.388b",
+      "label": "Section 2.3.388b",
+      "chapter": null,
+      "original": "Ego dicam tibi : hoc sése excruciat animi ,",
+      "translation": "I ’ ll tell you ; she ’ s afflicting herself in mind for this ; because the Procurer took away a casket from her which she had ,"
+    },
+    {
+      "id": "2.3.390",
+      "label": "Section 2.3.390",
+      "chapter": null,
+      "original": "qui suos parentis noscere possét : eam veretur",
+      "translation": "and in which she kept that by which she might be enabled to recognize her parents ; she fears that this has been lost ."
+    },
+    {
+      "id": "2.3.391b",
+      "label": "Section 2.3.391b",
+      "chapter": null,
+      "original": "Vbinam ea fuit cistellula ?",
+      "translation": "Where was that little casket , pray ?"
+    },
+    {
+      "id": "2.3.391c",
+      "label": "Section 2.3.391c",
+      "chapter": null,
+      "original": "Ibidem in navi .",
+      "translation": "There , on board the ship ; he himself locked it up in his wallet , that there mightn ’ t be the means by which she might recognize her parents ."
+    },
+    {
+      "id": "2.3.393b",
+      "label": "Section 2.3.393b",
+      "chapter": null,
+      "original": "O facinus impudicum ,",
+      "translation": "O scandalous deed ! to require her to be a slave , who ought to be a free woman ."
+    },
+    {
+      "id": "2.3.395",
+      "label": "Section 2.3.395",
+      "chapter": null,
+      "original": "Nunc eam cum navi scilicet abiisse pessum in altum .",
+      "translation": "Therefore she now laments that it has gone to the bottom along with the ship . There , too , was all the gold and silver of the Procurer ."
+    },
+    {
+      "id": "2.3.397",
+      "label": "Section 2.3.397",
+      "chapter": null,
+      "original": "Credo aliquem immersisse atque eum excepisse .",
+      "translation": "Some one , I trust , has dived and brought it up ."
+    },
+    {
+      "id": "2.3.397b",
+      "label": "Section 2.3.397b",
+      "chapter": null,
+      "original": "Id misera maestast ,",
+      "translation": "For this reason is she sad and disconsolate , that she has met with the loss of them ."
+    },
+    {
+      "id": "2.3.398b",
+      "label": "Section 2.3.398b",
+      "chapter": null,
+      "original": "Iam istoc magis usus factost ,",
+      "translation": "Then have I the greater occasion to do this , to go in and console her , that she mayn ’ t thus distress herself in mind ."
+    },
+    {
+      "id": "2.3.400",
+      "label": "Section 2.3.400",
+      "chapter": null,
+      "original": "nam multa praeter spem scio multis bona evenisse .",
+      "translation": "For I know that many a lucky thing has happened to many a one beyond their hopes ."
+    },
+    {
+      "id": "2.3.401",
+      "label": "Section 2.3.401",
+      "chapter": null,
+      "original": "At ego étiam , qui speraverint spem decepisse multos .",
+      "translation": "But I know too that hope has deceived many who have hoped ."
+    },
+    {
+      "id": "2.3.402",
+      "label": "Section 2.3.402",
+      "chapter": null,
+      "original": "Ergo animus aequos optimum est aerumnae condimentum .",
+      "translation": "Therefore a patient mind is the best remedy for affliction . I ’ ll go in , unless you wish for anything ."
+    },
+    {
+      "id": "2.3.403b",
+      "label": "Section 2.3.403b",
+      "chapter": null,
+      "original": "Eas . ego quod mihi imperavit",
+      "translation": "Go . ( To herself .) I ’ ll do that which the Priestess requested me , and I ’ ll ask for some water here at the neighbour ’ s ;"
+    },
+    {
+      "id": "2.3.405",
+      "label": "Section 2.3.405",
+      "chapter": null,
+      "original": "nam extemplo , si verbis suis peterem , daturos dixit .",
+      "translation": "for she said that if I asked for it in her name , they would give it directly . And I do think that I never saw a more worthy old lady , one to whom I should think that it is more befitting for Gods and men to show kindness . How courteously , how heartily , how kindly , how , without the least difficulty , she received us into her home , trembling , in want , drenched , shipwrecked , half dead ;"
+    },
+    {
+      "id": "2.3.410",
+      "label": "Section 2.3.410",
+      "chapter": null,
+      "original": "accepit ad sese , haud secus quam si ex se simus natae ;",
+      "translation": "not otherwise , in fact , than if we had been her own offspring . How kindly did she herself , just now , tucking up her garments , make the water warm for us to bathe . Now , that I mayn ’ t keep her waiting , I ’ ll fetch some water from the place where she requested me . ( Knocking at the door of DAEMONES .) Hallo , there , is there any one in the cottage ? is any one going to open this door ? Will any one come out ?"
+    },
+    {
+      "id": "2.4.414",
+      "label": "Section 2.4.414",
+      "chapter": null,
+      "original": "Quís est qui nostris tám proterve fóribus facit iniúriam ?",
+      "translation": "Who is it so furiously making an attack upon our door ?"
+    },
+    {
+      "id": "2.4.415",
+      "label": "Section 2.4.415",
+      "chapter": null,
+      "original": "Égo sum .",
+      "translation": "It ’ s I ."
+    }
+  ],
+  "prevChunkSlug": "the-rope-i828ht-3",
+  "nextChunkSlug": "the-rope-i828ht-5"
+}

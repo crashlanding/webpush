@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-casina-the-casket-comedy-curculio-epidicus-the-two-menaechmuses-10u46k",
+  "volumeTitle": "Casina. The Casket Comedy. Curculio. Epidicus. The Two Menaechmuses",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "casina-x9ge13-3",
+  "label": "Casina (Section 2.3.255 - Section 2.5.324b)",
+  "partId": "casina-x9ge13",
+  "partTitle": "Casina",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Casina",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi006.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Casina, or The Stratagem Defeated",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi006.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "2.3.255",
+      "label": "Section 2.3.255",
+      "chapter": null,
+      "original": "servo frugi atque ubi illi bene sit ligno , aqua calida , cibo ,",
+      "translation": "an honest servant , where she ’ ll be well off , in wood , warm water , food , and clothing , and where she may properly bring up the children which she may have , in preference to that rascally servant of an armour-bearer [*] , a good-for-nothing and dishonest , a fellow that hasn ’ t this day a leaden dump of money his own ."
+    },
+    {
+      "id": "2.3.259",
+      "label": "Section 2.3.259",
+      "chapter": null,
+      "original": "Mirum ecastor , te senecta aétate officium tuom",
+      "translation": "Upon my faith , I am surprised that in your old age you"
+    },
+    {
+      "id": "2.3.260",
+      "label": "Section 2.3.260",
+      "chapter": null,
+      "original": "non meminisse .",
+      "translation": "do not remember your duty ."
+    },
+    {
+      "id": "2.3.260b",
+      "label": "Section 2.3.260b",
+      "chapter": null,
+      "original": "Quid iam ?",
+      "translation": "How so ?"
+    },
+    {
+      "id": "2.3.260c",
+      "label": "Section 2.3.260c",
+      "chapter": null,
+      "original": "Quia , si facias recte aut commode ,",
+      "translation": "Because if you were to act rightly or becomingly , you ’ d let me manage the maid-servants , which is my own province ."
+    },
+    {
+      "id": "2.3.262",
+      "label": "Section 2.3.262",
+      "chapter": null,
+      "original": "Qui , malum , homini scutigerulo dáre lubet ?",
+      "translation": "Why the plague do you wish to give her to a fellow that carries a shield ?"
+    },
+    {
+      "id": "2.3.262b",
+      "label": "Section 2.3.262b",
+      "chapter": null,
+      "original": "Quía enim filio",
+      "translation": "Because it ’ s our duty to gratify our only son ."
+    },
+    {
+      "id": "2.3.263b",
+      "label": "Section 2.3.263b",
+      "chapter": null,
+      "original": "At quamquam unicust ,",
+      "translation": "But although he is an only one , not a bit the more is he my only son than I am his only father ."
+    },
+    {
+      "id": "2.3.265",
+      "label": "Section 2.3.265",
+      "chapter": null,
+      "original": "illum mi aequiust quam me illi quae volo concedere .",
+      "translation": "It ’ s more becoming for him to conform to me , than for me to him ."
+    },
+    {
+      "id": "2.3.266",
+      "label": "Section 2.3.266",
+      "chapter": null,
+      "original": "Tu ecastor tibi , homo , malam rem quaeris .",
+      "translation": "By my troth , sir , you ’ re providing for yourself a serious piece of trouble ."
+    },
+    {
+      "id": "2.3.266b",
+      "label": "Section 2.3.266b",
+      "chapter": null,
+      "original": "Subolet , sentio .",
+      "translation": "She suspects it , I find that . ( To his wife .) What , I , do you mean ?"
+    },
+    {
+      "id": "2.3.267b",
+      "label": "Section 2.3.267b",
+      "chapter": null,
+      "original": "Tu . nam quid friguttis ? quid istuc tam cupide cupis ?",
+      "translation": "You ; but why do . you stammer so ? Why do you wish for this with such anxiety ?"
+    },
+    {
+      "id": "2.3.268",
+      "label": "Section 2.3.268",
+      "chapter": null,
+      "original": "Vt enim frugi servo detur potius quam servo improbo .",
+      "translation": "Why , that she may rather be given to a servant that ’ s honest , than to a servant that ’ s dishonest ."
+    },
+    {
+      "id": "2.3.269",
+      "label": "Section 2.3.269",
+      "chapter": null,
+      "original": "Quid si ego impetro atque exoro a vilico , causa mea",
+      "translation": "What if I prevail upon , and obtain of the bailiff , that for my sake"
+    },
+    {
+      "id": "2.3.270",
+      "label": "Section 2.3.270",
+      "chapter": null,
+      "original": "ut eam illi permittat ?",
+      "translation": "he ’ ll give her up to the other one ?"
+    },
+    {
+      "id": "2.3.270b",
+      "label": "Section 2.3.270b",
+      "chapter": null,
+      "original": "Quid si ego autem ab armigero impetro ,",
+      "translation": "But what if I prevail upon the armour-bearer to give her up to the other one ? And I think that I can prevail upon him in this ."
+    },
+    {
+      "id": "2.3.272",
+      "label": "Section 2.3.272",
+      "chapter": null,
+      "original": "Convenit . vin tuis Chalinum huc evocem verbis foras ?",
+      "translation": "That ’ s agreed upon . Should you like that , in your name , I should call Chalinus hither out of doors ? Do you beg of him , and I ’ ll beg of the bailiff ."
+    },
+    {
+      "id": "2.3.273b",
+      "label": "Section 2.3.273b",
+      "chapter": null,
+      "original": "Sane volo .",
+      "translation": "I ’ m quite willing ."
+    },
+    {
+      "id": "2.3.274",
+      "label": "Section 2.3.274",
+      "chapter": null,
+      "original": "Iam hic erit . nunc experiemur , nostrum uter sit blandior .—",
+      "translation": "He ’ ll be here just now . Now we ’ ll make trial which of us two is the most persuasive . ( She goes into the house .)"
+    },
+    {
+      "id": "2.3.275",
+      "label": "Section 2.3.275",
+      "chapter": null,
+      "original": "Hercules dique istam perdant , quod nunc liceat dicere .",
+      "translation": "May Hercules and the Gods confound her !— a thing that now I ’ m at liberty to say . I ’ m wretchedly distracted with love ; but she , as though on purpose , thwarts me . My wife has some suspicion now of this that I ’ m planning ; for that reason is she purposely lending her assistance to the armour-bearer ."
+    },
+    {
+      "id": "2.4.279",
+      "label": "Section 2.4.279",
+      "chapter": null,
+      "original": "qui illum di omnes deaeque perdant .",
+      "translation": "May all the Gods and Goddesses confound him !"
+    },
+    {
+      "id": "2.4.279b",
+      "label": "Section 2.4.279b",
+      "chapter": null,
+      "original": "Te uxor aiebat tua",
+      "translation": "Your wife said that you were calling me ."
+    },
+    {
+      "id": "2.4.280b",
+      "label": "Section 2.4.280b",
+      "chapter": null,
+      "original": "Ego énim vocari iussi .",
+      "translation": "Why yes , I did order you to be sent for ."
+    },
+    {
+      "id": "2.4.280c",
+      "label": "Section 2.4.280c",
+      "chapter": null,
+      "original": "Eloquere quid velis .",
+      "translation": "Tell me what you want ."
+    },
+    {
+      "id": "2.4.281",
+      "label": "Section 2.4.281",
+      "chapter": null,
+      "original": "Primum ego te porrectiore fronte volo mecum loqui ;",
+      "translation": "In the first place , I want you to speak to me with a more cheerful countenance ."
+    },
+    {
+      "id": "2.4.282",
+      "label": "Section 2.4.282",
+      "chapter": null,
+      "original": "stultitia est ei te esse tristem , cuius potestas plus potest .",
+      "translation": "It would be folly for me to be morose toward you whose rule is the strongest ."
+    },
+    {
+      "id": "2.4.283",
+      "label": "Section 2.4.283",
+      "chapter": null,
+      "original": "probum te et frugi hominem iam pridem esse arbitror .",
+      "translation": "Indeed ! I consider you to be an honest fellow ."
+    },
+    {
+      "id": "2.4.283b",
+      "label": "Section 2.4.283b",
+      "chapter": null,
+      "original": "Intellego .",
+      "translation": "So I find ."
+    },
+    {
+      "id": "2.4.284_285",
+      "label": "Section 2.4.284_285",
+      "chapter": null,
+      "original": "quin , si ita arbitrare , emittis me manu ?",
+      "translation": "But if you think so , why don ’ t you give me my freedom ?"
+    },
+    {
+      "id": "2.4.287",
+      "label": "Section 2.4.287",
+      "chapter": null,
+      "original": "Quid velis modo id velim me scire .",
+      "translation": "What you wish , I only wish myself to be acquainted with it ."
+    },
+    {
+      "id": "2.4.287b",
+      "label": "Section 2.4.287b",
+      "chapter": null,
+      "original": "Ausculta , ego eloquar .",
+      "translation": "Listen then ; I ’ ll tell you . I ’ ve promised to give Casina as a wife to our bailiff ."
+    },
+    {
+      "id": "2.4.289",
+      "label": "Section 2.4.289",
+      "chapter": null,
+      "original": "At tua uxor filiusque promiserunt mihi .",
+      "translation": "But your wife and your son have promised her to me ."
+    },
+    {
+      "id": "2.4.289b",
+      "label": "Section 2.4.289b",
+      "chapter": null,
+      "original": "Scio .",
+      "translation": "I know it ;"
+    },
+    {
+      "id": "2.4.290",
+      "label": "Section 2.4.290",
+      "chapter": null,
+      "original": "sed utrum nunc tu caelibem te ésse mavis liberum",
+      "translation": "but whether now would you prefer yourself to be single and a free man , or , as a married man , to pass your lives , yourself and your children , in slavery ? This choice is your own : whichever condition of these two you prefer , take it ."
+    },
+    {
+      "id": "2.4.293",
+      "label": "Section 2.4.293",
+      "chapter": null,
+      "original": "Liber si sim , meo periclo vivam ; nunc vivo tuo .",
+      "translation": "If I am free , I live at my own cost ; at present I live at yours . As to Casina , I ’ m resolved to give way to no born man ."
+    },
+    {
+      "id": "2.4.295",
+      "label": "Section 2.4.295",
+      "chapter": null,
+      "original": "Intro abi atque actutum uxorem huc evoca ante aedis cito ,",
+      "translation": "Go in-doors , and at once be quick and call my wife here , out of doors ; and bring hither together with you an urn [*] , with some water , and the lots ."
+    },
+    {
+      "id": "2.4.296b",
+      "label": "Section 2.4.296b",
+      "chapter": null,
+      "original": "Satis placet .",
+      "translation": "I ’ m quite agreable ."
+    },
+    {
+      "id": "2.4.297",
+      "label": "Section 2.4.297",
+      "chapter": null,
+      "original": "Ego pol istam iam aliquovorsum tragulam decidero .",
+      "translation": "I ’ faith , in some way or other I ’ ll now ward off this weapon of yours ; for if , as it is , I shall not be able to prevail by persuasion , at least I ’ ll try it by lot . There I shall take vengeance upon you and your abettors ."
+    },
+    {
+      "id": "2.4.299b",
+      "label": "Section 2.4.299b",
+      "chapter": null,
+      "original": "Attamen",
+      "translation": "Still , for all that the lot will fall to me —"
+    },
+    {
+      "id": "2.4.300b",
+      "label": "Section 2.4.300b",
+      "chapter": null,
+      "original": "Vt quidem pol pereas cruciatu malo .",
+      "translation": "Aye , faith , for you to go to perdition with direful torments ."
+    },
+    {
+      "id": "2.4.301",
+      "label": "Section 2.4.301",
+      "chapter": null,
+      "original": "Mi illa nubet , machinare quid lubet quo vis modo .",
+      "translation": "She shall marry me , contrive what you will , in any way you please ."
+    },
+    {
+      "id": "2.4.302",
+      "label": "Section 2.4.302",
+      "chapter": null,
+      "original": "Abin hinc ab oculis ?",
+      "translation": "Won ’ t you away hence from my sight ?"
+    },
+    {
+      "id": "2.4.302b",
+      "label": "Section 2.4.302b",
+      "chapter": null,
+      "original": "Invitus me vides , vivam tamen .—",
+      "translation": "Unwillingly you look upon me , still I shall live on . ( Goes into the house .)"
+    },
+    {
+      "id": "2.4.303",
+      "label": "Section 2.4.303",
+      "chapter": null,
+      "original": "Sumne ego miser homo ? satin omnes res sunt advorsae mihi ?",
+      "translation": "Am I not a wretched man ? Don ’ t all things go quite contrary with me ? I ’ m now afraid that my wife will prevail upon Olympio not to"
+    },
+    {
+      "id": "2.4.305",
+      "label": "Section 2.4.305",
+      "chapter": null,
+      "original": "ne Casinam ducat : si id factum est , ecce me nullum senem ;",
+      "translation": "marry Casina . If that ’ s done , why look , it ’ s all over with me in my old age ! If she does not prevail , there is still some tiny hope in the lots . But if the lots fail me , I ’ ll make a pillow of a sword , and lay me down upon it . But see , most opportunely Olympio ’ s coming out of doors ."
+    },
+    {
+      "id": "2.5.309",
+      "label": "Section 2.5.309",
+      "chapter": null,
+      "original": "Vna edepol opera in furnum calidum condito",
+      "translation": "By my faith , all in an instant shut me up in a hot furnace ,"
+    },
+    {
+      "id": "2.5.310",
+      "label": "Section 2.5.310",
+      "chapter": null,
+      "original": "atque ibi torreto me pro pane rubido ,",
+      "translation": "and parch me there for a hard-baked biscuit [*] , good mistress , before you shall gain that point of me which you desire ."
+    },
+    {
+      "id": "2.5.312",
+      "label": "Section 2.5.312",
+      "chapter": null,
+      "original": "Salvos sum , salva spes est , ut verba audio .",
+      "translation": "I ’ m all right . My hope ’ s realized , according as I hear his words ."
+    },
+    {
+      "id": "2.5.313",
+      "label": "Section 2.5.313",
+      "chapter": null,
+      "original": "Quid tu me tua , era , libertate territas ?",
+      "translation": "But why do you frighten me about liberty ? Why , even though you should oppose it , and your son as well ,"
+    },
+    {
+      "id": "2.5.315",
+      "label": "Section 2.5.315",
+      "chapter": null,
+      "original": "vobis invitis atque amborum ingratiis",
+      "translation": "against your wills and in spite of you both , for a single penny [*] I can become free ."
+    },
+    {
+      "id": "2.5.317",
+      "label": "Section 2.5.317",
+      "chapter": null,
+      "original": "Quid istúc est ? quicum litigas , Olympio ?",
+      "translation": "What ’ s this ? Who are you wrangling with , Olympio ?"
+    },
+    {
+      "id": "2.5.318",
+      "label": "Section 2.5.318",
+      "chapter": null,
+      "original": "Cum eadem qua tu semper .",
+      "translation": "With the same person that you always are ."
+    },
+    {
+      "id": "2.5.318b",
+      "label": "Section 2.5.318b",
+      "chapter": null,
+      "original": "Cum uxoré mea ?",
+      "translation": "What , with my wife ?"
+    },
+    {
+      "id": "2.5.319",
+      "label": "Section 2.5.319",
+      "chapter": null,
+      "original": "Quam tu mi uxorem ? quasi venator tu quidem es :",
+      "translation": "What wife are you speaking of to me ? Really you are a hunter , as it were :"
+    },
+    {
+      "id": "2.5.320",
+      "label": "Section 2.5.320",
+      "chapter": null,
+      "original": "dies átque noctes cum cane aetatem exigis .",
+      "translation": "your nights and days you pass with a female cur [*] ."
+    },
+    {
+      "id": "2.5.321",
+      "label": "Section 2.5.321",
+      "chapter": null,
+      "original": "Quid agit , quid loquitur tecum ?",
+      "translation": "What does she say ? What ’ s she talking to you about ?"
+    },
+    {
+      "id": "2.5.321b",
+      "label": "Section 2.5.321b",
+      "chapter": null,
+      "original": "Orat , obsecrat ,",
+      "translation": "She ’ s begging and entreating of me that I won ’ t be taking Casina as my wife ."
+    },
+    {
+      "id": "2.5.322b",
+      "label": "Section 2.5.322b",
+      "chapter": null,
+      "original": "Quid tu postea ?",
+      "translation": "What did you say after that ?"
+    },
+    {
+      "id": "2.5.323",
+      "label": "Section 2.5.323",
+      "chapter": null,
+      "original": "Negavi enim ipsi me concessurum Iovi ,",
+      "translation": "Why , I declared that I wouldn ’ t give way to Jupiter himself , if he were to entreat me ."
+    },
+    {
+      "id": "2.5.324b",
+      "label": "Section 2.5.324b",
+      "chapter": null,
+      "original": "Di te servassint mihi .",
+      "translation": "May the Gods preserve you for me !"
+    }
+  ],
+  "prevChunkSlug": "casina-x9ge13-2",
+  "nextChunkSlug": "casina-x9ge13-4"
+}

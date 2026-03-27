@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-little-carthaginian-pseudolus-the-rope-rpgc9x",
+  "volumeTitle": "The Little Carthaginian. Pseudolus. The Rope",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-little-carthaginian-12yp3b-13",
+  "label": "The Little Carthaginian (Section 5.2.998b - Section 5.2.1065)",
+  "partId": "the-little-carthaginian-12yp3b",
+  "partTitle": "The Little Carthaginian",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Poenulus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Poenulus, or The Young Carthaginian",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "5.2.998b",
+      "label": "Section 5.2.998b",
+      "chapter": null,
+      "original": "Salutat .",
+      "translation": "He salutes us ."
+    },
+    {
+      "id": "5.2.998c",
+      "label": "Section 5.2.998c",
+      "chapter": null,
+      "original": "Donni .",
+      "translation": "Donni [*] ."
+    },
+    {
+      "id": "5.2.998d",
+      "label": "Section 5.2.998d",
+      "chapter": null,
+      "original": "Doni volt tibi",
+      "translation": "He intends to present you with some donation out of this ; what , I don ’ t know . Don ’ t you hear him promise ?"
+    },
+    {
+      "id": "5.2.1000",
+      "label": "Section 5.2.1000",
+      "chapter": null,
+      "original": "Saluta hunc rursus Punice verbis meis .",
+      "translation": "Salute him again in Punic , in my name ."
+    },
+    {
+      "id": "5.2.1001",
+      "label": "Section 5.2.1001",
+      "chapter": null,
+      "original": "Avo donni inquit hic tibi verbis suis .",
+      "translation": "Avo donni he tells me to say to you in his name ."
+    },
+    {
+      "id": "5.2.1002",
+      "label": "Section 5.2.1002",
+      "chapter": null,
+      "original": "Me har bocca .",
+      "translation": "Mehar bocca [*] !"
+    },
+    {
+      "id": "5.2.1002b",
+      "label": "Section 5.2.1002b",
+      "chapter": null,
+      "original": "Istuc tibi sit potius quam mihi .",
+      "translation": "Be that for yourself rather than me !"
+    },
+    {
+      "id": "5.2.1003",
+      "label": "Section 5.2.1003",
+      "chapter": null,
+      "original": "Quid ait ?",
+      "translation": "What does he say ?"
+    },
+    {
+      "id": "5.2.1003b",
+      "label": "Section 5.2.1003b",
+      "chapter": null,
+      "original": "Miseram esse praedicat buccam sibi .",
+      "translation": "He declares that his box for his teeth is painful . Perhaps he takes us to be doctors ."
+    },
+    {
+      "id": "5.2.1005",
+      "label": "Section 5.2.1005",
+      "chapter": null,
+      "original": "Si ita est , nega esse ; nolo ego errare hospitem .",
+      "translation": "If it is so , tell him that we are not ; I don ’ t wish a stranger to be mistaken ."
+    },
+    {
+      "id": "5.2.1006",
+      "label": "Section 5.2.1006",
+      "chapter": null,
+      "original": "Audin tu ?",
+      "translation": "Hear you ."
+    },
+    {
+      "id": "5.2.1006b",
+      "label": "Section 5.2.1006b",
+      "chapter": null,
+      "original": "Rufeyn nyccho issam .",
+      "translation": "Rufen nuco istam [*] ."
+    },
+    {
+      "id": "5.2.1006c",
+      "label": "Section 5.2.1006c",
+      "chapter": null,
+      "original": "Sic volo",
+      "translation": "This is my wish , that in fact everything should be explained to him just as it is . Ask him whether he has need of anything ."
+    },
+    {
+      "id": "5.2.1008b",
+      "label": "Section 5.2.1008b",
+      "chapter": null,
+      "original": "Tu qui zonam non habes ,",
+      "translation": "You who have got no girdle [*] , why have you come to this city , or what is it you seek ?"
+    },
+    {
+      "id": "5.2.1010",
+      "label": "Section 5.2.1010",
+      "chapter": null,
+      "original": "Muphursa .",
+      "translation": "Muphursa [*] ."
+    },
+    {
+      "id": "5.2.1010b",
+      "label": "Section 5.2.1010b",
+      "chapter": null,
+      "original": "Quid ait ?",
+      "translation": "What is it he says ?"
+    },
+    {
+      "id": "5.2.1010c",
+      "label": "Section 5.2.1010c",
+      "chapter": null,
+      "original": "Miuulec hianna .",
+      "translation": "Moin lechianna [*] ."
+    },
+    {
+      "id": "5.2.1010d",
+      "label": "Section 5.2.1010d",
+      "chapter": null,
+      "original": "Quid venit ?",
+      "translation": "Why has he come ?"
+    },
+    {
+      "id": "5.2.1011",
+      "label": "Section 5.2.1011",
+      "chapter": null,
+      "original": "Non audis ? mures Africanos praedicat",
+      "translation": "Don ’ t you hear ? He declares that he is wishful to give African mice to the Aediles as a show at the games ."
+    },
+    {
+      "id": "5.2.1013",
+      "label": "Section 5.2.1013",
+      "chapter": null,
+      "original": "Lech lachanna nilimniichto .",
+      "translation": "Lalech lachananim liminichot [*] ."
+    },
+    {
+      "id": "5.2.1013b",
+      "label": "Section 5.2.1013b",
+      "chapter": null,
+      "original": "Quid nunc ait ?",
+      "translation": "What does he say now ?"
+    },
+    {
+      "id": "5.2.1014",
+      "label": "Section 5.2.1014",
+      "chapter": null,
+      "original": "Ligulas , canalis ait se advexisse et nuces :",
+      "translation": "He says he has brought latchets , water-channels [*] , and nuts ;"
+    },
+    {
+      "id": "5.2.1015",
+      "label": "Section 5.2.1015",
+      "chapter": null,
+      "original": "nunc orat , operam ut des sibi , ut ea veneant .",
+      "translation": "he ’ s now begging that you ’ ll lend him your assistance in having them sold ."
+    },
+    {
+      "id": "5.2.1016",
+      "label": "Section 5.2.1016",
+      "chapter": null,
+      "original": "Mercator credo est .",
+      "translation": "He is a merchant , I suppose ?"
+    },
+    {
+      "id": "5.2.1016b",
+      "label": "Section 5.2.1016b",
+      "chapter": null,
+      "original": "Assam .",
+      "translation": "Is amar binam [*] ."
+    },
+    {
+      "id": "5.2.1016c",
+      "label": "Section 5.2.1016c",
+      "chapter": null,
+      "original": "Arvinam quidem .",
+      "translation": "What is it he says ?"
+    },
+    {
+      "id": "5.2.1017",
+      "label": "Section 5.2.1017",
+      "chapter": null,
+      "original": "Palu mirga detha .",
+      "translation": "Palum erga dectha [*] ."
+    },
+    {
+      "id": "5.2.1017b",
+      "label": "Section 5.2.1017b",
+      "chapter": null,
+      "original": "Milphio , quid nunc ait ?",
+      "translation": "Milphio , what is he saying now ?"
+    },
+    {
+      "id": "5.2.1018",
+      "label": "Section 5.2.1018",
+      "chapter": null,
+      "original": "Palas vendundas sibi ait et mergas datas ,",
+      "translation": "He says that he has got spades and forks [*] given him for sale ,"
+    },
+    {
+      "id": "5.2.1020",
+      "label": "Section 5.2.1020",
+      "chapter": null,
+      "original": "ut hortum fodiat atque ut frumentum metat .",
+      "translation": "for digging the garden and reaping the corn ."
+    },
+    {
+      "id": "5.2.1021b",
+      "label": "Section 5.2.1021b",
+      "chapter": null,
+      "original": "Certiorem te esse volt ,",
+      "translation": "He wishes you to be informed of it , so that you mayn ’ t suppose that he has taken anything secretly and by stealth . He has really , I do believe , been sent here to your harvesting ."
+    },
+    {
+      "id": "5.2.1023",
+      "label": "Section 5.2.1023",
+      "chapter": null,
+      "original": "Mufonnim siccoratim .",
+      "translation": "Muphonium sucoraim [*] ."
+    },
+    {
+      "id": "5.2.1023b",
+      "label": "Section 5.2.1023b",
+      "chapter": null,
+      "original": "Hem , cave sis feceris",
+      "translation": "So there ! do take care , please , how you do what he ’ s begging of you ."
+    },
+    {
+      "id": "5.2.1024b",
+      "label": "Section 5.2.1024b",
+      "chapter": null,
+      "original": "Quid ait aut quid orat ? expedi .",
+      "translation": "What is he saying , or what is he begging ? Explain it ."
+    },
+    {
+      "id": "5.2.1025",
+      "label": "Section 5.2.1025",
+      "chapter": null,
+      "original": "Sub cratim ut iubeas se supponi átque eo",
+      "translation": "For you to order him to be placed beneath a hurdle [*] , and for many stones to be heaped upon it , so as to put him to death ."
+    },
+    {
+      "id": "5.2.1027",
+      "label": "Section 5.2.1027",
+      "chapter": null,
+      "original": "Gunebbal samem lyryla .",
+      "translation": "Gunebel balsamen ierasan !"
+    },
+    {
+      "id": "5.2.1027b",
+      "label": "Section 5.2.1027b",
+      "chapter": null,
+      "original": "Narra , quid est ?",
+      "translation": "Tell me what it is that he ’ s saying ."
+    },
+    {
+      "id": "5.2.1028b",
+      "label": "Section 5.2.1028b",
+      "chapter": null,
+      "original": "Non hercle nunc quidem quicquam scio .",
+      "translation": "I ’ faith , now I really don ’ t at all know ."
+    },
+    {
+      "id": "5.2.1029",
+      "label": "Section 5.2.1029",
+      "chapter": null,
+      "original": "At ut scias , nunc dehinc latine iam loquar .",
+      "translation": "But that you may know , now from this moment henceforth will I speak Latin ."
+    },
+    {
+      "id": "5.2.1030",
+      "label": "Section 5.2.1030",
+      "chapter": null,
+      "original": "servom hercle te esse oportet et nequam et malum ,",
+      "translation": "( To MILPHIO .) Upon my faith , you must be a worthless and bad servant , to be laughing at a person , a foreigner and a stranger ."
+    },
+    {
+      "id": "5.2.1032",
+      "label": "Section 5.2.1032",
+      "chapter": null,
+      "original": "At hercle te hominem et sycophantam et subdolum ,",
+      "translation": "But , i ’ faith , at yourself a person that ’ s both a swindler and a cheat , who have come here to take us in , you half-and-half Lybian , you double-tongue , just like a crawling reptile ."
+    },
+    {
+      "id": "5.2.1035",
+      "label": "Section 5.2.1035",
+      "chapter": null,
+      "original": "Maledicta hinc aufer , linguam compescas face .",
+      "translation": "Away hence with your abusiveness ! do restrain your tongue . You ’ ll keep it from uttering abuse , if you are prudent ; I don ’ t want you to be speaking harshly to my kinsmen . I was born at Carthage ; do you remember that ."
+    },
+    {
+      "id": "5.2.1039",
+      "label": "Section 5.2.1039",
+      "chapter": null,
+      "original": "O mi popularis , salve .",
+      "translation": "O my fellow-countryman , greetings to you !"
+    },
+    {
+      "id": "5.2.1039b",
+      "label": "Section 5.2.1039b",
+      "chapter": null,
+      "original": "Et tu edepol , quisquis es .",
+      "translation": "And you , troth , whoever you are ;"
+    },
+    {
+      "id": "5.2.1040",
+      "label": "Section 5.2.1040",
+      "chapter": null,
+      "original": "et si quid opus est , quaeso , dic atque impera",
+      "translation": "and if you have need of anything , pray mention it , and command me for the sake of our common country ."
+    },
+    {
+      "id": "5.2.1041b",
+      "label": "Section 5.2.1041b",
+      "chapter": null,
+      "original": "Habeo gratiam .",
+      "translation": "I return you thanks ; but I ’ ve got a place of entertainment here ; I ’ m in search of the son of Antidamas ; do point me out Agorastocles , if you know him . Do you know any young man here named Agorastocles ?"
+    },
+    {
+      "id": "5.2.1045",
+      "label": "Section 5.2.1045",
+      "chapter": null,
+      "original": "Siquidem Ántidamai quaeris ádoptaticium ,",
+      "translation": "If , indeed , you are in search of the adopted son of Antidamas , I am the very person whom you are in search of ."
+    },
+    {
+      "id": "5.2.1046b",
+      "label": "Section 5.2.1046b",
+      "chapter": null,
+      "original": "Hem , quid ego audio ?",
+      "translation": "Hah ! what ’ s that I hear ?"
+    },
+    {
+      "id": "5.2.1047",
+      "label": "Section 5.2.1047",
+      "chapter": null,
+      "original": "Antidamae gnatum me esse .",
+      "translation": "That I am the son of Antidamas ."
+    },
+    {
+      "id": "5.2.1047b",
+      "label": "Section 5.2.1047b",
+      "chapter": null,
+      "original": "Sí itast , tesseram",
+      "translation": "If so it is , if you would like to compare the token of hospitality [*] , see here , I ’ ve brought it ."
+    },
+    {
+      "id": "5.2.1049",
+      "label": "Section 5.2.1049",
+      "chapter": null,
+      "original": "Agedum huc ostende . est par probe , quam habeo domi .",
+      "translation": "Come then , show it here . ( He takes it in his hand , and looks at it .) It is exactly true ; for I ’ ve got the counterpart at home ."
+    },
+    {
+      "id": "5.2.1050",
+      "label": "Section 5.2.1050",
+      "chapter": null,
+      "original": "O mi hospes , salve multum . nam mihi tuos pater",
+      "translation": "O my host , hail to you right earnestly ; for it was your father , then , Antidamas , that was my own and my father ’ s guest ; this was my token of hospitality with him ."
+    },
+    {
+      "id": "5.2.1053",
+      "label": "Section 5.2.1053",
+      "chapter": null,
+      "original": "Ergo hic apud me hospitium tibi praebebitur .",
+      "translation": "Then here at my house shall hospitality be shown you ; for I don ’ t reject either Hospitality or Carthage ,"
+    },
+    {
+      "id": "5.2.1055",
+      "label": "Section 5.2.1055",
+      "chapter": null,
+      "original": "unde súm oriundus .",
+      "translation": "from which I sprang ."
+    },
+    {
+      "id": "5.2.1055b",
+      "label": "Section 5.2.1055b",
+      "chapter": null,
+      "original": "Di dent tibi omnes quae velis .",
+      "translation": "May the Gods grant you all you may desire . How say you ? How could it happen that you were born at Carthage , but had a father of Aetolia here ?"
+    },
+    {
+      "id": "5.2.1058",
+      "label": "Section 5.2.1058",
+      "chapter": null,
+      "original": "Surruptus sum illinc . hic me Antidama hospes tuos",
+      "translation": "I was stolen away from there ; this Antidamas , your guest , bought me , and adopted me as his son ."
+    },
+    {
+      "id": "5.2.1060",
+      "label": "Section 5.2.1060",
+      "chapter": null,
+      "original": "Demarcho item ipse fuit adoptaticius .",
+      "translation": "He himself , likewise , was adopted by Demarchus , But about him I say no more , and return to you . Tell me , do you at all remember the names of your parents ?"
+    },
+    {
+      "id": "5.2.1063b",
+      "label": "Section 5.2.1063b",
+      "chapter": null,
+      "original": "Memini .",
+      "translation": "I remember my father and my mother ’ s name ."
+    },
+    {
+      "id": "5.2.1063c",
+      "label": "Section 5.2.1063c",
+      "chapter": null,
+      "original": "Memoradum mihi ,",
+      "translation": "Repeat them , then , to me , to see if I know them , perchance , or if they are relatives of mine ."
+    },
+    {
+      "id": "5.2.1065",
+      "label": "Section 5.2.1065",
+      "chapter": null,
+      "original": "Ampsigura mater mihi fuit , Iahon pater .",
+      "translation": "Ampsigura was my mother , and Iachon my father ."
+    }
+  ],
+  "prevChunkSlug": "the-little-carthaginian-12yp3b-12",
+  "nextChunkSlug": "the-little-carthaginian-12yp3b-14"
+}

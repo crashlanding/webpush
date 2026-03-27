@@ -1,0 +1,61 @@
+{
+  "loebNumber": 121,
+  "sortOrder": 121,
+  "slug": "apollodorus-the-library-volume-i-hca2ft",
+  "title": "The Library, Volume I",
+  "volumeLabel": "The Library, Volume I",
+  "authorDisplay": "Apollodorus",
+  "authors": [
+    "Apollodorus"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for The Library, Volume I. The Library, Volume I currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "the-library-volume-i-1behyj",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "the-library-volume-i-1behyj",
+      "title": "The Library, Volume I",
+      "status": "ready",
+      "sectionCount": 14,
+      "chunkSlug": "the-library-volume-i-1behyj",
+      "chunks": [
+        {
+          "slug": "the-library-volume-i-1behyj",
+          "label": "The Library, Volume I",
+          "partId": "the-library-volume-i-1behyj",
+          "partTitle": "The Library, Volume I",
+          "sectionCount": 14,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "the-library-volume-i-1behyj",
+      "label": "The Library, Volume I",
+      "partId": "the-library-volume-i-1behyj",
+      "partTitle": "The Library, Volume I",
+      "sectionCount": 14,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "the-library-volume-i-1behyj",
+      "partTitle": "The Library, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Βιβλιοθήκη",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0548.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Library",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0548.tlg001.perseus-eng2/"
+      }
+    }
+  ]
+}

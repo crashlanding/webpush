@@ -1,0 +1,139 @@
+{
+  "loebNumber": 164,
+  "sortOrder": 164,
+  "slug": "plato-statesman-philebus-ion-18xfai",
+  "title": "Statesman. Philebus. Ion",
+  "volumeLabel": "Statesman. Philebus. Ion",
+  "authorDisplay": "Plato",
+  "authors": [
+    "Plato"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Statesman. Philebus. Ion, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "statesman-1xow2d",
+  "readyChunkCount": 3,
+  "contents": [
+    {
+      "id": "statesman-1xow2d",
+      "title": "Statesman",
+      "status": "ready",
+      "sectionCount": 55,
+      "chunkSlug": "statesman-1xow2d",
+      "chunks": [
+        {
+          "slug": "statesman-1xow2d",
+          "label": "Statesman",
+          "partId": "statesman-1xow2d",
+          "partTitle": "Statesman",
+          "sectionCount": 55,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "philebus-1c2364",
+      "title": "Philebus",
+      "status": "ready",
+      "sectionCount": 57,
+      "chunkSlug": "philebus-1c2364",
+      "chunks": [
+        {
+          "slug": "philebus-1c2364",
+          "label": "Philebus",
+          "partId": "philebus-1c2364",
+          "partTitle": "Philebus",
+          "sectionCount": 57,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "ion-1kvc",
+      "title": "Ion",
+      "status": "ready",
+      "sectionCount": 13,
+      "chunkSlug": "ion-1kvc",
+      "chunks": [
+        {
+          "slug": "ion-1kvc",
+          "label": "Ion",
+          "partId": "ion-1kvc",
+          "partTitle": "Ion",
+          "sectionCount": 13,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "statesman-1xow2d",
+      "label": "Statesman",
+      "partId": "statesman-1xow2d",
+      "partTitle": "Statesman",
+      "sectionCount": 55,
+      "status": "ready"
+    },
+    {
+      "slug": "philebus-1c2364",
+      "label": "Philebus",
+      "partId": "philebus-1c2364",
+      "partTitle": "Philebus",
+      "sectionCount": 57,
+      "status": "ready"
+    },
+    {
+      "slug": "ion-1kvc",
+      "label": "Ion",
+      "partId": "ion-1kvc",
+      "partTitle": "Ion",
+      "sectionCount": 13,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "statesman-1xow2d",
+      "partTitle": "Statesman",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πολιτικός",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg008.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Statesman",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg008.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "philebus-1c2364",
+      "partTitle": "Philebus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Φίληβος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg010.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Philebus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg010.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "ion-1kvc",
+      "partTitle": "Ion",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἴων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg027.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Ion",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg027.perseus-eng2/"
+      }
+    }
+  ]
+}

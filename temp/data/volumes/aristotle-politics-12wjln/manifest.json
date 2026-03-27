@@ -1,0 +1,61 @@
+{
+  "loebNumber": 264,
+  "sortOrder": 264,
+  "slug": "aristotle-politics-12wjln",
+  "title": "Politics",
+  "volumeLabel": "Politics",
+  "authorDisplay": "Aristotle",
+  "authors": [
+    "Aristotle"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Politics, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "politics-a4e8ox",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "politics-a4e8ox",
+      "title": "Politics",
+      "status": "ready",
+      "sectionCount": 40,
+      "chunkSlug": "politics-a4e8ox",
+      "chunks": [
+        {
+          "slug": "politics-a4e8ox",
+          "label": "Politics",
+          "partId": "politics-a4e8ox",
+          "partTitle": "Politics",
+          "sectionCount": 40,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "politics-a4e8ox",
+      "label": "Politics",
+      "partId": "politics-a4e8ox",
+      "partTitle": "Politics",
+      "sectionCount": 40,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "politics-a4e8ox",
+      "partTitle": "Politics",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πολιτικά",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg035.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Politics",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg035.perseus-eng2/"
+      }
+    }
+  ]
+}

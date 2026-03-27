@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-suppliant-women-electra-heracles-k10p1d",
+  "volumeTitle": "Suppliant Women. Electra. Heracles",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "heracles-1pnoix-6",
+  "label": "Heracles (Section 904 - Section 1060b)",
+  "partId": "heracles-1pnoix",
+  "partTitle": "Heracles",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἡρακλῆς",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg009.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Heracles Mad",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg009.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "904",
+      "label": "Section 904",
+      "chapter": null,
+      "original": "— ἰδοὺ ἰδού ,",
+      "translation": "Look ! look !"
+    },
+    {
+      "id": "905",
+      "label": "Section 905",
+      "chapter": null,
+      "original": "θύελλα σείει δῶμα , συμπίπτει στέγη .",
+      "translation": "A tempest rocks the house ; the roof is falling with it ."
+    },
+    {
+      "id": "906",
+      "label": "Section 906",
+      "chapter": null,
+      "original": "ἢ ἤ · τί δρᾷς , ὦ Διὸς παῖ , μελάθρῳ ;\nτάραγμα ταρτάρειον , ὡς ἐπʼ Ἐγκελάδῳ ποτέ , Παλλάς ,\nἐς δόμους πέμπεις .",
+      "translation": "Oh , oh ! what are you doing , Pallas , child of Zeus , to the house ? You are sending hell ’ s confusion against the halls , as once you did on Enceladus ."
+    },
+    {
+      "id": "910",
+      "label": "Section 910",
+      "chapter": null,
+      "original": "ὦ λευκὰ γήρᾳ σώματʼ ⋯",
+      "translation": "O white-haired old men !"
+    },
+    {
+      "id": "910b",
+      "label": "Section 910b",
+      "chapter": null,
+      "original": "ἀνακαλεῖς με τίνα",
+      "translation": "Why this loud"
+    },
+    {
+      "id": "911",
+      "label": "Section 911",
+      "chapter": null,
+      "original": "βοάν ;",
+      "translation": "address to me ?"
+    },
+    {
+      "id": "911b",
+      "label": "Section 911b",
+      "chapter": null,
+      "original": "ἄλαστα τἀν δόμοισι .",
+      "translation": "It is dreadful within !"
+    },
+    {
+      "id": "911c",
+      "label": "Section 911c",
+      "chapter": null,
+      "original": "μάντιν οὐχ\nἕτερον ἄξομαι .",
+      "translation": "No need for me to call another prophet for that ."
+    },
+    {
+      "id": "913",
+      "label": "Section 913",
+      "chapter": null,
+      "original": "τεθνᾶσι παῖδες .",
+      "translation": "The children are dead ."
+    },
+    {
+      "id": "913b",
+      "label": "Section 913b",
+      "chapter": null,
+      "original": "αἰαῖ .",
+      "translation": "Alas !"
+    },
+    {
+      "id": "914",
+      "label": "Section 914",
+      "chapter": null,
+      "original": "στενάζεθʼ , ὡς στενακτά .",
+      "translation": "Ah weep ! for here is cause for weeping ."
+    },
+    {
+      "id": "914b",
+      "label": "Section 914b",
+      "chapter": null,
+      "original": "δάιοι φόνοι ,",
+      "translation": "A cruel murder ,"
+    },
+    {
+      "id": "915",
+      "label": "Section 915",
+      "chapter": null,
+      "original": "δάιοι δὲ τοκέων χέρες · ὤ .",
+      "translation": "cruel parents ’ hands !"
+    },
+    {
+      "id": "916",
+      "label": "Section 916",
+      "chapter": null,
+      "original": "οὐκ ἄν τις εἴποι μᾶλλον ἢ πεπόνθαμεν .",
+      "translation": "No words can utter more than we have suffered ."
+    },
+    {
+      "id": "917",
+      "label": "Section 917",
+      "chapter": null,
+      "original": "πῶς παισὶ στενακτὰν ἄταν ἄταν\nπατέρος ἀμφαίνεις ;\nλέγε , τίνα τρόπον ἔσυτο θεόθεν ἐπὶ",
+      "translation": "How came the ruin you reveal , the ruin that must be lamented , from a father to his children ? Tell me how these heaven-sent woes"
+    },
+    {
+      "id": "920",
+      "label": "Section 920",
+      "chapter": null,
+      "original": "μέλαθρα κακὰ τάδε ,\nτλήμονάς τε παίδων τύχας ;",
+      "translation": "came rushing on the house ; say how the children met their sad mischance ."
+    },
+    {
+      "id": "922",
+      "label": "Section 922",
+      "chapter": null,
+      "original": "ἱερὰ μὲν ἦν πάροιθεν ἐσχάρας Διὸς\nκαθάρσιʼ οἴκων , γῆς ἄνακτʼ ἐπεὶ κτανὼν\nἐξέβαλε τῶνδε δωμάτων Ἡρακλέης ·",
+      "translation": "Victims to purify the house were stationed before the altar of Zeus , for Heracles had slain and cast from his halls the king of the land ."
+    },
+    {
+      "id": "925",
+      "label": "Section 925",
+      "chapter": null,
+      "original": "χορὸς δὲ καλλίμορφος εἱστήκει τέκνων\nπατήρ τε Μεγάρα τʼ · ἐν κύκλῳ δʼ ἤδη κανοῦν\nεἵλικτο βωμοῦ , φθέγμα δʼ ὅσιον εἴχομεν .\nμέλλων δὲ δαλὸν χειρὶ δεξιᾷ φέρειν ,\nἐς χέρνιβʼ ὡς βάψειεν , Ἀλκμήνης τόκος",
+      "translation": "There stood his group of lovely children , with his father and Megara ; and already the basket was being passed round the altar , and we were keeping holy silence . But just as Alcmena ’ s son was bringing the torch in his right hand to dip it in the holy water ,"
+    },
+    {
+      "id": "930",
+      "label": "Section 930",
+      "chapter": null,
+      "original": "ἔστη σιωπῇ . καὶ χρονίζοντος πατρὸς\nπαῖδες προσέσχον ὄμμʼ · ὁ δʼ οὐκέθʼ αὑτὸς ἦν ,\nἀλλʼ ἐν στροφαῖσιν ὀμμάτων ἐφθαρμένος\nῥίζας τʼ ἐν ὄσσοις αἱματῶπας ἐκβαλὼν\nἀφρὸν κατέσταζʼ εὐτρίχου γενειάδος .",
+      "translation": "he stopped without a word . And as their father lingered , his children looked at him ; he was no longer himself ; his eyes were rolling ; he was quite distraught ; his eyeballs were bloodshot , and foam was oozing down his bearded cheek ."
+    },
+    {
+      "id": "935",
+      "label": "Section 935",
+      "chapter": null,
+      "original": "ἔλεξε δʼ ἅμα γέλωτι παραπεπληγμένῳ ·\nΠάτερ , τί θύω πρὶν κτανεῖν Εὐρυσθέα\nκαθάρσιον πῦρ , καὶ πόνους διπλοῦς ἔχω ;\nἔργον μιᾶς μοι χειρὸς εὖ θέσθαι τάδε ·\nὅταν δʼ ἐνέγκω δεῦρο κρᾶτʼ Εὐρυσθέως ,",
+      "translation": "He spoke with a madman ’ s laugh : Father , why should I offer the purifying flame before I have slain Eurystheus , and have the toil twice over ? It is the work of my unaided arm to settle these things well ; as soon as I have brought the head of Eurystheus here ,"
+    },
+    {
+      "id": "940",
+      "label": "Section 940",
+      "chapter": null,
+      "original": "ἐπὶ τοῖσι νῦν θανοῦσιν ἁγνιῶ χέρας .\nἐκχεῖτε πηγάς , ῥίπτετʼ ἐκ χειρῶν κανᾶ .\nτίς μοι δίδωσι τόξα ; τίς δʼ ὅπλον χερός ;\nπρὸς τὰς Μυκήνας εἶμι · λάζυσθαι χρεὼν",
+      "translation": "I will cleanse my hands for those already slain . Spill the water , cast the baskets from your hands . Ho ! give me now my bow and club ! To Mycenae will I go ; I must take crow-bars and pick-axes , for I will shatter again"
+    },
+    {
+      "id": "945",
+      "label": "Section 945",
+      "chapter": null,
+      "original": "μοχλοὺς δικέλλας θʼ , ὥστε Κυκλώπων βάθρα\nφοίνικι κανόνι καὶ τύκοις ἡρμοσμένα",
+      "translation": "with iron levers those city-walls which the Cyclopes squared with red plumb-line and mason ’ s tools ."
+    },
+    {
+      "id": "947",
+      "label": "Section 947",
+      "chapter": null,
+      "original": "στρεπτῷ σιδήρῳ συντριαινῶσαι πάλιν .\nαὐτοῦ δὲ βαίνων ἅρματʼ οὐκ ἔχων ἔχειν\nἔφασκε , δίφρου δʼ εἰσέβαινεν ἄντυγας",
+      "translation": "Then he set out , and though he had no chariot there , he thought he had , and was for mounting to its seat , and using a goad as though his fingers really held one ."
+    },
+    {
+      "id": "950",
+      "label": "Section 950",
+      "chapter": null,
+      "original": "κἄθεινε , κέντρον δῆθεν ὡς ἔχων , χερί .\nδιπλοῦς δʼ ὀπαδοῖς ἦν γέλως φόβος θʼ ὁμοῦ .\nκαί τις τόδʼ εἶπεν , ἄλλος εἰς ἄλλον δρακών ·\nΠαίζει πρὸς ἡμᾶς δεσπότης ἢ μαίνεται ;\nὁ δʼ εἷρπʼ ἄνω τε καὶ κάτω κατὰ στέγας ,",
+      "translation": "A twofold feeling filled his servants ’ breasts , amusement and fear at once ; and one looking to his neighbor said : Is our master making sport for us , or is he mad ? But he was pacing to and fro in his house ; and , rushing into the men ’ s chamber , he said he had reached the city of Nisus ;"
+    },
+    {
+      "id": "955",
+      "label": "Section 955",
+      "chapter": null,
+      "original": "μέσον δʼ ἐς ἀνδρῶνʼ ἐσπεσὼν Νίσου πόλιν\nἥκειν ἔφασκε · δωμάτων τʼ ἔσω βεβώς ,\nκλιθεὶς ἐς οὖδας , ὡς ἔχει , σκευάζεται\nθοίνην . διελθὼν δʼ ὡς βραχὺν χρόνον μονῆς\nἸσθμοῦ ναπαίας ἔλεγε προσβαίνειν πλάκας .",
+      "translation": "and going into the house , he threw himself upon the floor , as he was , and made ready to feast . But after waiting a brief space he began saying he was on his way to the plains amid the valleys of the Isthmus ; and then stripping himself of his mantle ,"
+    },
+    {
+      "id": "960",
+      "label": "Section 960",
+      "chapter": null,
+      "original": "κἀνταῦθα γυμνὸν σῶμα θεὶς πορπαμάτων ,\nπρὸς οὐδένʼ ἡμιλλᾶτο κἀκηρύσσετο\nαὐτὸς πρὸς αὑτοῦ καλλίνικος οὐδενός ,\nἀκοὴν ὑπειπών . δεινὰ δʼ Εὐρυσθεῖ βρέμων\nἦν ἐν Μυκήναις τῷ λόγῳ . πατὴρ δέ νιν",
+      "translation": "he fell to competing with no one , and he proclaimed himself victor with his own voice , calling on no one to listen . Next , fancy carrying him to Mycenae , he was uttering fearful threats against Eurystheus . Meantime his father caught him by his stalwart arm , and thus addressed him :"
+    },
+    {
+      "id": "965",
+      "label": "Section 965",
+      "chapter": null,
+      "original": "θιγὼν κραταιᾶς χειρὸς ἐννέπει τάδε ·\nὮ παῖ , τί πάσχεις ; τίς ὁ τρόπος ξενώσεως\nτῆσδʼ ; οὔ τί που φόνος σʼ ἐβάκχευσεν νεκρῶν ,\nοὓς ἄρτι καίνεις ; ὁ δέ νιν Εὐρυσθέως δοκῶν\nπατέρα προταρβοῦνθʼ ἱκέσιον ψαύειν χερός ,",
+      "translation": "My son , what do you mean by this ? What strange doings are these ? Can it be that the blood of your late victims has driven you frantic ? But he , supposing it was the father of Eurystheus striving in abject supplication to touch his hand : thrust him aside , and then against his own children aimed his bow"
+    },
+    {
+      "id": "970",
+      "label": "Section 970",
+      "chapter": null,
+      "original": "ὠθεῖ , φαρέτραν δʼ εὐτρεπῆ σκευάζεται\nκαὶ τόξʼ ἑαυτοῦ παισί , τοὺς Εὐρυσθέως\nδοκῶν φονεύειν . οἳ δὲ ταρβοῦντες φόβῳ\nὤρουον ἄλλος ἄλλοσʼ , ἐς πέπλους ὁ μὲν\nμητρὸς ταλαίνης , ὁ δʼ ὑπὸ κίονος σκιάν ,",
+      "translation": "and made ready his quiver , thinking to slay the sons of Eurystheus . And they in wild fright darted here and there , one to his hapless mother ’ s skirts , another to the shadow of a pillar , while a third cowered beneath the altar like a bird ."
+    },
+    {
+      "id": "975",
+      "label": "Section 975",
+      "chapter": null,
+      "original": "ἄλλος δὲ βωμὸν ὄρνις ὣς ἔπτηξʼ ὕπο .\nβοᾷ δὲ μήτηρ · Ὦ τεκών , τί δρᾷς ; τέκνα\nκτείνεις ; βοᾷ δὲ πρέσβυς οἰκετῶν τʼ ὄχλος .\nὁ δʼ ἐξελίσσων παῖδα κίονος κύκλῳ ,\nτόρνευμα δεινὸν ποδός , ἐναντίον σταθεὶς\nβάλλει πρὸς ἧπαρ · ὕπτιος δὲ λαΐνους",
+      "translation": "Then cried their mother : O you who begot them , what are you doing ? do you mean to slay your children ? Likewise his aged father and all the gathered servants cried aloud . But he , hunting the child round and round the column , in dreadful circles , and coming face to face with him shot him to the heart ; and he fell upon his back ,"
+    },
+    {
+      "id": "980",
+      "label": "Section 980",
+      "chapter": null,
+      "original": "ὀρθοστάτας ἔδευσεν ἐκπνέων βίον .\nὁ δʼ ἠλάλαξε κἀπεκόμπασεν τάδε ·\nΕἷς μὲν νεοσσὸς ὅδε θανὼν Εὐρυσθέως\nἔχθραν πατρῴαν ἐκτίνων πέπτωκέ μοι .\nἄλλῳ δʼ ἐπεῖχε τόξʼ , ὃς ἀμφὶ βωμίαν",
+      "translation": "sprinkling the stone pillars with blood as he gasped out his life . Then Heracles shouted in triumph and boasted loud : Here lies one of Eurystheus ’ brood dead at my feet , atoning for his father ’ s hatred . Then he aimed his bow against a second , who had crouched"
+    },
+    {
+      "id": "985",
+      "label": "Section 985",
+      "chapter": null,
+      "original": "ἔπτηξε κρηπῖδʼ ὡς λεληθέναι δοκῶν .\nφθάνει δʼ ὁ τλήμων γόνασι προσπεσὼν πατρός ,\nκαὶ πρὸς γένειον χεῖρα καὶ δέρην βαλών ,\nὮ φίλτατʼ , αὐδᾷ , μή μʼ ἀποκτείνῃς , πάτερ ·\nσός εἰμι , σὸς παῖς · οὐ τὸν Εὐρυσθέως ὀλεῖς .",
+      "translation": "at the altar ’ s foot thinking to escape unseen . But before he fired , the poor child threw himself at his father ’ s knees , and , flinging his hand to reach his beard or neck , cried : Oh ! hear me , dearest father , do not kill me ! I am your child , your own ; it is no son of Eurystheus you will slay ."
+    },
+    {
+      "id": "990",
+      "label": "Section 990",
+      "chapter": null,
+      "original": "ὁ δʼ ἀγριωπὸν ὄμμα Γοργόνος στρέφων ,\nὡς ἐντὸς ἔστη παῖς λυγροῦ τοξεύματος ,\nμυδροκτύπον μίμημʼ , ὑπὲρ κάρα βαλὼν\nξύλον καθῆκε παιδὸς ἐς ξανθὸν κάρα ,\nἔρρηξε δʼ ὀστᾶ . δεύτερον δὲ παῖδʼ ἑλών ,",
+      "translation": "But that other , with savage Gorgon-scowl , as the child now stood in range of his baleful archery , smote him on the head , as a smith strikes his molten iron , bringing down his club upon the fair-haired boy , and crushed the bones . The second caught ,"
+    },
+    {
+      "id": "995",
+      "label": "Section 995",
+      "chapter": null,
+      "original": "χωρεῖ τρίτον θῦμʼ ὡς ἐπισφάξων δυοῖν .\nἀλλὰ φθάνει νιν ἡ τάλαινʼ ἔσω δόμων\nμήτηρ ὑπεκλαβοῦσα , καὶ κλῄει πύλας .\nὁ δʼ ὡς ἐπʼ αὐτοῖς δὴ Κυκλωπίοισιν ὢν\nσκάπτει μοχλεύει θύρετρα , κἀκβαλὼν σταθμὰ",
+      "translation": "away he goes to add a third victim to the other two . But before he could , the poor mother caught up her child and carried him within the house and shut the doors . But he , as though he really were at the Cyclopean walls , prized open the doors with levers , and , hurling down their posts ,"
+    },
+    {
+      "id": "1000",
+      "label": "Section 1000",
+      "chapter": null,
+      "original": "δάμαρτα καὶ παῖδʼ ἑνὶ κατέστρωσεν βέλει .\nκἀνθένδε πρὸς γέροντος ἱππεύει φόνον ·\nἀλλʼ ἦλθεν εἰκών , ὡς ὁρᾶν ἐφαίνετο ,\nΠαλλὰς κραδαίνουσʼ ἔγχος ἐπὶ λόφῳ κέαρ ,\nκἄρριψε πέτρον στέρνον εἰς Ἡρακλέους ,",
+      "translation": "with one shaft laid low his wife and child . Then in wild gallop he starts to slay his aged father ; but there came a phantom , as it seemed to us on-lookers , of Pallas , with plumed helm , brandishing a spear ; and she hurled a rock against the breast of Heracles ,"
+    },
+    {
+      "id": "1005",
+      "label": "Section 1005",
+      "chapter": null,
+      "original": "ὅς νιν φόνου μαργῶντος ἔσχε , κεἰς ὕπνον\nκαθῆκε · πίτνει δʼ ἐς πέδον , πρὸς κίονα\nνῶτον πατάξας , ὃς πεσήμασι στέγης\nδιχορραγὴς ἔκειτο κρηπίδων ἔπι .",
+      "translation": "which held him from his frenzied thirst for blood and plunged him into sleep ; to the ground he fell , striking his back against a column that had fallen on the floor shattered in two when the roof fell in ."
+    },
+    {
+      "id": "1010",
+      "label": "Section 1010",
+      "chapter": null,
+      "original": "ἡμεῖς δʼ ἐλευθεροῦντες ἐκ δρασμῶν πόδα\nἀνήπτομεν πρὸς κίονʼ , ὡς λήξας ὕπνου\nμηδὲν προσεργάσαιτο τοῖς δεδραμένοις .\nεὕδει δʼ ὁ τλήμων ὕπνον οὐκ εὐδαίμονα ,\nπαῖδας φονεύσας καὶ δάμαρτʼ . ἐγὼ μὲν οὖν",
+      "translation": "Then we rallied from our flight , and with the old man ’ s aid bound him fast with knotted cords to the pillar , so that on his awakening he might do no further mischief . So there he sleeps , poor wretch ! a sleep that is not blessed , having murdered wife and children ; no , for my part"
+    },
+    {
+      "id": "1015",
+      "label": "Section 1015",
+      "chapter": null,
+      "original": "οὐκ οἶδα θνητῶν ὅστις ἀθλιώτερος .",
+      "translation": "I do not know any mortal more miserable than he . Exit messenger ."
+    },
+    {
+      "id": "1016",
+      "label": "Section 1016",
+      "chapter": null,
+      "original": "— ὁ φόνος ἦν ὃν Ἀργολὶς ἔχει πέτρα\nτότε μὲν περισαμότατος καὶ ἄπιστος Ἑλλάδι\nτῶν Δαναοῦ παίδων · τάδε δʼ ὑπερέβαλε , παρ-",
+      "translation": "That murder wrought by the daughters of Danaus , which the rock of Argos keeps , was once the most famous and notorious in Hellas ; but this has surpassed ,"
+    },
+    {
+      "id": "1020",
+      "label": "Section 1020",
+      "chapter": null,
+      "original": "έδραμε τὰ τότε κακὰ ⋯ τάλανι διογενεῖ κόρῳ .",
+      "translation": "has outrun those former horrors . . . for the unhappy son of Zeus ."
+    },
+    {
+      "id": "1021",
+      "label": "Section 1021",
+      "chapter": null,
+      "original": "— μονοτέκνου Πρόκνης φόνον ἔχω λέξαι\nθυόμενον Μούσαις · σὺ δὲ τέκνα τρίγονʼ , ὦ\nδάιε , τεκόμενος , λυσσάδι συγκατειργάσω μοίρᾳ .",
+      "translation": "I could tell of the murder done by Procne , mother of an only child , offered to the Muses ; but you had three children , wretched parent , and all of them have you in your frenzy slain ."
+    },
+    {
+      "id": "1025",
+      "label": "Section 1025",
+      "chapter": null,
+      "original": "— αἰαῖ , τίνα στεναγμὸν\nἢ γόον ἢ φθιτῶν\nᾠδάν , ἢ τὸν Ἅιδα χορὸν ἀχήσω ;",
+      "translation": "Alas ! What groans or wails , what funeral dirge , or dance of death am I to raise ?"
+    },
+    {
+      "id": "1028",
+      "label": "Section 1028",
+      "chapter": null,
+      "original": "— φεῦ φεῦ ·\nἴδεσθε , διάνδιχα κλῇθρα",
+      "translation": "Ah , ah ! see , the bolted doors"
+    },
+    {
+      "id": "1030",
+      "label": "Section 1030",
+      "chapter": null,
+      "original": "κλίνεται ὑψιπύλων δόμων .",
+      "translation": "of the lofty palace are being rolled apart ."
+    },
+    {
+      "id": "1031",
+      "label": "Section 1031",
+      "chapter": null,
+      "original": "— ἰώ μοι ·\nἴδεσθε δὲ τέκνα πρὸ πατρὸς\nἄθλια κείμενα δυστάνου ,\nεὕδοντος ὕπνον δεινὸν ἐκ παίδων φόνου .",
+      "translation": "Ah me ! see the wretched children lying before their unhappy father , who is sunk in dreadful slumber after shedding their blood ."
+    },
+    {
+      "id": "1035",
+      "label": "Section 1035",
+      "chapter": null,
+      "original": "— περὶ δὲ δεσμὰ καὶ πολύβροχʼ ἁμμάτων\nἐρείσμαθʼ Ἡράκλειον\nἀμφὶ δέμας τάδε λαΐνοις\nἀνημμένα κίοσιν οἴκων .",
+      "translation": "Round him are bonds and cords , made fast with many knots about the body of Heracles , and lashed to the stone columns of his house ."
+    },
+    {
+      "id": "1039",
+      "label": "Section 1039",
+      "chapter": null,
+      "original": "— ὁ δʼ ὥς τις ὄρνις ἄπτερον καταστένων",
+      "translation": "But he , the aged father , like mother-bird wailing"
+    },
+    {
+      "id": "1040",
+      "label": "Section 1040",
+      "chapter": null,
+      "original": "ὠδῖνα τέκνων , πρέσβυς ὑστέρῳ ποδὶ\nπικρὰν διώκων ἤλυσιν πάρεσθʼ ὅδε .",
+      "translation": "her unfledged brood , comes hastening here with halting steps on his bitter journey ."
+    },
+    {
+      "id": "1042",
+      "label": "Section 1042",
+      "chapter": null,
+      "original": "Καδμεῖοι γέροντες , οὐ σῖγα σῖ-\nγα τὸν ὕπνῳ παρειμένον ἐάσετʼ ἐκ-\nλαθέσθαι κακῶν ;",
+      "translation": "Softly , softly ! you aged sons of Thebes , let him sleep on and forget his sorrows ."
+    },
+    {
+      "id": "1045",
+      "label": "Section 1045",
+      "chapter": null,
+      "original": "κατὰ σὲ δακρύοις στένω , πρέσβυ , καὶ\nτέκεα καὶ τὸ καλλίνικον κάρα .",
+      "translation": "For you , old friend , I weep and mourn , for the children too and that victorious chief ."
+    },
+    {
+      "id": "1047",
+      "label": "Section 1047",
+      "chapter": null,
+      "original": "ἑκαστέρω πρόβατε , μὴ\nκτυπεῖτε , μὴ βοᾶτε , μὴ\nτὸν εὔδιʼ ἰαύονθʼ\nὑπνώδεά τʼ εὐνᾶς",
+      "translation": "Stand further off , make no noise nor outcry , do not rouse him from his calm"
+    },
+    {
+      "id": "1050",
+      "label": "Section 1050",
+      "chapter": null,
+      "original": "ἐγείρετε .",
+      "translation": "deep slumber ."
+    },
+    {
+      "id": "1050b",
+      "label": "Section 1050b",
+      "chapter": null,
+      "original": "οἴμοι .\nφόνος ὅσος ὅδʼ ⋯",
+      "translation": "O horrible ! all this blood —"
+    },
+    {
+      "id": "1051b",
+      "label": "Section 1051b",
+      "chapter": null,
+      "original": "ἆ ἆ ,\nδιά μʼ ὀλεῖτε .",
+      "translation": "Hush , hush ! you will be my ruin ."
+    },
+    {
+      "id": "1052b",
+      "label": "Section 1052b",
+      "chapter": null,
+      "original": "κεχυμένος ἐπαντέλλει .",
+      "translation": "That he has spilled is rising up against him ."
+    },
+    {
+      "id": "1053",
+      "label": "Section 1053",
+      "chapter": null,
+      "original": "οὐκ ἀτρεμαῖα θρῆνον αἰ-\nάξετʼ , ὦ γέροντες ;",
+      "translation": "Gently raise your dirge of woe , old friends ;"
+    },
+    {
+      "id": "1055",
+      "label": "Section 1055",
+      "chapter": null,
+      "original": "ἢ δέσμʼ ἀνεγειρόμενος χαλάσας ἀπολεῖ πόλιν ,\nἀπὸ δὲ πατέρα , μέλαθρά τε καταράξει .",
+      "translation": "or he will wake , and , bursting his bonds , destroy the city , rend his father , and dash his house to pieces ."
+    },
+    {
+      "id": "1057",
+      "label": "Section 1057",
+      "chapter": null,
+      "original": "ἀδύνατʼ ἀδύνατά μοι .",
+      "translation": "I cannot , cannot —"
+    },
+    {
+      "id": "1057b",
+      "label": "Section 1057b",
+      "chapter": null,
+      "original": "σῖγα , πνοὰς μάθω ·",
+      "translation": "Hush ! let me note his breathing ;"
+    },
+    {
+      "id": "1060",
+      "label": "Section 1060",
+      "chapter": null,
+      "original": "φέρε πρὸς οὖς βάλω .",
+      "translation": "come , let me put my ear close ."
+    },
+    {
+      "id": "1060b",
+      "label": "Section 1060b",
+      "chapter": null,
+      "original": "εὕδει ;",
+      "translation": "Is he sleeping ?"
+    }
+  ],
+  "prevChunkSlug": "heracles-1pnoix-5",
+  "nextChunkSlug": "heracles-1pnoix-7"
+}

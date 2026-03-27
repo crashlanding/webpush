@@ -1,0 +1,73 @@
+{
+  "volumeSlug": "plutarch-lives-volume-vii-r344au",
+  "volumeTitle": "Lives, Volume VII",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "comparison-of-lucullus-and-cimon-yb8ayw",
+  "label": "Comparison of Lucullus and Cimon",
+  "partId": "lives-volume-vii-ci3nqj",
+  "partTitle": "Lives, Volume VII",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Κίμωνος καὶ Λουκούλλος σύγκρισις",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg037.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Comparison of Lucullus and Cimon",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg037.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1",
+      "label": "Section 1.1",
+      "chapter": null,
+      "original": "μάλιστα δʼ ἄν τις εὐδαιμονίσειε τοῦ τέλους paris.1624.521 Λεύκουλλον , ὅτι πρὸ τῆς μεταβολῆς , ἣν ἤδη κατὰ τῆς πολιτείας ἐτεκταίνετο τοῖς ἐμφυλίοις πολέμοις τὸ πεπρωμένον , ἔφθη προαποθανὼν καὶ καταλύσας ἐν νοσούσῃ μέν , ἔτι δʼ ἐλευθέρᾳ τῇ πατρίδι τὸν βίον . καὶ τοῦτό γε πάντων αὐτῷ πρὸς Κίμωνα κοινότατόν ἐστι .",
+      "translation": "One might deem Lucullus especially happy in his end , from the fact that he died before that constitutional change had come , which fate was already contriving by means of the civil wars . His country was in a distempered state when he laid down his life , but still she was free . And in this respect , more than any other , he is like Cimon ."
+    },
+    {
+      "id": "1.2",
+      "label": "Section 1.2",
+      "chapter": null,
+      "original": "καὶ γὰρ ἐκεῖνος οὔπω συντεταραγμένων τῶν Ἑλληνικῶν , ἀλλʼ ἀκμὴν ἐχόντων ἐτελεύτησεν , ἐπὶ στρατοπέδου μέντοι καὶ στρατηγῶν , οὐκ ἀπειρηκὼς οὐδʼ ἀλύων , οὐδέ τῶν ὅπλων καὶ τῶν στρατηγιῶν καὶ τῶν p.612 τροπαίων ἔπαθλον ποιούμενος εὐωχίας καὶ πότους , ὥσπερ Πλάτων ἐπισκώπτει τοὺς περὶ τὸν Ὀρφέα , τοῖς εὖ βεβιωκόσι φάσκοντας ἀποκεῖσθαι γέρας ἐν ? δου μέθην αἰώνιον .",
+      "translation": "For Cimon also died before Greece was confounded , and while she was at the acme of her power . He died , however , in the field , and at the head of an army , not exhausted or of a wandering mind , nor yet making feastings and revellings the crowning prize for arms and campaigns and trophies . Plato [*] banters the followers of Orpheus for declaring that for those who have lived rightly , there is laid up in Hades a treasure of everlasting intoxication ."
+    },
+    {
+      "id": "2.1",
+      "label": "Section 2.1",
+      "chapter": null,
+      "original": "ἐν δὲ τοῖς πολεμικοῖς ὅτι μὲν ἀμφότεροι καὶ κατὰ γῆν καὶ κατὰ θάλασσαν ἀγαθοὶ γεγόνασιν ἀγωνισταί δῆλον ὥσπερ δὲ τῶν ἀθλητῶν τοὺς ἡμέρᾳ μιᾷ πάλῃ καὶ παγκρατίῳ στεφανουμένους ἔθει τινὶ παραδοξονίκας καλοῦσιν , οὕτω Κίμων ἐν ἡμέρᾳ μιᾷ πεζομαχίας καὶ ναυμαχίας ἅμα τροπαίῳ στεφανώσας τὴν Ἑλλάδα δίκαιός ἐστιν ἔχειν τινὰ προεδρίαν ἐν τοῖς στρατηγοῖς .",
+      "translation": "In war , it is plain that both were good fighters , both on land and sea . But just as those athletes who win crowns in wrestling and the pancratium on a single day are called , by custom , Victors-extraordinary , so Cimon , who in a single day crowned Greece with the trophies of a land and sea victory , may justly have a certain pre-eminence among generals ."
+    },
+    {
+      "id": "2.2",
+      "label": "Section 2.2",
+      "chapter": null,
+      "original": "καὶ μὴν Λουκούλλῳ μὲν ἡ πατρίς , Κίμων δὲ τῇ πατρίδι τὴν ἡγεμονίαν περιέθηκε . καὶ ὁ μὲν ἀρχούσῃ τῶν συμμάχων προσεκτήσατο τὰ τῶν πολεμίων , ὁ δʼ ἄλλοις ἑπομένην παραλαβών ἅμα καὶ τῶν συμμάχων ἄρχειν καὶ τῶν πολεμίων κρατεῖν ἐποίησε , Πέρσας μὲν ἀναγκάσας ἡττηθέντας paris.1624.522 ἐκβῆναι τῆς θαλάσσης , Λακεδαιμονίους δὲ p.616 πείσας ἑκόντας ἐκστῆναι .",
+      "translation": "And further , it was his country which conferred imperial power upon Lucullus , whereas Cimon conferred it upon his . The one added his foreign conquests to a country which already ruled her allies ; the other found his country obeying others , and gave her command over her allies and victory over her foreign foes , by defeating the Persians and driving them from the sea , and by persuading the Lacedaemonians voluntarily relinquish the command ."
+    },
+    {
+      "id": "3.1",
+      "label": "Section 3.1",
+      "chapter": null,
+      "original": "πολὺ δʼ ὁ Λούκουλλος προῆλθε τῷ πολέμῳ τόν τε Ταῦρον ὑπερβαλὼν στρατοπέδῳ Ῥωμαίων πρῶτος , καὶ τόν Τίγριν διαβάς καὶ τὰ βασίλεια τῆς Ἀσίας ἐν ὄψει τῶν βασιλέων , Τιγρανόκερτα καὶ Κάβειρα καὶ Σινώπην καὶ Νίσιβιν , ἑλὼν καὶ καταφλέξας ,",
+      "translation": "But Lucullus was much the greater in war . He was the first Roman to cross the Taurus with an army ; he passed the Tigris and captured and burned the royal cities of Asia ,— Tigranocerta Cabira , Sinop —, and Nisibis , before the eyes of their kings ;"
+    },
+    {
+      "id": "3.2",
+      "label": "Section 3.2",
+      "chapter": null,
+      "original": "καὶ τὰ μὲν βόρεια μέχρι Φάσιδος , τὰ δʼ ἑῷα μέχρι Μηδίας , τὰ δὲ πρὸς νότον καὶ τήν ἐρυθρὰν θάλασσαν οἰκειωσάμενος διὰ τῶν Ἀραβικῶν βασιλέων , συντρίψας δὲ τὰς δυνάμεις τῶν βασιλέων , ἀπολειφθεὶς δὲ μόνου τοῦ τὰ σώματα λαβεῖν , ὥσπερ θηρίων εἰς ἐρημίας καὶ ὕλας ἀστιβεῖς καὶ ἀβάτους ἀποδιδρασκόντων .",
+      "translation": "he made his own the regions to the north as far as the Phasis , to the east as far as Media , and to the south as far as the Red Sea , through the assistance of the Arabian kings ; he annihilated the forces of the hostile kings , and failed only in the capture of their persons , since like wild beasts they fled away into deserts and trackless and impenetrable forests ."
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": "nicias-12l2d0"
+}

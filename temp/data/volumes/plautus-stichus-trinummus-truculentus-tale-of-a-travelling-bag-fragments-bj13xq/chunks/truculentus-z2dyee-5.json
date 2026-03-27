@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-stichus-trinummus-truculentus-tale-of-a-travelling-bag-fragments-bj13xq",
+  "volumeTitle": "Stichus. Trinummus. Truculentus. Tale of a Travelling Bag. Fragments",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "truculentus-z2dyee-5",
+  "label": "Truculentus (Section 2.4.409b - Section 2.6.514)",
+  "partId": "truculentus-z2dyee",
+  "partTitle": "Truculentus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Truculentus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi020.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Truculentus, or The Churl",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi020.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "2.4.409b",
+      "label": "Section 2.4.409b",
+      "chapter": null,
+      "original": "O mercis malae .",
+      "translation": "O shocking traffic !"
+    },
+    {
+      "id": "2.4.410",
+      "label": "Section 2.4.410",
+      "chapter": null,
+      "original": "eum núnc non illa peperit , quae peperit prior ,",
+      "translation": "She then hasn ’ t borne this child who at first did bear it , but you who come afterwards ."
+    },
+    {
+      "id": "2.4.411b",
+      "label": "Section 2.4.411b",
+      "chapter": null,
+      "original": "Ordine omnem rem tenes .",
+      "translation": "You have the whole matter in its order . Now , as the Captain has sent a message before to me , he ’ ll be here no long time hence ."
+    },
+    {
+      "id": "2.4.413b",
+      "label": "Section 2.4.413b",
+      "chapter": null,
+      "original": "Nunc tu te interim",
+      "translation": "Now , in the mean time , you are treating yourself here as though one who had just lain in ?"
+    },
+    {
+      "id": "2.4.414b",
+      "label": "Section 2.4.414b",
+      "chapter": null,
+      "original": "Quippini ,",
+      "translation": "Why not ,"
+    },
+    {
+      "id": "2.4.415",
+      "label": "Section 2.4.415",
+      "chapter": null,
+      "original": "ubi sine labore res geri pulcre potest ?",
+      "translation": "when , without trouble , the matter can be nicely managed ? It ’ s proper that every one should be alive at his own trade ."
+    },
+    {
+      "id": "2.4.417",
+      "label": "Section 2.4.417",
+      "chapter": null,
+      "original": "Quid me futurum est , quando miles venerit ?",
+      "translation": "What ’ s to become of me when the Captain comes ? Forsaken , can I live without you ?"
+    },
+    {
+      "id": "2.4.418b",
+      "label": "Section 2.4.418b",
+      "chapter": null,
+      "original": "Vbi illud quod volo",
+      "translation": "When I ’ ve got from him that which I want , I shall easily find a way how"
+    },
+    {
+      "id": "2.4.420",
+      "label": "Section 2.4.420",
+      "chapter": null,
+      "original": "divortium et discordiam inter nos parem :",
+      "translation": "to create discord and a separation between us ; after that , my delight , I shall be always at your side ."
+    },
+    {
+      "id": "2.4.422b",
+      "label": "Section 2.4.422b",
+      "chapter": null,
+      "original": "Immo hercle vero accubuo mavelim .",
+      "translation": "Aye , faith , but I ’ d rather it were at my couch [*] ."
+    },
+    {
+      "id": "2.4.423",
+      "label": "Section 2.4.423",
+      "chapter": null,
+      "original": "quin Dis hodie sacruficare pro puero volo ,",
+      "translation": "Moreover , I wish to sacrifice to-day to the Deities for the child , on this the fifth day [*] , as is proper to be done ."
+    },
+    {
+      "id": "2.4.424b",
+      "label": "Section 2.4.424b",
+      "chapter": null,
+      "original": "Censeo .",
+      "translation": "I think you ought ."
+    },
+    {
+      "id": "2.4.425",
+      "label": "Section 2.4.425",
+      "chapter": null,
+      "original": "Non audes aliquid mihi dare munusculum ?",
+      "translation": "Can ’ t you venture to give me some trifling present ?"
+    },
+    {
+      "id": "2.4.426",
+      "label": "Section 2.4.426",
+      "chapter": null,
+      "original": "Lucrum hercle videor facere mi , voluptas mea ,",
+      "translation": "Upon my faith , my delight , I seem to be making a gain for myself when you ask anything of me ."
+    },
+    {
+      "id": "2.4.427b",
+      "label": "Section 2.4.427b",
+      "chapter": null,
+      "original": "At ego , ubi abstuli .",
+      "translation": "And I , when I ’ ve got it ."
+    },
+    {
+      "id": "2.4.428",
+      "label": "Section 2.4.428",
+      "chapter": null,
+      "original": "Iam faxo hic aderit . servolum huc mittam meum .",
+      "translation": "I ’ ll take care it shall be here just now . I ’ ll send my servant hither ."
+    },
+    {
+      "id": "2.4.429",
+      "label": "Section 2.4.429",
+      "chapter": null,
+      "original": "Sic facito .",
+      "translation": "Do so ."
+    },
+    {
+      "id": "2.4.429b",
+      "label": "Section 2.4.429b",
+      "chapter": null,
+      "original": "Quidquid attulerit , boni consulas .",
+      "translation": "But whatever it shall be , do take it in good part ."
+    },
+    {
+      "id": "2.4.430",
+      "label": "Section 2.4.430",
+      "chapter": null,
+      "original": "Ecastor munus te curaturum scio ,",
+      "translation": "I troth , I ’ m sure that you ’ ll give all attention to your present , of which I shan ’ t be ashamed so long as you send it to me ."
+    },
+    {
+      "id": "2.4.432",
+      "label": "Section 2.4.432",
+      "chapter": null,
+      "original": "Num quippiam aliud me vis ?",
+      "translation": "Do you wish anything else of me ?"
+    },
+    {
+      "id": "2.4.432b",
+      "label": "Section 2.4.432b",
+      "chapter": null,
+      "original": "Vt quando otium",
+      "translation": "That , when you have leisure , you ’ ll come again to see me ."
+    },
+    {
+      "id": "2.4.433b",
+      "label": "Section 2.4.433b",
+      "chapter": null,
+      "original": "Vale .",
+      "translation": "Farewell ."
+    },
+    {
+      "id": "2.4.434",
+      "label": "Section 2.4.434",
+      "chapter": null,
+      "original": "pro di immortales , non amantis mulieris ,",
+      "translation": "O immortal Gods ! ’ twere the part not of a woman in love ,"
+    },
+    {
+      "id": "2.4.435",
+      "label": "Section 2.4.435",
+      "chapter": null,
+      "original": "sed sociae únanimantis , fidentis fuit",
+      "translation": "but of a partner of kindred feelings and confiding , to do what she just now has done for me , in disclosing to me the palming of the child upon the Captain ,— a thing that a sister entrusts not to her own born sister . She discloses herself now to me from her very soul ,"
+    },
+    {
+      "id": "2.4.440",
+      "label": "Section 2.4.440",
+      "chapter": null,
+      "original": "scio mi ínfidelem numquam , dum vivat , fore .",
+      "translation": "that she will never prove faithless to me so long as she exists . Ought I not to love her ? Ought I not to wish her well ? I ’ ll rather not love myself , than that love should be wanting for her . Shall I not send her a present ? This instant , then , I ’ ll order five minae to be brought to her from my house ,"
+    },
+    {
+      "id": "2.4.445",
+      "label": "Section 2.4.445",
+      "chapter": null,
+      "original": "praeterea obsonari una dumtaxat mina .",
+      "translation": "besides catering to the amount of a mina at least . Much rather shall kindness be shown to her who wishes kindly to me , than to myself , who do every mischief to myself ."
+    },
+    {
+      "id": "2.5.448",
+      "label": "Section 2.5.448",
+      "chapter": null,
+      "original": "Puero ísti date mammam . út miserae",
+      "translation": "Give the breast to that child . ( To herself , coming forward .) How wretchedly"
+    },
+    {
+      "id": "2.5.449_450",
+      "label": "Section 2.5.449_450",
+      "chapter": null,
+      "original": "matrés sollicitaeque éx animo sumus crúciamurque !",
+      "translation": "and anxiously are mothers [*] distressed in mind . I ’ faith , ’ twas craftily contrived ; and when I revolve this matter in my mind , we are accounted to be much less artful than we naturally are in disposition . I ’ m now speaking of what , but lately , for the first time , I ’ ve been taught at home ;"
+    },
+    {
+      "id": "2.5.454_455",
+      "label": "Section 2.5.454_455",
+      "chapter": null,
+      "original": "quanta ést cura in animo , quantum corde capio",
+      "translation": "how great is my anxiety of mind , what pangs I do feel in my heart , lest through the death of the child the plot should fail . Because I ’ m styled its mother , for that reason am I the more anxious for its life , who have ventured thus secretly to attempt a stratagem so great . In my avarice , for the sake of gain , have I entered on this disgraceful scheme ;"
+    },
+    {
+      "id": "2.5.460",
+      "label": "Section 2.5.460",
+      "chapter": null,
+      "original": "alienos dolores mihi supposivi ;",
+      "translation": "the pangs of others have I falsely shammed for myself . You must attempt nothing by craftiness , unless you would carry it out with cunning and with care . ( To the AUDIENCE .) You yourselves now see in what garb [*] I go ; I ’ m now pretending that I ’ m an invalid from having lain in ."
+    },
+    {
+      "id": "2.5.465",
+      "label": "Section 2.5.465",
+      "chapter": null,
+      "original": "mále quod mulier fácere incepit , nísi id efficere pérpetrat ,",
+      "translation": "A thing that a woman attempts to do in fraud , unless she is perfect in carrying it out , that same is as bad as disease to her , that same is as bad as old age to her , that to her , wretched creature , is wretchedness : if she begins to do what ’ s right , soon does weariness of it overtake her . How very few are tired who have commenced to do what ’ s wrong ; how very few carry it out , if they have commenced to do anything aright ."
+    },
+    {
+      "id": "2.5.470",
+      "label": "Section 2.5.470",
+      "chapter": null,
+      "original": "mulieri nimio male facere levius onus est quam bene .",
+      "translation": "To a female it is a much less burden to do bad than good . In that I ’ m an artful one , through the agency of my mother [*] and my own artful disposition am I artful , who have thus feigned to the Babylonian Captain that I am pregnant . I wish now the Captain may find this artful plot concocted well . He ’ ll be here no long time hence , I suppose ; forewarned of that I ’ m now forearmed ,"
+    },
+    {
+      "id": "2.5.475",
+      "label": "Section 2.5.475",
+      "chapter": null,
+      "original": "sumque ornata ita ut aegra videar , quasi puerperio cubem .",
+      "translation": "and I ’ m wearing this garb , as though I had just lain in in pregnancy . ( Calls to the SERVANTS within .) Bring me hither some myrrh and fire for the altar , that I may pay adoration to my Lucina . ( They bring it .) Place it here ( pointing to an altar near the door ) , and go out of my sight . Ho there ! Pithecium , help me to lay me down . Come hither ; thus is it proper to help one who has just lain in . ( A couch is brought in by ASTAPHIUM and two HANDMAIDS , and she lays herself down .) Take off my sandals ; throw a coverlet here over me , Archylis ."
+    },
+    {
+      "id": "2.5.480",
+      "label": "Section 2.5.480",
+      "chapter": null,
+      "original": "ubi es , Astaphium ? fer huc verbenam mi intus et bellaria .",
+      "translation": "Astaphium , where are you ? Bring me hither , holy herbs , frankincense , and sweetmeats . Bring water for my hands . ( The SERVANTS go and fetch the things as ordered .) Now , i ’ faith , I could wish that the Captain should come ."
+    },
+    {
+      "id": "2.6.482",
+      "label": "Section 2.6.482",
+      "chapter": null,
+      "original": "Ne expectetis , spectatores , meas pugnas dum praedicem :",
+      "translation": "Don ’ t you be expecting , Spectators , that I should recount my combats ; with my hands in battle I ’ m wont to recount them , and not in words . I know that many a soldier have told lies ;"
+    },
+    {
+      "id": "2.6.485",
+      "label": "Section 2.6.485",
+      "chapter": null,
+      "original": "et Homeronida et postilla mille memorari pote ,",
+      "translation": "both the Homeric poetlings [*] , and a thousand others besides them could be named , who have been both convicted and condemned for their sham battles . He ’ s not to be commended who trusts another any further than he sees . It pleases me not when those commend more who hear than those who see ; of more value is one eye-witness than ten hearsays ."
+    },
+    {
+      "id": "2.6.490",
+      "label": "Section 2.6.490",
+      "chapter": null,
+      "original": "qui audiunt audita dicunt , qui vident plane sciunt .",
+      "translation": "Those who hear , speak of what they ’ ve heard ; those who see , know beyond mistake . I like him not whom the town-gossips [*] are praising , and the men of his maniple are mum about ; nor yet those whose tongues at home make blunt the edge [*] of our swords . The valiant are much more serviceable to the public than the eloquent and skilled . Valour easily finds for itself a fluent eloquence ;"
+    },
+    {
+      "id": "2.6.495",
+      "label": "Section 2.6.495",
+      "chapter": null,
+      "original": "sine virtute argutum civem mihi habeam pro praefica ,",
+      "translation": "without valour , for my own part , I esteem an eloquent citizen as a hired mourner [*] , who praises other people , but can ’ t do the same for herself . Now , after ten months , am I come to Athens of Attica to see my mistress , how she gets on , whom I left pregnant by my embrace ."
+    },
+    {
+      "id": "2.6.499",
+      "label": "Section 2.6.499",
+      "chapter": null,
+      "original": "Vide quis loquitur tam propinque .",
+      "translation": "See who ’ s talking ."
+    },
+    {
+      "id": "2.6.499b",
+      "label": "Section 2.6.499b",
+      "chapter": null,
+      "original": "Miles , mea Phronesium ,",
+      "translation": "The Captain ’ s now close at hand , my mistress Phronesium :"
+    },
+    {
+      "id": "2.6.500",
+      "label": "Section 2.6.500",
+      "chapter": null,
+      "original": "tibi adest Stratophanes . nunc tibi opust , aegram ut te adsimules .",
+      "translation": "Stratophanes is coming to you . ( In a low voice .) Now is it requisite for you to pretend yourself an invalid ."
+    },
+    {
+      "id": "2.6.500b",
+      "label": "Section 2.6.500b",
+      "chapter": null,
+      "original": "Tace .",
+      "translation": "Hold your tongue . What , the plague , de I want you for as an adviser in this matter ? Is it possible to excel myself in craftiness ?"
+    },
+    {
+      "id": "2.6.502",
+      "label": "Section 2.6.502",
+      "chapter": null,
+      "original": "Peperit mulier , ut ego opinor .",
+      "translation": "Madam ’ s brought to bed , as I fancy ."
+    },
+    {
+      "id": "2.6.502b",
+      "label": "Section 2.6.502b",
+      "chapter": null,
+      "original": "Vin adeam ad hominem ?",
+      "translation": "Would you like me to accost the gentleman ?"
+    },
+    {
+      "id": "2.6.502c",
+      "label": "Section 2.6.502c",
+      "chapter": null,
+      "original": "Volo .",
+      "translation": "I wish you ."
+    },
+    {
+      "id": "2.6.503",
+      "label": "Section 2.6.503",
+      "chapter": null,
+      "original": "Euge , Astaphium eccam it mi advorsum .",
+      "translation": "O delightful ! Why , see , here ’ s Astaphium coming to meet me ."
+    },
+    {
+      "id": "2.6.503b",
+      "label": "Section 2.6.503b",
+      "chapter": null,
+      "original": "Salve ecastor , Stratophanes .",
+      "translation": "By all the powers ! welcome to you , Stratophanes , that you ’ re safe arrived —"
+    },
+    {
+      "id": "2.6.504b",
+      "label": "Section 2.6.504b",
+      "chapter": null,
+      "original": "Scio . sed peperitne , ópsecro , Phronesium ?",
+      "translation": "I know it all . But , prithee , has Phronesium been brought to bed ?"
+    },
+    {
+      "id": "2.6.505",
+      "label": "Section 2.6.505",
+      "chapter": null,
+      "original": "Peperit puerum nimium lepidum .",
+      "translation": "She has been delivered of a very fine boy ."
+    },
+    {
+      "id": "2.6.505b",
+      "label": "Section 2.6.505b",
+      "chapter": null,
+      "original": "Ehem , ecquid mei similest ?",
+      "translation": "Is it like me at all ?"
+    },
+    {
+      "id": "2.6.505c",
+      "label": "Section 2.6.505c",
+      "chapter": null,
+      "original": "Rogas ?",
+      "translation": "Do you ask the question ? Why , the moment it was born , it asked for a sabre and shield for itself ."
+    },
+    {
+      "id": "2.6.507",
+      "label": "Section 2.6.507",
+      "chapter": null,
+      "original": "Meus est , scio iam de argumentis .",
+      "translation": "It ’ s my own ; I know it at once from the proofs ."
+    },
+    {
+      "id": "2.6.507b",
+      "label": "Section 2.6.507b",
+      "chapter": null,
+      "original": "Nimium tuí similest .",
+      "translation": "Indeed it is extremely like you ."
+    },
+    {
+      "id": "2.6.507c",
+      "label": "Section 2.6.507c",
+      "chapter": null,
+      "original": "Papae ,",
+      "translation": "Ye Gods above ! Is it of full growth already ? Has it already chosen some army which it intends to plunder ?"
+    },
+    {
+      "id": "2.6.509",
+      "label": "Section 2.6.509",
+      "chapter": null,
+      "original": "Heia , nudius quintus natus ille quidem est .",
+      "translation": "Why really , it was only born five days ago ."
+    },
+    {
+      "id": "2.6.509b",
+      "label": "Section 2.6.509b",
+      "chapter": null,
+      "original": "Quid postea ?",
+      "translation": "What then , after it was born ? After so many days , i ’ faith , something really ought by this time to have been done . What business had it to leave the womb before it could go forth to battle ?"
+    },
+    {
+      "id": "2.6.512",
+      "label": "Section 2.6.512",
+      "chapter": null,
+      "original": "Consequere atque illam saluta et gratulare illi .",
+      "translation": "Follow me , and wish her joy , and congratulate her ."
+    },
+    {
+      "id": "2.6.512b",
+      "label": "Section 2.6.512b",
+      "chapter": null,
+      "original": "Sequor .",
+      "translation": "I follow ."
+    },
+    {
+      "id": "2.6.513",
+      "label": "Section 2.6.513",
+      "chapter": null,
+      "original": "Vbi illa , óbsecro , est quae me hic reliquit , eapse abiit ? ubist ?",
+      "translation": "Prithee , where is she who has left me here and forsaken me ?"
+    },
+    {
+      "id": "2.6.514",
+      "label": "Section 2.6.514",
+      "chapter": null,
+      "original": "Adsum , adduco tibi exoptatum Stratophanem .",
+      "translation": "I ’ m here ; I ’ m bringing you Stratophanes , so much longed for by you ."
+    }
+  ],
+  "prevChunkSlug": "truculentus-z2dyee-4",
+  "nextChunkSlug": "truculentus-z2dyee-6"
+}

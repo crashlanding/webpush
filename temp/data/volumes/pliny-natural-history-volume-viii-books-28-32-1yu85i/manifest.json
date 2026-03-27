@@ -1,0 +1,61 @@
+{
+  "loebNumber": 418,
+  "sortOrder": 418,
+  "slug": "pliny-natural-history-volume-viii-books-28-32-1yu85i",
+  "title": "Natural History, Volume VIII: Books 28-32",
+  "volumeLabel": "Natural History, Volume VIII: Books 28-32",
+  "authorDisplay": "Pliny",
+  "authors": [
+    "Pliny"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for Natural History, Volume VIII: Books 28-32, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "natural-history-books-28-32-1ulnxn",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "natural-history-books-28-32-1ulnxn",
+      "title": "Natural History: Books 28-32",
+      "status": "ready",
+      "sectionCount": 20,
+      "chunkSlug": "natural-history-books-28-32-1ulnxn",
+      "chunks": [
+        {
+          "slug": "natural-history-books-28-32-1ulnxn",
+          "label": "Natural History: Books 28-32",
+          "partId": "natural-history-books-28-32-1ulnxn",
+          "partTitle": "Natural History: Books 28-32",
+          "sectionCount": 20,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "natural-history-books-28-32-1ulnxn",
+      "label": "Natural History: Books 28-32",
+      "partId": "natural-history-books-28-32-1ulnxn",
+      "partTitle": "Natural History: Books 28-32",
+      "sectionCount": 20,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "natural-history-books-28-32-1ulnxn",
+      "partTitle": "Natural History: Books 28-32",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Res Gestae",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:stoa0023.stoa001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "History",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:stoa0023.stoa001.perseus-eng2/"
+      }
+    }
+  ]
+}

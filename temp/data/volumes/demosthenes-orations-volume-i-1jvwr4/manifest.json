@@ -1,0 +1,301 @@
+{
+  "loebNumber": 238,
+  "sortOrder": 238,
+  "slug": "demosthenes-orations-volume-i-1jvwr4",
+  "title": "Orations, Volume I",
+  "volumeLabel": "Orations, Volume I",
+  "authorDisplay": "Demosthenes",
+  "authors": [
+    "Demosthenes"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Orations, Volume I. Orations, Volume I opens a closest available slice of Demosthenes on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "olynthiac-1-sywtjq",
+  "readyChunkCount": 9,
+  "contents": [
+    {
+      "id": "orations-volume-i-89ijnc",
+      "title": "Orations, Volume I",
+      "status": "ready",
+      "sectionCount": 407,
+      "chunkSlug": "olynthiac-1-sywtjq",
+      "chunks": [
+        {
+          "slug": "olynthiac-1-sywtjq",
+          "label": "Olynthiac 1",
+          "partId": "orations-volume-i-89ijnc",
+          "partTitle": "Orations, Volume I",
+          "sectionCount": 28,
+          "status": "ready"
+        },
+        {
+          "slug": "olynthiac-2-sywtjr",
+          "label": "Olynthiac 2",
+          "partId": "orations-volume-i-89ijnc",
+          "partTitle": "Orations, Volume I",
+          "sectionCount": 31,
+          "status": "ready"
+        },
+        {
+          "slug": "olynthiac-3-sywtjs",
+          "label": "Olynthiac 3",
+          "partId": "orations-volume-i-89ijnc",
+          "partTitle": "Orations, Volume I",
+          "sectionCount": 36,
+          "status": "ready"
+        },
+        {
+          "slug": "first-philippic-1owhd7",
+          "label": "First Philippic",
+          "partId": "orations-volume-i-89ijnc",
+          "partTitle": "Orations, Volume I",
+          "sectionCount": 51,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-peace-qkrbwe",
+          "label": "On the Peace",
+          "partId": "orations-volume-i-89ijnc",
+          "partTitle": "Orations, Volume I",
+          "sectionCount": 25,
+          "status": "ready"
+        },
+        {
+          "slug": "second-philippic-n9o270",
+          "label": "Second Philippic",
+          "partId": "orations-volume-i-89ijnc",
+          "partTitle": "Orations, Volume I",
+          "sectionCount": 37,
+          "status": "ready"
+        },
+        {
+          "slug": "on-halonnesus-1tofgk",
+          "label": "On Halonnesus",
+          "partId": "orations-volume-i-89ijnc",
+          "partTitle": "Orations, Volume I",
+          "sectionCount": 46,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-chersonese-v1cq5j",
+          "label": "On the Chersonese",
+          "partId": "orations-volume-i-89ijnc",
+          "partTitle": "Orations, Volume I",
+          "sectionCount": 77,
+          "status": "ready"
+        },
+        {
+          "slug": "third-philippic-bxv1n3",
+          "label": "Third Philippic",
+          "partId": "orations-volume-i-89ijnc",
+          "partTitle": "Orations, Volume I",
+          "sectionCount": 76,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "olynthiac-1-sywtjq",
+      "label": "Olynthiac 1",
+      "partId": "orations-volume-i-89ijnc",
+      "partTitle": "Orations, Volume I",
+      "sectionCount": 28,
+      "status": "ready"
+    },
+    {
+      "slug": "olynthiac-2-sywtjr",
+      "label": "Olynthiac 2",
+      "partId": "orations-volume-i-89ijnc",
+      "partTitle": "Orations, Volume I",
+      "sectionCount": 31,
+      "status": "ready"
+    },
+    {
+      "slug": "olynthiac-3-sywtjs",
+      "label": "Olynthiac 3",
+      "partId": "orations-volume-i-89ijnc",
+      "partTitle": "Orations, Volume I",
+      "sectionCount": 36,
+      "status": "ready"
+    },
+    {
+      "slug": "first-philippic-1owhd7",
+      "label": "First Philippic",
+      "partId": "orations-volume-i-89ijnc",
+      "partTitle": "Orations, Volume I",
+      "sectionCount": 51,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-peace-qkrbwe",
+      "label": "On the Peace",
+      "partId": "orations-volume-i-89ijnc",
+      "partTitle": "Orations, Volume I",
+      "sectionCount": 25,
+      "status": "ready"
+    },
+    {
+      "slug": "second-philippic-n9o270",
+      "label": "Second Philippic",
+      "partId": "orations-volume-i-89ijnc",
+      "partTitle": "Orations, Volume I",
+      "sectionCount": 37,
+      "status": "ready"
+    },
+    {
+      "slug": "on-halonnesus-1tofgk",
+      "label": "On Halonnesus",
+      "partId": "orations-volume-i-89ijnc",
+      "partTitle": "Orations, Volume I",
+      "sectionCount": 46,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-chersonese-v1cq5j",
+      "label": "On the Chersonese",
+      "partId": "orations-volume-i-89ijnc",
+      "partTitle": "Orations, Volume I",
+      "sectionCount": 77,
+      "status": "ready"
+    },
+    {
+      "slug": "third-philippic-bxv1n3",
+      "label": "Third Philippic",
+      "partId": "orations-volume-i-89ijnc",
+      "partTitle": "Orations, Volume I",
+      "sectionCount": 76,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "olynthiac-1-sywtjq",
+      "partTitle": "Orations, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὀλυνθιακὸς α΄",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "First Olynthiac",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg001.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "olynthiac-2-sywtjr",
+      "partTitle": "Orations, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὀλυνθιακὸς β΄",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg002.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Second Olynthiac",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "olynthiac-3-sywtjs",
+      "partTitle": "Orations, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὀλυνθιακὸς γ΄",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Third Olynthiac",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "first-philippic-1owhd7",
+      "partTitle": "Orations, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Φιλίππου α΄",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg004.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "First Philippic",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-peace-qkrbwe",
+      "partTitle": "Orations, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "περὶ τῆς εἰρήνης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg005.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Peace",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg005.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "second-philippic-n9o270",
+      "partTitle": "Orations, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Φιλίππου β΄",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg006.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Second Philippic",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg006.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "on-halonnesus-1tofgk",
+      "partTitle": "Orations, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "περὶ Ἀλοννήσου",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg007.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Halonnesus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg007.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-chersonese-v1cq5j",
+      "partTitle": "Orations, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "περὶ τῶν ἐν Χερρονήσῳ",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg008.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Chersonese",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg008.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "third-philippic-bxv1n3",
+      "partTitle": "Orations, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Φιλίππου γ΄",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg009.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Third Philippic",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg009.perseus-eng2/"
+      }
+    }
+  ]
+}

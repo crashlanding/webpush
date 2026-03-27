@@ -1,0 +1,290 @@
+{
+  "volumeSlug": "demosthenes-orations-volume-vii-7g6p2s",
+  "volumeTitle": "Orations, Volume VII",
+  "authorDisplay": "Demosthenes",
+  "authors": [
+    "Demosthenes"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "the-funeral-speech-kmi7p6",
+  "label": "The Funeral Speech",
+  "partId": "orations-volume-vii-1lkkq1",
+  "partTitle": "Orations, Volume VII",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "ἐπιτάφιος",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg060.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "The Funeral Speech",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg060.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1",
+      "label": "Section 1",
+      "chapter": null,
+      "original": "ἐπειδὴ τοὺς ἐν τῷδε τῷ τάφῳ κειμένους , ἄνδρας ἀγαθοὺς ἐν τῷ πολέμῳ γεγονότας , ἔδοξεν τῇ πόλει δημοσίᾳ θάπτειν καὶ προσέταξεν ἐμοὶ τὸν νομιζόμενον λόγον εἰπεῖν ἐπʼ αὐτοῖς , ἐσκόπουν μὲν εὐθὺς ὅπως τοῦ προσήκοντος ἐπαίνου τεύξονται , ἐξετάζων δὲ καὶ σκοπῶν ἀξίως εἰπεῖν τῶν τετελευτηκότων ἕν τι τῶν ἀδυνάτων ηὕρισκον ὄν . οἳ γὰρ τὴν ὑπάρχουσαν πᾶσιν ἔμφυτον τοῦ ζῆν ὑπερεῖδον ἐπιθυμίαν , καὶ τελευτῆσαι καλῶς μᾶλλον ἠβουλήθησαν ἢ ζῶντες τὴν Ἑλλάδʼ ἰδεῖν ἀτυχοῦσαν , πῶς οὐκ ἀνυπέρβλητον παντὶ λόγῳ τὴν αὑτῶν ἀρετὴν καταλελοίπασιν ; ὁμοίως μέντοι διαλεχθῆναι τοῖς πρότερόν ποτʼ εἰρηκόσιν ἐνθάδʼ εἶναι μοι δοκεῖ .",
+      "translation": "After [*] the State decreed that those who repose in this tomb , having acquitted themselves as brave men in the war , should have a public funeral , and appointed me to the duty of delivering over them the customary speech , I began straightway to study how they might receive their due tribute of praise ; but as I studied and searched my mind the conclusion forced itself upon me that to speak as these dead deserve was one of those things that cannot be done . For , since they scorned the love of life that is inborn in all men and chose rather to die nobly than to live and look upon Greece in misfortune , how can they have failed to leave behind them a record of valor surpassing all power of words to express ? Nevertheless I propose to treat the theme in the same vein as those who have previously spoken in this place from time to time ."
+    },
+    {
+      "id": "2",
+      "label": "Section 2",
+      "chapter": null,
+      "original": "ὡς μὲν οὖν ἡ πόλις σπουδάζει περὶ τοὺς ἐν τῷ πολέμῳ τελευτῶντας , ἔκ τε τῶν ἄλλων ἔστιν ἰδεῖν καὶ μάλιστʼ ἐκ τοῦδε τοῦ νόμου , καθʼ ὃν αἱρεῖται τὸν ἐροῦντʼ ἐπὶ ταῖς δημοσίαις ταφαῖς · εἰδυῖα γὰρ παρὰ τοῖς ἀγαθοῖς ἀνδράσιν τὰς μὲν τῶν χρημάτων κτήσεις καὶ τῶν κατὰ τὸν βίον ἡδονῶν ἀπολαύσεις ὑπερεωραμένας , τῆς δʼ ἀρετῆς καὶ τῶν ἐπαίνων πᾶσαν τὴν ἐπιθυμίαν οὖσαν , ἐξ ὧν ταῦτʼ ἂν αὐτοῖς μάλιστα γένοιτο λόγων , τούτοις ᾠήθησαν δεῖν αὐτοὺς τιμᾶν , ἵνʼ ἣν ζῶντες ἐκτήσαντʼ εὐδοξίαν , αὕτη καὶ τετελευτηκόσιν αὐτοῖς ἀποδοθείη .",
+      "translation": "That the State seriously concerns itself with those who die in battle it is possible to infer both from these rites in general and , in particular , from this law in accordance with which it chooses the speaker at our public funerals . For knowing that among good men the acquisition of wealth and the enjoyment of the pleasures that go with living are scorned , [*] and that their whole desire is for virtue and words of praise , the citizens were of the opinion that we ought to honor them with such eulogies as would most certainly secure them in death the glory they had won while living ."
+    },
+    {
+      "id": "3",
+      "label": "Section 3",
+      "chapter": null,
+      "original": "εἰ μὲν οὖν τὴν ἀνδρείαν μόνον αὐτοῖς τῶν εἰς ἀρετὴν ἀνηκόντων ὑπάρχουσαν ἑώρων , ταύτην ἂν ἐπαινέσας ἀπηλλαττόμην τῶν λοιπῶν · ἐπειδὴ δὲ καὶ γεγενῆσθαι καλῶς καὶ πεπαιδεῦσθαι σωφρόνως καὶ βεβιωκέναι φιλοτίμως συμβέβηκεν αὐτοῖς , ἐξ ὧν εἰκότως ἦσαν σπουδαῖοι , αἰσχυνοίμην ἂν εἴ τι τούτων φανείην παραλιπών . ἄρξομαι δʼ ἀπὸ τῆς τοῦ γένους αὐτῶν ἀρχῆς .",
+      "translation": "Now , if it were my view that , of those qualities that constitute virtue , courage alone was their possession , I might praise this and be done with the speaking , but since it fell to their lot also to have been nobly born and strictly brought up and to have lived with lofty ideals , because of all which they had every reason to be good men , I should be ashamed if I were found to have passed over any of these topics . [*] I shall begin from the origin of their race . [*]"
+    },
+    {
+      "id": "4",
+      "label": "Section 4",
+      "chapter": null,
+      "original": "ἡ γὰρ εὐγένεια τῶνδε τῶν ἀνδρῶν ἐκ πλείστου χρόνου παρὰ πᾶσιν ἀνθρώποις ἀνωμολόγηται . οὐ γὰρ μόνον εἰς πατέρʼ αὐτοῖς καὶ τῶν ἄνω προγόνων κατʼ ἄνδρʼ ἀνενεγκεῖν ἑκάστῳ τὴν φύσιν ἔστιν , ἀλλʼ εἰς ὅλην κοινῇ τὴν ὑπάρχουσαν πατρίδα , ἧς αὐτόχθονες ὁμολογοῦνται εἶναι . μόνοι γὰρ πάντων ἀνθρώπων , ἐξ ἧσπερ ἔφυσαν , ταύτην ᾤκησαν καὶ τοῖς ἐξ αὑτῶν παρέδωκαν , ὥστε δικαίως ἄν τις ὑπολάβοι τοὺς μὲν ἐπήλυδας ἐλθόντας εἰς τὰς πόλεις καὶ τούτων πολίτας προσαγορευομένους ὁμοίους εἶναι τοῖς εἰσποιητοῖς τῶν παίδων , τούτους δὲ γνησίους γόνῳ τῆς πατρίδος πολίτας εἶναι .",
+      "translation": "The nobility of birth of these men has been acknowledged from time immemorial by all mankind . For it is possible for them and for each one of their remote ancestors man by man to trace back their being , not only to a physical father , but also to this land of theirs as a whole , a common possession , of which they are acknowledged to be the indigenous children . [*] For alone of all mankind they settled the very land from which they were born and handed it down to their descendants , so that justly one may assume that those who came as migrants into their cities and are denominated citizens of the same are comparable to adopted children ; but these men are citizens of their native land by right of legitimate birth . [*]"
+    },
+    {
+      "id": "5",
+      "label": "Section 5",
+      "chapter": null,
+      "original": "δοκεῖ δέ μοι καὶ τὸ τοὺς καρπούς , οἷς ζῶσιν ἅνθρωποι , παρʼ ἡμῖν πρώτοις φανῆναι , χωρὶς τοῦ μέγιστον εὐεργέτημʼ εἰς πάντας γενέσθαι , ὁμολογούμενον σημεῖον ὑπάρχειν τοῦ μητέρα τὴν χώραν εἶναι τῶν ἡμετέρων προγόνων . πάντα γὰρ τὰ τίκτονθʼ ἅμα καὶ τροφὴν τοῖς γιγνομένοις ἀπʼ αὐτῆς τῆς φύσεως φέρει · ὅπερ ἥδʼ ἡ χώρα πεποίηκεν .",
+      "translation": "In my view also the fact that the fruits of the earth by which men live were first manifest among us , [*] even apart from their being a superlative boon to all men , constitutes an acknowledged proof that this land is the mother of our ancestors . For all things that bring forth young produce at the same time nutriment out of the organism itself [*] for those that are born . This very thing has been done by this land . [*]"
+    },
+    {
+      "id": "6",
+      "label": "Section 6",
+      "chapter": null,
+      "original": "τὰ μὲν οὖν εἰς γένος ἀνήκοντα τοιαῦτα διʼ αἰῶνος ὑπάρχει τοῖς τῶνδε τῶν ἀνδρῶν προγόνοις . τὰ δʼ εἰς ἀνδρείαν καὶ τὴν ἄλλην ἀρετὴν πάντα μὲν κατοκνῶ λέγειν , φυλαττόμενος μὴ μῆκος ἄκαιρον ἐπιγένηται τῷ λόγῳ · ἃ δὲ καὶ τοῖς εἰδόσιν χρήσιμʼ ἀναμνησθῆναι καὶ τοῖς ἀπείροις κάλλιστʼ ἀκοῦσαι , καὶ ζῆλον ἔχει πολὺν καὶ μῆκος λόγου ἄλυπον , ταῦτʼ ἐπὶ κεφαλαίων εἰπεῖν πειράσομαι .",
+      "translation": "Such is the pride of birth that belongs to the ancestors of these men throughout the ages . As for Courage and the other elements of virtue , I shrink from rehearsing the whole story , being on my guard for fear an untimely length shall attach to my speech , [*] but such facts as it is worth while even for those who are familiar with them to recall to mind and most profitable for the inexperienced to hear , [*] events of great power to inspire and calling for no tedious length of speech , these I shall endeavor to rehearse in summary fashion . [*]"
+    },
+    {
+      "id": "7",
+      "label": "Section 7",
+      "chapter": null,
+      "original": "οἱ γὰρ τῆς κατὰ τὸν παρόντα χρόνον γενεᾶς πρόγονοι , καὶ πατέρες καὶ τούτων ἐπάνω τὰς προσηγορίας ἔχοντες , αἷς ὑπὸ τῶν ἐν γένει γνωρίζονται , ἠδίκησαν μὲν οὐδένα πώποτʼ οὔθʼ Ἕλληνʼ οὔτε βάρβαρον , ἀλλʼ ὑπῆρχεν αὐτοῖς πρὸς ἅπασι τοῖς ἄλλοις καλοῖς κἀγαθοῖς καὶ δικαιοτάτοις εἶναι , ἀμυνόμενοι δὲ πολλὰ καὶ καλὰ διεπράξαντο .",
+      "translation": "For the ancestors of this present generation , both their fathers and those who bore the names of these men in time past , by which they are recognized by those of our race , never at any time wronged any man , whether Greek or barbarian , but it was their pride , in addition to all their other good qualities , to be true gentlemen and supremely just , and in defending themselves they accomplished a long list of noble deeds ."
+    },
+    {
+      "id": "8",
+      "label": "Section 8",
+      "chapter": null,
+      "original": "καὶ γὰρ τὸν Ἀμαζόνων στρατὸν ἐλθόντʼ ἐκράτησαν οὕτως ὥστʼ ἔξω Φάσιδος ἐκβαλεῖν , καὶ τὸν Εὐμόλπου καὶ τῶν πολλῶν ἄλλων στόλον οὐ μόνον ἐκ τῆς οἰκείας , ἀλλὰ καὶ ἐκ τῆς τῶν ἄλλων Ἑλλήνων χώρας ἐξήλασαν , οὓς οἱ πρὸ ἡμῶν οἰκοῦντες πρὸς ἑσπέραν πάντες οὔθʼ ὑπέμειναν οὔτʼ ἐδυνήθησαν κωλῦσαι . καὶ μὴν καὶ τῶν Ἡρακλέους παίδων , ὃς τοὺς ἄλλους ἔσῳζεν , σωτῆρες ὠνομάσθησαν , ἡνίκʼ ἦλθον εἰς τήνδε τὴν γῆν ἱκέται , φεύγοντες Εὐρυσθέα . καὶ πρὸς πᾶσι τούτοις καὶ πολλοῖς ἄλλοις καὶ καλοῖς ἔργοις τὰ τῶν κατοιχομένων νόμιμʼ οὐ περιεῖδον ὑβριζόμενα , ὅτε τοὺς ἕπτʼ ἐπὶ Θήβας θάπτειν ἐκώλυεν Κρέων .",
+      "translation": "They so prevailed over the invading host of the Amazons as to expel them beyond the Phasis , and the host of Eumolpus and of many another foeman they drove not only out of their own land but also from the lands of all the other Greeks — invaders whom all those dwelling on our front to the westward neither withstood nor possessed the power to halt . [*] Moreover , they were styled the saviors of the sons of Heracles , who himself was the savior of the rest of mankind , when they arrived in this land as suppliants , fleeing before Eurystheus . In addition to all these and many other noble deeds they refused to suffer the lawful rites of the departed to be treated with despite when Creon forbade the burial of the seven against Thebes . [*]"
+    },
+    {
+      "id": "9",
+      "label": "Section 9",
+      "chapter": null,
+      "original": "τῶν μὲν οὖν εἰς μύθους ἀνενηνεγμένων ἔργων πολλὰ παραλιπὼν τούτων ἐπεμνήσθην , ὧν οὕτως ἕκαστον εὐσχήμονας καὶ πολλοὺς ἔχει λόγους ὥστε καὶ τοὺς ἐν μέτροις καὶ τοὺς τῶν ᾀδομένων ποιητὰς καὶ πολλοὺς τῶν συγγραφέων ὑποθέσεις τἀκείνων ἔργα τῆς αὑτῶν μουσικῆς πεποιῆσθαι · ἃ δὲ τῇ μὲν ἀξίᾳ τῶν ἔργων οὐδέν ἐστι τούτων ἐλάττω , τῷ δʼ ὑπογυώτερʼ εἶναι τοῖς χρόνοις οὔπω μεμυθολόγηται , οὐδʼ εἰς τὴν ἡρωϊκὴν ἐπανῆκται τάξιν , ταῦτʼ ἤδη λέξω .",
+      "translation": "Now , omitting mention of many exploits that are classed as myths , I have recalled to mind the above-mentioned , each of which affords so many charming themes that our writers of poetry , whether recited or sung , [*] and many historians , have made the deeds of those men the subjects of their respective arts ; at the present time I shall mention the following deeds , which , though in point of merit they are no whit inferior to the former , still , through being closer in point of time , have not yet found their way into poetry or even been exalted to epic rank ."
+    },
+    {
+      "id": "10",
+      "label": "Section 10",
+      "chapter": null,
+      "original": "ἐκεῖνοι τὸν ἐξ ἁπάσης τῆς Ἀσίας στόλον ἐλθόντα μόνοι δὶς ἠμύναντο καὶ κατὰ γῆν καὶ κατὰ θάλατταν , καὶ διὰ τῶν ἰδίων κινδύνων κοινῆς σωτηρίας πᾶσι τοῖς Ἕλλησιν αἴτιοι κατέστησαν . καὶ προείρηται μὲν ὃ μέλλω λέγειν ὑπʼ ἄλλων πρότερον , δεῖ δὲ μηδὲ νῦν τοῦ δικαίου καὶ καλῶς ἔχοντος ἐπαίνου τοὺς ἄνδρας ἐκείνους στερηθῆναι · τοσούτῳ γὰρ ἀμείνους τῶν ἐπὶ Τροίαν στρατευσαμένων νομίζοιντʼ ἂν εἰκότως , ὅσον οἱ μὲν ἐξ ἁπάσης τῆς Ἑλλάδος ὄντες ἀριστεῖς δέκʼ ἔτη τῆς Ἀσίας ἓν χωρίον πολιορκοῦντες μόλις εἷλον ,",
+      "translation": "Those men single-handed twice repulsed by land and sea the expedition assembled out of the whole of Asia , [*] and at their individual risks established themselves as the authors of the joint salvation of all the Greeks . And though what I shall say next has been said before by many another , still even at this date those dead must not be deprived of their just and excellent praise . For I say that with good reason those men might be judged so far superior to those who campaigned against Troy , that the latter , the foremost princes out of the whole of Greece , with difficulty captured a single stronghold of Asia after besieging it for ten years , [*]"
+    },
+    {
+      "id": "11",
+      "label": "Section 11",
+      "chapter": null,
+      "original": "οὗτοι δὲ τὸν ἐκ πάσης τῆς ἠπείρου στόλον ἐλθόντα μόνοι , τἄλλα πάντα κατεστραμμένον , οὐ μόνον ἠμύναντο , ἀλλὰ καὶ τιμωρίαν ὑπὲρ ὧν τοὺς ἄλλους ἠδίκουν ἐπέθηκαν . ἔτι τοίνυν τὰς ἐν αὐτοῖς τοῖς Ἕλλησιν πλεονεξίας κωλύοντες πάντας ὅσους συνέβη γενέσθαι κινδύνους ὑπέμειναν , ὅπου τὸ δίκαιον εἴη τεταγμένον , ἐνταῦθα προσνέμοντες ἑαυτούς , ἕως εἰς τὴν νῦν ζῶσαν ἡλικίαν ὁ χρόνος προήγαγεν ἡμᾶς .",
+      "translation": "whereas those men single-handed not only repulsed a host assembled from an entire continent , which had already subdued all other lands , but also inflicted punishment for the wrong done the rest of the Greeks . Furthermore , checking all acts of selfish aggrandisement among the Greeks themselves , assigning themselves to each station where justice was arrayed , they went on bearing the brunt of all dangers that chanced to arise until the lapse of time brings us to the generation now living ."
+    },
+    {
+      "id": "12",
+      "label": "Section 12",
+      "chapter": null,
+      "original": "μηδεὶς δʼ ἡγείσθω μʼ ἀποροῦντα τί χρὴ περὶ τούτων εἰπεῖν ἑκάστου , ταῦτα τὰ πραχθέντʼ ἀπηριθμηκέναι . εἰ γὰρ ἁπάντων ἀμηχανώτατος ἦν ὅ τι χρὴ λέγειν πορίσασθαι , ἡ ʼκείνων ἀρετὴ δείκνυσιν αὐτὴ ἃ καὶ πρόχειρα καὶ ῥᾴδιʼ ἐπελθεῖν ἐστιν . ἀλλὰ προαιροῦμαι τῆς εὐγενείας καὶ τῶν παρὰ τοῖς προγόνοις μεγίστων μνησθεὶς ὡς τάχιστα συνάψαι τὸν λόγον πρὸς τὰ τοῖσδε πεπραγμένα , ἵνα , ὥσπερ τὰς φύσεις ἦσαν συγγενεῖς , οὕτω τοὺς ἐπαίνους ἐπʼ αὐτῶν κοινοὺς ποιήσωμαι , ὑπολαμβάνων ταῦτʼ ἂν εἶναι κεχαρισμένα κἀκείνοις καὶ μάλιστʼ ἀμφοτέροις , εἰ τῆς ἀλλήλων ἀρετῆς μὴ μόνον τῇ φύσει μετάσχοιεν , ἀλλὰ καὶ τοῖς ἐπαίνοις .",
+      "translation": "Let no one think I have enumerated this list of achievements because I am at a loss what to say about each of them ; for if I were the most helpless of all men in discovering what it becomes me to say , the sheer virtue of those dead reveals what sentiments lie to hand and are easy to rehearse . It is my intention , however , after calling to mind their noble birth and the magnificent things done by their ancestors , with all speed to link my speech with the deeds of these dead , to the end that , just as they were akin in the flesh , so I may make the words of praise spoken over them to apply to both alike . I assume that this would be gratifying not only to the ancestors but , best of all , to both them and these dead , if they should come to share one another ’ s merit not only by virtue of birth but also by reason of our words of praise ."
+    },
+    {
+      "id": "13",
+      "label": "Section 13",
+      "chapter": null,
+      "original": "ἀνάγκη δʼ ἐν τῷ μεταξὺ διαλαβεῖν , καὶ πρὸ τοῦ τὰ τοῖσδε πεπραγμένα τοῖς ἀνδράσιν δηλοῦν καὶ τοὺς ἔξω τοῦ γένους πρὸς τὸν τάφον ἠκολουθηκότας πρὸς εὔνοιαν παρα- καλέσαι . καὶ γὰρ εἰ μὲν εἰς χρημάτων δαπάνην ἤ τινʼ ἄλλην θεωρίαν ἱππικῶν ἢ γυμνικῶν ἄθλων ἐτάχθην κοσμῆσαι τὸν τάφον , ὅσῳπερ ἂν προθυμότερον καὶ ἀφειδέστερον ταῦτα παρεσκευάσμην , τοσούτῳ μᾶλλον ἂν προσήκοντʼ ἔδοξα πεποιηκέναι · λόγῳ δʼ ἐπαινέσαι τούτους τοὺς ἄνδρας αἱρεθείς , ἂν μὴ τοὺς ἀκούοντας συμβουλομένους λάβω , φοβοῦμαι μὴ τῇ προθυμίᾳ τοὐναντίον οὗ δεῖ ποιήσω .",
+      "translation": "In the meantime it is necessary to interrupt my discourse for a moment , before declaring the deeds of these men , to solicit the goodwill of those born outside this race who have accompanied us to the tomb . [*] For if I had been appointed to do honor to this burial through expenditure of money or by providing some different kind of a spectacle consisting of equestrian or gymnastic contests , the greater my zeal and the more lavish my expenditure in preparing such spectacles , the better I should have been thought to have done my duty . Having been chosen , however , to extol these men in a speech , unless I have the sympathy of my hearers , I fear that because of my eagerness I may effect the very opposite of what I ought ."
+    },
+    {
+      "id": "14",
+      "label": "Section 14",
+      "chapter": null,
+      "original": "ὁ μὲν γὰρ πλοῦτος καὶ τὸ τάχος καὶ ἡ ἰσχὺς καὶ ὅσʼ ἄλλα τούτοις ὅμοια , αὐτάρκεις ἔχει τὰς ὀνήσεις τοῖς κεκτημένοις , καὶ κρατοῦσιν ἐν αὐτοῖς , οἷς ἂν παρῇ , κἂν μηδεὶς τῶν ἄλλων βούληται · ἡ δὲ τῶν λόγων πειθὼ τῆς τῶν ἀκουόντων εὐνοίας προσδεῖται , καὶ μετὰ ταύτης μέν , κἂν μετρίως ῥηθῇ , δόξαν ἤνεγκε καὶ χάριν προσποιεῖ , ἄνευ δὲ ταύτης , κἂν ὑπερβάλῃ τῷ λέγειν καλῶς , προσέστη τοῖς ἀκούουσιν .",
+      "translation": "For wealth and speed of foot and strength of body and all other such things have their rewards self-assured to their possessors , and in those fields they win who have the luck , even if not one of the others wishes their success . On the other hand , the persuasiveness of words depends upon the goodwill of the hearers , and with the help of this , even if the eloquence be moderate , it reaps glory and gains favor , but lacking this help , even if it be surpassingly good , it is thwarted by those who hear . [*]"
+    },
+    {
+      "id": "15",
+      "label": "Section 15",
+      "chapter": null,
+      "original": "πολλὰ τοίνυν ἔχων εἰπεῖν ὧν οἵδε πράξαντες δικαίως ἐπαινεθήσονται , ἐπειδὴ πρὸς αὐτοῖς εἰμι τοῖς ἔργοις , ἀπορῶ τί πρῶτον εἴπω · προσιστάμενα γάρ μοι πάντʼ εἰς ἕνα καιρὸν δύσκριτον καθίστησιν τὴν αἵρεσιν αὐτῶν . οὐ μὴν ἀλλὰ πειράσομαι τὴν αὐτὴν ποιήσασθαι τοῦ λόγου τάξιν ἥπερ ὑπῆρξεν τοῦ βίου τούτοις .",
+      "translation": "Now to resume my theme : though many deeds of these men are at hand because of which they will be justly eulogized , I am at a loss what to mention first when I come face to face with the facts . For thronging into my mind as they do , all at one and the same time , it becomes difficult to make a choice among them . I shall endeavor , however , to maintain the same order of topics in my speech as marked the course of the lives of these men ."
+    },
+    {
+      "id": "16",
+      "label": "Section 16",
+      "chapter": null,
+      "original": "οἵδε γὰρ ἐξ ἀρχῆς ἐν πᾶσιν τοῖς παιδεύμασιν ἦσαν ἐπιφανεῖς , τὰ πρέποντα καθʼ ἡλικίαν ἀσκοῦντες ἑκάστην , καὶ πᾶσιν ἀρέσκοντες οἷς χρή , γονεῦσιν , φίλοις , οἰκείοις . τοιγαροῦν ὥσπερ ἴχνη γνωρίζουσα νῦν ἡ τῶν οἰκείων αὐτοῖς καὶ φίλων μνήμη πᾶσαν ὥραν ἐπὶ τούτους φέρεται τῷ πόθῳ ,",
+      "translation": "From the beginning these men were outstanding in all the activities that formed their schooling , engaging in the exercises that became each stage of life , causing gratification to all who had claim to it — parents , friends , kinsmen . Therefore , just as if recognizing footprints , the memory of those who were near and dear to them now turns to these men every hour in fond recollection , finding many a reminder of occasions when they knew in their hearts that these were lads of surpassing worth ."
+    },
+    {
+      "id": "17",
+      "label": "Section 17",
+      "chapter": null,
+      "original": "πόλλʼ ὑπομνήματα λαμβάνουσα , ἐν οἷς συνῄδει τούτοις ἀρίστοις οὖσιν . ἐπειδὴ δʼ εἰς ἄνδρας ἀφίκοντο , οὐ μόνον τοῖς πολίταις γνώριμον τὴν αὑτῶν φύσιν ἀλλὰ καὶ πᾶσιν ἀνθρώποις κατέστησαν . ἔστιν γάρ , ἔστιν ἁπάσης ἀρετῆς ἀρχὴ μὲν σύνεσις , πέρας δʼ ἀνδρεία · καὶ τῇ μὲν δοκιμάζεται τί πρακτέον ἐστί , τῇ δὲ σῴζεται . ἐν τούτοις ἀμφοτέροις οἵδε πολὺ διήνεγκαν .",
+      "translation": "Arrived at manhood they rendered their innate nobility known , not only to their fellow-citizens , but to all men . For of all virtue , I say , and I repeat it , the beginning is understanding and the fulfillment is courage ; by the one it is judged what ought to be done and by the other this is carried to success . [*] In both these qualities these men were distinctly superior ;"
+    },
+    {
+      "id": "18",
+      "label": "Section 18",
+      "chapter": null,
+      "original": "καὶ γὰρ εἴ τις ἐφύετο κοινὸς πᾶσιν κίνδυνος τοῖς Ἕλλησιν , οὗτοι πρῶτοι προείδοντο καὶ πολλάκις εἰς σωτηρίαν ἅπαντας παρεκάλεσαν , ὅπερ γνώμης ἀπόδειξίς ἐστιν εὖ φρονούσης · καὶ τῆς παρὰ τοῖς Ἕλλησιν ἀγνοίας μεμειγμένης κακίᾳ , ὅτʼ ἐνῆν ταῦτα κωλύειν ἀσφαλῶς , τὰ μὲν οὐ προορώσης τὰ δʼ εἰρωνευομένης , ὅμως , ἡνίχʼ ὑπήκουσαν καὶ τὰ δέοντα ποιεῖν ἠθέλησαν , οὐκ ἐμνησικάκησαν , ἀλλὰ προστάντες καὶ παρασχόντες ἅπαντα προθύμως , καὶ σώματα καὶ χρήματα καὶ συμμάχους , εἰς πεῖραν ἦλθον ἀγῶνος , εἰς ὃν οὐδὲ τῆς ψυχῆς ἐφείσαντο .",
+      "translation": "for if ever a danger affecting all the Greeks was brewing , these were the first to foresee it , and time and again they challenged the rest to save the situation . This action is a demonstration of sound judgement joined with public spirit . Although , again , there was much folly among the Greeks , not unmixed with slackness , [*] a folly which failed to foresee some dangers and feigned not to see others at a time when it was possible to avert these misfortunes without sacrificing safety , nevertheless , when they did hearken and evinced willingness to do their duty , [*] these men did not bear a grudge but stepping forward and eagerly offering their all , bodies , money , and allies , they entered upon the ordeal of the contest , in which they were not sparing even of their lives ."
+    },
+    {
+      "id": "19",
+      "label": "Section 19",
+      "chapter": null,
+      "original": "ἐξ ἀνάγκης δὲ συμβαίνει , ὅταν μάχη γίγνηται , τοῖς μὲν ἡττᾶσθαι , τοῖς δὲ νικᾶν · οὐκ ἂν ὀκνήσαιμι δʼ εἰπεῖν ὅτι μοι δοκοῦσιν οἱ τελευτῶντες ἑκατέρων ἐν τάξει τῆς μὲν ἥττης οὐ μετέχειν , νικᾶν δʼ ὁμοίως ἀμφότεροι . τὸ μὲν γὰρ κρατεῖν ἐν τοῖς ζῶσιν , ὡς ἂν ὁ δαίμων παραδῷ , κρίνεται · ὃ δʼ εἰς τοῦθʼ ἕκαστον ἔδει παρασχέσθαι , πᾶς ὁ μένων ἐν τάξει πεποίηκεν . εἰ δὲ θνητὸς ὢν τὴν εἱμαρμένην ἔσχεν , τῇ τύχῃ πέπονθε τὸ συμβαῖνον , οὐχὶ τὴν ψυχὴν ἥττηται τῶν ἐναντίων .",
+      "translation": "Of necessity it happens , when a battle takes place , [*] that the one side is beaten and the other victorious ; but I should not hesitate to assert that in my judgement the men who die at the post of duty on either side do not share the defeat but are both alike victors . For the mastery among the survivors is decided as the deity disposes , but that which each was in duty bound to contribute to this end , every man who has kept his post in battle has done . But if , as a mortal being , he meets his doom , what he has suffered is an incident caused by chance , but in spirit he remains unconquered by his opponents . [*]"
+    },
+    {
+      "id": "20",
+      "label": "Section 20",
+      "chapter": null,
+      "original": "νομίζω τοίνυν καὶ τοῦ τῆς χώρας ἡμῶν μὴ ἐπιβῆναι τοὺς πολεμίους πρὸς τῇ τῶν ἐναντίων ἀγνωμοσύνῃ τὴν τούτων ἀρετὴν αἰτίαν γεγενῆσθαι · κατʼ ἄνδρα γὰρ πεῖραν εἰληφότες οἱ τότε συμμείξαντες ἐκεῖ , οὐκ ἐβούλοντʼ αὖθις εἰς ἀγῶνα καθίστασθαι τοῖς ἐκείνων οἰκείοις , ὑπολαμβάνοντες ταῖς μὲν φύσεσιν ταῖς ὁμοίαις ἀπαντήσεσθαι , τύχην δʼ οὐκ εὔπορον εἶναι τὴν ὁμοίαν λαβεῖν . δηλοῖ δʼ οὐχ ἥκισθʼ ὅτι ταῦθʼ οὕτως ἔχει καὶ τὰ τῆς γεγονυίας εἰρήνης · οὐ γὰρ ἔνεστʼ εἰπεῖν οὔτʼ ἀληθεστέραν οὔτε καλλίω πρόφασιν τοῦ τῆς τῶν τετελευτηκότων ἀγασθέντʼ ἀρετῆς τὸν τῶν ἐναντίων κύριον φίλον γενέσθαι τοῖς ἐκείνων οἰκείοις βούλεσθαι μᾶλλον ἢ πάλιν τὸν ὑπὲρ τῶν ὅλων κίνδυνον ἄρασθαι .",
+      "translation": "It is my judgement , therefore , that we have to thank the valor of these men , along with the folly of our opponents , that our enemies did not set foot upon our land ; because , every man of them having had proof of their mettle , those who there engaged them on that occasion had no wish to confront in battle a second time the kinsmen of those men , suspecting that , although they would confront men of the same breed , they were not likely to find the fortune of battle so kind .\nNot the least reason for believing that this was their state of mind is afforded by the peace that was made ; for it is impossible to cite a more plausible or more creditable reason than that the master of our opponents , astounded at the valor of these who died , chose rather to be friendly toward their kinsmen than once more to assume the risk of all his fortunes . [*]"
+    },
+    {
+      "id": "21",
+      "label": "Section 21",
+      "chapter": null,
+      "original": "οἶμαι δʼ ἄν , εἴ τις αὐτοὺς τοὺς παραταξαμένους ἐρωτήσειεν πότερʼ ἡγοῦνται ταῖς αὑτῶν ἀρεταῖς ἢ τῇ παραδόξῳ καὶ χαλεπῇ τύχῃ κατωρθωκέναι καὶ τῇ τοῦ προεστηκότος αὑτῶν ἐμπειρίᾳ καὶ τόλμῃ , οὐδένʼ οὔτʼ ἀναίσχυντον οὔτε τολμηρὸν οὕτως εἶναι , ὅντινʼ ἀντιποιήσεσθαι τῶν πεπραγμένων . ἀλλὰ μὴν ὑπὲρ ὧν ὁ πάντων κύριος δαίμων , ὡς ἐβούλετο , ἔνειμε τὸ τέλος , ἅπαντας ἀφεῖσθαι κακίας ἀνάγκη τοὺς λοιπούς , ἀνθρώπους γʼ ὄντας · περὶ ὧν δʼ ὁ τῶν ἐναντίων ἡγεμὼν ὑπερῆρε τοὺς ἐπὶ τούτῳ ταχθέντας , οὐχὶ τοὺς πολλοὺς οὔτʼ ἐκείνων οὔθʼ ἡμῶν",
+      "translation": "I believe also that if someone were to ask those in the opposite ranks whether they thought they had won by their own deeds of valor or by a startling and cruel turn of fortune and by the skill and daring of their own commander , not one of them would be so shameless or audacious as to claim credit for what happened . Furthermore , in contests of which the deity , the master of all , has disposed the outcome as it chose , it is necessary of course to acquit all others , being but human , of the charge of cowardice , but when it comes to the means by which the leader of our opponents prevailed over those appointed to the command of our army , no one could justly locate the cause in the rank and file of either the enemy or ourselves ."
+    },
+    {
+      "id": "22",
+      "label": "Section 22",
+      "chapter": null,
+      "original": "αἰτιάσαιτʼ ἄν τις εἰκότως εἰ δʼ ἄρʼ ἔστι τις ἀνθρώπων ὅτῳ περὶ τούτων ἐγκαλέσαι προσήκει , τοῖς ἐπὶ τούτῳ ταχθεῖσιν Θηβαίων , οὐχὶ τοῖς πολλοῖς οὔτʼ ἐκείνων οὔθʼ ἡμῶν ἐγκαλέσειεν ἄν τις εἰκότως · οἳ δύναμιν λαβόντες ἔχουσαν θυμὸν ἀήττητον καὶ ἀπροφάσιστον καὶ φιλοτιμίαν ἐφάμιλλον οὐδενὶ τούτων ὀρθῶς ἐχρήσαντο .",
+      "translation": "But if , after all , there is any human being who might rightly lay a charge concerning the issue of that battle , he would with good reason advance it against those of the Thebans who were appointed to this command , [*] nor could anyone rightly lay blame upon the rank and file of either the Thebans or ourselves . Those men , receiving command of a military force that would neither brook defeat nor make excuse and had an emulous zest for glory , made the right use of none of these ."
+    },
+    {
+      "id": "23",
+      "label": "Section 23",
+      "chapter": null,
+      "original": "καὶ τὰ μὲν ἄλλʼ ἔστιν τούτων ὡς ἕκαστος ἔχει γνώμης , οὕτως ὑπολαμβάνειν · ὃ δʼ ἅπασιν ὁμοίως τοῖς οὖσιν ἀνθρώποις γεγένηται φανερόν , ὅτι ἡ πάσης τῆς Ἑλλάδος ἄρʼ ἐλευθερία ἐν ταῖς τῶνδε τῶν ἀνδρῶν ψυχαῖς διεσῴζετο · ἐπειδὴ γοῦν ἡ πεπρωμένη τούτους ἀνεῖλεν , οὐδεὶς ἀντέστη τῶν λοιπῶν . καὶ φθόνος μὲν ἀπείη τοῦ λόγου , δοκεῖ δέ μοί τις ἂν εἰπὼν ὡς ἡ τῶνδε τῶν ἀνδρῶν ἀρετὴ τῆς Ἑλλάδος ἦν ψυχὴ τἀληθὲς εἰπεῖν ·",
+      "translation": "As for the other questions touching this campaign , each individual is at liberty to draw conclusions according to his judgement , but what has become manifest to all living men alike is this — that , in effect , the freedom of the whole Greek world was being preserved in the souls of these men . At any rate , since fate removed them , not one of those remaining has made a stand against the foe . While I desire that my words may be free from offence , it seems to me that if one should declare that the valor of these men was the very life of Greece he would speak the truth ;"
+    },
+    {
+      "id": "24",
+      "label": "Section 24",
+      "chapter": null,
+      "original": "ἅμα γὰρ τά τε τούτων πνεύματʼ ἀπηλλάγη τῶν οἰκείων σωμάτων , καὶ τὸ τῆς Ἑλλάδος ἀξίωμʼ ἀνῄρηται . μεγάλην μὲν οὖν ἴσως ὑπερβολὴν δόξομεν λέγειν , ῥητέον δʼ ὅμως · ὥσπερ γάρ , εἴ τις ἐκ τοῦ καθεστηκότος κόσμου τὸ φῶς ἐξέλοι , δυσχερὴς καὶ χαλεπὸς ἅπας ὁ λειπόμενος ἂν ἡμῖν βίος γένοιτο , οὕτω τῶνδε τῶν ἀνδρῶν ἀναιρεθέντων ἐν σκότει καὶ πολλῇ δυσκλείᾳ πᾶς ὁ πρὸ τοῦ ζῆλος τῶν Ἑλλήνων γέγονεν .",
+      "translation": "for at one and the same time their spirits were separated from their dear bodies and the self-esteem of Greece was taken from her . We shall therefore seem guilty perhaps of a bold exaggeration , but still it must be uttered : for just as , if the light of day were removed out of this universe of ours , [*] all the remnant of life would be harsh and irksome , so , now that these men have been taken from us , all the old-time ambition of the Greeks is sunk in gloom and profound obscurity ."
+    },
+    {
+      "id": "25",
+      "label": "Section 25",
+      "chapter": null,
+      "original": "διὰ πολλὰ δʼ εἰκότως ὄντες τοιοῦτοι , διὰ τὴν πολιτείαν οὐχ ἥκιστʼ ἦσαν σπουδαῖοι . αἱ μὲν γὰρ διὰ τῶν ὀλίγων δυναστεῖαι δέος μὲν ἐνεργάζονται τοῖς πολίταις , αἰσχύνην δʼ οὐ παριστᾶσιν · ἡνίκʼ ἂν οὖν ὁ ἀγὼν ἔλθῃ τοῦ πολέμου , πᾶς τις εὐχερῶς ἑαυτὸν σῴζει , συνειδὼς ὅτι , ἐὰν τοὺς κυρίους ἢ δώροις ἢ διʼ ἄλλης ἡστινοσοῦν ὁμιλίας ἐξαρέσηται , κἂν τὰ δεινότατʼ ἀσχημονήσῃ , μικρὸν ὄνειδος τὸ λοιπὸν αὐτῷ καταστήσεται ·",
+      "translation": "While it stands to reason that many influences helped to make them what they were , not least was their virtue ascribable to our form of government . [*] For though absolute governments dominated by a few create fear in their citizens , they fail to awaken the sense of shame . Consequently , when the test of war comes , everyone lightheartedly proceeds to save himself , knowing full well that if only he succeeds in appeasing his masters by presents or any other civility whatsoever , even though he becomes guilty of the most revolting conduct , only slight reproach will attach to him thereafter ."
+    },
+    {
+      "id": "26",
+      "label": "Section 26",
+      "chapter": null,
+      "original": "αἱ δὲ δημοκρατίαι πολλά τʼ ἄλλα καὶ καλὰ καὶ δίκαιʼ ἔχουσιν , ὧν τὸν εὖ φρονοῦντʼ ἀντέχεσθαι δεῖ , καὶ τὴν παρρησίαν ἐκ τῆς ἀληθείας ἠρτημένην οὐκ ἔστι τἀληθὲς δηλοῦν ἀποτρέψαι . οὔτε γὰρ πάντας ἐξαρέσασθαι τοῖς αἰσχρόν τι ποιήσασιν δυνατόν , οὔτε μόνος ὁ τἀληθὲς ὄνειδος λέγων λυπεῖ · καὶ γὰρ οἱ μηδὲν ἂν εἰπόντες αὐτοὶ βλάσφημον ἄλλου γε λέγοντος χαίρουσιν ἀκούοντες . ἃ φοβούμενοι πάντες εἰκότως τῇ τῶν μετὰ ταῦτʼ ὀνειδῶν αἰσχύνῃ τόν τε προσιόντʼ ἀπὸ τῶν ἐναντίων κίνδυνον εὐρώστως ὑπέμειναν , καὶ θάνατον καλὸν εἵλοντο μᾶλλον ἢ βίον αἰσχρόν .",
+      "translation": "Democracies , however , possess many other just and noble features , to which right-minded men should hold fast , and in particular it is impossible to deter freedom of speech , which depends upon speaking the truth , from exposing the truth . For neither is it possible for those who commit a shameful act to appease all the citizens , [*] so that even the lone individual , uttering the deserved reproach , makes the guilty wince : for even those who would never speak an accusing word themselves are pleased at hearing the same , provided another utters it . Through fear of such condemnation , all these men , as was to be expected , for shame at the thought of subsequent reproaches , [*] manfully faced the threat arising from our foes and chose a noble death in preference to life and disgrace ."
+    },
+    {
+      "id": "27",
+      "label": "Section 27",
+      "chapter": null,
+      "original": "ἃ μὲν οὖν κοινῇ πᾶσιν ὑπῆρχεν τοῖσδε τοῖς ἀνδράσιν εἰς τὸ καλῶς ἐθέλειν ἀποθνῄσκειν , εἴρηται , γένος , παιδεία , χρηστῶν ἐπιτηδευμάτων συνήθεια , τῆς ὅλης πολιτείας ὑπόθεσις · ἃ δὲ κατὰ φυλὰς παρεκάλεσεν ἑκάστους εὐρώστους εἶναι , ταῦτʼ ἤδη λέξω . ᾔδεσαν πάντες Ἐρεχθεῖδαι τὸν ἐπώνυμον τὸν αὑτῶν Ἐρεχθέα , ἕνεκα τοῦ σῷσαι τὴν χώραν τὰς αὑτοῦ παῖδας , ἃς Ὑακινθίδας καλοῦσιν , εἰς προῦπτον θάνατον δόντʼ ἀναλῶσαι . αἰσχρὸν οὖν ἡγοῦντο τὸν μὲν ἀπʼ ἀθανάτων πεφυκότα πάντα ποιεῖν ἕνεκα τοῦ τὴν πατρίδʼ ἐλευθερῶσαι , αὐτοὶ δὲ φανῆναι θνητὸν σῶμα ποιούμενοι περὶ πλείονος ἢ δόξαν ἀθάνατον .",
+      "translation": "The considerations that actuated these men one and all to choose to die nobly have now been enumerated ,— birth , education , habituation to high standards of conduct , and the underlying principles of our form of government in general . The incentives that challenged them severally to be valiant men , depending upon the tribes to which they belonged , I shall next relate . [*] All the Erechtheidae were well aware that Erechtheus , from whom they have their name , for the salvation of this land gave his own daughters , whom they call Hyacinthides , to certain death , and so extinguished his race . Therefore they regarded it as shameful , after a being born of immortal gods had sacrificed everything for the liberation of his native land , that they themselves should have been found to have placed a higher value upon a mortal body than upon immortal glory . [*]"
+    },
+    {
+      "id": "28",
+      "label": "Section 28",
+      "chapter": null,
+      "original": "οὐκ ἠγνόουν Αἰγεῖδαι Θησέα τὸν Αἰγέως πρῶτον ἰσηγορίαν καταστησάμενον τῇ πόλει . δεινὸν οὖν ἡγοῦντο τὴν ἐκείνου προδοῦναι προαίρεσιν , καὶ τεθνάναι μᾶλλον ᾑροῦνθʼ ἢ καταλυομένης ταύτης παρὰ τοῖς Ἕλλησιν ζῆν φιλοψυχήσαντες . παρειλήφεσαν Πανδιονίδαι Πρόκνην καὶ Φιλομήλαν τὰς Πανδίονος θυγατέρας , ὡς ἐτιμωρήσαντο Τηρέα διὰ τὴν εἰς αὑτὰς ὕβριν . οὐ βιωτὸν οὖν ἐνόμιζον αὑτοῖς , εἰ μὴ συγγενῆ φανήσονται τὸν θυμὸν ἔχοντες ἐκείναις , ἐφʼ οἷς τὴν Ἑλλάδʼ ἑώρων ὑβριζομένην .",
+      "translation": "Neither were the Aegeidae ignorant that Theseus , the son of Aegeus , for the first time established equality in the State . [*] They thought it , therefore , a dreadful thing to be false to the principles of that ancestor , and they preferred to be dead rather than through love of life to survive among the Greeks with this equality lost . The Pandionidae had inherited the tradition of Procne and Philomela , the daughters of Pandion , who took vengeance on Tereus for his crime against themselves . [*] Therefore they decided that life was not worth living unless they , akin by race , should have proved themselves to possess equal spirit with those women , when confronted by the outrage they saw being committed against Greece ."
+    },
+    {
+      "id": "29",
+      "label": "Section 29",
+      "chapter": null,
+      "original": "ἠκηκόεσαν Λεωντίδαι μυθολογουμένας τὰς Λεὼ κόρας , ὡς ἑαυτὰς ἔδοσαν σφάγιον τοῖς πολίταις ὑπὲρ τῆς χώρας . ὅτε δὴ γυναῖκες ἐκεῖναι τοιαύτην ἔσχον ἀνδρείαν , οὐ θεμιτὸν αὑτοῖς ὑπελάμβανον χείροσιν ἀνδράσιν οὖσιν ἐκείνων φανῆναι . ἐμέμνηντʼ Ἀκαμαντίδαι τῶν ἐπῶν ἐν οἷς Ὅμηρος ἕνεκα τῆς μητρός φησιν Αἴθρας Ἀκάμαντʼ εἰς Τροίαν στεῖλαι . ὁ μὲν οὖν παντὸς ἐπειρᾶτο κινδύνου τοῦ σῷσαι τὴν ἑαυτοῦ μητέρʼ ἕνεκα · οἱ δὲ τοὺς οἴκοι σύμπαντας γονέας πῶς οὐκ ἤμελλον ὑπὲρ τοῦ σῷσαι πάντα κίνδυνον ὑπομένειν ;",
+      "translation": "The Leontidae had heard the stories related of the daughters of Leo , how they offered themselves to the citizens as a sacrifice for their country ’ s sake . When , therefore , such courage was displayed by those women , they looked upon it as a heinous thing if they , being men , should have proved to possess less of manhood . The Acamantidae did not fail to recall the epics in which Homer says that Acamas sailed for Troy for the sake of his mother Aethra . [*] Now , since he braved every danger for the sake of saving his own mother , how were these men not bound to face every danger for the sake of saving their parents one and all at home ?"
+    },
+    {
+      "id": "30",
+      "label": "Section 30",
+      "chapter": null,
+      "original": "οὐκ ἐλάνθανεν Οἰνείδας ὅτι Κάδμου μὲν Σεμέλη , τῆς δʼ ὃν οὐ πρέπον ἐστὶν ὀνομάζειν ἐπὶ τοῦδε τοῦ τάφου , τοῦ δʼ Οἰνεὺς γέγονεν , ὃς ἀρχηγὸς αὐτῶν ἐκαλεῖτο . κοινοῦ δʼ ὄντος ἀμφοτέραις ταῖς πόλεσιν τοῦ παρόντος κινδύνου , ὑπὲρ ἀμφοτέρων ἅπασαν ᾤοντο δεῖν ἀγωνίαν ἐκτεῖναι . ᾔδεσαν Κεκροπίδαι τὸν ἑαυτῶν ἀρχηγὸν τὰ μὲν ὡς ἔστιν δράκων , τὰ δʼ ὡς ἔστιν ἄνθρωπος λεγόμενον , οὐκ ἄλλοθέν ποθεν ἢ τῷ τὴν σύνεσιν αὐτοῦ προσομοιοῦν ἀνθρώπῳ , τὴν ἀλκὴν δὲ δράκοντι . ἄξια δὴ τούτων πράττειν ὑπελάμβανον αὑτοῖς προσήκειν .",
+      "translation": "It did not escape the Oeneidae that Semele was the daughter of Cadmus , and of her was born one whom it would be sacrilegious to name at this tomb , [*] and by him Oeneus was begotten , who was called the founder of their race . [*] Since the danger in question was common to both States , on behalf of both they thought themselves bound to endure any Anguish to the end . [*] The Cecropidae were well aware that their founder was reputed to have been part dragon , part human , for no other reason than this , that in understanding he was like a man , in strength like a dragon . So they assumed that their duty was to perform feats worthy of both ."
+    },
+    {
+      "id": "31",
+      "label": "Section 31",
+      "chapter": null,
+      "original": "ἐμέμνηνθʼ Ἱπποθωντίδαι τῶν Ἀλόπης γάμων , ἐξ ὧν Ἱπποθῶν ἔφυ , καὶ τὸν ἀρχηγὸν ᾔδεσαν · ὧν , τὸ πρέπον φυλάττων ἐγὼ τῷδε τῷ καιρῷ , τὸ σαφὲς εἰπεῖν ὑπερβαίνω . ἄξια δὴ τούτων ᾤοντο δεῖν ποιοῦντες ὀφθῆναι . οὐκ ἐλάνθανεν Αἰαντίδας ὅτι τῶν ἀριστείων στερηθεὶς Αἴας ἀβίωτον ἑαυτῷ ἡγήσατο τὸν βίον . ἡνίκʼ οὖν ὁ δαίμων ἄλλῳ τἀριστεῖʼ ἐδίδου , τότε τοὺς ἐχθροὺς ἀμυνόμενοι τεθνάναι δεῖν ᾤοντο , ὥστε μηδὲν ἀνάξιον αὑτῶν παθεῖν . οὐκ ἠμνημόνουν Ἀντιοχίδαι Ἡρακλέους ὄντʼ Ἀντίοχον . δεῖν οὖν ἡγήσαντʼ ἢ ζῆν ἀξίως τῶν ὑπαρχόντων ἢ τεθνάναι καλῶς .",
+      "translation": "The Hippothoontidae bore in mind the marriage of Alope , from which Hippothoon was born , and they knew also who their founder was ; about these matters — to avoid impropriety on an occasion like this [*] I forbear to speak plainly — they thought it was their duty to be seen performing deeds worthy of these ancestors . It did not escape the Aeantidae that Ajax , robbed of the prize of valor , did not consider his own life worth living . [*] When , therefore , the god was giving to another the prize of valor , at once they thought they must die trying to repel their foes so as to suffer no disgrace to themselves . The Antiochidae were not unmindful that Antiochus was the son of Heracles . [*] They concluded therefore that they must either live worthily of their heritage or die nobly ."
+    },
+    {
+      "id": "32",
+      "label": "Section 32",
+      "chapter": null,
+      "original": "οἱ μὲν οὖν ζῶντες οἰκεῖοι τούτων ἐλεινοί , τοιούτων ἀνδρῶν ἐστερημένοι καὶ συνηθείας πολλῆς καὶ φιλανθρώπου διεζευγμένοι , καὶ τὰ τῆς πατρίδος πράγματʼ ἔρημα καὶ δακρύων καὶ πένθους πλήρη · οἱ δʼ εὐδαίμονες τῷ δικαίῳ λογισμῷ . πρῶτον μὲν ἀντὶ μικροῦ χρόνου πολὺν καὶ τὸν ἅπαντʼ εὔκλειαν ἀγήρω καταλείπουσιν , ἐν ᾗ καὶ παῖδες οἱ τούτων ὀνομαστοὶ τραφήσονται καὶ γονεῖς οἱ τούτων περίβλεπτοι γηροτροφήσονται , παραψυχὴν τῷ πένθει τὴν τούτων εὔκλειαν ἔχοντες .",
+      "translation": "Now , though the living kinsmen of these dead deserve our sympathy , bereaved of such brave men and divorced from close and affectionate association , and though the life of our native land is desolate and filled with tears and mourning , nevertheless these dead by a just calculation are happy . [*] First of all , bartering little for much , a brief time for all eternity , they leave behind them an ageless fame [*]"
+    },
+    {
+      "id": "33",
+      "label": "Section 33",
+      "chapter": null,
+      "original": "ἔπειτα νόσων ἀπαθεῖς τὰ σώματα καὶ λυπῶν ἄπειροι τὰς ψυχάς , ἃς ἐπὶ τοῖς συμβεβηκόσιν οἱ ζῶντες ἔχουσιν , ἐν μεγάλῃ τιμῇ καὶ πολλῷ ζήλῳ τῶν νομιζομένων τυγχάνουσιν . οὓς γὰρ ἅπασα μὲν ἡ πατρὶς θάπτει δημοσίᾳ , κοινῶν δʼ ἐπαίνων μόνοι τυγχάνουσιν , ποθοῦσι δʼ οὐ μόνοι συγγενεῖς καὶ πολῖται , ἀλλὰ πᾶσαν ὅσην Ἑλλάδα χρὴ προσειπεῖν , συμπεπένθηκεν δὲ καὶ τῆς οἰκουμένης τὸ πλεῖστον μέρος , πῶς οὐ χρὴ τούτους εὐδαίμονας νομίζεσθαι ;",
+      "translation": "In which the children of these men shall be reared in honor and the parents of these men shall enjoy distinction [*] and tender care in their old age , cherishing the fame of these men as an assuagement of their sorrow . [*] In the second place , immune from disease of body and beyond the reach of anguish of spirit , [*] such as the living must suffer because of the misfortunes which have befallen , they today receive high honor and inspire great emulation while they are accorded the customary obsequies . [*] How , then , since the whole country unites in according them a public burial , and they alone receive the words of universal praise , while their kinsmen and fellow-citizens are not alone in mourning them , but every land that has the right to be called Hellas and the greater part of the whole world mourns with them , [*] how can we do otherwise than consider them blessed of fortune ?"
+    },
+    {
+      "id": "34",
+      "label": "Section 34",
+      "chapter": null,
+      "original": "οὓς παρέδρους εἰκότως ἄν τις φήσαι τοῖς κάτω θεοῖς εἶναι , τὴν αὐτὴν τάξιν ἔχοντας τοῖς προτέροις ἀγαθοῖς ἀνδράσιν ἐν μακάρων νήσοις . οὐ γὰρ ἰδών τις οὐδὲ περὶ ἐκείνων ταῦτʼ ἀπήγγελκεν , ἀλλʼ οὓς οἱ ζῶντες ἀξίους ὑπειλήφαμεν τῶν ἄνω τιμῶν , τούτους τῇ δόξῃ καταμαντευόμενοι κἀκεῖ τῶν αὐτῶν τιμῶν ἡγούμεθʼ αὐτοὺς τυγχάνειν .",
+      "translation": "With excellent reason one might declare them to be now seated beside the gods below , possessing the same rank as the brave men who have preceded them in the islands of the blest . For though no man has been there to see or brought back this report concerning them , yet those whom the living have assumed to be worthy of honors in the world above , these we believe , basing our surmise on their fame , receive the same honors also in the world beyond . [*]"
+    },
+    {
+      "id": "35",
+      "label": "Section 35",
+      "chapter": null,
+      "original": "ἔστι μὲν οὖν ἴσως χαλεπὸν τὰς παρούσας συμφορὰς λόγῳ κουφίσαι · δεῖ δʼ ὅμως πειρᾶσθαι καὶ πρὸς τὰ παρηγοροῦντα τρέπειν τὴν ψυχήν , ὡς τοὺς τοιούτους ἄνδρας γεγεννηκότας καὶ πεφυκότας αὐτοὺς ἐκ τοιούτων ἑτέρων καλόν ἐστιν τὰ δείνʼ εὐσχημονέστερον τῶν ἄλλων φέροντας ὁρᾶσθαι καὶ πάσῃ τύχῃ χρωμένους ὁμοίους εἶναι .",
+      "translation": "While it is perhaps difficult [*] to mitigate the present misfortunes by the spoken word , nevertheless it is our duty to endeavor to turn our minds to comforting thoughts , reflecting that it is a beautiful thing for parents who have begotten men like these , and themselves were born of others like unto them , to be seen enduring their affliction more decorously than the rest of mankind , and , no matter what fortune befalls , to be like them ;"
+    },
+    {
+      "id": "36",
+      "label": "Section 36",
+      "chapter": null,
+      "original": "καὶ γὰρ ἐκείνοις ταῦτʼ ἂν εἴη μάλιστʼ ἐν κόσμῳ καὶ τιμῇ , καὶ πάσῃ τῇ πόλει καὶ τοῖς ζῶσιν ταῦτʼ ἂν ἐνέγκοι πλείστην εὐδοξίαν . χαλεπὸν πατρὶ καὶ μητρὶ παίδων στερηθῆναι καὶ ἐρήμοις εἶναι τῶν οἰκειοτάτων γηροτρόφων · σεμνὸν δέ γʼ ἀγήρως τιμὰς καὶ μνήμην ἀρετῆς δημοσίᾳ κτησαμένους ἐπιδεῖν , καὶ θυσιῶν καὶ ἀγώνων ἠξιωμένους ἀθανάτων .",
+      "translation": "for to the departed such conduct would seem most becoming in you and honorable to them , and to the whole State and to the living it would bring the greatest glory . [*] It is a grievous thing for fathers and mothers to be deprived of their children and in their old age to lack the care of those who are nearest and dearest to them . Yes , but it is a proud privilege to behold them possessors of deathless honors and a memorial of their valor erected by the State , and deemed deserving of sacrifices and games for all future time ."
+    },
+    {
+      "id": "37",
+      "label": "Section 37",
+      "chapter": null,
+      "original": "λυπηρὸν παισὶν ὀρφανοῖς γεγενῆσθαι πατρός · καλὸν δέ γε κληρονομεῖν πατρῴας εὐδοξίας . καὶ τοῦ μὲν λυπηροῦ τούτου τὸν δαίμονʼ αἴτιον εὑρήσομεν ὄντα , ᾧ φύντας ἀνθρώπους εἴκειν ἀνάγκη , τοῦ δὲ τιμίου καὶ καλοῦ τὴν τῶν ἐθελησάντων καλῶς ἀποθνῄσκειν αἵρεσιν .\nἐγὼ μὲν οὖν οὐχ ὅπως πολλὰ λέξω , τοῦτʼ ἐσκεψάμην , ἀλλʼ ὅπως τἀληθῆ . ὑμεῖς δʼ ἀποδυράμενοι καὶ τὰ προσήκονθʼ ὡς χρὴ καὶ νόμιμα ποιήσαντες ἄπιτε .",
+      "translation": "It is painful for children to be orphaned of a father . Yes , but it is a beautiful thing to be the heir of a father ’ s fame . And of this pain we shall find the deity to be the cause , to whom mortal creatures must yield , but of the glory and honor the source is found in the choice of those who willed to die nobly .\nAs for myself , it has not been my concern how I might make a long speech , but how I might speak the truth . And now do you , having spent your grief and done your part as law and custom require , disperse to your homes ."
+    }
+  ],
+  "prevChunkSlug": "theomnestus-and-apollodorus-against-neaera-4xsck7-3",
+  "nextChunkSlug": "the-erotic-essay-fnzu7s"
+}

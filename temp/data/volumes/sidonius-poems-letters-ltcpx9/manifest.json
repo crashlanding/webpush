@@ -1,0 +1,68 @@
+{
+  "loebNumber": 296,
+  "sortOrder": 296,
+  "slug": "sidonius-poems-letters-ltcpx9",
+  "title": "Poems. Letters",
+  "volumeLabel": "Poems. Letters",
+  "authorDisplay": "Sidonius",
+  "authors": [
+    "Sidonius"
+  ],
+  "language": "latin",
+  "summary": "1 of 2 contents in Poems. Letters are live from Scaife, while the remaining contents stay visible until a confident pair is available.",
+  "status": "partial",
+  "defaultChunkSlug": "letters-snsw6l",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "poems-1a0klo",
+      "title": "Poems",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Poems."
+    },
+    {
+      "id": "letters-snsw6l",
+      "title": "Letters",
+      "status": "ready",
+      "sectionCount": 27,
+      "chunkSlug": "letters-snsw6l",
+      "chunks": [
+        {
+          "slug": "letters-snsw6l",
+          "label": "Letters",
+          "partId": "letters-snsw6l",
+          "partTitle": "Letters",
+          "sectionCount": 27,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "letters-snsw6l",
+      "label": "Letters",
+      "partId": "letters-snsw6l",
+      "partTitle": "Letters",
+      "sectionCount": 27,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "letters-snsw6l",
+      "partTitle": "Letters",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Δημοσθένους ἐπιστολαὶ",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg063.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Letters",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg063.perseus-eng2/"
+      }
+    }
+  ]
+}

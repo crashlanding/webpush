@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-little-carthaginian-pseudolus-the-rope-rpgc9x",
+  "volumeTitle": "The Little Carthaginian. Pseudolus. The Rope",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-rope-i828ht-16",
+  "label": "The Rope (Section 4.8.1268c - Section 5.2.1312)",
+  "partId": "the-rope-i828ht",
+  "partTitle": "The Rope",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Rudens",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Rudens, or The Fisherman's Rope",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "4.8.1268c",
+      "label": "Section 4.8.1268c",
+      "chapter": null,
+      "original": "Et mihi nuptura est ?",
+      "translation": "And is she to marry me ?"
+    },
+    {
+      "id": "4.8.1268d",
+      "label": "Section 4.8.1268d",
+      "chapter": null,
+      "original": "Suspicor .",
+      "translation": "So I suspect ."
+    },
+    {
+      "id": "4.8.1269",
+      "label": "Section 4.8.1269",
+      "chapter": null,
+      "original": "Censen hodie despondebit eam mihi , quaéso ?",
+      "translation": "Prithee , do you reckon that he will betroth her to me ?"
+    },
+    {
+      "id": "4.8.1269b",
+      "label": "Section 4.8.1269b",
+      "chapter": null,
+      "original": "Censeo .",
+      "translation": "So I reckon [*] ."
+    },
+    {
+      "id": "4.8.1270",
+      "label": "Section 4.8.1270",
+      "chapter": null,
+      "original": "Quid ? patri etiam gratulabor cum illam invenit ?",
+      "translation": "Well , shall I congratulate her father too upon his finding her ?"
+    },
+    {
+      "id": "4.8.1270b",
+      "label": "Section 4.8.1270b",
+      "chapter": null,
+      "original": "Censeo .",
+      "translation": "So I reckon ."
+    },
+    {
+      "id": "4.8.1271",
+      "label": "Section 4.8.1271",
+      "chapter": null,
+      "original": "Quid matri eius ?",
+      "translation": "Well , her mother too ?"
+    },
+    {
+      "id": "4.8.1271b",
+      "label": "Section 4.8.1271b",
+      "chapter": null,
+      "original": "Censeo .",
+      "translation": "So I reckon ."
+    },
+    {
+      "id": "4.8.1271c",
+      "label": "Section 4.8.1271c",
+      "chapter": null,
+      "original": "Quid ergo censes ?",
+      "translation": "What then do you reckon ?"
+    },
+    {
+      "id": "4.8.1271d",
+      "label": "Section 4.8.1271d",
+      "chapter": null,
+      "original": "Quod rogas ,",
+      "translation": "What you ask me , I reckon ."
+    },
+    {
+      "id": "4.8.1272b",
+      "label": "Section 4.8.1272b",
+      "chapter": null,
+      "original": "Dic ergo quanti censes ?",
+      "translation": "Tell me then how much do you reckon it at ?"
+    },
+    {
+      "id": "4.8.1272c",
+      "label": "Section 4.8.1272c",
+      "chapter": null,
+      "original": "Egone ? censeo .",
+      "translation": "What I , I reckon —"
+    },
+    {
+      "id": "4.8.1273",
+      "label": "Section 4.8.1273",
+      "chapter": null,
+      "original": "Adsum equidem , ne censionem semper facias .",
+      "translation": "Then really , do carry over [*] . Don ’ t be always making a reckoning ."
+    },
+    {
+      "id": "4.8.1273b",
+      "label": "Section 4.8.1273b",
+      "chapter": null,
+      "original": "Censeo .",
+      "translation": "So I reckon ."
+    },
+    {
+      "id": "4.8.1274",
+      "label": "Section 4.8.1274",
+      "chapter": null,
+      "original": "Quid si curram ?",
+      "translation": "What if I run ?"
+    },
+    {
+      "id": "4.8.1274b",
+      "label": "Section 4.8.1274b",
+      "chapter": null,
+      "original": "Censeo .",
+      "translation": "So I reckon ."
+    },
+    {
+      "id": "4.8.1274c",
+      "label": "Section 4.8.1274c",
+      "chapter": null,
+      "original": "An sic potius placide ?",
+      "translation": "Or rather gently , this way ?"
+    },
+    {
+      "id": "4.8.1274d",
+      "label": "Section 4.8.1274d",
+      "chapter": null,
+      "original": "Censeo .",
+      "translation": "So I reckon ."
+    },
+    {
+      "id": "4.8.1275",
+      "label": "Section 4.8.1275",
+      "chapter": null,
+      "original": "Etiamne eam ádveniens salutem ?",
+      "translation": "Ought I to salute her as well when I arrive ?"
+    },
+    {
+      "id": "4.8.1275b",
+      "label": "Section 4.8.1275b",
+      "chapter": null,
+      "original": "Censeo .",
+      "translation": "So I reckon ."
+    },
+    {
+      "id": "4.8.1275c",
+      "label": "Section 4.8.1275c",
+      "chapter": null,
+      "original": "Etiam patrem ?",
+      "translation": "Her father too ?"
+    },
+    {
+      "id": "4.8.1276",
+      "label": "Section 4.8.1276",
+      "chapter": null,
+      "original": "Censeo .",
+      "translation": "So I reckon ."
+    },
+    {
+      "id": "4.8.1276b",
+      "label": "Section 4.8.1276b",
+      "chapter": null,
+      "original": "Post eius matrem ?",
+      "translation": "After that , her mother ?"
+    },
+    {
+      "id": "4.8.1276c",
+      "label": "Section 4.8.1276c",
+      "chapter": null,
+      "original": "Censeo .",
+      "translation": "So I reckon ."
+    },
+    {
+      "id": "4.8.1276d",
+      "label": "Section 4.8.1276d",
+      "chapter": null,
+      "original": "Quid postea ?",
+      "translation": "And what after that ? When I arrive , should I also embrace her father ?"
+    },
+    {
+      "id": "4.8.1277b",
+      "label": "Section 4.8.1277b",
+      "chapter": null,
+      "original": "Non censeo .",
+      "translation": "So I don ’ t reckon ."
+    },
+    {
+      "id": "4.8.1278",
+      "label": "Section 4.8.1278",
+      "chapter": null,
+      "original": "Quid matrem ?",
+      "translation": "Well , her mother ?"
+    },
+    {
+      "id": "4.8.1278b",
+      "label": "Section 4.8.1278b",
+      "chapter": null,
+      "original": "Non censeo .",
+      "translation": "So I don ’ t reckon ."
+    },
+    {
+      "id": "4.8.1278c",
+      "label": "Section 4.8.1278c",
+      "chapter": null,
+      "original": "Quid eampse illam ?",
+      "translation": "Well , her own self ?"
+    },
+    {
+      "id": "4.8.1278d",
+      "label": "Section 4.8.1278d",
+      "chapter": null,
+      "original": "Non censeo .",
+      "translation": "So I don ’ t reckon ."
+    },
+    {
+      "id": "4.8.1279",
+      "label": "Section 4.8.1279",
+      "chapter": null,
+      "original": "Perii , dilectum dimisit . nunc non censet , cum volo .",
+      "translation": "Confusion , he has closed his reckoning [*] ; now when I wish him , he doesn ’ t reckon ."
+    },
+    {
+      "id": "4.8.1280",
+      "label": "Section 4.8.1280",
+      "chapter": null,
+      "original": "Sanus non es . sequere .—",
+      "translation": "You are not in your senses ; follow me ."
+    },
+    {
+      "id": "4.8.1280b",
+      "label": "Section 4.8.1280b",
+      "chapter": null,
+      "original": "Duc me , mi patrone , quo libet . —",
+      "translation": "Conduct me , my patron , where you please ."
+    },
+    {
+      "id": "5.1.1281",
+      "label": "Section 5.1.1281",
+      "chapter": null,
+      "original": "Quis me ést mortalis miserior qui vivat alter hodie ,",
+      "translation": "What other mortal being is there living this day more wretched than myself , whom before the commissioned judges [*] Plesidippus has just now cast ? Palaestra has just been taken from me by award . I ’ m ruined outright . But I do believe that Procurers were procreated for mere sport ;"
+    },
+    {
+      "id": "5.1.1285",
+      "label": "Section 5.1.1285",
+      "chapter": null,
+      "original": "ita omnés mortales , si quid est mali lenoni , gaudent .",
+      "translation": "so much do all persons make sport if any misfortune befalls a Procurer . Now I ’ ll go look here , in the Temple of Venus , for that other female , that her at least I may take away , the only portion of my property that remains ."
+    },
+    {
+      "id": "5.2.1288",
+      "label": "Section 5.2.1288",
+      "chapter": null,
+      "original": "Numquam edepol hodie ad vesperum Gripum inspicietis vivom ,",
+      "translation": "By the powers , you shall never this day at nightfall behold Gripus alive , unless the wallet is restored to me ."
+    },
+    {
+      "id": "5.2.1289b",
+      "label": "Section 5.2.1289b",
+      "chapter": null,
+      "original": "Perii , cum mentionem",
+      "translation": "I ’ m ready to die ; when I hear mentior made anywhere of a wallet , I ’ m thumped , as it were with a stake , upon the breast ."
+    },
+    {
+      "id": "5.2.1291",
+      "label": "Section 5.2.1291",
+      "chapter": null,
+      "original": "Istic scelestus liber est : ego qui in mari prehendi",
+      "translation": "That scoundrel is free ; I , the person that held the net in the sea , and drew up the wallet , to him you refuse to give anything ."
+    },
+    {
+      "id": "5.2.1293",
+      "label": "Section 5.2.1293",
+      "chapter": null,
+      "original": "Pro di immortales , suo mihi hic sermone arrexit aures .",
+      "translation": "O ye immortal Gods ! by his talk this person has made me prick up my ears ."
+    },
+    {
+      "id": "5.2.1294",
+      "label": "Section 5.2.1294",
+      "chapter": null,
+      "original": "Cubitum hercle longis litteris signabo iam usquequaque ,",
+      "translation": "By my troth , in letters a cubit long , I ’ ll immediately post it up in every quarter ,"
+    },
+    {
+      "id": "5.2.1295",
+      "label": "Section 5.2.1295",
+      "chapter": null,
+      "original": "si quis perdiderit vidulum cum auro atque argento multo ,",
+      "translation": "If any person has lost a wallet with plenty of gold and silver , let him come to Gripus . You shan ’ t keep it as you are wishing ."
+    },
+    {
+      "id": "5.2.1297",
+      "label": "Section 5.2.1297",
+      "chapter": null,
+      "original": "Meum hercle illic homo vidulum scit quí habet , ut ego opinor .",
+      "translation": "I ’ faith , this person knows , as I think , who has got the wallet . This person must be accosted by me ; ye Gods , aid me , I do entreat you ."
+    },
+    {
+      "id": "5.2.1299",
+      "label": "Section 5.2.1299",
+      "chapter": null,
+      "original": "Quid me intro revocas ? hoc volo hic ante ostium extergere .",
+      "translation": "Why are you calling me back in-doors ? ( He rubs away at the spit .) I want to clean this here before the door ."
+    },
+    {
+      "id": "5.2.1300",
+      "label": "Section 5.2.1300",
+      "chapter": null,
+      "original": "nam hoc quidem pol e robigine , non est e ferro factum ,",
+      "translation": "But surely this , I ’ faith , has been made of rust , and not of iron ; so that the more I rub it , it becomes quite red and more slender . Why surely this spit has been drugged [*] ; it does waste away so in my hands ."
+    },
+    {
+      "id": "5.2.1303",
+      "label": "Section 5.2.1303",
+      "chapter": null,
+      "original": "Adulescens , salve .",
+      "translation": "Save you , young man ."
+    },
+    {
+      "id": "5.2.1303b",
+      "label": "Section 5.2.1303b",
+      "chapter": null,
+      "original": "Di te ament cum inraso capite .",
+      "translation": "May the Gods prosper you with your shorn pate [*] ."
+    },
+    {
+      "id": "5.2.1303c",
+      "label": "Section 5.2.1303c",
+      "chapter": null,
+      "original": "Quid fit ?",
+      "translation": "What ’ s going on ?"
+    },
+    {
+      "id": "5.2.1304",
+      "label": "Section 5.2.1304",
+      "chapter": null,
+      "original": "Verum extergetur .",
+      "translation": "A spit being cleaned ."
+    },
+    {
+      "id": "5.2.1304b",
+      "label": "Section 5.2.1304b",
+      "chapter": null,
+      "original": "Vt vales ?",
+      "translation": "How do you do ?"
+    },
+    {
+      "id": "5.2.1304c",
+      "label": "Section 5.2.1304c",
+      "chapter": null,
+      "original": "Quid tu ? num medicus , quaeso , es ?",
+      "translation": "What are you ? Prithee , are you a medicant [*] ?"
+    },
+    {
+      "id": "5.2.1305",
+      "label": "Section 5.2.1305",
+      "chapter": null,
+      "original": "Immo edepol una littera plus sum quam medicus .",
+      "translation": "No , I ’ faith , I am more than a medicant by one letter ."
+    },
+    {
+      "id": "5.2.1305b",
+      "label": "Section 5.2.1305b",
+      "chapter": null,
+      "original": "Tum tu",
+      "translation": "Then you are a mendicant ."
+    },
+    {
+      "id": "5.2.1306b",
+      "label": "Section 5.2.1306b",
+      "chapter": null,
+      "original": "Tetigisti acu .",
+      "translation": "You ’ ve hit it to a nicety [*] ."
+    },
+    {
+      "id": "5.2.1306c",
+      "label": "Section 5.2.1306c",
+      "chapter": null,
+      "original": "Videtur digna forma .",
+      "translation": "Your appearance seems suitable to it . But what ’ s the matter with you ?"
+    },
+    {
+      "id": "5.2.1307b",
+      "label": "Section 5.2.1307b",
+      "chapter": null,
+      "original": "Hac proxima nocte in marí elavi .",
+      "translation": "Troth , this last night I was shipwrecked at sea the vessel was cast away , and to my misfortune I lost there everything that I had ."
+    },
+    {
+      "id": "5.2.1309",
+      "label": "Section 5.2.1309",
+      "chapter": null,
+      "original": "Quid perdidisti ?",
+      "translation": "What did you lose ?"
+    },
+    {
+      "id": "5.2.1309b",
+      "label": "Section 5.2.1309b",
+      "chapter": null,
+      "original": "Vidulum cum auro atque argento multo .",
+      "translation": "A wallet with plenty of gold and silver ."
+    },
+    {
+      "id": "5.2.1310",
+      "label": "Section 5.2.1310",
+      "chapter": null,
+      "original": "Ecquid meministi , in vidulo qui periit quid ibi infuerit ?",
+      "translation": "Do you at all remember what there was in the wallet which was lost ?"
+    },
+    {
+      "id": "5.2.1311",
+      "label": "Section 5.2.1311",
+      "chapter": null,
+      "original": "Quid refert , qui periit tamen ? sine hoc , áliud fabulemur .",
+      "translation": "What matters for us now to be talking of it , if , in spite of it , it ’ s lost ?"
+    },
+    {
+      "id": "5.2.1312",
+      "label": "Section 5.2.1312",
+      "chapter": null,
+      "original": "Quid si ego sciam qui invenerit ? volo ex te scire signa .",
+      "translation": "What if I know who has found it ? I wish to learn from you the tokens ."
+    }
+  ],
+  "prevChunkSlug": "the-rope-i828ht-15",
+  "nextChunkSlug": "the-rope-i828ht-17"
+}

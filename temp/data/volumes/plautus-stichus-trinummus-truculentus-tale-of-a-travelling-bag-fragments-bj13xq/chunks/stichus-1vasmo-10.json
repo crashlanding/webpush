@@ -1,0 +1,122 @@
+{
+  "volumeSlug": "plautus-stichus-trinummus-truculentus-tale-of-a-travelling-bag-fragments-bj13xq",
+  "volumeTitle": "Stichus. Trinummus. Truculentus. Tale of a Travelling Bag. Fragments",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "stichus-1vasmo-10",
+  "label": "Stichus (Section 5.6.766 - Section 5.7.775)",
+  "partId": "stichus-1vasmo",
+  "partTitle": "Stichus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Stichus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi018.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Stichus, or The Parasite Rebuffed",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi018.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "5.6.766",
+      "label": "Section 5.6.766",
+      "chapter": null,
+      "original": "dare amicum amicae ? euge euge , sic furi datur .",
+      "translation": "Bravo ! bravo ! that ’ s the way it ’ s given to a thief [*] ."
+    },
+    {
+      "id": "5.6.767",
+      "label": "Section 5.6.767",
+      "chapter": null,
+      "original": "Age , iam infla buccas , nunciam aliquid suaviter .",
+      "translation": "Come , blow out your cheeks now ; something in the amorous way [*] at once . Give us a new tune in return for the old wine ."
+    },
+    {
+      "id": "5.7.769",
+      "label": "Section 5.7.769",
+      "chapter": null,
+      "original": "qui Iónicus aut cinaédicust , qui hoc tále facere póssiet ?",
+      "translation": "What person in the Ionian [*] or the ballet line is there that can do anything like that ?"
+    },
+    {
+      "id": "5.7.770",
+      "label": "Section 5.7.770",
+      "chapter": null,
+      "original": "Si istóc me vorsu víceris , alió me provocáto :",
+      "translation": "If you get the better of me this turn [*] , just challenge me to another ."
+    },
+    {
+      "id": "5.7.771",
+      "label": "Section 5.7.771",
+      "chapter": null,
+      "original": "Fac tu hóc modo .",
+      "translation": "Just you do it in this fashion ."
+    },
+    {
+      "id": "5.7.771b",
+      "label": "Section 5.7.771b",
+      "chapter": null,
+      "original": "At tu hoc módo .",
+      "translation": "And you in this fashion ."
+    },
+    {
+      "id": "5.7.771c",
+      "label": "Section 5.7.771c",
+      "chapter": null,
+      "original": "Babae .",
+      "translation": "O grand [*] !"
+    },
+    {
+      "id": "5.7.771d",
+      "label": "Section 5.7.771d",
+      "chapter": null,
+      "original": "Tataé .",
+      "translation": "O fine !"
+    },
+    {
+      "id": "5.7.771e",
+      "label": "Section 5.7.771e",
+      "chapter": null,
+      "original": "Papae .",
+      "translation": "O wonderful !"
+    },
+    {
+      "id": "5.7.771f",
+      "label": "Section 5.7.771f",
+      "chapter": null,
+      "original": "Pax .",
+      "translation": "Quiet [*] !"
+    },
+    {
+      "id": "5.7.772",
+      "label": "Section 5.7.772",
+      "chapter": null,
+      "original": "Nunc páriter ambo . omnís voco cinaédos contra .",
+      "translation": "Now , then , both in the same step . ( They dance quietly , in the same measure .) I challenge all the dancing-masters to dance against me . ’ Tis no more possible for there to be enough of this for us than for there to be too much rain for a mushroom ."
+    },
+    {
+      "id": "5.7.774",
+      "label": "Section 5.7.774",
+      "chapter": null,
+      "original": "Intro hínc abeamus nunciam : saltátum satis pro vinost .",
+      "translation": "Let ’ s away hence in-doors at once now ; we ’ ve danced long enough for the wine [*] ."
+    },
+    {
+      "id": "5.7.775",
+      "label": "Section 5.7.775",
+      "chapter": null,
+      "original": "vos , spectatores , plaudite atque ite ad vos comissatum .",
+      "translation": "You , Spectators , give us your applause , and then go home to enjoy yourselves ."
+    }
+  ],
+  "prevChunkSlug": "stichus-1vasmo-9",
+  "nextChunkSlug": "trinummus-py0gy8-1"
+}

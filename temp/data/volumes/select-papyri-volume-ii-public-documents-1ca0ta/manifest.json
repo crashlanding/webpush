@@ -1,0 +1,27 @@
+{
+  "loebNumber": 282,
+  "sortOrder": 282,
+  "slug": "select-papyri-volume-ii-public-documents-1ca0ta",
+  "title": "Volume II: Public Documents",
+  "volumeLabel": "Volume II: Public Documents",
+  "authorDisplay": "Select Papyri",
+  "authors": [
+    "Select Papyri"
+  ],
+  "language": "mixed",
+  "summary": "A catalog placeholder for Volume II: Public Documents. Scaife does not currently provide a confidently matchable original-and-English pair for this volume.",
+  "status": "placeholder",
+  "defaultChunkSlug": null,
+  "readyChunkCount": 0,
+  "contents": [
+    {
+      "id": "public-documents-16sdu4",
+      "title": "Public Documents",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Public Documents."
+    }
+  ],
+  "chunks": [],
+  "citations": []
+}

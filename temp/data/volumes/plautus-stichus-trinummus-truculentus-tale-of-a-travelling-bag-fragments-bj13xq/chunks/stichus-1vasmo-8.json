@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-stichus-trinummus-truculentus-tale-of-a-travelling-bag-fragments-bj13xq",
+  "volumeTitle": "Stichus. Trinummus. Truculentus. Tale of a Travelling Bag. Fragments",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "stichus-1vasmo-8",
+  "label": "Stichus (Section 4.2.612b - Section 5.4.696)",
+  "partId": "stichus-1vasmo",
+  "partTitle": "Stichus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Stichus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi018.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Stichus, or The Parasite Rebuffed",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi018.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "4.2.612b",
+      "label": "Section 4.2.612b",
+      "chapter": null,
+      "original": "Apud frátrem ceno in proxumo .",
+      "translation": "I ’ m going to dine at my brother ’ s , hard by ."
+    },
+    {
+      "id": "4.2.613",
+      "label": "Section 4.2.613",
+      "chapter": null,
+      "original": "Certumnest ?",
+      "translation": "Is that fixed ?"
+    },
+    {
+      "id": "4.2.613b",
+      "label": "Section 4.2.613b",
+      "chapter": null,
+      "original": "Certum .",
+      "translation": "Fixed ."
+    },
+    {
+      "id": "4.2.613c",
+      "label": "Section 4.2.613c",
+      "chapter": null,
+      "original": "Edepol te hodie lapide percussum velim .",
+      "translation": "By my troth , I hope you may be struck with a stone this day ."
+    },
+    {
+      "id": "4.2.614",
+      "label": "Section 4.2.614",
+      "chapter": null,
+      "original": "Non metuo : per hortúm transibo , non prodibo in publicum .",
+      "translation": "I ’ m not afraid ; I shall go through the garden ; I ’ ll not go abroad ."
+    },
+    {
+      "id": "4.2.615",
+      "label": "Section 4.2.615",
+      "chapter": null,
+      "original": "Quid ais , Gelasime ?",
+      "translation": "What say you to that , Gelasimus ?"
+    },
+    {
+      "id": "4.2.615b",
+      "label": "Section 4.2.615b",
+      "chapter": null,
+      "original": "Oratores tu accipis , habeas tibi .",
+      "translation": "You ’ re entertaining your deputies ; keep them to yourself ."
+    },
+    {
+      "id": "4.2.616",
+      "label": "Section 4.2.616",
+      "chapter": null,
+      "original": "Tua pol refert .",
+      "translation": "Why , faith , ’ tis your own business ."
+    },
+    {
+      "id": "4.2.616b",
+      "label": "Section 4.2.616b",
+      "chapter": null,
+      "original": "Enim , si quidem meá refert , opera utere .",
+      "translation": "If , indeed , ’ tis my own business , avail yourself of my assistance ; invite me ."
+    },
+    {
+      "id": "4.2.617",
+      "label": "Section 4.2.617",
+      "chapter": null,
+      "original": "Posse edepol tibi opinor etiam uni locum condi ⋯",
+      "translation": "By my faith , I see , as I fancy , one place still for yourself only , where you may recline ."
+    },
+    {
+      "id": "4.2.618b",
+      "label": "Section 4.2.618b",
+      "chapter": null,
+      "original": "Sane faciundum censeo .",
+      "translation": "Really , I do think it may be managed ."
+    },
+    {
+      "id": "4.2.618c",
+      "label": "Section 4.2.618c",
+      "chapter": null,
+      "original": "O lux oppidi .",
+      "translation": "O light of the city !"
+    },
+    {
+      "id": "4.2.619",
+      "label": "Section 4.2.619",
+      "chapter": null,
+      "original": "Si arte poteris accubare .",
+      "translation": "If you can manage to recline in a small compass ."
+    },
+    {
+      "id": "4.2.619b",
+      "label": "Section 4.2.619b",
+      "chapter": null,
+      "original": "Vél inter cuneos ferreos ;",
+      "translation": "Aye , even between two wedges [*] of iron ."
+    },
+    {
+      "id": "4.2.620",
+      "label": "Section 4.2.620",
+      "chapter": null,
+      "original": "tantillum loculi , ubi catellus cubet , id mi satis est loci .",
+      "translation": "As little space as a puppy can lie in , the same will be enough for me ."
+    },
+    {
+      "id": "4.2.621",
+      "label": "Section 4.2.621",
+      "chapter": null,
+      "original": "Exorabo aliquo modo . veni .",
+      "translation": "I ’ ll beg for it some way or other ; come along ."
+    },
+    {
+      "id": "4.2.621b",
+      "label": "Section 4.2.621b",
+      "chapter": null,
+      "original": "Hucine ?",
+      "translation": "What ? This way ?"
+    },
+    {
+      "id": "4.2.621c",
+      "label": "Section 4.2.621c",
+      "chapter": null,
+      "original": "Immo in carcerem ;",
+      "translation": "Yes , to prison . For here , indeed , you ’ ll not find any further entertainment [*] . Let ’ s be off , you Pamphilus ."
+    },
+    {
+      "id": "4.2.623",
+      "label": "Section 4.2.623",
+      "chapter": null,
+      "original": "Deos salutabo modo , poste ad te continuo transeo .—",
+      "translation": "I ’ ll but salute the Gods : then I ’ ll pass through to your house forthwith ."
+    },
+    {
+      "id": "4.2.624",
+      "label": "Section 4.2.624",
+      "chapter": null,
+      "original": "Quid igitur ?",
+      "translation": "What then ?"
+    },
+    {
+      "id": "4.2.624b",
+      "label": "Section 4.2.624b",
+      "chapter": null,
+      "original": "Dixi equidem , in carcerem ires .",
+      "translation": "Why , I said that you might go to prison ."
+    },
+    {
+      "id": "4.2.624c",
+      "label": "Section 4.2.624c",
+      "chapter": null,
+      "original": "Quin si iusseris ,",
+      "translation": "Well , if you order it ,"
+    },
+    {
+      "id": "4.2.625",
+      "label": "Section 4.2.625",
+      "chapter": null,
+      "original": "eo quoque ibo .",
+      "translation": "I ’ ll go there even ."
+    },
+    {
+      "id": "4.2.625b",
+      "label": "Section 4.2.625b",
+      "chapter": null,
+      "original": "Di immortales , hic quidem pól summam in crucem",
+      "translation": "Immortal Gods ! really , by my troth , this fellow might be induced by a dinner or a breakfast to bear extreme torture ."
+    },
+    {
+      "id": "4.2.626b",
+      "label": "Section 4.2.626b",
+      "chapter": null,
+      "original": "Ita ingenium meumst :",
+      "translation": "Such is my nature ; with anything can I struggle much more easily than with hunger ."
+    },
+    {
+      "id": "4.2.628",
+      "label": "Section 4.2.628",
+      "chapter": null,
+      "original": "Dum parasitus mi atque fratri fuisti , rem confregimus .",
+      "translation": "while you were the Parasite of myself and my brother , we ruined our fortunes ."
+    },
+    {
+      "id": "4.2.629",
+      "label": "Section 4.2.629",
+      "chapter": null,
+      "original": "Non nego ista ápud te .",
+      "translation": "I know it : at my house"
+    },
+    {
+      "id": "4.2.629b",
+      "label": "Section 4.2.629b",
+      "chapter": null,
+      "original": "Satis spectatast mihi iam tua felicitas ;",
+      "translation": "full long enough has this facility of yours been experienced by me ⋯"
+    },
+    {
+      "id": "4.2.630",
+      "label": "Section 4.2.630",
+      "chapter": null,
+      "original": "nunc ego nolo ex Gelasimo mihi fieri te Catagelasimum .—",
+      "translation": "Now I don ’ t wish you to be made by me from a Gelasimus into a Catagelasimus [*] ."
+    },
+    {
+      "id": "4.2.631",
+      "label": "Section 4.2.631",
+      "chapter": null,
+      "original": "Iamne abiisti ? Gelasime , vide quíd es capturus consili .",
+      "translation": "And are you gone now ? Surely he is gone . Now have I need of a wise resolution . Both are gone ; consider , Gelasimus , what plan you must adopt . ⋯ What , I ? Yes , you . What , for myself ? Yes , for yourself . Don ’ t you see how dear provisions are ? Don ’ t you see how the kindness and the heartiness of men have vanished ? Don ’ t you see how drolls are set at nought , and how they themselves are sponged upon ?"
+    },
+    {
+      "id": "4.2.635",
+      "label": "Section 4.2.635",
+      "chapter": null,
+      "original": "numquam edepol me vivom quisquam in crastinum inspiciet diem ;",
+      "translation": "By my troth , not a person shall ever behold me alive on the morrow ; for , this instant , in-doors will I load my throat with a bulrush dose [*] . And by this I shall not give cause for men to say that I died of hunger ."
+    },
+    {
+      "id": "5.1.641",
+      "label": "Section 5.1.641",
+      "chapter": null,
+      "original": "More hoc fit , atque stulte mea sententia :",
+      "translation": "Foolishly and unwisely is it done in my opinion , if people are in the habit , if they are expecting a person ; of looking out for him ; faith , ne doesn ’ t on that account come a bit the faster . I ’ m now doing that same thing , in looking out for Sagarinus ;"
+    },
+    {
+      "id": "5.1.645",
+      "label": "Section 5.1.645",
+      "chapter": null,
+      "original": "qui nihilo citius veniet tamen hac gratia .",
+      "translation": "who , still , for that reason won ’ t come a jot the faster . Troth , I shall just now be taking my place alone , if he doesn ’ t come here . I ’ ll now fetch that cask of wine hither from home , and then I ’ ll take my place . The day , like snow , is melting away apace ."
+    },
+    {
+      "id": "5.2.649",
+      "label": "Section 5.2.649",
+      "chapter": null,
+      "original": "Salvete , Athenae , quae nutrices Graeciae ,",
+      "translation": "Hail ! Athens , thou nurse of Greece ;"
+    },
+    {
+      "id": "5.2.650",
+      "label": "Section 5.2.650",
+      "chapter": null,
+      "original": "sperata erilis patria , te video libens .",
+      "translation": "country of my master , hail ! How joyously do I behold thee . But I have a wish to see how my mistress and fellow-servant , Stephanium , is faring . For I bade Stichus to give her my regards , and to tell her that I should come to-day , so that she might cook a dinner in good time ."
+    },
+    {
+      "id": "5.2.655",
+      "label": "Section 5.2.655",
+      "chapter": null,
+      "original": "sed Stichus est hic quidem .",
+      "translation": "But , surely , here ’ s Stichus ."
+    },
+    {
+      "id": "5.2.655b",
+      "label": "Section 5.2.655b",
+      "chapter": null,
+      "original": "Fecisti , ere , facetias ,",
+      "translation": "A clever thing you did , master , when you presented your servant , Stichus , with this gift . O ye immortal Gods ! how many delights do I carry , how many smiles , how many jokes , how many a kiss , dancing , dalliance , and good-fellowship ."
+    },
+    {
+      "id": "5.2.660",
+      "label": "Section 5.2.660",
+      "chapter": null,
+      "original": "Stiche .",
+      "translation": "Stichus ,"
+    },
+    {
+      "id": "5.2.660c",
+      "label": "Section 5.2.660c",
+      "chapter": null,
+      "original": "Quíd fit ?",
+      "translation": "how fare you ?"
+    },
+    {
+      "id": "5.2.660d",
+      "label": "Section 5.2.660d",
+      "chapter": null,
+      "original": "Euge , Sangarine lepidissume .",
+      "translation": "Right well , Sagarinus , most delightfully ; I ’ m bringing Dionysus [*] , as my guest and yours . For , i ’ faith , the dinner ’ s cooked ; free range has been given me and you at your house . For at our house there ’ s an entertainment ; your master ’ s dining there with his wife , and Antipho as well ;"
+    },
+    {
+      "id": "5.2.665",
+      "label": "Section 5.2.665",
+      "chapter": null,
+      "original": "ibidem erus est noster ), hoc mihi dono datumst .",
+      "translation": "there , too , is my master . This was given me as a present ."
+    },
+    {
+      "id": "5.2.666",
+      "label": "Section 5.2.666",
+      "chapter": null,
+      "original": "Quis somniavit aurum ?",
+      "translation": "How ? Are you dreaming ?"
+    },
+    {
+      "id": "5.2.666b",
+      "label": "Section 5.2.666b",
+      "chapter": null,
+      "original": "Quid id ad te attinet ?",
+      "translation": "What matters that to you ?"
+    },
+    {
+      "id": "5.2.667",
+      "label": "Section 5.2.667",
+      "chapter": null,
+      "original": "proin tu lavare propera .",
+      "translation": "Do you at once make haste , and bathe ."
+    },
+    {
+      "id": "5.2.667b",
+      "label": "Section 5.2.667b",
+      "chapter": null,
+      "original": "Lautus sum .",
+      "translation": "I have bathed ."
+    },
+    {
+      "id": "5.2.667c",
+      "label": "Section 5.2.667c",
+      "chapter": null,
+      "original": "Optime ,",
+      "translation": "Very good follow me , then , this . way in-doors , Sagarinus ."
+    },
+    {
+      "id": "5.2.669",
+      "label": "Section 5.2.669",
+      "chapter": null,
+      "original": "volo eluamus hodie , peregrina omnia",
+      "translation": "I wish us this day to wash away everything of foreign climes ."
+    },
+    {
+      "id": "5.2.670",
+      "label": "Section 5.2.670",
+      "chapter": null,
+      "original": "relinque , Athenas nunc colamus . sequere me .—",
+      "translation": "Leave them alone ; let ’ s now attend to Athens ; follow me ."
+    },
+    {
+      "id": "5.2.671",
+      "label": "Section 5.2.671",
+      "chapter": null,
+      "original": "Sequor , et domum redeunti principium placet .",
+      "translation": "Of course , I follow . By my troth , this beginning pleases me as I return home ; a happy omen and augury [*] has met me in my path ."
+    },
+    {
+      "id": "5.3.673",
+      "label": "Section 5.3.673",
+      "chapter": null,
+      "original": "Mirúm videri némini vestrúm volo , spectatóres ,",
+      "translation": "I wish that it may appear wondrous to no one of you , Spectators ,"
+    },
+    {
+      "id": "5.3.674_675",
+      "label": "Section 5.3.674_675",
+      "chapter": null,
+      "original": "quid ego hinc , quae illic habito , exeam : faciam vos certiores .",
+      "translation": "why I who live there ( pointing to the house of PAMPHILUS ) am come out hither from this other house : I ’ ll inform you thereon . Just now was I sent for to this house by the back way . For as soon as news was brought that the husbands of these ladies were about to come , we all hurried thither . We attended to laying the couches , and setting all in order . Still , amid these duties , I had a care for my friends ,"
+    },
+    {
+      "id": "5.3.680",
+      "label": "Section 5.3.680",
+      "chapter": null,
+      "original": "Sticho et conservo Sagarino meo , cena cocta ut esset .",
+      "translation": "Stichus and my fellow-servant Sagarinus , that their dinner should be cooked . Stichus has been caterer ; but for cooking it , I ’ ve appointed one my deputy . Now , I ’ ll be off hence , and attend to my friends , who , I see , are coming here ."
+    },
+    {
+      "id": "5.4.683",
+      "label": "Section 5.4.683",
+      "chapter": null,
+      "original": "Ágite ite foras : férte pompam . cádo te praefició , Stiche .",
+      "translation": "Come , out of doors with you ; lead on the procession [*] . Stichus , I appoint you commander of the cask . I ’ m resolved to prove our banquet in every fashion this day ."
+    },
+    {
+      "id": "5.4.685",
+      "label": "Section 5.4.685",
+      "chapter": null,
+      "original": "ita me di ament , lepide accipimur quom hoc recipimur in loco .",
+      "translation": "So may the Gods love me , we are well entertained in being feasted in this place . I will that each person that passes by shall be invited to join the banquet ."
+    },
+    {
+      "id": "5.4.686b",
+      "label": "Section 5.4.686b",
+      "chapter": null,
+      "original": "Convenit ,",
+      "translation": "Agreed , so long only as , i ’ faith , each man comes with his own wine [*] ; for of this , a mouthful shall be given to no person but ourselves , this day . Eating alone [*] , let ’ s wait upon ourselves ."
+    },
+    {
+      "id": "5.4.689b",
+      "label": "Section 5.4.689b",
+      "chapter": null,
+      "original": "Hoc conviviumst",
+      "translation": "This banquet ,"
+    },
+    {
+      "id": "5.4.690",
+      "label": "Section 5.4.690",
+      "chapter": null,
+      "original": "pro opibus nostris satis commodule nucibus , fabulis , ficulis ,",
+      "translation": "for our means , is quite sufficient , with its nuts , beans , figs [*] , a dish of olives , pounded lupines , and a cake ."
+    },
+    {
+      "id": "5.4.692",
+      "label": "Section 5.4.692",
+      "chapter": null,
+      "original": "Sat est : servo homini módeste melius facere sumptum quam ampliter .",
+      "translation": "It better becomes a man who is a slave to bring his expenses within moderation than beyond . Each one to his own station ; they , who have wealth at home , drink from cups , goblets , and bowls ; we , if we are now"
+    },
+    {
+      "id": "5.4.695",
+      "label": "Section 5.4.695",
+      "chapter": null,
+      "original": "tamen bibimús nos , tamen efficimus pro opibus nostra moenia .",
+      "translation": "drinking from our Samian jug [*] , still build our walls according to our means ."
+    },
+    {
+      "id": "5.4.696",
+      "label": "Section 5.4.696",
+      "chapter": null,
+      "original": "Age dice uter utrubi áccumbamus .",
+      "translation": "On which side is each of us to recline by our mistress ?"
+    }
+  ],
+  "prevChunkSlug": "stichus-1vasmo-7",
+  "nextChunkSlug": "stichus-1vasmo-9"
+}

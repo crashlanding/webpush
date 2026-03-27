@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-amphitryon-the-comedy-of-asses-the-pot-of-gold-the-two-bacchises-the-captives-najy9a",
+  "volumeTitle": "Amphitryon. The Comedy of Asses. The Pot of Gold. The Two Bacchises. The Captives",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-pot-of-gold-12wtur-3",
+  "label": "The Pot of Gold (Section 2.2.223 - Section 2.4.306)",
+  "partId": "the-pot-of-gold-12wtur",
+  "partTitle": "The Pot of Gold",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Aulularia",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi003.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Aulularia, or The Concealed Treasure",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi003.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "2.2.223",
+      "label": "Section 2.2.223",
+      "chapter": null,
+      "original": "Neque edepol ego te derisum venio neque derideo ,",
+      "translation": "By my troth , I neither am come to laugh at you , nor am I laughing at you , nor do I think you deserving of it ."
+    },
+    {
+      "id": "2.2.224b",
+      "label": "Section 2.2.224b",
+      "chapter": null,
+      "original": "Cur igitur poscis meam gnatam tibi ?",
+      "translation": "Why then do you ask for my daughter for your self ?"
+    },
+    {
+      "id": "2.2.225",
+      "label": "Section 2.2.225",
+      "chapter": null,
+      "original": "Vt propter me tibi sit melius mihique propter te et tuos .",
+      "translation": "That through me it may be better for you , and through you and yours for me ."
+    },
+    {
+      "id": "2.2.226",
+      "label": "Section 2.2.226",
+      "chapter": null,
+      "original": "Venit hoc mihi , Megadóre , in mentem , ted esse hominem divitem ,",
+      "translation": "This suggests itself to my mind , Megadorus , that you are a wealthy man , a man of rank ; that I likewise am a person , the poorest of the poor ; now , if I should give my daughter in marriage to you , it suggests itself to my mind that you are the ox , and that I am the ass ; when I ’ m yoked to you ,"
+    },
+    {
+      "id": "2.2.230",
+      "label": "Section 2.2.230",
+      "chapter": null,
+      "original": "ubi onus nequeam ferre pariter , iaceam ego asinus in luto ,",
+      "translation": "and when I ’ m not able to bear the burden equally with yourself , I , the ass , must lie down in the mire ; you , the ox , would regard me no more than if I had never been born ; and I should both find you unjust , and my own class would laugh at me ; in neither direction should I have a fixed stall , if there should be any separation [*] ; the asses would tear me with their teeth , the oxen would butt at me with their horns ."
+    },
+    {
+      "id": "2.2.235",
+      "label": "Section 2.2.235",
+      "chapter": null,
+      "original": "hoc magnum est periclum , ab asinis ad boves transcendere .",
+      "translation": "This is the great hazard , in my passing over from the asses to the oxen ."
+    },
+    {
+      "id": "2.2.236",
+      "label": "Section 2.2.236",
+      "chapter": null,
+      "original": "Quam ad probos propinquitate proxime te adiunxeris ,",
+      "translation": "The nearer you can unite yourself in alliance with the virtuous , so much the better . Do you receive this proposal , listen to me , and promise her to me ."
+    },
+    {
+      "id": "2.2.238b",
+      "label": "Section 2.2.238b",
+      "chapter": null,
+      "original": "At nihil est dotis quod dem .",
+      "translation": "But indeed there is no marriage-portion ."
+    },
+    {
+      "id": "2.2.238c",
+      "label": "Section 2.2.238c",
+      "chapter": null,
+      "original": "Ne duas .",
+      "translation": "You are to give none ; so long as she comes with good principles , she is sufficiently portioned ."
+    },
+    {
+      "id": "2.2.240",
+      "label": "Section 2.2.240",
+      "chapter": null,
+      "original": "Eo dico , ne me thensauros repperisse censeas .",
+      "translation": "I say so for this reason , that you mayn ’ t be supposing that I have found any treasures ."
+    },
+    {
+      "id": "2.2.241",
+      "label": "Section 2.2.241",
+      "chapter": null,
+      "original": "Novi , ne doceas . desponde .",
+      "translation": "I know that ; don ’ t enlarge upon it . Promise her to me ."
+    },
+    {
+      "id": "2.2.241b",
+      "label": "Section 2.2.241b",
+      "chapter": null,
+      "original": "Fiat . sed pro Iuppiter ,",
+      "translation": "So be it . ( Starts and looks about .) But , O Jupiter , am I not utterly undone ?"
+    },
+    {
+      "id": "2.2.242b",
+      "label": "Section 2.2.242b",
+      "chapter": null,
+      "original": "Quíd tibi est ?",
+      "translation": "What ’ s the matter with you ?"
+    },
+    {
+      "id": "2.2.242c",
+      "label": "Section 2.2.242c",
+      "chapter": null,
+      "original": "Quid crepuit quasi ferrum modo ?—",
+      "translation": "What was it sounded just now as though it were iron ?"
+    },
+    {
+      "id": "2.2.243",
+      "label": "Section 2.2.243",
+      "chapter": null,
+      "original": "Hic apud me hortúm confodere iussi . sed ubi hic est homo ?",
+      "translation": "Here at my place , I ordered them to dig up the garden . ( EUCLIO runs off into his house .) But where is this man ? He ’ s off , and he hasn ’ t fully answered me ; he treats me with contempt ."
+    },
+    {
+      "id": "2.2.246",
+      "label": "Section 2.2.246",
+      "chapter": null,
+      "original": "quia videt me suam amicitiam velle : more hominum facit ;",
+      "translation": "Because he sees that I wish for his friendship , he acts after the manner of mankind . For if a wealthy person goes to ask a favour of a poorer one , the poor man is afraid to treat with him ; through his apprehension he hurts his own interest . The same person , when this opportunity is lost , too late , then wishes for it ."
+    },
+    {
+      "id": "2.2.250",
+      "label": "Section 2.2.250",
+      "chapter": null,
+      "original": "Si hercle ego te non elinguandam dedero usque ab radicibus ,",
+      "translation": "By the powers , if I don ’ t give you up to have your tongue cut out by the roots , I order and I authorize you to hand me over to any one you please to be incapacitated ."
+    },
+    {
+      "id": "2.2.252",
+      "label": "Section 2.2.252",
+      "chapter": null,
+      "original": "Video hercle ego te me arbitrari , Eúclio , hominem idoneum ,",
+      "translation": "By my troth , Euclio , I perceive that you consider me a fit man for you to make sport of in my old age , for no deserts of my own ."
+    },
+    {
+      "id": "2.2.254",
+      "label": "Section 2.2.254",
+      "chapter": null,
+      "original": "Neque edepol , Megadore , facio , neque , si cupiam , copia est .",
+      "translation": "I ’ faith , Megadorus , I am not doing so , nor , should I desire it , had I the means [*] ."
+    },
+    {
+      "id": "2.2.255",
+      "label": "Section 2.2.255",
+      "chapter": null,
+      "original": "Quid nunc ? etiam mihi despondes filiam ?",
+      "translation": "How now ? Do you then betroth your daughter to me ?"
+    },
+    {
+      "id": "2.2.255b",
+      "label": "Section 2.2.255b",
+      "chapter": null,
+      "original": "Illis legibus ,",
+      "translation": "On those terms , and with that portion which I mentioned to you ."
+    },
+    {
+      "id": "2.2.256b",
+      "label": "Section 2.2.256b",
+      "chapter": null,
+      "original": "Sponden ergo ?",
+      "translation": "Do you promise her then ?"
+    },
+    {
+      "id": "2.2.256c",
+      "label": "Section 2.2.256c",
+      "chapter": null,
+      "original": "Spondeo .",
+      "translation": "I do promise her ."
+    },
+    {
+      "id": "2.2.257",
+      "label": "Section 2.2.257",
+      "chapter": null,
+      "original": "Di bene vertant .",
+      "translation": "May the Gods bestow their blessings on it ."
+    },
+    {
+      "id": "2.2.257b",
+      "label": "Section 2.2.257b",
+      "chapter": null,
+      "original": "Ita di faxint . illud facito ut memineris ,",
+      "translation": "May the Gods so do . Take you care of this , and remember that we ’ ve agreed , that my daughter is not to bring you any portion ."
+    },
+    {
+      "id": "2.2.259",
+      "label": "Section 2.2.259",
+      "chapter": null,
+      "original": "Memini .",
+      "translation": "I remember it ."
+    },
+    {
+      "id": "2.2.259b",
+      "label": "Section 2.2.259b",
+      "chapter": null,
+      "original": "At scio quo vos soleatis pacto perplexarier :",
+      "translation": "But I understand in what fashion you , of your class , are wont to equivocate ;"
+    },
+    {
+      "id": "2.2.260",
+      "label": "Section 2.2.260",
+      "chapter": null,
+      "original": "pactum non pactum est , non pactum pactum est , quod vobis lubet .",
+      "translation": "an agreement is no agreement , no agreement is an agreement , just as it pleases you ."
+    },
+    {
+      "id": "2.2.261",
+      "label": "Section 2.2.261",
+      "chapter": null,
+      "original": "Nulla controversia mihi tecum erit . sed nuptias",
+      "translation": "I ’ ll have no misunderstanding with you . But what reason is there why we shouldn ’ t have the nuptials this day ?"
+    },
+    {
+      "id": "2.2.262b",
+      "label": "Section 2.2.262b",
+      "chapter": null,
+      "original": "Immo edepol optuma .",
+      "translation": "Why , by my troth , there is very good reason for them ."
+    },
+    {
+      "id": "2.2.263",
+      "label": "Section 2.2.263",
+      "chapter": null,
+      "original": "Ibo igitur , parabo . numquid me vis ?",
+      "translation": "I ’ ll go , then , and prepare matters . Do you want me in any way ?"
+    },
+    {
+      "id": "2.2.263b",
+      "label": "Section 2.2.263b",
+      "chapter": null,
+      "original": "Istuc . ei et vale .",
+      "translation": "That shall be done . Fare you well ."
+    },
+    {
+      "id": "2.2.264",
+      "label": "Section 2.2.264",
+      "chapter": null,
+      "original": "Heus , Pythodice , sequere propere me ad macellum strenue .—",
+      "translation": "Hallo ! Strobilus , follow me quickly , in all haste , to the fleshmarket ."
+    },
+    {
+      "id": "2.2.265",
+      "label": "Section 2.2.265",
+      "chapter": null,
+      "original": "Illic hinc abiit . di immortales , obsecro , aurum quid valet .",
+      "translation": "He has gone hence . Immortal Gods , I do beseech you ! How powerful is gold ! I do believe , now , that he has had some intimation that I ’ ve got a treasure at home ; he ’ s gaping for that ; for the sake of that has he persisted in this alliance ."
+    },
+    {
+      "id": "2.3.268",
+      "label": "Section 2.3.268",
+      "chapter": null,
+      "original": "ubi tu es , quae deblateravisti iam vicinis omnibus ,",
+      "translation": "Where are you who have now been blabbing to all my neighbours that I ’ m going to give a portion to my daughter ? Hallo ! Staphyla , I ’ m calling you !"
+    },
+    {
+      "id": "2.3.270",
+      "label": "Section 2.3.270",
+      "chapter": null,
+      "original": "ecquid audis ? vascula intus pure propera atque elue :",
+      "translation": "Don ’ t you hear ? Make haste in-doors there , and wash the vessels clean . I ’ ve promised my daughter in marriage ; to-day I shall give her to be married to Megadorus here ."
+    },
+    {
+      "id": "2.3.272",
+      "label": "Section 2.3.272",
+      "chapter": null,
+      "original": "Di bene vortant . verum ecastor non potest , subitum est nimis .",
+      "translation": "May the Gods bestow their blessings on it ! But , i ’ faith , it cannot be ; ’ tis too sudden ."
+    },
+    {
+      "id": "2.3.273",
+      "label": "Section 2.3.273",
+      "chapter": null,
+      "original": "Tace atque abi . curata fac sint cum a foro redeam domum ;",
+      "translation": "Hold your tongue , and be off . Take care that things are ready when I return home from the Forum , and shut the house up . I shall be here directly ."
+    },
+    {
+      "id": "2.3.274b",
+      "label": "Section 2.3.274b",
+      "chapter": null,
+      "original": "Quid ego nunc agam ?",
+      "translation": "What now am I to do ?"
+    },
+    {
+      "id": "2.3.275",
+      "label": "Section 2.3.275",
+      "chapter": null,
+      "original": "nunc nobis prope adest exitium , mi atque erili filiae ,",
+      "translation": "Now is ruin near at hand for us , both for myself and my master ’ s daughter ; for her disgrace and her delivery are upon the very point of becoming known ; that which even until now has been concealed and kept secret , cannot be so now . I ’ ll go in-doors , that what my master ordered may be done when he comes . But , by my faith , I do fear that I shall have to drink of a mixture of bitterness [*] !"
+    },
+    {
+      "id": "2.4.280",
+      "label": "Section 2.4.280",
+      "chapter": null,
+      "original": "Postquam óbsonavit erus et conduxit coquos",
+      "translation": "After my master had bought the provisions , and hired the cooks [*] and these music- girls in the market-place , he ordered me to divide these provisions into two parts ."
+    },
+    {
+      "id": "2.4.283",
+      "label": "Section 2.4.283",
+      "chapter": null,
+      "original": "Me quidem hercle , dicam tibi palam , non divides ;",
+      "translation": "By my troth , but you really shan ’ t be dividing me [*] , I tell you plainly . If you wish me to go anywhere whole , I ’ ll do my best ."
+    },
+    {
+      "id": "2.4.285",
+      "label": "Section 2.4.285",
+      "chapter": null,
+      "original": "Bellum et pudicum vero prostibulum popli .",
+      "translation": "A very pretty and modest fellow , indeed [*] . As if , when you are a conger by name , you wouldn ’ t like to be cut into pieces ."
+    },
+    {
+      "id": "2.4.287",
+      "label": "Section 2.4.287",
+      "chapter": null,
+      "original": "Atque ego istuc , Anthrax , alio vorsum dixeram ,",
+      "translation": "But , Anthrax , I said that in another sense , and not in the one which you are pretending ."
+    },
+    {
+      "id": "2.4.289",
+      "label": "Section 2.4.289",
+      "chapter": null,
+      "original": "meus hodie faciet .",
+      "translation": "Now my master ’ s going to be married to-day . [*]"
+    },
+    {
+      "id": "2.4.289b",
+      "label": "Section 2.4.289b",
+      "chapter": null,
+      "original": "Cuius ducit filiam ?",
+      "translation": "Whose daughter is he to marry ?"
+    },
+    {
+      "id": "2.4.290",
+      "label": "Section 2.4.290",
+      "chapter": null,
+      "original": "Vicini huius Euclionis senis e proximo .",
+      "translation": "The daughter of this Euclio , his near neighbour here . For that reason he has ordered half of these provisions here to be presented to him — one cook , and one music-girl likewise ."
+    },
+    {
+      "id": "2.4.293",
+      "label": "Section 2.4.293",
+      "chapter": null,
+      "original": "Nempe huc dimidium dicis , dimidium domum ?",
+      "translation": "That is , you take one half to him , the other half home ?"
+    },
+    {
+      "id": "2.4.294",
+      "label": "Section 2.4.294",
+      "chapter": null,
+      "original": "Nempe sícut dicis .",
+      "translation": "’ Tis just as you say ."
+    },
+    {
+      "id": "2.4.294b",
+      "label": "Section 2.4.294b",
+      "chapter": null,
+      "original": "Quíd ? hic non poterat de suo",
+      "translation": "How ’ s that ? Couldn ’ t this old fellow provide from his own resources for the wedding of his daughter ."
+    },
+    {
+      "id": "2.4.296",
+      "label": "Section 2.4.296",
+      "chapter": null,
+      "original": "Vah .",
+      "translation": "Pshaw !"
+    },
+    {
+      "id": "2.4.296b",
+      "label": "Section 2.4.296b",
+      "chapter": null,
+      "original": "Quid negotist ?",
+      "translation": "What ’ s the matter ?"
+    },
+    {
+      "id": "2.4.296c",
+      "label": "Section 2.4.296c",
+      "chapter": null,
+      "original": "Quid negoti sit rogas ?",
+      "translation": "What ’ s the matter , do you ask ? A pumice stone isn ’ t so dry as is this old fellow ."
+    },
+    {
+      "id": "2.4.298",
+      "label": "Section 2.4.298",
+      "chapter": null,
+      "original": "Ain tandem ?",
+      "translation": "Do you really say that it is as you affirm ?"
+    },
+    {
+      "id": "2.4.301",
+      "label": "Section 2.4.301",
+      "chapter": null,
+      "original": "de suo tigillo fumus si qua exit foras .",
+      "translation": "if the smoke by chance escapes out of doors through the rafters of his house . Why , when he goes to sleep , he ties a bag [*] beneath his gullet ."
+    },
+    {
+      "id": "2.4.303",
+      "label": "Section 2.4.303",
+      "chapter": null,
+      "original": "Cur ?",
+      "translation": "Why so ?"
+    },
+    {
+      "id": "2.4.303b",
+      "label": "Section 2.4.303b",
+      "chapter": null,
+      "original": "Ne quid animae forte amittat dormiens .",
+      "translation": "That when he sleeps , he may lose no breath ."
+    },
+    {
+      "id": "2.4.304",
+      "label": "Section 2.4.304",
+      "chapter": null,
+      "original": "Etiamne obturat inferiorem gutturem ,",
+      "translation": "And does he stop up the lower part of his windpipe [*] as well ,"
+    },
+    {
+      "id": "2.4.305",
+      "label": "Section 2.4.305",
+      "chapter": null,
+      "original": "ne quid animai forte amittat dormiens ?",
+      "translation": "lest , perchance , he should lose any breath as he sleeps ?"
+    },
+    {
+      "id": "2.4.306",
+      "label": "Section 2.4.306",
+      "chapter": null,
+      "original": "Haec mihi te ut tibi med aequom est , credo , credere .",
+      "translation": "In that ’ tis as fair that you should credit me , as it is for me to credit you ."
+    }
+  ],
+  "prevChunkSlug": "the-pot-of-gold-12wtur-2",
+  "nextChunkSlug": "the-pot-of-gold-12wtur-4"
+}

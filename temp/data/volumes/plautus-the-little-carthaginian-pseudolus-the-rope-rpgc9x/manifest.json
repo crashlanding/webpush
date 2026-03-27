@@ -1,0 +1,1729 @@
+{
+  "loebNumber": 260,
+  "sortOrder": 260,
+  "slug": "plautus-the-little-carthaginian-pseudolus-the-rope-rpgc9x",
+  "title": "The Little Carthaginian. Pseudolus. The Rope",
+  "volumeLabel": "The Little Carthaginian. Pseudolus. The Rope",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for The Little Carthaginian. Pseudolus. The Rope, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "the-little-carthaginian-12yp3b-1",
+  "readyChunkCount": 56,
+  "contents": [
+    {
+      "id": "the-little-carthaginian-12yp3b",
+      "title": "The Little Carthaginian",
+      "status": "ready",
+      "sectionCount": 1113,
+      "chunkSlug": "the-little-carthaginian-12yp3b-1",
+      "chunks": [
+        {
+          "slug": "the-little-carthaginian-12yp3b-1",
+          "label": "The Little Carthaginian (Section prologue.pr.1 - Section 1.1.169b)",
+          "partId": "the-little-carthaginian-12yp3b",
+          "partTitle": "The Little Carthaginian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-little-carthaginian-12yp3b-2",
+          "label": "The Little Carthaginian (Section 1.1.169c - Section 1.2.281b)",
+          "partId": "the-little-carthaginian-12yp3b",
+          "partTitle": "The Little Carthaginian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-little-carthaginian-12yp3b-3",
+          "label": "The Little Carthaginian (Section 1.2.283 - Section 1.2.333d)",
+          "partId": "the-little-carthaginian-12yp3b",
+          "partTitle": "The Little Carthaginian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-little-carthaginian-12yp3b-4",
+          "label": "The Little Carthaginian (Section 1.2.334 - Section 1.2.403)",
+          "partId": "the-little-carthaginian-12yp3b",
+          "partTitle": "The Little Carthaginian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-little-carthaginian-12yp3b-5",
+          "label": "The Little Carthaginian (Section 1.2.404b - Section 2.1.476b)",
+          "partId": "the-little-carthaginian-12yp3b",
+          "partTitle": "The Little Carthaginian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-little-carthaginian-12yp3b-6",
+          "label": "The Little Carthaginian (Section 2.1.477b - Section 3.2.578)",
+          "partId": "the-little-carthaginian-12yp3b",
+          "partTitle": "The Little Carthaginian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-little-carthaginian-12yp3b-7",
+          "label": "The Little Carthaginian (Section 3.2.578b - Section 3.3.637)",
+          "partId": "the-little-carthaginian-12yp3b",
+          "partTitle": "The Little Carthaginian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-little-carthaginian-12yp3b-8",
+          "label": "The Little Carthaginian (Section 3.3.638 - Section 3.4.716)",
+          "partId": "the-little-carthaginian-12yp3b",
+          "partTitle": "The Little Carthaginian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-little-carthaginian-12yp3b-9",
+          "label": "The Little Carthaginian (Section 3.4.717b - Section 3.5.765)",
+          "partId": "the-little-carthaginian-12yp3b",
+          "partTitle": "The Little Carthaginian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-little-carthaginian-12yp3b-10",
+          "label": "The Little Carthaginian (Section 3.5.767 - Section 4.2.857)",
+          "partId": "the-little-carthaginian-12yp3b",
+          "partTitle": "The Little Carthaginian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-little-carthaginian-12yp3b-11",
+          "label": "The Little Carthaginian (Section 4.2.857b - Section 4.2.896)",
+          "partId": "the-little-carthaginian-12yp3b",
+          "partTitle": "The Little Carthaginian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-little-carthaginian-12yp3b-12",
+          "label": "The Little Carthaginian (Section 4.2.896b - Section 5.2.998)",
+          "partId": "the-little-carthaginian-12yp3b",
+          "partTitle": "The Little Carthaginian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-little-carthaginian-12yp3b-13",
+          "label": "The Little Carthaginian (Section 5.2.998b - Section 5.2.1065)",
+          "partId": "the-little-carthaginian-12yp3b",
+          "partTitle": "The Little Carthaginian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-little-carthaginian-12yp3b-14",
+          "label": "The Little Carthaginian (Section 5.2.1066 - Section 5.3.1132)",
+          "partId": "the-little-carthaginian-12yp3b",
+          "partTitle": "The Little Carthaginian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-little-carthaginian-12yp3b-15",
+          "label": "The Little Carthaginian (Section 5.3.1132b - Section 5.4.1197)",
+          "partId": "the-little-carthaginian-12yp3b",
+          "partTitle": "The Little Carthaginian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-little-carthaginian-12yp3b-16",
+          "label": "The Little Carthaginian (Section 5.4.1197b - Section 5.4.1243)",
+          "partId": "the-little-carthaginian-12yp3b",
+          "partTitle": "The Little Carthaginian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-little-carthaginian-12yp3b-17",
+          "label": "The Little Carthaginian (Section 5.4.1243b - Section 5.5.1319)",
+          "partId": "the-little-carthaginian-12yp3b",
+          "partTitle": "The Little Carthaginian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-little-carthaginian-12yp3b-18",
+          "label": "The Little Carthaginian (Section 5.5.1320 - Section 5.7.1385)",
+          "partId": "the-little-carthaginian-12yp3b",
+          "partTitle": "The Little Carthaginian",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-little-carthaginian-12yp3b-19",
+          "label": "The Little Carthaginian (Section 5.7.1387 - Section 5.7.1422b)",
+          "partId": "the-little-carthaginian-12yp3b",
+          "partTitle": "The Little Carthaginian",
+          "sectionCount": 33,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "pseudolus-1bndy7",
+      "title": "Pseudolus",
+      "status": "ready",
+      "sectionCount": 1039,
+      "chunkSlug": "pseudolus-1bndy7-1",
+      "chunks": [
+        {
+          "slug": "pseudolus-1bndy7-1",
+          "label": "Pseudolus (Section prologue.pr.1 - Section 1.1.80)",
+          "partId": "pseudolus-1bndy7",
+          "partTitle": "Pseudolus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pseudolus-1bndy7-2",
+          "label": "Pseudolus (Section 1.1.81 - Section 1.2.196)",
+          "partId": "pseudolus-1bndy7",
+          "partTitle": "Pseudolus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pseudolus-1bndy7-3",
+          "label": "Pseudolus (Section 1.2.200 - Section 1.3.255c)",
+          "partId": "pseudolus-1bndy7",
+          "partTitle": "Pseudolus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pseudolus-1bndy7-4",
+          "label": "Pseudolus (Section 1.3.255d - Section 1.3.325)",
+          "partId": "pseudolus-1bndy7",
+          "partTitle": "Pseudolus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pseudolus-1bndy7-5",
+          "label": "Pseudolus (Section 1.3.325b - Section 1.3.363d)",
+          "partId": "pseudolus-1bndy7",
+          "partTitle": "Pseudolus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pseudolus-1bndy7-6",
+          "label": "Pseudolus (Section 1.3.364 - Section 1.5.453)",
+          "partId": "pseudolus-1bndy7",
+          "partTitle": "Pseudolus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pseudolus-1bndy7-7",
+          "label": "Pseudolus (Section 1.5.453b - Section 1.5.519)",
+          "partId": "pseudolus-1bndy7",
+          "partTitle": "Pseudolus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pseudolus-1bndy7-8",
+          "label": "Pseudolus (Section 1.5.520 - Section 2.2.624_625)",
+          "partId": "pseudolus-1bndy7",
+          "partTitle": "Pseudolus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pseudolus-1bndy7-9",
+          "label": "Pseudolus (Section 2.2.624_625b - Section 2.4.702c)",
+          "partId": "pseudolus-1bndy7",
+          "partTitle": "Pseudolus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pseudolus-1bndy7-10",
+          "label": "Pseudolus (Section 2.4.705 - Section 2.4.751b)",
+          "partId": "pseudolus-1bndy7",
+          "partTitle": "Pseudolus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pseudolus-1bndy7-11",
+          "label": "Pseudolus (Section 2.4.755 - Section 3.2.879b)",
+          "partId": "pseudolus-1bndy7",
+          "partTitle": "Pseudolus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pseudolus-1bndy7-12",
+          "label": "Pseudolus (Section 3.2.880 - Section 4.1.953c)",
+          "partId": "pseudolus-1bndy7",
+          "partTitle": "Pseudolus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pseudolus-1bndy7-13",
+          "label": "Pseudolus (Section 4.1.954 - Section 4.2.1016b)",
+          "partId": "pseudolus-1bndy7",
+          "partTitle": "Pseudolus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pseudolus-1bndy7-14",
+          "label": "Pseudolus (Section 4.2.1016c - Section 4.7.1124d)",
+          "partId": "pseudolus-1bndy7",
+          "partTitle": "Pseudolus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pseudolus-1bndy7-15",
+          "label": "Pseudolus (Section 4.7.1124e - Section 4.7.1170)",
+          "partId": "pseudolus-1bndy7",
+          "partTitle": "Pseudolus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pseudolus-1bndy7-16",
+          "label": "Pseudolus (Section 4.7.1170b - Section 4.7.1228b)",
+          "partId": "pseudolus-1bndy7",
+          "partTitle": "Pseudolus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pseudolus-1bndy7-17",
+          "label": "Pseudolus (Section 4.7.1229 - Section 5.2.1322)",
+          "partId": "pseudolus-1bndy7",
+          "partTitle": "Pseudolus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pseudolus-1bndy7-18",
+          "label": "Pseudolus (Section 5.2.1323 - Section 5.2.1335)",
+          "partId": "pseudolus-1bndy7",
+          "partTitle": "Pseudolus",
+          "sectionCount": 19,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "the-rope-i828ht",
+      "title": "The Rope",
+      "status": "ready",
+      "sectionCount": 1087,
+      "chunkSlug": "the-rope-i828ht-1",
+      "chunks": [
+        {
+          "slug": "the-rope-i828ht-1",
+          "label": "The Rope (Section prologue.pr.1 - Section 1.2.143b)",
+          "partId": "the-rope-i828ht",
+          "partTitle": "The Rope",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-rope-i828ht-2",
+          "label": "The Rope (Section 1.2.144 - Section 1.4.243)",
+          "partId": "the-rope-i828ht",
+          "partTitle": "The Rope",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-rope-i828ht-3",
+          "label": "The Rope (Section 1.4.243b - Section 2.3.336c)",
+          "partId": "the-rope-i828ht",
+          "partTitle": "The Rope",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-rope-i828ht-4",
+          "label": "The Rope (Section 2.3.337b - Section 2.4.415)",
+          "partId": "the-rope-i828ht",
+          "partTitle": "The Rope",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-rope-i828ht-5",
+          "label": "The Rope (Section 2.4.415b - Section 2.6.530)",
+          "partId": "the-rope-i828ht",
+          "partTitle": "The Rope",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-rope-i828ht-6",
+          "label": "The Rope (Section 2.6.531 - Section 3.2.635)",
+          "partId": "the-rope-i828ht",
+          "partTitle": "The Rope",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-rope-i828ht-7",
+          "label": "The Rope (Section 3.2.639 - Section 3.4.719b)",
+          "partId": "the-rope-i828ht",
+          "partTitle": "The Rope",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-rope-i828ht-8",
+          "label": "The Rope (Section 3.4.720 - Section 3.5.786)",
+          "partId": "the-rope-i828ht",
+          "partTitle": "The Rope",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-rope-i828ht-9",
+          "label": "The Rope (Section 3.5.787 - Section 3.6.854b)",
+          "partId": "the-rope-i828ht",
+          "partTitle": "The Rope",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-rope-i828ht-10",
+          "label": "The Rope (Section 3.6.855 - Section 4.3.945)",
+          "partId": "the-rope-i828ht",
+          "partTitle": "The Rope",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-rope-i828ht-11",
+          "label": "The Rope (Section 4.3.945b - Section 4.3.1011b)",
+          "partId": "the-rope-i828ht",
+          "partTitle": "The Rope",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-rope-i828ht-12",
+          "label": "The Rope (Section 4.3.1012 - Section 4.4.1058c)",
+          "partId": "the-rope-i828ht",
+          "partTitle": "The Rope",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-rope-i828ht-13",
+          "label": "The Rope (Section 4.4.1059b - Section 4.4.1119)",
+          "partId": "the-rope-i828ht",
+          "partTitle": "The Rope",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-rope-i828ht-14",
+          "label": "The Rope (Section 4.4.1120 - Section 4.4.1177)",
+          "partId": "the-rope-i828ht",
+          "partTitle": "The Rope",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-rope-i828ht-15",
+          "label": "The Rope (Section 4.4.1178 - Section 4.8.1268b)",
+          "partId": "the-rope-i828ht",
+          "partTitle": "The Rope",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-rope-i828ht-16",
+          "label": "The Rope (Section 4.8.1268c - Section 5.2.1312)",
+          "partId": "the-rope-i828ht",
+          "partTitle": "The Rope",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-rope-i828ht-17",
+          "label": "The Rope (Section 5.2.1313 - Section 5.3.1366b)",
+          "partId": "the-rope-i828ht",
+          "partTitle": "The Rope",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-rope-i828ht-18",
+          "label": "The Rope (Section 5.3.1367 - Section 5.3.1414)",
+          "partId": "the-rope-i828ht",
+          "partTitle": "The Rope",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "the-rope-i828ht-19",
+          "label": "The Rope (Section 5.3.1415b - Section 5.3.1423c)",
+          "partId": "the-rope-i828ht",
+          "partTitle": "The Rope",
+          "sectionCount": 7,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "the-little-carthaginian-12yp3b-1",
+      "label": "The Little Carthaginian (Section prologue.pr.1 - Section 1.1.169b)",
+      "partId": "the-little-carthaginian-12yp3b",
+      "partTitle": "The Little Carthaginian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-little-carthaginian-12yp3b-2",
+      "label": "The Little Carthaginian (Section 1.1.169c - Section 1.2.281b)",
+      "partId": "the-little-carthaginian-12yp3b",
+      "partTitle": "The Little Carthaginian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-little-carthaginian-12yp3b-3",
+      "label": "The Little Carthaginian (Section 1.2.283 - Section 1.2.333d)",
+      "partId": "the-little-carthaginian-12yp3b",
+      "partTitle": "The Little Carthaginian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-little-carthaginian-12yp3b-4",
+      "label": "The Little Carthaginian (Section 1.2.334 - Section 1.2.403)",
+      "partId": "the-little-carthaginian-12yp3b",
+      "partTitle": "The Little Carthaginian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-little-carthaginian-12yp3b-5",
+      "label": "The Little Carthaginian (Section 1.2.404b - Section 2.1.476b)",
+      "partId": "the-little-carthaginian-12yp3b",
+      "partTitle": "The Little Carthaginian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-little-carthaginian-12yp3b-6",
+      "label": "The Little Carthaginian (Section 2.1.477b - Section 3.2.578)",
+      "partId": "the-little-carthaginian-12yp3b",
+      "partTitle": "The Little Carthaginian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-little-carthaginian-12yp3b-7",
+      "label": "The Little Carthaginian (Section 3.2.578b - Section 3.3.637)",
+      "partId": "the-little-carthaginian-12yp3b",
+      "partTitle": "The Little Carthaginian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-little-carthaginian-12yp3b-8",
+      "label": "The Little Carthaginian (Section 3.3.638 - Section 3.4.716)",
+      "partId": "the-little-carthaginian-12yp3b",
+      "partTitle": "The Little Carthaginian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-little-carthaginian-12yp3b-9",
+      "label": "The Little Carthaginian (Section 3.4.717b - Section 3.5.765)",
+      "partId": "the-little-carthaginian-12yp3b",
+      "partTitle": "The Little Carthaginian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-little-carthaginian-12yp3b-10",
+      "label": "The Little Carthaginian (Section 3.5.767 - Section 4.2.857)",
+      "partId": "the-little-carthaginian-12yp3b",
+      "partTitle": "The Little Carthaginian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-little-carthaginian-12yp3b-11",
+      "label": "The Little Carthaginian (Section 4.2.857b - Section 4.2.896)",
+      "partId": "the-little-carthaginian-12yp3b",
+      "partTitle": "The Little Carthaginian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-little-carthaginian-12yp3b-12",
+      "label": "The Little Carthaginian (Section 4.2.896b - Section 5.2.998)",
+      "partId": "the-little-carthaginian-12yp3b",
+      "partTitle": "The Little Carthaginian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-little-carthaginian-12yp3b-13",
+      "label": "The Little Carthaginian (Section 5.2.998b - Section 5.2.1065)",
+      "partId": "the-little-carthaginian-12yp3b",
+      "partTitle": "The Little Carthaginian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-little-carthaginian-12yp3b-14",
+      "label": "The Little Carthaginian (Section 5.2.1066 - Section 5.3.1132)",
+      "partId": "the-little-carthaginian-12yp3b",
+      "partTitle": "The Little Carthaginian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-little-carthaginian-12yp3b-15",
+      "label": "The Little Carthaginian (Section 5.3.1132b - Section 5.4.1197)",
+      "partId": "the-little-carthaginian-12yp3b",
+      "partTitle": "The Little Carthaginian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-little-carthaginian-12yp3b-16",
+      "label": "The Little Carthaginian (Section 5.4.1197b - Section 5.4.1243)",
+      "partId": "the-little-carthaginian-12yp3b",
+      "partTitle": "The Little Carthaginian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-little-carthaginian-12yp3b-17",
+      "label": "The Little Carthaginian (Section 5.4.1243b - Section 5.5.1319)",
+      "partId": "the-little-carthaginian-12yp3b",
+      "partTitle": "The Little Carthaginian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-little-carthaginian-12yp3b-18",
+      "label": "The Little Carthaginian (Section 5.5.1320 - Section 5.7.1385)",
+      "partId": "the-little-carthaginian-12yp3b",
+      "partTitle": "The Little Carthaginian",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-little-carthaginian-12yp3b-19",
+      "label": "The Little Carthaginian (Section 5.7.1387 - Section 5.7.1422b)",
+      "partId": "the-little-carthaginian-12yp3b",
+      "partTitle": "The Little Carthaginian",
+      "sectionCount": 33,
+      "status": "ready"
+    },
+    {
+      "slug": "pseudolus-1bndy7-1",
+      "label": "Pseudolus (Section prologue.pr.1 - Section 1.1.80)",
+      "partId": "pseudolus-1bndy7",
+      "partTitle": "Pseudolus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pseudolus-1bndy7-2",
+      "label": "Pseudolus (Section 1.1.81 - Section 1.2.196)",
+      "partId": "pseudolus-1bndy7",
+      "partTitle": "Pseudolus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pseudolus-1bndy7-3",
+      "label": "Pseudolus (Section 1.2.200 - Section 1.3.255c)",
+      "partId": "pseudolus-1bndy7",
+      "partTitle": "Pseudolus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pseudolus-1bndy7-4",
+      "label": "Pseudolus (Section 1.3.255d - Section 1.3.325)",
+      "partId": "pseudolus-1bndy7",
+      "partTitle": "Pseudolus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pseudolus-1bndy7-5",
+      "label": "Pseudolus (Section 1.3.325b - Section 1.3.363d)",
+      "partId": "pseudolus-1bndy7",
+      "partTitle": "Pseudolus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pseudolus-1bndy7-6",
+      "label": "Pseudolus (Section 1.3.364 - Section 1.5.453)",
+      "partId": "pseudolus-1bndy7",
+      "partTitle": "Pseudolus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pseudolus-1bndy7-7",
+      "label": "Pseudolus (Section 1.5.453b - Section 1.5.519)",
+      "partId": "pseudolus-1bndy7",
+      "partTitle": "Pseudolus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pseudolus-1bndy7-8",
+      "label": "Pseudolus (Section 1.5.520 - Section 2.2.624_625)",
+      "partId": "pseudolus-1bndy7",
+      "partTitle": "Pseudolus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pseudolus-1bndy7-9",
+      "label": "Pseudolus (Section 2.2.624_625b - Section 2.4.702c)",
+      "partId": "pseudolus-1bndy7",
+      "partTitle": "Pseudolus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pseudolus-1bndy7-10",
+      "label": "Pseudolus (Section 2.4.705 - Section 2.4.751b)",
+      "partId": "pseudolus-1bndy7",
+      "partTitle": "Pseudolus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pseudolus-1bndy7-11",
+      "label": "Pseudolus (Section 2.4.755 - Section 3.2.879b)",
+      "partId": "pseudolus-1bndy7",
+      "partTitle": "Pseudolus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pseudolus-1bndy7-12",
+      "label": "Pseudolus (Section 3.2.880 - Section 4.1.953c)",
+      "partId": "pseudolus-1bndy7",
+      "partTitle": "Pseudolus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pseudolus-1bndy7-13",
+      "label": "Pseudolus (Section 4.1.954 - Section 4.2.1016b)",
+      "partId": "pseudolus-1bndy7",
+      "partTitle": "Pseudolus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pseudolus-1bndy7-14",
+      "label": "Pseudolus (Section 4.2.1016c - Section 4.7.1124d)",
+      "partId": "pseudolus-1bndy7",
+      "partTitle": "Pseudolus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pseudolus-1bndy7-15",
+      "label": "Pseudolus (Section 4.7.1124e - Section 4.7.1170)",
+      "partId": "pseudolus-1bndy7",
+      "partTitle": "Pseudolus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pseudolus-1bndy7-16",
+      "label": "Pseudolus (Section 4.7.1170b - Section 4.7.1228b)",
+      "partId": "pseudolus-1bndy7",
+      "partTitle": "Pseudolus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pseudolus-1bndy7-17",
+      "label": "Pseudolus (Section 4.7.1229 - Section 5.2.1322)",
+      "partId": "pseudolus-1bndy7",
+      "partTitle": "Pseudolus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pseudolus-1bndy7-18",
+      "label": "Pseudolus (Section 5.2.1323 - Section 5.2.1335)",
+      "partId": "pseudolus-1bndy7",
+      "partTitle": "Pseudolus",
+      "sectionCount": 19,
+      "status": "ready"
+    },
+    {
+      "slug": "the-rope-i828ht-1",
+      "label": "The Rope (Section prologue.pr.1 - Section 1.2.143b)",
+      "partId": "the-rope-i828ht",
+      "partTitle": "The Rope",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-rope-i828ht-2",
+      "label": "The Rope (Section 1.2.144 - Section 1.4.243)",
+      "partId": "the-rope-i828ht",
+      "partTitle": "The Rope",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-rope-i828ht-3",
+      "label": "The Rope (Section 1.4.243b - Section 2.3.336c)",
+      "partId": "the-rope-i828ht",
+      "partTitle": "The Rope",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-rope-i828ht-4",
+      "label": "The Rope (Section 2.3.337b - Section 2.4.415)",
+      "partId": "the-rope-i828ht",
+      "partTitle": "The Rope",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-rope-i828ht-5",
+      "label": "The Rope (Section 2.4.415b - Section 2.6.530)",
+      "partId": "the-rope-i828ht",
+      "partTitle": "The Rope",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-rope-i828ht-6",
+      "label": "The Rope (Section 2.6.531 - Section 3.2.635)",
+      "partId": "the-rope-i828ht",
+      "partTitle": "The Rope",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-rope-i828ht-7",
+      "label": "The Rope (Section 3.2.639 - Section 3.4.719b)",
+      "partId": "the-rope-i828ht",
+      "partTitle": "The Rope",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-rope-i828ht-8",
+      "label": "The Rope (Section 3.4.720 - Section 3.5.786)",
+      "partId": "the-rope-i828ht",
+      "partTitle": "The Rope",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-rope-i828ht-9",
+      "label": "The Rope (Section 3.5.787 - Section 3.6.854b)",
+      "partId": "the-rope-i828ht",
+      "partTitle": "The Rope",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-rope-i828ht-10",
+      "label": "The Rope (Section 3.6.855 - Section 4.3.945)",
+      "partId": "the-rope-i828ht",
+      "partTitle": "The Rope",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-rope-i828ht-11",
+      "label": "The Rope (Section 4.3.945b - Section 4.3.1011b)",
+      "partId": "the-rope-i828ht",
+      "partTitle": "The Rope",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-rope-i828ht-12",
+      "label": "The Rope (Section 4.3.1012 - Section 4.4.1058c)",
+      "partId": "the-rope-i828ht",
+      "partTitle": "The Rope",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-rope-i828ht-13",
+      "label": "The Rope (Section 4.4.1059b - Section 4.4.1119)",
+      "partId": "the-rope-i828ht",
+      "partTitle": "The Rope",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-rope-i828ht-14",
+      "label": "The Rope (Section 4.4.1120 - Section 4.4.1177)",
+      "partId": "the-rope-i828ht",
+      "partTitle": "The Rope",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-rope-i828ht-15",
+      "label": "The Rope (Section 4.4.1178 - Section 4.8.1268b)",
+      "partId": "the-rope-i828ht",
+      "partTitle": "The Rope",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-rope-i828ht-16",
+      "label": "The Rope (Section 4.8.1268c - Section 5.2.1312)",
+      "partId": "the-rope-i828ht",
+      "partTitle": "The Rope",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-rope-i828ht-17",
+      "label": "The Rope (Section 5.2.1313 - Section 5.3.1366b)",
+      "partId": "the-rope-i828ht",
+      "partTitle": "The Rope",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-rope-i828ht-18",
+      "label": "The Rope (Section 5.3.1367 - Section 5.3.1414)",
+      "partId": "the-rope-i828ht",
+      "partTitle": "The Rope",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "the-rope-i828ht-19",
+      "label": "The Rope (Section 5.3.1415b - Section 5.3.1423c)",
+      "partId": "the-rope-i828ht",
+      "partTitle": "The Rope",
+      "sectionCount": 7,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "the-little-carthaginian-12yp3b-1",
+      "partTitle": "The Little Carthaginian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Poenulus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Poenulus, or The Young Carthaginian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-little-carthaginian-12yp3b-2",
+      "partTitle": "The Little Carthaginian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Poenulus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Poenulus, or The Young Carthaginian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-little-carthaginian-12yp3b-3",
+      "partTitle": "The Little Carthaginian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Poenulus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Poenulus, or The Young Carthaginian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-little-carthaginian-12yp3b-4",
+      "partTitle": "The Little Carthaginian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Poenulus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Poenulus, or The Young Carthaginian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-little-carthaginian-12yp3b-5",
+      "partTitle": "The Little Carthaginian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Poenulus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Poenulus, or The Young Carthaginian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-little-carthaginian-12yp3b-6",
+      "partTitle": "The Little Carthaginian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Poenulus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Poenulus, or The Young Carthaginian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-little-carthaginian-12yp3b-7",
+      "partTitle": "The Little Carthaginian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Poenulus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Poenulus, or The Young Carthaginian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-little-carthaginian-12yp3b-8",
+      "partTitle": "The Little Carthaginian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Poenulus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Poenulus, or The Young Carthaginian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-little-carthaginian-12yp3b-9",
+      "partTitle": "The Little Carthaginian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Poenulus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Poenulus, or The Young Carthaginian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-little-carthaginian-12yp3b-10",
+      "partTitle": "The Little Carthaginian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Poenulus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Poenulus, or The Young Carthaginian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-little-carthaginian-12yp3b-11",
+      "partTitle": "The Little Carthaginian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Poenulus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Poenulus, or The Young Carthaginian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-little-carthaginian-12yp3b-12",
+      "partTitle": "The Little Carthaginian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Poenulus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Poenulus, or The Young Carthaginian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-little-carthaginian-12yp3b-13",
+      "partTitle": "The Little Carthaginian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Poenulus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Poenulus, or The Young Carthaginian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-little-carthaginian-12yp3b-14",
+      "partTitle": "The Little Carthaginian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Poenulus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Poenulus, or The Young Carthaginian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-little-carthaginian-12yp3b-15",
+      "partTitle": "The Little Carthaginian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Poenulus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Poenulus, or The Young Carthaginian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-little-carthaginian-12yp3b-16",
+      "partTitle": "The Little Carthaginian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Poenulus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Poenulus, or The Young Carthaginian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-little-carthaginian-12yp3b-17",
+      "partTitle": "The Little Carthaginian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Poenulus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Poenulus, or The Young Carthaginian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-little-carthaginian-12yp3b-18",
+      "partTitle": "The Little Carthaginian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Poenulus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Poenulus, or The Young Carthaginian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-little-carthaginian-12yp3b-19",
+      "partTitle": "The Little Carthaginian",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Poenulus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Poenulus, or The Young Carthaginian",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pseudolus-1bndy7-1",
+      "partTitle": "Pseudolus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pseudolus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pseudolus, or The Cheat",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pseudolus-1bndy7-2",
+      "partTitle": "Pseudolus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pseudolus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pseudolus, or The Cheat",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pseudolus-1bndy7-3",
+      "partTitle": "Pseudolus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pseudolus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pseudolus, or The Cheat",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pseudolus-1bndy7-4",
+      "partTitle": "Pseudolus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pseudolus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pseudolus, or The Cheat",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pseudolus-1bndy7-5",
+      "partTitle": "Pseudolus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pseudolus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pseudolus, or The Cheat",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pseudolus-1bndy7-6",
+      "partTitle": "Pseudolus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pseudolus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pseudolus, or The Cheat",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pseudolus-1bndy7-7",
+      "partTitle": "Pseudolus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pseudolus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pseudolus, or The Cheat",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pseudolus-1bndy7-8",
+      "partTitle": "Pseudolus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pseudolus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pseudolus, or The Cheat",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pseudolus-1bndy7-9",
+      "partTitle": "Pseudolus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pseudolus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pseudolus, or The Cheat",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pseudolus-1bndy7-10",
+      "partTitle": "Pseudolus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pseudolus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pseudolus, or The Cheat",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pseudolus-1bndy7-11",
+      "partTitle": "Pseudolus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pseudolus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pseudolus, or The Cheat",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pseudolus-1bndy7-12",
+      "partTitle": "Pseudolus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pseudolus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pseudolus, or The Cheat",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pseudolus-1bndy7-13",
+      "partTitle": "Pseudolus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pseudolus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pseudolus, or The Cheat",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pseudolus-1bndy7-14",
+      "partTitle": "Pseudolus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pseudolus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pseudolus, or The Cheat",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pseudolus-1bndy7-15",
+      "partTitle": "Pseudolus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pseudolus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pseudolus, or The Cheat",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pseudolus-1bndy7-16",
+      "partTitle": "Pseudolus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pseudolus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pseudolus, or The Cheat",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pseudolus-1bndy7-17",
+      "partTitle": "Pseudolus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pseudolus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pseudolus, or The Cheat",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pseudolus-1bndy7-18",
+      "partTitle": "Pseudolus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pseudolus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pseudolus, or The Cheat",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-rope-i828ht-1",
+      "partTitle": "The Rope",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Rudens",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rudens, or The Fisherman's Rope",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-rope-i828ht-2",
+      "partTitle": "The Rope",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Rudens",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rudens, or The Fisherman's Rope",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-rope-i828ht-3",
+      "partTitle": "The Rope",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Rudens",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rudens, or The Fisherman's Rope",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-rope-i828ht-4",
+      "partTitle": "The Rope",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Rudens",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rudens, or The Fisherman's Rope",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-rope-i828ht-5",
+      "partTitle": "The Rope",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Rudens",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rudens, or The Fisherman's Rope",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-rope-i828ht-6",
+      "partTitle": "The Rope",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Rudens",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rudens, or The Fisherman's Rope",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-rope-i828ht-7",
+      "partTitle": "The Rope",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Rudens",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rudens, or The Fisherman's Rope",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-rope-i828ht-8",
+      "partTitle": "The Rope",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Rudens",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rudens, or The Fisherman's Rope",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-rope-i828ht-9",
+      "partTitle": "The Rope",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Rudens",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rudens, or The Fisherman's Rope",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-rope-i828ht-10",
+      "partTitle": "The Rope",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Rudens",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rudens, or The Fisherman's Rope",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-rope-i828ht-11",
+      "partTitle": "The Rope",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Rudens",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rudens, or The Fisherman's Rope",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-rope-i828ht-12",
+      "partTitle": "The Rope",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Rudens",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rudens, or The Fisherman's Rope",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-rope-i828ht-13",
+      "partTitle": "The Rope",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Rudens",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rudens, or The Fisherman's Rope",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-rope-i828ht-14",
+      "partTitle": "The Rope",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Rudens",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rudens, or The Fisherman's Rope",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-rope-i828ht-15",
+      "partTitle": "The Rope",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Rudens",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rudens, or The Fisherman's Rope",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-rope-i828ht-16",
+      "partTitle": "The Rope",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Rudens",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rudens, or The Fisherman's Rope",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-rope-i828ht-17",
+      "partTitle": "The Rope",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Rudens",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rudens, or The Fisherman's Rope",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-rope-i828ht-18",
+      "partTitle": "The Rope",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Rudens",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rudens, or The Fisherman's Rope",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-rope-i828ht-19",
+      "partTitle": "The Rope",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Rudens",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rudens, or The Fisherman's Rope",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+      }
+    }
+  ]
+}

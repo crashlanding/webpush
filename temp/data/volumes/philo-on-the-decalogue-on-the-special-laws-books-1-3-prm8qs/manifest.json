@@ -1,0 +1,160 @@
+{
+  "loebNumber": 320,
+  "sortOrder": 320,
+  "slug": "philo-on-the-decalogue-on-the-special-laws-books-1-3-prm8qs",
+  "title": "On the Decalogue. On the Special Laws, Books 1-3",
+  "volumeLabel": "On the Decalogue. On the Special Laws, Books 1-3",
+  "authorDisplay": "Philo",
+  "authors": [
+    "Philo"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for On the Decalogue. On the Special Laws, Books 1-3, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "on-the-decalogue-ufnaxx-1",
+  "readyChunkCount": 4,
+  "contents": [
+    {
+      "id": "on-the-decalogue-ufnaxx",
+      "title": "On the Decalogue",
+      "status": "ready",
+      "sectionCount": 178,
+      "chunkSlug": "on-the-decalogue-ufnaxx-1",
+      "chunks": [
+        {
+          "slug": "on-the-decalogue-ufnaxx-1",
+          "label": "On the Decalogue (Section 1 - Section 60)",
+          "partId": "on-the-decalogue-ufnaxx",
+          "partTitle": "On the Decalogue",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-decalogue-ufnaxx-2",
+          "label": "On the Decalogue (Section 61 - Section 120)",
+          "partId": "on-the-decalogue-ufnaxx",
+          "partTitle": "On the Decalogue",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-decalogue-ufnaxx-3",
+          "label": "On the Decalogue (Section 121 - Section 178)",
+          "partId": "on-the-decalogue-ufnaxx",
+          "partTitle": "On the Decalogue",
+          "sectionCount": 58,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "on-the-special-laws-books-1-3-17aodp",
+      "title": "On the Special Laws, Books 1-3",
+      "status": "ready",
+      "sectionCount": 15,
+      "chunkSlug": "on-the-special-laws-books-1-3-17aodp",
+      "chunks": [
+        {
+          "slug": "on-the-special-laws-books-1-3-17aodp",
+          "label": "On the Special Laws, Books 1-3",
+          "partId": "on-the-special-laws-books-1-3-17aodp",
+          "partTitle": "On the Special Laws, Books 1-3",
+          "sectionCount": 15,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "on-the-decalogue-ufnaxx-1",
+      "label": "On the Decalogue (Section 1 - Section 60)",
+      "partId": "on-the-decalogue-ufnaxx",
+      "partTitle": "On the Decalogue",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-decalogue-ufnaxx-2",
+      "label": "On the Decalogue (Section 61 - Section 120)",
+      "partId": "on-the-decalogue-ufnaxx",
+      "partTitle": "On the Decalogue",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-decalogue-ufnaxx-3",
+      "label": "On the Decalogue (Section 121 - Section 178)",
+      "partId": "on-the-decalogue-ufnaxx",
+      "partTitle": "On the Decalogue",
+      "sectionCount": 58,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-special-laws-books-1-3-17aodp",
+      "label": "On the Special Laws, Books 1-3",
+      "partId": "on-the-special-laws-books-1-3-17aodp",
+      "partTitle": "On the Special Laws, Books 1-3",
+      "sectionCount": 15,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "on-the-decalogue-ufnaxx-1",
+      "partTitle": "On the Decalogue",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Decalogo",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg023.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Concerning the Ten Commandments, which are the Heads of the Law",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg023.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-decalogue-ufnaxx-2",
+      "partTitle": "On the Decalogue",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Decalogo",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg023.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Concerning the Ten Commandments, which are the Heads of the Law",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg023.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-decalogue-ufnaxx-3",
+      "partTitle": "On the Decalogue",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Decalogo",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg023.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Concerning the Ten Commandments, which are the Heads of the Law",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg023.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-special-laws-books-1-3-17aodp",
+      "partTitle": "On the Special Laws, Books 1-3",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Specialibus Legibus (lib. i‑iv)",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg024.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Creation of Magistrates",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1/"
+      }
+    }
+  ]
+}

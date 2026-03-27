@@ -1,0 +1,61 @@
+{
+  "loebNumber": 555,
+  "sortOrder": 555,
+  "slug": "aetius-placita-1cqcdb",
+  "title": "Placita",
+  "volumeLabel": "Placita",
+  "authorDisplay": "Aetius",
+  "authors": [
+    "Aetius"
+  ],
+  "language": "mixed",
+  "summary": "A Scaife-backed parallel-text shelf for Placita, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "placita-jcugt4",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "placita-jcugt4",
+      "title": "Placita",
+      "status": "ready",
+      "sectionCount": 5,
+      "chunkSlug": "placita-jcugt4",
+      "chunks": [
+        {
+          "slug": "placita-jcugt4",
+          "label": "Placita",
+          "partId": "placita-jcugt4",
+          "partTitle": "Placita",
+          "sectionCount": 5,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "placita-jcugt4",
+      "label": "Placita",
+      "partId": "placita-jcugt4",
+      "partTitle": "Placita",
+      "sectionCount": 5,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "placita-jcugt4",
+      "partTitle": "Placita",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τῶν ἀρεσκόντων τοῖς φιλοσόφοις φυσικῶν δογμάτων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0094.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Of Those Sentiments Concerning Nature with which Philosophers were Delighted",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0094.tlg003.perseus-eng2/"
+      }
+    }
+  ]
+}

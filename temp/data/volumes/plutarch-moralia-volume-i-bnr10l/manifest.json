@@ -1,0 +1,181 @@
+{
+  "loebNumber": 197,
+  "sortOrder": 197,
+  "slug": "plutarch-moralia-volume-i-bnr10l",
+  "title": "Moralia, Volume I",
+  "volumeLabel": "Moralia, Volume I",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Moralia, Volume I. Moralia, Volume I opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "de-liberis-educandis-1g3tf5",
+  "readyChunkCount": 5,
+  "contents": [
+    {
+      "id": "moralia-volume-i-1w3umf",
+      "title": "Moralia, Volume I",
+      "status": "ready",
+      "sectionCount": 106,
+      "chunkSlug": "de-liberis-educandis-1g3tf5",
+      "chunks": [
+        {
+          "slug": "de-liberis-educandis-1g3tf5",
+          "label": "De liberis educandis",
+          "partId": "moralia-volume-i-1w3umf",
+          "partTitle": "Moralia, Volume I",
+          "sectionCount": 20,
+          "status": "ready"
+        },
+        {
+          "slug": "quomodo-adolescens-poetas-audire-debeat-1wki7p",
+          "label": "Quomodo adolescens poetas audire debeat",
+          "partId": "moralia-volume-i-1w3umf",
+          "partTitle": "Moralia, Volume I",
+          "sectionCount": 14,
+          "status": "ready"
+        },
+        {
+          "slug": "de-recta-ratione-audiendi-a13l47",
+          "label": "De recta ratione audiendi",
+          "partId": "moralia-volume-i-1w3umf",
+          "partTitle": "Moralia, Volume I",
+          "sectionCount": 18,
+          "status": "ready"
+        },
+        {
+          "slug": "quomodo-adulator-ab-amico-internoscatur-uqccpb",
+          "label": "Quomodo adulator ab amico internoscatur",
+          "partId": "moralia-volume-i-1w3umf",
+          "partTitle": "Moralia, Volume I",
+          "sectionCount": 37,
+          "status": "ready"
+        },
+        {
+          "slug": "quomodo-quis-suos-in-virtute-sentiat-profectus-npjnfp",
+          "label": "Quomodo quis suos in virtute sentiat profectus",
+          "partId": "moralia-volume-i-1w3umf",
+          "partTitle": "Moralia, Volume I",
+          "sectionCount": 17,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "de-liberis-educandis-1g3tf5",
+      "label": "De liberis educandis",
+      "partId": "moralia-volume-i-1w3umf",
+      "partTitle": "Moralia, Volume I",
+      "sectionCount": 20,
+      "status": "ready"
+    },
+    {
+      "slug": "quomodo-adolescens-poetas-audire-debeat-1wki7p",
+      "label": "Quomodo adolescens poetas audire debeat",
+      "partId": "moralia-volume-i-1w3umf",
+      "partTitle": "Moralia, Volume I",
+      "sectionCount": 14,
+      "status": "ready"
+    },
+    {
+      "slug": "de-recta-ratione-audiendi-a13l47",
+      "label": "De recta ratione audiendi",
+      "partId": "moralia-volume-i-1w3umf",
+      "partTitle": "Moralia, Volume I",
+      "sectionCount": 18,
+      "status": "ready"
+    },
+    {
+      "slug": "quomodo-adulator-ab-amico-internoscatur-uqccpb",
+      "label": "Quomodo adulator ab amico internoscatur",
+      "partId": "moralia-volume-i-1w3umf",
+      "partTitle": "Moralia, Volume I",
+      "sectionCount": 37,
+      "status": "ready"
+    },
+    {
+      "slug": "quomodo-quis-suos-in-virtute-sentiat-profectus-npjnfp",
+      "label": "Quomodo quis suos in virtute sentiat profectus",
+      "partId": "moralia-volume-i-1w3umf",
+      "partTitle": "Moralia, Volume I",
+      "sectionCount": 17,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "de-liberis-educandis-1g3tf5",
+      "partTitle": "Moralia, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ παίδων ἀγωγῆς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg067.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Education of Children",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg067.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "quomodo-adolescens-poetas-audire-debeat-1wki7p",
+      "partTitle": "Moralia, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πῶς δεῖ τὸν νέον ποιημάτων ἀκούειν.",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg068.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "How the Young Man Should Study Poetry",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg068.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "de-recta-ratione-audiendi-a13l47",
+      "partTitle": "Moralia, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τοῦ ἀκούειν.",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg069.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Listening to Lectures",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg069.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "quomodo-adulator-ab-amico-internoscatur-uqccpb",
+      "partTitle": "Moralia, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πῶς ἄν τις διακρίνειε τὸν κόλακα τοῦ φίλοῦ",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg070.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "How to Tell a Flatterer from a Friend",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg070.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "quomodo-quis-suos-in-virtute-sentiat-profectus-npjnfp",
+      "partTitle": "Moralia, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πῶς ἄν τις αἴσθοιτο ἑαυτοῦ προκόπτοντος ἐπʼ ἀρετή",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg071.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "How a Man May Become Aware of His Progress in Virtue",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg071.perseus-eng3/"
+      }
+    }
+  ]
+}

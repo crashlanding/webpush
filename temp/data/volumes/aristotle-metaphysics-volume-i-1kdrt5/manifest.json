@@ -1,0 +1,61 @@
+{
+  "loebNumber": 271,
+  "sortOrder": 271,
+  "slug": "aristotle-metaphysics-volume-i-1kdrt5",
+  "title": "Metaphysics, Volume I",
+  "volumeLabel": "Metaphysics, Volume I",
+  "authorDisplay": "Aristotle",
+  "authors": [
+    "Aristotle"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Metaphysics, Volume I. Metaphysics, Volume I currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "metaphysics-volume-i-zinpsp",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "metaphysics-volume-i-zinpsp",
+      "title": "Metaphysics, Volume I",
+      "status": "ready",
+      "sectionCount": 54,
+      "chunkSlug": "metaphysics-volume-i-zinpsp",
+      "chunks": [
+        {
+          "slug": "metaphysics-volume-i-zinpsp",
+          "label": "Metaphysics, Volume I",
+          "partId": "metaphysics-volume-i-zinpsp",
+          "partTitle": "Metaphysics, Volume I",
+          "sectionCount": 54,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "metaphysics-volume-i-zinpsp",
+      "label": "Metaphysics, Volume I",
+      "partId": "metaphysics-volume-i-zinpsp",
+      "partTitle": "Metaphysics, Volume I",
+      "sectionCount": 54,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "metaphysics-volume-i-zinpsp",
+      "partTitle": "Metaphysics, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "τὰ Μετὰ τὰ Φυσικά",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg025.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Metaphysics",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg025.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "volumeSlug": "demosthenes-orations-volume-ii-rqi19e",
+  "volumeTitle": "Orations, Volume II",
+  "authorDisplay": "Demosthenes",
+  "authors": [
+    "Demosthenes"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "philip-s-letter-1dgdc2",
+  "label": "Philip’s Letter",
+  "partId": "orations-volume-ii-173mr8",
+  "partTitle": "Orations, Volume II",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "ἐπιστολή [Φιλίππου]",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg012.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Philip’s Letter",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg012.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1",
+      "label": "Section 1",
+      "chapter": null,
+      "original": "Φίλιππος Ἀθηναίων τῇ βουλῇ καὶ τῷ δήμῳ χαίρειν . ἐπειδὴ πολλάκις μου πρέσβεις ἀποστείλαντος , ἵνʼ ἐμμείνωμεν τοῖς ὅρκοις καὶ ταῖς ὁμολογίαις , οὐδεμίαν ἐποιεῖσθʼ ἐπιστροφήν , ᾤμην δεῖν πέμψαι πρὸς ὑμᾶς ὑπὲρ ὧν ἀδικεῖσθαι νομίζω . μὴ θαυμάσητε δὲ τὸ μῆκος τῆς ἐπιστολῆς · πολλῶν γὰρ ὑπαρχόντων ἐγκλημάτων ἀναγκαῖόν ἐστιν ὑπὲρ ἁπάντων δηλῶσαι καθαρῶς .",
+      "translation": "Philip to the Council and People of Athens , greeting .\nTo the embassies that I have repeatedly dispatched to ensure the observance of our oaths and agreements you have paid no attention , so that I am forced to send you a statement of the matters in which I consider myself wronged . But you must not be surprised at the length of the letter , for I have many charges to prefer , and it is necessary to put them all clearly and frankly ."
+    },
+    {
+      "id": "2",
+      "label": "Section 2",
+      "chapter": null,
+      "original": "πρῶτον μὲν γὰρ Νικίου τοῦ κήρυκος ἁρπασθέντος ἐκ τῆς χώρας τῆς ἐμῆς , οὐχ ὅτι τοῖς παρανομοῦσιν ἐπετιμήσατε τὴν δίκην , ἀλλὰ τὸν ἀδικούμενον εἵρξατε δέκα μῆνας · ἃς δʼ ἔφερε παρʼ ἡμῶν ἐπιστολάς , ἀνέγνωτʼ ἐπὶ τοῦ βήματος . ἔπειτα Θασίων ὑποδεχομένων τὰς Βυζαντίων τριήρεις καὶ τῶν λῃστῶν τοὺς βουλομένους οὐδὲν ἐφροντίζετε , τῶν συνθηκῶν διαρρήδην λεγουσῶν πολεμίους εἶναι τοὺς ταῦτα ποιοῦντας .",
+      "translation": "In the first place , when Nicias , my herald , was kidnapped [*] from my territory , you not only failed to bring the law-breakers to justice , but you kept the victim a prisoner for ten months , and the letters from me , of which he was the bearer , you read before your Assembly . Next , when the Thasians opened their harbor to the Byzantine war-galleys and to any pirates that chose to touch there , you ignored the incident , in spite of the clauses expressly denouncing such acts as hostile ."
+    },
+    {
+      "id": "3",
+      "label": "Section 3",
+      "chapter": null,
+      "original": "ἔτι τοίνυν περὶ τοὺς αὐτοὺς χρόνους Διοπείθης ἐμβαλὼν εἰς τὴν χώραν Κρωβύλην μὲν καὶ τὴν Τιρίστασιν ἐξηνδραποδίσατο , τὴν δὲ προσεχῆ Θρᾴκην ἐπόρθησε , τέλος δʼ εἰς τοῦτʼ ἦλθε παρανομίας ὥστʼ Ἀμφίλοχον ὑπὲρ τῶν αἰχμαλώτων ἐλθόντα πρεσβευτὴν συλλαβὼν καὶ τὰς ἐσχάτας ἀνάγκας ἐπιθεὶς ἀπελύτρωσε ταλάντων ἐννέα · καὶ ταῦτα τῷ δήμῳ συνδοκοῦντʼ ἐποίησεν .",
+      "translation": "Furthermore , about the same date , Diopithes [*] attacked Crobyle and Tiristasis and enslaved the inhabitants , laying waste the adjacent parts of Thrace . But his crowning act of lawlessness was the arrest of Amphilochus , the ambassador sent to negotiate for the captives ; he subjected him to the severest torture and wrung from him a ransom of nine talents . And this he did with the approval of your Assembly ."
+    },
+    {
+      "id": "4",
+      "label": "Section 4",
+      "chapter": null,
+      "original": "καίτοι τὸ παρανομεῖν εἰς κήρυκα καὶ πρέσβεις τοῖς ἄλλοις τε πᾶσιν ἀσεβὲς εἶναι δοκεῖ καὶ μάλισθʼ ὑμῖν · Μεγαρέων γοῦν Ἀνθεμόκριτον ἀνελόντων εἰς τοῦτʼ ἐλήλυθεν ὁ δῆμος ὥστε μυστηρίων μὲν εἶργον αὐτούς , ὑπομνήματα δὲ τῆς ἀδικίας ἔστησαν ἀνδριάντα πρὸ τῶν πυλῶν . καίτοι πῶς οὐ δεινόν , ἐφʼ οἷς παθόντες οὕτως ἐμισήσατε τοὺς δράσαντας , νῦν αὐτοὺς φαίνεσθαι ποιοῦντας ;",
+      "translation": "Yet violation of the rights of heralds and ambassadors is regarded by all men as an act of impiety , and by none more than by you , if I may judge from the fact that , when the Megarians arrested Anthemocritus , [*] your Assembly went to the length of excluding them from the celebration of the mysteries , and actually erected a statue before the city gates to commemorate the outrage . Yet is it not monstrous that you are now yourselves notoriously guilty of acts which , when you were the victims , excited in you such detestation of the perpetrators ."
+    },
+    {
+      "id": "5",
+      "label": "Section 5",
+      "chapter": null,
+      "original": "Καλλίας τοίνυν ὁ παρʼ ὑμῶν στρατηγὸς τὰς μὲν πόλεις τὰς ἐν τῷ Παγασίτῃ κόλπῳ κατοικουμένας ἔλαβεν ἁπάσας , ὑμῖν μὲν ἐνόρκους , ἐμοὶ δὲ συμμαχίδας οὔσας , τοὺς δʼ εἰς Μακεδονίαν πλέοντας ἐπώλει πάντας πολεμίους κρίνων · καὶ διὰ ταῦθʼ ὑμεῖς ἐπῃνεῖτʼ αὐτὸν ἐν τοῖς ψηφίσμασιν . ὥστʼ ἔγωγʼ ἀπορῶ τί ποτʼ ἔσται καινότερον , ἐὰν ὁμολογήσητέ μοι πολεμεῖν · καὶ γὰρ ὅτε φανερῶς διεφερόμεθα , λῃστὰς ἐξεπέμπετε καὶ τοὺς πλέοντας ὡς ἡμᾶς ἐπωλεῖτε , τοῖς ἐναντίοις ἐβοηθεῖτε , τὴν χώραν μου κακῶς ἐποιεῖτε .",
+      "translation": "Again , your general , Callias , [*] captured the cities on the Pagasaean Gulf , every one of them , though they were protected by treaty with you and were in alliance with me all merchants sailing to Macedonia he regarded as enemies and sold them into slavery . And for this you passed him a vote of thanks ! So I am at a loss to say what difference it will make if you admit that you are at war with me , for when we were openly at variance , then too you used to send out privateers , enslave merchants trading with us , help my adversaries , and lay waste my territory ."
+    },
+    {
+      "id": "6",
+      "label": "Section 6",
+      "chapter": null,
+      "original": "χωρὶς τοίνυν εἰς τοῦτο παρανομίας ἀφῖχθε καὶ δυσμενείας ὥστε καὶ πρὸς τὸν Πέρσην πρέσβεις ἀπεστάλκατε πείσοντας αὐτὸν ἐμοὶ πολεμεῖν · ὃ μάλιστʼ ἄν τις θαυμάσειεν . πρὸ μὲν γὰρ τοῦ λαβεῖν αὐτὸν Αἴγυπτον καὶ Φοινίκην ἐψηφίσασθε , ἂν ἐκεῖνός τι νεωτερίζῃ , παρακαλεῖν ὁμοίως ἐμὲ καὶ τοὺς ἄλλους Ἕλληνας ἅπαντας ἐπʼ αὐτόν ·",
+      "translation": "Not content with this , you have shown your contempt for right and your hostility to me by actually sending an embassy to urge the king of Persia to declare war on me . This is the most amazing exploit of all ; for , before the king reduced Egypt and Phoenicia , [*] you passed a decree calling on me to make common cause with the rest of the Greeks against him , in case he attempted to interfere with us ."
+    },
+    {
+      "id": "7",
+      "label": "Section 7",
+      "chapter": null,
+      "original": "νῦν δὲ τοσοῦτον ὑμῖν περίεστι τοῦ πρὸς ἐμὲ μίσους ὥστε πρὸς ἐκεῖνον διαλέγεσθε περὶ τῆς ἐπιμαχίας . καίτοι τὸ παλαιὸν οἱ πατέρες ὑμῶν , ὡς ἐγὼ πυνθάνομαι , τοῖς Πεισιστρατίδαις ἐπετίμων ὡς ἐπάγουσι τὸν Πέρσην ἐπὶ τοὺς Ἕλληνας · ὑμεῖς δʼ οὐκ αἰσχύνεσθε ταῦτα ποιοῦντες ἃ διετελεῖτε τοῖς τυράννοις ἐγκαλοῦντες .",
+      "translation": "and today you have such a superabundance of hatred for me that you negotiate with him for a defensive alliance . Yet I am given to understand that your fathers of old punished the sons of Pisistratus for inviting the Persians to invade Greece . You are not ashamed to do what you have always made a matter of indictment against your tyrants ."
+    },
+    {
+      "id": "8",
+      "label": "Section 8",
+      "chapter": null,
+      "original": "ἀλλὰ πρὸς τοῖς ἄλλοις καὶ γράφετʼ ἐν τοῖς ψηφίσμασιν ἐμοὶ προστάττοντες Τήρην καὶ Κερσοβλέπτην ἐᾶν Θρᾴκης ἄρχειν , ὡς ὄντας Ἀθηναίους . ἐγὼ δὲ τούτους οὔτε τῶν περὶ τῆς εἰρήνης συνθηκῶν οἶδα μετασχόντας ὑμῖν οὔτʼ ἐν ταῖς στήλαις ἀναγεγραμμένους οὔτʼ Ἀθηναίους ὄντας , ἀλλὰ Τήρην μὲν μετʼ ἐμοῦ στρατευόμενον ἐφʼ ὑμᾶς , Κερσοβλέπτην δὲ τοῖς παρʼ ἐμοῦ πρεσβευταῖς ἰδίᾳ μὲν τοὺς ὅρκους ὀμόσαι προθυμούμενον , κωλυθέντα δʼ ὑπὸ τῶν ὑμετέρων στρατηγῶν ἀποφαινόντων αὐτὸν Ἀθηναίων ἐχθρόν .",
+      "translation": "But there is more to come . In your decrees you order me in so many words to leave Thrace to the rule of Teres [*] and Cersobleptes , because they are Athenians . But I am not aware that these two had any share with you in the terms of peace , or that their names were included in the inscription set up , or that they are really Athenians . On the contrary , I know that Teres fought with me against you , and that Cersobleptes was quite ready in private to take the oath of allegiance to my ambassadors , but was prevented by your generals , who denounced him as an enemy of the Athenians ."
+    },
+    {
+      "id": "9",
+      "label": "Section 9",
+      "chapter": null,
+      "original": "καίτοι πῶς ἐστὶ τοῦτʼ ἴσον ἢ δίκαιον , ὅταν μὲν ὑμῖν συμφέρῃ , πολέμιον εἶναι φάσκειν αὐτὸν τῆς πόλεως , ὅταν δʼ ἐμὲ συκοφαντεῖν βούλησθε , πολίτην ἀποδείκνυσθαι τὸν αὐτὸν ὑφʼ ὑμῶν · καὶ Σιτάλκου μὲν ἀποθανόντος , ᾧ μετέδοτε τῆς πολιτείας , εὐθὺς ποιήσασθαι πρὸς τὸν ἀποκτείναντα φιλίαν , ὑπὲρ δὲ Κερσοβλέπτου πόλεμον αἴρεσθαι πρὸς ἡμᾶς ; καὶ ταῦτα σαφῶς εἰδότας ὅτι τῶν λαμβανόντων τὰς δωρεὰς τὰς τοιαύτας οὐδεὶς οὔτε τῶν νόμων οὔτε τῶν ψηφισμάτων οὐδὲν φροντίζει τῶν ὑμετέρων .",
+      "translation": "And yet is it fair and right that , when it suits your convenience , you should call him an enemy of your state , but , when you want to bully me , the same man should be described as your fellow-citizen ; and that on the death of Sitalces , [*] on whom you did confer your citizenship , you should at once cultivate the friendship of his murderer , and pick a quarrel with us to shield Cersobleptes ? And all the time you know perfectly well that of those who receive such honors at your hands not one cares a jot for your laws or your decrees ."
+    },
+    {
+      "id": "10",
+      "label": "Section 10",
+      "chapter": null,
+      "original": "οὐ μὴν ἀλλʼ εἰ δεῖ πάντα τἄλλα παραλιπόντα συντόμως εἰπεῖν , ὑμεῖς ἔδοτε πολιτείαν Εὐαγόρᾳ τῷ Κυπρίῳ καὶ Διονυσίῳ τῷ Συρακοσίῳ καὶ τοῖς ἐκγόνοις τοῖς ἐκείνων . ἐὰν οὖν πείσητε τοὺς ἐκβαλόντας ἑκατέρους αὐτῶν ἀποδοῦναι πάλιν τὰς ἀρχὰς τοῖς ἐκπεσοῦσι , κομίζεσθε καὶ παρʼ ἐμοῦ τὴν Θρᾴκην , ὅσης Τήρης καὶ Κερσοβλέπτης ἦρχον . εἰ δὲ τοῖς μὲν ἐκείνων κρατήσασι μηδʼ ἐγκαλεῖν ἀξιοῦτε μηδέν , ἐμὲ δʼ ἐνοχλεῖτε , πῶς οὐ δικαίως ὑμᾶς ἀμυνοίμην ἄν ;",
+      "translation": "However , if I may mention two instances to the exclusion of the rest , you gave your citizenship to Evagoras [*] of Cyprus and to Dionysius [*] of Syracuse , to them and their descendants . Now , if you can persuade either of these peoples to restore their exiled tyrants , then you may apply to me for as much of Thrace as was ruled by Teres and Cersobleptes . But if you have not a word to say against those who overthrew Evagoras and Dionysius , but persist in harassing me , have I not a perfect right to defend myself against you ."
+    },
+    {
+      "id": "11",
+      "label": "Section 11",
+      "chapter": null,
+      "original": "περὶ μὲν οὖν τούτων πολλὰ λέγειν ἔχων ἔτι δίκαια , παραλιπεῖν προαιροῦμαι · Καρδιανοῖς δέ φημι βοηθεῖν , γεγονὼς αὐτοῖς πρὸ τῆς εἰρήνης σύμμαχος , οὐκ ἐθελόντων δʼ ὑμῶν ἐλθεῖν εἰς κρίσιν , πολλάκις μὲν ἐμοῦ δεηθέντος , οὐκ ὀλιγάκις δʼ ἐκείνων · ὥστε πῶς οὐκ ἂν εἴην πάντων φαυλότατος , εἰ καταλιπὼν τοὺς συμμάχους μᾶλλον ὑμῶν φροντίζοιμι τῶν πάντα μοι τρόπον ἐνοχλούντων ἢ τῶν βεβαίως μοι φίλων ἀεὶ μενόντων ;",
+      "translation": "Now I prefer to pass over many complaints that I might justly make , but I admit that I am helping the Cardians , [*] for I was their ally before the peace , and you refused to submit your claim to arbitration , though you were often pressed to do so by me , and not infrequently by the Cardians . Should I not be utterly contemptible if I threw over my allies and paid more regard to you , who are harassing me in every way , than to those who have always been my staunch friends ."
+    },
+    {
+      "id": "12",
+      "label": "Section 12",
+      "chapter": null,
+      "original": "εἰ τοίνυν δεῖ μηδὲ τοῦτο παραλιπεῖν , εἰς τοσοῦτον ἐληλύθατε πλεονεξίας ὥστε πρότερον μὲν ἐνεκαλεῖτέ μοι τὰ προειρημένα μόνον , τὰ δʼ ὑπογυιότατα Πεπαρηθίων φασκόντων δεινὰ πεπονθέναι προσετάξατε τῷ στρατηγῷ δίκην παρʼ ἐμοῦ λαβεῖν ὑπὲρ ἐκείνων , οὓς ἐγὼ μὲν ἐτιμωρησάμην ἐνδεεστέρως ἢ προσῆκεν , ἐκεῖνοι δʼ εἰρήνης οὔσης καταλαβόντες Ἁλόννησον οὔτε τὸ χωρίον οὔτε τοὺς φρουροὺς ἀπεδίδοσαν πέμψαντος ὑπὲρ αὐτῶν ἐμοῦ πολλάκις .",
+      "translation": "The following affront also should not be passed over . Though formerly you confined yourselves to the charges I have mentioned , your arrogance is now such that , when the people of Peparethus [*] complained of the latest outrage , you instructed your general to demand redress from me on their behalf . I actually punished them less rigorously than they deserved , for they seized Halonnesus in time of peace and refused to restore either the fortress or the garrison in spite of my repeated remonstrances ."
+    },
+    {
+      "id": "13",
+      "label": "Section 13",
+      "chapter": null,
+      "original": "ὑμεῖς δʼ ὧν μὲν ἠδίκησαν ἐμὲ Πεπαρήθιοι , τούτων μὲν οὐδὲν ἐπεσκέψασθε , τὴν δὲ τιμωρίαν , ἀκριβῶς εἰδότες . καίτοι τὴν νῆσον οὔτʼ ἐκείνους οὔθʼ ὑμᾶς ἀφειλόμην , ἀλλὰ τὸν λῃστὴν Σώστρατον . εἰ μὲν οὖν αὐτοί φατε παραδοῦναι Σωστράτῳ , λῃστὰς ὁμολογεῖτε καταπέμπειν · εἰ δʼ ἀκόντων ὑμῶν ἐκεῖνος ἐκράτει , τί δεινὸν πεπόνθατε λαβόντος ἐμοῦ καὶ τὸν τόπον τοῖς πλέουσιν ἀσφαλῆ παρέχοντος ;",
+      "translation": "But you , with full knowledge of the facts , ignored their offences against me , and only considered their punishment . Yet I robbed neither them nor you of the island , but only the pirate chief , Sostratus . Now , if you say that you handed it over to Sostratus , you admit that you employ pirates ; if he captured it against your wishes , why this indignation against me for taking it and making the district safe for traders ."
+    },
+    {
+      "id": "14",
+      "label": "Section 14",
+      "chapter": null,
+      "original": "τοσαύτην δέ μου ποιουμένου πρόνοιαν τῆς ὑμετέρας πόλεως , καὶ διδόντος αὐτῇ τὴν νῆσον , οἱ ῥήτορες λαμβάνειν μὲν οὐκ εἴων , ἀπολαβεῖν δὲ συνεβούλευον , ὅπως ὑπομείνας μὲν τὸ προσταττόμενον τὴν ἀλλοτρίαν ἔχειν ὁμολογῶ , μὴ προέμενος δὲ τὸ χωρίον ὕποπτος γένωμαι τῷ πλήθει . γνοὺς ἐγὼ ταῦτα προὐκαλούμην κριθῆναι περὶ τούτων πρὸς ἡμᾶς , ἵνʼ ἐὰν μὲν ἐμὴ γνωσθῇ , παρʼ ἐμοῦ δοθῇ τὸ χωρίον ὑμῖν , ἐὰν δʼ ὑμετέρα κριθῇ , τότʼ ἀποδῶ τῷ δήμῳ .",
+      "translation": "In my regard for the interests of your city , I offered you the island , but your statesmen urged you to refuse it as a gift and demand it as an act of restitution , in order that , if I submit to their dictation , I may thereby confess that I have no right to the place , but if I do not give it up , I may arouse the suspicions of your democracy . Conscious of this , I challenged you to submit our claims to arbitration , so that if the island was adjudged to be mine , I might give it to you ; if yours , then I might restore it to your people ."
+    },
+    {
+      "id": "15",
+      "label": "Section 15",
+      "chapter": null,
+      "original": "ταῦτα δʼ ἐμοῦ πολλάκις ἀξιοῦντος , ὑμεῖς μὲν οὐ προσείχετε , Πεπαρήθιοι δὲ τὴν νῆσον κατέλαβον . τί οὖν ἐχρῆν με ποιεῖν ; οὐ δίκην λαβεῖν παρὰ τῶν ὑπερβεβηκότων τοὺς ὅρκους ; οὐ τιμωρήσασθαι τοὺς οὕτως ὑπερηφάνως ἀσελγαίνοντας ; καὶ γὰρ εἰ Πεπαρηθίων ἦν ἡ νῆσος , τί προσῆκεν ἀπαιτεῖν Ἀθηναίους ; εἰ δʼ ὑμετέρα , πῶς οὐκ ἐκείνοις ὀργίζεσθε καταλαβοῦσι τὴν ἀλλοτρίαν ;",
+      "translation": "I repeatedly demanded a trial , but you paid me no attention , and the Peparethians occupied the island . What , then , was I to do ? Was I not to punish those who had violated their oaths ? Was I not to take vengeance for such a wanton outrage ? For if the island belonged to the Peparethians , what right had the Athenians to demand it back ? If it was yours , why are you not angry with the Peparethians for seizing the territory of others ."
+    },
+    {
+      "id": "16",
+      "label": "Section 16",
+      "chapter": null,
+      "original": "εἰς τοῦτο δὲ προβεβήκαμεν ἔχθρας ὥστε βουλόμενος ταῖς ναυσὶν εἰς τὸν Ἑλλήσποντον παραβαλεῖν ἠναγκάσθην αὐτὰς παραπέμψαι διὰ Χερρονήσου τῇ στρατιᾷ , τῶν μὲν κληρούχων κατὰ τὸ Πολυκράτους δόγμα πολεμούντων ἡμῖν , ὑμῶν δὲ τοιαῦτα ψηφιζομένων , τοῦ δὲ στρατηγοῦ Βυζαντίους τε παρακαλοῦντος καὶ διαγγέλλοντος πρὸς ἅπαντας ὅτι πολεμεῖν αὐτῷ προστάττετε , ἂν καιρὸν λάβῃ . τοιαῦτα δὲ πάσχων ὅμως τῆς πόλεως καὶ τῶν τριήρων καὶ τῆς χώρας ἀπεσχόμην , ἱκανὸς ὢν τὰ πλεῖστα λαβεῖν ἢ πάντα , καὶ διατετέλεκα προκαλούμενος ὑμᾶς εἰς κρίσιν ἐλθεῖν ὑπὲρ ὧν αἰτιώμεθʼ ἀλλήλους .",
+      "translation": "Our mutual hostility has become so acute that , when I wanted to convey my fleet to the Hellespont , I was compelled to escort it with my army through the Chersonese , because your settlers there were at war with us in accordance with the decree of Polycrates , [*] backed up by your resolutions , and your general was inciting the Byzantines and publicly announcing that your orders were to make war on me , if he got the chance . In spite of this provocation , I kept my hands off the fleets and the territory of your state , though I was strong enough to seize most , if not all , of these , and I have not ceased to appeal to you to have the points in dispute between us settled by arbitration ."
+    },
+    {
+      "id": "17",
+      "label": "Section 17",
+      "chapter": null,
+      "original": "καίτοι σκοπεῖσθε πότερον κάλλιόν ἐστιν ὅπλοις ἢ λόγοις διακρίνεσθαι , καὶ πότερον αὐτοὺς εἶναι βραβευτὰς ἢ πεῖσαί τινας ἑτέρους · καὶ λογίζεσθʼ ὡς ἄλογόν ἐστιν Ἀθηναίους Θασίους μὲν καὶ Μαρωνίτας ἀναγκάσαι περὶ Στρύμης διακριθῆναι λόγοις , αὐτοὺς δὲ πρὸς ἐμὲ μὴ διαλύσασθαι περὶ ὧν ἀμφισβητοῦμεν τὸν τρόπον τοῦτον , ἄλλως τε καὶ γιγνώσκοντας ὅτι νικηθέντες μὲν οὐδὲν ἀποβαλεῖτε , κρατήσαντες δὲ λήψεσθε τὰ νῦν ὑφʼ ἡμῖν ὄντα .",
+      "translation": "Yet consider which is the more honorable — to settle the dispute by arms or by arguments , to be yourselves the umpires or to win the verdict from others . Also reflect how unreasonable it is that Athenians should force Thasians and Maronites [*] to submit to arbitration about Stryme , but should not themselves in this way settle with me the points on which we are at variance , especially when you realize that , if you lose the verdict , you will sacrifice nothing , and if you win it , you will gain territory which is now in my possession ."
+    },
+    {
+      "id": "18",
+      "label": "Section 18",
+      "chapter": null,
+      "original": "πάντων δέ μοι δοκεῖ παραλογώτατον εἶναι , διότι πέμψαντος ἐμοῦ πρέσβεις ἀπὸ τῆς συμμαχίας πάσης , ἵνʼ ὦσι μάρτυρες , καὶ βουλομένου ποιήσασθαι πρὸς ὑμᾶς δικαίας ὁμολογίας ὑπὲρ τῶν Ἑλλήνων , οὐδὲ τοὺς περὶ τούτων λόγους ἐδέξασθε παρὰ τῶν πρεσβευόντων , ἐξὸν ὑμῖν ἢ τῶν κινδύνων ἀπαλλάξαι τοὺς δυσχερὲς ὑποπτεύοντάς τι καθʼ ἡμῶν , ἢ φανερῶς ἐξελέγξαι με φαυλότατον ὄντα τῶν ἁπάντων .",
+      "translation": "But the crowning absurdity , I think , is that , though I sent ambassadors from all my allies to attend as witnesses , and was willing to come to a just agreement with you in the interests of the Greek world , you turned a deaf ear to the representations of the ambassadors , when you might perfectly well have relieved the fears of those who attributed sinister motives to me , or else have proved me beyond all doubt the most worthless of mankind ."
+    },
+    {
+      "id": "19",
+      "label": "Section 19",
+      "chapter": null,
+      "original": "τῷ μὲν οὖν δήμῳ ταῦτα συνέφερε , τοῖς δὲ λέγουσιν οὐκ ἐλυσιτέλει . φασὶ γὰρ οἱ τῆς πολιτείας τῆς παρʼ ὑμῖν ἔμπειροι τὴν μὲν εἰρήνην πόλεμον αὐτοῖς εἶναι , τὸν δὲ πόλεμον εἰρήνην · ἢ γὰρ συναγωνιζομένους τοῖς στρατηγοῖς ἢ συκοφαντοῦντας ἀεί τι λαμβάνειν παρʼ αὐτῶν , ἔτι δὲ τῶν πολιτῶν τοῖς γνωριμωτάτοις καὶ τῶν ἔξωθεν τοῖς ἐνδοξοτάτοις λοιδορουμένους ἐπὶ τοῦ βήματος περιποιεῖσθαι παρὰ τοῦ πλήθους δόξαν ὡς εἰσὶ δημοτικοί .",
+      "translation": "Such a course was indeed in the interests of your people , but it would not have paid your talkers . For those who have any experience of your constitution say that to the orators peace means war and war means peace ; because they always manage to make something out of the generals either by backing them up or by blackmailing them , and also , by abusing from the Public platform your most prominent citizens and the most esteemed of your foreign residents , they win a reputation with the mob for democratic zeal ."
+    },
+    {
+      "id": "20",
+      "label": "Section 20",
+      "chapter": null,
+      "original": "ῥᾴδιον μὲν οὖν ἐστί μοι παῦσαι τῆς βλασφημίας αὐτοὺς μικρὰ πάνυ προεμένῳ , καὶ ποιῆσαι λέγειν ἐπαίνους ὑπὲρ ἡμῶν . ἀλλʼ αἰσχυνοίμην ἄν , εἰ τὴν πρὸς ὑμᾶς εὔνοιαν παρὰ τούτων φαινοίμην ὠνούμενος , οἳ πρὸς τοῖς ἄλλοις εἰς τοῦτο τόλμης ἥκουσιν ὥστε καὶ περὶ Ἀμφιπόλεως πρὸς ἡμᾶς ἀμφισβητεῖν ἐπιχειροῦσιν , ὑπὲρ ἧς τῶν ἀντιποιουμένων αὐτῆς οἶμαι πολὺ δικαιότερα λέγειν αὐτός .",
+      "translation": "Now it would be easy for me , at a trifling expense , to stop their abuse and set them singing my praises . But I should be ashamed if I were known to purchase your goodwill from men who , besides their other faults , have reached such a height of impudence that they even venture to dispute with me about Amphipolis , to which I think I can advance a far better claim than my rivals ."
+    },
+    {
+      "id": "21",
+      "label": "Section 21",
+      "chapter": null,
+      "original": "εἴτε γὰρ τῶν ἐξ ἀρχῆς κρατησάντων γίγνεται , πῶς οὐ δικαίως ἡμεῖς αὐτὴν ἔχομεν , Ἀλεξάνδρου τοῦ προγόνου πρώτου κατασχόντος τὸν τόπον , ὅθεν καὶ τῶν αἰχμαλώτων Μήδων ἀπαρχὴν ἀνδριάντα χρυσοῦν ἀνέστησεν εἰς Δελφούς ; εἴτε τούτων μὲν ἀμφισβητήσειέ τις , ἀξιοῖ δὲ γίγνεσθαι τῶν ὕστερον γενομένων κυρίων , ὑπάρχει μοι καὶ τοῦτο τὸ δίκαιον · ἐκπολιορκήσας γὰρ τοὺς ὑμᾶς μὲν ἐκβαλόντας , ὑπὸ Λακεδαιμονίων δὲ κατοικισθέντας , ἔλαβον τὸ χωρίον .",
+      "translation": "For , if it belongs to the original conquerors , have not we a right to hold it ? It was my ancestor , Alexander , [*] who first occupied the site , and , as the first-fruits of the Persian captives taken there , set up a golden statue at Delphi . Or if anyone disputes this and claims it for its later owners , here again the right is mine , because I besieged and captured the city , after its inhabitants had expelled you and accepted the Lacedaemonians as their founders . [*]"
+    },
+    {
+      "id": "22",
+      "label": "Section 22",
+      "chapter": null,
+      "original": "καίτοι πάντες οἰκοῦμεν τὰς πόλεις ἢ τῶν προγόνων παραδόντων ἢ κατὰ πόλεμον κύριοι καταστάντες . ὑμεῖς δʼ οὔτε πρῶτοι λαβόντες οὔτε νῦν ἔχοντες , ἐλάχιστον δὲ χρόνον ἐν τοῖς τόποις ἐμμείναντες , ἀντιποιεῖσθε τῆς πόλεως , καὶ ταῦτα πίστιν ὑπὲρ ἡμῶν αὐτοὶ βεβαιοτάτην ἐπιθέντες · πολλάκις γὰρ ἐμοῦ γράφοντος ἐν ταῖς ἐπιστολαῖς ὑπὲρ αὐτῆς , ἐγνώκατε δικαίως ἔχειν ἡμᾶς , τότε μὲν ποιησάμενοι τὴν εἰρήνην ἔχοντος ἐμοῦ τὴν πόλιν , κᾆτα συμμαχίαν ἐπὶ ταῖς αὐταῖς ὁμολογίαις .",
+      "translation": "Yet we all of us occupy our cities either by inheritance from our ancestors or by right of conquest in war . But you , who were not the first to take Amphipolis , who do not possess it today , and who made the briefest sojourn in that district , now lay claim to the city , and that in spite of your own most solemn assurances in my favour . For I wrote to you again and again on the subject , and you acknowledged that I was in the right by making peace with me at a time when I was in occupation of the city , and subsequently by concluding an alliance with me on the same terms ."
+    },
+    {
+      "id": "23",
+      "label": "Section 23",
+      "chapter": null,
+      "original": "καίτοι πῶς ἂν ἑτέρα γένοιτο βεβαιοτέρα ταύτης κτῆσις , τῆς τὸ μὲν ἐξ ἀρχῆς καταλειφθείσης ἡμῖν ὑπὸ τῶν προγόνων , πάλιν δὲ κατὰ πόλεμον ἐμῆς γεγενημένης , τρίτον δὲ συγχωρηθείσης ὑφʼ ὑμῶν τῶν εἰθισμένων ἀμφισβητεῖν καὶ τῶν οὐδὲν ὑμῖν προσηκόντων ;\nἃ μὲν οὖν ἐγκαλῶ , ταῦτʼ ἐστίν · ὡς δὲ προϋπαρχόντων καὶ διὰ τὴν ἐμὴν εὐλάβειαν μᾶλλον ἤδη τοῖς πράγμασιν ἐπιτιθεμένων καὶ καθʼ ὅσον ἂν δύνησθε κακοποιούντων ὑμῶν , ἀμυνοῦμαι μετὰ τοῦ δικαίου , καὶ μάρτυρας τοὺς θεοὺς ποιησάμενος διαλήψομαι περὶ τῶν καθʼ ὑμᾶς .",
+      "translation": "Yet what stronger title to possession could there be than that the city was originally inherited by me from my ancestors , was again captured by me in war , and thirdly was conceded to me by you , who are in the habit of claiming even that to which you have no shadow of a right ?\nSuch are the complaints I have to make . As you were the aggressors and , thanks to my forbearance , are making still further attacks on my interests and doing me all the harm in your power , I shall defend myself , with justice on my side , and , calling the gods to witness , I shall bring my dispute with you to an issue ."
+    }
+  ],
+  "prevChunkSlug": "answer-to-philip-s-letter-xntbfr",
+  "nextChunkSlug": "on-organization-1shw0y"
+}

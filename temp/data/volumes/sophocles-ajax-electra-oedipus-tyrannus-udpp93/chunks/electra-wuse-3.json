@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "sophocles-ajax-electra-oedipus-tyrannus-udpp93",
+  "volumeTitle": "Ajax. Electra. Oedipus Tyrannus",
+  "authorDisplay": "Sophocles",
+  "authors": [
+    "Sophocles"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "electra-wuse-3",
+  "label": "Electra (Section 396 - Section 570)",
+  "partId": "electra-wuse",
+  "partTitle": "Electra",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἠλέκτρα",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Electra",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "396",
+      "label": "Section 396",
+      "chapter": null,
+      "original": "ἀλλʼ οὐ διδάσκω · τοῖς κρατοῦσι δʼ εἰκαθεῖν .",
+      "translation": "I do not , but to bend before the strong ."
+    },
+    {
+      "id": "397",
+      "label": "Section 397",
+      "chapter": null,
+      "original": "σὺ ταῦτα θώπευʼ · οὐκ ἐμοὺς τρόπους λέγεις .",
+      "translation": "Keep your flattery to yourself ; it is not in my character ."
+    },
+    {
+      "id": "398",
+      "label": "Section 398",
+      "chapter": null,
+      "original": "καλόν γε μέντοι μὴ ʼξ ἀβουλίας πεσεῖν .",
+      "translation": "Regardless , it brings no honor to fall through senselessness ."
+    },
+    {
+      "id": "399",
+      "label": "Section 399",
+      "chapter": null,
+      "original": "πεσούμεθʼ , εἰ χρή , πατρὶ τιμωρούμενοι .",
+      "translation": "I will fall , if need be , while honoring my father ."
+    },
+    {
+      "id": "400",
+      "label": "Section 400",
+      "chapter": null,
+      "original": "πατὴρ δὲ τούτων , οἶδα , συγγνώμην ἔχει .",
+      "translation": "But our father , I know , pardons me for this ."
+    },
+    {
+      "id": "401",
+      "label": "Section 401",
+      "chapter": null,
+      "original": "ταῦτʼ ἐστὶ τἄπη πρὸς κακῶν ἐπαινέσαι .",
+      "translation": "It is for cowards to commend such sentiments ."
+    },
+    {
+      "id": "402",
+      "label": "Section 402",
+      "chapter": null,
+      "original": "σὺ δʼ οὐχὶ πείσει καὶ συναινέσεις ἐμοί ;",
+      "translation": "So you will not be persuaded to agree with me ?"
+    },
+    {
+      "id": "403",
+      "label": "Section 403",
+      "chapter": null,
+      "original": "οὐ δῆτα · μή πω νοῦ τοσόνδʼ εἴην κενή .",
+      "translation": "No , indeed ; may I not yet be so devoid of intelligence ."
+    },
+    {
+      "id": "404",
+      "label": "Section 404",
+      "chapter": null,
+      "original": "χωρήσομαί τἄρʼ οἷπερ ἐστάλην ὁδοῦ .",
+      "translation": "Then I will move on to where I was sent ."
+    },
+    {
+      "id": "405",
+      "label": "Section 405",
+      "chapter": null,
+      "original": "ποῖ δʼ ἐμπορεύει ; τῷ φέρεις τάδʼ ἔμπυρα ;",
+      "translation": "And where is it that you go ? For whom do you take these offerings to be burned ?"
+    },
+    {
+      "id": "406",
+      "label": "Section 406",
+      "chapter": null,
+      "original": "μήτηρ με πέμπει πατρὶ τυμβεῦσαι χοάς .",
+      "translation": "Mother sends me with funeral libations for our father ."
+    },
+    {
+      "id": "407",
+      "label": "Section 407",
+      "chapter": null,
+      "original": "πῶς εἶπας ; ἦ τῷ δυσμενεστάτῳ βροτῶν ;",
+      "translation": "What are you saying ? For her deadliest enemy ?"
+    },
+    {
+      "id": "408",
+      "label": "Section 408",
+      "chapter": null,
+      "original": "ὃν ἔκτανʼ αὐτή · τοῦτο γὰρ λέξαι θέλεις .",
+      "translation": "Whom she herself killed , no doubt you wanted to say this as well ."
+    },
+    {
+      "id": "409",
+      "label": "Section 409",
+      "chapter": null,
+      "original": "ἐκ τοῦ φίλων πεισθεῖσα ; τῷ τοῦτʼ ἤρεσεν ;",
+      "translation": "What friend persuaded her ? Whose idea was it ?"
+    },
+    {
+      "id": "410",
+      "label": "Section 410",
+      "chapter": null,
+      "original": "ἐκ δείματός του νυκτέρου , δοκεῖν ἐμοί ;",
+      "translation": "The cause , I think , was fear induced by some vision in the night ."
+    },
+    {
+      "id": "411",
+      "label": "Section 411",
+      "chapter": null,
+      "original": "ὦ θεοὶ πατρῷοι , συγγένεσθέ γʼ ἀλλὰ νῦν .",
+      "translation": "My father ’ s Gods ! Stand with me now at last !"
+    },
+    {
+      "id": "412",
+      "label": "Section 412",
+      "chapter": null,
+      "original": "ἔχεις τι θάρσος τοῦδε τοῦ τάρβους πέρι ;",
+      "translation": "Do you find something heartening in this terror ?"
+    },
+    {
+      "id": "413",
+      "label": "Section 413",
+      "chapter": null,
+      "original": "εἴ μοι λέγοις τὴν ὄψιν , εἴποιμʼ ἂν τότε .",
+      "translation": "If you would tell me the vision , then I could answer ."
+    },
+    {
+      "id": "414",
+      "label": "Section 414",
+      "chapter": null,
+      "original": "ἀλλʼ οὐ κάτοιδα πλὴν ἐπὶ σμικρὸν φράσαι .",
+      "translation": "I know no more than a small part of the story ."
+    },
+    {
+      "id": "415",
+      "label": "Section 415",
+      "chapter": null,
+      "original": "λέγʼ ἀλλὰ τοῦτο · πολλά τοι σμικροὶ λόγοι",
+      "translation": "Tell me that , anyway ; a small tale has often before now tripped men up , or set them upright ."
+    },
+    {
+      "id": "417",
+      "label": "Section 417",
+      "chapter": null,
+      "original": "λόγος τις αὐτήν ἐστιν εἰσιδεῖν πατρὸς",
+      "translation": "It is said that she saw the father of you and of me restored to the sunlight and to her company once more . Then he took the scepter —"
+    },
+    {
+      "id": "420",
+      "label": "Section 420",
+      "chapter": null,
+      "original": "πῆξαι λαβόντα σκῆπτρον οὑφόρει ποτὲ",
+      "translation": "once his own , but now carried by Aegisthus — and planted it at the hearth . From it branched upward a flourishing limb , by which the whole land of the Mycenaeans was overshadowed . Such was the tale that I heard told by one who was present"
+    },
+    {
+      "id": "425",
+      "label": "Section 425",
+      "chapter": null,
+      "original": "δείκνυσι τοὔναρ , ἔκλυον ἐξηγουμένου .",
+      "translation": "when she revealed her dream to the Sun-god . More than this I do not know , except that she sent me by reason of this fear of hers . Now , I beg you by our ancestral gods , obey me , and do not fall in your senselessness !"
+    },
+    {
+      "id": "430",
+      "label": "Section 430",
+      "chapter": null,
+      "original": "εἰ γάρ μʼ ἀπώσει , σὺν κακῷ μέτει πάλιν .",
+      "translation": "If you reject me now , it is in misery that you will next seek me out ."
+    },
+    {
+      "id": "431",
+      "label": "Section 431",
+      "chapter": null,
+      "original": "ἀλλʼ , ὦ φίλη , τούτων μὲν ὧν ἔχεις χεροῖν",
+      "translation": "Dear sister , let none of these offerings in your hands touch the tomb . For neither divine law nor piety allows you to dedicate funeral gifts or bring libations to our father from his hateful wife ."
+    },
+    {
+      "id": "435",
+      "label": "Section 435",
+      "chapter": null,
+      "original": "ἀλλʼ ἢ πνοαῖσιν ἢ βαθυσκαφεῖ κόνει",
+      "translation": "No ! To the winds with them ! Or cover them in a deep , dusty hole , where not one of them will ever come near our father ’ s resting place . Rather let these treasures be preserved for her below when she dies . Were she not by nature the most audacious"
+    },
+    {
+      "id": "440",
+      "label": "Section 440",
+      "chapter": null,
+      "original": "πασῶν ἔβλαστε , τάσδε δυσμενεῖς χοὰς",
+      "translation": "of all women , she would never at all have tried to pour these ill-willed offerings to the man she killed . Consider whether you believe that the dead in his tomb will welcome this tribute with affection towards her , by whose hand he died dishonored and was mutilated"
+    },
+    {
+      "id": "445",
+      "label": "Section 445",
+      "chapter": null,
+      "original": "ἐμασχαλίσθη , κἀπὶ λουτροῖσιν κάρᾳ",
+      "translation": "like an enemy ? She , who , as if to wash herself clean , wiped off the bloodstains on his head ? Surely you do not believe that your bringing these things will absolve her of the murder ?\nIt is not possible . No , be rid of them . Give him instead a lock of your hair ’ s ends , cut from your own head ,"
+    },
+    {
+      "id": "450",
+      "label": "Section 450",
+      "chapter": null,
+      "original": "κἀμοῦ ταλαίνης , σμικρὰ μὲν τάδʼ , ἀλλʼ ὅμως",
+      "translation": "and from wretched me , too , give these gifts , poor as they are , though all I have . Take this hair , not glossy with unguents , and this girdle , decked with no rich ornament . Then fall down and pray that he himself may come in kindness to us from the world below , a helper against our enemies ;"
+    },
+    {
+      "id": "455",
+      "label": "Section 455",
+      "chapter": null,
+      "original": "καὶ παῖδʼ Ὀρέστην ἐξ ὑπερτέρας χερὸς",
+      "translation": "and that young Orestes may live to set his foot upon our enemies in superior might , so that hereafter we may crown our father ’ s tomb with wealthier hands than those with which we honor him now .\nI think , yes , I think that he too had some part"
+    },
+    {
+      "id": "460",
+      "label": "Section 460",
+      "chapter": null,
+      "original": "πέμψαι τάδʼ αὐτῇ δυσπρόσοπτʼ ὀνείρατα ·",
+      "translation": "in sending her these appalling dreams . Still , sister , do yourself this service and help me , and him , too , that most beloved of all men , who rests in Hades ’ domain , our shared father ."
+    },
+    {
+      "id": "464",
+      "label": "Section 464",
+      "chapter": null,
+      "original": "πρὸς εὐσέβειαν ἡ κόρη λέγει · σὺ δέ ,",
+      "translation": "The girl ’ s advice is pious ; you ,"
+    },
+    {
+      "id": "465",
+      "label": "Section 465",
+      "chapter": null,
+      "original": "εἰ σωφρονήσεις , ὦ φίλη , δράσεις τάδε .",
+      "translation": "dear friend , will do what she says , if you are wise ."
+    },
+    {
+      "id": "466",
+      "label": "Section 466",
+      "chapter": null,
+      "original": "δράσω · τὸ γὰρ δίκαιον οὐχ ἔχει λόγον",
+      "translation": "I will . In regard to a just deed , it is unreasonable for two people to argue , but reasonable to jump to action . But , by the gods , my friends , when I attempt this task , let me have your silence ,"
+    },
+    {
+      "id": "470",
+      "label": "Section 470",
+      "chapter": null,
+      "original": "ὡς εἰ τάδʼ ἡ τεκοῦσα πεύσεται , πικρὰν",
+      "translation": "since if my mother hears of it , I believe that this attempt which I will dare shall in the end cause me bitterness . Exit Chrysothemis on the spectators ’ right ."
+    },
+    {
+      "id": "1.472",
+      "label": "Section 1.472",
+      "chapter": null,
+      "original": "εἰ μὴ ʼγὼ παράφρων μάντις ἔφυν καὶ γνώμας",
+      "translation": "If I am not a deranged prophet and one who lacks wise judgments ,"
+    },
+    {
+      "id": "1.475",
+      "label": "Section 1.475",
+      "chapter": null,
+      "original": "Δίκα δίκαια φερομένα χεροῖν κράτη ·",
+      "translation": "Justice , the sender of the omen , will come , winning the just victory of her hands ’ might . She will come in pursuit before long , my child . Courage is mine ,"
+    },
+    {
+      "id": "1.480",
+      "label": "Section 1.480",
+      "chapter": null,
+      "original": "ἁδυπνόων κλύουσαν",
+      "translation": "since I heard just now of this sweet-blowing dream . Never does the lord of the Hellenes , your producer forget ,"
+    },
+    {
+      "id": "1.485",
+      "label": "Section 1.485",
+      "chapter": null,
+      "original": "οὐδʼ ἁ παλαιὰ χαλκόπλακτος ἀμφάκης γένυς ,",
+      "translation": "nor does the axe of long ago forget , striking with bronze on its jaws , which in most shameless disgrace annihilated him ."
+    },
+    {
+      "id": "1.490",
+      "label": "Section 1.490",
+      "chapter": null,
+      "original": "κρυπτομένα λόχοις",
+      "translation": "the bronze-shod Erinys . For an unwed , unbetrothed passion for a marriage polluted by murder seized the pair , though divine law forbade it to them ."
+    },
+    {
+      "id": "1.495",
+      "label": "Section 1.495",
+      "chapter": null,
+      "original": "πρὸ τῶνδέ τοί μʼ ἔχει",
+      "translation": "Therefore I am confident that the portent — a wonder which I will never blame — will draw near to the criminals and conspirators . To be sure , mortal prophecy"
+    },
+    {
+      "id": "1.500",
+      "label": "Section 1.500",
+      "chapter": null,
+      "original": "τοῖς δρῶσι καὶ συνδρῶσιν . ἤ τοι μαντεῖαι βροτῶν",
+      "translation": "from fearful dreams or divine signs exists no more , if this vision of the night does not find due fulfillment ."
+    },
+    {
+      "id": "505",
+      "label": "Section 505",
+      "chapter": null,
+      "original": "πολύπονος ἱππεία ,",
+      "translation": "what disaster you have brought upon this land ! For ever since Myrtilus sank to rest beneath the waves ,"
+    },
+    {
+      "id": "510",
+      "label": "Section 510",
+      "chapter": null,
+      "original": "παγχρύσων δίφρων",
+      "translation": "hurled to utter destruction from his golden chariot in disgraceful outrage , from that time to this , outrage and its many sorrows"
+    },
+    {
+      "id": "515",
+      "label": "Section 515",
+      "chapter": null,
+      "original": "πολύπονος αἰκία .",
+      "translation": "were never yet gone from this house ."
+    },
+    {
+      "id": "516",
+      "label": "Section 516",
+      "chapter": null,
+      "original": "ἀνειμένη μέν , ὡς ἔοικας , αὖ στρέφει ·",
+      "translation": "You run loose again , it seems , since Aegisthus is not here , who used always to keep you at least from coming out to the gates and shaming your family . But now , since he is absent , you pay"
+    },
+    {
+      "id": "520",
+      "label": "Section 520",
+      "chapter": null,
+      "original": "ἐμοῦ γε · καίτοι πολλὰ πρὸς πολλούς με δὴ",
+      "translation": "me no mind . And yet you have said of me often and to many listeners that I am a rash and unjust tyrant , who violently abuse you and yours . But it is not I who do violence ; I only return the insults that I so often hear from you ."
+    },
+    {
+      "id": "525",
+      "label": "Section 525",
+      "chapter": null,
+      "original": "πατὴρ γάρ , οὐδὲν ἄλλο , σοὶ πρόσχημʼ ἀεὶ",
+      "translation": "Your father — this and nothing else is your constant pretext — was slain by me . Yes , by me . I know it well . I make no denial . Justice took hold of him , not I alone — Justice , whom you ought to have supported , if you had been in your right mind ."
+    },
+    {
+      "id": "530",
+      "label": "Section 530",
+      "chapter": null,
+      "original": "ἐπεὶ πατὴρ σὸς οὗτος , ὃν θρηνεῖς ἀεί ,",
+      "translation": "For this father of yours whom you constantly bewail alone of all the Greeks had the heart to sacrifice your own blood , your sister , to the gods — he , who , when sowing his seed , felt none of the pains I did when I gave birth .\nCome , tell me now , why , or to please whom ,"
+    },
+    {
+      "id": "535",
+      "label": "Section 535",
+      "chapter": null,
+      "original": "ἔθυσεν αὐτήν · πότερον Ἀργείων ἐρεῖς ;",
+      "translation": "did he sacrifice her ? To please the Argives , you will say ? No , they had no right to kill my daughter . Or , if indeed it was for the sake of his brother Menelaus that he killed my child , was he not to pay me the penalty for that ? Did Menelaus not have two children ,"
+    },
+    {
+      "id": "540",
+      "label": "Section 540",
+      "chapter": null,
+      "original": "οὓς τῆσδε μᾶλλον εἰκὸς ἦν θνῄσκειν , πατρὸς",
+      "translation": "who should in fairness have died instead of my daughter , since the father and mother from whom they were sprung had caused that voyage ? Did Hades have some greater desire to feast on my offspring than on hers ? Or had all love of the children of my womb been"
+    },
+    {
+      "id": "545",
+      "label": "Section 545",
+      "chapter": null,
+      "original": "παίδων πόθος παρεῖτο , Μενέλεω δʼ ἐνῆν ;",
+      "translation": "abandoned by their accursed father , while love for the children of Menelaus filled him ? Were these not the marks of a thoughtless and malicious parent ? I think so , even if I differ from your judgment . So , too , would the dead girl speak , if she could find a voice . For myself , then , I view the past without"
+    },
+    {
+      "id": "550",
+      "label": "Section 550",
+      "chapter": null,
+      "original": "δύσθυμος · εἰ δὲ σοὶ δοκῶ φρονεῖν κακῶς ,",
+      "translation": "dismay ; but if you think my attitude criminal , see that your own judgment is just before you blame your neighbor ."
+    },
+    {
+      "id": "552",
+      "label": "Section 552",
+      "chapter": null,
+      "original": "ἐρεῖς μὲν οὐχὶ νῦν γέ μʼ ὡς ἄρξασά τι",
+      "translation": "This time , at least , you cannot say that I first gave you cause for upset and thereby provoked such words from you . But , if you will permit me ,"
+    },
+    {
+      "id": "555",
+      "label": "Section 555",
+      "chapter": null,
+      "original": "λέξαιμʼ ἂν ὀρθῶς τῆς κασιγνήτης θʼ ὁμοῦ .",
+      "translation": "I would gladly declare the truth , on behalf of my dead father and my sister alike ."
+    },
+    {
+      "id": "556",
+      "label": "Section 556",
+      "chapter": null,
+      "original": "καὶ μὴν ἐφίημʼ · εἰ δέ μʼ ὧδʼ ἀεὶ λόγους",
+      "translation": "Certainly I permit you ; and if you always addressed me in such a tone , you would not be difficult to listen to ."
+    },
+    {
+      "id": "558",
+      "label": "Section 558",
+      "chapter": null,
+      "original": "καὶ δὴ λέγω σοι . πατέρα φὴς κτεῖναι . τίς ἂν",
+      "translation": "Then I will speak . You admit that you killed my father . What statement could be more shameful still than that ,"
+    },
+    {
+      "id": "560",
+      "label": "Section 560",
+      "chapter": null,
+      "original": "εἴτʼ οὖν δικαίως εἴτε μή ; λέξω δέ σοι",
+      "translation": "whether you did it justly or not ? But I will demonstrate to you that you did not justly kill him . No , the persuasion of that wicked man with whom you now sleep dragged you to it .\nAsk the huntress Artemis what wrong she punished when she stayed the frequent winds at Aulis ;"
+    },
+    {
+      "id": "565",
+      "label": "Section 565",
+      "chapter": null,
+      "original": "ἢ ʼγὼ φράσω · κείνης γὰρ οὐ θέμις μαθεῖν .",
+      "translation": "or I will tell you , since we may not learn from her . My father , as I have heard , was once hunting in the grove of the goddess , when his footfall flushed a dappled and antlered stag ; he shot it , and chanced to make a certain boast concerning its slaughter ."
+    },
+    {
+      "id": "570",
+      "label": "Section 570",
+      "chapter": null,
+      "original": "κἀκ τοῦδε μηνίσασα Λητῴα κόρη",
+      "translation": "Angered by this , Leto ’ s daughter detained the Greeks so that in requital for the beast ’ s life my father should sacrifice his own daughter . So it was that she was sacrificed , since the fleet had no other release , neither homeward nor to Troy ."
+    }
+  ],
+  "prevChunkSlug": "electra-wuse-2",
+  "nextChunkSlug": "electra-wuse-4"
+}

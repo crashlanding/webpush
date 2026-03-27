@@ -1,0 +1,61 @@
+{
+  "loebNumber": 512,
+  "sortOrder": 512,
+  "slug": "macrobius-saturnalia-volume-iii-gaf0tm",
+  "title": "Saturnalia, Volume III",
+  "volumeLabel": "Saturnalia, Volume III",
+  "authorDisplay": "Macrobius",
+  "authors": [
+    "Macrobius"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for Saturnalia, Volume III. Saturnalia, Volume III currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "saturnalia-volume-iii-1wlgjv",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "saturnalia-volume-iii-1wlgjv",
+      "title": "Saturnalia, Volume III",
+      "status": "ready",
+      "sectionCount": 39,
+      "chunkSlug": "saturnalia-volume-iii-1wlgjv",
+      "chunks": [
+        {
+          "slug": "saturnalia-volume-iii-1wlgjv",
+          "label": "Saturnalia, Volume III",
+          "partId": "saturnalia-volume-iii-1wlgjv",
+          "partTitle": "Saturnalia, Volume III",
+          "sectionCount": 39,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "saturnalia-volume-iii-1wlgjv",
+      "label": "Saturnalia, Volume III",
+      "partId": "saturnalia-volume-iii-1wlgjv",
+      "partTitle": "Saturnalia, Volume III",
+      "sectionCount": 39,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "saturnalia-volume-iii-1wlgjv",
+      "partTitle": "Saturnalia, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Τὰ πρὸς Κρόνον",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg055.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "A Conversation with Cronus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg055.perseus-eng3/"
+      }
+    }
+  ]
+}

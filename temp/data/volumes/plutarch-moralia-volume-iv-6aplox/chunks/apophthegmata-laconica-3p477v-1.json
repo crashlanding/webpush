@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plutarch-moralia-volume-iv-6aplox",
+  "volumeTitle": "Moralia, Volume IV",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "apophthegmata-laconica-3p477v-1",
+  "label": "Apophthegmata Laconica (Section 1.1 - Section 42.1)",
+  "partId": "moralia-volume-iv-1ff3q1",
+  "partTitle": "Moralia, Volume IV",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἀποφθέγματα Λακωνικά",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg082.perseus-grc3/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Sayings of Spartans",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg082.perseus-eng3/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1",
+      "label": "Section 1.1",
+      "chapter": null,
+      "original": "Ἀγασικλῆς ὁ Λακεδαιμονίων βασιλεύς , θαυμάζοντός τινος ὅτι φιλήκοος ὢν οὐ προσδέχεται Φιλοφάνη τὸν σοφιστήν , ἔφη , τούτων χρῄζω μαθητὴς εἶναι , ὧν εἶναι [*] καὶ υἱός .",
+      "translation": "When someone expressed surprise to Agasicles , king of the Spartans , because , although he was very fond of reading and lectures , yet he would not admit to his presence Philophanes , a learned man , he said , I want to be a pupil of those whose son I should like to be as well ."
+    },
+    {
+      "id": "1.2",
+      "label": "Section 1.2",
+      "chapter": null,
+      "original": "πρὸς δὲ τὸν εἰπόντα πῶς ἄν τις ἀδορυφόρητος ὢν ἄρχειν ἀσφαλῶς δύναιτο , ἐὰν οὕτως , ἔφη , αὐτῶν ἄρχῃ , ὥσπερ οἱ πατέρες τῶν υἱῶν .",
+      "translation": "In answer to a man who raised the question how anyone could possibly rule in safety without the protection of a bodyguard , he said , If one rules his subjects as fathers rule their sons . [*]"
+    },
+    {
+      "id": "2.1",
+      "label": "Section 2.1",
+      "chapter": null,
+      "original": "Ἀγησίλαος ὁ μέγας παρὰ πότον ποτὲ λαχὼν συμποσίαρχος , ἐρωτηθεὶς ὑπὸ τοῦ οἰνοχόου πόσον 208c ἑκάστῳ προσφέρῃ , ἔφη , [*] εἰ μὲν πολὺς οἶνός ἐστι παρεσκευασμένος , ὅσον ἕκαστος αἰτεῖ · εἰ δὲ ὀλίγος , ἐξ ἴσου δίδου πᾶσιν .",
+      "translation": "Agesilaus the Great was once chosen by lot to be master of ceremonies at an evening party , and , when he was asked by the slave who poured the wine how much wine he should serve to each man , Agesilaus said , If much wine has been provided , as much as each one asks for ; but if only a little , then give to all equally ."
+    },
+    {
+      "id": "2.2",
+      "label": "Section 2.2",
+      "chapter": null,
+      "original": "κακούργου δέ τινος ἐμμόνως ὑπομείναντος βασάνους , ὡς σφόδρα πονηρός , εἶπεν , ἅνθρωπος , [*] εἰς μοχθηρὰ καὶ αἰσχρὰ πράγματα τὴν ὑπομονὴν καὶ καρτερίαν κατατιθέμενος .",
+      "translation": "When a malefactor endured tortures without flinching , Agesilaus said , What an out-and-out villain the man is , devoting his endurance and fortitude to such base and shameful purposes !"
+    },
+    {
+      "id": "3.1",
+      "label": "Section 3.1",
+      "chapter": null,
+      "original": "215b Ἀγησίπολις ὁ Κλεομβρότου , εἰπόντος τινὸς ὅτι Φίλιππος ἐν ὀλίγαις ἡμέραις Ὄλυνθον κατέσκαψε , μὰ τοὺς θεούς , εἶπεν , ἄλλην τοιαύτην ἐν πολλαπλασίονι χρόνῳ οὐκ οἰκοδομήσει .",
+      "translation": "Agesipolis , son of Cleombrotus , when somebody said that Philip in a few days had razed Olynthus to the ground , said , By Heaven , he will not build another like it in many years ! [*]"
+    },
+    {
+      "id": "3.2",
+      "label": "Section 3.2",
+      "chapter": null,
+      "original": "ἄλλου δὲ εἰπόντος ὅτι μετὰ τῶν ἀκμαζόντων βασιλεύων ὡμήρευσε καὶ οὐχ οἱ παῖδες οὐδʼ αἱ γυναῖκες αὐτῶν , δικαίως , εἶπεν , αὐτοὺς γὰρ ἡμᾶς καλῶς ἔχον ἐστὶ τὰς αὑτῶν ἁμαρτίας φέρειν .",
+      "translation": "When someone else remarked that he while king had been made hostage with those in the prime of life , and not their children or their women , he said , That is but just , for it is good that we ourselves should bear the consequences of our own mistakes ."
+    },
+    {
+      "id": "4.1",
+      "label": "Section 4.1",
+      "chapter": null,
+      "original": "Ἀγησίπολις ὁ Παυσανίου , Ἀθηναίων πρὸς αὐτὸν περὶ ὧν εἶχον πρὸς ἀλλήλους ἐγκλημάτων τὴν τῶν Μεγαρέων πόλιν ἔκκλητον λαμβανόντων , αἰσχρόν , ʼ ἔφη , ὦ Ἀθηναῖοι , τοὺς ἀφηγησαμένους τῶν Ἑλλήνων ἧττον εἰδέναι Μεγαρέων τὸ δίκαιον .",
+      "translation": "Agesipolis , the son of Pausanias , when the Athenians offered to accept the city of Megara as arbitrator regarding some complaints which they had each against the other , said , It is a shame , men of Athens , that those who have held the hegemony of the Greeks should know less about justice than the Megarians ."
+    },
+    {
+      "id": "5.1",
+      "label": "Section 5.1",
+      "chapter": null,
+      "original": "Ἆγις ὁ Ἀρχιδάμου , τῶν ἐφόρων ποτὲ εἰπόντων , βάδιζε τοὺς ἡβῶντας ἔχων ἐπὶ τὴν τούτου 215d πατρίδα · ἡγήσεται δέ σοι αὐτὸς οὗτος ἐπὶ τὴν ἀκρόπολιν , καὶ πῶς , εἶπε , καλῶς ἔχον ἐστίν , ὦ ἔφοροι , τοσούτους νέους πιστεύειν τῷ τὴν ἑαυτοῦ πατρίδα προδιδόντι ; ν",
+      "translation": "Once upon a time the Ephors said to Agis the son of Archidamus , Take the young men and march against the country of this man here . He will himself guide you to its citadel . And how , sirs , said Agis , is it right to entrust so many youths to a man who is betraying his own country ? [*]"
+    },
+    {
+      "id": "5.2",
+      "label": "Section 5.2",
+      "chapter": null,
+      "original": "ἐρωτηθεὶς δὲ τί μάλιστα μάθημα ἐν Σπάρτῃ ἀσκεῖται , τὸ γιγνώσκειν , εἶπεν , ἄρχειν τε καὶ ἄρχεσθαι .",
+      "translation": "Being asked what form of instruction was most in vogue in Sparta , he said , Knowledge of how to rule and to be ruled . [*]"
+    },
+    {
+      "id": "6.1",
+      "label": "Section 6.1",
+      "chapter": null,
+      "original": "Ἆγις ὁ νεώτερος , Δημάδου λέγοντος ὅτι τὰ Λακωνικὰ ξίφη διὰ μικρότητα καταπίνουσιν οἱ θαυματοποιοί , καὶ μήν , ἔφη , οἱ Λακεδαιμόνιοι τῶν πολεμίων τοῖς ξίφεσιν ἐφικνοῦνται .",
+      "translation": "The younger Agis , when Demades said that the jugglers who swallow swords use the Spartan swords because of their shortness , retorted , But all the same the Spartans reach their enemies with their swords . [*]"
+    },
+    {
+      "id": "6.2",
+      "label": "Section 6.2",
+      "chapter": null,
+      "original": "πρὸς δὲ ἄνθρωπον πονηρὸν ἐρωτῶντα πολλάκις τίς ἄριστος εἴη Σπαρτιάτης , εἶπεν , [*] ὁ σοὶ ἀνομοιότατος .",
+      "translation": "In answer to a base man who asked repeatedly who was the best Spartan , he said , The one most unlike you . [*]"
+    },
+    {
+      "id": "7.1",
+      "label": "Section 7.1",
+      "chapter": null,
+      "original": "216d Ἆγις ὁ τελευταῖος τῶν Λακεδαιμονίων βασιλέων ἐξ ἐνέδρας συλληφθεὶς καὶ καταδικασθεὶς ὑπὸ τῶν ἐφόρων χωρὶς δίκης , ἀπαγόμενος ἐπὶ τὸν βρόχον ἰδών τινα τῶν ὑπηρετῶν κλαίοντα , παῦσαι , εἶπεν , ὦ ἄνθρωπε , ἐπʼ ἐμοὶ κλαίειν [*] · καὶ γὰρ οὕτω παρανόμως καὶ ἀδίκως ἀπολλύμενος , κρείττων εἰμὶ τῶν ἀναιρούντων . καὶ ταῦτα εἰπὼν παρέδωκε τῷ βρόχῳ τὸν τράχηλον ἑκουσίως .",
+      "translation": "Agis , the last of the kings of Sparta , was arrested as the result of treachery and condemned by the Ephors without a trial . As he was being led away to the halter he saw one of the officers weeping , and said , Stop your weeping for me , man . For in spite of my being put to death in such defiance of law and justice , I am superior to those who are taking my life . With these words he willingly offered his neck for the noose . [*]"
+    },
+    {
+      "id": "8.1",
+      "label": "Section 8.1",
+      "chapter": null,
+      "original": "Ἀκρότατος , ἐπεὶ οἱ γονεῖς αὐτὸν ἄδικόν τι συμπρᾶξαι αὐτοῖς ἠξίουν ; μέχρι τινὸς ἀντέλεγεν · ὡς δὲ ἐνέκειντο , εἶπεν , ἕως μὲν παρʼ ὑμῖν ἦν , οὐκ 216e ἠπιστάμην δικαιοσύνης οὐδεμίαν ἔννοιαν · ἐπεὶ δὲ με τῇ πατρίδι παρέδοτε καὶ τοῖς ταύτης νόμοις , ἔτι δὲ [*] δικαιοσύνῃ καὶ καλοκαγαθίᾳ ἐπαιδεύσατε ὡς ἐδύνασθε , [*] τούτοις πειράσομαι μᾶλλον [*] ἢ ὑμῖν ἕπεσθαι · καὶ ἐπεὶ θέλετε μʼ [*] ἄριστα [*] πράττειν , ἄριστα δὲ τὰ δίκαιά ἐστι καὶ ἰδιώτῃ καὶ πολὺ μᾶλλον ἄρχοντι , πράξω ἃ θέλετε · ἃ δὲ λέγετε παραιτήσομαι .",
+      "translation": "Acrotatus , when his parents claimed it was his duty to co-operate with them in some unjust action , spoke in opposition up to a certain limit . But when they insisted , he said , While I was with you , I had not the slightest idea of justice ; but since you have surrendered me to our country and its laws , and , besides , have had me instructed in justice and honourable conduct so far as lay in your power , I shall try to follow these rather than you . And since your wish is for me to do what is best , and since what is just is best both for a private citizen , and much more so for a ruler , I will do what you wish ; but as for what you propose I shall beg to be excused . [*]"
+    },
+    {
+      "id": "9.1",
+      "label": "Section 9.1",
+      "chapter": null,
+      "original": "Ἀλκαμένης ὁ Τηλέκλου , [*] πυθομένου τινὸς πῶς ἄν τις ἄριστα βασιλείαν διατηροίη , εἰ περὶ πλείονος , ἔφη , τὸ κέρδος μὴ ποιοῖτο .",
+      "translation": "Alcamenes , the son of Teleclus , when somebody inquired how a man could best keep a kingdom secure , said , If he should not hold his own advantage too high ."
+    },
+    {
+      "id": "9.2",
+      "label": "Section 9.2",
+      "chapter": null,
+      "original": "ἑτέρου δὲ ἐπιζητοῦντος διὰ τί παρὰ Μεσσηνίων 216f δῶρα οὐκ ἐδέξατο , ὅτι λαβόντος μου , ἔφη , πρὸς τοὺς νόμους εἰρήνην ἄγειν ἀδύνατον .",
+      "translation": "When another person sought to know the reason why he did not accept gifts from the Messenians , he said , Because if I took the gifts , it would be impossible to maintain peace with impartial regard for the laws ."
+    },
+    {
+      "id": "10.1",
+      "label": "Section 10.1",
+      "chapter": null,
+      "original": "Ἀναξανδρίδας ὁ Λέοντος πρὸς τὸν δυσφοροῦντα διὰ τὴν ἐκ τῆς πόλεως αὐτῷ γενομένην φυγήν , ὦ λῷστε , ἔφη , μὴ τὴν πόλιν φεύγων ὀρρώδει , ἀλλὰ τὴν δικαιοσύνην .",
+      "translation": "Anaxandridas , the son of Leo . in answer to a man who took much to heart the sentence imposed upon him of exile from the country , said , My good sir , be not downcast at being an exile from your country but at being an exile from justice ."
+    },
+    {
+      "id": "10.2",
+      "label": "Section 10.2",
+      "chapter": null,
+      "original": "τῷ δὲ τοῖς ἐφόροις τὰ δέοντα μὲν λέγοντι πλείω δὲ τῶν ἱκανῶν , ὦ ξένε , ἔφη , οὐκ ἐν δέοντι τῷ δέοντι χρῇ .",
+      "translation": "To a man who told the Ephors of things that were needful , but spoke at greater length than would have sufficed , he said , My friend , in needless time you dwell upon the need ! [*]"
+    },
+    {
+      "id": "11.1",
+      "label": "Section 11.1",
+      "chapter": null,
+      "original": "Ἀνάξανδρος ὁ Εὐρυκράτεος , πυνθανομένου τινὸς διὰ τί χρήματα οὐ συνάγουσιν εἰς τὸ δημόσιον , ὅπως , ἔφη , μὴ οἱ φύλακες αὐτῶν γιγνόμενοι διαφθείρωνται .",
+      "translation": "Anaxander , the son of Eurycrates , when someone inquired why the Spartans did not amass money in the public treasury , said , So that those made the guardians of it may not become corrupt ."
+    },
+    {
+      "id": "12.1",
+      "label": "Section 12.1",
+      "chapter": null,
+      "original": "217c Ἀναξίλας πρὸς τὸν θαυμάζοντα διὰ τί οἱ ἔφοροι τοῖς βασιλεῦσιν οὐχ ὑπεξανίστανται , καὶ ταῦτα ὑπὸ τῶν βασιλέων καθισταμένοι , διὰ τὴν αὐτὴν αἰτίαν , ἔφη , δι ’ ἣν καὶ ἐφορεύουσιν .",
+      "translation": "Anaxilas , in answer to the man who wondered why the Ephors did not rise and offer their places to the kings , d and this , too , although they were appointed to their position by the kings , [*] said , For the very same reason that they hold the office of Ephor ."
+    },
+    {
+      "id": "13.1",
+      "label": "Section 13.1",
+      "chapter": null,
+      "original": "Ἀνδροκλείδας ὁ Λάκων πηρωθεὶς τὸ σκέλος κατέταξεν αὑτὸν εἰς τοὺς πολεμιστάς · ὡς δʼ ἐνίσταντό [*] τινες διακωλύοντες ὅτι ἐπεπήρωτο , ἀλλʼ οὐ φεύγοντα , εἶπε , μένοντα δὲ δεῖ τοῖς ἀντιτεταγμένοις μάχεσθαι . ʼ ʼ",
+      "translation": "Androcleidas the Spartan , who had a crippled leg , enrolled himself among the fighting-men . And when some persons were insistent that he be not accepted because he was crippled , he said , But I do not have to run away , but to stay where I am when I fight the opposing foe . [*]"
+    },
+    {
+      "id": "14.1",
+      "label": "Section 14.1",
+      "chapter": null,
+      "original": "Ἀνταλκίδας ἐν Σαμοθρᾴκῃ μυούμενος , ἐρωτηθεὶς 217d ὑπὸ τοῦ ἱερέως τί δεινότερον δέδρακεν ἐν τῷ βίῳ , εἴ τί μοι πέπρακται τοιοῦτον , εἴσονται , εἶπεν , αὐτοὶ οἱ θεοί .",
+      "translation": "When Antalcidas was being initiated into the mysteries at Samothrace , he was asked by the priest what especially dreadful thing he had done during his life , and he replied , If any such deed has been committed by me , the gods themselves will know it . [*]"
+    },
+    {
+      "id": "14.2",
+      "label": "Section 14.2",
+      "chapter": null,
+      "original": "πρὸς δὲ τὸν ἀμαθεῖς καλοῦντα τοὺς Λακεδαιμονίους Ἀθηναῖον , μόνοι γοῦν , εἶπεν , ἡμεῖς οὐδὲν μεμαθήκαμεν παρʼ ὑμῶν κακόν .",
+      "translation": "In answer to the Athenian who called the Spartans unlearned , he said , At any rate we are the only people who have learned no evil from you . [*]"
+    },
+    {
+      "id": "15.1",
+      "label": "Section 15.1",
+      "chapter": null,
+      "original": "217f Ἀντίοχος ἐφορεύων ὡς ἤκουσεν ὅτι Μεσσηνίοις Φίλιππος τὴν χώραν ἔδωκεν , ἠρώτησεν εἰ καὶ δύναμιν αὐτοῖς παρέσχετο ὥστε μαχομένους περὶ τῆς χώρας κρατεῖν .",
+      "translation": "Antiochus , when he was Ephor , hearing that Philip had given the Messenians their land , asked if he had also provided them with the power to prevail in fighting to keep it . [*]"
+    },
+    {
+      "id": "16.1",
+      "label": "Section 16.1",
+      "chapter": null,
+      "original": "Ἄρευς , [*] ἐπαινούντων τινῶν οὐκ ἰδίας ἀλλά τινας τῶν ἀλλοτρίων γυναικῶν , μὰ τοὺς θεούς , εἶπε , περὶ τῶν καλῶν κἀγαθῶν γυναικῶν οὐδένα δεῖ λόγον εἰκῆ λέγεσθαι , ἀγνοεῖσθαι δʼ αὐτὰς τὸ παράπαν , ὁποῖαι τυγχάνουσι , πλὴν μόνοις τοῖς συμβιοῦσι .",
+      "translation": "Areus , when some men commended , not their own wives , but certain wives of other men , said , By Heaven , there ought to be no random talk about fair and noble women , and their characters ought to be totally unknown save only to their consorts . [*]"
+    },
+    {
+      "id": "16.2",
+      "label": "Section 16.2",
+      "chapter": null,
+      "original": "διὰ Σελινοῦντος δέ ποτε τῆς Σικελίας πορευόμενος ἰδὼν ἐπὶ μνήματος ἐλεγεῖον ἐπιγεγραμμένον ,\nσβεννύντας ποτὲ τούσδε τυραννίδα χάλκεος Ἄρης εἷλε · Σελινοῦντος δʼ ἀμφὶ πύλαις ἔθανον ,\nδικαίως , ἔφη , ἀπεθάνετε τυραννίδα καιομένην ἀποσβεννύναι ἐπιχειρήσαντες · τοὐναντίον γὰρ ἔδει ὅλην αὐτὴν ἀφεῖναι κατακαῆναι .",
+      "translation": "Once upon a time , when he was passing through Selinus in Sicily , he saw inscribed upon a monument this elegiac couplet : Here at Selinus these men , who tyrc . nny strove to extinguish , Brazen-clad Ares laid low ; nigh to our gates were they slain . Whereupon he said , You certainly deserved to die for trying to extinguish tyranny when it was ablaze ; rather you ought to have let it burn itself out completely . [*]"
+    },
+    {
+      "id": "17.1",
+      "label": "Section 17.1",
+      "chapter": null,
+      "original": "218a ἀρίστων , ἐπαινοῦντός τινος τὴν τοῦ Κλεομένους χρείαν , ὅτι ἐρωτηθεὶς τί δεῖ τὸν ἀγαθὸν βασιλέα ποιεῖν , εἶπε , τοὺς μὲν φίλους εὐεργετεῖν τοὺς δὲ ἐχθροὺς κακῶς ποιεῖν , καὶ πόσῳ κρεῖττον , ἔφη , ὦ λῷστε , τοὺς μὲν φίλους εὐεργετεῖν τοὺς δὲ ἐχθροὺς φίλους ποιεῖν ; αὕτη Σωκράτους ὁμολογουμένη πρὸς πάντων χρεία οὖσα καὶ εἰς αὐτὸν ἀναφέρεται .",
+      "translation": "When someone commended the maxim of Cleomenes , who , on being asked what a good king ought to do , said , To do good to his friends and evil to his enemies , Ariston said , How much better , my good sir , to do good to our friends , and to make friends of our enemies ? This , which is universally conceded to be one of Socrates ’ maxims , [*] is also referred to Ariston . [*]"
+    },
+    {
+      "id": "17.2",
+      "label": "Section 17.2",
+      "chapter": null,
+      "original": "πυνθανομένου δέ τινος πόσοι Σπαρτιᾶται τὸ πλῆθος , ὅσοι ἱκανοί , εἶπε , τοὺς ἐχθροὺς ἀπερύκειν .",
+      "translation": "When someone inquired how many Spartans there were in all , he said , Enough to keep away our enemies . [*]"
+    },
+    {
+      "id": "18.1",
+      "label": "Section 18.1",
+      "chapter": null,
+      "original": "Ἀρχιδαμίδας πρὸς τὸν ἐπαινοῦντα Χάριλλον , [*] ὅτι πρὸς ἅπαντας ὁμοίως πρᾶος ἦν , καὶ πῶς τις , ἔφη , δικαίως ἂν ἐπαινοῖτο , εἰ καὶ πρὸς τοὺς πονηροὺς πρᾶος εἴη ; ν",
+      "translation": "Archidamidas , in answer to a man who commended Charillus because he was gentle towards all alike , said , And how could any man be justly commended if he be gentle towards the wicked ? [*]"
+    },
+    {
+      "id": "18.2",
+      "label": "Section 18.2",
+      "chapter": null,
+      "original": "μεμφομένου δέ τινος Ἑκαταῖον τὸν σοφιστήν , ὅτι παραληφθεὶς εἰς τὸ συσσίτιον αὐτῶν οὐδὲν ἔλεγεν , ἀγνοεῖν μοι δοκεῖς , εἶπεν , ὅτι ὁ εἰδὼς λόγον καὶ τὸν τοῦ λέγειν καιρὸν οἶδεν .",
+      "translation": "When somebody found fault with Hecataeus the sophist because , when he was received as a member at the common table , he spoke not a word , Archidamidas said , You do not seem to realize that he who knows how to speak knows also the right time for speaking . [*]"
+    },
+    {
+      "id": "19.1",
+      "label": "Section 19.1",
+      "chapter": null,
+      "original": "218c Ἀρχίδαμος ὁ Ζευξιδάμου , πυθομένου τινὸς αὐτοῦ τίνες προεστήκασι τῆς Σπάρτης , οἱ νόμοι καὶ τὰ ἀρχεῖα , ἔφη , κατὰ τοὺς νόμους .",
+      "translation": "Archidamus , the son of Zeuxidamus , when someone inquired of him who were at the head of Sparta , said , The laws and the magistrates in accordance with the laws ."
+    },
+    {
+      "id": "19.2",
+      "label": "Section 19.2",
+      "chapter": null,
+      "original": "πρὸς δὲ τὸν ἐπαινοῦντα κιθαρῳδὸν καὶ θαυμάζοντα τὴν δύναμιν αὐτοῦ , ὦ λῷστε , ἔφη , ποῖον γέρας παρὰ σοῦ τοῖς ἀγαθοῖς ἀνδράσιν ἔσται , ὅταν κιθαρῳδὸν οὕτως ἐπαινῇς ; ν",
+      "translation": "In answer to a man who praised a harper and expressed amazement at his ability , he said , My good sir , what honours shall you be able to offer to good men when you have such praise for a harper ?"
+    },
+    {
+      "id": "20.1",
+      "label": "Section 20.1",
+      "chapter": null,
+      "original": "Ἀρχίδαμος ὁ Ἀγησιλάου , Φιλίππου μετὰ τὴν ἐν Χαιρωνείᾳ μάχην σκληροτέραν αὐτῷ ἐπιστολὴν 218f γράψαντος , ἀντέγραψεν , εἰ μετρήσαις τὴν σαυτοῦ σκιάν , οὐκ ἂν εὕροις αὐτὴν μείζονα γεγενημένην ἢ πρὶν νικᾶν .",
+      "translation": "Archidamus , the son of Agesilaus , when Philip after the battle of Chaeroneia , wrote him a somewhat haughty letter , wrote in reply , If you should measure your own shadow , you would not find that it has become any greater than before you were victorious ."
+    },
+    {
+      "id": "20.2",
+      "label": "Section 20.2",
+      "chapter": null,
+      "original": "ἐρωτηθεὶς δὲ πόσης χώρας κρατοῦσιν οἱ Σπαρτιᾶται , ὅσης ἄν , ἔφη , τῷ δόρατι ἐφίκωνται .",
+      "translation": "Being asked how much land the Spartans controlled , he said , As much as they can reach with the spear . [*]"
+    },
+    {
+      "id": "21.1",
+      "label": "Section 21.1",
+      "chapter": null,
+      "original": "Ἀστυκρατίδας , εἰπόντος τινὸς αὐτῷ μετὰ τὸ ἡττηθῆναι Ἆγιν τὸν βασιλέα ἐν τῇ πρὸς Ἀντίπατρον μάχῃ περὶ Μεγάλην πόλιν , τί ποιήσετε , ὦ Λακεδαιμόνιοι ; ἦ δουλεύσετε Μακεδόσιν ; εἶπε , τί δέ ; κωλῦσαι ἂν δύναιτο Ἀντίπατρος μαχομένους ἡμᾶς ἀποθανεῖν ὑπὲρ τῆς Σπάρτης ;",
+      "translation": "When someone said to Astycratidas , after the defeat of Agis their king in the battle against Antipater in the vicinity of Megalopolis , What will you do , men of Sparta ? Will you be subject to the Macedonians ? he said , What ! Is there any way in which Antipater can forbid us to die fighting for Sparta ?"
+    },
+    {
+      "id": "22.1",
+      "label": "Section 22.1",
+      "chapter": null,
+      "original": "219c βίας [*] ἐνεδρευθεὶς ὑπὸ Ἰφικράτους τοῦ Ἀθηναίων στρατηγοῦ καὶ ἐρωτώμενος ὑπὸ τῶν στρατιωτῶν τί δεῖ ποιεῖν , τί γὰρ ἄλλο , ἔφη , ἢ ὑμᾶς μὲν σῴζεσθαι , ἐμὲ δὲ μαχόμενον ἀποθανεῖν ; ν",
+      "translation": "Bias , caught in an ambush by Iphicrates the Athenian general , and asked by his soldiers what was to be done , said , What else except for you to save your lives and for me to die fighting ?"
+    },
+    {
+      "id": "23.1",
+      "label": "Section 23.1",
+      "chapter": null,
+      "original": "Βρασίδας ἐν ἰσχάσι συλλαβὼν μῦν καὶ δηχθεὶς ἀφῆκεν εἶτα πρὸς τοὺς παρόντας , οὐδὲν οὕτως , ἔφη , μικρόν ἐστιν , ὃ οὐ [*] σῴζεται τολμῶν ἀμύνεσθαι τοὺς ἐπιχειροῦντας .",
+      "translation": "Brasidas caught a mouse among some figs , and , when he got bitten , let it go . Then , turning to those who were present , he said , There is nothing so small that it does not save its life if it has the courage to defend itself against those who would lay hand on it . [*]"
+    },
+    {
+      "id": "23.2",
+      "label": "Section 23.2",
+      "chapter": null,
+      "original": "ἐν δέ τινι μάχῃ διὰ τῆς ἀσπίδος ἀκοντισθεὶς καὶ τὸ δόρυ τοῦ τραύματος ἐξελκύσας αὐτῷ τούτῳ 219d τὸν πολέμιον ἀπέκτεινε · καὶ πῶς ἐτρώθη ἐρωτηθείς , προδούσης με , ἔφη , τῆς ἀσπίδος .",
+      "translation": "In a battle he was wounded by a spear which pierced his shield , and , pulling the weapon out of the wound , with this very spear he slew his foe . Asked how he got his wound , he said , ’ Twas when my shield turned traitor . [*]"
+    },
+    {
+      "id": "24.1",
+      "label": "Section 24.1",
+      "chapter": null,
+      "original": "Δαμωνίδας ταχθεὶς ἔσχατος τοῦ χοροῦ ὑπὸ τοῦ τὸν χορὸν ἱστῶντος , εὖγε , εἶπεν , ὦ χοραγέ , ἐξεῦρες πῶς καὶ αὕτη ἡ χώρα ἄτιμος οὖσα ἔντιμος γένηται .",
+      "translation": "Damonidas , being assigned to the last place in the chorus by the director , exclaimed , Good ! You have discovered , sir , how this place which is without honour may be made a place of honour . [*]"
+    },
+    {
+      "id": "25.1",
+      "label": "Section 25.1",
+      "chapter": null,
+      "original": "Δᾶμις πρὸς τὰ ἐπισταλέντα παρὰ τοῦ Ἀλεξάνδρου θεὸν εἶναι ψηφίσασθαι , συγχωροῦμεν , ἔφη , Ἀλεξάνδρῳ , ἐὰν θέλῃ , θεὸς καλεῖσθαι .",
+      "translation": "Damis , with reference to the instructions sent from Alexander that they should pass a formal vote deifying him , said , We concede to Alexander that , if he so wishes , he may be called a god . [*]"
+    },
+    {
+      "id": "26.1",
+      "label": "Section 26.1",
+      "chapter": null,
+      "original": "219f Δαμίνδας , [*] Φιλίππου ἐμβαλόντος εἰς Πελοπόννησον καὶ εἰπόντος τινός , κινδυνεύουσι δεινὰ παθεῖν Λακεδαιμόνιοι , εἰ μὴ τὰς πρὸς αὐτὸν διαλλαγὰς ποιήσονται , ἀνδρόγυνε , εἶπε , τί δʼ ἂν πάθοιμεν δεινὸν θανάτου καταφρονήσαντες ; ν",
+      "translation": "When Philip invaded the Peloponnesus , and someone said , There is danger that the Spartans may meet a dire fate if they do not make terms with the invader , Damindas exclaimed , You poor womanish thing ! What dire fate could be ours if we have no fear of death ?"
+    },
+    {
+      "id": "27.1",
+      "label": "Section 27.1",
+      "chapter": null,
+      "original": "Δερκυλίδας , Πύρρου τὴν στρατιὰν ἐπὶ τῆς Σπαρτιάτιδος ἔχοντος , πεμφθεὶς πρὸς αὐτὸν πρεσβευτής , τοῦ Πύρρου προστάττοντος καταδέχεσθαι τὸν βασιλέα αὐτῶν Κλεώνυμον ἢ γνώσεσθαι ὡς οὐδενὸς τῶν ἄλλων ἀνδρειότεροι τυγχάνουσιν , ὑποτυχὼν εἶπεν , εἰ μὲν θεός ἐστιν , οὐ φοβούμεθα τοῦτον · οὐδὲν γὰρ ἀδικοῦμεν εἰ δὲ ἄνθρωπος , οὐχ ἡμῶν γε κρείττων .",
+      "translation": "Dercylidas , when Pyrrhus had his army near Sparta , [*] was sent to him as ambassador ; and when Pyrrhus stated that they must receive their king Cleonymus , or they would find out that they were no braver than any of the rest , Dercylidas interrupted to say , If this man is a god , we do not fear him , for we are guilty of no wrong ; but if he is a man , he is surely not superior to us ."
+    },
+    {
+      "id": "28.1",
+      "label": "Section 28.1",
+      "chapter": null,
+      "original": "Δημάρατος , [*] Ὀρόντου πρὸς αὐτὸν σκληρότερον 220a ὁμιλήσαντος καὶ εἰπόντος τινός , σκληρῶς σοι κέχρηται Ὀρόντης , ὦ Δημάρατε , οὐδὲν ἥμαρτεν εἰς ἐμέ , εἶπεν οἱ γὰρ πρὸς χάριν ὁμιλοῦντες βλάπτουσιν , οὐχ οἱ μετὰ ἀπεχθείας .",
+      "translation": "Demaratus , when Orontes had talked to him rather haughtily and someone remarked , Orontes has treated you haughtily , Demaratus , said , He has committed no fault against me ; for it is those who talk to please that do harm , not those who talk with hatred at heart ."
+    },
+    {
+      "id": "28.2",
+      "label": "Section 28.2",
+      "chapter": null,
+      "original": "ἐρωτήσαντος δέ τινος διὰ τί τοὺς μὲν τὰς ἀσπίδας παρʼ αὐτοῖς ἀποβαλόντας ἀτιμοῦσι , τοὺς δὲ τὰ κράνη καὶ τοὺς θώρακας οὐκέτι , ὅτι , ἔφη , ταῦτα μὲν ἑαυτῶν χάριν περιτίθενται , τὴν δὲ ἀσπίδα τῆς κοινῆς τάξεως ἕνεκα .",
+      "translation": "When someone asked why they visited disgrace upon those among them who lost their shields , but did not do the same thing to those who lost their helmets or their breastplates , he said , Because these they put on for their own sake , but the shield for the common good of the whole line ."
+    },
+    {
+      "id": "29.1",
+      "label": "Section 29.1",
+      "chapter": null,
+      "original": "Ἐκπρέπης [*] ἔφορος Φρύνιδος τοῦ μουσικοῦ σκεπάρνῳ τὰς δύο τῶν ἐννέα χορδῶν [*] ἐξέτεμεν , εἰπών , μὴ κακούργει τὴν μουσικήν .",
+      "translation": "Ecprepes , an Ephor , cut out with an adze two of the nine strings of Phrynis the musician , saying , Do not murder music . [*]"
+    },
+    {
+      "id": "30.1",
+      "label": "Section 30.1",
+      "chapter": null,
+      "original": "Ἐπαίνετος πάντων ἔφη τοὺς ψεύστας τῶν ἁμαρτημάτων καὶ τῶν ἀδικημάτων αἰτίους εἶναι .",
+      "translation": "Epaenetus said that liars are to blame for all sins and crimes ."
+    },
+    {
+      "id": "31.1",
+      "label": "Section 31.1",
+      "chapter": null,
+      "original": "220d Εὐβοίδας ἀκούων τινῶν ἐπαινούντων γυναῖκα ἀλλοτρίαν οὐκ ἀπεδέχετο , φήσας , ὅλως περὶ γυναικείας φύσεως παρὰ τοῖς ἔξω λόγον εἶναι οὐδένα δεῖ .",
+      "translation": "Euboedas , on hearing some men praising the wife of another man , could not stomach it , saying , In regard to a woman ’ s endowments there should be absolutely no talk among those outside the family . [*]"
+    },
+    {
+      "id": "32.1",
+      "label": "Section 32.1",
+      "chapter": null,
+      "original": "Εὐδαμίδας ὁ Ἀρχιδάμου , ἀδελφὸς δὲ Ἄγιδος , ἰδὼν Ξενοκράτην ἐν Ἀκαδημείᾳ [*] πρεσβύτερον ἤδη μετὰ τῶν γνωρίμων φιλοσοφοῦντα , ἐπύθετο τίς ὁ πρεσβύτης · φαμένου δέ τινος ὅτι σοφὸς ἀνὴρ καὶ τῶν ζητούντων τὴν ἀρετήν , καὶ πότε , ἔφη , χρήσεται αὐτῇ , ἐὰν ἄρτι ζητῇ ;",
+      "translation": "Eudamidas , the son of Archidamus and the brother of Agis , seeing Xenocrates in the Academy , already well oil in years , discussing philosophy with his acquaintances , inquired who the old man was . Somebody said that he was a wise man and one of the seekers after virtue . And when will he use it , said Eudamidas , if he is only now seeking for it ? a"
+    },
+    {
+      "id": "32.2",
+      "label": "Section 32.2",
+      "chapter": null,
+      "original": "220e ἀκούσας δὲ φιλοσόφου διαλεχθέντος ὅτι μόνος ἀγαθὸς στρατηγὸς ὁ σοφός ἐστιν , ὁ μὲν λόγος , ἔφη , θαυμαστός · ὁ δὲ λέγων ἄπιστος · οὐ γὰρ περισεσάλπισται . [*]",
+      "translation": "Hearing a philosopher discoursing to the effect that the wise man is the only good general , he said , The speech is admirable , but the speaker is not to be trusted ; for he has never been amid the blare of trumpets . [*]"
+    },
+    {
+      "id": "33.1",
+      "label": "Section 33.1",
+      "chapter": null,
+      "original": "221b Εὐρυκρατίδας ὁ Ἀναξανδρίδου , πυθομένου τινὸς διὰ τί τὰ περὶ [*] τῶν συμβολαίων δίκαια ἑκάστης ἡμέρας κρίνουσιν οἱ ἔφοροι , ὅπως , ἔφη , καὶ ἐν τοῖς πολεμίοις πιστεύωμεν ἀλλήλοις .",
+      "translation": "Eurycratidas , the son of Anaxandridas , when someone inquired why the Ephors try cases involving contracts [*] each day , said , So that also amid our enemies we may trust one another ."
+    },
+    {
+      "id": "34.1",
+      "label": "Section 34.1",
+      "chapter": null,
+      "original": "Ζευξίδαμος , πυνθανομένου τινὸς διὰ τ ι τοὺς περὶ τῆς ἀνδρείας νόμους ἀγράφους τηροῦσι καὶ τοῖς νέοις ἀπογραψάμενοι οὐ διδόασιν ἀναγινώσκειν , 221c ὅτι , ἔφη , συνεθίζεσθαι δεῖ [*] ταῖς ἀνδραγαθίαις κρεῖττον ὂν [*] ἢ ταῖς γραφαῖς προσέχειν .",
+      "translation": "When someone inquired why they kept the laws in regard to bravery unwritten , and did not have them written down and thus give them to the young men to read , Zeuxidamus said , Because the young ought to accustom themselves to deeds of manly valour , a better thing than to apply their mind to writings ."
+    },
+    {
+      "id": "34.2",
+      "label": "Section 34.2",
+      "chapter": null,
+      "original": "Αἰτωλοῦ δέ τινος λέγοντος ὅτι τοῖς ἀνδραγαθεῖν δυναμένοις κρείττων τῆς εἰρήνης ὁ πόλεμος , οὐ μὰ τοὺς θεούς , ἔφη , ἀλλὰ τούτοις κρείττων ὁ θάνατος τῆς ζωῆς .",
+      "translation": "When a certain Aetolian asserted that , for those who are able to play the part of real men , war is better than peace , Zeuxidamus said , By Heaven , no ; but for such men death is better than life ."
+    },
+    {
+      "id": "35.1",
+      "label": "Section 35.1",
+      "chapter": null,
+      "original": "Ἡρώνδας , Ἀθήνησιν ἁλόντος τινὸς γραφὴν ἀργίας , παρὼν καὶ πυθόμενος ἐκέλευσεν ἐπιδεῖξαι αὑτῷ τὸν τὴν ἐλευθερίας δίκην ἡττηθέντα .",
+      "translation": "Herondas was at Athens when a man there was found guilty on a charge of not having any occupation , [*] and , when he heard of this , he bade them point out to him the man who had been convicted of the freeman ’ s crime ! [*]"
+    },
+    {
+      "id": "36.1",
+      "label": "Section 36.1",
+      "chapter": null,
+      "original": "Θεαρίδας ξίφος ἀκονῶν ἠρωτήθη εἰ ὀξύ ἐστιν , καὶ εἶπεν , ὀξύτερον διαβολῆς .",
+      "translation": "Thearidas , as he was whetting his sword , was asked if it was sharp , and he replied , Sharper than slander ."
+    },
+    {
+      "id": "37.1",
+      "label": "Section 37.1",
+      "chapter": null,
+      "original": "Θεμιστέας [*] προεῖπε μὲν Λεωνίδᾳ τῷ βασιλεῖ τὴν 221d γενησομένην ἀπώλειαν περὶ Θερμοπύλας αὐτοῦ τε καὶ τῶν συστρατευομένων αὐτῷ , μάντις ὤν · ἀποπεμπόμενος δὲ ὑπὸ τοῦ Λεωνίδα εἰς τὴν Λακεδαίμονα προφάσει τοῦ ἀπαγγεῖλαι τὰ συμβησόμενα , ταῖς δʼ ἀληθείαις ἵνα μὴ παραπόληται , οὐκ ἠνέσχετο ἀλλʼ εἶπε , μαχητὴς ἐπέμφθην οὐκ ἀγγελιαφόρος .",
+      "translation": "Themisteas foretold to Leonidas , the king , the coming destruction both of himself and of his fellowsoldiers at Thermopylae , for he was a prophet . He was sent away by Leonidas to Sparta , on the pretext of announcing there what would come to pass , but in reality so that he should not suffer death with the rest . He , however , would not brook this , but said , I was sent out to fight , not to carry messages . [*]"
+    },
+    {
+      "id": "38.1",
+      "label": "Section 38.1",
+      "chapter": null,
+      "original": "Θεόπομπος πρὸς τὸν ἐρωτήσαντα πῶς ἄν τις ἀσφαλέστατα τηροίη τὴν βασιλείαν , εἰ τοῖς μὲν φίλοις , ἔφη , μεταδιδοίη παρρησίας δικαίας , τοὺς δὲ ἀρχομένους κατὰ δύναμιν μὴ περιορῴη ἀδικουμένους .",
+      "translation": "Theopompus , in answer to a man who asked how anyone could keep a kingdom most securely , said , If he concede to his friends their just share of frank speech , and , so far as lies in his power , do not suffer any of his subjects to be wronged ."
+    },
+    {
+      "id": "38.2",
+      "label": "Section 38.2",
+      "chapter": null,
+      "original": "πρὸς δὲ τὸν ξένον τὸν λέγοντα ὅτι παρὰ τοῖς 221e αὑτοῦ πολίταις καλεῖται φιλολάκων , κρεῖττον , ἔφη , ἦν σε φιλοπολίτην ἢ φιλολάκωνα καλεῖσθαι .",
+      "translation": "In answer to a man from abroad who said that among his own citizens he was called a lover of Sparta , he said , It would be better to be called a lover of your own country than a lover of Sparta ."
+    },
+    {
+      "id": "39.1",
+      "label": "Section 39.1",
+      "chapter": null,
+      "original": "Θωρυκίων ἐκ Δελφῶν παραγενόμενος , ἰδὼν τὸ Φιλίππου στρατόπεδον ἐν Ἰσθμῷ τὰ στενὰ κατειληφότος , [*] κακούς , ἔφη , πυλωροὺς ὑμᾶς , ὦ Κορίνθιοι , ἡ Πελοπόννησος ἔχει .",
+      "translation": "Thorycion , arriving from Delphi and seeing in the Isthmus the forces of Philip , who had already gained possession of the narrow entrance , said , The Peloponnesus has poor gate-keepers in you , men of Corinth !"
+    },
+    {
+      "id": "40.1",
+      "label": "Section 40.1",
+      "chapter": null,
+      "original": "Θεκταμένης , καταγνόντων αὐτοῦ θάνατον τῶν ἐφόρων , ἀπῄει μειδιῶν καί τινος τῶν παρόντων ἐρωτήσαντος εἰ καὶ καταφρονεῖ τῶν τῆς Σπάρτης νομίμων , οὐχί , εἶπεν , ἀλλὰ γέγηθα ὅτι δεῖ με τὴν ζημίαν ἐκτεῖσαι ταύτην , παρʼ οὐδενὸς οὔτε τι αἰτήσαντα [*] οὔτε δανεισάμενον .",
+      "translation": "Thectamenes , when the Ephors condemned him to death , went away smiling . Someone among the bystanders asked him if he felt such contempt for the laws of Sparta . No , said he , but I rejoice to think that I must pay this penalty myself without begging or borrowing anything from anybody . [*]"
+    },
+    {
+      "id": "41.1",
+      "label": "Section 41.1",
+      "chapter": null,
+      "original": "222a Ἱππόδαμος , ὅτε Ἆγις Ἀρχιδάμῳ παρετάττετο , συμπεμφθεὶς [*] τῷ Ἄγιδι εἰς Σπάρτην ἐκεῖ τὰς χρείας παρέχεσθαι , ἀλλʼ οὗτος , ἔφη , οὔτοι καλλίω [*] θάνατον ἀποθανοῦμαι ἢ [*] ὑπὲρ Σπάρτας ἀνδραγαθῶν · ἦν δὲ βεβιωκὼς ὑπὲρ τὰ ὀγδοήκοντα ἔτη · καὶ μετὰ ταῦτα λαβὼν τὰ ὅπλα καὶ στὰς ἐν δεξιᾷ τοῦ βασιλέως , μαχόμενος ἀποθνῄσκει .",
+      "translation": "Hippodamus , when Agis was taking his place on the field of battle beside Archidamus , was sent with Agis to Sparta to render his services there . But look you , said he , I shall meet no more honourable death than in playing the part of a brave man for Sparta ’ s sake . ( He was over eighty years old .) And thereupon , seizing his arms and taking his stand at the king ’ s right hand , he fell fighting ."
+    },
+    {
+      "id": "42.1",
+      "label": "Section 42.1",
+      "chapter": null,
+      "original": "Ἱπποκρατίδας πρὸς τὸν τῆς Καρίας σατράπην ἐπιστείλαντα δι ὅ τι Λακεδαιμόνιος ἀνὴρ ἐπίβουλευόντων 222b τινῶν συνειδὼς τὴν ἐπιβουλὴν κατεσιώπησε , καὶ προσθέντα [*] πῶς χρήσεται αὐτῷ , ἀντέγραψεν , εἰ μὲν μέγα τι ἀγαθὸν αὐτὸν πεποίηκας , κατάκτανε · εἰ δὲ μή , ἐκ τῆς χώρας ἔκβαλε δειλὸν πρὸς ἀρετὴν ὄντα .",
+      "translation": "This is the answer of Hippocratidas to the governor of Caria who wrote a letter to him because a man from Sparta had been privy to the plot of certain conspirators , and had said nothing about it ; and the governor added a line , asking how he should deal with him . Hippocratidas wrote in reply : If you have done him any great favour , put him to death ; but if not , expel him from your country , for he is a poltroon so far as any virtue is concerned ."
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": "apophthegmata-laconica-3p477v-2"
+}

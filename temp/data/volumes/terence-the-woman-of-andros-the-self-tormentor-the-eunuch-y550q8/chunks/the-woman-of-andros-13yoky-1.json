@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "terence-the-woman-of-andros-the-self-tormentor-the-eunuch-y550q8",
+  "volumeTitle": "The Woman of Andros. The Self-Tormentor. The Eunuch",
+  "authorDisplay": "Terence",
+  "authors": [
+    "Terence"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-woman-of-andros-13yoky-1",
+  "label": "The Woman of Andros (Section front.cast - Section 1.1.135)",
+  "partId": "the-woman-of-andros-13yoky",
+  "partTitle": "The Woman of Andros",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Andria",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi001.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Andria; or, The Fair Andrian",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi001.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "front.cast",
+      "label": "Section front.cast",
+      "chapter": null,
+      "original": "FABULAE INTERLOCUTORES .\n\nBYRRHIA , servus . CHARINTUS , adolescens . CHREMES , senex . CRITO , hospes . DAVUS , servus . DROMO , lorarius . GLYCERIUM , meretrix . LESBIA , obstetrix . MYSIS , ancilla . PAMPHILUS , adolescens . SIMO , senex . SOSIA , libertus .",
+      "translation": "Dramatis Personae SIMO , [*] an aged Athenian . PAMPHILUS , [*] son of Simo . SOSIA , [*] freedman of Simo . CHREMES , [*] an aged Athenian . CHARINUS , [*] a young Athenian , in love with Philumena . CRITO , [*] a native of Andros . DAVUS , [*] servant of Simo . DROMO , [*] servant of Simo . BYRRHIA , [*] servant of Charinus . GLYCERIUM , [*] a young woman beloved by Pamphilus . MYSIS , [*] her maid-servant . LESBIA [*] a midwife ."
+    },
+    {
+      "id": "front.production",
+      "label": "Section front.production",
+      "chapter": null,
+      "original": "ANDRIA . ACTA LUDIS MEGALENSIB M . FULVIO ET M . GLABRIONE AEDILIB . CURULIB . EGERUNT L . AMBIVIUS TURPIO , L . ATTILIUS PRAENESTINUS . MODOS FECIT FLACCUS CLAUDII FILIUS , TIBIIS PARIBUS DEXTRIS ET SINISTRIS . ET EST TOTA GRAECA . EDITA M . MARCELLO , CN . SULPITIO COSS .",
+      "translation": "THE TITLE OF THE PLAY .\nPERFORMED at the Megalensian Games ; [*] M . Fulvius and M . Glabrio being Curule Aediles . [*] Ambivius Turpio and Lucius Atilius Praenestinus [*] performed it . Flaccus , the freedman of Claudius , [*] composed the music , to a pair of treble flutes and bass flutes [*] alternately . And it is entirely Grecian . [*] Published — M . Marcellus and Cneius Sulpicius being Consuls . [*]"
+    },
+    {
+      "id": "1.prologue.1",
+      "label": "Section 1.prologue.1",
+      "chapter": null,
+      "original": "Poeta quum primum animum ad scribendum appulit ,",
+      "translation": "THE POET , when first he applied his mind to writing , thought that the only duty which devolved on him was , that the Plays he should compose might please the public . But he perceives that it has fallen out entirely otherwise ;"
+    },
+    {
+      "id": "1.prologue.5",
+      "label": "Section 1.prologue.5",
+      "chapter": null,
+      "original": "Nam in prologis scribundis operam abutitur ,",
+      "translation": "for he is wasting his labor in writing Prologues , not for the purpose of relating the plot , but to answer the slanders of a malevolent old Poet . [*] Now I beseech you , give your attention to the thing which they impute as a fault . Menander composed the Andrian [*] and the Perinthian . [*]"
+    },
+    {
+      "id": "1.prologue.10",
+      "label": "Section 1.prologue.10",
+      "chapter": null,
+      "original": "Qui utramvis recte norit ambas noverit .",
+      "translation": "He who knows either of them well , will know them both ; they are in plot not very different , and yet they have been composed in different language and style . What suited , he confesses he has transferred into the Andrian from the Perinthian , and has employed them as his own ."
+    },
+    {
+      "id": "1.prologue.15",
+      "label": "Section 1.prologue.15",
+      "chapter": null,
+      "original": "Id isti vituperant factum ; atque in eo disputant ,",
+      "translation": "These parties censure this proceeding ; and on this point they differ from him , that Plays ought not to be mixed up together . By being thus knowing , do they not show that they know nothing at all ? For while they are censuring him , they are censuring Naevius , Plautus , and Ennius , [*] whom our Poet has for his precedents ;"
+    },
+    {
+      "id": "1.prologue.20",
+      "label": "Section 1.prologue.20",
+      "chapter": null,
+      "original": "Quorum aemulari exoptat negligentiam",
+      "translation": "whose carelessness he prefers to emulate , rather than the mystifying carefulness [*] of those parties . Therefore , I advise them to be quiet in future , and to cease to slander ; that they may not be made acquainted with their own misdeeds . Be well disposed , then ; attend with unbiased mind , and consider the matter ,"
+    },
+    {
+      "id": "1.prologue.25",
+      "label": "Section 1.prologue.25",
+      "chapter": null,
+      "original": "Ut pernoscatis , ecquid spei sit reliquum ,",
+      "translation": "that you may determine what hope is left ; whether the Plays which he shall in future compose anew , are to be witnessed , or are rather to be driven off the stage ."
+    },
+    {
+      "id": "1.1.28",
+      "label": "Section 1.1.28",
+      "chapter": null,
+      "original": "Vos istaec intro auferte : abite . Sosia ,",
+      "translation": "Do you carry those things away in-doors ; begone . ( Beckoning to SOSIA .) Sosia , just step here ; I want a few words with you ."
+    },
+    {
+      "id": "1.1.29b",
+      "label": "Section 1.1.29b",
+      "chapter": null,
+      "original": "Dictum puta :",
+      "translation": "Consider it as said ;"
+    },
+    {
+      "id": "1.1.30",
+      "label": "Section 1.1.30",
+      "chapter": null,
+      "original": "Nempe ut curentur recte haec .",
+      "translation": "that these things are to be taken care of , I suppose . [*]"
+    },
+    {
+      "id": "1.1.30b",
+      "label": "Section 1.1.30b",
+      "chapter": null,
+      "original": "Immo aliud .",
+      "translation": "No , it ’ s another matter ."
+    },
+    {
+      "id": "1.1.30c",
+      "label": "Section 1.1.30c",
+      "chapter": null,
+      "original": "Quid est",
+      "translation": "What is there that my ability can effect for you more than this ?"
+    },
+    {
+      "id": "1.1.32",
+      "label": "Section 1.1.32",
+      "chapter": null,
+      "original": "Nihil istac opus est arte ad hanc rem quam paro :",
+      "translation": "There ’ s no need of that ability in the matter which I have in hand ; but of those qualities which I have ever known as existing in you , fidelity and secrecy ."
+    },
+    {
+      "id": "1.1.34b",
+      "label": "Section 1.1.34b",
+      "chapter": null,
+      "original": "Exspecto quid velis .",
+      "translation": "I await your will ."
+    },
+    {
+      "id": "1.1.35",
+      "label": "Section 1.1.35",
+      "chapter": null,
+      "original": "Ego postquam te emi , a parvulo ut semper tibi",
+      "translation": "Since I purchased you , you know that , from a little child , your servitude with me has always been easy and light . From a slave I made you my freedman ; [*] for this reason , because you served me with readiness . The greatest recompense that I possessed , I bestowed upon you ."
+    },
+    {
+      "id": "1.1.40",
+      "label": "Section 1.1.40",
+      "chapter": null,
+      "original": "In memoria habeo .",
+      "translation": "I bear it in mind ."
+    },
+    {
+      "id": "1.1.40b",
+      "label": "Section 1.1.40b",
+      "chapter": null,
+      "original": "Haud muto factum .",
+      "translation": "I am not changed ."
+    },
+    {
+      "id": "1.1.40c",
+      "label": "Section 1.1.40c",
+      "chapter": null,
+      "original": "Gaudeo",
+      "translation": "If I have done or am doing aught that is pleasing to you , Simo , I am glad that it has been done ; and that the same has been gratifying to you , I consider sufficient thanks . But this is a cause of uneasiness to me ; for the recital is , as it were , a censure [*] to one forgetful of a kindness ."
+    },
+    {
+      "id": "1.1.45",
+      "label": "Section 1.1.45",
+      "chapter": null,
+      "original": "Quin tu uno verbo dic quid est quod me velis .",
+      "translation": "But tell me , in one word , what it is that you want with me ."
+    },
+    {
+      "id": "1.1.46",
+      "label": "Section 1.1.46",
+      "chapter": null,
+      "original": "Ita faciam : hoc primum in hac re praedico tibi ;",
+      "translation": "I ’ ll do so . In the first place , in this affair I give you notice : this , which you suppose to be such , is not a real marriage ."
+    },
+    {
+      "id": "1.1.48",
+      "label": "Section 1.1.48",
+      "chapter": null,
+      "original": "Cur simulas igitur ?",
+      "translation": "Why do you pretend it then ?"
+    },
+    {
+      "id": "1.1.48b",
+      "label": "Section 1.1.48b",
+      "chapter": null,
+      "original": "Rem omnem a principio audies ;",
+      "translation": "You shall hear all the matter from the beginning ; by that means you ’ ll be acquainted with both my son ’ s mode of life and my own design ,"
+    },
+    {
+      "id": "1.1.50",
+      "label": "Section 1.1.50",
+      "chapter": null,
+      "original": "Cognosces , et quid facere in hac re te velim .",
+      "translation": "and what I want you to do in this affair . For after he had passed youthfulness , [*] Sosia , and had obtained free scope of living , ( for before , how could you know or understand his disposition , while youthful age , fear , and a master [*] were checking him ?)—"
+    },
+    {
+      "id": "1.1.54b",
+      "label": "Section 1.1.54b",
+      "chapter": null,
+      "original": "Ita est .",
+      "translation": "That ’ s true ."
+    },
+    {
+      "id": "1.1.55",
+      "label": "Section 1.1.55",
+      "chapter": null,
+      "original": "Quod plerique omnes faciunt adolescentuli ,",
+      "translation": "What all young men , for the most part , do ,— devote their attention to some particular pursuit , either to training horses or dogs for hunting , or to the philosophers ; [*] in not one of these did he engage in particular beyond the rest , and yet in all of them in a moderate degree ."
+    },
+    {
+      "id": "1.1.60",
+      "label": "Section 1.1.60",
+      "chapter": null,
+      "original": "Gaudebam .",
+      "translation": "I was pleased ."
+    },
+    {
+      "id": "1.1.60b",
+      "label": "Section 1.1.60b",
+      "chapter": null,
+      "original": "Non iniuria : nam id arbitror",
+      "translation": "Not without reason ; for this I deem in life to be especially advantageous ; that one do nothing to excess . [*]"
+    },
+    {
+      "id": "1.1.62",
+      "label": "Section 1.1.62",
+      "chapter": null,
+      "original": "Sic vita erat : facile omnes perferre ac pati",
+      "translation": "Such was his mode of life ; readily to bear and to comply with all ; with whomsoever he was in company , to them to resign himself ; to devote himself to their pursuits ; at variance with no one ;"
+    },
+    {
+      "id": "1.1.65",
+      "label": "Section 1.1.65",
+      "chapter": null,
+      "original": "Nunquam praeponens se illis : ita facillime",
+      "translation": "never preferring himself to them . Thus most readily you may acquire praise without envy , and gain friends ."
+    },
+    {
+      "id": "1.1.67",
+      "label": "Section 1.1.67",
+      "chapter": null,
+      "original": "Sapienter vitam instituit : namque hoc tempore",
+      "translation": "He has wisely laid down his rule of life ; for in these days obsequiousness begets friends ; sincerity , dislike ."
+    },
+    {
+      "id": "1.1.69",
+      "label": "Section 1.1.69",
+      "chapter": null,
+      "original": "Interea mulier quaedam abhinc triennium",
+      "translation": "Meanwhile , three years ago , [*] a certain woman"
+    },
+    {
+      "id": "1.1.70",
+      "label": "Section 1.1.70",
+      "chapter": null,
+      "original": "Ex Andro commigravit huc viciniae ,",
+      "translation": "from Andros removed hither into this neighborhood , driven by poverty and the neglect of her relations , of surpassing beauty and in the bloom of youth ."
+    },
+    {
+      "id": "1.1.73",
+      "label": "Section 1.1.73",
+      "chapter": null,
+      "original": "Hei vereor ne quid Andria apportet mali .",
+      "translation": "Ah ! I ’ m afraid that this Andrian will bring some mischief ."
+    },
+    {
+      "id": "1.1.74",
+      "label": "Section 1.1.74",
+      "chapter": null,
+      "original": "Primum haec pudice vitam parce ac duriter",
+      "translation": "At first , in a modest way , she passed her life with thriftiness and in hardship ,"
+    },
+    {
+      "id": "1.1.75",
+      "label": "Section 1.1.75",
+      "chapter": null,
+      "original": "Agebat , lana ac tela victum quaeritans .",
+      "translation": "seeking a livelihood with her wool and loom . But after an admirer made advances , promising her a recompense , first one and then another ; as the disposition of all mankind has a downward tendency from industry toward pleasure , she accepted their proposals , and then began to trade upon her beauty ."
+    },
+    {
+      "id": "1.1.80",
+      "label": "Section 1.1.80",
+      "chapter": null,
+      "original": "Qui tum illam amabant forte , ita ut fit , filium",
+      "translation": "Those who then were her admirers , by chance , as it often happens , took my son thither that he might be in their company . Forthwith I said to myself , He is surely caught ; he is smitten . [*] In the morning I used to observe their servant-boys coming or going away ; I used to make inquiry , Here , my lad ,"
+    },
+    {
+      "id": "1.1.85",
+      "label": "Section 1.1.85",
+      "chapter": null,
+      "original": "Dic sodes , quis heri Chrysidem habuit ? Nam Andriae",
+      "translation": "tell me , will you , who had Chrysis yesterday ? for that was the name of the Andrian ."
+    },
+    {
+      "id": "1.1.86b",
+      "label": "Section 1.1.86b",
+      "chapter": null,
+      "original": "Teneo .",
+      "translation": "I understand ."
+    },
+    {
+      "id": "1.1.86c",
+      "label": "Section 1.1.86c",
+      "chapter": null,
+      "original": "Phaedrum , aut Cliniam",
+      "translation": "Phaedrus , or Clinias , or Niceratus , they used to say ; for these three then loved her at the same time . Well now , what did Pamphilus do ? What ? He gave his contribution ; [*] he took part in the dinner . Just so on another day"
+    },
+    {
+      "id": "1.1.90",
+      "label": "Section 1.1.90",
+      "chapter": null,
+      "original": "Quaerebam : comperiebam nihil ad Pamphilum",
+      "translation": "I made inquiry , but I discovered nothing whatever that affected Pamphilus . In fact , I thought him sufficiently proved , and a great pattern of continence ; for he who is brought into contact with dispositions of that sort , and his feelings are not aroused even under such circumstances ,"
+    },
+    {
+      "id": "1.1.95",
+      "label": "Section 1.1.95",
+      "chapter": null,
+      "original": "Scias posse habere iam ipsum suae vitae modum .",
+      "translation": "you may be sure that he is already capable of undertaking the governance of his own life . This pleased me , and every body with one voice began to say all kinds of flattering things , and to extol my good fortune , in having a son endowed with such a disposition . What need is there of talking ? Chremes , influenced by this report ,"
+    },
+    {
+      "id": "1.1.100",
+      "label": "Section 1.1.100",
+      "chapter": null,
+      "original": "Ultro ad me venit unicam gnatam suam",
+      "translation": "came to me of his own accord , to offer his only daughter as a wife to my son , with a very large portion . It pleased me ; I betrothed him ; this was the day appointed for the nuptials ."
+    },
+    {
+      "id": "1.1.103",
+      "label": "Section 1.1.103",
+      "chapter": null,
+      "original": "Quid obstat cur non verae fiant ?",
+      "translation": "What then stands in the way ? Why should they not take place ?"
+    },
+    {
+      "id": "1.1.103b",
+      "label": "Section 1.1.103b",
+      "chapter": null,
+      "original": "Audies .",
+      "translation": "You shall hear . In about a few days after these things had been agreed on ,"
+    },
+    {
+      "id": "1.1.105",
+      "label": "Section 1.1.105",
+      "chapter": null,
+      "original": "Chrysis vicina haec moritur .",
+      "translation": "Chrysis , this neighbor , dies ."
+    },
+    {
+      "id": "1.1.105b",
+      "label": "Section 1.1.105b",
+      "chapter": null,
+      "original": "O factum bene !",
+      "translation": "Bravo ! You ’ ve made me happy . I was afraid for him on account of Chrysis ."
+    },
+    {
+      "id": "1.1.106b",
+      "label": "Section 1.1.106b",
+      "chapter": null,
+      "original": "Ibi tum filius",
+      "translation": "Then my son was often there , with those who had admired Chrysis ; with them he took charge of the funeral ; sorrowful , in the mean time , he sometimes wept with them in condolence . Then that pleased me ."
+    },
+    {
+      "id": "1.1.110",
+      "label": "Section 1.1.110",
+      "chapter": null,
+      "original": "Sic cogitabam ; Hic , parvae consuetudinis",
+      "translation": "Thus I reflected : He by reason of this slight intimacy takes her death so much to heart ; what if he himself had wooed her ? What will he do for me his father ? All these things I took to be the duties of a humane disposition and of tender feelings . Why do I detain you with many words ?"
+    },
+    {
+      "id": "1.1.115",
+      "label": "Section 1.1.115",
+      "chapter": null,
+      "original": "Egomet quoque eius causa in funus prodeo ,",
+      "translation": "Even I myself , [*] for his sake , went forth to the funeral , as yet suspecting no harm ."
+    },
+    {
+      "id": "1.1.116b",
+      "label": "Section 1.1.116b",
+      "chapter": null,
+      "original": "Hem , quid est ?",
+      "translation": "Ha ! what is this ?"
+    },
+    {
+      "id": "1.1.116c",
+      "label": "Section 1.1.116c",
+      "chapter": null,
+      "original": "Scies .",
+      "translation": "You shall know . She is brought out ; we proceed . In the mean time , among the females who were there present , I saw by chance one young woman of beauteous form ."
+    },
+    {
+      "id": "1.1.119b",
+      "label": "Section 1.1.119b",
+      "chapter": null,
+      "original": "Bona fortasse .",
+      "translation": "Very likely ."
+    },
+    {
+      "id": "1.1.119c",
+      "label": "Section 1.1.119c",
+      "chapter": null,
+      "original": "Et vultu , Sosia ,",
+      "translation": "And of countenance , Sosia ,"
+    },
+    {
+      "id": "1.1.120",
+      "label": "Section 1.1.120",
+      "chapter": null,
+      "original": "Adeo modesto , adeo venusto , ut nihil supra .",
+      "translation": "so modest , so charming , that nothing could surpass . As she appeared to me to lament beyond the rest , and as she was of a figure handsome and genteel beyond the other women , I approached the female attendants ; [*] I inquired who she was . They said that she was the sister of Chrysis ."
+    },
+    {
+      "id": "1.1.125",
+      "label": "Section 1.1.125",
+      "chapter": null,
+      "original": "Percussit illico animum : at at ! hoc illud est ,",
+      "translation": "It instantly struck my mind : Ay , ay , this is it ; hence those tears , hence that sympathy ."
+    },
+    {
+      "id": "1.1.127",
+      "label": "Section 1.1.127",
+      "chapter": null,
+      "original": "Quam timeo , quorsum evadas .",
+      "translation": "How I dread what you are coming to !"
+    },
+    {
+      "id": "1.1.127b",
+      "label": "Section 1.1.127b",
+      "chapter": null,
+      "original": "Funus interim",
+      "translation": "The funeral procession meanwhile advances ; we follow ; we come to the burying-place . [*] She is placed upon the pile ; they weep . In the mean time , this sister ,"
+    },
+    {
+      "id": "1.1.130",
+      "label": "Section 1.1.130",
+      "chapter": null,
+      "original": "Quam dixi ad flammam accessit imprudentius ,",
+      "translation": "whom I mentioned , approached the flames too incautiously , with considerable danger . There , at that moment , Pamphilus , in his extreme alarm , discovers his well-dissembled and long-hidden passion ; he runs up , clasps the damsel by the waist . My Glycerium , says he , what are you doing ? Why are you going to destroy yourself ."
+    },
+    {
+      "id": "1.1.135",
+      "label": "Section 1.1.135",
+      "chapter": null,
+      "original": "Tum illa , ut consuetum facile amorem cerneres ,",
+      "translation": "Then she , so that you might easily recognize their habitual attachment , weeping , threw herself back upon him — how affectionately !"
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": "the-woman-of-andros-13yoky-2"
+}

@@ -1,0 +1,325 @@
+{
+  "loebNumber": 201,
+  "sortOrder": 201,
+  "slug": "plato-charmides-alcibiades-i-and-ii-hipparchus-the-lovers-theages-minos-epinomis-19hxmc",
+  "title": "Charmides. Alcibiades I and II. Hipparchus. The Lovers. Theages. Minos. Epinomis",
+  "volumeLabel": "Charmides. Alcibiades I and II. Hipparchus. The Lovers. Theages. Minos. Epinomis",
+  "authorDisplay": "Plato",
+  "authors": [
+    "Plato"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Charmides. Alcibiades I and II. Hipparchus. The Lovers. Theages. Minos. Epinomis, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "charmides-1n735t",
+  "readyChunkCount": 8,
+  "contents": [
+    {
+      "id": "charmides-1n735t",
+      "title": "Charmides",
+      "status": "ready",
+      "sectionCount": 24,
+      "chunkSlug": "charmides-1n735t",
+      "chunks": [
+        {
+          "slug": "charmides-1n735t",
+          "label": "Charmides",
+          "partId": "charmides-1n735t",
+          "partTitle": "Charmides",
+          "sectionCount": 24,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "alcibiades-i-and-ii-e3wliv",
+      "title": "Alcibiades I and II",
+      "status": "ready",
+      "sectionCount": 47,
+      "chunkSlug": "alcibiades-i-d0hucy",
+      "chunks": [
+        {
+          "slug": "alcibiades-i-d0hucy",
+          "label": "Alcibiades I",
+          "partId": "alcibiades-i-and-ii-e3wliv",
+          "partTitle": "Alcibiades I and II",
+          "sectionCount": 33,
+          "status": "ready"
+        },
+        {
+          "slug": "alcibiades-ii-1c9svb",
+          "label": "Alcibiades II",
+          "partId": "alcibiades-i-and-ii-e3wliv",
+          "partTitle": "Alcibiades I and II",
+          "sectionCount": 14,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "hipparchus-1jh763",
+      "title": "Hipparchus",
+      "status": "ready",
+      "sectionCount": 8,
+      "chunkSlug": "hipparchus-1jh763",
+      "chunks": [
+        {
+          "slug": "hipparchus-1jh763",
+          "label": "Hipparchus",
+          "partId": "hipparchus-1jh763",
+          "partTitle": "Hipparchus",
+          "sectionCount": 8,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "the-lovers-10rtfr",
+      "title": "The Lovers",
+      "status": "ready",
+      "sectionCount": 8,
+      "chunkSlug": "the-lovers-10rtfr",
+      "chunks": [
+        {
+          "slug": "the-lovers-10rtfr",
+          "label": "The Lovers",
+          "partId": "the-lovers-10rtfr",
+          "partTitle": "The Lovers",
+          "sectionCount": 8,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "theages-57awpx",
+      "title": "Theages",
+      "status": "ready",
+      "sectionCount": 11,
+      "chunkSlug": "theages-57awpx",
+      "chunks": [
+        {
+          "slug": "theages-57awpx",
+          "label": "Theages",
+          "partId": "theages-57awpx",
+          "partTitle": "Theages",
+          "sectionCount": 11,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "minos-189jme",
+      "title": "Minos",
+      "status": "ready",
+      "sectionCount": 9,
+      "chunkSlug": "minos-189jme",
+      "chunks": [
+        {
+          "slug": "minos-189jme",
+          "label": "Minos",
+          "partId": "minos-189jme",
+          "partTitle": "Minos",
+          "sectionCount": 9,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "epinomis-1pk0l2",
+      "title": "Epinomis",
+      "status": "ready",
+      "sectionCount": 20,
+      "chunkSlug": "epinomis-1pk0l2",
+      "chunks": [
+        {
+          "slug": "epinomis-1pk0l2",
+          "label": "Epinomis",
+          "partId": "epinomis-1pk0l2",
+          "partTitle": "Epinomis",
+          "sectionCount": 20,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "charmides-1n735t",
+      "label": "Charmides",
+      "partId": "charmides-1n735t",
+      "partTitle": "Charmides",
+      "sectionCount": 24,
+      "status": "ready"
+    },
+    {
+      "slug": "alcibiades-i-d0hucy",
+      "label": "Alcibiades I",
+      "partId": "alcibiades-i-and-ii-e3wliv",
+      "partTitle": "Alcibiades I and II",
+      "sectionCount": 33,
+      "status": "ready"
+    },
+    {
+      "slug": "alcibiades-ii-1c9svb",
+      "label": "Alcibiades II",
+      "partId": "alcibiades-i-and-ii-e3wliv",
+      "partTitle": "Alcibiades I and II",
+      "sectionCount": 14,
+      "status": "ready"
+    },
+    {
+      "slug": "hipparchus-1jh763",
+      "label": "Hipparchus",
+      "partId": "hipparchus-1jh763",
+      "partTitle": "Hipparchus",
+      "sectionCount": 8,
+      "status": "ready"
+    },
+    {
+      "slug": "the-lovers-10rtfr",
+      "label": "The Lovers",
+      "partId": "the-lovers-10rtfr",
+      "partTitle": "The Lovers",
+      "sectionCount": 8,
+      "status": "ready"
+    },
+    {
+      "slug": "theages-57awpx",
+      "label": "Theages",
+      "partId": "theages-57awpx",
+      "partTitle": "Theages",
+      "sectionCount": 11,
+      "status": "ready"
+    },
+    {
+      "slug": "minos-189jme",
+      "label": "Minos",
+      "partId": "minos-189jme",
+      "partTitle": "Minos",
+      "sectionCount": 9,
+      "status": "ready"
+    },
+    {
+      "slug": "epinomis-1pk0l2",
+      "label": "Epinomis",
+      "partId": "epinomis-1pk0l2",
+      "partTitle": "Epinomis",
+      "sectionCount": 20,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "charmides-1n735t",
+      "partTitle": "Charmides",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Χαρμίδης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg018.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Charmides",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg018.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "alcibiades-i-d0hucy",
+      "partTitle": "Alcibiades I and II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀλκιβιάδης αʹ",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg013.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Alcibiades 1",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg013.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "alcibiades-ii-1c9svb",
+      "partTitle": "Alcibiades I and II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀλκιβιάδης βʹ",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg014.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Alcibiades 2",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "hipparchus-1jh763",
+      "partTitle": "Hipparchus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἵππαρχος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg015.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Hipparchus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-lovers-10rtfr",
+      "partTitle": "The Lovers",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἐρασταί",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg016.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Lovers",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "theages-57awpx",
+      "partTitle": "Theages",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Θεάγης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg017.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Theages",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "minos-189jme",
+      "partTitle": "Minos",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Μίνως",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg033.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Minos",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg033.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "epinomis-1pk0l2",
+      "partTitle": "Epinomis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἐπινομίς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg035.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Epinomis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg035.perseus-eng2/"
+      }
+    }
+  ]
+}

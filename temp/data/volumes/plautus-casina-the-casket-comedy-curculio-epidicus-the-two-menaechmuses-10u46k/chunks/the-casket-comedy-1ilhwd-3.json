@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-casina-the-casket-comedy-curculio-epidicus-the-two-menaechmuses-10u46k",
+  "volumeTitle": "Casina. The Casket Comedy. Curculio. Epidicus. The Two Menaechmuses",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-casket-comedy-1ilhwd-3",
+  "label": "The Casket Comedy (Section 2.1.505b - Section 2.3.595b)",
+  "partId": "the-casket-comedy-1ilhwd",
+  "partTitle": "The Casket Comedy",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Cistellaria",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi007.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Cistellaria, or The Casket",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi007.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "2.1.505b",
+      "label": "Section 2.1.505b",
+      "chapter": null,
+      "original": "Inter novam rem verbum usurpabo vetus :",
+      "translation": "Under new circumstances I ’ ll use an old proverb : What I have given , I wish I had not given ; what ’ s left , that I shall not give ."
+    },
+    {
+      "id": "2.1.507",
+      "label": "Section 2.1.507",
+      "chapter": null,
+      "original": "Non remissura es mihi illam ?",
+      "translation": "Won ’ t you restore her again to me ?"
+    },
+    {
+      "id": "2.1.507b",
+      "label": "Section 2.1.507b",
+      "chapter": null,
+      "original": "Pro me responsas tibi .",
+      "translation": "Answer yourself for me ."
+    },
+    {
+      "id": "2.1.508",
+      "label": "Section 2.1.508",
+      "chapter": null,
+      "original": "Non remittes ?",
+      "translation": "You won ’ t restore her then ?"
+    },
+    {
+      "id": "2.1.508b",
+      "label": "Section 2.1.508b",
+      "chapter": null,
+      "original": "Scis iam dudum omnem meam sententiam .",
+      "translation": "You know the whole of my resolution already ."
+    },
+    {
+      "id": "2.1.509",
+      "label": "Section 2.1.509",
+      "chapter": null,
+      "original": "Satin istuc tibi in corde certumst ?",
+      "translation": "Is that quite resolved upon by you in your heart ?"
+    },
+    {
+      "id": "2.1.509b",
+      "label": "Section 2.1.509b",
+      "chapter": null,
+      "original": "Quin ego commentor quidem .",
+      "translation": "Why , in fact , I ’ m thinking about something else ;"
+    },
+    {
+      "id": "2.1.510",
+      "label": "Section 2.1.510",
+      "chapter": null,
+      "original": "Non edepol ego istaec tua dicta nunc in auris recipio .",
+      "translation": "i ’ faith , I don ’ t at present catch these words of yours with my ears ."
+    },
+    {
+      "id": "2.1.511",
+      "label": "Section 2.1.511",
+      "chapter": null,
+      "original": "Non ? hem , quid agis igitur ? animum advorte iam , ut quid agas scias .",
+      "translation": "Not hear ? Why , what are you doing ?"
+    },
+    {
+      "id": "2.1.512",
+      "label": "Section 2.1.512",
+      "chapter": null,
+      "original": "At ita me di deaeque , superi atque inferi et medioxumi ,",
+      "translation": "Then , so may the Gods and Goddesses of above and below , and of middle rank [*] , and so may Juno the queen and the daughter [*] of supreme Jove , and so may Saturn his uncle —"
+    },
+    {
+      "id": "2.1.514b",
+      "label": "Section 2.1.514b",
+      "chapter": null,
+      "original": "Ecastor pater .",
+      "translation": "I ’ troth , his father —"
+    },
+    {
+      "id": "2.1.515",
+      "label": "Section 2.1.515",
+      "chapter": null,
+      "original": "Itaque me Ops opulenta illius avia —",
+      "translation": "And so may Ops the opulent , his grandam —"
+    },
+    {
+      "id": "2.1.515b",
+      "label": "Section 2.1.515b",
+      "chapter": null,
+      "original": "Immo mater quidem .",
+      "translation": "Indeed , his mother , rather ."
+    },
+    {
+      "id": "2.1.516",
+      "label": "Section 2.1.516",
+      "chapter": null,
+      "original": "Iuno filia et Saturnus patruos et summus Iuppiter —",
+      "translation": "Juno his daughter , and Saturn his uncle , supreme Jove — You are maddening me ; it ’ s through you I make these mistakes ."
+    },
+    {
+      "id": "2.1.517b",
+      "label": "Section 2.1.517b",
+      "chapter": null,
+      "original": "Perge dicere .",
+      "translation": "Go on saying so ."
+    },
+    {
+      "id": "2.1.518",
+      "label": "Section 2.1.518",
+      "chapter": null,
+      "original": "Anne etiam , ut quid consultura sis sciam , pérgis eloqui ?",
+      "translation": "Is it that I ’ m to know [*] what conclusion you are going to come to ?"
+    },
+    {
+      "id": "2.1.519",
+      "label": "Section 2.1.519",
+      "chapter": null,
+      "original": "Non remittam . definitumst .",
+      "translation": "Go on talking ; I shall not send her back , that ’ s resolved upon ."
+    },
+    {
+      "id": "2.1.519b",
+      "label": "Section 2.1.519b",
+      "chapter": null,
+      "original": "Enim vero ita me Iuppiter",
+      "translation": "Why then , so may Jupiter ,"
+    },
+    {
+      "id": "2.1.520",
+      "label": "Section 2.1.520",
+      "chapter": null,
+      "original": "itaque me Iuno itaque Ianus ita — quid dicam nescio .",
+      "translation": "and so may Juno and Saturn , to me , so may — I don ’ t know what to say — Now I know — Yes , madam , listen , that you may know my mind ; may all the Deities , great and small , and those honored with the platter [*] ⋯ cause me not surviving to give a kiss this day to Silenium , if I don ’ t this very day murder you and your daughter and myself ,"
+    },
+    {
+      "id": "2.1.525",
+      "label": "Section 2.1.525",
+      "chapter": null,
+      "original": "poste autem cum primo luci cras nisi ambo occidero ,",
+      "translation": "and after that , with the break of day , if I don ’ t to-morrow kill you both , and indeed , by all the powers , if at the third onset I don ’ t demolish you all , if you don ’ t send her back to me . I ’ ve said what I intended . Farewell ."
+    },
+    {
+      "id": "2.1.528",
+      "label": "Section 2.1.528",
+      "chapter": null,
+      "original": "Abiit intro iratus . quid ego nunc agam ? si redierit",
+      "translation": "He ’ s gone in-doors in a rage . What shall I do now ? If she comes back to him , matters will be just in the same position . When satiety begins to take possession ;"
+    },
+    {
+      "id": "2.1.530",
+      "label": "Section 2.1.530",
+      "chapter": null,
+      "original": "illam extrudet , tum hanc uxorem Lemniam ducet domum .",
+      "translation": "he ’ ll be turning her out of doors , when he shall be bringing home this Lemnian wife . But still I ’ ll go and follow him ; there ’ s necessity for caution , lest he , in love , should be doing some mischief . In fine , since with strict justice a poor person ’ s not allowed to contend with a rich one , I ’ ll lose my labour rather than lose my daughter . But who ’ s this that straight along the street is directing his course this way ?"
+    },
+    {
+      "id": "2.1.535",
+      "label": "Section 2.1.535",
+      "chapter": null,
+      "original": "et illud paveo et hoc formido , ita tota sum misera in metu .",
+      "translation": "Both the other matter do I fear , and this do I dread ; so utterly in trepidation am wretched I ."
+    },
+    {
+      "id": "2.2.536",
+      "label": "Section 2.2.536",
+      "chapter": null,
+      "original": "Anum sectatus sum clamore per vias ,",
+      "translation": "I ’ ve followed the old woman with my clamour through the streets ; I ’ ve kept her most dreadfully plagued . In what a multitude of ways has she , this day , kept guard upon herself , and been able to remember nothing . How many alluring things , what advantages I ’ ve promised her ."
+    },
+    {
+      "id": "2.2.540",
+      "label": "Section 2.2.540",
+      "chapter": null,
+      "original": "quot admoenivi fabricas , quot fallacias",
+      "translation": "How many inventions I ’ ve applied to her , how many stratagems in questioning her . With difficulty have I extorted it from her that she should tell me , because I promised to give her a cask of wine ."
+    },
+    {
+      "id": "2.3.543",
+      "label": "Section 2.3.543",
+      "chapter": null,
+      "original": "Audire vocem visa sum ante aedis modo",
+      "translation": "I seemed just now to be hearing the voice of my servant Lampadiscus before the house ."
+    },
+    {
+      "id": "2.3.544b",
+      "label": "Section 2.3.544b",
+      "chapter": null,
+      "original": "Non surda es , era :",
+      "translation": "You are not deaf , mistress , you heard aright ."
+    },
+    {
+      "id": "2.3.545b",
+      "label": "Section 2.3.545b",
+      "chapter": null,
+      "original": "Quid agis hic ?",
+      "translation": "What are you doing here ?"
+    },
+    {
+      "id": "2.3.545c",
+      "label": "Section 2.3.545c",
+      "chapter": null,
+      "original": "Quod gaudeas .",
+      "translation": "A thing for you to rejoice at ."
+    },
+    {
+      "id": "2.3.546",
+      "label": "Section 2.3.546",
+      "chapter": null,
+      "original": "Quid id est ?",
+      "translation": "What ’ s that ?"
+    },
+    {
+      "id": "2.3.546b",
+      "label": "Section 2.3.546b",
+      "chapter": null,
+      "original": "Hinc ex hisce aedibus paulo prius",
+      "translation": "A little while ago , I saw a woman coming out of that house there ."
+    },
+    {
+      "id": "2.3.547b",
+      "label": "Section 2.3.547b",
+      "chapter": null,
+      "original": "Illam quae meam",
+      "translation": "Her that took up my daughter ?"
+    },
+    {
+      "id": "2.3.548b",
+      "label": "Section 2.3.548b",
+      "chapter": null,
+      "original": "Rem tenes .",
+      "translation": "You have the matter rgiht ."
+    },
+    {
+      "id": "2.3.548c",
+      "label": "Section 2.3.548c",
+      "chapter": null,
+      "original": "Quid postea ?",
+      "translation": "What after that ?"
+    },
+    {
+      "id": "2.3.549",
+      "label": "Section 2.3.549",
+      "chapter": null,
+      "original": "Dico éi , quo pacto eam ab hippodromo viderim",
+      "translation": "I told her in what way I had seen her take up the daughter of my mistress from the Hippodrome ."
+    },
+    {
+      "id": "2.3.551",
+      "label": "Section 2.3.551",
+      "chapter": null,
+      "original": "extimuit tum illa .",
+      "translation": "Then she was in a fright ."
+    },
+    {
+      "id": "2.3.551b",
+      "label": "Section 2.3.551b",
+      "chapter": null,
+      "original": "Iam horret corpus , cor salit .",
+      "translation": "( apart .) Now my body ’ s in a shudder , my heart is throbbing ; for I recollect that from the Hippodrome the little female infant was brought to me , and that I brought it up as my own ."
+    },
+    {
+      "id": "2.3.554",
+      "label": "Section 2.3.554",
+      "chapter": null,
+      "original": "Age perge , quaeso . ánimus audire expetit",
+      "translation": "Come , prithee , do go on ; my soul ’ s longing to hear"
+    },
+    {
+      "id": "2.3.555",
+      "label": "Section 2.3.555",
+      "chapter": null,
+      "original": "ut gesta res sit .",
+      "translation": "how the matter proceeded ."
+    },
+    {
+      "id": "2.3.555b",
+      "label": "Section 2.3.555b",
+      "chapter": null,
+      "original": "Vtinam audire non queas .",
+      "translation": "( apart .) I only wish you couldn ’ t hear ."
+    },
+    {
+      "id": "2.3.556",
+      "label": "Section 2.3.556",
+      "chapter": null,
+      "original": "Pergo illa m onerare dictis : “ illaec ted anus",
+      "translation": "I proceed ⋯ saying [*] , This old woman calls you her daughter wrongfully . ⋯ For this woman here is your foster-mother , so don ’ t think she is your mother . I ’ m to take you back and invite you to opulence , where you may be settled in a noble family ,"
+    },
+    {
+      "id": "2.3.560",
+      "label": "Section 2.3.560",
+      "chapter": null,
+      "original": "ubi tu locere in luculentam familiam ,",
+      "translation": "where your father may present you with twenty great talents for a portion . For this is not a place where after the Etrurian mode [*] you are disgracefully to earn a dowry for yourself by prostitution of your person ."
+    },
+    {
+      "id": "2.3.564",
+      "label": "Section 2.3.564",
+      "chapter": null,
+      "original": "An , amabo , meretrix illa est quae illam sustulit ?",
+      "translation": "Is she , pray , a Courtesan , who took it up ?"
+    },
+    {
+      "id": "2.3.565",
+      "label": "Section 2.3.565",
+      "chapter": null,
+      "original": "Immo meretrix fuit ; sed ut sit dé ea re , eloquar .",
+      "translation": "Yes , she was a Courtesan . But how it happened , I ’ ll tell you about that matter . I was now winning her over to me by my persuasion . The old woman embraced her knees , weeping and entreating that she would not forsake her ; saying that she was her own daughter ; and she took a solemn oath to me that she herself had borne her ."
+    },
+    {
+      "id": "2.3.570",
+      "label": "Section 2.3.570",
+      "chapter": null,
+      "original": "istanc quam quaeris inquit “ ego amicae meae",
+      "translation": "Her , said she , whom you are in search of , I gave to a friend of mine to bring her up as her own daughter ; and she is alive , said she . Where is she ? immediately said I ."
+    },
+    {
+      "id": "2.3.573",
+      "label": "Section 2.3.573",
+      "chapter": null,
+      "original": "Servate di med obsecro .",
+      "translation": "Preserve me , ye Gods , I do entreat you ."
+    },
+    {
+      "id": "2.3.573b",
+      "label": "Section 2.3.573b",
+      "chapter": null,
+      "original": "At me perditis .",
+      "translation": "But me you are undoing !"
+    },
+    {
+      "id": "2.3.574",
+      "label": "Section 2.3.574",
+      "chapter": null,
+      "original": "Quoi illam dedisset exquisisse oportuit .",
+      "translation": "You ought to have enquired to whom she gave it ."
+    },
+    {
+      "id": "2.3.575",
+      "label": "Section 2.3.575",
+      "chapter": null,
+      "original": "Quaesivi , et dixit meretrici Melaenidi .",
+      "translation": "I did enquire , and she said to the Courtesan Melaenis ."
+    },
+    {
+      "id": "2.3.576",
+      "label": "Section 2.3.576",
+      "chapter": null,
+      "original": "Meum elocutust nomen , interii oppido .",
+      "translation": "He has mentioned my name ? I ’ m utterly undone !"
+    },
+    {
+      "id": "2.3.577",
+      "label": "Section 2.3.577",
+      "chapter": null,
+      "original": "Vbi elocuta est , ego continuo anum interrogo ;",
+      "translation": "When she mentioned her , I straightway asked , Where does she live ? said I ; take and show me . She has been carried off hence , says she , to live abroad ."
+    },
+    {
+      "id": "2.3.579b",
+      "label": "Section 2.3.579b",
+      "chapter": null,
+      "original": "Obsipat",
+      "translation": "He ’ s sprinkling [*] a little cold water now ."
+    },
+    {
+      "id": "2.3.580b",
+      "label": "Section 2.3.580b",
+      "chapter": null,
+      "original": "Quo avecta est , eo sequemur . sicine",
+      "translation": "Wherever she has been carried off , thither we will follow . Do you trifle in this fashion ? You are undone , if , i ’ faith , you don ’ t disclose this . I insisted to such a degree , that the old woman swore that she would soon inform me ."
+    },
+    {
+      "id": "2.3.584b",
+      "label": "Section 2.3.584b",
+      "chapter": null,
+      "original": "Át non missam oportuit .",
+      "translation": "But you oughtn ’ t to have let her go ."
+    },
+    {
+      "id": "2.3.585",
+      "label": "Section 2.3.585",
+      "chapter": null,
+      "original": "Servatur . sed illaec se quandam aibat mulierem",
+      "translation": "She ’ s all safe ; but she said that she wished first to meet a certain woman , a friend of hers , with whom this was a matter of interest in common , and I ’ m sure she ’ ll come ."
+    },
+    {
+      "id": "2.3.588b",
+      "label": "Section 2.3.588b",
+      "chapter": null,
+      "original": "Me indicabit , et suas",
+      "translation": "She ’ ll be discovering me , and adding her own distress to mine ."
+    },
+    {
+      "id": "2.3.591",
+      "label": "Section 2.3.591",
+      "chapter": null,
+      "original": "Quid nunc vis facere me ?",
+      "translation": "Make me acquainted what you now wish me to do ."
+    },
+    {
+      "id": "2.3.591b",
+      "label": "Section 2.3.591b",
+      "chapter": null,
+      "original": "Intro abi atque animo bono es .",
+      "translation": "Go in-doors , and be of good heart . If your husband shall come , bid him wait at home , lest he should be required by me , if I want him for anything . I ’ m going to run back to the old woman ."
+    },
+    {
+      "id": "2.3.594b",
+      "label": "Section 2.3.594b",
+      "chapter": null,
+      "original": "Lampadio , obsecro ,",
+      "translation": "Lampadio , prithee , do take care ."
+    },
+    {
+      "id": "2.3.595b",
+      "label": "Section 2.3.595b",
+      "chapter": null,
+      "original": "Perfectum ego hoc dabo negotium .",
+      "translation": "I ’ ll have this matter well managed ."
+    }
+  ],
+  "prevChunkSlug": "the-casket-comedy-1ilhwd-2",
+  "nextChunkSlug": "the-casket-comedy-1ilhwd-4"
+}

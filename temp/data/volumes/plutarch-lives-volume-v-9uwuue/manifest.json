@@ -1,0 +1,211 @@
+{
+  "loebNumber": 87,
+  "sortOrder": 87,
+  "slug": "plutarch-lives-volume-v-9uwuue",
+  "title": "Lives, Volume V",
+  "volumeLabel": "Lives, Volume V",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Lives, Volume V. Lives, Volume V opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "marcus-cato-z3r7ee",
+  "readyChunkCount": 6,
+  "contents": [
+    {
+      "id": "lives-volume-v-jo9imj",
+      "title": "Lives, Volume V",
+      "status": "ready",
+      "sectionCount": 224,
+      "chunkSlug": "marcus-cato-z3r7ee",
+      "chunks": [
+        {
+          "slug": "marcus-cato-z3r7ee",
+          "label": "Marcus Cato",
+          "partId": "lives-volume-v-jo9imj",
+          "partTitle": "Lives, Volume V",
+          "sectionCount": 54,
+          "status": "ready"
+        },
+        {
+          "slug": "comparison-of-aristides-and-marcus-cato-u7opa5",
+          "label": "Comparison of Aristides and Marcus Cato",
+          "partId": "lives-volume-v-jo9imj",
+          "partTitle": "Lives, Volume V",
+          "sectionCount": 12,
+          "status": "ready"
+        },
+        {
+          "slug": "philopoemen-87s1gk",
+          "label": "Philopoemen",
+          "partId": "lives-volume-v-jo9imj",
+          "partTitle": "Lives, Volume V",
+          "sectionCount": 42,
+          "status": "ready"
+        },
+        {
+          "slug": "titus-flamininus-hksee5",
+          "label": "Titus Flamininus",
+          "partId": "lives-volume-v-jo9imj",
+          "partTitle": "Lives, Volume V",
+          "sectionCount": 42,
+          "status": "ready"
+        },
+        {
+          "slug": "comparison-of-philopoemen-and-titus-17o86g",
+          "label": "Comparison of Philopoemen and Titus",
+          "partId": "lives-volume-v-jo9imj",
+          "partTitle": "Lives, Volume V",
+          "sectionCount": 6,
+          "status": "ready"
+        },
+        {
+          "slug": "pyrrhus-ps1m4d",
+          "label": "Pyrrhus",
+          "partId": "lives-volume-v-jo9imj",
+          "partTitle": "Lives, Volume V",
+          "sectionCount": 68,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "marcus-cato-z3r7ee",
+      "label": "Marcus Cato",
+      "partId": "lives-volume-v-jo9imj",
+      "partTitle": "Lives, Volume V",
+      "sectionCount": 54,
+      "status": "ready"
+    },
+    {
+      "slug": "comparison-of-aristides-and-marcus-cato-u7opa5",
+      "label": "Comparison of Aristides and Marcus Cato",
+      "partId": "lives-volume-v-jo9imj",
+      "partTitle": "Lives, Volume V",
+      "sectionCount": 12,
+      "status": "ready"
+    },
+    {
+      "slug": "philopoemen-87s1gk",
+      "label": "Philopoemen",
+      "partId": "lives-volume-v-jo9imj",
+      "partTitle": "Lives, Volume V",
+      "sectionCount": 42,
+      "status": "ready"
+    },
+    {
+      "slug": "titus-flamininus-hksee5",
+      "label": "Titus Flamininus",
+      "partId": "lives-volume-v-jo9imj",
+      "partTitle": "Lives, Volume V",
+      "sectionCount": 42,
+      "status": "ready"
+    },
+    {
+      "slug": "comparison-of-philopoemen-and-titus-17o86g",
+      "label": "Comparison of Philopoemen and Titus",
+      "partId": "lives-volume-v-jo9imj",
+      "partTitle": "Lives, Volume V",
+      "sectionCount": 6,
+      "status": "ready"
+    },
+    {
+      "slug": "pyrrhus-ps1m4d",
+      "label": "Pyrrhus",
+      "partId": "lives-volume-v-jo9imj",
+      "partTitle": "Lives, Volume V",
+      "sectionCount": 68,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "marcus-cato-z3r7ee",
+      "partTitle": "Lives, Volume V",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Μάρκος Κάτων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg025.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Marcus Cato",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg025.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "comparison-of-aristides-and-marcus-cato-u7opa5",
+      "partTitle": "Lives, Volume V",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀριστείδου καὶ Κάτωνος σύγκρισις",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg026.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Comparison of Aristides and Marcus Cato",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg026.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "philopoemen-87s1gk",
+      "partTitle": "Lives, Volume V",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Philopoemen",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg027.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Philopoemen",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg027.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "titus-flamininus-hksee5",
+      "partTitle": "Lives, Volume V",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Titus Flamininus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg028.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Titus Flamininus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg028.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "comparison-of-philopoemen-and-titus-17o86g",
+      "partTitle": "Lives, Volume V",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Comparison of Philopoemen and Titus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg029.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Comparison of Philopoemen and Titus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg029.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pyrrhus-ps1m4d",
+      "partTitle": "Lives, Volume V",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pyrrhus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg030.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pyrrhus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg030.perseus-eng2/"
+      }
+    }
+  ]
+}

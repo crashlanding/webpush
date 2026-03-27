@@ -1,0 +1,87 @@
+{
+  "volumeSlug": "lucian-volume-ii-ep2r6e",
+  "volumeTitle": "Volume II",
+  "authorDisplay": "Lucian",
+  "authors": [
+    "Lucian"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "halcyon-12ygix",
+  "label": "Halcyon",
+  "partId": "volume-ii-1wz28q",
+  "partTitle": "Volume II",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἀλκυών",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0061.tlg004.1st1K-grc1/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "The Halcyon",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0061.tlg004.perseus-eng1/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1",
+      "label": "Section 1",
+      "chapter": null,
+      "original": "Χαιρεφῶν Τίς ἡ φωνὴ προσέβαλεν ἡμῖν , ὦ Σώκρατες , πόρρωθεν ἀπὸ τῶν αἰγιαλῶν καὶ τῆς ἄκρας ἐκείνης ; ὡς ἡδεῖα ταῖς ἀκοαῖς . τί ποτ ’ ἄρ ’ ἐστὶ τὸ φθεγγόμενον ζῷον ; ἄφωνα γὰρ δὴ τά γε καθ ’ ὕδατος διαιτώμενα .\n\n177\n\nΣωκράτης Θαλαττία τις , ὦ Χαιρεφῶν , ὄρνις ἀλκυὼν ὀνομαζομένη , πολύθρηνος καὶ πολύδακρυς , περὶ ἧς δὴ παλαιὸς ἀνθρώποις μεμύθευται λόγος · φασὶ γυναῖκά ποτε οὖσαν Αἰόλου τοῦ Ἕλληνος θυγατέρα κουρίδιον ἄνδρα 178 τὸν αὐτῆς τεθνεῶτα θρηνεῖν πόθῳ φιλίας , Κήϋκα τὸν Τραχίνιον τὸν Ἑωσφόρου τοῦ ἀστέρος , καλοῦ πατρὸς καλὸν υἱόν · εἶτα δὴ πτερωθεῖσαν διά τινα δαιμονίαν βούλησιν εἰς ὄρνιθος τρόπον περιπέτεσθαι τὰ πελάγη ζητοῦσαν ἐκεῖνον , ἐπειδὴ πλαζομένη γῆν περὶ πᾶσαν οὐχ οἵα τ ’ ἦν εὑρεῖν .",
+      "translation": "Chairephon What is the cry , Sokrates , that comes to us from the distant breakers on the headland yonder ? How sweet it sounds ! What creature has such a note as that ? Surely the water-fowl are voiceless .\nSokrates Nay , it is a sea-bird , Chairephon , called the halcyon , full of plaints and tears , and a legend about her has long been current among men . They say that she was once a woman , the daughter of Aiolos , son of Hellen , and married to Ceyx the Trachinian , who was the son of the Morning-star , fair son of a fair father . And when her young husband died she mourned for him , longing for his love . Then by some god ' s will ( they say ) she took on the feathery guise of a bird , and flits about the seas seeking him ; for she could not find him on the land , though she searched the world over ."
+    },
+    {
+      "id": "2",
+      "label": "Section 2",
+      "chapter": null,
+      "original": "Χαιρεφῶν Ἀλκυὼν τοῦτ ’ ἔστιν , ὃ σὺ φής ; οὐ πώποτε πρόσθεν ἠκηκόειν τῆς φωνῆς , ἀλλά μοι ξένη τις τῷ ὄντι προσέπεσε · γοώδη γοῦν ὡς ἀληθῶς τὸν ἦχον ἀφίησι τὸ ζῷον . πηλίκον δέ τι καὶ ἔστιν , ὦ Σώκρατες ;\n\nΣωκράτης Οὐ μέγα · μεγάλην μέντοι διὰ τὴν φιλανδρίαν εἴληφε παρὰ θεῶν τιμήν · ἐπὶ γὰρ τῇ τούτων νεοττίᾳ καὶ τὰς ἀλκυονίδας προσαγορευομένας ἡμέρας ὁ κόσμος ἄγει κατὰ χειμῶνα μέσον διαφερούσας ταῖς εὐδίαις , ὧν ἐστι 179 καὶ ἡ τήμερον παντὸς μᾶλλον . οὐχ ὁρᾷς ὡς αἴθρια μὲν τὰ ἄνωθεν , ἀκύμαντον δὲ καὶ γαλήνιον ἅπαν τὸ πέλαγος , ὅμοιον ὡς εἰπεῖν κατόπτρῳ ;\n\nΧαιρεφῶν Λέγεις ὀρθῶς · φαίνεται γὰρ ἀλκυονὶς ἡ τήμερον ὑπάρχειν ἡμέρα , καὶ χθὲς δὲ τοιαύτη τις ἦν . ἀλλὰ πρὸς θεῶν , πῶς ποτε χρὴ πεισθῆναι τοῖς ἐξ ἀρχῆς , ὦ Σώκρατες , ὡς ἐξ ὀρνίθων γυναῖκές ποτε ἐγένοντο ἢ ὄρνιθες ἐκ γυναικῶν ; παντὸς γὰρ μᾶλλον ἀδύνατον φαίνεται πᾶν τὸ τοιοῦτον .",
+      "translation": "Chairephon Is this , then , the halcyon ? I had never heard the note before , and it fell upon my ear like something quite new . Certainly the How large a creature sings a mournful song . bird may it be , Sokrates ? v.1.p.284\nSokrates Small , and yet her wifely love won great honor from the gods ; for in the nestingtime of these birds the world observes the \" halcyon days ,\" as they are called , which bring an interval of fine weather in midwinter . To-day is a perfect example of them . Do you not see how clear the air is ? and the expanse of sea , how waveless and calm ! Like a mirror , one might say .\nChairephon Yes ; this certainly seems to be a halcyon day , and yesterday was just such another . But tell me , Sokrates , how in the name of the gods can we possibly believe those old stories that tell of birds changing into women or women into birds ? All those things seem to the last degree impossible ."
+    },
+    {
+      "id": "3",
+      "label": "Section 3",
+      "chapter": null,
+      "original": "Σωκράτης Ὦ φίλε Χαιρεφῶν , ἐοίκαμεν ἡμεῖς τῶν δυνατῶν τε καὶ ἀδυνάτων ἀμβλυωποί τινες εἶναι κριταὶ παντελῶς · δοκιμάζομεν γὰρ δὴ κατὰ δύναμιν ἀνθρωπί νην ἄγνωστον οὖσαν καὶ ἄπιστον καὶ ἀόρατον · πολλὰ 180 οὖν φαίνεται ἡμῖν καὶ τῶν εὐπόρων ἄπορα καὶ τῶν ἐφικτῶν ἀνέφικτα , συχνὰ μὲν καὶ δι ’ ἀπειρίαν , συχνὰ δὲ καὶ διὰ νηπιότητα φρενῶν · τῷ ὄντι γὰρ νήπιος ἔοικεν εἶναι πᾶς ἄνθρωπος , καὶ ὁ πάνυ γέρων , ἐπεί τοι μικρὸς πάνυ καὶ νεογιλὸς ὁ τοῦ βίου χρόνος πρὸς τὸν πάντα αἰῶνα . τί δ ’ ἄν , ὦγαθέ , οἱ ἀγνοοῦντες τὰς τῶν θεῶν καὶ δαιμονίων δυνάμεις ἔχοιεν ἂν εἰπεῖν , πότερον δυνατὸν ἢ ἀδύνατόν τι τῶν τοιούτων ; ἑώρακας , Χαιρεφῶν , τρίτην ἡμέραν ὅσος ἦν ὁ χειμών ; καὶ ἐνθυμηθέντι γάρ τῳ δέος ἐπέλθοι καὶ τὰς ἀστραπὰς ἐκείνας καὶ βροντὰς ἀνέμων τε ἐξαίσια μεγέθη · ὑπέλαβεν ἄν τις τὴν οἰκουμένην ἅπασαν καὶ δὴ συμπεσεῖσθαι .",
+      "translation": "Sokrates My dear Chairephon , I suspect that we are altogether too dull of vision to judge of the possible and the impossible ; for we reason according to our human ability , which cannot know or see or be believed . And many things , even easy ones , seem difficult to us , and accessible things seem out of reach , often because our minds are inexperienced , and often , too , because they are childish . For every man , even if he be very old , seems like a child , since certainly our life is a tiny thing , and short as childhood in comparison with all time . And how , my friend , can men , who are ignorant of the powers of the v.1.p.285 gods and other divine beings , affirm whether any such thing is possible or impossible ? You saw , Chairephon , what a storm there was three days ago . It actually terrifies one even to recall those flashes of lightning and peals of thunder and the extraordinary violence of the wind . One would have thought the whole world was on the eve of dissolution ."
+    },
+    {
+      "id": "4",
+      "label": "Section 4",
+      "chapter": null,
+      "original": "Σωκράτης μετὰ μικρὸν δὲ θαυμαστή τις κατάστασις εὐδίας ἐγένετο καὶ διέμεινεν αὕτη γε ἕως τοῦ νῦν . πότερον οὖν οἴει μεῖζόν τι καὶ ἐργωδέστερον εἶναι τοιαύτην αἰθρίαν ἐξ ἐκείνης τῆς ἀνυποστάτου λαίλαπος καὶ ταραχῆς μεταθεῖναι καὶ εἰς γαλήνην ἀναγαγεῖν τὸν ἅπαντα κόσμον , ἢ γυναικὸς εἶδος μεταπλασθὲν εἰς ὄρνιθός τινος ποιῆσαι ; τὸ μὲν γὰρ τοιοῦτον καὶ τὰ 181 παιδάρια τὰ παρ ’ ἡμῖν τὰ πλάττειν ἐπιστάμενα , πηλὸν ἢ κηρὸν ὅταν λάβῃ , ῥᾳδίως ἐκ τοῦ αὐτοῦ πολλάκις ὄγκου μετασχηματίζει πολλὰς ἰδεῶν φύσεις . τῷ δαιμονίῳ δὴ μεγάλην καὶ οὐ συμβλητὴν ὑπεροχὴν ἔχοντι πρὸς τὰς ἡμετέρας δυνάμεις εὐχερῆ τυχὸν ἴσως ἅπαντα τὰ τοιαῦτα καὶ λεῖα · ἐπεὶ τὸν ὅλον οὐρανὸν πόσῳ τινὶ σαυτοῦ δοκεῖς εἶναι μείζω ; φράσαις ἄν ;",
+      "translation": "But presently there was a marvellous change , and the fine weather set in which has lasted ever since . Now , which do you think the greater and more laborious task-to bring such clear weather out of that irresistible whirlwind and chaos , or to remodel a woman ' s shape and make it into a bird ' s ? Why , even human children who understand modelling will often take a bit of clay or wax , and easily fashion different shapes in succession from the same lump . To the godhead , then , whose great superiority over our powers is beyond comparison , all these things are perhaps easy and without effort . For by how much do you think the whole sky surpasses you in size ? Will you tell me that ?"
+    },
+    {
+      "id": "5",
+      "label": "Section 5",
+      "chapter": null,
+      "original": "Χαιρεφῶν Τίς δ ’ ἀνθρώπων , ὦ Σώκρατες , νοῆσαι δύναιτ ’ ἂν ἢ ὀνομάσαι τι τῶν τοιούτων ; οὐδὲ γὰρ εἰπεῖν ἐφικτόν .\n\nΣωκράτης Οὔκουν δὴ θεωροῦμεν καὶ ἀνθρώπων πρὸς ἀλλήλους συμβαλλομένων μεγάλας τινὰς ὑπεροχὰς ἐν ταῖς δυνάμεσι καὶ ἐν ταῖς ἀδυναμίαις ὑπαρχούσας ; ἡ γὰρ τῶν ἀνδρῶν ἡλικία πρὸς τὰ νήπια παντελῶς βρέφη , τὰ πεμπταῖα ἐκ γενετῆς ἢ δεκαταῖα , θαυμαστὴν ὅσην ἔχει τὴν διαφορὰν δυνάμεώς τε καὶ ἀδυναμίας ἐν πάσαις σχεδὸν ταῖς κατὰ τὸν βίον πράξεσι , καὶ ὅσα διὰ τῶν τεχνῶν τούτων οὕτως πολυμηχάνων καὶ ὅσα διὰ τοῦ σώματος καὶ τῆς ψυχῆς ἐργάζονται · ταῦτα γὰρ τοῖς νέοις , ὥσπερ εἶπον , παιδίοις οὐδ ’ εἰς νοῦν ἐλθεῖν δυνατὰ φαίνεται .",
+      "translation": "Chairephon What mortal , Sokrates , could think or tell such a thing as that ? It is not in our power so much as to name it .\nSokrates And do we not see , even in comparing men with one another , great differences in ability ? Compare , for instance , a man grown with a young child five or ten days old . It is amazing v.1.p.286 how they differ in their powers , for almost all the actions of life , both those that are performed by means of our ingenious arts and those of the body and soul ; for it seems impossible for them to enter even into the mind of a child as young as that ."
+    },
+    {
+      "id": "6",
+      "label": "Section 6",
+      "chapter": null,
+      "original": "Σωκράτης καὶ τῆς ἰσχύος δὲ τῆς ἑνὸς ἀνδρὸς τελείου τὸ μέγεθος 182 ἀμέτρητον ὅσην ἔχει τὴν ὑπεροχὴν πρὸς ἐκεῖνα · μυριάδας γὰρ τῶν τοιούτων εἷς ἀνὴρ πάνυ πολλὰς χειρώσαιτ ’ ἂν ῥᾳδίως · ἡ γὰρ ἡλικία παντελῶς ἄπορος δήπου πάντων καὶ ἀμήχανος ἐξ ἀρχῆς παρακολουθεῖ τοῖς ἀνθρώποις κατὰ φύσιν . ὁπηνίκα οὖν ἄνθρωπος , ὡς ἔοικεν , ἀνθρώπου τοσούτῳ διαφέρει , τί νομίσωμεν τὸν σύμπαντα οὐρανὸν πρὸς τὰς ἡμετέρας δυνάμεις φανῆναι ἂν τοῖς τὰ τοιαῦτα θεωρεῖν ἐφικνουμένοις ; πιθανὸν οὖν ἴσως δόξει πολλοῖς , ὅσην ἔχει τὸ μέγεθος τοῦ κόσμου τὴν ὑπεροχὴν πρὸς τὸ Σωκράτους ἢ Χαιρεφῶντος εἶδος , τηλικοῦτον καὶ τὴν δύναμιν αὐτοῦ καὶ τὴν 1st1K1st1Kφρόνησιν καὶ διάνοιαν ἀνάλογον διαφέρειν τῆς περὶ ἡμᾶς διαθέσεως .",
+      "translation": "And as for the strength of one adult man , it surpasses that of a child immeasurably , for one man could easily overpower any number of children , since it seems that by nature we have always in early life a time of perfect helplessness and impotence . Now , seeing that man apparently differs from man to such a degree , how shall we suppose the whole heaven compares with our powers in the eyes of those that attain to such vision ? It will probably seem likely to many that the power and understanding and reason of the universe are as much in excess of what Sokrates or Chairephon has as its size surpasses that of our bodies ."
+    },
+    {
+      "id": "7",
+      "label": "Section 7",
+      "chapter": null,
+      "original": "Σωκράτης σοὶ μὲν οὖν καὶ ἐμοὶ καὶ ἄλλοις πολλοῖς τοιούτοις οὖσι πόλλ ’ ἄττ ’ ἀδύνατα τῶν ἑτέροις πάνυ ῥᾳδίων · ἐπεὶ καὶ αὐλῆσαι τοῖς ἀναύλοις καὶ ἀναγνῶναι ἢ γράψαι τοῖς ἀγραμμάτοις γραμματικὸν τρόπον ἀδυνατώτερόν ἐστι τέως , ἕως 183 ἂν ὦσιν ἀνεπιστήμονες , τοῦ ποιῆσαι γυναῖκας ἐξ ὀρνίθων ἢ ὄρνιθας ἐκ γυναικῶν . ἡ δὲ φύσις ἐν κηρίῳ σχεδὸν παραβάλλουσα ζῷον ἄπουν καὶ ἄπτερον πόδας ὑποθεῖσα καὶ πτερώσασα ποικιλίᾳ τε φαιδρύνασα πολλῇ καὶ καλῇ καὶ παντοδαπῇ χρωμάτων μέλιτταν ἀπέδειξε σοφὴν θείου μέλιτος ἐργάτιν , ἔκ τε ᾠῶν ἀφώνων καὶ ἀψύχων πολλὰ γένη πλάττει πτηνῶν τε καὶ πεζῶν καὶ ἐνύδρων ζῴων , τέχναις , ὡς λόγος τινῶν , ἱεραῖς αἰθέρος μεγάλου προσχρωμένη .",
+      "translation": "Moreover , many things that are impossible to others are easy to you and me and hosts of men like us , and even the arts of flute-playing and reading and writing are more impossible to the uninstructed , until they learn them , than making birds into women or women into birds . Nature , we may say , deposits a footless , wingless creature in the honey-comb . Then she sets it upon feet , and gives it wings , and makes it bright with the bravery of many varying colors , and lo ! it is a v.1.p.287 bee , a clever maker of honey fit for the gods . And from voiceless , lifeless eggs she forms all sorts of flying and walking and swimming creatures , employing , as some hold , divine arts of the boundless air ."
+    },
+    {
+      "id": "8",
+      "label": "Section 8",
+      "chapter": null,
+      "original": "Σωκράτης τὰς οὖν ἀθανάτων δυνάμεις μεγάλας οὔσας θνητοὶ καὶ σμικροὶ παντελῶς ὄντες καὶ οὔτε τὰ μεγάλα δυνάμενοι καθορᾶν οὔτ ’ αὖ τὰ σμικρά , τὰ πλείω δ ’ ἀποροῦντες καὶ τῶν περὶ ἡμᾶς συμβαινόντων παθῶν , οὐκ ἂν ἔχοιμεν εἰπεῖν βεβαίως οὔτ ’ ἀλκυόνων πέρι οὔτ ’ 184 ἀηδόνων · κλέος δὲ μύθων , οἷον παρέδοσαν πατέρες , τοιοῦτον καὶ παισὶν ἐμοῖς , ὦ ὄρνι θρήνων μελῳδέ , παραδώσω τῶν σῶν ὕμνων πέρι , καί σου τὸν εὐσεβῆ καὶ φίλανδρον ἔρωτα πολλάκις ὑμνήσω γυναιξὶ ταῖς ἐμαῖς Ξανθίππῃ τε καὶ Μυρτοῖ λέγων τά τε ἄλλα , πρὸς δὲ καὶ τιμῆς οἵας ἔτυχες παρὰ θεῶν . ἆρά γε καὶ σὺ ποιήσεις τι τοιοῦτον , ὦ Χαιρεφῶν ;\n\nΧαιρεφῶν Πρέπει γοῦν , ὦ Σώκρατες , καὶ τὰ ὑπὸ σοῦ ῥηθέντα διπλασίαν ἔχειν τὴν παράκλησιν πρὸς γυναικῶν τε καὶ ἀνδρῶν ὁμιλίαν .\n\nΣωκράτης Οὐκοῦν ἀσπασαμένοις τὴν Ἀλκυόνα προάγειν ἤδη πρὸς ἄστυ καιρὸς ἐκ τοῦ Φαληρικοῦ .\n\nΧαιρεφῶν Πάνυ μὲν οὖν · ποιῶμεν οὕτως .",
+      "translation": "Seeing , then , that the powers of the immortals are vast , and that we are mortal and altogether tiny and unable to understand . either great or small or even to cope with most of those things that concern ourselves , we can give no sure opinion about either halcyons or nightingales . But the famous story of thy lays , melodious mourner , I will hand down to my children as I received it from my fathers , and I will often chant thy dutiful , wifely love to my wives , Xanthippe and Myrto , and tell them all , but chiefly what glory the gods gave thee . You will do likewise , will you not , Chairephon ?\nChairephon Yes , Sokrates ; and what you have said may fitly be a double encouragement of love between man and wife .\nSokrates Then it is high time for us to say farewell to Halkyone and set out from Phaleron towards the town .\nChairephon Very well ; I am ready ."
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": "cynicus-1bzv26"
+}

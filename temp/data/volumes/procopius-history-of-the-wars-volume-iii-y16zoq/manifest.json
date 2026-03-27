@@ -1,0 +1,61 @@
+{
+  "loebNumber": 107,
+  "sortOrder": 107,
+  "slug": "procopius-history-of-the-wars-volume-iii-y16zoq",
+  "title": "History of the Wars, Volume III",
+  "volumeLabel": "History of the Wars, Volume III",
+  "authorDisplay": "Procopius",
+  "authors": [
+    "Procopius"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for History of the Wars, Volume III. History of the Wars, Volume III currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "history-of-the-wars-volume-iii-vu1rce",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "history-of-the-wars-volume-iii-vu1rce",
+      "title": "History of the Wars, Volume III",
+      "status": "ready",
+      "sectionCount": 87,
+      "chunkSlug": "history-of-the-wars-volume-iii-vu1rce",
+      "chunks": [
+        {
+          "slug": "history-of-the-wars-volume-iii-vu1rce",
+          "label": "History of the Wars, Volume III",
+          "partId": "history-of-the-wars-volume-iii-vu1rce",
+          "partTitle": "History of the Wars, Volume III",
+          "sectionCount": 87,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "history-of-the-wars-volume-iii-vu1rce",
+      "label": "History of the Wars, Volume III",
+      "partId": "history-of-the-wars-volume-iii-vu1rce",
+      "partTitle": "History of the Wars, Volume III",
+      "sectionCount": 87,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "history-of-the-wars-volume-iii-vu1rce",
+      "partTitle": "History of the Wars, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Res Gestae",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:stoa0023.stoa001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "History",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:stoa0023.stoa001.perseus-eng2/"
+      }
+    }
+  ]
+}

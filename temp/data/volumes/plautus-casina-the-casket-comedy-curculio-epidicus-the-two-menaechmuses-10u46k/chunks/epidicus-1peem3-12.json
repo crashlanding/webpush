@@ -1,0 +1,122 @@
+{
+  "volumeSlug": "plautus-casina-the-casket-comedy-curculio-epidicus-the-two-menaechmuses-10u46k",
+  "volumeTitle": "Casina. The Casket Comedy. Curculio. Epidicus. The Two Menaechmuses",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "epidicus-1peem3-12",
+  "label": "Epidicus (Section 5.2.723c - Section 5.2.732)",
+  "partId": "epidicus-1peem3",
+  "partTitle": "Epidicus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Epidicus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi009.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Epidicus, or The Fortunate Discovery",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi009.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "5.2.723c",
+      "label": "Section 5.2.723c",
+      "chapter": null,
+      "original": "Nolo .",
+      "translation": "I don ’ t choose ."
+    },
+    {
+      "id": "5.2.723d",
+      "label": "Section 5.2.723d",
+      "chapter": null,
+      "original": "Non aequom facis .",
+      "translation": "You don ’ t do right ."
+    },
+    {
+      "id": "5.2.724",
+      "label": "Section 5.2.724",
+      "chapter": null,
+      "original": "Numquam hercle hodie , nisi supplicium mihi das , me solvi sinam .",
+      "translation": "Upon my faith , I ’ ll never allow myself to be unbound this day , unless you give me satisfaction ."
+    },
+    {
+      "id": "5.2.725",
+      "label": "Section 5.2.725",
+      "chapter": null,
+      "original": "Optumum atque aequissumum oras . soccos , tunicam , pallium",
+      "translation": "You ask what ’ s very fair and very just . Shoes , a tunic , and a cloak I ’ ll give you ."
+    },
+    {
+      "id": "5.2.726b",
+      "label": "Section 5.2.726b",
+      "chapter": null,
+      "original": "Quid deinde porro ?",
+      "translation": "What next , after that ?"
+    },
+    {
+      "id": "5.2.726c",
+      "label": "Section 5.2.726c",
+      "chapter": null,
+      "original": "Libertatem .",
+      "translation": "Your freedom ."
+    },
+    {
+      "id": "5.2.726d",
+      "label": "Section 5.2.726d",
+      "chapter": null,
+      "original": "At postea ?",
+      "translation": "But after that ? There ’ s need for a new-made freed-man to pick a bit [*] ."
+    },
+    {
+      "id": "5.2.727b",
+      "label": "Section 5.2.727b",
+      "chapter": null,
+      "original": "Dabitur , praebebo cibum .",
+      "translation": "It shall be given ; I ’ ll find you food ."
+    },
+    {
+      "id": "5.2.728",
+      "label": "Section 5.2.728",
+      "chapter": null,
+      "original": "Numquam hercle hodie , nisi me orassis , solves .",
+      "translation": "On my word , never this day shall you release me , unless you beg my pardon ."
+    },
+    {
+      "id": "5.2.728b",
+      "label": "Section 5.2.728b",
+      "chapter": null,
+      "original": "Oro te , Epidice ,",
+      "translation": "I do entreat you , Epidicus , to forgive me , if unawares in fault I ’ ve done anything wrong ."
+    },
+    {
+      "id": "5.2.730",
+      "label": "Section 5.2.730",
+      "chapter": null,
+      "original": "at ob eam rem liber esto .",
+      "translation": "But by way of return for this matter , be a free man ."
+    },
+    {
+      "id": "5.2.730b",
+      "label": "Section 5.2.730b",
+      "chapter": null,
+      "original": "Invitus do hanc veniam tibi ,",
+      "translation": "Against my inclination do I grant you this pardon , but I ’ m compelled by necessity . Unbind them then , if you choose ."
+    },
+    {
+      "id": "5.2.732",
+      "label": "Section 5.2.732",
+      "chapter": null,
+      "original": "Hic is homo est qui libertatem malitia invenit sua .",
+      "translation": "( coming forward .) This is that man who by his roguery [*] has gained his freedom . Clap your hands , and fare you well ! Stretch your loins , and rise from your seats ."
+    }
+  ],
+  "prevChunkSlug": "epidicus-1peem3-11",
+  "nextChunkSlug": "the-two-menaechmuses-65w7r1-1"
+}

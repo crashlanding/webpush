@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "sophocles-ajax-electra-oedipus-tyrannus-udpp93",
+  "volumeTitle": "Ajax. Electra. Oedipus Tyrannus",
+  "authorDisplay": "Sophocles",
+  "authors": [
+    "Sophocles"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "electra-wuse-7",
+  "label": "Electra (Section 1034 - Section 1177)",
+  "partId": "electra-wuse",
+  "partTitle": "Electra",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἠλέκτρα",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Electra",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1034",
+      "label": "Section 1034",
+      "chapter": null,
+      "original": "οὐδʼ αὖ τοσοῦτον ἔχθος ἐχθαίρω σʼ ἐγώ .",
+      "translation": "But , again , I do not hate you with so great a hate ."
+    },
+    {
+      "id": "1035",
+      "label": "Section 1035",
+      "chapter": null,
+      "original": "ἀλλʼ οὖν ἐπίστω γʼ οἷ μʼ ἀτιμίας ἄγεις .",
+      "translation": "Yet know at least to what dishonor you drive me ."
+    },
+    {
+      "id": "1036",
+      "label": "Section 1036",
+      "chapter": null,
+      "original": "ἀτιμίας μὲν οὔ , προμηθίας δὲ σοῦ .",
+      "translation": "Dishonor , no ! It is forethought for you ."
+    },
+    {
+      "id": "1037",
+      "label": "Section 1037",
+      "chapter": null,
+      "original": "τῷ σῷ δικαίῳ δῆτʼ ἐπισπέσθαι με δεῖ ;",
+      "translation": "Am I bound , then , to follow your rule of right ?"
+    },
+    {
+      "id": "1038",
+      "label": "Section 1038",
+      "chapter": null,
+      "original": "ὅταν γὰρ εὖ φρονῇς , τόθʼ ἡγήσει σὺ νῷν .",
+      "translation": "Yes , for when you are sensible , then at that time you shall lead the both of us ."
+    },
+    {
+      "id": "1039",
+      "label": "Section 1039",
+      "chapter": null,
+      "original": "ἦ δεινὸν εὖ λέγουσαν ἐξαμαρτάνειν .",
+      "translation": "How terrible it is that one who speaks so well should be so wrong !"
+    },
+    {
+      "id": "1040",
+      "label": "Section 1040",
+      "chapter": null,
+      "original": "εἴρηκας ὀρθῶς ᾧ σὺ πρόσκεισαι κακῷ .",
+      "translation": "You have well described the fault to which you devotedly cling ."
+    },
+    {
+      "id": "1041",
+      "label": "Section 1041",
+      "chapter": null,
+      "original": "τί δʼ ; οὐ δοκῶ σοι ταῦτα σὺν δίκῃ λέγειν ;",
+      "translation": "What ? Do you think that my words are not the words of Justice ?"
+    },
+    {
+      "id": "1042",
+      "label": "Section 1042",
+      "chapter": null,
+      "original": "ἀλλʼ ἔστιν ἔνθα χἠ δίκη βλάβην φέρει .",
+      "translation": "But sometimes even Justice herself causes harm ."
+    },
+    {
+      "id": "1043",
+      "label": "Section 1043",
+      "chapter": null,
+      "original": "τούτοις ἐγὼ ζῆν τοῖς νόμοις οὐ βούλομαι .",
+      "translation": "I do not care to live where that attitude is lawful ."
+    },
+    {
+      "id": "1044",
+      "label": "Section 1044",
+      "chapter": null,
+      "original": "ἀλλʼ εἰ ποήσεις ταῦτʼ , ἐπαινέσεις ἐμέ .",
+      "translation": "Well , if you must do this , you will commend me yet ."
+    },
+    {
+      "id": "1045",
+      "label": "Section 1045",
+      "chapter": null,
+      "original": "καὶ μὴν ποήσω γʼ οὐδὲν ἐκπλαγεῖσά σε .",
+      "translation": "And do it I will , not a bit disturbed by you ."
+    },
+    {
+      "id": "1046",
+      "label": "Section 1046",
+      "chapter": null,
+      "original": "καὶ τοῦτʼ ἀληθές , οὐδὲ βουλεύσει πάλιν ;",
+      "translation": "Is this true ? You will not reconsider your plan ?"
+    },
+    {
+      "id": "1047",
+      "label": "Section 1047",
+      "chapter": null,
+      "original": "βουλῆς γὰρ οὐδέν ἐστιν ἔχθιον κακῆς .",
+      "translation": "No , for no enemy is more damaging than bad advice ."
+    },
+    {
+      "id": "1048",
+      "label": "Section 1048",
+      "chapter": null,
+      "original": "φρονεῖν ἔοικας οὐδὲν ὧν ἐγὼ λέγω .",
+      "translation": "You seem to agree with nothing that I say ."
+    },
+    {
+      "id": "1049",
+      "label": "Section 1049",
+      "chapter": null,
+      "original": "πάλαι δέδοκται ταῦτα κοὐ νεωστί μοι .",
+      "translation": "My resolve is not new , but long since fixed ."
+    },
+    {
+      "id": "1050",
+      "label": "Section 1050",
+      "chapter": null,
+      "original": "ἄπειμι τοίνυν · οὔτε γὰρ σὺ τἄμʼ ἔπη",
+      "translation": "Then I will go . You cannot be brought to approve my words , nor I your conduct ."
+    },
+    {
+      "id": "1052",
+      "label": "Section 1052",
+      "chapter": null,
+      "original": "ἀλλʼ εἴσιθʼ . οὔ σοι μὴ μεθέψομαί ποτε ,",
+      "translation": "No , go inside . I will never come after you , even though you may strongly desire it , since it is great folly even to attempt a useless quest ."
+    },
+    {
+      "id": "1055",
+      "label": "Section 1055",
+      "chapter": null,
+      "original": "ἀλλʼ εἰ σεαυτῇ τυγχάνεις δοκοῦσά τι",
+      "translation": "Well , if you seem to think straight in your own eyes , may you go on thinking so . Eventually , when you have fallen into trouble , you will approve my advice . Exit Chrysothemis into the house ."
+    },
+    {
+      "id": "1.1060",
+      "label": "Section 1.1060",
+      "chapter": null,
+      "original": "τί τοὺς ἄνωθεν φρονιμωτάτους οἰωνοὺς ἐσορώμενοι τροφᾶς",
+      "translation": "of those from whom they derived life and enjoyment , why do we not pay these debts in like measure ? No , by the lightning-flash of Zeus , by Themis throned in the sky ,"
+    },
+    {
+      "id": "1.1065",
+      "label": "Section 1.1065",
+      "chapter": null,
+      "original": "δαρὸν οὐκ ἀπόνητοι .",
+      "translation": "we are not long unpunished . O Voice of the underworld that reaches to mortals , shout for me a piteous cry to the sons of Atreus below . Carry the reproaches not appropriate to my dancing !"
+    },
+    {
+      "id": "1.1070",
+      "label": "Section 1.1070",
+      "chapter": null,
+      "original": "ὅτι σφὶν ἤδη τὰ μὲν ἐκ δόμων νοσεῖ δή , τὰ δὲ πρὸς τέκνων διπλῆ",
+      "translation": "Tell them the affairs of their house , how it is now diseased ; how among his children , double-sided strife has overwhelmed their loving manner ."
+    },
+    {
+      "id": "1.1075",
+      "label": "Section 1.1075",
+      "chapter": null,
+      "original": "Ἠλέκτρα , τὸν ἀεὶ πατρὸς",
+      "translation": "Electra , betrayed , braves the storm alone . In misery she bewails her father ’ s fate without pause , like the all-grieving nightingale . She cares not at all about death , but is ready for that eternal blindness ,"
+    },
+    {
+      "id": "1.1080",
+      "label": "Section 1.1080",
+      "chapter": null,
+      "original": "διδύμαν ἑλοῦσʼ Ἐρινύν · τίς ἂν εὔπατρις ὧδε βλάστοι ;",
+      "translation": "could she but subdue the double Erinys of her house . Who could grow to be so noble a daughter of so noble a father ?"
+    },
+    {
+      "id": "2.1082",
+      "label": "Section 2.1082",
+      "chapter": null,
+      "original": "ζῶν κακῶς εὔκλειαν αἰσχῦναι θέλει",
+      "translation": "None of the good willingly clouds his fair repute and becomes nameless by leading a corrupt life , my child ."
+    },
+    {
+      "id": "2.1085",
+      "label": "Section 2.1085",
+      "chapter": null,
+      "original": "ὡς καὶ σὺ πάγκλαυτον αἰῶνα κοινὸν εἵλου ,",
+      "translation": "Similarly , you , too , have chosen a lifetime of shared mourning and have armed against dishonor , so that you might win in one breath a twofold praise as wise , and as the best of daughters ."
+    },
+    {
+      "id": "2.1090",
+      "label": "Section 2.1090",
+      "chapter": null,
+      "original": "ζῴης μοι καθύπερθεν",
+      "translation": "May I yet see you live exalted in might and wealth above your enemies by as much as you now dwell beneath their hand ! For I have found you enjoying no prosperous estate , yet"
+    },
+    {
+      "id": "2.1095",
+      "label": "Section 2.1095",
+      "chapter": null,
+      "original": "βεβῶσαν , ἃ δὲ μέγιστʼ ἔβλαστε νόμιμα , τῶνδε φερομέναν",
+      "translation": "for observance of nature ’ s highest laws you win the noblest prize by your reverence toward Zeus ."
+    },
+    {
+      "id": "1098",
+      "label": "Section 1098",
+      "chapter": null,
+      "original": "ὀρθῶς θʼ ὁδοιποροῦμεν ἔνθα χρῄζομεν ;",
+      "translation": "Ladies , have we been directed aright , and are we on the right path to our goal ?"
+    },
+    {
+      "id": "1100",
+      "label": "Section 1100",
+      "chapter": null,
+      "original": "τί δʼ ἐξερευνᾷς καὶ τί βουληθεὶς πάρει ;",
+      "translation": "What do you seek ? What desire brings you here ?"
+    },
+    {
+      "id": "1101",
+      "label": "Section 1101",
+      "chapter": null,
+      "original": "Αἴγισθον ἔνθʼ ᾤκηκεν ἱστορῶ πάλαι .",
+      "translation": "I have long been searching for the home of Aegisthus ."
+    },
+    {
+      "id": "1102",
+      "label": "Section 1102",
+      "chapter": null,
+      "original": "ἀλλʼ εὖ θʼ ἱκάνεις χὠ φράσας ἀζήμιος .",
+      "translation": "Well , you have found it , and your guide is blameless ."
+    },
+    {
+      "id": "1103",
+      "label": "Section 1103",
+      "chapter": null,
+      "original": "τίς οὖν ἂν ὑμῶν τοῖς ἔσω φράσειεν ἂν",
+      "translation": "Which of you , then , would tell those inside of the long-desired presence of us travelers ?"
+    },
+    {
+      "id": "1105",
+      "label": "Section 1105",
+      "chapter": null,
+      "original": "ἥδʼ , εἰ τὸν ἄγχιστόν γε κηρύσσειν χρεών .",
+      "translation": "She will , if the nearest in kin should announce it ."
+    },
+    {
+      "id": "1106",
+      "label": "Section 1106",
+      "chapter": null,
+      "original": "ἴθʼ , ὦ γύναι , δήλωσον εἰσελθοῦσʼ ὅτι",
+      "translation": "Go , lady , enter and make it known that certain men of Phocis seek Aegisthus ."
+    },
+    {
+      "id": "1108",
+      "label": "Section 1108",
+      "chapter": null,
+      "original": "οἴμοι τάλαινʼ , οὐ δή ποθʼ ἧς ἠκούσαμεν",
+      "translation": "Ah , miserable me ! Surely you do not bring proof positive of that rumor which we heard ?"
+    },
+    {
+      "id": "1110",
+      "label": "Section 1110",
+      "chapter": null,
+      "original": "οὐκ οἶδα τὴν σὴν κληδόνʼ · ἀλλά μοι γέρων",
+      "translation": "I know nothing of your rumor ; but the aged Strophius ordered me to give report of Orestes ."
+    },
+    {
+      "id": "1112",
+      "label": "Section 1112",
+      "chapter": null,
+      "original": "τί δʼ ἔστιν , ὦ ξένʼ ; ὥς μʼ ὑπέρχεται φόβος .",
+      "translation": "What is it , sir ? Ah , how fear creeps over me !"
+    },
+    {
+      "id": "1113",
+      "label": "Section 1113",
+      "chapter": null,
+      "original": "φέροντες αὐτοῦ σμικρὰ λείψανʼ ἐν βραχεῖ",
+      "translation": "We come bearing his scanty remains in a small urn , as you see ."
+    },
+    {
+      "id": "1115",
+      "label": "Section 1115",
+      "chapter": null,
+      "original": "οἲ ʼγὼ τάλαινα , τοῦτʼ ἐκεῖνʼ ἤδη σαφὲς",
+      "translation": "Oh , the misery ! Here , at last , my eyes look for certain , it seems , upon that grievous burden in your hand ."
+    },
+    {
+      "id": "1117",
+      "label": "Section 1117",
+      "chapter": null,
+      "original": "εἴπερ τι κλαίεις τῶν Ὀρεστείων κακῶν ,",
+      "translation": "If your tears are for any of Orestes ’ tribulations , know that this vessel is his body ’ s home ."
+    },
+    {
+      "id": "1119",
+      "label": "Section 1119",
+      "chapter": null,
+      "original": "ὦ ξεῖνε , δός νυν , πρὸς θεῶν , εἴπερ τόδε",
+      "translation": "Ah , sir , if this urn indeed contains him , then allow me ,"
+    },
+    {
+      "id": "1120",
+      "label": "Section 1120",
+      "chapter": null,
+      "original": "κέκευθεν αὐτὸν τεῦχος , εἰς χεῖρας λαβεῖν ,",
+      "translation": "by the gods , to take it in my hands , so that I may weep and wail , not for these ashes alone , but for myself and for all our house with them !"
+    },
+    {
+      "id": "1123",
+      "label": "Section 1123",
+      "chapter": null,
+      "original": "δόθʼ , ἥτις ἐστί , προσφέροντες · οὐ γὰρ ὡς",
+      "translation": "Take it and give it to her , whoever she may be . For she asks this for herself not as if with hostile intent ,"
+    },
+    {
+      "id": "1125",
+      "label": "Section 1125",
+      "chapter": null,
+      "original": "ἀλλʼ ἢ φίλων τις ἢ πρὸς αἵματος φύσιν .",
+      "translation": "but like one who is his friend , or a kinswoman by blood . The urn is placed in Electra ’ s hands ."
+    },
+    {
+      "id": "1126",
+      "label": "Section 1126",
+      "chapter": null,
+      "original": "ὦ φιλτάτου μνημεῖον ἀνθρώπων ἐμοὶ",
+      "translation": "Memorial of him whom I loved best on earth , sole remnant of Orestes ’ vitality ! How contrary to the hopes with which I sent you away do I receive you back ! Now I raise your nothingness in my hands ;"
+    },
+    {
+      "id": "1130",
+      "label": "Section 1130",
+      "chapter": null,
+      "original": "δόμων δέ σʼ , ὦ παῖ , λαμπρὸν ἐξέπεμψʼ ἐγώ .",
+      "translation": "but then , my child , you were radiant , when I sent you away from home ! Would that I had first abandoned life , before , stealing you away with these hands , I sent you to a strange land and rescued you from death , in order that you might have lain dead on that same day"
+    },
+    {
+      "id": "1135",
+      "label": "Section 1135",
+      "chapter": null,
+      "original": "τύμβου πατρῴου κοινὸν εἰληχὼς μέρος .",
+      "translation": "and had your share in the tomb of our father !\nBut now , an exile from home and fatherland , you have perished miserably , far from your sister . Ah , me , these loving hands have not washed or decked your corpse , nor taken up"
+    },
+    {
+      "id": "1140",
+      "label": "Section 1140",
+      "chapter": null,
+      "original": "ἀνειλόμην , ὡς εἰκός , ἄθλιον βάρος ,",
+      "translation": "their sad burden from the all-consuming pyre , as was proper . No ! At the hands of strangers , poor Orestes , you have been tended , and so have come to us , a small bulk in a small urn .\nAh , I grieve at the uselessness of my nursing long ago , the service that I often bestowed"
+    },
+    {
+      "id": "1145",
+      "label": "Section 1145",
+      "chapter": null,
+      "original": "πόνῳ γλυκεῖ παρέσχον · οὔτε γάρ ποτε",
+      "translation": "on you in sweet labor ! For you were never your mother ’ s darling so much as mine , nor was any in the house your nurse but I , and by you I was ever called sister . But now all this has vanished in a day"
+    },
+    {
+      "id": "1150",
+      "label": "Section 1150",
+      "chapter": null,
+      "original": "θανόντι σὺν σοί · πάντα γὰρ συναρπάσας",
+      "translation": "with your death . Like a whirlwind you have swept everything away with you . Our father is gone ; I am dead because of you ; you yourself are dead and gone ; our enemies laugh at us ; and our mother , who is no mother , raves with joy . Unknown to her , you often"
+    },
+    {
+      "id": "1155",
+      "label": "Section 1155",
+      "chapter": null,
+      "original": "φήμας λάθρᾳ προύπεμπες ὡς φανούμενος",
+      "translation": "sent me messages about her , saying that you yourself would appear for vengeance . But our evil fortune , yours and mine , has torn all that away , and has sent you back to me in this state , ash and a useless shade in place of your beloved form ."
+    },
+    {
+      "id": "1160",
+      "label": "Section 1160",
+      "chapter": null,
+      "original": "οἴμοι μοι .",
+      "translation": "ah , me , ah , me ! O pitiable body ! Alas , dear one sent on a most dire journey , how you have destroyed me , destroyed me indeed , my brother !"
+    },
+    {
+      "id": "1165",
+      "label": "Section 1165",
+      "chapter": null,
+      "original": "τοιγὰρ σὺ δέξαι μʼ ἐς τὸ σὸν τόδε στέγος ,",
+      "translation": "Therefore accept me into this abode of yours — me , a nothing , into your nothingness ,— so that I may dwell with you hereafter below . For when you were on earth , we shared equally , and now I wish to die and not to be left out of your grave ,"
+    },
+    {
+      "id": "1170",
+      "label": "Section 1170",
+      "chapter": null,
+      "original": "τοὺς γὰρ θανόντας οὐχ ὁρῶ λυπουμένους .",
+      "translation": "since I see that the dead are relieved of pain ."
+    },
+    {
+      "id": "1171",
+      "label": "Section 1171",
+      "chapter": null,
+      "original": "θνητοῦ πέφυκας πατρός , Ἠλέκτρα , φρόνει ,",
+      "translation": "Remember , Electra , you are the child of a mortal father , and Orestes was mortal . Therefore do not grieve too much . Death is a debt which all of us must pay ."
+    },
+    {
+      "id": "1174",
+      "label": "Section 1174",
+      "chapter": null,
+      "original": "φεῦ φεῦ . τί λέξω ; ποῖ λόγων ἀμηχανῶν",
+      "translation": "Ah , what shall I say ? I am at a loss . To what words"
+    },
+    {
+      "id": "1175",
+      "label": "Section 1175",
+      "chapter": null,
+      "original": "ἔλθω ; κρατεῖν γὰρ οὐκέτι γλώσσης σθένω .",
+      "translation": "can I turn ? I no longer have the strength to master my tongue !"
+    },
+    {
+      "id": "1176",
+      "label": "Section 1176",
+      "chapter": null,
+      "original": "τί δʼ ἔσχες ἄλγος ; πρὸς τί τοῦτʼ εἰπὼν κυρεῖς ;",
+      "translation": "What has troubled you ? Why did you say that ?"
+    },
+    {
+      "id": "1177",
+      "label": "Section 1177",
+      "chapter": null,
+      "original": "ἦ σὸν τὸ κλεινὸν εἶδος Ἠλέκτρας τόδε ;",
+      "translation": "Is this the illustrious form of Electra ?"
+    }
+  ],
+  "prevChunkSlug": "electra-wuse-6",
+  "nextChunkSlug": "electra-wuse-8"
+}

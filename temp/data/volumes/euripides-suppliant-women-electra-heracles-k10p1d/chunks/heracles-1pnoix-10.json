@@ -1,0 +1,101 @@
+{
+  "volumeSlug": "euripides-suppliant-women-electra-heracles-k10p1d",
+  "volumeTitle": "Suppliant Women. Electra. Heracles",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "heracles-1pnoix-10",
+  "label": "Heracles (Section 1418c - Section 1427)",
+  "partId": "heracles-1pnoix",
+  "partTitle": "Heracles",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἡρακλῆς",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg009.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Heracles Mad",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg009.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1418c",
+      "label": "Section 1418c",
+      "chapter": null,
+      "original": "καὶ σύ μοι , τέκνον .",
+      "translation": "Farewell to you , my son !"
+    },
+    {
+      "id": "1419",
+      "label": "Section 1419",
+      "chapter": null,
+      "original": "θάφθʼ ὥσπερ εἶπον παῖδας .",
+      "translation": "Bury my children as I said ."
+    },
+    {
+      "id": "1419b",
+      "label": "Section 1419b",
+      "chapter": null,
+      "original": "ἐμὲ δὲ τίς , τέκνον ;",
+      "translation": "But who will bury me , my son ?"
+    },
+    {
+      "id": "1420",
+      "label": "Section 1420",
+      "chapter": null,
+      "original": "ἐγώ .",
+      "translation": "I will ."
+    },
+    {
+      "id": "1420b",
+      "label": "Section 1420b",
+      "chapter": null,
+      "original": "πότʼ ἐλθών ;",
+      "translation": "When wil you come ?"
+    },
+    {
+      "id": "1420c",
+      "label": "Section 1420c",
+      "chapter": null,
+      "original": "ἡνίκʼ ἂν θάψῃς τέκνα .",
+      "translation": "After you have buried my children ."
+    },
+    {
+      "id": "1421",
+      "label": "Section 1421",
+      "chapter": null,
+      "original": "πῶς ;",
+      "translation": "How ?"
+    },
+    {
+      "id": "1421b",
+      "label": "Section 1421b",
+      "chapter": null,
+      "original": "εἰς Ἀθήνας πέμψομαι Θηβῶν ἄπο .\nἀλλʼ ἐσκόμιζε τέκνα δυσκόμιστα γῇ ·\nἡμεῖς δʼ ἀναλώσαντες αἰσχύναις δόμον ,\nΘησεῖ πανώλεις ἑψόμεσθʼ ἐφολκίδες .\nὅστις δὲ πλοῦτον ἢ σθένος μᾶλλον φίλων",
+      "translation": "I will fetch you from Thebes to Athens . But carry my children within , a grievous burden to the earth . And I , after ruining my house by deeds of shame , will follow as a little boat in the wake of Theseus , a total wreck ."
+    },
+    {
+      "id": "1425",
+      "label": "Section 1425",
+      "chapter": null,
+      "original": "ἀγαθῶν πεπᾶσθαι βούλεται , κακῶς φρονεῖ .",
+      "translation": "Whoever prefers wealth or might to the possession of good friends , thinks wrongly ."
+    },
+    {
+      "id": "1427",
+      "label": "Section 1427",
+      "chapter": null,
+      "original": "στείχομεν οἰκτροὶ καὶ πολύκλαυτοι ,\nτὰ μέγιστα φίλων ὀλέσαντες .",
+      "translation": "With grief and many a bitter tear we go our way , robbed of all we prized most dearly ."
+    }
+  ],
+  "prevChunkSlug": "heracles-1pnoix-9",
+  "nextChunkSlug": null
+}

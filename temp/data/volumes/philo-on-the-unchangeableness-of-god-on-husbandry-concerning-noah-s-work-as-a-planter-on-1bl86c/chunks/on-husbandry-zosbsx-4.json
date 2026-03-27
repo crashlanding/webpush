@@ -1,0 +1,38 @@
+{
+  "volumeSlug": "philo-on-the-unchangeableness-of-god-on-husbandry-concerning-noah-s-work-as-a-planter-on-1bl86c",
+  "volumeTitle": "On the Unchangeableness of God. On Husbandry. Concerning Noah's Work As a Planter. On Drunkenness. On Sobriety",
+  "authorDisplay": "Philo",
+  "authors": [
+    "Philo"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "on-husbandry-zosbsx-4",
+  "label": "On Husbandry (Section 181 - Section 181)",
+  "partId": "on-husbandry-zosbsx",
+  "partTitle": "On Husbandry",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "De Agricultura",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg009.1st1K-grc1/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "On the Tilling of the Earth by Noah",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg009.1st1K-eng1/"
+    }
+  },
+  "sections": [
+    {
+      "id": "181",
+      "label": "Section 181",
+      "chapter": null,
+      "original": "ταῦτα μὲν οὖν ἀρχῆς τε πέρι καὶ τέλους εἴρηται διὰ Νῶε τὸν δίκαιον , ὃς τὰ πρῶτα καὶ στοιχειώδη τῆς γεωργικῆς κτησάμενος τέχνης ἄχρι τῶν περάτων αὐτῆς ἐλθεῖν ἠσθένησε · λέγεται γὰρ ὅτι „ ἤρξατο γῆς εἶναι γεωργός “, οὐ τῶν ὅρων τῶν ἄκρας ἐπιστήμης ἐλάβετο . τὰ δὲ περὶ τῆς φυτουργίας εἰρημένα αὐτοῦ λέγωμεν αὖθις .\n[*]",
+      "translation": "These things then are here said about beginning and end , because of the instance of the just Noah , who , after he had acquired the first and elementary principles of the knowledge of husbandry , was unable to reach its furthest limits . For it is said that \" he began to be a husbandman ,\" not that he arrived at the extreme end of complete knowledge : but what is said about his planting we will discuss subsequently ."
+    }
+  ],
+  "prevChunkSlug": "on-husbandry-zosbsx-3",
+  "nextChunkSlug": "concerning-noah-s-work-as-a-planter-1ciak5-1"
+}

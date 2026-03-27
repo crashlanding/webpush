@@ -1,0 +1,61 @@
+{
+  "loebNumber": 332,
+  "sortOrder": 332,
+  "slug": "livy-history-of-rome-volume-xii-1snys2",
+  "title": "History of Rome, Volume XII",
+  "volumeLabel": "History of Rome, Volume XII",
+  "authorDisplay": "Livy",
+  "authors": [
+    "Livy"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for History of Rome, Volume XII. History of Rome, Volume XII currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "history-of-rome-volume-xii-11uz5i",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "history-of-rome-volume-xii-11uz5i",
+      "title": "History of Rome, Volume XII",
+      "status": "ready",
+      "sectionCount": 50,
+      "chunkSlug": "history-of-rome-volume-xii-11uz5i",
+      "chunks": [
+        {
+          "slug": "history-of-rome-volume-xii-11uz5i",
+          "label": "History of Rome, Volume XII",
+          "partId": "history-of-rome-volume-xii-11uz5i",
+          "partTitle": "History of Rome, Volume XII",
+          "sectionCount": 50,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "history-of-rome-volume-xii-11uz5i",
+      "label": "History of Rome, Volume XII",
+      "partId": "history-of-rome-volume-xii-11uz5i",
+      "partTitle": "History of Rome, Volume XII",
+      "sectionCount": 50,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "history-of-rome-volume-xii-11uz5i",
+      "partTitle": "History of Rome, Volume XII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ab urbe condita",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0914.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The History of Rome",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0914.phi001.perseus-eng3/"
+      }
+    }
+  ]
+}

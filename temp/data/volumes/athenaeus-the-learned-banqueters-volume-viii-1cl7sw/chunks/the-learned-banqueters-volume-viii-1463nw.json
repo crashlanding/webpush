@@ -1,0 +1,38 @@
+{
+  "volumeSlug": "athenaeus-the-learned-banqueters-volume-viii-1cl7sw",
+  "volumeTitle": "The Learned Banqueters, Volume VIII",
+  "authorDisplay": "Athenaeus",
+  "authors": [
+    "Athenaeus"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "the-learned-banqueters-volume-viii-1463nw",
+  "label": "The Learned Banqueters, Volume VIII",
+  "partId": "the-learned-banqueters-volume-viii-1463nw",
+  "partTitle": "The Learned Banqueters, Volume VIII",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Δειπνοσοφισταί",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0008.tlg001.perseus-grc3/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "The Deipnosophists",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0008.tlg001.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "15.1",
+      "label": "Section 15.1",
+      "chapter": null,
+      "original": "Εἴ μοι τὸ Νεστόρειον εὔγλωσσον μέλος Ἀντήνορός τε τοῦ Φρυγὸς δοίη θεός ,\nκατὰ τὸν πάνσοφον Εὐριπίδην ( fr. 899\nN ), ἑταῖρε Τιμόκρατες , οὐκ ἂν δυναίμην ἀπομνημονεύειν ἔτι σοι τῶν πολλάκις λεχθέντων ἐν τοῖς περισπουδάστοις τούτοις συμποσίοις διά τε τὴν ποικιλίαν καὶ τὴν ὁμοιότητα τῶν ἀεὶ καινῶς προσευρισκομένων . καὶ γὰρ καὶ περὶ τάξεως τῶν περιφορῶν πολλάκις ἐλέχθη καὶ περὶ τῶν μετὰ τὸ δεῖπνον ἐπιτελουμένων , ἅπερ καὶ μόλις ἀναπεμπάζομαι , εἰπόντος τινὸς τῶν ἑταίρων τὰ ἐκ τῶν Λακώνων Πλάτωνος ἰαμβεῖα ( I 620 K )·\nἅνδρες δεδειπνήκασιν ἤδη ; Β . σχεδὸν ἅπαντες . Α . εὖ γε · τί οὐ τρέχων σὺ τὰς τραπέζας ἐκφέρεις ; ἐγὼ δὲ v.3.p.471 λίτρον παραχέων ἔρχομαι . Β . κἀγὼ δὲ παρακορήσων . σπονδὰς δ ’ ἔπειτα παραχέας τὸν κότταβον παροίσω · τῇ παιδὶ τοὺς αὐλοὺς ἐχρῆν ἤδη πρὸ χειρὸς εἶναι καὶ προαναφυσᾶν . τὸ μύρον ἤδη παράχεον βαδίζων Αἰγύπτιον κᾆτ ’ ἴρινον · στέφανον δ ’ ἔπειθ ’ ἑκάστῳ δώσω φέρων τῶν ξυμποτῶν . νεοκρᾶτά τις ποιείτω . Α . καὶ δὴ κέκραται . Β . τὸν λιβανωτὸν ἐπιτιθεὶς εἶπε ... σπονδὴ μὲν ἤδη γέγονε καὶ πίνοντές εἰσι πόρρω · καὶ σκόλιον ᾖσται , κότταβος δ ’ ἐξοίχεται θύραζε . αὐλοὺς δ ’ ἔχουσά τις κορίσκη Καρικὸν μέλος τι μελίζεται τοῖς συμπόταις · κἄλλην τρίγωνον εἶδον ἔχουσαν , εἶτ ’ ᾖδεν πρὸς αὐτὸ μέλος Ἰωνικόν τι .",
+      "translation": "The Cottabus Garlands Dyes Perfumes Libations Scolia Parodies Torches ."
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": null
+}

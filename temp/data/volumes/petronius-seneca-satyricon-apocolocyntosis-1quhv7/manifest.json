@@ -1,0 +1,68 @@
+{
+  "loebNumber": 15,
+  "sortOrder": 15,
+  "slug": "petronius-seneca-satyricon-apocolocyntosis-1quhv7",
+  "title": "Seneca, Satyricon. Apocolocyntosis",
+  "volumeLabel": "Seneca, Satyricon. Apocolocyntosis",
+  "authorDisplay": "Petronius",
+  "authors": [
+    "Petronius"
+  ],
+  "language": "latin",
+  "summary": "1 of 2 contents in Seneca, Satyricon. Apocolocyntosis are live from Scaife, while the remaining contents stay visible until a confident pair is available.",
+  "status": "partial",
+  "defaultChunkSlug": "apocolocyntosis-1pe6mr",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "seneca-satyricon-r3er0d",
+      "title": "Seneca, Satyricon",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Seneca, Satyricon."
+    },
+    {
+      "id": "apocolocyntosis-1pe6mr",
+      "title": "Apocolocyntosis",
+      "status": "ready",
+      "sectionCount": 10,
+      "chunkSlug": "apocolocyntosis-1pe6mr",
+      "chunks": [
+        {
+          "slug": "apocolocyntosis-1pe6mr",
+          "label": "Apocolocyntosis",
+          "partId": "apocolocyntosis-1pe6mr",
+          "partTitle": "Apocolocyntosis",
+          "sectionCount": 10,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "apocolocyntosis-1pe6mr",
+      "label": "Apocolocyntosis",
+      "partId": "apocolocyntosis-1pe6mr",
+      "partTitle": "Apocolocyntosis",
+      "sectionCount": 10,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "apocolocyntosis-1pe6mr",
+      "partTitle": "Apocolocyntosis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Apocolocyntosis",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1017.phi011.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Apocolocyntosis",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1017.phi011.perseus-eng2/"
+      }
+    }
+  ]
+}

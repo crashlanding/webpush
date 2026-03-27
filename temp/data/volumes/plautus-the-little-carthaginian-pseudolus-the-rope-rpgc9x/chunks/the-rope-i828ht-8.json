@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-little-carthaginian-pseudolus-the-rope-rpgc9x",
+  "volumeTitle": "The Little Carthaginian. Pseudolus. The Rope",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-rope-i828ht-8",
+  "label": "The Rope (Section 3.4.720 - Section 3.5.786)",
+  "partId": "the-rope-i828ht",
+  "partTitle": "The Rope",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Rudens",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Rudens, or The Fisherman's Rope",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "3.4.720",
+      "label": "Section 3.4.720",
+      "chapter": null,
+      "original": "Sunt .",
+      "translation": "They are ."
+    },
+    {
+      "id": "3.4.720b",
+      "label": "Section 3.4.720b",
+      "chapter": null,
+      "original": "Agedum ergo , tange utramvis digitulo minimo modo .",
+      "translation": "Just come then , touch either of them with your little finger only ."
+    },
+    {
+      "id": "3.4.721",
+      "label": "Section 3.4.721",
+      "chapter": null,
+      "original": "Quid si attigero ?",
+      "translation": "What if I do touch them ?"
+    },
+    {
+      "id": "3.4.721b",
+      "label": "Section 3.4.721b",
+      "chapter": null,
+      "original": "Extemplo hercle ego te follem pugilatorium",
+      "translation": "That very instant , upon my faith , I ’ ll make a hand-ball [*] of you , and while you ’ re in the air I ’ ll belabour you with my fists , you most perjured villain ."
+    },
+    {
+      "id": "3.4.723",
+      "label": "Section 3.4.723",
+      "chapter": null,
+      "original": "Mihi non liceat meas ancillas Veneris de ara abducere ?",
+      "translation": "Am I not to be allowed to take away my female slaves from the altar of Venus ?"
+    },
+    {
+      "id": "3.4.724",
+      "label": "Section 3.4.724",
+      "chapter": null,
+      "original": "Non licet : est lex apud nos —",
+      "translation": "You may not ; such is the law with us ."
+    },
+    {
+      "id": "3.4.724b",
+      "label": "Section 3.4.724b",
+      "chapter": null,
+      "original": "Mihi cum vestris legibus",
+      "translation": "I ’ ve no concern with your laws ; for my part , I shall at once carry them both away from here [*] ."
+    },
+    {
+      "id": "3.4.726",
+      "label": "Section 3.4.726",
+      "chapter": null,
+      "original": "tu , senex , si istas amas , huc arido argentost opus ;",
+      "translation": "If you are in love with them , old gentleman ( holding out his hand ) , you must down here with the ready cash ."
+    },
+    {
+      "id": "3.4.727",
+      "label": "Section 3.4.727",
+      "chapter": null,
+      "original": "si autem Veneri complacuerunt , habeat , si argentum dabit .",
+      "translation": "But these women have proved pleasing to Venus ."
+    },
+    {
+      "id": "3.4.728",
+      "label": "Section 3.4.728",
+      "chapter": null,
+      "original": "Det tibi argentum ? nunc adeo meam ut scias sententiam ,",
+      "translation": "A Goddess , pay you money ? Now then , that you may understand my determination , only do you commence in mere joke to offer them the very slightest violence ;"
+    },
+    {
+      "id": "3.4.730",
+      "label": "Section 3.4.730",
+      "chapter": null,
+      "original": "ita ego te hinc ornatum amittam , tu ipsus te ut non noveris .",
+      "translation": "I ’ ll send you away from here with such a dressing , that you won ’ t know your own self . You , therefore ( turning to his SERVANTS ) , when I give you the signal , if you don ’ t beat his eyes out of his head , I ’ ll trim you round about with rods just like beds of myrtle [*] with bulrushes ."
+    },
+    {
+      "id": "3.4.733",
+      "label": "Section 3.4.733",
+      "chapter": null,
+      "original": "Ví agis mecum .",
+      "translation": "You are treating me with violence ."
+    },
+    {
+      "id": "3.4.733b",
+      "label": "Section 3.4.733b",
+      "chapter": null,
+      "original": "Etiam vim † proportas , flagiti flagrantia ?",
+      "translation": "What , do you even upbraid us with violence , you flagrant specimen of flagitiousness ?"
+    },
+    {
+      "id": "3.4.734",
+      "label": "Section 3.4.734",
+      "chapter": null,
+      "original": "Tun , trifurcifer , mihi audes inclementer dicere ?",
+      "translation": "You , you thrice-dotted villain [*] , do you dare to speak abusively to me ?"
+    },
+    {
+      "id": "3.4.735",
+      "label": "Section 3.4.735",
+      "chapter": null,
+      "original": "Fateor , ego trifurcifer sum , tu es homo adprime probus :",
+      "translation": "I am a thrice-dotted villain ; I confess it ; you are a strictly honorable man ; ought these women a bit the less to be free ?"
+    },
+    {
+      "id": "3.4.736b",
+      "label": "Section 3.4.736b",
+      "chapter": null,
+      "original": "Quid , liberas ?",
+      "translation": "What — free ?"
+    },
+    {
+      "id": "3.4.737",
+      "label": "Section 3.4.737",
+      "chapter": null,
+      "original": "Atque eras tuas quidem hercle , atque ex germana Graecia ;",
+      "translation": "Aye , and your mistresses , too , I ’ faith , and from genuine Greece [*] ; for one of them was born at Athens of free-born parents ."
+    },
+    {
+      "id": "3.4.739",
+      "label": "Section 3.4.739",
+      "chapter": null,
+      "original": "Quid ego ex te audio ?",
+      "translation": "What is it I hear from you ?"
+    },
+    {
+      "id": "3.4.739b",
+      "label": "Section 3.4.739b",
+      "chapter": null,
+      "original": "Hanc Athenis esse natam liberam .",
+      "translation": "That she ( pointing to PALAESTRA ) was born at Athens , a free-born woman ."
+    },
+    {
+      "id": "3.4.740",
+      "label": "Section 3.4.740",
+      "chapter": null,
+      "original": "Mea popularis , obsecro , haec est ?",
+      "translation": "Prithee is she a countrywoman of mine ?"
+    },
+    {
+      "id": "3.4.740b",
+      "label": "Section 3.4.740b",
+      "chapter": null,
+      "original": "Non tu Cyrenensis es ?",
+      "translation": "Are you not a Cyrenian ?"
+    },
+    {
+      "id": "3.4.741",
+      "label": "Section 3.4.741",
+      "chapter": null,
+      "original": "Immo Athenis natus altusque educatusque Atticis .",
+      "translation": "No ; born at Athens in Attica , bred and educated there ."
+    },
+    {
+      "id": "3.4.742",
+      "label": "Section 3.4.742",
+      "chapter": null,
+      "original": "Opsecro , defende cives tuas , senex .",
+      "translation": "Prithee , aged sir , do protect your countrywomen ."
+    },
+    {
+      "id": "3.4.742b",
+      "label": "Section 3.4.742b",
+      "chapter": null,
+      "original": "O filia",
+      "translation": "O daughter , when I look on her , separated from me you remind me of my miseries : ( aloud ) she who was lost by me when three years old ; now , if she is living , she ’ s just about as tall , I ’ m sure , as she ."
+    },
+    {
+      "id": "3.4.745",
+      "label": "Section 3.4.745",
+      "chapter": null,
+      "original": "Argentum ego pro istisce ambabus cuiae erant domino dedi ;",
+      "translation": "I paid the money down for these two , to their owners , of whatever country they were . What matters it to me whether they were born at Athens or at Thebes , so long as they are rightfully in servitude as my slaves ?"
+    },
+    {
+      "id": "3.4.747b",
+      "label": "Section 3.4.747b",
+      "chapter": null,
+      "original": "Itane , impudens ?",
+      "translation": "Is it so , you impudent fellow ? What , are you , a cat prowling after maidens , to be keeping children here kidnapped from their parents and destroying them in your disgraceful calling ?"
+    },
+    {
+      "id": "3.4.750",
+      "label": "Section 3.4.750",
+      "chapter": null,
+      "original": "nam húic alterae quae patria sit profecto nescio ,",
+      "translation": "But as for this other one , I really don ’ t know what her country is ; I only know that she ’ s more deserving than yourself , you most abominable rascal ."
+    },
+    {
+      "id": "3.4.752",
+      "label": "Section 3.4.752",
+      "chapter": null,
+      "original": "† Tuae istae sunt .",
+      "translation": "Are these women your property ?"
+    },
+    {
+      "id": "3.4.752b",
+      "label": "Section 3.4.752b",
+      "chapter": null,
+      "original": "Contende ergo , uter sit tergo — verior :",
+      "translation": "Come to the trial , then , which of the two according to his back is the more truthful ; if you don ’ t bear more compliments [*] upon your back than any ship of war [*] has nails , then I ’ m the greatest of liars ."
+    },
+    {
+      "id": "3.4.755",
+      "label": "Section 3.4.755",
+      "chapter": null,
+      "original": "postea aspicito meum , quando ego tuom inspectavero :",
+      "translation": "Afterwards , do you examine mine , when I ’ ve examined yours ; if it shall not prove to be so untouched , that any leather flask maker [*] will say that it is a hide most capital and most sound for the purposes of his business , what reason is there why I shouldn ’ t mangle you with stripes , even till you have your belly full ? Why do you stare at them ? If you touch them I ’ ll tear your eyes out ."
+    },
+    {
+      "id": "3.4.760",
+      "label": "Section 3.4.760",
+      "chapter": null,
+      "original": "At qui , quia votas , utramque iam mecum abducam simul .",
+      "translation": "Yet notwithstanding , although you forbid me to do so , I ’ ll at once carry them off both together with me ."
+    },
+    {
+      "id": "3.4.761",
+      "label": "Section 3.4.761",
+      "chapter": null,
+      "original": "Quid facies ?",
+      "translation": "What will you do ?"
+    },
+    {
+      "id": "3.4.761b",
+      "label": "Section 3.4.761b",
+      "chapter": null,
+      "original": "Volcanum adducam , is Venerist adversarius .",
+      "translation": "I ’ ll bring Vulcan ; he is an enemy to Venus [*] ."
+    },
+    {
+      "id": "3.4.762",
+      "label": "Section 3.4.762",
+      "chapter": null,
+      "original": "Quo illic it ?",
+      "translation": "Whither is he going ?"
+    },
+    {
+      "id": "3.4.762b",
+      "label": "Section 3.4.762b",
+      "chapter": null,
+      "original": "Heus , ecquis hic est ? heus .",
+      "translation": "Hallo ! Is there anybody here ? Hallo ! I say ."
+    },
+    {
+      "id": "3.4.762c",
+      "label": "Section 3.4.762c",
+      "chapter": null,
+      "original": "Si attigeris ostium ,",
+      "translation": "If you touch the door , that very instant , upon my faith , you shall get a harvest upon your face with fists for your pitchforks [*] ."
+    },
+    {
+      "id": "3.4.764",
+      "label": "Section 3.4.764",
+      "chapter": null,
+      "original": "Nullum habemus ignem , ficis victitamus aridis .",
+      "translation": "We keep no fire , we live upon dried figs ."
+    },
+    {
+      "id": "3.4.765",
+      "label": "Section 3.4.765",
+      "chapter": null,
+      "original": "Ego dabo ignem , siquidem in capite tuo conflandi copiast .",
+      "translation": "I ’ ll find the fire , if only I have the opportunity of kindling it upon your head ."
+    },
+    {
+      "id": "3.4.766",
+      "label": "Section 3.4.766",
+      "chapter": null,
+      "original": "Ibo hercle aliquo quaeritatum ígnem .",
+      "translation": "Faith , I ’ ll go somewhere to look for some fire ."
+    },
+    {
+      "id": "3.4.766b",
+      "label": "Section 3.4.766b",
+      "chapter": null,
+      "original": "Quid quom inveneris ?",
+      "translation": "What , when you ’ ve found it ?"
+    },
+    {
+      "id": "3.4.767",
+      "label": "Section 3.4.767",
+      "chapter": null,
+      "original": "Ignem magnum hic faciam .",
+      "translation": "I ’ ll be making a great fire here ."
+    },
+    {
+      "id": "3.4.767b",
+      "label": "Section 3.4.767b",
+      "chapter": null,
+      "original": "Quin † inhumanum exuras tibi ?",
+      "translation": "What , to be burning [*] a mortuary sacrifice for yourself ?"
+    },
+    {
+      "id": "3.4.768",
+      "label": "Section 3.4.768",
+      "chapter": null,
+      "original": "Immo hasce ambas hic in ara ut vivas comburam , id volo .",
+      "translation": "No , but I ’ ll burn both of these alive here upon the altar ."
+    },
+    {
+      "id": "3.4.769",
+      "label": "Section 3.4.769",
+      "chapter": null,
+      "original": "Iam hercle ego te barba continuo arripiam , in ignem coniciam",
+      "translation": "I ’ d like that . For , by my troth , I ’ ll forthwith seize you by the head and throw you into the fire ,"
+    },
+    {
+      "id": "3.4.770",
+      "label": "Section 3.4.770",
+      "chapter": null,
+      "original": "teque ambustulatum obiciam magnis avibus pabulum .",
+      "translation": "and , half-roasted , I ’ ll throw you out as food for the great birds . ( Aside .) When I come to a consideration of it with myself , this is that ape , that wanted to take away those swallows from the nest against my will , as I was dreaming in my sleep ."
+    },
+    {
+      "id": "3.4.773b",
+      "label": "Section 3.4.773b",
+      "chapter": null,
+      "original": "Scin quid tecum oro , senex ?",
+      "translation": "Aged sir , do you know what I request of you ? That you will protect these females and defend them from violence , until I fetch my master ."
+    },
+    {
+      "id": "3.4.775",
+      "label": "Section 3.4.775",
+      "chapter": null,
+      "original": "Quaere erum atque adduce .",
+      "translation": "Go look for your master , and fetch him here ."
+    },
+    {
+      "id": "3.4.775b",
+      "label": "Section 3.4.775b",
+      "chapter": null,
+      "original": "At hic ne —",
+      "translation": "But don ’ t let him —"
+    },
+    {
+      "id": "3.4.775c",
+      "label": "Section 3.4.775c",
+      "chapter": null,
+      "original": "Maximo malo suo ,",
+      "translation": "At his own extreme peril , if he touches them , or if he attempts to do so ."
+    },
+    {
+      "id": "3.4.776b",
+      "label": "Section 3.4.776b",
+      "chapter": null,
+      "original": "Cura .",
+      "translation": "Take care ."
+    },
+    {
+      "id": "3.4.776c",
+      "label": "Section 3.4.776c",
+      "chapter": null,
+      "original": "Curatumst , abi .",
+      "translation": "Due care is taken ; do you be off ."
+    },
+    {
+      "id": "3.4.777",
+      "label": "Section 3.4.777",
+      "chapter": null,
+      "original": "Hunc quoque adserva ipsum , ne quo abitat ; nam promisimus",
+      "translation": "And watch him too , that he doesn ’ t go away anywhere . For we have promised either to give the executioner a great talent , or else to produce this fellow this very day ."
+    },
+    {
+      "id": "3.4.779",
+      "label": "Section 3.4.779",
+      "chapter": null,
+      "original": "Abi modo , ego dum hoc curabo recte .",
+      "translation": "Do you only be off . I ’ ll not let him get away , while you are absent ."
+    },
+    {
+      "id": "3.4.779b",
+      "label": "Section 3.4.779b",
+      "chapter": null,
+      "original": "Iam ego revenero .",
+      "translation": "I ’ ll be back here soon ."
+    },
+    {
+      "id": "3.5.780",
+      "label": "Section 3.5.780",
+      "chapter": null,
+      "original": "Vtrum tu , leno , cum malo lubentius",
+      "translation": "Which , you Procurer , had you rather do , be quiet with a thrashing , or e ’ en as it is , without the thrashing , if you had the choice ?"
+    },
+    {
+      "id": "3.5.782",
+      "label": "Section 3.5.782",
+      "chapter": null,
+      "original": "Ego quae tu loquere flocci non facio , senex .",
+      "translation": "Old fellow , I don ’ t care a straw for what you say . My own women , in fact , I shall drag away this instant from the altar by the hair , in spite of yourself , and Venus , and supreme Jove ."
+    },
+    {
+      "id": "3.5.784b",
+      "label": "Section 3.5.784b",
+      "chapter": null,
+      "original": "Tange dum .",
+      "translation": "Just touch them ."
+    },
+    {
+      "id": "3.5.785",
+      "label": "Section 3.5.785",
+      "chapter": null,
+      "original": "Tangam hercle vero .",
+      "translation": "I ’ troth , I surely will touch them ."
+    },
+    {
+      "id": "3.5.785b",
+      "label": "Section 3.5.785b",
+      "chapter": null,
+      "original": "Agedum ergo , accede huc modo .",
+      "translation": "Just come then ; only approach this way ."
+    },
+    {
+      "id": "3.5.786",
+      "label": "Section 3.5.786",
+      "chapter": null,
+      "original": "Iube dúm recedere istos ambo illuc modo .",
+      "translation": "Only bid both those fellows , then , to move away from there ."
+    }
+  ],
+  "prevChunkSlug": "the-rope-i828ht-7",
+  "nextChunkSlug": "the-rope-i828ht-9"
+}

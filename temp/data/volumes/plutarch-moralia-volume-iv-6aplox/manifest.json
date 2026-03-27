@@ -1,0 +1,241 @@
+{
+  "loebNumber": 305,
+  "sortOrder": 305,
+  "slug": "plutarch-moralia-volume-iv-6aplox",
+  "title": "Moralia, Volume IV",
+  "volumeLabel": "Moralia, Volume IV",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Moralia, Volume IV. Moralia, Volume IV opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "apophthegmata-laconica-3p477v-1",
+  "readyChunkCount": 7,
+  "contents": [
+    {
+      "id": "moralia-volume-iv-1ff3q1",
+      "title": "Moralia, Volume IV",
+      "status": "ready",
+      "sectionCount": 296,
+      "chunkSlug": "apophthegmata-laconica-3p477v-1",
+      "chunks": [
+        {
+          "slug": "apophthegmata-laconica-3p477v-1",
+          "label": "Apophthegmata Laconica (Section 1.1 - Section 42.1)",
+          "partId": "moralia-volume-iv-1ff3q1",
+          "partTitle": "Moralia, Volume IV",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "apophthegmata-laconica-3p477v-2",
+          "label": "Apophthegmata Laconica (Section 42.2 - Section 69.2)",
+          "partId": "moralia-volume-iv-1ff3q1",
+          "partTitle": "Moralia, Volume IV",
+          "sectionCount": 46,
+          "status": "ready"
+        },
+        {
+          "slug": "instituta-laconia-gbj792",
+          "label": "Instituta Laconia",
+          "partId": "moralia-volume-iv-1ff3q1",
+          "partTitle": "Moralia, Volume IV",
+          "sectionCount": 42,
+          "status": "ready"
+        },
+        {
+          "slug": "lacaenarum-apophthegmata-mmxxlg",
+          "label": "Lacaenarum Apophthegmata",
+          "partId": "moralia-volume-iv-1ff3q1",
+          "partTitle": "Moralia, Volume IV",
+          "sectionCount": 8,
+          "status": "ready"
+        },
+        {
+          "slug": "mulierum-virtutes-rotwig",
+          "label": "Mulierum virtutes",
+          "partId": "moralia-volume-iv-1ff3q1",
+          "partTitle": "Moralia, Volume IV",
+          "sectionCount": 27,
+          "status": "ready"
+        },
+        {
+          "slug": "quaestiones-romanae-1yz2yw-1",
+          "label": "Quaestiones Romanae (Section 1 - Section 60)",
+          "partId": "moralia-volume-iv-1ff3q1",
+          "partTitle": "Moralia, Volume IV",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "quaestiones-romanae-1yz2yw-2",
+          "label": "Quaestiones Romanae (Section 61 - Section 113)",
+          "partId": "moralia-volume-iv-1ff3q1",
+          "partTitle": "Moralia, Volume IV",
+          "sectionCount": 53,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "apophthegmata-laconica-3p477v-1",
+      "label": "Apophthegmata Laconica (Section 1.1 - Section 42.1)",
+      "partId": "moralia-volume-iv-1ff3q1",
+      "partTitle": "Moralia, Volume IV",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "apophthegmata-laconica-3p477v-2",
+      "label": "Apophthegmata Laconica (Section 42.2 - Section 69.2)",
+      "partId": "moralia-volume-iv-1ff3q1",
+      "partTitle": "Moralia, Volume IV",
+      "sectionCount": 46,
+      "status": "ready"
+    },
+    {
+      "slug": "instituta-laconia-gbj792",
+      "label": "Instituta Laconia",
+      "partId": "moralia-volume-iv-1ff3q1",
+      "partTitle": "Moralia, Volume IV",
+      "sectionCount": 42,
+      "status": "ready"
+    },
+    {
+      "slug": "lacaenarum-apophthegmata-mmxxlg",
+      "label": "Lacaenarum Apophthegmata",
+      "partId": "moralia-volume-iv-1ff3q1",
+      "partTitle": "Moralia, Volume IV",
+      "sectionCount": 8,
+      "status": "ready"
+    },
+    {
+      "slug": "mulierum-virtutes-rotwig",
+      "label": "Mulierum virtutes",
+      "partId": "moralia-volume-iv-1ff3q1",
+      "partTitle": "Moralia, Volume IV",
+      "sectionCount": 27,
+      "status": "ready"
+    },
+    {
+      "slug": "quaestiones-romanae-1yz2yw-1",
+      "label": "Quaestiones Romanae (Section 1 - Section 60)",
+      "partId": "moralia-volume-iv-1ff3q1",
+      "partTitle": "Moralia, Volume IV",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "quaestiones-romanae-1yz2yw-2",
+      "label": "Quaestiones Romanae (Section 61 - Section 113)",
+      "partId": "moralia-volume-iv-1ff3q1",
+      "partTitle": "Moralia, Volume IV",
+      "sectionCount": 53,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "apophthegmata-laconica-3p477v-1",
+      "partTitle": "Moralia, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀποφθέγματα Λακωνικά",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg082.perseus-grc3/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Sayings of Spartans",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg082.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "apophthegmata-laconica-3p477v-2",
+      "partTitle": "Moralia, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀποφθέγματα Λακωνικά",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg082.perseus-grc3/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Sayings of Spartans",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg082.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "instituta-laconia-gbj792",
+      "partTitle": "Moralia, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Τὰ παλαιὰ τῶν Λακεδαινίων ἐπιτηδεύματα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg082a.perseus-grc3/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Ancient Customs of the Spartans",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg082a.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "lacaenarum-apophthegmata-mmxxlg",
+      "partTitle": "Moralia, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Λακαινῶν ἀποφθάγματα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg082b.perseus-grc3/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Sayings of Spartan Women",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg082b.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "mulierum-virtutes-rotwig",
+      "partTitle": "Moralia, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Γυναικῶν ἀρεταί",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg083.perseus-grc3/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Bravery of Women",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg083.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "quaestiones-romanae-1yz2yw-1",
+      "partTitle": "Moralia, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Αἴτια Ῥωμαϊκά",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg084a.perseus-grc3/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Roman Questions",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg084a.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "quaestiones-romanae-1yz2yw-2",
+      "partTitle": "Moralia, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Αἴτια Ῥωμαϊκά",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg084a.perseus-grc3/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Roman Questions",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg084a.perseus-eng3/"
+      }
+    }
+  ]
+}

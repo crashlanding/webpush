@@ -1,0 +1,61 @@
+{
+  "loebNumber": 104,
+  "sortOrder": 104,
+  "slug": "homer-odyssey-volume-i-1w11nc",
+  "title": "Odyssey, Volume I",
+  "volumeLabel": "Odyssey, Volume I",
+  "authorDisplay": "Homer",
+  "authors": [
+    "Homer"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Odyssey, Volume I. Odyssey, Volume I currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "odyssey-volume-i-169wr6",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "odyssey-volume-i-169wr6",
+      "title": "Odyssey, Volume I",
+      "status": "ready",
+      "sectionCount": 24,
+      "chunkSlug": "odyssey-volume-i-169wr6",
+      "chunks": [
+        {
+          "slug": "odyssey-volume-i-169wr6",
+          "label": "Odyssey, Volume I",
+          "partId": "odyssey-volume-i-169wr6",
+          "partTitle": "Odyssey, Volume I",
+          "sectionCount": 24,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "odyssey-volume-i-169wr6",
+      "label": "Odyssey, Volume I",
+      "partId": "odyssey-volume-i-169wr6",
+      "partTitle": "Odyssey, Volume I",
+      "sectionCount": 24,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "odyssey-volume-i-169wr6",
+      "partTitle": "Odyssey, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὀδύσσεια",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0012.tlg002.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Odyssey",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0012.tlg002.perseus-eng3/"
+      }
+    }
+  ]
+}

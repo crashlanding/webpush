@@ -1,0 +1,61 @@
+{
+  "loebNumber": 73,
+  "sortOrder": 73,
+  "slug": "aristotle-nicomachean-ethics-141329",
+  "title": "Nicomachean Ethics",
+  "volumeLabel": "Nicomachean Ethics",
+  "authorDisplay": "Aristotle",
+  "authors": [
+    "Aristotle"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Nicomachean Ethics, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "nicomachean-ethics-xbrzm6",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "nicomachean-ethics-xbrzm6",
+      "title": "Nicomachean Ethics",
+      "status": "ready",
+      "sectionCount": 28,
+      "chunkSlug": "nicomachean-ethics-xbrzm6",
+      "chunks": [
+        {
+          "slug": "nicomachean-ethics-xbrzm6",
+          "label": "Nicomachean Ethics",
+          "partId": "nicomachean-ethics-xbrzm6",
+          "partTitle": "Nicomachean Ethics",
+          "sectionCount": 28,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "nicomachean-ethics-xbrzm6",
+      "label": "Nicomachean Ethics",
+      "partId": "nicomachean-ethics-xbrzm6",
+      "partTitle": "Nicomachean Ethics",
+      "sectionCount": 28,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "nicomachean-ethics-xbrzm6",
+      "partTitle": "Nicomachean Ethics",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἠθικὰ Νικομάχεια",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg010.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Nicomachean Ethics",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg010.perseus-eng2/"
+      }
+    }
+  ]
+}

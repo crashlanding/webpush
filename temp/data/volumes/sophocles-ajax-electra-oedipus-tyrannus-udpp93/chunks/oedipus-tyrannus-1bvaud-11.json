@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "sophocles-ajax-electra-oedipus-tyrannus-udpp93",
+  "volumeTitle": "Ajax. Electra. Oedipus Tyrannus",
+  "authorDisplay": "Sophocles",
+  "authors": [
+    "Sophocles"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "oedipus-tyrannus-1bvaud-11",
+  "label": "Oedipus Tyrannus (Section 1.1320 - Section 1500)",
+  "partId": "oedipus-tyrannus-1bvaud",
+  "partTitle": "Oedipus Tyrannus",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Οἰδίπους Τύραννος",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Oedipus Tyrannus",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1320",
+      "label": "Section 1.1320",
+      "chapter": null,
+      "original": "διπλᾶ σε πενθεῖν καὶ διπλᾶ φορεῖν κακά .",
+      "translation": "you mourn and bear a double pain ."
+    },
+    {
+      "id": "1.1321",
+      "label": "Section 1.1321",
+      "chapter": null,
+      "original": "ἰὼ φίλος ,",
+      "translation": "Ah , friend , you still are steadfast in your care for me , and still have patience to tend to the blind man ! Ah , me !"
+    },
+    {
+      "id": "1.1325",
+      "label": "Section 1.1325",
+      "chapter": null,
+      "original": "οὐ γάρ με λήθεις , ἀλλὰ γιγνώσκω σαφῶς ,",
+      "translation": "Your presence is not hidden from me — no , blind though I am , nevertheless I know your voice full well ."
+    },
+    {
+      "id": "1.1327",
+      "label": "Section 1.1327",
+      "chapter": null,
+      "original": "ὦ δεινὰ δράσας , πῶς ἔτλης τοιαῦτα σὰς",
+      "translation": "Man of dread deeds , how could you quench your vision in this way ? What divinity urged you on ?"
+    },
+    {
+      "id": "2.1329",
+      "label": "Section 2.1329",
+      "chapter": null,
+      "original": "Ἀπόλλων τάδʼ ἦν , Ἀπόλλων , φίλοι ,",
+      "translation": "It was Apollo , friends , Apollo who brought these troubles"
+    },
+    {
+      "id": "2.1330",
+      "label": "Section 2.1330",
+      "chapter": null,
+      "original": "ὁ κακὰ κακὰ τελῶν ἐμὰ τάδʼ ἐμὰ πάθεα .",
+      "translation": "to pass , these terrible , terrible troubles . But the hand that struck my eyes was none other than my own , wretched that I am !"
+    },
+    {
+      "id": "2.1335",
+      "label": "Section 2.1335",
+      "chapter": null,
+      "original": "ὅτῳ γʼ ὁρῶντι μηδὲν ἦν ἰδεῖν γλυκύ ;",
+      "translation": "Why should I see , when sight showed me nothing sweet ?"
+    },
+    {
+      "id": "2.1336",
+      "label": "Section 2.1336",
+      "chapter": null,
+      "original": "ἦν τᾷδʼ ὅπωσπερ καὶ σύ φῄς .",
+      "translation": "These things were just as you say ."
+    },
+    {
+      "id": "2.1337",
+      "label": "Section 2.1337",
+      "chapter": null,
+      "original": "τί δῆτʼ ἐμοὶ βλεπτὸν ἢ",
+      "translation": "What , my friends , can I behold anymore , what can I love , what greeting can touch my ear with joy ? Hurry , friends ,"
+    },
+    {
+      "id": "2.1340",
+      "label": "Section 2.1340",
+      "chapter": null,
+      "original": "ἀπάγετʼ ἐκτόπιον ὅ τι τάχιστά με ,",
+      "translation": "lead me from the land , lead me from here , the utterly lost ,"
+    },
+    {
+      "id": "2.1345",
+      "label": "Section 2.1345",
+      "chapter": null,
+      "original": "ἐχθρότατον βροτῶν .",
+      "translation": "the thrice-accursed , the mortal most hateful to the gods !"
+    },
+    {
+      "id": "2.1347",
+      "label": "Section 2.1347",
+      "chapter": null,
+      "original": "ὡς σʼ ἠθέλησα μηδέ γʼ ἂν γνῶναί ποτε .",
+      "translation": "Wretched alike for your fortune and for your understanding of it , would that I had never known you !"
+    },
+    {
+      "id": "2.1349",
+      "label": "Section 2.1349",
+      "chapter": null,
+      "original": "ὄλοιθʼ ὅστις ἦν , ὃς ἀγρίας πέδας",
+      "translation": "Perish the man , whoever he was , who freed me in the past years from the cruel shackle on my feet — a thankless deed ! Had I died then ,"
+    },
+    {
+      "id": "2.1355",
+      "label": "Section 2.1355",
+      "chapter": null,
+      "original": "οὐκ ἦ φίλοισιν οὐδʼ ἐμοὶ τοσόνδʼ ἄχος .",
+      "translation": "I would not have been so sore a grief to my friends and to my own soul ."
+    },
+    {
+      "id": "2.1356",
+      "label": "Section 2.1356",
+      "chapter": null,
+      "original": "θέλοντι κἀμοὶ τοῦτʼ ἂν ἦν .",
+      "translation": "I too would have had it thus ."
+    },
+    {
+      "id": "2.1357",
+      "label": "Section 2.1357",
+      "chapter": null,
+      "original": "οὔκουν πατρός γʼ ἂν φονεὺς",
+      "translation": "In this way I would not have come to shed my father ’ s blood , or been known among men as the husband of the woman from whom I was born ."
+    },
+    {
+      "id": "2.1360",
+      "label": "Section 2.1360",
+      "chapter": null,
+      "original": "νῦν δʼ ἄθεος μέν εἰμʼ , ἀνοσίων δὲ παῖς ,",
+      "translation": "Now I am forsaken by the gods , son of a defiled mother , successor to the bed of the man who gave me my own wretched being :"
+    },
+    {
+      "id": "2.1365",
+      "label": "Section 2.1365",
+      "chapter": null,
+      "original": "εἰ δέ τι πρεσβύτερον ἔτι κακοῦ κακόν ,",
+      "translation": "if there is a woe surpassing all woes , it has become Oedipus ’ lot ."
+    },
+    {
+      "id": "1367",
+      "label": "Section 1367",
+      "chapter": null,
+      "original": "οὐκ οἶδʼ ὅπως σε φῶ βεβουλεῦσθαι καλῶς ·",
+      "translation": "I cannot agree that you have counseled well : you would have been better dead than living and blind ."
+    },
+    {
+      "id": "1369",
+      "label": "Section 1369",
+      "chapter": null,
+      "original": "ὡς μὲν τάδʼ οὐχ ὧδʼ ἔστʼ ἄριστʼ εἰργασμένα ,",
+      "translation": "Do not tell me that things have not been best done in this way :"
+    },
+    {
+      "id": "1370",
+      "label": "Section 1370",
+      "chapter": null,
+      "original": "μή μʼ ἐκδίδασκε , μηδὲ συμβούλευʼ ἔτι .",
+      "translation": "give me counsel no more . If I had sight , I know not with what eyes I could even have looked on my father , when I came to the house of Hades , or on my miserable mother , since against both I have sinned such sins as hanging myself could not punish ."
+    },
+    {
+      "id": "1375",
+      "label": "Section 1375",
+      "chapter": null,
+      "original": "ἀλλʼ ἡ τέκνων δῆτʼ ὄψις ἦν ἐφίμερος ,",
+      "translation": "But do you think that the sight of children , born as mine were , was lovely for me to look upon ? No , no , never lovely to my eyes ! No , neither was this town with its towering walls , nor the sacred statues of the gods , since I , thrice wretched that I am —"
+    },
+    {
+      "id": "1380",
+      "label": "Section 1380",
+      "chapter": null,
+      "original": "κάλλιστʼ ἀνὴρ εἷς ἔν γε ταῖς Θήβαις τραφεὶς",
+      "translation": "I , noblest of the sons of Thebes — have doomed myself to know them no more by commanding that all should reject the impious one , the one whom the gods have revealed as unholy , a member of Laius ’ own race ! After bearing such a stain upon myself ,"
+    },
+    {
+      "id": "1385",
+      "label": "Section 1385",
+      "chapter": null,
+      "original": "ὀρθοῖς ἔμελλον ὄμμασιν τούτους ὁρᾶν ;",
+      "translation": "was I to look with steady eyes on this folk ? No indeed : were there a way to choke the source of hearing , I would not have hesitated to make a fast prison of this wretched frame , so that I should have known neither sight nor sound ."
+    },
+    {
+      "id": "1390",
+      "label": "Section 1390",
+      "chapter": null,
+      "original": "τὴν φροντίδʼ ἔξω τῶν κακῶν οἰκεῖν γλυκύ .",
+      "translation": "It is sweet for our thought to dwell beyond the sphere of grief . Alas , Cithaeron , why did you provide a shelter for me ? When I was given to you , why did you not slay me straightway , that I might never reveal my origin to men . Ah , Polybus , ah , Corinth , and you that were called the ancient house of my father ,"
+    },
+    {
+      "id": "1395",
+      "label": "Section 1395",
+      "chapter": null,
+      "original": "λόγῳ παλαιὰ δώμαθʼ , οἷον ἆρά με",
+      "translation": "how fair-seeming was I , your nurseling , and what evils were festering underneath ! Now I am found to be evil and of evil birth . Oh you three roads , and you secret glen , you , thicket , and narrow way where three paths met —"
+    },
+    {
+      "id": "1400",
+      "label": "Section 1400",
+      "chapter": null,
+      "original": "αἳ τοὐμὸν αἷμα τῶν ἐμῶν χειρῶν ἄπο",
+      "translation": "you who drank my father ’ s blood from my own hands — do you remember , perhaps , what deeds I have performed in your sight , and then what fresh deeds I went on to do when I came here ? Oh marriage rites , you gave me birth , and when you had brought me forth ,"
+    },
+    {
+      "id": "1405",
+      "label": "Section 1405",
+      "chapter": null,
+      "original": "ἀνεῖτε ταὐτοῦ σπέρμα , κἀπεδείξατε",
+      "translation": "you again bore children to your child , you created an incestuous kinship of fathers , brothers , sons , brides , wives , and mothers — all the foulest deeds that are wrought among men ! But it is improper to mention what it is improper to do —"
+    },
+    {
+      "id": "1410",
+      "label": "Section 1410",
+      "chapter": null,
+      "original": "ὅπως τάχιστα πρὸς θεῶν ἔξω μέ που",
+      "translation": "hurry , for the love of the gods , hide me somewhere beyond the land , or slay me , or cast me into the sea , where you will never behold me any longer ! Approach — deign to lay your hands on a wretched man — listen and fear not : my plague can rest"
+    },
+    {
+      "id": "1415",
+      "label": "Section 1415",
+      "chapter": null,
+      "original": "οὐδεὶς οἷός τε πλὴν ἐμοῦ φέρειν βροτῶν .",
+      "translation": "on no other mortal ."
+    },
+    {
+      "id": "1416",
+      "label": "Section 1416",
+      "chapter": null,
+      "original": "ἀλλʼ ὧν ἐπαιτεῖς εἰς δέον πάρεσθʼ ὅδε",
+      "translation": "But here is Creon in good time to plan and perform that which you request . He alone is left to guard the land in your place ."
+    },
+    {
+      "id": "1419",
+      "label": "Section 1419",
+      "chapter": null,
+      "original": "οἴμοι , τί δῆτα λέξομεν πρὸς τόνδʼ ἔπος ;",
+      "translation": "Ah , me , how will I address him ?"
+    },
+    {
+      "id": "1420",
+      "label": "Section 1420",
+      "chapter": null,
+      "original": "τίς μοι φανεῖται πίστις ἔνδικος ; τὰ γὰρ",
+      "translation": "What claim to credence can be shown on my part ? For in the past I proved to be wholly false to him ."
+    },
+    {
+      "id": "1422",
+      "label": "Section 1422",
+      "chapter": null,
+      "original": "οὐχ ὡς γελαστής , Οἰδίπους , ἐλήλυθα ,",
+      "translation": "I have not come to mock or reproach you with any any past fault ."
+    },
+    {
+      "id": "1424",
+      "label": "Section 1424",
+      "chapter": null,
+      "original": "ἀλλʼ εἰ τὰ θνητῶν μὴ καταισχύνεσθʼ ἔτι",
+      "translation": "But you , if you no longer respect the children of men ,"
+    },
+    {
+      "id": "1425",
+      "label": "Section 1425",
+      "chapter": null,
+      "original": "γένεθλα , τὴν γοῦν πάντα βόσκουσαν φλόγα",
+      "translation": "revere at least the all-nurturing flame of our lord the Sun , and don ’ t show so openly such a pollution as this , one which neither earth , nor holy rain , nor the light itself can welcome . Take him into the house as quickly as you can : it best accords with pity that"
+    },
+    {
+      "id": "1430",
+      "label": "Section 1430",
+      "chapter": null,
+      "original": "τοῖς ἐν γένει γὰρ τἀγγενῆ μάλισθʼ ὁρᾶν",
+      "translation": "kinfolk alone should see and hear a kinsman ’ s woes ."
+    },
+    {
+      "id": "1432",
+      "label": "Section 1432",
+      "chapter": null,
+      "original": "πρὸς θεῶν , ἐπείπερ ἐλπίδος μʼ ἀπέσπασας ,",
+      "translation": "For the gods ’ love — since you have done a gentle violence to my prediction and come in a spirit so noble to me , a man most vile — grant me a favor : I will speak for your own good , not mine ."
+    },
+    {
+      "id": "1435",
+      "label": "Section 1435",
+      "chapter": null,
+      "original": "καὶ τοῦ με χρείας ὧδε λιπαρεῖς τυχεῖν ;",
+      "translation": "And what do you wish so eagerly to get from me ?"
+    },
+    {
+      "id": "1436",
+      "label": "Section 1436",
+      "chapter": null,
+      "original": "ῥῖψόν με γῆς ἐκ τῆσδʼ ὅσον τάχισθʼ , ὅπου",
+      "translation": "Cast me out of this land with all speed , to a place where no mortal shall be found to greet me ."
+    },
+    {
+      "id": "1438",
+      "label": "Section 1438",
+      "chapter": null,
+      "original": "ἔδρασʼ ἂν εὖ τοῦτʼ ἴσθʼ ἄν , εἰ μὴ τοῦ θεοῦ",
+      "translation": "This I could have done , to be sure , except I craved first to learn from the god all my duty ."
+    },
+    {
+      "id": "1440",
+      "label": "Section 1440",
+      "chapter": null,
+      "original": "ἀλλʼ ἥ γʼ ἐκείνου πᾶσʼ ἐδηλώθη φάτις ,",
+      "translation": "But his pronouncement has been set forth in full — to let me perish , the parricide , unholy one that I am ."
+    },
+    {
+      "id": "1442",
+      "label": "Section 1442",
+      "chapter": null,
+      "original": "οὕτως ἐλέχθη ταῦθʼ · ὅμως δʼ ἵνʼ ἕσταμεν",
+      "translation": "Thus it was said . But since we have come to such a pass , it is better to learn clearly what should be done ."
+    },
+    {
+      "id": "1444",
+      "label": "Section 1444",
+      "chapter": null,
+      "original": "οὕτως ἄρʼ ἀνδρὸς ἀθλίου πεύσεσθʼ ὕπερ ;",
+      "translation": "Will you , then , seek a response on behalf of such a wretch as I ?"
+    },
+    {
+      "id": "1445",
+      "label": "Section 1445",
+      "chapter": null,
+      "original": "καὶ γὰρ σὺ νῦν τἂν τῷ θεῷ πίστιν φέροις .",
+      "translation": "Yes , for even you yourself will now surely put faith in the god ."
+    },
+    {
+      "id": "1446",
+      "label": "Section 1446",
+      "chapter": null,
+      "original": "καὶ σοί γʼ ἐπισκήπτω τε καὶ προστέψομαι ,",
+      "translation": "Yes . And on you I lay this charge , to you I make this entreaty : give to the woman within such burial as you wish — you will properly render the last rites to your own . But never let this city of my father be condemned"
+    },
+    {
+      "id": "1450",
+      "label": "Section 1450",
+      "chapter": null,
+      "original": "πατρῷον ἄστυ ζῶντος οἰκητοῦ τυχεῖν ,",
+      "translation": "to have me dwelling within , as long as I live . No , allow me to live in the hills , where Cithaeron , famed as mine , sits , which my mother and father , while they lived , fixed as my appointed tomb , so that I may die according to the decree of those who sought to slay me ."
+    },
+    {
+      "id": "1455",
+      "label": "Section 1455",
+      "chapter": null,
+      "original": "καίτοι τοσοῦτόν γʼ οἶδα , μήτε μʼ ἂν νόσον",
+      "translation": "And yet I know this much , that neither sickness nor anything else can destroy me ; for I would never have been snatched from death , except in order to suffer some strange doom .\nBut let my fate go where it will . Regarding my children , Creon , I beg you to take no care of my sons :"
+    },
+    {
+      "id": "1460",
+      "label": "Section 1460",
+      "chapter": null,
+      "original": "προσθῇ μέριμναν · ἄνδρες εἰσίν , ὥστε μὴ",
+      "translation": "they are men , so that they will never lack the means to live wherever they should be . My two girls , poor hapless ones — who never knew my table spread separately , or lacked their father ’ s presence , but always had a share of all that"
+    },
+    {
+      "id": "1465",
+      "label": "Section 1465",
+      "chapter": null,
+      "original": "ψαύοιμι , πάντων τῶνδʼ ἀεὶ μετειχέτην ·",
+      "translation": "reached my hands — I implore you to take care of them . And , if you can , allow me to touch them with my hands , and to indulge my grief . Grant it , prince , grant it , noble heart . Ah , if I could but once touch them with my hands , I would think that I had them"
+    },
+    {
+      "id": "1470",
+      "label": "Section 1470",
+      "chapter": null,
+      "original": "δοκοῖμʼ ἔχειν σφᾶς , ὥσπερ ἡνίκʼ ἔβλεπον .",
+      "translation": "just as when I had sight ."
+    },
+    {
+      "id": "1471",
+      "label": "Section 1471",
+      "chapter": null,
+      "original": "τί φημί ;",
+      "translation": "What is this ? Oh , gods , can it be my loved ones that I hear sobbing , can Creon have taken pity on me and sent my children , my darlings ?"
+    },
+    {
+      "id": "1475",
+      "label": "Section 1475",
+      "chapter": null,
+      "original": "λέγω τι ;",
+      "translation": "Am I right ?"
+    },
+    {
+      "id": "1476",
+      "label": "Section 1476",
+      "chapter": null,
+      "original": "λέγεις · ἐγὼ γὰρ εἰμʼ ὁ πορσύνας τάδε ,",
+      "translation": "You are . I have brought this about , for I knew the joy which you have long had from them — the joy you now have ."
+    },
+    {
+      "id": "1478",
+      "label": "Section 1478",
+      "chapter": null,
+      "original": "ἀλλʼ εὐτυχοίης , καί σε τῆσδε τῆς ὁδοῦ",
+      "translation": "Bless you , and for this errand may the god prove a kinder guardian to you than he has to me ."
+    },
+    {
+      "id": "1480",
+      "label": "Section 1480",
+      "chapter": null,
+      "original": "ὦ τέκνα , ποῦ ποτʼ ἐστέ ; δεῦρʼ ἴτʼ , ἔλθετε",
+      "translation": "My children , where are you ? Come , here , here to the hands of the one whose mother was your own , the hands that have made your father ’ s once bright eyes to be such orbs as these — his , who seeing nothing , knowing nothing ,"
+    },
+    {
+      "id": "1485",
+      "label": "Section 1485",
+      "chapter": null,
+      "original": "πατὴρ ἐφάνθην ἔνθεν αὐτὸς ἠρόθην .",
+      "translation": "became your father by her from whom he was born ! For you also do I weep , though I cannot see you , when I think of the bitter life that men will make you live in days to come . To what company of the citizens will you go , to what festival ,"
+    },
+    {
+      "id": "1490",
+      "label": "Section 1490",
+      "chapter": null,
+      "original": "ποίας δʼ ἑορτάς , ἔνθεν οὐ κεκλαυμέναι",
+      "translation": "from which you will not return home in tears , not sharing in the holiday ? But when you reach a ripe age for marriage , who shall he be , who shall be the man , my daughters , to risk taking upon himself the reproaches"
+    },
+    {
+      "id": "1495",
+      "label": "Section 1495",
+      "chapter": null,
+      "original": "γοναῖσιν ἔσται σφῷν θʼ ὁμοῦ δηλήματα ;",
+      "translation": "that will certainly be baneful to my offspring and yours ? What misery is lacking ? Your father killed his own father , and bore you from the source of his own being !"
+    },
+    {
+      "id": "1500",
+      "label": "Section 1500",
+      "chapter": null,
+      "original": "τοιαῦτʼ ὀνειδιεῖσθε · κᾆτα τίς γαμεῖ ;",
+      "translation": "Such are the taunts that will be cast at you . And who then will wed you ? The man does not live , no , it cannot be , my children , but you will wither in barren maidenhood . Son of Menoeceus , hear me : since you are the only father left to them — we , their parents , are both gone —"
+    }
+  ],
+  "prevChunkSlug": "oedipus-tyrannus-1bvaud-10",
+  "nextChunkSlug": "oedipus-tyrannus-1bvaud-12"
+}

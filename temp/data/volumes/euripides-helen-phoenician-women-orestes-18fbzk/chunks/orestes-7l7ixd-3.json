@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-helen-phoenician-women-orestes-18fbzk",
+  "volumeTitle": "Helen. Phoenician Women. Orestes",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "orestes-7l7ixd-3",
+  "label": "Orestes (Section 264 - Section 406)",
+  "partId": "orestes-7l7ixd",
+  "partTitle": "Orestes",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ὀρέστης",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Orestes",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "264",
+      "label": "Section 264",
+      "chapter": null,
+      "original": "μέθες · μίʼ οὖσα τῶν ἐμῶν Ἐρινύων",
+      "translation": "Let me go ! you are one of my Furies ,"
+    },
+    {
+      "id": "265",
+      "label": "Section 265",
+      "chapter": null,
+      "original": "μέσον μʼ ὀχμάζεις , ὡς βάλῃς ἐς Τάρταρον .",
+      "translation": "and are gripping me by the waist to hurl me into Tartarus !"
+    },
+    {
+      "id": "266",
+      "label": "Section 266",
+      "chapter": null,
+      "original": "οἲ ʼγὼ τάλαινα , τίνʼ ἐπικουρίαν λάβω ,",
+      "translation": "Alas for me ! What aid can I find , when we have Heaven ’ s forces set against us ?"
+    },
+    {
+      "id": "268",
+      "label": "Section 268",
+      "chapter": null,
+      "original": "δὸς τόξα μοι κερουλκά , δῶρα Λοξίου ,",
+      "translation": "Give me my horn-tipped bow , Apollo ’ s gift , with which he told me to ward off the goddesses ,"
+    },
+    {
+      "id": "270",
+      "label": "Section 270",
+      "chapter": null,
+      "original": "εἴ μʼ ἐκφοβοῖεν μανιάσιν λυσσήμασιν .",
+      "translation": "if ever they sought to scare me with wild transports of madness ."
+    },
+    {
+      "id": "271",
+      "label": "Section 271",
+      "chapter": null,
+      "original": "βεβλήσεταί τις θεῶν βροτησίᾳ χερί ,",
+      "translation": "A mortal hand will wound one of them , unless she departs from my sight . Don ’ t you hear me ? Don ’ t you see the feathered arrows springing out from my far-shooting bow ? What !"
+    },
+    {
+      "id": "275",
+      "label": "Section 275",
+      "chapter": null,
+      "original": "τί δῆτα μέλλετʼ ; ἐξακρίζετʼ αἰθέρα",
+      "translation": "Do you linger still ? Mount the sky on your wings , and blame those oracles of Phoebus ."
+    },
+    {
+      "id": "276b",
+      "label": "Section 276b",
+      "chapter": null,
+      "original": "ἔα ·",
+      "translation": "Ah ! why am I raving , gasping ? Where , oh ! where have I leapt , from my couch ? Once more the storm is past , I see a calm ."
+    },
+    {
+      "id": "280",
+      "label": "Section 280",
+      "chapter": null,
+      "original": "σύγγονε , τί κλαίεις κρᾶτα θεῖσʼ ἔσω πέπλων ;",
+      "translation": "Sister , why do you weep , your head wrapped in your robe ? I am ashamed that I should make you a partner in my sufferings and distress a maiden like you through my sickness . Do not waste away over my troubles ; for though you consented to it , yet I was the one that spilled"
+    },
+    {
+      "id": "285",
+      "label": "Section 285",
+      "chapter": null,
+      "original": "μητρῷον αἷμα · Λοξίᾳ δὲ μέμφομαι ,",
+      "translation": "our mother ’ s blood . I blame Loxias , for urging me on to do a deed most unholy , encouraging me with words but not in deed . I believe that , if I had asked my father to his face whether I must slay my mother ,"
+    },
+    {
+      "id": "290",
+      "label": "Section 290",
+      "chapter": null,
+      "original": "πολλὰς γενείου τοῦδʼ ἂν ἐκτεῖναι λιτὰς",
+      "translation": "he would have strongly entreated me , by this beard , never to plunge a sword into her throat , since he would not regain his life , and I , poor wretch , would accomplish such evil !"
+    },
+    {
+      "id": "294",
+      "label": "Section 294",
+      "chapter": null,
+      "original": "καὶ νῦν ἀνακάλυπτʼ , ὦ κασιγνήτη , κάρα ,",
+      "translation": "And now , my sister , unveil your face"
+    },
+    {
+      "id": "295",
+      "label": "Section 295",
+      "chapter": null,
+      "original": "ἐκ δακρύων τʼ ἄπελθε , κεἰ μάλʼ ἀθλίως",
+      "translation": "and cease to weep , despite our misery . Whenever you see me give way to despair , it is for you to calm and soothe the terrors and distorted fancies of my brain . Whenever sorrow comes to you , I must be at your side and give you comforting advice ;"
+    },
+    {
+      "id": "300",
+      "label": "Section 300",
+      "chapter": null,
+      "original": "ἐπικουρίαι γὰρ αἵδε τοῖς φίλοις καλαί .",
+      "translation": "for to help our friends like this is noble ."
+    },
+    {
+      "id": "301",
+      "label": "Section 301",
+      "chapter": null,
+      "original": "ἀλλʼ , ὦ τάλαινα , βᾶσα δωμάτων ἔσω",
+      "translation": "Go in the house now , my poor sister ; lie down and close your sleepless eyes ; take food and bathe your body . For if you leave me or fall sick from nursing me ,"
+    },
+    {
+      "id": "305",
+      "label": "Section 305",
+      "chapter": null,
+      "original": "κτήσῃ τινʼ , οἰχόμεσθα · σὲ γὰρ ἔχω μόνην",
+      "translation": "I am lost . You are my only ally ; I am deserted by all the rest , as you see ."
+    },
+    {
+      "id": "307",
+      "label": "Section 307",
+      "chapter": null,
+      "original": "οὐκ ἔστι · σὺν σοὶ καὶ θανεῖν αἱρήσομαι",
+      "translation": "I will not leave you ; with you I will choose to live and die ; for it is the same : if you die , what shall I , a woman , do ? How shall I escape alone ,"
+    },
+    {
+      "id": "310",
+      "label": "Section 310",
+      "chapter": null,
+      "original": "ἀνάδελφος ἀπάτωρ ἄφιλος ; εἰ δὲ σοὶ δοκεῖ ,",
+      "translation": "with no brother , or father , or friends ? Still , if you think it right , I must do your bidding . But lie down upon your couch , and do not pay too great heed to the terrors and alarm that scare you from your rest ; lie still upon your pallet . For even if you are not sick , but only think you are ,"
+    },
+    {
+      "id": "315",
+      "label": "Section 315",
+      "chapter": null,
+      "original": "κάματος βροτοῖσιν ἀπορία τε γίγνεται .",
+      "translation": "this brings weariness and perplexity to mortals . Exit Electra ."
+    },
+    {
+      "id": "1.316",
+      "label": "Section 1.316",
+      "chapter": null,
+      "original": "αἰαῖ ,",
+      "translation": "Ah ! ah ! you goddesses swiftly careering on your wings , whose lot it is to hold a revel , not with Bacchic rites ,"
+    },
+    {
+      "id": "1.320",
+      "label": "Section 1.320",
+      "chapter": null,
+      "original": "δάκρυσι καὶ γόοις ,",
+      "translation": "in tears and groans ; you black-skinned avenging spirits , that dart along the spacious air , exacting a penalty for blood , a penalty for murder , I beg you , I beg you !"
+    },
+    {
+      "id": "1.325",
+      "label": "Section 1.325",
+      "chapter": null,
+      "original": "τὸν Ἀγαμέμνονος",
+      "translation": "Allow the son of Agamemnon to forget his wild whirling frenzy ."
+    },
+    {
+      "id": "1.327",
+      "label": "Section 1.327",
+      "chapter": null,
+      "original": "μανιάδος φοιταλέου . φεῦ μόχθων ,",
+      "translation": "Alas for the toils which you , poor wretch , strove after to your ruin , when you heard the voice from the tripod , proclaimed by Phoebus ,"
+    },
+    {
+      "id": "1.330",
+      "label": "Section 1.330",
+      "chapter": null,
+      "original": "ξάμενος ἀνὰ δάπεδον ,",
+      "translation": "at his sanctuary , where the hollows are called the navel of the earth ."
+    },
+    {
+      "id": "1.332",
+      "label": "Section 1.332",
+      "chapter": null,
+      "original": "ἰὼ Ζεῦ ,",
+      "translation": "O Zeus ! What pity , what deadly struggle is here ,"
+    },
+    {
+      "id": "1.335",
+      "label": "Section 1.335",
+      "chapter": null,
+      "original": "θοάζων σε τὸν μέλεον , ᾧ δάκρυα",
+      "translation": "hurrying you on , the wretch on whom some avenging fiend is heaping tears upon tears , bringing to the house your mother ’ s blood , which drives you raving mad ?"
+    },
+    {
+      "id": "1.340",
+      "label": "Section 1.340",
+      "chapter": null,
+      "original": "ὁ μέγας ὄλβος οὐ μόνιμος ἐν βροτοῖς ·",
+      "translation": "Great prosperity is not secure among mortals . I lament , I lament ! But some divine power , shaking it to and fro like the sail of a swift ship , plunges it deep in the waves of grievous affliction , violent and deadly as the waves of the sea ."
+    },
+    {
+      "id": "1.345",
+      "label": "Section 1.345",
+      "chapter": null,
+      "original": "τίνα γὰρ ἔτι πάρος οἶκον ἕτερον ἢ τὸν ἀπὸ",
+      "translation": "For what other family must I still revere , rather than the one from a divine marriage , from Tantalus ."
+    },
+    {
+      "id": "348",
+      "label": "Section 348",
+      "chapter": null,
+      "original": "καὶ μὴν βασιλεὺς ὅδε δὴ στείχει ,",
+      "translation": "And see , a king draws near , lord Menelaus ; from his magnificence it is plain to see"
+    },
+    {
+      "id": "350",
+      "label": "Section 350",
+      "chapter": null,
+      "original": "δῆλος ὁρᾶσθαι",
+      "translation": "that he belongs to the blood of the Tantalids ."
+    },
+    {
+      "id": "352",
+      "label": "Section 352",
+      "chapter": null,
+      "original": "ὦ χιλιόναυν στρατὸν ὁρμήσας",
+      "translation": "All hail ! you that set out with a thousand ships to Asia ’ s land ; good fortune is your friend ,"
+    },
+    {
+      "id": "355",
+      "label": "Section 355",
+      "chapter": null,
+      "original": "θεόθεν πράξας ἅπερ ηὔχου .",
+      "translation": "for you have accomplished , with divine aid , all that you prayed for ."
+    },
+    {
+      "id": "356",
+      "label": "Section 356",
+      "chapter": null,
+      "original": "ὦ δῶμα , τῇ μέν σʼ ἡδέως προσδέρκομαι",
+      "translation": "O my home , some joy I feel to see you again on my return from Troy , but I also grieve at the sight ; for never have I seen another house more closely encircled by dire affliction ."
+    },
+    {
+      "id": "360",
+      "label": "Section 360",
+      "chapter": null,
+      "original": "Ἀγαμέμνονος μὲν γὰρ τύχας ἠπιστάμην",
+      "translation": "For I learned Agamemnon ’ s fate and the death he died at his wife ’ s hands , as I was trying to put in at Malea ; when the sailors ’ prophet , the truthful god Glaucus , Nereus ’ seer , brought the news to me from the waves ;"
+    },
+    {
+      "id": "365",
+      "label": "Section 365",
+      "chapter": null,
+      "original": "ὅς μοι τόδʼ εἶπεν ἐμφανῶς κατασταθείς ·",
+      "translation": "he stationed himself in full view and told me this : Menelaus , your brother lies dead , plunged in a fatal bath , the last his wife will ever give him . My sailors and I wept greatly at his words . When I arrived at Nauplia ,"
+    },
+    {
+      "id": "370",
+      "label": "Section 370",
+      "chapter": null,
+      "original": "ἤδη δάμαρτος ἐνθάδʼ ἐξορμωμένης ,",
+      "translation": "my wife already on the point of starting here , I was expecting to give a fond embrace to Orestes , Agamemnon ’ s son , and his mother , thinking that they were doing well , when I heard from a sailor the unholy murder of Tyndareus ’ child ."
+    },
+    {
+      "id": "375",
+      "label": "Section 375",
+      "chapter": null,
+      "original": "καὶ νῦν ὅπου ʼστὶν εἴπατʼ , ὦ νεάνιδες ,",
+      "translation": "And now tell me , young ladies , where to find the son of Agamemnon , who dared such evil . For he was a baby in Clytemnestra ’ s arms when I left my home to go to Troy , so that I would not recognize him if I saw him ."
+    },
+    {
+      "id": "380",
+      "label": "Section 380",
+      "chapter": null,
+      "original": "ὅδʼ εἴμʼ Ὀρέστης , Μενέλεως , ὃν ἱστορεῖς .",
+      "translation": "Menelaus , I am Orestes , whom you are asking about . I will of my own accord inform you of my sufferings . But as my first portion , I clasp your knees as a suppliant , giving you prayers from the mouth of one without the suppliant ’ s bough ; save me , for you have come at the crisis of my troubles ."
+    },
+    {
+      "id": "385",
+      "label": "Section 385",
+      "chapter": null,
+      "original": "ὦ θεοί , τί λεύσσω ; τίνα δέδορκα νερτέρων ;",
+      "translation": "O gods , what do I see ? What living corpse greets my sight ?"
+    },
+    {
+      "id": "386",
+      "label": "Section 386",
+      "chapter": null,
+      "original": "εὖ γʼ εἶπας · οὐ γὰρ ζῶ κακοῖς , φάος δʼ ὁρῶ .",
+      "translation": "You are right ; I am dead through misery , though I still gaze upon the light ."
+    },
+    {
+      "id": "387",
+      "label": "Section 387",
+      "chapter": null,
+      "original": "ὡς ἠγρίωσαι πλόκαμον αὐχμηρόν , τάλας .",
+      "translation": "How savage the look your unkempt hair gives you , poor wretch !"
+    },
+    {
+      "id": "388",
+      "label": "Section 388",
+      "chapter": null,
+      "original": "οὐχ ἡ πρόσοψίς μʼ , ἀλλὰ τἄργʼ αἰκίζεται .",
+      "translation": "It is not my looks , but my deeds that torture me ."
+    },
+    {
+      "id": "389",
+      "label": "Section 389",
+      "chapter": null,
+      "original": "δεινὸν δὲ λεύσσεις ὀμμάτων ξηραῖς κόραις .",
+      "translation": "Your tearless eyes glare dreadfully !"
+    },
+    {
+      "id": "390",
+      "label": "Section 390",
+      "chapter": null,
+      "original": "τὸ σῶμα φροῦδον · τὸ δʼ ὄνομʼ οὐ λέλοιπέ μοι .",
+      "translation": "My body is gone , though my name has not deserted me ."
+    },
+    {
+      "id": "391",
+      "label": "Section 391",
+      "chapter": null,
+      "original": "ὦ παρὰ λόγον μοι σὴ φανεῖσʼ ἀμορφία .",
+      "translation": "Unsightly apparition , so different from what I expected !"
+    },
+    {
+      "id": "392",
+      "label": "Section 392",
+      "chapter": null,
+      "original": "ὅδʼ εἰμὶ μητρὸς τῆς ταλαιπώρου φονεύς .",
+      "translation": "Here I am , the murderer of my wretched mother ."
+    },
+    {
+      "id": "393",
+      "label": "Section 393",
+      "chapter": null,
+      "original": "ἤκουσα , φείδου δʼ · ὀλιγάκις λέγειν κακά .",
+      "translation": "I have heard , spare your words ; evils should be seldom spoken ."
+    },
+    {
+      "id": "394",
+      "label": "Section 394",
+      "chapter": null,
+      "original": "φειδόμεθʼ · ὁ δαίμων δʼ ἐς ἐμὲ πλούσιος κακῶν .",
+      "translation": "I will be sparing ; but the deity is lavish of woe in my case ."
+    },
+    {
+      "id": "395",
+      "label": "Section 395",
+      "chapter": null,
+      "original": "τί χρῆμα πάσχεις ; τίς σʼ ἀπόλλυσιν νόσος ;",
+      "translation": "What ails you ? what is your deadly sickness ?"
+    },
+    {
+      "id": "396",
+      "label": "Section 396",
+      "chapter": null,
+      "original": "ἡ σύνεσις , ὅτι σύνοιδα δείνʼ εἰργασμένος .",
+      "translation": "My conscience ; I know that I am guilty of a dreadful crime ."
+    },
+    {
+      "id": "397",
+      "label": "Section 397",
+      "chapter": null,
+      "original": "πῶς φῄς ; σοφόν τοι τὸ σαφές , οὐ τὸ μὴ σαφές .",
+      "translation": "What do you mean ? Wisdom is shown in clarity , not in obscurity ."
+    },
+    {
+      "id": "398",
+      "label": "Section 398",
+      "chapter": null,
+      "original": "λύπη μάλιστά γʼ ἡ διαφθείρουσά με —",
+      "translation": "Grief especially has ruined me —"
+    },
+    {
+      "id": "399",
+      "label": "Section 399",
+      "chapter": null,
+      "original": "δεινὴ γὰρ ἡ θεός , ἀλλʼ ὅμως ἰάσιμος .",
+      "translation": "Yes , she is a dreadful goddess , yet are there cures for her ."
+    },
+    {
+      "id": "400",
+      "label": "Section 400",
+      "chapter": null,
+      "original": "μανίαι τε , μητρὸς αἵματος τιμωρίαι .",
+      "translation": "And fits of madness , the vengeance of a mother ’ s blood ."
+    },
+    {
+      "id": "401",
+      "label": "Section 401",
+      "chapter": null,
+      "original": "ἤρξω δὲ λύσσης πότε ; τίς ἡμέρα τότʼ ἦν ;",
+      "translation": "When did your madness begin ? Which day was it ?"
+    },
+    {
+      "id": "402",
+      "label": "Section 402",
+      "chapter": null,
+      "original": "ἐν ᾗ τάλαιναν μητέρʼ ἐξώγκουν τάφῳ .",
+      "translation": "On the day I was heaping the mound over my poor mother ’ s grave ."
+    },
+    {
+      "id": "403",
+      "label": "Section 403",
+      "chapter": null,
+      "original": "πότερα κατʼ οἴκους ἢ προσεδρεύων πυρᾷ ;",
+      "translation": "When you were in the house , or watching by the pyre ?"
+    },
+    {
+      "id": "404",
+      "label": "Section 404",
+      "chapter": null,
+      "original": "νυκτὸς φυλάσσων ὀστέων ἀναίρεσιν .",
+      "translation": "As I was waiting by night to gather up her bones ."
+    },
+    {
+      "id": "405",
+      "label": "Section 405",
+      "chapter": null,
+      "original": "παρῆν τις ἄλλος , ὃς σὸν ὤρθευεν δέμας ;",
+      "translation": "Was any one else there , to help you rise ?"
+    },
+    {
+      "id": "406",
+      "label": "Section 406",
+      "chapter": null,
+      "original": "Πυλάδης , ὁ συνδρῶν αἷμα καὶ μητρὸς φόνον .",
+      "translation": "Pylades who shared with me the bloody deed , my mother ’ s murder ."
+    }
+  ],
+  "prevChunkSlug": "orestes-7l7ixd-2",
+  "nextChunkSlug": "orestes-7l7ixd-4"
+}

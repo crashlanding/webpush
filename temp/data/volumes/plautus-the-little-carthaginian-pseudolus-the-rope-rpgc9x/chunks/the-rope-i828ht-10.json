@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-little-carthaginian-pseudolus-the-rope-rpgc9x",
+  "volumeTitle": "The Little Carthaginian. Pseudolus. The Rope",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-rope-i828ht-10",
+  "label": "The Rope (Section 3.6.855 - Section 4.3.945)",
+  "partId": "the-rope-i828ht",
+  "partTitle": "The Rope",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Rudens",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Rudens, or The Fisherman's Rope",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "3.6.855",
+      "label": "Section 3.6.855",
+      "chapter": null,
+      "original": "Abi sáne ad litus curriculo , Trachalio ,",
+      "translation": "Be off then , Trachalio , with all speed to the sea-shore ; bid those persons that I brought with me to hand over this rascal to the executioner , to come from the harbour to the city to meet me ; afterwards return hither and keep guard here . I ’ ll now drag this scoundrelly outcast to justice . ( Exit TRACHALIO . Pleusicles addresses LABRAX .)"
+    },
+    {
+      "id": "3.6.860",
+      "label": "Section 3.6.860",
+      "chapter": null,
+      "original": "age , ambula in ius .",
+      "translation": "Come , proceed to a court of justice ."
+    },
+    {
+      "id": "3.6.860b",
+      "label": "Section 3.6.860b",
+      "chapter": null,
+      "original": "Quid ego deliqui ?",
+      "translation": "In what have I offended ?"
+    },
+    {
+      "id": "3.6.860c",
+      "label": "Section 3.6.860c",
+      "chapter": null,
+      "original": "Rogas ,",
+      "translation": "Do you ask ? Didn ’ t you receive an earnest of me for this woman ( pointing to PALAESTRA ) , and carry her off from here ?"
+    },
+    {
+      "id": "3.6.862b",
+      "label": "Section 3.6.862b",
+      "chapter": null,
+      "original": "Non avexi .",
+      "translation": "I didn ’ t carry her off ."
+    },
+    {
+      "id": "3.6.862c",
+      "label": "Section 3.6.862c",
+      "chapter": null,
+      "original": "Cur negas ?",
+      "translation": "Why do you deny it ?"
+    },
+    {
+      "id": "3.6.863",
+      "label": "Section 3.6.863",
+      "chapter": null,
+      "original": "Quia pol provexi : avehere non quivi miser .",
+      "translation": "Troth now , because I put her on board ship ; carry her off [*] unfortunately , I couldn ’ t . For my part , I told you that this day I would make my appearance"
+    },
+    {
+      "id": "3.6.865",
+      "label": "Section 3.6.865",
+      "chapter": null,
+      "original": "apud Véneris fanum : num quid muto ? sumne ibi ?",
+      "translation": "at the Temple of Venus ; have I swerved at all from that ? Am I not there ?"
+    },
+    {
+      "id": "3.6.866",
+      "label": "Section 3.6.866",
+      "chapter": null,
+      "original": "In iure causam dicito , hic verbum sat est :",
+      "translation": "Plead your cause in the court of justice ; here a word is enough . Follow me ."
+    },
+    {
+      "id": "3.6.867b",
+      "label": "Section 3.6.867b",
+      "chapter": null,
+      "original": "Obsecro te , subveni mi , Charmides .",
+      "translation": "I entreat you , my dear Charmides , do come to my rescue ; I am being seized with my throat wrenched ."
+    },
+    {
+      "id": "3.6.868b",
+      "label": "Section 3.6.868b",
+      "chapter": null,
+      "original": "Quis me nominat ?",
+      "translation": "Who calls my name ?"
+    },
+    {
+      "id": "3.6.869",
+      "label": "Section 3.6.869",
+      "chapter": null,
+      "original": "Viden me ut rapior ?",
+      "translation": "Do you see me how I ’ m being seized ?"
+    },
+    {
+      "id": "3.6.869b",
+      "label": "Section 3.6.869b",
+      "chapter": null,
+      "original": "Video , atque inspecto lubens .",
+      "translation": "I see , and view it with pleasure ."
+    },
+    {
+      "id": "3.6.870",
+      "label": "Section 3.6.870",
+      "chapter": null,
+      "original": "Non subvenire mi audes ?",
+      "translation": "Don ’ t you venture to assist me ?"
+    },
+    {
+      "id": "3.6.870b",
+      "label": "Section 3.6.870b",
+      "chapter": null,
+      "original": "Quis homo te rapit ?",
+      "translation": "What person is seizing you ?"
+    },
+    {
+      "id": "3.6.871",
+      "label": "Section 3.6.871",
+      "chapter": null,
+      "original": "Adulescens Plesidippus .",
+      "translation": "Young Plesidippus ."
+    },
+    {
+      "id": "3.6.871b",
+      "label": "Section 3.6.871b",
+      "chapter": null,
+      "original": "Vt nanctu'snanctus es , habe .",
+      "translation": "What you ’ ve got , put up with ; ’ twere better for you , with a cheerful spirit , to slink to gaol ; that has befallen you which many greatly wish for for themselves ."
+    },
+    {
+      "id": "3.6.874",
+      "label": "Section 3.6.874",
+      "chapter": null,
+      "original": "Quid id est ?",
+      "translation": "What ’ s that ?"
+    },
+    {
+      "id": "3.6.874b",
+      "label": "Section 3.6.874b",
+      "chapter": null,
+      "original": "Vt id quod quaerant inveniant sibi .",
+      "translation": "To find for themselves that which they are seeking ."
+    },
+    {
+      "id": "3.6.875",
+      "label": "Section 3.6.875",
+      "chapter": null,
+      "original": "Sequere , obsecro , me .",
+      "translation": "I entreat you , do follow me ."
+    },
+    {
+      "id": "3.6.875b",
+      "label": "Section 3.6.875b",
+      "chapter": null,
+      "original": "Pariter suades qualis es :",
+      "translation": "You try to persuade me , just like what you are : you are being taken off to gaol , for that reason is it you entreat me to follow you ?"
+    },
+    {
+      "id": "3.6.877",
+      "label": "Section 3.6.877",
+      "chapter": null,
+      "original": "etiam retentas ?",
+      "translation": "Do you still resist ?"
+    },
+    {
+      "id": "3.6.877b",
+      "label": "Section 3.6.877b",
+      "chapter": null,
+      "original": "Perii .",
+      "translation": "I ’ m undone ."
+    },
+    {
+      "id": "3.6.877c",
+      "label": "Section 3.6.877c",
+      "chapter": null,
+      "original": "Verum sit velim .",
+      "translation": "I trust that may prove the truth . You , my dear Palaestra and Ampelisca , do you remain here in the meanwhile , until I return hither ."
+    },
+    {
+      "id": "3.6.879b",
+      "label": "Section 3.6.879b",
+      "chapter": null,
+      "original": "Equidem suadeo ,",
+      "translation": "I would advise them"
+    },
+    {
+      "id": "3.6.880",
+      "label": "Section 3.6.880",
+      "chapter": null,
+      "original": "ut ad nos abeant potius , dum recipis .",
+      "translation": "rather to go to our house , until you return ."
+    },
+    {
+      "id": "3.6.880b",
+      "label": "Section 3.6.880b",
+      "chapter": null,
+      "original": "Placet ,",
+      "translation": "I ’ m quite agreable ; you act obligingly ."
+    },
+    {
+      "id": "3.6.881b",
+      "label": "Section 3.6.881b",
+      "chapter": null,
+      "original": "Fures mi estis .",
+      "translation": "You are thieves to me ."
+    },
+    {
+      "id": "3.6.881c",
+      "label": "Section 3.6.881c",
+      "chapter": null,
+      "original": "Quid , fures ? rape .",
+      "translation": "How , thieves ?"
+    },
+    {
+      "id": "3.6.882",
+      "label": "Section 3.6.882",
+      "chapter": null,
+      "original": "Oro obsecro , Palaestra .",
+      "translation": "I pray and entreat you , Palaestra ."
+    },
+    {
+      "id": "3.6.882b",
+      "label": "Section 3.6.882b",
+      "chapter": null,
+      "original": "Sequere , carnufex .",
+      "translation": "Follow , you hang-dog ."
+    },
+    {
+      "id": "3.6.883",
+      "label": "Section 3.6.883",
+      "chapter": null,
+      "original": "Hospes —",
+      "translation": "Guest , Charmides !"
+    },
+    {
+      "id": "3.6.883b",
+      "label": "Section 3.6.883b",
+      "chapter": null,
+      "original": "Non sum hospes , repudio hospitium tuom .",
+      "translation": "I am no guest of yours ; I repudiate your hospitality ."
+    },
+    {
+      "id": "3.6.884",
+      "label": "Section 3.6.884",
+      "chapter": null,
+      "original": "Sicine me spernis ?",
+      "translation": "What , do you slight me in this fashion ?"
+    },
+    {
+      "id": "3.6.884b",
+      "label": "Section 3.6.884b",
+      "chapter": null,
+      "original": "Sic ago : semel bibo .",
+      "translation": "I do so ; I ’ ve been drinking with you once already [*] ."
+    },
+    {
+      "id": "3.6.885",
+      "label": "Section 3.6.885",
+      "chapter": null,
+      "original": "Di te infelicent .—",
+      "translation": "May the Deities confound you ."
+    },
+    {
+      "id": "3.6.885b",
+      "label": "Section 3.6.885b",
+      "chapter": null,
+      "original": "Isti capiti dicito .",
+      "translation": "To that person of yours , say that . ( PLESIDIPPUS leads LABRAX off , followed by the SERVANTS .) I do believe that men are transformed , each into a different beast . That Procurer , I guess , is transformed into a stock-dove [*] ; for , before long , his neck will be in the stocks . He ’ ll to-day be building his nest in the gaol ."
+    },
+    {
+      "id": "3.6.890",
+      "label": "Section 3.6.890",
+      "chapter": null,
+      "original": "verum tamen ibo , ei advocatus ut siem ,",
+      "translation": "Still , however , I ’ ll go , that I may be his advocate ,— if by my aid he may possibly be sentenced any the sooner ."
+    },
+    {
+      "id": "4.1.892",
+      "label": "Section 4.1.892",
+      "chapter": null,
+      "original": "Bene factum et volup est , mé hodie his mulierculis",
+      "translation": "’ Twas rightly done , and it is a pleasure this day for me to have given aid to these young women ; I have now found some dependants , and both of them of comely looks and youthful age ."
+    },
+    {
+      "id": "4.1.895",
+      "label": "Section 4.1.895",
+      "chapter": null,
+      "original": "sed uxór scelesta me omnibus servat modis ,",
+      "translation": "But my plaguy wife is watching me in all ways , lest I should be giving any hint to the young women . But I wonder what in the world my servant Gripus is about , who went last night to the sea to fish . Troth , he had done wiser if he had slept at home ;"
+    },
+    {
+      "id": "4.1.900",
+      "label": "Section 4.1.900",
+      "chapter": null,
+      "original": "nam nunc et operam ludos facit et retia ,",
+      "translation": "for now he throws away both his pains and his nets , seeing what a storm there now is and was last night . I ’ ll thoroughly cook upon my fingers what he has caught to-day ; so violently do I see the ocean heaving . ( A bell rings .) But my wife ’ s calling me to breakfast ; I ’ ll return home ."
+    },
+    {
+      "id": "4.1.905",
+      "label": "Section 4.1.905",
+      "chapter": null,
+      "original": "iam meas opplebit aures † sua vaniloquentia .—",
+      "translation": "She ’ ll now be filling my ears with her silly prating ."
+    },
+    {
+      "id": "4.2.906",
+      "label": "Section 4.2.906",
+      "chapter": null,
+      "original": "Neptúno has agó gratiás meo patróno ,",
+      "translation": "These thanks do I return to Neptune , my patron , who dwells in the salt retreats , the abode of fishes , inasmuch as he has despatched me finely laden on my return from his retreats , and from his Temples , laden with most abundant booty ,"
+    },
+    {
+      "id": "4.2.910",
+      "label": "Section 4.2.910",
+      "chapter": null,
+      "original": "salúte horiaé , quae in marí fluctuóso",
+      "translation": "with safety to my boat , which in the stormy sea made me master of a singular and rich haul . In a wondrous and incredible manner has this haul turned out prosperously for me , nor yet have I this day taken a single ounce weight of fish , but only that which I am here bringing with me in my net ."
+    },
+    {
+      "id": "4.2.914_915",
+      "label": "Section 4.2.914_915",
+      "chapter": null,
+      "original": "nam ut dé nocte múlta impigréque exurréxi ,",
+      "translation": "For when I arose in the middle of the night , and without sloth , I preferred profit to sleep and rest ; in the raging tempest , I determined to try how I might lighten the poverty of my master and my own servitude , not sparing of my own exertions ."
+    },
+    {
+      "id": "4.2.920",
+      "label": "Section 4.2.920",
+      "chapter": null,
+      "original": "nímis homo nihilist quis piger est nímisque id genus odi égo male .",
+      "translation": "Most worthless is the man that is slothful , and most detestably do I hate that kind of men . It behoves him to be vigilant who wishes to do his duty in good time ; for it befits him not to be waiting until his master arouses him to his duties . For those who sleep on for the love of it , rest without profit to themselves and to their own cost ."
+    },
+    {
+      "id": "4.2.924",
+      "label": "Section 4.2.924",
+      "chapter": null,
+      "original": "nám ego nunc mihi , qui ímpiger fui ,",
+      "translation": "But now I , who have not been slothful , have found that for myself through which to be slothful if I should choose ."
+    },
+    {
+      "id": "4.2.925a",
+      "label": "Section 4.2.925a",
+      "chapter": null,
+      "original": "hóc ego in mari quidquid inést répperi .",
+      "translation": "( Points to the wallet .) This have I found in the sea to-day ; whatever ’ s in it , it ’ s something heavy that ’ s in it ; I think it ’ s gold that ’ s in it . And not a single person is there my confidant in the matter . Now , Gripus , this opportunity has befallen you , that the Praetor [*] might make you a free man from among the multitude . Now , thus shall I do , this is my determination ; I ’ ll come to my master cleverly and cunningly , little by little I ’ ll promise money for my freedom , that I may be free ."
+    },
+    {
+      "id": "4.2.930",
+      "label": "Section 4.2.930",
+      "chapter": null,
+      "original": "iam ubi líber ero , igitúr demum instrúam agrum atque aedis , máncipia ,",
+      "translation": "Now , when I shall be free , then , in fine , I ’ ll provide me land and houses [*] and slaves : I ’ ll carry on merchandize with large ships : among the grandees I shall be considered a grandee . Afterwards , for the sake of pleasing myself , I ’ ll build me a ship and I ’ ll imitate Stratonicus [*] , and I ’ ll be carried about from town to town . When my greatness is far-spread , I shall fortify some great city : to that city I shall give the name of Gripus ,"
+    },
+    {
+      "id": "4.2.935",
+      "label": "Section 4.2.935",
+      "chapter": null,
+      "original": "moniméntum meae famae ét factis , ibi quí regnum magnum ínstituam .",
+      "translation": "a memorial of my fame and exploits , and there I ’ ll establish a mighty kingdom . I am resolving here in my mind to prepare for mighty matters . At present I ’ ll hide this booty . But this grandee ( pointing to himself ) is about to breakfast upon vinegar [*] and salt , without any good substantial meat ."
+    },
+    {
+      "id": "4.3.938",
+      "label": "Section 4.3.938",
+      "chapter": null,
+      "original": "Heus , máne .",
+      "translation": "Hallo there ! stop ."
+    },
+    {
+      "id": "4.3.938b",
+      "label": "Section 4.3.938b",
+      "chapter": null,
+      "original": "Quid maneam ?",
+      "translation": "Why should I stop ?"
+    },
+    {
+      "id": "4.3.938c",
+      "label": "Section 4.3.938c",
+      "chapter": null,
+      "original": "Dum hánc tibi , quam tráhis , rudentem cómplico .",
+      "translation": "While I coil up this rope [*] for you that you are dragging ."
+    },
+    {
+      "id": "4.3.939",
+      "label": "Section 4.3.939",
+      "chapter": null,
+      "original": "Mitté modo .",
+      "translation": "Now let it alone ."
+    },
+    {
+      "id": "4.3.939b",
+      "label": "Section 4.3.939b",
+      "chapter": null,
+      "original": "At pol ego te ádiuvo nam bónis quod bene fit haúd perit .",
+      "translation": "Troth , but I ’ ll assist you . What ’ s kindly done to worthy men , isn ’ t thrown away ."
+    },
+    {
+      "id": "4.3.940",
+      "label": "Section 4.3.940",
+      "chapter": null,
+      "original": "Turbída tempestas héri fuit ,",
+      "translation": "⋯ There was a boisterous tempest yesterday ; no fish have I , young man ; don ’ t you be supposing I have . Don ’ t you see that I ’ m carrying my dripping net without the scaly race ?"
+    },
+    {
+      "id": "4.3.943",
+      "label": "Section 4.3.943",
+      "chapter": null,
+      "original": "Non édepol piscis éxpeto quam tuí sermonis sum índigens .",
+      "translation": "I ’ faith , I ’ m not wishing for fish so much as I am in need of your conversation ."
+    },
+    {
+      "id": "4.3.944",
+      "label": "Section 4.3.944",
+      "chapter": null,
+      "original": "Enícas iam me odio , quísquis es .",
+      "translation": "Then , whoever you are , you are worrying me to death with your annoyance ."
+    },
+    {
+      "id": "4.3.944b",
+      "label": "Section 4.3.944b",
+      "chapter": null,
+      "original": "Non sínam ego abire hinc té . mane .",
+      "translation": "I ’ ll not allow you to go away from here ; stop ."
+    },
+    {
+      "id": "4.3.945",
+      "label": "Section 4.3.945",
+      "chapter": null,
+      "original": "Cave sís malo . quid tú , malum , nám me retrahis ?",
+      "translation": "Take you care of a mishap , if you please ; but why the plague are you dragging me back ?"
+    }
+  ],
+  "prevChunkSlug": "the-rope-i828ht-9",
+  "nextChunkSlug": "the-rope-i828ht-11"
+}

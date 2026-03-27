@@ -1,0 +1,73 @@
+{
+  "volumeSlug": "plutarch-lives-volume-iv-lhuc0t",
+  "volumeTitle": "Lives, Volume IV",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "comparison-of-pelopidas-and-marcellus-14rkru",
+  "label": "Comparison of Pelopidas and Marcellus",
+  "partId": "lives-volume-iv-15nalc",
+  "partTitle": "Lives, Volume IV",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Πελοπίδου καὶ Μαρκέλλου σύγκρισις",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg023.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Comparison of Pelopidas and Marcellus",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg023.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1",
+      "label": "Section 1.1",
+      "chapter": null,
+      "original": "ὅσα μὲν οὖν ἔδοξεν ἡμῖν ἀναγραφῆς ἄξια paris.1624.316 τῶν ἱστορημένων περὶ Μαρκέλλου καὶ Πελοπίδου , ταὐτά ἔστι . τῶν δὲ κατὰ τὰς φύσεις καὶ τὰ ἤθη κοινοτήτων ὥσπερ ἐφαμίλλων οὐσῶν καὶ γὰρ ἀνδρεῖοι καὶ φιλόπονοι καὶ θυμοειδεῖς καὶ μεγαλόφρονες ἀμφότεροι γεγόνασιν , ἐκεῖνο δόξειεν ἂν διαφορὰν ἔχειν μόνον , ὅτι Μάρκελλος μὲν ἐν πολλαῖς πόλεσιν ὑποχειρίοις γενομέναις σφαγὰς ἐποίησεν , Ἐπαμεινώνδας δὲ καὶ Πελοπίδας οὐδένα πώποτε κρατήσαντες ἀπέκτειναν οὐδὲ πόλεις ἠνδραποδίσαντο . λέγονται δὲ Θηβαῖοι μηδὲ Ὀρχομενίους ἂν οὕτω μεταχειρίσασθαι παρόντων ἐκείνων ·",
+      "translation": "This is what I have thought worthy of record in what historians say about Marcellus and Pelopidas . In their natures and dispositions they were almost exactly alike , since both were valiant , laborious , passionate , and magnanimous ; and there would seem to have been this difference only between them , that Marcellus committed slaughter in many cities which he reduced , while Epaminondas and Pelopidas never put any one to death after their victories , nor did they sell cities into slavery . And we are told that , had they been present , the Thebans would not have treated the Orchomenians as they did ."
+    },
+    {
+      "id": "1.2",
+      "label": "Section 1.2",
+      "chapter": null,
+      "original": "ἐν δὲ ταῖς πράξεσι θαυμαστὰ μὲν καὶ μεγάλα τοῦ Μαρκέλλου τὰ πρὸς Κελτούς , ὠσαμένου p.524 τοσοῦτον πλῆθος ἱππέων ὁμοῦ καὶ πεζῶν ὀλίγοις τοῖς περὶ αὐτὸν ἱππεῦσιν , ὃ ῥᾳδίως ὑφʼ ἑτέρου στρατηγοῦ γεγονὸς οὐχ ἱστόρηται , καὶ τὸν ἄρχοντα τῶν πολεμίων ἀνελόντος · ἐν ᾧ τρόπῳ Πελοπίδας ἔπταισεν ὁρμήσας ἐπὶ ταὐτά , προαναιρεθεὶς δὲ ὑπὸ τοῦ τυράννου καὶ παθὼν πρότερον ἢ δράσας .",
+      "translation": "As for their achievements , those of Marcellus against the Gauls were great and astonishing , since he routed such a multitude of horse and foot with the few horsemen in his following ( an action not easily found recorded of any other general ), and slew the enemies ’ chieftain ; whereas in this regard Pelopidas failed , for he set out to do the same thing , but suffered what he meant to inflict , and was slain first by the tyrant ."
+    },
+    {
+      "id": "2.1",
+      "label": "Section 2.1",
+      "chapter": null,
+      "original": "ἐπεὶ τοίνυν Πελοπίδας μὲν οὐδεμίαν ἡττήθη μάχην στρατηγῶν , Μάρκελλος δὲ πλείστας τῶν καθʼ αὑτὸν Ῥωμαίων ἐνίκησε , δόξειεν ἂν ἴσως τῷ δυσνικήτῳ πρὸς τὸ ἀήττητον ὑπὸ πλήθους τῶν κατωρθωμένων ἐπανισοῦσθαι . καὶ μὴν οὗτος μὲν εἷλε Συρακούσας , ἐκεῖνος δὲ τῆς Λακεδαίμονος ἀπέτυχεν . ἀλλʼ οἶμαι μεῖζον εἶναι τοῦ καταλαβεῖν Σικελίαν τὸ τῇ Σπάρτῃ προσελθεῖν καὶ διαβῆναι πρῶτον ἀνθρώπων πολέμῳ τὸν Εὐρώταν ,",
+      "translation": "Since , then , Pelopidas was never defeated in a battle where he was in command , and Marcellus won more victories than any Roman of his day , it would seem , perhaps , that the multitude of his successes made the difficulty of conquering the one equal to the invincibility of the other . Marcellus , it is true , took Syracuse , while Pelopidas failed to take Sparta . But I think that to have reached Sparta , and to have been the first of men to cross the Eurotas in war , was a greater achievement than the conquest of Sicily ;"
+    },
+    {
+      "id": "2.2",
+      "label": "Section 2.2",
+      "chapter": null,
+      "original": "εἰ μὴ νὴ Δία τοῦτο μὲν φήσει τις τὸ ἔργον Ἐπαμεινώνδᾳ μᾶλλον ἢ Πελοπίδᾳ προσήκειν , ὥσπερ καὶ τὰ Λεῦκτρα , τῶν δὲ Μαρκέλλῳ διαπεπραγμένων ἀκοινώνητον εἶναι τὴν δόξαν . καὶ γὰρ Συρακούσας μόνος εἷλε , καὶ Κελτοὺς ἄνευ τοῦ συνάρχοντος ἐτρέψατο , καὶ πρὸς Ἀννίβαν μηδενὸς συλλαμβάνοντος , ἀλλὰ καὶ πάντων ἀποτρεπόντων , ἀντιταξάμενος καὶ μεταβαλὼν τὸ σχῆμα τοῦ πολέμου πρῶτος ἡγεμὼν τοῦ τολμᾶν κατέστη .",
+      "translation": "unless , indeed , it should be said that this exploit belongs rather to Epaminondas than to Pelopidas , as well as the victory at Leuctra , while Marcellus shared with no one the glory of his achievements . For he took Syracuse all alone , and routed the Gauls without his colleague , and when no one would undertake the struggle against Hannibal , but all declined it , he took the field against him , changed the aspect of the war , and was the first leader to show daring ."
+    },
+    {
+      "id": "3.1",
+      "label": "Section 3.1",
+      "chapter": null,
+      "original": "τὴν τοίνυν τελευτὴν ἐπαινῶ μὲν οὐδετέρου p.528 τῶν ἀνδρῶν , ἀλλʼ ἀνιῶμαι καὶ ἀγανακτῶ τῷ παραλόγῳ τοῦ συμπτώματος · καὶ θαυμάζω μὲν ἐν μάχαις τοσαύταις ὅσαις ἀποκάμοι τις ἂν καταριθμῶν , μηδὲ τρωθέντα τὸν Ἀννίβαν , ἄγαμαι δὲ καὶ τὸν ἐν τῇ Παιδείᾳ Χρυσάνταν , ὃς διηρμένος κοπίδα καὶ παίειν μέλλων πολέμιον , ὡς ὑπεσήμηνεν ἡ σάλπιγξ ἀνακλητικόν , ἀφεὶς τὸν ἄνδρα μάλα πρᾴως καὶ κοσμίως ἀνεχώρησεν .",
+      "translation": "I cannot , indeed , applaud the death of either of them , nay , I am distressed and indignant at their unreasonableness in the final disaster . And I admire Hannibal because , in battles so numerous that one would weary of counting them , he was not even wounded . I am delighted , too , with Chrysantes , in the Cyropaedeia , [*] who , though his blade was lifted on high and he was about to smite an enemy , when the trumpet sounded a retreat , let his man go , and retired with all gentleness and decorum ."
+    },
+    {
+      "id": "3.2",
+      "label": "Section 3.2",
+      "chapter": null,
+      "original": "οὐ μὴν ἀλλὰ τὸν Πελοπίδαν ποιεῖ συγγνωστὸν ἅμα τῷ τῆς μάχης καιρῷ παραθερμον ὄντα καὶ πρὸς τὴν ἄμυναν οὐκ ἀγεννῶς ἐκφέρων ὁ θυμός · ἄριστον μὲν γὰρ νικῶντα σῴζεσθαι τὸν στρατηγόν , εἰ δὲ θανεῖν , εἰς ἀρετὴν καταλύσαντα βίον , ὡς Εὐριπίδης φησίν . [*] οὕτω γὰρ οὐ πάθος , ἀλλὰ πρᾶξις γίνεται τοῦ τελευτῶντος ὁ θάνατος .",
+      "translation": "Pelopidas , however , was somewhat excusable , because , excited as he always was by an opportunity for battle , he was now carried away by a generous anger to seek revenge . For the best thing is that a general should be victorious and keep his life ,\nbut if he must die ,\nhe should\nconclude his life with valour ,\nas Euripides says ; for then he does not suffer death , but rather achieves it ."
+    }
+  ],
+  "prevChunkSlug": "marcellus-dwo0u6",
+  "nextChunkSlug": "aristides-rzu0iq"
+}

@@ -1,0 +1,61 @@
+{
+  "loebNumber": 185,
+  "sortOrder": 185,
+  "slug": "diogenes-laertius-lives-of-eminent-philosophers-volume-ii-u91n07",
+  "title": "Lives of Eminent Philosophers, Volume II",
+  "volumeLabel": "Lives of Eminent Philosophers, Volume II",
+  "authorDisplay": "Diogenes Laertius",
+  "authors": [
+    "Diogenes Laertius"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Lives of Eminent Philosophers, Volume II. Lives of Eminent Philosophers, Volume II currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "lives-of-eminent-philosophers-volume-ii-42wcte",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "lives-of-eminent-philosophers-volume-ii-42wcte",
+      "title": "Lives of Eminent Philosophers, Volume II",
+      "status": "ready",
+      "sectionCount": 44,
+      "chunkSlug": "lives-of-eminent-philosophers-volume-ii-42wcte",
+      "chunks": [
+        {
+          "slug": "lives-of-eminent-philosophers-volume-ii-42wcte",
+          "label": "Lives of Eminent Philosophers, Volume II",
+          "partId": "lives-of-eminent-philosophers-volume-ii-42wcte",
+          "partTitle": "Lives of Eminent Philosophers, Volume II",
+          "sectionCount": 44,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "lives-of-eminent-philosophers-volume-ii-42wcte",
+      "label": "Lives of Eminent Philosophers, Volume II",
+      "partId": "lives-of-eminent-philosophers-volume-ii-42wcte",
+      "partTitle": "Lives of Eminent Philosophers, Volume II",
+      "sectionCount": 44,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "lives-of-eminent-philosophers-volume-ii-42wcte",
+      "partTitle": "Lives of Eminent Philosophers, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0004.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Lives of Eminent Philosophers",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0004.tlg001.perseus-eng2/"
+      }
+    }
+  ]
+}

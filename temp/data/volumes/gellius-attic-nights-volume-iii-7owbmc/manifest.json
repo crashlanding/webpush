@@ -1,0 +1,91 @@
+{
+  "loebNumber": 212,
+  "sortOrder": 212,
+  "slug": "gellius-attic-nights-volume-iii-7owbmc",
+  "title": "Attic Nights, Volume III",
+  "volumeLabel": "Attic Nights, Volume III",
+  "authorDisplay": "Gellius",
+  "authors": [
+    "Gellius"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for Attic Nights, Volume III. Attic Nights, Volume III currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "attic-nights-volume-iii-1j4peh-1",
+  "readyChunkCount": 2,
+  "contents": [
+    {
+      "id": "attic-nights-volume-iii-1j4peh",
+      "title": "Attic Nights, Volume III",
+      "status": "ready",
+      "sectionCount": 96,
+      "chunkSlug": "attic-nights-volume-iii-1j4peh-1",
+      "chunks": [
+        {
+          "slug": "attic-nights-volume-iii-1j4peh-1",
+          "label": "Attic Nights, Volume III (Section pr.1.1 - Section 13.1.3)",
+          "partId": "attic-nights-volume-iii-1j4peh",
+          "partTitle": "Attic Nights, Volume III",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "attic-nights-volume-iii-1j4peh-2",
+          "label": "Attic Nights, Volume III (Section 13.1.4 - Section 20.1.4)",
+          "partId": "attic-nights-volume-iii-1j4peh",
+          "partTitle": "Attic Nights, Volume III",
+          "sectionCount": 36,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "attic-nights-volume-iii-1j4peh-1",
+      "label": "Attic Nights, Volume III (Section pr.1.1 - Section 13.1.3)",
+      "partId": "attic-nights-volume-iii-1j4peh",
+      "partTitle": "Attic Nights, Volume III",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "attic-nights-volume-iii-1j4peh-2",
+      "label": "Attic Nights, Volume III (Section 13.1.4 - Section 20.1.4)",
+      "partId": "attic-nights-volume-iii-1j4peh",
+      "partTitle": "Attic Nights, Volume III",
+      "sectionCount": 36,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "attic-nights-volume-iii-1j4peh-1",
+      "partTitle": "Attic Nights, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Noctes Atticae",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1254.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Attic Nights",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1254.phi001.perseus-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "attic-nights-volume-iii-1j4peh-2",
+      "partTitle": "Attic Nights, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Noctes Atticae",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1254.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Attic Nights",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1254.phi001.perseus-eng1/"
+      }
+    }
+  ]
+}

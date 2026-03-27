@@ -1,0 +1,211 @@
+{
+  "loebNumber": 99,
+  "sortOrder": 99,
+  "slug": "plutarch-lives-volume-vii-r344au",
+  "title": "Lives, Volume VII",
+  "volumeLabel": "Lives, Volume VII",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Lives, Volume VII. Lives, Volume VII opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "comparison-of-lucullus-and-cimon-yb8ayw",
+  "readyChunkCount": 6,
+  "contents": [
+    {
+      "id": "lives-volume-vii-ci3nqj",
+      "title": "Lives, Volume VII",
+      "status": "ready",
+      "sectionCount": 232,
+      "chunkSlug": "comparison-of-lucullus-and-cimon-yb8ayw",
+      "chunks": [
+        {
+          "slug": "comparison-of-lucullus-and-cimon-yb8ayw",
+          "label": "Comparison of Lucullus and Cimon",
+          "partId": "lives-volume-vii-ci3nqj",
+          "partTitle": "Lives, Volume VII",
+          "sectionCount": 6,
+          "status": "ready"
+        },
+        {
+          "slug": "nicias-12l2d0",
+          "label": "Nicias",
+          "partId": "lives-volume-vii-ci3nqj",
+          "partTitle": "Lives, Volume VII",
+          "sectionCount": 59,
+          "status": "ready"
+        },
+        {
+          "slug": "crassus-18hl3g",
+          "label": "Crassus",
+          "partId": "lives-volume-vii-ci3nqj",
+          "partTitle": "Lives, Volume VII",
+          "sectionCount": 66,
+          "status": "ready"
+        },
+        {
+          "slug": "comparison-of-nicias-and-crassus-504ar0",
+          "label": "Comparison of Nicias and Crassus",
+          "partId": "lives-volume-vii-ci3nqj",
+          "partTitle": "Lives, Volume VII",
+          "sectionCount": 10,
+          "status": "ready"
+        },
+        {
+          "slug": "eumenes-4eqyb8",
+          "label": "Eumenes",
+          "partId": "lives-volume-vii-ci3nqj",
+          "partTitle": "Lives, Volume VII",
+          "sectionCount": 38,
+          "status": "ready"
+        },
+        {
+          "slug": "sertorius-t2z4nk",
+          "label": "Sertorius",
+          "partId": "lives-volume-vii-ci3nqj",
+          "partTitle": "Lives, Volume VII",
+          "sectionCount": 53,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "comparison-of-lucullus-and-cimon-yb8ayw",
+      "label": "Comparison of Lucullus and Cimon",
+      "partId": "lives-volume-vii-ci3nqj",
+      "partTitle": "Lives, Volume VII",
+      "sectionCount": 6,
+      "status": "ready"
+    },
+    {
+      "slug": "nicias-12l2d0",
+      "label": "Nicias",
+      "partId": "lives-volume-vii-ci3nqj",
+      "partTitle": "Lives, Volume VII",
+      "sectionCount": 59,
+      "status": "ready"
+    },
+    {
+      "slug": "crassus-18hl3g",
+      "label": "Crassus",
+      "partId": "lives-volume-vii-ci3nqj",
+      "partTitle": "Lives, Volume VII",
+      "sectionCount": 66,
+      "status": "ready"
+    },
+    {
+      "slug": "comparison-of-nicias-and-crassus-504ar0",
+      "label": "Comparison of Nicias and Crassus",
+      "partId": "lives-volume-vii-ci3nqj",
+      "partTitle": "Lives, Volume VII",
+      "sectionCount": 10,
+      "status": "ready"
+    },
+    {
+      "slug": "eumenes-4eqyb8",
+      "label": "Eumenes",
+      "partId": "lives-volume-vii-ci3nqj",
+      "partTitle": "Lives, Volume VII",
+      "sectionCount": 38,
+      "status": "ready"
+    },
+    {
+      "slug": "sertorius-t2z4nk",
+      "label": "Sertorius",
+      "partId": "lives-volume-vii-ci3nqj",
+      "partTitle": "Lives, Volume VII",
+      "sectionCount": 53,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "comparison-of-lucullus-and-cimon-yb8ayw",
+      "partTitle": "Lives, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Κίμωνος καὶ Λουκούλλος σύγκρισις",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg037.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Comparison of Lucullus and Cimon",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg037.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "nicias-12l2d0",
+      "partTitle": "Lives, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Νικίας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg038.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Nicias",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg038.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "crassus-18hl3g",
+      "partTitle": "Lives, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Κράσσος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg039.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Crassus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg039.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "comparison-of-nicias-and-crassus-504ar0",
+      "partTitle": "Lives, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Νικίου καὶ Κράσσου σύγκρισις",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg040.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Comparison of Nicias and Crassus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg040.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "eumenes-4eqyb8",
+      "partTitle": "Lives, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Eumenes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg041.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Eumenes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg041.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "sertorius-t2z4nk",
+      "partTitle": "Lives, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Sertorius",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg042.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Sertorius",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg042.perseus-eng2/"
+      }
+    }
+  ]
+}

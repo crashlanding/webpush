@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "horace-odes-and-epodes-1k99l6",
+  "volumeTitle": "Odes and Epodes",
+  "authorDisplay": "Horace",
+  "authors": [
+    "Horace"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "odes-and-epodes-54wjbo-1",
+  "label": "Odes and Epodes (Section 1.1.1 - Section 2.1.24)",
+  "partId": "odes-and-epodes-54wjbo",
+  "partTitle": "Odes and Epodes",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Carmina",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0893.phi001.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Odes",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0893.phi001.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1.1",
+      "label": "Section 1.1.1",
+      "chapter": null,
+      "original": "Maecenas atavis edite regibus ,",
+      "translation": "Maecenas , born of monarch ancestors ,"
+    },
+    {
+      "id": "1.1.2",
+      "label": "Section 1.1.2",
+      "chapter": null,
+      "original": "o et praesidium et dulce decus meum :",
+      "translation": "The shield at once and glory of my life !"
+    },
+    {
+      "id": "1.1.3",
+      "label": "Section 1.1.3",
+      "chapter": null,
+      "original": "sunt quos curriculo pulverem Olympicum",
+      "translation": "There are who joy them in the Olympic strife"
+    },
+    {
+      "id": "1.1.4",
+      "label": "Section 1.1.4",
+      "chapter": null,
+      "original": "collegisse iuvat metaque fervidis",
+      "translation": "And love the dust they gather in the course ;"
+    },
+    {
+      "id": "1.1.5",
+      "label": "Section 1.1.5",
+      "chapter": null,
+      "original": "evitata rotis palmaque nobilis",
+      "translation": "The goal by hot wheels shunn ' d , the famous prize ,"
+    },
+    {
+      "id": "1.1.6",
+      "label": "Section 1.1.6",
+      "chapter": null,
+      "original": "terrarum dominos evehit ad deos ;",
+      "translation": "Exalt them to the gods that rule mankind ;"
+    },
+    {
+      "id": "1.1.7",
+      "label": "Section 1.1.7",
+      "chapter": null,
+      "original": "hunc , si mobilium turba Quiritium",
+      "translation": "This joys , if rabbles fickle as the wind"
+    },
+    {
+      "id": "1.1.8",
+      "label": "Section 1.1.8",
+      "chapter": null,
+      "original": "certat tergeminis tollere honoribus ,",
+      "translation": "Through triple grade of honours bid him rise ,"
+    },
+    {
+      "id": "1.1.9",
+      "label": "Section 1.1.9",
+      "chapter": null,
+      "original": "illum , si proprio condidit horreo",
+      "translation": "That , if his granary has stored away"
+    },
+    {
+      "id": "1.1.10",
+      "label": "Section 1.1.10",
+      "chapter": null,
+      "original": "quidquid de Libycis verritur areis .",
+      "translation": "Of Libya ' s thousand floors the yield entire ;"
+    },
+    {
+      "id": "1.1.11",
+      "label": "Section 1.1.11",
+      "chapter": null,
+      "original": "gaudentem patrios findere sarculo",
+      "translation": "The man who digs his field as did his sire ,"
+    },
+    {
+      "id": "1.1.12",
+      "label": "Section 1.1.12",
+      "chapter": null,
+      "original": "agros Attalicis condicionibus",
+      "translation": "With honest pride , no Attalus may sway"
+    },
+    {
+      "id": "1.1.13",
+      "label": "Section 1.1.13",
+      "chapter": null,
+      "original": "numquam demoveas , ut trabe Cypria",
+      "translation": "By proffer ' d wealth to tempt Myrtoan seas ,"
+    },
+    {
+      "id": "1.1.14",
+      "label": "Section 1.1.14",
+      "chapter": null,
+      "original": "Myrtoum pavidus nauta secet mare .",
+      "translation": "The timorous captain of a Cyprian bark ."
+    },
+    {
+      "id": "1.1.15",
+      "label": "Section 1.1.15",
+      "chapter": null,
+      "original": "luctantem Icariis fluctibus Africum",
+      "translation": "The winds that make Icarian billows dark"
+    },
+    {
+      "id": "1.1.16",
+      "label": "Section 1.1.16",
+      "chapter": null,
+      "original": "mercator metuens otium et oppidi",
+      "translation": "The merchant fears , and hugs the rural ease"
+    },
+    {
+      "id": "1.1.17",
+      "label": "Section 1.1.17",
+      "chapter": null,
+      "original": "laudat rura sui ; mox reficit rates",
+      "translation": "Of his own village home ; but soon , ashamed"
+    },
+    {
+      "id": "1.1.18",
+      "label": "Section 1.1.18",
+      "chapter": null,
+      "original": "quassas indocilis pauperiem pati .",
+      "translation": "Of penury , he refits his batter ' d craft ."
+    },
+    {
+      "id": "1.1.19",
+      "label": "Section 1.1.19",
+      "chapter": null,
+      "original": "est qui nec veteris pocula Massici",
+      "translation": "There is , who thinks no scorn of Massic draught ,"
+    },
+    {
+      "id": "1.1.20",
+      "label": "Section 1.1.20",
+      "chapter": null,
+      "original": "nec partem solido demere de die",
+      "translation": "Who robs the daylight of an hour unblamed ,"
+    },
+    {
+      "id": "1.1.21",
+      "label": "Section 1.1.21",
+      "chapter": null,
+      "original": "spernit , nunc viridi membra sub arbuto",
+      "translation": "Now stretch ' d beneath the arbute on the sward ,"
+    },
+    {
+      "id": "1.1.22",
+      "label": "Section 1.1.22",
+      "chapter": null,
+      "original": "stratus , nunc ad aquae lene caput sacrae .",
+      "translation": "Now by some gentle river ' s sacred spring ;"
+    },
+    {
+      "id": "1.1.23",
+      "label": "Section 1.1.23",
+      "chapter": null,
+      "original": "multos castra iuvant et lituo tubae",
+      "translation": "Some love the camp , the clarion ' s joyous ring ,"
+    },
+    {
+      "id": "1.1.24",
+      "label": "Section 1.1.24",
+      "chapter": null,
+      "original": "permixtus sonitus bellaque matribus",
+      "translation": "And battle , by the mother ' s soul abhorr ' d ."
+    },
+    {
+      "id": "1.1.25",
+      "label": "Section 1.1.25",
+      "chapter": null,
+      "original": "detestata . manet sub Iove frigido",
+      "translation": "See , patient waiting in the clear keen air ,"
+    },
+    {
+      "id": "1.1.26",
+      "label": "Section 1.1.26",
+      "chapter": null,
+      "original": "venator tenerae coniugis inmemor ,",
+      "translation": "The hunter , thoughtless of his delicate bride ,"
+    },
+    {
+      "id": "1.1.27",
+      "label": "Section 1.1.27",
+      "chapter": null,
+      "original": "seu visa est catulis cerva fidelibus",
+      "translation": "Whether the trusty hounds a stag have eyed ,"
+    },
+    {
+      "id": "1.1.28",
+      "label": "Section 1.1.28",
+      "chapter": null,
+      "original": "seu rupit teretes Marsus aper plagas .",
+      "translation": "Or the fierce Marsian boar has burst the snare ."
+    },
+    {
+      "id": "1.1.29",
+      "label": "Section 1.1.29",
+      "chapter": null,
+      "original": "me doctarum hederae praemia frontium",
+      "translation": "To me the artist ' s meed , the ivy wreath"
+    },
+    {
+      "id": "1.1.30",
+      "label": "Section 1.1.30",
+      "chapter": null,
+      "original": "dis miscent superis , me gelidum nemus",
+      "translation": "Is very heaven : me the sweet cool of woods ,"
+    },
+    {
+      "id": "1.1.31",
+      "label": "Section 1.1.31",
+      "chapter": null,
+      "original": "Nympharumque leves cum Satyris chori",
+      "translation": "Where Satyrs frolic with the Nymphs , secludes"
+    },
+    {
+      "id": "1.1.32",
+      "label": "Section 1.1.32",
+      "chapter": null,
+      "original": "secernunt populo , si neque tibias",
+      "translation": "From rabble rout , so but Euterpe ' s breath"
+    },
+    {
+      "id": "1.1.33",
+      "label": "Section 1.1.33",
+      "chapter": null,
+      "original": "Euterpe cohibet nec Polyhymnia",
+      "translation": "Fail not the flute , nor Polyhymnia fly"
+    },
+    {
+      "id": "1.1.34",
+      "label": "Section 1.1.34",
+      "chapter": null,
+      "original": "Lesboum refugit tendere barbiton .",
+      "translation": "Averse from stringing new the Lesbian lyre ."
+    },
+    {
+      "id": "1.1.35",
+      "label": "Section 1.1.35",
+      "chapter": null,
+      "original": "quodsi me lyricis vatibus inseres ,",
+      "translation": "O , write my name among that minstrel choir ,"
+    },
+    {
+      "id": "1.1.36",
+      "label": "Section 1.1.36",
+      "chapter": null,
+      "original": "sublimi feriam sidera vertice .",
+      "translation": "And my proud head shall strike upon the sky !"
+    },
+    {
+      "id": "2.1.1",
+      "label": "Section 2.1.1",
+      "chapter": null,
+      "original": "Motum ex Metello consule civicum",
+      "translation": "The broils that from Metellus date ,"
+    },
+    {
+      "id": "2.1.2",
+      "label": "Section 2.1.2",
+      "chapter": null,
+      "original": "bellique causas et vitia et modos",
+      "translation": "The secret springs , the dark intrigues ,"
+    },
+    {
+      "id": "2.1.3",
+      "label": "Section 2.1.3",
+      "chapter": null,
+      "original": "ludumque Fortunae gravisque",
+      "translation": "The freaks of Fortune , and the great"
+    },
+    {
+      "id": "2.1.4",
+      "label": "Section 2.1.4",
+      "chapter": null,
+      "original": "principum amicitias et arma",
+      "translation": "Confederate in disastrous leagues ,"
+    },
+    {
+      "id": "2.1.5",
+      "label": "Section 2.1.5",
+      "chapter": null,
+      "original": "nondum expiatis uncta cruoribus ,",
+      "translation": "And arms with uncleansed slaughter red ,"
+    },
+    {
+      "id": "2.1.6",
+      "label": "Section 2.1.6",
+      "chapter": null,
+      "original": "periculosae plenum opus aleae ,",
+      "translation": "A work of danger and distrust ,"
+    },
+    {
+      "id": "2.1.7",
+      "label": "Section 2.1.7",
+      "chapter": null,
+      "original": "tractas et incedis per ignis",
+      "translation": "You treat , as one on fire should tread"
+    },
+    {
+      "id": "2.1.8",
+      "label": "Section 2.1.8",
+      "chapter": null,
+      "original": "suppositos cineri doloso .",
+      "translation": "Scarce hid by treacherous ashen crust ."
+    },
+    {
+      "id": "2.1.9",
+      "label": "Section 2.1.9",
+      "chapter": null,
+      "original": "paulum severae musa tragoediae",
+      "translation": "Let Tragedy ' s stern muse be mute"
+    },
+    {
+      "id": "2.1.10",
+      "label": "Section 2.1.10",
+      "chapter": null,
+      "original": "desit theatris : mox ubi publicas",
+      "translation": "Awhile ; and when your order ' d page"
+    },
+    {
+      "id": "2.1.11",
+      "label": "Section 2.1.11",
+      "chapter": null,
+      "original": "res ordinaris , grande munus",
+      "translation": "Has told Rome ' s tale , that buskin ' d foot"
+    },
+    {
+      "id": "2.1.12",
+      "label": "Section 2.1.12",
+      "chapter": null,
+      "original": "Cecropio repetes cothurno ,",
+      "translation": "Again shall mount the Attic stage ,"
+    },
+    {
+      "id": "2.1.13",
+      "label": "Section 2.1.13",
+      "chapter": null,
+      "original": "insigne maestis praesidium reis",
+      "translation": "Pollio , the pale defendant ' s shield ,"
+    },
+    {
+      "id": "2.1.14",
+      "label": "Section 2.1.14",
+      "chapter": null,
+      "original": "et consulenti , Pollio , curiae ,",
+      "translation": "In deep debate the senate ' s stay ,"
+    },
+    {
+      "id": "2.1.15",
+      "label": "Section 2.1.15",
+      "chapter": null,
+      "original": "cui laurus aeternos honores",
+      "translation": "The hero of Dalmatic field"
+    },
+    {
+      "id": "2.1.16",
+      "label": "Section 2.1.16",
+      "chapter": null,
+      "original": "Delmatico peperit triumpho .",
+      "translation": "By Triumph crown ' d with deathless bay ."
+    },
+    {
+      "id": "2.1.17",
+      "label": "Section 2.1.17",
+      "chapter": null,
+      "original": "iam nunc minaci murmure cornuum",
+      "translation": "E ' en now with trumpet ' s threatening blare"
+    },
+    {
+      "id": "2.1.18",
+      "label": "Section 2.1.18",
+      "chapter": null,
+      "original": "perstringis auris , iam litui strepunt ,",
+      "translation": "You thrill our ears ; the clarion brays ;"
+    },
+    {
+      "id": "2.1.19",
+      "label": "Section 2.1.19",
+      "chapter": null,
+      "original": "iam fulgor armorum fugacis",
+      "translation": "The lightnings of the armour scare"
+    },
+    {
+      "id": "2.1.20",
+      "label": "Section 2.1.20",
+      "chapter": null,
+      "original": "terret equos equitumque voltus .",
+      "translation": "The steed , and daunt the rider ' s gaze ."
+    },
+    {
+      "id": "2.1.21",
+      "label": "Section 2.1.21",
+      "chapter": null,
+      "original": "audire magnos iam videor duces ,",
+      "translation": "Methinks I hear of leaders proud"
+    },
+    {
+      "id": "2.1.22",
+      "label": "Section 2.1.22",
+      "chapter": null,
+      "original": "non indecoro pulvere sordidos",
+      "translation": "With no uncomely dust distain ' d ,"
+    },
+    {
+      "id": "2.1.23",
+      "label": "Section 2.1.23",
+      "chapter": null,
+      "original": "et cuncta terrarum subacta",
+      "translation": "And all the world by conquest bow ' d ,"
+    },
+    {
+      "id": "2.1.24",
+      "label": "Section 2.1.24",
+      "chapter": null,
+      "original": "praeter atrocem animum Catonis .",
+      "translation": "And only Cato ' s soul unchain ' d ."
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": "odes-and-epodes-54wjbo-2"
+}

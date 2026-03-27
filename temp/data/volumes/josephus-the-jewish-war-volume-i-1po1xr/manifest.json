@@ -1,0 +1,61 @@
+{
+  "loebNumber": 203,
+  "sortOrder": 203,
+  "slug": "josephus-the-jewish-war-volume-i-1po1xr",
+  "title": "The Jewish War, Volume I",
+  "volumeLabel": "The Jewish War, Volume I",
+  "authorDisplay": "Josephus",
+  "authors": [
+    "Josephus"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for The Jewish War, Volume I. The Jewish War, Volume I currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "the-jewish-war-volume-i-y1ern4",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "the-jewish-war-volume-i-y1ern4",
+      "title": "The Jewish War, Volume I",
+      "status": "ready",
+      "sectionCount": 12,
+      "chunkSlug": "the-jewish-war-volume-i-y1ern4",
+      "chunks": [
+        {
+          "slug": "the-jewish-war-volume-i-y1ern4",
+          "label": "The Jewish War, Volume I",
+          "partId": "the-jewish-war-volume-i-y1ern4",
+          "partTitle": "The Jewish War, Volume I",
+          "sectionCount": 12,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "the-jewish-war-volume-i-y1ern4",
+      "label": "The Jewish War, Volume I",
+      "partId": "the-jewish-war-volume-i-y1ern4",
+      "partTitle": "The Jewish War, Volume I",
+      "sectionCount": 12,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "the-jewish-war-volume-i-y1ern4",
+      "partTitle": "The Jewish War, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἰουδαϊκοῦ πολέμου πρὸς Ῥωμαίους",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0526.tlg004.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Wars of the Jews",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0526.tlg004.perseus-eng2/"
+      }
+    }
+  ]
+}

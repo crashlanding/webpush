@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-stichus-trinummus-truculentus-tale-of-a-travelling-bag-fragments-bj13xq",
+  "volumeTitle": "Stichus. Trinummus. Truculentus. Tale of a Travelling Bag. Fragments",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "trinummus-py0gy8-9",
+  "label": "Trinummus (Section 4.2.868b - Section 4.2.916e)",
+  "partId": "trinummus-py0gy8",
+  "partTitle": "Trinummus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Trinummus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi019.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Trinummus: The Three Pieces of Money",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi019.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "4.2.868b",
+      "label": "Section 4.2.868b",
+      "chapter": null,
+      "original": "Ad nostras aedis hic quidem habet rectam viam .",
+      "translation": "Surely this fellow is making in a straight line for my house ; i ’ faith , I think I shall have to keep watch this night of my arrival ."
+    },
+    {
+      "id": "4.2.870",
+      "label": "Section 4.2.870",
+      "chapter": null,
+      "original": "Aperite hoc , aperite . heus , ecquis his fóribus tutelam gerit ?",
+      "translation": "Open this door !— open it ! Hallo , there ! who now has the care of this door [*] ?"
+    },
+    {
+      "id": "4.2.871",
+      "label": "Section 4.2.871",
+      "chapter": null,
+      "original": "Quid , adulescens , quaeris ? quid vis ? quid istas pultas ?",
+      "translation": "Young man , what do you want ? hat is it you wish ? Why are you knocking at this door ?"
+    },
+    {
+      "id": "4.2.871b",
+      "label": "Section 4.2.871b",
+      "chapter": null,
+      "original": "Heus senex ,",
+      "translation": "Eh ! old gentleman ;"
+    },
+    {
+      "id": "4.2.872",
+      "label": "Section 4.2.872",
+      "chapter": null,
+      "original": "census cum sum , iuratori recte rationem dedi .",
+      "translation": "I gave the return correctly to the Censor [*] , when I was questioned by him —"
+    },
+    {
+      "id": "4.2.873",
+      "label": "Section 4.2.873",
+      "chapter": null,
+      "original": "Lesbonicum hic adulescentem quaero in his regionibus",
+      "translation": "I am inquiring here for a young man named Lesbonicus , where in this quarter he lives — and likewise for another person , with such white hairs on his head as yours ;"
+    },
+    {
+      "id": "4.2.875",
+      "label": "Section 4.2.875",
+      "chapter": null,
+      "original": "Calliclem aiebat vocari qui has dedit mi epistulas .",
+      "translation": "he that gave me these letters said his name was Callicles ."
+    },
+    {
+      "id": "4.2.876",
+      "label": "Section 4.2.876",
+      "chapter": null,
+      "original": "Meum gnatum hic quidem Lesbonicum quaerit et amicum meum ,",
+      "translation": "In fact , this fellow is looking for my own son Lesbonicus and my friend Callicles , to whom I entrusted both my children and my property ."
+    },
+    {
+      "id": "4.2.878",
+      "label": "Section 4.2.878",
+      "chapter": null,
+      "original": "Fac me , si scis , certiorem , hisce homines ubi habitent , pater .",
+      "translation": "Let me know , respected sir [*] , if you are acquainted with it , where these persons live ."
+    },
+    {
+      "id": "4.2.879",
+      "label": "Section 4.2.879",
+      "chapter": null,
+      "original": "Quid eos quaeris ? aut quis es ? aut unde es ? aut unde advenis ?",
+      "translation": "Why are you inquiring for them ? Or who are you ?— Or whence are you ?— Or whence do you cone ?"
+    },
+    {
+      "id": "4.2.880",
+      "label": "Section 4.2.880",
+      "chapter": null,
+      "original": "Multa simul rogitas , nescio quid expediam potissimum .",
+      "translation": "You ask a number of things in the same breath ; I know not which in especial to inform you upon . If you will ask each thing singly , and in a quiet manner , I ’ ll both let you know my name , and my business , and my travels ."
+    },
+    {
+      "id": "4.2.883",
+      "label": "Section 4.2.883",
+      "chapter": null,
+      "original": "Faciam ita ut vis . agedum nomen tuom primum memora mihi .",
+      "translation": "I ’ ll do as you desire . Come then ; in the first place , tell me your name ."
+    },
+    {
+      "id": "4.2.884",
+      "label": "Section 4.2.884",
+      "chapter": null,
+      "original": "Magnum facinus incipissis petere .",
+      "translation": "You begin by demanding an arduous task ."
+    },
+    {
+      "id": "4.2.884b",
+      "label": "Section 4.2.884b",
+      "chapter": null,
+      "original": "Quid ita ?",
+      "translation": "How so ?"
+    },
+    {
+      "id": "4.2.884c",
+      "label": "Section 4.2.884c",
+      "chapter": null,
+      "original": "Quia , pater ,",
+      "translation": "Because , respected sir ,"
+    },
+    {
+      "id": "4.2.885",
+      "label": "Section 4.2.885",
+      "chapter": null,
+      "original": "si ante lucem íre occipias a meo prímo nomine ,",
+      "translation": "if you were to begin before daylight , i ’ faith , to commence at the first part of my name [*] , ’ twould be the dead of the night before you could get to the end of it ."
+    },
+    {
+      "id": "4.2.887",
+      "label": "Section 4.2.887",
+      "chapter": null,
+      "original": "Opus factost viatico ad tuom nomen , ut tu praedicas .",
+      "translation": "According to your story , a person should have a long journey ’ s provision crammed tightly in for your name ."
+    },
+    {
+      "id": "4.2.888",
+      "label": "Section 4.2.888",
+      "chapter": null,
+      "original": "Est minusculum alterum , quasi vixillum vinarium .",
+      "translation": "I have another name somewhat less ,— about the size of a wine-casks [*] ."
+    },
+    {
+      "id": "4.2.889",
+      "label": "Section 4.2.889",
+      "chapter": null,
+      "original": "Quid est tibi nomen , adulescens ?",
+      "translation": "What is this name of yours , young man ?"
+    },
+    {
+      "id": "4.2.889b",
+      "label": "Section 4.2.889b",
+      "chapter": null,
+      "original": "Pax , id est nomen mihi .",
+      "translation": "Hush , that ’ s my name [*] ;"
+    },
+    {
+      "id": "4.2.890",
+      "label": "Section 4.2.890",
+      "chapter": null,
+      "original": "hoc cotidianumst .",
+      "translation": "that ’ s my every-day one ."
+    },
+    {
+      "id": "4.2.890b",
+      "label": "Section 4.2.890b",
+      "chapter": null,
+      "original": "Edepol nomen nugatorium ,",
+      "translation": "I ’ faith , ’ tis a scampish name ; just as though [*] you were to say , Hush , if I were confiding anything to you , and then it is at an end forthwith . ( Aside .) This fellow is evidently a sharper . What say you , young man —?"
+    },
+    {
+      "id": "4.2.892b",
+      "label": "Section 4.2.892b",
+      "chapter": null,
+      "original": "Quid est ?",
+      "translation": "What is it now ?"
+    },
+    {
+      "id": "4.2.893",
+      "label": "Section 4.2.893",
+      "chapter": null,
+      "original": "Eloquere , isti tibi quid homines debent , quos tu quaeritas ?",
+      "translation": "Speak out ; what do these persons owe you whom you are seeking ?"
+    },
+    {
+      "id": "4.2.894",
+      "label": "Section 4.2.894",
+      "chapter": null,
+      "original": "Pater istius adulescentis dedit has duas mi epistulas ,",
+      "translation": "The father of this young man , Lesbonicus , delivered to me these two letters ;"
+    },
+    {
+      "id": "4.2.895",
+      "label": "Section 4.2.895",
+      "chapter": null,
+      "original": "Lesbonici . is mi est amicus .",
+      "translation": "he is a friend of mine ."
+    },
+    {
+      "id": "4.2.895b",
+      "label": "Section 4.2.895b",
+      "chapter": null,
+      "original": "Teneo hunc manifestarium .",
+      "translation": "I have now caught him in the fact ; he says that I gave him the letters . I will have some fine sport with the fellow ."
+    },
+    {
+      "id": "4.2.897",
+      "label": "Section 4.2.897",
+      "chapter": null,
+      "original": "Ita ut occepi , si animum advortas , dicam .",
+      "translation": "As I have begun , if you will give attention , I will say on ."
+    },
+    {
+      "id": "4.2.897b",
+      "label": "Section 4.2.897b",
+      "chapter": null,
+      "original": "Dabo operam tibi .",
+      "translation": "I ’ ll give you my attention ."
+    },
+    {
+      "id": "4.2.898",
+      "label": "Section 4.2.898",
+      "chapter": null,
+      "original": "Hanc me iussit Lesbonico suo gnato dare epistulam ,",
+      "translation": "He bade me give this letter to his son , Lesbonicus , and this other one , as well , he bade me give to his friend Callicles ."
+    },
+    {
+      "id": "4.2.900",
+      "label": "Section 4.2.900",
+      "chapter": null,
+      "original": "Mihi quoque edepol , quom hic nugatur , contra nugari lubet .",
+      "translation": "Troth , but since he is acting the impostor , I , on the other hand , have an inclination to act the cheat as well . Where was he himself ?"
+    },
+    {
+      "id": "4.2.901b",
+      "label": "Section 4.2.901b",
+      "chapter": null,
+      "original": "Bene rem gerebat .",
+      "translation": "He was carrying on his business prosperously ."
+    },
+    {
+      "id": "4.2.901c",
+      "label": "Section 4.2.901c",
+      "chapter": null,
+      "original": "Ergo ubi ?",
+      "translation": "But where ?"
+    },
+    {
+      "id": "4.2.901d",
+      "label": "Section 4.2.901d",
+      "chapter": null,
+      "original": "In Seleucia .",
+      "translation": "At Seleucia ."
+    },
+    {
+      "id": "4.2.902",
+      "label": "Section 4.2.902",
+      "chapter": null,
+      "original": "Ab ipson istas accepisti ?",
+      "translation": "⋯ And did you receive these from himself ?"
+    },
+    {
+      "id": "4.2.902b",
+      "label": "Section 4.2.902b",
+      "chapter": null,
+      "original": "E manibus dedit mi ipse in manus .",
+      "translation": "With his own hands he himself delivered them into my hands ."
+    },
+    {
+      "id": "4.2.903",
+      "label": "Section 4.2.903",
+      "chapter": null,
+      "original": "Qua facie est homo ?",
+      "translation": "Of what appearance is this person ?"
+    },
+    {
+      "id": "4.2.903b",
+      "label": "Section 4.2.903b",
+      "chapter": null,
+      "original": "Sesquipede quiddamst quam tu longior .",
+      "translation": "He is a person somewhere about half a foot taller than you ."
+    },
+    {
+      "id": "4.2.904",
+      "label": "Section 4.2.904",
+      "chapter": null,
+      "original": "Haeret haec res , siquidem ego apsens sum quam praesens longior .",
+      "translation": "This is an odd matter , if in fact I am taller when absent than when present ."
+    },
+    {
+      "id": "4.2.905",
+      "label": "Section 4.2.905",
+      "chapter": null,
+      "original": "novistin hominem ?",
+      "translation": "Do you know this person ?"
+    },
+    {
+      "id": "4.2.905b",
+      "label": "Section 4.2.905b",
+      "chapter": null,
+      "original": "Ridicule rogitas , quicum una cibum",
+      "translation": "You are asking me a ridiculous question ; together with him I was in the habit of taking my meals ."
+    },
+    {
+      "id": "4.2.906b",
+      "label": "Section 4.2.906b",
+      "chapter": null,
+      "original": "Quid est ei nomen ?",
+      "translation": "What is his name ?"
+    },
+    {
+      "id": "4.2.906c",
+      "label": "Section 4.2.906c",
+      "chapter": null,
+      "original": "Quod edepol homini probo .",
+      "translation": "One , i ’ faith , that belongs to an honorable man ."
+    },
+    {
+      "id": "4.2.907",
+      "label": "Section 4.2.907",
+      "chapter": null,
+      "original": "Lubet audire .",
+      "translation": "I would like to hear it ."
+    },
+    {
+      "id": "4.2.907b",
+      "label": "Section 4.2.907b",
+      "chapter": null,
+      "original": "Illi edepol — illi — ílli — vae misero mihi .",
+      "translation": "Troth , his name ( hesitating ) — his — his — ( Aside .) Woe to unfortunate me ."
+    },
+    {
+      "id": "4.2.908",
+      "label": "Section 4.2.908",
+      "chapter": null,
+      "original": "Quid est negoti ?",
+      "translation": "What ’ s the matter ?"
+    },
+    {
+      "id": "4.2.908b",
+      "label": "Section 4.2.908b",
+      "chapter": null,
+      "original": "Devoravi nomen imprudens modo .",
+      "translation": "Unguardedly , I this moment swallowed the name ."
+    },
+    {
+      "id": "4.2.909",
+      "label": "Section 4.2.909",
+      "chapter": null,
+      "original": "Non placet qui amicos intra dentes conclusos habet .",
+      "translation": "I like not the man that has his friends shut up within his teeth ."
+    },
+    {
+      "id": "4.2.910",
+      "label": "Section 4.2.910",
+      "chapter": null,
+      "original": "Atque etiam modo vorsabatur mi in labris primoribus .",
+      "translation": "And yet this moment ’ twas dwelling on the very edge of my lips ."
+    },
+    {
+      "id": "4.2.911",
+      "label": "Section 4.2.911",
+      "chapter": null,
+      "original": "Temperi huic hodie anteveni .",
+      "translation": "I ’ ve come to-day in good time before this fellow ."
+    },
+    {
+      "id": "4.2.911b",
+      "label": "Section 4.2.911b",
+      "chapter": null,
+      "original": "Teneor manifesto miser .",
+      "translation": "To my sorrow I ’ m caught in the fact ."
+    },
+    {
+      "id": "4.2.912",
+      "label": "Section 4.2.912",
+      "chapter": null,
+      "original": "Iam recommentatu'srecommentatus es nomen ?",
+      "translation": "Have you now recollected the name ?"
+    },
+    {
+      "id": "4.2.912b",
+      "label": "Section 4.2.912b",
+      "chapter": null,
+      "original": "Deum hercle me atque hominum pudet .",
+      "translation": "’ Fore Gods and men , i ’ faith , I ’ m ashamed of myself"
+    },
+    {
+      "id": "4.2.913",
+      "label": "Section 4.2.913",
+      "chapter": null,
+      "original": "Vide modo ut hóminem noveris .",
+      "translation": "See , now , how well you know this man ."
+    },
+    {
+      "id": "4.2.913b",
+      "label": "Section 4.2.913b",
+      "chapter": null,
+      "original": "Tam quam me . fieri istuc solet ,",
+      "translation": "As well as my own self . This is in the habit of happening : the thing you are holding in your hand , and seeing with your eyes , that same you are looking for as lost . I ’ ll recollect it letter by letter . C is the beginning of the name ."
+    },
+    {
+      "id": "4.2.916",
+      "label": "Section 4.2.916",
+      "chapter": null,
+      "original": "Callias ?",
+      "translation": "Is it Callias ?"
+    },
+    {
+      "id": "4.2.916b",
+      "label": "Section 4.2.916b",
+      "chapter": null,
+      "original": "Non est .",
+      "translation": "No : it isn ’ t that ."
+    },
+    {
+      "id": "4.2.916c",
+      "label": "Section 4.2.916c",
+      "chapter": null,
+      "original": "Callippus ?",
+      "translation": "Callippus ?"
+    },
+    {
+      "id": "4.2.916d",
+      "label": "Section 4.2.916d",
+      "chapter": null,
+      "original": "Non est .",
+      "translation": "It isn ’ t that ."
+    },
+    {
+      "id": "4.2.916e",
+      "label": "Section 4.2.916e",
+      "chapter": null,
+      "original": "Callidemides ?",
+      "translation": "Callidemides ?"
+    }
+  ],
+  "prevChunkSlug": "trinummus-py0gy8-8",
+  "nextChunkSlug": "trinummus-py0gy8-10"
+}

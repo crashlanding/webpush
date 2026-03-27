@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plutarch-lives-volume-vi-lhucbn",
+  "volumeTitle": "Lives, Volume VI",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "caius-marius-e9n96o-1",
+  "label": "Caius Marius (Section 1.1 - Section 30.2)",
+  "partId": "lives-volume-vi-15naln",
+  "partTitle": "Lives, Volume VI",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Caius Marius",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg031.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Caius Marius",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg031.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1",
+      "label": "Section 1.1",
+      "chapter": null,
+      "original": "Γαΐου Μαρίου τρίτον οὐκ ἔχομεν εἰπεῖν ὄνομα , καθάπερ οὐδὲ Κοΐντου Σερτωρίου τοῦ κατασχόντος Ἰβηρίαν , οὐδὲ Λευκίου Μομμίου τοῦ Κόρινθον ἑλόντος · ὁ γὰρ Ἀχαϊκὸς τούτῳ γε τῆς πράξεως ἐπώνυμον γέγονεν , ὡς ὁ Ἀφρικανὸς Σκηπίωνι καὶ ὁ Μακεδονικὸς Μετέλλῳ .",
+      "translation": "Of a third name for Caius Marius we are ignorant , as we are in the case of Quintus Sertorius the subduer of Spain , and of Lucius Mummius the captor of Corinth ; for Mummius received the surname of Achaïcus from his great exploit , as Scipio received that of Africanus , and Metellus that of Macedonicus ."
+    },
+    {
+      "id": "1.2",
+      "label": "Section 1.2",
+      "chapter": null,
+      "original": "ἐξ οὗ καὶ μάλιστα Ποσειδώνιος ἐλέγχειν οἴεται τοὺς τὸ τρίτον ὄνομα Ῥωμαίοις κύριον εἶναι νομίζοντας , οἷον τὸν Κάμιλλον καὶ τὸν Μάρκελλον καὶ τὸν Κάτωνα · γίνεσθαι γὰρ ἂν ἀνωνύμους [*] τοὺς ἀπὸ μόνων τῶν δυεῖν προσαγορευομένους . λανθάνει δὲ ἑαυτὸν ὅτι τούτῳ τῷ λόγῳ πάλιν αὐτὸς ἀνωνύμους ποιεῖ [*] τὰς γυναῖκας · οὐδεμιᾷ γάρ γυναικὶ τίθεται τῶν ὀνομάτων τὸ πρῶτον , ὅπερ οἴεται κύρίων ὄνομα Ῥωμαίοις ὑπάρχειν ὁ Ποσειδώνιος .",
+      "translation": "From this circumstance particularly Poseidonius thinks to confute those who hold that the third name is the Roman proper name , as , for instance , Camillus , Marcellus , or Cato ; for if that were so , he says , then those with only two names would have had no proper name at all . But it escapes his notice that his own line of reasoning , if extended to women , robs them of their proper names ; for no woman is given the first name , which Poseidonius thinks was the proper name among the Romans ."
+    },
+    {
+      "id": "2.1",
+      "label": "Section 2.1",
+      "chapter": null,
+      "original": "τῆς δὲ ὄψεως τῆς Μαρίου λιθίνην εἰκόνα κειμένην ἐν Ῥαβέννῃ τῆς Γαλατίας ἐθεώμεθα πάνυ τῇ λεγομένῃ περὶ τὸ ἦθος στρυφνότητι καὶ πικρίᾳ πρέπουσαν . ἀνδρώδης γὰρ φύσει καὶ πολεμικὸς γενόμενος , καὶ στρατιωτικῆς μᾶλλον ἢ πολιτικῆς παιδείας μεταλαβών , ἄκρατον ἐν ταῖς ἐξουσίαις τὸν θυμὸν ἔσχε .",
+      "translation": "As for the personal appearance of Marius , we have seen a marble statue of him at Ravenna in Gaul , and it very well portrays the harshness and bitterness of character which are ascribed to him . For since he was naturally virile and fond of war , and since he received a training in military rather than in civil life , his temper was fierce when he came to exercise authority ."
+    },
+    {
+      "id": "2.2",
+      "label": "Section 2.2",
+      "chapter": null,
+      "original": "λέγεται δὲ μήτε γράμματα μαθεῖν Ἑλληνικὰ μήτε γλώττῃ πρὸς μηδὲν Ἑλληνίδι χρῆσθαι τῶν σπουδῆς ἐχομένων , ὡς γελοῖον γράμματα μανθάνειν ὧν οἱ διδάσκαλοι δουλεύοιεν ἑτέροις μετὰ δὲ τὸν δεύτερον θρίαμβον ἐπὶ ναοῦ τινος καθιερώσει θέας Ἐλληνικὰς παρέχων , εἰς τὸ θέατρον ἐλθὼν καὶ μόνον καθίσας paris.1624.407 εὐθὺς ἀπαλλαγῆναι .",
+      "translation": "Moreover , we are told that he never studied Greek literature , and never used the Greek language for any matter of real importance , thinking it ridiculous to study a literature the teachers of which were the subjects of another people ; and when , after his second triumph and at the consecration of some temple , he furnished the public with Greek spectacles , though he came into the theatre , he merely sat down , and at once went away ."
+    },
+    {
+      "id": "3.1",
+      "label": "Section 3.1",
+      "chapter": null,
+      "original": "γενόμενος δὲ γονέων παντάπασιν ἀδόξων , αὐτουργῶν δὲ καὶ πενήτων , πατρὸς μὲν ὁμωνύμου , μητρὸς δὲ Φουλκινίας , ὀψέ ποτε πόλιν εἶδε καὶ p.468 τῶν ἐν πόλει διατριβῶν ἐγεύσατο , τὸν δὲ ἄλλον χρόνον ἐν κώμῃ Κιρραιάτωνι τῆς Ἀρπίνης δίαιταν εἶχε , πρὸς μὲν ἀστεῖον καὶ γλαφυρὸν βίον ἀγροικοτέραν , σώφρονα δὲ καὶ ταῖς πάλαιῬωμαίων τροφαῖς ἐοικυῖαν .",
+      "translation": "Born of parents who were altogether obscure — poor people who lived by the labour of their own hands ( Marius was his father ’ s name , Fulcinia that of his mother ), it was not till late that he saw the city or got a taste of city ways . In the meantime he lived at Cirrhaeaton , [*] a village in the territory of Arpinum , in a manner that was quite rude when compared with the polished life of a city , but temperate , and in harmony with the rearing which the ancient Romans gave their children ."
+    },
+    {
+      "id": "3.2",
+      "label": "Section 3.2",
+      "chapter": null,
+      "original": "πρώτην δὲ στρατείαν στρατευσάμενος ἐπὶ Κελτίβηρας , ὅτε Σκηπίων Ἀφρικανὸς Νομαντίαν ἐπολιόρκει , τὸν στρατηγὸν οὐκ ἐλάνθανεν ἀνδρείᾳ τῶν ἄλλων νέων διαφέρων καὶ τὴν μεταβολὴν τῆς διαίτης , ἣν ὑπὸ τρυφῆς καὶ πολυτελείας διεφθαρμένοις ἐπῆγε τοῖς στρατεύμασιν ὁ Σκηπίων , εὐκολώτατα προσδεχόμενος . λέγεται δὲ καὶ πολέμιον ἄνδρα συστὰς καταβαλεῖν ἐν ὄψει τοῦ στρατηγοῦ .",
+      "translation": "His first service as a soldier was in a campaign against the Celtiberians , when Scipio Africanus was besieging Numantia , [*] and he attracted the notice of his general by excelling the other young men in bravery , and by his very cheerful acceptance of the changed regimen which Scipio introduced into his army when it was spoiled by luxury and extravagance . It is said , too , that he encountered and laid low an enemy in the sight of his general ."
+    },
+    {
+      "id": "4.1",
+      "label": "Section 4.1",
+      "chapter": null,
+      "original": "τὸν δ ’ οὖν Μάριον ὑπὸ ταύτης λέγεται μάλιστα τῆς φωνῆς , ὥσπερ ὑπὸ θείας κληδόνος , ἐπαρθέντα ταῖς ἐλπίσιν ὁρμῆσαι πρὸς τὴν πολιτείαν , καὶ τυχεῖν δημαρχίας Κεκιλίου Μετέλλου p.470 σπουδάσαντος , οὗ τὸν οἶκον ἐξ ἀρχῆς καὶ πατρόθεν ἐθεράπευεν .",
+      "translation": "So , then , Marius , filled with high hopes , we are told , by this speech of Scipio in particular , as if it were a divine utterance in prophecy , set out upon a political career , and was made tribune of the people [*] with the assistance of Caecilius Metellus , of whose house he had always been an hereditary adherent ."
+    },
+    {
+      "id": "4.2",
+      "label": "Section 4.2",
+      "chapter": null,
+      "original": "ἐν δὲ τῇ δημαρχίᾳ νόμον τινὰ περὶ ψηφοφορίας γράφοντος αὐτοῦ δοκοῦντα τῶν δυνατῶν ἀφαιρεῖσθαι τὴν περὶ τὰς κρίσεις ἰσχύν , ἐνιστάμενος Κόττας ὁ ὕπατος συνέπεισε τὴν βουλὴν τῷ μὲν νόμῳ μάχεσθαι , τὸν δὲ Μάριον καλεῖν λόγον ὑφέξοντα . καὶ τοῦ δόγματος τούτου γραφέντος εἰσελθὼν ἐκεῖνος οὐκ ἔπαθε νέου πάθος ἀπὸ μηδενὸς λαμπροῦ προεληλυθότος ἄρτι πρὸς τὴν πολιτείαν , ἀλλʼ ἑαυτῷ διδοὺς ἤδη φρονεῖν ἡλίκον αἱ μετέπειτα πράξεις ἔδωκαν , ἠπείλησε τὸν Κότταν ἀπάξειν εἰς τὸ δεσμωτήριον , εἰ μὴ διαγράψειε τὸ δόγμα .",
+      "translation": "While serving as tribune he introduced a law concerning the mode of voting , which , as it was thought , would lessen the power of the nobles in judicial cases ; whereupon Cotta the consul opposed him and persuaded the senate to contest the law , and to summon Marius before it to explain his procedure . The senate voted to do this , and Marius appeared before it . He did not , however , behave like a young man who had just entered political life without any brilliant services behind him , but assumed at once the assurance which his subsequent achievements gave him , and threatened to hale Cotta off to prison unless he had the vote rescinded ."
+    },
+    {
+      "id": "5.1",
+      "label": "Section 5.1",
+      "chapter": null,
+      "original": "μετὰ δὲ τὴν δημαρχίαν ἀγορανομίαν τὴν μείζονα παρήγγειλε , δύο γάρ εἰσι τάξεις p.472 ἀγορανομιῶν , ἡ μὲν ἀπὸ τῶν δίφρων τῶν ἀγκυλοπόδων , ἐφʼ ὧν καθεζόμενοι χρηματίζουσιν , ἔχουσα τοὔνομα τῆς ἀρχῆς , τὴν δ ’ ὑποδεεστέραν δημοτικὴν καλοῦσιν . ὅταν δὲ τοὺς ἐντιμοτέρους ἕλωνται περὶ τῶν ἑτέρων πάλιν τὴν ψῆφον λαμβάνουσιν .",
+      "translation": "After his tribuneship , he became a candidate for the higher aedileship . For there are two classes of aediles , one taking its name of curule from the chairs with curving feet on which the magistrates sit in the exercise of their functions , the other , and the inferior , being called plebeian . When the superior aediles have been elected , the people cast a second vote for the others ."
+    },
+    {
+      "id": "5.2",
+      "label": "Section 5.2",
+      "chapter": null,
+      "original": "ὡς οὖν ὁ Μάριος φανερὸς ἦν λειπόμενος ἐν ἐκείνῃ , ταχὺ μεταστὰς αὖθις ᾔτει τὴν ἑτέραν . δόξας δὲ θρασὺς εἶναι καὶ αὐθάδης ἀπέτυχε · καὶ δυσὶν ἐν ἡμέρᾳ μιᾷ περιπεσὼν ἀποτεύξεσιν , ὃ μηδεὶς ἔπαθεν ἂλλος , οὐδὲ μικρὸν ὑφήκατο τοῦ φρονήματος , ὕστερον δὲ οὐ πολλῷ στρατηγίαν μετελθὼν ὀλίγον ἐδέησεν ἐκπεσεῖν , ἔσχατος δὲ πάντων ἀναγορευθεὶς δίκην ἔσχε δεκασμοῦ .",
+      "translation": "Accordingly , when it was clear that Marius was losing his election to the higher office , he immediately changed his tactics and applied for the other . But men thought him bold and obstinate , and he was defeated ; nevertheless , although he had met with two failures in one day , a thing which had never happened to any candidate before , he did not lower his assurance in the least , but not long afterwards became a candidate for the praetorship [*] and narrowly missed defeat ; he was returned last of all , and was prosecuted for bribery ."
+    },
+    {
+      "id": "6.1",
+      "label": "Section 6.1",
+      "chapter": null,
+      "original": "ἐν μὲν οὖν τῇ στρατηγίᾳ μετρίως ἐπαινούμενον ἑαυτὸν παρέσχε , μετὰ δὲ τὴν στρατηγίαν κλήρῳ λαβὼν τὴν ἐκτὸς Ἰβηρίαν λέγεται καθᾶραι λῃστηρίων τὴν ἐπαρχίαν ἀνήμερον οὖσαν ἔτι τοῖς ἐθισμοῖς καὶ θηριώδη , καὶ τὸ λῃστεύειν οὔπω τότε τῶν Ἰβήρων οὐχὶ κάλλιστον ἡγουμένων , ἐν δὲ τῇ πολιτείᾳ γενόμενος οὐκ εἶχεν οὔτε πλοῦτον οὔτε λόγον , οἷς ἦγον οἱ τότε μάλιστα τιμώμενοι τὸν δῆμον .",
+      "translation": "Well , then , for his praetorship Marius got only moderate commendation . After his praetorship , however , the province of Farther Spain was allotted to him , and here he is said to have cleared away the robbers , although the province was still uncivilized in its customs and in a savage state , and robbery was at that time still considered a most honourable occupation by the Spaniards . But when he returned to political life , he had neither wealth nor eloquence , with which the magnates of the time used to influence the people ."
+    },
+    {
+      "id": "6.2",
+      "label": "Section 6.2",
+      "chapter": null,
+      "original": "αὐτὴν δὲ τὴν ἀνάτασιν τοῦ φρονήματος καὶ τὸ περὶ τοὺς πόνους ἐνδελεχὲς αὐτοῦ καὶ τὸ δημοτικὸν τῆς διαίτης ἔν τινι σπουδῇ τιθεμένων τῶν πολιτῶν ηὐξάνετο τῇ τιμῇ πρὸς δύναμιν , ὥστε καὶ γάμον γῆμαι λαμπρὸν οἰκίας ἐπιφανοῦς τῆς Καισάρων Ἰουλίαν , ἧς ἦν ἀδελφιδοῦς Καῖσαρ ὁ χρόνοις ὕστερον Ῥωμαίων μέγιστος γενόμενος καί τι κατʼ οἰκειότητα ζηλώσας Μάριον , ὡς ἐν τοῖς περὶ ἐκείνου γέγραπται . p.476",
+      "translation": "Still , the very intensity of his assurance , his indefatigable labours , and his plain and simple way of living , won him a certain popularity among his fellow citizens , and his honours brought him increasing influence , so that he married into the illustrious family of the Caesars and became the husband of Julia , who was the aunt of that Caesar who in after times became greatest among the Romans , and in some degree , because of his relationship , made Marius his example , as I have stated in his Life . [*]"
+    },
+    {
+      "id": "7.1",
+      "label": "Section 7.1",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ Καικίλιος Μέτελλος ἀποδειχθεὶς paris.1624.409 ἐπὶ τὸν κατὰ Ἰουγούρθα πόλεμον ὕπατος στρατηγὸς εἰς Λιβύην ἐπηγάγετο πρεσβευτὴν Μάριον , ἐνταῦθα πράξεων μεγάλων καὶ λαμπρῶν ἀγώνων ἐπιλαβόμενος τὸ μὲν αὔξειν τὸν Μέτελλον , ὥσπερ οἱ λοιποί , καὶ πολιτεύεσθαι πρὸς ἐκεῖνον εἴασε χαίρειν · ἀξιῶν δὲ οὐχ ὑπὸ Μετέλλου κεκλῆσθαι πρεσβευτής , ὑπὸ δὲ τῆς τύχης εἰς εὐφυέστατον καιρὸν ὁμοῦ καὶ μέγιστον εἰσάγεσθαι πράξεων θέατρον , ἐπεδείκνυτο πᾶσαν ἀνδραγαθίαν .",
+      "translation": "When Caecilius Metellus the consul was appointed commander-in-chief for the war against Jugurtha , [*] he took Marius with him to Africa in the capacity of legate . Here , in essaying great exploits and brilliant struggles , Marius was not careful , like the rest , to enhance the glory of Metellus and conduct himself in his interests ; and deeming that he had not so much been called by Metellus to the office of legate as he was being introduced by Fortune into a most favourable opportunity as well as a most spacious theatre for exploits , he made a display of every sort of bravery ."
+    },
+    {
+      "id": "7.2",
+      "label": "Section 7.2",
+      "chapter": null,
+      "original": "καὶ πολλὰ τοῦ πολέμου δυσχερῆ φέροντος οὔτε τῶν μεγάλων τινὰ πόνων ὑποτρέσας οὔτε τῶν μικρῶν ἀπαξιώσας , ἀλλὰ τοὺς μὲν ὁμοτίμους εὐβουλίᾳ καὶ προνοίᾳ τοῦ συμφέροντος ὑπερβαλλόμενος , πρὸς δ ’ τοὺς στρατιώτας ὑπὲρ εὐτελείας καὶ καρτερίας διαμιλλώμενος εὔνοιαν ἔσχε πολλὴν παρʼ αὐτοις .",
+      "translation": "And though the war brought many hardships , he neither shunned any great labour , nor disdained any that were small , but surpassed the officers of his own rank in giving good counsel and foreseeing what was advantageous , and vied with the common soldiers in frugality and endurance , thereby winning much goodwill among them ."
+    },
+    {
+      "id": "8.1",
+      "label": "Section 8.1",
+      "chapter": null,
+      "original": "ἐφʼ οἷς δῆλος ἦν ὁ Μέτελλος ἀχθόμενος . μάλιστα δ ’ αὐτὸν ἠνίασε τὸ περὶ Τουρπίλλιον . οὗτος γὰρ ὁ ἀνὴρ ἦν μὲν ἐκ πατέρων ξένος τῷ Μετέλλῳ καὶ τότε τὴν ἐπὶ τῶν τεκτόνων ἔχων ἀρχὴν συνεστράτευε · φρουρῶν δὲ Βάγαν , πόλιν μεγάλην , καὶ τῷ μηδὲν ἀδικεῖν τοὺς ἐνοικοῦντας , ἀλλὰ πράως καὶ φιλανθρώπως αὐτοῖς προσφέρεσθαι πιστεύων , ἔλαθεν ὑποχείριος τοῖς πολεμίοις γενόμενος ., παρεδέξαντο γάρ τὸν Ἰουγούρθαν , τὸν δὲ Τουρπίλλιον οὐδὲν ἠδίκησαν , ἀλλὰ σῷον ἐξαιτησάμενοι διῆκαν . ἔσχεν οὖν αἰτίαν προδοσίας ·",
+      "translation": "At all this Metellus was evidently displeased . But it was the affair of Turpillius that most vexed him . This Turpillius was an hereditary guest-friend of Metellus , and at this time was serving in his army as chief of engineers . But he was put in charge of Vaga , a large city , and because he relied for safety on his doing the inhabitants no wrong , but rather treating them with kindness and humanity , he unawares came into the power of the enemy ; for they admitted Jugurtha into their city . Still , they did Turpillius no harm , but obtained his release and sent him away safe and sound ."
+    },
+    {
+      "id": "8.2",
+      "label": "Section 8.2",
+      "chapter": null,
+      "original": "καὶ παρὼν ὁ Μάριος τῇ κρίσει σύμβουλος p.480 αὐτὸς τέ οἱ πικρὸς ἦν καὶ τῶν ἄλλων παρώξυνε τοὺς πλείστους , ὥστε ἄκοντα τὸν Μέτελλον ἐκβιασθῆναι καὶ καταψηφίσασθαι θάνατον τοῦ ἀνθρώπου . μετʼ ὀλίγον δὲ τῆς αἰτίας ψευδοῦς φανείσης , οἱ μὲν ἄλλοι συνήχθοντο τῷ Μετέλλῳ βαρέως φέροντι , Μάριος δὲ χαίρων καὶ ποιούμενος ἴδιον τὸ ἔργον οὐκ ᾐσχύνετο λέγειν περιιών ὡς αὑτὸς εἴη προστετριμμένος ἀλάστορα τῷ Μετέλλῳ ξενοκτόνον .",
+      "translation": "Accordingly , a charge of treachery was brought against him ; and Marius , who was a member of the council which tried the case , was himself bitter , and exasperated most of the others against the accused , so that Metellus was reluctantly forced to pass sentence of death upon him . After a short time , however , the charge was found to be false , and almost everybody sympathized with Metellus in his grief ; but Marius , full of joy and claiming the condemnation as his own work , was not ashamed to go about saying that he had fastened upon the path of Metellus a daemon who would avenge the murder of a guest-friend ."
+    },
+    {
+      "id": "9.1",
+      "label": "Section 9.1",
+      "chapter": null,
+      "original": "ἀναγορευθεὶς δὲ λαμπρῶς εὐθὺς ἐστρατολόγει , παρὰ τὸν νόμον καὶ τὴν συνήθειαν πολὺν τὸν ἄπορον καὶ φαῦλον [*] καταγράφων , τῶν πρόσθεν ἡγεμόνων οὐ προσδεχομένων τοὺς τοιούτους , ἀλλʼ , ὥσπερ ἄλλο τι τῶν καλῶν , τὰ ὅπλα μετὰ τιμῆς τοῖς ἀξίοις νεμόντων , ἐνέχυρον τὴν οὐσίαν ἑκάστου τιθέναι δοκοῦντος .",
+      "translation": "He was triumphantly elected , [*] and at once began to levy troops . Contrary to law and custom he enlisted many a poor and insignificant man , although former commanders had not accepted such persons , but bestowed arms , just as they would any other honour , only on those whose property assessment made them worthy to receive these , each soldier being supposed to put his substance in pledge to the state ."
+    },
+    {
+      "id": "9.2",
+      "label": "Section 9.2",
+      "chapter": null,
+      "original": "οὐ μὴν ταῦτά γε μάλιστα διέβαλλε τὸν Μάριον , ἀλλʼ οἱ λόγοι θρασεῖς ὄντες ὑπεροψίᾳ καὶ ὕβρει τοὺς πρώτους ἐλύπουν , σκῦλόν τε βοῶντος αὐτοῦ τὴν ὑπατείαν φέρεσθαι τῆς τῶν εὐγενῶν καὶ πλουσίων μαλακίας , καὶ τραύμασιν οἰκείοις πρὸς τὸν δῆμον , οὐ μνήμασι νεκρῶν οὐδὲ ἀλλοτρίαις εἰκόσι νεανιεύεσθαι .",
+      "translation": "It was not this , however , that brought most odium upon Marius , but the boldly insolent and arrogant speeches with which he vexed the nobles , crying out that he had carried off the consulship as spoil from the effeminacy of the rich and well-born , and that he had wounds upon his own person with which to vaunt himself before the people , not monuments of the dead nor likenesses of other men ."
+    },
+    {
+      "id": "10.1",
+      "label": "Section 10.1",
+      "chapter": null,
+      "original": "ὡς δὲ διέπλευσεν εἰς Λιβύην , Μέτελλος μὲν ἥττων τοῦ φθόνου γενόμενος , καὶ περιπαθῶν ὅτι , κατειργασμένου τὸν πόλεμον αὐτοῦ καὶ μηδὲν ὑπόλοιπον ἣ τὸ σῶμα τοῦ Ἰουγούρθα λαβεῖν ἔχοντος , ἥκει Μάριος ἐπὶ τὸν στέφανον καὶ τὸν θρίαμβον , ἐκ τῆς πρὸς ἐκεῖνον ἀχαριστίας ηὐξημένος , οὐχ ὑπέμεινεν εἰς τὸ αὐτὸ συνελθεῖν , ἀλλʼ αὐτὸς μὲν ὑπεξεχώρησε , Ῥουτίλιος δὲ τὸ στράτευμα τῷ Μαρίῳ παρέδωκε , πρεσβευτὴς γενονὼς τοῦ Μετέλλου .",
+      "translation": "When he had crossed to Africa , Metellus , now become a victim of jealousy , and vexed because , after he had brought the war to an end and had nothing further to do except to seize the person of Jugurtha , Marius was coming to enjoy the crown and the triumph ,— a man whose ingratitude towards his benefactor had raised him to power ,— would not consent to meet him , but privately left the country while Rutilius , who had become his legate , handed over the army to Marius ."
+    },
+    {
+      "id": "10.2",
+      "label": "Section 10.2",
+      "chapter": null,
+      "original": "καὶ περιῆλθέ τις νέμεσις ἐν τῷ τέλει τῶν πράξεων Μάριον ἀφῃρέθη γάρ ὑπὸ Σύλλα τὴν τοῦ κατορθώματος δόξαν , ὡς ὑπʼ ἐκείνου Μέτελλος · ὃν τρόπον δέ , ἀφηγήσομαι βραχέως , ἐπεὶ τὰ καθʼ ἕκαστον μᾶλλον ἐν τοῖς περὶ Σύλλα γέγραπται . Βόκχος ὁ τῶν ἄνω βαρβάρων βασιλεὺς ἦν πενθερὸς Ἰουγούρθα , καὶ πολεμοῦντι μὲν οὐ πάνυ τι συλλαμβάνειν ἐδόκει , προβαλλόμενος αὐτοῦ τὴν ἀπιστίαν , καὶ τὴν αὔξησιν δεδοικώς ·",
+      "translation": "And in the end a retribution fell upon Marius ; for Sulla robbed him of the glory of his success , as Marius had robbed Metellus . How this came to pass , I will narrate briefly , since the details are given more at length in my Life of Sulla . [*] Bocchus , the king of the Barbarians in the interior , was a son-in-law of Jugurtha , and apparently gave him little or no assistance in his war , alleging his faithlessness as an excuse , and fearing the growth of his power ."
+    },
+    {
+      "id": "11.1",
+      "label": "Section 11.1",
+      "chapter": null,
+      "original": "ταχὺ μέντοι τὸν φθόνον τοῦτον καὶ τὰ μίση καὶ τὰς διαβολὰς ἀπεσκέδασε τοῦ Μαρίου καὶ μετέστησεν ὁ κατασχὼν τὴν Ἰταλίαν ἀπὸ τῆς ἑσπέρας κίνδυνος , ἅμα τῷ πρῶτον ἐν χρείᾳ μεγάλου στρατηγοῦ γενέσθαι καὶ περισκέψασθαι τὴν πόλιν ᾧ χρωμένη κυβερνήτῃ διαφεύξεται κλύδωνα πολέμου τοσοῦτον , οὐδενὸς ἀνασχομένου τῶν ἀπὸ γένους μεγάλων ἢ πλουσίων οἴκων ἐπὶ τὰς ὑπατικὰς κατιόντων ἀρχαιρεσίας , ἀλλʼ ἀπόντα τὸν Μάριον ἀναγορευσάντων .",
+      "translation": "Soon , however , all this envy and hatred and slander of Marius was removed and dissipated by the peril which threatened Italy from the west , as soon as the state felt the need of a great general and looked about for a helmsman whom she might employ to save her from so great a deluge of war . Then the people would have nothing to do with anyone of high birth or of a wealthy house who offered himself at the consular elections , but proclaimed Marius consul [*] in spite of his absence from the city ."
+    },
+    {
+      "id": "11.2",
+      "label": "Section 11.2",
+      "chapter": null,
+      "original": "ἄρτι γάρ ἀπηγγελμένης αὐτοῖς τῆς Ἰουγούρθα συλλήψεως αἵ περὶ p.488 Τευτονων καὶ Κίμβρων φῆμαι προσέπιπτον , ἀπιστίαν μὲν ἐν ἀρχῇ παρασχοῦσαι πλήθους τε καὶ ῥώμης τῶν ἐπερχομένων στρατῶν , ὕστερον δὲ τῆς ἀληθείας ὑποδεέστεραι φανεισαι . μυριάδες μὲν γὰρ αἱ μάχιμοι τριάκοντα σὺν ὅπλοις ἐχώρουν , ὄχλοι δὲ παίδων καὶ γυναικῶν ἐλέγοντο πολλῷ πλείους συμπεριάγεσθαι , γῆς χρῄζοντες θρέψει τοσοῦτον πλῆθος , καὶ πόλεων ἐν αἷς ἱδρυθέντες βιώσονται , καθάπερ πρὸ αὐτῶν ἐπυνθάνοντο Κελτοὺς τῆς Ἰταλίας τὴν ἀρίστην κατασχεῖν Τυρρηνῶν ἀφελομένους .",
+      "translation": "For no sooner had word been brought to the people of the capture of Jugurtha than the reports about the Teutones and Cimbri fell upon their ears . What these reports said about the numbers and strength of the invading hosts was disbelieved at first , but afterwards it was found to be short of the truth . For three hundred thousand armed fighting men were advancing , and much larger hordes of women and children were said to accompany them , in quest of land to support so vast a multitude , and of cities in which to settle and live , just as the Gauls before them , as they learned , had wrested the best part of Italy from the Tyrrhenians and now occupied it ."
+    },
+    {
+      "id": "12.1",
+      "label": "Section 12.1",
+      "chapter": null,
+      "original": "ταῦτα Ῥωμαῖοι πυνθανόμενοι πολλαχόθεν , ἐκάλουν Μάριον ἐπὶ τὴν στρατηγίαν . καὶ τὸ δεύτερον ὕπατος ἀπεδείχθη , τοῦ μὲν νόμου κωλύοντος ἀπόντα καὶ μὴ διαλιπόντα χρόνον ὡρισμένον αὖθις αἱρεῖσθαι , τοῦ δὲ δήμου τοὺς ἀντιλέγοντας ἐκβαλόντος . ἡγοῦντο γὰρ οὔτε νῦν πρῶτον εἴξειν τῷ συμφέροντι τὸν νόμον , οὔτε ἀλογωτέραν εἶναι τὴν παροῦσαν αἰτίαν ἐκείνης διʼ ἣν τὸν Σκιπίωνα παρὰ τοὺς νόμους ὕπατον ἀπέδειξαν , οὐ φοβούμενοι τὴν ἑαυτῶν ἀποβαλεῖν , ἀλλὰ τὴν Καρχηδονίων ἐπιθυμοῦντες ἀνελεῖν .",
+      "translation": "Learning of these things from many quarters , the Romans summoned Marius to the command . And he was appointed consul for the second time , [*] although the law forbade that a man in his absence and before the lapse of a specified time should be elected again ; still , the people would not listen to those who opposed the election . For they considered that this would not be the first time that the law had given way before the demands of the general good , and that the present occasion demanded it no less imperatively than when they had made Scipio consul contrary to the laws , [*] although at that time they were not fearful of losing their own city , but desirous of destroying that of the Carthaginians ."
+    },
+    {
+      "id": "12.2",
+      "label": "Section 12.2",
+      "chapter": null,
+      "original": "ταῦτα ἔδοξε · καὶ Μάριος ἐκ Λιβύης μετὰ τοῦ στρατεύματος διακομισθεὶς αὐταῖς Καλάνδαις Ἰανουαρίαις , ἣν ἔτους ἀρχὴν ἄγουσι Ῥωμαῖοι , τήν τε ὑπατείαν ἀνέλαβε καὶ τὸν θρίαμβον εἰσήλασεν , ἄπιστον ἐπιδειξάμενος θέαμα Ῥωμαίοις Ἰουγούρθαν αἰχμάλωτον , οὗ ζῶντος οὐδʼ ἂν εἷς ἤλπισε πολεμίων κρατῆσαι οὕτω τις ἦν ποικίλος ἀνήρ τύχαις ὁμιλῆσαι καὶ πανουργίᾳ πολλῇ μεμειγμένον ἔχων τὸ θυμοειδές .",
+      "translation": "This course was adopted , Marius came across the sea from Africa with his army , and on the very Calends of January , which with the Romans is the first day of the year , assumed the consulship and celebrated his triumph , exhibiting to the Romans Jugurtha in chains . This was a sight which they had despaired of beholding , nor could any one have expected , while Jugurtha was alive , to conquer the enemy ; so versatile was he in adapting himself to the turns of fortune , and so great craft did he combine with his courage ."
+    },
+    {
+      "id": "13.1",
+      "label": "Section 13.1",
+      "chapter": null,
+      "original": "ἐν δὲ τῇ στρατείᾳ τὴν δύναμιν διεπόνει καθʼ ὁδὸν ἐξασκῶν δρόμοις τε παντοδαποῖς καὶ μακραῖς ὁδοιποίαις , ἑαυτῷ δὲ ἀχθοφορεῖν ἀναγκάζων καὶ αὐτουργεῖν τὰ πρὸς τὴν δίαιταν , ὥστε καὶ μετὰ ταῦτα τοὺς φιλοπόνους καὶ σιωπῇ μετʼ εὐκολίας τὰ προστασσόμενα ποιοῦντας ἡμιόνους Μαριανοὺς καλεῖσθαι . καίτοι τινὲς αἰτίαν ἑτέραν τὸν λόγου τούτου νομίζουσι .",
+      "translation": "Setting out on the expedition , he laboured to perfect his army as it went along , practising the men in all kinds of running and in long marches , and compelling them to carry their own baggage and to prepare their own food . Hence , in after times , men who were fond of toil and did whatever was enjoined upon them contentedly and without a murmur , were called Marian mules . Some , however , think that this name had a different origin ."
+    },
+    {
+      "id": "13.2",
+      "label": "Section 13.2",
+      "chapter": null,
+      "original": "Σκηπίωνος γάρ , ὅτε Νομαντίαν ἐπολιόρκει , βουληθέντος ἐπιδεῖν μὴ p.496 μόνον τὰ ὅπλα μηδὲ τοὺς ἵππους , ἀλλὰ καὶ τοὺς ὀρεῖς καὶ τὰς ἁμάξας , ὅπως ἑκάστοις ἐξησκημένα καὶ παρεσκευασμένα τυγχάνοι , προαγαγεῖν τὸν Μάριον ἵππον τε κάλλιστα τεθραμμένον ὑπʼ αὐτοῦ καὶ ἡμίονον εὐεξίᾳ καὶ πρᾳότητι καὶ ῥώμῃ διαφέροντα πολὺ τῶν ἄλλων ἡσθέντος οὖν τοῦ στρατηγοῦ τοῖς τοῦ Μαρίου θρέμμασι paris.1624.413 καὶ πολλάκις αὐτῶν μνησθέντος , οὕτως ἄρα τοὺς σκώπτοντας ἐν ἐπαίνῳ τὸν ἐνδελεχῆ καὶ τλήμονα καὶ φιλόπονον Μαριανὸν ἡμίονον προσαγορεύειν .",
+      "translation": "Namely , when Scipio was besieging Numantia , [*] he wished to inspect not only the arms and the horses , but also the mules and the waggons , that every man might have them in readiness and good order . Marius , accordingly , brought out for inspection both a horse that had been most excellently taken care of by him , and a mule that for health , docility , and strength far surpassed all the rest . The commanding officer was naturally well pleased with the beasts of Marius and often spoke about them , so that in time those who wanted to bestow facetious praise on a persevering , patient , laborious man would call him a Marian mule ."
+    },
+    {
+      "id": "14.1",
+      "label": "Section 14.1",
+      "chapter": null,
+      "original": "εὐτύχημα δὲ δοκεῖ τῷ Μαρίῳ μέγα γενέσθαι , τῶν γάρ βαρβάρων ὥσπερ τινὰ παλίρροιαν τῆς ὁρμῆς λαβόντων καὶ ῥυέντων πρότερον ἐπὶ τὴν Ἰβηρίαν , χρόνον ἔσχε καὶ τὰ σώματα γυμνάσαι τῶν ἀνδρῶν καὶ τὰ φρονήματα πρὸς τὸ θαρρεῖν ἀναρρῶσαι , τὸ δὲ μέγιστον , αὐτὸς οἷος ἦν κατανοηθῆναι .",
+      "translation": "And now , as it would seem , a great piece of good fortune befell Marius . For the Barbarians had a reflux , as it were , in their course , and streamed first into Spain . This gave Marius time to exercise the bodies of his men , to raise their spirits to a sturdier courage , and , what was most important of all , to let them find out what sort of a man he was ."
+    },
+    {
+      "id": "14.2",
+      "label": "Section 14.2",
+      "chapter": null,
+      "original": "τὸ γὰρ ἐν ἀρχῇ σκυθρωπὸν αὐτοῦ καὶ περὶ τὰς τιμωρίας δυσμείλικτον ἐθισθεῖσι μηδὲν ἁμαρτάνειν μηδὲ ἀπειθεῖν ἅμα τῷ δικαίῳ σωτήριον ἐφαίνετο , τήν τε τοῦ θυμοῦ σφοδρότητα καὶ τὸ τραχὺ τῆς φωνῆς καὶ ἀγριωπὸν τοῦ προσώπου συντρεφόμενον κατὰ μικρὸν οὐχ αὑτοῖς ἐνόμιζον εἶναι φοβερόν , ἀλλὰ τοῖς πολεμίοις .",
+      "translation": "For his sternness in the exercise of authority and his inflexibility in the infliction of punishment appeared to them , when they became accustomed to obedience and good behaviour , salutary as well as just , and they regarded the fierceness of his temper , the harshness of his voice , and that ferocity of his countenance which gradually became familiar , as fearful to their enemies rather than to themselves ."
+    },
+    {
+      "id": "15.1",
+      "label": "Section 15.1",
+      "chapter": null,
+      "original": "πυνθανόμενος δὲ τοὺς πολεμίους ὁ Μάριος ἐγγὺς εἶναι διὰ ταχέων ὐπερέβαλε τὰς Ἄλπεις · καὶ τειχίσας στρατόπεδον παρὰ τῷ Ῥοδανῷ ποταμῷ συνῆγεν εἰς αὐτὸ χορηγίαν ἄφθονον , ὡς μηδέποτε παρὰ τὸν τοῦ συμφέροντος λογισμὸν ἐκβιασθείη διʼ ἔνδειαν τῶν ἀναγκαίων εἰς μάχην καταστῆναι .",
+      "translation": "Learning that the enemy were near , Marius rapidly crossed the Alps , and built a fortified camp along the river Rhone . Into this he brought together an abundance of stores , that he might never be forced by lack of provisions to give battle contrary to his better judgment ."
+    },
+    {
+      "id": "15.2",
+      "label": "Section 15.2",
+      "chapter": null,
+      "original": "τὴν δὲ κομιδὴν ὧν ἔδει [*] τῷ στρατεύματι paris.1624.414 μακρὰν καὶ πολυτελῆ πρότερον οὖσαν πρὸς τὴν θάλασσαν , αὐτὸς εἰργάσατο ῥᾳδίαν καὶ ταχεῖαν . τὰ γάρ στόματα τοῦ Ῥοδανοῦ , πρὸς τὰς ἀνακοπὰς τῆς θαλάττης , ἰλύν τε πολλὴν λαμβάνοντα καὶ θῖνα πηλῷ βαθεῖ συμπεπιλημένην ὑπὸ τοῦ κλύδωνος , χαλεπὸν καὶ ἐπίπονον καὶ βραδύπορον τοῖς σιταγωγοῖς ἐποίει τὸν εἴσπλουν .",
+      "translation": "The conveyance of what was needful for his army , which had previously been a long and costly process where it was by sea , he rendered easy and speedy . That is , the mouths of the Rhone , encountering the sea , took up great quantities of mud and sand packed close with clay by the action of the billows , and made the entrance of the river difficult , laborious , and slow for vessels carrying supplies ."
+    },
+    {
+      "id": "16.1",
+      "label": "Section 16.1",
+      "chapter": null,
+      "original": "ὁ δὲ τούτων μὲν οὐκ ἐφρόντιζεν , ἐν δὲ τῷ χάρακι τοὺς στρατιώτας συνεῖχε , καὶ καθήπτετο πικρῶς τῶν θρασυνομένων , καὶ τοὺς προπίπτοντας ὑπὸ θυμοῦ καὶ μάχεσθαι βουλομένους προδότας ἀπεκάλει τῆς πατρίδος , οὐ γάρ ὑπὲρ θριάμβων τὴν φιλοτιμίαν εἶναι καὶ τροπαίων , ἀλλʼ ὅπως νέφος τοσοῦτον πολέμου καὶ σκηπτὸν ὠσάμενοι διασώσουσι τὴν Ἰταλίαν .",
+      "translation": "Marius , however , paid no heed to them , but kept his soldiers inside their fortifications , bitterly rebuking those who would have made a display of their courage , and calling those whose high spirit made them wish to rush forth and give battle traitors to their country . For it was not , he said , triumphs or trophies that should now be the object of their ambition , but how they might ward off so great a cloud and thunder-bolt of war and secure the safety of Italy ."
+    },
+    {
+      "id": "16.2",
+      "label": "Section 16.2",
+      "chapter": null,
+      "original": "ταῦτα μὲν ἰδίᾳ πρὸς τοὺς ἡγεμόνας καὶ τοὺς ὁμοτίμους ἔλεγε , τοὺς δὲ στρατιώτας ὑπὲρ τοῦ χάρακος ἱστὰς ἀνὰ μέρος καὶ θεᾶσθαι κελεύων εἴθιζε τὴν μορφὴν ἀνέχεσθαι τῶν πολεμίων καὶ τήν φωνὴν ὑπομένειν p.504 ὅλως οὖσαν ἀλλόκοτον καὶ θηριώδη , σκευήν τε καὶ κίνησιν αὐτῶν καταμανθάνειν , ἅμα τῷ χρόνῳ τὰ φαινόμενα δεινὰ ποιουμένους τῇ διανοίᾳ χειροήθη διὰ τῆς ὄψεως · ἡγεῖτο γὰρ πολλὰ μὲν ἐπιψεύδεσθαι τῶν οὐ προσόντων τὴν καινότητα τοῖς φοβεροῖς , ἐν δὲ τῇ συνηθείᾳ καὶ τὰ τῇ φύσει δεινὰ τὴν ἔκπληξιν ἀποβάλλειν .",
+      "translation": "This was his language in private to his officers and equals ; but he would station his soldiers on the fortifications by detachments , bidding them to observe the enemy , and in this way accustomed them not to fear their shape or dread their cries , which were altogether strange and ferocious ; and to make themselves acquainted with their equipment and movements , thus in course of time rendering what was only apparently formidable familiar to their minds from observation . For he considered that their novelty falsely imparts to terrifying objects many qualities which they do not possess , but that with familiarity even those things which are really dreadful lose their power to affright ."
+    },
+    {
+      "id": "17.1",
+      "label": "Section 17.1",
+      "chapter": null,
+      "original": "ταῦτʼ ἀκούων ὁ Μάριος ἥδετο , καὶ κατεπράυνεν αὐτούς ὡς οὐκ ἐκείνοις ἀπιστῶν , ἀλλʼ ἔκ τινων λογίων τὸν τῆς νίκης ἅμα καιρὸν καὶ τόπον ἐκδεχόμενος . καὶ γάρ τινα Σύραν γυναῖκα , Μάρθαν paris.1624.415 ὄνομα , μαντεύεσθαι λεγομένην ἐν φορείῳ κατακειμένην σεμνῶς περιήγετο , καὶ θυσίας ἔθυεν ἐκείνης κελευούσης . ἣν πρότερον μὲν ἀπήλασεν ἡ σύγκλητος ἐντυχεῖν ὑπὲρ τούτων βουλομένην καὶ τὰ μέλλοντα προθεσπίζουσαν ,",
+      "translation": "Marius was delighted to hear of such expressions , and tried to calm the soldiers down by telling them that he did not distrust them , but in consequence of certain oracles was awaiting a fit time and place for his victory . And indeed he used to carry about ceremoniously in a litter a certain Syrian woman , named Martha , who was said to have the gift of prophecy , and he would make sacrifices at her bidding . She had previously been rejected by the senate when she wished to appear before them with reference to these matters and predicted future events ."
+    },
+    {
+      "id": "17.2",
+      "label": "Section 17.2",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ πρὸς τὰς γυναῖκας εἰσιοῦσα διάπειραν ἐδίδου καὶ μάλιστα τῇ Μαρίου παρακαθίζουσα παρὰ τοὺς πόδας τῶν μονομάχων ἐπιτυχῶς προηγόρευε τὸν μέλλοντα νικᾶν , ἀναπεμφθεῖσα πρὸς Μάριον ὑπʼ · ἐκείνης ἐθαυμάζετο . καὶ τὰ πολλὰ μὲν ἐν φορείῳ παρεκομίζετο , πρὸς δὲ τὰς θυσίας κατῄει φοινικίδα διπλῆν ἐμπεπορπημένη καὶ λόγχην ἀναδεδεμένην ταινίαις καὶ στεφανώμασι φέρουσα .",
+      "translation": "Then she got audience of the women and gave them proofs of her skill , and particularly the wife of Marius , at whose feet she sat when some gladiators were fighting and successfully foretold which one was going to be victorious . In consequence of this she was sent to Marius by his wife , and was admired by him . As a general thing she was carried along with the army in a litter , but she attended the sacrifices clothed in a double purple robe that was fastened with a clasp , and carrying a spear that was wreathed with fillets and chaplets ."
+    },
+    {
+      "id": "18.1",
+      "label": "Section 18.1",
+      "chapter": null,
+      "original": "οἱ δὲ Τεύτονες ἐπεχείρησαν μὲν ἡσυχάζοντος τοῦ Μαρίου πολιορκεῖν τὸ στρατόπεδον , βέλεσι δὲ πολλοῖς ἐντυχόντες ἀπὸ τοῦ χάρακος φερομένοις καί τινας ἓξ αὑτῶν ἀποβαλόντες ἔγνωσαν εἰς τοὔμπροσθεν χωρεῖν ὡς ὑπερβαλοῦντες ἀδεῶς τὰς Ἄλπεις · καὶ συσκευασάμενοι παρήμειβον τὸ στρατόπεδον τῶν Ῥωμαίων , τότε δὴ μάλιστα παμπληθεῖς μήκει καὶ χρόνῳ τῆς παρόδου φανέντες · ἡμέραις γὰρ ἓξ λέγονται τὸν χάρακα τοῦ Μαρίου παραμείψασθαι συνεχῶς ὁδεύοντες .",
+      "translation": "But the Teutones , since Marius kept quiet , attempted to take his camp by storm ; many missiles , however , were hurled against them from the fortifications , and they lost some of their men . They therefore decided to march forward , expecting to cross the Alps without molestation . So they packed up their baggage and began to march past the camp of the Romans . Then , indeed , the immensity of their numbers was made specially evident by the length of their line and the time required for their passage ; for it is said they were six days in passing the fortifications of Marius , although they moved continuously ."
+    },
+    {
+      "id": "18.2",
+      "label": "Section 18.2",
+      "chapter": null,
+      "original": "ἐπορεύοντο δὲ ἐγγύς , πυνθανόμενοι τῶν Ῥωμαίων μετὰ γέλωτος εἴ τι πρὸς τὰς γυναῖκας ἐπιστέλλοιεν αὐτοὶ γάρ ἔσεσθαι ταχέως παρʼ αὐταῖς . ἐπεὶ δὲ παρήλλαξαν οἱ βάρβαροι καὶ προῄεσαν , ἄρας καὶ αὐτὸς ἐπηκολούθει σχέδην , ἐγγὺς μὲν ἀεὶ καὶ παρʼ αὐτοὺς ἐκείνους ἱδρυόμενος , ὀχυραῖς δὲ χρώμενος στρατοπεδείαις καὶ χωρία καρτερὰ προβαλλόμενος , ὥστε ἐν ἀσφαλεῖ νυκτερεύειν .",
+      "translation": "And they marched close to the camp , inquiring with laughter whether the Romans had any messages for their wives ; for , said they , we shall soon be with them . But when the Barbarians had passed by and were going on their way , Marius also broke camp and followed close upon them , always halting near by and at their very side , but strongly fortifying his camps and keeping strong positions in his front , so that he could pass the night in safety ."
+    },
+    {
+      "id": "19.1",
+      "label": "Section 19.1",
+      "chapter": null,
+      "original": "οἱ μὲν οὖν στρατιῶται καίπερ ἀσχάλλοντες ἐπείθοντο · τῆς δὲ θεραπείας τὸ πλῆθος οὔτʼ αὐτοὶ ποτὸν οὔτε ὑποζυγίοις ἔχοντες ἀθρόοι κατέβαινον ἐπὶ τὸν ποταμόν , οἱ μὲν ἀξίνας , οἱ δὲ πελέκεις , ἔνιοι δὲ καὶ ξίφη καὶ λόγχας ἅμα τοῖς ὑδρίοις ἀναλαβόντες , ὡς καὶ διὰ μάχης ὑδρευσόμενοι . τούτοις τὸ πρῶτον ὀλίγοι προσεμάχοντο τῶν πολεμίων ἔτυχον γὰρ ἀριστῶντες οἱ πολλοὶ μετὰ λουτρόν , οἱ δὲ ἐλούοντο .",
+      "translation": "His soldiers , accordingly , though reluctant , obeyed ; but the throng of camp-servants , who had no water either for themselves or their beasts , went down in a body to the river , some taking hatchets , some axes , and some also swords and lances along with their water-jars , determined to get water even if they had to fight for it . With these only a few of the enemy at first engaged , since the main body were taking their meal after bathing , and some were still bathing ."
+    },
+    {
+      "id": "19.2",
+      "label": "Section 19.2",
+      "chapter": null,
+      "original": "ῥήγνυσι γὰρ αὐτόθι ναμάτων θερμῶν πηγὰς ὁ χῶρος · καὶ μέρος τι περὶ ταῦτα τοὺς βαρβάρους εὐπαθοῦντας καὶ πανηγυρίζοντας ἡδονῇ καὶ θαύματι τοῦ τόπου κατέλαβον οἱ Ῥωμαῖοι . πρὸς δὲ τὴν κραυγὴν πλειόνων συντρεχόντων τῷ τε Μαρίῳ χαλεπὸν ἦν ἔτι τοὺς στρατιώτας ἐπισχεῖν περὶ τῶν οἰκετῶν δεδιότας , καὶ τῶν πολεμίων τὸ μαχιμώτατον μέρος , ὑφ ’ οὗ προήττηντο Ῥωμαῖοι μετὰ Μαλλίου καὶ Καιπίωνος πρότερον Ἄμβρωνες ὠνομάζοντο καὶ πλῆθος ὑπὲρ τρισμυρίους αὐτοὶ καθʼ ἑαυτοὺς ἦσαν , ἀναΐξαντες ἐπὶ τὰς πανοπλίας ἐχώρουν .",
+      "translation": "For streams of warm water burst from the ground in this place , and at these the Romans surprised a number of the Barbarians , who were enjoying themselves and making merry in this wonderfully pleasant place . Their cries brought more of the Barbarians to the spot , and Marius had difficulty in longer restraining his soldiers , since they had fears now for their servants . Besides , the most warlike division of the enemy , by whom at an earlier time the Romans under Manlius and Caepio had been defeated [*] ( they were called Ambrones and of themselves numbered more than thirty thousand ), had sprung up from their meal and were running to get their arms ."
+    },
+    {
+      "id": "20.1",
+      "label": "Section 20.1",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ πολλοὺς τῶν Ἀμβρώνων οἱ Ῥωμαῖοι διαφθείραντες ἀνεχώρησαν ὀπίσω καὶ σκότος ἐπέσχεν , οὐχ ὥσπερ ἐπʼ εὐτυχήματι τοσούτῳ τὸν στρατὸν ἐδέξαντο παιᾶνες ἐπινίκιοι καὶ πότοι κατὰ σκηνὰς καὶ φιλοφροσύναι περὶ δεῖπνα καὶ τὸ πάντων ἥδιστον ἀνδράσιν εὐτυχῶς paris.1624.417 μεμαχημένοις , ὕπνος ἤπιος , ἀλλʼ ἐκείνην μάλιστα τὴν νύκτα φοβερὰν καὶ ταραχώδη διήγαγον .",
+      "translation": "After destroying many of the Ambrones the Romans withdrew and night came on ; but in spite of so great a success the army did not indulge in paeans of victory , or drinking in the tents , or friendly converse over suppers , or that sweetest of all delights for men who have fought and won a battle , gentle sleep , but that night more than any other was spent in fears and commotions ."
+    },
+    {
+      "id": "20.2",
+      "label": "Section 20.2",
+      "chapter": null,
+      "original": "ἦν μὲν γάρ αὐτοῖς ἀχαράκωτον τὸ στρατόπεδον καὶ ἀτείχιστον , ἀπελείποντο [*] δὲ τῶν βαρβάρων ἔτι πολλαὶ μυριάδες ἀήττητοι , καὶ συμμεμιγμένων τούτοις ὅσοι διαπεφεύγεσαν τῶν Ἀμβρώνων , ὀδυρμὸς ἦν διὰ νυκτός , οὐ κλαυθμοῖς οὐδὲ στεναγμοῖς ἀνθρώπων ἐοικώς , ἀλλὰ θηρομιγής τις ὠρυγὴ καὶ βρύχημα μεμιγμένον ἀπειλαῖς καὶ θρήνοις ἀναπεμπόμενον ἐκ πλήθους τοσούτου τά τε πέριξ ὄρη καὶ τὰ κοῖλα τοῦ ποταμοῦ περιεφώνει .",
+      "translation": "For their camp was still without palisade or wall , and there were still left many myriads of the Barbarians who had met with no defeat . These had been joined by all the Ambrones who survived the battle , and there was lamentation among them all night long , not like the wailings and groans of men , but howlings and bellowings with a strain of the wild beast in them , mingled with threats and cries of grief , went up from this vast multitude and echoed among the surrounding hills and over the river valley ."
+    },
+    {
+      "id": "21.1",
+      "label": "Section 21.1",
+      "chapter": null,
+      "original": "ὡς οὖν ἀντιστάντες αὐτοῖς οἱ Ῥωμαῖοι καὶ συμπεσόντες ἔσχον ἄνω φερομένους , ἐκθλιβόμενοι κατὰ μικρὸν ὑπεχώρουν εἰς τὸ πεδίον καὶ τῶν πρώτων ἤδη καθισταμένων εἰς τάξιν ἐν τοῖς ἐπιπέδοις βοὴ καὶ διασπασμὸς ἦν περὶ τοὺς ὄπισθεν , ὁ γάρ καιρὸς οὐκ ἔλαθε τὸν Μάρκελλον , ἀλλὰ τῆς κραυγῆς ὑπὲρ τοὺς λόφους ἄνω φερομένης ἀναστήσας τοὺς μετʼ αὐτοῦ δρόμῳ καὶ p.520 ἀλαλαγμῷ προσέπιπτε κατὰ νώτου , κτείνων τοὺς ἐσχάτους .",
+      "translation": "Accordingly , the Romans awaited the enemy ’ s onset , then closed with them and checked their upward rush , and at last , crowding them back little by little , forced them into the plain . Here , while the Barbarians in front were at last forming in line on level ground , there was shouting and commotion in their rear . For Marcellus had watched his opportunity , and when the cries of battle were borne up over the hills he put his men upon the run and fell with loud shouts upon the enemy ’ s rear , where he cut down the hindmost of them ."
+    },
+    {
+      "id": "21.2",
+      "label": "Section 21.2",
+      "chapter": null,
+      "original": "οἱ δὲ τοὺς πρὸ αὑτῶν ἐπισπώμενοι ταχὺ πᾶν τὸ στράτευμα ταραχῆς ἐνέπλησαν , οὐ πολύν τε χρόνον ἠνέσχοντο παιόμενοι διχόθεν , ἀλλὰ τὴν τάξιν λύσαντες ἔφευγον . οἱ δὲ Ῥωμαῖοι διώκοντες αὑτῶν μὲν ὑπὲρ δέκα μυριάδας ἣ ζῶντας εἷλον ἢ κατέβαλον , σκηνῶν δὲ καὶ ἁμαξῶν καὶ χρημάτων κρατήσαντες , ὅσα μὴ διεκλάπη , Μάριον λαβεῖν ἐψηφίσαντο . καὶ δωρεᾶς ταύτης λαμπροτάτης τυχὼν οὐδὲν ἄξιον ἔχειν ὧν ἐστρατήγησεν ἐνομίσθη διὰ τὸ τοῦ κινδύνου μέγεθος .",
+      "translation": "Those in the rear forced along those who were in front of them , and quickly plunged the whole army into confusion , and under this double attack they could riot hold out long , but broke ranks and fled . The Romans pursued them and either slew or took alive over a hundred thousand of them , besides making themselves masters of their tents , waggons , and property , all of which , with the exception of what was pilfered , was given to Marius by vote of the soldiers . And though the gift that he received was so splendid , it was thought to be wholly unworthy of his services in the campaign , where the danger that threatened had been so great ."
+    },
+    {
+      "id": "22.1",
+      "label": "Section 22.1",
+      "chapter": null,
+      "original": "μετὰ δὲ τὴν μάχην ὁ Μάριος τῶν βαρβαρικῶν ὅπλων καὶ λαφύρων τὰ μὲν ἐκπρεπῆ καὶ ὁλόκληρα καὶ πομπικὴν ὄψιν τῷ θριάμβῳ δυνάμενα παρασχεῖν ἐπέλεξε , τῶν δὲ ἄλλων ἐπὶ πυρᾶς μεγάλης κατασωρεύσας τὸ πλῆθος ἔθυσε θυσίαν μεγαλοπρεπῆ .",
+      "translation": "After the battle , Marius collected such of the arms and spoils of the Barbarians as were handsome , entire , and fitted to make a show in his triumphal procession ; all the rest he heaped up on a huge pyre and set on foot a magnificent sacrifice ."
+    },
+    {
+      "id": "22.2",
+      "label": "Section 22.2",
+      "chapter": null,
+      "original": "καὶ τοῦ στρατοῦ παρεστῶτος ἐν ὅπλοις ἐστεφανωμένου περιζωσάμενος αὐτός , ὥσπερ ἔθος ἐστίν , ἀναβαλὼν τὴν περιπόρφυρον καὶ λαβὼν δᾷδα καιομένην καὶ διʼ ἀμφοτέρων τῶν χειρῶν ἀνασχὼν πρὸς τὸν οὐρανὸν ἔμελλεν ὑφήσειν τῇ πυρᾷ · καὶ προσελαύνοντες ἵπποις ἑωρῶντο φίλοι σὺν τάχει πρὸς αὐτόν , ὥστε πολλὴν γενέσθαι σιωπὴν καὶ προσδοκίαν ἁπάντων .",
+      "translation": "The soldiers had taken their stand about the pyre in arms , with chaplets on their heads , and Marius himself , having put on his purple-bordered robe and girt it about him , as the custom was , had taken a lighted torch , held it up towards heaven with both hands , and was just about to set fire to the pyre , when some friends were seen riding swiftly towards him , and there was deep silence and expectancy on the part of all ."
+    },
+    {
+      "id": "23.1",
+      "label": "Section 23.1",
+      "chapter": null,
+      "original": "ἡ δὲ μηθὲν ἐῶσα τῶν μεγάλων εὐτυχημάτων ἄκρατον εἰς ἡδονὴν καὶ καθαρόν , ἀλλὰ μείξει κακῶν καὶ ἀγαθῶν ποικίλλουσα τὸν ἀνθρώπινον βίον ἢ τύχη τις ἢ νέμεσις ἢ πραγμάτων ἀναγκαία φύσις οὐ πολλαῖς ὕστερον ἡμέραις ἐπήγαγε τῷ Μαρίῳ τὴν περὶ Κάτλου τοῦ συνάρχοντος ἀγγελίαν , ὥσπερ ἐν εὐδίᾳ καὶ γαλήνῃ νέφος , αὖθις ἕτερον φόβον καὶ χειμῶνα τῇ Ῥώμῃ περιστήσασα .",
+      "translation": "However , that power which permits no great successes to bring a pure and unmixed enjoyment , but diversifies human life with a blending of evil and of good-be it Fortune , or Nemesis , or Inevitable Necessity , within a few days brought to Marius tidings of his colleague Catulus , which , like a cloud in a calm and serene sky , involved Rome in another tempest of fear ."
+    },
+    {
+      "id": "23.2",
+      "label": "Section 23.2",
+      "chapter": null,
+      "original": "ὁ γάρ δὴ Κάτλος ἀντικαθήμενος τοῖς Κίμβροις τὰς μὲν ὑπερβολὰς τῶν Ἄλπεων p.524 ἀπέγνω φυλάσσειν , μὴ κατὰ πολλὰ τὴν δύναμιν μέρη διαιρεῖν ἀναγκαζόμενος ἀσθενὴς γένοιτο , καταβὰς δ ’ εὐθὺς εἰς τὴν Ἰταλίαν καὶ τὸν Ἀτισῶνα ποταμὸν λαβὼν πρὸ αὑτοῦ καὶ φραξάμενος πρὸς τὰς διαβάσεις ἑκατέρωθεν ἰσχυροῖς χαρακώμασιν , ἔζευξε τὸν πόρον , ὡς ἐπιβοηθεῖν εἴη τοῖς πέραν , εἰ πρὸς τὰ φρούρια βιάζοιντο διὰ τῶν στενῶν οἱ βάρβαροι .",
+      "translation": "For Catulus , who was facing the Cimbri , gave up trying to guard the passes of the Alps , lest he should be weakened by the necessity of dividing his forces into many parts , and at once descended into the plains of Italy . Here he put the river Atiso between himself and the enemy , built strong fortifications on both banks of it to prevent their crossing , and threw a bridge across the stream , that he might be able to go to the help of the people on the other side in case the Barbarians made their way through the passes and attacked the fortresses ."
+    },
+    {
+      "id": "24.1",
+      "label": "Section 24.1",
+      "chapter": null,
+      "original": "ἐπὶ τούτοις ἐκαλεῖτο Μάριος εἰς τὴν Ῥώμην καὶ παραγενόμενος , πάντων αὐτὸν οἰομένων θριαμβεύσειν καὶ τῆς βουλῆς προθύμως ψηφισαμένης , οὐκ ἠξίωσεν , εἴτε τοὺς στρατιώτας καὶ συναγωνιστὰς ἀποστερῆσαι τῆς φιλοτιμίας μὴ βουλόμενος , εἴτε πρὸς τὰ παρόντα θαρρύνων τὸ πλῆθος , ὡς τῇ τύχῃ τῆς πόλεως παρακατατιθέμενος τὴν τῶν πρώτων κατορθωμάτων , δόξαν ἐν τοῖς δευτέροις λαμπροτέραν ἀποδοθησομένην .",
+      "translation": "In view of these things Marius was summoned to Rome . When he had arrived there , it was the general expectation that he would celebrate the triumph which the senate had readily voted him . But he refused to do so , either because he did not wish to deprive his soldiers and comrades-in-arms of their due honours , or because he would encourage the multitude in view of the present crisis by entrusting the glory of his first success to the fortune of the state , in the hope that it would be returned to him enhanced by a second ."
+    },
+    {
+      "id": "24.2",
+      "label": "Section 24.2",
+      "chapter": null,
+      "original": "διαλεχθεὶς δὲ τὰ πρέποντα τῷ καιρῷ καὶ πρὸς τὸν Κάτλον ἐξορμήσας , τοῦτόν τε παρεθάρρυνε καὶ τοὺς αὑτοῦ μετεπέμπετο στρατιώτας ἐκ Γαλατίας , ὡς δὲ ἀφίκοντο , διαβὰς τὸν Ἠριδανὸν εἴργειν ἐπειρᾶτο τῆς ἐντὸς Ἰταλίας τοὺς βαρβάρους , οἱ δὲ τοὺς Τεύτονας ἐκδέχεσθαι καὶ p.528 θαυμάζειν ὡς βραδυνόντων φάσκοντες ἀνεβάλλοντο τὴν μάχην , εἴτε ἀγνοοῦντες ὄντως τὴν ἐκείνων φθοράν , εἴτε βουλόμενοι δοκεῖν ἀπιστεῖν .",
+      "translation": "Having said what was suitable to the occasion , he set out to join Catulus , whom he tried to encourage , while at the same time he summoned his own soldiers from Gaul . When these had come , he crossed the Po and tried to keep the Barbarians out of the part of Italy lying this side of the river . But the Barbarians declined battle , alleging that they were waiting for their brethren the Teutones and wondered why they were so long in coming ; this was either because they were really ignorant of their destruction , or because they wished to have the appearance of disbelieving it ."
+    },
+    {
+      "id": "25.1",
+      "label": "Section 25.1",
+      "chapter": null,
+      "original": "ὡς δὲ ἀπηγγέλθη ταῦτα τοῖς Κίμβροις , αὖθις ἐξ ἀρχῆς ἐχώρουν ἐπὶ τὸν Μάριον ἡσυχάζοντα καὶ διαφυλάττοντα τὸ στρατόπεδον .· λέγεται δὲ εἰς ἐκείνην τὴν μάχην πρῶτον ὑπὸ Μαρίου καινοτομηθῆναι τὸ περὶ τοὺς ὑσσούς . τὸ γάρ εἰς τὸν σίδηρον ἔμβλημα τοῦ ξύλου πρότερον μὲν ἦν δυσὶ περόναις κατειλημμένον σιδηραῖς , τότε δὲ ὁ Μάριος τὴν μέν , ὥσπερ εἶχεν , εἴασε , τὴν δὲ ἑτέραν ἐξελὼν ξύλινον ἧλον εὔθραυστον ἀντʼ αὐτῆς p.530 ἐνέβαλε ,",
+      "translation": "When these things had been reported to the Cimbri , they once more advanced against Marius , who kept quiet and carefully guarded his camp . And it is said that it was in preparation for this battle that Marius introduced an innovation in the structure of the javelin . Up to this time , it seems , that part of the shaft which was let into the iron head was fastened there by two iron nails ; but now , leaving one of these as it was , Marius removed the other , and put in its place a wooden pin that could easily be broken ."
+    },
+    {
+      "id": "25.2",
+      "label": "Section 25.2",
+      "chapter": null,
+      "original": "τεχνάζων προσπεσόντα τὸν ὑσσὸν τῷ θυρεῷ τοῦ πολεμίου μὴ μένειν ὀρθόν , ἀλλὰ τοῦ ξυλίνου κλασθέντος ἥλου καμπὴν γίνεσθαι περὶ τὸν σίδηρον καὶ παρέλκεσθαι τὸ δόρυ , διὰ τὴν στρεβλότητα τῆς αἰχμῆς ἐνεχόμενον . Βοιῶριξ δὲ ὁ τῶν Κίμβρων βασιλεὺς ὀλιγοστὸς προσιππεύσας τῷ στρατοπέδῳ προὐκαλεῖτο τὸν Μάριον , ἡμέραν ὁρίσαντα καὶ τόπον , προελθεῖν καὶ διαγωνίσασθαι περὶ τῆς χώρας .",
+      "translation": "His design was that the javelin , after striking the enemy ’ s shield , should not stand straight out , but that the wooden peg should break , thus allowing the shaft to bend in the iron head and trail along the ground , being held fast by the twist at the point of the weapon . And now Boeorix the king of the Cimbri , with a small retinue , rode up towards the camp and challenged Marius to set a day and a place and come out and fight for the ownership of the country ."
+    },
+    {
+      "id": "26.1",
+      "label": "Section 26.1",
+      "chapter": null,
+      "original": "τότε δὲ οὐχὶ κατὰ στόμα προσεφέροντο τοῖς Ῥωμαίοις , ἀλλʼ ἐκκλίνοντες ἐπὶ δεξιὰ ὑπῆγον αὑτοὺς κατὰ μικρόν , ἐμβάλλοντες εἰς τὸ μέσον αὐτῶν τε καὶ τῶν πεζῶν ἐξ ἀριστερᾶς παρατεταγμένων , καὶ συνεῖδον μὲν οἱ τῶν Ῥωμαίων στρατηγοὶ τὸν δόλον , ἐπισχεῖν δὲ τοὺς στρατιώτας οὐκ ἔφθησαν , ἀλλʼ ἑνὸς ἐκβοήσαντος ὅτι φεύγουσιν οἱ πολέμιοι , πάντες ὥρμησαν διώκειν .",
+      "translation": "At this time , however , they did not charge directly upon the Romans , but swerved to the right and tried to draw them along gradually until they got them between themselves and their infantry , which was drawn up on their left . The Roman commanders perceived the crafty design , but did not succeed in holding their soldiers back ; for one of them shouted that the enemy was taking to flight , and then all set out to pursue them ."
+    },
+    {
+      "id": "26.2",
+      "label": "Section 26.2",
+      "chapter": null,
+      "original": "καὶ τὸ πεζὸν ἐν τούτῳ τῶν βαρβάρων ἐπῄει καθάπερ πέλαγος ἀχανὲς κινούμενον . ἐνταῦθα νιψάμενος ὁ Μάριος τὰς χεῖρας καὶ πρὸς τὸν οὐρανὸν ἀνασχὼν εὔξατο τοῖς θεοῖς κατὰ ἑκατόμβης , εὔξατο δὲ καὶ Κάτλος ὁμοίως ἀνασχὼν τὰς χεῖρας καθιερώσειν τὴν τύχην τῆς ἡμέρας ἐκείνης , τὸν δὲ Μάριον καὶ θύσαντα λέγεται τῶν ἱερῶν αὐτῷ δειχθέντων μέγα φθεγξάμενον εἰπεῖν ἐμὴ ἡ νίκη . p.534",
+      "translation": "Meanwhile the infantry of the Barbarians came on to the attack like a vast sea in motion . Then Marius , after washing his hands , lifted them to heaven and vowed a hecatomb to the gods ; Catulus also in like manner lifted his hands and vowed that he would consecrate the fortune of that day . It is said , too , that Marius offered sacrifice , and that when the victims had been shown to him , he cried with a loud voice : Mine is the victory ."
+    },
+    {
+      "id": "27.1",
+      "label": "Section 27.1",
+      "chapter": null,
+      "original": "τὸ μὲν οὖν πλεῖστον μέρος καὶ μαχιμώτατον τῶν πολεμίων αὐτοῦ κατεκόπη · καὶ γὰρ ἦσαν ὑπὲρ τοῦ μὴ διασπᾶσθαι τὴν τάξιν οἱ πρόμαχοι μακραῖς ἁλύσεσι πρὸς ἀλλήλους συνεχόμενοι διὰ τῶν ζωστήρων ἀναδεδεμέναις · τοὺς δὲ φεύγοντας ὤσαντες πρὸς τὸ χαράκωμα τραγικωτάτοις ἐνετύγχανον πάθεσιν .",
+      "translation": "The greatest number and the best fighters of the enemy were cut to pieces on the spot ; for to prevent their ranks from being broken , those who fought in front were bound fast to one another with long chains which were passed through their belts . The fugitives , however , were driven back to their entrenchments , where the Romans beheld a most tragic spectacle ."
+    },
+    {
+      "id": "27.2",
+      "label": "Section 27.2",
+      "chapter": null,
+      "original": "αἱ γὰρ γυναῖκες ἐπὶ τῶν ἁμαξῶν μελανείμονες ἐφεστῶσαι τούς τε φεύγοντας ἔκτεινον , αἱ μὲν ἄνδρας , αἱ δὲ ἀδελφούς , αἱ δὲ πατέρας , καὶ τὰ νήπια τῶν τέκνων ἀπάγχουσαι ταῖς χερσὶν ἐρρίπτουν ὑπὸ τοὺς τροχοὺς καὶ τοὺς πόδας τῶν ὑποζυγίων , αὑτὰς δὲ ἀπέσφαττον . μίαν δέ φασιν ἓξ ἄκρου ῥυμοῦ κρεμαμένην τὰ παιδία τῶν αὑτῆς σφυρῶν ἀφημμένα βρόχοις ἐκατέρωθεν ἠρτῆσθαι ·",
+      "translation": "The women , in black garments , stood at the waggons and slew the fugitives — their husbands or brothers or fathers , then strangled their little children and cast them beneath the wheels of the waggons or the feet of the cattle , and then cut their own throats . It is said that one woman hung dangling from the tip of a waggon-pole , with her children tied to either ankle ;"
+    },
+    {
+      "id": "28.1",
+      "label": "Section 28.1",
+      "chapter": null,
+      "original": "πέμπτην μὲν οὖν ὑπατείαν διεῖπε · τῆς δὲ ἕκτης ὡς οὐδὲ εἷς πρώτης ὠρέγετο , θεραπείαις τὸν δῆμον ἀναλαμβάνων καὶ πρὸς χάριν ἐνδιδοὺς τοῖς πολλοῖς , οὐ μόνον παρὰ τὸν ὄγκον καὶ τὸ κοινὸν ἀξίωμα τῆς ἀρχῆς , ἀλλὰ καὶ παρὰ τὴν αὐτοῦ φύσιν ὑγρός τις εἶναι βουλόμενος καὶ δημοτικός , ἥκιστα τοιοῦτος πεφυκώς .",
+      "translation": "Thus , then , his fifth consulship was coming to an end ; but he was as eager for a sixth as another would have been for his first . He tried to win over the people by obsequious attentions , and yielded to the multitude in order to gain its favour , thus doing violence , not only to the dignity and majesty of his high office , but also to his own nature , since he wished to be a compliant man of the people when he was naturally at farthest remove from this ."
+    },
+    {
+      "id": "28.2",
+      "label": "Section 28.2",
+      "chapter": null,
+      "original": "ἀλλʼ ἦν , ὡς λέγουσι , πρὸς πολιτείαν καὶ τοὺς ἐν ὄχλοις p.540 θορύβους ὑπὸ φιλοδοξίας ἀτολμότατος , καὶ τὸ παρὰ τὰς μάχας ἀνέκπληκτον καὶ στάσιμον ἐν ταῖς ἐκκλησίαις ἀπέλειπεν αὐτὸν ὑπὸ τῶν τυχόντων ἐπαίνων καὶ ψόγων ἐξιστάμενον . καίτοι λέγεται Καμερίνων ἄνδρας ὁμοῦ χιλίους διαπρεπῶς ἀγωνισαμένους ἐν τῷ πολέμῳ δωρησάμενος πολιτείᾳ , δοκοῦντος εἶναι τούτου παρανόμου καί τινων ἐγκαλούντων , εἰπεῖν ὅτι τοῦ νόμου διὰ τὸν τῶν ὅπλων ψόφον οὐ κατακούσειεν .",
+      "translation": "In confronting a political crisis or the tumultuous throng , we are told , his ambition made him most timorous , and that undaunted firmness which he showed in battle forsook him when he faced the popular assemblies , so that he was disconcerted by the most ordinary praise or blame . And yet we are told that when he had bestowed citizenship upon as many as a thousand men of Camerinum for conspicuous bravery in the war , the act was held to be illegal and was impeached by some ; to whom he replied that the clash of arms had prevented his hearing the voice of the law ."
+    },
+    {
+      "id": "29.1",
+      "label": "Section 29.1",
+      "chapter": null,
+      "original": "καὶ μάλιστα περὶ τὴν τελευταίαν ἐφθονεῖτο , πολλὰ συνεξαμαρτάνων τοῖς περὶ τὸν Σατορνῖνον . ὧν ἦν καὶ ὁ Νωνίου φόνος , ὃν ἀντιπαραγγέλλοντα δημαρχίαν ἀπέσφαξεν ὁ Σατορνῖνος . εἶτα δημαρχῶν ἐπῆγε τὸν περὶ τῆς χώρας νόμον , ᾧ προσεγέγραπτο τὴν σύγκλητον ὀμόσαι προσελθοῦσαν , ἦ μὴν ἐμμενεῖν οἷς ἂν ὁ δῆμος ψηφίσαιτο καὶ πρὸς μηδὲν ὑπεναντιώσεσθαι .",
+      "translation": "In this last consulship [*] particularly did Marius make himself hated , because he took part with Saturninus in many of his misdeeds . One of these was the murder of Nonius , whom Saturninus slew because he was a rival candidate for the tribuneship . Then , as tribune , Saturninus introduced his agrarian law , to which was added a clause providing that the senators should come forward and take oath that they would abide by whatsoever the people might vote and make no opposition to it ."
+    },
+    {
+      "id": "29.2",
+      "label": "Section 29.2",
+      "chapter": null,
+      "original": "τοῦτο τοῦ νόμου τό μέρος προσποιούμενος ἐν τῇ βουλῇ διώκειν ὁ Μάριος οὐκ ἔφη δέξεσθαι [*] τὸν ὅρκον , οὐδὲ ἄλλον οἴεσθαι σωφρονοῦντα · καὶ γάρ εἰ μὴ μοχθηρὸς ἦν ὁ νόμος , ὕβριν εἶναι τὰ τοιαῦτα τὴν βουλὴν διδόναι βιαζομένην , ἀλλὰ μὴ πειθοῖ μηδὲ ἐκοῦσαν . ταῦτα δὲ οὐχ οὕτως φρονῶν ἔλεγεν , ἀλλὰ τῷ Μετέλλῳ ἀπάτην περιτιθεὶς ἄφυκτον . p.544",
+      "translation": "In the senate Marius made pretence of opposing this part of the law , and declared that he would not take the oath , and that he thought no other sensible man would ; for even if the law were not a bad one , it was an insult to the senate that it should be compelled to make such concessions , instead of making them under persuasion and of its own free will . He said this , however , not because it was his real mind , but that he might catch Metellus in the toils of a fatal trick ."
+    },
+    {
+      "id": "30.1",
+      "label": "Section 30.1",
+      "chapter": null,
+      "original": "Μάριος δὲ τὸν Σατορνῖνον ἀντὶ τῆς ὑπουργίας ταύτης ἐπὶ πᾶν προϊόντα τόλμης καὶ δυνάμεως περιορᾶν ἀναγκαζόμενος , ἔλαθεν οὐκ ἀνεκτὸν ἀπεργασάμενος κακόν , ἀλλʼ ἄντικρυς ὅπλοις καὶ σφαγαῖς ἐπὶ τυραννίδα καὶ πολιτείας ἀνατροπὴν πορευόμενον . αἰδούμενος δὲ τοὺς κρατίστους , θεραπεύων δὲ τοὺς πολλούς , ἔργον ἀνελεύθερον ἐσχάτως ὑπέμεινε καὶ παλίμβολον .",
+      "translation": "And now Marius , who was forced , in return for this assistance , to look on quietly while Saturninus ran to extremes of daring and power , brought about unawares a mischief that was not to be cured , but made its way by arms and slaughter directly towards tyranny and subversion of the government . And since he stood in awe of the nobles , while he courted the favour of time multitude , he was led to commit an act of the utmost meanness and duplicity ."
+    },
+    {
+      "id": "30.2",
+      "label": "Section 30.2",
+      "chapter": null,
+      "original": "ἐλθόντων γάρ ὡς αὐτὸν ὑπὸ νύκτα τῶν πρώτων p.548 ἀνδρῶν καὶ παρακαλούντων ἐπὶ τὸν Σατορνῖνον , ἑτέραις θύραις ἐκεῖνον ὑπεδέξατο τούτων ἀγνοούντων . εἶτα πρόφασιν λέγων πρὸς ἀμφοτέρους κοιλίας διάρροιαν , νῦν μὲν ὡς τούτους , νῦν δὲ ὡς ἐκεῖνον ἐπὶ τῆς οἰκίας ἀνά μέρος διατρέχων συνέκρουε καὶ παρώξυνεν .",
+      "translation": "For when the leading men had come to him by night and were trying to incite him against Saturninus , without their knowledge he introduced Saturninus into the house by another door ; then , pretending to both parties that he had a diarrhoea , he would run backwards and forwards in the house , now to the nobles and now to Saturninus , trying to irritate and bring them into collision ."
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": "caius-marius-e9n96o-2"
+}

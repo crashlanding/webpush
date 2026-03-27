@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "sophocles-antigone-the-women-of-trachis-philoctetes-oedipus-at-colonus-1bun03",
+  "volumeTitle": "Antigone. The Women of Trachis. Philoctetes. Oedipus at Colonus",
+  "authorDisplay": "Sophocles",
+  "authors": [
+    "Sophocles"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "oedipus-at-colonus-1cl6mn-3",
+  "label": "Oedipus at Colonus (Section 221a - Section 333)",
+  "partId": "oedipus-at-colonus-1cl6mn",
+  "partTitle": "Oedipus at Colonus",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Οἰδίπους ἐπὶ Κολωνῷ",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg007.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Oedipus at Colonus",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg007.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "221a",
+      "label": "Section 221a",
+      "chapter": null,
+      "original": "ὦ Ζεῦ .",
+      "translation": "O Zeus !"
+    },
+    {
+      "id": "222",
+      "label": "Section 222",
+      "chapter": null,
+      "original": "ἄθλιον Οἰδιπόδαν ;",
+      "translation": "— and the pitiful Oedipus ?"
+    },
+    {
+      "id": "222a",
+      "label": "Section 222a",
+      "chapter": null,
+      "original": "σὺ γὰρ ὅδʼ εἶ ;",
+      "translation": "You are he ?"
+    },
+    {
+      "id": "223",
+      "label": "Section 223",
+      "chapter": null,
+      "original": "δέος ἴσχετε μηδὲν ὅσʼ αὐδῶ .",
+      "translation": "Have no fear of any words that I speak —"
+    },
+    {
+      "id": "224",
+      "label": "Section 224",
+      "chapter": null,
+      "original": "ἰὼ ὢ ὤ .",
+      "translation": "Ah , no , no !"
+    },
+    {
+      "id": "224a",
+      "label": "Section 224a",
+      "chapter": null,
+      "original": "δύσμορος .",
+      "translation": "Unhappy that I am !"
+    },
+    {
+      "id": "224b",
+      "label": "Section 224b",
+      "chapter": null,
+      "original": "ὢ ὤ .",
+      "translation": "Oh , oh !"
+    },
+    {
+      "id": "225",
+      "label": "Section 225",
+      "chapter": null,
+      "original": "θύγατερ , τί ποτʼ αὐτίκα κύρσει ;",
+      "translation": "Daughter , what is about to happen ?"
+    },
+    {
+      "id": "226",
+      "label": "Section 226",
+      "chapter": null,
+      "original": "ἔξω πόρσω βαίνετε χώρας .",
+      "translation": "Out with you ! Go forth from the land !"
+    },
+    {
+      "id": "227",
+      "label": "Section 227",
+      "chapter": null,
+      "original": "ἃ δʼ ὑπέσχεο ποῖ καταθήσεις ,",
+      "translation": "And your promise — to what fulfillment will you bring it ?"
+    },
+    {
+      "id": "228",
+      "label": "Section 228",
+      "chapter": null,
+      "original": "οὐδενὶ μοιριδία τίσις ἔρχεται",
+      "translation": "No man is visited by the punishment of fate if he requites deeds which were first done to himself ."
+    },
+    {
+      "id": "230",
+      "label": "Section 230",
+      "chapter": null,
+      "original": "ἃν προπάθῃ τὸ τίνειν · ἀπάτα δʼ ἀπά-",
+      "translation": "Deceit on the one part matches deceits on the other , and gives pain instead of pleasure for reward . And you — back with you ! Out from your seat !"
+    },
+    {
+      "id": "235",
+      "label": "Section 235",
+      "chapter": null,
+      "original": "μή τι πέρα χρέος",
+      "translation": "Away from my land with all speed , that you may not fasten some heavier burden on my city !"
+    },
+    {
+      "id": "237",
+      "label": "Section 237",
+      "chapter": null,
+      "original": "ὦ ξένοι",
+      "translation": "Reverent strangers , since you have not endured my aged father — knowing , as you do ,"
+    },
+    {
+      "id": "240",
+      "label": "Section 240",
+      "chapter": null,
+      "original": "οὐκ ἀνέτλατʼ , ἔργων",
+      "translation": "the rumor of his unintended deeds — pity at least my poor self , I implore you , who supplicate you for my father alone . I beg you with eyes that can still look"
+    },
+    {
+      "id": "245",
+      "label": "Section 245",
+      "chapter": null,
+      "original": "ὄμμα σὸν ὄμμασιν , ὥς τις ἀφʼ αἵματος",
+      "translation": "on your own , like one sprung from your own blood , that this sufferer may meet with reverent treatment .\nOn you , as on a god , we depend in our misery . But come , grant the favor for which we hardly dare hope !"
+    },
+    {
+      "id": "250",
+      "label": "Section 250",
+      "chapter": null,
+      "original": "πρός σʼ ὅ τι σοι φίλον ἐκ σέθεν ἄντομαι ,",
+      "translation": "I implore you by everything that you hold dear at home : by child , by wife , or treasure , or god ! Look well and you will not find the mortal who , if a god should lead him on , could escape ."
+    },
+    {
+      "id": "254",
+      "label": "Section 254",
+      "chapter": null,
+      "original": "ἀλλʼ ἴσθι , τέκνον Οἰδίπου , σέ τʼ ἐξ ἴσου",
+      "translation": "Feel sure , daughter of Oedipus , that we pity you and him alike"
+    },
+    {
+      "id": "255",
+      "label": "Section 255",
+      "chapter": null,
+      "original": "οἰκτίρομεν καὶ τόνδε συμφορᾶς χάριν ·",
+      "translation": "for your misfortune ; but dreading the punishment of the gods , we could not say anything beyond what we have now said to you ."
+    },
+    {
+      "id": "259",
+      "label": "Section 259",
+      "chapter": null,
+      "original": "μάτην ῥεούσης ὠφέλημα γίγνεται ,",
+      "translation": "What help comes , then , of repute or fair fame , if it ends in idle breath ;"
+    },
+    {
+      "id": "260",
+      "label": "Section 260",
+      "chapter": null,
+      "original": "εἰ τάς γʼ Ἀθήνας φασὶ θεοσεβεστάτας",
+      "translation": "seeing that Athens , as men say , is god-fearing beyond all , and alone has the power to shelter the outraged stranger , and alone the power to help him ?\nAnd where are these things for me , when , after making me rise up from this rocky seat , you then drive me from the land , afraid of my name alone ?"
+    },
+    {
+      "id": "265",
+      "label": "Section 265",
+      "chapter": null,
+      "original": "ὄνομα μόνον δείσαντες ; οὐ γὰρ δὴ τό γε",
+      "translation": "Not , surely , afraid of my person or of my acts ; since my acts , at least , have been in suffering rather than doing — if I must mention the tale of my mother and my father , because of which you fear me . That know I full well ."
+    },
+    {
+      "id": "270",
+      "label": "Section 270",
+      "chapter": null,
+      "original": "ἔξοιδα . καίτοι πῶς ἐγὼ κακὸς φύσιν ,",
+      "translation": "And yet how was I innately evil ? I , who was merely requiting a wrong , so that , had I been acting with knowledge , even then I could not be accounted evil . But , as it was , all unknowing I went where I went — while they who wronged me knowingly sought my ruin ."
+    },
+    {
+      "id": "275",
+      "label": "Section 275",
+      "chapter": null,
+      "original": "ἀνθʼ ὧν ἱκνοῦμαι πρὸς θεῶν ὑμᾶς , ξένοι ,",
+      "translation": "Therefore , strangers , I beseech you by the gods : just as you made me leave my seat , so protect me , and do not , while you render honor to the gods , consider those gods to be fools . But rather consider that they look on the god-fearing man"
+    },
+    {
+      "id": "280",
+      "label": "Section 280",
+      "chapter": null,
+      "original": "βλέπειν δὲ πρὸς τοὺς δυσσεβεῖς , φυγὴν δέ του",
+      "translation": "and on the godless , and that never yet has an impious man found escape .\nWith the help of those gods , do not becloud the prosperity of Athens by paying service to unholy deeds . As you have received the suppliant under your pledge ,"
+    },
+    {
+      "id": "285",
+      "label": "Section 285",
+      "chapter": null,
+      "original": "ῥύου με κἀκφύλασσε · μηδέ μου κάρα",
+      "translation": "rescue me and guard me to the end ; nor dishonor me when you look on this face unlovely to behold , for I have come to you as one sacred and pious , bearing comfort for this people . But when the master has come ,"
+    },
+    {
+      "id": "290",
+      "label": "Section 290",
+      "chapter": null,
+      "original": "τότʼ εἰσακούων πάντʼ ἐπιστήσει · τὰ δὲ",
+      "translation": "whoever is your leader , then you will hear and know all ; meanwhile show yourselves in no way evil ."
+    },
+    {
+      "id": "292",
+      "label": "Section 292",
+      "chapter": null,
+      "original": "ταρβεῖν μέν , ὦ γεραιέ , τἀνθυμήματα",
+      "translation": "The thoughts you urge , old man , must move awe ; they have been set forth in grave words ."
+    },
+    {
+      "id": "295",
+      "label": "Section 295",
+      "chapter": null,
+      "original": "ἄνακτας ἀρκεῖ ταῦτά μοι διειδέναι .",
+      "translation": "But I am content that the rulers of our country should judge in this case ."
+    },
+    {
+      "id": "296",
+      "label": "Section 296",
+      "chapter": null,
+      "original": "καὶ ποῦ ʼσθʼ ὁ κραίνων τῆσδε τῆς χώρας , ξένοι ;",
+      "translation": "And where , strangers , is the lord of this realm ?"
+    },
+    {
+      "id": "297",
+      "label": "Section 297",
+      "chapter": null,
+      "original": "πατρῷον ἄστυ γῆς ἔχει · σκοπὸς δέ νιν ,",
+      "translation": "He is at the city of his fathers in our land . The messenger who sent us here has gone to fetch him ."
+    },
+    {
+      "id": "299",
+      "label": "Section 299",
+      "chapter": null,
+      "original": "ἦ καὶ δοκεῖτε τοῦ τυφλοῦ τινʼ ἐντροπὴν",
+      "translation": "Do you think that he will have any regard or care for the blind man ,"
+    },
+    {
+      "id": "300",
+      "label": "Section 300",
+      "chapter": null,
+      "original": "ἢ φροντίδʼ , ἕξειν , αὐτὸν ὥστʼ ἐλθεῖν πέλας ;",
+      "translation": "so as to come here himself ?"
+    },
+    {
+      "id": "301",
+      "label": "Section 301",
+      "chapter": null,
+      "original": "καὶ κάρθʼ , ὅταν περ τοὔνομʼ αἴσθηται τὸ σόν .",
+      "translation": "Yes , surely , as soon as he learns of your name ."
+    },
+    {
+      "id": "302",
+      "label": "Section 302",
+      "chapter": null,
+      "original": "τίς δʼ ἔσθʼ ὁ κείνῳ τοῦτο τοὔπος ἀγγελῶν ;",
+      "translation": "Who is there to bring him that word ?"
+    },
+    {
+      "id": "303",
+      "label": "Section 303",
+      "chapter": null,
+      "original": "μακρὰ κέλευθος · πολλὰ δʼ ἐμπόρων ἔπη",
+      "translation": "The way is long , and many words from travellers often wander about . When he hears them , he will soon be with us , never fear ."
+    },
+    {
+      "id": "305",
+      "label": "Section 305",
+      "chapter": null,
+      "original": "θάρσει , παρέσται . πολὺ γάρ , ὦ γέρον , τὸ σὸν",
+      "translation": "For your name , old man , has been loudly trumpeted through all lands , so that even if he is taking his ease , and slow to move , when he hears of you he will swiftly arrive ."
+    },
+    {
+      "id": "308",
+      "label": "Section 308",
+      "chapter": null,
+      "original": "ἀλλʼ εὐτυχὴς ἵκοιτο τῇ θʼ αὑτοῦ πόλει",
+      "translation": "Well , may he come with good fortune both for his own city and for me ! What noble man is not his own friend ?"
+    },
+    {
+      "id": "310",
+      "label": "Section 310",
+      "chapter": null,
+      "original": "ὦ Ζεῦ , τί λέξω ; ποῖ φρενῶν ἔλθω , πάτερ ;",
+      "translation": "O Zeus ! What shall I say ? What shall I think , my father ?"
+    },
+    {
+      "id": "311",
+      "label": "Section 311",
+      "chapter": null,
+      "original": "τί δʼ ἔστι , τέκνον Ἀντιγόνη ;",
+      "translation": "What is it , Antigone , my child ?"
+    },
+    {
+      "id": "311a",
+      "label": "Section 311a",
+      "chapter": null,
+      "original": "γυναῖχʼ ὁρῶ",
+      "translation": "I see a woman coming towards us , mounted on a colt of Etna ; she wears a Thessalian bonnet to screen her face from the sun ."
+    },
+    {
+      "id": "315",
+      "label": "Section 315",
+      "chapter": null,
+      "original": "τί φῶ ;",
+      "translation": "What shall I say ? Is it she , or is it not ? Does my judgment err ? Yes — no — I cannot tell — ah , me ! It is no other , yes ! She greets me with bright glances"
+    },
+    {
+      "id": "320",
+      "label": "Section 320",
+      "chapter": null,
+      "original": "σαίνει με προσστείχουσα · σημαίνει δʼ ὅτι",
+      "translation": "as she draws near , and makes a signal . Here is Ismene , clearly , and no other before me ."
+    },
+    {
+      "id": "322",
+      "label": "Section 322",
+      "chapter": null,
+      "original": "πῶς εἶπας , ὦ παῖ ;",
+      "translation": "What is that you say , my child ?"
+    },
+    {
+      "id": "322a",
+      "label": "Section 322a",
+      "chapter": null,
+      "original": "παῖδα σήν , ἐμὴν δʼ ὁρᾶν",
+      "translation": "That I see your daughter , my sister . By her voice right away you can know her ."
+    },
+    {
+      "id": "324",
+      "label": "Section 324",
+      "chapter": null,
+      "original": "ὦ δισσὰ πατρὸς καὶ κασιγνήτης ἐμοὶ",
+      "translation": "Father and sister , names most sweet to me ! How hard it was to find you !"
+    },
+    {
+      "id": "325",
+      "label": "Section 325",
+      "chapter": null,
+      "original": "ἥδιστα προσφωνήμαθʼ , ὡς ὑμᾶς μόλις",
+      "translation": "And how hard now to look upon you for my tears !"
+    },
+    {
+      "id": "327",
+      "label": "Section 327",
+      "chapter": null,
+      "original": "ὦ τέκνον , ἥκεις ;",
+      "translation": "My child , have you come ?"
+    },
+    {
+      "id": "327a",
+      "label": "Section 327a",
+      "chapter": null,
+      "original": "ὦ πάτερ δύσμοιρʼ ὁρᾶν .",
+      "translation": "Father , your fate is sad to see !"
+    },
+    {
+      "id": "328",
+      "label": "Section 328",
+      "chapter": null,
+      "original": "τέκνον , πέφηνας ;",
+      "translation": "Are you with us , my child ?"
+    },
+    {
+      "id": "328a",
+      "label": "Section 328a",
+      "chapter": null,
+      "original": "οὐκ ἄνευ μόχθου γέ μοι .",
+      "translation": "Not without toil , indeed , for myself ."
+    },
+    {
+      "id": "329",
+      "label": "Section 329",
+      "chapter": null,
+      "original": "πρόσψαυσον , ὦ παῖ .",
+      "translation": "Touch me , my daughter !"
+    },
+    {
+      "id": "329a",
+      "label": "Section 329a",
+      "chapter": null,
+      "original": "θιγγάνω δυοῖν ὁμοῦ .",
+      "translation": "I give a hand to each at once ."
+    },
+    {
+      "id": "330",
+      "label": "Section 330",
+      "chapter": null,
+      "original": "ὦ σπέρμʼ ὅμαιμον .",
+      "translation": "Ah my children , my sisters !"
+    },
+    {
+      "id": "330a",
+      "label": "Section 330a",
+      "chapter": null,
+      "original": "ὦ δυσάθλιαι τροφαί .",
+      "translation": "Alas , twice-wretched life !"
+    },
+    {
+      "id": "331",
+      "label": "Section 331",
+      "chapter": null,
+      "original": "ἦ τῆσδε κἀμοῦ ;",
+      "translation": "Her life and mine ?"
+    },
+    {
+      "id": "331a",
+      "label": "Section 331a",
+      "chapter": null,
+      "original": "δυσμόρου τʼ ἐμοῦ τρίτης .",
+      "translation": "And mine , wretched me , makes a third ."
+    },
+    {
+      "id": "332",
+      "label": "Section 332",
+      "chapter": null,
+      "original": "τέκνον , τί δʼ ἦλθες ;",
+      "translation": "Child , why have you come ?"
+    },
+    {
+      "id": "332a",
+      "label": "Section 332a",
+      "chapter": null,
+      "original": "σῇ , πάτερ , προμηθίᾳ .",
+      "translation": "Through concern for you , father ."
+    },
+    {
+      "id": "333",
+      "label": "Section 333",
+      "chapter": null,
+      "original": "πότερα πόθοισι ;",
+      "translation": "Through longing to see me ?"
+    }
+  ],
+  "prevChunkSlug": "oedipus-at-colonus-1cl6mn-2",
+  "nextChunkSlug": "oedipus-at-colonus-1cl6mn-4"
+}

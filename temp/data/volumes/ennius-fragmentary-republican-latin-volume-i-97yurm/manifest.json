@@ -1,0 +1,61 @@
+{
+  "loebNumber": 294,
+  "sortOrder": 294,
+  "slug": "ennius-fragmentary-republican-latin-volume-i-97yurm",
+  "title": "Fragmentary Republican Latin, Volume I",
+  "volumeLabel": "Fragmentary Republican Latin, Volume I",
+  "authorDisplay": "Ennius",
+  "authors": [
+    "Ennius"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for Fragmentary Republican Latin, Volume I. Fragmentary Republican Latin, Volume I currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "fragmentary-republican-latin-volume-i-ilnq3w",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "fragmentary-republican-latin-volume-i-ilnq3w",
+      "title": "Fragmentary Republican Latin, Volume I",
+      "status": "ready",
+      "sectionCount": 50,
+      "chunkSlug": "fragmentary-republican-latin-volume-i-ilnq3w",
+      "chunks": [
+        {
+          "slug": "fragmentary-republican-latin-volume-i-ilnq3w",
+          "label": "Fragmentary Republican Latin, Volume I",
+          "partId": "fragmentary-republican-latin-volume-i-ilnq3w",
+          "partTitle": "Fragmentary Republican Latin, Volume I",
+          "sectionCount": 50,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "fragmentary-republican-latin-volume-i-ilnq3w",
+      "label": "Fragmentary Republican Latin, Volume I",
+      "partId": "fragmentary-republican-latin-volume-i-ilnq3w",
+      "partTitle": "Fragmentary Republican Latin, Volume I",
+      "sectionCount": 50,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "fragmentary-republican-latin-volume-i-ilnq3w",
+      "partTitle": "Fragmentary Republican Latin, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πολιτεία",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg030.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Republic",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg030.perseus-eng2/"
+      }
+    }
+  ]
+}

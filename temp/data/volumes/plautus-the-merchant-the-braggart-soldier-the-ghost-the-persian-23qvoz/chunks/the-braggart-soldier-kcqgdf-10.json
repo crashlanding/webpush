@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-braggart-soldier-kcqgdf-10",
+  "label": "The Braggart Soldier (Section 3.1.808 - Section 3.3.885)",
+  "partId": "the-braggart-soldier-kcqgdf",
+  "partTitle": "The Braggart Soldier",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Miles Gloriosus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Miles Gloriosus, or The Braggart Captain",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "3.1.808",
+      "label": "Section 3.1.808",
+      "chapter": null,
+      "original": "Diceam .",
+      "translation": "Glycera ."
+    },
+    {
+      "id": "3.1.808b",
+      "label": "Section 3.1.808b",
+      "chapter": null,
+      "original": "Nempe eandem quae dudum constitutast .",
+      "translation": "The same , you mean , that was agreed upon a little time since ."
+    },
+    {
+      "id": "3.1.808c",
+      "label": "Section 3.1.808c",
+      "chapter": null,
+      "original": "Pax , abi .",
+      "translation": "Hush !— Be off ."
+    },
+    {
+      "id": "3.1.809",
+      "label": "Section 3.1.809",
+      "chapter": null,
+      "original": "Meminero . sed quid meminisse id refert , rogo ego te tamen .",
+      "translation": "I ’ ll remember ; but still I don ’ t know what use it is to keep it in my mind ."
+    },
+    {
+      "id": "3.1.810",
+      "label": "Section 3.1.810",
+      "chapter": null,
+      "original": "Ego enim dicam tum quando usus poscet ; interea tace ,",
+      "translation": "But I will tell you , at the time , when occasion shall require . Meanwhile , be quiet ; so that , bye and bye , when he too shall be acting his part [*] , you may , on the instant , be minding your cue ."
+    },
+    {
+      "id": "3.1.812",
+      "label": "Section 3.1.812",
+      "chapter": null,
+      "original": "Ego eo intro igitur . —",
+      "translation": "I ’ ll go in then ."
+    },
+    {
+      "id": "3.1.812b",
+      "label": "Section 3.1.812b",
+      "chapter": null,
+      "original": "Et praecepta sobrie ut cures face .",
+      "translation": "Go , and do take care steadily to follow my instructions ."
+    },
+    {
+      "id": "3.2.813",
+      "label": "Section 3.2.813",
+      "chapter": null,
+      "original": "quantas res turbo , quantas moveo machinas .",
+      "translation": "What mighty turmoils I create ! What mighty engines I do set to work ! This very day I shall take his mistress away from the Captain ,"
+    },
+    {
+      "id": "3.2.815",
+      "label": "Section 3.2.815",
+      "chapter": null,
+      "original": "si centuriati bene sunt maniplares mei .",
+      "translation": "if my soldiers are only well drilled [*] . But I ’ ll call him out . ( Goes to the door and calls .) Hallo ! Sceledrus , if you are not busy , come out to the front of the house ; I , Palaestrio , call you ."
+    },
+    {
+      "id": "3.2.818",
+      "label": "Section 3.2.818",
+      "chapter": null,
+      "original": "Non operaest Sceledro .",
+      "translation": "Sceledrus is not at leisure ."
+    },
+    {
+      "id": "3.2.818b",
+      "label": "Section 3.2.818b",
+      "chapter": null,
+      "original": "Quid iam ?",
+      "translation": "Why so ?"
+    },
+    {
+      "id": "3.2.818c",
+      "label": "Section 3.2.818c",
+      "chapter": null,
+      "original": "Sorbet dormiens .",
+      "translation": "He ’ s fast asleep , gulping [*] ."
+    },
+    {
+      "id": "3.2.819",
+      "label": "Section 3.2.819",
+      "chapter": null,
+      "original": "Quid , sorbet ?",
+      "translation": "How , gulping ?"
+    },
+    {
+      "id": "3.2.819b",
+      "label": "Section 3.2.819b",
+      "chapter": null,
+      "original": "Illud , stertit , volui dicere .",
+      "translation": "He ’ s snoring , ’ twas that I meant to say :"
+    },
+    {
+      "id": "3.2.820",
+      "label": "Section 3.2.820",
+      "chapter": null,
+      "original": "sed quia consimile est , quom stertas , quasi sorbeas —",
+      "translation": "but , because ’ tis very like gulping when you are snoring — ⋯"
+    },
+    {
+      "id": "3.2.821",
+      "label": "Section 3.2.821",
+      "chapter": null,
+      "original": "Eho an dórmit Sceledrus intus ?",
+      "translation": "What ! Is Sceledrus asleep in-doors ?"
+    },
+    {
+      "id": "3.2.821b",
+      "label": "Section 3.2.821b",
+      "chapter": null,
+      "original": "Non naso quidem ,",
+      "translation": "Not with his nose , in fact ; for with that he is calling out loud enough ."
+    },
+    {
+      "id": "3.2.823",
+      "label": "Section 3.2.823",
+      "chapter": null,
+      "original": "dum misit nardum in amphoram , cellarius .",
+      "translation": "He has taken a cup by stealth ; [*] the butler has lately tapped a cask of nardine [*] ."
+    },
+    {
+      "id": "3.2.824_825",
+      "label": "Section 3.2.824_825",
+      "chapter": null,
+      "original": "Eho tu sceleste , qui illi suppromus essuppromu's , eho —",
+      "translation": "Oho ! you rascal , you are his deputy-butler [*] . Oho !"
+    },
+    {
+      "id": "3.2.826",
+      "label": "Section 3.2.826",
+      "chapter": null,
+      "original": "Quid vis ?",
+      "translation": "What do you mean ?"
+    },
+    {
+      "id": "3.2.826b",
+      "label": "Section 3.2.826b",
+      "chapter": null,
+      "original": "Qui lubitum est illi condormiscere ?",
+      "translation": "How has he thought fit to go to sleep ?"
+    },
+    {
+      "id": "3.2.827",
+      "label": "Section 3.2.827",
+      "chapter": null,
+      "original": "Oculis opinor .",
+      "translation": "With his eyes , I suppose ."
+    },
+    {
+      "id": "3.2.827b",
+      "label": "Section 3.2.827b",
+      "chapter": null,
+      "original": "Non te istuc rogito , scelus .",
+      "translation": "I don ’ t ask you that , you vagabond . Step this way : you ’ re undone now , unless I know the truth . Did you draw the wine for him ?"
+    },
+    {
+      "id": "3.2.829b",
+      "label": "Section 3.2.829b",
+      "chapter": null,
+      "original": "Non prompsi .",
+      "translation": "I did not draw it ."
+    },
+    {
+      "id": "3.2.829c",
+      "label": "Section 3.2.829c",
+      "chapter": null,
+      "original": "Negas ?",
+      "translation": "Do you deny it ?"
+    },
+    {
+      "id": "3.2.830",
+      "label": "Section 3.2.830",
+      "chapter": null,
+      "original": "Nego hercle vero , nam ille me vetuit dicere ;",
+      "translation": "I ’ faith , I do deny it undoubtedly ; for he charged me not to tell . I really didn ’ t just [*] draw for him eight half pints into a pitcher , and , when drawn , he didn ’ t just drink it hot [*] , at his breakfast ."
+    },
+    {
+      "id": "3.2.833",
+      "label": "Section 3.2.833",
+      "chapter": null,
+      "original": "Neque tu bibisti ?",
+      "translation": "And you didn ’ t just drink as well ?"
+    },
+    {
+      "id": "3.2.833b",
+      "label": "Section 3.2.833b",
+      "chapter": null,
+      "original": "Di me perdant , si bibi ,",
+      "translation": "The Gods confound me if I did drink — if I could drink ."
+    },
+    {
+      "id": "3.2.834b",
+      "label": "Section 3.2.834b",
+      "chapter": null,
+      "original": "Quid iam ?",
+      "translation": "Why so ?"
+    },
+    {
+      "id": "3.2.834c",
+      "label": "Section 3.2.834c",
+      "chapter": null,
+      "original": "Quia enim obsorbui ;",
+      "translation": "Because , in fact , I only sipped ;"
+    },
+    {
+      "id": "3.2.835",
+      "label": "Section 3.2.835",
+      "chapter": null,
+      "original": "nam nimis calebat , amburebat gutturem .",
+      "translation": "for it was too hot ; it burnt my throat ."
+    },
+    {
+      "id": "3.2.836",
+      "label": "Section 3.2.836",
+      "chapter": null,
+      "original": "Alii ebrii sunt , alii poscam potitant .",
+      "translation": "Some are gloriously drunk , while others are drinking vinegar-water [*] . The cellar ’ s trusted to an honest butler , as well as under-butler ."
+    },
+    {
+      "id": "3.2.838",
+      "label": "Section 3.2.838",
+      "chapter": null,
+      "original": "Tu hércle idem fáceres , si tibi esset credita :",
+      "translation": "I ’ faith , you ’ d be doing the same , if it was entrusted to you ."
+    },
+    {
+      "id": "3.2.839_840",
+      "label": "Section 3.2.839_840",
+      "chapter": null,
+      "original": "quoniam aemulari non licet , nunc invides .",
+      "translation": "Since you can ’ t follow our example , you are envious now ."
+    },
+    {
+      "id": "3.2.841",
+      "label": "Section 3.2.841",
+      "chapter": null,
+      "original": "Eho an umquam prompsit antehac ? responde , scelus .",
+      "translation": "Come , now , did he ever draw any wine before this ? Answer me , you rascal . And , that you may understand it , I give you this notice : if you purposely tell me an untruth , you shall be put to the torture ."
+    },
+    {
+      "id": "3.2.844",
+      "label": "Section 3.2.844",
+      "chapter": null,
+      "original": "Ita vero ? ut tu ipse me dixisse delices ,",
+      "translation": "Indeed so ? That you may inform , forsooth , that I told you ;"
+    },
+    {
+      "id": "3.2.845",
+      "label": "Section 3.2.845",
+      "chapter": null,
+      "original": "post e sagina ego eiciar cellaria ,",
+      "translation": "and then I shall be turned out of my fattening post in the cellar , that you may find another under-butler to draw for your own self ."
+    },
+    {
+      "id": "3.2.847",
+      "label": "Section 3.2.847",
+      "chapter": null,
+      "original": "Non edepol faciam . age eloquere audacter mihi .",
+      "translation": "On my honour , I will not ; come , speak out boldly to me ."
+    },
+    {
+      "id": "3.2.848",
+      "label": "Section 3.2.848",
+      "chapter": null,
+      "original": "Numquam edepol vidi promere . verum hoc erat :",
+      "translation": "By my troth , I never saw him draw any . But thus was it ; he requested me , and then I drew it ."
+    },
+    {
+      "id": "3.2.850",
+      "label": "Section 3.2.850",
+      "chapter": null,
+      "original": "Hoc illi crebro capite sistebant cadi .",
+      "translation": "Think of that now ! very frequently , I guess , the casks were standing on their heads [*] there ."
+    },
+    {
+      "id": "3.2.851",
+      "label": "Section 3.2.851",
+      "chapter": null,
+      "original": "Non hercle tam istoc valide cassabant cadi ;",
+      "translation": "No , faith , the casks would not [*] have stood so very badly there . But there happened to be in the cellar a bit of a slippery spot ; a two-pint pot was placed there , near the casks , in this fashion ( shows the way .) Frequently , that was filled ten times in a day ."
+    },
+    {
+      "id": "3.2.856",
+      "label": "Section 3.2.856",
+      "chapter": null,
+      "original": "ubi bacchabatur aula , cassabant cadi .",
+      "translation": "When the pot acted the reveller , the casks were all tottering ."
+    },
+    {
+      "id": "3.2.857",
+      "label": "Section 3.2.857",
+      "chapter": null,
+      "original": "Abi , abi íntro iam . vos in cella vinaria",
+      "translation": "Get you gone in-doors . Both of you , I find , are acting the revellers in the wine-cellar . I ’ faith , I shall fetch my master home just now from the Forum ."
+    },
+    {
+      "id": "3.2.859",
+      "label": "Section 3.2.859",
+      "chapter": null,
+      "original": "Perii , excruciabit mé erus , domum si venerit ,",
+      "translation": "I ’ m ruined . My master , when he comes home , will have me tortured ,"
+    },
+    {
+      "id": "3.2.860",
+      "label": "Section 3.2.860",
+      "chapter": null,
+      "original": "quom haec facta scibit , quia sibi non dixerim .",
+      "translation": "when he knows of these doings . I ’ faith , I ’ ll fly somewhither , and put off this punishment to another day . ( To the AUDIENCE .) don ’ t you tell him [*] , I do entreat you most earnestly ."
+    },
+    {
+      "id": "3.2.863",
+      "label": "Section 3.2.863",
+      "chapter": null,
+      "original": "Quo té agis ?",
+      "translation": "Whither are you betaking yourself ?"
+    },
+    {
+      "id": "3.2.863b",
+      "label": "Section 3.2.863b",
+      "chapter": null,
+      "original": "Missus sum aliquo : iam huc revenero .",
+      "translation": "I am sent elsewhere : I ’ ll come back here just now ."
+    },
+    {
+      "id": "3.2.864",
+      "label": "Section 3.2.864",
+      "chapter": null,
+      "original": "Quis misit ?",
+      "translation": "Who has sent you ?"
+    },
+    {
+      "id": "3.2.864b",
+      "label": "Section 3.2.864b",
+      "chapter": null,
+      "original": "Philocomasium .",
+      "translation": "Philocomasium ."
+    },
+    {
+      "id": "3.2.864c",
+      "label": "Section 3.2.864c",
+      "chapter": null,
+      "original": "Abi , actutum redi .",
+      "translation": "Go ; be back directly ."
+    },
+    {
+      "id": "3.2.865",
+      "label": "Section 3.2.865",
+      "chapter": null,
+      "original": "Quaeso tamen tu meam partem , infortunium",
+      "translation": "If it is divided , prithee do you only take my share of the punishment while I ’ m away ."
+    },
+    {
+      "id": "3.2.867",
+      "label": "Section 3.2.867",
+      "chapter": null,
+      "original": "Modo intellexi quam rem mulier gesserit :",
+      "translation": "So — I understand what scheme the lady is upon . Because Sceledrus is asleep , she has sent her under-keeper away out of doors , whilst she may pass from our house to next door . That ’ s all right ."
+    },
+    {
+      "id": "3.2.870",
+      "label": "Section 3.2.870",
+      "chapter": null,
+      "original": "sed Periplectomenus quam ei mandavi mulierem",
+      "translation": "( Looks down the street .) But Periplecomenus is bringing here a woman of very comely appearance , her , for whom I commissioned him . By my faith , the Gods are helping us in this matter . How becomingly drest she struts along [*] , not like a Courtesan . This business is prospering charmingly in our hands ."
+    },
+    {
+      "id": "3.3.874",
+      "label": "Section 3.3.874",
+      "chapter": null,
+      "original": "Rem omném tibi , Acroteleútium , tibique úna , Milphidíppa ,",
+      "translation": "I have explained the whole affair , Acroteleutium , to you , and , Milphidippa , to you as well ."
+    },
+    {
+      "id": "3.3.875",
+      "label": "Section 3.3.875",
+      "chapter": null,
+      "original": "domi démonstravi in ordine . hanc fabricam fallaciasque",
+      "translation": "If you don ’ t well understand this device and plan , I wish you to hear it all over again . If you comprehend it aright , there is something else that we may speak of in preference ."
+    },
+    {
+      "id": "3.3.878",
+      "label": "Section 3.3.878",
+      "chapter": null,
+      "original": "Stultitia atque insipientia mea istaec sit , mi patrone ,",
+      "translation": "I ’ faith , it would be folly , and ignorance , and foolishness , for me to engage in the service of another , or to promise you my assistance ,"
+    },
+    {
+      "id": "3.3.880",
+      "label": "Section 3.3.880",
+      "chapter": null,
+      "original": "si ea in ópificina nesciam aut mala esse aut fraudulenta .",
+      "translation": "if , in its fabrication , I did not know how to be either mischievous or clever at deceiving ."
+    },
+    {
+      "id": "3.3.881",
+      "label": "Section 3.3.881",
+      "chapter": null,
+      "original": "At melius est monerier .",
+      "translation": "But , ’ tis better for you to be instructed ."
+    },
+    {
+      "id": "3.3.881b",
+      "label": "Section 3.3.881b",
+      "chapter": null,
+      "original": "Meretricem commoneri ,",
+      "translation": "Really I don ’ t understand of what great use it is for a Courtesan to be instructed . How now ! have I told you all in vain , after my ears had drunk in the draughts [*] of your discourse , in what fashion it was possible for the Captain to be cajoled ?"
+    },
+    {
+      "id": "3.3.885",
+      "label": "Section 3.3.885",
+      "chapter": null,
+      "original": "At nemo solus satis sapit . nam ego multos saepe vidi",
+      "translation": "But no one , unaided , is sufficiently perfect ; for full oft have I seen many a person lose the road to good advice before they had found it ."
+    }
+  ],
+  "prevChunkSlug": "the-braggart-soldier-kcqgdf-9",
+  "nextChunkSlug": "the-braggart-soldier-kcqgdf-11"
+}

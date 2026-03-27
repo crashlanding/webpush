@@ -1,0 +1,61 @@
+{
+  "loebNumber": 105,
+  "sortOrder": 105,
+  "slug": "homer-odyssey-volume-ii-1d05ia",
+  "title": "Odyssey, Volume II",
+  "volumeLabel": "Odyssey, Volume II",
+  "authorDisplay": "Homer",
+  "authors": [
+    "Homer"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Odyssey, Volume II. Odyssey, Volume II currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "odyssey-volume-ii-vz6eu2",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "odyssey-volume-ii-vz6eu2",
+      "title": "Odyssey, Volume II",
+      "status": "ready",
+      "sectionCount": 24,
+      "chunkSlug": "odyssey-volume-ii-vz6eu2",
+      "chunks": [
+        {
+          "slug": "odyssey-volume-ii-vz6eu2",
+          "label": "Odyssey, Volume II",
+          "partId": "odyssey-volume-ii-vz6eu2",
+          "partTitle": "Odyssey, Volume II",
+          "sectionCount": 24,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "odyssey-volume-ii-vz6eu2",
+      "label": "Odyssey, Volume II",
+      "partId": "odyssey-volume-ii-vz6eu2",
+      "partTitle": "Odyssey, Volume II",
+      "sectionCount": 24,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "odyssey-volume-ii-vz6eu2",
+      "partTitle": "Odyssey, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὀδύσσεια",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0012.tlg002.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Odyssey",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0012.tlg002.perseus-eng3/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-casina-the-casket-comedy-curculio-epidicus-the-two-menaechmuses-10u46k",
+  "volumeTitle": "Casina. The Casket Comedy. Curculio. Epidicus. The Two Menaechmuses",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "curculio-ad3oao-2",
+  "label": "Curculio (Section 1.1.74b - Section 1.2.132)",
+  "partId": "curculio-ad3oao",
+  "partTitle": "Curculio",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Curculio",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi008.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Curculio, or The Forgery",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi008.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1.74b",
+      "label": "Section 1.1.74b",
+      "chapter": null,
+      "original": "Tum tu Venerem vomere vis .",
+      "translation": "Then you would have Venus to be sick outright ."
+    },
+    {
+      "id": "1.1.75",
+      "label": "Section 1.1.75",
+      "chapter": null,
+      "original": "Cedo , puere , sinum .",
+      "translation": "Here , boy , give me the bowl ."
+    },
+    {
+      "id": "1.1.75b",
+      "label": "Section 1.1.75b",
+      "chapter": null,
+      "original": "Quid facturu'sfacturus es ?",
+      "translation": "What are you going to do ?"
+    },
+    {
+      "id": "1.1.75c",
+      "label": "Section 1.1.75c",
+      "chapter": null,
+      "original": "Iam scies .",
+      "translation": "You ’ ll know directly . An old hag is in the habit of sleeping here , as the keeper of the door ; the name of the Procuress is Much-bibber and Neat-bibber ."
+    },
+    {
+      "id": "1.1.78",
+      "label": "Section 1.1.78",
+      "chapter": null,
+      "original": "Quasi tu lagoenam dicas , ubi vinum Chium",
+      "translation": "Just as you would speak of a flagon , in which Chian wine [*] is wont to be ."
+    },
+    {
+      "id": "1.1.79b",
+      "label": "Section 1.1.79b",
+      "chapter": null,
+      "original": "Quid opust verbis ? vinosissima est ;",
+      "translation": "What need is there of words ? She is a most vinous soul ;"
+    },
+    {
+      "id": "1.1.80",
+      "label": "Section 1.1.80",
+      "chapter": null,
+      "original": "eaque extemplo ubi ego vino has conspersi fores ,",
+      "translation": "and the very moment that I ’ ve sprinkled this door with the wine , she knows by the smell that I ’ m here , and opens it forthwith ."
+    },
+    {
+      "id": "1.1.82",
+      "label": "Section 1.1.82",
+      "chapter": null,
+      "original": "Eine hic cum vino sinus fertur ?",
+      "translation": "Is it for her the bowl is brought with the wine ?"
+    },
+    {
+      "id": "1.1.82b",
+      "label": "Section 1.1.82b",
+      "chapter": null,
+      "original": "Nisi nevis .",
+      "translation": "Unless you object ."
+    },
+    {
+      "id": "1.1.83",
+      "label": "Section 1.1.83",
+      "chapter": null,
+      "original": "Nolo hercle , nam istunc qui fert afflictum velim ;",
+      "translation": "I ’ faith , I do object ; for I ’ d rather have it broken about him who has brought it . I fancied it was brought for ourselves ."
+    },
+    {
+      "id": "1.1.84b",
+      "label": "Section 1.1.84b",
+      "chapter": null,
+      "original": "Quin tu taces ?",
+      "translation": "Why don ’ t you hold your tongue ?"
+    },
+    {
+      "id": "1.1.85",
+      "label": "Section 1.1.85",
+      "chapter": null,
+      "original": "si quid super illi fuerit , id nobis sat est .",
+      "translation": "If any ’ s left after her , it will be enough for ourselves ."
+    },
+    {
+      "id": "1.1.86",
+      "label": "Section 1.1.86",
+      "chapter": null,
+      "original": "Quisnam istic fluviust , quem non recipiat mare ?",
+      "translation": "What river is it , pray , that the sea does not receive ?"
+    },
+    {
+      "id": "1.1.87",
+      "label": "Section 1.1.87",
+      "chapter": null,
+      "original": "Sequere hac , Palinure , me ad fores , fi mi obsequens .",
+      "translation": "Follow me this way , Palinurus , to the door ; do you be obedient to me ."
+    },
+    {
+      "id": "1.1.88",
+      "label": "Section 1.1.88",
+      "chapter": null,
+      "original": "Ita faciam .",
+      "translation": "I ’ ll do so ."
+    },
+    {
+      "id": "1.1.88b",
+      "label": "Section 1.1.88b",
+      "chapter": null,
+      "original": "Agite bibite , festivae fores ;",
+      "translation": "Come , drink , you joyous door , quaff on , readily prove propitious unto me ."
+    },
+    {
+      "id": "1.1.90",
+      "label": "Section 1.1.90",
+      "chapter": null,
+      "original": "Voltisne olivas aut pulpamentum aut capparim ?",
+      "translation": "Door , would you like some olives or a tit-bit , or some capers ?"
+    },
+    {
+      "id": "1.1.91",
+      "label": "Section 1.1.91",
+      "chapter": null,
+      "original": "Exsuscitate vostram huc custodem mihi .",
+      "translation": "Arouse and send out here to me your portress ."
+    },
+    {
+      "id": "1.1.92",
+      "label": "Section 1.1.92",
+      "chapter": null,
+      "original": "Profundis vinum : quae te res agitant ?",
+      "translation": "You ’ re spilling the wine ; what matter is it that possesses you ? ( Takes hold of his arm .)"
+    },
+    {
+      "id": "1.1.92b",
+      "label": "Section 1.1.92b",
+      "chapter": null,
+      "original": "Sine .",
+      "translation": "Let me alone . Don ’ t you see ? This most joyous door is opening ; does the hinge make a bit of creaking ? ’ Tis a charming one ."
+    },
+    {
+      "id": "1.1.94b",
+      "label": "Section 1.1.94b",
+      "chapter": null,
+      "original": "Quin das savium ?",
+      "translation": "Why don ’ t you then give it a kiss ?"
+    },
+    {
+      "id": "1.1.95",
+      "label": "Section 1.1.95",
+      "chapter": null,
+      "original": "Tace , occultemus lumen et vocem .",
+      "translation": "Hold your tongue ; let ’ s keep back the light and our noise ."
+    },
+    {
+      "id": "1.1.95b",
+      "label": "Section 1.1.95b",
+      "chapter": null,
+      "original": "Licet .",
+      "translation": "Be it so ."
+    },
+    {
+      "id": "1.2.96",
+      "label": "Section 1.2.96",
+      "chapter": null,
+      "original": "Flós veteris vini meis náribus obiectust ,",
+      "translation": "The savour of aged wine has reached my nostrils ; the love of it has brought me in my eagerness hither in the dark ; wherever it is , it ’ s near me . O capital , I ’ ve found it . ( Stooping , and smelling at the bowl .) Hail to you , my soul , Joy of dear Bacchus ;"
+    },
+    {
+      "id": "1.2.100",
+      "label": "Section 1.2.100",
+      "chapter": null,
+      "original": "ut véteris vetus tui cúpida sum .",
+      "translation": "how enamoured am I of your old age . For in comparison with yours , the odour of all unguents were mere bilge-water ; you are my myrrh , you my cinnamon , you my rose , you my saffron unguent and my cassia , you are my vine-palm [*] scent . But , where you have been poured , there would I most earnestly hope to be buried ."
+    },
+    {
+      "id": "1.2.105",
+      "label": "Section 1.2.105",
+      "chapter": null,
+      "original": "séd quom adhuc náso odos óbsecutúst meo ,",
+      "translation": "But since as yet you , fragrance , alone have penetrated to my nostrils , so in its turn afford some delight to my throat . ( Feels for the bowl on the ground , which PALINURUS draws away .) I find you not ; where is your own dear self ? I ’ m longing to touch you ; do let me pour your liquids into me by sip-sipping . But in this direction it has gone , this way I ’ ll . follow it ."
+    },
+    {
+      "id": "1.2.110",
+      "label": "Section 1.2.110",
+      "chapter": null,
+      "original": "Sitit haéc anus .",
+      "translation": "This old lady ’ s thirsty ;"
+    },
+    {
+      "id": "1.2.110b",
+      "label": "Section 1.2.110b",
+      "chapter": null,
+      "original": "Quantillúm sitit ?",
+      "translation": "how limited is her thirst ?"
+    },
+    {
+      "id": "1.2.110c",
+      "label": "Section 1.2.110c",
+      "chapter": null,
+      "original": "Modica ést , capit quadrántal .",
+      "translation": "She ’ s a moderate person ; she swallows eight gallons [*] only ."
+    },
+    {
+      "id": "1.2.111",
+      "label": "Section 1.2.111",
+      "chapter": null,
+      "original": "Pol ut praédicas , vindémia haec huic ánui non sat est sóli .",
+      "translation": "I ’ faith , according to your account , this year ’ s vintage is not enough for this old woman alone ."
+    },
+    {
+      "id": "1.2.112",
+      "label": "Section 1.2.112",
+      "chapter": null,
+      "original": "canem esse hánc quidem magis pár fuit : sagax násum habet .",
+      "translation": "It really had been more proper for her to be a dog ; she has a good nose ."
+    },
+    {
+      "id": "1.2.112b",
+      "label": "Section 1.2.112b",
+      "chapter": null,
+      "original": "Amábo ,",
+      "translation": "Prithee , whose voice is it that I hear at a distance ."
+    },
+    {
+      "id": "1.2.113",
+      "label": "Section 1.2.113",
+      "chapter": null,
+      "original": "Cénseo hanc áppellandam anum .",
+      "translation": "I think that this old hag should be accosted . I ’ ll approach her . ( Aloud .) Come back , Procuress , and look back towards me ."
+    },
+    {
+      "id": "1.2.115",
+      "label": "Section 1.2.115",
+      "chapter": null,
+      "original": "Imperatór quis est ?",
+      "translation": "Who is it that gives his commands ?"
+    },
+    {
+      "id": "1.2.116",
+      "label": "Section 1.2.116",
+      "chapter": null,
+      "original": "Vínipollens lépidus Liber ,",
+      "translation": "The all-powerful in wine , jolly Bacchus ; he who , when you ’ re hawking , parched , and half asleep , brings you a draught and comes to quench your thirst ."
+    },
+    {
+      "id": "1.2.119",
+      "label": "Section 1.2.119",
+      "chapter": null,
+      "original": "Quám longe a me abest ?",
+      "translation": "How far is he away from me ?"
+    },
+    {
+      "id": "1.2.119b",
+      "label": "Section 1.2.119b",
+      "chapter": null,
+      "original": "Lúmen hoc vide .",
+      "translation": "See this light ."
+    },
+    {
+      "id": "1.2.120",
+      "label": "Section 1.2.120",
+      "chapter": null,
+      "original": "Grándiorém gradum ergó fac ad me , óbsecro .",
+      "translation": "Then , prithee , do quicken your pace towards me ."
+    },
+    {
+      "id": "1.2.121",
+      "label": "Section 1.2.121",
+      "chapter": null,
+      "original": "Sálve .",
+      "translation": "Health to you ."
+    },
+    {
+      "id": "1.2.121b",
+      "label": "Section 1.2.121b",
+      "chapter": null,
+      "original": "Egon sálva sim , quaé siti sícca sum ?",
+      "translation": "How can I have health , who am parched with thirst ?"
+    },
+    {
+      "id": "1.2.121c",
+      "label": "Section 1.2.121c",
+      "chapter": null,
+      "original": "At iám bibes .",
+      "translation": "But you shall drink in a moment ."
+    },
+    {
+      "id": "1.2.121d",
+      "label": "Section 1.2.121d",
+      "chapter": null,
+      "original": "Diu fit .",
+      "translation": "’ Tis long a-coming ."
+    },
+    {
+      "id": "1.2.122",
+      "label": "Section 1.2.122",
+      "chapter": null,
+      "original": "Ém tibi anus lepida .",
+      "translation": "Here ’ s for you , jolly old dame ."
+    },
+    {
+      "id": "1.2.122b",
+      "label": "Section 1.2.122b",
+      "chapter": null,
+      "original": "Sálve , oculissime homo .",
+      "translation": "Health to you , gentleman dear as my very eyes ."
+    },
+    {
+      "id": "1.2.123",
+      "label": "Section 1.2.123",
+      "chapter": null,
+      "original": "Age , effúnde hoc cito in barathrúm , propere",
+      "translation": "Come , toss this off quickly into your abyss ; scour out your sink right speedily ."
+    },
+    {
+      "id": "1.2.124b",
+      "label": "Section 1.2.124b",
+      "chapter": null,
+      "original": "Tace . Nólo huic male dicí .",
+      "translation": "Hold your tongue ; I won ’ t have her ill spoken to ."
+    },
+    {
+      "id": "1.2.124c",
+      "label": "Section 1.2.124c",
+      "chapter": null,
+      "original": "Faciam igitur mále potius .",
+      "translation": "In preference , then , I ’ ll do her ill ."
+    },
+    {
+      "id": "1.2.125",
+      "label": "Section 1.2.125",
+      "chapter": null,
+      "original": "Venús , de paulo paúlulum hoc tíbi dabo haud lubénter .",
+      "translation": "Venus , of this little , this very little will I give to thee [*] — sore against my will ; for all the lovers , in their cups , to propitiate thee , expend their wine upon thee : not such windfalls often fall to me ."
+    },
+    {
+      "id": "1.2.128",
+      "label": "Section 1.2.128",
+      "chapter": null,
+      "original": "Hoc víde ut ingurgitat ímpura in se mérum avariter , faucíbus plenis .",
+      "translation": "Do look at that , please , how greedily the filthy hag swills down the pure wine into herself with distended gullet ."
+    },
+    {
+      "id": "1.2.129",
+      "label": "Section 1.2.129",
+      "chapter": null,
+      "original": "Perii hércle , huic quid primúm dicam nesció .",
+      "translation": "Troth now , I ’ m quite undone ; what first to say to her I know not ."
+    },
+    {
+      "id": "1.2.129b",
+      "label": "Section 1.2.129b",
+      "chapter": null,
+      "original": "Em istuc , quod míhi dixti .",
+      "translation": "Why , the same thing that you said to me ."
+    },
+    {
+      "id": "1.2.130",
+      "label": "Section 1.2.130",
+      "chapter": null,
+      "original": "Quid id ést ?",
+      "translation": "What ’ s that ?"
+    },
+    {
+      "id": "1.2.130b",
+      "label": "Section 1.2.130b",
+      "chapter": null,
+      "original": "Periisse ut té dicas .",
+      "translation": "Say that you ’ re quite undone ."
+    },
+    {
+      "id": "1.2.130c",
+      "label": "Section 1.2.130c",
+      "chapter": null,
+      "original": "Male tibi di faciant .",
+      "translation": "May the Gods confound you ."
+    },
+    {
+      "id": "1.2.130d",
+      "label": "Section 1.2.130d",
+      "chapter": null,
+      "original": "Díc isti .",
+      "translation": "Say so to her ."
+    },
+    {
+      "id": "1.2.131",
+      "label": "Section 1.2.131",
+      "chapter": null,
+      "original": "Ah .",
+      "translation": "Ha , ha , ha"
+    },
+    {
+      "id": "1.2.131b",
+      "label": "Section 1.2.131b",
+      "chapter": null,
+      "original": "Quíd est ? ecquid lubet ?",
+      "translation": "How is it ? Do you like it ?"
+    },
+    {
+      "id": "1.2.131c",
+      "label": "Section 1.2.131c",
+      "chapter": null,
+      "original": "Lúbet .",
+      "translation": "I do like it ."
+    },
+    {
+      "id": "1.2.131d",
+      "label": "Section 1.2.131d",
+      "chapter": null,
+      "original": "Etiam mihi quóque stimulo foderé lubet te .",
+      "translation": "And I , too , should like to goad with a spur as well ."
+    },
+    {
+      "id": "1.2.132",
+      "label": "Section 1.2.132",
+      "chapter": null,
+      "original": "Tace , né —",
+      "translation": "Don ’ t you — do hold your tongue ."
+    }
+  ],
+  "prevChunkSlug": "curculio-ad3oao-1",
+  "nextChunkSlug": "curculio-ad3oao-3"
+}

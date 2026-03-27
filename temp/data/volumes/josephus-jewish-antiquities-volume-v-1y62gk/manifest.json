@@ -1,0 +1,61 @@
+{
+  "loebNumber": 365,
+  "sortOrder": 365,
+  "slug": "josephus-jewish-antiquities-volume-v-1y62gk",
+  "title": "Jewish Antiquities, Volume V",
+  "volumeLabel": "Jewish Antiquities, Volume V",
+  "authorDisplay": "Josephus",
+  "authors": [
+    "Josephus"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Jewish Antiquities, Volume V. Jewish Antiquities, Volume V currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "jewish-antiquities-volume-v-1houvc",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "jewish-antiquities-volume-v-1houvc",
+      "title": "Jewish Antiquities, Volume V",
+      "status": "ready",
+      "sectionCount": 23,
+      "chunkSlug": "jewish-antiquities-volume-v-1houvc",
+      "chunks": [
+        {
+          "slug": "jewish-antiquities-volume-v-1houvc",
+          "label": "Jewish Antiquities, Volume V",
+          "partId": "jewish-antiquities-volume-v-1houvc",
+          "partTitle": "Jewish Antiquities, Volume V",
+          "sectionCount": 23,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "jewish-antiquities-volume-v-1houvc",
+      "label": "Jewish Antiquities, Volume V",
+      "partId": "jewish-antiquities-volume-v-1houvc",
+      "partTitle": "Jewish Antiquities, Volume V",
+      "sectionCount": 23,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "jewish-antiquities-volume-v-1houvc",
+      "partTitle": "Jewish Antiquities, Volume V",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἰουδαϊκὴ ἀρχαιολογία",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0526.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Antiquities of the Jews",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0526.tlg001.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "loebNumber": 36,
+  "sortOrder": 36,
+  "slug": "plato-euthyphro-apology-crito-phaedo-15fsr6",
+  "title": "Euthyphro. Apology. Crito. Phaedo",
+  "volumeLabel": "Euthyphro. Apology. Crito. Phaedo",
+  "authorDisplay": "Plato",
+  "authors": [
+    "Plato"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Euthyphro. Apology. Crito. Phaedo, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "euthyphro-95s1uy",
+  "readyChunkCount": 4,
+  "contents": [
+    {
+      "id": "euthyphro-95s1uy",
+      "title": "Euthyphro",
+      "status": "ready",
+      "sectionCount": 15,
+      "chunkSlug": "euthyphro-95s1uy",
+      "chunks": [
+        {
+          "slug": "euthyphro-95s1uy",
+          "label": "Euthyphro",
+          "partId": "euthyphro-95s1uy",
+          "partTitle": "Euthyphro",
+          "sectionCount": 15,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "apology-ee9ub9",
+      "title": "Apology",
+      "status": "ready",
+      "sectionCount": 26,
+      "chunkSlug": "apology-ee9ub9",
+      "chunks": [
+        {
+          "slug": "apology-ee9ub9",
+          "label": "Apology",
+          "partId": "apology-ee9ub9",
+          "partTitle": "Apology",
+          "sectionCount": 26,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "crito-12x8z9",
+      "title": "Crito",
+      "status": "ready",
+      "sectionCount": 12,
+      "chunkSlug": "crito-12x8z9",
+      "chunks": [
+        {
+          "slug": "crito-12x8z9",
+          "label": "Crito",
+          "partId": "crito-12x8z9",
+          "partTitle": "Crito",
+          "sectionCount": 12,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "phaedo-13ikgc",
+      "title": "Phaedo",
+      "status": "ready",
+      "sectionCount": 62,
+      "chunkSlug": "phaedo-13ikgc",
+      "chunks": [
+        {
+          "slug": "phaedo-13ikgc",
+          "label": "Phaedo",
+          "partId": "phaedo-13ikgc",
+          "partTitle": "Phaedo",
+          "sectionCount": 62,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "euthyphro-95s1uy",
+      "label": "Euthyphro",
+      "partId": "euthyphro-95s1uy",
+      "partTitle": "Euthyphro",
+      "sectionCount": 15,
+      "status": "ready"
+    },
+    {
+      "slug": "apology-ee9ub9",
+      "label": "Apology",
+      "partId": "apology-ee9ub9",
+      "partTitle": "Apology",
+      "sectionCount": 26,
+      "status": "ready"
+    },
+    {
+      "slug": "crito-12x8z9",
+      "label": "Crito",
+      "partId": "crito-12x8z9",
+      "partTitle": "Crito",
+      "sectionCount": 12,
+      "status": "ready"
+    },
+    {
+      "slug": "phaedo-13ikgc",
+      "label": "Phaedo",
+      "partId": "phaedo-13ikgc",
+      "partTitle": "Phaedo",
+      "sectionCount": 62,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "euthyphro-95s1uy",
+      "partTitle": "Euthyphro",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Εὐθύφρων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg001.perseus-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Euthyphro",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg001.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "apology-ee9ub9",
+      "partTitle": "Apology",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀπολογία Σωκράτους",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg002.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Apology",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "crito-12x8z9",
+      "partTitle": "Crito",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Κρίτων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Crito",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phaedo-13ikgc",
+      "partTitle": "Phaedo",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Φαίδων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg004.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Phaedo",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg004.perseus-eng2/"
+      }
+    }
+  ]
+}

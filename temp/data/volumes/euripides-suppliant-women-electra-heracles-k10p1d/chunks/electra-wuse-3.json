@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-suppliant-women-electra-heracles-k10p1d",
+  "volumeTitle": "Suppliant Women. Electra. Heracles",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "electra-wuse-3",
+  "label": "Electra (Section 285 - Section 2.460)",
+  "partId": "electra-wuse",
+  "partTitle": "Electra",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἠλέκτρα",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Electra",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "285",
+      "label": "Section 285",
+      "chapter": null,
+      "original": "εἷς ἂν μόνος νιν τῶν ἐμῶν γνοίη φίλων .",
+      "translation": "There is only one of my friends who would recognize him ."
+    },
+    {
+      "id": "286",
+      "label": "Section 286",
+      "chapter": null,
+      "original": "ἆρʼ ὃν λέγουσιν αὐτὸν ἐκκλέψαι φόνου ;",
+      "translation": "The man who is said to have stolen him away from murder ?"
+    },
+    {
+      "id": "287",
+      "label": "Section 287",
+      "chapter": null,
+      "original": "πατρός γε παιδαγωγὸς ἀρχαῖος γέρων .",
+      "translation": "Yes , the old man , my father ’ s old servant ."
+    },
+    {
+      "id": "288",
+      "label": "Section 288",
+      "chapter": null,
+      "original": "ὁ κατθανὼν δὲ σὸς πατὴρ τύμβου κυρεῖ ;",
+      "translation": "Did the dead man , your father , find burial ?"
+    },
+    {
+      "id": "289",
+      "label": "Section 289",
+      "chapter": null,
+      "original": "ἔκυρσεν ὡς ἔκυρσεν , ἐκβληθεὶς δόμων .",
+      "translation": "He found what he could , cast out of the house ."
+    },
+    {
+      "id": "290",
+      "label": "Section 290",
+      "chapter": null,
+      "original": "οἴμοι , τόδʼ οἷον εἶπας · — αἴσθησις γὰρ οὖν",
+      "translation": "Alas , the things you have said ! For perception of suffering , even another ’ s , gnaws at mortals . Speak , so that when I know , I may tell your brother the story , unpleasant , but necessary to hear . Pity is not present at all in clownishness ,"
+    },
+    {
+      "id": "295",
+      "label": "Section 295",
+      "chapter": null,
+      "original": "σοφοῖσι δʼ ἀνδρῶν · καὶ γὰρ οὐδʼ ἀζήμιον",
+      "translation": "but in wise men . And indeed it is not without mischief for the wise to have overly profound thoughts ."
+    },
+    {
+      "id": "297",
+      "label": "Section 297",
+      "chapter": null,
+      "original": "κἀγὼ τὸν αὐτὸν τῷδʼ ἔρον ψυχῆς ἔχω .",
+      "translation": "And I have the same desire in my heart as this man . Being far from the town , I do not know the city ’ s scandals , and now I want to learn them ."
+    },
+    {
+      "id": "300",
+      "label": "Section 300",
+      "chapter": null,
+      "original": "λέγοιμʼ ἄν , εἰ χρή — χρὴ δὲ πρὸς φίλον λέγειν —",
+      "translation": "I will speak , if I must — and one must speak to a friend — about my own and my father ’ s heavy misfortunes . Since you are setting the tale in motion , I entreat you , stranger , tell Orestes of our sorrows , mine and his . First of all , in what clothes I live like a beast in a stall ,"
+    },
+    {
+      "id": "305",
+      "label": "Section 305",
+      "chapter": null,
+      "original": "πίνῳ θʼ ὅσῳ βέβριθʼ , ὑπὸ στέγαισί τε",
+      "translation": "with what filth I am weighted down , under what roof I dwell , having lived in a royal home ; I myself working hard on my clothes at the loom , or else I shall go barely clad and do without ; always carrying water from the springs myself ,"
+    },
+    {
+      "id": "310",
+      "label": "Section 310",
+      "chapter": null,
+      "original": "ἀνέορτος ἱερῶν καὶ χορῶν τητωμένη .",
+      "translation": "with no share in the festival rites , no part in the dance . I turn away from married women , as a virgin ; and I turn away from Castor , who sought me in marriage before he joined the gods , for I was his relative . But my mother , in the spoils of Troy ,"
+    },
+    {
+      "id": "315",
+      "label": "Section 315",
+      "chapter": null,
+      "original": "θρόνῳ κάθηται , πρὸς δʼ ἕδραισιν Ἀσίδες",
+      "translation": "is seated on her throne , and at her chair stand slaves from Asia , my father ’ s plunder , fastening their Trojan robes with golden brooches . And still my father ’ s blood has rotted black on the wall , while the one who killed him"
+    },
+    {
+      "id": "320",
+      "label": "Section 320",
+      "chapter": null,
+      "original": "ἐς ταὐτὰ βαίνων ἅρματʼ ἐκφοιτᾷ πατρί ,",
+      "translation": "mounts the same chariot and goes forth ; and is proud to hold in his blood-stained hands the scepter with which my father used to command the Hellenes . Agamemnon ’ s grave , dishonoured , has not yet ever received any libations , or branch of myrtle ,"
+    },
+    {
+      "id": "325",
+      "label": "Section 325",
+      "chapter": null,
+      "original": "ἔλαβε , πυρὰ δὲ χέρσος ἀγλαϊσμάτων .",
+      "translation": "but his altar is barren of ornament . That famous one , my mother ’ s husband , leaps on the grave , they say , when soaked in drink , and pelts my father ’ s marble monument with stones , and dares to say this to us :"
+    },
+    {
+      "id": "330",
+      "label": "Section 330",
+      "chapter": null,
+      "original": "ποῦ παῖς Ὀρέστης ; ἆρά σοι τύμβῳ καλῶς",
+      "translation": "Where is your son Orestes ? Is he here to defend the tomb for you nobly ? Orestes is insulted in this way while absent . But , stranger , I beg you , report these things . There are many calling him to come — I am their interpreter — these hands , this tongue , my broken heart ,"
+    },
+    {
+      "id": "335",
+      "label": "Section 335",
+      "chapter": null,
+      "original": "κάρα τʼ ἐμὸν ξυρῆκες , ὅ τʼ ἐκεῖνον τεκών .",
+      "translation": "my shorn head , and his own father . For it is shameful , if his father exterminated the Trojans but Orestes is unable to kill a man , one against one , being young and born from a more noble father ."
+    },
+    {
+      "id": "339",
+      "label": "Section 339",
+      "chapter": null,
+      "original": "καὶ μὴν δέδορκα τόνδε , σὸν λέγω πόσιν ,",
+      "translation": "And look , I see him , I mean your husband ,"
+    },
+    {
+      "id": "340",
+      "label": "Section 340",
+      "chapter": null,
+      "original": "λήξαντα μόχθου πρὸς δόμους ὡρμημένον .",
+      "translation": "on his way home , his day ’ s work done ."
+    },
+    {
+      "id": "341",
+      "label": "Section 341",
+      "chapter": null,
+      "original": "ἔα · τίνας τούσδʼ ἐν πύλαις ὁρῶ ξένους ;",
+      "translation": "Oh ! who are these strangers I see at my door ? Why have they come here to my rustic gate ? Do they want something from me ? For it is shameful for a woman to be standing with young men ."
+    },
+    {
+      "id": "345",
+      "label": "Section 345",
+      "chapter": null,
+      "original": "ὦ φίλτατʼ , εἰς ὕποπτα μὴ μόλῃς ἐμοί ·",
+      "translation": "Dearest , do not be suspicious of me ; you shall hear the truth ; for these strangers have come to me as messengers of news from Orestes . But , strangers , pardon him for what he said ."
+    },
+    {
+      "id": "349",
+      "label": "Section 349",
+      "chapter": null,
+      "original": "τί φασίν ; ἁνὴρ ἔστι καὶ λεύσσει φάος ;",
+      "translation": "What do they say ? The man is alive and sees the light of day ?"
+    },
+    {
+      "id": "350",
+      "label": "Section 350",
+      "chapter": null,
+      "original": "ἔστιν λόγῳ γοῦν , φασὶ δʼ οὐκ ἄπιστʼ ἐμοί .",
+      "translation": "He is , at least in their report , and I believe them ."
+    },
+    {
+      "id": "351",
+      "label": "Section 351",
+      "chapter": null,
+      "original": "ἦ καί τι πατρὸς σῶν τε μέμνηται κακῶν ;",
+      "translation": "Surely then he remembers something of your father ’ s wrongs and your own ?"
+    },
+    {
+      "id": "352",
+      "label": "Section 352",
+      "chapter": null,
+      "original": "ἐν ἐλπίσιν ταῦτʼ · ἀσθενὴς φεύγων ἀνήρ .",
+      "translation": "These are things to hope for ; a man in exile is powerless ."
+    },
+    {
+      "id": "353",
+      "label": "Section 353",
+      "chapter": null,
+      "original": "ἦλθον δʼ Ὀρέστου τίνʼ ἀγορεύοντες λόγον ;",
+      "translation": "What message from Orestes have they come to declare ?"
+    },
+    {
+      "id": "354",
+      "label": "Section 354",
+      "chapter": null,
+      "original": "σκοποὺς ἔπεμψε τούσδε τῶν ἐμῶν κακῶν .",
+      "translation": "He sent them as spies of my wrongs ."
+    },
+    {
+      "id": "355",
+      "label": "Section 355",
+      "chapter": null,
+      "original": "οὐκοῦν τὰ μὲν λεύσσουσι , τὰ δὲ σύ που λέγεις .",
+      "translation": "Then they see a part of it , and perhaps you are telling them the rest ."
+    },
+    {
+      "id": "356",
+      "label": "Section 356",
+      "chapter": null,
+      "original": "ἴσασιν , οὐδὲν τῶνδʼ ἔχουσιν ἐνδεές .",
+      "translation": "They know ; they have all these things in abundance ."
+    },
+    {
+      "id": "357",
+      "label": "Section 357",
+      "chapter": null,
+      "original": "οὐκοῦν πάλαι χρῆν τοῖσδʼ ἀνεπτύχθαι πύλας ;",
+      "translation": "Then shouldn ’ t you have opened the doors to them long before ? Go into the house ; for in return for your good tidings , you shall find as much hospitality as my house holds in store ."
+    },
+    {
+      "id": "360",
+      "label": "Section 360",
+      "chapter": null,
+      "original": "αἴρεσθʼ , ὀπαδοί , τῶνδʼ ἔσω τεύχη δόμων .",
+      "translation": "Servants , take their baggage within the house . Do not contradict me , since you are friends coming from a friend ; for , even if I am poor , I will not display manners that are ill-bred ."
+    },
+    {
+      "id": "364",
+      "label": "Section 364",
+      "chapter": null,
+      "original": "πρὸς θεῶν , ὅδʼ ἁνὴρ ὃς συνεκκλέπτει γάμους",
+      "translation": "By the gods ! Is this the man who makes a fraud of your marriage ,"
+    },
+    {
+      "id": "365",
+      "label": "Section 365",
+      "chapter": null,
+      "original": "τοὺς σούς , Ὀρέστην οὐ καταισχύνειν θέλων ;",
+      "translation": "because he does not want to shame Orestes ?"
+    },
+    {
+      "id": "366",
+      "label": "Section 366",
+      "chapter": null,
+      "original": "οὗτος κέκληται πόσις ἐμὸς τῆς ἀθλίας .",
+      "translation": "This is the one who is called my husband , unhappy as I am ."
+    },
+    {
+      "id": "367",
+      "label": "Section 367",
+      "chapter": null,
+      "original": "φεῦ ·",
+      "translation": "Ah ! There is no exact way to test a man ’ s worth ; for human nature has confusion in it . For instance , I have seen before now the son of a noble father"
+    },
+    {
+      "id": "370",
+      "label": "Section 370",
+      "chapter": null,
+      "original": "τὸ μηδὲν ὄντα , χρηστά τʼ ἐκ κακῶν τέκνα ,",
+      "translation": "worth nothing , and good children from evil parents ; famine in a rich man ’ s spirit , and a mighty soul in a poor man ’ s body . How then does one rightly distinguish and judge these things ? By wealth ? A sorry test to use ."
+    },
+    {
+      "id": "375",
+      "label": "Section 375",
+      "chapter": null,
+      "original": "ἢ τοῖς ἔχουσι μηδέν ; ἀλλʼ ἔχει νόσον",
+      "translation": "Or by those who have nothing ? But poverty has a disease , it teaches a man to be wicked in his need . But shall I turn to warfare ? Who , facing the enemy ’ s spear , could be a witness as to who is brave ? It is best to leave these matters alone , at random ."
+    },
+    {
+      "id": "380",
+      "label": "Section 380",
+      "chapter": null,
+      "original": "οὗτος γὰρ ἁνὴρ οὔτʼ ἐν Ἀργείοις μέγας",
+      "translation": "For this man , neither important in Argos , nor puffed up by the good reputation of his family , but one of the many , has been found to be the best . Do not be foolish , you who wander about full of empty notions , but judge those noble among men by their company"
+    },
+    {
+      "id": "385",
+      "label": "Section 385",
+      "chapter": null,
+      "original": "κρινεῖτε καὶ τοῖς ἤθεσιν τοὺς εὐγενεῖς ;",
+      "translation": "and by their habits . For such men rule well both states and homes ; while those bodies that are empty of mind are only ornaments in the market-place . For the strong arm does not await the battle any better than the weak ;"
+    },
+    {
+      "id": "390",
+      "label": "Section 390",
+      "chapter": null,
+      "original": "ἐν τῇ φύσει δὲ τοῦτο κἀν εὐψυχίᾳ .",
+      "translation": "this depends on natural courage . But , since Agamemnon ’ s son , both present and not present , for whose sake we have come , is worthy of it , let us accept a lodging in this house . Calling to his servants . We must go within this house , slaves . May a man poor"
+    },
+    {
+      "id": "395",
+      "label": "Section 395",
+      "chapter": null,
+      "original": "εἴη πρόθυμος πλουσίου μᾶλλον ξένος .",
+      "translation": "but eager be a better host for me than a rich man ! And so I am content with the reception into this man ’ s house , though I would have wanted your brother , in good fortune , to lead me to his fortunate home . Perhaps he may come ; the oracles of Loxias are"
+    },
+    {
+      "id": "400",
+      "label": "Section 400",
+      "chapter": null,
+      "original": "χρησμοί , βροτῶν δὲ μαντικὴν χαίρειν ἐῶ .",
+      "translation": "sure , but human prophecy I dismiss . Exeunt Orestes and Pylades ."
+    },
+    {
+      "id": "401",
+      "label": "Section 401",
+      "chapter": null,
+      "original": "νῦν ἢ πάροιθεν μᾶλλον , Ἠλέκτρα , χαρᾷ",
+      "translation": "Now more than before , Electra , I feel the warmth of joy at my heart ; for perhaps good fortune , advancing with difficulty , might come to a good resting-place ."
+    },
+    {
+      "id": "404",
+      "label": "Section 404",
+      "chapter": null,
+      "original": "ὦ τλῆμον , εἰδὼς δωμάτων χρείαν σέθεν",
+      "translation": "O reckless man , why , knowing the poverty of your house ,"
+    },
+    {
+      "id": "405",
+      "label": "Section 405",
+      "chapter": null,
+      "original": "τί τούσδʼ ἐδέξω μείζονας σαυτοῦ ξένους ;",
+      "translation": "did you welcome these strangers , greater than you ?"
+    },
+    {
+      "id": "406",
+      "label": "Section 406",
+      "chapter": null,
+      "original": "τί δʼ ; εἴπερ εἰσὶν ὡς δοκοῦσιν εὐγενεῖς ,",
+      "translation": "What ? If they are really as noble as they seem , won ’ t they be equally content among great and small ?"
+    },
+    {
+      "id": "408",
+      "label": "Section 408",
+      "chapter": null,
+      "original": "ἐπεί νυν ἐξήμαρτες ἐν σμικροῖσιν ὤν ,",
+      "translation": "Since you , one of the small , have now made this error , go to my father ’ s dear old servant ,"
+    },
+    {
+      "id": "410",
+      "label": "Section 410",
+      "chapter": null,
+      "original": "ὃς ἀμφὶ ποταμὸν Τάναον Ἀργείας ὅρους",
+      "translation": "who tends his flocks , an outcast from the city , by the river Tanaus which cuts a boundary between Argive land and the land of Sparta ; bid him come , since these men have arrived at my house , and provide something for the guests ’ meal ."
+    },
+    {
+      "id": "415",
+      "label": "Section 415",
+      "chapter": null,
+      "original": "ἡσθήσεταί τοι καὶ προσεύξεται θεοῖς ,",
+      "translation": "He will be glad , and will offer prayers to the gods , when he hears that the child , whom he once saved , is alive . I cannot get anything from my mother or from my father ’ s house ; for we would bring bitter news , if she , the hard-hearted , were to learn that Orestes is still alive ."
+    },
+    {
+      "id": "420",
+      "label": "Section 420",
+      "chapter": null,
+      "original": "ἀλλʼ , εἰ δοκεῖ σοι , τούσδʼ ἀπαγγελῶ λόγους",
+      "translation": "I will take this message to the old man , if you wish ; but go inside the house at once and make things ready there . Surely a woman , if she wants to , can find many additions to a meal . Really there is still enough in the house"
+    },
+    {
+      "id": "425",
+      "label": "Section 425",
+      "chapter": null,
+      "original": "ὥσθʼ ἕν γʼ ἐπʼ ἦμαρ τούσδε πληρῶσαι βορᾶς .",
+      "translation": "to cram them with food for one day at least . It is in such cases , whenever I fail in my intentions , that I see how wealth has great power , to give to strangers , and to expend in curing the body when it falls sick ; but money for our daily food"
+    },
+    {
+      "id": "430",
+      "label": "Section 430",
+      "chapter": null,
+      "original": "ἐς σμικρὸν ἥκει · πᾶς γὰρ ἐμπλησθεὶς ἀνὴρ",
+      "translation": "comes to little ; for every man when full , rich or poor , gets an equal amount . Exeunt Electra and Peasant ."
+    },
+    {
+      "id": "1.432",
+      "label": "Section 1.432",
+      "chapter": null,
+      "original": "κλειναὶ νᾶες , αἵ ποτʼ ἔβατε Τροίαν",
+      "translation": "O famous ships , you that once with countless oars went to Troy , conducting dances with the Nereids ,"
+    },
+    {
+      "id": "1.435",
+      "label": "Section 1.435",
+      "chapter": null,
+      "original": "ἵνʼ ὁ φίλαυλος ἔπαλλε δελ-",
+      "translation": "where the music-loving dolphin leapt and rolled at your dark-blue prows , bringing Achilles , the son of Thetis , light in the leap of his foot ,"
+    },
+    {
+      "id": "1.440",
+      "label": "Section 1.440",
+      "chapter": null,
+      "original": "σὺν Ἀγαμέμνονι Τρωίας",
+      "translation": "with Agamemnon to the banks of Trojan Simois ."
+    },
+    {
+      "id": "1.442",
+      "label": "Section 1.442",
+      "chapter": null,
+      "original": "Νηρῇδες δʼ Εὐβοῖδας ἄκρας λιποῦσαι",
+      "translation": "The Nereids , leaving Euboea ’ s headlands , brought from Hephaestus ’ anvil his shield-work of golden armor ,"
+    },
+    {
+      "id": "1.445",
+      "label": "Section 1.445",
+      "chapter": null,
+      "original": "ἀνά τε Πήλιον ἀνά τε πρυ-",
+      "translation": "up to Pelion and the glens at the foot of holy Ossa , the Nymphs ’ watch-tower . . . where his father , the horseman , was training the son of Thetis as a light for Hellas ,"
+    },
+    {
+      "id": "1.450",
+      "label": "Section 1.450",
+      "chapter": null,
+      "original": "Θέτιδος εἰνάλιον γόνον",
+      "translation": "sea-born , swift-footed for the sons of Atreus ."
+    },
+    {
+      "id": "2.452",
+      "label": "Section 2.452",
+      "chapter": null,
+      "original": "Ἰλιόθεν δʼ ἔκλυόν τινος ἐν λιμέσιν",
+      "translation": "I heard , from someone who had arrived at the harbor of Nauplia from Ilium , that"
+    },
+    {
+      "id": "2.455",
+      "label": "Section 2.455",
+      "chapter": null,
+      "original": "κλεινᾶς ἀσπίδος ἐν κύκλῳ",
+      "translation": "on the circle of your famous shield , O son of Thetis , were wrought these signs , a terror to the Phrygians : on the surrounding base of the shield ’ s rim , Perseus the throat-cutter , over"
+    },
+    {
+      "id": "2.460",
+      "label": "Section 2.460",
+      "chapter": null,
+      "original": "ἁλὸς ποτανοῖσι πεδί-",
+      "translation": "the sea with winged sandals , was holding the Gorgon ’ s body , with Hermes , Zeus ’ messenger , the rustic son of Maia ."
+    }
+  ],
+  "prevChunkSlug": "electra-wuse-2",
+  "nextChunkSlug": "electra-wuse-4"
+}

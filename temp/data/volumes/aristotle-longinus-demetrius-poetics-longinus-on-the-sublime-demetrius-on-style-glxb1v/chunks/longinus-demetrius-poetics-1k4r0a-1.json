@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "aristotle-longinus-demetrius-poetics-longinus-on-the-sublime-demetrius-on-style-glxb1v",
+  "volumeTitle": "Longinus, Demetrius, Poetics. Longinus: On the Sublime. Demetrius: On Style",
+  "authorDisplay": "Aristotle",
+  "authors": [
+    "Aristotle"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "longinus-demetrius-poetics-1k4r0a-1",
+  "label": "Longinus, Demetrius, Poetics (Section 1.1 - Section 13.2)",
+  "partId": "longinus-demetrius-poetics-1k4r0a",
+  "partTitle": "Longinus, Demetrius, Poetics",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Περὶ ποιητικῆς",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg034.digicorpus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Poetics",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg034.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1",
+      "label": "Section 1.1",
+      "chapter": null,
+      "original": "Περὶ ποιητικῆς αὐτῆς τε καὶ τῶν εἰδῶν αὐτῆς , ἥν τινα δύναμιν ἕκαστον ἔχει , καὶ πῶς δεῖ συνίστασθαι τοὺς μύθους , εἰ μέλλει καλῶς ἕξειν ἡ ποίησις , ἔτι δὲ ἐκ πόσων καὶ ποίων ἐστὶ μορίων , ὁμοίως δὲ καὶ περὶ τῶν ἄλλων ὅσα τῆς αὐτῆς ἐστὶ μεθόδου , λέγωμεν , ἀρξάμενοι κατὰ φύσιν πρῶτον ἀπὸ τῶν πρώτων .",
+      "translation": "1447a 8 Let [*] us here deal with Poetry , its essence and its several species , with the characteristic function of each species and the way in which plots must be constructed if the poem is to be a success ; and also with the number and character of the constituent parts of a poem , and similarly with all other matters proper to this same inquiry ; and let us , as nature directs , begin first with first principles ."
+    },
+    {
+      "id": "1.2",
+      "label": "Section 1.2",
+      "chapter": null,
+      "original": "Ἐποποιία δὴ καὶ ἡ τῆς τραγῳδίας ποίησις , ἔτι δὲ κωμῳδία καὶ ἡ διθυραμβοποιητικὴ καὶ τῆς αὐλητικῆς ἡ πλείστη καὶ κιθαριστικῆς , πᾶσαι τυγχάνουσιν οὖσαι μιμήσεις τὸ σύνολον .",
+      "translation": "Epic poetry , then , and the poetry of tragic drama , and , moreover , comedy and dithyrambic poetry , and most flute-playing and harp-playing , these , speaking generally , may all be said to be representations of life . [*]"
+    },
+    {
+      "id": "1.3",
+      "label": "Section 1.3",
+      "chapter": null,
+      "original": "Διαφέρουσι δὲ ἀλλήλων τρισίν · ἢ γὰρ τῷ γένει ἑτέροις μιμεῖσθαι , ἢ τῷ ἕτερα , ἢ τῷ ἑτέρως καὶ μὴ τὸν αὐτὸν τρόπον .",
+      "translation": "But they differ one from another in three ways : either in using means generically different [*] or in representing different objects or in representing objects not in the same way but in a different manner ."
+    },
+    {
+      "id": "1.4",
+      "label": "Section 1.4",
+      "chapter": null,
+      "original": "Ὥσπερ γὰρ καὶ χρώμασι καὶ σχήμασι πολλὰ μιμοῦνταί τινες ἀπεικάζοντες , οἱ μὲν διὰ τέχνης οἱ δὲ διὰ συνηθείας , ἕτεροι δὲ διὰ τῆς φωνῆς , οὕτω κἀν ταῖς εἰρημέναις τέχναις , ἅπασαι μὲν ποιοῦνται τὴν μίμησιν ἐν ῥυθμῷ καὶ λόγῳ καὶ ἁρμονίᾳ , τούτοις δ ἢ χωρὶς ἢ μεμιγμένοις ,",
+      "translation": "For just as by the use both of color and form people represent many objects , making likenesses of them — 20 some having a knowledge of art and some working empirically — and just as others use the human voice ; so is it also in the arts which we have mentioned , they all make their representations in rhythm and language and tune , using these means either separately or in combination ."
+    },
+    {
+      "id": "1.5",
+      "label": "Section 1.5",
+      "chapter": null,
+      "original": "οἷον ἁρμονίᾳ μὲν καὶ ῥυθμῷ χρώμεναι μόνον ἥ τε αὐλητικὴ καὶ ἡ κιθαριστική , κἂν εἴ τινες ἕτεραι τυγχάνωσιν οὖσαι τοιαῦται τὴν δύναμιν , οἷον ἡ τῶν συρίγγων .",
+      "translation": "For tune and rhythm alone are employed in flute-playing and harp-playing and in any other arts which have a similar function , as , for example , pipe-playing ."
+    },
+    {
+      "id": "2.1",
+      "label": "Section 2.1",
+      "chapter": null,
+      "original": "Ἐπεὶ δὲ μιμοῦνται οἱ μιμούμενοι πράττοντας , ἀνάγκη δὲ τούτους ἢ σπουδαίους ἢ φαύλους εἶναι ( τὰ γὰρ ἤθη σχεδὸν ἀεὶ τούτοις ἀκολουθεῖ μόνοις · κακίᾳ γὰρ καὶ ἀρετῇ τὰ ἤθη διαφέρουσι πάντες ), ἤτοι βελτίονας ἢ καθ ἡμᾶς ἢ χείρονας ἢ καὶ τοιούτους , ὥσπερ οἱ γραφεῖς ·",
+      "translation": "1448a 1 Since living persons [*] are the objects of representation , these must necessarily be either good men or inferior — thus only are characters normally distinguished , since ethical differences depend upon vice and virtue — that is to say either better than ourselves or worse or much what we are . It is the same with painters ."
+    },
+    {
+      "id": "2.2",
+      "label": "Section 2.2",
+      "chapter": null,
+      "original": "Πολύγνωτος μὲν γὰρ κρείττους , Παύσων δὲ χείρους , Διονύσιος δὲ ὁμοίους εἴκαζεν .",
+      "translation": "Polygnotus depicted men as better than they are and Pauson worse , while Dionysius made likenesses . [*]"
+    },
+    {
+      "id": "2.3",
+      "label": "Section 2.3",
+      "chapter": null,
+      "original": "Δῆλον δὲ ὅτι καὶ τῶν λεχθεισῶν ἑκάστη μιμήσεων ἕξει ταύτας τὰς διαφοράς , καὶ ἔσται ἑτέρα τῷ ἕτερα μιμεῖσθαι τοῦτον τὸν τρόπον .",
+      "translation": "Clearly each of the above mentioned arts will admit of these distinctions , and they will differ in representing objects which differ from each other in the way here described ."
+    },
+    {
+      "id": "2.4",
+      "label": "Section 2.4",
+      "chapter": null,
+      "original": "Καὶ γὰρ ἐν ὀρχήσει καὶ αὐλήσει καὶ 240 κιθαρίσει ἔστι γενέσθαι ταύτας τὰς ἀνομοιότητας ,",
+      "translation": "In painting too , and flute-playing and harp-playing , these diversities may certainly be found , and it is the same in prose and in unaccompanied verse ."
+    },
+    {
+      "id": "2.5",
+      "label": "Section 2.5",
+      "chapter": null,
+      "original": "καὶ περὶ τοὺς λόγους δὲ καὶ τὴν ψιλομετρίαν , οἷον Ὅμηρος μὲν βελτίους , Κλεοφῶν δὲ ὁμοίους , Ἡγήμων δὲ ὁ Θάσιος ὁ τὰς παρῳδίας ποιήσας πρῶτος καὶ Νικοχάρης ὁ τὴν Δηλιάδα χείρους .",
+      "translation": "For instance Homer ’ s people are better , Cleophon ’ s are like , while in Hegemon of Thasos , the first writer of parodies , and in Nicochares , the author of the Poltrooniad , they are worse . [*]"
+    },
+    {
+      "id": "3.1",
+      "label": "Section 3.1",
+      "chapter": null,
+      "original": "Ἔτι δὲ τούτων τρίτη διαφορὰ τὸ ὡς ἕκαστα τούτων μιμήσαιτο ἄν τις .",
+      "translation": "A third difference in these arts is the manner in which one may represent each of these objects ."
+    },
+    {
+      "id": "3.2",
+      "label": "Section 3.2",
+      "chapter": null,
+      "original": "Καὶ γὰρ ἐν τοῖς αὐτοῖς καὶ τὰ αὐτὰ μιμεῖσθαι ἔστιν ὁτὲ μὲν ἀπαγγέλλοντα ἢ ἕτερόν τι γιγνόμενον , ὥσπερ Ὅμηρος ποιεῖ , ἢ ὡς τὸν αὐτὸν καὶ μὴ μεταβάλλοντα , ἢ πάντας ὡς πράττοντας καὶ ἐνεργοῦντας τοὺς μιμουμένους .",
+      "translation": "20 For in representing the same objects by the same means it is possible to proceed either partly by narrative and partly by assuming a character other than your own — this is Homer ’ s method — or by remaining yourself without any such change , or else to represent the characters as carrying out the whole action themselves ."
+    },
+    {
+      "id": "3.3",
+      "label": "Section 3.3",
+      "chapter": null,
+      "original": "Ἔν τρισὶ δὴ ταύταις διαφοραῖς ἡ μίμησίς ἐστιν , ὡς εἴπομεν κατ ἀρχάς , ἐν οἶς τε καὶ ἃ καὶ ὥς .",
+      "translation": "These , as we said above , are the three differences which form the several species of the art of representation , the means , the objects , and the manner ."
+    },
+    {
+      "id": "3.4",
+      "label": "Section 3.4",
+      "chapter": null,
+      "original": "Ὥστε τῇ μὲν ὁ αὐτὸς ἂν εἴη μιμητὴς Ὁμήρῳ Σοφοκλῆς , μιμοῦνται γὰρ ἄμφω σπουδαίους , τῇ δὲ Ἀριστοφάνει · πράττοντας γὰρ μιμοῦνται καὶ δρῶντας ἄμφω . Ὅθεν καὶ δράματα καλεῖσθαί τινες αὐτά φασιν , ὅτι μιμοῦνται δρῶντας .",
+      "translation": "It follows that in one respect Sophocles would be the same kind of artist as Homer , for both represent good men , and in another respect he would resemble Aristophanes , for they both represent men in action and doing things . And that according to some is the reason why they are called dramas , because they present people as doing [*] things ."
+    },
+    {
+      "id": "3.5",
+      "label": "Section 3.5",
+      "chapter": null,
+      "original": "Διὸ καὶ ἀντιποιοῦνται τῆς τε τραγῳδίας καὶ τῆς κωμῳδίας οἱ Δωριεῖς , τῆς μὲν κωμῳδίας οἱ Μεγαρεῖς , οἵ τε ἐνταῦθα ὡς ἐπὶ τῆς παρ αὐτοῖς δημοκρατίας γενομένης , καὶ οἱ ἐκ Σικελίας ( ἐκεῖθεν γὰρ ἦν Ἐπίχαρμος ὁ ποιητής , πολλῷ πρότερος ὢν Χωνίδου καὶ Μάγνητος ), καὶ τῆς τραγῳδίας ἔνιοι τῶν ἐν Πελοποννήσῳ , ποιούμενοι τὰ ὀνόματα σημεῖον .",
+      "translation": "And for this reason the Dorians claim as their own both tragedy and comedy — comedy is claimed both by the Megarians here in Greece , who say that it originated in the days of their democracy , and by the Megarians in Sicily , [*] for it was from there the poet Epicharmus [*] came , who was much earlier than Chionides and Magnes ; and tragedy some of the Peloponnesians claim . Their evidence is the two names ."
+    },
+    {
+      "id": "4.1",
+      "label": "Section 4.1",
+      "chapter": null,
+      "original": "Ἐοίκασι δὲ γεννῆσαι μὲν ὅλως τὴν ποιητικὴν αἰτίαι δύο τινές , καὶ αὗται φυσικαί .",
+      "translation": "Speaking generally , poetry seems to owe its origin to two particular causes , both natural ."
+    },
+    {
+      "id": "4.2",
+      "label": "Section 4.2",
+      "chapter": null,
+      "original": "Τό τε γὰρ μιμεῖσθαι σύμφυτον τοῖς ἀνθρώποις ἐκ παίδων ἐστί , καὶ τούτῳ διαφέρουσι τῶν ἄλλων ζῴων ὅτι μιμητικώτατόν ἐστι καὶ τὰς μαθήσεις ποιεῖται διὰ μιμήσεως τὰς πρώτας , καὶ τὸ χαίρειν τοῖς μιμήμασι πάντας .",
+      "translation": "From childhood men have an instinct for representation , and in this respect , differs from the other animals that he is far more imitative and learns his first lessons by representing things . And then there is the enjoyment people always get from representations ."
+    },
+    {
+      "id": "4.3",
+      "label": "Section 4.3",
+      "chapter": null,
+      "original": "Σημεῖον δὲ τούτου τὸ συμβαῖνον ἐπὶ τῶν ἔργων · ἃ γὰρ αὐτὰ λυπηρῶς ὁρῶμεν , τούτων τὰς εἰκόνας τὰς μάλιστα ἠκριβωμένας χαίρομεν θεωροῦντες , οἷον θηρίων τε μορφὰς τῶν ἀτιμοτάτων καὶ νεκρῶν .",
+      "translation": "What happens in actual experience proves this , for we enjoy looking at accurate likenesses of things which are themselves painful to see , obscene beasts , for instance , and corpses ."
+    },
+    {
+      "id": "4.4",
+      "label": "Section 4.4",
+      "chapter": null,
+      "original": "Αἴτιον δὲ καὶ τούτου , ὅτι μανθάνειν οὐ μόνον τοῖς φιλοσόφοις ἥδιστον ἀλλὰ καὶ τοῖς ἄλλοις ὁμοίως · ἀλλ ἐπὶ βραχὺ κοινωνοῦσιν αὐτοῦ .",
+      "translation": "The reason is this : Learning things gives great pleasure not only to philosophers but also in the same way to all other men , though they share this pleasure only to a small degree ."
+    },
+    {
+      "id": "4.5",
+      "label": "Section 4.5",
+      "chapter": null,
+      "original": "Διὰ γὰρ τοῦτο χαίρουσι τὰς εἰκόνας ὁρῶντες , ὅτι συμβαίνει θεωροῦντας μανθάνειν καὶ συλλογίζεσθαι τί ἕκαστον , οἷον ὅτι οὗτος ἐκεῖνος , ἐπεὶ ἐὰν μὴ τύχῃ προεωρακώς ,",
+      "translation": "The reason why we enjoy seeing likenesses is that , as we look , we learn and infer what each is , for instance , that is so and so ."
+    },
+    {
+      "id": "5.1",
+      "label": "Section 5.1",
+      "chapter": null,
+      "original": "Ἡ δὲ κωμῳδία ἐστίν , ὥσπερ εἴπομεν , μίμησις φαυλοτέρων μέν , οὐ μέντοι κατὰ πᾶσαν κακίαν , ἀλλὰ τοῦ αἰσχροῦ ἐστὶ τὸ γελοῖον μόριον .",
+      "translation": "Comedy , as we have said , is a representation of inferior people , not indeed in the full sense of the word bad , but the laughable is a species of the base or ugly . [*]"
+    },
+    {
+      "id": "5.2",
+      "label": "Section 5.2",
+      "chapter": null,
+      "original": "Τὸ γὰρ γελοῖόν ἐστιν ἁμάρτημά τι καὶ αἶσχος ἀνώδυνον καὶ οὐ φθαρτικόν , οἷον εὐθὺς τὸ γελοῖον πρόσωπον αἰσχρόν τι καὶ διεστραμμένον ἄνευ ὀδύνης .",
+      "translation": "It consists in some blunder or ugliness that does not cause pain or disaster , an obvious example being the comic mask which is ugly and distorted but not painful ."
+    },
+    {
+      "id": "5.3",
+      "label": "Section 5.3",
+      "chapter": null,
+      "original": "Αἱ μὲν οὖν τῆς τραγῳδίας μεταβάσεις , καὶ δι ὧν ἐγένοντο , οὐ λελήθασιν , ἡ δὲ κωμῳδία διὰ τὸ μὴ σπουδάζεσθαι ἐξ ἀρχῆς ἔλαθεν · καὶ γὰρ χορὸν κωμῳδῶν ὀψέ ποτε ὁ ἄρχων ἔδωκεν , ἀλλ ἐθελονταὶ ἦσαν .",
+      "translation": "The various stages of tragedy and the originators of each are well known , but comedy remains obscure because it was not at first treated seriously . 1449b 1 Indeed it is only quite late in its history [*] that the archon granted a chorus for a comic poet ; before that they were volunteers . [*]"
+    },
+    {
+      "id": "5.4",
+      "label": "Section 5.4",
+      "chapter": null,
+      "original": "Ἤδη δὲ σχήματά τινα αὐτῆς ἐχούσης οἱ λεγόμενοι αὐτῆς ποιηταὶ μνημονεύονται . Τίς δὲ πρόσωπα ἀπέδωκεν ἢ προλόγους ἢ πλήθη ὑποκριτῶν καὶ ὅσα τοιαῦτα , ἠγνόηται .",
+      "translation": "Comedy had already taken certain forms before there is any mention of those who are called its poets . Who introduced masks or prologues , the number of actors , and so on , is not known ."
+    },
+    {
+      "id": "5.5",
+      "label": "Section 5.5",
+      "chapter": null,
+      "original": "Τὸ δὲ μύθους ποιεῖν Ἐπίχαρμος καὶ Φόρμις .",
+      "translation": "Plot making [ Epicharmus and Phormis ] [*] originally came from Sicily ,"
+    },
+    {
+      "id": "6.1",
+      "label": "Section 6.1",
+      "chapter": null,
+      "original": "Περὶ μὲν οὖν τῆς ἐν ἑξαμέτροις μιμητικῆς καὶ περὶ κωμῳδίας ὕστερον ἐροῦμεν , περὶ δὲ τραγῳδίας λέγωμεν , ἀπολαβόντες αὐτῆς ἐκ τῶν εἰρημένων τὸν γινόμενον ὅρον τῆς οὐσίας .",
+      "translation": "20 With the representation of life in hexameter verse [*] and with comedy we will deal later . We must now treat of tragedy after first gathering up the definition of its nature which results from what we have said already ."
+    },
+    {
+      "id": "6.2",
+      "label": "Section 6.2",
+      "chapter": null,
+      "original": "Ἔστιν οὖν τραγῳδία μίμησις πράξεως σπουδαίας καὶ τελείας , μέγεθος ἐχούσης , ἡδυσμένῳ λόγῳ , χωρὶς ἑκάστου τῶν εἰδῶν ἐν τοῖς μορίοις , δρώντων καὶ οὐ δι ἀπαγγελίας , δι ἐλέου καὶ φόβου περαίνουσα τὴν τῶν τοιούτων παθημάτων κάθαρσιν .",
+      "translation": "Tragedy is , then , a representation of an action [*] that is heroic and complete and of a certain magnitude — by means of language enriched with all kinds of ornament , each used separately in the different parts of the play : it represents men in action and does not use narrative , and through pity and fear it effects relief to these and similar emotions . [*]"
+    },
+    {
+      "id": "6.3",
+      "label": "Section 6.3",
+      "chapter": null,
+      "original": "Λέγω δὲ ἡδυσμένον μὲν λόγον τὸν ἔχοντα ῥυθμὸν καὶ ἁρμονίαν καὶ μέλος ,",
+      "translation": "By language enriched I mean that which has rhythm and tune , i . e ., song ,"
+    },
+    {
+      "id": "6.4",
+      "label": "Section 6.4",
+      "chapter": null,
+      "original": "τὸ δὲ χωρὶς τοῖς εἴδεσι τὸ διὰ μέτρων ἔνια μόνον περαίνεσθαι καὶ πάλιν ἕτερα διὰ μέλους .",
+      "translation": "and by the kinds separately I mean that some effects are produced by verse alone and some again by song ."
+    },
+    {
+      "id": "6.5",
+      "label": "Section 6.5",
+      "chapter": null,
+      "original": "Ἐπεὶ δὲ πράττοντες ποιοῦνται τὴν μίμησιν , πρῶτον μὲν ἐξ ἀνάγκης ἂν εἴη τι μόριον τραγῳδίας ὁ τῆς ὄψεως κόσμος , εἶτα μελοποιία καὶ λέξις ·",
+      "translation": "Since the representation is performed by living persons , it follows at once that one essential part of a tragedy is the spectacular effect , and , besides that , song-making and diction . For these are the means of the representation ."
+    },
+    {
+      "id": "7.1",
+      "label": "Section 7.1",
+      "chapter": null,
+      "original": "Διωρισμένων δὲ τούτων , λέγωμεν μετὰ ταῦτα ποίαν τινὰ δεῖ τὴν σύστασιν εἶναι τῶν πραγμάτων , ἐπειδὴ τοῦτο καὶ πρῶτον καὶ μέγιστον τῆς τραγῳδίας ἐστίν .",
+      "translation": "After these definitions we must next discuss the proper arrangement of the incidents since this is the first and most important thing in tragedy ."
+    },
+    {
+      "id": "7.2",
+      "label": "Section 7.2",
+      "chapter": null,
+      "original": "Κεῖται δ ἡμῖν τὴν τραγῳδίαν τελείας καὶ ὅλης πράξεως εἶναι μίμησιν , ἐχούσης τι μέγεθος · ἔστι γὰρ ὅλον καὶ μηδὲν ἔχον μέγεθος .",
+      "translation": "We have laid it down that tragedy is a representation of an action that is whole and complete and of a certain magnitude , since a thing may be a whole and yet have no magnitude ."
+    },
+    {
+      "id": "7.3",
+      "label": "Section 7.3",
+      "chapter": null,
+      "original": "Ὅλον δ ἐστὶ τὸ ἔχον ἀρχὴν καὶ μέσον καὶ τελευτήν .",
+      "translation": "A whole is what has a beginning and middle and end ."
+    },
+    {
+      "id": "7.4",
+      "label": "Section 7.4",
+      "chapter": null,
+      "original": "Ἀρχὴ δ ἐστὶν ὃ αὐτὸ μὲν μὴ ἐξ ἀνάγκης μετ ἄλλο ἐστί , μετ ἐκεῖνο δ ἕτερον πέφυκεν εἶναι ἢ γίνεσθαι ·",
+      "translation": "A beginning is that which is not a necessary consequent of anything else but after which something else exists or happens as a natural result ."
+    },
+    {
+      "id": "7.5",
+      "label": "Section 7.5",
+      "chapter": null,
+      "original": "τελευτὴ δὲ τοὐναντίον ὃ αὐτὸ μετ ἄλλο πέφυκεν εἶναι , ἢ ἐξ ἀνάγκης ἢ ὡς ἐπὶ τὸ πολύ , μετὰ δὲ τοῦτο ἄλλο οὐδέν ·",
+      "translation": "An end on the contrary is that which is inevitably or , as a rule , the natural result of something else but from which nothing else follows ;"
+    },
+    {
+      "id": "8.1",
+      "label": "Section 8.1",
+      "chapter": null,
+      "original": "Μῦθος δ ἐστὶν εἷς , οὐχ ὥσπερ τινὲς οἴονται , ἐὰν περὶ ἕνα ᾖ · πολλὰ γὰρ καὶ ἄπειρα τῷ γένει συμβαίνει , ἐξ ὧν ἐνίων οὐδέν ἐστιν ἕν . Οὕτω δὲ καὶ πράξεις ἑνὸς πολλαί εἰσιν , ἐξ ὧν μία οὐδεμία γίνεται πρᾶξις .",
+      "translation": "A plot does not have unity , as some people think , simply because it deals with a single hero . Many and indeed innumerable things happen to an individual , some of which do not go to make up any unity , and similarly an individual is concerned in many actions which do not combine into a single piece of action ."
+    },
+    {
+      "id": "8.2",
+      "label": "Section 8.2",
+      "chapter": null,
+      "original": "Διὸ πάντες ἐοίκασιν ἁμαρτάνειν , ὅσοι τῶν ποιητῶν Ἡρακληΐδα καὶ θησηΐδα καὶ τὰ τοιαῦτα ποιήματα πεποιήκασιν · οἴονται γὰρ ἐπεὶ εἷς ἦν ὁ Ἡρακλῆς , ἕνα καὶ τὸν μῦθον εἶναι προσήκειν .",
+      "translation": "20 It seems therefore that all those poets are wrong who have written a Heracleid or Theseid or other such poems . [*] They think that because Heracles was a single individual the plot must for that reason have unity ."
+    },
+    {
+      "id": "8.3",
+      "label": "Section 8.3",
+      "chapter": null,
+      "original": "Ὁ δ Ὅμηρος , ὥσπερ καὶ τὰ ἄλλα διαφέρει , καὶ τοῦτ ἔοικε καλῶς ἰδεῖν , ἤτοι διὰ τέχνην ἢ διὰ φύσιν · Ὀδύσσειαν γὰρ 248 ποιῶν οὐκ ἐποίησεν ἅπαντα ὅσα αὐτῷ συνέβη , οἶον πληγῆναι μὲν ἐν τῷ Παρνασσῷ , μανῆναι δὲ προσποιήσασθαι ἐν τῷ ἀγερμῷ , ὧν οὐδὲν θατέρου γενομένου ἀναγκαῖον ἦν ἢ εἰκὸς θάτερον γενέσθαι , ἀλλὰ περὶ μίαν πρᾶξιν , οἵαν λέγομεν , τὴν Ὀδύσσειαν συνέστησεν , ὁμοίως δὲ καὶ τὴν Ἰλιάδα .",
+      "translation": "But Homer , supreme also in all other respects , was apparently well aware of this truth either by instinct or from knowledge of his art . For in writing an Odyssey he did not put in all that ever happened to Odysseus , his being wounded on Parnassus , for instance , or his feigned madness when the host was gathered ( these being events neither of which necessarily or probably led to the other ), but he constructed his Odyssey round a single action in our sense of the phrase . And the Iliad the same ."
+    },
+    {
+      "id": "8.4",
+      "label": "Section 8.4",
+      "chapter": null,
+      "original": "Χρὴ οὖν , καθάπερ καὶ ἐν ταῖς ἄλλαις μιμητικαῖς ἡ μία μίμησις ἑνός ἐστιν , οὕτω καὶ τὸν μῦθον , ἐπεὶ πράξεως μίμησίς ἐστι , μιᾶς τε εἶναι καὶ ταύτης ὅλης , καὶ τὰ μέρη συνεστάναι τῶν πραγμάτων οὕτως ὥστε μετατιθεμένου τινὸς μέρους ἢ ἀφαιρουμένου διαφέρεσθαι καὶ κινεῖσθαι τὸ ὅλον · ὃ γὰρ προσὸν ἢ μὴ προσὸν μηδὲν ποιεῖ ἐπίδηλον , οὐδὲ μόριον τοῦ ὅλου ἐστίν .",
+      "translation": "As then in the other arts of representation a single representation means a representation of a single object , so too the plot being a representation of a piece of action must represent a single piece of action and the whole of it ; and the component incidents must be so arranged that if one of them be transposed or removed , the unity of the whole is dislocated and destroyed . For if the presence or absence of a thing makes no visible difference , then it is not an integral part of the whole ."
+    },
+    {
+      "id": "9.1",
+      "label": "Section 9.1",
+      "chapter": null,
+      "original": "Φανερὸν δὲ ἐκ τῶν εἰρημένων καὶ ὅτι οὐ τὸ τὰ γενόμενα λέγειν , τοῦτο ποιητοῦ ἔργον ἐστίν , ἀλλ οἷα ἂν γένοιτο , καὶ τὰ δυνατὰ κατὰ τὸ εἰκὸς ἢ τὸ ἀναγκαῖον .",
+      "translation": "What we have said already makes it further clear that a poet ’ s object is not to tell what actually happened but what could and would happen either probably or inevitably ."
+    },
+    {
+      "id": "9.2",
+      "label": "Section 9.2",
+      "chapter": null,
+      "original": "Ὁ γὰρ ἱστορικὸς καὶ ὁ ποιητὴς οὐ τῷ ἢ ἔμμετρα λέγειν ἢ ἄμετρα διαφέρουσιν · εἴη γὰρ ἂν τὰ Ἡροδότου εἰς μέτρα τεθῆναι , καὶ οὐδὲν ἧττον ἂν εἴη ἱστορία τις μετὰ μέτρου ἢ ἄνευ μέτρων · ἀλλὰ τούτῳ διαφέρει , τῷ τὸν μὲν τὰ γενόμενα λέγειν , τὸν δὲ οἷα ἂν γένοιτο .",
+      "translation": "The difference between a historian and a poet is not that one writes in prose and the other in verse — 1451b 1 indeed the writings of Herodotus could be put into verse and yet would still be a kind of history , whether written in metre or not . The real difference is this , that one tells what happened and the other what might happen ."
+    },
+    {
+      "id": "9.3",
+      "label": "Section 9.3",
+      "chapter": null,
+      "original": "Διὸ καὶ φιλοσοφώτερον καὶ σπουδαιότερον ποίησις ἱστορίας ἐστίν · ἡ μὲν γὰρ ποίησις μᾶλλον τὰ καθόλου , ἡ δ ἱστορία τὰ καθ ἕκαστον λέγει .",
+      "translation": "For this reason poetry is something more scientific and serious than history , because poetry tends to give general truths while history gives particular facts ."
+    },
+    {
+      "id": "9.4",
+      "label": "Section 9.4",
+      "chapter": null,
+      "original": "Ἔστι δὲ καθόλου μέν , τῷ ποίῳ τὰ ποῖ ἄττα συμβαίνει λέγειν ἢ πράττειν κατὰ τὸ εἰκὸς ἢ τὸ ἀναγκαῖον , οὗ στοχάζεται ἡ ποίησις ὀνόματα ἐπιτιθεμένη · τὰ δὲ καθ ἕκαστον , τί Ἀλκιβιάδης ἔπραξεν ἢ τί ἔπαθεν .",
+      "translation": "By a general truth I mean the sort of thing that a certain type of man will do or say either probably or necessarily . That is what poetry aims at in giving names to the characters . [*] A particular fact is what Alcibiades did or what was done to him ."
+    },
+    {
+      "id": "9.5",
+      "label": "Section 9.5",
+      "chapter": null,
+      "original": "Ἐπὶ μὲν οὖν τῆς κωμῳδίας ἤδη τοῦτο δῆλον γέγονεν · συστήσαντες γὰρ τὸν μῦθον διὰ τῶν εἰκότων οὕτω τὰ τυχόντα ὀνόματα ἐπιτιθέασι , 249 καὶ οὐχ ὥσπερ οἱ ἰαμβοποιοὶ περὶ τῶν καθ ἕκαστον ποιοῦσιν .",
+      "translation": "In the case of comedy this has now become obvious , for comedians construct their plots out of probable incidents and then put in any names that occur to them . They do not , like the iambic satirists , write about individuals . [*]"
+    },
+    {
+      "id": "10.1",
+      "label": "Section 10.1",
+      "chapter": null,
+      "original": "Εἰσὶ δὲ τῶν μύθων οἱ μὲν ἁπλοῖ οἱ δὲ πεπλεγμένοι · καὶ γὰρ αἱ πράξεις , ὧν μιμήσεις οἱ μῦθοί εἰσιν , ὑπάρχουσιν εὐθὺς οὖσαι τοιαῦται .",
+      "translation": "Some plots are simple and some complex , as indeed the actions represented by the plots are obviously such ."
+    },
+    {
+      "id": "10.2",
+      "label": "Section 10.2",
+      "chapter": null,
+      "original": "Λέγω δὲ ἁπλῆν μὲν πρᾶξιν , ἧς γινομένης , ὥσπερ ὥρισται , συνεχοῦς καὶ μιᾶς ἄνευ περιπετείας ἢ ἀναγνωρισμοῦ ἡ μετάβασις γίνεται ,",
+      "translation": "By a simple action I mean one that is single and continuous in the sense of our definition above , [*] wherein the change of fortune occurs without reversal or discovery ;"
+    },
+    {
+      "id": "10.3",
+      "label": "Section 10.3",
+      "chapter": null,
+      "original": "πεπλεγμένην δέ , ἐξ ἧς μετ ἀναγνωρισμοῦ ἢ περιπετείας ἢ ἀμφοῖν ἡ μετάβασίς ἐστιν .",
+      "translation": "by a complex action I mean one wherein the change coincides with a discovery or reversal or both ."
+    },
+    {
+      "id": "10.4",
+      "label": "Section 10.4",
+      "chapter": null,
+      "original": "Ταῦτα δὲ δεῖ γίνεσθαι ἐξ αὐτῆς τῆς συστάσεως τοῦ μύθου , ὥστε ἐκ τῶν προγεγενημένων συμβαίνειν ἢ ἐξ ἀνάγκης ἢ κατὰ τὸ εἰκὸς γίνεσθαι ταῦτα · διαφέρει γὰρ πολὺ τὸ γίνεσθαι τάδε διὰ τάδε ἢ μετὰ τάδε .",
+      "translation": "These should result from the actual structure of the plot in such a way that what has already happened makes the result inevitable or probable ; 20 for there is indeed a vast difference between what happens propter hoc and post hoc ."
+    },
+    {
+      "id": "11.1",
+      "label": "Section 11.1",
+      "chapter": null,
+      "original": "Ἔστι δὲ περιπέτεια μὲν ἡ εἰς τὸ ἐναντίον τῶν πραττομένων μεταβολή , καθάπερ εἴρηται · καὶ τοῦτο δέ , ὥσπερ λέγομεν , κατὰ τὸ εἰκὸς ἢ ἀναγκαῖον ,",
+      "translation": "A reversal is a change of the situation into the opposite , as described above , [*] this change being , moreover , as we are saying , probable or inevitable —"
+    },
+    {
+      "id": "11.2",
+      "label": "Section 11.2",
+      "chapter": null,
+      "original": "ὥσπερ ἐν τῷ Οἰδίποδι ἐλθὼν ὡς εὐφρανῶν τὸν Οἰδίπουν καὶ ἀπαλλάξων τοῦ πρὸς τὴν μητέρα φόβου , δηλώσας ὃς ἦν , τοὐναντίον ἐποίησεν .",
+      "translation": "like the man in the Oedipus who came to cheer Oedipus and rid him of his anxiety about his mother by revealing his parentage and changed the whole situation . [*] In the Lynceus , too , there is the man led off to execution and"
+    },
+    {
+      "id": "11.3",
+      "label": "Section 11.3",
+      "chapter": null,
+      "original": "Καὶ ἐν τῷ Λυγκεῖ ὁ μὲν ἀγόμενος ὡς ἀποθανούμενος , ὁ δὲ Δαναὸς ἀκολουθῶν ὡς ἀποκτενῶν · τὸν μὲν συνέβη ἐκ τῶν πεπραγμένων ἀποθανεῖν , τὸν δὲ σωθῆναι .",
+      "translation": "Danaus following to kill him , and the result of what had already happened was that the latter was killed and the former escaped . [*]"
+    },
+    {
+      "id": "11.4",
+      "label": "Section 11.4",
+      "chapter": null,
+      "original": "Ἀναγνώρισις δ ἐστίν , ὥσπερ καὶ τοὔνομα σημαίνει , ἐξ ἀγνοίας εἰς γνῶσιν μεταβολὴ ἢ εἰς φιλίαν ἢ ἔχθραν τῶν πρὸς εὐτυχίαν ἢ δυστυχίαν ὡρισμένων .",
+      "translation": "A discovery , as the term itself implies , is a change from ignorance to knowledge , producing either friendship or hatred in those who are destined for good fortune or ill ."
+    },
+    {
+      "id": "11.5",
+      "label": "Section 11.5",
+      "chapter": null,
+      "original": "Καλλίστη δὲ ἀναγνώρισις , ὅταν ἅμα περιπέτειαι γίνωνται , οἷον ἔχει ἡ ἐν τῷ Οἰδίποδι .",
+      "translation": "A discovery is most effective when it coincides with reversals , such as that involved by the discovery in the Oedipus ."
+    },
+    {
+      "id": "12.1",
+      "label": "Section 12.1",
+      "chapter": null,
+      "original": "Μέρη δὲ τραγῳδίας , οἷς μὲν ὡς εἴδεσι δεῖ χρῆσθαι , πρότερον εἴπομεν · κατὰ δὲ τὸ ποσόν , καὶ εἰς ἃ διαιρεῖται κεχωρισμένα , τάδε ἐστί , πρόλογος ἐπεισόδιον ἔξοδος χορικόν ,",
+      "translation": "We have already [*] spoken of the constituent parts to be used as ingredients of tragedy . The separable members into which it is quantitatively divided are these : Prologue , Episode , Exode , Choral Song ,"
+    },
+    {
+      "id": "12.2",
+      "label": "Section 12.2",
+      "chapter": null,
+      "original": "καὶ τοῦτου τὸ μὲν πάροδος τὸ δὲ στάσιμον , κοινὰ μὲν ἁπάντων ταῦτα ,",
+      "translation": "the last being divided into Parode and Stasimon ."
+    },
+    {
+      "id": "12.3",
+      "label": "Section 12.3",
+      "chapter": null,
+      "original": "ἴδια δὲ τὰ ἀπὸ τῆς σκηνῆς καὶ κόμμοι .",
+      "translation": "These are common to all tragedies ; songs sung by actors on the stage and commoi are peculiar to certain plays ."
+    },
+    {
+      "id": "12.4",
+      "label": "Section 12.4",
+      "chapter": null,
+      "original": "Ἔστι δὲ πρόλογος μὲν μέρος ὅλον τραγῳδίας τὸ πρὸ χοροῦ παρόδου ,",
+      "translation": "A prologue is the whole of that part of a tragedy which precedes the entrance of the chorus ."
+    },
+    {
+      "id": "12.5",
+      "label": "Section 12.5",
+      "chapter": null,
+      "original": "ἐπεισόδιον δὲ μέρος ὅλον τραγῳδίας τὸ μεταξὺ ὅλων χορικῶν μελῶν ,",
+      "translation": "20 An episode is the whole of that part of a tragedy which falls between whole choral songs ."
+    },
+    {
+      "id": "13.1",
+      "label": "Section 13.1",
+      "chapter": null,
+      "original": "Ὧν δὲ δεῖ στοχάζεσθαι καὶ ἃ δεῖ εὐλαβεῖσθαι συνιστάντας τοὺς μύθους , καὶ πόθεν ἔσται τὸ τῆς τραγῳδίας ἔργον , ἐφεξῆς ἂν εἴη λεκτέον τοῖς νῦν εἰρημένοις .",
+      "translation": "Following upon what has been said above we should next state what ought to be aimed at and what avoided in the construction of a plot , and the means by which the object of tragedy may be achieved ."
+    },
+    {
+      "id": "13.2",
+      "label": "Section 13.2",
+      "chapter": null,
+      "original": "Ἐπειδὴ οὖν 252 δεῖ τὴν σύνθεσιν εἶναι τῆς καλλίστης τραγῳδίας μὴ ἁπλῆν ἀλλὰ πεπλεγμένην , καὶ ταύτην φοβερῶν καὶ ἐλεεινῶν εἶναι μιμητικήν ( τοῦτο γὰρ ἴδιον τῆς τοιαύτης μιμήσεώς ἐστιν ), πρῶτον μὲν δῆλον ὅτι οὔτε τοὺς ἐπιεικεῖς ἄνδρας δεῖ μεταβάλλοντας φαίνεσθαι ἐξ εὐτυχίας εἰς δυστυχίαν ( οὐ γὰρ φοβερὸν οὐδὲ ἐλεεινὸν τοῦτο , ἀλλὰ μιαρόν ἐστιν )",
+      "translation": "Since then the structure of the best tragedy should be not simple but complex [*] and one that represents incidents arousing fear and pity — for that is peculiar to this form of art — it is obvious to begin with that one should not show worthy men passing from good fortune to bad . That does not arouse fear or pity but shocks our feelings ."
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": "longinus-demetrius-poetics-1k4r0a-2"
+}

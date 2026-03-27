@@ -1,0 +1,211 @@
+{
+  "loebNumber": 46,
+  "sortOrder": 46,
+  "slug": "plutarch-lives-volume-i-9uwuu1",
+  "title": "Lives, Volume I",
+  "volumeLabel": "Lives, Volume I",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Lives, Volume I. Lives, Volume I opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "theseus-57mddt",
+  "readyChunkCount": 6,
+  "contents": [
+    {
+      "id": "lives-volume-i-jo9im6",
+      "title": "Lives, Volume I",
+      "status": "ready",
+      "sectionCount": 254,
+      "chunkSlug": "theseus-57mddt",
+      "chunks": [
+        {
+          "slug": "theseus-57mddt",
+          "label": "Theseus",
+          "partId": "lives-volume-i-jo9im6",
+          "partTitle": "Lives, Volume I",
+          "sectionCount": 70,
+          "status": "ready"
+        },
+        {
+          "slug": "romulus-1ebozl",
+          "label": "Romulus",
+          "partId": "lives-volume-i-jo9im6",
+          "partTitle": "Lives, Volume I",
+          "sectionCount": 58,
+          "status": "ready"
+        },
+        {
+          "slug": "comparison-of-theseus-and-romulus-1pfo4n",
+          "label": "Comparison of Theseus and Romulus",
+          "partId": "lives-volume-i-jo9im6",
+          "partTitle": "Lives, Volume I",
+          "sectionCount": 12,
+          "status": "ready"
+        },
+        {
+          "slug": "lycurgus-11j0t8",
+          "label": "Lycurgus",
+          "partId": "lives-volume-i-jo9im6",
+          "partTitle": "Lives, Volume I",
+          "sectionCount": 62,
+          "status": "ready"
+        },
+        {
+          "slug": "numa-1gaez",
+          "label": "Numa",
+          "partId": "lives-volume-i-jo9im6",
+          "partTitle": "Lives, Volume I",
+          "sectionCount": 44,
+          "status": "ready"
+        },
+        {
+          "slug": "comparison-of-lycurgus-and-numa-7qwl7k",
+          "label": "Comparison of Lycurgus and Numa",
+          "partId": "lives-volume-i-jo9im6",
+          "partTitle": "Lives, Volume I",
+          "sectionCount": 8,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "theseus-57mddt",
+      "label": "Theseus",
+      "partId": "lives-volume-i-jo9im6",
+      "partTitle": "Lives, Volume I",
+      "sectionCount": 70,
+      "status": "ready"
+    },
+    {
+      "slug": "romulus-1ebozl",
+      "label": "Romulus",
+      "partId": "lives-volume-i-jo9im6",
+      "partTitle": "Lives, Volume I",
+      "sectionCount": 58,
+      "status": "ready"
+    },
+    {
+      "slug": "comparison-of-theseus-and-romulus-1pfo4n",
+      "label": "Comparison of Theseus and Romulus",
+      "partId": "lives-volume-i-jo9im6",
+      "partTitle": "Lives, Volume I",
+      "sectionCount": 12,
+      "status": "ready"
+    },
+    {
+      "slug": "lycurgus-11j0t8",
+      "label": "Lycurgus",
+      "partId": "lives-volume-i-jo9im6",
+      "partTitle": "Lives, Volume I",
+      "sectionCount": 62,
+      "status": "ready"
+    },
+    {
+      "slug": "numa-1gaez",
+      "label": "Numa",
+      "partId": "lives-volume-i-jo9im6",
+      "partTitle": "Lives, Volume I",
+      "sectionCount": 44,
+      "status": "ready"
+    },
+    {
+      "slug": "comparison-of-lycurgus-and-numa-7qwl7k",
+      "label": "Comparison of Lycurgus and Numa",
+      "partId": "lives-volume-i-jo9im6",
+      "partTitle": "Lives, Volume I",
+      "sectionCount": 8,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "theseus-57mddt",
+      "partTitle": "Lives, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Θησεύς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Theseus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg001.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "romulus-1ebozl",
+      "partTitle": "Lives, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ῥωμύλος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg002.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Romulus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "comparison-of-theseus-and-romulus-1pfo4n",
+      "partTitle": "Lives, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Θησέως καὶ Ῥωμύλου σύγκρισις",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Comparison of Theseus and Romulus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "lycurgus-11j0t8",
+      "partTitle": "Lives, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Λυκοῦργος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg004.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Lycurgus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "numa-1gaez",
+      "partTitle": "Lives, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Νομᾶς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg005.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Numa",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg005.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "comparison-of-lycurgus-and-numa-7qwl7k",
+      "partTitle": "Lives, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Λυκούργου καὶ Νομᾶ σύγκρισις",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg006.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Comparison of Lycurgus and Numa",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg006.perseus-eng2/"
+      }
+    }
+  ]
+}

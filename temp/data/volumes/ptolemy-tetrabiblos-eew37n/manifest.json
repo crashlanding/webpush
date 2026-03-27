@@ -1,0 +1,27 @@
+{
+  "loebNumber": 435,
+  "sortOrder": 435,
+  "slug": "ptolemy-tetrabiblos-eew37n",
+  "title": "Tetrabiblos",
+  "volumeLabel": "Tetrabiblos",
+  "authorDisplay": "Ptolemy",
+  "authors": [
+    "Ptolemy"
+  ],
+  "language": "greek",
+  "summary": "A catalog placeholder for Tetrabiblos. Scaife does not currently provide a confidently matchable original-and-English pair for this volume.",
+  "status": "placeholder",
+  "defaultChunkSlug": null,
+  "readyChunkCount": 0,
+  "contents": [
+    {
+      "id": "tetrabiblos-s83xif",
+      "title": "Tetrabiblos",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Tetrabiblos."
+    }
+  ],
+  "chunks": [],
+  "citations": []
+}

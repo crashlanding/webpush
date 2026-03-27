@@ -1,0 +1,61 @@
+{
+  "loebNumber": 544,
+  "sortOrder": 544,
+  "slug": "appian-roman-history-volume-vi-bb99bx",
+  "title": "Roman History, Volume VI",
+  "volumeLabel": "Roman History, Volume VI",
+  "authorDisplay": "Appian",
+  "authors": [
+    "Appian"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Roman History, Volume VI. Roman History, Volume VI opens a closest available slice of Appianus of Alexandria on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "mithridatic-wars-xz2g4h",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "roman-history-volume-vi-xu1f2s",
+      "title": "Roman History, Volume VI",
+      "status": "ready",
+      "sectionCount": 33,
+      "chunkSlug": "mithridatic-wars-xz2g4h",
+      "chunks": [
+        {
+          "slug": "mithridatic-wars-xz2g4h",
+          "label": "Mithridatic Wars",
+          "partId": "roman-history-volume-vi-xu1f2s",
+          "partTitle": "Roman History, Volume VI",
+          "sectionCount": 33,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "mithridatic-wars-xz2g4h",
+      "label": "Mithridatic Wars",
+      "partId": "roman-history-volume-vi-xu1f2s",
+      "partTitle": "Roman History, Volume VI",
+      "sectionCount": 33,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "mithridatic-wars-xz2g4h",
+      "partTitle": "Roman History, Volume VI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Μιθριδάτειος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg014.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mithridatic Wars",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg014.perseus-eng2/"
+      }
+    }
+  ]
+}

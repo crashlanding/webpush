@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-ghost-1vjypr-8",
+  "label": "The Ghost (Section 3.1.583 - Section 3.1.641)",
+  "partId": "the-ghost-1vjypr",
+  "partTitle": "The Ghost",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Mostellaria",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Mostellaria, or The Haunted House",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "3.1.583",
+      "label": "Section 3.1.583",
+      "chapter": null,
+      "original": "Immo abi domum , verum hercle dico , abi modo .",
+      "translation": "Why no ; be off home . On my word , I ’ m telling the truth . Only do be off ."
+    },
+    {
+      "id": "3.1.585",
+      "label": "Section 3.1.585",
+      "chapter": null,
+      "original": "Quin vos mihi faenus date . quid hic nugamini ?",
+      "translation": "Then do you pay me my interest . Why do you trifle with me this way ?"
+    },
+    {
+      "id": "3.1.586",
+      "label": "Section 3.1.586",
+      "chapter": null,
+      "original": "Eu hércle , ne tu — abi modo , ausculta mihi .",
+      "translation": "Bravo ! faith . Really now , do be off ; do attend to me ."
+    },
+    {
+      "id": "3.1.587",
+      "label": "Section 3.1.587",
+      "chapter": null,
+      "original": "Iam hercle ego illum nominabo . ⋯",
+      "translation": "I ’ faith , I ’ ll call him now by name ."
+    },
+    {
+      "id": "3.1.587b",
+      "label": "Section 3.1.587b",
+      "chapter": null,
+      "original": "Euge strenue .",
+      "translation": "Bravo ! stoutly done ! Really you are quite rich now when you bawl out ."
+    },
+    {
+      "id": "3.1.588b",
+      "label": "Section 3.1.588b",
+      "chapter": null,
+      "original": "Meum peto .",
+      "translation": "I ’ m asking for my own . In this way you ’ ve been disappointing me for these many days past ."
+    },
+    {
+      "id": "3.1.590",
+      "label": "Section 3.1.590",
+      "chapter": null,
+      "original": "molestus si sum , reddite argentum : abiero .",
+      "translation": "If I ’ m troublesome , give me back the money ; I ’ ll go away then . That expression [*] puts an end to all replies ."
+    },
+    {
+      "id": "3.1.592",
+      "label": "Section 3.1.592",
+      "chapter": null,
+      "original": "Sortem accipe .",
+      "translation": "Then , take the principal [*] ."
+    },
+    {
+      "id": "3.1.592b",
+      "label": "Section 3.1.592b",
+      "chapter": null,
+      "original": "Immo faenus , id primum volo .",
+      "translation": "Why no , the interest ; I want that first ."
+    },
+    {
+      "id": "3.1.593",
+      "label": "Section 3.1.593",
+      "chapter": null,
+      "original": "Quid ais tu , ómnium hominum taeterrime ?",
+      "translation": "What ? Have you , you fellow most foul of all fellows , come here to burst yourself ? Do what lies in your power ."
+    },
+    {
+      "id": "3.1.595",
+      "label": "Section 3.1.595",
+      "chapter": null,
+      "original": "non dat , non debet .",
+      "translation": "He ’ s not going to pay you ; he doesn ’ t owe it ."
+    },
+    {
+      "id": "3.1.595b",
+      "label": "Section 3.1.595b",
+      "chapter": null,
+      "original": "Non debet ?",
+      "translation": "Not owe it ?"
+    },
+    {
+      "id": "3.1.595c",
+      "label": "Section 3.1.595c",
+      "chapter": null,
+      "original": "Ne frit quidem",
+      "translation": "Not a tittle , indeed , can you get from here . Would you prefer for him to go abroad , and leave the city in exile , driven hence for your sake ? Why then , in preference let him pay the [*] principal ."
+    },
+    {
+      "id": "3.1.598b",
+      "label": "Section 3.1.598b",
+      "chapter": null,
+      "original": "Quin non peto",
+      "translation": "But I don ’ t ask for it ."
+    },
+    {
+      "id": "3.1.599_600",
+      "label": "Section 3.1.599_600",
+      "chapter": null,
+      "original": "sortem : illuc primum , faenus , reddundum est mihi .",
+      "translation": "Hark you ! you whip-knave , come back to me ."
+    },
+    {
+      "id": "3.1.601",
+      "label": "Section 3.1.601",
+      "chapter": null,
+      "original": "Molestus ne sis . nemo dat , age quid lubet .",
+      "translation": "I ’ ll be there just now . ( To the BANKER .) Don ’ t you be troublesome : no one ’ s going to pay you ; do what you please . You are the only person , I suppose , that lends money upon interest ."
+    },
+    {
+      "id": "3.1.603",
+      "label": "Section 3.1.603",
+      "chapter": null,
+      "original": "Cedo faenus , redde faenus , faenus reddite .",
+      "translation": "Give me my interest ! pay me my interest ! you pay my interest ! Are you going to give me my interest this instant ?"
+    },
+    {
+      "id": "3.1.605",
+      "label": "Section 3.1.605",
+      "chapter": null,
+      "original": "datur faenus mihi ?",
+      "translation": "Give me my interest !"
+    },
+    {
+      "id": "3.1.605b",
+      "label": "Section 3.1.605b",
+      "chapter": null,
+      "original": "Faenus illic , faenus hic .",
+      "translation": "Interest here , interest there ! The old rogue knows how to talk about nothing but interest . I do not think that ever I saw any beast more vile than you ."
+    },
+    {
+      "id": "3.1.609",
+      "label": "Section 3.1.609",
+      "chapter": null,
+      "original": "Non edepol tu nunc me istis verbis territas .",
+      "translation": "Upon my faith , you don ’ t alarm me now with those expressions ."
+    },
+    {
+      "id": "3.1.609a",
+      "label": "Section 3.1.609a",
+      "chapter": null,
+      "original": "⋯ calidum hoc est : etsi procul abest , urit male . ⋯",
+      "translation": "This is of a hot nature ; although it is at a distance off , it scorches badly [*] ."
+    },
+    {
+      "id": "3.1.610",
+      "label": "Section 3.1.610",
+      "chapter": null,
+      "original": "quod illúc est faenus , opsecro , quod illíc petit ?",
+      "translation": "Pray , what interest is this that he is asking for ?"
+    },
+    {
+      "id": "3.1.611",
+      "label": "Section 3.1.611",
+      "chapter": null,
+      "original": "Pater eccum advenit peregre non multo prius",
+      "translation": "Look now ; his father has arrived from abroad , not long since ; he ’ ll pay you both interest and principal ; don ’ t you then attempt any further to make us your enemies . See whether he puts you off ."
+    },
+    {
+      "id": "3.1.614b",
+      "label": "Section 3.1.614b",
+      "chapter": null,
+      "original": "Quin feram , si quid datur .",
+      "translation": "Nay but , I ’ ll take it , if anything ’ s offered ."
+    },
+    {
+      "id": "3.1.615",
+      "label": "Section 3.1.615",
+      "chapter": null,
+      "original": "Quid ais tu ?",
+      "translation": "What do you say , then —?"
+    },
+    {
+      "id": "3.1.615b",
+      "label": "Section 3.1.615b",
+      "chapter": null,
+      "original": "Quid vis ?",
+      "translation": "What is it you mean ?"
+    },
+    {
+      "id": "3.1.615c",
+      "label": "Section 3.1.615c",
+      "chapter": null,
+      "original": "Quis illic est ? quid illíc petit ?",
+      "translation": "Who is this ? What is he asking for ? Why is he thus rudely speaking of my son Philolaches in this way , and giving you abuse to your face ? What ’ s owing him ?"
+    },
+    {
+      "id": "3.1.618b",
+      "label": "Section 3.1.618b",
+      "chapter": null,
+      "original": "Obsecro hercle , illud iube",
+      "translation": "I beg of you , do order the money to be thrown in the face of this dirty brute ."
+    },
+    {
+      "id": "3.1.620",
+      "label": "Section 3.1.620",
+      "chapter": null,
+      "original": "Iubeam —?",
+      "translation": "I , order it ?"
+    },
+    {
+      "id": "3.1.620b",
+      "label": "Section 3.1.620b",
+      "chapter": null,
+      "original": "Iuben homini argento os verberarier ?",
+      "translation": "Order the fellow ’ s face to be pelted with money ."
+    },
+    {
+      "id": "3.1.621",
+      "label": "Section 3.1.621",
+      "chapter": null,
+      "original": "Perfacile ego ictus perpetior argenteos .",
+      "translation": "I could very well put up with a pelting with money ."
+    },
+    {
+      "id": "3.1.625",
+      "label": "Section 3.1.625",
+      "chapter": null,
+      "original": "Audin ? videturne , obsecro hercle , idoneus ,",
+      "translation": "Don ’ t you hear him ? Troth now , prithee , doesn ’ t he seem just suited to be a Banker — a generation that ’ s most roguish ?"
+    },
+    {
+      "id": "3.1.627",
+      "label": "Section 3.1.627",
+      "chapter": null,
+      "original": "Non ego istuc curo qui sit quid sit unde sit :",
+      "translation": "I don ’ t care , just now , for that , who he is or whence he is ;"
+    },
+    {
+      "id": "3.1.628",
+      "label": "Section 3.1.628",
+      "chapter": null,
+      "original": "id volo mihi dici , id me scire éxpeto ,",
+      "translation": "this I want to be told me , this I very much wish to know —"
+    },
+    {
+      "id": "3.1.622",
+      "label": "Section 3.1.622",
+      "chapter": null,
+      "original": "quod illud argentum est ?",
+      "translation": "What money ’ s this ?"
+    },
+    {
+      "id": "3.1.622b",
+      "label": "Section 3.1.622b",
+      "chapter": null,
+      "original": "Est — huic debet Philolaches",
+      "translation": "Philolaches owes this person a little ."
+    },
+    {
+      "id": "3.1.623b",
+      "label": "Section 3.1.623b",
+      "chapter": null,
+      "original": "Quantillum ?",
+      "translation": "How much ?"
+    },
+    {
+      "id": "3.1.623c",
+      "label": "Section 3.1.623c",
+      "chapter": null,
+      "original": "Quasi — quadraginta minas ;",
+      "translation": "About forty minae ."
+    },
+    {
+      "id": "3.1.624",
+      "label": "Section 3.1.624",
+      "chapter": null,
+      "original": "ne sane id multum censeas .",
+      "translation": "Really , don ’ t think much of that ;"
+    },
+    {
+      "id": "3.1.624b",
+      "label": "Section 3.1.624b",
+      "chapter": null,
+      "original": "Paulum id quidem est .",
+      "translation": "it ’ s a trifle , in fact ."
+    },
+    {
+      "id": "3.1.629",
+      "label": "Section 3.1.629",
+      "chapter": null,
+      "original": "adeo etiam argenti faenus creditum audio .",
+      "translation": "I heard from him that there was interest owing on the money as well ."
+    },
+    {
+      "id": "3.1.630",
+      "label": "Section 3.1.630",
+      "chapter": null,
+      "original": "Quattuor quadraginta illi debentur minae ,",
+      "translation": "Forty-four minae are due to him ."
+    },
+    {
+      "id": "3.1.631",
+      "label": "Section 3.1.631",
+      "chapter": null,
+      "original": "et sors et faenus .",
+      "translation": "[*] Forty-four minae are due to him , both principal and interest ."
+    },
+    {
+      "id": "3.1.631b",
+      "label": "Section 3.1.631b",
+      "chapter": null,
+      "original": "Tantumst , nihilo plus peto .",
+      "translation": "’ Tis just that much ; I ask for nothing more ."
+    },
+    {
+      "id": "3.1.632",
+      "label": "Section 3.1.632",
+      "chapter": null,
+      "original": "Velim quidem hercle ut uno nummo plus petas .",
+      "translation": "Upon my faith , I really could have wished that you had asked more , if only by a single coin ."
+    },
+    {
+      "id": "3.1.633",
+      "label": "Section 3.1.633",
+      "chapter": null,
+      "original": "dic te daturum , ut abeat .",
+      "translation": "Say that you ’ ll pay it , that he may be off ."
+    },
+    {
+      "id": "3.1.633b",
+      "label": "Section 3.1.633b",
+      "chapter": null,
+      "original": "Egon dicam dare ?",
+      "translation": "I , say that I ’ ll pay it ?"
+    },
+    {
+      "id": "3.1.634",
+      "label": "Section 3.1.634",
+      "chapter": null,
+      "original": "Dic .",
+      "translation": "Do say so ."
+    },
+    {
+      "id": "3.1.634b",
+      "label": "Section 3.1.634b",
+      "chapter": null,
+      "original": "Egone ?",
+      "translation": "What , I ?"
+    },
+    {
+      "id": "3.1.634c",
+      "label": "Section 3.1.634c",
+      "chapter": null,
+      "original": "Tu ipsus . dic modo , ausculta mihi .",
+      "translation": "You yourself . Do only say so . Do be guided by me . Do promise . Come now , I say ; I beg of you ."
+    },
+    {
+      "id": "3.1.635b",
+      "label": "Section 3.1.635b",
+      "chapter": null,
+      "original": "Responde mihi :",
+      "translation": "Answer me ; what has been done with this money ?"
+    },
+    {
+      "id": "3.1.636b",
+      "label": "Section 3.1.636b",
+      "chapter": null,
+      "original": "Salvom est .",
+      "translation": "It ’ s safe ."
+    },
+    {
+      "id": "3.1.636c",
+      "label": "Section 3.1.636c",
+      "chapter": null,
+      "original": "Solvite",
+      "translation": "Pay it yourselves then , if it ’ s safe ,"
+    },
+    {
+      "id": "3.1.637b",
+      "label": "Section 3.1.637b",
+      "chapter": null,
+      "original": "Aedis filius",
+      "translation": "Your son has bought a house ."
+    },
+    {
+      "id": "3.1.638b",
+      "label": "Section 3.1.638b",
+      "chapter": null,
+      "original": "Aedis ?",
+      "translation": "A house ?"
+    },
+    {
+      "id": "3.1.638c",
+      "label": "Section 3.1.638c",
+      "chapter": null,
+      "original": "Aedis .",
+      "translation": "A house ."
+    },
+    {
+      "id": "3.1.638d",
+      "label": "Section 3.1.638d",
+      "chapter": null,
+      "original": "Euge , Philolaches",
+      "translation": "Bravo ! Philolaches is taking after his father ! The fellow now turns to merchandize ."
+    },
+    {
+      "id": "3.1.640",
+      "label": "Section 3.1.640",
+      "chapter": null,
+      "original": "ain tu , aedis ?",
+      "translation": "A house , say you ?"
+    },
+    {
+      "id": "3.1.640b",
+      "label": "Section 3.1.640b",
+      "chapter": null,
+      "original": "Aedis inquam . sed scin quoius modi ?",
+      "translation": "A house , I tell you . But do you know of what sort ?"
+    },
+    {
+      "id": "3.1.641",
+      "label": "Section 3.1.641",
+      "chapter": null,
+      "original": "Qui scire possum ?",
+      "translation": "How can I know ?"
+    }
+  ],
+  "prevChunkSlug": "the-ghost-1vjypr-7",
+  "nextChunkSlug": "the-ghost-1vjypr-9"
+}

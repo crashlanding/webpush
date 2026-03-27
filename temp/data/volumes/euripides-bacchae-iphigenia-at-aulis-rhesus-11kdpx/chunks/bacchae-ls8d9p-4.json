@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-bacchae-iphigenia-at-aulis-rhesus-11kdpx",
+  "volumeTitle": "Bacchae. Iphigenia at Aulis. Rhesus",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "bacchae-ls8d9p-4",
+  "label": "Bacchae (Section 575 - Section 745)",
+  "partId": "bacchae-ls8d9p",
+  "partTitle": "Bacchae",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Βάκχαι",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "The Bacchae",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "575",
+      "label": "Section 575",
+      "chapter": null,
+      "original": "καλλίστοισι λιπαίνειν .",
+      "translation": "fairest streams ."
+    },
+    {
+      "id": "576",
+      "label": "Section 576",
+      "chapter": null,
+      "original": "ἰώ ,",
+      "translation": "within Io ! Hear my voice , hear it , Io Bacchae , Io Bacchae !"
+    },
+    {
+      "id": "578",
+      "label": "Section 578",
+      "chapter": null,
+      "original": "τίς ὅδε , τίς ὅδε πόθεν ὁ κέλαδος",
+      "translation": "Who is here , who ? From what quarter did the voice of the Joyful one summon me ?"
+    },
+    {
+      "id": "580",
+      "label": "Section 580",
+      "chapter": null,
+      "original": "ἰὼ ἰώ , πάλιν αὐδῶ ,",
+      "translation": "Io ! Io ! I say again ; it is I , the child of Zeus and Semele ."
+    },
+    {
+      "id": "582",
+      "label": "Section 582",
+      "chapter": null,
+      "original": "ἰὼ ἰὼ δέσποτα δέσποτα ,",
+      "translation": "Io ! Io ! Master , master ! Come now to our company , Bromius ."
+    },
+    {
+      "id": "585",
+      "label": "Section 585",
+      "chapter": null,
+      "original": "σεῖε πέδον χθονὸς Ἔννοσι πότνια .",
+      "translation": "Shake the world ’ s plain , lady Earthquake !"
+    },
+    {
+      "id": "586",
+      "label": "Section 586",
+      "chapter": null,
+      "original": "ἆ ἆ ,",
+      "translation": "Oh ! Oh ! Soon the palace of Pentheus will be shaken in ruin . [*] — Dionysus is in the halls ."
+    },
+    {
+      "id": "590",
+      "label": "Section 590",
+      "chapter": null,
+      "original": "σέβετέ νιν . — σέβομεν ὤ .",
+      "translation": "Revere him . — We revere him ! — Did you see these stone lintels on the pillars falling apart ? Bromius cries out in victory indoors ."
+    },
+    {
+      "id": "594",
+      "label": "Section 594",
+      "chapter": null,
+      "original": "ἅπτε κεραύνιον αἴθοπα λαμπάδα ·",
+      "translation": "Light the fiery lamp of lightning !"
+    },
+    {
+      "id": "595",
+      "label": "Section 595",
+      "chapter": null,
+      "original": "σύμφλεγε σύμφλεγε δώματα Πενθέος .",
+      "translation": "Burn , burn Pentheus ’ home !"
+    },
+    {
+      "id": "596",
+      "label": "Section 596",
+      "chapter": null,
+      "original": "ἆ ἆ ,",
+      "translation": "Oh ! Oh ! Do you not see the the fire , do you not perceive , about the sacred tomb of Semele , the flame that Zeus ’ thunderbolt left ?"
+    },
+    {
+      "id": "600",
+      "label": "Section 600",
+      "chapter": null,
+      "original": "δίκετε πεδόσε τρομερὰ σώματα",
+      "translation": "Cast on the ground your trembling bodies , Maenads , cast them down , for our lord , Zeus ’ son , is coming against this palace , turning everything upside down ."
+    },
+    {
+      "id": "604",
+      "label": "Section 604",
+      "chapter": null,
+      "original": "βάρβαροι γυναῖκες , οὕτως ἐκπεπληγμέναι φόβῳ",
+      "translation": "Barbarian women , have you fallen on the ground"
+    },
+    {
+      "id": "605",
+      "label": "Section 605",
+      "chapter": null,
+      "original": "πρὸς πέδῳ πεπτώκατʼ ; ᾔσθησθʼ , ὡς ἔοικε , Βακχίου",
+      "translation": "so stricken with fear ? You have , so it seems , felt Bacchus shaking the house of Pentheus . But get up and take courage , putting a stop to your trembling ."
+    },
+    {
+      "id": "608",
+      "label": "Section 608",
+      "chapter": null,
+      "original": "ὦ φάος μέγιστον ἡμῖν εὐίου βακχεύματος ,",
+      "translation": "Oh greatest light for us in our joyful revelry , how happy I am to see you — I who was alone and desolate before ."
+    },
+    {
+      "id": "610",
+      "label": "Section 610",
+      "chapter": null,
+      "original": "εἰς ἀθυμίαν ἀφίκεσθʼ , ἡνίκʼ εἰσεπεμπόμην ,",
+      "translation": "Did you despair when I was sent to fall into Pentheus ’ dark dungeon ?"
+    },
+    {
+      "id": "612",
+      "label": "Section 612",
+      "chapter": null,
+      "original": "πῶς γὰρ οὔ ; τίς μοι φύλαξ ἦν , εἰ σὺ συμφορᾶς τύχοις ;",
+      "translation": "How not ? Who was my guardian , if you met with misfortune ? But how were you freed , having met with an impious man ?"
+    },
+    {
+      "id": "614",
+      "label": "Section 614",
+      "chapter": null,
+      "original": "αὐτὸς ἐξέσῳσʼ ἐμαυτὸν ῥᾳδίως ἄνευ πόνου .",
+      "translation": "By myself I saved myself easily , without trouble ."
+    },
+    {
+      "id": "615",
+      "label": "Section 615",
+      "chapter": null,
+      "original": "οὐδέ σου συνῆψε χεῖρε δεσμίοισιν ἐν βρόχοις ;",
+      "translation": "Did he not tie your hands in binding knots ?"
+    },
+    {
+      "id": "616",
+      "label": "Section 616",
+      "chapter": null,
+      "original": "ταῦτα καὶ καθύβρισʼ αὐτόν , ὅτι με δεσμεύειν δοκῶν",
+      "translation": "In this too I mocked him , for , thinking to bind me , he neither touched nor handled me , but fed on hope . He found a bull by the stable where he took and shut me up , and threw shackles around its knees and hooves ,"
+    },
+    {
+      "id": "620",
+      "label": "Section 620",
+      "chapter": null,
+      "original": "θυμὸν ἐκπνέων , ἱδρῶτα σώματος στάζων ἄπο ,",
+      "translation": "breathing out fury , dripping sweat from his body , gnashing his teeth in his lips . But I , being near , sitting quietly , looked on . Meanwhile , Bacchus came and shook the house and kindled a flame on his mother ’ s tomb . When Pentheus saw this , thinking that the house was burning ,"
+    },
+    {
+      "id": "625",
+      "label": "Section 625",
+      "chapter": null,
+      "original": "ᾖσσʼ ἐκεῖσε κᾆτʼ ἐκεῖσε , δμωσὶν Ἀχελῷον φέρειν",
+      "translation": "he ran here and there , calling to the slaves to bring water , and every servant was at work , toiling in vain . Then he let this labor drop , as I had escaped , and snatching a dark sword rushed into the house . Then Bromius , so it seems to me — I speak my opinion —"
+    },
+    {
+      "id": "630",
+      "label": "Section 630",
+      "chapter": null,
+      "original": "φάσμʼ ἐποίησεν κατʼ αὐλήν · ὃ δʼ ἐπὶ τοῦθʼ ὡρμημένος",
+      "translation": "created a phantom in the courtyard . Pentheus rushed at it headlong , stabbing at the shining air , as though slaughtering me . Besides this , Bacchus inflicted other damage on him : he knocked his house to the ground , and everything was shattered into pieces , while he saw my bitter chains . From fatigue ,"
+    },
+    {
+      "id": "635",
+      "label": "Section 635",
+      "chapter": null,
+      "original": "διαμεθεὶς ξίφος παρεῖται · πρὸς θεὸν γὰρ ὢν ἀνὴρ",
+      "translation": "dropping his sword , he is exhausted . For he , a man , dared to join battle with a god . Now I have quietly left the house and come to you , with no thought of Pentheus . But I think — at any rate I hear the tramping of feet inside — he will soon come to the front of the house . What will he say after this ?"
+    },
+    {
+      "id": "640",
+      "label": "Section 640",
+      "chapter": null,
+      "original": "ῥᾳδίως γὰρ αὐτὸν οἴσω , κἂν πνέων ἔλθῃ μέγα .",
+      "translation": "I shall easily bear him , even if he comes boasting greatly . For it is the part of a wise man to practice restrained good temper ."
+    },
+    {
+      "id": "642",
+      "label": "Section 642",
+      "chapter": null,
+      "original": "πέπονθα δεινά · διαπέφευγέ μʼ ὁ ξένος ,",
+      "translation": "I have suffered terrible things ; the stranger , who was recently constrained in bonds , has escaped me . Ah !"
+    },
+    {
+      "id": "645",
+      "label": "Section 645",
+      "chapter": null,
+      "original": "ὅδʼ ἐστὶν ἁνήρ · τί τάδε ; πῶς προνώπιος",
+      "translation": "Here is the man . What is this ? How do you appear in front of my house , having come out ?"
+    },
+    {
+      "id": "647",
+      "label": "Section 647",
+      "chapter": null,
+      "original": "στῆσον πόδʼ , ὀργῇ δʼ ὑπόθες ἥσυχον πόδα .",
+      "translation": "Stop , and put a stop to your anger ."
+    },
+    {
+      "id": "648",
+      "label": "Section 648",
+      "chapter": null,
+      "original": "πόθεν σὺ δεσμὰ διαφυγὼν ἔξω περᾷς ;",
+      "translation": "How have you escaped your chains and come outside ?"
+    },
+    {
+      "id": "649",
+      "label": "Section 649",
+      "chapter": null,
+      "original": "οὐκ εἶπον — ἢ οὐκ ἤκουσασ — ὅτι λύσει μέ τις ;",
+      "translation": "Did I not say — or did you not hear — that some one would deliver me ?"
+    },
+    {
+      "id": "650",
+      "label": "Section 650",
+      "chapter": null,
+      "original": "τίς ; τοὺς λόγους γὰρ ἐσφέρεις καινοὺς ἀεί .",
+      "translation": "Who ? You are always introducing strange explanations ."
+    },
+    {
+      "id": "651",
+      "label": "Section 651",
+      "chapter": null,
+      "original": "ὃς τὴν πολύβοτρυν ἄμπελον φύει βροτοῖς .",
+      "translation": "He who produces the rich-clustering vine for mortals ."
+    },
+    {
+      "id": "651a",
+      "label": "Section 651a",
+      "chapter": null,
+      "original": "⋯",
+      "translation": "⋯"
+    },
+    {
+      "id": "652",
+      "label": "Section 652",
+      "chapter": null,
+      "original": "ὠνείδισας δὴ τοῦτο Διονύσῳ καλόν .",
+      "translation": "You reproach Dionysus for what is his glory ."
+    },
+    {
+      "id": "653",
+      "label": "Section 653",
+      "chapter": null,
+      "original": "κλῄειν κελεύω πάντα πύργον ἐν κύκλῳ .",
+      "translation": "I order you to close up all the towers around ."
+    },
+    {
+      "id": "654",
+      "label": "Section 654",
+      "chapter": null,
+      "original": "τί δʼ ; οὐχ ὑπερβαίνουσι καὶ τείχη θεοί ;",
+      "translation": "Why ? Do gods not pass over walls too ?"
+    },
+    {
+      "id": "655",
+      "label": "Section 655",
+      "chapter": null,
+      "original": "σοφὸς σοφὸς σύ , πλὴν ἃ δεῖ σʼ εἶναι σοφόν .",
+      "translation": "You are wise , wise at least in all save what you should be wise in ."
+    },
+    {
+      "id": "656",
+      "label": "Section 656",
+      "chapter": null,
+      "original": "ἃ δεῖ μάλιστα , ταῦτʼ ἔγωγʼ ἔφυν σοφός .",
+      "translation": "I was born wise in all that I should be . Enter a messenger Listen first to the words of this man , who has come from the mountain to bring you some message . I will await you , I will not try to escape ."
+    },
+    {
+      "id": "660",
+      "label": "Section 660",
+      "chapter": null,
+      "original": "Πενθεῦ κρατύνων τῆσδε Θηβαίας χθονός ,",
+      "translation": "Pentheus , ruler of this land of Thebes , I have come from Kithairon , where the bright flakes of white snow never melt ."
+    },
+    {
+      "id": "663",
+      "label": "Section 663",
+      "chapter": null,
+      "original": "ἥκεις δὲ ποίαν προστιθεὶς σπουδὴν λόγου ;",
+      "translation": "What important news do you come to bring ?"
+    },
+    {
+      "id": "664",
+      "label": "Section 664",
+      "chapter": null,
+      "original": "βάκχας ποτνιάδας εἰσιδών , αἳ τῆσδε γῆς",
+      "translation": "Having seen the holy Bacchae , who"
+    },
+    {
+      "id": "665",
+      "label": "Section 665",
+      "chapter": null,
+      "original": "οἴστροισι λευκὸν κῶλον ἐξηκόντισαν ,",
+      "translation": "goaded to madness have darted from this land with their fair feet , I have come to tell you and the city , lord , that they are doing terrible things , beyond marvel . I wish to hear whether I should tell you in free speech the situation there or whether I should repress my report ,"
+    },
+    {
+      "id": "670",
+      "label": "Section 670",
+      "chapter": null,
+      "original": "τὸ γὰρ τάχος σου τῶν φρενῶν δέδοικʼ , ἄναξ ,",
+      "translation": "for I fear , lord , the quickness of your mood , your keen temper and your too imperious disposition ."
+    },
+    {
+      "id": "672",
+      "label": "Section 672",
+      "chapter": null,
+      "original": "λέγʼ , ὡς ἀθῷος ἐξ ἐμοῦ πάντως ἔσῃ .",
+      "translation": "Speak , as you will have immunity from me in any case . For it is not right to be angry with the just . The more you tell me terrible things about the Bacchae ,"
+    },
+    {
+      "id": "675",
+      "label": "Section 675",
+      "chapter": null,
+      "original": "τοσῷδε μᾶλλον τὸν ὑποθέντα τὰς τέχνας",
+      "translation": "the more I will punish this one here who taught the women these tricks ."
+    },
+    {
+      "id": "677",
+      "label": "Section 677",
+      "chapter": null,
+      "original": "ἀγελαῖα μὲν βοσκήματʼ ἄρτι πρὸς λέπας",
+      "translation": "The herds of grazing cattle were just climbing up the hill , at the time when the sun sends forth its rays , warming the earth ."
+    },
+    {
+      "id": "680",
+      "label": "Section 680",
+      "chapter": null,
+      "original": "ὁρῶ δὲ θιάσους τρεῖς γυναικείων χορῶν ,",
+      "translation": "I saw three companies of dancing women , one of which Autonoe led , the second your mother Agave , and the third Ino . All were asleep , their bodies relaxed , some resting their backs against pine foliage ,"
+    },
+    {
+      "id": "685",
+      "label": "Section 685",
+      "chapter": null,
+      "original": "αἳ δʼ ἐν δρυὸς φύλλοισι πρὸς πέδῳ κάρα",
+      "translation": "others laying their heads at random on the oak leaves , modestly , not as you say drunk with the goblet and the sound of the flute , hunting out Aphrodite through the woods in solitude . Your mother raised a cry ,"
+    },
+    {
+      "id": "690",
+      "label": "Section 690",
+      "chapter": null,
+      "original": "σταθεῖσα βάκχαις , ἐξ ὕπνου κινεῖν δέμας ,",
+      "translation": "standing up in the midst of the Bacchae , to wake their bodies from sleep , when she heard the lowing of the horned cattle . And they , casting off refreshing sleep from their eyes , sprang upright , a marvel of orderliness to behold , old , young , and still unmarried virgins ."
+    },
+    {
+      "id": "695",
+      "label": "Section 695",
+      "chapter": null,
+      "original": "καὶ πρῶτα μὲν καθεῖσαν εἰς ὤμους κόμας",
+      "translation": "First they let their hair loose over their shoulders , and secured their fawn-skins , as many of them as had released the fastenings of their knots , girding the dappled hides with serpents licking their jaws . And some , holding in their arms a gazelle or wild"
+    },
+    {
+      "id": "700",
+      "label": "Section 700",
+      "chapter": null,
+      "original": "ἀγρίους ἔχουσαι λευκὸν ἐδίδοσαν γάλα ,",
+      "translation": "wolf-pup , gave them white milk , as many as had abandoned their new-born infants and had their breasts still swollen . They put on garlands of ivy , and oak , and flowering yew . One took her thyrsos and struck it against a rock ,"
+    },
+    {
+      "id": "705",
+      "label": "Section 705",
+      "chapter": null,
+      "original": "ὅθεν δροσώδης ὕδατος ἐκπηδᾷ νοτίς ·",
+      "translation": "from which a dewy stream of water sprang forth . Another let her thyrsos strike the ground , and there the god sent forth a fountain of wine . All who desired the white drink scratched the earth with the tips of their fingers and obtained streams of milk ;"
+    },
+    {
+      "id": "710",
+      "label": "Section 710",
+      "chapter": null,
+      "original": "γάλακτος ἑσμοὺς εἶχον · ἐκ δὲ κισσίνων",
+      "translation": "and a sweet flow of honey dripped from their ivy thyrsoi ; so that , had you been present and seen this , you would have approached with prayers the god whom you now blame . We herdsmen and shepherds gathered in order to"
+    },
+    {
+      "id": "715",
+      "label": "Section 715",
+      "chapter": null,
+      "original": "κοινῶν λόγων δώσοντες ἀλλήλοις ἔριν",
+      "translation": "debate with one another concerning what strange and amazing things they were doing . Some one , a wanderer about the city and practised in speaking , said to us all : You who inhabit the holy plains of the mountains , do you wish to hunt"
+    },
+    {
+      "id": "720",
+      "label": "Section 720",
+      "chapter": null,
+      "original": "Πενθέως Ἀγαύην μητέρʼ ἐκ βακχευμάτων",
+      "translation": "Pentheus ’ mother Agave out from the Bacchic revelry and do the king a favor ? We thought he spoke well , and lay down in ambush , hiding ourselves in the foliage of bushes . They , at the appointed hour , began to wave the thyrsos in their revelries ,"
+    },
+    {
+      "id": "725",
+      "label": "Section 725",
+      "chapter": null,
+      "original": "Ἴακχον ἀθρόῳ στόματι τὸν Διὸς γόνον",
+      "translation": "calling on Iacchus , the son of Zeus , Bromius , with united voice . The whole mountain revelled along with them and the beasts , and nothing was unmoved by their running . 728 Agave happened to be leaping near me , and I sprang forth , wanting to snatch her ,"
+    },
+    {
+      "id": "730",
+      "label": "Section 730",
+      "chapter": null,
+      "original": "λόχμην κενώσας ἔνθʼ ἐκρυπτόμην δέμας .",
+      "translation": "abandoning the ambush where I had hidden myself . But she cried out : O my fleet hounds , we are hunted by these men ; but follow me ! follow armed with your thyrsoi in your hands ! We fled and escaped"
+    },
+    {
+      "id": "735",
+      "label": "Section 735",
+      "chapter": null,
+      "original": "βακχῶν σπαραγμόν , αἳ δὲ νεμομέναις χλόην",
+      "translation": "from being torn apart by the Bacchae , but they , with unarmed hands , sprang on the heifers browsing the grass . and you might see one rending asunder a fatted lowing calf , while others tore apart cows ."
+    },
+    {
+      "id": "740",
+      "label": "Section 740",
+      "chapter": null,
+      "original": "εἶδες δʼ ἂν ἢ πλεύρʼ ἢ δίχηλον ἔμβασιν",
+      "translation": "You might see ribs or cloven hooves tossed here and there ; caught in the trees they dripped , dabbled in gore . Bulls who before were fierce , and showed their fury with their horns , stumbled to the ground ,"
+    },
+    {
+      "id": "745",
+      "label": "Section 745",
+      "chapter": null,
+      "original": "μυριάσι χειρῶν ἀγόμενοι νεανίδων .",
+      "translation": "dragged down by countless young hands . The garment of flesh was torn apart faster then you could blink your royal eyes . And like birds raised in their course , they proceeded along the level plains , which by the streams of the Asopus"
+    }
+  ],
+  "prevChunkSlug": "bacchae-ls8d9p-3",
+  "nextChunkSlug": "bacchae-ls8d9p-5"
+}

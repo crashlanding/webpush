@@ -1,0 +1,52 @@
+{
+  "volumeSlug": "euripides-bacchae-iphigenia-at-aulis-rhesus-11kdpx",
+  "volumeTitle": "Bacchae. Iphigenia at Aulis. Rhesus",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "bacchae-ls8d9p-10",
+  "label": "Bacchae (Section 1385 - Section 1390)",
+  "partId": "bacchae-ls8d9p",
+  "partTitle": "Bacchae",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Βάκχαι",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "The Bacchae",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1385",
+      "label": "Section 1385",
+      "chapter": null,
+      "original": "μήτε Κιθαιρῶνʼ ὄσσοισιν ἐγώ ,",
+      "translation": "nor I see Kithairon with my eyes , nor where a memorial of a thyrsos has been dedicated ; let these concern other Bacchae ."
+    },
+    {
+      "id": "1388",
+      "label": "Section 1388",
+      "chapter": null,
+      "original": "πολλαὶ μορφαὶ τῶν δαιμονίων ,",
+      "translation": "Many are the forms of divine things , and the gods bring to pass many things unexpectedly ;"
+    },
+    {
+      "id": "1390",
+      "label": "Section 1390",
+      "chapter": null,
+      "original": "καὶ τὰ δοκηθέντʼ οὐκ ἐτελέσθη ,",
+      "translation": "what is expected has not been accomplished , but the god has found out a means for doing things unthought of . So too has this event turned out ."
+    }
+  ],
+  "prevChunkSlug": "bacchae-ls8d9p-9",
+  "nextChunkSlug": "iphigenia-at-aulis-1nu4gk-1"
+}

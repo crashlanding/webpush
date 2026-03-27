@@ -1,0 +1,100 @@
+{
+  "loebNumber": 41,
+  "sortOrder": 41,
+  "slug": "ovid-heroides-amores-wl94ug",
+  "title": "Heroides. Amores",
+  "volumeLabel": "Heroides. Amores",
+  "authorDisplay": "Ovid",
+  "authors": [
+    "Ovid"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for Heroides. Amores, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "heroides-1pvhb8",
+  "readyChunkCount": 2,
+  "contents": [
+    {
+      "id": "heroides-1pvhb8",
+      "title": "Heroides",
+      "status": "ready",
+      "sectionCount": 51,
+      "chunkSlug": "heroides-1pvhb8",
+      "chunks": [
+        {
+          "slug": "heroides-1pvhb8",
+          "label": "Heroides",
+          "partId": "heroides-1pvhb8",
+          "partTitle": "Heroides",
+          "sectionCount": 51,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "amores-whwavx",
+      "title": "Amores",
+      "status": "ready",
+      "sectionCount": 72,
+      "chunkSlug": "amores-whwavx",
+      "chunks": [
+        {
+          "slug": "amores-whwavx",
+          "label": "Amores",
+          "partId": "amores-whwavx",
+          "partTitle": "Amores",
+          "sectionCount": 72,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "heroides-1pvhb8",
+      "label": "Heroides",
+      "partId": "heroides-1pvhb8",
+      "partTitle": "Heroides",
+      "sectionCount": 51,
+      "status": "ready"
+    },
+    {
+      "slug": "amores-whwavx",
+      "label": "Amores",
+      "partId": "amores-whwavx",
+      "partTitle": "Amores",
+      "sectionCount": 72,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "heroides-1pvhb8",
+      "partTitle": "Heroides",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Epistulae",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0959.phi002.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Epistles",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0959.phi002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "amores-whwavx",
+      "partTitle": "Amores",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Amores",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0959.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Amores",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0959.phi001.perseus-eng2/"
+      }
+    }
+  ]
+}

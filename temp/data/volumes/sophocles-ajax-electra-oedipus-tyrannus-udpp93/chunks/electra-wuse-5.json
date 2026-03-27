@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "sophocles-ajax-electra-oedipus-tyrannus-udpp93",
+  "volumeTitle": "Ajax. Electra. Oedipus Tyrannus",
+  "authorDisplay": "Sophocles",
+  "authors": [
+    "Sophocles"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "electra-wuse-5",
+  "label": "Electra (Section 769 - Section 887)",
+  "partId": "electra-wuse",
+  "partTitle": "Electra",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἠλέκτρα",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Electra",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "769",
+      "label": "Section 769",
+      "chapter": null,
+      "original": "τί δʼ ὧδʼ ἀθυμεῖς , ὦ γύναι , τῷ νῦν λόγῳ ;",
+      "translation": "Why are you so despondent , lady , at my news ?"
+    },
+    {
+      "id": "770",
+      "label": "Section 770",
+      "chapter": null,
+      "original": "δεινὸν τὸ τίκτειν ἐστίν · οὐδὲ γὰρ κακῶς",
+      "translation": "There is a terrible power in motherhood ; a mother may be wronged , but she can feel no hate for those whom she bore ."
+    },
+    {
+      "id": "772",
+      "label": "Section 772",
+      "chapter": null,
+      "original": "μάτην ἄρʼ ἡμεῖς , ὡς ἔοικεν , ἥκομεν .",
+      "translation": "Then it seems that we have come in vain ."
+    },
+    {
+      "id": "773",
+      "label": "Section 773",
+      "chapter": null,
+      "original": "οὔτοι μάτην γε · πῶς γὰρ ἂν μάτην λέγοις ,",
+      "translation": "No , not in vain ; how can you say in vain when you have brought me sure proofs of his death ?"
+    },
+    {
+      "id": "775",
+      "label": "Section 775",
+      "chapter": null,
+      "original": "προσῆλθες , ὅστις τῆς ἐμῆς ψυχῆς γεγώς ,",
+      "translation": "He sprang from my own life , yet deserting my breast and my nurture he became a fugitive , completely alien from me . And me , once he left this land , he saw no more ; but , charging me with the murder of his father , he made terrible threats ,"
+    },
+    {
+      "id": "780",
+      "label": "Section 780",
+      "chapter": null,
+      "original": "ὥστʼ οὔτε νυκτὸς ὕπνον οὔτʼ ἐξ ἡμέρας",
+      "translation": "so that neither by night nor by day could sweet sleep cover me , but the imminent moment made me live always as if I were about to die . Now , however , since today I am rid of terror of him and of this girl — that greater plague"
+    },
+    {
+      "id": "785",
+      "label": "Section 785",
+      "chapter": null,
+      "original": "ξύνοικος ἦν μοι , τοὐμὸν ἐκπίνουσʼ ἀεὶ",
+      "translation": "who shared my home while consuming undiluted my life-blood — now , I think , for all her threats , I shall pass my days in peace ."
+    },
+    {
+      "id": "788",
+      "label": "Section 788",
+      "chapter": null,
+      "original": "οἴμοι τάλαινα · νῦν γὰρ οἰμῶξαι πάρα ,",
+      "translation": "Ah , what misery ! Now , indeed , Orestes , I must mourn your misfortune , since even dead as you are"
+    },
+    {
+      "id": "790",
+      "label": "Section 790",
+      "chapter": null,
+      "original": "πρὸς τῆσδʼ ὑβρίζει μητρός . ἆρʼ ἔχει καλῶς ;",
+      "translation": "you are abused by this woman , your mother ! Is it not just fine ?"
+    },
+    {
+      "id": "791",
+      "label": "Section 791",
+      "chapter": null,
+      "original": "οὔτοι σύ · κεῖνος δʼ ὡς ἔχει καλῶς ἔχει .",
+      "translation": "You certainly are not , but he is fine as he is ."
+    },
+    {
+      "id": "792",
+      "label": "Section 792",
+      "chapter": null,
+      "original": "ἄκουε , Νέμεσι τοῦ θανόντος ἀρτίως .",
+      "translation": "Listen to her , Nemesis of the recently departed !"
+    },
+    {
+      "id": "793",
+      "label": "Section 793",
+      "chapter": null,
+      "original": "ἤκουσεν ὧν δεῖ κἀπεκύρωσεν καλῶς .",
+      "translation": "She has heard who should be heard , and has ordained well ."
+    },
+    {
+      "id": "794",
+      "label": "Section 794",
+      "chapter": null,
+      "original": "ὕβριζε · νῦν γὰρ εὐτυχοῦσα τυγχάνεις .",
+      "translation": "Abuse us ! Fortune is with you today ."
+    },
+    {
+      "id": "795",
+      "label": "Section 795",
+      "chapter": null,
+      "original": "οὔκουν Ὀρέστης καὶ σὺ παύσετον τάδε .",
+      "translation": "You and Orestes will not stop me , then , will you ?"
+    },
+    {
+      "id": "796",
+      "label": "Section 796",
+      "chapter": null,
+      "original": "πεπαύμεθʼ ἡμεῖς , οὐχ ὅπως σὲ παύσομεν .",
+      "translation": "It is we who are stopped ; we cannot stop you ."
+    },
+    {
+      "id": "797",
+      "label": "Section 797",
+      "chapter": null,
+      "original": "πολλῶν ἂν ἥκοις , ὦ ξένʼ , ἄξιος τυχεῖν ,",
+      "translation": "Your coming , sir , deserves large recompense , if you have stopped her clamorous tongue ."
+    },
+    {
+      "id": "799",
+      "label": "Section 799",
+      "chapter": null,
+      "original": "οὐκοῦν ἀποστείχοιμʼ ἄν , εἰ τάδʼ εὖ κυρεῖ .",
+      "translation": "Then I would take my leave , if all is well ."
+    },
+    {
+      "id": "800",
+      "label": "Section 800",
+      "chapter": null,
+      "original": "ἥκιστʼ · ἐπείπερ οὔτʼ ἐμοῦ κατάξιʼ ἂν",
+      "translation": "Not so ; your welcome would then be unworthy of me , and of my ally who sent you . No , come in . Leave her out here to shout out loud her misfortunes and those of her friends . Clytaemnestra and the Paedagogus enter the house ."
+    },
+    {
+      "id": "804",
+      "label": "Section 804",
+      "chapter": null,
+      "original": "ἆρʼ ὑμὶν ὡς ἀλγοῦσα κὠδυνωμένη",
+      "translation": "What do you think ? Does it seem to you that she , poor woman , wept and wailed terribly ,"
+    },
+    {
+      "id": "805",
+      "label": "Section 805",
+      "chapter": null,
+      "original": "δεινῶς δακρῦσαι κἀπικωκῦσαι δοκεῖ",
+      "translation": "like a grieving , anguished woman , over her son thus destroyed ? No , she left us with a laugh ! Ah , miserable me ! Dearest Orestes , how your death has destroyed me ! For your passing has torn from my heart"
+    },
+    {
+      "id": "810",
+      "label": "Section 810",
+      "chapter": null,
+      "original": "αἵ μοι μόναι παρῆσαν ἐλπίδων ἔτι ,",
+      "translation": "the only hopes which still were mine : that you would live to return some day as the avenger of our father , and also of me in my misery . But now , where shall I turn ? I am alone , cheated of you , as of my father . Hereafter I must be a slave again"
+    },
+    {
+      "id": "815",
+      "label": "Section 815",
+      "chapter": null,
+      "original": "ἐν τοῖσιν ἐχθίστοισιν ἀνθρώπων ἐμοὶ",
+      "translation": "among those I most hate , my father ’ s murderers . Am I not in a fine way ? But at least in the time remaining me I will never enter the house to dwell with them . No , lying down at these gates , without a friend , I shall wither away my days ."
+    },
+    {
+      "id": "820",
+      "label": "Section 820",
+      "chapter": null,
+      "original": "πρὸς ταῦτα καινέτω τις , εἰ βαρύνεται ,",
+      "translation": "Therefore , if anyone in the house be angry , let him kill me . It is a favor , if I die , but a pain , if I live . I desire life no more ."
+    },
+    {
+      "id": "1.823",
+      "label": "Section 1.823",
+      "chapter": null,
+      "original": "ποῦ ποτε κεραυνοὶ Διὸς ἢ ποῦ φαέθων",
+      "translation": "Where are the thunderbolts of Zeus , or where the"
+    },
+    {
+      "id": "1.825",
+      "label": "Section 1.825",
+      "chapter": null,
+      "original": "Ἅλιος , εἰ ταῦτʼ ἐφορῶντες κρύπτουσιν ἕκηλοι ;",
+      "translation": "shining Sun , if they look upon these things and quietly cover them over ?"
+    },
+    {
+      "id": "1.827",
+      "label": "Section 1.827",
+      "chapter": null,
+      "original": "ὦ παῖ , τί δακρύεις ;",
+      "translation": "Ah , me , ah , me !"
+    },
+    {
+      "id": "1.828",
+      "label": "Section 1.828",
+      "chapter": null,
+      "original": "φεῦ .",
+      "translation": "My child , why do you weep ?"
+    },
+    {
+      "id": "1.830",
+      "label": "Section 1.830",
+      "chapter": null,
+      "original": "μηδὲν μέγʼ ἀΰσῃς .",
+      "translation": "Give no cry of bad omen !"
+    },
+    {
+      "id": "1.831",
+      "label": "Section 1.831",
+      "chapter": null,
+      "original": "ἀπολεῖς .",
+      "translation": "How do you mean ?"
+    },
+    {
+      "id": "1.832",
+      "label": "Section 1.832",
+      "chapter": null,
+      "original": "πῶς ;",
+      "translation": "If you suggest that I keep hope for those who have surely passed to Hades ,"
+    },
+    {
+      "id": "1.835",
+      "label": "Section 1.835",
+      "chapter": null,
+      "original": "μᾶλλον ἐπεμβάσει .",
+      "translation": "you will trample even harder upon me as I waste away ."
+    },
+    {
+      "id": "1.836",
+      "label": "Section 1.836",
+      "chapter": null,
+      "original": "οἶδα γὰρ ἄνακτʼ Ἀμφιάρεων χρυσοδέτοις",
+      "translation": "No , for I know that the prince Amphiaraus was ensnared by a woman ’ s chain of gold and swallowed up . And now beneath the earth —"
+    },
+    {
+      "id": "1.840",
+      "label": "Section 1.840",
+      "chapter": null,
+      "original": "ἒ ἔ , ἰώ .",
+      "translation": "ah , me , ah , me !"
+    },
+    {
+      "id": "1.841",
+      "label": "Section 1.841",
+      "chapter": null,
+      "original": "πάμψυχος ἀνάσσει .",
+      "translation": "— He reigns supreme with the wits of the living ."
+    },
+    {
+      "id": "1.842",
+      "label": "Section 1.842",
+      "chapter": null,
+      "original": "φεῦ .",
+      "translation": "ah , me !"
+    },
+    {
+      "id": "1.843",
+      "label": "Section 1.843",
+      "chapter": null,
+      "original": "φεῦ δῆτʼ · ὀλοὰ γὰρ",
+      "translation": "ah , me , indeed ! For the murderess —"
+    },
+    {
+      "id": "1.844",
+      "label": "Section 1.844",
+      "chapter": null,
+      "original": "ἐδάμη .",
+      "translation": "Was slain ."
+    },
+    {
+      "id": "1.845",
+      "label": "Section 1.845",
+      "chapter": null,
+      "original": "ναί .",
+      "translation": "Yes ."
+    },
+    {
+      "id": "1.846",
+      "label": "Section 1.846",
+      "chapter": null,
+      "original": "οἶδʼ οἶδʼ · ἐφάνη γὰρ μελέτωρ",
+      "translation": "I know it ; I know it . For a champion arose to avenge the grieving dead . But for me no champion remains : he who yet remained has been snatched clean away ."
+    },
+    {
+      "id": "2.849",
+      "label": "Section 2.849",
+      "chapter": null,
+      "original": "δειλαία δειλαίων κυρεῖς .",
+      "translation": "Unhappy are you , unhappy your destiny !"
+    },
+    {
+      "id": "2.850",
+      "label": "Section 2.850",
+      "chapter": null,
+      "original": "κἀγὼ τοῦδʼ ἴστωρ , ὑπερίστωρ ,",
+      "translation": "How well I know that , all too well , with my life swept through all the months by abundant terrors and horrors !"
+    },
+    {
+      "id": "2.853",
+      "label": "Section 2.853",
+      "chapter": null,
+      "original": "εἴδομεν ἁθρήνεις .",
+      "translation": "We have witnessed the events for which you mourn ."
+    },
+    {
+      "id": "2.855",
+      "label": "Section 2.855",
+      "chapter": null,
+      "original": "μή μέ νυν μηκέτι",
+      "translation": "Cease , then , to divert me from it , since no longer —"
+    },
+    {
+      "id": "2.857",
+      "label": "Section 2.857",
+      "chapter": null,
+      "original": "τί φής ;",
+      "translation": "— Since I no longer have hope in my brother , the seed of our shared noble line , to aid me ."
+    },
+    {
+      "id": "2.860",
+      "label": "Section 2.860",
+      "chapter": null,
+      "original": "πᾶσι θνατοῖς ἔφυ μόρος .",
+      "translation": "Nature ordains death as the destiny of all mortals ."
+    },
+    {
+      "id": "2.861",
+      "label": "Section 2.861",
+      "chapter": null,
+      "original": "ἦ καὶ χαλάργοις ἐν ἁμίλλαις",
+      "translation": "What , a death like the one which that ill-fated one died beneath a race of swift hooves , entangled in the cutting , dragging reins ?"
+    },
+    {
+      "id": "2.864",
+      "label": "Section 2.864",
+      "chapter": null,
+      "original": "ἄσκοπος ἁ λώβα .",
+      "translation": "The mutilation is beyond thought !"
+    },
+    {
+      "id": "2.865",
+      "label": "Section 2.865",
+      "chapter": null,
+      "original": "πῶς γὰρ οὔκ ; εἰ ξένος",
+      "translation": "Yes , so it is , when in foreign soil , without being tended by my hands —"
+    },
+    {
+      "id": "2.867",
+      "label": "Section 2.867",
+      "chapter": null,
+      "original": "παπαῖ .",
+      "translation": "Ah , no !"
+    },
+    {
+      "id": "2.868",
+      "label": "Section 2.868",
+      "chapter": null,
+      "original": "κέκευθεν , οὔτε του τάφου ἀντιάσας",
+      "translation": "— he has been buried not receiving from me either burial"
+    },
+    {
+      "id": "2.870",
+      "label": "Section 2.870",
+      "chapter": null,
+      "original": "οὔτε γόων παρʼ ἡμῶν .",
+      "translation": "or lamentation ."
+    },
+    {
+      "id": "871",
+      "label": "Section 871",
+      "chapter": null,
+      "original": "ὑφʼ ἡδονῆς τοι , φιλτάτη , διώκομαι",
+      "translation": "I am pursued by joy , dear sister , and I disregard seemliness in order to come with speed . I bring joyful news to relieve your former troubles and grief ."
+    },
+    {
+      "id": "875",
+      "label": "Section 875",
+      "chapter": null,
+      "original": "πόθεν δʼ ἂν εὕροις τῶν ἐμῶν σὺ πημάτων",
+      "translation": "And from where could you find help for my sufferings , when no cure for them can be imagined ?"
+    },
+    {
+      "id": "877",
+      "label": "Section 877",
+      "chapter": null,
+      "original": "πάρεστʼ Ὀρέστης ἡμίν , ἴσθι τοῦτʼ ἐμοῦ",
+      "translation": "Orestes is with us — know this from my lips — plainly visible , just as you see me now ."
+    },
+    {
+      "id": "879",
+      "label": "Section 879",
+      "chapter": null,
+      "original": "ἀλλʼ ἦ μέμηνας , ὦ τάλαινα , κἀπὶ τοῖς",
+      "translation": "What , are you insane , poor girl ?"
+    },
+    {
+      "id": "880",
+      "label": "Section 880",
+      "chapter": null,
+      "original": "σαυτῆς κακοῖσι κἀπὶ τοῖς ἐμοῖς γελᾷς ;",
+      "translation": "Do you laugh at my sorrows and your own ?"
+    },
+    {
+      "id": "881",
+      "label": "Section 881",
+      "chapter": null,
+      "original": "μὰ τὴν πατρῴαν ἑστίαν , ἀλλʼ οὐχ ὕβρει",
+      "translation": "No , by our father ’ s hearth , I do not speak in mockery . I tell you that he truly is with us ."
+    },
+    {
+      "id": "883",
+      "label": "Section 883",
+      "chapter": null,
+      "original": "οἴμοι τάλαινα · καὶ τίνος βροτῶν λόγον",
+      "translation": "Ah , miserable girl ! And from whom on earth have you heard this tale , which you believe so lightly ?"
+    },
+    {
+      "id": "885",
+      "label": "Section 885",
+      "chapter": null,
+      "original": "ἐγὼ μὲν ἐξ ἐμοῦ τε κοὐκ ἄλλης , σαφῆ",
+      "translation": "I have it on my own knowledge , no one else ’ s ; I have seen clear proofs ."
+    },
+    {
+      "id": "887",
+      "label": "Section 887",
+      "chapter": null,
+      "original": "τίνʼ , ὦ τάλαινʼ , ἔχουσα πίστιν ; ἐς τί μοι",
+      "translation": "What have you seen , poor girl , to warrant your belief ? What did you see , that you are warmed by this unquenchable fire ?"
+    }
+  ],
+  "prevChunkSlug": "electra-wuse-4",
+  "nextChunkSlug": "electra-wuse-6"
+}

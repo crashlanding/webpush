@@ -1,0 +1,100 @@
+{
+  "loebNumber": 123,
+  "sortOrder": 123,
+  "slug": "plato-theaetetus-sophist-hgqb0k",
+  "title": "Theaetetus. Sophist",
+  "volumeLabel": "Theaetetus. Sophist",
+  "authorDisplay": "Plato",
+  "authors": [
+    "Plato"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Theaetetus. Sophist, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "theaetetus-8am3u4",
+  "readyChunkCount": 2,
+  "contents": [
+    {
+      "id": "theaetetus-8am3u4",
+      "title": "Theaetetus",
+      "status": "ready",
+      "sectionCount": 69,
+      "chunkSlug": "theaetetus-8am3u4",
+      "chunks": [
+        {
+          "slug": "theaetetus-8am3u4",
+          "label": "Theaetetus",
+          "partId": "theaetetus-8am3u4",
+          "partTitle": "Theaetetus",
+          "sectionCount": 69,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "sophist-1t1iah",
+      "title": "Sophist",
+      "status": "ready",
+      "sectionCount": 53,
+      "chunkSlug": "sophist-1t1iah",
+      "chunks": [
+        {
+          "slug": "sophist-1t1iah",
+          "label": "Sophist",
+          "partId": "sophist-1t1iah",
+          "partTitle": "Sophist",
+          "sectionCount": 53,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "theaetetus-8am3u4",
+      "label": "Theaetetus",
+      "partId": "theaetetus-8am3u4",
+      "partTitle": "Theaetetus",
+      "sectionCount": 69,
+      "status": "ready"
+    },
+    {
+      "slug": "sophist-1t1iah",
+      "label": "Sophist",
+      "partId": "sophist-1t1iah",
+      "partTitle": "Sophist",
+      "sectionCount": 53,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "theaetetus-8am3u4",
+      "partTitle": "Theaetetus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Θεαίτητος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg006.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Theaetetus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg006.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "sophist-1t1iah",
+      "partTitle": "Sophist",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Σοφιστής",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg007.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Sophist",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg007.perseus-eng2/"
+      }
+    }
+  ]
+}

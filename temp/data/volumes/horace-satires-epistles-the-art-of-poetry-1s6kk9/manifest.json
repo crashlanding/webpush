@@ -1,0 +1,75 @@
+{
+  "loebNumber": 194,
+  "sortOrder": 194,
+  "slug": "horace-satires-epistles-the-art-of-poetry-1s6kk9",
+  "title": "Satires. Epistles. The Art of Poetry",
+  "volumeLabel": "Satires. Epistles. The Art of Poetry",
+  "authorDisplay": "Horace",
+  "authors": [
+    "Horace"
+  ],
+  "language": "latin",
+  "summary": "1 of 3 contents in Satires. Epistles. The Art of Poetry are live from Scaife, while the remaining contents stay visible until a confident pair is available.",
+  "status": "partial",
+  "defaultChunkSlug": "satires-1mh3kn",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "satires-1mh3kn",
+      "title": "Satires",
+      "status": "ready",
+      "sectionCount": 3,
+      "chunkSlug": "satires-1mh3kn",
+      "chunks": [
+        {
+          "slug": "satires-1mh3kn",
+          "label": "Satires",
+          "partId": "satires-1mh3kn",
+          "partTitle": "Satires",
+          "sectionCount": 3,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "epistles-1pmuq5",
+      "title": "Epistles",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Epistles."
+    },
+    {
+      "id": "the-art-of-poetry-18ipa1",
+      "title": "The Art of Poetry",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "The original and English Scaife TOCs could not be aligned."
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "satires-1mh3kn",
+      "label": "Satires",
+      "partId": "satires-1mh3kn",
+      "partTitle": "Satires",
+      "sectionCount": 3,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "satires-1mh3kn",
+      "partTitle": "Satires",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Satyrarum libri",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0893.phi004.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Satires",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0893.phi004.perseus-eng2/"
+      }
+    }
+  ]
+}

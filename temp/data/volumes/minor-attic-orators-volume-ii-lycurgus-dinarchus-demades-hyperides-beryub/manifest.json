@@ -1,0 +1,82 @@
+{
+  "loebNumber": 395,
+  "sortOrder": 395,
+  "slug": "minor-attic-orators-volume-ii-lycurgus-dinarchus-demades-hyperides-beryub",
+  "title": "Volume II: Lycurgus. Dinarchus. Demades. Hyperides",
+  "volumeLabel": "Volume II: Lycurgus. Dinarchus. Demades. Hyperides",
+  "authorDisplay": "Minor Attic Orators",
+  "authors": [
+    "Minor Attic Orators"
+  ],
+  "language": "greek",
+  "summary": "1 of 4 contents in Volume II: Lycurgus. Dinarchus. Demades. Hyperides are live from Scaife, while the remaining contents stay visible until a confident pair is available.",
+  "status": "partial",
+  "defaultChunkSlug": "lycurgus-11j0t8",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "lycurgus-11j0t8",
+      "title": "Lycurgus",
+      "status": "ready",
+      "sectionCount": 62,
+      "chunkSlug": "lycurgus-11j0t8",
+      "chunks": [
+        {
+          "slug": "lycurgus-11j0t8",
+          "label": "Lycurgus",
+          "partId": "lycurgus-11j0t8",
+          "partTitle": "Lycurgus",
+          "sectionCount": 62,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "dinarchus-rvasrh",
+      "title": "Dinarchus",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Dinarchus."
+    },
+    {
+      "id": "demades-1h6o0e",
+      "title": "Demades",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Demades."
+    },
+    {
+      "id": "hyperides-19kcta",
+      "title": "Hyperides",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Hyperides."
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "lycurgus-11j0t8",
+      "label": "Lycurgus",
+      "partId": "lycurgus-11j0t8",
+      "partTitle": "Lycurgus",
+      "sectionCount": 62,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "lycurgus-11j0t8",
+      "partTitle": "Lycurgus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Λυκοῦργος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg004.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Lycurgus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg004.perseus-eng2/"
+      }
+    }
+  ]
+}

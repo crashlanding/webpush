@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "aeschylus-persians-seven-against-thebes-suppliants-prometheus-bound-ol57q",
+  "volumeTitle": "Persians. Seven against Thebes. Suppliants. Prometheus Bound",
+  "authorDisplay": "Aeschylus",
+  "authors": [
+    "Aeschylus"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "prometheus-bound-1dtq9c-4",
+  "label": "Prometheus Bound (Section 518 - Section 687)",
+  "partId": "prometheus-bound-1dtq9c",
+  "partTitle": "Prometheus Bound",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Προμηθεὺς Δεσμώτης",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg003.1st1K-grc1/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Prometheus Bound",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg003.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "518",
+      "label": "Section 518",
+      "chapter": null,
+      "original": "οὔκουν ἂν ἐκφύγοι γε τὴν πεπρωμένην .",
+      "translation": "Yes , in that even he cannot escape what is foretold ."
+    },
+    {
+      "id": "519",
+      "label": "Section 519",
+      "chapter": null,
+      "original": "τί γὰρ πέπρωται Ζηνὶ πλὴν [*] ἀεὶ κρατεῖν ;",
+      "translation": "Why , what is fated for Zeus except to hold eternal sway ?"
+    },
+    {
+      "id": "520",
+      "label": "Section 520",
+      "chapter": null,
+      "original": "τοῦτ οὐκέτ ἂν πύθοιο μηδὲ λιπάρει .",
+      "translation": "This you must not learn yet ; do not be over-eager ."
+    },
+    {
+      "id": "521",
+      "label": "Section 521",
+      "chapter": null,
+      "original": "ἦ πού τι σεμνόν ἐστιν ὃ ξυναμπέχεις .",
+      "translation": "It is some solemn secret , surely , that you enshroud in mystery ."
+    },
+    {
+      "id": "522",
+      "label": "Section 522",
+      "chapter": null,
+      "original": "ἄλλου λόγου μέμνησθε , τόνδε δ οὐδαμῶς",
+      "translation": "Think of some other subject , for it is not the proper time to speak of this . No matter what , this must be kept concealed ; for it is by safeguarding it that"
+    },
+    {
+      "id": "525",
+      "label": "Section 525",
+      "chapter": null,
+      "original": "δεσμοὺς ἀεικεῖς καὶ δύας ἐκφυγγάνω .",
+      "translation": "I am to escape my dishonorable bonds and outrage ."
+    },
+    {
+      "id": "1.526",
+      "label": "Section 1.526",
+      "chapter": null,
+      "original": "μηδάμ ὁ πάντα νέμων",
+      "translation": "May Zeus , who apportions everything , never set his power in conflict with my will ,"
+    },
+    {
+      "id": "1.530",
+      "label": "Section 1.530",
+      "chapter": null,
+      "original": "θοίναις ποτινισσομένα",
+      "translation": "nor may I be slow to approach the gods , with holy sacrifices of oxen slain , by the side of the ceaseless stream of Oceanus , my father ;"
+    },
+    {
+      "id": "1.535",
+      "label": "Section 1.535",
+      "chapter": null,
+      "original": "καὶ μήποτ ἐκτακείη :",
+      "translation": "and may I not offend in speech ; but may this rule abide in my heart and never fade away ."
+    },
+    {
+      "id": "1.537",
+      "label": "Section 1.537",
+      "chapter": null,
+      "original": "τὸν μακρὸν τείνειν βίον",
+      "translation": "Sweet it is to pass all the length of life amid confident hopes , feeding the heart in glad festivities . But I shudder"
+    },
+    {
+      "id": "1.540",
+      "label": "Section 1.540",
+      "chapter": null,
+      "original": "φρίσσω δέ σε δερκομένα",
+      "translation": "as I look on you , racked by infinite tortures . You have no fear of Zeus , Prometheus , but in self-will you reverence mortals too much ."
+    },
+    {
+      "id": "2.545",
+      "label": "Section 2.545",
+      "chapter": null,
+      "original": "φέρ ὅπως ἄχαρις χάρις , [*] ὦ φίλος , εἰ-",
+      "translation": "Come , my friend , how mutual was your reciprocity ? Tell me , what kind of help is there in creatures of a day ? What aid ? Did you not see the helpless infirmity , no better than a dream , in which the blind"
+    },
+    {
+      "id": "2.550",
+      "label": "Section 2.550",
+      "chapter": null,
+      "original": "ἀλαὸν δέδεται [*] γένος ἐμπεποδισμένον :",
+      "translation": "generation of men is shackled ? Never shall the counsels of mortal men transgress the ordering of Zeus ."
+    },
+    {
+      "id": "2.552",
+      "label": "Section 2.552",
+      "chapter": null,
+      "original": "θνατῶν παρεξίασι βουλαί .",
+      "translation": "I have learned this lesson from observing the luck , Prometheus , that has brought about your ruin . And the difference in the song stole into my thought"
+    },
+    {
+      "id": "2.555",
+      "label": "Section 2.555",
+      "chapter": null,
+      "original": "τὸ διαμφίδιον δέ μοι μέλος προσέπτα",
+      "translation": "— this song and that , which , about your bridal bed and bath , I raised to grace your marriage , when you wooed with gifts"
+    },
+    {
+      "id": "2.560",
+      "label": "Section 2.560",
+      "chapter": null,
+      "original": "πείθων [*] δάμαρτα κοινόλεκτρον .",
+      "translation": "and won my sister Hesione to be your wedded wife ."
+    },
+    {
+      "id": "561",
+      "label": "Section 561",
+      "chapter": null,
+      "original": "τίς γῆ ; τί γένος ; τίνα φῶ λεύσσειν",
+      "translation": "What land is this ? What people ? By what name am I to call the one I see exposed to the tempest in bonds of rock ? What offence have you committed that as punishment you are doomed to destruction ?"
+    },
+    {
+      "id": "565",
+      "label": "Section 565",
+      "chapter": null,
+      "original": "σήμηνον ὅποι",
+      "translation": "Tell me to what region of the earth I have wandered in my wretchedness ?"
+    },
+    {
+      "id": "566",
+      "label": "Section 566",
+      "chapter": null,
+      "original": "ἆ ἆ ,",
+      "translation": "Oh , oh ! Aah ! Aah ! A gad-fly , phantom of earth-born Argus is stinging me again ! Keep him away , O Earth ! I am fearful when I behold that myriad-eyed herdsman . He travels onward with his crafty gaze upon me ;"
+    },
+    {
+      "id": "570",
+      "label": "Section 570",
+      "chapter": null,
+      "original": "ὁ δὲ πορεύεται δόλιον ὄμμ ἔχων ,",
+      "translation": "not even in death does the earth conceal him , but passing from the shades he hounds me , the forlorn one , and drives me famished along the sands of the seashore ."
+    },
+    {
+      "id": "1.575",
+      "label": "Section 1.575",
+      "chapter": null,
+      "original": "ἀχέτας ὑπνοδόταν νόμον : ἰὼ ἰὼ πόποι , [*]",
+      "translation": "The waxen pipe drones forth in accompaniment a clear-sounding slumberous strain . Alas , alas ! Where is my far-roaming wandering course taking me ? In what , O son of Cronus , in what have you found offence so that you have bound me"
+    },
+    {
+      "id": "1.580",
+      "label": "Section 1.580",
+      "chapter": null,
+      "original": "οἰστρηλάτῳ δὲ δείματι δειλαίαν",
+      "translation": "to this yoke of misery — aah ! are you harassing a wretched maiden to frenzy by this terror of the pursuing gadfly ? Consume me with fire , or hide me in the earth , or give me to the monsters of the deep to devour ; but do not grudge , O Lord , the favor that I pray for ."
+    },
+    {
+      "id": "1.585",
+      "label": "Section 1.585",
+      "chapter": null,
+      "original": "εὐγμάτων , ἄναξ .",
+      "translation": "My far-roaming wanderings have taught me enough , and I cannot discern how to escape my sufferings . Do you hear the voice of the horned virgin ?"
+    },
+    {
+      "id": "1.589",
+      "label": "Section 1.589",
+      "chapter": null,
+      "original": "πῶς δ οὐ κλύω τῆς οἰστροδινήτου κόρης ,",
+      "translation": "How can I fail to hear the maiden frenzied by the gadfly , the"
+    },
+    {
+      "id": "1.590",
+      "label": "Section 1.590",
+      "chapter": null,
+      "original": "τῆς Ἰναχείας ; ἣ Διὸς θάλπει κέαρ",
+      "translation": "daughter of Inachus ? It is she who fires the heart of Zeus with passion , and now , through Hera ’ s hate , is disciplined by force with interminable wandering ."
+    },
+    {
+      "id": "1.593",
+      "label": "Section 1.593",
+      "chapter": null,
+      "original": "πόθεν ἐμοῦ σὺ πατρὸς ὄνομ ἀπύεις ;",
+      "translation": "Why do you call my father ’ s name ? Tell me , the unfortunate maid , who you are ,"
+    },
+    {
+      "id": "1.595",
+      "label": "Section 1.595",
+      "chapter": null,
+      "original": "τὰν ταλαίπωρον ὧδ ἔτυμα προσθροεῖς :",
+      "translation": "unhappy wretch , that you thus correctly address the miserable maiden , and have named the heaven-sent plague that wastes and stings me with its maddening goad . Ah me ! In frenzied bounds I come ,"
+    },
+    {
+      "id": "1.600",
+      "label": "Section 1.600",
+      "chapter": null,
+      "original": "λαβρόσυτος [*] ἦλθον , Ἥρασ [*]",
+      "translation": "driven by torturing hunger , victim of Hera ’ s vengeful purpose . Who of the company of the unfortunate endures — aah ! aah !— sufferings such as mine ? Oh make it clear to me"
+    },
+    {
+      "id": "1.605",
+      "label": "Section 1.605",
+      "chapter": null,
+      "original": "τέκμηρον ὅ τι μ ἐπαμμένει",
+      "translation": "what misery I am fated to suffer , what remedy is there , what cure , for my affliction . Reveal it , if you have the knowledge . Oh speak , declare it to the unfortunate , wandering virgin ."
+    },
+    {
+      "id": "609",
+      "label": "Section 609",
+      "chapter": null,
+      "original": "λέξω τορῶς σοι πᾶν ὅπερ [*] χρῄζεις μαθεῖν ,",
+      "translation": "I will tell you plainly all that you would like to know ,"
+    },
+    {
+      "id": "610",
+      "label": "Section 610",
+      "chapter": null,
+      "original": "οὐκ ἐμπλέκων αἰνίγματ , ἀλλ ἁπλῷ λόγῳ ,",
+      "translation": "not weaving riddles , but in simple language , since it is right to speak openly to friends . Look , I whom you see am Prometheus , who gave fire to mankind ."
+    },
+    {
+      "id": "613",
+      "label": "Section 613",
+      "chapter": null,
+      "original": "ὦ κοινὸν ὠφέλημα θνητοῖσιν φανείς ,",
+      "translation": "O you who have shown yourself a common benefactor of mankind , wretched Prometheus , why do you suffer so ?"
+    },
+    {
+      "id": "615",
+      "label": "Section 615",
+      "chapter": null,
+      "original": "ἁρμοῖ πέπαυμαι τοὺς ἐμοὺς θρηνῶν πόνους .",
+      "translation": "I have only just now finished lamenting my own calamities ."
+    },
+    {
+      "id": "616",
+      "label": "Section 616",
+      "chapter": null,
+      "original": "οὔκουν πόροις ἂν τήνδε δωρεὰν ἐμοί ;",
+      "translation": "You will not then do this favor for me ?"
+    },
+    {
+      "id": "617",
+      "label": "Section 617",
+      "chapter": null,
+      "original": "λέγ ἥντιν αἰτεῖ : πᾶν γὰρ ἂν [*] πύθοιό μου .",
+      "translation": "Say what it is you wish ; for you can learn all from me ."
+    },
+    {
+      "id": "618",
+      "label": "Section 618",
+      "chapter": null,
+      "original": "σήμηνον ὅστις ἐν φάραγγί σ ὤχμασε .",
+      "translation": "Tell me who has bound you fast in this ravine ."
+    },
+    {
+      "id": "619",
+      "label": "Section 619",
+      "chapter": null,
+      "original": "βούλευμα μὲν τὸ Δῖον , Ἡφαίστου δὲ χείρ .",
+      "translation": "Zeus by his will , Hephaestus by his hand ."
+    },
+    {
+      "id": "620",
+      "label": "Section 620",
+      "chapter": null,
+      "original": "ποίων δὲ ποινὰς ἀμπλακημάτων τίνεις ;",
+      "translation": "And for what offence do you pay the penalty ?"
+    },
+    {
+      "id": "621",
+      "label": "Section 621",
+      "chapter": null,
+      "original": "τοσοῦτον ἀρκῶ σοι σαφηνίσας [*] μόνον .",
+      "translation": "It suffices that I have made clear to you this much and no more ."
+    },
+    {
+      "id": "622",
+      "label": "Section 622",
+      "chapter": null,
+      "original": "καὶ πρός γε τούτοις τέρμα τῆς ἐμῆς πλάνης",
+      "translation": "No , also tell me the end of my wandering — what time is set for wretched me ."
+    },
+    {
+      "id": "624",
+      "label": "Section 624",
+      "chapter": null,
+      "original": "τὸ μὴ μαθεῖν σοι κρεῖσσον ἢ μαθεῖν τάδε .",
+      "translation": "It would be better not to know than to know , in your case ."
+    },
+    {
+      "id": "625",
+      "label": "Section 625",
+      "chapter": null,
+      "original": "μήτοι με κρύψῃς τοῦθ ὅπερ μέλλω παθεῖν .",
+      "translation": "I beg you , do not hide from me what I am doomed to suffer ."
+    },
+    {
+      "id": "626",
+      "label": "Section 626",
+      "chapter": null,
+      "original": "ἀλλ οὐ μεγαίρω τοῦδέ σοι [*] δωρήματος .",
+      "translation": "No , it is not that I do not want to grant your request ."
+    },
+    {
+      "id": "627",
+      "label": "Section 627",
+      "chapter": null,
+      "original": "τί δῆτα μέλλεις μὴ [*] οὐ γεγωνίσκειν τὸ πᾶν ;",
+      "translation": "Why then your reluctance to tell me everything ?"
+    },
+    {
+      "id": "628",
+      "label": "Section 628",
+      "chapter": null,
+      "original": "φθόνος μὲν οὐδείς , σὰς δ ὀκνῶ θρᾶξαι φρένας .",
+      "translation": "I am not unwilling ; but I hesitate to crush your spirit ."
+    },
+    {
+      "id": "629",
+      "label": "Section 629",
+      "chapter": null,
+      "original": "μή μου προκήδου μᾶσσον ὧν [*] ἐμοὶ γλυκύ .",
+      "translation": "Do not be more kind to me than I myself desire ."
+    },
+    {
+      "id": "630",
+      "label": "Section 630",
+      "chapter": null,
+      "original": "ἐπεὶ προθυμεῖ , χρὴ λέγειν : ἄκουε δή .",
+      "translation": "Since you insist , I must speak . Listen , then ."
+    },
+    {
+      "id": "631",
+      "label": "Section 631",
+      "chapter": null,
+      "original": "μήπω γε : μοῖραν δ ἡδονῆς κἀμοὶ πόρε .",
+      "translation": "No , not yet . Grant us too a portion of the pleasure . Let us first inquire the story of her affliction and let her with her own lips relate the events that brought horrid calamity upon her . Then let her be instructed by you as to the toils still to come ."
+    },
+    {
+      "id": "635",
+      "label": "Section 635",
+      "chapter": null,
+      "original": "σὸν ἔργον , Ἰοῖ , ταῖσδ ὑπουργῆσαι χάριν ,",
+      "translation": "It is for you , Io , to grant them this favor , especially since they are your father ’ s sisters . For it is worthwhile to indulge in weeping and in wailing over evil fortunes when one is likely to win the tribute of a tear from the listener ."
+    },
+    {
+      "id": "640",
+      "label": "Section 640",
+      "chapter": null,
+      "original": "οὐκ οἶδ ὅπως ὑμῖν γ [*] ἀπιστῆσαί με χρή ,",
+      "translation": "I do not know how to refuse you . You shall learn in truthful speech all that you would like to know . Yet I am ashamed to tell about the storm of calamity sent by Heaven , of the marring of my form , and of the source from which it swooped upon me , wretched that I am ."
+    },
+    {
+      "id": "645",
+      "label": "Section 645",
+      "chapter": null,
+      "original": "ἀεὶ γὰρ ὄψεις ἔννυχοι πωλεύμεναι",
+      "translation": "For visions of the night , always haunting my maiden chamber , sought to beguile me with seductive words , saying : O damsel greatly blessed of fortune , why linger in your maidenhood so long when it is within your power to win a union of the highest ? Zeus is inflamed by passion ’ s dart"
+    },
+    {
+      "id": "650",
+      "label": "Section 650",
+      "chapter": null,
+      "original": "πρὸς σοῦ τέθαλπται καὶ συναίρεσθαι Κύπριν",
+      "translation": "for you and is eager to unite with you in love . Do not , my child , spurn the bed of Zeus , but go forth to Lerna ’ s meadow land of pastures deep and to your father ’ s flocks and where his cattle feed , so that the eye of Zeus may find respite from its longing ."
+    },
+    {
+      "id": "655",
+      "label": "Section 655",
+      "chapter": null,
+      "original": "τοιοῖσδε πάσας εὐφρόνας ὀνείρασι",
+      "translation": "By such dreams was I , to my distress , beset night after night , until at last I gained courage to tell my father of the dreams that haunted me . And he sent many a messenger to Pytho and Dodona so that he might discover"
+    },
+    {
+      "id": "660",
+      "label": "Section 660",
+      "chapter": null,
+      "original": "δρῶντ ἢ λέγοντα δαίμοσιν πράσσειν φίλα .",
+      "translation": "what deed or word of his would find favor with the gods . But they returned with report of oracles , riddling , obscure , and darkly worded . Then at last there came an unmistakable utterance to Inachus , charging and commanding him clearly that"
+    },
+    {
+      "id": "665",
+      "label": "Section 665",
+      "chapter": null,
+      "original": "ἔξω δόμων τε καὶ πάτρας ὠθεῖν ἐμέ ,",
+      "translation": "he must thrust me forth from home and native land to roam at large to the remotest confines of the earth ; and , if he would not , a fiery thunderbolt would come from Zeus that would utterly destroy his whole race .\nYielding obedience to such prophetic utterances of Loxias ,"
+    },
+    {
+      "id": "670",
+      "label": "Section 670",
+      "chapter": null,
+      "original": "ἐξήλασέν με κἀπέκλῃσε δωμάτων",
+      "translation": "he drove me away and barred me from his house , against his will and mine ; but the constraint of Zeus forced him to act by necessity . Immediately my form and mind were distorted , and with horns , as you see , upon my forehead ,"
+    },
+    {
+      "id": "675",
+      "label": "Section 675",
+      "chapter": null,
+      "original": "μύωπι χρισθεῖσ ἐμμανεῖ σκιρτήματι",
+      "translation": "stung by a sharp-fanged gadfly I rushed with frantic bounds to Cerchnea ’ s sweet stream and Lerna ’ s spring . But Argus , the earth-born herdsman , untempered in his rage , pursued me , peering with his many eyes upon my steps ."
+    },
+    {
+      "id": "680",
+      "label": "Section 680",
+      "chapter": null,
+      "original": "ἀπροσδόκητος δ αὐτὸν ἀφνίδιος [*] μόρος",
+      "translation": "A sudden death robbed him of life unexpectedly ; while I , still tormented by the gadfly , am driven on from land to land before the heaven-sent plague .\nThat is what happened ; and if you can declare what toils still remain , reveal them . Do not , from pity , seek"
+    },
+    {
+      "id": "685",
+      "label": "Section 685",
+      "chapter": null,
+      "original": "σύνθαλπε μύθοις ψευδέσιν : [*] νόσημα γὰρ",
+      "translation": "to soothe me with untrue words ; for I consider false words to be the foulest sickness ."
+    },
+    {
+      "id": "687",
+      "label": "Section 687",
+      "chapter": null,
+      "original": "ἔα ἔα , ἄπεχε , φεῦ :",
+      "translation": "Oh , ah , go away , alas ! Never , oh never , did I dream that words so strange would greet my ears ;"
+    }
+  ],
+  "prevChunkSlug": "prometheus-bound-1dtq9c-3",
+  "nextChunkSlug": "prometheus-bound-1dtq9c-5"
+}

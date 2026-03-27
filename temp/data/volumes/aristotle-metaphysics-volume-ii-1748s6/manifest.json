@@ -1,0 +1,61 @@
+{
+  "loebNumber": 287,
+  "sortOrder": 287,
+  "slug": "aristotle-metaphysics-volume-ii-1748s6",
+  "title": "Metaphysics, Volume II",
+  "volumeLabel": "Metaphysics, Volume II",
+  "authorDisplay": "Aristotle",
+  "authors": [
+    "Aristotle"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Metaphysics, Volume II. Metaphysics, Volume II currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "metaphysics-volume-ii-zlqe4w",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "metaphysics-volume-ii-zlqe4w",
+      "title": "Metaphysics, Volume II",
+      "status": "ready",
+      "sectionCount": 54,
+      "chunkSlug": "metaphysics-volume-ii-zlqe4w",
+      "chunks": [
+        {
+          "slug": "metaphysics-volume-ii-zlqe4w",
+          "label": "Metaphysics, Volume II",
+          "partId": "metaphysics-volume-ii-zlqe4w",
+          "partTitle": "Metaphysics, Volume II",
+          "sectionCount": 54,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "metaphysics-volume-ii-zlqe4w",
+      "label": "Metaphysics, Volume II",
+      "partId": "metaphysics-volume-ii-zlqe4w",
+      "partTitle": "Metaphysics, Volume II",
+      "sectionCount": 54,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "metaphysics-volume-ii-zlqe4w",
+      "partTitle": "Metaphysics, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "τὰ Μετὰ τὰ Φυσικά",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg025.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Metaphysics",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg025.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "loebNumber": 24,
+  "sortOrder": 24,
+  "slug": "the-apostolic-fathers-volume-i-i-clement-ii-clement-ignatius-polycarp-didache-wid8ne",
+  "title": "Volume I: I Clement. II Clement. Ignatius. Polycarp. Didache",
+  "volumeLabel": "Volume I: I Clement. II Clement. Ignatius. Polycarp. Didache",
+  "authorDisplay": "The Apostolic Fathers",
+  "authors": [
+    "The Apostolic Fathers"
+  ],
+  "language": "mixed",
+  "summary": "2 of 5 contents in Volume I: I Clement. II Clement. Ignatius. Polycarp. Didache are live from Scaife, while the remaining contents stay visible until a confident pair is available.",
+  "status": "partial",
+  "defaultChunkSlug": "ignatius-1ax3tt",
+  "readyChunkCount": 2,
+  "contents": [
+    {
+      "id": "the-apostolic-fathers-i-clement-105u62",
+      "title": "The Apostolic Fathers: I Clement",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for The Apostolic Fathers: I Clement."
+    },
+    {
+      "id": "ii-clement-10bnl2",
+      "title": "II Clement",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for II Clement."
+    },
+    {
+      "id": "ignatius-1ax3tt",
+      "title": "Ignatius",
+      "status": "ready",
+      "sectionCount": 7,
+      "chunkSlug": "ignatius-1ax3tt",
+      "chunks": [
+        {
+          "slug": "ignatius-1ax3tt",
+          "label": "Ignatius",
+          "partId": "ignatius-1ax3tt",
+          "partTitle": "Ignatius",
+          "sectionCount": 7,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "polycarp-acvxu0",
+      "title": "Polycarp",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Polycarp."
+    },
+    {
+      "id": "didache-1ixwby",
+      "title": "Didache",
+      "status": "ready",
+      "sectionCount": 32,
+      "chunkSlug": "didache-1ixwby",
+      "chunks": [
+        {
+          "slug": "didache-1ixwby",
+          "label": "Didache",
+          "partId": "didache-1ixwby",
+          "partTitle": "Didache",
+          "sectionCount": 32,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "ignatius-1ax3tt",
+      "label": "Ignatius",
+      "partId": "ignatius-1ax3tt",
+      "partTitle": "Ignatius",
+      "sectionCount": 7,
+      "status": "ready"
+    },
+    {
+      "slug": "didache-1ixwby",
+      "label": "Didache",
+      "partId": "didache-1ixwby",
+      "partTitle": "Didache",
+      "sectionCount": 32,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "ignatius-1ax3tt",
+      "partTitle": "Ignatius",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Epistulae vii genuinae",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Epistles of Saint Ignatius",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg1443.tlg001.perseus-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "didache-1ixwby",
+      "partTitle": "Didache",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Διδαχή των Δώδεκα Ἀποστόλων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg1311.tlg001.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Didache, or Teaching of the Twelve Apostles",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg1311.tlg001.perseus-eng1/"
+      }
+    }
+  ]
+}

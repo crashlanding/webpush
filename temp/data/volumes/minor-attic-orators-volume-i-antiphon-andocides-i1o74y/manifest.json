@@ -1,0 +1,68 @@
+{
+  "loebNumber": 308,
+  "sortOrder": 308,
+  "slug": "minor-attic-orators-volume-i-antiphon-andocides-i1o74y",
+  "title": "Volume I: Antiphon. Andocides",
+  "volumeLabel": "Volume I: Antiphon. Andocides",
+  "authorDisplay": "Minor Attic Orators",
+  "authors": [
+    "Minor Attic Orators"
+  ],
+  "language": "greek",
+  "summary": "1 of 2 contents in Volume I: Antiphon. Andocides are live from Scaife, while the remaining contents stay visible until a confident pair is available.",
+  "status": "partial",
+  "defaultChunkSlug": "andocides-1e95vf",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "antiphon-1s3pn4",
+      "title": "Antiphon",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Antiphon."
+    },
+    {
+      "id": "andocides-1e95vf",
+      "title": "Andocides",
+      "status": "ready",
+      "sectionCount": 55,
+      "chunkSlug": "andocides-1e95vf",
+      "chunks": [
+        {
+          "slug": "andocides-1e95vf",
+          "label": "Andocides",
+          "partId": "andocides-1e95vf",
+          "partTitle": "Andocides",
+          "sectionCount": 55,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "andocides-1e95vf",
+      "label": "Andocides",
+      "partId": "andocides-1e95vf",
+      "partTitle": "Andocides",
+      "sectionCount": 55,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "andocides-1e95vf",
+      "partTitle": "Andocides",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατ᾽ Ἀνδοκίδου ἀσεβείας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0540.tlg006.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Andocides",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0540.tlg006.perseus-eng2/"
+      }
+    }
+  ]
+}

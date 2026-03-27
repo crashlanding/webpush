@@ -1,0 +1,75 @@
+{
+  "loebNumber": 285,
+  "sortOrder": 285,
+  "slug": "aristotle-athenian-constitution-eudemian-ethics-virtues-and-vices-1cl487",
+  "title": "Athenian Constitution. Eudemian Ethics. Virtues and Vices",
+  "volumeLabel": "Athenian Constitution. Eudemian Ethics. Virtues and Vices",
+  "authorDisplay": "Aristotle",
+  "authors": [
+    "Aristotle"
+  ],
+  "language": "greek",
+  "summary": "1 of 3 contents in Athenian Constitution. Eudemian Ethics. Virtues and Vices are live from Scaife, while the remaining contents stay visible until a confident pair is available.",
+  "status": "partial",
+  "defaultChunkSlug": "eudemian-ethics-b431dy",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "athenian-constitution-4lqgzn",
+      "title": "Athenian Constitution",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Athenian Constitution."
+    },
+    {
+      "id": "eudemian-ethics-b431dy",
+      "title": "Eudemian Ethics",
+      "status": "ready",
+      "sectionCount": 21,
+      "chunkSlug": "eudemian-ethics-b431dy",
+      "chunks": [
+        {
+          "slug": "eudemian-ethics-b431dy",
+          "label": "Eudemian Ethics",
+          "partId": "eudemian-ethics-b431dy",
+          "partTitle": "Eudemian Ethics",
+          "sectionCount": 21,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "virtues-and-vices-auwrtv",
+      "title": "Virtues and Vices",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Virtues and Vices."
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "eudemian-ethics-b431dy",
+      "label": "Eudemian Ethics",
+      "partId": "eudemian-ethics-b431dy",
+      "partTitle": "Eudemian Ethics",
+      "sectionCount": 21,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "eudemian-ethics-b431dy",
+      "partTitle": "Eudemian Ethics",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἠθικὰ Εὐδήμεια",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg009.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Eudemian Ethics",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg009.perseus-eng2/"
+      }
+    }
+  ]
+}

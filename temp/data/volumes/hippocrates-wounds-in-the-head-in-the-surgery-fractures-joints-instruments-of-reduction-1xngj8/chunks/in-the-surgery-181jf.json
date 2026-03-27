@@ -1,0 +1,206 @@
+{
+  "volumeSlug": "hippocrates-wounds-in-the-head-in-the-surgery-fractures-joints-instruments-of-reduction-1xngj8",
+  "volumeTitle": "Wounds in the Head. In the Surgery. Fractures. Joints. Instruments of Reduction",
+  "authorDisplay": "Hippocrates",
+  "authors": [
+    "Hippocrates"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "in-the-surgery-181jf",
+  "label": "In the Surgery",
+  "partId": "in-the-surgery-181jf",
+  "partTitle": "In the Surgery",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "De officina medici",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg008.1st1K-grc1/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "On the Surgery",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg008.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1",
+      "label": "Section 1",
+      "chapter": null,
+      "original": "ΚΑΤ ΙΗΤΡΕΙΟΝ .\n\n1 . Ἢ ὅμοια ἢ ἀνόμοια ἐξ ἀρχῆς · ἀπὸ τῶν μεγίστων , ἀπὸ τῶν ῥηΐστων , ἀπὸ τῶν πάντη πάντως γιγνωσκομένων . Ἃ καὶ ἰδεῖν , καὶ θιγεῖν , καὶ ἀκοῦσαι ἔστιν · ἃ καὶ τῇ ὄφει , καὶ τῇ ἁφῇ , καὶ τῇ ἀκοῇ , καὶ τῇ ῥινὶ , καὶ τῇ γλώσσῃ , καὶ τῇ γνώμῃ ἔστιν αἰσθέσθαι · ἃ , οἷς γιγνώσκομεν ἅπασιν , ἔστι γνῶναι .",
+      "translation": "It ’ s the business of the physician to know , in the first place , things similar and things dissimilar ; those connected with things most important , most easily known , and in anywise known ; [*] which are to be seen , touched , and heard ; which are to be perceived in the sight , and the touch , and the hearing , and the nose , and the tongue , and the understanding ; which are to be known by all the means we know other things ."
+    },
+    {
+      "id": "2",
+      "label": "Section 2",
+      "chapter": null,
+      "original": "2 . Τὰ δ ἐς χειρουργίην κατ ἰητρεῖον · ὁ ἀσθενέων · ὁ δρῶν οἱ 276 ὑπηρέται · τὰ ὄργανα · τὸ φῶς · ὅκου · ὅκως · ὅσα · ὅκως · ὅκου τὸ σῶμα , τὰ ἄρμενα · ὁ χρόνος · ὁ τρόπος · ὁ τόπος .",
+      "translation": "The things relating to surgery , are — the patient ; the operator ; the assistants ; the instruments ; the light , where and how ; how many things , and how ; where the body , and the instruments ; the time ; the manner ; the place ."
+    },
+    {
+      "id": "3",
+      "label": "Section 3",
+      "chapter": null,
+      "original": "3 . Ὁ δρῶν , ἢ καθήμενος , ἢ ἑστεὼς , ξυμμέτρως πρὸς ἑωυτὸν , πρὸς τὸ χειριζόμενον , πρὸς τὴν αὐγήν . Αὐγέης μὲν οὖν δύο εἴδεα , τὸ μὲν κοινὸν , τὸ δὲ τεχνητόν . Τὸ μὲν οὖν κοινὸν οὐκ ἐφ ἡμῖν · τὸ δὲ τεχνητὸν , καὶ ἐφ ἡμῖν . Ὧν ἑκατέρου δισσαὶ χρήσιες , ἢ πρὸς αὐγὴν , ἢ ὑπ αὐγήν . Ὑπ αὐγὴν μὲν οὖν ὀλίγη τε ἡ χρῆσις , καταφανής τε ἡ μετριότης . Τὰ δὲ πρὸς αὐγὴν ἐκ τῶν παρεουσέων , ἐκ τῶν ξυμφερουσέων αὐγέων , πρὸς τὴν λαμπροτάτην τρέπειν τὸ χειριζόμενον · πλὴν ὁκόσα λαθεῖν δεῖ , ἢ ὁρῇν αἰσχρόν · οὕτω δὲ τὸ μὲν χειριζόμενον ἐναντίον τῇ αὐγῇ , τὸν δὲ χειρίζοντα , ἐναντίον τῷ χειριζομένῳ , πλὴν ὥστε μὴ ἐπισκοτάζειν · οὕτω 280 γὰρ ἂν ὁ μὲν δρῶν ὁρῴη , τὸ δὲ χειριζόμενον οὐχ ὁρῷτε . Πρὸς ἑωυτὸν δὲ , καθημένῳ πόδες ἐς τὴν ἄνω ἴξιν κατ ἰθὺ γούνασιν διάστασιν δὲ , ὀλίγον ξυμβεβῶτες · γούνατα δὲ ἀνωτέρω βουβώνων σμικρὸν , διάστασιν δὲ , ἀγκώνων θέσει καὶ παραθέσει . Ἱμάτιον , εὐσταλέως , εὐκρινέως , ἴσως , ὁμοίως , ἀγκῶσιν , ὤμοισιν . Πρὸς δὲ τὸ χειριζόμενον , τοῦ μὲν πρόσω καὶ ἐγγὺς , καὶ τοῦ ἄνω , καὶ τοῦ κάτω , καὶ ἔνθα ἢ ἔνθα , ἢ μέσον . Τοῦ μὲν πρόσω καὶ ἐγγὺς ὅριον , ἀγκῶνας ἐς μὲν τὸ πρόσθεν γούνατα μὴ ἀμείβειν , ἐς δὲ τὸ ὄπισθεν , πλευράς · τοῦ δὲ ἄνω , μὴ ἀνωτέρω μαζῶν ἄκρας 282 χεῖρας ἔχειν · τοῦ δὲ κάτω , μὴ κατωτέρω , ἢ ὡς τὸ στῆθος ἐπὶ γούνασιν ἔχοντα , ἔχειν ἄκρας χεῖρας ἐγγωνίους πρὸς βραχίονας · τὰ μὲν κατὰ μέσον οὕτως · τὰ δὲ ἔνθα , ἢ ἔνθα , μὴ ἔξω τῆς ἔδρης , κατὰ λόγον δὲ τῆς ἐπιτροφῆς προσβαλλόμενον τὸ σῶμα , καὶ τοῦ σώματος τὸ ἐργαζόμενον . Ἑστεῶτα δὲ , ἰδεῖν μὲν ἐπ ἀμφοτέρων βεβῶτα ἐξ ἴσου τῶν ποδῶν ἅλις , δρῇν δὲ τῷ ἑτέρῳ ἐπιβεβῶτα , μὴ τῷ κατὰ τὴν δρῶσαν χεῖρα · ὕψος γούνατος πρὸς βουβῶνας , ὡς ἐν ἕδρῃ · καὶ τὰ ἄλλα ὅρια τὰ αὐτά . Ὁ δὲ χειριζόμενος τῷ χειρίζοντι τῷ ἄλλῳ τοῦ σώματος μέρει ὑπηρετείτων , ἢ ἑστεὼς , ἢ καθήμενος , ἢ κείμενος , ὅκως ἂν ῥήϊστα , ὃ δεῖ , σχῆμα ἔχων διατελέῃ , φυλάσσων ὑπόῤῥυσιν , 284 ὑπόστασιν , ἔκτρεψιν , καταντίαν , ὡς ὃ δεῖ , σώζηται καὶ σχῆμα καὶ εἶδος τοῦ χειριζομένου , ἐν παρέξει , ἐν χειρισμῷ , ἐν τῇ ἔπειτα ἕξει .",
+      "translation": "The operator is either sitting or standing , conveniently for himself , for the person operated upon , for the light . There are two kinds of light , the common and the artificial ; the common is not at our disposal , the artificial is at our disposal . There are two modes of using each , either to the light , or from the light ( to the side ?). There is little use of that which is from ( or oblique to the light ), and the degree of it is obvious . As to opposite the light , we must turn the part to be operated upon to that which is most brilliant of present and convenient lights , unless those parts which should be concealed , and which it is a shame to look upon ; thus the part that is operated upon should be opposite the light , and the operator opposite the part operated p.162 upon , except in so far as he does not stand in his own light ; for in this case the operator will indeed see , but the thing operated upon will not be seen . With regard to himself when sitting , his feet should be raised to a direct line with his knees , and nearly in contact with one another ; the knees a little higher than the groins , and at some distance from one another , for the elbows to rest upon them . The robe , in a neat and orderly manner , is to be thrown over the elbows and shoulders equally and proportionally . With regard to the part operated upon ; we have to consider how far distant , and how near , above , below , on this side on that side , or in the middle . The measure as to distance and proximity is , that the elbows do not press the knees before , nor the sides behind ; that the hands be not raised higher than the breasts , nor lower than so as that when the breast reposes on the knees he may have the hands at right angles with the arm : thus it is as regards the medium ; but as concerns this side or that , the operator must not be beyond his seat , but in proportion as he may require turning he must shift the body , or part of the body , that is operated upon . When standing , he must make his inspection , resting firmly and equally on both feet ; but he must operate while supporting himself upon either leg , and not the one on the same side with the hand which he makes use of ; the knee being raised to the height of the groins as while sitting ; and the other measures in like manner . The person operated upon should accommodate the operator with regard to the other parts of his body , either standing , sitting , or lying ; so as that he may continue to preserve his figure , avoid sinking down , shrinking from , turning away ; and may maintain the figure and position of the part operated upon , during the act of presentation , during the operation , and in the subsequent position ."
+    },
+    {
+      "id": "4",
+      "label": "Section 4",
+      "chapter": null,
+      "original": "4 . Ὄνυχας μήτε ὑπερέχειν , μήτε ἐλλείπειν · δακτύλων κορυφῇσι 286 χρῆσις · ἀσκέειν , δακτύλοισι μὲν ἄκροις , τὰ πλεῖστα λιχανῷ πρὸς μέγαν · ὅλῃ δὲ , καταπρηνεῖ · ἀμφοτέρῃσι δὲ , ἐναντίῃσιν · δακτύλων εὐφυΐα , μέγα τὸ ἐν μέσῳ τῶν δακτύλων , καὶ ἀπεναντίον τὸν μέγαν τῷ λιχανῷ . Νοῦσος δὲ δι ἣν καὶ βλάπτονται , οἷσιν ἐκ γενεῆς ἢ ἐν τροφῇ εἴθισται ὁ μέγας ὑπὸ τῶν ἄλλων 288 δακτύλων κατέχεσθαι , δῆλον . Τὰ ἔργα πάντα ἀσκέειν ἑκατέρῃ δρῶντα , καὶ ἀμφοτέρῃσιν ἅμα ( ὅμοιαι γάρ εἰσιν ἀμφότεραι ), στοχαζόμενον ἀγαθῶς , καλῶς , ταχέως , ἀπόνως , εὐρύθμως , εὐπόρως .",
+      "translation": "The nails should be neither longer nor shorter than the points of the fingers ; and the surgeon should practice with the extremities of the fingers , the index-finger being usually turned to the thumb ; when using the entire hand , it should be prone ; when both hands , they should be opposed to one another . It greatly promotes a dexterous use of the fingers when the space between them is large , and when the thumb is opposed to the p.163 index . But it is clearly a disease when the thumb is impaired from birth , or when , from a habit contracted during the time of nursing , it is impeded in its motions by the fingers . One should practice all sorts of work with either of them , and with both together ( for they are both alike ), endeavouring to do them well , elegantly , quickly , without trouble , neatly , and promptly ."
+    },
+    {
+      "id": "5",
+      "label": "Section 5",
+      "chapter": null,
+      "original": "5 . Ὅργανα μὲν , καὶ ὅτε , καὶ οἵως , εἰρήσεται · ὅκου δεῖ · μὴ ἐμποδὼν τῷ ἔργῳ , μηδὲ ἐμποδὼν τῇ ἀναιρέσει , παρὰ τὸ ἐργαζόμενον δὲ τοῦ σώματος · ἄλλος δὲ ἢν διδῷ , ἕτοιμος ὀλίγῳ πρότερον ἔστω , ποιείτω δὲ , ὅταν κελεύῃς .",
+      "translation": "The instruments , and when and how they should be prepared , will be treated of afterwards ; so that they may not impede the work , and that there may be no difficulty in taking hold of them , with the part of the body which operates . But if another gives them , he must be ready a little beforehand , and do as you direct ."
+    },
+    {
+      "id": "6",
+      "label": "Section 6",
+      "chapter": null,
+      "original": "6 . Οἱ δὲ περὶ τὸν ἀσθενέοντα τὸ μὲν χειριζόμενον παρεχόντων , ὡς ἂν δοκῇ · τὸ δὲ ἄλλο σῶμα κατεχόντων , ὡς ἂν ἀτρεμέῃ , σιγῶντες , ἀκούοντες τοῦ ἐφεστεῶτος .",
+      "translation": "Those about the patient must present the part to be operated upon as may seem proper , and they must hold the rest of the body steady , in silence , and listening to the commands of the operator ."
+    },
+    {
+      "id": "7",
+      "label": "Section 7",
+      "chapter": null,
+      "original": "7 . Ἐπιδέσιος δύο εἴδεα , εἰργασμένον , καὶ ἐργαζόμενον . Ἐργαζόμενον μὲν , ταχέως , ἀπόνως , εὐπόρως , εὐρύθμως · ταχέως μὲν , ἀνύειν τὰ ἔργα · ἀπόνως δὲ , ῥηῖδίως δρῇν · εὐπόρως δὲ , ἐς πᾶν ἑτοίμως · εὐρύθμως δὲ , ὁρῆσθαι ἡδέως · ἀφ ὧν δὲ ταῦτα ἀσκημάτων , εἴρηται . Εἰργασμένον δὲ ἀγαθῶς , καλῶς · καλῶς μὲν , ἁπλῶς , εὐκρινέως · ἢ ὅμοια καὶ ἴσα , ἴσως καὶ ὁμοίως · ἢ ἄνισα καὶ ἀνόμοια [, ἀνίσως καὶ ἀνομοίως ]· τὰ δὲ εἴδεα , ἁπλοῦν , 292 σκέπαρνον , σιμὸν , ὀφθαλμὸς , ῥόμβος , καὶ ἡμίτομον · ἁρμόζον τὸ εἶδος τῷ εἴδει καὶ τῷ πάθει τοῦ ἐπιδεομένου .",
+      "translation": "There are two views of bandaging : that which regards it while doing , and that which regards it when done . It should be done quickly , without pain , with ease , and with elegance ; quickly , by despatching the work ; without pain , by being readily done ; with ease , by being prepared for everything ; and with elegance , so that it may be agreeable to the sight . By what mode of training these accomplishments are to be acquired has been stated . When done , it should fit well and neatly ; it is neatly done when with judgment , and when it is equal and unequal , according as the parts are equal or unequal . The forms of it ( the bandage ?) are the simple , the slightly winding ( called ascia ), the sloping ( sima ), the monoculus , the rhombus , and the semi-rhombus . The form of bandage should be suitable to the form and the affection of the part to which it is applied ."
+    },
+    {
+      "id": "8",
+      "label": "Section 8",
+      "chapter": null,
+      "original": "8 . Ἀγαθὰ δὲ δύο εἴδεα τοῦ ἐπιδεομένου · ἰσχύος μὲν , 294 ἢ πιέξει , ἢ πλήθει ὀθονίων . Τὸ μὲν οὖν , αὕτη ἡ ἐπίδεσις ἰῆται , τὸ δὲ τοῖσιν ἰωμένοισιν ὑπηρετέει . Ἐς μὲν οὖν ταῦτα νόμος · ἐν δὲ τουτέοισι μέγιστα ἐπιδέσιος · πίεξις μὲν , ὥστε τὰ ἐπικείμενα μὴ ἀφεστάναι , μηδὲ ἐρηρεῖσθαι κάρτα , ἀλλὰ ἡρμόσθαι μὲν , προσηναγκάσθαι δὲ μὴ , ἧσσον μὲν τὰ ἔσχατα , ἥκιστα δὲ τὰ μέσα . Ἅμμα , καὶ ῥάμμα νεμόμενον 296 μὴ κάτω , ἀλλ ἄνω , ἐν παρέξει , καὶ σχέσει , καὶ ἐπιδέσει , καὶ πιέξει . Ἀρχὰς βάλλεσθαι μὴ ἐπὶ τὸ ἕλκος , ἀλλ ἔνθα τὸ ἅμμα . Τὸ δὲ ἅμμα μήτε ἐν τρίβῳ , μήτε ἐν ἔργῳ , 298 μήτε ἐκεῖσε , ὅκου ἐνεόν . Ἅμμα δὲ καὶ ῥάμμα μαλθακὸν , οὐ μέγα .",
+      "translation": "There are two useful purposes to be fulfilled by bandaging : ( first ,) strength , which is imparted by the compression and the number of folds . In one case the bandage effects the cure , and in another it contributes to the cure . For these purposes this is the rule — that the force of the constriction be such as to prevent the adjoining parts from separating , without compressing them much , and so that the parts may be adjusted but not p.164 forced together ; and that the constriction be small at the extremities , and least of all in the middle . The knot and the thread that is passed through should not be in a downward but in an upward direction , regard being had to the circumstances under which the case is presented ; to position , to the bandaging , and to the compression . The commencement of the ligatures is not to be placed at the wound , but where the knot is situated . The knot should not be placed where it will be exposed to friction , nor where it will be in the way , nor where it will be useless . The knot and the thread should be soft , and not large ."
+    },
+    {
+      "id": "9",
+      "label": "Section 9",
+      "chapter": null,
+      "original": "9 . Εὖ γε μὴν γνόντα , ὅτι ἐς τὰ κατάντη καὶ ἀπόξη φεύγει 300 πᾶς ἐπίδεσμος , οἷον , κεφαλῆς μὲν τὸ ἄνω , κνήμης δὲ τὸ κάτω . Ἐπιδεῖν δεξιὰ ἐπ ἀριστερὰ , ἀριστερὰ ἐπὶ δεξιὰ , πλὴν τῆς κεφαλῆς · ταύτην δὲ κατ ἴξιν . Τὰ δ ὑπεναντία , ἀπὸ δύο ἀρχέων · ἢν δὲ ἀπὸ μιῆς , ἐφ ὅμοιον ἐς τὸ μόνιμον , οἷον τὸ μέσον τῆς κεφαλῆς , ἢ ὅ τι ἄλλο τοιοῦτον . Τὰ δὲ κινεύμενα , οἷον ἄρθρα , ὅπη μὲν ξυγκάμπτεται , ὡς ἥκιστα , καὶ εὐσταλέστατα περιβάλλειν , οἷον ἰγνύῃ · ὅπη δὲ περιτείνεται , ἁπλᾶ τε καὶ πλατέα , οἷον μύλῃ · προσπεριβάλλειν δὲ καταλήψιος μὲν τῶν περὶ ταῦτα εἵνεκα , ἀναλήψιος δὲ τοῦ ξύμπαντος ἐπιδέσμου , ἐν τοῖσιν ἀτρεμέουσι 302 καὶ λαπαρωτέροισι τοῦ σώματος , οἷον τὸ ἄνω καὶ τὸ κάτω τοῦ γούνατος · ὁμολογέει δὲ ὤμου μὲν ἡ περὶ τὴν ἑτέρην μασχάλην περιβολὴ , βουβῶνος δὲ , ἡ περὶ τὸν ἕτερον κενεῶνα , καὶ κνήμης , ἡ ὑπὲρ γαστροκνημίης . Ὁκόσοισι μὲν ἄνω ἠ φυγὴ , κάτωθεν ἡ ἀντίληψις · οἷσι δὲ κάτω , τοὐναντίον · οἷσι δὲ μὴ ἔστι , οἷον κεφαλῇ , τουτέων ἐν τῷ ὁμαλωτάτῳ τὰς καταλήψιας ποιέεσθαι , καὶ ἥκιστα λοξῷ τῷ ἐπιδέσμῳ χρέεσθαι , ὡς τὸ μονιμώτατον ὕστατον περιβληθὲν τὰ πλανωδέστατα κατέχῃ . Ὁκόσοισι δὲ τοῖσιν ὀθονίοισι μὴ εὐκαταλήπτως , μηδὲ εὐαναλήπτως ἔχει , ῥάμμασι τὰς ἀναλήψιας ποιέεσθαι ἐκ καταβολῆς ἢ ξυῤῥαφῆς .",
+      "translation": "( Second . ) One ought to be well aware that every bandage has a tendency to fall off towards the part that declines or becomes smaller ; as , for example , upwards , in the case of the head , and downwards , in the case of the leg . The turns of the bandage should be made from right to left , and from left to right , except on the head , where it should be in a straight direction . When opposite parts are to be bandaged together , we must use a bandage with two heads ; or if we make use of a bandage with one head , we must attach it in like manner at some fixed point : such , for example , as the middle of the head ; and so in other cases . Those parts which are much exposed to motion , such as the joints , where there is a flexion , should have few and slight bandages applied to them , as at the ham ; but where there is much extension , the bandage should be single and broad , as at the kneepan ; and for the maintenance of the bandage in its proper place , some turns should be carried to those parts which are not much moved , and are lank , such as the parts above and below the knee . In the case of the shoulder ; a fold should be carried round by the other armpit ; in that of the groin , by the flanks of the opposite side ; and of the leg , to above the calf of the leg . When the bandage has a tendency to escape above , it should be secured below , and vice versa ; and where there is no means of doing this , as in the case of the head , the turns are to be made mostly on the most level part of the head , and the folds are to be done with as little obliquity as possible , so that the firmest part being last applied may secure the portions which are more movable . When we cannot secure the bandaging by means of p.165 folds of the cloth , nor by suspending them from the opposite side , we must have recourse to stitching it with ligatures , either passed circularly or in the form of a seam ."
+    },
+    {
+      "id": "10",
+      "label": "Section 10",
+      "chapter": null,
+      "original": "10 . Ἐπιδέσματα καθαρὰ , κοῦφα , μαλθακὰ , λεπτά . Ἑλίσσειν ἀμφοτέρῃσιν ἅμα , καὶ ἑκατέρῃ χωρὶς ἀσκέειν . Τῇ πρεπούσῃ δὲ , ἐς τὰ πλάτη καὶ τὰ πάχη τῶν μορίων τεκμαιρόμενον , 304 χρέεσθαι . Ἑλίξιος κεφαλαὶ σκληραὶ , ὁμαλαὶ , εὐκρινέες . Τὰ δὲ δὴ μέλλοντα ἀποπίπτειν κακίω ταχέως ἀποπεσόντων · τὰ δὲ , ὡς μήτε πιέζειν , μήτε ἀποπίπτειν .",
+      "translation": "The bandages should be clean , light , soft , and thin . One should practice rolling with both hands together , and with either separately . One should also choose a suitable one , according to the breadth and thickness of the parts . The heads of the bandages should be hard , smooth , and neatly put on . That sort of bandaging is the worst which quickly falls off ; but those are bad bandages which neither compress nor yet come off ."
+    },
+    {
+      "id": "11",
+      "label": "Section 11",
+      "chapter": null,
+      "original": "11 . Ὧν δὲ ἔχεται ἢ ἐπίδεσις , ἢ ὑπόδεσις , ἢ ἀμφότερα · ὑπόδεσις μὲν αἰτίη , ὥστε ἢ ἀφεστεῶτα προστεῖλαι , ἢ ἐκπεπταμένα συστεῖλαι , ἢ ξυνεσταλμένα διαστεῖλαι , ἢ διεστραμμένα διορθῶσαι , ἢ τἀναντία . Παρασκευάζειν δὲ ὀθόνια κοῦρα , λεπτὰ , μαλθακὰ , καθαρὰ , πλατέα , μὴ ἔχοντα ξυῤῥαφὰς , μηδ ἐξαστίας , καὶ ὑγιέα , ὥστε τάνυσιν φέρειν , καὶ ὀλίγῳ κρέσσω , μὴ ξηρὰ , ἀλλ ἔγχυμα χυμῷ , ᾧ ἕκαστα ξύντροφα . Ἀφεστεῶτα μὲν , ὥστε τὰ μετέωρα τῆς ἕδρης ψαύειν μὲν , πιέζειν δὲ μή · ἄρχεσθαι δὲ ἐκ τοῦ ὑγιέος τελευτᾷν δὲ 308 πρὸς τὸ ἕλκος , ὡς τὸ μὲν ὑπεὸν ἐξαθέλγηται , ἕτερον δὲ μὴ ἐπιξυλλέγηται · ἐπιδεῖν τὰ μὲν ὀρθὰ ἐς ὀρθὸν , τὰ δὲ λοξὰ λοξῶς , ἐν σχήματι ἀπόνῳ , ἐν ᾧ μήτε ἀπόσφιγξις , μήτε ἀπόστασις ἔσται τις , ἐξ οὗ , ὅταν μεταλλάσσῃ ἢ ἐς ἀνάληψιν ἢ ἐς θέσιν , οὐ μεταλλάξουσιν , ἀλλ ὅμοια ταῦτα ἕξουσι , μύεις , φλέβες , νεῦρα , ὀστέα , ᾗ μάλιστα εὔθετα καὶ εὔσχετα · ἀναλελάφθαι δὲ , ἢ κέεσθαι ἐν σχήματι ἀπόνῳ τῷ κατὰ φύσιν · ὧν δὲ 310 ἂν ἀποστῇ , τἀναντία . Ὧν δὲ ἐκπεπταμένα ξυστεῖλαι , τὰ μὲν ἄλλα κατὰ τὰ αὐτὰ , ἐκ πολλοῦ δέ τινος δεῖ τὴν ξυναγωγὴν , καὶ ἐκ προσαγωγῆς τὴν πίεξιν , τὸ πρῶτον ἥκιστα , ἔπειτα ἐπὶ μᾶλλον , ὅριον τοῦ μάλιστα τὸ ξυμψαύειν . Ὧν δὲ ξυνεσταλμένα διαστεῖλαι ξὺν μὲν φλεγμονῇ τἀναντία · ἄνευ δὲ ταύτης , παρασκευῇ μὲν τῇ αὐτῇ , ἐπιδέσει δὲ ἐναντίῃ . Διεστραμμένα δὲ διορθῶσαι , τὰ μὲν ἄλλα κατὰ τὰ αὐτά · δεῖ δὲ τὰ μὲν ἀπεληλυθότα ἐπαγαγεῖν ὑποδέσει , παρακολλήσει , ἀναλήψει · τὰ δὲ ἐναντία , ἐναντίως .",
+      "translation": "The following are the object which the upper bandage , the under bandage , or both aim at : The object of the under bandage is either to bring together parts that are separated , or to compress such as are expanded , or to separate what are contracted , or to restore to shape what are distorted , or the contrary . It is necessary to prepare pieces of linen cloth , which are light , thin , soft , clean , having no seams nor protuberances on them , but sound , and able to bear some stretching , or even a little more than required ; not dry , but wetted with a juice suitable to the purpose required . We must deal with parts separated ( in a sinus ? ) in such wise , that the parts which are raised may touch the bottom without producing pressure ; we must begin on the sound part , and terminate at the wound ; so that whatever humor is in it may be expelled , and that it may be prevented from collecting more . And straight parts are to be bandaged in a straight direction , and oblique obliquely , in such a position as to create no pain ; and so that there may be no constriction nor falling off on a change of position , either for the purpose of taking hold of anything , or laying the limb ; and that muscles , veins , nerves , and bones may be properly placed and adjusted to one another . It should be raised or laid in a natural position , so as not to occasion pain . In those cases in which an abscess is formed , we must act in a contrary way . When our object is to bring together parts which have become expanded , in other respects we must proceed on the same plain ; and we must commence the bringing together from some considerable distance ; and after their approach , we must apply compression , at first slight , p.166 and afterwards stronger , the limit of it being the actual contact of the parts . In order to separate parts which are drawn together , when attended with inflammation , we must proceed on the opposite plan ; but when without inflammation , we must use the same preparations , but bandage in the opposite direction . In order to rectify distorted parts , we must proceed otherwise on the same principles ; but the parts which are separated must be brought together by an underbandage , by agglutinants , and by suspending it ( the limb ? ) in its natural position . And when the deformities are the contrary , this is to be done on the contrary plan ."
+    },
+    {
+      "id": "12",
+      "label": "Section 12",
+      "chapter": null,
+      "original": "12 . Κατήγμασι δὲ , σπληνῶν μήκεα , πλάτεα , πάχεα , πλήθεα · 312 μῆκος , ὅση ἡ ἐπίδεσις · πλάτος τριῶν ἢ τεσσάρων δακτύλων · πάχος , τριπτύχους ἢ τετραπτύχους · πλῆθος , κυκλεῦντας μὴ ὑπερβάλλειν , μηδὲ ἐλλείπειν · οἷσι δὲ ἐς διόρθωσιν , μῆκος , κυκλεῦντα · πλάτος καὶ πάχος τῇ ἐνδείῃ τεκμαίρεσθαι , μὴ ἀθρόα πληρεῦντα . Τῶν δὲ ὀθονίων ὑποδεσμίδες εἰσὶ δύο · τῇ πρώτῃ ἐκ τοῦ σίνεος ἐς τὸ ἄνω τελευτώσῃ , τῇ δὲ δευτέρῃ , ἐκ τοῦ σίνεος ἐς τὸ κάτω , ἐκ τοῦ κάτω ἐς τὸ ἄνω τελευτώσῃ · τὰ κατὰ τὸ σίνος πιέζειν μάλιστα , ἥκιστα τὰ ἄκρα , τὰ δὲ ἄλλακατὰ λόγον . Ἡ δὲ ἐπίδεσις πουλὺ τοῦ ὑγιέος προσλαμβανέτω . Ἐπιδέσμων δὲ πλῆθος , μῆκος , πλάτος · πλῆθος μὲν , μὴ ἡσσᾶσθαι τοῦ σίνεος , μηδὲ νάρθηξιν ἐνέρεισιν εἶναι , μηδὲ ἄχθος , μηδὲ περίῤῥεψιν , μηδὲ ἐκθήλυνσιν · μῆκος δὲ καὶ πλάτος , τριῶν , ἢ τεσσάρων , 314 ἢ πέντε , ἢ ἓξ , πήχεων μὲν μῆκος , δακτύλων δὲ πλάτος . Καὶ παραιρήματος περιβολαὶ τοσαῦται , ὥστε μὴ πιέζειν · μαλθακὰ δὲ , μὴ παχέα · ταῦτα πάντα , ὡς ἐπὶ μήκει καὶ πλάτει καὶ πάχει τοῦ παθόντος . Νάρθηκες δὲ λεῖοι , ὁμαλοὶ , σιμοὶ κατ ἄκρα , σμικρῷ μείους ἔνθεν καὶ ἔνθεν τῆς ἐπιδέσιος , παχύτατοι δὲ , ᾗ ἐξήριπε τὸ κάτηγμα . Ὁκόσα δὲ κυρτὰ καὶ ἄσαρκα φύσει , φυλασσόμενον τῶν ὑπερεχόντων , οἷον κατὰ δακτύλους ἢ σφυρὰ , ἢ τῇ θέσει , ἢ τῇ βραχύτητι . Παραιρήμασι δὲ ἑρμάζειν , 316 μὴ πιέζειν τὸ πρῶτον . Κηρωτῇ μαλθακῇ , καὶ λείῃ , καὶ καθαρῇ ἑλισσέσθω .",
+      "translation": "In fractures we must attend to the length , breadth , thickness , and number of the compresses . The length should be that of the bandaging ; the breadth , three or four fingers ; thickness , three or fourfold ; number so as to encircle the limb , neither more nor less ; those applied for the purpose of rectifying a deformity , should be of such a length as to encircle it ; the breadth and thickness being determined by the vacuity , which is not to be filled up at once . The upper bandages are two , the first of which is to be carried from the seat of the injury upwards , and the second from the seat of the injury downwards , and from below upwards ; the parts about the seat of the injury being most compressed , the extremities least , and the rest in proportion . The upper bandages should take in a considerable portion of the sound parts . We must attend to the number , length , and breadth of the bandages ; the number must be such as not to be inferior to what the injury requires , nor occasion compression with the splints , nor prove cumbersome , nor occasion any slipping of them , nor render them inefficient . As to length and breadth , they should be three , four , five , or six cubits in length , and as many fingers broad . The folds of the strings ( selvages ? ) should be such as not to occasion pressure ; they are to be soft and not thick ; and all these things are to be proportionate to the length , breadth , and thickness of the part affected . The splints are to be smooth , even , and rounded at the extremities ; somewhat less all along than the upper bandaging , and thickest at the part to which fracture inclines . Those parts where there are tuberosities , p.167 and which are devoid of flesh , such as the ankles or fingers , we must guard from the splints which are placed over them , either by position , or by their shortness . They are to be secured by the strings in such a manner as not to occasion pressure at first . A soft , consistent , and clean cerate should be rubbed into the folds of the bandage ."
+    },
+    {
+      "id": "13",
+      "label": "Section 13",
+      "chapter": null,
+      "original": "13 . Ὕδατος θερμότης , πλῆθος · θερμότης μὲν , κατὰ τῆς ἑωυτοῦ χειρὸς καταχεῖν · πλῆθος δὲ , χαλάσαι μὲν καὶ ἰσχνῆναι τὸ 318 πλεῖστον , ἄριστον , σαρκῶσαι δὲ καὶ ἁπαλῦναι , τὸ μέτριον · μέτρον δὲ τῆς καταχύσιος , ἔτι μετεωριζομένου , δεῖ , πρὶν ξυμπίπτειν , παύεσθαι · τὸ μὲν γὰρ πρῶτον αἴρεται , ἔπειτα δὲ ἰσχναίνεται .",
+      "translation": "As to the temperature and quantity of the water used , its heat should be just such as the hand can bear , and it ought to be known that a large quantity is best for producing relaxation and attenuation , whereas a moderate quantity is best for incarnating and softening . The limit to the affusion is , to stop when the parts become swelled up , and before the swelling subsides ; for the parts swell up at first , and fall afterward ."
+    },
+    {
+      "id": "14",
+      "label": "Section 14",
+      "chapter": null,
+      "original": "14 . Θέσις δὲ μαλθακὴ , ὁμαλὴ , ἀνάῤῥοπος τοῖσιν ἐξέχουσι τοῦ σώματος , οἷον πτέρνῃ καὶ ἰσχίῳ , ὡς μήτε ἀνακλᾶται , μήτε ἀποκλᾶται , μήτε ἐκτρέπηται . Σωλῆνα παντὶ τῷ σκέλει , ἢ ἡμίσει · ἐς τὸ πάθος δὲ βλέπειν καὶ τἄλλα ὅσα βλάπτει δῆλα .",
+      "translation": "The object on which to ( the limb ? ) is laid should be soft , smooth , and sloping upwards toward the protuberant parts of the body , such as the heel or hips , so that there may be no projection , nor bending inwards , nor turning aside . The canal ( spout or gutter ? ) should rather comprehend the whole limb than the half of it , attention being paid to the injury and to whatever else appears to create inconvenience ."
+    },
+    {
+      "id": "15",
+      "label": "Section 15",
+      "chapter": null,
+      "original": "15 . Πάρεξις δὲ , καὶ διάτασις , καὶ ἀνάπλασις , καὶ τὰ ἄλλα κατὰ φύσιν , Φύσις δὲ ἐν μὲν ἔργοις , τοῦ ἔργου τῇ πρήξει , ὃ βούλεται , τεκμαρτέον · ἐς δὲ ταῦτα , ἐκ τοῦ ἐλινύοντος , ἐκ τοῦ κοινοῦ , 320 ἐκ τοῦ ἔθεος · ἐκ μὲν τοῦ ἐλινύοντος καὶ ἀφειμένου , τὰς ἰθυωρίας σκέπτεσθαι , οἷον τὸ τῆς χειρός · ἐκ δὲ τοῦ κοινοῦ , ἔκτασιν , ξύγκαμψιν , οἷον τὸ ἐγγὺς τοῦ ἐγγωνίου πήχεος πρὸς βραχίονα · ἐκ δὲ τοῦ ἔθεος , ὅτι οὐκ ἄλλα σχήματα φέρειν δυνατώτερον , οἷον σκέλεα ἔκτασιν · ἀπὸ τουτέων γὰρ ῥήϊστα πλεῖστον χρόνον ἔχοι ἂν μὴ μεταλλάσσοντα . Ἐν δὲ τῇ μεταλλαγῇ ἐκ διατάσιος ὅμοια ταῦτα ἕξουσιν ἐς ἕξιν ἢ θέσιν μύες , φλέβες , νεῦρα , ὀστέα , ᾗ μάλιστα εὔθετα καὶ εὔσχετα .",
+      "translation": "The presentation of the injured part to the physician , the extension , the arrangement , and so forth , are to be regulated according to nature . What is nature in these operations is to be determined by the accomplishment of the object which we have in view , and for this purpose we must look to the part in the state of rest , in its middle state , and to habit ; in regard to the state of rest and relaxation , as in the arm , that it be in a line with the hand ; and with regard to the medium between flexion and extension , that the forearm be at right angles to the arm ; and with regard to habit , it should be considered that some limbs bear certain positions preferably , as , for example , the thighs extension ; for in such attitudes the parts can best bear to be placed for a considerable time without a change of posture . And in the change from the state of distention , the muscles , veins , nerves , and bones , when properly arranged and secured , will preserve their relations to one another while the limb is raised or placed . p.168"
+    },
+    {
+      "id": "16",
+      "label": "Section 16",
+      "chapter": null,
+      "original": "16 . Διάτασις μάλιστα , τὰ μέγιστα καὶ πάχιστα , καὶ ὅκου ἀμφότερα · δεύτερα , ὧν τὸ ὑποτεταγμένον · ἥκιστα , ὧν τὸ ἄνω · 322 μᾶλλον δὲ τοῦ μετρίου , βλάβη , πλὴν παιδίων · ἔχειν ἀνάντη σμικρόν . Διορθώσιος παράδειγμα , τὸ ὁμώνυμον , τὸ ὁμόζυγον , τὸ ὅμοιον , τὸ ὑγιές .",
+      "translation": "The extension should be most powerful when the largest and thickest bones , or when both are broken ; next when the under-bone , and least of all , when the upper . When immoderate , it is injurious , except in the case of children . The limb should be a little elevated . The model by which we judge if the part be properly set is the sound part of the same name , or the part which is its pair ."
+    },
+    {
+      "id": "17",
+      "label": "Section 17",
+      "chapter": null,
+      "original": "17 . Ἀνάτριψις δύναται λῦσαι , δῆσαι , σαρκῶσαι , μινυθῆσαι · ἡ σκληρὴ , δῆσαι · ἡ μαλακὴ , λῦσαι · ἡ πολλὴ , μινυθῆσαι · ἡ μετρίη , παχῦναι .",
+      "translation": "Friction can relax , brace , incarnate , attenuate : hard braces , soft relaxes , much attenuates , and moderate thickens ."
+    },
+    {
+      "id": "18",
+      "label": "Section 18",
+      "chapter": null,
+      "original": "18 . Ἐπιδεῖν δὲ τὸ πρῶτον · ὁ μὲν ἐπιδεδεμένος μάλιστα φάτω πεπιέχθαι κατὰ τὸ σίνος , ἥκιστα τὰ ἄκρα · ἡρμάσθαι δὲ , μὴ πεπιέχθαι · πλήθει , μὴ ἰσχύϊ · τὴν δὲ ἡμέρην ταύτην καὶ νύκτα , ὀλίγῳ μᾶλλον , τὴν δ ὑστέρην , ἧσσον · τρίτη , χαλαρά . Εὑρεθήτω δὲ τῇ μὲν ὑστεραίῃ ἐν ἄκροισιν οἴδημα μαλθακόν · τῇ τρίτῃ δὲ τὸ ἐπιδεθὲν λυθὲν , ἰσχνότερον , παρὰ πάσας τὰς 324 ἐπιδέσιας τοῦτο . Τῇ δὲ ὑστεραίῃ ἐπιδέσει , ἢν δικαίως ἐπιδεδεμένον φανῇ , μαθεῖν δεῖ · ἐντεῦθεν δὲ μᾶλλον καὶ ἐπὶ πλέοσι πιεχθήτω · τῇ δὲ τρίτῃ ἐπὶ μᾶλλον καὶ ἐπὶ πλέοσιν . Τῇ δὲ ἑβδόμῃ ἀπὸ τῆς πρώτης ἐπιδέσιος λυθέντα , εὑρεθήτω ἰσχνὰ , χαλαρὰ τὰ ὀστέα . Ἐς δὲ νάρθηκας , δεθέντα , ἢ ἰσχνὰ καὶ ἄκνησμα καὶ ἀνέλκεα ᾖ , ἐᾷν μέχρις εἴκοσιν ἡμερέων ἀπὸ τοῦ σίνεος · ἢν δέ τι ὑποπτεύηται , λῦσαι ἐν τῷ μέσῳ · νάρθηκας διὰ τρίτης ἐρείδειν .",
+      "translation": "The following should be the state of matters on the first application of the bandage . The person to whom it has been applied should say that he feels the compression particularly at the seat of the injury , but very little at the extremities ; the parts should be adjusted but not pressed together , and that rather by the number of the bandages than by the force of the constriction ; and the tightness should rather be on the increase during the first day and night ; but on the next it should be less , and on the third the bandages should be loose . On the next day a soft swelling should be observed in the extremities ; and on the third day , when the bandaging is loosed , the swelling should be found diminished in size , and this should be the case every time the bandages are removed . At the second application of the bandage , it should be ascertained whether the dressing has been properly done , and then greater compression should be made , and with more bandages ; and on the third , still greater , and still more . On the seventh day from the first dressing , when the bandages are loosed , the limb should be found slender and the bones mobile . We must then have recourse to the splints , provided the limb be free of swelling , pruritus , and ulceration , and allow them to remain until twenty days after the accident ; but if any suspicions arise , the bandages must be loosed in the interval . The splints should be tightened every third day ."
+    },
+    {
+      "id": "19",
+      "label": "Section 19",
+      "chapter": null,
+      "original": "19 . Ἡ ἀνάληψις , ἡ θέσις , ἡ ἐπίδεσις , ὡς ἐν τῷ αὐτῷ σχήματι διαφυλάσσειν . Κεφάλαια σχημάτων , ἔθεα , φύσιες ἑκάστου τῶν μελέων · τὰ εἴδεα , ἐκ τοῦ τρέχειν , ὁδοιπορέειν , ἑστάναι , κατακεῖσθαι , ἐκ τοῦ ἔργου , ἐκ τοῦ ἀφεῖσθαι .",
+      "translation": "The suspending of a fractured limb in a sling , the disposition of it , and the bandaging , all have for their object to preserve it in position . The principal considerations with regard to the position are the habits and the peculiar nature of each p.169 of the limbs : the varieties are shown in running , walking , standing , lying , action , repose ."
+    },
+    {
+      "id": "20",
+      "label": "Section 20",
+      "chapter": null,
+      "original": "20 . Ὅτι χρῆσις κρατύνει , ἀργίη δὲ τήκει .",
+      "translation": "It should be kept in mind that exercise strengthens , and inactivity wastes ."
+    },
+    {
+      "id": "21",
+      "label": "Section 21",
+      "chapter": null,
+      "original": "21 . Ἡ πίεξις πλήθει , μὴ ἰσχύϊ .",
+      "translation": "Compression should be produced by the number of bandages , rather than by the force of the constriction ."
+    },
+    {
+      "id": "22",
+      "label": "Section 22",
+      "chapter": null,
+      "original": "22 . Ὁκόσα δὲ ἐκχυμώματα , ἢ φλάσματα , ἢ σπάσματα , ἢ οἰδήματα ἀφλέγμαντα , ἐξερύεται αἷμα ἐκ τοῦ τρώματος , ἐς μὲν τὸ ἄνω τοῦ σώματος πλεῖστον , βραχὺ δέ τι καὶ ἐς τὸ κάτω · μὴ κατάντη τὴν χεῖρα ἔχοντα , ἢ τὸ σκέλος · τιθέμενον τὴν ἀρχὴν 328 κατὰ τὸ τρῶμα , καὶ μάλιστα ἐρείδοντα , ἥκιστα τὰ ἄκρα , μέσως τὰ διὰ μέσου · τὸ ἔσχατον πρὸς τὰ ἄνω τοῦ σώματος νεμόμενον · ἐπιδέσει , πιέξει · ἀτὰρ καὶ ταῦτα , πλήθει μᾶλλον , ἢ ἰσχύϊ · μάλιστα δὲ τουτέοισιν ὀθόνια λεπτὰ , κοῦφα , μαλθακὰ , καθαρὰ , πλατέα , ὑγιέα , ὡς ἂν ἄνευ ναρθήκων · καὶ καταχύσει χρῆσθαι .",
+      "translation": "In cases of ecchymosis , contusions , sprains , or swellings not attended with inflammations , blood is to be expelled from the wound , in greatest quantity to the upper part , and in smallest to the inferior ; neither the arm nor the leg should be placed in a declining position : the head of the bandage should be placed on the wound , and there the greatest pressure should be made ; the least at the extremities , and intermediately in the middle ; the last fold of the bandage should be at the upper part of the body . As to binding and compression , these objects are to be attained rather by the number of the bandages than the force of the constriction ; and moreover , in these cases the bandages should be thin , light , soft , clean , broad , sound , so that they may effect their purpose , even without splints . And we must use affusions ."
+    },
+    {
+      "id": "23",
+      "label": "Section 23",
+      "chapter": null,
+      "original": "23 . Τὰ δὲ ἐκπτώματα , ἢ στέμματα , ἢ διαστήματα , ἢ ἀποσπάσματα , ἢ ἀποκλάσματα , ἢ διαστρέμματα , οἷα τὰ κυλλὰ , τὰ ἑτερόῤῥοπα , ὅθεν μὲν ἐξέστη , ξυνδιδόντα , ὅπη δὲ ξυντείνοντα , ὡς ἐς τἀναντία ῥέπῃ , ἐπιδεθέντα , ἢ πρὶν ἐπιδεθῆναι , σμικρῷ μᾶλλον , ἢ ὥστε ἐξ ἴσου εἶναι · καὶ τοῖσιν ἐπιδέσμοισι , καὶ τοῖσι σπλήνεσι , καὶ τοῖσιν ἀναλήμμασι , καὶ τοῖσι σχήμασι , κατατάσει , ἀνατρίψει , διορθώσει , ταῦτα καὶ καταχύσει πλείονι .",
+      "translation": "Dislocations , sprains , diastases of bones , violent separation , abruption of the extremities of bones , and distrainings , so as to induce varus or valgus , in these cases we must apply the bandages so as not to compress the part whence the displacement took place , and that we may render them tight at the side to which the displacement was , and give the limb an inclination in the opposite direction , and that in an excessive degree . We employ bandages , compresses , suspension of the limb in a sling , attitude , extension , friction , rectification ; and along with these the affusion of much water ."
+    },
+    {
+      "id": "24",
+      "label": "Section 24",
+      "chapter": null,
+      "original": "24 . Τὰ δὲ μινυθήματα , πουλὺ προσλαμβάνοντα τοῦ ὑγιέος , ἐπιδεῖν ὡς ἂν ἐξ ἐπιδρομῆς τὰ ξυντακέντα πλέον ἢ αὐτὰ ἐμινύθει , 332 ἀλλοίῃ τῇ ἐπιδέσει παραλλάξαντα , ἐκκλίνειν ἐς τὴν αὔξησιν καὶ ἀνάπλασιν τῶν σαρκῶν ποιήσηται . Βέλτιον δὲ καὶ τὸ ἄνωθεν , οἷον κνήμης , καὶ τὸν ἕτερον μηρὸν , καὶ τὸ σκέλος τὸ ὑγιὲς συνεπιδεῖν , ὡς ὁμοιότερον ᾖ , καὶ ὁμοίως ἐλινύῃ , καὶ ὁμοίως τῆς τροφῆς ἀποκλείηται καὶ δέχηται · ὀθονίων πλήθει , μὴ πιέξει · ἀνιέντα πρῶτον τὸ μάλιστα δεόμενον , καὶ ἀνατρίψει χρώμενον σαρκούσῃ , καὶ καταχύσει · ἄνευ ναρθήκων .",
+      "translation": "In treating parts which are atrophied , we must comprehend a considerable part of the sound limb with the bandage , so that by the influx thereby produced , the wasted part may acquire a supply greater than its loss , and may be thus disposed to growth and restoration of its fleshy parts . It is better also to bandage the parts above , as the thigh in the case of the leg , p.170 and also the thigh and leg of the opposite side , so that they may be placed in similar circumstances , and may both equally be deprived of motion ; and that the supply of nourishment may be alike curtailed and open to both . The compression should be the effect rather of the number of the bandages than of their tightness . We relax first the part most requiring it , and have recourse to that kind of friction which will promote the growth of flesh , and to affusion . No splints ."
+    },
+    {
+      "id": "25",
+      "label": "Section 25",
+      "chapter": null,
+      "original": "25 . Τὰ δὲ ἑρμάσματα καὶ ἀποστηρίγματα , οἷον στήθει , πλευρῇσι , κεφαλῇ , καὶ τοῖσιν ἄλλοισιν , ὅσα τοιαῦτα · τὰ μὲν , σφυγμῶν ἕνεκεν , ὡς μὴ ἐνσείηται · τὰ δὲ , καὶ τῶν διαστασίων τῶν κατὰ τὰς ἁρμονίας ἐν τοῖσι κατὰ τὴν κεφαλὴν ὀστέοισιν , ἐρεισμάτων χάριν · ἐπί τε βηχέων , ἢ πταρμέων , ἢ ἄλλης κινήσιος , οἷα τὰ κατὰ θώρηκα καὶ κεφαλὴν ἀποστηρίγματα γίγνεται . Τουτέων ἁπάντων αἱ αὐταὶ ξυμμετρίαι τῆς ἐπιδέσιος · ᾗ μὲν γὰρ τὰ σίνη , μάλιστα πιέζει · ὑποτιθέναι οὖν μαλθακόν τι ἁρμόζον τῷ πάθει · ἐπιδεῖν δὲ μὴ μᾶλλον πιεζεῦντα , ἢ ὥστε τοὺς σφυγμοὺς μὴ ἐνσείειν , μηδὲ μᾶλλον ἢ ὥστε τῶν διεστηκότων τὰ ἔσχατα τῶν ἁρμονιῶν ψαύειν ἀλλήλων , μηδὲ τὰς 336 βῆχας καὶ τοὺς πταρμοὺς ὥστε κωλύειν , ἀλλ ὥστε ἀποστήριγμα εἶναι , ὡς μήτε διαναγκάζηται , μήτε ἐνσείηται .",
+      "translation": "Those things which are for the purpose of giving support and strength to the part , as to the breast , side , head , and so forth , are used in such cases as the following : for pulsations , that there may be no motion in the part ; and in separation at the sutures of the skull , in order to give support ; and in order to strengthen the chest and head , in coughs , sneezings , and other movements . In all these cases the same measure of bandaging is to be observed , for where the injury is , there the bandage should compress most , and something soft is to be placed below that suits with the complaint ; and we must not apply the bandages tighter than just to stop the pulsations from creating disturbance , and that the separated parts at the sutures may be brought into contact , they must not be such as absolutely to stop the coughs and sneezings , but so as to give support , and , without occasioning uneasiness , prevent the parts from being shaken ."
+    }
+  ],
+  "prevChunkSlug": "wounds-in-the-head-18k6h7",
+  "nextChunkSlug": "joints-10sal3"
+}

@@ -1,0 +1,61 @@
+{
+  "loebNumber": 258,
+  "sortOrder": 258,
+  "slug": "tyrtaeus-solon-theognis-mimnermus-greek-elegiac-poetry-mlp6bj",
+  "title": "Solon, Theognis, Mimnermus, Greek Elegiac Poetry",
+  "volumeLabel": "Solon, Theognis, Mimnermus, Greek Elegiac Poetry",
+  "authorDisplay": "Tyrtaeus",
+  "authors": [
+    "Tyrtaeus"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Solon, Theognis, Mimnermus, Greek Elegiac Poetry, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "solon-theognis-mimnermus-greek-elegiac-poetry-1b4ss9",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "solon-theognis-mimnermus-greek-elegiac-poetry-1b4ss9",
+      "title": "Solon, Theognis, Mimnermus, Greek Elegiac Poetry",
+      "status": "ready",
+      "sectionCount": 63,
+      "chunkSlug": "solon-theognis-mimnermus-greek-elegiac-poetry-1b4ss9",
+      "chunks": [
+        {
+          "slug": "solon-theognis-mimnermus-greek-elegiac-poetry-1b4ss9",
+          "label": "Solon, Theognis, Mimnermus, Greek Elegiac Poetry",
+          "partId": "solon-theognis-mimnermus-greek-elegiac-poetry-1b4ss9",
+          "partTitle": "Solon, Theognis, Mimnermus, Greek Elegiac Poetry",
+          "sectionCount": 63,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "solon-theognis-mimnermus-greek-elegiac-poetry-1b4ss9",
+      "label": "Solon, Theognis, Mimnermus, Greek Elegiac Poetry",
+      "partId": "solon-theognis-mimnermus-greek-elegiac-poetry-1b4ss9",
+      "partTitle": "Solon, Theognis, Mimnermus, Greek Elegiac Poetry",
+      "sectionCount": 63,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "solon-theognis-mimnermus-greek-elegiac-poetry-1b4ss9",
+      "partTitle": "Solon, Theognis, Mimnermus, Greek Elegiac Poetry",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Σόλων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg007.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Solon",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg007.perseus-eng2/"
+      }
+    }
+  ]
+}

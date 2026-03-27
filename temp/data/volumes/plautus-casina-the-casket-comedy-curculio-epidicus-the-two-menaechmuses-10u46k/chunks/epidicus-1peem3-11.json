@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-casina-the-casket-comedy-curculio-epidicus-the-two-menaechmuses-10u46k",
+  "volumeTitle": "Casina. The Casket Comedy. Curculio. Epidicus. The Two Menaechmuses",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "epidicus-1peem3-11",
+  "label": "Epidicus (Section 5.2.679 - Section 5.2.723b)",
+  "partId": "epidicus-1peem3",
+  "partTitle": "Epidicus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Epidicus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi009.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Epidicus, or The Fortunate Discovery",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi009.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "5.2.679",
+      "label": "Section 5.2.679",
+      "chapter": null,
+      "original": "Dum sine me quaeras , quaeras mea causa vel medio in mari .",
+      "translation": "So long as you look for him without me , you may look for him even in the middle of the sea , as far as I ’ m concerned ."
+    },
+    {
+      "id": "5.2.680",
+      "label": "Section 5.2.680",
+      "chapter": null,
+      "original": "Quid me quaeris ? quid laboras ? quid hunc sollicitas ? ecce me .",
+      "translation": "Why are you looking for me ? Why are you taking this trouble ? Why are you worrying him ? ( Pointing to APAECIDES .) See , here I am . Have I run away from you ? Have I betaken myself from the house ? Have I hid myself from your sight ? I don ’ t entreat you either . Do you wish to bind me ? Look then , I present my hands . ( Holding out his hands .) You have got thongs ; I saw you purchase them . Why do you delay now ? Do bind me !"
+    },
+    {
+      "id": "5.2.685",
+      "label": "Section 5.2.685",
+      "chapter": null,
+      "original": "Ilicet , vadimonium ultro mi hic facit .",
+      "translation": "It ’ s all over [*] . He gives bail to me of his own accord for his appearance ."
+    },
+    {
+      "id": "5.2.685b",
+      "label": "Section 5.2.685b",
+      "chapter": null,
+      "original": "Quin colligas ?",
+      "translation": "Why don ’ t you bind me ?"
+    },
+    {
+      "id": "5.2.686",
+      "label": "Section 5.2.686",
+      "chapter": null,
+      "original": "Edepol mancipium scelestum .",
+      "translation": "A wicked slave , upon my faith !"
+    },
+    {
+      "id": "5.2.686b",
+      "label": "Section 5.2.686b",
+      "chapter": null,
+      "original": "Te profecto , Apoecides ,",
+      "translation": "Really , Apaecides , I don ’ t want you to intercede for me ."
+    },
+    {
+      "id": "5.2.687b",
+      "label": "Section 5.2.687b",
+      "chapter": null,
+      "original": "Facile exoras , Epidice .",
+      "translation": "You easily obtain your wish , Epidicus ."
+    },
+    {
+      "id": "5.2.688",
+      "label": "Section 5.2.688",
+      "chapter": null,
+      "original": "Ecquid agis ?",
+      "translation": "Are you going to do anything ?"
+    },
+    {
+      "id": "5.2.688b",
+      "label": "Section 5.2.688b",
+      "chapter": null,
+      "original": "Tuon arbitratu ?",
+      "translation": "What , at your pleasure ?"
+    },
+    {
+      "id": "5.2.688c",
+      "label": "Section 5.2.688c",
+      "chapter": null,
+      "original": "Meo hercle vero atque hau tuo",
+      "translation": "Troth , at my own , indeed , and not at yours , are these hands to be bound by you to-day ."
+    },
+    {
+      "id": "5.2.689b",
+      "label": "Section 5.2.689b",
+      "chapter": null,
+      "original": "At non lubet , non colligo .",
+      "translation": "But I don ’ t choose ; I shan ’ t bind them ."
+    },
+    {
+      "id": "5.2.690",
+      "label": "Section 5.2.690",
+      "chapter": null,
+      "original": "Tragulam in te inicere adornat , nescio quam fabricam facit .",
+      "translation": "He ’ s preparing to throw a dragnet over you ; he ’ s framing some plan , I know not what ."
+    },
+    {
+      "id": "5.2.691",
+      "label": "Section 5.2.691",
+      "chapter": null,
+      "original": "Tibi moram facis , cum égo solutus asto . age , inquam , colliga .",
+      "translation": "You are causing delay to yourself , while I stand unbound ; bind them , I tell you , bind them together ."
+    },
+    {
+      "id": "5.2.692",
+      "label": "Section 5.2.692",
+      "chapter": null,
+      "original": "At mihi magis lubet solutum te rogitare .",
+      "translation": "But I choose rather to question you unbound ."
+    },
+    {
+      "id": "5.2.692b",
+      "label": "Section 5.2.692b",
+      "chapter": null,
+      "original": "At nil scies .",
+      "translation": "But you shall know nothing ."
+    },
+    {
+      "id": "5.2.693",
+      "label": "Section 5.2.693",
+      "chapter": null,
+      "original": "Quid ago ?",
+      "translation": "What am I to do ?"
+    },
+    {
+      "id": "5.2.693b",
+      "label": "Section 5.2.693b",
+      "chapter": null,
+      "original": "Quid agas ? mos geratur .",
+      "translation": "What are you to do ? Let him be complied with ."
+    },
+    {
+      "id": "5.2.693c",
+      "label": "Section 5.2.693c",
+      "chapter": null,
+      "original": "Frugi es tú homo , Apoecides .",
+      "translation": "You are a worthy person , Apaecides ."
+    },
+    {
+      "id": "5.2.694",
+      "label": "Section 5.2.694",
+      "chapter": null,
+      "original": "Cedo manus igitur .",
+      "translation": "Hold out your hands then ."
+    },
+    {
+      "id": "5.2.694b",
+      "label": "Section 5.2.694b",
+      "chapter": null,
+      "original": "Morantur nihil . atque arte colliga .",
+      "translation": "They don ’ t at all object ; bind them fast together too ."
+    },
+    {
+      "id": "5.2.695",
+      "label": "Section 5.2.695",
+      "chapter": null,
+      "original": "Nihil moror .",
+      "translation": "Don ’ t be afraid ."
+    },
+    {
+      "id": "5.2.695b",
+      "label": "Section 5.2.695b",
+      "chapter": null,
+      "original": "Obnoxiose .",
+      "translation": "I ’ m submissive ."
+    },
+    {
+      "id": "5.2.695c",
+      "label": "Section 5.2.695c",
+      "chapter": null,
+      "original": "Facto opere arbitramino .",
+      "translation": "When the job is done , then pronounce your judgment [*] ."
+    },
+    {
+      "id": "5.2.696",
+      "label": "Section 5.2.696",
+      "chapter": null,
+      "original": "Bene hoc habet . age nunciam ex me exquire , rogita quod lubet .",
+      "translation": "Now then , to the point , with your enquiries of me ; ask me what you please ."
+    },
+    {
+      "id": "5.2.697",
+      "label": "Section 5.2.697",
+      "chapter": null,
+      "original": "Qua fiducia primum , quae emptast nudiustertius ,",
+      "translation": "In the first place , with what assurance did you presume to say that she who was bought the day before yesterday was my daughter ?"
+    },
+    {
+      "id": "5.2.698b",
+      "label": "Section 5.2.698b",
+      "chapter": null,
+      "original": "Libuit : ea fiducia .",
+      "translation": "I chose to ; on that assurance ."
+    },
+    {
+      "id": "5.2.699",
+      "label": "Section 5.2.699",
+      "chapter": null,
+      "original": "Ain tu ? libuit ?",
+      "translation": "Do you say so ? You chose to ?"
+    },
+    {
+      "id": "5.2.699b",
+      "label": "Section 5.2.699b",
+      "chapter": null,
+      "original": "Aio . vel da pignus , ni ea sit filia .",
+      "translation": "I do say so . Even lay me a wager that she is not the daughter —"
+    },
+    {
+      "id": "5.2.700",
+      "label": "Section 5.2.700",
+      "chapter": null,
+      "original": "Quam negat novisse mater ?",
+      "translation": "A woman whom the mother declares she doesn ’ t know ?"
+    },
+    {
+      "id": "5.2.700b",
+      "label": "Section 5.2.700b",
+      "chapter": null,
+      "original": "Ni ergo matris filia est ,",
+      "translation": "Then , if she isn ’ t the daughter of her mother , make me a bet about it , my didrachm to your talent [*] ."
+    },
+    {
+      "id": "5.2.701b",
+      "label": "Section 5.2.701b",
+      "chapter": null,
+      "original": "Enim istaec captiost .",
+      "translation": "Why , that ’ s a mere catch . But who is this woman ?"
+    },
+    {
+      "id": "5.2.702b",
+      "label": "Section 5.2.702b",
+      "chapter": null,
+      "original": "Tui gnati amica , ut omnem rem scias .",
+      "translation": "The mistress of your son , that you may know the whole matter ."
+    },
+    {
+      "id": "5.2.703",
+      "label": "Section 5.2.703",
+      "chapter": null,
+      "original": "Dedin tibi minas triginta ob filiam ?",
+      "translation": "Did I not give you the thirty minae for my daughter ?"
+    },
+    {
+      "id": "5.2.703b",
+      "label": "Section 5.2.703b",
+      "chapter": null,
+      "original": "Fateor datas",
+      "translation": "I confess that they were given , and that with that money I purchased this Music-girl , your son ’ s mistress ,"
+    },
+    {
+      "id": "5.2.705",
+      "label": "Section 5.2.705",
+      "chapter": null,
+      "original": "pro tua filia : is te eam ob rem tetigi triginta minis .",
+      "translation": "instead of your daughter . As to those thirty minae , in fact , I imposed upon you ."
+    },
+    {
+      "id": "5.2.706",
+      "label": "Section 5.2.706",
+      "chapter": null,
+      "original": "Quo modo mé ludos fecisti de illa conducticia",
+      "translation": "For what reason did you play a trick upon me about that hired Music-girl ?"
+    },
+    {
+      "id": "5.2.707b",
+      "label": "Section 5.2.707b",
+      "chapter": null,
+      "original": "Factum hercle vero , et recte factum iudico .",
+      "translation": "I ’ faith , I really did do it , and I think it was rightly done ."
+    },
+    {
+      "id": "5.2.708",
+      "label": "Section 5.2.708",
+      "chapter": null,
+      "original": "Quid postremo argento factum est quod dedi ?",
+      "translation": "In the last place , what has been done with the silver I gave you ?"
+    },
+    {
+      "id": "5.2.708b",
+      "label": "Section 5.2.708b",
+      "chapter": null,
+      "original": "Dicam tibi :",
+      "translation": "I ’ ll tell you ; I gave it to a person neither bad nor yet good [*] — your son Stratippocles ."
+    },
+    {
+      "id": "5.2.710",
+      "label": "Section 5.2.710",
+      "chapter": null,
+      "original": "Quor dare ?",
+      "translation": "Why did you dare to give it him ?"
+    },
+    {
+      "id": "5.2.710b",
+      "label": "Section 5.2.710b",
+      "chapter": null,
+      "original": "Quia mi libitum est .",
+      "translation": "Because it pleased me ."
+    },
+    {
+      "id": "5.2.710c",
+      "label": "Section 5.2.710c",
+      "chapter": null,
+      "original": "Quae haec , malum , impudentiast ?",
+      "translation": "Plague on it ! what insolence is this ?"
+    },
+    {
+      "id": "5.2.711",
+      "label": "Section 5.2.711",
+      "chapter": null,
+      "original": "Etiam inclamitor quasi servos ?",
+      "translation": "Am I to be bawled at just as if I were a slave ?"
+    },
+    {
+      "id": "5.2.711b",
+      "label": "Section 5.2.711b",
+      "chapter": null,
+      "original": "Cum tu es liber , gaudeo .",
+      "translation": "As you are a free man , I rejoice ."
+    },
+    {
+      "id": "5.2.712",
+      "label": "Section 5.2.712",
+      "chapter": null,
+      "original": "Merui ut fierem .",
+      "translation": "I have deserved to become so ."
+    },
+    {
+      "id": "5.2.712b",
+      "label": "Section 5.2.712b",
+      "chapter": null,
+      "original": "Tu meruisti ?",
+      "translation": "You — deserved ?"
+    },
+    {
+      "id": "5.2.712c",
+      "label": "Section 5.2.712c",
+      "chapter": null,
+      "original": "Vise intro : ego faxo scies",
+      "translation": "Go look in-doors ; I ’ ll let you know that this is the truth ."
+    },
+    {
+      "id": "5.2.713b",
+      "label": "Section 5.2.713b",
+      "chapter": null,
+      "original": "Quid est negoti ?",
+      "translation": "What ’ s the matter ?"
+    },
+    {
+      "id": "5.2.713c",
+      "label": "Section 5.2.713c",
+      "chapter": null,
+      "original": "Iam ipsa res dicet tibi .",
+      "translation": "The thing itself will tell you so at once . Only do go in-doors ."
+    },
+    {
+      "id": "5.2.714b",
+      "label": "Section 5.2.714b",
+      "chapter": null,
+      "original": "Ei , non illuc temerest .",
+      "translation": "Aye , aye ! this is not without its meaning ."
+    },
+    {
+      "id": "5.2.714c",
+      "label": "Section 5.2.714c",
+      "chapter": null,
+      "original": "Adserva istum , Apoecides .—",
+      "translation": "Do you keep an eye on him , Apaecides ."
+    },
+    {
+      "id": "5.2.715",
+      "label": "Section 5.2.715",
+      "chapter": null,
+      "original": "Quid illuc , Epidice , est negoti ?",
+      "translation": "What ’ s the meaning of this , Epidicus ?"
+    },
+    {
+      "id": "5.2.715b",
+      "label": "Section 5.2.715b",
+      "chapter": null,
+      "original": "Maxima hercle iniuria",
+      "translation": "I ’ faith , it ’ s with the greatest injustice that I ’ m standing here bound , through whose aid his daughter has been discovered to-day ."
+    },
+    {
+      "id": "5.2.717",
+      "label": "Section 5.2.717",
+      "chapter": null,
+      "original": "Ain tu te illius invenisse filiam ?",
+      "translation": "Do you say that you have found his daughter ?"
+    },
+    {
+      "id": "5.2.717b",
+      "label": "Section 5.2.717b",
+      "chapter": null,
+      "original": "Inveni , et domi est .",
+      "translation": "I have found her , and she is at home . But how hard it is , when , for services done , you reap a harvest of evil ."
+    },
+    {
+      "id": "5.2.719",
+      "label": "Section 5.2.719",
+      "chapter": null,
+      "original": "Quamne hodie per urbem uterque sumus defessi quaerere ?",
+      "translation": "What , her whom this day we ’ ve both been weary with seeking throughout the city ?"
+    },
+    {
+      "id": "5.2.720",
+      "label": "Section 5.2.720",
+      "chapter": null,
+      "original": "Ego sum defessus reperire , vos defessi quaerere .",
+      "translation": "I ’ m weary with finding , you weary with seeking ."
+    },
+    {
+      "id": "5.2.721",
+      "label": "Section 5.2.721",
+      "chapter": null,
+      "original": "Quid isti oratis opere tanto ? mi orandum esse intellego ,",
+      "translation": "Why do you entreat me thus earnestly in his behalf ? For I find that he does deserve that I should be pleased to act according to his deserts . ( To EPIDICUS .) Hold out your hands , you , that I may unbind them ."
+    },
+    {
+      "id": "5.2.723",
+      "label": "Section 5.2.723",
+      "chapter": null,
+      "original": "Ne attigas .",
+      "translation": "Don ’ t you touch them ."
+    },
+    {
+      "id": "5.2.723b",
+      "label": "Section 5.2.723b",
+      "chapter": null,
+      "original": "Ostende vero .",
+      "translation": "But do you present them to me ."
+    }
+  ],
+  "prevChunkSlug": "epidicus-1peem3-10",
+  "nextChunkSlug": "epidicus-1peem3-12"
+}

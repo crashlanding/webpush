@@ -1,0 +1,61 @@
+{
+  "loebNumber": 138,
+  "sortOrder": 138,
+  "slug": "polybius-the-histories-volume-iii-1v3r6a",
+  "title": "The Histories, Volume III",
+  "volumeLabel": "The Histories, Volume III",
+  "authorDisplay": "Polybius",
+  "authors": [
+    "Polybius"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for The Histories, Volume III. The Histories, Volume III currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "the-histories-volume-iii-tpk4e2",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "the-histories-volume-iii-tpk4e2",
+      "title": "The Histories, Volume III",
+      "status": "ready",
+      "sectionCount": 38,
+      "chunkSlug": "the-histories-volume-iii-tpk4e2",
+      "chunks": [
+        {
+          "slug": "the-histories-volume-iii-tpk4e2",
+          "label": "The Histories, Volume III",
+          "partId": "the-histories-volume-iii-tpk4e2",
+          "partTitle": "The Histories, Volume III",
+          "sectionCount": 38,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "the-histories-volume-iii-tpk4e2",
+      "label": "The Histories, Volume III",
+      "partId": "the-histories-volume-iii-tpk4e2",
+      "partTitle": "The Histories, Volume III",
+      "sectionCount": 38,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "the-histories-volume-iii-tpk4e2",
+      "partTitle": "The Histories, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἱστορίαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0543.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Histories",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0543.tlg001.perseus-eng2/"
+      }
+    }
+  ]
+}

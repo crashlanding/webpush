@@ -1,0 +1,61 @@
+{
+  "loebNumber": 50,
+  "sortOrder": 50,
+  "slug": "strabo-geography-volume-ii-lw002v",
+  "title": "Geography, Volume II",
+  "volumeLabel": "Geography, Volume II",
+  "authorDisplay": "Strabo",
+  "authors": [
+    "Strabo"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Geography, Volume II. Geography, Volume II currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "geography-volume-ii-uylme",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "geography-volume-ii-uylme",
+      "title": "Geography, Volume II",
+      "status": "ready",
+      "sectionCount": 42,
+      "chunkSlug": "geography-volume-ii-uylme",
+      "chunks": [
+        {
+          "slug": "geography-volume-ii-uylme",
+          "label": "Geography, Volume II",
+          "partId": "geography-volume-ii-uylme",
+          "partTitle": "Geography, Volume II",
+          "sectionCount": 42,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "geography-volume-ii-uylme",
+      "label": "Geography, Volume II",
+      "partId": "geography-volume-ii-uylme",
+      "partTitle": "Geography, Volume II",
+      "sectionCount": 42,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "geography-volume-ii-uylme",
+      "partTitle": "Geography, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Γεωγραφικά",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0099.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Geography (Books 6-14)",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0099.tlg001.perseus-eng3/"
+      }
+    }
+  ]
+}

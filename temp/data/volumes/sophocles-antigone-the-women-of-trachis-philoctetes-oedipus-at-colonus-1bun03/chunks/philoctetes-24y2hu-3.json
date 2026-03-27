@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "sophocles-antigone-the-women-of-trachis-philoctetes-oedipus-at-colonus-1bun03",
+  "volumeTitle": "Antigone. The Women of Trachis. Philoctetes. Oedipus at Colonus",
+  "authorDisplay": "Sophocles",
+  "authors": [
+    "Sophocles"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "philoctetes-24y2hu-3",
+  "label": "Philoctetes (Section 319 - Section 480)",
+  "partId": "philoctetes-24y2hu",
+  "partTitle": "Philoctetes",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Φιλοκτήτης",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg006.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Philoctetes",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg006.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "319",
+      "label": "Section 319",
+      "chapter": null,
+      "original": "ἐγὼ δὲ καὐτὸς τοῖσδε μάρτυς ἐν λόγοις ,",
+      "translation": "And I myself attest your accusations ,"
+    },
+    {
+      "id": "320",
+      "label": "Section 320",
+      "chapter": null,
+      "original": "ὡς εἴσʼ ἀληθεῖς οἶδα , συντυχὼν κακῶν",
+      "translation": "for I know their truth through my own experience with the wickedness of the Atreids and the force of Odysseus ."
+    },
+    {
+      "id": "322",
+      "label": "Section 322",
+      "chapter": null,
+      "original": "ἦ γάρ τι καὶ σὺ τοῖς πανωλέθροις ἔχεις",
+      "translation": "What , do you also have a grievance against the accursed sons of Atreus , a cause for anger at some mistreatment ?"
+    },
+    {
+      "id": "324",
+      "label": "Section 324",
+      "chapter": null,
+      "original": "θυμὸν γένοιτο χειρὶ πληρῶσαί ποτε ,",
+      "translation": "If only I might one day be allowed to fulfill my heart ’ s rage by the deeds of my hand ,"
+    },
+    {
+      "id": "325",
+      "label": "Section 325",
+      "chapter": null,
+      "original": "ἵνʼ αἱ Μυκῆναι γνοῖεν ἡ Σπάρτη θʼ ὅτι",
+      "translation": "so that Mycenae might learn , and Sparta , that Scyros also is a mother of brave men !"
+    },
+    {
+      "id": "327",
+      "label": "Section 327",
+      "chapter": null,
+      "original": "εὖ γʼ , ὦ τέκνον · τίνος γὰρ ὧδε τὸν μέγαν",
+      "translation": "Well said , son ! Now what is the reason that you have come complaining against them with this fierce wrath ?"
+    },
+    {
+      "id": "329",
+      "label": "Section 329",
+      "chapter": null,
+      "original": "ὦ παῖ Ποίαντος , ἐξερῶ , μόλις δʼ ἐρῶ ,",
+      "translation": "I will tell you — and yet it is hard to tell —"
+    },
+    {
+      "id": "330",
+      "label": "Section 330",
+      "chapter": null,
+      "original": "ἅγωγʼ ὑπʼ αὐτῶν ἐξελωβήθην μολών .",
+      "translation": "the outrage that I suffered from them upon my arrival there . For when fate decreed that Achilles should die —"
+    },
+    {
+      "id": "332",
+      "label": "Section 332",
+      "chapter": null,
+      "original": "οἴμοι · φράσῃς μοι μὴ πέρα , πρὶν ἂν μάθω",
+      "translation": "Ah , me ! Tell me no more , until I first know this — is the son of Peleus dead ?"
+    },
+    {
+      "id": "334",
+      "label": "Section 334",
+      "chapter": null,
+      "original": "τέθνηκεν , ἀνδρὸς οὐδενός , θεοῦ δʼ ὕπο ,",
+      "translation": "Dead — not by a mortal hand , but by a god ’ s ."
+    },
+    {
+      "id": "335",
+      "label": "Section 335",
+      "chapter": null,
+      "original": "τοξευτός , ὡς λέγουσιν , ἐκ Φοίβου δαμείς .",
+      "translation": "He was brought down , as men say , by the arrow of Phoebus ."
+    },
+    {
+      "id": "336",
+      "label": "Section 336",
+      "chapter": null,
+      "original": "ἀλλʼ εὐγενὴς μὲν ὁ κτανών τε χὠ θανών ·",
+      "translation": "Well , noble alike are the slayer and the slain . But I am at a loss to know , son , whether I should first inquire into the wrong done you , or mourn the dead ."
+    },
+    {
+      "id": "339",
+      "label": "Section 339",
+      "chapter": null,
+      "original": "οἶμαι μὲν ἀρκεῖν σοί γε καὶ τὰ σʼ , ὦ τάλας ,",
+      "translation": "Your own sorrows , I think , are enough"
+    },
+    {
+      "id": "340",
+      "label": "Section 340",
+      "chapter": null,
+      "original": "ἀλγήμαθʼ , ὥστε μὴ τὰ τῶν πέλας στένειν .",
+      "translation": "for you , unhappy man , without mourning for those of your neighbor ."
+    },
+    {
+      "id": "341",
+      "label": "Section 341",
+      "chapter": null,
+      "original": "ὀρθῶς ἔλεξας · τοιγαροῦν τὸ σὸν φράσον",
+      "translation": "You speak the truth . Therefore tell me again what happened to you , and how they wronged you ."
+    },
+    {
+      "id": "343",
+      "label": "Section 343",
+      "chapter": null,
+      "original": "ἦλθόν με νηὶ ποικιλοστόλῳ μέτα",
+      "translation": "They came for me in a ship elaborately ornamented , shining Odysseus , and he who fostered my father ,"
+    },
+    {
+      "id": "345",
+      "label": "Section 345",
+      "chapter": null,
+      "original": "λέγοντες , εἴτʼ ἀληθὲς εἴτʼ ἄρʼ οὖν μάτην ,",
+      "translation": "and said — whether truly or falsely , I do not know — that since my father had perished , fate now forbade that anyone but I should take the towers of Troy .\nSaying that this , my friend , was how things stood , they caused me no long delay before I set sail in haste ,"
+    },
+    {
+      "id": "350",
+      "label": "Section 350",
+      "chapter": null,
+      "original": "μάλιστα μὲν δὴ τοῦ θανόντος ἱμέρῳ ,",
+      "translation": "chiefly because of my yearning for the dead , that I might look upon him before burial , since I had never seen him . Then , besides , theirs was a fine promise , if by accompanying them I might sack the towers of Troy .\nIt was now the second day of my voyage"
+    },
+    {
+      "id": "355",
+      "label": "Section 355",
+      "chapter": null,
+      "original": "κἀγὼ πικρὸν Σίγειον οὐρίῳ πλάτῃ",
+      "translation": "when , sped by breeze and oar , I approached bitter Sigeum . When I landed , straightaway the entire army thronged around me with greetings , vowing that they saw their lost Achilles once more alive .\nHe , though , lay ready for burial , and I , unhappy ,"
+    },
+    {
+      "id": "360",
+      "label": "Section 360",
+      "chapter": null,
+      "original": "ἐπεὶ ʼδάκρυσα κεῖνον , οὐ μακρῷ χρόνῳ",
+      "translation": "when I had wept for him , went before long to the Atreids , to friends , as it was reasonable to suppose ,— and claimed my father ’ s arms and all else that had been his . O , their reply was bold and shameless ! Seed of Achilles , you may take all else that was your father ’ s . But of those arms another man now is lord , the son of Laertes ."
+    },
+    {
+      "id": "367",
+      "label": "Section 367",
+      "chapter": null,
+      "original": "κἀγὼ δακρύσας εὐθὺς ἐξανίσταμαι",
+      "translation": "The tears came quick to my eyes as I sprang up in passionate anger and said in my bitterness , Madman ! Have you dared give my arms to another man in my place , without asking me ? But Odysseus — for he chanced to be at hand — said , Yes , boy , they awarded them as was just , since it was I who saved the arms and their master by my presence at the crucial moment . Then immediately , in my fury , I began to lash at him with every kind of insult"
+    },
+    {
+      "id": "375",
+      "label": "Section 375",
+      "chapter": null,
+      "original": "τοῖς πᾶσιν , οὐδὲν ἐνδεὲς ποιούμενος ,",
+      "translation": "and left not one unsaid , if he was indeed to rob me of my arms . At this point , stung by the abuse , though not given to anger , he answered ,— You have not gone to where we have ; instead you have been absent from where you were needed . And since your tongue is so arrogant , you will never sail back to Scyros with those arms in your possession . In that way rebuked , in that way insulted , I sail for home , deprived of what is my own by that worst offspring of a wicked line , Odysseus ."
+    },
+    {
+      "id": "385",
+      "label": "Section 385",
+      "chapter": null,
+      "original": "κοὐκ αἰτιῶμαι κεῖνον ὡς τοὺς ἐν τέλει ·",
+      "translation": "And yet I do not blame him as much as I do those in power . For a city hangs wholly on its leaders , and so does an army , but when men shatter law and order , it is the lessons of their teachers that corrupt them . My tale is told in full . May he who hates the Atreids"
+    },
+    {
+      "id": "390",
+      "label": "Section 390",
+      "chapter": null,
+      "original": "ἐμοί θʼ ὁμοίως καὶ θεοῖς εἴη φίλος .",
+      "translation": "be as dear to the gods as he is to me !"
+    },
+    {
+      "id": "1.391",
+      "label": "Section 1.391",
+      "chapter": null,
+      "original": "ὀρεστέρα παμβῶτι Γᾶ , μᾶτερ αὐτοῦ Διός ,",
+      "translation": "Goddess of the hills , Earth all-nourishing , mother of Zeus himself , you through whose realm the great Pactolus"
+    },
+    {
+      "id": "1.395",
+      "label": "Section 1.395",
+      "chapter": null,
+      "original": "σὲ κἀκεῖ , μᾶτερ πότνιʼ , ἐπηυδώμαν ,",
+      "translation": "rolls golden sands ! There , there also , dread Mother , I called upon your name , when all the insults of the Atreids landed upon this man , when they handed over his father ’ s armor , that sublime marvel ,"
+    },
+    {
+      "id": "1.400",
+      "label": "Section 1.400",
+      "chapter": null,
+      "original": "ἰὼ μάκαιρα ταυροκτόνων",
+      "translation": "to the son of Laertes . Hear it , blessed queen , who rides on bull-slaughtering lions !"
+    },
+    {
+      "id": "403",
+      "label": "Section 403",
+      "chapter": null,
+      "original": "ἔχοντες , ὡς ἔοικε , σύμβολον σαφὲς",
+      "translation": "It seems that you have come to me , friends , well commended by a grief that matches my own ."
+    },
+    {
+      "id": "405",
+      "label": "Section 405",
+      "chapter": null,
+      "original": "καί μοι προσᾴδεθʼ ὥστε γιγνώσκειν ὅτι",
+      "translation": "Your story is in harmony with mine , so that I can recognize the work of the Atreids and of Odysseus . For well I know that he would put his tongue to any base tale and to any mischief-making , if thereby he could hope to accomplish something criminal in the end ."
+    },
+    {
+      "id": "410",
+      "label": "Section 410",
+      "chapter": null,
+      "original": "ἀλλʼ οὔ τι τοῦτο θαῦμʼ ἔμοιγʼ , ἀλλʼ εἰ παρὼν",
+      "translation": "No , that is not at all a wonder to me , but rather that the elder Ajax , if he was there , could bear to see this ."
+    },
+    {
+      "id": "412",
+      "label": "Section 412",
+      "chapter": null,
+      "original": "οὐκ ἦν ἔτι ζῶν , ὦ ξένʼ · οὐ γὰρ ἄν ποτε",
+      "translation": "Ah , friend , he was no longer alive — I would never have been plundered like that while he lived ."
+    },
+    {
+      "id": "414",
+      "label": "Section 414",
+      "chapter": null,
+      "original": "πῶς εἶπας ; ἀλλʼ ἦ χοὖτος οἴχεται θανών ;",
+      "translation": "What do you say ? Is he , too , dead and gone ?"
+    },
+    {
+      "id": "415",
+      "label": "Section 415",
+      "chapter": null,
+      "original": "ὡς μηκέτʼ ὄντα κεῖνον ἐν φάει νόει .",
+      "translation": "Think of him as of one who sees the sun ’ s light no more ."
+    },
+    {
+      "id": "416",
+      "label": "Section 416",
+      "chapter": null,
+      "original": "οἴμοι τάλας . ἀλλʼ οὐχ ὁ Τυδέως γόνος",
+      "translation": "Oh , no ! But the son of Tydeus , and Sisyphus ’ offspring that was bought by Laertes — they will not die , since they do not deserve to live !"
+    },
+    {
+      "id": "419",
+      "label": "Section 419",
+      "chapter": null,
+      "original": "οὐ δῆτʼ · ἐπίστω τοῦτό γʼ · ἀλλὰ καὶ μέγα",
+      "translation": "No , indeed , be sure of it . On the contrary , they prosper now"
+    },
+    {
+      "id": "420",
+      "label": "Section 420",
+      "chapter": null,
+      "original": "θάλλοντές εἰσι νῦν ἐν Ἀργείων στρατῷ .",
+      "translation": "— yes , and greatly — in the Argive army ."
+    },
+    {
+      "id": "421",
+      "label": "Section 421",
+      "chapter": null,
+      "original": "τί δʼ ; οὐ παλαιὸς κἀγαθὸς φίλος τʼ ἐμός ,",
+      "translation": "And what of my brave old friend , Nestor of Pylos — is he not alive ? He often checked the crimes of those two , if not others , by his sage counsels ."
+    },
+    {
+      "id": "424",
+      "label": "Section 424",
+      "chapter": null,
+      "original": "κεῖνός γε πράσσει νῦν κακῶς , ἐπεὶ θανὼν",
+      "translation": "He has his own troubles now , since Antilochus ,"
+    },
+    {
+      "id": "425",
+      "label": "Section 425",
+      "chapter": null,
+      "original": "Ἀντίλοχος αὐτῷ φροῦδος , ὃς παρῆν , γόνος .",
+      "translation": "the son that was at his side , left him for Hades ."
+    },
+    {
+      "id": "426",
+      "label": "Section 426",
+      "chapter": null,
+      "original": "οἴμοι , δύʼ αὖ τώδʼ ἄνδρʼ ἔλεξας , οἷν ἐγὼ",
+      "translation": "Ah , me ! These two , again , whom you have named , are men of whose death I had least wished to hear . Gods ! What are we to look for , when these men have died , but Odysseus here again lives , when"
+    },
+    {
+      "id": "430",
+      "label": "Section 430",
+      "chapter": null,
+      "original": "χρῆν ἀντὶ τούτων αὐτὸν αὐδᾶσθαι νεκρόν ;",
+      "translation": "in their place he should have been announced as dead ?"
+    },
+    {
+      "id": "431",
+      "label": "Section 431",
+      "chapter": null,
+      "original": "σοφὸς παλαιστὴς κεῖνος · ἀλλὰ χαἰ σοφαὶ",
+      "translation": "The man is a clever wrestler . But even clever schemes , Philoctetes , are often blocked ."
+    },
+    {
+      "id": "433",
+      "label": "Section 433",
+      "chapter": null,
+      "original": "φέρʼ εἰπὲ πρὸς θεῶν , ποῦ γὰρ ἦν ἐνταῦθά σοι",
+      "translation": "Now , by the gods , tell me — where was Patroclus when you needed him , he whom your father loved beyond all others ?"
+    },
+    {
+      "id": "435",
+      "label": "Section 435",
+      "chapter": null,
+      "original": "χοὖτος τεθνηκὼς ἦν · λόγῳ δέ σʼ ἐν βραχεῖ",
+      "translation": "He , too , was dead . And in a brief maxim I would teach you this : War takes no evil man by choice , but always the good men ."
+    },
+    {
+      "id": "438",
+      "label": "Section 438",
+      "chapter": null,
+      "original": "ξυμμαρτυρῶ σοι · καὶ κατʼ αὐτὸ τοῦτό γε",
+      "translation": "I will attest to that , and with that very truth in mind , I will ask you how fares a man of little worth , but sharp of tongue and clever ."
+    },
+    {
+      "id": "440",
+      "label": "Section 440",
+      "chapter": null,
+      "original": "γλώσσῃ δὲ δεινοῦ καὶ σοφοῦ , τί νῦν κυρεῖ .",
+      "translation": "Surely the man of whom you ask is no one but Odysseus ?"
+    },
+    {
+      "id": "441",
+      "label": "Section 441",
+      "chapter": null,
+      "original": "ποίου δὲ τούτου πλήν γʼ Ὀδυσσέως ἐρεῖς ;",
+      "translation": "I did not mean him ; there was one Thersites , who could never be content to speak once and briefly , even though no one wanted him to speak at all . Do you know if he is alive ?"
+    },
+    {
+      "id": "445",
+      "label": "Section 445",
+      "chapter": null,
+      "original": "οὐκ εἶδον αὐτόν , ᾐσθόμην δʼ ἔτʼ ὄντα νιν .",
+      "translation": "I never saw him , but I heard that he is still alive ."
+    },
+    {
+      "id": "446",
+      "label": "Section 446",
+      "chapter": null,
+      "original": "ἔμελλʼ · ἐπεὶ οὐδέν πω κακόν γʼ ἀπώλετο ,",
+      "translation": "He would be — no evil thing has ever been known to perish . No , the gods take excellent care of their kind . They find a strange joy in turning back from Hades all things criminal"
+    },
+    {
+      "id": "450",
+      "label": "Section 450",
+      "chapter": null,
+      "original": "δίκαια καὶ τὰ χρήστʼ ἀποστέλλουσʼ ἀεί .",
+      "translation": "and crooked , while they are always dispatching the just and the good from life . How am I to regard these doings ? How can I praise them , when in the very act of praising the ways of the gods , I find that the gods are evil ?"
+    },
+    {
+      "id": "453",
+      "label": "Section 453",
+      "chapter": null,
+      "original": "ἐγὼ μέν , ὦ γένεθλον Οἰταίου πατρός ,",
+      "translation": "I , at least , son of Oetean Poeas , will be on my guard hereafter against Ilium"
+    },
+    {
+      "id": "455",
+      "label": "Section 455",
+      "chapter": null,
+      "original": "καὶ τοὺς Ἀτρείδας εἰσορῶν φυλάξομαι ·",
+      "translation": "and the Atreids , and look on them only from afar . And where the worse man is stronger than the good , where nobility goes to ruin and the vile man dominates — among such men I will never make my friends . No , rocky Scyros shall suffice for me"
+    },
+    {
+      "id": "460",
+      "label": "Section 460",
+      "chapter": null,
+      "original": "ἔσται τὸ λοιπόν , ὥστε τέρπεσθαι δόμῳ .",
+      "translation": "from now on to make me delight in my home . Now to my ship ! And you , son of Poeas , farewell — as best you can , farewell ! May the gods free you of your disease , just as you wish ! But we must be going , so that we"
+    },
+    {
+      "id": "465",
+      "label": "Section 465",
+      "chapter": null,
+      "original": "πλοῦν ἡμὶν εἴκῃ , τηνικαῦθʼ ὁρμώμεθα .",
+      "translation": "may set sail whenever the god permits our voyage ."
+    },
+    {
+      "id": "466",
+      "label": "Section 466",
+      "chapter": null,
+      "original": "ἤδη , τέκνον , στέλλεσθε ;",
+      "translation": "Are you setting out already , son ?"
+    },
+    {
+      "id": "466a",
+      "label": "Section 466a",
+      "chapter": null,
+      "original": "καιρὸς γὰρ καλεῖ",
+      "translation": "Yes , since opportunity bids us watch near our ship for a fair wind , rather than from afar ."
+    },
+    {
+      "id": "468",
+      "label": "Section 468",
+      "chapter": null,
+      "original": "πρός νύν σε πατρὸς πρός τε μητρός , ὦ τέκνον ,",
+      "translation": "Now by your father and by your mother , son , by all that you cherish at home —"
+    },
+    {
+      "id": "470",
+      "label": "Section 470",
+      "chapter": null,
+      "original": "ἱκέτης ἱκνοῦμαι , μὴ λίπῃς μʼ οὕτω μόνον ,",
+      "translation": "I solemnly supplicate you , do not leave me alone like this , helpless amid these miseries in which I live , so harsh as you see , and so numerous as I have said ! Consider me a small side-task . Great is"
+    },
+    {
+      "id": "475",
+      "label": "Section 475",
+      "chapter": null,
+      "original": "ὅμως δὲ τλῆθι · τοῖσι γενναίοισί τοι",
+      "translation": "your disgust , well I know , at such a cargo . Yet bear with it all the same — to noble minds baseness is hateful , and a good deed is glorious . If you forsake this task , you will have a stain on your honor ; but if you perform it , boy , you will win the prize of highest honor — if I return alive to Oeta ’ s soil ."
+    },
+    {
+      "id": "480",
+      "label": "Section 480",
+      "chapter": null,
+      "original": "ἴθʼ · ἡμέρας τοι μόχθος οὐχ ὅλης μιᾶς .",
+      "translation": "Come , the trouble will not last one full day . Endure it , take me and throw me where you will — in the hold , the prow , the stern , wherever I will least annoy my shipmates . Say yes , by the great god of suppliants , son ;"
+    }
+  ],
+  "prevChunkSlug": "philoctetes-24y2hu-2",
+  "nextChunkSlug": "philoctetes-24y2hu-4"
+}

@@ -1,0 +1,220 @@
+{
+  "volumeSlug": "demosthenes-orations-volume-iii-7g6ffr",
+  "volumeTitle": "Orations, Volume III",
+  "authorDisplay": "Demosthenes",
+  "authors": [
+    "Demosthenes"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "against-aristogeiton-ii-pv9bhf",
+  "label": "Against Aristogeiton II",
+  "partId": "orations-volume-iii-1lkkge",
+  "partTitle": "Orations, Volume III",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "κατὰ Ἀριστογείτονος β΄",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg026.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Against Aristogeiton II",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg026.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1",
+      "label": "Section 1",
+      "chapter": null,
+      "original": "ὅτι μὲν τοίνυν καὶ ὀφείλει τῷ δημοσίῳ Ἀριστογείτων οὑτοσὶ καὶ οὐκ ἔστιν ἐπίτιμος , καὶ οἱ νόμοι διαρρήδην ἀπαγορεύουσιν μὴ ἐξεῖναι λέγειν τοῖς τοιούτοις , φανερῶς ἐπιδέδεικται , ὦ ἄνδρες Ἀθηναῖοι . δεῖ δʼ ὑμᾶς ἅπαντας μὲν ἀπείργειν καὶ κωλύειν τοὺς παρανομοῦντας , πολὺ δὲ μάλιστα τοὺς ἐν ταῖς ἀρχαῖς ὄντας καὶ τοὺς πολιτευομένους ·",
+      "translation": "It has been conclusively proved , men of Athens , that the defendant , Aristogeiton , is a state-debtor and disfranchised , and that the laws expressly forbid all such to address the Assembly . But it is your duty to restrain and check all law-breakers , but especially those who hold office and take part in public affairs ,"
+    },
+    {
+      "id": "2",
+      "label": "Section 2",
+      "chapter": null,
+      "original": "διὰ γὰρ τούτους τὰ κοινὰ καὶ βλάπτεσθαι πέφυκεν , ἐὰν ὦσι φαῦλοι , καὶ τὰ μέγιστα πάλιν ὠφελεῖσθαι , ἐὰν ὦσιν ἐπιεικεῖς καὶ θέλωσιν ἐμμένειν τοῖς νόμοις . ὡς ἐὰν ἅπαξ δῶτε τοῖς ὑπὲρ τῶν κοινῶν ἐγχειροῦσί τι πράττειν τὸ παρανομεῖν καὶ καταφρονεῖν τῶν ὡρισμένων δικαίων , ἀναγκαῖόν ἐστιν ἅπαντας ἀπολαύειν τοὺς μετέχοντας τῆς πόλεως .",
+      "translation": "because such men tend to injure the community , if they are unprincipled , and on the other hand to confer the greatest benefit upon it , if they are honest men and willing to abide by the laws . If you once allow those who administer any part of our public affairs to break the laws and override the established principles of justice , everyone who has a stake in the country is bound to suffer from their wickedness ."
+    },
+    {
+      "id": "3",
+      "label": "Section 3",
+      "chapter": null,
+      "original": "ὥσπερ γὰρ τῶν ἐν ταῖς ναυσὶν ἁμαρτημάτων ἃ συμβαίνει περὶ τοὺς πλοῦς , ὅταν μὲν τῶν ναυτῶν τις ἁμάρτῃ , βραχεῖαν τὴν βλάβην ἤνεγκεν , ὅταν δʼ ὁ κυβερνήτης ἀποσφαλῇ , κοινὴν τὴν ἀτυχίαν ἅπασι τοῖς ἐμπλέουσι παρεσκεύασεν , ὡσαύτως τὰ μὲν τῶν ἰδιωτῶν ἁμαρτήματα οὐκ εἰς τὸ πλῆθος , εἰς δʼ αὐτοὺς ἤνεγκε τὰς βλάβας , τὰ δὲ τῶν ἀρχόντων καὶ πολιτευομένων εἰς ἅπαντας ἀφικνεῖται .",
+      "translation": "For just as on a voyage an error committed by a common sailor causes little damage , but , when the helmsman is at fault , he brings disaster on everyone aboard , so the faults of private persons cause loss not so much to the general public as to themselves , while the faults of rulers and statesmen come home to all citizens alike ."
+    },
+    {
+      "id": "4",
+      "label": "Section 4",
+      "chapter": null,
+      "original": "διὸ καὶ τὰς τιμωρίας ὁ Σόλων τοῖς μὲν ἰδιώταις ἐποίησε βραδείας , ταῖς δʼ ἀρχαῖς καὶ τοῖς δημαγωγοῖς ταχείας , ὑπολαμβάνων τοῖς μὲν ἐνδέχεσθαι καὶ παρὰ τὸν χρόνον τὸ δίκαιον λαβεῖν , τοῖς δʼ οὐκ ἐνεῖναι περιμεῖναι · τὸ γὰρ τιμωρησόμενον οὐχ ὑπέσται τῆς πολιτείας καταλυθείσης . καὶ τούτοις τοῖς δικαίοις οὐδεὶς οὕτως οὔτʼ ἀναιδὴς οὔθʼ ὑπὲρ ὑμᾶς φρονῶν ἐστὶν ὅστις ἀντιλέγειν ἐπιχειρήσει , πλὴν Ἀριστογείτονος τουτουὶ καὶ τῆς τούτου πονηρίας . ἀλλὰ πάσας καὶ τὰς ἀρχὰς καὶ τοὺς πολιτευομένους εὑρήσομεν , ἐπειδὰν ἅπαξ τι καταγνῶθʼ ὑμεῖς , τούτοις ἐμμένοντας .",
+      "translation": "That was why Solon ordained that the penalties for private citizens should be slow , but for magistrates and political leaders swift , assuming that from the former one can get satisfaction even after some delay , but that one cannot wait for the latter , because there will be no prospect of punishment if the constitution is destroyed . No one will be so impudent or so pretentious that he will attempt to gainsay these principles , except Aristogeiton here with his reckless wickedness . On the contrary we shall find that , when once you have given an adverse verdict , all magistrates and all statesmen accept them ."
+    },
+    {
+      "id": "5",
+      "label": "Section 5",
+      "chapter": null,
+      "original": "τοῦτο μὲν γὰρ ὅταν ἀποχειροτονηθῶσι τινες τῶν ἐν ταῖς ἀρχαῖς , παραχρῆμα πέπαυνται ἄρχοντες καὶ τοὺς στεφάνους περιῄρηνται · τοῦτο δʼ ὅσοις τῶν θεσμοθετῶν εἰς Ἄρειον πάγον οὐχ οἷόν τʼ ἐστὶν ἀνελθεῖν , παρέντες τὸ βιάζεσθαι στέργουσιν ταῖς ὑμετέραις γνώσεσι . καὶ τοῦτʼ εἰκότως · ὥσπερ γάρ , ὅταν ἄρχωσι , τοὺς ἰδιώτας οἴονται δεῖν αὑτοῖς πειθαρχεῖν , ὡσαύτως , ὅταν αὐτοὶ ἰδιῶται γένωνται πάλιν , τοῖς τῆς πόλεως ἄρχουσι νόμοις δικαίως ἂν ἀκολουθοῖεν .",
+      "translation": "For on the one hand , whenever any officials have been rejected by vote , they instantly cease to hold office and are stripped of their official crowns ; and on the other hand , all the judicial archons who are disqualified for promotion to the Areopagus forbear to force their way in and submit humbly to your decision . And this is only reasonable ; for just as they believe that private citizens ought to obey them when they are rulers , so when they in their turn descend to the rank of private citizens , they ought to submit to the laws , which are the real rulers of the State ."
+    },
+    {
+      "id": "6",
+      "label": "Section 6",
+      "chapter": null,
+      "original": "ἔτι τοίνυν οἱ πολιτευόμενοι πάντες , ἐκ τῶν παλαιῶν εἰ βούλεσθʼ ἀρξάμενοι χρόνων θεωρεῖν , ὡσαύτως φαίνονται εἴκοντες τοῖς ὑμετέροις δικαίοις . Ἀριστείδην μέν γέ φασιν ὑπὸ τῶν προγόνων μετασταθέντʼ ἐν Αἰγίνῃ διατρίβειν , ἕως ὁ δῆμος αὐτὸν κατεδέξατο , Μιλτιάδην δὲ καὶ Περικλέα ὀφλόντας , τὸν μὲν τριάκοντα , τὸν δὲ πεντήκοντα τάλαντα , ἐκτείσαντας οὕτω δημηγορεῖν .",
+      "translation": "Again , all the statesmen , if you will pass them in review from the earliest times , can be proved to have submitted in the same way to your constitutional decrees . It is said that Aristeides was banished by your ancestors and lived in Aegina till the people recalled him , and that Miltiades and Pericles , being fined thirty and fifty talents respectively , did not try to harangue the people until they had paid in full ."
+    },
+    {
+      "id": "7",
+      "label": "Section 7",
+      "chapter": null,
+      "original": "ὃ καὶ δεινότατον ἂν εἴη συμβαῖνον , τοὺς μὲν πολλὰ καὶ μεγάλα ποιήσαντας ὑμᾶς ἀγαθὰ μὴ τυχεῖν ταύτης τῆς δωρειᾶς , ὥστε παρὰ τοὺς νόμους τι τοὺς κειμένους ὑμῖν πρᾶξαι , τὸν δὲ μηδὲν μὲν ἀγαθὸν εἰργασμένον , ὑπερπληθῆ δʼ ἐξημαρτηκότα , τοῦτον οὕτω προχείρως φαίνεσθαι καὶ παρὰ τὸ συμφέρον καὶ τὸ δίκαιον ἐξουσίαν παρʼ ὑμῶν τοῦ παρανομεῖν εἰληφότα . καὶ τί δεῖ λέγειν περὶ τῶν παλαιῶν ; ἀλλὰ τοὺς ἐφʼ ὑμῶν αὐτῶν ἀναλογίσασθε , εἴ τις οὕτως ἀναιδὴς γέγονεν πώποτε · οὐδένα γὰρ ἂν εὕροιτε , εἰ βουλήσεσθʼ ἀκριβῶς ἐξετάζειν .",
+      "translation": "It would be a most scandalous state of things if , while these men , to whom you were indebted for so many services , were not allowed to do anything contrary to your established laws , this man , who has never done you a single good service , but has committed a prodigious number of offences , should be found to have received at your hands , so readily and so contrary to justice and expediency , the right to transgress the laws . And why appeal to ancient history ? Count up the men of your own days and see if anyone has ever been found so shameless . A careful scrutiny will not reveal a single instance ."
+    },
+    {
+      "id": "8",
+      "label": "Section 8",
+      "chapter": null,
+      "original": "χωρὶς τοίνυν τούτων , ὅταν τις ψηφίσματος ἢ νόμου γραφὴν ἀπενέγκῃ πρὸς τοὺς θεσμοθέτας , ὁ μὲν νόμος ἢ τὸ ψήφισμʼ ἄκυρόν ἐστιν , ὁ δὲ θεὶς ἢ γράψας οὐδὲν ἀναισχυντεῖ βιαζόμενος , ἀλλʼ ὅ τι ἂν ὑμεῖς ψηφίσησθε , τούτῳ ἐμμένει , κἂν ᾖ πρῶτος τῷ δύνασθαι λέγειν ἢ πράττειν ἐν ὑμῖν . καίτοι πῶς οὐκ ἄτοπον , ἃ μὲν ἅπαντες ὑμεῖς συλλεγέντες ἐψηφίσασθε , διὰ τοὺς νόμους ἄκυρʼ εἶναι , τὴν δʼ Ἀριστογείτονος βούλησιν εἰς τὸ παρανομεῖν κυριωτέραν οἴεσθαι δεῖν τῶν νόμων αὐτῶν καταστῆσαι ;",
+      "translation": "Now apart from all this , whenever a man lodges with the judicial Archons an objection against a decree or law , that law or decree is invalid and the mover or proposer has not the impudence to employ violence , but loyally accepts your decision , even if he is the foremost orator or administrator in your city . Yet is it not absurd that , while decrees passed by you in full assembly as in accordance with the laws should be invalid , you should imagine that you ought to make the whim of Aristogeiton to flout the laws more authoritative than the laws themselves ?"
+    },
+    {
+      "id": "9",
+      "label": "Section 9",
+      "chapter": null,
+      "original": "πάλιν τοίνυν ὅταν τις ἐπεξιὼν μὴ μεταλάβῃ τὸ πέμπτον μέρος τῶν ψήφων , ἐφʼ οἷς οἱ νόμοι κελεύουσι τὸ λοιπὸν μὴ γράφεσθαι μηδʼ ἀπάγειν μηδʼ ἐφηγεῖσθαι , τὸν αὐτὸν τρόπον παρὰ ταῦτʼ οὐδεὶς οἴεται δεῖν πράττειν τῶν ἐνόχων ὄντων τούτοις τοῖς ἐπιτιμίοις . Ἀριστογείτονι δέ , ὡς ἔοικε , μόνῳ τῶν ἁπάντων οὐδὲν οὔτε δικαστήριον οὔτε νόμος κυριώτερόν ἐστι τῆς αὑτοῦ βουλήσεως .",
+      "translation": "Again , when a plaintiff fails to obtain a fifth part of the votes , in cases where the laws forbid him henceforward to indict anyone or arrest him or give him into custody , in the same way none of those liable to these disqualifications ever dreams of defying them . But for Aristogeiton , it seems , and for Aristogeiton alone , no court , no law has authority higher than his own caprice ."
+    },
+    {
+      "id": "10",
+      "label": "Section 10",
+      "chapter": null,
+      "original": "καὶ ταῦτα πάνθʼ οὕτω διαφυλάττουσιν οὐδεπώποτʼ οὔθʼ ὑμῖν οὔτε τοῖς προγόνοις μετεμέλησεν . ἔστι γὰρ δημοκρατίας φυλακὴ τῶν μὲν ἐχθρῶν ἢ βουλευομένους ἢ μαχομένους περιεῖναι , τῶν δὲ νόμων ἢ προαιρουμένους ἢ συναναγκαζομένους ἡττᾶσθαι . καὶ ταῦθʼ ὅτι τοῦτον τὸν τρόπον προσήκει πράττεσθαι , καὶ παρʼ αὐτοῦ τούτου συνωμολόγηται .",
+      "translation": "Neither you nor your ancestors ever repented of observing these rules , for it is the salvation of democracy that it overcomes its enemies either by good counsel or by arms , but submits to its laws either by free choice or under constraint ; and that this principle is sound , is allowed even by the defendant himself ."
+    },
+    {
+      "id": "11",
+      "label": "Section 11",
+      "chapter": null,
+      "original": "ὅτε γὰρ Ὑπερείδης ἔγραψε , τῶν περὶ Χαιρώνειαν ἀτυχημάτων τοῖς Ἕλλησι γενομένων , καὶ τῆς πόλεως ὑπὲρ αὐτῶν τῶν ἐδαφῶν εἰς κίνδυνον μέγιστον κατακεκλειμένης , εἶναι τοὺς ἀτίμους ἐπιτίμους , ἵνʼ ὁμονοοῦντες ἅπαντες ὑπὲρ τῆς ἐλευθερίας προθύμως ἀγωνίζωνται , ἐάν τις κίνδυνος τηλικοῦτος καταλαμβάνῃ τὴν πόλιν , τούτου τοῦ ψηφίσματος γραφὴν παρανόμων ἀπενέγκας ἠγωνίζετʼ ἐν τῷ δικαστηρίῳ .",
+      "translation": "For after the disasters to the Greek forces at Chaeroneia , when the very foundations of our State were threatened with the utmost danger , when Hypereides proposed that the disfranchised citizens should be reinstated in order that , if any such danger should menace our State , all classes might unite wholeheartedly in the struggle for liberty , the defendant indicted this decree as unconstitutional and conducted his case in court ."
+    },
+    {
+      "id": "12",
+      "label": "Section 12",
+      "chapter": null,
+      "original": "καίτοι πῶς οὐ δεινὸν εἰς μὲν τὴν ὑπὲρ τῆς πατρίδος σωτηρίαν μηδενὶ τῶν πολιτῶν Ἀριστογείτονα τουτονὶ συγχωρῆσαι τυχεῖν τῆς ἐπιτιμίας , εἰς δὲ τὴν αὑτοῦ παρανομίαν παρὰ πάντων ὑμῶν ἀξιοῦν λαμβάνειν τὴν αὐτὴν δωρειάν ; καίτοι πολύ γε νομιμώτερον καὶ δικαιότερον τὸ ψήφισμʼ ἐκεῖνʼ ἦν οὗ σὺ νῦν ἀξιοῖς ψηφίσασθαί σοι τουτουσί .",
+      "translation": "But is it not monstrous that , where the safety of the State is involved , the defendant should allow none of his fellow-citizens to obtain enfranchisement , but should claim that same favour from you all , in order to cover his own lawlessness ? Yet the former vote , Aristogeiton , was far more lawful and equitable than the vote which you now require the jurors to cast in your favour ."
+    },
+    {
+      "id": "13",
+      "label": "Section 13",
+      "chapter": null,
+      "original": "τὸ μὲν γὰρ ἴσον καὶ κοινὸν ἅπασι τοῖς πολίταις ἦν , τὸ δʼ ἄνισον καὶ σοὶ μόνῳ τῶν ἐν τῇ πόλει τὴν πλεονεξίαν κατασκευάζον · καὶ τὸ μὲν ὑπὲρ τοῦ μὴ γενέσθαι τὴν εἰρήνην ἐφʼ ᾧ θʼ ἕνα κύριον τῆς ὅλης πολιτείας καταστῆναι , τὸ δʼ ὑπὲρ τοῦ τὰ τουτωνὶ δόγματα καὶ νόμιμα ἐκ παλαιοῦ παραδοθένθʼ ὑπὸ τῶν προγόνων σοὶ μόνῳ δεδόσθαι ἐξουσίαν ἀδεῶς παραβαίνοντι καὶ πράττοντι ὅ τι ἂν βουληθῇς .",
+      "translation": "For the one was fair and equal for all citizens alike , but this is unfair and brings profit to you alone of all the people of Athens . The first was intended to prevent a peace by which one man would have been put in control of the whole government ; the effect of this vote will be that you have received authority to transgress with impunity the decisions of the jury and the laws handed down by our ancestors — to do , in fact , whatever you please ."
+    },
+    {
+      "id": "14",
+      "label": "Section 14",
+      "chapter": null,
+      "original": "ἡδέως δʼ ἂν ἔγωγʼ αὐτὸν ἐρωτήσαιμι πότερʼ ἔννομον καὶ δικαίαν ἐποιήσατο τοῦ ψηφίσματος τὴν γραφὴν ἢ τοὐναντίον ἄδικον καὶ παράνομον . εἰ μὲν γὰρ ἀσύμφερον καὶ τῷ δήμῳ βλαβεράν , διʼ αὐτὸ τοῦτο δικαίως ἂν ἀποθάνοι · εἰ δὲ συμφέρουσαν καὶ τοῖς πολλοῖς ὠφέλιμον , διὰ τί νῦν τἀναντίʼ οἷς αὐτὸς ἔγραψας ψηφίζεσθαι τούτους ἀξιοῖς ; ἀλλʼ οὔτʼ ἐκεῖνα δίκαια οὔτε ταῦτʼ ἔννομʼ οὐδὲ συμφέροντʼ ἐστὶν ὑμῖν .",
+      "translation": "I should like to ask him whether his indictment of the decree was lawful and right or on the other hand unjust and illegal . For if the indictment was inexpedient and against the interests of the people , on that very ground he richly deserves death ; but if it was useful and advantageous to the majority , why , pray , do you now insist on the jury giving a verdict which is contrary to your indictment ? No ; your proceedings then were unjust and now are neither lawful nor beneficial to the citizens ."
+    },
+    {
+      "id": "15",
+      "label": "Section 15",
+      "chapter": null,
+      "original": "ὁρῶ δʼ ὑμᾶς ἔγωγʼ , ὦ ἄνδρες Ἀθηναῖοι , ταύτην ἔχοντας τὴν γνώμην καὶ περὶ ὑμῶν αὐτῶν · πολλὰς γὰρ ἐνδείξεις ἤδη κατεψηφίσασθʼ ἰδιωτῶν ἀνθρώπων . καίτοι πῶς οὐ δεινὸν ἐφʼ ὑμῶν μὲν αὐτῶν ἐξετάζεσθαι ἀκριβῶς τοὺς νόμους , ἐπὶ δὲ τῶν περιεργαζομένων τι καὶ κοινῇ πάντας ἐνοχλούντων καὶ προσποιουμένων ὑπὲρ τοὺς ἄλλους εἶναι ῥᾳθύμως οὕτως ἔχειν ;",
+      "translation": "I can see that you , men of Athens , are of this opinion in your own behalf , for you have ere now decided many such informations laid against private men . Yet is it not all wrong that in your own case you should so scrupulously examine the laws , but in the case of these mischief-makers , who annoy everyone alike and pretend to be superior to the rest , you should display such indifference ?"
+    },
+    {
+      "id": "16",
+      "label": "Section 16",
+      "chapter": null,
+      "original": "οὐ γὰρ δή τινες ὑμῶν οὕτως ἔχουσιν , ὡς προσῆκον μὲν ταῦθʼ οὕτως ἔχειν ὡς ἐγὼ λέγω , διὰ δὲ τὴν ἐπιείκειαν τὴν Ἀριστογείτονος καὶ τὸ χρήσιμον αὐτὸν ὑμῖν εἶναι παροπτέον τι καὶ παρανομοῦντʼ αὐτόν . ὅτι μὲν γὰρ πονηρὸς καὶ τὸν τρόπον δεινῶς ἄδικος , ἱκανῶς ὑμῖν , ὡς ἔγωγʼ οἶμαι , ἐκ τῶν προειρημένων Λυκοῦργος ἐπιδέδειχεν · ὅτι δʼ οὐδὲ χρήσιμος , ἐξ αὐτῶν τῶν πολιτευμάτων ἄν τις αὐτοῦ θεωρήσειεν .",
+      "translation": "It is impossible that any of you are of opinion that things ought to be as I say , but that , because of the decorous behavior of Aristogeiton and his usefulness to you , you ought to wink even at his violation of the laws . I think Lycurgus in his speech has satisfactorily proved that the defendant is an unscrupulous man and has an extraordinary faculty for injustice ; and that he is not a useful citizen , anyone can see from his public performances ."
+    },
+    {
+      "id": "17",
+      "label": "Section 17",
+      "chapter": null,
+      "original": "τίνα γὰρ παραγαγὼν εἰς τὸ δικαστήριον , ὧν ᾐτιᾶτο , τούτων καὶ ᾕρηκεν καὶ εἷλεν ; ἢ ποῖον πόρον ὑμῖν πεπόρικεν ; ἢ τί ψήφισμα γέγραφεν ᾧ πεισθέντες ὑμεῖς οὐ πάλιν μετανοῆσαι προείλεσθε ; καὶ γὰρ ταῦτα · οὕτω σκαιός ἐστι καὶ βάρβαρος τὸν τρόπον ὥστε , ὅταν ὑμᾶς ἴδῃ πρός τινας ὀργισθέντας τι καὶ μᾶλλον τοῦ δέοντος παροξυνθέντας , τηνικαῦτα παρὰ τὴν ὀργὴν ὑμῶν τὰ βουλήματα λαβὼν τοῖς καιροῖς ἐναντιοῦται .",
+      "translation": "For whom has he brought into court that he succeeded in convicting on the charges that he laid against him ? Or what source of revenue has he provided for you ? Or what decree has he ever drafted that you were not afterwards glad to disown ? The truth is , he is so tactless , so un-Greek in his temperament , that when he sees you somewhat angry with anyone and rather more exasperated than the occasion calls for , he at once anticipates your wishes in the moment of your wrath and so opposes your interests ."
+    },
+    {
+      "id": "18",
+      "label": "Section 18",
+      "chapter": null,
+      "original": "δεῖ δὲ τὸν πολιτευόμενον ὑπὲρ ὑμῶν οὐχὶ τοῖς ἐξαίφνης μετʼ ὀργῆς πάθεσιν ὑμῖν συμπίπτουσιν ἐπακολουθεῖν , ἀλλὰ τοῖς λογισμοῖς καὶ τοῖς πράγμασι καὶ τοῖς ὑπάρχουσι καιροῖς · τὰ μὲν γὰρ ταχὺ μεταπίπτειν εἴθισται , τὰ δὲ διαμένειν καὶ πλείω χρόνον ὑπάρχειν · ὧν οὗτος οὐδὲν ἐνθυμούμενος ἐλέγχει τἀπόρρητα τῆς πολιτείας , ὥστε ταὔτʼ ἀναγκάζεσθαι καὶ κύρια καὶ πάλιν ἄκυρα ποιεῖν .",
+      "translation": "But a statesman , acting on your behalf , ought not to follow up the hasty sentiments that accompany your anger , but should be guided by reasons , by events , by the opportunities that present themselves . For sentiments are wont to change quickly , but reasons to subsist for a longer period . Paying no regard to this the defendant detects the secret weakness of community , so that the same policy is bound to be ratified one day and repealed the next ."
+    },
+    {
+      "id": "19",
+      "label": "Section 19",
+      "chapter": null,
+      "original": "ἀλλʼ ἴσως ὅτι πρὸς ἅπαντας ἀεὶ προαιρεῖται λοιδορεῖσθαι καὶ διαβοᾶσθαι καὶ μέμφεσθαι τὰ λεγόμενα , διὰ ταῦτα περιποιῆσαι νῦν αὐτὸν ἁρμόττει . ἀλλὰ ταῦτά γε νὴ τὴν Ἀθηνᾶν ὄνειδός ἐστιν , ἄνδρες δικασταί , τῇ πόλει γιγνόμενʼ ἐπὶ τοῦ βήματος , καὶ διὰ τὰς τούτων ἀπονοίας ἐπονείδιστον ἤδη τὸ πολιτεύεσθαι παρὰ τοῖς ἐπιεικέσιν ὑμῶν ἐστιν . εἰ δʼ οὖν τινι τοῦθʼ ὑμῶν ἐν ἡδονῇ συμβέβηκεν , οὐκ ἀπορήσετε τῶν τοιαῦτα ποιησόντων , ἐπεὶ καὶ νῦν μεστὸν τὸ βῆμʼ ἐστίν . οὐ γὰρ ἐπιτιμᾶν τοῖς συμβεβουλευμένοις χαλεπόν , ἀλλὰ συμβουλεῦσαι καὶ πεῖσαί τι τῶν δεόντων ὑμᾶς ψηφίσασθαι .",
+      "translation": "But perhaps because the role he adopts is to rail at everyone , to shout people down and find fault with their speeches , therefore it is convenient in these times to protect him . Gentlemen of the jury , I swear by the goddess of Athens that what takes place on the hustings is a disgrace to our city , and it is through the recklessness of such speakers that political life is now discredited with all decent citizens . But if any of you happen to like that sort of thing , you will never want for such performers . Why , even now the platform swarms with them . For to pick holes in the counsel offered is not difficult , but it is difficult to advise you and persuade you to pass any indispensable resolution ."
+    },
+    {
+      "id": "20",
+      "label": "Section 20",
+      "chapter": null,
+      "original": "πρὸς δὲ τούτοις , εἰ μὲν μὴ καὶ πρότερον τοῖς αὐτοῖς τούτοις χρώμενος λόγοις ἐξηπάτησεν ὑμᾶς , ὅτʼ ἠγωνίσατο τὴν προτέραν ἔνδειξιν , ἦν μὲν οὐδʼ οὕτω δίκαιον παρὰ τοὺς ὑπάρχοντας νόμους τι συγχωρεῖν ( οὐ δεῖ γὰρ παρανομεῖν δόντας τισὶ τοὺς ἄλλους κατὰ τοὺς νόμους ἀξιοῦν πράττειν ), οὐ μὴν ἀλλʼ ἴσως γʼ εὐλογώτερον ἦν τὸ πιστεῦσαι καὶ καταχαρίσασθαι καὶ προέσθαι τι τῶν τοιούτων .",
+      "translation": "Furthermore , if he had not already deceived you by using these same arguments , when he was on trial at the earlier information , even so it would not be just to make any concession contrary to the existing laws ; for you must not allow some persons to break the law and insist on the rest obeying it . Yet just possibly it might then have been more reasonable to trust him and grant him privileges and sacrifice some of these principles ."
+    },
+    {
+      "id": "21",
+      "label": "Section 21",
+      "chapter": null,
+      "original": "ἐπειδὴ δὲ τότʼ ἀφέντες ἐπὶ ταῖς ὁμολογουμέναις ἐλπίσιν , μικρὸν ὕστερον τὸν αὐτὸν τοῦτον , ὡς πράττοντα καὶ λέγοντα μὴ τὰ ἄριστα τῷ δήμῳ , πάλιν ἐκολάσατε , τίς ὑπολείπεται σκῆψις ὑμῖν ἁρμόττουσα , ἂν νῦν παρακρουσθῆτε ; ὧν μὲν γὰρ ἔργῳ πεῖραν εἰλήφατε , τί δεῖ τοῖς λόγοις πιστεύειν ; ὧν δὲ μηδέπω τὴν δοκιμασίαν ἔχετʼ ἀκριβῆ παρʼ ὑμῖν αὐτοῖς , ἐκ τῶν λεγομένων ἴσως ἀναγκαῖόν ἐστι κρίνειν .",
+      "translation": "But after you had let him off , admittedly in hope of amendment , and then shortly after had to punish the same man again for speaking and acting against the best interests of the city , what reasonable excuse is left you if you are a second time hoodwinked ? When you have tried him by deeds , why need you trust his words ? In cases where you have not yet an accurate test ready to hand , it may perhaps be necessary to judge by words ."
+    },
+    {
+      "id": "22",
+      "label": "Section 22",
+      "chapter": null,
+      "original": "θαυμάζω δʼ ἔγωγε τῶν οὕτως ἐχόντων ὥστε τὰ μὲν ἴδια τοῖς ἐκ τῶν παρεληλυθότων χρόνων οὖσιν ἐπιεικέσι , τούτοις παρακατατίθεσθαι , τὰ δʼ ἐν τῇ πολιτείᾳ κοινὰ τοῖς ὁμολογουμένως ἐξεληλεγμένοις οὖσι φαύλοις ἐπιτρέπειν . καὶ κύνα μὲν ἐπὶ ποίμνην ἀγεννῆ καὶ φαῦλον οὐδʼ ἂν εἷς ἐπιστήσειε φυλάττειν · ἐπὶ δὲ τοὺς τὰ κοινὰ πράττοντας τοὺς τυχόντας ἀνθρώπους φασὶν ἔνιοι φύλακας δεῖν ἐπιπέμπειν , οἳ προσποιούμενοι μηνύειν τοὺς ἁμαρτάνοντας αὐτοὶ τῆς μεγίστης εἰσὶ φυλακῆς δεόμενοι .",
+      "translation": "But , for myself , I am amazed that there are men so constituted that , though they deposit private property with those only whose past record shows them to be honest , they entrust public affairs to men who have been admittedly proved unscrupulous . No one would dream of setting a sorry mongrel to guard a flock ; yet some people say that , to keep watch on those who administer the State , one need only employ the first comers , men who pretend to detect delinquents , but need the most careful watching themselves ."
+    },
+    {
+      "id": "23",
+      "label": "Section 23",
+      "chapter": null,
+      "original": "ὧν , ἐὰν ἔχητε νοῦν , ἐνθυμούμενοι τοὺς μὲν φάσκοντας τούτους τῷ λόγῳ φιλεῖν ὑμᾶς χαίρειν ἐάσετε , αὐτοὶ δὲ τοῦτʼ ἐκ παντὸς τρόπου παραφυλάξετε , ὅπως μηδενὶ δῶτʼ ἐξουσίαν ἀκύρους τοὺς νόμους ποιεῖν , ἄλλως τε καὶ τῶν πολλῶν ὑπὲρ τοῦ πλήθους καὶ λέγειν καὶ γράφειν δύνασθαι προσποιουμένων . ὡς πάνδεινόν ἐστιν τοὺς μὲν προγόνους ὑπὲρ τοῦ μὴ καταλυθῆναι τοὺς νόμους ἀποθνῄσκειν τολμᾶν , ὑμᾶς δὲ μηδὲ τοὺς ἐξαμαρτάνοντας εἰς αὐτοὺς τιμωρεῖσθαι , καὶ τὸν μὲν γράψαντα τοὺς νόμους Σόλωνα ἐψηφίσθαι χαλκοῦν ἐν ἀγορᾷ στῆσαι , αὐτῶν δὲ τῶν νόμων ὀλιγωροῦντας φαίνεσθαι , διʼ οὓς κἀκεῖνον ὑπερβαλλόντως συμβέβηκε τιμᾶσθαι .",
+      "translation": "If you are wise , you will bear this in mind . Turn a deaf ear to those who profess to be devoted to you , and take your own precautions to ensure that you grant to no one the power to make your laws null and void , especially to no one of those who pretend to be able to speak and legislate in the interests of the masses . It is preposterous that your ancestors faced death to save the laws from destruction , but that you do not even punish those who have offended against the laws ; that you set up in the market-place a bronze statue of Solon , who framed the laws , but show yourselves regardless of those very laws for the sake of which he has received such exceptional honor ."
+    },
+    {
+      "id": "24",
+      "label": "Section 24",
+      "chapter": null,
+      "original": "πῶς δʼ οὐκ ἂν εἴη τὸ συμβαῖνον ἄλογον , εἰ νομοθετοῦντες μὲν ὀργίζεσθε τοῖς πονηροῖς , ἐπʼ αὐτοφώρῳ δέ τινας εἰληφότες ἀθῴους ἐάσετε ; καὶ τὸν μὲν νομοθέτην ἕνʼ ὄντα πᾶσιν ὑπὲρ ὑμῶν ἀπεχθάνεσθαι τοῖς φαύλοις , ὑμᾶς δὲ μηδʼ ὑπὲρ ὑμῶν αὐτῶν κοινῇ συλλεγέντας ἐπιδείξασθαι μισοῦντας τοὺς πονηρούς , ἀλλʼ ὑφʼ ἑνὸς ἀνδρὸς πονηρίας ἡττηθῆναι ; καὶ θάνατον μὲν ὡρικέναι τὴν ζημίαν , ἐάν τις οὐκ ὄντα νόμον παράσχηται , τοὺς δὲ τοὺς ὄντας εἰς τὴν τῶν οὐκ ὄντων νόμων τάξιν ἄγοντας , τούτους ἀτιμωρήτους περιορᾶν ;",
+      "translation": "Is it not an absurd situation that you should by legislating express your anger against the criminals , but , when you have caught any of them red-handed , should proceed to let them go unscathed ? That the lawgiver , a single individual , should on your behalf incur the hostility of all the worthless , but that you yourselves , collected together to defend your own interests , should not even display your hatred of the wicked , but should be overpowered by the wickedness of a single individual ? That you should have fixed death as the penalty if anyone cites a law which does not exist , and yet should allow men to escape unpunished who reduce the existing laws to the level of laws which do not exist ?"
+    },
+    {
+      "id": "25",
+      "label": "Section 25",
+      "chapter": null,
+      "original": "οὕτω δʼ ἂν ἀκριβέστατα συνθεωρήσαιτε τὸ τοῖς κειμένοις νόμοις πείθεσθαι ἡλίκον ἀγαθόν ἐστιν , καὶ τὸ καταφρονεῖν καὶ τὸ μὴ πειθαρχεῖν αὐτοῖς ἡλίκον κακόν , εἰ τά τʼ ἐκ τῶν νόμων ἀγαθὰ χωρὶς καὶ τὰ διὰ τῆς παρανομίας συμβαίνοντα πρὸ ὀφθαλμῶν ὑμῖν αὐτοῖς ποιησάμενοι θεωρήσαιτε . εὑρήσετε γὰρ τὴν μὲν τὰ τῆς μανίας καὶ ἀκρασίας καὶ πλεονεξίας , τοὺς δὲ τὰ τῆς φρονήσεως καὶ σωφροσύνης καὶ δικαιοσύνης ἔργα διαπραττομένους .",
+      "translation": "The surest way to realize the blessing of obedience to the established laws , and the curse of despising and disobeying them , is to put before your eyes and examine separately the advantages that you derive from the laws and the results of lawlessness . For you will find that the fruits of lawlessness are madness , intemperance and greed , but from the laws come wisdom , sobriety and justice ."
+    },
+    {
+      "id": "26",
+      "label": "Section 26",
+      "chapter": null,
+      "original": "δῆλον δέ · τῶν γὰρ πόλεων ταύτας ἄριστʼ οἰκουμένας ἴδοιμεν ἂν ἐν αἷς ἄριστοι νομοθέται γεγόνασιν · τὰ μὲν γὰρ ἐν τοῖς σώμασιν ἀρρωστήματα τοῖς τῶν ἰατρῶν εὑρήμασι καταπαύεται , τὰς δʼ ἐν ταῖς ψυχαῖς ἀγριότητας αἱ τῶν νομοθετῶν ἐξορίζουσι διάνοιαι . ὅλως δʼ οὐδὲν οὔτε σεμνὸν οὔτε σπουδαῖον εὑρήσομεν ὃ μὴ νόμου κεκοινώνηκεν ,",
+      "translation": "This is clearly so , because we can see that those cities are best ordered which have given birth to the best lawgivers . For as the distempers of the body are arrested by the discoveries of physicians , so savagery is expelled from the soul by the wise purposes of the legislator . To sum up we shall find nothing venerable or admirable which is not associated with law ,"
+    },
+    {
+      "id": "27",
+      "label": "Section 27",
+      "chapter": null,
+      "original": "ἐπεὶ καὶ τὸν ὅλον κόσμον καὶ τὰ θεῖα καὶ τὰς καλουμένας ὥρας νόμος καὶ τάξις , εἰ χρὴ τοῖς ὁρωμένοις πιστεύειν , διοικεῖν φαίνεται . παρακαλέσαντες οὖν ὑμᾶς αὐτούς , ἄνδρες Ἀθηναῖοι , βοηθήσατε μὲν τοῖς νόμοις , καταψηφίσασθε δὲ τῶν εἰς τὸ θεῖον ἀσεβεῖν προῃρημένων . καὶ ταῦτʼ ἐὰν πράξητε , τὰ δέοντα ποιήσετε καὶ τὰ κράτιστα ψηφιεῖσθε .",
+      "translation": "since the whole round world , the heavenly bodies and what we call the seasons are plainly , if we can trust our senses , controlled by law and order . Therefore , men of Athens , exhort one another to come to the rescue of the laws , and cast your votes against those who deliberately dishonor what is divine ; and if you do this , you will be doing your duty and making the best use of your votes ."
+    }
+  ],
+  "prevChunkSlug": "against-aristogeiton-i-wwv5wm-2",
+  "nextChunkSlug": "against-aphobus-i-fc649g"
+}

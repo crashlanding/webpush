@@ -1,0 +1,91 @@
+{
+  "loebNumber": 4,
+  "sortOrder": 4,
+  "slug": "appian-roman-history-volume-iii-1ukijr",
+  "title": "Roman History, Volume III",
+  "volumeLabel": "Roman History, Volume III",
+  "authorDisplay": "Appian",
+  "authors": [
+    "Appian"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Roman History, Volume III. Roman History, Volume III opens a closest available slice of Appianus of Alexandria on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "hannibalic-war-1219hy",
+  "readyChunkCount": 2,
+  "contents": [
+    {
+      "id": "roman-history-volume-iii-1ifmy5",
+      "title": "Roman History, Volume III",
+      "status": "ready",
+      "sectionCount": 57,
+      "chunkSlug": "hannibalic-war-1219hy",
+      "chunks": [
+        {
+          "slug": "hannibalic-war-1219hy",
+          "label": "Hannibalic War",
+          "partId": "roman-history-volume-iii-1ifmy5",
+          "partTitle": "Roman History, Volume III",
+          "sectionCount": 17,
+          "status": "ready"
+        },
+        {
+          "slug": "punic-wars-7aexgo",
+          "label": "Punic Wars",
+          "partId": "roman-history-volume-iii-1ifmy5",
+          "partTitle": "Roman History, Volume III",
+          "sectionCount": 40,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "hannibalic-war-1219hy",
+      "label": "Hannibalic War",
+      "partId": "roman-history-volume-iii-1ifmy5",
+      "partTitle": "Roman History, Volume III",
+      "sectionCount": 17,
+      "status": "ready"
+    },
+    {
+      "slug": "punic-wars-7aexgo",
+      "label": "Punic Wars",
+      "partId": "roman-history-volume-iii-1ifmy5",
+      "partTitle": "Roman History, Volume III",
+      "sectionCount": 40,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "hannibalic-war-1219hy",
+      "partTitle": "Roman History, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀννιβαϊκή",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg008.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Hannibalic War",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg008.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "punic-wars-7aexgo",
+      "partTitle": "Roman History, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Λιβυκή",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg009.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Punic Wars",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg009.perseus-eng2/"
+      }
+    }
+  ]
+}

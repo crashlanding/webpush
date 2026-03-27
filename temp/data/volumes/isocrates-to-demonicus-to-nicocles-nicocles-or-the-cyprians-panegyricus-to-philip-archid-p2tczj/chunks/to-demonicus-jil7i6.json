@@ -1,0 +1,395 @@
+{
+  "volumeSlug": "isocrates-to-demonicus-to-nicocles-nicocles-or-the-cyprians-panegyricus-to-philip-archid-p2tczj",
+  "volumeTitle": "To Demonicus. To Nicocles. Nicocles or the Cyprians. Panegyricus. To Philip. Archidamus",
+  "authorDisplay": "Isocrates",
+  "authors": [
+    "Isocrates"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "to-demonicus-jil7i6",
+  "label": "To Demonicus",
+  "partId": "to-demonicus-jil7i6",
+  "partTitle": "To Demonicus",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Πρὸς Δημόνικον",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg007.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "To Demonicus",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg007.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1",
+      "label": "Section 1",
+      "chapter": null,
+      "original": "ἐν πολλοῖς μέν , ὦ Δημόνικε , πολὺ διεστώσας εὑρήσομεν τάς τε τῶν σπουδαίων γνώμας καὶ τὰς τῶν φαύλων διανοίας · πολὺ δὲ μεγίστην διαφορὰν εἰλήφασιν ἐν ταῖς πρὸς ἀλλήλους συνηθείαις · οἱ μὲν γὰρ τοὺς φίλους παρόντας μόνον τιμῶσιν , οἱ δὲ καὶ μακρὰν ἀπόντας ἀγαπῶσι · καὶ τὰς μὲν τῶν φαύλων συνηθείας ὀλίγος χρόνος διέλυσε , τὰς δὲ τῶν σπουδαίων φιλίας οὐδʼ ἂν ὁ πᾶς αἰὼν ἐξαλείψειεν .",
+      "translation": "In many respects , Demonicus , we shall find that much disparity exists between the principles of good men and the notions of the base ; but most of all by far have they parted company in the quality of their friendships . [*] The base honor their friends only when they are present ; the good cherish theirs even when they are far away ; and while it takes only a short time to break up the intimacies of the base , not all eternity can blot out the friendships of good men ."
+    },
+    {
+      "id": "2",
+      "label": "Section 2",
+      "chapter": null,
+      "original": "ἡγούμενος οὖν πρέπειν τοὺς δόξης ὀρεγομένους καὶ παιδείας ἀντιποιουμένους τῶν σπουδαίων ἀλλὰ μὴ τῶν φαύλων εἶναι μιμητάς , ἀπέσταλκά σοι τόνδε τὸν λόγον δῶρον , τεκμήριον μὲν τῆς πρὸς ὑμᾶς εὐνοίας , σημεῖον δὲ τῆς πρὸς Ἱππόνικον συνηθείας · πρέπει γὰρ τοὺς παῖδας , ὥσπερ τῆς οὐσίας , οὕτω καὶ τῆς φιλίας τῆς πατρικῆς κληρονομεῖν .",
+      "translation": "So then , since I deem it fitting that those who strive for distinction and are ambitious for education should emulate the good and not the bad , I have dispatched to you this discourse as a gift , in proof of my good will toward you and in token of my friendship for Hipponicus ; for it is fitting that a son should inherit his father ’ s friendships even as he inherits his estate ."
+    },
+    {
+      "id": "3",
+      "label": "Section 3",
+      "chapter": null,
+      "original": "ὁρῶ δὲ καὶ τὴν τύχην ἡμῖν συλλαμβάνουσαν καὶ τὸν παρόντα καιρὸν συναγωνιζόμενον · σὺ μὲν γὰρ παιδείας ἐπιθυμεῖς , ἐγὼ δὲ παιδεύειν ἄλλους ἐπιχειρῶ , καὶ σοὶ μὲν ἀκμὴ φιλοσοφεῖν , ἐγὼ δὲ τοὺς φιλοσοφοῦντας ἐπανορθῶ .\n\nὅσοι μὲν οὖν πρὸς τοὺς ἑαυτῶν φίλους τοὺς προτρεπτικοὺς λόγους συγγράφουσι , καλὸν μὲν ἔργον ἐπιχειροῦσιν ,",
+      "translation": "I see , moreover , that fortune is on our side and that the present circumstances are in league with us ; for you are eager for education and I profess to educate ; you are ripe for philosophy [*] and I direct students of philosophy . Now those who compose hortatory discourses addressed to their own friends are , no doubt , engaged in a laudable employment ;"
+    },
+    {
+      "id": "4",
+      "label": "Section 4",
+      "chapter": null,
+      "original": "οὐ μὴν περί γε τὸ κράτιστον τῆς φιλοσοφίας διατρίβουσιν · ὅσοι δὲ τοῖς νεωτέροις εἰσηγοῦνται μὴ διʼ ὧν τὴν δεινότητα τὴν ἐν τοῖς λόγοις ἀσκήσουσιν , ἀλλʼ ὅπως τὰ τῶν τρόπων ἤθη σπουδαῖοι πεφυκέναι δόξουσι , τοσούτῳ μᾶλλον ἐκείνων τοὺς ἀκούοντας ὠφελοῦσιν , ὅσον οἱ μὲν ἐπὶ λόγον παρακαλοῦσιν , οἱ δὲ τὸν τρόπον αὐτῶν ἐπανορθοῦσι .",
+      "translation": "yet they do not occupy themselves with the most vital part of philosophy . Those , on the contrary , who point out to the young , not by what means they may cultivate skill in oratory , but how they may win repute as men of sound character , are rendering a greater service [*] to their hearers in that , while the former exhort them to proficiency in speech , the latter improve their moral conduct . [*]"
+    },
+    {
+      "id": "5",
+      "label": "Section 5",
+      "chapter": null,
+      "original": "διόπερ ἡμεῖς οὐ παράκλησιν εὑρόντες ἀλλὰ παραίνεσιν γράψαντες , μέλλομέν σοι συμβουλεύειν ὧν χρὴ τοὺς νεωτέρους ὀρέγεσθαι καὶ τίνων ἔργων ἀπέχεσθαι καὶ ποίοις τισὶν ἀνθρώποις ὁμιλεῖν καὶ πῶς τὸν ἑαυτῶν βίον οἰκονομεῖν . ὅσοι γὰρ τοῦ βίου ταύτην τὴν ὁδὸν ἐπορεύθησαν , οὗτοι μόνοι τῆς ἀρετῆς ἐφικέσθαι γνησίως ἠδυνήθησαν , ἧς οὐδὲν κτῆμα σεμνότερον οὐδὲ βεβαιότερόν ἐστι .",
+      "translation": "Therefore , I have not invented a hortatory [*] exercise , but have written a moral treatise ; and I am going to counsel you on the objects to which young men should aspire and from what actions they should abstain , and with what sort of men they should associate and how they should regulate their own lives . For only those who have travelled this road in life have been able in the true sense to attain to virtue — that possession which is the grandest and the most enduring in the world ."
+    },
+    {
+      "id": "6",
+      "label": "Section 6",
+      "chapter": null,
+      "original": "κάλλος μὲν γὰρ ἢ χρόνος ἀνήλωσεν ἢ νόσος ἐμάρανε · πλοῦτος δὲ κακίας μᾶλλον ἢ καλοκαγαθίας ὑπηρέτης ἐστίν , ἐξουσίαν μὲν τῇ ῥᾳθυμίᾳ παρασκευάζων , ἐπὶ δὲ τὰς ἡδονὰς τοὺς νέους παρακαλῶν · ῥώμη δὲ μετὰ μὲν φρονήσεως ὠφέλησεν , ἄνευ δὲ ταύτης πλείω τοὺς ἔχοντας ἔβλαψε , [*] καὶ τὰ μὲν σώματα τῶν ἀσκούντων ἐκόσμησε , ταῖς δὲ τῆς ψυχῆς ἐπιμελείαις ἐπεσκότησεν .",
+      "translation": "For beauty is spent by time or withered by disease ; wealth ministers to vice rather than to nobility of soul , affording means for indolent living and luring the young to pleasure ; strength , in company with wisdom , is , indeed , an advantage , but without wisdom it harms more than it helps its possessors , and while it sets off the bodies of those who cultivate it , yet it obscures the care of the soul [*] ."
+    },
+    {
+      "id": "7",
+      "label": "Section 7",
+      "chapter": null,
+      "original": "ἡ δὲ τῆς ἀρετῆς κτῆσις , οἷς ἂν ἀκιβδήλως ταῖς διανοίαις συναυξηθῇ , μόνη μὲν συγγηράσκει , πλούτου δὲ κρείττων , χρησιμωτέρα δὲ εὐγενείας ἐστί , τὰ μὲν τοῖς ἄλλοις ἀδύνατα δυνατὰ καθιστᾶσα , τὰ δὲ τῷ πλήθει φοβερὰ θαρσαλέως ὑπομένουσα , καὶ τὸν μὲν ὄκνον ψόγον , τὸν δὲ πόνον ἔπαινον ἡγουμένη .",
+      "translation": "But virtue , when it grows up with us in our hearts without alloy , is the one possession which abides with us in old age ; it is better than riches and more serviceable than high birth ; it makes possible what is for others impossible ; it supports with fortitude that which is fearful to the multitude ; and it considers sloth a disgrace and toil an honor ."
+    },
+    {
+      "id": "8",
+      "label": "Section 8",
+      "chapter": null,
+      "original": "ῥᾴδιον δὲ τοῦτο καταμαθεῖν ἐστιν ἔκ τε τῶν Ἡρακλέους ἄθλων καὶ τῶν Θησέως ἔργων , οἷς ἡ τῶν τρόπων ἀρετὴ τηλικοῦτον εὐδοξίας χαρακτῆρα τοῖς ἔργοις ἐπέβαλεν , ὥστε μηδὲ τὸν ἅπαντα χρόνον δύνασθαι λήθην ἐμποιῆσαι τῶν ἐκείνοις πεπραγμένων .",
+      "translation": "This it is easy to learn from the labors of Heracles and the exploits of Theseus , whose excellence of character has impressed upon their exploits so clear a stamp of glory that not even endless time can cast oblivion upon their achievements ."
+    },
+    {
+      "id": "9",
+      "label": "Section 9",
+      "chapter": null,
+      "original": "οὐ μὴν ἀλλὰ καὶ τὰς τοῦ πατρὸς προαιρέσεις ἀναμνησθεὶς οἰκεῖον καὶ καλὸν ἕξεις παράδειγμα τῶν ὑπʼ ἐμοῦ σοι λεγομένων . οὐ γὰρ ὀλιγωρῶν τῆς ἀρετῆς οὐδὲ ῥᾳθυμῶν διετέλεσε τὸν βίον , ἀλλὰ τὸ μὲν σῶμα τοῖς πόνοις ἐγύμναζε , τῇ δὲ ψυχῇ τοὺς κινδύνους ὑπέμενεν . [*] οὐδὲ τὸν πλοῦτον παρακαίρως ἠγάπα , ἀλλʼ ἀπέλαυε μὲν τῶν παρόντων ἀγαθῶν ὡς θνητός , ἐπεμελεῖτο δὲ τῶν ὑπαρχόντων ὡς ἀθάνατος .",
+      "translation": "Nay , if you will but recall also your father ’ s principles , you will have from your own house a noble illustration of what I am telling you . For he did not belittle virtue nor pass his life in indolence ; on the contrary , he trained his body by toil , and by his spirit he withstood dangers . Nor did he love wealth inordinately ; but , although he enjoyed the good things at his hand as became a mortal , yet he cared for his possessions as if he had been immortal [*] ."
+    },
+    {
+      "id": "10",
+      "label": "Section 10",
+      "chapter": null,
+      "original": "οὐδὲ ταπεινῶς διῴκει τὸν αὑτοῦ βίον , ἀλλὰ φιλόκαλος ἦν καὶ μεγαλοπρεπὴς καὶ τοῖς φίλοις κοινός , καὶ μᾶλλον ἐθαύμαζε τοὺς περὶ αὑτὸν σπουδάζοντας ἢ τοὺς γένει προσήκοντας · ἡγεῖτο γὰρ εἶναι πρὸς ἑταιρίαν πολλῷ κρείττω φύσιν νόμου καὶ τρόπον γένους καὶ προαίρεσιν ἀνάγκης .",
+      "translation": "Neither did he order his existence sordidly , but was a lover of beauty , munificent in his manner of life , and generous to his friends ; and he prized more those who were devoted to him than those who were his kin by blood ; for he considered that in the matter of companionship nature is a much better guide than convention , character than kinship , and freedom of choice than compulsion ."
+    },
+    {
+      "id": "11",
+      "label": "Section 11",
+      "chapter": null,
+      "original": "ἐπιλίποι δʼ ἂν ἡμᾶς ὁ πᾶς χρόνος , εἰ πάσας τὰς ἐκείνου πράξεις καταριθμησαίμεθα . ἀλλὰ τὸ μὲν ἀκριβὲς αὐτῶν ἐν ἑτέροις καιροῖς δηλώσομεν , δεῖγμα δὲ τῆς Ἱππονίκου φύσεως νῦν ἐξενηνόχαμεν , πρὸς ὃν δεῖ ζῆν σε ὥσπερ πρὸς παράδειγμα , νόμον μὲν τὸν ἐκείνου τρόπον ἡγησάμενον , μιμητὴν δὲ καὶ ζηλωτὴν τῆς πατρῴας ἀρετῆς γιγνόμενον · αἰσχρὸν γὰρ τοὺς μὲν γραφεῖς ἀπεικάζειν τὰ καλὰ τῶν ζῴων , τοὺς δὲ παῖδας μὴ μιμεῖσθαι τοὺς σπουδαίους τῶν γονέων .",
+      "translation": "But all time would fail us if we should try to recount all his activities . On another occasion I shall set them forth in detail ; [*] for the present however , I have produced a sample of the nature of Hipponicus , after whom you should pattern your life as after an example , regarding his conduct as your law , and striving to imitate and emulate your father ’ s virtue ; for it were a shame , when painters represent the beautiful among animals , for children not to imitate the noble among their ancestors ."
+    },
+    {
+      "id": "12",
+      "label": "Section 12",
+      "chapter": null,
+      "original": "ἡγοῦ δὲ μηδενὶ τῶν ἀθλητῶν οὕτω προσήκειν ἐπὶ τοὺς ἀνταγωνιστὰς ἀσκεῖν , ὡς σοὶ σκοπεῖν ὅπως ἐφάμιλλος γενήσει τοῖς τοῦ πατρὸς ἐπιτηδεύμασιν . οὕτω δὲ τὴν γνώμην οὐ δυνατὸν διατεθῆναι τὸν μὴ πολλῶν καὶ καλῶν ἀκουσμάτων πεπληρωμένον · τὰ μὲν γὰρ σώματα τοῖς συμμέτροις πόνοις , ἡ δὲ ψυχὴ τοῖς σπουδαίοις λόγοις αὔξεσθαι πέφυκε . διόπερ ἐγώ σοι πειράσομαι συντόμως ὑποθέσθαι , διʼ ὧν ἄν μοι δοκεῖς ἐπιτηδευμάτων πλεῖστον πρὸς ἀρετὴν ἐπιδοῦναι καὶ παρὰ τοῖς ἄλλοις ἅπασιν ἀνθρώποις εὐδοκιμῆσαι .",
+      "translation": "Nay , you must consider that no athlete is so in duty bound to train against his competitors as are you to take thought how you may vie with your father in his ways of life . But it is not possible for the mind to be so disposed unless one is fraught with many noble maxims ; for , as it is the nature of the body to be developed by appropriate exercises , it is the nature of the soul to be developed by moral precepts . Wherefore I shall endeavor to set before you concisely by what practices I think you can make the most progress toward virtue and win the highest repute in the eyes of all other men ."
+    },
+    {
+      "id": "13",
+      "label": "Section 13",
+      "chapter": null,
+      "original": "πρῶτον μὲν οὖν εὐσέβει τὰ πρὸς τοὺς θεούς , μὴ μόνον θύων , ἀλλὰ καὶ τοῖς ὅρκοις ἐμμένων · ἐκεῖνο μὲν γὰρ τῆς τῶν χρημάτων εὐπορίας σημεῖον , τοῦτο δὲ τῆς τῶν τρόπων καλοκαγαθίας τεκμήριον . τίμα τὸ δαιμόνιον ἀεὶ μέν , μάλιστα δὲ μετὰ τῆς πόλεως · οὕτω γὰρ δόξεις ἅμα τε τοῖς θεοῖς θύειν καὶ τοῖς νόμοις ἐμμένειν .",
+      "translation": "First of all , then , show devotion to the gods , [*] not merely by doing sacrifice , but also by keeping your vows ; for the former is but evidence of a material prosperity , whereas the latter is proof of a noble character . Do honor to the divine power at all times , but especially on occasions of public worship ; for thus you will have the reputation both of sacrificing to the gods and of abiding by the laws ."
+    },
+    {
+      "id": "14",
+      "label": "Section 14",
+      "chapter": null,
+      "original": "τοιοῦτος γίγνου περὶ τοὺς γονεῖς , οἵους ἂν εὔξαιο περὶ σεαυτὸν γενέσθαι τοὺς σεαυτοῦ παῖδας .\nἄσκει τῶν περὶ τὸ σῶμα γυμνασίων μὴ τὰ πρὸς τὴν ῥώμην ἀλλὰ τὰ πρὸς τὴν ὑγίειαν · τούτου δʼ ἂν ἐπιτύχοις , εἰ λήγοις τῶν πόνων ἔτι πονεῖν δυνάμενος .",
+      "translation": "Conduct yourself toward your parents as you would have your children conduct themselves toward you . [*] Train your body , not by the exercises which conduce to strength , but by those which conduce to health . In this you will succeed if you cease your exertions while you still have energy to exert yourself ."
+    },
+    {
+      "id": "15",
+      "label": "Section 15",
+      "chapter": null,
+      "original": "μήτε γέλωτα προπετῆ στέργε , μήτε λόγον μετὰ θράσους ἀποδέχου · τὸ μὲν γὰρ ἀνόητον , τὸ δὲ μανικόν .\nἃ ποιεῖν αἰσχρόν , ταῦτα νόμιζε μηδὲ λέγειν εἶναι καλόν . ἔθιζε σεαυτὸν εἶναι μὴ σκυθρωπὸν ἀλλὰ σύννουν · διʼ ἐκεῖνο μὲν γὰρ αὐθάδης , διὰ δὲ τοῦτο φρόνιμος εἶναι δόξεις . ἡγοῦ μάλιστα σεαυτῷ πρέπειν κόσμον , αἰσχύνην δικαιοσύνην σωφροσύνην · τούτοις γὰρ ἅπασι δοκεῖ κρατεῖσθαι τὸ τῶν νεωτέρων ἦθος .",
+      "translation": "Be not fond of violent mirth , nor harbor presumption of speech ; for the one is folly , the other madness . [*] Whatever is shameful to do you must not consider it honorable even to mention . Accustom yourself to be , not of a stern , but of a thoughtful , mien ; for through the former you will be thought self-willed , through the latter , intelligent . Consider that no adornment so becomes you as modesty , justice , and self-control ; for these are the virtues by which , as all men are agreed , the character of the young is held in restraint ."
+    },
+    {
+      "id": "16",
+      "label": "Section 16",
+      "chapter": null,
+      "original": "μηδέποτε μηδὲν αἰσχρὸν ποιήσας ἔλπιζε λήσειν · καὶ γὰρ ἂν τοὺς ἄλλους λάθῃς , σεαυτῷ συνειδήσεις .\nτοὺς μὲν θεοὺς φοβοῦ , τοὺς δὲ γονεῖς τίμα , τοὺς δὲ φίλους αἰσχύνου , τοῖς δὲ νόμοις πείθου .\nτὰς ἡδονὰς θήρευε τὰς μετὰ δόξης · τέρψις γὰρ σὺν τῷ καλῷ μὲν ἄριστον , ἄνευ δὲ τούτου κάκιστον .",
+      "translation": "Never hope to conceal any shameful thing which you have done ; for even if you do conceal it from others , your own heart will know . Fear the gods , honor your parents , respect your friends , obey the laws . Pursue the enjoyments which are of good repute ; for pleasure attended by honor is the best thing in the world , but pleasure without honor is the worst . [*]"
+    },
+    {
+      "id": "17",
+      "label": "Section 17",
+      "chapter": null,
+      "original": "εὐλαβοῦ τὰς διαβολάς , κἂν ψευδεῖς ὦσιν · οἱ γὰρ πολλοὶ τὴν μὲν ἀλήθειαν ἀγνοοῦσι , πρὸς δὲ τὴν δόξαν ἀποβλέπουσιν . ἅπαντα δόκει ποιεῖν ὡς μηδένα λήσων · καὶ γὰρ ἃ παραυτίκα κρύψῃς , ὕστερον ὀφθήσει . μάλιστα δʼ ἂν εὐδοκιμοίης , εἰ φαίνοιο ταῦτα μὴ πράττων , ἃ τοῖς ἄλλοις ἂν πράττουσιν ἐπιτιμῴης .",
+      "translation": "Guard yourself against accusations , even if they are false ; for the multitude are ignorant of the truth and look only to reputation . In all things resolve to act as though the whole world would see what you do ; for even if you conceal your deeds for the moment , later you will be found out . But most of all will you have the respect of men , if you are seen to avoid doing things which you would blame others for doing . [*]"
+    },
+    {
+      "id": "18",
+      "label": "Section 18",
+      "chapter": null,
+      "original": "ἐὰν ᾖς φιλομαθής , ἔσει πολυμαθής . ἃ μὲν ἐπίστασαι , ταῦτα διαφύλαττε ταῖς μελέταις , ἃ δὲ μὴ μεμάθηκας , προσλάμβανε ταῖς ἐπιστήμαις · ὁμοίως γὰρ αἰσχρὸν ἀκούσαντα χρήσιμον λόγον μὴ μαθεῖν καὶ διδόμενόν τι ἀγαθὸν παρὰ τῶν φίλων μὴ λαβεῖν . κατανάλισκε τὴν ἐν τῷ βίῳ σχολὴν εἰς τὴν τῶν λόγων φιληκοΐαν · οὕτω γὰρ τὰ τοῖς ἄλλοις χαλεπῶς εὑρημένα συμβήσεταί σοι ῥᾳδίως μανθάνειν .",
+      "translation": "If you love knowledge , you will be a master of knowledge . [*] What you have come to know , preserve by exercise ; what you have not learned , seek to add to your knowledge ; for it is as reprehensible to hear a profitable saying and not grasp it as to be offered a good gift by one ’ s friends and not accept it . Spend your leisure time in cultivating an ear attentive to discourse , for in this way you will find that you learn with ease what others have found out with difficulty ."
+    },
+    {
+      "id": "19",
+      "label": "Section 19",
+      "chapter": null,
+      "original": "ἡγοῦ τῶν ἀκουσμάτων πολλὰ πολλῶν εἶναι χρημάτων κρείττω · τὰ μὲν γὰρ ταχέως ἀπολείπει , τὰ δὲ πάντα τὸν χρόνον παραμένει · σοφία γὰρ μόνον τῶν κτημάτων ἀθάνατον . μὴ κατόκνει μακρὰν ὁδὸν πορεύεσθαι πρὸς τοὺς διδάσκειν τι χρήσιμον ἐπαγγελλομένους · αἰσχρὸν γὰρ τοὺς μὲν ἐμπόρους τηλικαῦτα πελάγη διαπερᾶν ἕνεκα τοῦ πλείω ποιῆσαι τὴν ὑπάρχουσαν οὐσίαν , τοὺς δὲ νεωτέρους μηδὲ τὰς κατὰ γῆν πορείας ὑπομένειν ἐπὶ τῷ βελτίω καταστῆσαι τὴν αὑτῶν διάνοιαν .",
+      "translation": "Believe that many precepts are better than much wealth ; for wealth quickly fails us , but precepts abide through all time ; for wisdom alone of all possessions is imperishable . Do not hesitate to travel a long road [*] to those who profess to offer some useful instruction ; for it were a shame , when merchants cross vast seas in order to increase their store of wealth , that the young should not endure even journeys by land to improve their understanding ."
+    },
+    {
+      "id": "20",
+      "label": "Section 20",
+      "chapter": null,
+      "original": "τῷ μὲν τρόπῳ γίγνου φιλοπροσήγορος , τῷ δὲ λόγῳ εὐπροσήγορος . ἔστι δὲ φιλοπροσηγορίας μὲν τὸ προσφωνεῖν τοὺς ἀπαντῶντας , εὐπροσηγορίας δὲ τὸ τοῖς λόγοις αὐτοῖς οἰκείως ἐντυγχάνειν . ἡδέως μὲν ἔχε πρὸς ἅπαντας , χρῶ δὲ τοῖς βελτίστοις · οὕτω γὰρ τοῖς μὲν οὐκ ἀπεχθὴς ἔσει , τοῖς δὲ φίλος γενήσει . τὰς ἐντεύξεις μὴ ποιοῦ πυκνὰς τοῖς αὐτοῖς , μηδὲ μακρὰς περὶ τῶν αὐτῶν · πλησμονὴ γὰρ ἁπάντων .",
+      "translation": "Be courteous in your manner , and cordial in your address . It is the part of courtesy to greet those whom you meet ; and of cordiality to enter into friendly talk with them . Be pleasant to all , but cultivate the best ; thus you will avoid the dislike of the former and have the friendship of the latter . Avoid frequent conversations with the same persons , and long conversations on the same subject ; for there is satiety in all things . [*]"
+    },
+    {
+      "id": "21",
+      "label": "Section 21",
+      "chapter": null,
+      "original": "γύμναζε σεαυτὸν πόνοις ἑκουσίοις , ὅπως ἂν δύνῃ καὶ τοὺς ἀκουσίους ὑπομένειν . ὑφʼ ὧν κρατεῖσθαι τὴν ψυχὴν αἰσχρόν , τούτων ἐγκράτειαν ἄσκει πάντων , κέρδους , ὀργῆς , ἡδονῆς , λύπης . ἔσει δὲ τοιοῦτος , ἐὰν κέρδη μὲν εἶναι νομίζῃς διʼ ὧν εὐδοκιμήσεις ἀλλὰ μὴ διʼ ὧν εὐπορήσεις , τῇ δὲ ὀργῇ παραπλησίως ἔχῃς πρὸς τοὺς ἁμαρτάνοντας ὥσπερ ἂν πρὸς ἑαυτὸν ἁμαρτάνοντα καὶ τοὺς ἄλλους ἔχειν ἀξιώσειας , ἐν δὲ τοῖς τερπνοῖς , ἐὰν αἰσχρὸν ὑπολάβῃς τῶν μὲν οἰκετῶν ἄρχειν ταῖς δʼ ἡδοναῖς δουλεύειν , ἐν δὲ τοῖς πονηροῖς , ἐὰν τὰς τῶν ἄλλων ἀτυχίας ἐπιβλέπῃς καὶ αὑτὸν ὡς ἄνθρωπος ὢν ὑπομιμνήσκῃς .",
+      "translation": "Train yourself in self-imposed toils , that you may be able to endure those which others impose upon you . [*] Practice self-control in all the things by which it is shameful for the soul to be controlled , [*] namely , gain , temper , pleasure , and pain . You will attain such self-control if you regard as gainful those things which will increase your reputation and not those which will increase your wealth ; if you manage your temper towards those who offend against you as you would expect others to do if you offended against them ; if you govern your pleasures on the principle that it is shameful to rule over one ’ s servants and yet be a slave to one ’ s desires ; and if , when you are in trouble , you contemplate the misfortunes of others and remind yourself that you are human ."
+    },
+    {
+      "id": "22",
+      "label": "Section 22",
+      "chapter": null,
+      "original": "μᾶλλον τήρει τὰς τῶν λόγων ἢ τὰς τῶν χρημάτων παρακαταθήκας · δεῖ γὰρ τοὺς ἀγαθοὺς ἄνδρας τρόπον ὅρκου πιστότερον φαίνεσθαι παρεχομένους . προσήκειν ἡγοῦ τοῖς πονηροῖς ἀπιστεῖν , ὥσπερ τοῖς χρηστοῖς πιστεύειν . περὶ τῶν ἀπορρήτων μηδενὶ λέγε , πλὴν ἐὰν ὁμοίως συμφέρῃ τὰς πράξεις σιωπᾶσθαι σοί τε τῷ λέγοντι κἀκείνοις τοῖς ἀκούουσιν .",
+      "translation": "Guard more faithfully the secret which is confided to you than the money which is entrusted to your care ; for good men ought to show that they hold their honor more trustworthy than an oath . Consider that you owe it to yourself no less to mistrust bad men than to put your trust in the good . On matters which you would keep secret , speak to no one save when it is equally expedient for you who speak and for those who hear that the facts should not be published ."
+    },
+    {
+      "id": "23",
+      "label": "Section 23",
+      "chapter": null,
+      "original": "ὅρκον ἐπακτὸν προσδέχου διὰ δύο προφάσεις , ἢ σεαυτὸν αἰτίας αἰσχρᾶς ἀπολύων , ἢ φίλους ἐκ μεγάλων κινδύνων διασώζων . ἕνεκα δὲ χρημάτων μηδένα θεῶν ὀμόσῃς , μηδʼ ἂν εὐορκεῖν μέλλῃς · δόξεις γὰρ τοῖς μὲν ἐπιορκεῖν , τοῖς δὲ φιλοχρημάτως ἔχειν .",
+      "translation": "Never allow yourself to be put under oath save for one of two reasons — in order to clear yourself of disgraceful charges or to save your friends from great dangers . In matters of money , swear by none of the gods , not even when you intend to swear a true oath ; for you will be suspected on the one hand of perjury , on the other of greed ."
+    },
+    {
+      "id": "24",
+      "label": "Section 24",
+      "chapter": null,
+      "original": "μηδένα φίλον ποιοῦ , πρὶν ἂν ἐξετάσῃς πῶς κέχρηται τοῖς πρότερον φίλοις · ἔλπιζε γὰρ αὐτὸν καὶ περὶ σὲ γενέσθαι τοιοῦτον , οἷος καὶ περὶ ἐκείνους γέγονε . βραδέως μὲν φίλος γίγνου , γενόμενος δὲ πειρῶ διαμένειν · ὁμοίως γὰρ αἰσχρὸν μηδένα φίλον ἔχειν καὶ πολλοὺς ἑταίρους μεταλλάττειν . μήτε μετὰ βλάβης πειρῶ τῶν φίλων , μήτʼ ἄπειρος εἶναι τῶν ἑταίρων θέλε . τοῦτο δὲ ποιήσεις , ἐὰν μὴ δεόμενος τὸ δεῖσθαι προσποιῇ .",
+      "translation": "Make no man your friend before inquiring how he has used his former friends ; [*] for you must expect him to treat you as he has treated them . Be slow [*] to give your friendship , but when you have given it , strive to make it lasting ; for it is as reprehensible to make many changes in one ’ s associates as to have no friend at all . Neither test your friends to your own injury nor be willing to forgo a test of your companions . You can manage this if you pretend to be in want when really you lack nothing ."
+    },
+    {
+      "id": "25",
+      "label": "Section 25",
+      "chapter": null,
+      "original": "περὶ τῶν ῥητῶν ὡς ἀπορρήτων ἀνακοινοῦ · μὴ τυχὼν μὲν γὰρ οὐδὲν βλαβήσει , τυχὼν δὲ μᾶλλον αὐτῶν τὸν τρόπον ἐπιστήσει . δοκίμαζε τοὺς φίλους ἔκ τε τῆς περὶ τὸν βίον ἀτυχίας καὶ τῆς ἐν τοῖς κινδύνοις κοινωνίας · τὸ μὲν γὰρ χρυσίον ἐν τῷ πυρὶ βασανίζομεν , τοὺς δὲ φίλους ἐν ταῖς ἀτυχίαις διαγιγνώσκομεν . οὕτως ἄριστα χρήσει τοῖς φίλοις , ἐὰν μὴ προσμένῃς τὰς παρʼ ἐκείνων δεήσεις , ἀλλʼ αὐτεπάγγελτος αὐτοῖς ἐν τοῖς καιροῖς βοηθῇς .",
+      "translation": "Confide in them about matters which require no secrecy as if they were secrets ; for if you fail you will not injure yourself , and if you succeed you will have a better knowledge of their character . Prove your friends by means of the misfortunes of life and of their fellowship in your perils ; for as we try gold in the fire , so we come to know our friends when we are in misfortune . [*] You will best serve your friends if you do not wait for them to ask your help , but go of your own accord at the crucial moment to lend them aid ."
+    },
+    {
+      "id": "26",
+      "label": "Section 26",
+      "chapter": null,
+      "original": "ὁμοίως αἰσχρὸν εἶναι νόμιζε τῶν ἐχθρῶν νικᾶσθαι ταῖς κακοποιίαις καὶ τῶν φίλων ἡττᾶσθαι ταῖς εὐεργεσίαις . ἀποδέχου τῶν ἑταίρων μὴ μόνον τοὺς ἐπὶ τοῖς κακοῖς δυσχεραίνοντας , ἀλλὰ καὶ τοὺς ἐπὶ τοῖς ἀγαθοῖς μὴ φθονοῦντας · πολλοὶ γὰρ ἀτυχοῦσι μὲν τοῖς φίλοις συνάχθονται , καλῶς δὲ πράττουσι φθονοῦσι . τῶν ἀπόντων φίλων μέμνησο πρὸς τοὺς παρόντας , ἵνα δοκῇς μηδὲ τούτων ἀπόντων ὀλιγωρεῖν .",
+      "translation": "Consider it equally disgraceful to be outdone by your enemies in doing injury and to be surpassed by your friends in doing kindness . [*] Admit to your companionship , not those alone who show distress at your reverses , but those also who show no envy at your good fortune ; for there are many who sympathize with their friends in adversity , but envy them in prosperity . [*] Mention your absent friends to those who are with you , so that they may think you do not forget them , in their turn , when they are absent ."
+    },
+    {
+      "id": "27",
+      "label": "Section 27",
+      "chapter": null,
+      "original": "εἶναι βούλου τὰ περὶ τὴν ἐσθῆτα φιλόκαλος , ἀλλὰ μὴ καλλωπιστής . ἔστι δὲ φιλοκάλου μὲν τὸ μεγαλοπρεπές , καλλωπιστοῦ δὲ τὸ περίεργον .\nἀγάπα τῶν ὑπαρχόντων ἀγαθῶν μὴ τὴν ὑπερβάλλουσαν κτῆσιν ἀλλὰ τὴν μετρίαν ἀπόλαυσιν . καταφρόνει τῶν περὶ τὸν πλοῦτον σπουδαζόντων μέν , χρῆσθαι δὲ τοῖς ὑπάρχουσι μὴ δυναμένων · παραπλήσιον γὰρ οἱ τοιοῦτοι πάσχουσιν , ὥσπερ ἂν εἴ τις ἵππον κτήσαιτο καλὸν κακῶς ἱππεύειν ἐπιστάμενος .",
+      "translation": "In matters of dress , resolve to be a man of taste , but not a fop . The man of taste is marked by elegance , the fop by excess . Set not your heart on the excessive acquisition of goods , but on a moderate enjoyment of what you have . Despise those who strain after riches , but are not able to use what they have ; they are in like case with a man who , being but a wretched horseman , gets him a fine mount ."
+    },
+    {
+      "id": "28",
+      "label": "Section 28",
+      "chapter": null,
+      "original": "πειρῶ τὸν πλοῦτον χρήματα καὶ κτήματα κατασκευάζειν . ἔστι δὲ χρήματα μὲν τοῖς ἀπολαύειν ἐπισταμένοις , κτήματα δὲ τοῖς κτᾶσθαι δυναμένοις . τίμα τὴν ὑπάρχουσαν οὐσίαν δυοῖν ἕνεκεν , τοῦ τε ζημίαν μεγάλην ἐκτῖσαι δύνασθαι , καὶ τοῦ φίλῳ σπουδαίῳ δυστυχοῦντι βοηθῆσαι · πρὸς δὲ τὸν ἄλλον βίον μηδὲν ὑπερβαλλόντως ἀλλὰ μετρίως αὐτὴν ἀγάπα .",
+      "translation": "Try to make of money a thing to use as well as to possess ; it is a thing of use to those who understand how to enjoy it , and a mere possession to those who are able only to acquire it . Prize the substance you have for two reasons — that you may have the means to meet a heavy loss and that you may go to the aid of a worthy friend when he is in distress ; but for your life in general , cherish your possessions not in excess but in moderation ."
+    },
+    {
+      "id": "29",
+      "label": "Section 29",
+      "chapter": null,
+      "original": "στέργε μὲν τὰ παρόντα , ζήτει δὲ τὰ βελτίω .\nμηδενὶ συμφορὰν ὀνειδίσῃς · κοινὴ γὰρ ἡ τύχη καὶ τὸ μέλλον ἀόρατον .\nτοὺς ἀγαθοὺς εὖ ποίει · καλὸς γὰρ θησαυρὸς παρʼ ἀνδρὶ σπουδαίῳ χάρις ὀφειλομένη . τοὺς κακοὺς εὖ ποιῶν ὅμοια πείσει τοῖς τὰς ἀλλοτρίας κύνας σιτίζουσιν · ἐκεῖναί τε γὰρ τοὺς διδόντας ὥσπερ τοὺς τυχόντας ὑλακτοῦσιν , οἵ τε κακοὶ τοὺς ὠφελοῦντας ὥσπερ τοὺς βλάπτοντας ἀδικοῦσι .",
+      "translation": "Be content with your present lot , but seek a better one . Taunt no man with his misfortune for fate is common to all and the future is a thing unseen . Bestow your favors on the good ; for a goodly treasury is a store of gratitude laid up in the heart of an honest man . If you benefit bad men , you will have the same reward as those who feed stray dogs ; for these snarl alike at those who give them food and at the passing stranger ; and just so base men wrong alike those who help and those who harm them . [*]"
+    },
+    {
+      "id": "30",
+      "label": "Section 30",
+      "chapter": null,
+      "original": "μίσει τοὺς κολακεύοντας ὥσπερ τοὺς ἐξαπατῶντας · ἀμφότεροι γὰρ πιστευθέντες τοὺς πιστεύσαντας ἀδικοῦσιν . ἐὰν ἀποδέχῃ τῶν φίλων τοὺς πρὸς τὸ φαυλότατον χαριζομένους , οὐχ ἕξεις ἐν τῷ βίῳ τοὺς πρὸς τὸ βέλτιστον ἀπεχθανομένους .\n\nγίγνου πρὸς τοὺς πλησιάζοντας ὁμιλητικός , ἀλλὰ μὴ σεμνός · τὸν μὲν γὰρ τῶν ὑπεροπτικῶν ὄγκον μόλις ἂν οἱ δοῦλοι καρτερήσειαν , τὸν δὲ τῶν ὁμιλητικῶν τρόπον ἅπαντες ἡδέως ὑποφέρουσιν .",
+      "translation": "Abhor flatterers as you would deceivers ; for both , if trusted , injure those who trust them . If you admit to your friendship men who seek your favor for the lowest ends , your life will be lacking in friends who will risk your displeasure for the highest good . Be affable in your relations with those who approach you , and never haughty ; for the pride of the arrogant even slaves can hardly endure , whereas when men are affable all are glad to bear with their ways ."
+    },
+    {
+      "id": "31",
+      "label": "Section 31",
+      "chapter": null,
+      "original": "ὁμιλητικὸς δʼ ἔσει μὴ δύσερις ὢν μηδὲ δυσάρεστος μηδὲ πρὸς πάντας φιλόνικος , μηδὲ πρὸς τὰς τῶν πλησιαζόντων ὀργὰς τραχέως ἀπαντῶν , μηδʼ ἂν ἀδίκως ὀργιζόμενοι τυγχάνωσιν , ἀλλὰ θυμουμένοις μὲν αὐτοῖς εἴκων , πεπαυμένοις δὲ τῆς ὀργῆς ἐπιπλήττων · μηδὲ παρὰ τὰ γελοῖα σπουδάζων , μηδὲ παρὰ τὰ σπουδαῖα τοῖς γελοίοις χαίρων ( τὸ γὰρ ἄκαιρον πανταχοῦ λυπηρόν )· μηδὲ τὰς χάριτας ἀχαρίστως χαριζόμενος , ὅπερ πάσχουσιν οἱ πολλοί , ποιοῦντες μέν , ἀηδῶς δὲ τοῖς φίλοις ὑπουργοῦντες · μηδὲ φιλαίτιος ὤν , βαρὺ γάρ , μηδὲ φιλεπιτιμητής , παροξυντικὸν γάρ .",
+      "translation": "But to be affable , you must not be quarrelsome , nor hard to please , nor always determined to have your way ; you must not oppose harshly the angry moods of your associates , even if they happen to be angry without reason , but rather give way to them when they are in the heat of passion and rebuke them when their anger has cooled ; you must avoid being serious when the occasion is one for mirth , or taking pleasure in mirth when the occasion is serious ( for what is unseasonable is always offensive ); you must not bestow your favors ungraciously as do the majority who , when they must oblige their friends , do it offensively ; and you must not be given to fault-finding , which is irksome , nor be censorious , which is exasperating ."
+    },
+    {
+      "id": "32",
+      "label": "Section 32",
+      "chapter": null,
+      "original": "μάλιστα μὲν εὐλαβοῦ τὰς ἐν τοῖς πότοις συνουσίας · ἐὰν δέ ποτέ σοι συμπέσῃ καιρός , ἐξανίστασο πρὸ μέθης . ὅταν γὰρ ὁ νοῦς ὑπὸ οἴνου διαφθαρῇ , ταὐτὰ πάσχει τοῖς ἅρμασι τοῖς τοὺς ἡνιόχους ἀποβαλοῦσιν · ἐκεῖνά τε γὰρ ἀτάκτως φέρεται διαμαρτόντα τῶν εὐθυνούντων , ἥ τε ψυχὴ πολλὰ σφάλλεται διαφθαρείσης τῆς διανοίας .\nἀθάνατα μὲν φρόνει τῷ μεγαλόψυχος εἶναι , θνητὰ δὲ τῷ συμμέτρως τῶν ὑπαρχόντων ἀπολαύειν .",
+      "translation": "If possible avoid drinking-parties altogether , [*] but if ever occasion arises when you must be present , rise and take your leave before you become intoxicated ; [*] for when the mind is impaired by wine it is like chariots which have lost their drivers ; for just as these plunge along in wild disorder when they miss the hands which should guide them , so the soul stumbles again and again when the intellect is impaired . [*] Cultivate the thoughts of an immortal by being lofty of soul , but of a mortal by enjoying in due measure the good things which you possess . [*]"
+    },
+    {
+      "id": "33",
+      "label": "Section 33",
+      "chapter": null,
+      "original": "ἡγοῦ τὴν παιδείαν τοσούτῳ μεῖζον ἀγαθὸν εἶναι τῆς ἀπαιδευσίας , ὅσῳ τὰ μὲν ἄλλα μοχθηρὰ πάντες κερδαίνοντες πράττουσιν , αὕτη δὲ μόνη καὶ προσεζημίωσε τοὺς ἔχοντας · πολλάκις γάρ , ὧν τοῖς λόγοις ἐλύπησαν , τούτων τοῖς ἔργοις τὴν τιμωρίαν ἔδοσαν .\nοὓς ἂν βούλῃ ποιήσασθαι φίλους , ἀγαθόν τι λέγε περὶ αὐτῶν πρὸς τοὺς ἀπαγγέλλοντας · ἀρχὴ γὰρ φιλίας μὲν ἔπαινος , ἔχθρας δὲ ψόγος .",
+      "translation": "Consider culture to be a good so far superior to the lack of culture that while in general everyone derives gain from the practice of vice , boorishness [*] is the one vice which actually penalizes its possessors ; for the latter are often punished in deed for the offences they give by their words . When you desire to make a friend of anyone , say good things about him to those who are wont to report them ; for praise is the foundation of friendship , as blame is that of enmity ."
+    },
+    {
+      "id": "34",
+      "label": "Section 34",
+      "chapter": null,
+      "original": "βουλευόμενος παραδείγματα ποιοῦ τὰ παρεληλυθότα τῶν μελλόντων · τὸ γὰρ ἀφανὲς ἐκ τοῦ φανεροῦ ταχίστην ἔχει τὴν διάγνωσιν . Βουλεύου μὲν βραδέως , ἐπιτέλει δὲ ταχέως τὰ δόξαντα . ἡγοῦ κράτιστον εἶναι παρὰ μὲν τῶν θεῶν εὐτυχίαν , παρὰ δʼ ἡμῶν αὐτῶν εὐβουλίαν . περὶ ὧν ἂν αἰσχύνῃ παρρησιάσασθαι , βούλῃ δέ τισι τῶν φίλων ἀνακοινώσασθαι , χρῶ τοῖς λόγοις ὡς περὶ ἀλλοτρίου τοῦ πράγματος · οὕτω γὰρ τὴν ἐκείνων τε γνῶσιν αἰσθήσει , καὶ σεαυτὸν οὐ καταφανῆ ποιήσεις .",
+      "translation": "In your deliberations , let the past be an exemplar for the future ; [*] for the unknown may be soonest discerned by reference to the known . [*] Be slow in deliberation , but be prompt to carry out your resolves . Consider that as the best thing which we have from the gods is good fortune , so the best thing which we have in ourselves is good judgement . When there is anything of which you are ashamed to speak openly , but about which you wish to confer with some of your friends , speak as though it were another ’ s affair ; thus you will get at their opinion , and will not betray your own case ."
+    },
+    {
+      "id": "35",
+      "label": "Section 35",
+      "chapter": null,
+      "original": "ὅταν ὑπὲρ σεαυτοῦ μέλλῃς τινὶ συμβούλῳ χρῆσθαι , σκόπει πρῶτον πῶς τὰ ἑαυτοῦ διῴκησεν · ὁ γὰρ κακῶς διανοηθεὶς περὶ τῶν οἰκείων οὐδέποτε καλῶς βουλεύσεται περὶ τῶν ἀλλοτρίων . οὕτω δʼ ἂν μάλιστα βουλεύεσθαι παροξυνθείης , εἰ τὰς συμφορὰς τὰς ἐκ τῆς ἀβουλίας ἐπιβλέψειας · καὶ γὰρ τῆς ὑγιείας πλείστην ἐπιμέλειαν ἔχομεν , ὅταν τὰς λύπας τὰς ἐκ τῆς ἀρρωστίας ἀναμνησθῶμεν .",
+      "translation": "Whenever you purpose to consult with anyone about your affairs , first observe how he has managed his own ; for he who has shown poor judgement in conducting his own business will never give wise counsel about the business of others . The greatest incentive you can have to deliberation is to observe the misfortunes which spring from the lack of it ; for we pay the closest attention to our health when we recall the pains which spring from disease ."
+    },
+    {
+      "id": "36",
+      "label": "Section 36",
+      "chapter": null,
+      "original": "μιμοῦ τὰ τῶν βασιλέων ἤθη καὶ δίωκε τὰ ἐκείνων ἐπιτηδεύματα · δόξεις γὰρ αὐτοὺς ἀποδέχεσθαι καὶ ζηλοῦν , ὥστε σοι συμβήσεται παρά τε τῷ πλήθει μᾶλλον εὐδοκιμεῖν καὶ τὴν παρʼ ἐκείνων εὔνοιαν βεβαιοτέραν ἔχειν . πείθου μὲν καὶ τοῖς νόμοις τοῖς ὑπὸ τῶν βασιλέων κειμένοις , ἰσχυρότατον μέντοι νόμον ἡγοῦ τὸν ἐκείνων τρόπον . ὥσπερ γὰρ τὸν ἐν δημοκρατίᾳ πολιτευόμενον τὸ πλῆθος δεῖ θεραπεύειν , οὕτω καὶ τὸν ἐν μοναρχίᾳ κατοικοῦντα τὸν βασιλέα προσήκει θαυμάζειν .",
+      "translation": "Pattern after the character of kings , and follow closely their ways . For you will thus be thought to approve them and emulate them , and as a result you will have greater esteem in the eyes of the multitude and a surer hold on the favor of royalty . Obey the laws which have been laid down by kings , but consider their manner of life your highest law . For just as one who is a citizen in a democracy must pay court to the multitude , so also one who lives under a monarchy should revere the king . [*]"
+    },
+    {
+      "id": "37",
+      "label": "Section 37",
+      "chapter": null,
+      "original": "εἰς ἀρχὴν κατασταθεὶς μηδενὶ χρῶ πονηρῷ πρὸς τὰς διοικήσεις · ὧν γὰρ ἂν ἐκεῖνος ἁμάρτῃ , σοὶ τὰς αἰτίας ἀναθήσουσιν . ἐκ τῶν κοινῶν ἐπιμελειῶν ἀπαλλάττου μὴ πλουσιώτερος ἀλλʼ ἐνδοξότερος · πολλῶν γὰρ χρημάτων κρείττων ὁ παρὰ τοῦ πλήθους ἔπαινος .\nμηδενὶ πονηρῷ πράγματι μήτε παρίστασο μήτε συνηγόρει · δόξεις γὰρ καὶ αὐτὸς τοιαῦτα πράττειν , οἷά περ ἂν τοῖς ἄλλοις πράττουσι βοηθῇς .",
+      "translation": "When you are placed in authority , do not employ any unworthy person in your administration ; for people will blame you for any mistakes which he may make . Retire from your public trusts , not more wealthy , but more highly esteemed ; for the praise of a people is better than many possessions . Never support or defend a bad cause , for people will suspect that you yourself do the things which you aid others in doing ."
+    },
+    {
+      "id": "38",
+      "label": "Section 38",
+      "chapter": null,
+      "original": "παρασκεύαζε σεαυτὸν πλεονεκτεῖν μὲν δύνασθαι , ἀνέχου δὲ τὸ ἴσον ἔχων , ἵνα δοκῇς ὀρέγεσθαι τῆς δικαιοσύνης μὴ διʼ ἀσθένειαν ἀλλὰ διʼ ἐπιείκειαν . μᾶλλον ἀποδέχου δικαίαν πενίαν ἢ πλοῦτον ἄδικον · τοσούτῳ γὰρ κρείττων δικαιοσύνη χρημάτων , ὅσῳ τὰ μὲν ζῶντας μόνον ὠφελεῖ , τὸ δὲ [*] καὶ τελευτήσασι δόξαν παρασκευάζει , κἀκείνων μὲν τοῖς φαύλοις μέτεστι , τούτου δὲ τοῖς μοχθηροῖς ἀδύνατον μεταλαβεῖν .",
+      "translation": "Put yourself in a position in which you have the power to take advantage , but refrain when you have your fair share , so that men may think that you strive for justice , not from weakness , but from a sense of equity . Prefer honest poverty to unjust wealth ; [*] for justice is better than riches in that riches profit us only while we live , while justice provides us glory even after we are dead , and while riches are shared by bad men , justice is a thing in which the wicked can have no part . [*]"
+    },
+    {
+      "id": "39",
+      "label": "Section 39",
+      "chapter": null,
+      "original": "μηδένα ζήλου τῶν ἐξ ἀδικίας κερδαινόντων , ἀλλὰ μᾶλλον ἀποδέχου τοὺς μετὰ δικαιοσύνης ζημιωθέντας · οἱ γὰρ δίκαιοι τῶν ἀδίκων εἰ μηδὲν ἄλλο πλεονεκτοῦσιν , ἀλλʼ οὖν ἐλπίσι γε σπουδαίαις ὑπερέχουσιν .",
+      "translation": "Never emulate those who seek to gain by injustice , but cleave rather to those who have suffered loss in the cause of justice ; for if the just have no other advantage over the unjust , at any rate they surpass them in their high hopes . [*]"
+    },
+    {
+      "id": "40",
+      "label": "Section 40",
+      "chapter": null,
+      "original": "πάντων μὲν ἐπιμελοῦ τῶν περὶ τὸν βίον , μάλιστα δὲ τὴν σαυτοῦ φρόνησιν ἄσκει · μέγιστον γὰρ ἐν ἐλαχίστῳ νοῦς ἀγαθὸς ἐν ἀνθρώπου σώματι . πειρῶ τῷ μὲν σώματι εἶναι φιλόπονος , τῇ δὲ ψυχῇ φιλόσοφος , ἵνα τῷ μὲν ἐπιτελεῖν δύνῃ τὰ δόξαντα , τῇ δὲ προορᾶν ἐπίστῃ τὰ συμφέροντα .",
+      "translation": "Give careful heed to all that concerns your life , but above all train your own intellect ; for the greatest thing in the smallest compass is a sound mind in a human body . [*] Strive with your body to be a lover of toil , and with your soul to be a lover of wisdom , in order that with the one you may have the strength to carry out your resolves , and with the other the intelligence to foresee what is for your good ."
+    },
+    {
+      "id": "41",
+      "label": "Section 41",
+      "chapter": null,
+      "original": "πᾶν ὅ τι ἂν μέλλῃς ἐρεῖν , πρότερον ἐπισκόπει τῇ γνώμῃ · πολλοῖς γὰρ ἡ γλῶττα προτρέχει τῆς διανοίας . δύο ποιοῦ καιροὺς τοῦ λέγειν , ἢ περὶ ὧν οἶσθα σαφῶς , ἢ περὶ ὧν ἀναγκαῖον εἰπεῖν . ἐν τούτοις γὰρ μόνοις ὁ λόγος τῆς σιγῆς κρείττων , ἐν δὲ τοῖς ἄλλοις ἄμεινον σιγᾶν ἢ λέγειν .",
+      "translation": "Always when you are about to say anything , first weigh it in your mind ; for with many the tongue outruns the thought . [*] Let there be but two occasions for speech — when the subject is one which you thoroughly know and when it is one on which you are compelled to speak . On these occasions alone is speech better than silence ; on all others , it is better to be silent than to speak ."
+    },
+    {
+      "id": "42",
+      "label": "Section 42",
+      "chapter": null,
+      "original": "νόμιζε μηδὲν εἶναι τῶν ἀνθρωπίνων βέβαιον · οὕτω γὰρ οὔτʼ εὐτυχῶν ἔσει περιχαρὴς οὔτε δυστυχῶν περίλυπος . χαῖρε μὲν ἐπὶ τοῖς συμβαίνουσι τῶν ἀγαθῶν , λυποῦ δὲ μετρίως ἐπὶ τοῖς γιγνομένοις τῶν κακῶν , γίγνου δὲ τοῖς ἄλλοις μηδʼ ἐν ἑτέροις ὢν κατάδηλος · ἄτοπον γὰρ τὴν μὲν οὐσίαν ἐν ταῖς οἰκίαις ἀποκρύπτειν , τὴν δὲ διάνοιαν φανερὰν ἔχοντα περιπατεῖν .",
+      "translation": "Consider that nothing in human life is stable ; [*] for then you will not exult overmuch in prosperity , nor grieve overmuch in adversity . [*] Rejoice over the good things which come to you , but grieve in moderation over the evils which befall you , and in either case do not expose your heart to others ; [*] for it were strange to hide away one ’ s treasure in the house , and yet walk about laying bare one ’ s feelings to the world ."
+    },
+    {
+      "id": "43",
+      "label": "Section 43",
+      "chapter": null,
+      "original": "μᾶλλον εὐλαβοῦ ψόγον ἢ κίνδυνον · δεῖ γὰρ εἶναι φοβερὰν τοῖς μὲν φαύλοις τὴν τοῦ βίου τελευτήν , τοῖς δὲ σπουδαίοις τὴν ἐν τῷ ζῆν ἀδοξίαν . μάλιστα μὲν πειρῶ ζῆν κατὰ τὴν ἀσφάλειαν · ἐὰν δέ ποτέ σοι συμβῇ κινδυνεύειν , ζήτει τὴν ἐκ τοῦ πολέμου σωτηρίαν μετὰ καλῆς δόξης , ἀλλὰ μὴ μετʼ αἰσχρᾶς φήμης · τὸ μὲν γὰρ τελευτῆσαι πάντων ἡ πεπρωμένη κατέκρινε , τὸ δὲ καλῶς ἀποθανεῖν ἴδιον τοῖς σπουδαίοις ἀπένειμεν .",
+      "translation": "Be more careful in guarding against censure than against danger ; for the wicked may well dread the end of life , but good men should dread ignominy during life . Strive by all means to live in security , [*] but if ever it falls to your lot to face the dangers of battle , seek to preserve your life , but with honor and not with disgrace ; for death is the sentence which fate has passed on all mankind , but to die nobly is the special honor which nature has reserved for the good ."
+    },
+    {
+      "id": "44",
+      "label": "Section 44",
+      "chapter": null,
+      "original": "καὶ μὴ θαυμάσῃς εἰ πολλὰ τῶν εἰρημένων οὐ πρέπει σοι πρὸς τὴν νῦν παροῦσαν ἡλικίαν . οὐδὲ γὰρ ἐμὲ τοῦτο διέλαθεν · ἀλλὰ προειλόμην διὰ τῆς αὐτῆς πραγματείας ἅμα τοῦ τε παρόντος βίου συμβουλίαν ἐξενεγκεῖν καὶ τοῦ μέλλοντος χρόνου παράγγελμα καταλιπεῖν . τὴν μὲν γὰρ τούτων χρείαν ῥᾳδίως εἰδήσεις , τὸν δὲ μετʼ εὐνοίας συμβουλεύοντα χαλεπῶς εὑρήσεις . ὅπως οὖν μὴ παρʼ ἑτέρου τὰ λοιπὰ ζητῇς , ἀλλʼ ἐντεῦθεν ὥσπερ ἐκ ταμιείου προφέρῃς , ᾠήθην δεῖν μηδὲν παραλιπεῖν ὧν ἔχω σοι συμβουλεύειν .",
+      "translation": "Do not be surprised that many things which I have said do not apply to you at your present age . For I also have not overlooked this fact , but I have deliberately chosen to employ this one treatise , not only to convey to you advice for your life now , but also to leave with you precepts for the years to come ; for you will then readily perceive the application of my precepts , but you will not easily find a man who will give you friendly counsel . In order , therefore , that you may not seek the rest from another source , but that you may draw from this as from a treasure-house , I thought that I ought not to omit any of the counsels which I have to give you ."
+    },
+    {
+      "id": "45",
+      "label": "Section 45",
+      "chapter": null,
+      "original": "πολλὴν δʼ ἂν τοῖς θεοῖς χάριν σχοίην , εἰ μὴ διαμάρτοιμι τῆς δόξης ἧς ἔχων περὶ σοῦ τυγχάνω . τῶν μὲν γὰρ ἄλλων τοὺς πλείστους εὑρήσομεν , ὥσπερ τῶν σιτίων τοῖς ἡδίστοις μᾶλλον ἢ τοῖς ὑγιεινοτάτοις χαίροντας , οὕτω καὶ τῶν φίλων τοῖς συνεξαμαρτάνουσι πλησιάζοντας , ἀλλʼ οὐ τοῖς νουθετοῦσι . σὲ δὲ νομίζω τοὐναντίον τούτων ἐγνωκέναι , τεκμηρίῳ χρώμενος τῇ περὶ τὴν ἄλλην παιδείαν φιλοπονία · τὸν γὰρ αὑτῷ τὰ βέλτιστα πράττειν ἐπιτάττοντα , τοῦτον εἰκὸς καὶ τῶν ἄλλων τοὺς ἐπὶ τὴν ἀρετὴν παρακαλοῦντας ἀποδέχεσθαι .",
+      "translation": "And I shall be most grateful to the gods if I am not disappointed in the opinion which I have of you . For , while we find that the great majority of other men seek the society of those friends who join them in their follies and not of those who admonish them , just as they prefer the most pleasant to the most wholesome food , [*] you , I think , are minded otherwise , as I judge from the industry you display in your general education . For when one sets for himself the highest standard of conduct , it is probable that in his relation to others he will approve only of those who exhort him to virtue ."
+    },
+    {
+      "id": "46",
+      "label": "Section 46",
+      "chapter": null,
+      "original": "μάλιστα δʼ ἂν παροξυνθείης ὀρέγεσθαι τῶν καλῶν ἔργων , εἰ καταμάθοις ὅτι καὶ τὰς ἡδονὰς ἐκ τούτων μάλιστα γνησίως ἔχομεν . ἐν μὲν γὰρ τῷ ῥᾳθυμεῖν καὶ τὰς πλησμονὰς ἀγαπᾶν εὐθὺς αἱ λῦπαι ταῖς ἡδοναῖς παραπεπήγασι , τὸ δὲ περὶ τὴν ἀρετὴν φιλοπονεῖν καὶ σωφρόνως τὸν αὑτοῦ βίον οἰκονομεῖν ἀεὶ τὰς τέρψεις εἰλικρινεῖς καὶ βεβαιοτέρας ἀποδίδωσι ·",
+      "translation": "But most of all would you be spurred on to strive for noble deeds if you should realize that it is from them most of all that we also derive pleasure in the true sense . For while the result of indolence and love of surfeit is that pain follows on the heels of pleasure , [*] on the other hand , devoted toil in the pursuit of virtue , and self-control in the ordering of one ’ s life always yield delights that are pure and more abiding . In the former case we experience pain following upon pleasure , in the latter we enjoy pleasure after pain ."
+    },
+    {
+      "id": "47",
+      "label": "Section 47",
+      "chapter": null,
+      "original": "κἀκεῖ μὲν πρότερον ἡσθέντες ὕστερον ἐλυπήθημεν , ἐνταῦθα δὲ μετὰ τὰς λύπας τὰς ἡδονὰς ἔχομεν . ἐν πᾶσι δὲ τοῖς ἔργοις οὐχ οὕτω τῆς ἀρχῆς μνημονεύομεν , ὡς τῆς τελευτῆς αἴσθησιν λαμβάνομεν · τὰ γὰρ πλεῖστα τῶν περὶ τὸν βίον οὐ διʼ αὐτὰ τὰ πράγματα ποιοῦμεν , ἀλλὰ τῶν ἀποβαινόντων ἕνεκεν διαπονοῦμεν .",
+      "translation": "In all our tasks we are not so much mindful of the beginning as we are sensible of the end ; for we do most things in life not for themselves ; it is rather for the sake of what results from them that we carry on our labors ."
+    },
+    {
+      "id": "48",
+      "label": "Section 48",
+      "chapter": null,
+      "original": "ἐνθυμοῦ δʼ ὅτι τοῖς μὲν φαύλοις ἐνδέχεται τὰ τυχόντα πράττειν · εὐθὺς γὰρ τοῦ βίου τοιαύτην πεποίηνται τὴν ὑπόθεσιν · τοῖς δὲ σπουδαίοις οὐχ οἷόν τε τῆς ἀρετῆς ἀμελεῖν διὰ τὸ πολλοὺς ἔχειν τοὺς ἐπιπλήττοντας . πάντες γὰρ μισοῦσιν οὐχ οὕτω τοὺς ἐξαμαρτάνοντας ὡς τοὺς ἐπιεικεῖς μὲν φήσαντας εἶναι , μηδὲν δὲ τῶν τυχόντων διαφέροντας ,",
+      "translation": "Bear in mind that while the base may be pardoned for acting without principle , since it is on such a foundation that from the first their lives have been built , yet the good may not neglect virtue without subjecting themselves to rebukes from many quarters ; for all men despise less those who do wrong than those who have claimed to be respect able and yet are in fact no better than the common run ;"
+    },
+    {
+      "id": "49",
+      "label": "Section 49",
+      "chapter": null,
+      "original": "εἰκότως · ὅπου γὰρ τοὺς τῷ λόγῳ μόνον ψευδομένους ἀποδοκιμάζομεν , ἦ πού γε τοὺς τῷ βίῳ παντὶ ἐλαττουμένους οὐ φαύλους εἶναι φήσομεν ; δικαίως δʼ ἂν τοὺς τοιούτους ὑπολάβοιμεν μὴ μόνον εἰς αὑτοὺς ἁμαρτάνειν , ἀλλὰ καὶ τῆς τύχης εἶναι προδότας · ἡ μὲν γὰρ αὐτοῖς χρήματα καὶ δόξαν καὶ φίλους ἐνεχείρισεν , οἱ δὲ σφᾶς αὐτοὺς ἀναξίους τῆς ὑπαρχούσης εὐδαιμονίας κατέστησαν .",
+      "translation": "and rightly , too , for when we condemn those who deceive us in words alone , how , pray , can we deny the baseness of those who in their whole lives belie their promise ? [*] We should be right in judging that such men not only sin against themselves , but are traitors to fortune as well ; for fortune places in their hands wealth and reputation and friends , but they , for their part , make themselves unworthy of the blessings which lie within their grasp ."
+    },
+    {
+      "id": "50",
+      "label": "Section 50",
+      "chapter": null,
+      "original": "εἰ δὲ δεῖ θνητὸν ὄντα τῆς τῶν θεῶν στοχάσασθαι διανοίας , ἡγοῦμαι κἀκείνους ἐπὶ τοῖς οἰκειοτάτοις μάλιστα δηλῶσαι πῶς ἔχουσι πρὸς τοὺς φαύλους καὶ τοὺς σπουδαίους τῶν ἀνθρώπων . Ζεὺς γὰρ Ἡρακλέα καὶ Τάνταλον γεννήσας , ὡς οἱ μῦθοι λέγουσι καὶ πάντες πιστεύουσι , τὸν μὲν διὰ τὴν ἀρετὴν ἀθάνατον ἐποίησε , τὸν δὲ διὰ τὴν κακίαν ταῖς μεγίσταις τιμωρίαις ἐκόλασεν .",
+      "translation": "And if a mortal may make conjecture of the thoughts of the gods , I think that they also have revealed very clearly in their treatment of their nearest kin how they are disposed to the good and base among men . For Zeus , who , as the myths relate and all men believe , was the father of Heracles and Tantalus , made the one immortal because of his virtue , and inflicted on the other the severest punishments because of his evil character ."
+    },
+    {
+      "id": "51",
+      "label": "Section 51",
+      "chapter": null,
+      "original": "οἷς δεῖ παραδείγμασι χρωμένους ὀρέγεσθαι τῆς καλοκαγαθίας , καὶ μὴ μόνον τοῖς ὑφʼ ἡμῶν εἰρημένοις ἐμμένειν , ἀλλὰ καὶ τῶν ποιητῶν τὰ βέλτιστα μανθάνειν , καὶ τῶν ἄλλων σοφιστῶν , εἴ τι χρήσιμον εἰρήκασιν ,",
+      "translation": "With these examples before you , you should aspire to nobility of character , and not only abide by what I have said , but acquaint yourself with the best things in the poets as well , and learn from the other wise men also any useful lessons they have taught . [*]"
+    },
+    {
+      "id": "52",
+      "label": "Section 52",
+      "chapter": null,
+      "original": "ἀναγιγνώσκειν . ὥσπερ γὰρ τὴν μέλιτταν ὁρῶμεν ἐφʼ ἅπαντα μὲν τὰ βλαστήματα καθιζάνουσαν , οὕτω δεῖ καὶ τοὺς παιδείας ὀρεγομένους μηδενὸς μὲν ἀπείρως ἔχειν , πανταχόθεν δὲ τὰ χρήσιμα συλλέγειν . μόλις γὰρ ἄν τις ἐκ ταύτης τῆς ἐπιμελείας τὰς τῆς φύσεως ἁμαρτίας ἐπικρατήσειεν .",
+      "translation": "For just as we see the bee settling on all the flowers , and sipping the best from each , so also those who aspire to culture ought not to leave anything untasted , but should gather useful knowledge from every source . [*] For hardly even with these pains can they overcome the defects of nature ."
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": "to-nicocles-oc34qr"
+}

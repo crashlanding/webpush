@@ -1,0 +1,75 @@
+{
+  "loebNumber": 472,
+  "sortOrder": 472,
+  "slug": "hippocrates-affections-diseases-1-diseases-2-12uixo",
+  "title": "Affections. Diseases 1. Diseases 2",
+  "volumeLabel": "Affections. Diseases 1. Diseases 2",
+  "authorDisplay": "Hippocrates",
+  "authors": [
+    "Hippocrates"
+  ],
+  "language": "greek",
+  "summary": "1 of 3 contents in Affections. Diseases 1. Diseases 2 are live from Scaife, while the remaining contents stay visible until a confident pair is available. Diseases 1 is currently filled with the closest same-author Scaife text that exposes both an original-language version and an English translation.",
+  "status": "partial",
+  "defaultChunkSlug": "de-morbo-sacro-obh4r4",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "affections-3bo5r4",
+      "title": "Affections",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Affections."
+    },
+    {
+      "id": "diseases-1-1sjeml",
+      "title": "Diseases 1",
+      "status": "ready",
+      "sectionCount": 18,
+      "chunkSlug": "de-morbo-sacro-obh4r4",
+      "chunks": [
+        {
+          "slug": "de-morbo-sacro-obh4r4",
+          "label": "De morbo sacro",
+          "partId": "diseases-1-1sjeml",
+          "partTitle": "Diseases 1",
+          "sectionCount": 18,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "diseases-2-1sjeml",
+      "title": "Diseases 2",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "The original and English Scaife TOCs could not be aligned."
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "de-morbo-sacro-obh4r4",
+      "label": "De morbo sacro",
+      "partId": "diseases-1-1sjeml",
+      "partTitle": "Diseases 1",
+      "sectionCount": 18,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "de-morbo-sacro-obh4r4",
+      "partTitle": "Diseases 1",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De morbo sacro",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg027.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Sacred Disease",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg027.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "loebNumber": 35,
+  "sortOrder": 35,
+  "slug": "tacitus-agricola-germania-dialogue-on-oratory-zo7l04",
+  "title": "Agricola. Germania. Dialogue on Oratory",
+  "volumeLabel": "Agricola. Germania. Dialogue on Oratory",
+  "authorDisplay": "Tacitus",
+  "authors": [
+    "Tacitus"
+  ],
+  "language": "latin",
+  "summary": "A catalog placeholder for Agricola. Germania. Dialogue on Oratory. Scaife does not currently provide a confidently matchable original-and-English pair for this volume.",
+  "status": "placeholder",
+  "defaultChunkSlug": null,
+  "readyChunkCount": 0,
+  "contents": [
+    {
+      "id": "agricola-vfqb1a",
+      "title": "Agricola",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Agricola."
+    },
+    {
+      "id": "germania-x0mcla",
+      "title": "Germania",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Germania."
+    },
+    {
+      "id": "dialogue-on-oratory-dpyht3",
+      "title": "Dialogue on Oratory",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Dialogue on Oratory."
+    }
+  ],
+  "chunks": [],
+  "citations": []
+}

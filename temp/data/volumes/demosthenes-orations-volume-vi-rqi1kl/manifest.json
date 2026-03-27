@@ -1,0 +1,301 @@
+{
+  "loebNumber": 351,
+  "sortOrder": 351,
+  "slug": "demosthenes-orations-volume-vi-rqi1kl",
+  "title": "Orations, Volume VI",
+  "volumeLabel": "Orations, Volume VI",
+  "authorDisplay": "Demosthenes",
+  "authors": [
+    "Demosthenes"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Orations, Volume VI. Orations, Volume VI opens a closest available slice of Demosthenes on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "against-stephanus-ii-1k0w8l",
+  "readyChunkCount": 9,
+  "contents": [
+    {
+      "id": "orations-volume-vi-173mrj",
+      "title": "Orations, Volume VI",
+      "status": "ready",
+      "sectionCount": 433,
+      "chunkSlug": "against-stephanus-ii-1k0w8l",
+      "chunks": [
+        {
+          "slug": "against-stephanus-ii-1k0w8l",
+          "label": "Against Stephanus II",
+          "partId": "orations-volume-vi-173mrj",
+          "partTitle": "Orations, Volume VI",
+          "sectionCount": 28,
+          "status": "ready"
+        },
+        {
+          "slug": "against-evergus-and-mnesibulus-5s4qpq",
+          "label": "Against Evergus and Mnesibulus",
+          "partId": "orations-volume-vi-173mrj",
+          "partTitle": "Orations, Volume VI",
+          "sectionCount": 82,
+          "status": "ready"
+        },
+        {
+          "slug": "against-olympiodorus-iujarj",
+          "label": "Against Olympiodorus",
+          "partId": "orations-volume-vi-173mrj",
+          "partTitle": "Orations, Volume VI",
+          "sectionCount": 58,
+          "status": "ready"
+        },
+        {
+          "slug": "apollodorus-against-timotheus-1bv1ap",
+          "label": "Apollodorus Against Timotheus",
+          "partId": "orations-volume-vi-173mrj",
+          "partTitle": "Orations, Volume VI",
+          "sectionCount": 69,
+          "status": "ready"
+        },
+        {
+          "slug": "apollodorus-against-polycles-f8e7cc",
+          "label": "Apollodorus Against Polycles",
+          "partId": "orations-volume-vi-173mrj",
+          "partTitle": "Orations, Volume VI",
+          "sectionCount": 68,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-trierarchic-crown-l18oen",
+          "label": "On the Trierarchic Crown",
+          "partId": "orations-volume-vi-173mrj",
+          "partTitle": "Orations, Volume VI",
+          "sectionCount": 22,
+          "status": "ready"
+        },
+        {
+          "slug": "apollodorus-against-callippus-p223uo",
+          "label": "Apollodorus Against Callippus",
+          "partId": "orations-volume-vi-173mrj",
+          "partTitle": "Orations, Volume VI",
+          "sectionCount": 33,
+          "status": "ready"
+        },
+        {
+          "slug": "apollodorus-against-nicostratus-9p6axe",
+          "label": "Apollodorus Against Nicostratus",
+          "partId": "orations-volume-vi-173mrj",
+          "partTitle": "Orations, Volume VI",
+          "sectionCount": 29,
+          "status": "ready"
+        },
+        {
+          "slug": "against-conon-1nmkpd",
+          "label": "Against Conon",
+          "partId": "orations-volume-vi-173mrj",
+          "partTitle": "Orations, Volume VI",
+          "sectionCount": 44,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "against-stephanus-ii-1k0w8l",
+      "label": "Against Stephanus II",
+      "partId": "orations-volume-vi-173mrj",
+      "partTitle": "Orations, Volume VI",
+      "sectionCount": 28,
+      "status": "ready"
+    },
+    {
+      "slug": "against-evergus-and-mnesibulus-5s4qpq",
+      "label": "Against Evergus and Mnesibulus",
+      "partId": "orations-volume-vi-173mrj",
+      "partTitle": "Orations, Volume VI",
+      "sectionCount": 82,
+      "status": "ready"
+    },
+    {
+      "slug": "against-olympiodorus-iujarj",
+      "label": "Against Olympiodorus",
+      "partId": "orations-volume-vi-173mrj",
+      "partTitle": "Orations, Volume VI",
+      "sectionCount": 58,
+      "status": "ready"
+    },
+    {
+      "slug": "apollodorus-against-timotheus-1bv1ap",
+      "label": "Apollodorus Against Timotheus",
+      "partId": "orations-volume-vi-173mrj",
+      "partTitle": "Orations, Volume VI",
+      "sectionCount": 69,
+      "status": "ready"
+    },
+    {
+      "slug": "apollodorus-against-polycles-f8e7cc",
+      "label": "Apollodorus Against Polycles",
+      "partId": "orations-volume-vi-173mrj",
+      "partTitle": "Orations, Volume VI",
+      "sectionCount": 68,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-trierarchic-crown-l18oen",
+      "label": "On the Trierarchic Crown",
+      "partId": "orations-volume-vi-173mrj",
+      "partTitle": "Orations, Volume VI",
+      "sectionCount": 22,
+      "status": "ready"
+    },
+    {
+      "slug": "apollodorus-against-callippus-p223uo",
+      "label": "Apollodorus Against Callippus",
+      "partId": "orations-volume-vi-173mrj",
+      "partTitle": "Orations, Volume VI",
+      "sectionCount": 33,
+      "status": "ready"
+    },
+    {
+      "slug": "apollodorus-against-nicostratus-9p6axe",
+      "label": "Apollodorus Against Nicostratus",
+      "partId": "orations-volume-vi-173mrj",
+      "partTitle": "Orations, Volume VI",
+      "sectionCount": 29,
+      "status": "ready"
+    },
+    {
+      "slug": "against-conon-1nmkpd",
+      "label": "Against Conon",
+      "partId": "orations-volume-vi-173mrj",
+      "partTitle": "Orations, Volume VI",
+      "sectionCount": 44,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "against-stephanus-ii-1k0w8l",
+      "partTitle": "Orations, Volume VI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Στεφάνου ψευδομαρτυριῶν β΄",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg046.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Apollodorus Against Stephanus, Charged with False Testimony II",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg046.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-evergus-and-mnesibulus-5s4qpq",
+      "partTitle": "Orations, Volume VI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Εὐέργου καὶ Μνησιβούλου ψευδομαρτυριῶν",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg047.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Unknown Pleader Against Evergus and Mnesibulus, About False Testimony",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg047.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-olympiodorus-iujarj",
+      "partTitle": "Orations, Volume VI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Ὀλυμπιοδώρου βλάβης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg048.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Callistratus Against Olympiodorus, an Action for Damages",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg048.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "apollodorus-against-timotheus-1bv1ap",
+      "partTitle": "Orations, Volume VI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "πρὸς Τιμόθεον ὑπὲρ χρέως",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg049.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Apollodorus Against Timotheus in the Matter of a Debt",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg049.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "apollodorus-against-polycles-f8e7cc",
+      "partTitle": "Orations, Volume VI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "πρὸς Πολυκλέα περὶ τοῦ ἐπιτριηραρχήματος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg050.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Apollodorus Against Polycles for Expenses Incurred while Serving as Trierarch",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg050.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-trierarchic-crown-l18oen",
+      "partTitle": "Orations, Volume VI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "περὶ τοῦ Στεφάνου τῆς τριηραρκίας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg051.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Trierarchic Crown, by an Unknown Pleader",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg051.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "apollodorus-against-callippus-p223uo",
+      "partTitle": "Orations, Volume VI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "πρὸς Κάλλιππον",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg052.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Apollodorus Against Callippus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg052.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "apollodorus-against-nicostratus-9p6axe",
+      "partTitle": "Orations, Volume VI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "πρὸς Νικόστρατον περὶ ἀνδραπόδων ἀπογραφῆς Ἀρεθουσίου",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg053.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Apollodorus Against Nicostratus in the Matter of Slaves of Aresthusius",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg053.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-conon-1nmkpd",
+      "partTitle": "Orations, Volume VI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Κόνωνος αἰκείας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg054.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Ariston Against Conon, an Action for Assault",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg054.perseus-eng2/"
+      }
+    }
+  ]
+}

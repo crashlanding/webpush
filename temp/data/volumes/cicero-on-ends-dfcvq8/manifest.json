@@ -1,0 +1,91 @@
+{
+  "loebNumber": 40,
+  "sortOrder": 40,
+  "slug": "cicero-on-ends-dfcvq8",
+  "title": "On Ends",
+  "volumeLabel": "On Ends",
+  "authorDisplay": "Cicero",
+  "authors": [
+    "Cicero"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for On Ends, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "on-ends-4m9qjd-1",
+  "readyChunkCount": 2,
+  "contents": [
+    {
+      "id": "on-ends-4m9qjd",
+      "title": "On Ends",
+      "status": "ready",
+      "sectionCount": 104,
+      "chunkSlug": "on-ends-4m9qjd-1",
+      "chunks": [
+        {
+          "slug": "on-ends-4m9qjd-1",
+          "label": "On Ends (Section 1 - Section 60)",
+          "partId": "on-ends-4m9qjd",
+          "partTitle": "On Ends",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-ends-4m9qjd-2",
+          "label": "On Ends (Section 61 - Section 104)",
+          "partId": "on-ends-4m9qjd",
+          "partTitle": "On Ends",
+          "sectionCount": 44,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "on-ends-4m9qjd-1",
+      "label": "On Ends (Section 1 - Section 60)",
+      "partId": "on-ends-4m9qjd",
+      "partTitle": "On Ends",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-ends-4m9qjd-2",
+      "label": "On Ends (Section 61 - Section 104)",
+      "partId": "on-ends-4m9qjd",
+      "partTitle": "On Ends",
+      "sectionCount": 44,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "on-ends-4m9qjd-1",
+      "partTitle": "On Ends",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Amicitia",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi052.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Laelius on Friendship",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi052.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "on-ends-4m9qjd-2",
+      "partTitle": "On Ends",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Amicitia",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi052.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Laelius on Friendship",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi052.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-merchant-1me99z-9",
+  "label": "The Merchant (Section 3.4.620 - Section 4.1.686)",
+  "partId": "the-merchant-1me99z",
+  "partTitle": "The Merchant",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Mercator",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Mercator, or The Merchant",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "3.4.620",
+      "label": "Section 3.4.620",
+      "chapter": null,
+      "original": "Dic , quis emit ?",
+      "translation": "Tell me , who bought her ?"
+    },
+    {
+      "id": "3.4.620b",
+      "label": "Section 3.4.620b",
+      "chapter": null,
+      "original": "Nescio hercle .",
+      "translation": "I ’ faith , I do not know ."
+    },
+    {
+      "id": "3.4.620c",
+      "label": "Section 3.4.620c",
+      "chapter": null,
+      "original": "Em istúcinest operam dare",
+      "translation": "Well , is this a good friend giving one his aid ?"
+    },
+    {
+      "id": "3.4.621b",
+      "label": "Section 3.4.621b",
+      "chapter": null,
+      "original": "Quid me facere vis ?",
+      "translation": "What would you have me do ?"
+    },
+    {
+      "id": "3.4.621c",
+      "label": "Section 3.4.621c",
+      "chapter": null,
+      "original": "Idem quod me vides ,",
+      "translation": "The same that you see me doing , die with grief . But did you make enquiry , what was the appearance of the person that had bought her ? Perhaps the damsel might have been traced out by that means ."
+    },
+    {
+      "id": "3.4.624",
+      "label": "Section 3.4.624",
+      "chapter": null,
+      "original": "mulier ? heu me miserum .",
+      "translation": "Ah ! wretch that I am —"
+    },
+    {
+      "id": "3.4.624b",
+      "label": "Section 3.4.624b",
+      "chapter": null,
+      "original": "Flere omitte , istuc quod nunc agis .",
+      "translation": "Do cease lamenting ; attend to that which you are now about ."
+    },
+    {
+      "id": "3.4.625",
+      "label": "Section 3.4.625",
+      "chapter": null,
+      "original": "Quid ego feci ?",
+      "translation": "What have I done ?"
+    },
+    {
+      "id": "3.4.625b",
+      "label": "Section 3.4.625b",
+      "chapter": null,
+      "original": "Perdidisti me et fidem mecum tuam .",
+      "translation": "Proved the destruction of myself , and with myself of your own word ."
+    },
+    {
+      "id": "3.4.626",
+      "label": "Section 3.4.626",
+      "chapter": null,
+      "original": "Di sciunt culpam meam istanc non esse ullam .",
+      "translation": "The Gods know that that is not any fault of mine ."
+    },
+    {
+      "id": "3.4.626b",
+      "label": "Section 3.4.626b",
+      "chapter": null,
+      "original": "Eugepae ,",
+      "translation": "A fine thing , indeed ! You mention the Gods , who are absent , as witnesses ; how am I to believe you in that ?"
+    },
+    {
+      "id": "3.4.628",
+      "label": "Section 3.4.628",
+      "chapter": null,
+      "original": "Quia tibi in manu est quod credas , ego quod dicam , id mi in manust .",
+      "translation": "Why , it rests with your own self what to believe ; with myself , what to say , that rests with me ."
+    },
+    {
+      "id": "3.4.629",
+      "label": "Section 3.4.629",
+      "chapter": null,
+      "original": "De istac ré argutus es , ut par pari respondeas ,",
+      "translation": "On that point you are ready , so as to give answer like for like ;"
+    },
+    {
+      "id": "3.4.630",
+      "label": "Section 3.4.630",
+      "chapter": null,
+      "original": "ad mandata claudus caecus mutus mancus debilis .",
+      "translation": "but as to what you are requested , you are lame , blind , dumb , defective , and weak . You promised that you would trick my father ; I myself supposed that I was entrusting the matter to a skilful person , and I entrusted it to an utter stone ."
+    },
+    {
+      "id": "3.4.633",
+      "label": "Section 3.4.633",
+      "chapter": null,
+      "original": "Quid ego facerem ?",
+      "translation": "What could I do ?"
+    },
+    {
+      "id": "3.4.633b",
+      "label": "Section 3.4.633b",
+      "chapter": null,
+      "original": "Quid tu faceres ? men rogas ? requireres ,",
+      "translation": "What could you do , do you ask me ? You should have enquired , and asked who he was or whence he was , of what lineage ;"
+    },
+    {
+      "id": "3.4.635",
+      "label": "Section 3.4.635",
+      "chapter": null,
+      "original": "civisne esset an peregrinus .",
+      "translation": "whether he was a citizen or a foreigner —"
+    },
+    {
+      "id": "3.4.635b",
+      "label": "Section 3.4.635b",
+      "chapter": null,
+      "original": "Civem esse aibant Atticum .",
+      "translation": "They said that he was a citizen of Attica ."
+    },
+    {
+      "id": "3.4.636",
+      "label": "Section 3.4.636",
+      "chapter": null,
+      "original": "Vbi habitaret invenires saltem , si nomen nequis .",
+      "translation": "At least , you should have found out where he lives , if you couldn ’ t the name ."
+    },
+    {
+      "id": "3.4.637",
+      "label": "Section 3.4.637",
+      "chapter": null,
+      "original": "Nemo aiebat scire .",
+      "translation": "No person was able to say he knew ."
+    },
+    {
+      "id": "3.4.637b",
+      "label": "Section 3.4.637b",
+      "chapter": null,
+      "original": "At saltem hóminis faciem exquireres .",
+      "translation": "But at least you should have enquired what was the appearance of the man ."
+    },
+    {
+      "id": "3.4.638",
+      "label": "Section 3.4.638",
+      "chapter": null,
+      "original": "Feci .",
+      "translation": "I did do so ."
+    },
+    {
+      "id": "3.4.638b",
+      "label": "Section 3.4.638b",
+      "chapter": null,
+      "original": "Qua forma esse aiebant igitur ?",
+      "translation": "Of what figure , then , did they say he was ?"
+    },
+    {
+      "id": "3.4.638c",
+      "label": "Section 3.4.638c",
+      "chapter": null,
+      "original": "Ego dicam tibi :",
+      "translation": "I ’ ll tell you : grey-headed , bandy-legged , pot-bellied , wide-mouthed , of stunted figure ,"
+    },
+    {
+      "id": "3.4.640",
+      "label": "Section 3.4.640",
+      "chapter": null,
+      "original": "subnigris oculis , oblongis malis , pansam aliquantulum .",
+      "translation": "with darkish eyes , lank jaws , splay-footed rather ."
+    },
+    {
+      "id": "3.4.641",
+      "label": "Section 3.4.641",
+      "chapter": null,
+      "original": "Non hominem mihi , sed thensaurum nescio quem memoras mali .",
+      "translation": "You are mentioning to me not a human being , but a whole storehouse , I don ’ t know what , of deformities . Is there anything else that you can tell about him ?"
+    },
+    {
+      "id": "3.4.642b",
+      "label": "Section 3.4.642b",
+      "chapter": null,
+      "original": "Tantum , quod sciam .",
+      "translation": "It is just as much as I know ."
+    },
+    {
+      "id": "3.4.643",
+      "label": "Section 3.4.643",
+      "chapter": null,
+      "original": "Edepol ne ille oblongis malis mihi dedit magnum malum .",
+      "translation": "I ’ troth , for sure , with his lank jaws he has caused my jaw to drop [*] . I cannot endure it ; I ’ m determined that I ’ ll go hence in exile ."
+    },
+    {
+      "id": "3.4.645",
+      "label": "Section 3.4.645",
+      "chapter": null,
+      "original": "sed quam capiam civitatem , cogito , potissimum :",
+      "translation": "But what state in especial to repair to , I ’ m in doubt ; Megara , Eretria , Corinth , Chalcis , Crete , Cyprus , Sicyon , Cnidos , Zacynthus , Lesbos , or Bœotia ."
+    },
+    {
+      "id": "3.4.648",
+      "label": "Section 3.4.648",
+      "chapter": null,
+      "original": "Cur istuc coeptas consilium ?",
+      "translation": "Why are you adopting that design ?"
+    },
+    {
+      "id": "3.4.648b",
+      "label": "Section 3.4.648b",
+      "chapter": null,
+      "original": "Quia enim me adflictat amor .",
+      "translation": "Why , because love is tormenting me ."
+    },
+    {
+      "id": "3.4.649",
+      "label": "Section 3.4.649",
+      "chapter": null,
+      "original": "Quid tu ais ? quid cum illuc , quo nunc ire paritas , veneris ,",
+      "translation": "What say you as to this ? Suppose , if when you have arrived there , whither you are now intending to go ,"
+    },
+    {
+      "id": "3.4.650",
+      "label": "Section 3.4.650",
+      "chapter": null,
+      "original": "sí ibi amare forte occipias atque item eius sit inopia ,",
+      "translation": "you begin there to fall desperately in love , and there , too , you fail of success , then you ’ ll be taking flight from there as well , and after that , again , from another place , if the same shall happen , what bounds , pray , will be set to your exile , what limits to your flight ? What country or home can possibly be certain for you ? Tell me that . Say now , if you leave this city , do you fancy that you ’ ll leave your love here behind ?"
+    },
+    {
+      "id": "3.4.655",
+      "label": "Section 3.4.655",
+      "chapter": null,
+      "original": "si id fore ita sat animo acceptum est , certum id , pro certo si habes ,",
+      "translation": "If it is so fully taken as certain in your mind that so it will be , if you hold that as a point resolved upon , how much better is it for you to go away somewhere in the country , to be there , to live there , until the time when desire for her and passion have set you at liberty ?"
+    },
+    {
+      "id": "3.4.658",
+      "label": "Section 3.4.658",
+      "chapter": null,
+      "original": "Iam dixisti ?",
+      "translation": "Have you now said your say ?"
+    },
+    {
+      "id": "3.4.658b",
+      "label": "Section 3.4.658b",
+      "chapter": null,
+      "original": "Dixi .",
+      "translation": "I have said it ."
+    },
+    {
+      "id": "3.4.658c",
+      "label": "Section 3.4.658c",
+      "chapter": null,
+      "original": "Frustra dixti . hoc mihi certissumumst .",
+      "translation": "You have said it to no purpose ; this is my full determination . I ’ ll be off home , to pay my duty to my father and my mother ; after that ,"
+    },
+    {
+      "id": "3.4.660",
+      "label": "Section 3.4.660",
+      "chapter": null,
+      "original": "clam patrem patria hac effugiam , aut aliquid capiam consili .—",
+      "translation": "unknown to my father , I ’ ll fly from this country , or adopt some other plan ."
+    },
+    {
+      "id": "3.4.661",
+      "label": "Section 3.4.661",
+      "chapter": null,
+      "original": "Vt corripuit se repente atque abiit . heu misero mihi ,",
+      "translation": "How suddenly he has taken himself off and gone away . Ah ! wretch that I am ! if he goes away , all will say that it has happened through my remissness . I ’ m determined at once to order as many criers as possible to be hired to search for her to find her ; after that , I ’ ll go to the Praetor forthwith ,"
+    },
+    {
+      "id": "3.4.665",
+      "label": "Section 3.4.665",
+      "chapter": null,
+      "original": "ibo , orabo , ut conquaestores det mi in vicis omnibus ;",
+      "translation": "and beg him to give me search-warrant officers in all the quarters of the city ; for I find that nothing else whatever is now left for me to do ."
+    },
+    {
+      "id": "4.1.667",
+      "label": "Section 4.1.667",
+      "chapter": null,
+      "original": "Quoniam a viro ad me rus advenit nuntius ,",
+      "translation": "Since a messenger came to me in the country from my husband , that he couldn ’ t come into the country , I made up my mind , and came back to follow after him who fled from me ."
+    },
+    {
+      "id": "4.1.670",
+      "label": "Section 4.1.670",
+      "chapter": null,
+      "original": "sed anum non video consequi nostram Syram .",
+      "translation": "But ( looking round ) I don ’ t see our old woman Syra following . Aye , look , there she comes at last . ( Enter SYRA with a bundle of green sprigs .) Why don ’ t you go quicker ?"
+    },
+    {
+      "id": "4.1.672",
+      "label": "Section 4.1.672",
+      "chapter": null,
+      "original": "nequeo mecastor , tantum hoc onerist quod fero .",
+      "translation": "By my troth , I cannot ; so great is this burden that I ’ m carrying ."
+    },
+    {
+      "id": "4.1.673",
+      "label": "Section 4.1.673",
+      "chapter": null,
+      "original": "Quid oneris ?",
+      "translation": "What burden ?"
+    },
+    {
+      "id": "4.1.673b",
+      "label": "Section 4.1.673b",
+      "chapter": null,
+      "original": "Annos octoginta et quattuor ;",
+      "translation": "Fourscore years and four , and to that are added servitude , sweat , and thirst ;"
+    },
+    {
+      "id": "4.1.675",
+      "label": "Section 4.1.675",
+      "chapter": null,
+      "original": "simul haec quae porto deprimunt .",
+      "translation": "these things as well which I am carrying weigh me down ."
+    },
+    {
+      "id": "4.1.675b",
+      "label": "Section 4.1.675b",
+      "chapter": null,
+      "original": "Aliquid cedo",
+      "translation": "Give me something , Syra , with which to decorate this altar of our neighbour [*] ."
+    },
+    {
+      "id": "4.1.677",
+      "label": "Section 4.1.677",
+      "chapter": null,
+      "original": "da sane hanc virgam lauri . abi tu intro .",
+      "translation": "Present this sprig of laurel , then ."
+    },
+    {
+      "id": "4.1.677b",
+      "label": "Section 4.1.677b",
+      "chapter": null,
+      "original": "Eo .—",
+      "translation": "I ’ m going ."
+    },
+    {
+      "id": "4.1.678",
+      "label": "Section 4.1.678",
+      "chapter": null,
+      "original": "Apollo , quaeso te , ut des pacem propitius ,",
+      "translation": "Apollo , I pray thee that thou wilt propitiously grant peace , safety , and health , unto our household ,"
+    },
+    {
+      "id": "4.1.680",
+      "label": "Section 4.1.680",
+      "chapter": null,
+      "original": "meoque ut parcas gnato pace propitius .",
+      "translation": "and that in thy propitiousness thou wilt show favour to my son ."
+    },
+    {
+      "id": "4.1.681",
+      "label": "Section 4.1.681",
+      "chapter": null,
+      "original": "Disperii , perii misera , vae miserae mihi .",
+      "translation": "I ’ m utterly undone ! Wretch that I am , I ’ m ruined ! Ah ! wretched me !"
+    },
+    {
+      "id": "4.1.682",
+      "label": "Section 4.1.682",
+      "chapter": null,
+      "original": "Satin tu sana es , obsecro ? quid eiulas ?",
+      "translation": "Prithee , are you quite in your senses ? What are you howling for ?"
+    },
+    {
+      "id": "4.1.683",
+      "label": "Section 4.1.683",
+      "chapter": null,
+      "original": "Dorippa , mea Dorippa .",
+      "translation": "Dorippa , my dear Dorippa !"
+    },
+    {
+      "id": "4.1.683b",
+      "label": "Section 4.1.683b",
+      "chapter": null,
+      "original": "Quid clamas , obsecro ?",
+      "translation": "Prithee , why are you crying out ?"
+    },
+    {
+      "id": "4.1.684",
+      "label": "Section 4.1.684",
+      "chapter": null,
+      "original": "Nescio quaest mulier intus hic in aedibus .",
+      "translation": "Some woman , I know not who , is here in-doors in the house ."
+    },
+    {
+      "id": "4.1.685",
+      "label": "Section 4.1.685",
+      "chapter": null,
+      "original": "Quid , mulier ?",
+      "translation": "What ? A woman ?"
+    },
+    {
+      "id": "4.1.685b",
+      "label": "Section 4.1.685b",
+      "chapter": null,
+      "original": "Mulier meretrix .",
+      "translation": "A harlot woman ."
+    },
+    {
+      "id": "4.1.685c",
+      "label": "Section 4.1.685c",
+      "chapter": null,
+      "original": "Veron serio ?",
+      "translation": "Is it so , really ?"
+    },
+    {
+      "id": "4.1.686",
+      "label": "Section 4.1.686",
+      "chapter": null,
+      "original": "Nimium scis sapere , ruri quae non manseris .",
+      "translation": "In serious truth . You know how to act very prudently , in not remaining in the country . A fool even could have found it out that she was the mistress of your very pretty husband ."
+    }
+  ],
+  "prevChunkSlug": "the-merchant-1me99z-8",
+  "nextChunkSlug": "the-merchant-1me99z-10"
+}

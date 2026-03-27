@@ -1,0 +1,211 @@
+{
+  "loebNumber": 80,
+  "sortOrder": 80,
+  "slug": "plutarch-lives-volume-iv-lhuc0t",
+  "title": "Lives, Volume IV",
+  "volumeLabel": "Lives, Volume IV",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Lives, Volume IV. Lives, Volume IV opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "aemilius-paulus-h4r18r",
+  "readyChunkCount": 6,
+  "contents": [
+    {
+      "id": "lives-volume-iv-15nalc",
+      "title": "Lives, Volume IV",
+      "status": "ready",
+      "sectionCount": 270,
+      "chunkSlug": "aemilius-paulus-h4r18r",
+      "chunks": [
+        {
+          "slug": "aemilius-paulus-h4r18r",
+          "label": "Aemilius Paulus",
+          "partId": "lives-volume-iv-15nalc",
+          "partTitle": "Lives, Volume IV",
+          "sectionCount": 76,
+          "status": "ready"
+        },
+        {
+          "slug": "comparison-of-timoleon-and-aemilius-r8fasj",
+          "label": "Comparison of Timoleon and Aemilius",
+          "partId": "lives-volume-iv-15nalc",
+          "partTitle": "Lives, Volume IV",
+          "sectionCount": 4,
+          "status": "ready"
+        },
+        {
+          "slug": "pelopidas-sc3b8l",
+          "label": "Pelopidas",
+          "partId": "lives-volume-iv-15nalc",
+          "partTitle": "Lives, Volume IV",
+          "sectionCount": 70,
+          "status": "ready"
+        },
+        {
+          "slug": "marcellus-dwo0u6",
+          "label": "Marcellus",
+          "partId": "lives-volume-iv-15nalc",
+          "partTitle": "Lives, Volume IV",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "comparison-of-pelopidas-and-marcellus-14rkru",
+          "label": "Comparison of Pelopidas and Marcellus",
+          "partId": "lives-volume-iv-15nalc",
+          "partTitle": "Lives, Volume IV",
+          "sectionCount": 6,
+          "status": "ready"
+        },
+        {
+          "slug": "aristides-rzu0iq",
+          "label": "Aristides",
+          "partId": "lives-volume-iv-15nalc",
+          "partTitle": "Lives, Volume IV",
+          "sectionCount": 54,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "aemilius-paulus-h4r18r",
+      "label": "Aemilius Paulus",
+      "partId": "lives-volume-iv-15nalc",
+      "partTitle": "Lives, Volume IV",
+      "sectionCount": 76,
+      "status": "ready"
+    },
+    {
+      "slug": "comparison-of-timoleon-and-aemilius-r8fasj",
+      "label": "Comparison of Timoleon and Aemilius",
+      "partId": "lives-volume-iv-15nalc",
+      "partTitle": "Lives, Volume IV",
+      "sectionCount": 4,
+      "status": "ready"
+    },
+    {
+      "slug": "pelopidas-sc3b8l",
+      "label": "Pelopidas",
+      "partId": "lives-volume-iv-15nalc",
+      "partTitle": "Lives, Volume IV",
+      "sectionCount": 70,
+      "status": "ready"
+    },
+    {
+      "slug": "marcellus-dwo0u6",
+      "label": "Marcellus",
+      "partId": "lives-volume-iv-15nalc",
+      "partTitle": "Lives, Volume IV",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "comparison-of-pelopidas-and-marcellus-14rkru",
+      "label": "Comparison of Pelopidas and Marcellus",
+      "partId": "lives-volume-iv-15nalc",
+      "partTitle": "Lives, Volume IV",
+      "sectionCount": 6,
+      "status": "ready"
+    },
+    {
+      "slug": "aristides-rzu0iq",
+      "label": "Aristides",
+      "partId": "lives-volume-iv-15nalc",
+      "partTitle": "Lives, Volume IV",
+      "sectionCount": 54,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "aemilius-paulus-h4r18r",
+      "partTitle": "Lives, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Aemilius Paulus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg019.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Aemilius Paulus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg019.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "comparison-of-timoleon-and-aemilius-r8fasj",
+      "partTitle": "Lives, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Comparison of Timoleon and Aemilius",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg020.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Comparison of Timoleon and Aemilius",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg020.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pelopidas-sc3b8l",
+      "partTitle": "Lives, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πελοπίδας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg021.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pelopidas",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg021.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "marcellus-dwo0u6",
+      "partTitle": "Lives, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Μάρκελλος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg022.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Marcellus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg022.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "comparison-of-pelopidas-and-marcellus-14rkru",
+      "partTitle": "Lives, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πελοπίδου καὶ Μαρκέλλου σύγκρισις",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg023.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Comparison of Pelopidas and Marcellus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg023.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "aristides-rzu0iq",
+      "partTitle": "Lives, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀριστείδης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg024.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Aristides",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg024.perseus-eng2/"
+      }
+    }
+  ]
+}

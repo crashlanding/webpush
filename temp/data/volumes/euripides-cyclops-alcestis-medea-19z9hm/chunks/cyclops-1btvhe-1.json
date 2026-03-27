@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-cyclops-alcestis-medea-19z9hm",
+  "volumeTitle": "Cyclops. Alcestis. Medea",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "cyclops-1btvhe-1",
+  "label": "Cyclops (Section 1 - Section 129)",
+  "partId": "cyclops-1btvhe",
+  "partTitle": "Cyclops",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Κύκλωψ",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg001.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "The Cyclops",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg001.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1",
+      "label": "Section 1",
+      "chapter": null,
+      "original": "Ὦ Βρόμιε , διὰ σὲ μυρίους ἔχω πόνους",
+      "translation": "O Bromius , unnumbered are the toils I bear because of thee , no less now than when I was young and hale ; first , when thou wert driven mad by Hera and didst leave the mountain nymphs , thy nurses ;"
+    },
+    {
+      "id": "5",
+      "label": "Section 5",
+      "chapter": null,
+      "original": "ἔπειτά γ ’ ἀμφὶ γηγενῆ μάχην δορὸς",
+      "translation": "next , when in battle with earth-born spearmen I stood beside thee on the right as squire , and slew Enceladus , smiting him full in the middle of his targe with my spear . Come , though , let me see ; must I confess ’ twas all a dream ? No , by Zeus ! since I really showed his spoils to the Bacchic god ."
+    },
+    {
+      "id": "10",
+      "label": "Section 10",
+      "chapter": null,
+      "original": "καὶ νῦν ἐκείνων μείζον ’ ἐξαντλῶ πόνον .",
+      "translation": "And now am I enduring to the full a toil still worse than those . For when Hera sent forth a race of Tyrrhene pirates against thee , that thou mightest be smuggled far away , I , as soon as the news reached me , sailed in quest of thee with my children ; and , taking the helm"
+    },
+    {
+      "id": "15",
+      "label": "Section 15",
+      "chapter": null,
+      "original": "αὐτὸς λαβὼν ηὔθυνον ἀμφῆρες δόρυ ,",
+      "translation": "myself , I stood on the end of the stern and steered our trim craft ; and my sons , sitting at the oars , made the grey billows froth and foam as they sought thee , my liege . But just as we had come nigh Malea in our course , an east-wind blew upon the ship"
+    },
+    {
+      "id": "20",
+      "label": "Section 20",
+      "chapter": null,
+      "original": "ἐξέβαλεν ἡμᾶς τήνδ ’ ἐς Αἰτναίαν πέτραν ,",
+      "translation": "and drove us hither to the rock of Aetna , where in lonely caverns dwell the one-eyed children of ocean ’ s god , the murdering Cyclopes . Captured by one of them we are slaves in his house ; Polyphemus they call him whom we serve ;"
+    },
+    {
+      "id": "25",
+      "label": "Section 25",
+      "chapter": null,
+      "original": "Πολύφημον · ἀντὶ δ ’ εὐίων βακχευμάτων",
+      "translation": "and instead of Bacchic revelry we are herding a godless Cyclops ’ s flocks ; and so it is my children , striplings as they are , tend the young thereof on the edge of the downs ; while my appointed task is to stay here and fill the troughs and sweep out the cave ,"
+    },
+    {
+      "id": "30",
+      "label": "Section 30",
+      "chapter": null,
+      "original": "μένων τέταγμαι τάσδε , τῷδε δυσσεβεῖ",
+      "translation": "or wait upon the ungodly Cyclops at his impious feasts . His orders now compel obedience ; I have to scrape out his house with the rake you see , so as to receive the Cyclops , my absent master ,"
+    },
+    {
+      "id": "35",
+      "label": "Section 35",
+      "chapter": null,
+      "original": "καθαροῖσιν ἄντροις μῆλά τ ’ ἐσδεχώμεθα .",
+      "translation": "and his sheep in clean caverns ."
+    },
+    {
+      "id": "36",
+      "label": "Section 36",
+      "chapter": null,
+      "original": "ἤδη δὲ παῖδας προσνέμοντας εἰσορῶ",
+      "translation": "But already I see my children driving their browsing flocks towards me ."
+    },
+    {
+      "id": "37",
+      "label": "Section 37",
+      "chapter": null,
+      "original": "ποίμνας . τί ταῦτα ; μῶν κρότος σικινίδων",
+      "translation": "What means this ? is the beat of feet in the Sicinnis dance the same to you now as when ye attended the Bacchic god in his revelries"
+    },
+    {
+      "id": "40",
+      "label": "Section 40",
+      "chapter": null,
+      "original": "προσῇτ ’ ἀοιδαῖς βαρβίτων σαυλούμενοι ;",
+      "translation": "and made your way with dainty steps to the mask of lyres to the halls of Althaea ?"
+    },
+    {
+      "id": "41",
+      "label": "Section 41",
+      "chapter": null,
+      "original": "παῖ γενναίων μὲν πατέρων",
+      "translation": "Offspring of well-bred sires and dams , pray whither wilt thou be gone from me to the rocks ? Hast thou not here a gentle breeze ,"
+    },
+    {
+      "id": "45",
+      "label": "Section 45",
+      "chapter": null,
+      "original": "καὶ ποιηρὰ βοτάνα ;",
+      "translation": "and grass to browse , and water from the eddying stream set near the cave in troughs ? and are not thy young ones bleating for thee ?"
+    },
+    {
+      "id": "49",
+      "label": "Section 49",
+      "chapter": null,
+      "original": "— ψύττ ’· οὐ τᾷδ ’ οὔ ; οὐ τᾷδε νεμῇ",
+      "translation": "Pst ! pst ! wilt thou not browse here ,"
+    },
+    {
+      "id": "50",
+      "label": "Section 50",
+      "chapter": null,
+      "original": "κλιτὺν δροσεράν ;",
+      "translation": "here on the dewy slope ? Ho ? ho ! ere long will I cast a stone at thee . Away , away ! O horned one , to the fold-keeper of the Cyclops , the country-ranging shepherd ."
+    },
+    {
+      "id": "55",
+      "label": "Section 55",
+      "chapter": null,
+      "original": "σπαργῶντας μαστοὺς χάλασον ·",
+      "translation": "Loosen thy bursting udder ; welcome to thy teats the kids , whom thou leavest in the lambkins ’ pens . Those little bleating kids , asleep the livelong day , miss thee ;"
+    },
+    {
+      "id": "60",
+      "label": "Section 60",
+      "chapter": null,
+      "original": "εἰς αὐλὰν πότ ’ ἀμφιβαλεῖς",
+      "translation": "wilt then leave at last the rich grass pastures on the peaks of Aetna and enter the fold ?"
+    },
+    {
+      "id": "62a",
+      "label": "Section 62a",
+      "chapter": null,
+      "original": "— νύττ ’· οὐ τᾷδ ’ οὔ ; οὐ τᾷδε νεμῇ",
+      "translation": "⋯"
+    },
+    {
+      "id": "63",
+      "label": "Section 63",
+      "chapter": null,
+      "original": "οὐ τάδε Βρόμιος , οὐ τάδε χοροὶ",
+      "translation": "Here we have no Bromian god ; no dances here , or Bacchantes thyrsus-bearing ;"
+    },
+    {
+      "id": "65",
+      "label": "Section 65",
+      "chapter": null,
+      "original": "οὐ τυμπάνων ἀλαλαγμοὶ",
+      "translation": "no roll of drums , or drops of sparkling wine by gurgling founts ; nor is it now with Nymphs in Nysa I sing a song of Bacchus , Bacchus !"
+    },
+    {
+      "id": "70",
+      "label": "Section 70",
+      "chapter": null,
+      "original": "μέλπω πρὸς τὰν Ἀφροδίταν ,",
+      "translation": "to the queen of love , in quest of whom I once sped on with Bacchantes , white of foot ."
+    },
+    {
+      "id": "73",
+      "label": "Section 73",
+      "chapter": null,
+      "original": "ὦ φίλος ·",
+      "translation": "Dear friend , dear Bacchic god , whither art roaming alone ,"
+    },
+    {
+      "id": "75",
+      "label": "Section 75",
+      "chapter": null,
+      "original": "ποῖ ξανθὰν χαίταν σείεις ;",
+      "translation": "waving thy auburn locks , while I , thy minister , do service to the one-eyed Cyclops , a slave and wanderer I ,"
+    },
+    {
+      "id": "80",
+      "label": "Section 80",
+      "chapter": null,
+      "original": "σὺν τᾷδε τράγου χλαίνᾳ μελέᾳ",
+      "translation": "clad in this wretched goat-skin dress , severed from thy love ?"
+    },
+    {
+      "id": "82",
+      "label": "Section 82",
+      "chapter": null,
+      "original": "σιγήσατ ’, ὦ τέκν ’, ἄντρα δ ’ ἐς πετρηρεφῆ",
+      "translation": "Hush , children ! and bid our servants fold the flocks in the rock-roofed cavern ."
+    },
+    {
+      "id": "84",
+      "label": "Section 84",
+      "chapter": null,
+      "original": "χωρεῖτ ’· ἀτὰρ δὴ τίνα , πάτερ , σπουδὴν ἔχεις ;",
+      "translation": "( To Servants .) Away ! ( To Silenus .) But prithee , why such haste , father ?"
+    },
+    {
+      "id": "85",
+      "label": "Section 85",
+      "chapter": null,
+      "original": "ὁρῶ πρὸς ἀκταῖς ναὸς Ἑλλάδος σκάφος",
+      "translation": "I see the hull of a ship from Hellas at the shore , and men , that wield the oar , on their way to this cave with some chieftain . About their necks they carry empty vessels and pitchers for water ; they are in want of food . Luckless strangers !"
+    },
+    {
+      "id": "90",
+      "label": "Section 90",
+      "chapter": null,
+      "original": "τίνες ποτ ’ εἰσίν ; οὐκ ἴσασι δεσπότην",
+      "translation": "who can they be ? They know not what manner of man our master Polyphemus is , to have set foot here in his cheerless abode and come to the jaws of the cannibal Cyclops in an evil hour . But hold ye your peace , that we may inquire"
+    },
+    {
+      "id": "95",
+      "label": "Section 95",
+      "chapter": null,
+      "original": "πόθεν πάρεισι Σικελὸν Αἰτναῖον πάγον .",
+      "translation": "whence they come to the peak of Sicilian Aetna ."
+    },
+    {
+      "id": "96",
+      "label": "Section 96",
+      "chapter": null,
+      "original": "ξένοι , φράσαιτ ’ ἂν νᾶμα ποτάμιον πόθεν",
+      "translation": "Pray tell us , sirs , of some river-spring whence we might draw a draught to slake our thirst , or of someone willing to sell victuals to mariners in need ."
+    },
+    {
+      "id": "99",
+      "label": "Section 99",
+      "chapter": null,
+      "original": "-- τί χρῆμα ; Βρομίου πόλιν ἔοιγμεν ἐσβαλεῖν ·",
+      "translation": "Why , what is this ? We seem to have chanced upon a city of the Bromian god ;"
+    },
+    {
+      "id": "100",
+      "label": "Section 100",
+      "chapter": null,
+      "original": "Σατύρων πρὸς ἄντροις τόνδ ’ ὅμιλον εἰσορῶ .",
+      "translation": "here by the caves I see a group of Satyrs . To the eldest first I bid All hail !"
+    },
+    {
+      "id": "102",
+      "label": "Section 102",
+      "chapter": null,
+      "original": "χαῖρ ’, ὦ ξέν ’, ὅστις δ ’ εἶ φράσον πάτραν τε σήν .",
+      "translation": "All hail , sir ! tell me who thou art , and name thy country ."
+    },
+    {
+      "id": "103",
+      "label": "Section 103",
+      "chapter": null,
+      "original": "Ἴθακος Ὀδυσσεύς , γῆς Κεφαλλήνων ἄναξ .",
+      "translation": "Odysseus of Ithaca , king of the Cephallenians ’ land ."
+    },
+    {
+      "id": "104",
+      "label": "Section 104",
+      "chapter": null,
+      "original": "οἶδ ’ ἄνδρα , κρόταλον δριμύ , Σισύφου γένος .",
+      "translation": "I know him for a prating knave , one of Sisyphus ’ shrewd offspring ."
+    },
+    {
+      "id": "105",
+      "label": "Section 105",
+      "chapter": null,
+      "original": "ἐκεῖνος οὗτός εἰμι · λοιδόρει δὲ μή ·",
+      "translation": "I am the man ; abuse me not ."
+    },
+    {
+      "id": "106",
+      "label": "Section 106",
+      "chapter": null,
+      "original": "πόθεν Σικελίαν τήνδε ναυστολῶν πάρει ;",
+      "translation": "Whence hast thou sailed hither to Sicily ?"
+    },
+    {
+      "id": "107",
+      "label": "Section 107",
+      "chapter": null,
+      "original": "ἐξ Ἰλίου γε κἀπὸ Τρωικῶν πόνων .",
+      "translation": "From Ilium and the toils of Troy ."
+    },
+    {
+      "id": "108",
+      "label": "Section 108",
+      "chapter": null,
+      "original": "πῶς ; πορθμὸν οὐκ ᾔδησθα πατρῴας χθονός ;",
+      "translation": "How was that ? didst thou not know the passage to thy native land ?"
+    },
+    {
+      "id": "109",
+      "label": "Section 109",
+      "chapter": null,
+      "original": "ἀνέμων θύελλαι δεῦρό μ ’ ἥρπασαν βίᾳ .",
+      "translation": "Tempestuous winds drove me hither against my will ."
+    },
+    {
+      "id": "110",
+      "label": "Section 110",
+      "chapter": null,
+      "original": "παπαῖ · τὸν αὐτὸν δαίμον ’ ἐξαντλεῖς ἐμοί .",
+      "translation": "God wot ! thou art in the same plight as I am ."
+    },
+    {
+      "id": "111",
+      "label": "Section 111",
+      "chapter": null,
+      "original": "ἦ καὶ σὺ δεῦρο πρὸς βίαν ἀπεστάλης ;",
+      "translation": "Why , wert thou too drifted hither against thy will ?"
+    },
+    {
+      "id": "112",
+      "label": "Section 112",
+      "chapter": null,
+      "original": "λῃστὰς διώκων οἳ Βρόμιον ἀνήρπασαν .",
+      "translation": "I was , as I pursued the pirates who carried Bromius off ."
+    },
+    {
+      "id": "113",
+      "label": "Section 113",
+      "chapter": null,
+      "original": "τίς δ ’ ἥδε χώρα καὶ τίνες ναίουσί νιν ;",
+      "translation": "What land is this and who are its inhabitants ?"
+    },
+    {
+      "id": "114",
+      "label": "Section 114",
+      "chapter": null,
+      "original": "Αἰτναῖος ὄχθος Σικελίας ὑπέρτατος .",
+      "translation": "This is mount Aetna , the highest point in Sicily ."
+    },
+    {
+      "id": "115",
+      "label": "Section 115",
+      "chapter": null,
+      "original": "τείχη δὲ ποῦ ’ στι καὶ πόλεως πυργώματα ;",
+      "translation": "But where are the city-walls and ramparts ?"
+    },
+    {
+      "id": "116",
+      "label": "Section 116",
+      "chapter": null,
+      "original": "οὐκ εἴσ ’· ἔρημοι πρῶνες ἀνθρώπων , ξένε .",
+      "translation": "There are none ; the headlands , sir , are void of men ."
+    },
+    {
+      "id": "117",
+      "label": "Section 117",
+      "chapter": null,
+      "original": "τίνες δ ’ ἔχουσι γαῖαν ; ἦ θηρῶν γένος ;",
+      "translation": "Who then possess the land ? the race of wild creatures ?"
+    },
+    {
+      "id": "118",
+      "label": "Section 118",
+      "chapter": null,
+      "original": "Κύκλωπες , ἄντρ ’ ἔχοντες , οὐ στέγας δόμων .",
+      "translation": "The Cyclopes , who have caves , not roofed houses ."
+    },
+    {
+      "id": "119",
+      "label": "Section 119",
+      "chapter": null,
+      "original": "τίνος κλύοντες ; ἢ δεδήμευται κράτος ;",
+      "translation": "Obedient unto whom ? or is the power in the people ’ s hands ?"
+    },
+    {
+      "id": "120",
+      "label": "Section 120",
+      "chapter": null,
+      "original": "νομάδες · ἀκούει δ ’ οὐδὲν οὐδεὶς οὐδενός .",
+      "translation": "They are rovers ; no man obeys another in anything ."
+    },
+    {
+      "id": "121",
+      "label": "Section 121",
+      "chapter": null,
+      "original": "σπείρουσι δ ’— ἢ τῷ ζῶσι ;— Δήμητρος στάχυν ;",
+      "translation": "Do they sow Demeter ’ s grain , or on what do they live ?"
+    },
+    {
+      "id": "122",
+      "label": "Section 122",
+      "chapter": null,
+      "original": "γάλακτι καὶ τυροῖσι καὶ μήλων βορᾷ .",
+      "translation": "On milk and cheese and flesh of sheep ."
+    },
+    {
+      "id": "123",
+      "label": "Section 123",
+      "chapter": null,
+      "original": "Βρομίου δὲ πῶμ ’ ἔχουσιν , ἀμπέλου ῥοαῖς ;",
+      "translation": "Have they the drink of Bromius , the juice of the vine ?"
+    },
+    {
+      "id": "124",
+      "label": "Section 124",
+      "chapter": null,
+      "original": "ἥκιστα · τοιγὰρ ἄχορον οἰκοῦσι χθόνα .",
+      "translation": "No indeed ! and thus it is a joyless land they dwell in ."
+    },
+    {
+      "id": "125",
+      "label": "Section 125",
+      "chapter": null,
+      "original": "φιλόξενοι δὲ χὥσιοι περὶ ξένους ;",
+      "translation": "Are they hospitable and reverent towards strangers ?"
+    },
+    {
+      "id": "126",
+      "label": "Section 126",
+      "chapter": null,
+      "original": "γλυκύτατά φασι τὰ κρέα τοὺς ξένους φορεῖν .",
+      "translation": "Strangers , they say , supply the daintiest meat ."
+    },
+    {
+      "id": "127",
+      "label": "Section 127",
+      "chapter": null,
+      "original": "τί φῄς ; βορᾷ χαίρουσιν ἀνθρωποκτόνῳ ;",
+      "translation": "What , do they delight in killing men and eating them ?"
+    },
+    {
+      "id": "128",
+      "label": "Section 128",
+      "chapter": null,
+      "original": "οὐδεὶς μολὼν δεῦρ ’ ὅστις οὐ κατεσφάγη .",
+      "translation": "No one has ever arrived here without being butchered ."
+    },
+    {
+      "id": "129",
+      "label": "Section 129",
+      "chapter": null,
+      "original": "αὐτὸς δὲ Κύκλωψ ποῦ ’ στιν ; ἦ δόμων ἔσω ;",
+      "translation": "Where is the Cyclops himself ? inside his dwelling ?"
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": "cyclops-1btvhe-2"
+}

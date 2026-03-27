@@ -1,0 +1,91 @@
+{
+  "loebNumber": 543,
+  "sortOrder": 543,
+  "slug": "appian-roman-history-volume-v-15lwuh",
+  "title": "Roman History, Volume V",
+  "volumeLabel": "Roman History, Volume V",
+  "authorDisplay": "Appian",
+  "authors": [
+    "Appian"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Roman History, Volume V. Roman History, Volume V opens a closest available slice of Appianus of Alexandria on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "illyrian-wars-1vr8br",
+  "readyChunkCount": 2,
+  "contents": [
+    {
+      "id": "roman-history-volume-v-sl53kl",
+      "title": "Roman History, Volume V",
+      "status": "ready",
+      "sectionCount": 32,
+      "chunkSlug": "illyrian-wars-1vr8br",
+      "chunks": [
+        {
+          "slug": "illyrian-wars-1vr8br",
+          "label": "Illyrian Wars",
+          "partId": "roman-history-volume-v-sl53kl",
+          "partTitle": "Roman History, Volume V",
+          "sectionCount": 10,
+          "status": "ready"
+        },
+        {
+          "slug": "syrian-wars-az4oo1",
+          "label": "Syrian Wars",
+          "partId": "roman-history-volume-v-sl53kl",
+          "partTitle": "Roman History, Volume V",
+          "sectionCount": 22,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "illyrian-wars-1vr8br",
+      "label": "Illyrian Wars",
+      "partId": "roman-history-volume-v-sl53kl",
+      "partTitle": "Roman History, Volume V",
+      "sectionCount": 10,
+      "status": "ready"
+    },
+    {
+      "slug": "syrian-wars-az4oo1",
+      "label": "Syrian Wars",
+      "partId": "roman-history-volume-v-sl53kl",
+      "partTitle": "Roman History, Volume V",
+      "sectionCount": 22,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "illyrian-wars-1vr8br",
+      "partTitle": "Roman History, Volume V",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἰλλυρική",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg012.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Illyrian Wars",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "syrian-wars-az4oo1",
+      "partTitle": "Roman History, Volume V",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Συριακή",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg013.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Syrian Wars",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg013.perseus-eng2/"
+      }
+    }
+  ]
+}

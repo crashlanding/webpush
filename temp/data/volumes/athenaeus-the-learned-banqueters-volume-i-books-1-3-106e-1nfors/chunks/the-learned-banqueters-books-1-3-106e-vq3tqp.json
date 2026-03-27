@@ -1,0 +1,52 @@
+{
+  "volumeSlug": "athenaeus-the-learned-banqueters-volume-i-books-1-3-106e-1nfors",
+  "volumeTitle": "The Learned Banqueters, Volume I: Books 1-3.106e",
+  "authorDisplay": "Athenaeus",
+  "authors": [
+    "Athenaeus"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "the-learned-banqueters-books-1-3-106e-vq3tqp",
+  "label": "The Learned Banqueters: Books 1-3.106e",
+  "partId": "the-learned-banqueters-books-1-3-106e-vq3tqp",
+  "partTitle": "The Learned Banqueters: Books 1-3.106e",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Δειπνοσοφισταί",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0008.tlg001.perseus-grc3/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "The Deipnosophists",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0008.tlg001.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1",
+      "label": "Section 1.1",
+      "chapter": null,
+      "original": "Ἀθήναιος μὲν ὁ τῆς βίβλου πατήρ · ποιεῖται δὲ τὸν λόγον πρὸς Τιμοκράτην · Δειπνοσοφιστὴς δὲ ταύτῃ τὸ ὄνομα . ὑπόκειται δὲ τῷ λόγῳ Λαρήνσιος Ῥωμαῖος , ἀνὴρ τῇ τύχῃ περιφανής , τοὺς κατὰ πᾶσαν παιδείαν ἐμπειροτάτους ἐν τοῖς αὑτοῦ δαιτυμόνας ποιούμενος · ἐν οἷς οὐκ ἔσθ ’ οὗτινος τῶν καλλίστων οὐκ ἐμνημόνευσεν . ἰχθῦς τε γὰρ τῇ βίβλῳ ἐνέθετο καὶ τὰς τούτων χρείας καὶ τὰς τῶν ὀνομάτων ἀναπτύξεις καὶ λαχάνων γένη παντοῖα καὶ ζῴων παντοδαπῶν καὶ ἄνδρας ἱστορίας συγγεγραφότας καὶ ποιητὰς καὶ φιλοσόφους καὶ ὄργανα μουσικὰ καὶ σκωμμάτων εἴδη μυρία καὶ ἐκπωμάτων διαφορὰς καὶ πλούτους βασιλέων διηγήσατο καὶ νηῶν μεγέθη καὶ ὅσα ἄλλα οὐδ ’ ἂν εὐχερῶς ἀπομνημονεύσαιμι , ἢ ἐπιλίποι μ ’ ἂν ἡ ἡμέρα κατ ’ εἶδος διεξερχόμενον . καί ἐστιν ἡ τοῦ λόγου 2 οἰκονομία μίμημα τῆς τοῦ δείπνου πολυτελείας καὶ ἡ τῆς βίβλου διασκευὴ τῆς ἐν τῷ δείπνῳ παρασκευῆς . τοιοῦτον ὁ θαυμαστὸς οὗτος τοῦ λόγου οἰκονόμος Ἀθήναιος ἥδιστον λογόδειπνον εἰσηγεῖται κρείττων τε αὐτὸς ἑαυτοῦ γινόμενος , ὥσπερ οἱ Ἀθήνησι ῥήτορες , ὑπὸ τῆς ἐν τῷ λέγειν θερμότητος πρὸς τὰ ἑπόμενα τῆς βίβλου βαθμηδὸν ὑπεράλλεται .",
+      "translation": "The Character of Laurentius Hospitable and Liberal Men Those who have written about Feasts Epicures The Praises of Wine Names of Meals Fashions at Meals Dances Games Baths Partiality of the Greeks for Amusements Dancing and Dancers Use of some Words Exercise Kinds of Food Different kinds of Wine The Produce of various places Different Wines *** The first two Books , and a portion of the third , as is known to the scholar , exist only in Epitome ."
+    },
+    {
+      "id": "2.1",
+      "label": "Section 2.1",
+      "chapter": null,
+      "original": "τὸ πολὺ τῆς ἡμέρας προσεπιμετρεῖ τῷ ὕπνῳ . οὐκ εἴων με οἱ λόγοι , οὓς ἀπεμνημόνευσας , ὄντες ποικίλοι ὕπνῳ διδόναι σχολήν . οὐκ ἀπὸ σκοποῦ τοξεύειν . v.1.p.81 ὅτι τὸν οἶνον ὁ Κολοφώνιος Νίκανδρος ὠνομάσθαι φησὶν ἀπὸ Οἰνέως ( fr. 86 Sch )·\nΟἰνεὺς δ ’ ἐν κοίλοισιν ἀποθλίψας δεπάεσσιν οἶνον ἔκλησε .\nφησὶ δὲ καὶ Μελανιππίδης ὁ Μήλιος ( III 591\nB4 )· ἐπώνυμον , δέσποτ , οἶνον Οἰνέως . Ἑκαταῖος δ ’ ὁ Μιλήσιος τὴν ἄμπελον ἐν Αἰτωλίᾳ λέγων εὑρεθῆναί φησι καὶ τάδε ( FHG I 26 )· ‘ Ὀρεσθεὺς ὁ Δευκαλίωνος ἦλθεν εἰς Αἰτωλίαν ἐπὶ βασιλείᾳ , καὶ κύων αὐτοῦ στέλεχος ἔτεκε · καὶ ὃς ἐκέλευσεν αὐτὸ κατορυχθῆναι , καὶ ἐξ αὐτοῦ ἔφυ ἄμπελος πολυστάφυλος , διὸ καὶ τὸν αὑτοῦ παῖδα Φύτιον ἐκάλεσε . τούτου δ ’ Οἰνεὺς ἐγένετο κληθεὶς ἀπὸ τῶν ἀμπέλων .’ οἱ γὰρ παλαιοί , φησίν , Ἕλληνες οἴνας ἐκάλουν τὰς ἀμπέλους . ‘ Οἰνέως δ ’ ἐγένετο Αἰτωλός .’ Πλάτων δ ’ ἐν Κρατύλῳ ( p. 406 c ) ἐτυμολογῶν τὸν οἶνον οἰόνουν αὐτόν φησιν εἶναι διὰ τὸ οἰήσεως ἡμῶν τὸν νοῦν ἐμπιπλᾶν . ἢ τάχα ἀπὸ τῆς ὀνήσεως κέκληται · παρετυμολογῶν γὰρ Ὅμηρος τὴν φωνὴν ὧδέ πώς φησιν ( Z 260 )· ἔπειτα δὲ καὐτὸς ὀνήσεαι , αἴ κε πίῃσθα . καὶ γὰρ τὰ βρώματα ὀνείατα καλεῖν εἴωθεν ἀπὸ τοῦ ὀνίσκειν ἡμᾶς .",
+      "translation": "Wine Drinking The evils of Drunkenness Praises of Win Water Different kinds of Water Sweetmeats Couches and Coverlets Names of Fruits Fruit and Herbs . Lupins Names of Plants Eggs Gourds Mushrooms Asparagus Onions Thrushes-Brains The Head Pickle Cucumbers Lettuce The Cactus The Nile"
+    },
+    {
+      "id": "3.1",
+      "label": "Section 3.1",
+      "chapter": null,
+      "original": "Ὅτι Καλλίμαχος ὁ γραμματικὸς τὸ μέγα βιβλίον ἴσον ἔλεγεν εἶναι τῷ μεγάλῳ κακῷ ( fr. 359 ).\nΚΙΒΩΡΙΑ . Νίκανδρος ἐν Γεωργικοῖς ( fr. 81\nSchn )· σπείρειας κυάμων Αἰγύπτιον , ὄφρα θερείης ἀνθέων μὲν στεφάνους ἀνύσῃς , τὰ δὲ πεπτηῶτα ἀκμαίου καρποῖο κιβώρια δαινυμένοισιν εἰς χέρας ἠιθέοισι πάλαι ποθέουσιν ὀρέξῃς . ῥίζας δ ’ ἐν θοίνῃσιν ἀφεψήσας προτίθημι . v.1.p.170\nῥίζας δὲ λέγει Νίκανδρος τὰ ὑπ ’ Ἀλεξανδρέων κολοκάσια καλούμενα · ὡς ὁ αὐτός ( fr. 82 )· κυάμου λέψας κολοκάσιον ἐντμήξας τε . ἐστὶ δ ’ ἐν Σικυῶνι Κολοκασίας Ἀθηνᾶς ἱερόν .\nἐστὶ δὲ καὶ κιβώριον εἶδος ποτηρίου ( XI\n477e ).",
+      "translation": "Cucumbers Figs Apples Citrons Limpets Cockles Shell fish Oysters Pearls Tripe Pigs ' Feet Music at Banquets Puns on Words Banquets Dishes at Banquets Fish Shell fish Fish Cuttle-fish Bread Loaves Fish Water Drinking Drinking Snow Cheesecakes χόνδοος"
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": null
+}

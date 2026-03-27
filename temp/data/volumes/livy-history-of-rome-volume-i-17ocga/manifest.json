@@ -1,0 +1,61 @@
+{
+  "loebNumber": 114,
+  "sortOrder": 114,
+  "slug": "livy-history-of-rome-volume-i-17ocga",
+  "title": "History of Rome, Volume I",
+  "volumeLabel": "History of Rome, Volume I",
+  "authorDisplay": "Livy",
+  "authors": [
+    "Livy"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for History of Rome, Volume I. History of Rome, Volume I currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "history-of-rome-volume-i-cz2nbd",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "history-of-rome-volume-i-cz2nbd",
+      "title": "History of Rome, Volume I",
+      "status": "ready",
+      "sectionCount": 50,
+      "chunkSlug": "history-of-rome-volume-i-cz2nbd",
+      "chunks": [
+        {
+          "slug": "history-of-rome-volume-i-cz2nbd",
+          "label": "History of Rome, Volume I",
+          "partId": "history-of-rome-volume-i-cz2nbd",
+          "partTitle": "History of Rome, Volume I",
+          "sectionCount": 50,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "history-of-rome-volume-i-cz2nbd",
+      "label": "History of Rome, Volume I",
+      "partId": "history-of-rome-volume-i-cz2nbd",
+      "partTitle": "History of Rome, Volume I",
+      "sectionCount": 50,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "history-of-rome-volume-i-cz2nbd",
+      "partTitle": "History of Rome, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ab urbe condita",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0914.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The History of Rome",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0914.phi001.perseus-eng3/"
+      }
+    }
+  ]
+}

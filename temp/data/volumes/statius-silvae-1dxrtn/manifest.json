@@ -1,0 +1,27 @@
+{
+  "loebNumber": 206,
+  "sortOrder": 206,
+  "slug": "statius-silvae-1dxrtn",
+  "title": "Silvae",
+  "volumeLabel": "Silvae",
+  "authorDisplay": "Statius",
+  "authors": [
+    "Statius"
+  ],
+  "language": "latin",
+  "summary": "A catalog placeholder for Silvae. Scaife does not currently provide a confidently matchable original-and-English pair for this volume.",
+  "status": "placeholder",
+  "defaultChunkSlug": null,
+  "readyChunkCount": 0,
+  "contents": [
+    {
+      "id": "silvae-14yghi",
+      "title": "Silvae",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Silvae."
+    }
+  ],
+  "chunks": [],
+  "citations": []
+}

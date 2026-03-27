@@ -1,0 +1,45 @@
+{
+  "volumeSlug": "athenaeus-the-learned-banqueters-volume-vi-1iljz9",
+  "volumeTitle": "The Learned Banqueters, Volume VI",
+  "authorDisplay": "Athenaeus",
+  "authors": [
+    "Athenaeus"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "the-learned-banqueters-volume-vi-s7awgl",
+  "label": "The Learned Banqueters, Volume VI",
+  "partId": "the-learned-banqueters-volume-vi-s7awgl",
+  "partTitle": "The Learned Banqueters, Volume VI",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Δειπνοσοφισταί",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0008.tlg001.perseus-grc3/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "The Deipnosophists",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0008.tlg001.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "12.1",
+      "label": "Section 12.1",
+      "chapter": null,
+      "original": "Ἄνθρωπος εἶναί μοι Κυρηναῖος δοκεῖς , κατὰ τὸν Ἀλέξιδος Τυνδάρεων ( II 384 K ), ἑταῖρε Τιμόκρατες ·\nκἀκεῖ γὰρ ἄν τις ἐπὶ τὸ δεῖπνον ἕνα καλῇ , πάρεισιν ὀκτωκαίδεκ ’ ἄλλοι καὶ δέκα v.3.p.127 ἅρματα συνωρίδες τε πεντεκαίδεκα · τούτοις δὲ δεῖ σε τἀπιτήδει ’ ἐμβαλεῖν , ὥστ ’ ἦν κράτιστον μηδὲ καλέσαι μηδένα .\nκἀμοὶ δ ’ ἦν κράτιστον σιωπᾶν καὶ μὴ ἐπὶ τοσούτοις προειρημένοις ἕτερα προστιθέναι · ἀλλ ’ ἐπεὶ πάνυ λιπαρῶς ἡμᾶς ἀπαιτεῖς καὶ τὸν περὶ τῶν ἐπὶ τρυφῇ διαβοήτων γενομένων λόγον καὶ τῆς τούτων ἡδυπαθείας ...",
+      "translation": "Love of Pleasure Luxury of the Persians Profligacy of the Lydians Persian Customs The Sybarites The Tarentines The Milesians The Abydenes The Colophonians Luxury of the Syrians Of the Asiatic Kings Sardanapalus Philip The Pisistratidæ Alcibiades Pausanias Diomnestus Alexander Polycrates Agrigentum Lucullus Aristippus The Persian Epicurus Anaxarchus Ptolemy Euergetes The Lacedæmonians Cinesias Anointing Venus Callipyge ."
+    },
+    {
+      "id": "13.1",
+      "label": "Section 13.1",
+      "chapter": null,
+      "original": "Ἀντιφάνης ὁ κωμῳδιοποιός , ἑταῖρε Τιμόκρατες , ὡς ἀνεγίνωσκέ τινα τῷ βασιλεῖ Ἀλεξάνδρῳ τῶν ἑαυτοῦ κωμῳδιῶν , ὃ δὲ δῆλος ἦν οὐ πάνυ τι ἀποδεχόμενος , ‘ δεῖ γάρ , ἔφησεν , ὦ βασιλεῦ , τὸν ταῦτα ἀποδεξόμενον ἀπὸ συμβόλων τε πολλάκις δεδειπνηκέναι καὶ περὶ ἑταίρας πλεονάκις καὶ εἰληφέναι καὶ δεδωκέναι πληγάς ,’ ὥς φησι Λυκόφρων ὁ Χαλκιδεὺς ἐν τοῖς περὶ Κωμῳδίας ( fr. 13 Strecker ). ἡμεῖς οὖν τὸν περὶ ἐρωτικῶν λόγον v.3.p.225 ἐνταῦθα μέλλοντες κατατάττειν ( ἐγένοντο γὰρ καὶ περὶ γαμετῶν καὶ ἑταιρῶν πολλάκις λόγοι ) εἰδόσιν ἐκτιθέμενοι τὴν ἱστορίαν τῶν Μουσῶν τὴν Ἐρατὼ ἐπικαλεσάμενοι εἰς μνήμην ἡμῖν ἰέναι τὸν ἐρωτικὸν ἐκεῖνον κατάλογον , ἐντεῦθεν τὴν καταρχὴν ποιησόμεθα ( Apoll. Od. 3.1 )· εἰ δ ’ ἄγε νῦν , Ἐρατώ , πάρ θ ’ ἵστασο καί μοι ἔνισπε , τίνες λόγοι περὶ αὐτοῦ τοῦ ἔρωτος καὶ τῶν ἐρωτικῶν ἐλέχθησαν .",
+      "translation": "Lacedæmonian Marriages Hercules Rapacity of Courtesans Folly of Marrying Love Beauty Courtesans Hetær Courtesans Love Beauty of Women Praise of Modesty Faults of Philosophers Lending Money"
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": null
+}

@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-casina-the-casket-comedy-curculio-epidicus-the-two-menaechmuses-10u46k",
+  "volumeTitle": "Casina. The Casket Comedy. Curculio. Epidicus. The Two Menaechmuses",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "curculio-ad3oao-5",
+  "label": "Curculio (Section 2.3.295 - Section 2.3.370b)",
+  "partId": "curculio-ad3oao",
+  "partTitle": "Curculio",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Curculio",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi008.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Curculio, or The Forgery",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi008.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "2.3.295",
+      "label": "Section 2.3.295",
+      "chapter": null,
+      "original": "ex unoquoque eorum exciam crépitum polentarium .",
+      "translation": "from every single one of them I ’ ll squeeze out a belch from their pearled-barley diet [*] . And then those servants of your dainty townsmen [*] , who are playing at catch-ball in the road , both throwers and catchers , all of them I ’ ll pitch under foot . Would they avoid a mishap , why then , let them keep at home ."
+    },
+    {
+      "id": "2.3.299",
+      "label": "Section 2.3.299",
+      "chapter": null,
+      "original": "Recte hic monstrat , si imperare possit . nam ita nunc mos viget ,",
+      "translation": "He points out aright , he only requires that he should speak with authority ; for such manners are in vogue in the present day ,"
+    },
+    {
+      "id": "2.3.300",
+      "label": "Section 2.3.300",
+      "chapter": null,
+      "original": "ita nunc servitiumst : profecto modus haberi non potest .",
+      "translation": "such at present are the slaves ; really , control cannot be held over them ."
+    },
+    {
+      "id": "2.3.301",
+      "label": "Section 2.3.301",
+      "chapter": null,
+      "original": "Ecquis est qui mihi commonstret Phaedromum genium meum ?",
+      "translation": "Is there any one , I wonder , who can point out to me Phaedromus , my good Genius ? The matter is of such pressing nature , I really must meet with the man this instant ."
+    },
+    {
+      "id": "2.3.303",
+      "label": "Section 2.3.303",
+      "chapter": null,
+      "original": "Te ille quaerit .",
+      "translation": "He ’ s looking for you ."
+    },
+    {
+      "id": "2.3.303b",
+      "label": "Section 2.3.303b",
+      "chapter": null,
+      "original": "Quid si adeamus ? heus , Curculio , te volo .",
+      "translation": "What if we accost him ? ( Aloud .) Hallo ! Curculio , I want you ."
+    },
+    {
+      "id": "2.3.304",
+      "label": "Section 2.3.304",
+      "chapter": null,
+      "original": "Quis vocat ? quis nominat me ?",
+      "translation": "Who ’ s calling me ? Who ’ s mentioning my name ?"
+    },
+    {
+      "id": "2.3.304b",
+      "label": "Section 2.3.304b",
+      "chapter": null,
+      "original": "Qui te conventum cupit .",
+      "translation": "One who wishes to meet with you ."
+    },
+    {
+      "id": "2.3.305",
+      "label": "Section 2.3.305",
+      "chapter": null,
+      "original": "Haud magis me cupis quam ego te cupio .",
+      "translation": "You don ’ t wish more for me than I wish for you ."
+    },
+    {
+      "id": "2.3.305b",
+      "label": "Section 2.3.305b",
+      "chapter": null,
+      "original": "O mea opportunitas ,",
+      "translation": "O my own ready occasion , Curculio , much longed-for , greetings to you ."
+    },
+    {
+      "id": "2.3.306b",
+      "label": "Section 2.3.306b",
+      "chapter": null,
+      "original": "Salve .",
+      "translation": "Greetings to you ."
+    },
+    {
+      "id": "2.3.306c",
+      "label": "Section 2.3.306c",
+      "chapter": null,
+      "original": "Salvom gaudeo",
+      "translation": "I ’ m glad that you have arrived safe ; give me your right hand . How stand my hopes ? Troth now , prithee , do speak out ."
+    },
+    {
+      "id": "2.3.308b",
+      "label": "Section 2.3.308b",
+      "chapter": null,
+      "original": "Eloquere , te óbsecro , ubi súnt meae ?",
+      "translation": "To you , troth now , prithee , do speak out , how stand my own . ( Makes curious gestures .)"
+    },
+    {
+      "id": "2.3.309",
+      "label": "Section 2.3.309",
+      "chapter": null,
+      "original": "Quid tibist ?",
+      "translation": "What ’ s the matter with you ?"
+    },
+    {
+      "id": "2.3.309b",
+      "label": "Section 2.3.309b",
+      "chapter": null,
+      "original": "Tenebrae oboriuntur , genua inedia succidunt .",
+      "translation": "A dimness is beginning to come , my knees are failing through fasting ."
+    },
+    {
+      "id": "2.3.310",
+      "label": "Section 2.3.310",
+      "chapter": null,
+      "original": "Lassitudine hercle credo .",
+      "translation": "I ’ faith , through lassitude , I think ."
+    },
+    {
+      "id": "2.3.310b",
+      "label": "Section 2.3.310b",
+      "chapter": null,
+      "original": "Retine , retine me , obsecro .",
+      "translation": "Support me , prithee , do support me ."
+    },
+    {
+      "id": "2.3.311",
+      "label": "Section 2.3.311",
+      "chapter": null,
+      "original": "Viden ut expálluit ? datin isti sellam , ubi assidat , cito",
+      "translation": "See how pale he has turned ; will you give him a seat , for him to be seated at once , and an ewer with some water ? Will you make haste , this very instant ?"
+    },
+    {
+      "id": "2.3.312b",
+      "label": "Section 2.3.312b",
+      "chapter": null,
+      "original": "Animo male est .",
+      "translation": "I ’ m faint ."
+    },
+    {
+      "id": "2.3.313",
+      "label": "Section 2.3.313",
+      "chapter": null,
+      "original": "Vin aquam ?",
+      "translation": "Would you like some water ?"
+    },
+    {
+      "id": "2.3.313b",
+      "label": "Section 2.3.313b",
+      "chapter": null,
+      "original": "Si frustulenta est , da , obsecro hercle , obsorbeam .",
+      "translation": "If it ’ s full of bits [*] of meat , prithee , give it me to swallow down , i ’ faith ."
+    },
+    {
+      "id": "2.3.314",
+      "label": "Section 2.3.314",
+      "chapter": null,
+      "original": "Vae capiti tuo .",
+      "translation": "Woe be to that head of yours ."
+    },
+    {
+      "id": "2.3.314b",
+      "label": "Section 2.3.314b",
+      "chapter": null,
+      "original": "Obsecro hercle , facite ventum ut gaudeam .",
+      "translation": "Troth now , prithee do give me cause to rejoice at my arrival [*] ."
+    },
+    {
+      "id": "2.3.315",
+      "label": "Section 2.3.315",
+      "chapter": null,
+      "original": "Maxume .",
+      "translation": "By all means ."
+    },
+    {
+      "id": "2.3.315b",
+      "label": "Section 2.3.315b",
+      "chapter": null,
+      "original": "Quid facitis , quaeso ?",
+      "translation": "Prithee , what ’ s this you ’ re about ."
+    },
+    {
+      "id": "2.3.315c",
+      "label": "Section 2.3.315c",
+      "chapter": null,
+      "original": "Ventum .",
+      "translation": "Some air ."
+    },
+    {
+      "id": "2.3.315d",
+      "label": "Section 2.3.315d",
+      "chapter": null,
+      "original": "Nolo equidem mihi",
+      "translation": "Really , for my part , I don ’ t want a breath to be raised ."
+    },
+    {
+      "id": "2.3.316b",
+      "label": "Section 2.3.316b",
+      "chapter": null,
+      "original": "Quid igitur vis ?",
+      "translation": "What then ?"
+    },
+    {
+      "id": "2.3.316c",
+      "label": "Section 2.3.316c",
+      "chapter": null,
+      "original": "Esse , ut ventum gaudeam .",
+      "translation": "To eat , that I may rejoice on my arrival ."
+    },
+    {
+      "id": "2.3.317",
+      "label": "Section 2.3.317",
+      "chapter": null,
+      "original": "Iuppiter te dique perdant .",
+      "translation": "May Jupiter and the Deities confound you ."
+    },
+    {
+      "id": "2.3.317b",
+      "label": "Section 2.3.317b",
+      "chapter": null,
+      "original": "Perii , prospicio parum ,",
+      "translation": "I ’ m quite undone ; I can hardly see ;"
+    },
+    {
+      "id": "2.3.318",
+      "label": "Section 2.3.318",
+      "chapter": null,
+      "original": "gramarum habeo dentes plenos , lippiunt fauces fame ,",
+      "translation": "my mouth is bitter ; my teeth , I find , are blunted [*] ; my jaws are clammy through fasting ; with my entrails thus lank with abstinence from food am I come ."
+    },
+    {
+      "id": "2.3.320",
+      "label": "Section 2.3.320",
+      "chapter": null,
+      "original": "Iám edes aliquid .",
+      "translation": "You shall eat something just now ."
+    },
+    {
+      "id": "2.3.320b",
+      "label": "Section 2.3.320b",
+      "chapter": null,
+      "original": "Nolo hercle aliquid : certum quam aliquid mavolo .",
+      "translation": "I ’ faith , I don ’ t want something ; I ’ d rather have what ’ s fixed for certain , than your something ."
+    },
+    {
+      "id": "2.3.321",
+      "label": "Section 2.3.321",
+      "chapter": null,
+      "original": "Immo si scias , reliquiae quae sint .",
+      "translation": "Aye , but if you only knew what has been put by for you ."
+    },
+    {
+      "id": "2.3.321b",
+      "label": "Section 2.3.321b",
+      "chapter": null,
+      "original": "Scire nímis lubet",
+      "translation": "I ’ d very much like to know where it is ; for really it ’ s necessary for it and my teeth to make acquaintance ."
+    },
+    {
+      "id": "2.3.323",
+      "label": "Section 2.3.323",
+      "chapter": null,
+      "original": "Pernam , abdomen , sumen sueris , glandium —",
+      "translation": "A gammon of bacon , a sow ’ s stomach , some udder and kernels of the throat ."
+    },
+    {
+      "id": "2.3.323b",
+      "label": "Section 2.3.323b",
+      "chapter": null,
+      "original": "Ain tu omnia haec ?",
+      "translation": "What , all this do you say ? Perhaps you mean that they are in the flesh-market ?"
+    },
+    {
+      "id": "2.3.324b",
+      "label": "Section 2.3.324b",
+      "chapter": null,
+      "original": "Immo in lancibus ,",
+      "translation": "In the dishes , I mean ; they ’ ve been got ready for you , since we knew that you were about to arrive ."
+    },
+    {
+      "id": "2.3.325b",
+      "label": "Section 2.3.325b",
+      "chapter": null,
+      "original": "Vide",
+      "translation": "Take care you don ’ t be fooling me ."
+    },
+    {
+      "id": "2.3.326b",
+      "label": "Section 2.3.326b",
+      "chapter": null,
+      "original": "Ita me amabit quám ego amo , ut ego haud mentior .",
+      "translation": "So may the fair one love me whom I love , I don ’ t say what ’ s false . But as to what I sent you upon I ’ m none the wiser yet ."
+    },
+    {
+      "id": "2.3.327b",
+      "label": "Section 2.3.327b",
+      "chapter": null,
+      "original": "Nihil attuli .",
+      "translation": "I ’ ve brought back nothing ."
+    },
+    {
+      "id": "2.3.328",
+      "label": "Section 2.3.328",
+      "chapter": null,
+      "original": "Perdidisti me .",
+      "translation": "You ’ ve undone me ."
+    },
+    {
+      "id": "2.3.328b",
+      "label": "Section 2.3.328b",
+      "chapter": null,
+      "original": "Invenire possum , si mi operam datis .",
+      "translation": "I can find something , if you ’ ll give me your attention . After , at your request , I had set out , I arrived in Caria ;"
+    },
+    {
+      "id": "2.3.330",
+      "label": "Section 2.3.330",
+      "chapter": null,
+      "original": "video tuom sodalem , argenti rogo uti faciat copiam .",
+      "translation": "I saw your friend ; I asked him to make me a loan of some money . In answer , you were to know that he was willing to oblige you ; he didn ’ t wish to disappoint you , as it is only proper that a person who is a friend should be ready , and should assist his friend . In a few words he answered me , and quite in confidence , that he also was in the same extreme want of money as yourself ."
+    },
+    {
+      "id": "2.3.335",
+      "label": "Section 2.3.335",
+      "chapter": null,
+      "original": "Perdis me tuis dictis .",
+      "translation": "By your words you ensure my undoing ."
+    },
+    {
+      "id": "2.3.335b",
+      "label": "Section 2.3.335b",
+      "chapter": null,
+      "original": "Immo servo et servatum volo .",
+      "translation": "Why no ; I ’ m saving you , and wish you to be saved . After this answer was given me , I went away from him to the Forum , in sorrow that I had applied to him in vain . By accident I espied a military officer ; this person I accosted , and as I approached I saluted him . Save you , said he to me , took my right hand , drew me aside , and asked me why I had come to Caria ."
+    },
+    {
+      "id": "2.3.340",
+      "label": "Section 2.3.340",
+      "chapter": null,
+      "original": "dico me illo advenisse animi causa . ibi me interrogat ,",
+      "translation": "I said that I had come there for the sake of amusement . Upon this he asked me whether I knew a certain Lyco , a banker of Epidaurus . I said I knew him . Well , and the Procurer Cappadox ? I answered yes , that I had seen him . But what do you want of him ? said I . Because , said he , I bought of him a girl for thirty minae , her clothes and golden jewels too ; and for these last ten minae more are added ."
+    },
+    {
+      "id": "2.3.345",
+      "label": "Section 2.3.345",
+      "chapter": null,
+      "original": "dédisti tu argentum ? inquam . “ ímmo ápud trapezitam situm est",
+      "translation": "Have you paid the money ? said I . No , said he ; it is lodged with this Lyco the banker , whom I was mentioning , and I ’ ve instructed him that the person who should bring a letter sealed with my own ring , to him he was to give his services , that he might receive the damsel , with her jewels of gold and her clothes , from the Procurer . After he told me this , I was going away from him . At once he called me back ,"
+    },
+    {
+      "id": "2.3.350",
+      "label": "Section 2.3.350",
+      "chapter": null,
+      "original": "vocat me ad cenam ; religio fuit , denegare nolui .",
+      "translation": "invited me to dinner ; it was a point of conscience , I was unwilling to refuse him . What if we go off home , and take our places at table ? said he . The suggestion pleased me ; it is neither proper to lengthen out the day , nor to curtail the night . Everything was prepared , and we , for whom it was prepared , were at our places . After we had dined and well drunk , he asked for the dice to be fetched him ."
+    },
+    {
+      "id": "2.3.355",
+      "label": "Section 2.3.355",
+      "chapter": null,
+      "original": "provocat me in aleam , ut ego ludam : pono pallium ;",
+      "translation": "He challenged me to play with him a game of hazard . I staked my cloak , he staked his ring against it ; he called on the name [*] of Planesium ."
+    },
+    {
+      "id": "2.3.357",
+      "label": "Section 2.3.357",
+      "chapter": null,
+      "original": "Meosne amores ?",
+      "translation": "What , my mistress ?"
+    },
+    {
+      "id": "2.3.357b",
+      "label": "Section 2.3.357b",
+      "chapter": null,
+      "original": "Tace parumper . iacit volturios quattuor .",
+      "translation": "Be silent a while . He threw a most losing cast [*] . I took up the dice , and invoked Hercules as my genial patron [*] ; I threw a first-rate cast [*] , and pledged him in a bumping cup ; in return he drank it off ,"
+    },
+    {
+      "id": "2.3.360",
+      "label": "Section 2.3.360",
+      "chapter": null,
+      "original": "caput deponit , condormiscit . ego ei subduco anulum ,",
+      "translation": "reclined his head , and fell fast asleep . I slily took away from him the ring , and took my legs quietly from off the couch , so that the Captain mightn ’ t perceive it . The servants enquired whither I was going ; I said that I was going whither persons when full are wont to go . When I beheld the door , at once on the instant I betook myself away from the place ."
+    },
+    {
+      "id": "2.3.364",
+      "label": "Section 2.3.364",
+      "chapter": null,
+      "original": "Laudo .",
+      "translation": "I commend you ."
+    },
+    {
+      "id": "2.3.364b",
+      "label": "Section 2.3.364b",
+      "chapter": null,
+      "original": "Laudato quando illud quod cupis effecero .",
+      "translation": "Commend me when I ’ ve brought this thing about which you desire . Now let ’ s go indoors , that we may seal the letter ."
+    },
+    {
+      "id": "2.3.365b",
+      "label": "Section 2.3.365b",
+      "chapter": null,
+      "original": "Num moror ?",
+      "translation": "Do I delay you ?"
+    },
+    {
+      "id": "2.3.366",
+      "label": "Section 2.3.366",
+      "chapter": null,
+      "original": "Atque aliquid prius obstrudamus , pernam , sumen , glandium ,",
+      "translation": "But let ’ s cram down something first , the gammon , the udder , and the kernels ; these are the foundations for the stomach , with bread and roast beef , a good-sized cup and a capacious pot , that counsel enough may be forthcoming . Do you , yourself , seal the letter ; he ’ ll do the honors ( pointing to PALINURUS ) while I am eating ."
+    },
+    {
+      "id": "2.3.370",
+      "label": "Section 2.3.370",
+      "chapter": null,
+      "original": "dicam quem ad modum conscribas . sequere me hac intro .",
+      "translation": "I ’ ll dictate after what fashion you ’ re to write . Follow me this way , in-doors ."
+    },
+    {
+      "id": "2.3.370b",
+      "label": "Section 2.3.370b",
+      "chapter": null,
+      "original": "Sequor .—",
+      "translation": "I follow ."
+    }
+  ],
+  "prevChunkSlug": "curculio-ad3oao-4",
+  "nextChunkSlug": "curculio-ad3oao-6"
+}

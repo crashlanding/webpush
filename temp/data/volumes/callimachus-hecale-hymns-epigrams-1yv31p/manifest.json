@@ -1,0 +1,105 @@
+{
+  "loebNumber": 129,
+  "sortOrder": 129,
+  "slug": "callimachus-hecale-hymns-epigrams-1yv31p",
+  "title": "Hecale. Hymns. Epigrams",
+  "volumeLabel": "Hecale. Hymns. Epigrams",
+  "authorDisplay": "Callimachus",
+  "authors": [
+    "Callimachus"
+  ],
+  "language": "greek",
+  "summary": "1 of 3 contents in Hecale. Hymns. Epigrams are live from Scaife, while the remaining contents stay visible until a confident pair is available.",
+  "status": "partial",
+  "defaultChunkSlug": "epigrams-1pg7p3-1",
+  "readyChunkCount": 2,
+  "contents": [
+    {
+      "id": "hecale-zolalw",
+      "title": "Hecale",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Hecale."
+    },
+    {
+      "id": "hymns-15sroh",
+      "title": "Hymns",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Hymns."
+    },
+    {
+      "id": "epigrams-1pg7p3",
+      "title": "Epigrams",
+      "status": "ready",
+      "sectionCount": 109,
+      "chunkSlug": "epigrams-1pg7p3-1",
+      "chunks": [
+        {
+          "slug": "epigrams-1pg7p3-1",
+          "label": "Epigrams (Section 1.1 - Section 12.3)",
+          "partId": "epigrams-1pg7p3",
+          "partTitle": "Epigrams",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "epigrams-1pg7p3-2",
+          "label": "Epigrams (Section 12.4 - Section 17.4)",
+          "partId": "epigrams-1pg7p3",
+          "partTitle": "Epigrams",
+          "sectionCount": 49,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "epigrams-1pg7p3-1",
+      "label": "Epigrams (Section 1.1 - Section 12.3)",
+      "partId": "epigrams-1pg7p3",
+      "partTitle": "Epigrams",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "epigrams-1pg7p3-2",
+      "label": "Epigrams (Section 12.4 - Section 17.4)",
+      "partId": "epigrams-1pg7p3",
+      "partTitle": "Epigrams",
+      "sectionCount": 49,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "epigrams-1pg7p3-1",
+      "partTitle": "Epigrams",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὁμήρου ἐπιγράμματα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0012.tlg003.perseus-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Epigrams",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0012.tlg003.perseus-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "epigrams-1pg7p3-2",
+      "partTitle": "Epigrams",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὁμήρου ἐπιγράμματα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0012.tlg003.perseus-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Epigrams",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0012.tlg003.perseus-eng1/"
+      }
+    }
+  ]
+}

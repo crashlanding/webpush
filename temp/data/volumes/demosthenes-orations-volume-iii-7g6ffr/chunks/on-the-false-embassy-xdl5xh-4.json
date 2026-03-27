@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "demosthenes-orations-volume-iii-7g6ffr",
+  "volumeTitle": "Orations, Volume III",
+  "authorDisplay": "Demosthenes",
+  "authors": [
+    "Demosthenes"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "on-the-false-embassy-xdl5xh-4",
+  "label": "On the False Embassy (Section 186 - Section 245)",
+  "partId": "orations-volume-iii-1lkkge",
+  "partTitle": "Orations, Volume III",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "περὶ τῆς παραπρεσβείας",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg019.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "On the Embassy",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg019.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "186",
+      "label": "Section 186",
+      "chapter": null,
+      "original": "ἐφʼ ἅπασι δὲ τούτοις , ἐπειδὰν καὶ δεδογμένον ᾖ καὶ συμφέρον ἤδη φαίνηται , χρόνον δεῖ δοθῆναι τῇ τῶν πολλῶν ἀδυναμίᾳ , ἐν ᾧ καὶ ποριοῦνται ταῦθʼ ὧν ἂν δέωνται , ὅπως τὰ δόξαντα καὶ δυνηθῶσι ποιῆσαι . ὁ δὴ τοὺς χρόνους τούτους ἀναιρῶν τῆς οἵα παρʼ ἡμῖν ἐστι πολιτείας , οὐ χρόνους ἀνῄρηκεν οὗτος , οὔ , ἀλλὰ τὰ πράγμαθʼ ἁπλῶς ἀφῄρηται .",
+      "translation": "and even then , after all these proceedings , when a decision has been formed , and its propriety demonstrated , further time must be granted to the poverty of the populace for the provision of whatever is needed , to enable them to execute the decision . Surely the man who , under a constitution like ours , destroys the opportunities for this procedure , has not destroyed opportunities merely ; he has absolutely robbed us of our control over affairs ."
+    },
+    {
+      "id": "187",
+      "label": "Section 187",
+      "chapter": null,
+      "original": "ἔστι τοίνυν τις πρόχειρος λόγος πᾶσι τοῖς ἐξαπατᾶν ὑμᾶς βουλομένοις , οἱ ταράττοντες τὴν πόλιν , οἱ διακωλύοντες Φίλιππον εὖ ποιῆσαι τὴν πόλιν . πρὸς οὓς ἐγὼ λόγον μὲν οὐδένʼ ἐρῶ , τὰς δʼ ἐπιστολὰς ὑμῖν ἀναγνώσομαι τὰς τοῦ Φιλίππου , καὶ τοὺς καιροὺς ἐφʼ ὧν ἕκαστʼ ἐξηπάτησθʼ ὑπομνήσω , ἵνʼ εἰδῆθʼ ὅτι τὸ ψυχρὸν τοῦτʼ ὄνομα , τὸ ἄχρι κόρου , παρελήλυθʼ ἐκεῖνος φενακίζων ὑμᾶς .\nΕΠΙΣΤΟΛΑΙ ΦΙΛΙΠΠΟΥ .",
+      "translation": "Now there is an easy phrase at the disposal of every one who wishes to delude you : The disturbers of the commonwealth ; the thwarters of Philip ’ s public benefactions . I will not say a word in reply ; I will only read to you Philip ’ s letters , and remind you of the several occasions of your deception , to show how the Benefactor has forfeited by his beguilements that frigid and nauseating title .\n( The Letters of Philip are read )"
+    },
+    {
+      "id": "188",
+      "label": "Section 188",
+      "chapter": null,
+      "original": "οὕτω τοίνυν αἰσχρὰ καὶ πολλὰ καὶ πάντα καθʼ ὑμῶν πεπρεσβευκὼς περιιὼν λέγει , τί δʼ ἂν εἴποις περὶ Δημοσθένους , ὃς τῶν συμπρέσβεων κατηγορεῖ ; νὴ Δίʼ , εἴτε βούλομαί γʼ εἴτε μή , παρʼ ὅλην μὲν τὴν ἀποδημίαν ὑπὸ σοῦ τοιαῦτʼ ἐπιβεβουλευμένος , δυοῖν δʼ αἱρέσεως οὔσης μοι νυνί , ἢ τοιούτων ὄντων τῶν πεπραγμένων δοκεῖν κοινωνεῖν ὑμῖν , ἢ κατηγορεῖν .",
+      "translation": "Although so many , indeed all , of his acts on embassy were so discreditable and unpatriotic , he goes about asking : And what are we to say of Demosthenes , who denounces his own colleagues ? Yes , indeed ; I do and must denounce them , willingly or unwillingly , having been the victim of your machinations throughout the expedition , and being now reduced to the alternative of appearing as either the accomplice or the accuser of your crimes ."
+    },
+    {
+      "id": "189",
+      "label": "Section 189",
+      "chapter": null,
+      "original": "ἐγὼ δʼ οὐδὲ συμπεπρεσβευκέναι φημί σοι , πρεσβεύειν μέντοι σὲ μὲν πολλὰ καὶ δεινά , ἐμαυτὸν δʼ ὑπὲρ τουτωνὶ τὰ βέλτιστα . ἀλλὰ Φιλοκράτης σοι συμπεπρέσβευκε , κἀκείνῳ σύ , καὶ Φρύνων · ὑμεῖς γὰρ ταὔτʼ ἐπράττετε , καὶ ταὐτὰ πᾶσιν ὑμῖν ἤρεσκεν . ποῦ δʼ ἅλες ; ποῦ τράπεζα ; ποῦ σπονδαί ; ταῦτα γὰρ τραγῳδεῖ περιιών , ὥσπερ οὐχὶ τοὺς ἀδικοῦντας τούτων ὄντας προδότας , ἀλλὰ τοὺς τὰ δίκαια ποιοῦντας .",
+      "translation": "I declare I was no colleague of yours ; yours was an embassy of flagrant wrong , mine was an embassy of loyal service . Your colleague was Philocrates , and you and Phryno were his ; for it was you and your friends who did these things and who approved of them . Hark to his melodramatic whine : Where is the salt of friendship ? where is the genial board ? where is the cup of communion ? as if doers of justice , not doers of iniquity , were traitors to those symbols !"
+    },
+    {
+      "id": "190",
+      "label": "Section 190",
+      "chapter": null,
+      "original": "ἐγὼ δʼ οἶδʼ ὅτι πάντες οἱ πρυτάνεις θύουσιν ἑκάστοτε κοινῇ καὶ συνδειπνοῦσιν ἀλλήλοις καὶ συσπένδουσιν · καὶ οὐ διὰ ταῦθʼ οἱ χρηστοὶ τοὺς πονηροὺς μιμοῦνται , ἀλλʼ ἐὰν ἀδικοῦντα λάβωσί τινʼ αὑτῶν , τῇ βουλῇ καὶ τῷ δήμῳ δηλοῦσιν . ἡ βουλὴ ταὐτὰ ταῦτα , εἰσιτητήριʼ ἔθυσε , συνειστιάθη , σπονδῶν , ἱερῶν ἐκοινώνησεν · οἱ στρατηγοί , σχεδὸν ὡς εἰπεῖν αἱ ἀρχαὶ πᾶσαι . ἆρʼ οὖν διὰ ταῦτα τοῖς ἀδικοῦσιν ἑαυτῶν ἔδωκαν ἄδειαν ; πολλοῦ γε καὶ δεῖ .",
+      "translation": "I know that the Presidents [*] unite in a sacrificial service , dine together , and make libation together ; but it does not follow that the honest men take their cue from the knaves ; as soon as they detect one of themselves in misconduct , they lay information before the Council and the Assembly . In just the same way the Council holds its service of inauguration and its social banquet ; the commanders unite in worship and libation ; and so of all , or nearly all , the public authorities . Do they give impunity to delinquent colleagues on account of these observances ? No , indeed !"
+    },
+    {
+      "id": "191",
+      "label": "Section 191",
+      "chapter": null,
+      "original": "λέων Τιμαγόρου κατηγόρει συμπεπρεσβευκὼς τέτταρʼ ἔτη , Εὔβουλος Θάρρηκος καὶ Σμικύθου συσσεσιτηκώς , Κόνων ὁ παλαιὸς ἐκεῖνος Ἀδειμάντου συστρατηγήσας . πότερʼ οὖν τοὺς ἅλας παρέβαινον καὶ τὰς σπονδάς , Αἰσχίνη , οἱ προδιδόντες καὶ οἱ παραπρεσβεύοντες καὶ οἱ δωροδοκοῦντες , ἢ οἱ κατηγοροῦντες ; οἱ ἀδικοῦντες δηλονότι τὰς ὅλης γε τῆς πατρίδος σπονδάς , ὥσπερ σύ , οὐ μόνον τὰς ἰδίας .",
+      "translation": "Leon denounced Timagoras , his fellow-ambassador for four years ; Eubulus his messmates , Tharrex and Smicythus ; and long ago Conon denounced Adeimantus after serving with him as general . Who were untrue to their salt and to the cup of friendship , Aeschines ? The traitors , the false ambassadors , and the bribe-takers , or their accusers ? The evil-doers , like you , broke covenant not with their friends alone but with the whole nation ."
+    },
+    {
+      "id": "192",
+      "label": "Section 192",
+      "chapter": null,
+      "original": "ἵνα τοίνυν εἰδῆθʼ ὅτι οὐ μόνον τῶν δημοσίᾳ πώποτʼ ἐληλυθότων ὡς Φίλιππον ἀνθρώπων , ἀλλὰ καὶ τῶν ἰδίᾳ καὶ πάντων οὗτοι φαυλότατοι καὶ πονηρότατοι γεγόνασι , μικρὸν ἀκούσατέ μου ἔξω τι τῆς πρεσβείας ταύτης . ἐπειδὴ γὰρ εἷλεν Ὄλυνθον Φίλιππος , Ὀλύμπιʼ ἐποίει , εἰς δὲ τὴν θυσίαν ταύτην καὶ τὴν πανήγυριν πάντας τοὺς τεχνίτας συνήγαγεν .",
+      "translation": "To show you , then , that these men are the basest and most depraved of all Philip ’ s visitors , private as well as official ,— yes , of all of them ,— let me tell you a trifling story that has nothing to do with the embassy . After Philip had taken Olynthus , he was holding Olympian games , [*] and had invited all sorts of artists to the religious celebration and the festival ."
+    },
+    {
+      "id": "193",
+      "label": "Section 193",
+      "chapter": null,
+      "original": "ἑστιῶν δʼ αὐτοὺς καὶ στεφανῶν τοὺς νενικηκότας ἤρετο Σάτυρον τουτονὶ τὸν κωμικὸν ὑποκριτήν , τί δὴ μόνος οὐδὲν ἐπαγγέλλεται ; ἤ τινʼ ἐν αὐτῷ μικροψυχίαν ἢ πρὸς αὑτὸν ἀηδίαν ἐνεορακώς ; εἰπεῖν δή φασι τὸν Σάτυρον ὅτι , ὧν μὲν οἱ ἄλλοι δέονται , οὐδενὸς ὢν ἐν χρείᾳ τυγχάνει , ἃ δʼ ἂν αὐτὸς ἐπαγγείλαιθʼ ἡδέως , ῥᾷστα μέν ἐστιν Φιλίππῳ δοῦναι καὶ χαρίσασθαι πάντων , δέδοικε δὲ μὴ διαμάρτῃ .",
+      "translation": "At the entertainment at which he crowned the successful competitors , he asked Satyrus , the comedian of our city , why he was the only guest who had not asked any favor ; had he observed in him any illiberality or discourtesy towards himself ? Satyrus , as the story goes , replied that he did not want any such gift as the others were asking ; what he would like to ask was a favor which Philip could grant quite easily , and yet he feared that his request would be unsuccessful ."
+    },
+    {
+      "id": "194",
+      "label": "Section 194",
+      "chapter": null,
+      "original": "κελεύσαντος δʼ ἐκείνου λέγειν καί τι καὶ νεανιευσαμένου τοιοῦτον , ὡς οὐδὲν ὅ τι οὐ ποιήσει , εἰπεῖν φασιν αὐτὸν ὅτι ἦν αὐτῷ Ἀπολλοφάνης ὁ Πυδναῖος ξένος καὶ φίλος , ἐπειδὴ δὲ δολοφονηθεὶς ἐτελεύτησεν ἐκεῖνος , φοβηθέντες οἱ συγγενεῖς αὐτοῦ ὑπεξέθεντο τὰς θυγατέρας παιδίʼ ὄντʼ εἰς Ὄλυνθον . αὗται τοίνυν τῆς πόλεως ἁλούσης αἰχμάλωτοι γεγόνασι καὶ εἰσὶν παρὰ σοί , ἡλικίαν ἔχουσαι γάμου .",
+      "translation": "Philip bade him speak out , declaring with the easy generosity of youth that there was nothing he would not do for him . Thereupon Satyrus told him that Apollophanes of Pydna had been a friend of his , and that after his death by assassination his kinsmen in alarm had secretly removed his daughters , who were then children , to Olynthus . These girls had been made captive when the town was taken , and were now in Philip ’ s hands , and of marriageable age ."
+    },
+    {
+      "id": "195",
+      "label": "Section 195",
+      "chapter": null,
+      "original": "ταύτας , αἰτῶ σε καὶ δέομαι , δός μοι . βούλομαι δέ σʼ ἀκοῦσαι καὶ μαθεῖν οἵαν μοι δώσεις δωρειάν , ἂν ἄρα δῷς · ἀφʼ ἧς ἐγὼ κερδανῶ μὲν οὐδέν , ἂν λάβω , προῖκα δὲ προσθεὶς ἐκδώσω , καὶ οὐ περιόψομαι παθούσας οὐδὲν ἀνάξιον οὔθʼ ἡμῶν οὔτε τοῦ πατρός . ὡς δʼ ἀκοῦσαι τοὺς παρόντας ἐν τῷ συμποσίῳ , τοσοῦτον κρότον καὶ θόρυβον καὶ ἔπαινον παρὰ πάντων γενέσθαι ὥστε τὸν Φίλιππον παθεῖν τι καὶ δοῦναι . καίτοι τῶν ἀποκτεινάντων ἦν τὸν Ἀλέξανδρον τὸν ἀδελφὸν τὸν Φιλίππου οὗτος ὁ Ἀπολλοφάνης .",
+      "translation": "I earnestly beg you , he went on , to bestow them on me . At the same time I wish you to understand what sort of gift you will be giving me , if you do give it . It will bring me no gain , for I shall provide them with dowries and give them in marriage ; and I shall not permit them to suffer any treatment unworthy of myself or of their father . It is said that , when the other guests heard this speech , there was such an outburst of applause and approval that Philip was strongly moved , and granted the boon . And yet Apollophanes was one of the men who had slain Philip ’ s own brother Alexander ."
+    },
+    {
+      "id": "196",
+      "label": "Section 196",
+      "chapter": null,
+      "original": "ἐξετάσωμεν δὴ πρὸς τὸ τοῦ Σατύρου τοῦτο συμπόσιον τὸ τούτων ἐν Μακεδονίᾳ γενόμενον , καὶ θεάσασθʼ ὡς παραπλήσιον τούτῳ καὶ ὅμοιον . κληθέντες γὰρ οὗτοι πρὸς Ξενόφρονα τὸν υἱὸν τὸν Φαιδίμου , τοῦ τῶν τριάκοντα , ᾤχοντο · ἐγὼ δʼ οὐκ ἐπορεύθην . ἐπειδὴ δʼ ἧκον εἰς τὸ πίνειν , εἰσάγει τινʼ Ὀλυνθίαν γυναῖκα , εὐπρεπῆ μέν , ἐλευθέραν δὲ καὶ σώφρονα , ὡς τὸ ἔργον ἐδήλωσεν .",
+      "translation": "Now let us compare the banquet of Satyrus with another entertainment which these men attended in Macedonia ; and you shall see whether there is any sort of resemblance . These men had been invited to the house of Xenophron , a son of Phaedimus , who was one of the Thirty Tyrants , and off they went ; but I declined to go . When the drinking began , Xenophron introduced an Olynthian woman ,— a handsome , but a freeborn and , as the event proved , a modest girl ."
+    },
+    {
+      "id": "197",
+      "label": "Section 197",
+      "chapter": null,
+      "original": "ταύτην τὸ μὲν πρῶτον οὑτωσὶ πίνειν ἡσυχῇ καὶ τρώγειν ἠνάγκαζον οὗτοί μοι δοκεῖ , ὡς διηγεῖτʼ Ἰατροκλῆς ἐμοὶ τῇ ὑστεραίᾳ · ὡς δὲ προῄει τὸ πρᾶγμα καὶ διεθερμαίνοντο , κατακλίνεσθαι καί τι καὶ ᾁδειν ἐκέλευον . ἀδημονούσης δὲ τῆς ἀνθρώπου καὶ οὔτʼ ἐθελούσης οὔτʼ ἐπισταμένης , ὕβριν τὸ πρᾶγμʼ ἔφασαν οὑτοσὶ καὶ ὁ Φρύνων καὶ οὐκ ἀνεκτὸν εἶναι , τῶν θεοῖς ἐχθρῶν , τῶν ἀλειτηρίων Ὀλυνθίων αἰχμάλωτον οὖσαν τρυφᾶν · καὶ κάλει παῖδα , καὶ ἱμᾶντά τις φερέτω . ἧκεν οἰκέτης ἔχων ῥυτῆρα , καὶ πεπωκότων , οἶμαι , καὶ μικρῶν ὄντων τῶν παροξυνόντων , εἰπούσης τι καὶ δακρυσάσης ἐκείνης περιρρήξας τὸν χιτωνίσκον ὁ οἰκέτης ξαίνει κατὰ τοῦ νώτου πολλάς .",
+      "translation": "At first , I believe , they only tried to make her drink quietly and eat dessert ; so Iatrocles told me the following day . But as the carouse went on , and they became heated , they ordered her to sit down and give them a song . The poor girl was bewildered , for she did not wish , and she did not know how , to sing . Then Aeschines and Phryno declared that it was intolerable impertinence for a captive ,— and one of those ungodly , pernicious Olynthians too ,— to give herself such airs . Call a servant , they cried ; bring a whip , somebody . In came a flunkey with a horsewhip , and — I suppose they were tipsy , and it did not take much to irritate them , when she said something and began to cry , he tore off her dress and gave her a number of lashes on the back ."
+    },
+    {
+      "id": "198",
+      "label": "Section 198",
+      "chapter": null,
+      "original": "ἔξω δʼ αὑτῆς οὖσʼ ὑπὸ τοῦ κακοῦ καὶ τοῦ πράγματος ἡ γυνή , ἀναπηδήσασα προσπίπτει πρὸς τὰ γόνατα τῷ Ἰατροκλεῖ , καὶ τὴν τράπεζαν ἀνατρέπει . καὶ εἰ μὴ ʼκεῖνος ἀφείλετο , ἀπώλετʼ ἂν παροινουμένη · καὶ γὰρ ἡ παροινία τοῦ καθάρματος τουτουὶ δεινή . καὶ περὶ ταύτης τῆς ἀνθρώπου καὶ ἐν Ἀρκαδίᾳ λόγος ἦν ἐν τοῖς μυρίοις , καὶ Διόφαντος ἐν ὑμῖν ἀπήγγελλεν ἃ νῦν μαρτυρεῖν αὐτὸν ἀναγκάσω , καὶ κατὰ Θετταλίαν πολὺς λόγος καὶ πανταχοῦ .",
+      "translation": "Maddened by these indignities , she jumped to her feet , upset the table , and fell at the knees of Iatrocles . If he had not rescued her , she would have perished , the victim of a drunken orgy , for the drunkenness of this blackguard is something terrible . The story of this girl was told even in Arcadia , at a meeting of the Ten Thousand [*] ; it was related by Diophantus at Athens in a report which I will compel him to repeat in evidence ; and it was common talk in Thessaly and everywhere ."
+    },
+    {
+      "id": "199",
+      "label": "Section 199",
+      "chapter": null,
+      "original": "καὶ τοιαῦτα συνειδὼς αὑτῷ πεπραγμένα ὁ ἀκάθαρτος οὗτος τολμήσει βλέπειν εἰς ὑμᾶς , καὶ τὸν βεβιωμένον αὑτῷ βίον αὐτίκα δὴ μάλʼ ἐρεῖ λαμπρᾷ τῇ φωνῇ · ἐφʼ οἷς ἔγωγʼ ἀποπνίγομαι . οὐκ ἴσασιν οὗτοι τὸ μὲν ἐξ ἀρχῆς τὰς βίβλους ἀναγιγνώσκοντά σε τῇ μητρὶ τελούσῃ , καὶ παῖδʼ ὄντʼ ἐν θιάσοις καὶ μεθύουσιν ἀνθρώποις καλινδούμενον ;",
+      "translation": "With all this on his conscience the unclean scoundrel will dare to look you in the face , and before long he will be declaiming in sonorous accents about his blameless life . It makes me choke with rage . As if the jury did not know all about you : first the acolyte , [*] reading the service-books while your mother performed her hocus-pocus , reeling and tumbling , child as you were , with bacchanals and tipsy worshippers ;"
+    },
+    {
+      "id": "200",
+      "label": "Section 200",
+      "chapter": null,
+      "original": "μετὰ ταῦτα δὲ ταῖς ἀρχαῖς ὑπογραμματεύοντα καὶ δυοῖν ἢ τριῶν δραχμῶν πονηρὸν ὄντα ; τὰ τελευταῖα δʼ ἔναγχος ἐν χορηγίοις ἀλλοτρίοις ἐπὶ τῷ τριταγωνιστεῖν ἀγαπητῶς παρατρεφόμενον ; ποῖον οὖν ἐρεῖς βίον ; ὃν ποῦ βεβίωκας ; ἐπεὶ ὅ γε βεβιωμένος σοι τοιοῦτος φαίνεται . ἀλλὰ δὴ τὰ τῆς ἐξουσίας · οὗτος ἄλλον ἔκρινε παρʼ ὑμῖν ἐπὶ πορνείᾳ . ἀλλὰ μήπω ταῦτα , ἀλλὰ τὰς μαρτυρίας μοι λέγε πρῶτον ταυτασί .\nΜΑΡΤΥΡΙΑΙ .",
+      "translation": "then the junior clerk , doing the dirty work of public offices for a few shillings a month : and at last , not so long ago , the parasite of the greenrooms , eking out by sponging what you earned as a player of trumpery parts ! What is the life you will claim , and where have you lived it , when such is too clearly the sort of life you really have lived ? And then the assurance of the man ! Bringing another man [*] before this court on a charge of unnatural crime ! However , I will let that go for the present . First read these depositions .\n( The Depositions are read )"
+    },
+    {
+      "id": "201",
+      "label": "Section 201",
+      "chapter": null,
+      "original": "τοσούτων τοίνυν καὶ τοιούτων ὄντων , ὦ ἄνδρες δικασταί , ὧν ἀδικῶν ὑμᾶς ἐξελήλεγκται , ἐν οἷς τί κακὸν οὐκ ἔνι ; δωροδόκος , κόλαξ , ταῖς ἀραῖς ἔνοχος , ψεύστης , τῶν φίλων προδότης , πάντʼ ἔνεστι τὰ δεινότατα · πρὸς ἓν οὐδʼ ὁτιοῦν τούτων ἀπολογήσεται , οὐδʼ ἕξει δικαίαν οὐδʼ ἁπλῆν εἰπεῖν ἀπολογίαν οὐδεμίαν . ἃ δʼ ἐγὼ πέπυσμαι μέλλειν αὐτὸν λέγειν , ἔστι μὲν ἐγγυτάτω μανίας , οὐ μὴν ἀλλʼ ἴσως τῷ μηδὲν ἔχοντι δίκαιον ἄλλʼ εἰπεῖν ἀνάγκη πάντα μηχανᾶσθαι .",
+      "translation": "Of all these heinous crimes against the commonwealth , gentlemen of the jury , he has been proved guilty . No element of baseness is lacking . Bribe-taker , sycophant , guilty under the curse , a liar , a traitor to his friends ,— here are flagrant charges indeed ! Yet he will not defend himself against any one of them ; he has no honest and straightforward defence to offer . As for the topics on which , as I am informed , he intends to dwell , they border on insanity ,— though , perhaps , a man devoid of any honest plea cannot help resorting to all manner of shifts ."
+    },
+    {
+      "id": "202",
+      "label": "Section 202",
+      "chapter": null,
+      "original": "ἀκούω γὰρ αὐτὸν ἐρεῖν ὡς ἄρʼ ἐγὼ πάντων ὧν κατηγορῶ κοινωνὸς γέγονα , καὶ συνήρεσκε ταῦτά μοι καὶ συνέπραττον αὐτῷ , ἔπειτʼ ἐξαίφνης μεταβέβλημαι καὶ κατηγορῶ . ἔστι δʼ ὑπὲρ μὲν τῶν πεπραγμένων οὔτε δικαία οὔτε προσήκουσʼ ἡ τοιαύτη ἀπολογία , ἐμοῦ μέντοι τις κατηγορία · ἐγὼ μὲν γάρ , εἰ ταῦτα πεποίηκα , φαῦλός εἰμʼ ἄνθρωπος , τὰ δὲ πράγματʼ οὐδὲν βελτίω διὰ τοῦτο , οὐδὲ πολλοῦ δεῖ .",
+      "translation": "For I hear that he will tell you that I participated in all the acts I am denouncing , that I approved of them , and co-operated with him , and now have suddenly changed my mind and become his accuser . That is no honest and decent defence against specific charges ; it is , however , an accusation against me ; for if I acted as he says , I am a worthless person ; but that is far from making his actions a whit better ."
+    },
+    {
+      "id": "203",
+      "label": "Section 203",
+      "chapter": null,
+      "original": "οὐ μὴν ἀλλʼ ἔγωγʼ οἶμαί μοι προσήκειν ἀμφότερʼ ὑμῖν ἐπιδεῖξαι , καὶ ὅτι ψεύσεται , ταῦτʼ ἐὰν λέγῃ , καὶ τὴν δικαίαν ἥτις ἐστὶν ἀπολογία . ἡ μὲν τοίνυν δικαία καὶ ἁπλῆ , ἢ ὡς οὐ πέπρακται τὰ κατηγορημένα δεῖξαι , ἢ ὡς πεπραγμένα συμφέρει τῇ πόλει . τούτων δʼ οὐδέτερον δύναιτʼ ἂν οὗτος ποιῆσαι .",
+      "translation": "However , it is incumbent on me , I suppose , first , to satisfy you that the allegation , if he makes it , will be false , and secondly , to show you what is an honest defence . Now it is an honest and straightforward defence to prove either that the acts alleged were never committed , or that , if committed , they were for the advantage of the state . But he cannot make good either of these positions ."
+    },
+    {
+      "id": "204",
+      "label": "Section 204",
+      "chapter": null,
+      "original": "οὔτε γὰρ ὡς συμφέρει δήπου Φωκέας ἀπολωλέναι καὶ Πύλας Φίλιππον ἔχειν καὶ Θηβαίους ἰσχύειν καὶ ἐν Εὐβοίᾳ στρατιώτας εἶναι καὶ Μεγάροις ἐπιβουλεύειν καὶ ἀνώμοτον εἶναι τὴν εἰρήνην , ἔνεστι λέγειν αὐτῷ , οἷς τότʼ ἐναντίʼ ἀπήγγειλε πρὸς ὑμᾶς ὡς συμφέροντα καὶ γενησόμενα · οὔθʼ ὡς οὐ πέπρακται ταῦτα , δυνήσεται πεῖσαι τοὺς αὐτοὺς ἑορακότας ὑμᾶς καὶ εὖ εἰδότας .",
+      "translation": "He cannot claim as advantages the destruction of the Phocians , or Philip ’ s occupation of Thermopylae , or the aggrandizement of Thebes , or the invasion of Euboea , or the designs against Megara , or the unratified peace ; for he reported himself that exactly the opposite was going to happen and would be to your advantage . Neither can he convince you , against the evidence of your own eyes and your own knowledge , that these disasters are fabulous ."
+    },
+    {
+      "id": "205",
+      "label": "Section 205",
+      "chapter": null,
+      "original": "οὐκοῦν ὡς οὐ κεκοινώνηκα τούτοις οὐδενός , λοιπόν μοι δεῖξαι . βούλεσθʼ οὖν ὑμῖν , πάντα τἄλλʼ ἀφείς , ἃ παρʼ ὑμῖν ἀντεῖπον , ἃ ἐν τῇ ἀποδημίᾳ προσέκρουον , ὡς ἅπαντα τὸν χρόνον ἠναντίωμαι , αὐτοὺς παράσχωμαι μάρτυρας τούτους ὅτι πάντα τἀναντίʼ ἐμοὶ καὶ τούτοις πέπρακται , καὶ χρήμαθʼ οὗτοι μὲν ἔχουσιν ἐφʼ ὑμῖν , ἐγὼ δʼ οὐκ ἠθέλησα λαβεῖν ; θεάσασθε δή .",
+      "translation": "My remaining duty is to prove that I had no partnership with these men in any of their doings . Is it your wish that I should put aside the rest of the story ,— how I spoke against them in Assembly , how I fell out with them on the journey , how from first to last I persistently opposed them ,— and should produce these men themselves as my witnesses to testify that my conduct and theirs has been utterly at variance , that they accepted money to thwart you , and that I refused it ? Then observe ."
+    },
+    {
+      "id": "206",
+      "label": "Section 206",
+      "chapter": null,
+      "original": "τίνα τῶν ἐν τῇ πόλει φήσαιτʼ ἂν βδελυρώτατον εἶναι καὶ πλείστης ἀναιδείας καὶ ὀλιγωρίας μεστόν ; οὐδεὶς οὐδʼ ἂν ἁμαρτὼν ὑμῶν ἄλλον εὖ οἶδʼ ὅτι φήσειεν ἢ Φιλοκράτην . τίνα δὲ φθέγγεσθαι μέγιστον ἁπάντων καὶ σαφέστατʼ ἂν εἰπεῖν ὅ τι βούλοιτο τῇ φωνῇ ; Αἰσχίνην οἶδʼ ὅτι τουτονί . τίνα δʼ οὗτοι μὲν ἄτολμον καὶ δειλὸν πρὸς τοὺς ὄχλους φασὶν εἶναι , ἐγὼ δʼ εὐλαβῆ ; ἐμέ · οὐδὲν γὰρ πώποτʼ οὔτʼ ἠνώχλησα οὔτε μὴ βουλομένους ὑμᾶς βεβίασμαι .",
+      "translation": "Whom would you call the most detestable person in all Athens , and the most swollen with impudence and superciliousness ? No one , I am sure , would name , even by a slip of the tongue , anyone but Philocrates . Who is the most vehement speaker , the man who can express himself most emphatically with the aid of his big voice ? Undoubtedly Aeschines . Whom do these men call timid and faint-hearted , or , as I should say , diffident , in addressing a crowd ? Me ; for I never worried you ; I have never tried to dragoon you against your inclinations ."
+    },
+    {
+      "id": "207",
+      "label": "Section 207",
+      "chapter": null,
+      "original": "οὐκοῦν ἐν πάσαις ταῖς ἐκκλησίαις , ὁσάκις λόγος γέγονεν περὶ τούτων , καὶ κατηγοροῦντος ἀκούετέ μου καὶ ἐλέγχοντος ἀεὶ τούτους καὶ λέγοντος ἄντικρυς ὅτι χρήματʼ εἰλήφασι καὶ πάντα πεπράκασι τὰ πράγματα τῆς πόλεως . καὶ τούτων οὐδεὶς πώποτʼ ἀκούων ταῦτʼ ἀντεῖπεν οὐδὲ διῆρε τὸ στόμα , οὐδʼ ἔδειξεν ἑαυτόν .",
+      "translation": "Well , at every Assembly , whenever there is any discussion of this business , you hear me denouncing and incriminating these men , and declaring roundly that they have taken bribes and made traffic of all the interests of the commonwealth ; and no one of them ever contradicts me , or opens his mouth , or lets himself be seen ."
+    },
+    {
+      "id": "208",
+      "label": "Section 208",
+      "chapter": null,
+      "original": "τί ποτʼ οὖν ἐστι τὸ αἴτιον ὅτι οἱ βδελυρώτατοι τῶν ἐν τῇ πόλει καὶ μέγιστον φθεγγόμενοι τοῦ καὶ ἀτολμοτάτου πάντων ἐμοῦ καὶ οὐδενὸς μεῖζον φθεγγομένου τοσοῦτον ἡττῶνται ; ὅτι τἀληθὲς ἰσχυρόν , καὶ τοὐναντίον ἀσθενὲς τὸ συνειδέναι πεπρακόσιν αὑτοῖς τὰ πράγματα . τοῦτο παραιρεῖται τὴν θρασύτητα τὴν τούτων , τοῦτʼ ἀποστρέφει τὴν γλῶτταν , ἐμφράττει τὸ στόμα , ἄγχει , σιωπᾶν ποιεῖ .",
+      "translation": "How comes it then that the most impudent men in Athens , and the loudest speakers , are overborne by me , the nervous man , who can speak no louder than another ? Because truth is strong , and consciousness of corruption weak . Conscience paralyses their audacity ; conscience cripples their tongues , closes their lips , stifles them , puts them to silence ."
+    },
+    {
+      "id": "209",
+      "label": "Section 209",
+      "chapter": null,
+      "original": "τὸ τοίνυν τελευταῖον ἴστε δήπου πρώην ἐν Πειραιεῖ , ὅτʼ αὐτὸν οὐκ εἰᾶτε πρεσβεύειν , βοῶνθʼ ὡς εἰσαγγελεῖ με καὶ γράψεται καὶ ἰοὺ ἰού . καίτοι ταῦτα μέν ἐστι μακρῶν καὶ πολλῶν ἀγώνων καὶ λόγων ἀρχή , ἐκεῖνα δʼ ἁπλᾶ καὶ δύʼ ἢ τρίʼ ἴσως ῥήματα , ἃ κἂν ἐχθὲς ἐωνημένος ἄνθρωπος εἰπεῖν ἠδυνήθη , ἄνδρες Ἀθηναῖοι , τουτὶ τὸ πρᾶγμα πάνδεινόν ἐστιν · οὑτοσὶ κατηγορεῖ ταῦτʼ ἐμοῦ ὧν αὐτὸς κοινωνὸς γέγονε , καὶ χρήματʼ εἰληφέναι φησὶν ἐμέ , αὐτὸς εἰληφὼς ἢ μετειληφώς .",
+      "translation": "You remember the most recent occasion , at Peiraeus only the other day , when you refused to appoint Aeschines to an embassy , how he bellowed at me : I will impeach you ,— I will indict you ,— aha ! aha ! [*] And yet a threat of impeachment involves endless speeches and litigation ; but here are just two or three simple words that a slave bought yesterday could deliver : Men of Athens , here is a strange thing ! This man accuses me of offences in which he himself took part . He says that I have taken bribes , when he took them , or shared them , himself ."
+    },
+    {
+      "id": "210",
+      "label": "Section 210",
+      "chapter": null,
+      "original": "τούτων μὲν τοίνυν οὐδὲν εἶπεν οὐδʼ ἐφθέγξατο , οὐδʼ ἤκουσεν ὑμῶν οὐδείς , ἄλλα δʼ ἠπείλει . διὰ τί ; ὅτι ταῦτα μὲν αὑτῷ συνῄδει πεπραγμένα , καὶ δοῦλος ἦν τῶν ῥημάτων τούτων . οὔκουν προσῄει πρὸς ταῦθʼ ἡ διάνοια , ἀλλʼ ἀνεδύετο · ἐπελαμβάνετο γὰρ αὐτῆς τὸ συνειδέναι . λοιδορεῖσθαι δʼ ἄλλʼ ἄττʼ οὐδὲν ἐκώλυεν αὐτὸν οὐδὲ βλασφημεῖν .",
+      "translation": "He never spoke , he never uttered a word of that speech ; none of you heard it ; he only vented idle menaces . The reason is that he was conscious of guilt ; he cowered like a slave before those words ; his thoughts did not approach them but recoiled from them , arrested by his evil conscience . Mere vague invective and abuse there was no one to stop ."
+    },
+    {
+      "id": "211",
+      "label": "Section 211",
+      "chapter": null,
+      "original": "ὃ τοίνυν μέγιστον ἁπάντων , καὶ οὐ λόγος ἀλλʼ ἔργον · βουλομένου γὰρ ἐμοῦ τὰ δίκαια , ὥσπερ ἐπρέσβευσα δίς , οὕτω καὶ λόγον ὑμῖν δοῦναι δίς , προσελθὼν Αἰσχίνης οὑτοσὶ τοῖς λογισταῖς ἔχων μάρτυρας πολλοὺς ἀπηγόρευε μὴ καλεῖν ἔμʼ εἰς τὸ δικαστήριον ὡς δεδωκότʼ εὐθύνας καὶ οὐκ ὄνθʼ ὑπεύθυνον · καὶ τὸ πρᾶγμʼ ἦν ὑπεργέλοιον . τί οὖν ἦν τοῦτο ; τῆς προτέρας ἐκείνης πρεσβείας , ἧς οὐδεὶς κατηγόρει , δοὺς λόγον οὐκέτʼ ἐβούλετʼ αὖθις εἰσιέναι περὶ ταύτης ἧς νῦν εἰσέρχεται , ἐν ᾗ πάντα τἀδικήματʼ ἐνῆν ·",
+      "translation": "And now comes the strongest possible point — not a matter of assertion but of fact . I wished to do the honest thing , and to give an account of myself twice , because I had been appointed ambassador twice ; but Aeschines approached the Court of Scrutiny , taking with him a crowd of witnesses , and forbade them to summon me , on the ground that I had already submitted to scrutiny , and was no longer liable . What was the real meaning of this ludicrous proceeding ? Having himself rendered his account of the earlier embassy , with which nobody found fault , he did not wish to come into court in respect of the embassy for which he is now under examination ; and that is the embassy that includes all his misdeeds ."
+    },
+    {
+      "id": "212",
+      "label": "Section 212",
+      "chapter": null,
+      "original": "ἐκ δὲ τοῦ δὶς ἔμʼ εἰσελθεῖν ἀνάγκη περιίστατο καὶ τούτῳ πάλιν εἰσιέναι · διὰ ταῦτʼ οὐκ εἴα καλεῖν . καίτοι τοῦτο τὸ ἔργον , ὦ ἄνδρες Ἀθηναῖοι , ἀμφότερʼ ὑμῖν ἐπιδείκνυσι σαφῶς , καὶ κατεγνωκόθʼ ἑαυτοῦ τοῦτον ὥστε μηδενὶ νῦν ὑμῶν εὐσεβῶς ἔχειν ἀποψηφίσασθαι αὐτοῦ , καὶ μηδὲν ἀληθὲς ἐροῦντα περὶ ἐμοῦ · εἰ γὰρ εἶχε , τότʼ ἂν καὶ λέγων καὶ κατηγορῶν ἐξητάζετο , οὐ μὰ Δίʼ οὐκ ἀπηγόρευε καλεῖν .",
+      "translation": "But , if I came into court twice , he could not avoid a second appearance , and therefore he would not let me be summoned . Yet that act , men of Athens , proves two propositions : first , that Aeschines has pronounced his own condemnation , and therefore you cannot conscientiously acquit him today ; and secondly , that he will not have a truthful word to say about me , otherwise he would have spoken out and denounced me then , instead of trying to block my summons ."
+    },
+    {
+      "id": "213",
+      "label": "Section 213",
+      "chapter": null,
+      "original": "ὡς τοίνυν ταῦτʼ ἀληθῆ λέγω , κάλει μοι τούτων τοὺς μάρτυρας .\nἀλλὰ μὴν ἄν γέ τι ἔξω τῆς πρεσβείας βλασφημῇ περὶ ἐμοῦ , κατὰ πόλλʼ οὐκ ἂν εἰκότως ἀκούοιτʼ αὐτοῦ . οὐ γὰρ ἐγὼ κρίνομαι τήμερον , οὐδʼ ἐγχεῖ μετὰ ταῦθʼ ὕδωρ οὐδεὶς ἐμοί . τί οὖν ἐστι ταῦτα πλὴν δικαίων λόγων ἀπορία ; τίς γὰρ ἂν κατηγορεῖν ἕλοιτο κρινόμενος , ἔχων ὅ τι ἀπολογήσεται ;",
+      "translation": "To prove the truth of these statements , please call the witnesses . [*]\nIf , however , he says scurrilous things about me , not pertinent to the question of the embassy , there are many reasons why you should not listen . I am not on my trial today , and I shall have no second opportunity [*] of speaking . It will only mean that he is destitute of honest arguments . No culprit would deliberately choose to prefer accusations , if he had any defence to offer ."
+    },
+    {
+      "id": "214",
+      "label": "Section 214",
+      "chapter": null,
+      "original": "ἔτι τοίνυν κἀκεῖνο σκοπεῖτʼ , ἄνδρες δικασταί . εἰ ἐκρινόμην μὲν ἐγώ , κατηγόρει δʼ Αἰσχίνης οὑτοσί , Φίλιππος δʼ ἦν ὁ κρίνων , εἶτʼ ἐγὼ μηδὲν ἔχων εἰπεῖν ὡς οὐκ ἀδικῶ κακῶς ἔλεγον τουτονὶ καὶ προπηλακίζειν ἐπεχείρουν , οὐκ ἂν οἴεσθε καὶ κατʼ αὐτὸ τοῦτʼ ἀγανακτῆσαι τὸν Φίλιππον , εἰ παρʼ ἐκείνῳ τοὺς ἐκείνου τις εὐεργέτας κακῶς λέγει ; μὴ τοίνυν ὑμεῖς χείρους γένησθε Φιλίππου , ἀλλʼ ὑπὲρ ὧν ἀγωνίζεται , περὶ τούτων ἀναγκάζετʼ ἀπολογεῖσθαι . λέγε τὴν μαρτυρίαν .\nΜΑΡΤΥΡΙΑ .",
+      "translation": "Or again , look at it in this light , gentlemen of the jury . Suppose that I were on trial , with Aeschines for my accuser , and Philip for my judge , and suppose that , being unable to deny my guilt , I were to vilify Aeschines and throw mud at him ; do you not think that that is just what would move Philip ’ s indignation , his own benefactors calumniated before his own tribunal ? Do not be less rigorous than Philip , but compel him to address his defence to the real issues of this controversy . Now read the deposition .\n( The Deposition is read )"
+    },
+    {
+      "id": "215",
+      "label": "Section 215",
+      "chapter": null,
+      "original": "οὐκοῦν ἐγὼ μέν , ἐκ τοῦ μηδὲν ἐμαυτῷ συνειδέναι , καὶ λόγον διδόναι καὶ πάντα τἀκ τῶν νόμων ὑπέχειν ᾤμην δεῖν , οὗτος δὲ τἀναντία . πῶς οὖν ταὔτʼ ἐμοὶ καὶ τούτῳ πέπρακται ; ἢ πῶς ἔνεστι τούτῳ ταῦτα πρὸς ὑμᾶς λέγειν , ἃ μηδʼ ᾐτίαται πρότερον πώποτε ; οὐδαμῶς δήπου . ἀλλʼ ὅμως ἐρεῖ , καὶ νὴ Δίʼ εἰκότως γε . ἴστε γὰρ δήπου τοῦθʼ , ὅτι ἀφʼ οὗ γεγόνασιν ἄνθρωποι καὶ κρίσεις γίγνονται , οὐδεὶς πώποθʼ ὁμολογῶν ἀδικεῖν ἑάλω , ἀλλʼ ἀναισχυντοῦσιν , ἀρνοῦνται , ψεύδονται , προφάσεις πλάττονται , πάντα ποιοῦσιν ὑπὲρ τοῦ μὴ δοῦναι δίκην .",
+      "translation": "Thus in my consciousness of innocence I thought it my duty to render my account and accept my full legal liability , while Aeschines did not . Is my conduct then the echo of his ? Is it competent for him to lay before this court charges which he has never made before ? Assuredly not ; and yet he will lay them , for a very good reason . For you know that , ever since mankind and the criminal law first came into being , no culprit has ever been convicted while confessing his guilt . They vapor , they gainsay , they tell lies , they forge excuses ,— anything to evade justice ."
+    },
+    {
+      "id": "216",
+      "label": "Section 216",
+      "chapter": null,
+      "original": "ὧν οὐδενὶ δεῖ παρακρουσθῆναι τήμερον ὑμᾶς , ἀλλʼ ἀφʼ ὧν ἴστʼ αὐτοὶ τὰ πράγματα κρῖναι , μὴ τοῖς ἐμοῖς λόγοις μηδὲ τοῖς τούτου προσέχειν , μηδέ γε τοῖς μάρτυσιν , οὓς οὗτος ἑτοίμους ἕξει μαρτυρεῖν ὁτιοῦν , Φιλίππῳ χορηγῷ χρώμενος · ὄψεσθε δʼ ὡς ἑτοίμως αὐτῷ μαρτυρήσουσιν · μηδέ γʼ εἰ καλὸν καὶ μέγʼ οὗτος φθέγξεται , μηδʼ εἰ φαῦλον ἐγώ .",
+      "translation": "Do not be duped today by any of these stale tricks . You must pass judgement on the facts , according to your knowledge ; you must pay no heed either to my assertions or to his , nor even to the witnesses whom he will have in waiting , with Philip as his paymaster , and you will see how glibly they will testify . You must not notice what a fine loud voice he has , and what a poor voice I have ."
+    },
+    {
+      "id": "217",
+      "label": "Section 217",
+      "chapter": null,
+      "original": "οὐδὲ γὰρ ῥητόρων οὐδὲ λόγων κρίσιν ὑμᾶς τήμερον , εἴπερ εὖ φρονεῖτε , προσήκει ποιεῖν , ἀλλʼ ὑπὲρ πραγμάτων αἰσχρῶς καὶ δεινῶς ἀπολωλότων τὴν ὑπάρχουσαν αἰσχύνην εἰς τοὺς αἰτίους ἀπώσασθε , τὰ πεπραγμένα , ἃ πάντες ἐπίστασθε , ἐξετάσαντες . τί οὖν ἐστι ταῦθʼ ἃ ὑμεῖς ἴστε καὶ οὐ παρʼ ἡμῶν ὑμᾶς ἀκοῦσαι δεῖ ;",
+      "translation": "If you are wise , you must not treat this trial as a competition of forensic eloquence ; but in regard to a dishonorable and perilous catastrophe , cast back upon the guilty the dishonor that attaches to it , after reviewing transactions that lie within the knowledge of you all . What , then , are the facts that you know and I need not recount ?"
+    },
+    {
+      "id": "218",
+      "label": "Section 218",
+      "chapter": null,
+      "original": "εἰ μὲν ἅπανθʼ ὅσʼ ὑπέσχονθʼ ὑμῖν ἐκ τῆς εἰρήνης γέγονε , καὶ τοσαύτης ἀνανδρίας καὶ κακίας ὑμεῖς ὁμολογεῖτʼ εἶναι μεστοί , ὥστε μήτʼ ἐν τῇ χώρᾳ τῶν πολεμίων ὄντων μήτʼ ἐκ θαλάττης πολιορκούμενοι μήτʼ ἐν ἄλλῳ μηδενὶ δεινῷ τῆς πόλεως οὔσης , ἀλλὰ καὶ σῖτον εὔωνον ὠνούμενοι καὶ τἄλλʼ οὐδὲν χεῖρον πράττοντες ἢ νῦν ,",
+      "translation": "If all the promised results of the peace have come true , if you confess yourselves so effeminate and so cowardly that , with no enemy within your borders , no blockade of your ports , no imperilment of your capital , with corn-prices low and every other condition as favorable as it is today ,"
+    },
+    {
+      "id": "219",
+      "label": "Section 219",
+      "chapter": null,
+      "original": "προειδότες καὶ προακηκοότες παρὰ τούτων καὶ τοὺς συμμάχους ἀπολουμένους καὶ Θηβαίους ἰσχυροὺς γενησομένους καὶ τἀπὶ Θρᾴκης Φίλιππον ληψόμενον καὶ ἐν Εὐβοίᾳ κατασκευασθησόμενʼ ὁρμητήριʼ ἐφʼ ὑμᾶς καὶ πάνθʼ ἃ πέπρακται γενησόμενα , εἶτα τὴν εἰρήνην ἐποιήσασθʼ ἀγαπητῶς , ἀποψηφίσασθʼ Αἰσχίνου , καὶ μὴ πρὸς τοσούτοις αἰσχροῖς καὶ ἐπιορκίαν προσκτήσησθε · οὐδὲν γὰρ ὑμᾶς ἀδικεῖ , ἀλλʼ ἐγὼ μαίνομαι καὶ τετύφωμαι νῦν κατηγορῶν αὐτοῦ .",
+      "translation": "and with foreknowledge on the assurance of your ambassadors that your allies would be ruined , that the Thebans would gain strength , that Philip would occupy the northern positions , that a basis of attack would be established against you in Euboea , and that everything that has in fact resulted would befall you , you thereupon cheerfully made the peace , by all means acquit Aeschines , and do not crown your other dishonors with the sin of perjury . He has done you no wrong , and I am a madman and a fool to accuse him ."
+    },
+    {
+      "id": "220",
+      "label": "Section 220",
+      "chapter": null,
+      "original": "εἰ δὲ πάντα τἀναντία τούτων καὶ πολλὰ καὶ φιλάνθρωπʼ εἰπόντες , Φίλιππον φιλεῖν τὴν πόλιν , Φωκέας σώσειν , Θηβαίους παύσειν τῆς ὕβρεως , ἔτι πρὸς τούτοις μείζονʼ ἢ κατʼ Ἀμφίπολιν εὖ ποιήσειν ὑμᾶς , ἐὰν τύχῃ τῆς εἰρήνης , Εὔβοιαν , Ὠρωπὸν ἀποδώσειν · εἰ ταῦτʼ εἰπόντες καὶ ὑποσχόμενοι πάντʼ ἐξηπατήκασι καὶ πεφενακίκασι καὶ μόνον οὐ τὴν Ἀττικὴν ὑμῶν περιῄρηνται , καταψηφίσασθε , καὶ μὴ πρὸς τοῖς ἄλλοις οἷς ὕβρισθε ( οὐ γὰρ ἔγωγʼ οἶδʼ ὅ τι χρὴ λέγειν ἄλλο ) καὶ ὑπὲρ ὧν οὗτοι δεδωροδοκήκασιν ὑμεῖς τὴν ἀρὰν καὶ τὴν ἐπιορκίαν οἴκαδʼ εἰσενέγκησθε .",
+      "translation": "But if the truth is otherwise , if they spoke handsomely of Philip and told you that he was the friend of Athens , that he would deliver the Phocians , that he would curb the arrogance of the Thebans , that he would bestow on you many boons of more value than Amphipolis , and would restore Euboea and Oropus , if only he got his peace ,— if , I say , by such assertions and such promises they have deceived and deluded you , and wellnigh stripped you of all Attica , find him guilty , and do not reinforce the outrages , for I can find no better word ,— that you have endured , by returning to your homes laden with the curse and the guilt of perjury , for the sake of the bribes that they have pocketed ."
+    },
+    {
+      "id": "221",
+      "label": "Section 221",
+      "chapter": null,
+      "original": "ἔτι τοίνυν κἀκεῖνο σκοπεῖτʼ , ὦ ἄνδρες δικασταί , τίνος εἵνεκʼ ἐγὼ μηδὲν ἠδικηκότων τούτων κατηγορεῖν ἂν προειλόμην . οὐ γὰρ εὑρήσετε . ἡδὺ πολλοὺς ἐχθροὺς ἔχειν ; οὐδέ γʼ ἀσφαλές . ἀλλʼ ὑπῆρχέ μοι πρὸς τοῦτον ἀπέχθειά τις ; οὐδεμία . τί οὖν ; ἐφοβοῦ περὶ σαυτοῦ , καὶ διὰ δειλίαν ταύτην ἡγήσω σωτηρίαν · καὶ γὰρ ταῦτʼ ἀκήκοʼ αὐτὸν λέγειν . καίτοι μηδενός γʼ ὄντος , Αἰσχίνη , δεινοῦ μηδʼ ἀδικήματος , ὡς σὺ φῄς , εἰ γὰρ αὖ ταῦτʼ ἐρεῖ , σκοπεῖτʼ , ἄνδρες δικασταί , εἰ ἐφʼ οἷς ὁ μηδʼ ὁτιοῦν ἀδικῶν ἐφοβούμην ἐγὼ μὴ διὰ τούτους ἀπόλωμαι , τί τούτους προσήκει παθεῖν τοὺς αὐτοὺς ἠδικηκότας ; ἀλλʼ οὐ διὰ ταῦτα .",
+      "translation": "You should further ask yourselves , gentlemen of the jury , why , if they were not guilty , I should have gone out of my way to accuse them . You will find no reason . Is it agreeable to have many enemies ? It is hardly safe . Perhaps I had an old standing feud with Aeschines ? That is not so . Well , but you were frightened on your own account , and were coward enough to seek this as a way of escape ; for that , I hear , is one of his suggestions . But , by your own account , Aeschines , there is no crime , and therefore no jeopardy . If he repeats the insinuation , do you , gentlemen , consider this : in a case where I , who did no wrong whatever , was yet afraid lest these men ’ s conduct should ruin me , what punishment ought they to suffer who were themselves the guilty parties ?"
+    },
+    {
+      "id": "222",
+      "label": "Section 222",
+      "chapter": null,
+      "original": "ἀλλὰ διὰ τί σου κατηγορῶ ; συκοφαντῶ νὴ Δία , ἵνʼ ἀργύριον λάβω παρὰ σοῦ . καὶ πότερον κρεῖττον ἦν μοι παρὰ Φιλίππου λαβεῖν , τοῦ διδόντος πολὺ καὶ μηδενὸς τούτων ἔλαττον , καὶ φίλον κἀκεῖνον ἔχειν καὶ τούτους ( ἦσαν γὰρ ἄν , ἦσαν φίλοι τῶν αὐτῶν κεκοινωνηκότι · οὐδὲ γὰρ νῦν ἔχθραν πατρικὴν ἔχουσι πρός με , ἀλλʼ ὅτι τῶν πεπραγμένων οὐ μετέσχηκα ), ἢ παρὰ τούτων ἀφʼ ὧν εἰλήφασι μεταιτεῖν , κἀκείνῳ τʼ ἐχθρὸν εἶναι καὶ τούτοις ; καὶ τοὺς μὲν αἰχμαλώτους ἐκ τῶν ἰδίων τοσούτων χρημάτων λύεσθαι , μικρὰ δʼ ἀξιοῦν παρὰ τούτων αἰσχρῶς μετʼ ἔχθρας λαμβάνειν ;",
+      "translation": "However , that was not my reason . Then why am I accusing you ? Perhaps as a common informer , to get money out of you ? Which course was more profitable for me , to take money from Philip , who offered me a great deal ,— as much as he gave them ,— and so to make friends both with him and with them ,— for indeed I might have had their friendship if I had been their accomplice , and even now there is no vendetta between us , only that I had no part in their malpractices , or to levy blackmail on their takings , and so incur Philip ’ s enmity and theirs ; to spend all my money on the ransom of captives , and then expect to get a trifle back dishonorably and at the cost of their hostility ?"
+    },
+    {
+      "id": "223",
+      "label": "Section 223",
+      "chapter": null,
+      "original": "οὐκ ἔστι ταῦτα , ἀλλʼ ἀπήγγειλα μὲν τἀληθῆ καὶ ἀπεσχόμην τοῦ λαβεῖν τοῦ δικαίου καὶ τῆς ἀληθείας εἵνεκα καὶ τοῦ λοιποῦ βίου , νομίζων , ὥσπερ ἄλλοι τινὲς παρʼ ὑμῖν , καὶ αὐτὸς ὢν ἐπιεικὴς τιμηθήσεσθαι , καὶ οὐκ ἀνταλλακτέον εἶναί μοι τὴν πρὸς ὑμᾶς φιλοτιμίαν οὐδενὸς κέρδους · μισῶ δὲ τούτους , ὅτι μοχθηροὺς καὶ θεοῖς ἐχθροὺς εἶδον ἐν τῇ πρεσβείᾳ , καὶ ἀπεστέρημαι καὶ τῶν ἰδίων φιλοτιμιῶν διὰ τὴν τούτων δωροδοκίαν πρὸς ὅλην δυσχερῶς ὑμῶν τὴν πρεσβείαν ἐσχηκότων · κατηγορῶ δὲ νυνὶ καὶ ἐπὶ τὰς εὐθύνας ἥκω τὸ μέλλον προορώμενος , καὶ βουλόμενος ἀγῶνι καὶ δικαστηρίῳ μοι διωρίσθαι παρʼ ὑμῖν ὅτι τἀναντίʼ ἐμοὶ καὶ τούτοις πέπρακται .",
+      "translation": "The thing is impossible ! No ; I made honest reports ; I kept my hands clean of corruption for the sake of truth and justice and of my future career , believing , as others have believed , that my honesty would be rewarded by your favor , and that my public spirit must never be bartered away for any emolument . I abhor these men because throughout the embassy I found them vicious and ungodly , and because by their corruption I have been robbed of the due reward of my patriotism , through your natural dissatisfaction with the whole business . I now denounce them , and I have attended this scrutiny , because I have a care for the future , and desire a decision recorded in this case and by this court that my conduct has been exactly opposed to theirs ."
+    },
+    {
+      "id": "224",
+      "label": "Section 224",
+      "chapter": null,
+      "original": "καὶ δέδοικα , δέδοικα ( εἰρήσεται γὰρ πάνθʼ ἃ φρονῶ πρὸς ὑμᾶς ) μὴ τότε μὲν συνεπισπάσησθʼ ἐμὲ τὸν μηδʼ ὁτιοῦν ἀδικοῦντα , νῦν δʼ ἀναπεπτωκότες ἦτε . παντάπασι γάρ , ἄνδρες Ἀθηναῖοι , ἐκλελύσθαι μοι δοκεῖτε καὶ παθεῖν ἀναμένειν τὰ δεινά , ἑτέρους δὲ πάσχοντας ὁρῶντες οὐ φυλάττεσθαι , οὐδὲ φροντίζειν τῆς πόλεως πάλαι κατὰ πολλοὺς καὶ δεινοὺς τρόπους διαφθειρομένης .",
+      "translation": "And yet I am afraid ,— for all my thoughts shall be laid open to you ,— I am afraid that hereafter you may destroy me with them in despite of my innocence , while today you are supine . For indeed , men of Athens , you seem to me to have become altogether slack , idly waiting for the advent of disaster . You see the distresses of others , but take no precaution for yourselves ; you have no thought for the steady and alarming deterioration of your commonwealth ."
+    },
+    {
+      "id": "225",
+      "label": "Section 225",
+      "chapter": null,
+      "original": "οὐκ οἴεσθε δεινὸν εἶναι καὶ ὑπερφυές ; ( καὶ γὰρ εἴ τι σιωπᾶν ἐγνώκειν , λέγειν ἐξάγομαι .) ἴστε δήπου Πυθοκλέα τουτονὶ τὸν Πυθοδώρου . τούτῳ πάνυ φιλανθρώπως ἐκεχρήμην ἐγώ , καὶ ἀηδὲς ἐμοὶ καὶ τούτῳ γέγονεν εἰς τὴν ἡμέραν ταύτην οὐδέν . οὗτος ἐκτρέπεταί με νῦν ἀπαντῶν , ἀφʼ οὗ πρὸς Φίλιππον ἀφῖκται , κἂν ἀναγκασθῇ που συντυχεῖν , ἀπεπήδησεν εὐθέως , μή τις αὐτὸν ἴδῃ λαλοῦντʼ ἐμοί · μετὰ δʼ Αἰσχίνου περιέρχεται τὴν ἀγορὰν κύκλῳ καὶ βουλεύεται .",
+      "translation": "Do you not think this an extremely dangerous symptom ? ( For though I had decided to say nothing , I am tempted to speak out ) Of course you know Pythocles , son of Pythodorus . I was on the most civil terms with him , and there has been no unpleasantness between us to this day . But now , since his visit to Philip , he turns aside whenever he meets me , and if he cannot avoid an encounter , he rushes off as soon as he can for fear he should be seen talking to me , while he will perambulate the whole market-place discussing plans with Aeschines ."
+    },
+    {
+      "id": "226",
+      "label": "Section 226",
+      "chapter": null,
+      "original": "οὐκοῦν δεινόν , ὦ ἄνδρες Ἀθηναῖοι , καὶ σχέτλιον τοῖς μὲν τὰ Φιλίππου πράγμαθʼ ᾑρημένοις θεραπεύειν οὕτως ἀκριβῆ τὴν παρʼ ἐκείνου πρὸς ἑκάτερʼ αἴσθησιν ὑπάρχειν , ὥσθʼ ἕκαστον , ὥσπερ ἂν παρεστηκότος αὐτοῦ , μηδʼ ὧν ἂν ἐνθαδὶ πράξῃ μηδὲν ἡγεῖσθαι λήσειν , ἀλλὰ φίλους τε νομίζειν οὓς ἂν ἐκείνῳ δοκῇ καὶ μὴ φίλους ὡσαύτως , τοῖς δὲ πρὸς ὑμᾶς ζῶσι καὶ τῆς παρʼ ὑμῶν τιμῆς γλιχομένοις καὶ μὴ προδεδωκόσι ταύτην τοσαύτην κωφότητα καὶ τοσοῦτο σκότος παρʼ ὑμῶν ἀπαντᾶν , ὥστε τοῖς ἀλειτηρίοις τούτοις ἐξ ἴσου νῦν ἔμʼ ἀγωνίζεσθαι , καὶ ταῦτα παρʼ ὑμῖν τοῖς ἅπαντʼ εἰδόσιν .",
+      "translation": "It is shocking and scandalous , men of Athens , that Philip has such an acute perception of the fidelity or treachery of the men who have made subservience to him their policy , that they all expect that nothing they do even in Athens will escape the master ’ s eye , as though he stood at their very elbow , and that they must needs choose their private friends and enemies in obedience to his wishes ; while those whose lives are devoted to your service , and who covet and have never betrayed the honor that you can bestow , encounter in you such dullness of hearing , such darkness of vision , that here am I today contending on equal terms with these pernicious persons , even in a court well acquainted with the whole history ."
+    },
+    {
+      "id": "227",
+      "label": "Section 227",
+      "chapter": null,
+      "original": "βούλεσθʼ οὖν εἰδέναι καὶ ἀκοῦσαι τὸ τούτων αἴτιον ; ἐγὼ δὴ φράσω , ἀξιῶ δὲ μηδένʼ ἄχθεσθαί μοι λέγοντι τἀληθῆ . ὅτι ἐκεῖνος μὲν ἕν , οἶμαι , σῶμʼ ἔχων καὶ ψυχὴν μίαν παντὶ θυμῷ καὶ φιλεῖ τοὺς ἑαυτὸν εὖ ποιοῦντας καὶ μισεῖ τοὺς τἀναντία , ὑμῶν δʼ ἕκαστος πρῶτον μὲν οὔτε τὸν εὖ ποιοῦντα τὴν πόλιν αὑτὸν εὖ ποιεῖν ἡγεῖται ,",
+      "translation": "Would you like to know the reason ? I will tell you , and I trust that you will not take offence at my candor . Philip , I take it , having one body and one soul loves those who help him and hates those who harm him with his whole heart , whereas no one of you regards the benefactor of the commonwealth as his benefactor , or the enemy of the commonwealth as his enemy ."
+    },
+    {
+      "id": "228",
+      "label": "Section 228",
+      "chapter": null,
+      "original": "οὔτε τὸν κακῶς κακῶς , ἀλλʼ ἕτερʼ ἐστὶν ἑκάστῳ προυργιαίτερα , ὑφʼ ὧν παράγεσθε πολλάκις , ἔλεος , φθόνος , ὀργή , χαρίσασθαι τῷ δεηθέντι , ἄλλα μυρία · ἂν δʼ ἄρʼ ἅπαντά τις ἐκφύγῃ , ἀλλὰ τούς γʼ οὐδένα βουλομένους εἶναι τοιοῦτον οὐ διαφεύξεται . ἡ δʼ ἐφʼ ἑκάστου τούτων ἁμαρτία κατὰ μικρὸν ὑπορρέουσα ἁθρόος τῇ πόλει βλάβη γίγνεται .",
+      "translation": "Each man has other motives , of more importance to him , and thereby you are often led astray ,— compassion , jealousy , resentment , good nature , and a thousand more . For even though a man escape every other danger , he can never wholly escape those who do not want such a person as he is to exist . But , little by little , by accumulation of these errors the foundation is sapped , and the integrity of public life collapses ."
+    },
+    {
+      "id": "229",
+      "label": "Section 229",
+      "chapter": null,
+      "original": "ὧν μηδέν , ὦ ἄνδρες Ἀθηναῖοι , πάθητε τήμερον , μηδʼ ἀφῆτε τοῦτον ὃς ὑμᾶς τηλικαῦτʼ ἠδίκηκεν . καὶ γὰρ ὡς ἀληθῶς τίς ἔσται λόγος περὶ ὑμῶν , εἰ τοῦτον ἀφήσετε ; Ἀθήνηθεν ἐπρέσβευσάν τινες ὡς Φίλιππον τουτονί , Φιλοκράτης , Αἰσχίνης , Φρύνων , Δημοσθένης . τί οὖν ; ὁ μὲν πρὸς τῷ μηδὲν ἐκ τῆς πρεσβείας λαβεῖν τοὺς αἰχμαλώτους ἐκ τῶν ἰδίων ἐλύσατο · ὁ δʼ ὧν τὰ τῆς πόλεως πράγματα χρημάτων ἀπέδοτο , τούτων πόρνας ἠγόραζε καὶ ἰχθῦς περιιών .",
+      "translation": "Do not , men of Athens , give way to these motives today . Do not acquit the man who has done you such grievous wrong . Think of the story that will be told , if you do acquit him . Once upon a time certain ambassadors went from Athens to see Philip , and their names were Philocrates , Aeschines , Phryno , and Demosthenes . One of them not only made no gain from his mission , but delivered captives at his own expense ; but another went about buying harlots and fish with the money for which he had sold his country ."
+    },
+    {
+      "id": "230",
+      "label": "Section 230",
+      "chapter": null,
+      "original": "καὶ ὁ μὲν τὸν υἱὸν ἔπεμψε Φιλίππῳ , πρὶν εἰς ἄνδρας ἐγγράψαι , ὁ μιαρὸς Φρύνων · ὁ δʼ οὐδὲν ἀνάξιον οὔτε τῆς πόλεως οὔθʼ αὑτοῦ διεπράξατο . καὶ ὁ μὲν χορηγῶν καὶ τριηραρχῶν ἔτι καὶ ταῦτʼ ᾤετο δεῖν ἐθελοντὴς ἀναλίσκειν , λύεσθαι , μηδένʼ ἐν συμφορᾷ τῶν πολιτῶν διʼ ἔνδειαν περιορᾶν · ὁ δὲ τοσούτου δεῖ τῶν ὑπαρχόντων τινʼ αἰχμάλωτον σῶσαι , ὥσθʼ ὅλον τόπον καὶ πλεῖν ἢ μυρίους μὲν ὁπλίτας , ὁμοῦ δὲ χιλίους ἱππέας τῶν ὑπαρχόντων συμμάχων ὅπως αἰχμάλωτοι γένωνται Φιλίππῳ , συμπαρεσκεύασεν .",
+      "translation": "One of them , named Phryno , a bold , bad man , sent his son to Philip before he had put him on the list of citizens ; but another did not do anything that was unworthy of his country or himself . Though he was still paying for a chorus and a man-of-war , [*] he thought it only right to spend more money of his own free will , to ransom captives , and to allow none of his countrymen to suffer distress through poverty . But another , instead of delivering any of the Athenians who were already in captivity , helped to bring a whole district , and ten thousand of the infantry and about a thousand of the cavalry of the allies into captivity to Philip ."
+    },
+    {
+      "id": "231",
+      "label": "Section 231",
+      "chapter": null,
+      "original": "τί οὖν μετὰ ταῦτα ; Ἀθηναῖοι λαβόντες , ᾔδεσαν μὲν γὰρ πάλαι · τί δέ ; τοὺς μὲν χρήματʼ εἰληφότας καὶ δῶρα καὶ καταισχύναντας ἑαυτούς , τὴν πόλιν , τοὺς ἑαυτῶν παῖδας , ἀφεῖσαν καὶ νοῦν ἔχειν ἡγοῦντο καὶ τὴν πόλιν εὐθενεῖσθαι · τὸν δὲ κατηγοροῦντα τί ; ἐμβεβροντῆσθαι , τὴν πόλιν ἀγνοεῖν , οὐκ ἔχειν ὅποι τὰ ἑαυτοῦ ῥίπτῃ .",
+      "translation": "The sequel was that the Athenians caught these bad men , for they knew all about it , and — what do you think ? They released the men who had taken bribes and had disgraced themselves , the city , and their own children , because they thought that they were very sensible men , and that the city was going on nicely ; but they thought that the man who accused them had gone out of his mind , and that he did not understand Athens , and that he did not know even how to fling his money away ."
+    },
+    {
+      "id": "232",
+      "label": "Section 232",
+      "chapter": null,
+      "original": "καὶ τίς , ὦ ἄνδρες Ἀθηναῖοι , τοῦτʼ ἰδὼν τὸ παράδειγμα , δίκαιον αὑτὸν παρασχεῖν ἐθελήσει ; τίς προῖκα πρεσβεύειν , εἰ μήτε λαβεῖν μήτε τῶν εἰληφότων ἀξιοπιστότερον παρʼ ὑμῖν εἶναι δοκεῖν ὑπάρξει ; οὐ μόνον κρίνετε τούτους τήμερον , οὔ , ἀλλὰ καὶ νόμον τίθεσθʼ εἰς ἅπαντα τὸν μετὰ ταῦτα χρόνον , πότερον χρημάτων αἰσχρῶς ὑπὲρ τῶν ἐχθρῶν πρεσβεύειν ἅπαντας προσήκει ἢ προῖχʼ ὑπὲρ ὑμῶν τὰ βέλτιστʼ ἀδωροδοκήτως .",
+      "translation": "With this example before his eyes , who , men of Athens , will ever wish to prove himself an honest man , or to go on embassy for nothing , if he is neither to make money nor to be held more worthy of your confidence than those who have made money ? Today you are not merely adjudging this case : you are legislating for all future time , whether every ambassador is basely to serve your enemies for hire , or without fee or bribe to give his best service to you ."
+    },
+    {
+      "id": "233",
+      "label": "Section 233",
+      "chapter": null,
+      "original": "ἀλλὰ μὴν περὶ μὲν τῶν ἄλλων οὐδενὸς προσδεῖσθε μάρτυρος · ὡς δὲ τὸν υἱὸν ἔπεμψεν ὁ Φρύνων , κάλει μοι τούτων τοὺς μάρτυρας .\nτοῦτον μὲν τοίνυν οὐκ ἔκρινεν Αἰσχίνης , ὅτι τὸν αὑτοῦ παῖδʼ ἐπʼ αἰσχύνῃ πρὸς Φίλιππον ἔπεμψεν . εἰ δέ τις ὢν ἐφʼ ἡλικίας ἑτέρου βελτίων τὴν ἰδέαν , μὴ προϊδόμενος τὴν ἐξ ἐκείνης τῆς ὄψεως ὑποψίαν , ἰταμώτερον τῷ μετὰ ταῦτʼ ἐχρήσατο βίῳ , τοῦτον ὡς πεπορνευμένον κέκρικεν .",
+      "translation": "On these matters you need no further witness ; but to prove that Phryno did send his son to Philip , please call the witnesses .\nNow Aeschines never prosecuted Phryno for sending his own son to Philip with a dishonorable intention . But if a man [*] in the bloom of his youth was more comely than others , and if , disregarding the suspicion that his personal charm might provoke , he has lived rather recklessly in later years , Aeschines must needs proceed against that man for immorality ."
+    },
+    {
+      "id": "234",
+      "label": "Section 234",
+      "chapter": null,
+      "original": "φέρε δὴ περὶ τῆς ἑστιάσεως καὶ τοῦ ψηφίσματος εἴπω · μικροῦ γʼ , ἃ μάλιστά μʼ ἔδει πρὸς ὑμᾶς εἰπεῖν , παρῆλθεν . τῆς πρώτης ἐκείνης πρεσβείας γράφων τὸ προβούλευμʼ ἐγὼ καὶ πάλιν ἐν τῷ δήμῳ ταῖς ἐκκλησίαις , ἐν αἷς ἐμέλλετε βουλεύεσθαι περὶ τῆς εἰρήνης , οὐδενὸς οὔτε λόγου πω παρὰ τούτων οὔτʼ ἀδικήματος ὄντος φανεροῦ , τὸ νόμιμον ἔθος ποιῶν , καὶ ἐπῄνεσα τούτους καὶ εἰς πρυτανεῖον ἐκάλεσα .",
+      "translation": "Now let me say a word about my entertainment and my decree . I had nearly forgotten those all-important topics ! When I was drafting the provisional resolution of the Council respecting the earlier embassy , and again in addressing the people at the Assemblies that were held to discuss the terms of peace , I followed the usual custom , and included a vote of thanks and an invitation to the public mess-table ; for at that time no wrongful word or act of theirs had been disclosed ."
+    },
+    {
+      "id": "235",
+      "label": "Section 235",
+      "chapter": null,
+      "original": "καὶ νὴ Δίʼ ἔγωγε καὶ τοὺς παρὰ τοῦ Φιλίππου πρέσβεις ἐξένισα , καὶ πάνυ γʼ , ὦ ἄνδρες Ἀθηναῖοι , λαμπρῶς · ἐπειδὴ γὰρ ἑώρων αὐτοὺς καὶ ἐπὶ τοῖς τοιούτοις ἐκεῖ σεμνυνομένους ὡς εὐδαίμονας καὶ λαμπρούς , εὐθὺς ἡγούμην ἐν τούτοις πρῶτον περιεῖναι δεῖν αὐτῶν καὶ μεγαλοψυχότερος φαίνεσθαι . ταῦτα δὴ παρέξεται νῦν οὗτος λέγων ὡς αὐτὸς ἐπῄνεσεν ἡμᾶς , αὐτὸς εἱστία τοὺς πρέσβεις , τὸ πότʼ οὐ διορίζων .",
+      "translation": "It is also true that I entertained Philip ’ s ambassadors , and did the thing very handsomely ; for , having observed in their own country that they take pride in such hospitality as evidence of wealth and splendor , I thought it my duty to outdo them with a more striking display of munificence . On the strength of these incidents , Aeschines will tell you : Demosthenes thanked us , and entertained the ambassadors himself — without marking the distinction of time ."
+    },
+    {
+      "id": "236",
+      "label": "Section 236",
+      "chapter": null,
+      "original": "ἔστι δὲ ταῦτα πρὸ τοῦ τὴν πόλιν ἠδικῆσθαί τι καὶ φανεροὺς τούτους πεπρακότας αὑτοὺς γενέσθαι , ὅτʼ ἄρτι μὲν ἧκον οἱ πρέσβεις τὸ πρῶτον , ἔδει δʼ ἀκοῦσαι τὸν δῆμον τί λέγουσιν , οὐδέπω δʼ οὔθʼ οὗτος συνερῶν δῆλος ἦν τῷ Φιλοκράτει οὔτʼ ἐκεῖνος τοιαῦτα γράψων . ἂν δὴ ταῦτα λέγῃ , μέμνησθε τοὺς χρόνους ὅτι τῶν ἀδικημάτων εἰσὶ πρότεροι . μετὰ ταῦτα δʼ οὐδὲν ἐμοὶ πρὸς τούτους οἰκεῖον οὐδὲ κοινὸν γέγονεν . λέγε τὴν μαρτυρίαν .\nΜΑΡΤΥΡΙΑ .",
+      "translation": "All this took place before the country had suffered wrong , and before it was evident that the envoys had sold themselves , immediately after the first return of the envoys , when the people had still to hear their report , and when it was not yet known that Aeschines would support Philocrates , or that Philocrates would move such a resolution . If he mentions the incidents , bear in mind that the dates were earlier than their offences , and that I have never since had any intimacy or any association with them . Read the deposition .\n( The Deposition is read )"
+    },
+    {
+      "id": "237",
+      "label": "Section 237",
+      "chapter": null,
+      "original": "ἴσως τοίνυν ἀδελφὸς αὐτῷ συνερεῖ Φιλοχάρης καὶ Ἀφόβητος · πρὸς οὓς ἀμφοτέρους ὑμῖν πολλὰ καὶ δίκαιʼ ἔστιν εἰπεῖν . ἀνάγκη δʼ , ὦ ἄνδρες Ἀθηναῖοι , μετὰ παρρησίας διαλεχθῆναι , μηδὲν ὑποστελλόμενον . ἡμεῖς , Ἀφόβητε καὶ σὺ Φιλόχαρες , σὲ μὲν τὰς ἀλαβαστοθήκας γράφοντα καὶ τὰ τύμπανα , τούτους δʼ ὑπογραμματέας καὶ τοὺς τυχόντας ἀνθρώπους ( καὶ οὐδεμιᾶς κακίας ταῦτα , ἀλλʼ οὐδὲ στρατηγίας γʼ ἄξια ) πρεσβειῶν , στρατηγιῶν , τῶν μεγίστων τιμῶν ἠξιώσαμεν .",
+      "translation": "Perhaps he will find a brother to speak for him , Philochares or Aphobetus ; to both of whom there is much that you can say with justice . ( One must converse quite frankly , without any reserve .) We , Aphobetus and Philochares , although you , Philochares , were a painter of alabaster boxes and tambourines , and your brothers ordinary people , junior clerks and the like ,— respectable occupations , but hardly suitable for commanding officers ,— we , I say , dignified you with embassies , commands as generals , and other high distinctions ."
+    },
+    {
+      "id": "238",
+      "label": "Section 238",
+      "chapter": null,
+      "original": "εἰ τοίνυν μηδὲν ὑμῶν ἠδίκει μηδείς , οὐχ ἡμεῖς χάριν ὑμῖν οὐδενός , ἀλλʼ ὑμεῖς ἡμῖν δικαίως ἂν ἔχοιτε τούτων · πολλοὺς γὰρ ὑμῶν μᾶλλον ἀξίους τιμᾶσθαι παρέντες ἡμεῖς ὑμᾶς ἐσεμνύνομεν . εἰ δὲ δὴ καὶ ἐν αὐτοῖς οἷς ἐτιμᾶσθʼ ἠδίκηκέ τις ὑμῶν , καὶ ταῦτα τοιαῦτα , πόσῳ μᾶλλον ἂν μισοῖσθε δικαίως ἢ σῴζοισθε ; ἐγὼ μὲν οἶμαι πολλῷ . βιάσονται τοίνυν ἴσως , μεγαλόφωνοι καὶ ἀναιδεῖς ὄντες , καὶ τὸ συγγνώμη ἀδελφῷ βοηθεῖν προσειληφότες .",
+      "translation": "Even if none of the family had committed any crime , you would have no claim on our gratitude , but we should have a large claim on yours ; for we passed over many much more worthy claimants , and glorified you . But if in the actual enjoyment of those dignities one of you has committed a crime , and such a crime as this , do you not all deserve abhorrence much more than deliverance ? That is my view . However , they will storm and bluster ,— for they have very loud voices and very little modesty ,— and will remind you that it is no sin to help your kin ."
+    },
+    {
+      "id": "239",
+      "label": "Section 239",
+      "chapter": null,
+      "original": "ὑμεῖς δὲ μὴ ἡττᾶσθε , ἐκεῖνʼ ἐνθυμούμενοι , ὅτι τούτοις μὲν τούτου · προσήκει φροντίζειν , ὑμῖν δὲ τῶν νόμων καὶ ὅλης τῆς πόλεως καὶ παρὰ πάντα τῶν ὅρκων , οὓς αὐτοὶ κάθησθʼ ὀμωμοκότες . καὶ γὰρ εἰ τινῶν δεδέηνται τουτονὶ σῴζειν , πότερʼ ἂν μηδὲν ἀδικῶν φαίνηται τὴν πόλιν ἢ κἂν ἀδικῶν , σκοπεῖτε . εἰ μὲν γὰρ ἂν μή , κἀγώ φημι δεῖν , εἰ δʼ ὅλως κἂν ὁτιοῦν , ἐπιορκεῖν δεδέηνται . οὐ γὰρ εἰ κρύβδην ἐστὶν ἡ ψῆφος , λήσει τοὺς θεούς , ἀλλὰ τοῦτο καὶ πάντων ἄρισθʼ ὁ τιθεὶς τὸν νόμον εἶδε τὸ κρύβδην ψηφίζεσθαι , ὅτι τούτων μὲν οὐδεὶς εἴσεται τὸν ἑαυτῷ κεχαρισμένον ὑμῶν , οἱ θεοὶ δʼ εἴσονται καὶ τὸ δαιμόνιον τὸν μὴ τὰ δίκαια ψηφισάμενον .",
+      "translation": "Do not give way to them . It is their business to think of Aeschines ; it is your business to think of the laws , of the whole commonwealth , and above all of the oath in virtue of which you sit in that box . If they have besought any of you to deliver him , ask yourselves whether they mean in case he is not , or in case he is , guilty of a crime against the common weal . If they mean in case he is not guilty , I admit the plea ; but if they mean , deliver him in any case , they have entreated you to perjure yourselves . For though the vote is secret , it will not escape the eye of Heaven . The legislator wisely discerned herein the essence of secret voting , that no suppliant shall know the name of the juror who has granted his prayer , but the gods and the divine spirit will know him who has cast an unrighteous vote ."
+    },
+    {
+      "id": "240",
+      "label": "Section 240",
+      "chapter": null,
+      "original": "παρʼ ὧν κρεῖττόν ἐστιν ἑκάστῳ τὰς ἀγαθὰς ἐλπίδας τοῖς παισὶ καὶ ἑαυτῷ , τὰ δίκαια γνόντα καὶ τὰ προσήκοντα , περιποιήσασθαι ἢ τὴν ἀφανῆ καὶ ἄδηλον τούτοις χάριν καταθέσθαι , καὶ ἀφεῖναι τοῦτον ὃς αὐτὸς ἑαυτοῦ καταμεμαρτύρηκεν . τίνα γάρ , Αἰσχίνη , μάρτυρα μείζω παράσχωμαι τοῦ πολλὰ καὶ δεινὰ πεπρεσβεῦσθαί σοι ἢ σὲ κατὰ σαυτοῦ ; ὃς γὰρ ᾠήθης χρῆναι τὸν φανερόν τι ποιῆσαι βουληθέντα τῶν σοὶ πεπρεσβευμένων τηλικαύτῃ καὶ τοιαύτῃ συμφορᾷ περιβαλεῖν , δῆλον ὅτι δεινὸν ἄν τι παθεῖν σαυτὸν ἤλπιζες , εἰ πύθοινθʼ οὗτοι τὰ πεπραγμένα σοι .",
+      "translation": "Far better for each of you to make good his hopes of the blessing of Heaven for himself and his children , by recording a righteous and a dutiful verdict , than to bestow on these men a secret and unacknowledged favor , and acquit a man convicted by his own testimony . For what more powerful evidence , Aeschines , can I adduce for the many crimes of your embassy than the evidence you have given against yourself ? You , who thought it necessary to implicate in so grievous a calamity one who purposed to bring a part of your misconduct to light , must surely have expected a terrible retribution if the jury should learn the true history of your deeds ."
+    },
+    {
+      "id": "241",
+      "label": "Section 241",
+      "chapter": null,
+      "original": "τοῦτο τοίνυν , ἄνπερ ὑμεῖς εὖ φρονῆτε , καθʼ αὑτοῦ συμβήσεται τούτῳ πεπρᾶχθαι , οὐ μόνον κατὰ τοῦθʼ ὅτι παμμέγεθες σημεῖόν ἐστι τῶν πεπρεσβευμένων , ἀλλʼ ὅτι καὶ κατηγορῶν ἐκείνους τοὺς λόγους εἶπεν οἳ κατʼ αὐτοῦ νῦν ὑπάρχουσιν · ἃ γὰρ ὡρίσω σὺ δίκαια , ὅτε Τίμαρχον ἔκρινες , ταὐτὰ δήπου ταῦτα καὶ κατὰ σοῦ προσήκει τοῖς ἄλλοις ἰσχύειν .",
+      "translation": "If you are wise , that performance of his will now be turned to his disadvantage , not only because it was a powerful indication of his misconduct , but because he employed in his prosecution arguments that are now valid against himself . For surely the principles which you , Aeschines , laid down when you prosecuted Timarchus ought to have equal weight for others against you ."
+    },
+    {
+      "id": "242",
+      "label": "Section 242",
+      "chapter": null,
+      "original": "ἔλεγεν τοίνυν τότε πρὸς τοὺς δικαστὰς ὅτι ἀπολογήσεται δὲ Δημοσθένης ὑπὲρ αὐτοῦ , καὶ κατηγορήσει τῶν ἐμοὶ πεπρεσβευμένων · εἶτʼ , ἐὰν ὑμᾶς ἀπαγάγῃ τῷ λόγῳ , νεανιεύσεται καὶ περιιὼν ἐρεῖ · πῶς τι τοὺς δικαστὰς ἀπαγαγὼν ἀπὸ τῆς ὑποθέσεως ᾠχόμην τὸ πρᾶγμʼ αὐτῶν ὑφελόμενος ; μὴ σύ γε , ἀλλʼ ὑπὲρ ὧν ἀγωνίζει , περὶ τούτων ἀπολογοῦ · τότε δʼ , ἡνίκʼ ἐκεῖνον ἔκρινες , ἐξῆν σοι κατηγορεῖν καὶ λέγειν ὅ τι ἐβούλου .",
+      "translation": "Now on that occasion he observed to the jury : Demosthenes will conduct this man ’ s defence , and will denounce my conduct of the embassy ; and then , if he leads you astray by his speech , he will go about in his conceited way , and boast : How did I do it ? What did I say ? Why , I led the jury clean away from the question ; filched the whole case from them , and came off triumphant . Then do not follow my example : address your defence to the real issue . You had your opportunity of denouncing and saying what you chose when you were the prosecutor ."
+    },
+    {
+      "id": "243",
+      "label": "Section 243",
+      "chapter": null,
+      "original": "ἀλλὰ μὴν καὶ ἔπη τοῖς δικασταῖς ἔλεγες , οὐδένα μάρτυρʼ ἔχων ἐφʼ οἷς ἔκρινες τὸν ἄνθρωπον παρασχέσθαι ·\nφήμη δʼ οὔ τις πάμπαν ἀπόλλυται , ἥντινα λαοὶ πολλοὶ φημίξωσι · θεός νύ τίς ἐστι καὶ αὐτή .\nHes. WD 763-764 οὐκοῦν , Αἰσχίνη , καὶ σὲ πάντες οὗτοι χρήματʼ ἐκ τῆς πρεσβείας φασὶν εἰληφέναι , ὥστε καὶ κατὰ σοῦ δήπουθεν φήμη δʼ οὔ τις πάμπαν ἀπόλλυται , ἥντινα λαοὶ πολλοὶ φημίξωσιν .",
+      "translation": "Moreover , having no witnesses to produce in support of your accusations , you quoted verses to the jury :\nRumor , that many people spread abroad , Dieth not wholly : Rumor is a god .\nHesiod, Works and Days, 761. And now , Aeschines , everybody says that you made money out of your embassy ; so , of course , as against you , the rumor that many people spread abroad does not wholly die ."
+    },
+    {
+      "id": "244",
+      "label": "Section 244",
+      "chapter": null,
+      "original": "ὅσῳ γὰρ αὖ σὲ πλείους ἢ ʼκεῖνον αἰτιῶνται , θεώρησον ὡς εἴσει . τὸν μὲν Τίμαρχον οὐδʼ οἱ πρόσχωροι πάντες ἐγίγνωσκον , ὑμᾶς δὲ τοὺς πρέσβεις οὐδεὶς Ἑλλήνων οὐδὲ βαρβάρων ἔσθʼ ὅστις οὔ φησι χρήματʼ ἐκ τῆς πρεσβείας εἰληφέναι . ὥστʼ , εἴπερ ἐστʼ ἀληθὴς ἡ φήμη , καθʼ ὑμῶν ἐστιν ἡ παρὰ τῶν πολλῶν , ἣν ὅτι πιστὴν εἶναι δεῖ καὶ θεός νύ τίς ἐστι καὶ αὐτή , καὶ ὅτι σοφὸς ἦν ὁ ποιητὴς ὁ ταῦτα ποιήσας , σὺ διώρισας αὐτός .",
+      "translation": "That you may understand how far more numerous are your accusers than those of Timarchus , observe this . He was not known even to all his neighbors ; but there is not a man in Greece or in foreign parts who does not aver that you ambassadors made gain of your embassy . If rumor is true , the rumor of the multitude is against you ; and for the veracity , and even the divinity , of rumor , and for the wisdom of the poet who composed these verses , we have your own assurance ."
+    },
+    {
+      "id": "245",
+      "label": "Section 245",
+      "chapter": null,
+      "original": "ἔτι τοίνυν ἰαμβεῖα δήπου συλλέξας ἐπέραινεν , οἷον\nὅστις δʼ ὁμιλῶν ἥδεται κακοῖς ἀνήρ , οὐ πώποτʼ ἠρώτησα , γιγνώσκων ὅτι τοιοῦτός ἐσθʼ οἵοισπερ ἥδεται ξυνών .\nunknown εἶτα τὸν εἰς τοὺς ὄρνεις εἰσιόντα καὶ μετὰ Πιτταλάκου περιιόντα , καὶ τοιαῦτʼ εἰπών , ἀγνοεῖτʼ , ἔφη , ποῖόν τινʼ ἡγεῖσθαι δεῖ ; οὐκοῦν , Αἰσχίνη , καὶ κατὰ σοῦ τὰ ἰαμβεῖα ταῦθʼ ἁρμόσει νῦν ἐμοί , κἂν ἐγὼ λέγω πρὸς τούτους , ὀρθῶς καὶ προσηκόντως ἐρῶ · ὅστις δʼ ὁμιλῶν ἥδεται , καὶ ταῦτα πρεσβεύων , Φιλοκράτει , οὐ πώποτʼ ἠρώτησα , γιγνώσκων ὅτι ἀργύριον εἴληφʼ οὗτος , ὥσπερ Φιλοκράτης ὁ ὁμολογῶν .",
+      "translation": "After these heroics he naturally proceeds to collect and declaim some iambic poetry , for instance :\nWhoso delights to walk with wicked men , Of him I ask not , for I know him such As are the men whose converse pleases him .\nUnknown Then follows the passage about the man who frequented cockpits , and consorted with Pittalacus , and so forth ; do you not know what his character is ? Well , Aeschines , your iambics shall now serve my turn for an observation about you . I shall be speaking with the propriety of the Tragic Muse , when I say to the jury : Whoso delights to walk ( especially on an embassy ) with Philocrates , of him I ask not , for I know him well — to have taken bribes , as Philocrates did , who made confession ."
+    }
+  ],
+  "prevChunkSlug": "on-the-false-embassy-xdl5xh-3",
+  "nextChunkSlug": "on-the-false-embassy-xdl5xh-5"
+}

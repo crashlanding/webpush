@@ -1,0 +1,61 @@
+{
+  "loebNumber": 280,
+  "sortOrder": 280,
+  "slug": "vitruvius-on-architecture-volume-ii-1h5zjd",
+  "title": "On Architecture, Volume II",
+  "volumeLabel": "On Architecture, Volume II",
+  "authorDisplay": "Vitruvius",
+  "authors": [
+    "Vitruvius"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for On Architecture, Volume II. On Architecture, Volume II currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "on-architecture-volume-ii-pgmfz2",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "on-architecture-volume-ii-pgmfz2",
+      "title": "On Architecture, Volume II",
+      "status": "ready",
+      "sectionCount": 41,
+      "chunkSlug": "on-architecture-volume-ii-pgmfz2",
+      "chunks": [
+        {
+          "slug": "on-architecture-volume-ii-pgmfz2",
+          "label": "On Architecture, Volume II",
+          "partId": "on-architecture-volume-ii-pgmfz2",
+          "partTitle": "On Architecture, Volume II",
+          "sectionCount": 41,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "on-architecture-volume-ii-pgmfz2",
+      "label": "On Architecture, Volume II",
+      "partId": "on-architecture-volume-ii-pgmfz2",
+      "partTitle": "On Architecture, Volume II",
+      "sectionCount": 41,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "on-architecture-volume-ii-pgmfz2",
+      "partTitle": "On Architecture, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "On Architecture, De architectura libri decem",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1056.phi001.perseus-lat1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Architecture, Virtruvius the ten books on architecture",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1056.phi001.perseus-eng1/"
+      }
+    }
+  ]
+}

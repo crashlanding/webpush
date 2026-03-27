@@ -1,0 +1,61 @@
+{
+  "loebNumber": 336,
+  "sortOrder": 336,
+  "slug": "celsus-on-medicine-volume-iii-1mjbc0",
+  "title": "On Medicine, Volume III",
+  "volumeLabel": "On Medicine, Volume III",
+  "authorDisplay": "Celsus",
+  "authors": [
+    "Celsus"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for On Medicine, Volume III. On Medicine, Volume III is partitioned from De Medicina to approximate the Loeb volume boundaries with local Scaife assets.",
+  "status": "ready",
+  "defaultChunkSlug": "on-medicine-volume-iii-gesdci",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "on-medicine-volume-iii-gesdci",
+      "title": "On Medicine, Volume III",
+      "status": "ready",
+      "sectionCount": 2,
+      "chunkSlug": "on-medicine-volume-iii-gesdci",
+      "chunks": [
+        {
+          "slug": "on-medicine-volume-iii-gesdci",
+          "label": "On Medicine, Volume III",
+          "partId": "on-medicine-volume-iii-gesdci",
+          "partTitle": "On Medicine, Volume III",
+          "sectionCount": 2,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "on-medicine-volume-iii-gesdci",
+      "label": "On Medicine, Volume III",
+      "partId": "on-medicine-volume-iii-gesdci",
+      "partTitle": "On Medicine, Volume III",
+      "sectionCount": 2,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "on-medicine-volume-iii-gesdci",
+      "partTitle": "On Medicine, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Medicina",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0836.phi002.perseus-lat4/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "De Medicina",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0836.phi002.perseus-eng2/"
+      }
+    }
+  ]
+}

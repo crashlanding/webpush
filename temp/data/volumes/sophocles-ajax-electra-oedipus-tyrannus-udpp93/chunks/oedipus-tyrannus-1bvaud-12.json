@@ -1,0 +1,171 @@
+{
+  "volumeSlug": "sophocles-ajax-electra-oedipus-tyrannus-udpp93",
+  "volumeTitle": "Ajax. Electra. Oedipus Tyrannus",
+  "authorDisplay": "Sophocles",
+  "authors": [
+    "Sophocles"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "oedipus-tyrannus-1bvaud-12",
+  "label": "Oedipus Tyrannus (Section 1505 - Section trochaic.1530)",
+  "partId": "oedipus-tyrannus-1bvaud",
+  "partTitle": "Oedipus Tyrannus",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Οἰδίπους Τύραννος",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Oedipus Tyrannus",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1505",
+      "label": "Section 1505",
+      "chapter": null,
+      "original": "ὀλώλαμεν δύʼ ὄντε , μή σφε περιίδῃς",
+      "translation": "do not allow them to wander poor and unwed , for they are your own kin , nor abase them to the level of my woes . Pity them , seeing them deprived of everything but you at such an age ."
+    },
+    {
+      "id": "1510",
+      "label": "Section 1510",
+      "chapter": null,
+      "original": "ξύννευσον , ὦ γενναῖε , σῇ ψαύσας χερί .",
+      "translation": "Promise , noble man , and touch them with your hand . To you , children , I would have given much counsel , if your minds were mature . But now pray that you may live where occasion allows , and that the life which is your lot may be happier than your father ’ s ."
+    },
+    {
+      "id": "1515",
+      "label": "Section 1515",
+      "chapter": null,
+      "original": "ἅλις ἵνʼ ἐξήκεις δακρύων · ἀλλʼ ἴθι στέγης ἔσω .",
+      "translation": "Your grief has had a sufficient scope : move on into the house ."
+    },
+    {
+      "id": "trochaic.1516",
+      "label": "Section trochaic.1516",
+      "chapter": null,
+      "original": "πειστέον , κεἰ μηδὲν ἡδύ .",
+      "translation": "I must obey , though I do it in no way gladly ."
+    },
+    {
+      "id": "trochaic.1516a",
+      "label": "Section trochaic.1516a",
+      "chapter": null,
+      "original": "πάντα γὰρ καιρῷ καλά .",
+      "translation": "Yes , for it is in season that all things are good ."
+    },
+    {
+      "id": "trochaic.1517",
+      "label": "Section trochaic.1517",
+      "chapter": null,
+      "original": "οἶσθʼ ἐφʼ οἷς οὖν εἶμι ;",
+      "translation": "Do you know on what terms I will go ?"
+    },
+    {
+      "id": "trochaic.1517a",
+      "label": "Section trochaic.1517a",
+      "chapter": null,
+      "original": "λέξεις , καὶ τότʼ εἴσομαι κλύων .",
+      "translation": "You will tell me , and then I will know when I have heard them ."
+    },
+    {
+      "id": "trochaic.1518",
+      "label": "Section trochaic.1518",
+      "chapter": null,
+      "original": "γῆς μʼ ὅπως πέμψεις ἄποικον .",
+      "translation": "See that you send me to dwell outside this land ."
+    },
+    {
+      "id": "trochaic.1518a",
+      "label": "Section trochaic.1518a",
+      "chapter": null,
+      "original": "τοῦ θεοῦ μʼ αἰτεῖς δόσιν .",
+      "translation": "You ask for what the god must give ."
+    },
+    {
+      "id": "trochaic.1519",
+      "label": "Section trochaic.1519",
+      "chapter": null,
+      "original": "ἀλλὰ θεοῖς γʼ ἔχθιστος ἥκω .",
+      "translation": "But to the gods I have become most hateful ."
+    },
+    {
+      "id": "trochaic.1519a",
+      "label": "Section trochaic.1519a",
+      "chapter": null,
+      "original": "τοιγαροῦν τεύξει τάχα .",
+      "translation": "Then you will quickly get your wish ."
+    },
+    {
+      "id": "trochaic.1520",
+      "label": "Section trochaic.1520",
+      "chapter": null,
+      "original": "φῂς τάδʼ οὖν ;",
+      "translation": "So you consent ?"
+    },
+    {
+      "id": "trochaic.1520a",
+      "label": "Section trochaic.1520a",
+      "chapter": null,
+      "original": "ἃ μὴ φρονῶ γὰρ οὐ φιλῶ λέγειν μάτην .",
+      "translation": "It is not my way to say idly what I do not mean ."
+    },
+    {
+      "id": "trochaic.1521",
+      "label": "Section trochaic.1521",
+      "chapter": null,
+      "original": "ἄπαγέ νύν μʼ ἐντεῦθεν ἤδη .",
+      "translation": "Then it is time to lead me away ."
+    },
+    {
+      "id": "trochaic.1521a",
+      "label": "Section trochaic.1521a",
+      "chapter": null,
+      "original": "στεῖχέ νυν , τέκνων δʼ ἀφοῦ .",
+      "translation": "Come , then , but let your children go ."
+    },
+    {
+      "id": "trochaic.1522",
+      "label": "Section trochaic.1522",
+      "chapter": null,
+      "original": "μηδαμῶς ταύτας γʼ ἕλῃ μου .",
+      "translation": "No , do not take them from me !"
+    },
+    {
+      "id": "trochaic.1523",
+      "label": "Section trochaic.1523",
+      "chapter": null,
+      "original": "καὶ γὰρ ἁκράτησας οὔ σοι τῷ βίῳ ξυνέσπετο .",
+      "translation": "Do not wish to be master in all things : the mastery which you did attain has not followed you through life ."
+    },
+    {
+      "id": "trochaic.1524",
+      "label": "Section trochaic.1524",
+      "chapter": null,
+      "original": "ὦ πάτρας Θήβης ἔνοικοι , λεύσσετʼ , Οἰδίπους ὅδε ,",
+      "translation": "Residents of our native Thebes , behold , this is Oedipus ,"
+    },
+    {
+      "id": "trochaic.1525",
+      "label": "Section trochaic.1525",
+      "chapter": null,
+      "original": "ὃς τὰ κλείνʼ αἰνίγματʼ ᾔδει καὶ κράτιστος ἦν ἀνήρ ,",
+      "translation": "who knew the renowned riddle , and was a most mighty man . What citizen did not gaze on his fortune with envy ? See into what a stormy sea of troubles he has come ! Therefore , while our eyes wait to see the final destined day , we must call no mortal happy until"
+    },
+    {
+      "id": "trochaic.1530",
+      "label": "Section trochaic.1530",
+      "chapter": null,
+      "original": "τέρμα τοῦ βίου περάσῃ μηδὲν ἀλγεινὸν παθών .",
+      "translation": "he has crossed life ’ s border free from pain ."
+    }
+  ],
+  "prevChunkSlug": "oedipus-tyrannus-1bvaud-11",
+  "nextChunkSlug": null
+}

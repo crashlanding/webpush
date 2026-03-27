@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-braggart-soldier-kcqgdf-2",
+  "label": "The Braggart Soldier (Section 2.1.110 - Section 2.2.235)",
+  "partId": "the-braggart-soldier-kcqgdf",
+  "partTitle": "The Braggart Soldier",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Miles Gloriosus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Miles Gloriosus, or The Braggart Captain",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "2.1.110",
+      "label": "Section 2.1.110",
+      "chapter": null,
+      "original": "sublinit os illi lenae , matri mulieris ,",
+      "translation": "he tricked this procuress , the mother of the damsel , whom my master loved . For , unknown to her mother , he put the daughter on board ship , and carried this woman , against her will , hither to Ephesus . Soon as I knew that the lady of my master was carried off from Athens ,"
+    },
+    {
+      "id": "2.1.115",
+      "label": "Section 2.1.115",
+      "chapter": null,
+      "original": "ego quantum vivos possum mihi navem paro ,",
+      "translation": "as quickly as ever I was able , I procured for myself a ship : I embarked , that I might carry tidings of this matter to my master at Naupactum . When we had got out to sea , some pirates , as they had hoped to do , took that ship on board of which I was ; thus I was undone before I reached my master , for whom I had commenced to proceed on my voyage ."
+    },
+    {
+      "id": "2.1.120",
+      "label": "Section 2.1.120",
+      "chapter": null,
+      "original": "ille quí me cepit dat me huic dono militi .",
+      "translation": "He that took me , gave me as a present to this same Captain . After he had taken me home to his own house , I saw there that favorite of my master who lived at Athens . When , on the other hand , she perceived me , she gave me a sign with her eyes not to address her by name . Afterwards , when there was an opportunity ,"
+    },
+    {
+      "id": "2.1.125",
+      "label": "Section 2.1.125",
+      "chapter": null,
+      "original": "conqueritur mecum mulier fortunas suas :",
+      "translation": "the damsel complained to me of her hard fate . She said that she wished to escape to Athens from this house , that she was attached to him , that master of mine who lived at Athens , and that she had never hated any one more thoroughly than this same Captain . As I discovered the feelings of the damsel ,"
+    },
+    {
+      "id": "2.1.130",
+      "label": "Section 2.1.130",
+      "chapter": null,
+      "original": "cepi tabellas , consignavi , clanculum",
+      "translation": "I took tablets , sealed them in private , and gave them to a certain merchant to carry to him ( my master , I mean , who was at Athens , and who had so loved her ), in order that he might come hither . He did not slight the message , for he both is come , and is lodging here next door ,"
+    },
+    {
+      "id": "2.1.135",
+      "label": "Section 2.1.135",
+      "chapter": null,
+      "original": "apud suom paternum hóspitem , lepidum senem ;",
+      "translation": "with his host , a friend of his father ’ s , a nice old man . He , too , gives every assistance to his guest in his amour , and encourages and seconds us with his help and his advice . Therefore , here ( pointing to the CAPTAIN ’ S house ) , in-doors , I have found a grand contrivance , by which to cause these lovers , each , to meet the other ."
+    },
+    {
+      "id": "2.1.140",
+      "label": "Section 2.1.140",
+      "chapter": null,
+      "original": "nam unum conclave , concubinae quod dedit",
+      "translation": "For one room , which the Captain gave to his mistress for no one but herself to set foot in , in that same room I have dug a hole through the party-wall , in order that there may secretly be an ingress for the damsel from the one house to the other . And this I have done with the knowledge of the old gentleman ; ’ twas he that gave the advice ."
+    },
+    {
+      "id": "2.1.145",
+      "label": "Section 2.1.145",
+      "chapter": null,
+      "original": "nam meus conservos est homo haud magni preti ,",
+      "translation": "But my fellow-servant , whom the Captain has given as a keeper to his mistress , is a person of no great worth . By clever contrivances and ingenious devices , we will throw dust [*] in his eyes , and we will make him so as not to see what he really does see ."
+    },
+    {
+      "id": "2.1.150",
+      "label": "Section 2.1.150",
+      "chapter": null,
+      "original": "et mox ne erretis , haec duarum hodie vicem",
+      "translation": "And that you may not hereafter make mistakes , this damsel to-day , in this house and in that , will perform in turn a double part , and will be the same , but will pretend to be another , person . Thus will the keeper of the damsel be gulled . But there is a noise [*] at the door here of the old gentleman , our neighbour ."
+    },
+    {
+      "id": "2.1.155",
+      "label": "Section 2.1.155",
+      "chapter": null,
+      "original": "ipse exit : hic illest lepidus quem dixi senex .",
+      "translation": "’ Tis himself coming out ’ tis he , the nice old man that I was speaking of ."
+    },
+    {
+      "id": "2.2.156",
+      "label": "Section 2.2.156",
+      "chapter": null,
+      "original": "Ni hércle diffregéritis talos pósthac quemque in tégulis",
+      "translation": "Faith , if you don ’ t in future smash his ankle-bones for any stranger that you see on my tiles , I will cut you so with lashes as to make thongs of your sides . My neighbours , i ’ faith , are overlookers of what is going on in my own house ; so often are they peeping down through the skylight [*] . And now , therefore , I give you all notice ,"
+    },
+    {
+      "id": "2.2.160",
+      "label": "Section 2.2.160",
+      "chapter": null,
+      "original": "quemque a milite hoc videritis hominem in nostris tegulis ,",
+      "translation": "whatever person of this Captain ’ s household you shall see upon our tiles , except Palaestrio only , push him headlong here into the street . Suppose he says that he is following some hen , or pigeon , or monkey ; woe be to you , if you don ’ t badly maul the fellow even to death . And so , that they may commit no infringement against the laws of dice [*] ,"
+    },
+    {
+      "id": "2.2.165",
+      "label": "Section 2.2.165",
+      "chapter": null,
+      "original": "adcuratote ut sine talis domi agitent convivium .",
+      "translation": "do you take good care that they keep holiday at home without any ankle-bones at all ."
+    },
+    {
+      "id": "2.2.166",
+      "label": "Section 2.2.166",
+      "chapter": null,
+      "original": "Nescio quid malefactum a nostra hic familiast , quantum audio :",
+      "translation": "Something amiss ,— what , I know not , has been done him by our family so far as I can hear , inasmuch as the old man has ordered the ankles of my fellow-servants to be broken . But he has excepted me ; nothing care I what he does to the rest of them . I ’ ll accost the old man . ( Advances .)"
+    },
+    {
+      "id": "2.2.169b",
+      "label": "Section 2.2.169b",
+      "chapter": null,
+      "original": "Estne advorsum hic qui advenit Palaestrio ?",
+      "translation": "The person that is coming this way , is he coming towards me ? He comes as if he was coming to me ."
+    },
+    {
+      "id": "2.2.170",
+      "label": "Section 2.2.170",
+      "chapter": null,
+      "original": "Quid agis , Periplectomene ?",
+      "translation": "How do you do , Periplecomenus ?"
+    },
+    {
+      "id": "2.2.170b",
+      "label": "Section 2.2.170b",
+      "chapter": null,
+      "original": "Hau multos homines , si optandum foret ,",
+      "translation": "There are not many men , if I were to wish , whom I would rather now see and meet with than yourself ."
+    },
+    {
+      "id": "2.2.171b",
+      "label": "Section 2.2.171b",
+      "chapter": null,
+      "original": "Quid est ?",
+      "translation": "What ’ s the matter ? What disturbance have you with our family ?"
+    },
+    {
+      "id": "2.2.172b",
+      "label": "Section 2.2.172b",
+      "chapter": null,
+      "original": "Occisi sumus .",
+      "translation": "We are done for ."
+    },
+    {
+      "id": "2.2.173",
+      "label": "Section 2.2.173",
+      "chapter": null,
+      "original": "Quid negotist ?",
+      "translation": "What ’ s the matter ?"
+    },
+    {
+      "id": "2.2.173b",
+      "label": "Section 2.2.173b",
+      "chapter": null,
+      "original": "Res palamst .",
+      "translation": "The thing ’ s discovered ."
+    },
+    {
+      "id": "2.2.173c",
+      "label": "Section 2.2.173c",
+      "chapter": null,
+      "original": "Quae res palamst ?",
+      "translation": "What thing ’ s discovered ?"
+    },
+    {
+      "id": "2.2.173d",
+      "label": "Section 2.2.173d",
+      "chapter": null,
+      "original": "De tegulis",
+      "translation": "Some one just now of your household was looking in from the tiles"
+    },
+    {
+      "id": "2.2.175",
+      "label": "Section 2.2.175",
+      "chapter": null,
+      "original": "per nostrum impluvium intus ápud nos Philocomasium atque hospitem",
+      "translation": "through our skylight at Philocomasium and my guest as they were toying together ."
+    },
+    {
+      "id": "2.2.176b",
+      "label": "Section 2.2.176b",
+      "chapter": null,
+      "original": "Quis homo id vidit ?",
+      "translation": "What person saw it ?"
+    },
+    {
+      "id": "2.2.176c",
+      "label": "Section 2.2.176c",
+      "chapter": null,
+      "original": "Tuos conservos .",
+      "translation": "Your fellow-servant ."
+    },
+    {
+      "id": "2.2.176d",
+      "label": "Section 2.2.176d",
+      "chapter": null,
+      "original": "Quis is homost ?",
+      "translation": "Which person was it ?"
+    },
+    {
+      "id": "2.2.177",
+      "label": "Section 2.2.177",
+      "chapter": null,
+      "original": "Nescio , ita abripuit repente sese subito .",
+      "translation": "I don ’ t know ; he took himself off so suddenly — in an instant ."
+    },
+    {
+      "id": "2.2.177b",
+      "label": "Section 2.2.177b",
+      "chapter": null,
+      "original": "Suspicor",
+      "translation": "I suspect I ’ m ruined ."
+    },
+    {
+      "id": "2.2.178b",
+      "label": "Section 2.2.178b",
+      "chapter": null,
+      "original": "Vbi abit , conclamo : heus quid agis tu inquam in tegulis ?",
+      "translation": "When he went away , I cried : Hallo ! you sir ! said I , what are you doing upon the tiles ? As he went away he replied to me in these terms , that he was following a stray ’ d monkey ."
+    },
+    {
+      "id": "2.2.180",
+      "label": "Section 2.2.180",
+      "chapter": null,
+      "original": "Vae mihi misero , quoi pereundumst propter nihili bestiam .",
+      "translation": "Woe to wretched me ! that I must be ruined for a worthless beast . But is Philocomasium there with you even still ?"
+    },
+    {
+      "id": "2.2.181b",
+      "label": "Section 2.2.181b",
+      "chapter": null,
+      "original": "Quom exibam , hic erat .",
+      "translation": "When I came out , she was there ."
+    },
+    {
+      "id": "2.2.182",
+      "label": "Section 2.2.182",
+      "chapter": null,
+      "original": "I sis , iube transire huc quantum possit , se ut videant domi",
+      "translation": "If she is , then bid her return to our house as soon as ever she can , that the servants may see that she is at home ; unless , indeed , she wishes that we , who are slaves , her fellow-slaves [*] , should all be given up together to tortures by the cross on account of her courting ."
+    },
+    {
+      "id": "2.2.185",
+      "label": "Section 2.2.185",
+      "chapter": null,
+      "original": "Dixi ego istuc ; nisi quid aliud vis .",
+      "translation": "I bade her do so ; unless you would aught else ."
+    },
+    {
+      "id": "2.2.185b",
+      "label": "Section 2.2.185b",
+      "chapter": null,
+      "original": "Volo . hoc ei dicito :",
+      "translation": "I would . Tell her this : that , by my troth , she must not hesitate at all to bring in play her skill and cleverness ."
+    },
+    {
+      "id": "2.2.186b",
+      "label": "Section 2.2.186b",
+      "chapter": null,
+      "original": "Quem ad modum ?",
+      "translation": "In what way ?"
+    },
+    {
+      "id": "2.2.187",
+      "label": "Section 2.2.187",
+      "chapter": null,
+      "original": "Vt eum , qui hic se vidit , verbis vincat , ne is se viderit .",
+      "translation": "That by her words she may persuade him who saw her here at your house , that he did not see her ."
+    },
+    {
+      "id": "2.2.188",
+      "label": "Section 2.2.188",
+      "chapter": null,
+      "original": "siquidem centiens hic visa sit , tamen infitias eat .",
+      "translation": "Even though she were seen a hundred times over , still let her deny it ."
+    },
+    {
+      "id": "2.2.189",
+      "label": "Section 2.2.189",
+      "chapter": null,
+      "original": "os habet , linguam , perfidiam , malitiam atque audaciam ,",
+      "translation": "at home she has impudence [*] , a lying tongue , perfidiousness , malice , and boldness , self-conceit , assurance , and deceitfulness ,—"
+    },
+    {
+      "id": "2.2.190",
+      "label": "Section 2.2.190",
+      "chapter": null,
+      "original": "qui arguat se , eum contra vincat iureiurando suo :",
+      "translation": "Should he accuse her , on the other hand let her convince him with her oath ."
+    },
+    {
+      "id": "2.2.191",
+      "label": "Section 2.2.191",
+      "chapter": null,
+      "original": "domi habet animum falsiloquom , falsificum , falsiiurium ,",
+      "translation": "at home she has wiles ,— at home captivating contrivances ,— stratagems at home ."
+    },
+    {
+      "id": "2.2.193",
+      "label": "Section 2.2.193",
+      "chapter": null,
+      "original": "nam mulier holitori numquam supplicat , si quast mala :",
+      "translation": "( Aside .) For , if she is at all inclined to ill , a woman never goes begging [*] to the gardener for material , she has a garden at home and a stock of her own for all mischievous contrivances ;"
+    },
+    {
+      "id": "2.2.195",
+      "label": "Section 2.2.195",
+      "chapter": null,
+      "original": "Ego istaec , si erit hic , nuntiabo . sed quid est , Palaestrio ,",
+      "translation": "I ’ ll tell her this , if she shall be in-doors here ( pointing to his house .) But what is it , Palaestrio , that you are considering with yourself in your mind ?"
+    },
+    {
+      "id": "2.2.196b",
+      "label": "Section 2.2.196b",
+      "chapter": null,
+      "original": "Paulisper tace ,",
+      "translation": "Be silent a moment , while I am calling a council in my mind , and while I am considering what I am to do , what plan I must contrive , on the other hand , as a match for my crafty fellow-servant , who has seen her billing here in your house ; so that what was seen may not have been seen ."
+    },
+    {
+      "id": "2.2.200",
+      "label": "Section 2.2.200",
+      "chapter": null,
+      "original": "Quaere : ego hinc abscessero aps te huc interim . illuc sis vide ,",
+      "translation": "Do contrive one ; in the meantime , I ’ ll retire hence to a distance from you , to this spot . ( He retires to a distance .) Look at him , please ( to the AUDIENCE ) , revolving his cares with brow severe , how he stands . He strikes his breast with his fingers I fancy he ’ s about to call his heart outside . See , he shifts his posture ; again he places his left hand upon his left thigh . His right hand is reckoning down his plans upon his fingers ; in despair he strikes his thigh ."
+    },
+    {
+      "id": "2.2.205",
+      "label": "Section 2.2.205",
+      "chapter": null,
+      "original": "dexterum . ita vehementer icit : quod agat aegre suppetit .",
+      "translation": "His right hand is moving rapidly [*] ; with difficulty does it suggest what he is to do . He snaps his fingers now ; he ’ s striving hard ; full oft he changes his position . But see how he shakes his head ; it pleases him not what he has hit upon . Whatever it is , nothing crude will he bring forth , something well-digested will he produce . But see , he is building ; he has placed his hand as a pillar [*] beneath his chin ."
+    },
+    {
+      "id": "2.2.210",
+      "label": "Section 2.2.210",
+      "chapter": null,
+      "original": "apage , non placet profecto mi illaec aedificatio ;",
+      "translation": "Have done with it in truth , this mode of building pleases me not ; for I have heard say that the head of a foreign Poet [*] is wont to be supported thus , over whom two guards are ever at all hours keeping watch . Bravo ! how becomingly he stands ,— i ’ faith , how like a very slave [*] , and how faithful to his part . Never , this day , will he rest , before he has completed that which he is in search of ."
+    },
+    {
+      "id": "2.2.215",
+      "label": "Section 2.2.215",
+      "chapter": null,
+      "original": "habet opinor . age si quid agis , vigila , ne somno stude ,",
+      "translation": "He has it , I suspect . Come — to the business you ’ re about : keep wide awake , think not of sleep ; unless , indeed , you wish to be keeping your watch here all checquered o ’ er with stripes . ’ Tis I , that am talking to you ; schemer , don ’ t you know that I am speaking to you ? Palaestrio ! awake , say ; arouse yourself , I say ; ’ tis daylight now , I say ."
+    },
+    {
+      "id": "2.2.218b",
+      "label": "Section 2.2.218b",
+      "chapter": null,
+      "original": "Audio .",
+      "translation": "I hear you ."
+    },
+    {
+      "id": "2.2.219",
+      "label": "Section 2.2.219",
+      "chapter": null,
+      "original": "Viden hostis tibi adesse tuoque tergo obsidium ? consule ,",
+      "translation": "Don ’ t you see that the enemy is upon you , and that siege is being laid to your back ? Take counsel , then ;"
+    },
+    {
+      "id": "2.2.220",
+      "label": "Section 2.2.220",
+      "chapter": null,
+      "original": "arripe opem auxiliumque ad hanc rem : propere hoc , non placide decet .",
+      "translation": "obtain aid and assistance in this matter ; the hastily , not the leisurely , is befitting here . Get the start of them in some way , and in some direction this moment lead around your troops . Close round the enemy in siege ; prepare the convoy for our side . Cut off the enemy ’ s provision , secure yourself a passage , by which supplies and provision may be enabled in safety to reach yourself and your forces . Look to this business ; the emergency is sudden ."
+    },
+    {
+      "id": "2.2.226",
+      "label": "Section 2.2.226",
+      "chapter": null,
+      "original": "reperi , comminiscere , cedo calidum consilium cito ,",
+      "translation": "Invent — contrive — this instant give us some clever plan ; so that that which has been seen here within , may not have been seen ; that which has been done , may not have been done . There , my man , you undertake a great enterprise ; lofty the defences which you erect . If you yourself alone but say you undertake this , I have a certainty"
+    },
+    {
+      "id": "2.2.230",
+      "label": "Section 2.2.230",
+      "chapter": null,
+      "original": "nos inimicos profligare posse .",
+      "translation": "that we are able to rout our foes ."
+    },
+    {
+      "id": "2.2.230b",
+      "label": "Section 2.2.230b",
+      "chapter": null,
+      "original": "Dico et recipio",
+      "translation": "I do say so , and I do undertake it ."
+    },
+    {
+      "id": "2.2.231b",
+      "label": "Section 2.2.231b",
+      "chapter": null,
+      "original": "Et ego impetrare dico id quod petis .",
+      "translation": "And I do pronounce that you shall obtain that which you desire ."
+    },
+    {
+      "id": "2.2.231c",
+      "label": "Section 2.2.231c",
+      "chapter": null,
+      "original": "At te Iuppiter",
+      "translation": "May Jupiter kindly bless you then !"
+    },
+    {
+      "id": "2.2.232b",
+      "label": "Section 2.2.232b",
+      "chapter": null,
+      "original": "Auden participare me quod commentus escommentu's ?",
+      "translation": "But , friend , do you impart to me the plan which you have devised ."
+    },
+    {
+      "id": "2.2.232c",
+      "label": "Section 2.2.232c",
+      "chapter": null,
+      "original": "Tace ,",
+      "translation": "Be silent , then , while I am inducting you in the direction of my devices ; that you may know as well as my own self my plans ."
+    },
+    {
+      "id": "2.2.234b",
+      "label": "Section 2.2.234b",
+      "chapter": null,
+      "original": "Salva sumes indidem .",
+      "translation": "The same you shall receive safe from the same spot where you have deposited them ."
+    },
+    {
+      "id": "2.2.235",
+      "label": "Section 2.2.235",
+      "chapter": null,
+      "original": "Erus meus elephanti corio circumtentust , non suo ,",
+      "translation": "My master is surrounded with the hide of an elephant , not his own , and has no more wisdom than a stone ."
+    }
+  ],
+  "prevChunkSlug": "the-braggart-soldier-kcqgdf-1",
+  "nextChunkSlug": "the-braggart-soldier-kcqgdf-3"
+}

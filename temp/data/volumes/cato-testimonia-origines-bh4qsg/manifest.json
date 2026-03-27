@@ -1,0 +1,68 @@
+{
+  "loebNumber": 551,
+  "sortOrder": 551,
+  "slug": "cato-testimonia-origines-bh4qsg",
+  "title": "Testimonia. Origines",
+  "volumeLabel": "Testimonia. Origines",
+  "authorDisplay": "Cato",
+  "authors": [
+    "Cato"
+  ],
+  "language": "latin",
+  "summary": "1 of 2 contents in Testimonia. Origines are live from Scaife, while the remaining contents stay visible until a confident pair is available.",
+  "status": "partial",
+  "defaultChunkSlug": "testimonia-ths3x",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "testimonia-ths3x",
+      "title": "Testimonia",
+      "status": "ready",
+      "sectionCount": 58,
+      "chunkSlug": "testimonia-ths3x",
+      "chunks": [
+        {
+          "slug": "testimonia-ths3x",
+          "label": "Testimonia",
+          "partId": "testimonia-ths3x",
+          "partTitle": "Testimonia",
+          "sectionCount": 58,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "origines-nvj8tw",
+      "title": "Origines",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Origines."
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "testimonia-ths3x",
+      "label": "Testimonia",
+      "partId": "testimonia-ths3x",
+      "partTitle": "Testimonia",
+      "sectionCount": 58,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "testimonia-ths3x",
+      "partTitle": "Testimonia",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Τίμων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg022.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Timon, or the Misanthrope",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg022.perseus-eng2/"
+      }
+    }
+  ]
+}

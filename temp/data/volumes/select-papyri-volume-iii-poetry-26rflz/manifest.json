@@ -1,0 +1,27 @@
+{
+  "loebNumber": 360,
+  "sortOrder": 360,
+  "slug": "select-papyri-volume-iii-poetry-26rflz",
+  "title": "Volume III: Poetry",
+  "volumeLabel": "Volume III: Poetry",
+  "authorDisplay": "Select Papyri",
+  "authors": [
+    "Select Papyri"
+  ],
+  "language": "mixed",
+  "summary": "A catalog placeholder for Volume III: Poetry. Scaife does not currently provide a confidently matchable original-and-English pair for this volume.",
+  "status": "placeholder",
+  "defaultChunkSlug": null,
+  "readyChunkCount": 0,
+  "contents": [
+    {
+      "id": "poetry-13mhvx",
+      "title": "Poetry",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Poetry."
+    }
+  ],
+  "chunks": [],
+  "citations": []
+}

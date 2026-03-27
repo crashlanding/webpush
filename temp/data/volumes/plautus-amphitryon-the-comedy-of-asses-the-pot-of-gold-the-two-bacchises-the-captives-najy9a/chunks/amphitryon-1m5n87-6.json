@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-amphitryon-the-comedy-of-asses-the-pot-of-gold-the-two-bacchises-the-captives-najy9a",
+  "volumeTitle": "Amphitryon. The Comedy of Asses. The Pot of Gold. The Two Bacchises. The Captives",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "amphitryon-1m5n87-6",
+  "label": "Amphitryon (Section 2.1.575c - Section 2.2.664)",
+  "partId": "amphitryon-1m5n87",
+  "partTitle": "Amphitryon",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Amphitruo",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi001.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Amphitryon, or Jupiter in Disguise",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi001.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "2.1.575c",
+      "label": "Section 2.1.575c",
+      "chapter": null,
+      "original": "Égone ?",
+      "translation": "I wish I were so ."
+    },
+    {
+      "id": "2.1.575d",
+      "label": "Section 2.1.575d",
+      "chapter": null,
+      "original": "Tu istic . úbi bibisti ?",
+      "translation": "You are wishing for that which is fact ; where have you been drinking ?"
+    },
+    {
+      "id": "2.1.576",
+      "label": "Section 2.1.576",
+      "chapter": null,
+      "original": "Nusquam equidem bibi .",
+      "translation": "Nowhere , indeed ."
+    },
+    {
+      "id": "2.1.576b",
+      "label": "Section 2.1.576b",
+      "chapter": null,
+      "original": "Quid hoc sit hominis ?",
+      "translation": "What is this , that is the matter with the fellow ?"
+    },
+    {
+      "id": "2.1.576c",
+      "label": "Section 2.1.576c",
+      "chapter": null,
+      "original": "equidem decies dixi :",
+      "translation": "Really I have told you ten times over . I am both at home now , I say ( do you mark me ?), and I , Sosia , am with you likewise . Don ’ t I appear , master , to have told you quite distinctly , and quite circumstantially , that this is so ."
+    },
+    {
+      "id": "2.1.579b",
+      "label": "Section 2.1.579b",
+      "chapter": null,
+      "original": "Vah ,",
+      "translation": "Avaunt ,"
+    },
+    {
+      "id": "2.1.580",
+      "label": "Section 2.1.580",
+      "chapter": null,
+      "original": "ápage te a me .",
+      "translation": "get away with you from me ."
+    },
+    {
+      "id": "2.1.580b",
+      "label": "Section 2.1.580b",
+      "chapter": null,
+      "original": "Quíd est negoti ?",
+      "translation": "What ’ s the matter ?"
+    },
+    {
+      "id": "2.1.581",
+      "label": "Section 2.1.581",
+      "chapter": null,
+      "original": "Péstis te tenet .",
+      "translation": "A pestilence possesses you ."
+    },
+    {
+      "id": "2.1.581b",
+      "label": "Section 2.1.581b",
+      "chapter": null,
+      "original": "Nám quor istuc",
+      "translation": "But why do you say so to me ? I really am quite well and in perfect health , Amphitryon ."
+    },
+    {
+      "id": "2.1.583b",
+      "label": "Section 2.1.583b",
+      "chapter": null,
+      "original": "At te ego faciam",
+      "translation": "But I ’ ll make you this very day , just as you have deserved , not to be quite so well , and to be miserable instead of your perfect health , if I return home ."
+    },
+    {
+      "id": "2.1.585a",
+      "label": "Section 2.1.585a",
+      "chapter": null,
+      "original": "sequere sis , erum qui ludificas",
+      "translation": "Follow me , you who in this fashion are making sport of your master with your crack-brained talk ; you , who , since you have neglected to perform what your master ordered , are now come even of your own accord to laugh at your master . Things which neither can happen , and which no one ever yet heard of in talk , you are telling of , you villain ; on your back I ’ ll take care and make those lies to tell this very day ."
+    },
+    {
+      "id": "2.1.590",
+      "label": "Section 2.1.590",
+      "chapter": null,
+      "original": "Amphitruo , miserrima istaec miseria est servo bono ,",
+      "translation": "Amphitryon , this is the most wretched of wretchedness to a good servant , who is telling the truth to his master , if that same truth is overpowered by violence ."
+    },
+    {
+      "id": "2.1.592",
+      "label": "Section 2.1.592",
+      "chapter": null,
+      "original": "Quo id , malum , pacto potest nam ( mecum argumentis puta )",
+      "translation": "Discuss it with me by proofs . Why , how the plague can such a thing happen , for you now to be both here and at home ? That I want to be told ."
+    },
+    {
+      "id": "2.1.594",
+      "label": "Section 2.1.594",
+      "chapter": null,
+      "original": "Sum profecto et hic et illíc . hoc cuivis mirari licet ,",
+      "translation": "I really am both here and there ; this any person has a right to wonder at ; nor , Amphitryon , does this seem more . strange to you than to myself ."
+    },
+    {
+      "id": "2.1.596",
+      "label": "Section 2.1.596",
+      "chapter": null,
+      "original": "Quo modo ?",
+      "translation": "In what way ?"
+    },
+    {
+      "id": "2.1.596b",
+      "label": "Section 2.1.596b",
+      "chapter": null,
+      "original": "Nihilo , inquam , mirum magis tibi istuc quam mihi ;",
+      "translation": "In no degree , I say , is this more strange to you than to myself ; nor , so may the Deities love me , did I at first credit Sosia — me myself , until that Sosia , I myself , made me to believe me myself . In order did he relate everything , as each thing came to pass , when we sojourned with the enemy ;"
+    },
+    {
+      "id": "2.1.600",
+      "label": "Section 2.1.600",
+      "chapter": null,
+      "original": "edissertavit . tum formam una abstulit cum nomine .",
+      "translation": "and then besides , he has carried off my figure together with my name . Not even is milk more like to milk than is that I myself like to me myself . For when some time since , before daybreak , you sent me from the harbour home before you —"
+    },
+    {
+      "id": "2.1.603",
+      "label": "Section 2.1.603",
+      "chapter": null,
+      "original": "Quid igitur ?",
+      "translation": "What then ?"
+    },
+    {
+      "id": "2.1.603b",
+      "label": "Section 2.1.603b",
+      "chapter": null,
+      "original": "Prius multo ante aedis stabam quam illo adveneram .",
+      "translation": "I had been standing a long time at the door before I had got there ."
+    },
+    {
+      "id": "2.1.604",
+      "label": "Section 2.1.604",
+      "chapter": null,
+      "original": "Quas , malum , nugás ? satin tu sanus es ?",
+      "translation": "Plague on it , what nonsense ! Are you quite in your senses ?"
+    },
+    {
+      "id": "2.1.604b",
+      "label": "Section 2.1.604b",
+      "chapter": null,
+      "original": "Sic sum ut vides .",
+      "translation": "I ’ m just as you see me ."
+    },
+    {
+      "id": "2.1.605",
+      "label": "Section 2.1.605",
+      "chapter": null,
+      "original": "Huic homini nescio quid est mali mala obiectum manu ,",
+      "translation": "Some mischief , I know not what , has befallen this fellow from an evil hand [*] since he left me ."
+    },
+    {
+      "id": "2.1.606b",
+      "label": "Section 2.1.606b",
+      "chapter": null,
+      "original": "Fateor , nam sum obtusus pugnis pessume .",
+      "translation": "I confess it ; for I have been most shockingly bruised with his fists ."
+    },
+    {
+      "id": "2.1.607",
+      "label": "Section 2.1.607",
+      "chapter": null,
+      "original": "Quis te verberavit ?",
+      "translation": "Who has been beating you ?"
+    },
+    {
+      "id": "2.1.607b",
+      "label": "Section 2.1.607b",
+      "chapter": null,
+      "original": "Egomet memet , qui nunc sum domi .",
+      "translation": "I myself , who am now at home , beat me myself ."
+    },
+    {
+      "id": "2.1.608",
+      "label": "Section 2.1.608",
+      "chapter": null,
+      "original": "Cave quicquam , nisi quod rogabo te , mihi responderis .",
+      "translation": "Take you care to say nothing but what I shall ask you . Now , do you answer me . First of all , who this Sosia is , of that I want to be informed ."
+    },
+    {
+      "id": "2.1.610",
+      "label": "Section 2.1.610",
+      "chapter": null,
+      "original": "Tuos est servos .",
+      "translation": "He is your servant ."
+    },
+    {
+      "id": "2.1.610b",
+      "label": "Section 2.1.610b",
+      "chapter": null,
+      "original": "Mihi quidem uno te plus etiam est quam volo ,",
+      "translation": "Really I have even more than I desire by your own one self . Never , too , since I was born , had I a servant Sosia besides yourself ."
+    },
+    {
+      "id": "2.1.612",
+      "label": "Section 2.1.612",
+      "chapter": null,
+      "original": "At ego nunc , Amphitruo , dico : Sosiam servom tuom",
+      "translation": "But now , Amphitryon , I say this ; I ’ ll make you , I say , on your arrival , meet with another Sosia at home , a servant of yours , besides myself , a son of Davus , the same father with myself , of figure and age as well"
+    },
+    {
+      "id": "2.1.615",
+      "label": "Section 2.1.615",
+      "chapter": null,
+      "original": "qua égo sum . quid opust verbis ? geminus Sosia hic factust tibi .",
+      "translation": "just like myself . What need is there of words ? This Sosia of yours is become twofold ."
+    },
+    {
+      "id": "2.1.616",
+      "label": "Section 2.1.616",
+      "chapter": null,
+      "original": "Nimia memoras mira . sed vidistin uxorem meam ?",
+      "translation": "You talk of things extremely wonderful . But did you see my wife ?"
+    },
+    {
+      "id": "2.1.617",
+      "label": "Section 2.1.617",
+      "chapter": null,
+      "original": "Quin intro ire in aedis numquam licitum est .",
+      "translation": "Nay , but it was never allowed me to go in-doors into the house ."
+    },
+    {
+      "id": "2.1.617b",
+      "label": "Section 2.1.617b",
+      "chapter": null,
+      "original": "Quis te prohibuit ?",
+      "translation": "Who hindered you ?"
+    },
+    {
+      "id": "2.1.618",
+      "label": "Section 2.1.618",
+      "chapter": null,
+      "original": "Sosia ille , quem iam dudum dico , is qui me contudit .",
+      "translation": "This Sosia , whom I was just now telling of , he who thumped me ."
+    },
+    {
+      "id": "2.1.619",
+      "label": "Section 2.1.619",
+      "chapter": null,
+      "original": "Quis istic Sosia est ?",
+      "translation": "Who is this Sosia ?"
+    },
+    {
+      "id": "2.1.619b",
+      "label": "Section 2.1.619b",
+      "chapter": null,
+      "original": "Ego , inquam . quotiens dicendum est tibi ?",
+      "translation": "Myself , I say ; how often must it be told you ?"
+    },
+    {
+      "id": "2.1.620",
+      "label": "Section 2.1.620",
+      "chapter": null,
+      "original": "Sed quid ais ? num obdormivisti dudum ?",
+      "translation": "But how say you ? Have you been sleeping the while ?"
+    },
+    {
+      "id": "2.1.620b",
+      "label": "Section 2.1.620b",
+      "chapter": null,
+      "original": "Nusquam gentium .",
+      "translation": "Not the slightest in the world ."
+    },
+    {
+      "id": "2.1.621",
+      "label": "Section 2.1.621",
+      "chapter": null,
+      "original": "Ibi forte istum si vidisses quendam in somnis Sosiam —",
+      "translation": "Then , perhaps , you might perchance have seen some Sosia in your dreams ."
+    },
+    {
+      "id": "2.1.622",
+      "label": "Section 2.1.622",
+      "chapter": null,
+      "original": "Non soleo ego somniculose éri imperia persequi .",
+      "translation": "I am not in the habit of performing the orders of my master in a sleepy fashion . Awake I saw him , awake I now see you , awake I am talking , awake did he , a little while since , thump me about with his fists ."
+    },
+    {
+      "id": "2.1.625",
+      "label": "Section 2.1.625",
+      "chapter": null,
+      "original": "Quis homo ?",
+      "translation": "What person did so ?"
+    },
+    {
+      "id": "2.1.625b",
+      "label": "Section 2.1.625b",
+      "chapter": null,
+      "original": "Sosia , inquam , ego ille . quaeso , nonne intellegis ?",
+      "translation": "Sosia , that I myself ,— he , I say . Prithee , don ’ t you understand ?"
+    },
+    {
+      "id": "2.1.626",
+      "label": "Section 2.1.626",
+      "chapter": null,
+      "original": "Qui , malum , intellegere quisquam potis est ? ita nugas blatis .",
+      "translation": "How , the plague , can any one possibly understand ? You are jabbering such nonsense ."
+    },
+    {
+      "id": "2.1.627",
+      "label": "Section 2.1.627",
+      "chapter": null,
+      "original": "Verum actutum nosces , quom illum nosces servom Sosiam .",
+      "translation": "But you ’ ll know him shortly ."
+    },
+    {
+      "id": "2.1.628",
+      "label": "Section 2.1.628",
+      "chapter": null,
+      "original": "Sequere hac igitur me , nam mi istuc primum exquisito est opus .",
+      "translation": "Follow me this way , then ; for it is necessary for me first to enquire into this . But take care that all the things that I ordered are now brought from the ship ."
+    },
+    {
+      "id": "2.1.630",
+      "label": "Section 2.1.630",
+      "chapter": null,
+      "original": "Et memor sum et diligens , ut quae imperes compareant ;",
+      "translation": "I am both mindful and diligent that what you order shall be performed ; together with the wine , I have not drunk up your commands ."
+    },
+    {
+      "id": "2.1.632",
+      "label": "Section 2.1.632",
+      "chapter": null,
+      "original": "Vtinam di faxint , infecta dicta re eveniant tua .",
+      "translation": "May the Gods grant , that , in the event , what you have said may prove untrue ."
+    },
+    {
+      "id": "2.2.633",
+      "label": "Section 2.2.633",
+      "chapter": null,
+      "original": "Satín parva rés est volúptatum in víta atque in aétate agúnda",
+      "translation": "Is not the proportion of pleasures in life and in passing our existence short in comparison with what is disagreable ? So it is allotted to each man in life ;"
+    },
+    {
+      "id": "2.2.635",
+      "label": "Section 2.2.635",
+      "chapter": null,
+      "original": "ita dívis est plácitum , volúptatem ut maéror comés consequátur :",
+      "translation": "so has it pleased the Gods that Sorrow should attend on Pleasure as her companion ; but if aught of good befalls us , more of trouble and of ill forthwith attends us . For this do I now feel by experience at home and in relation to myself , to whom delight has been imparted for a very short time , while I had the opportunity of seeing my husband for but one night ; and now has he suddenly gone away hence from me before the dawn ."
+    },
+    {
+      "id": "2.2.640",
+      "label": "Section 2.2.640",
+      "chapter": null,
+      "original": "sola híc mihi nunc vídeor , quia ílle hinc abést quem ego amó praeter omnes .",
+      "translation": "Deserted do I now seem to myself , because he is absent from here , he whom before all I love . More of grief have I felt from the departure of my husband , than of pleasure from his arrival . But this , at least , makes me happy , that he has conquered the foe , and has returned home loaded with glory . Let him be absent , if only with fame acquired"
+    },
+    {
+      "id": "2.2.645",
+      "label": "Section 2.2.645",
+      "chapter": null,
+      "original": "domúm recipiát se ; feram ét perferam úsque",
+      "translation": "he betakes himself home . I shall bear and ever endure his absence with mind resolved and steadfast ; if only this reward is granted me , that my husband shall be hailed the conqueror in the warfare , sufficient for myself will I deem it . Valour is the best reward ; valour assuredly surpasses all things :"
+    },
+    {
+      "id": "2.2.650",
+      "label": "Section 2.2.650",
+      "chapter": null,
+      "original": "libértas salús vita rés et paréntes , patria ét prognáti",
+      "translation": "liberty , safety , life , property and parents , country too , and children , by it are defended and preserved . Valour comprises everything in itself : all blessings attend him in whose possession is valour ."
+    },
+    {
+      "id": "2.2.654",
+      "label": "Section 2.2.654",
+      "chapter": null,
+      "original": "Édepol me uxori éxoptatum crédo adventurúm domum ,",
+      "translation": "By my troth , I do believe that I shall come much wished for by my wife ,"
+    },
+    {
+      "id": "2.2.655",
+      "label": "Section 2.2.655",
+      "chapter": null,
+      "original": "quae me amat , quam contra amo , praesertim re gesta bene ,",
+      "translation": "who loves me , and whom , in return , I love : especially , our enterprise crowned with success , the enemy vanquished , whom no one had supposed to be able to be conquered : these , under my conduct and command , at the first meeting , have we vanquished ; but I know for sure that I shall come to her much wished for ."
+    },
+    {
+      "id": "2.2.659",
+      "label": "Section 2.2.659",
+      "chapter": null,
+      "original": "Quid ? me non rere expectatum amicae venturum meae ?",
+      "translation": "Well , and don ’ t you think that I shall come much wished for to my mistress ?"
+    },
+    {
+      "id": "2.2.660",
+      "label": "Section 2.2.660",
+      "chapter": null,
+      "original": "Meus vir hic quidem est .",
+      "translation": "Surely , this is my husband ."
+    },
+    {
+      "id": "2.2.660b",
+      "label": "Section 2.2.660b",
+      "chapter": null,
+      "original": "Séquere hac tu me .",
+      "translation": "Do you follow me this way ."
+    },
+    {
+      "id": "2.2.660c",
+      "label": "Section 2.2.660c",
+      "chapter": null,
+      "original": "Nam quid ille revortitur",
+      "translation": "But why has he returned , when just now he said that he was in haste ? Is he purposely trying me , and is he desirous to make proof of this , how much I regret his departure ? By my faith , against no inclination of mine has he betaken himself home ."
+    },
+    {
+      "id": "2.2.664",
+      "label": "Section 2.2.664",
+      "chapter": null,
+      "original": "Amphitruo , redire ad navem meliust nos .",
+      "translation": "Amphitryon , it were better for us to return to the ship ."
+    }
+  ],
+  "prevChunkSlug": "amphitryon-1m5n87-5",
+  "nextChunkSlug": "amphitryon-1m5n87-7"
+}

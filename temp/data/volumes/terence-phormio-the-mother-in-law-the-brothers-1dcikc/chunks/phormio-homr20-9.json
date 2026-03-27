@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "terence-phormio-the-mother-in-law-the-brothers-1dcikc",
+  "volumeTitle": "Phormio. The Mother-in-Law. The Brothers",
+  "authorDisplay": "Terence",
+  "authors": [
+    "Terence"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "phormio-homr20-9",
+  "label": "Phormio (Section 3.3.556 - Section 4.3.630)",
+  "partId": "phormio-homr20",
+  "partTitle": "Phormio",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Phormio",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Phormio; or, The Scheming Parasite",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "3.3.556",
+      "label": "Section 3.3.556",
+      "chapter": null,
+      "original": "Noli metuere : una tecum bona mala tolerabimus .",
+      "translation": "Don ’ t be afraid : together with you , we ’ ll share good and bad ."
+    },
+    {
+      "id": "3.3.557",
+      "label": "Section 3.3.557",
+      "chapter": null,
+      "original": "Quantum tibi opus est argenti ? loquere .",
+      "translation": "How much money do you want ? Tell me ."
+    },
+    {
+      "id": "3.3.557b",
+      "label": "Section 3.3.557b",
+      "chapter": null,
+      "original": "Solae triginta minae .",
+      "translation": "Only thirty minae ."
+    },
+    {
+      "id": "3.3.558",
+      "label": "Section 3.3.558",
+      "chapter": null,
+      "original": "Triginta ? hui percara est , Phaedria .",
+      "translation": "Thirty ? Heyday ! she ’ s monstrous dear , Phaedria ."
+    },
+    {
+      "id": "3.3.558b",
+      "label": "Section 3.3.558b",
+      "chapter": null,
+      "original": "Istaec vero vilis est .",
+      "translation": "Indeed , she ’ s very cheap ."
+    },
+    {
+      "id": "3.3.559",
+      "label": "Section 3.3.559",
+      "chapter": null,
+      "original": "Age , age ; inventas reddam .",
+      "translation": "Well , well , I ’ ll get them for you ."
+    },
+    {
+      "id": "3.3.559b",
+      "label": "Section 3.3.559b",
+      "chapter": null,
+      "original": "O lepidum !",
+      "translation": "Oh the dear man ! ( They both fall to hugging GETA .)"
+    },
+    {
+      "id": "3.3.559c",
+      "label": "Section 3.3.559c",
+      "chapter": null,
+      "original": "Aufer te hinc .",
+      "translation": "Take yourselves off . ( Shakes them of .)"
+    },
+    {
+      "id": "3.3.559d",
+      "label": "Section 3.3.559d",
+      "chapter": null,
+      "original": "Iam opus est .",
+      "translation": "There ’ s need for them directly ."
+    },
+    {
+      "id": "3.3.559e",
+      "label": "Section 3.3.559e",
+      "chapter": null,
+      "original": "Iam feres .",
+      "translation": "You shall have them directly ;"
+    },
+    {
+      "id": "3.3.560",
+      "label": "Section 3.3.560",
+      "chapter": null,
+      "original": "Sed opus est mihi Phormionem ad hanc rem adiutorem dari .",
+      "translation": "but I must have Phormio for my assistant in this business ."
+    },
+    {
+      "id": "3.3.561",
+      "label": "Section 3.3.561",
+      "chapter": null,
+      "original": "Praesto est : audacissime oneris quidvis impone , et feret .",
+      "translation": "He ’ s quite ready ; right boldly lay on him any load you like , he ’ ll bear it : he , in especial , is a friend to his friend ."
+    },
+    {
+      "id": "3.3.562b",
+      "label": "Section 3.3.562b",
+      "chapter": null,
+      "original": "Eamus ergo ad eum ocius .",
+      "translation": "Let ’ s go to him at once then ."
+    },
+    {
+      "id": "3.3.563",
+      "label": "Section 3.3.563",
+      "chapter": null,
+      "original": "Numquid est quod opera mea vobis opus sit ?",
+      "translation": "Will you have any occasion for my assistance ?"
+    },
+    {
+      "id": "3.3.563b",
+      "label": "Section 3.3.563b",
+      "chapter": null,
+      "original": "Nihil : verum abi domum ;",
+      "translation": "None ; but be off home , and comfort that poor thing , who I am sure is now in-doors almost dead with fear . Do you linger ?"
+    },
+    {
+      "id": "3.3.565b",
+      "label": "Section 3.3.565b",
+      "chapter": null,
+      "original": "Nihil est aeque quod faciam libens .",
+      "translation": "There ’ s nothing I could do with so much pleasure ."
+    },
+    {
+      "id": "3.3.566",
+      "label": "Section 3.3.566",
+      "chapter": null,
+      "original": "Qua via istuc facies ?",
+      "translation": "What way will you manage this ?"
+    },
+    {
+      "id": "3.3.566b",
+      "label": "Section 3.3.566b",
+      "chapter": null,
+      "original": "Dicam in itinere : modo te hinc amove .",
+      "translation": "I ’ ll tell you on the road ; first thing , betake yourself off . ( Exeunt .)"
+    },
+    {
+      "id": "4.1.567",
+      "label": "Section 4.1.567",
+      "chapter": null,
+      "original": "Quid qua profectus causa hinc es Lemnum , Chreme ,",
+      "translation": "Well , have you brought your daughter with you , Chremes , for whom you went to Lemnos ?"
+    },
+    {
+      "id": "4.1.568b",
+      "label": "Section 4.1.568b",
+      "chapter": null,
+      "original": "Non .",
+      "translation": "No ."
+    },
+    {
+      "id": "4.1.568c",
+      "label": "Section 4.1.568c",
+      "chapter": null,
+      "original": "Quid ita non ?",
+      "translation": "Why not ?"
+    },
+    {
+      "id": "4.1.569",
+      "label": "Section 4.1.569",
+      "chapter": null,
+      "original": "Postquam videt me eius mater esse hic diutius ,",
+      "translation": "When her mother found that I staid here longer than usual ,"
+    },
+    {
+      "id": "4.1.570",
+      "label": "Section 4.1.570",
+      "chapter": null,
+      "original": "Simul autem non manebat aetas virginis",
+      "translation": "and at the same time the age of the girl did not suit with my delays , they told me that she , with all her family , set out in search of me ."
+    },
+    {
+      "id": "4.1.572b",
+      "label": "Section 4.1.572b",
+      "chapter": null,
+      "original": "Quid illic tam diu ,",
+      "translation": "Pray , then , why did you stay there so long , when you had heard of this ?"
+    },
+    {
+      "id": "4.1.574",
+      "label": "Section 4.1.574",
+      "chapter": null,
+      "original": "Pol me detinuit morbus .",
+      "translation": "Why , faith , a malady detained me ."
+    },
+    {
+      "id": "4.1.574b",
+      "label": "Section 4.1.574b",
+      "chapter": null,
+      "original": "Unlde ? aut qui ?",
+      "translation": "From what cause ? Or what was it ?"
+    },
+    {
+      "id": "4.1.574c",
+      "label": "Section 4.1.574c",
+      "chapter": null,
+      "original": "Rogas ?",
+      "translation": "Do you ask me ?"
+    },
+    {
+      "id": "4.1.575",
+      "label": "Section 4.1.575",
+      "chapter": null,
+      "original": "Senectus ipsa est morbus ; sed venisse eas",
+      "translation": "Old age itself is a malady . However , I heard that they had arrived safe , from the caps tain who brought them ."
+    },
+    {
+      "id": "4.1.577",
+      "label": "Section 4.1.577",
+      "chapter": null,
+      "original": "Quid gnato obtigerit me absente audistin , Chreme ?",
+      "translation": "Have you heard , Chremes , what has happened to my son in my absence ?"
+    },
+    {
+      "id": "4.1.578",
+      "label": "Section 4.1.578",
+      "chapter": null,
+      "original": "Quod quidem me factum consili incertum facit ;",
+      "translation": "’ Tis that , in fact , that has embarrassed me in my plans . For if I offer my daughter in marriage to any person that ’ s a stranger ,"
+    },
+    {
+      "id": "4.1.580",
+      "label": "Section 4.1.580",
+      "chapter": null,
+      "original": "Quo pacto aut unde mihi sit dicendum ordine est .",
+      "translation": "it must all be told how and by whom I had her . You I knew to be fully as faithful to me as I am to myself ; if a stranger shall think fit to be connected with me by marriage , he will hold his tongue , just as long as good terms exist between us : but if he takes a dislike to me , he ’ ll be knowing more than it ’ s proper he should know ."
+    },
+    {
+      "id": "4.1.585",
+      "label": "Section 4.1.585",
+      "chapter": null,
+      "original": "Vereorque ne uxor aliqua hoc resciscat mea ;",
+      "translation": "I am afraid , too , lest my wife should , by some means , come to know of it ; if that is the case , it only remains for me to shake myself [*] and leave the house ; for I ’ m the only one I can rely on at home . [*]"
+    },
+    {
+      "id": "4.1.588",
+      "label": "Section 4.1.588",
+      "chapter": null,
+      "original": "Scio ita esse ; et istaec mihi res sollicitudini est :",
+      "translation": "I know it is so , and that circumstance is a cause of anxiety to me ; and I shall never cease trying ,"
+    },
+    {
+      "id": "4.1.590",
+      "label": "Section 4.1.590",
+      "chapter": null,
+      "original": "Donec tibi id quod pollicitus sum effecero .",
+      "translation": "until I ’ ve made good what I promised you ."
+    },
+    {
+      "id": "4.2.591",
+      "label": "Section 4.2.591",
+      "chapter": null,
+      "original": "Ego hominem callidiorem vidi neminem",
+      "translation": "I never saw a more cunning fellow than this Phormio . I came to the fellow to tell him that money was needed , and by what means it might be procured . Hardly had I said one half , when he understood me ;"
+    },
+    {
+      "id": "4.2.595",
+      "label": "Section 4.2.595",
+      "chapter": null,
+      "original": "Gaudebat ; me laudabat ; quaerebat senem ;",
+      "translation": "he was quite delighted ; complimented me ; asked where the old man was ; gave thanks to the Gods that an opportunity was afforded him for showing himself no less a friend to Phaedria than to Antipho : I bade the fellow wait for me at the Forum ; whither I would bring the old gentleman ."
+    },
+    {
+      "id": "4.2.600",
+      "label": "Section 4.2.600",
+      "chapter": null,
+      "original": "Sed eccum ipsum : quis est ulterior ? atat , Phaedriae",
+      "translation": "But see , here ’ s the very man ( catching sight of the Old Man ) . Who is the further one ? Heyday , Phaedria ’ s father has got back ! still , brute beast that I am , what was I afraid of ? Is it because two are presented instead of one for me to dupe ? I deem it preferable to enjoy a two-fold hope . I ’ ll try for it from him from whom I first intended : if he gives it me , well and good ; if I can make nothing of him , then I ’ ll attack this new-comer ."
+    },
+    {
+      "id": "4.3.606",
+      "label": "Section 4.3.606",
+      "chapter": null,
+      "original": "Exspecto quam mox recipiat huc sese Geta :",
+      "translation": "I ’ m expecting every moment that Geta will be here . But I see my uncle standing close by , with my father . Ah me ! how much I fear what influence his return may have upon my father !"
+    },
+    {
+      "id": "4.3.609",
+      "label": "Section 4.3.609",
+      "chapter": null,
+      "original": "Adibo hosce , O noster Chreme .",
+      "translation": "I ’ ll accost them . ( Goes up to them .) O welcome to you , our neighbor Chremes ."
+    },
+    {
+      "id": "4.3.609b",
+      "label": "Section 4.3.609b",
+      "chapter": null,
+      "original": "Salve , Geta .",
+      "translation": "Save you , Geta ."
+    },
+    {
+      "id": "4.3.610",
+      "label": "Section 4.3.610",
+      "chapter": null,
+      "original": "Venire salvum volupe est .",
+      "translation": "I ’ m delighted to see you safe returned ."
+    },
+    {
+      "id": "4.3.610b",
+      "label": "Section 4.3.610b",
+      "chapter": null,
+      "original": "Credo .",
+      "translation": "I believe you ."
+    },
+    {
+      "id": "4.3.610c",
+      "label": "Section 4.3.610c",
+      "chapter": null,
+      "original": "Quid agitur ?",
+      "translation": "How go matters ?"
+    },
+    {
+      "id": "4.3.611",
+      "label": "Section 4.3.611",
+      "chapter": null,
+      "original": "Multa advenienti , ut fit , nova hic compluria .",
+      "translation": "Many changes here upon my arrival , as usually the case ."
+    },
+    {
+      "id": "4.3.612",
+      "label": "Section 4.3.612",
+      "chapter": null,
+      "original": "Ita : de Antiphone audistin quae facta ?",
+      "translation": "True ; have you heard what has happened to Antipho ?"
+    },
+    {
+      "id": "4.3.612b",
+      "label": "Section 4.3.612b",
+      "chapter": null,
+      "original": "Omnia .",
+      "translation": "All ."
+    },
+    {
+      "id": "4.3.613",
+      "label": "Section 4.3.613",
+      "chapter": null,
+      "original": "Tun dixeras huic ? facinus indignum , Chreme ,",
+      "translation": "What , have you told him ? Disgraceful conduct , Chremes , thus to be imposed on ."
+    },
+    {
+      "id": "4.3.614b",
+      "label": "Section 4.3.614b",
+      "chapter": null,
+      "original": "Id cum hoc agebam commodum .",
+      "translation": "It was about that I was talking to him just now ."
+    },
+    {
+      "id": "4.3.615",
+      "label": "Section 4.3.615",
+      "chapter": null,
+      "original": "Nalm hercle ego quoque id quidem agitans mecum sedulo",
+      "translation": "But really , on carefully reflecting upon this matter I think I have found a remedy ."
+    },
+    {
+      "id": "4.3.617",
+      "label": "Section 4.3.617",
+      "chapter": null,
+      "original": "Quod remedium ?",
+      "translation": "What is the remedy ?"
+    },
+    {
+      "id": "4.3.617b",
+      "label": "Section 4.3.617b",
+      "chapter": null,
+      "original": "Ut abii abs te , fit forte obviam",
+      "translation": "When I left you , by accident Phormio met me ."
+    },
+    {
+      "id": "4.3.618b",
+      "label": "Section 4.3.618b",
+      "chapter": null,
+      "original": "Qui Phormio ?",
+      "translation": "Who is Phormio ?"
+    },
+    {
+      "id": "4.3.618c",
+      "label": "Section 4.3.618c",
+      "chapter": null,
+      "original": "Is qui istam .",
+      "translation": "He who patronized her ."
+    },
+    {
+      "id": "4.3.618d",
+      "label": "Section 4.3.618d",
+      "chapter": null,
+      "original": "Scio .",
+      "translation": "I understand ."
+    },
+    {
+      "id": "4.3.619",
+      "label": "Section 4.3.619",
+      "chapter": null,
+      "original": "Visum est mihi ut eius tentarem sententiam .",
+      "translation": "It seemed to me that I might first sound him ;"
+    },
+    {
+      "id": "4.3.620",
+      "label": "Section 4.3.620",
+      "chapter": null,
+      "original": "Prendo hominem solum : Cur non , inquam , Phormio ,",
+      "translation": "I took the fellow aside : Phormio , said I , why don ’ t we try to settle these matters between us rather with a good grace than with a bad one ? My master ’ s a generous man , and one who hates litigation ; but really , upon my faith , all his friends were just now"
+    },
+    {
+      "id": "4.3.625",
+      "label": "Section 4.3.625",
+      "chapter": null,
+      "original": "Uno ore auctores fuere ut praecipitem hanc daret .",
+      "translation": "advising him with one voice to turn her instantly out of doors ."
+    },
+    {
+      "id": "4.3.626",
+      "label": "Section 4.3.626",
+      "chapter": null,
+      "original": "Quid hic coeptat ? aut quo evadet hodie ?",
+      "translation": "What is he about ? Or where is this to end at last ?"
+    },
+    {
+      "id": "4.3.626b",
+      "label": "Section 4.3.626b",
+      "chapter": null,
+      "original": "An legibus",
+      "translation": "He ’ ll have to give satisfaction at law , you say , if he turns her out ? That has been already inquired into : aye , aye , you ’ ll have enough to do , if you engage with him ; he is so eloquent ."
+    },
+    {
+      "id": "4.3.630",
+      "label": "Section 4.3.630",
+      "chapter": null,
+      "original": "Verum pone esse victum eum : at tandem tamen",
+      "translation": "But suppose he ’ s beaten ; still , however , it ’ s not his life , but his money that ’ s at stake . After I found that the fellow was influenced by these words , I said : We are now by ourselves here ; come now , what should you like to be given you , money down , to drop this suit with my master ,"
+    }
+  ],
+  "prevChunkSlug": "phormio-homr20-8",
+  "nextChunkSlug": "phormio-homr20-10"
+}

@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-little-carthaginian-pseudolus-the-rope-rpgc9x",
+  "volumeTitle": "The Little Carthaginian. Pseudolus. The Rope",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "pseudolus-1bndy7-7",
+  "label": "Pseudolus (Section 1.5.453b - Section 1.5.519)",
+  "partId": "pseudolus-1bndy7",
+  "partTitle": "Pseudolus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Pseudolus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Pseudolus, or The Cheat",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.5.453b",
+      "label": "Section 1.5.453b",
+      "chapter": null,
+      "original": "Itur ad te , Pseudole .",
+      "translation": "They are making towards you , Pseudolus ; prepare your speech to meet the old fellow ."
+    },
+    {
+      "id": "1.5.455",
+      "label": "Section 1.5.455",
+      "chapter": null,
+      "original": "erum saluto primum , ut aequomst ; postea ,",
+      "translation": "Good courage in a bad case is half the evil got over . ( Aloud , as he advances to meet them .) First , I salute my master , as is proper ; and alter that , if anything is left , that I bestow upon his neighbour ."
+    },
+    {
+      "id": "1.5.457",
+      "label": "Section 1.5.457",
+      "chapter": null,
+      "original": "Salve . quid agitur ?",
+      "translation": "Good day to you . What are you about ?"
+    },
+    {
+      "id": "1.5.457b",
+      "label": "Section 1.5.457b",
+      "chapter": null,
+      "original": "Statur hic ad hunc modum .",
+      "translation": "About standing here in this fashion ( assuming an attitude ) ."
+    },
+    {
+      "id": "1.5.458",
+      "label": "Section 1.5.458",
+      "chapter": null,
+      "original": "Statum vide hominis , Callipho , quam basilicum .",
+      "translation": "See the attitude of the fellow , Callipho ; how like that of a man of rank ."
+    },
+    {
+      "id": "1.5.459",
+      "label": "Section 1.5.459",
+      "chapter": null,
+      "original": "Bene confidenterque adstitisse intellego .",
+      "translation": "I consider that he is standing properly and with boldness ."
+    },
+    {
+      "id": "1.5.460",
+      "label": "Section 1.5.460",
+      "chapter": null,
+      "original": "Decet innocentem qui sit atque innoxium",
+      "translation": "It befits a servant innocent and guileless , as he is , to be bold , most especially before his master ."
+    },
+    {
+      "id": "1.5.462",
+      "label": "Section 1.5.462",
+      "chapter": null,
+      "original": "Sunt quae te volumus percontari , quae quasi",
+      "translation": "There are some things about which we wish to inquire of you , which we ourselves know and have heard of as though through a cloud of mist ."
+    },
+    {
+      "id": "1.5.464",
+      "label": "Section 1.5.464",
+      "chapter": null,
+      "original": "Conficiet iam te hic verbis , ut tu censeas",
+      "translation": "He ’ ll manage you now with his speeches , so that you shall think"
+    },
+    {
+      "id": "1.5.465",
+      "label": "Section 1.5.465",
+      "chapter": null,
+      "original": "non Pseudolum , sed Socratem tecum loqui .",
+      "translation": "it isn ’ t Pseudolus but Socrates [*] that ’ s talking to you . What do you say ?"
+    },
+    {
+      "id": "1.5.466",
+      "label": "Section 1.5.466",
+      "chapter": null,
+      "original": "Itast , iam pridem tu me spernis , sentio .",
+      "translation": "For a long time you have held me in contempt , I know . I see that you have but little confidence in me . You wish me to be a villain ; still , I will be of strict honesty ."
+    },
+    {
+      "id": "1.5.469",
+      "label": "Section 1.5.469",
+      "chapter": null,
+      "original": "Fac sis vocivas , Pseudole , aedis aurium ,",
+      "translation": "Take care , please , and make the recesses of your ears free , Pseudolus ,"
+    },
+    {
+      "id": "1.5.470",
+      "label": "Section 1.5.470",
+      "chapter": null,
+      "original": "mea ut migrare dicta possint quo volo .",
+      "translation": "that my words may be enabled to enter where I desire ."
+    },
+    {
+      "id": "1.5.471",
+      "label": "Section 1.5.471",
+      "chapter": null,
+      "original": "Age loquere quidvis , tametsi tibi suscenseo .",
+      "translation": "Come , say anything you please , although I am angry at you ."
+    },
+    {
+      "id": "1.5.472",
+      "label": "Section 1.5.472",
+      "chapter": null,
+      "original": "Mihin dómino servos tu suscenses ?",
+      "translation": "What , you , a slave , angry at me your master ?"
+    },
+    {
+      "id": "1.5.472b",
+      "label": "Section 1.5.472b",
+      "chapter": null,
+      "original": "Tam tibi",
+      "translation": "And does that seem wonderful to you ?"
+    },
+    {
+      "id": "1.5.473b",
+      "label": "Section 1.5.473b",
+      "chapter": null,
+      "original": "Hercle qui , ut tu praedicas ,",
+      "translation": "Why , by my troth , according to what you say , I must be on my guard against you in your anger , and you are thinking of beating me in no other way than I am wont to beat yourself ."
+    },
+    {
+      "id": "1.5.476",
+      "label": "Section 1.5.476",
+      "chapter": null,
+      "original": "quid censes ?",
+      "translation": "What do you think ?"
+    },
+    {
+      "id": "1.5.476b",
+      "label": "Section 1.5.476b",
+      "chapter": null,
+      "original": "Edepol merito esse iratum arbitror ,",
+      "translation": "I ’ faith , I think that he ’ s angry with good reason , since you have so little confidence in him ."
+    },
+    {
+      "id": "1.5.477b",
+      "label": "Section 1.5.477b",
+      "chapter": null,
+      "original": "Iam sic sino ;",
+      "translation": "I ’ ll leave him alone then . Let him be angry : I ’ ll take care that he shall do me no harm . But what do you say ? What as to that which I was asking you ?"
+    },
+    {
+      "id": "1.5.479b",
+      "label": "Section 1.5.479b",
+      "chapter": null,
+      "original": "Sí quid vis , roga .",
+      "translation": "If you want anything , ask me ."
+    },
+    {
+      "id": "1.5.480",
+      "label": "Section 1.5.480",
+      "chapter": null,
+      "original": "quod scibo , Delphis tibi responsum dicito .",
+      "translation": "What I know , do you consider given you as a response at Delphi ."
+    },
+    {
+      "id": "1.5.481",
+      "label": "Section 1.5.481",
+      "chapter": null,
+      "original": "Advorte ergo animum et fac sis promissi memor .",
+      "translation": "Give your attention then , and take care and please mind your promise . What do you say ? Do you know that my son is in love with a certain music-girl ?"
+    },
+    {
+      "id": "1.5.483b",
+      "label": "Section 1.5.483b",
+      "chapter": null,
+      "original": "ναὶ γάρ .",
+      "translation": "Yea , verily [*] ."
+    },
+    {
+      "id": "1.5.483c",
+      "label": "Section 1.5.483c",
+      "chapter": null,
+      "original": "Liberare quam velit ?",
+      "translation": "Whom he is trying to make free ?"
+    },
+    {
+      "id": "1.5.484",
+      "label": "Section 1.5.484",
+      "chapter": null,
+      "original": "καὶ τοῦτο ναὶ γάρ .",
+      "translation": "Yea , verily and indeed ."
+    },
+    {
+      "id": "1.5.484b",
+      "label": "Section 1.5.484b",
+      "chapter": null,
+      "original": "Ecquas viginti minas",
+      "translation": "And you are scheming by cajolery and by cunning tricks to get twenty minae in ready money out of me ?"
+    },
+    {
+      "id": "1.5.486b",
+      "label": "Section 1.5.486b",
+      "chapter": null,
+      "original": "Abs te ego auferam ?",
+      "translation": "I , get them out of you ?"
+    },
+    {
+      "id": "1.5.487",
+      "label": "Section 1.5.487",
+      "chapter": null,
+      "original": "Ita , quas meo gnato des , qui amicam liberet ?",
+      "translation": "Just so ; to give them to my son , with which to liberate his mistress . Do you confess it ? Speak out ."
+    },
+    {
+      "id": "1.5.488b",
+      "label": "Section 1.5.488b",
+      "chapter": null,
+      "original": "καὶ τοῦτο ναί , καὶ τοῦτο ναί .",
+      "translation": "Yea , verily ; yea , verily ."
+    },
+    {
+      "id": "1.5.489",
+      "label": "Section 1.5.489",
+      "chapter": null,
+      "original": "Fatetur .",
+      "translation": "He confesses it ."
+    },
+    {
+      "id": "1.5.489b",
+      "label": "Section 1.5.489b",
+      "chapter": null,
+      "original": "Dixin , Callipho , dudum tibi ?",
+      "translation": "Didn ’ t I tell you so just now , Callipho ?"
+    },
+    {
+      "id": "1.5.490",
+      "label": "Section 1.5.490",
+      "chapter": null,
+      "original": "Memini .",
+      "translation": "So I remember ."
+    },
+    {
+      "id": "1.5.490b",
+      "label": "Section 1.5.490b",
+      "chapter": null,
+      "original": "Quor haec , tu ubi rescivisti ilico ,",
+      "translation": "Why , directly you knew of these things , were they kept concealed from me ? Why wasn ’ t I made acquainted with them ?"
+    },
+    {
+      "id": "1.5.491b",
+      "label": "Section 1.5.491b",
+      "chapter": null,
+      "original": "Eloquar .",
+      "translation": "I ’ ll tell you : because I was unwilling that a bad custom should originate in me , for a servant to accuse his master before his master ."
+    },
+    {
+      "id": "1.5.494",
+      "label": "Section 1.5.494",
+      "chapter": null,
+      "original": "Iuberes hunc praecipitem in pistrinum trahi .",
+      "translation": "Wouldn ’ t you order this fellow to be dragged head first to the treadmills [*] ?"
+    },
+    {
+      "id": "1.5.495",
+      "label": "Section 1.5.495",
+      "chapter": null,
+      "original": "Numquid peccatum est , Simo ?",
+      "translation": "Has he done anything amiss , Simo ?"
+    },
+    {
+      "id": "1.5.495b",
+      "label": "Section 1.5.495b",
+      "chapter": null,
+      "original": "Immo maxime .",
+      "translation": "Yes , very much so ."
+    },
+    {
+      "id": "1.5.496",
+      "label": "Section 1.5.496",
+      "chapter": null,
+      "original": "Desiste , recte ego meam rem sapio , Callipho ;",
+      "translation": "Be quiet , I quite well understand my own affairs , Callipho . Is this a fault ? Now then , give your attention to the reason why I you kept ignorant of this amour . I knew that the treadmill was close at hand , if I told you ."
+    },
+    {
+      "id": "1.5.500",
+      "label": "Section 1.5.500",
+      "chapter": null,
+      "original": "Non a me scibas pistrinum in mundo tibi ,",
+      "translation": "And didn ’ t you know , as well , that the treadmill would be close at hand when you kept silent on it ?"
+    },
+    {
+      "id": "1.5.501b",
+      "label": "Section 1.5.501b",
+      "chapter": null,
+      "original": "Scibam .",
+      "translation": "I did know it ."
+    },
+    {
+      "id": "1.5.501c",
+      "label": "Section 1.5.501c",
+      "chapter": null,
+      "original": "Quin dictum est mihi ?",
+      "translation": "Why wasn ’ t it told me ?"
+    },
+    {
+      "id": "1.5.502",
+      "label": "Section 1.5.502",
+      "chapter": null,
+      "original": "Quia illúd malum aderat , istuc aberat longius ;",
+      "translation": "The one evil was close at hand , the other at a greater distance ; the one was at the moment , the other was a few days off ."
+    },
+    {
+      "id": "1.5.504",
+      "label": "Section 1.5.504",
+      "chapter": null,
+      "original": "Quid nunc agetis ? nam hinc quidem a me non potest",
+      "translation": "What will you be doing now ? For assuredly the money cannot be got in this quarter out of me , who have especially detected it ."
+    },
+    {
+      "id": "1.5.506",
+      "label": "Section 1.5.506",
+      "chapter": null,
+      "original": "ne quisquam credat nummum , iam edicam omnibus .",
+      "translation": "I shall forthwith give notice to all that no one is to trust him the money ."
+    },
+    {
+      "id": "1.5.507",
+      "label": "Section 1.5.507",
+      "chapter": null,
+      "original": "Numquam edepol quoiquam supplicabo , dum quidem",
+      "translation": "I ’ faith , I ’ ll never go begging to any person , so long , at all events , as you shall be alive ; troth , you shall find me the money ; and as for me , I shall take it from you ."
+    },
+    {
+      "id": "1.5.509b",
+      "label": "Section 1.5.509b",
+      "chapter": null,
+      "original": "Tu a me sumes ?",
+      "translation": "You , take it from me ?"
+    },
+    {
+      "id": "1.5.509c",
+      "label": "Section 1.5.509c",
+      "chapter": null,
+      "original": "Strenue .",
+      "translation": "Undoubtedly ."
+    },
+    {
+      "id": "1.5.510",
+      "label": "Section 1.5.510",
+      "chapter": null,
+      "original": "Excludito mi hercle oculum , si dedero .",
+      "translation": "Troth , now , knock out my eye , if I do find it ."
+    },
+    {
+      "id": "1.5.510b",
+      "label": "Section 1.5.510b",
+      "chapter": null,
+      "original": "Dabis .",
+      "translation": "You shall provide it . I warn you then to be on your guard against me ."
+    },
+    {
+      "id": "1.5.511b",
+      "label": "Section 1.5.511b",
+      "chapter": null,
+      "original": "Certe edepol scio ,",
+      "translation": "By my troth , I know this for sure ; if you do take it away , you will have done a wonderful and a great exploit ."
+    },
+    {
+      "id": "1.5.513",
+      "label": "Section 1.5.513",
+      "chapter": null,
+      "original": "Faciam .",
+      "translation": "I will do it , however ."
+    },
+    {
+      "id": "1.5.513b",
+      "label": "Section 1.5.513b",
+      "chapter": null,
+      "original": "Si non apstuleris ?",
+      "translation": "But if you don ’ t carry it off ?"
+    },
+    {
+      "id": "1.5.513c",
+      "label": "Section 1.5.513c",
+      "chapter": null,
+      "original": "Virgis caedito .",
+      "translation": "Then flog me with rods . But what if I do carry it off ?"
+    },
+    {
+      "id": "1.5.514b",
+      "label": "Section 1.5.514b",
+      "chapter": null,
+      "original": "Do Iovem testem tibi ,",
+      "translation": "I give you Jupiter as your witness ,"
+    },
+    {
+      "id": "1.5.515",
+      "label": "Section 1.5.515",
+      "chapter": null,
+      "original": "te aetatem impune habiturum .",
+      "translation": "that you shall pass your life free from punishment ."
+    },
+    {
+      "id": "1.5.515b",
+      "label": "Section 1.5.515b",
+      "chapter": null,
+      "original": "Facito ut memineris .",
+      "translation": "Take care and remember that ."
+    },
+    {
+      "id": "1.5.516",
+      "label": "Section 1.5.516",
+      "chapter": null,
+      "original": "Egon ut cavere nequeam , cui praedicitur ?",
+      "translation": "Could I possibly be unable to be on my guard , who am forewarned ?"
+    },
+    {
+      "id": "1.5.517",
+      "label": "Section 1.5.517",
+      "chapter": null,
+      "original": "Praedico , ut caveas . dico , inquam , ut caveas . cave .",
+      "translation": "I forewarn you to be on your guard . I say you must be on your guard , I tell you . Keep watch . Look , now , with those same hands will you this day give me the money"
+    },
+    {
+      "id": "1.5.519",
+      "label": "Section 1.5.519",
+      "chapter": null,
+      "original": "Edepol mortalem graphicum , si servat fidem .",
+      "translation": "By my troth , ’ tis a clever mortal if he keeps his word ."
+    }
+  ],
+  "prevChunkSlug": "pseudolus-1bndy7-6",
+  "nextChunkSlug": "pseudolus-1bndy7-8"
+}

@@ -1,0 +1,241 @@
+{
+  "loebNumber": 183,
+  "sortOrder": 183,
+  "slug": "xenophon-scripta-minora-y25osv",
+  "title": "Scripta Minora",
+  "volumeLabel": "Scripta Minora",
+  "authorDisplay": "Xenophon",
+  "authors": [
+    "Xenophon"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Scripta Minora. Scripta Minora is filled with a manually grouped Scaife set because the Loeb volume aggregates shorter works that are not labeled the same way in Scaife.",
+  "status": "ready",
+  "defaultChunkSlug": "hiero-15ie1t",
+  "readyChunkCount": 7,
+  "contents": [
+    {
+      "id": "scripta-minora-11ri19",
+      "title": "Scripta Minora",
+      "status": "ready",
+      "sectionCount": 154,
+      "chunkSlug": "hiero-15ie1t",
+      "chunks": [
+        {
+          "slug": "hiero-15ie1t",
+          "label": "Hiero",
+          "partId": "scripta-minora-11ri19",
+          "partTitle": "Scripta Minora",
+          "sectionCount": 22,
+          "status": "ready"
+        },
+        {
+          "slug": "agesilaus-77y2fc",
+          "label": "Agesilaus",
+          "partId": "scripta-minora-11ri19",
+          "partTitle": "Scripta Minora",
+          "sectionCount": 22,
+          "status": "ready"
+        },
+        {
+          "slug": "constitution-of-the-lacedaimonians-gf9o1z",
+          "label": "Constitution of the Lacedaimonians",
+          "partId": "scripta-minora-11ri19",
+          "partTitle": "Scripta Minora",
+          "sectionCount": 30,
+          "status": "ready"
+        },
+        {
+          "slug": "ways-and-means-1ryw4c",
+          "label": "Ways and Means",
+          "partId": "scripta-minora-11ri19",
+          "partTitle": "Scripta Minora",
+          "sectionCount": 12,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-cavalry-commander-19p3zb",
+          "label": "On the Cavalry Commander",
+          "partId": "scripta-minora-11ri19",
+          "partTitle": "Scripta Minora",
+          "sectionCount": 18,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-art-of-horsemanship-18div1",
+          "label": "On the Art of Horsemanship",
+          "partId": "scripta-minora-11ri19",
+          "partTitle": "Scripta Minora",
+          "sectionCount": 24,
+          "status": "ready"
+        },
+        {
+          "slug": "on-hunting-1i2oil",
+          "label": "On Hunting",
+          "partId": "scripta-minora-11ri19",
+          "partTitle": "Scripta Minora",
+          "sectionCount": 26,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "hiero-15ie1t",
+      "label": "Hiero",
+      "partId": "scripta-minora-11ri19",
+      "partTitle": "Scripta Minora",
+      "sectionCount": 22,
+      "status": "ready"
+    },
+    {
+      "slug": "agesilaus-77y2fc",
+      "label": "Agesilaus",
+      "partId": "scripta-minora-11ri19",
+      "partTitle": "Scripta Minora",
+      "sectionCount": 22,
+      "status": "ready"
+    },
+    {
+      "slug": "constitution-of-the-lacedaimonians-gf9o1z",
+      "label": "Constitution of the Lacedaimonians",
+      "partId": "scripta-minora-11ri19",
+      "partTitle": "Scripta Minora",
+      "sectionCount": 30,
+      "status": "ready"
+    },
+    {
+      "slug": "ways-and-means-1ryw4c",
+      "label": "Ways and Means",
+      "partId": "scripta-minora-11ri19",
+      "partTitle": "Scripta Minora",
+      "sectionCount": 12,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-cavalry-commander-19p3zb",
+      "label": "On the Cavalry Commander",
+      "partId": "scripta-minora-11ri19",
+      "partTitle": "Scripta Minora",
+      "sectionCount": 18,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-art-of-horsemanship-18div1",
+      "label": "On the Art of Horsemanship",
+      "partId": "scripta-minora-11ri19",
+      "partTitle": "Scripta Minora",
+      "sectionCount": 24,
+      "status": "ready"
+    },
+    {
+      "slug": "on-hunting-1i2oil",
+      "label": "On Hunting",
+      "partId": "scripta-minora-11ri19",
+      "partTitle": "Scripta Minora",
+      "sectionCount": 26,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "hiero-15ie1t",
+      "partTitle": "Scripta Minora",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Hiero",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg008.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Hiero",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg008.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "agesilaus-77y2fc",
+      "partTitle": "Scripta Minora",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Agesilaus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg009.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Agesilaus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg009.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "constitution-of-the-lacedaimonians-gf9o1z",
+      "partTitle": "Scripta Minora",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Constitution of the Lacedaimonians",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg010.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Constitution of the Lacedaimonians",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg010.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "ways-and-means-1ryw4c",
+      "partTitle": "Scripta Minora",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ways and Means",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg011.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Ways and Means",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-cavalry-commander-19p3zb",
+      "partTitle": "Scripta Minora",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "On the Cavalry Commander",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg012.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Cavalry Commander",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-art-of-horsemanship-18div1",
+      "partTitle": "Scripta Minora",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "On the Cavalry Commander",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg013.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Cavalry Commander",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg013.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "on-hunting-1i2oil",
+      "partTitle": "Scripta Minora",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "On Hunting",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg014.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Hunting",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg014.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-merchant-1me99z-8",
+  "label": "The Merchant (Section 3.1.542 - Section 3.4.619)",
+  "partId": "the-merchant-1me99z",
+  "partTitle": "The Merchant",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Mercator",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Mercator, or The Merchant",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "3.1.542",
+      "label": "Section 3.1.542",
+      "chapter": null,
+      "original": "Quid , dentes ?",
+      "translation": "What ? His teeth ?"
+    },
+    {
+      "id": "3.1.542b",
+      "label": "Section 3.1.542b",
+      "chapter": null,
+      "original": "Nihil est . sequere sis . hunc me diem unum oravit",
+      "translation": "It ’ s no matter ? Follow me this way , please ; he requested that I would find you room for one day in my house , since my wife is away in the country ."
+    },
+    {
+      "id": "3.2.544",
+      "label": "Section 3.2.544",
+      "chapter": null,
+      "original": "Tandem impetravi ut egomet me corrumperem :",
+      "translation": "At last I ’ ve managed to ruin myself ;"
+    },
+    {
+      "id": "3.2.545",
+      "label": "Section 3.2.545",
+      "chapter": null,
+      "original": "emptast amica clam uxorem et clam filium .",
+      "translation": "a mistress has been purchased for me without the knowledge of my wife and son . I ’ m resolved on it ; I ’ ll have recourse again to former habits and enjoy myself . In my allotment of existence , almost now run through , the little that there remains of life , I ’ ll cheer up with pleasure , wine , and love . For it ’ s quite proper for this time of life to enjoy itself ."
+    },
+    {
+      "id": "3.2.550",
+      "label": "Section 3.2.550",
+      "chapter": null,
+      "original": "adulescens quom sis , tum quom est sanguis integer ,",
+      "translation": "When you are young , then , when the blood is fresh , it ’ s right to devote your exertions to acquiring your fortune ; and then when at last , you are an old man , you may set yourself at your ease ; drink , and be amorous ; this , the fact that you are living , is now so much profit . This , as I say , I ’ ll carry out in deed ."
+    },
+    {
+      "id": "3.2.555",
+      "label": "Section 3.2.555",
+      "chapter": null,
+      "original": "interea tamen huc intro ad me invisam domum :",
+      "translation": "Meanwhile , however , I ’ ll take a look in-doors here at my house ; my wife has been some time expecting me at home quite hungry : now , she ’ ll be worrying me to death with her scolding , if I go in-doors . But , in fine , whatever comes of it , i ’ faith , I ’ ll not go , but I ’ ll first meet this neighbour of mine before I return home ;"
+    },
+    {
+      "id": "3.2.560",
+      "label": "Section 3.2.560",
+      "chapter": null,
+      "original": "redeam ; ut mihi aedis aliquas conducat volo ,",
+      "translation": "I want him to hire some house for me , where this damsel may dwell . And , see , he ’ s coming out of doors ."
+    },
+    {
+      "id": "3.3.562",
+      "label": "Section 3.3.562",
+      "chapter": null,
+      "original": "Adducam ego illum iam ad te , si convenero .",
+      "translation": "I ’ ll bring him to you directly , if I meet him ."
+    },
+    {
+      "id": "3.3.563",
+      "label": "Section 3.3.563",
+      "chapter": null,
+      "original": "Me dicit .",
+      "translation": "He ’ s meaning me ."
+    },
+    {
+      "id": "3.3.563b",
+      "label": "Section 3.3.563b",
+      "chapter": null,
+      "original": "Quid ais , Demipho ?",
+      "translation": "How say you , Demipho ?"
+    },
+    {
+      "id": "3.3.563c",
+      "label": "Section 3.3.563c",
+      "chapter": null,
+      "original": "Est mulier domi ?",
+      "translation": "Is the damsel at your house ?"
+    },
+    {
+      "id": "3.3.564",
+      "label": "Section 3.3.564",
+      "chapter": null,
+      "original": "Quid censes ?",
+      "translation": "What do you suppose ?"
+    },
+    {
+      "id": "3.3.564b",
+      "label": "Section 3.3.564b",
+      "chapter": null,
+      "original": "Quid si visam ?",
+      "translation": "What if I go see her ?"
+    },
+    {
+      "id": "3.3.564c",
+      "label": "Section 3.3.564c",
+      "chapter": null,
+      "original": "Quid properas ? mane .",
+      "translation": "Why making such haste ? Stay ."
+    },
+    {
+      "id": "3.3.565",
+      "label": "Section 3.3.565",
+      "chapter": null,
+      "original": "Quid faciam ?",
+      "translation": "What am I to do ?"
+    },
+    {
+      "id": "3.3.565b",
+      "label": "Section 3.3.565b",
+      "chapter": null,
+      "original": "Quod opust facto facito ut cogites .",
+      "translation": "What you ought to do ; take care and consider ."
+    },
+    {
+      "id": "3.3.566",
+      "label": "Section 3.3.566",
+      "chapter": null,
+      "original": "Quid cogitem ? equidem hercle opus hoc facto existimo ,",
+      "translation": "Consider what ? Why troth , for my own part , I think there ’ s need for my doing this , going in-doors there , I mean ."
+    },
+    {
+      "id": "3.3.567b",
+      "label": "Section 3.3.567b",
+      "chapter": null,
+      "original": "Itane vero , vervex ? intro eas ?",
+      "translation": "What , is it so , you old wether ? Would you be going in ?"
+    },
+    {
+      "id": "3.3.568",
+      "label": "Section 3.3.568",
+      "chapter": null,
+      "original": "Quid aliud faciam ?",
+      "translation": "What should I do else ?"
+    },
+    {
+      "id": "3.3.568b",
+      "label": "Section 3.3.568b",
+      "chapter": null,
+      "original": "Prius hoc ausculta , atque ades :",
+      "translation": "First listen to this , and attend ; there ’ s something even before this that I think it proper you should do ."
+    },
+    {
+      "id": "3.3.570",
+      "label": "Section 3.3.570",
+      "chapter": null,
+      "original": "nam nunc si illuc intro ieris , amplecti voles ,",
+      "translation": "For if you now go in-doors to her , you ’ ll be wishing to embrace her , chatting with her , and kissing her ."
+    },
+    {
+      "id": "3.3.571b",
+      "label": "Section 3.3.571b",
+      "chapter": null,
+      "original": "Tu quidem",
+      "translation": "Really you know my feelings ; you understand what I would be at ."
+    },
+    {
+      "id": "3.3.573",
+      "label": "Section 3.3.573",
+      "chapter": null,
+      "original": "Pervorse facies .",
+      "translation": "You will be doing wrong ."
+    },
+    {
+      "id": "3.3.573b",
+      "label": "Section 3.3.573b",
+      "chapter": null,
+      "original": "Quodne ames —",
+      "translation": "What , with that which you love ?"
+    },
+    {
+      "id": "3.3.573c",
+      "label": "Section 3.3.573c",
+      "chapter": null,
+      "original": "Tanto minus .",
+      "translation": "So much the less reason . Would you , full of hungriness , with a foul breath ,"
+    },
+    {
+      "id": "3.3.575",
+      "label": "Section 3.3.575",
+      "chapter": null,
+      "original": "senex hircosus tu osculere mulierem ?",
+      "translation": "a stinking old fellow , be kissing a woman ? And wouldn ’ t you , as you approached , be setting a female vomiting ?"
+    },
+    {
+      "id": "3.3.578",
+      "label": "Section 3.3.578",
+      "chapter": null,
+      "original": "Quid si igitur unum faciam hoc ? si censes , coquom",
+      "translation": "I ’ faith , I ’ m sure that you ’ re in love , as you point out these things beforehand to me . What then , if I give a dinner ? If you approve of this , let ’ s lay hold of some cook , who may be cooking away a meal [*]"
+    },
+    {
+      "id": "3.3.580",
+      "label": "Section 3.3.580",
+      "chapter": null,
+      "original": "apud te hic usque ad vesperum .",
+      "translation": "here at your house , even until the evening ."
+    },
+    {
+      "id": "3.3.580b",
+      "label": "Section 3.3.580b",
+      "chapter": null,
+      "original": "Em istuc censeo .",
+      "translation": "Well , I ’ m of that way of thinking . Now you are talking wisely , and like a lover ."
+    },
+    {
+      "id": "3.3.582",
+      "label": "Section 3.3.582",
+      "chapter": null,
+      "original": "Quid stamus ? quin ergo imus atque obsonium",
+      "translation": "Why are we standing here ? Why then don ’ t we be off and procure the provisions , that we may be comfortable ?"
+    },
+    {
+      "id": "3.3.583b",
+      "label": "Section 3.3.583b",
+      "chapter": null,
+      "original": "Equidem te sequor .",
+      "translation": "For my part , I ’ ll follow you . And , i ’ troth , you ’ ll be finding out a lodging for her , if you are prudent ;"
+    },
+    {
+      "id": "3.3.585",
+      "label": "Section 3.3.585",
+      "chapter": null,
+      "original": "nullum hercle praeter hunc diem illa apud med erit .",
+      "translation": "for , i ’ faith , she shan ’ t be at my house a single day beyond the present ; I ’ m afraid of my wife , lest , if she should return from the country to-morrow , she ’ ll be finding her here ."
+    },
+    {
+      "id": "3.4.588",
+      "label": "Section 3.4.588",
+      "chapter": null,
+      "original": "Súmne ego homo miser , qui nusquam bene queo quiescere ?",
+      "translation": "Am I not a wretched mortal , who can rest quietly nowhere ? If I ’ m at home , my mind ’ s abroad ; but if I ’ m abroad , my mind ’ s at home ."
+    },
+    {
+      "id": "3.4.590",
+      "label": "Section 3.4.590",
+      "chapter": null,
+      "original": "ita mi in pectore atque in corde facit amor incendium :",
+      "translation": "To such a degree . has love kindled a flame in my breast and in my heart ; did not the tears fall from my eyes , why then , I doubt , my head would be on fire . I cling to hope ; safety I ’ ve lost ; whether she ’ ll return or no , I know not . If my father seizes her , as he has said , then my welfare is gone in exile ; but if my companion has done what he promised , then my welfare has not departed ."
+    },
+    {
+      "id": "3.4.595",
+      "label": "Section 3.4.595",
+      "chapter": null,
+      "original": "sed tamen dem si podagrosis pedibus esset Eutychus ,",
+      "translation": "But still , even if Eutychus had had gouty feet , he could have been back from the harbour by this . This is a very great fault of his , that he is too slow , against the wishes of my feelings . But ( looking towards the side ) isn ’ t this he whom I espy running ? ’ Tis he himself ; I ’ ll go meet him . ( Clasps his hands .) Thou who art the overlooker of Gods and of men and the mistress of mortals as well , inasmuch as thou hast indulged me in this hope that I entertained , I do return thee thanks . Does any hope remain ? Alas ! I ’ m utterly undone . His countenance by no means pleases me !"
+    },
+    {
+      "id": "3.4.600",
+      "label": "Section 3.4.600",
+      "chapter": null,
+      "original": "tristis incédit ( pectus ardet , haereo ), quassat caput .",
+      "translation": "He moves along in sadness . My breast burns . I am in doubt . He shakes his head . Eutychus !"
+    },
+    {
+      "id": "3.4.601b",
+      "label": "Section 3.4.601b",
+      "chapter": null,
+      "original": "Eu , Charine .",
+      "translation": "Alas ! Charinus ."
+    },
+    {
+      "id": "3.4.601c",
+      "label": "Section 3.4.601c",
+      "chapter": null,
+      "original": "Prius quam recipias anhelitum ,",
+      "translation": "Before you take breath , in one word , speak out . Where am I ? Here , or among the dead ?"
+    },
+    {
+      "id": "3.4.603",
+      "label": "Section 3.4.603",
+      "chapter": null,
+      "original": "Neque apud mortuos neque hic es .",
+      "translation": "You are neither among the dead nor here ."
+    },
+    {
+      "id": "3.4.603b",
+      "label": "Section 3.4.603b",
+      "chapter": null,
+      "original": "Salvos sum , immortalitas",
+      "translation": "I ’ m saved , immortality has been vouchsafed me — he has purchased her . He has nicely tricked my father ."
+    },
+    {
+      "id": "3.4.605",
+      "label": "Section 3.4.605",
+      "chapter": null,
+      "original": "impetrabilior qui vivat nullus est . dice , obsecro :",
+      "translation": "There ’ s no one living more clever at gaining his purpose . Prithee , do tell me ; if I ’ m neither here nor at Acheron , where am I ?"
+    },
+    {
+      "id": "3.4.606b",
+      "label": "Section 3.4.606b",
+      "chapter": null,
+      "original": "Nusquam gentium .",
+      "translation": "Nowhere in the world ."
+    },
+    {
+      "id": "3.4.607",
+      "label": "Section 3.4.607",
+      "chapter": null,
+      "original": "Disperii , illaec interemit me modó oratio .",
+      "translation": "I ’ m utterly undone ! That speech has just put an end to me here ."
+    },
+    {
+      "id": "3.4.608",
+      "label": "Section 3.4.608",
+      "chapter": null,
+      "original": "Odiosast oratio , cum rém agas longinquom loqui .",
+      "translation": "It is an annoying way of speaking , when you should despatch the business , to be beating about the bush [*] ."
+    },
+    {
+      "id": "3.4.609",
+      "label": "Section 3.4.609",
+      "chapter": null,
+      "original": "Quidquid est , ad capita rerum perveni .",
+      "translation": "Whatever it is , do come to the material points of the matter ."
+    },
+    {
+      "id": "3.4.609b",
+      "label": "Section 3.4.609b",
+      "chapter": null,
+      "original": "Primum omnium :",
+      "translation": "First of all ,"
+    },
+    {
+      "id": "3.4.610",
+      "label": "Section 3.4.610",
+      "chapter": null,
+      "original": "periimus .",
+      "translation": "we are ruined ."
+    },
+    {
+      "id": "3.4.610b",
+      "label": "Section 3.4.610b",
+      "chapter": null,
+      "original": "Quin tu illud potius nuntias quod nescio ?",
+      "translation": "But why don ’ t you in preference tell me that which I don ’ t know ?"
+    },
+    {
+      "id": "3.4.611",
+      "label": "Section 3.4.611",
+      "chapter": null,
+      "original": "Mulier alienata est abs te .",
+      "translation": "The damsel has been taken away from you ."
+    },
+    {
+      "id": "3.4.611b",
+      "label": "Section 3.4.611b",
+      "chapter": null,
+      "original": "Eutyché , capital facis .",
+      "translation": "Eutychus , you are guilty of a capital offence ."
+    },
+    {
+      "id": "3.4.612",
+      "label": "Section 3.4.612",
+      "chapter": null,
+      "original": "Qui ?",
+      "translation": "How so ?"
+    },
+    {
+      "id": "3.4.612b",
+      "label": "Section 3.4.612b",
+      "chapter": null,
+      "original": "Quia aequalem et sodalem , liberum civem , enicas .",
+      "translation": "Because you are killing your year ’ s-mate and friend , a free citizen ."
+    },
+    {
+      "id": "3.4.613",
+      "label": "Section 3.4.613",
+      "chapter": null,
+      "original": "Ne di sierint .",
+      "translation": "May the Gods forbid it !"
+    },
+    {
+      "id": "3.4.613b",
+      "label": "Section 3.4.613b",
+      "chapter": null,
+      "original": "Demisisti gladium in iugulum : iam cadam .",
+      "translation": "You ’ ve thrust a sword into my throat ; this moment I shall fall ."
+    },
+    {
+      "id": "3.4.614",
+      "label": "Section 3.4.614",
+      "chapter": null,
+      "original": "Quaeso hercle , animum ne desponde .",
+      "translation": "Troth now , prithee , don ’ t be desponding in mind ."
+    },
+    {
+      "id": "3.4.614b",
+      "label": "Section 3.4.614b",
+      "chapter": null,
+      "original": "Nullust quem despondeam .",
+      "translation": "I have none to be desponding in ."
+    },
+    {
+      "id": "3.4.615",
+      "label": "Section 3.4.615",
+      "chapter": null,
+      "original": "loquere porro aliam malam rem . cui est empta ?",
+      "translation": "Tell on , then , the rest of your bad news ; for whom has she been purchased ?"
+    },
+    {
+      "id": "3.4.615b",
+      "label": "Section 3.4.615b",
+      "chapter": null,
+      "original": "Nescio .",
+      "translation": "I don ’ t know . She had been already knocked down to the bidder and taken off by him , when I got to the harbour ."
+    },
+    {
+      "id": "3.4.616b",
+      "label": "Section 3.4.616b",
+      "chapter": null,
+      "original": "Vae mihi ,",
+      "translation": "Ah me ! Already , indeed , have you heaped burning mountains of woe upon me . Proceed , executioner , torment me on , since you have once begun ."
+    },
+    {
+      "id": "3.4.619",
+      "label": "Section 3.4.619",
+      "chapter": null,
+      "original": "Non tibi istuc mágis dividiaest , quam mihí hodie fuit .",
+      "translation": "This is not more a cause of anguish to yourself , than it has proved to me this day ."
+    }
+  ],
+  "prevChunkSlug": "the-merchant-1me99z-7",
+  "nextChunkSlug": "the-merchant-1me99z-9"
+}

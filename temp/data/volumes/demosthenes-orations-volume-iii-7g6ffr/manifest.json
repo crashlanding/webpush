@@ -1,0 +1,811 @@
+{
+  "loebNumber": 299,
+  "sortOrder": 299,
+  "slug": "demosthenes-orations-volume-iii-7g6ffr",
+  "title": "Orations, Volume III",
+  "volumeLabel": "Orations, Volume III",
+  "authorDisplay": "Demosthenes",
+  "authors": [
+    "Demosthenes"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Orations, Volume III. Orations, Volume III opens a closest available slice of Demosthenes on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "on-the-false-embassy-xdl5xh-1",
+  "readyChunkCount": 26,
+  "contents": [
+    {
+      "id": "orations-volume-iii-1lkkge",
+      "title": "Orations, Volume III",
+      "status": "ready",
+      "sectionCount": 1445,
+      "chunkSlug": "on-the-false-embassy-xdl5xh-1",
+      "chunks": [
+        {
+          "slug": "on-the-false-embassy-xdl5xh-1",
+          "label": "On the False Embassy (Section 1 - Section 60)",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-false-embassy-xdl5xh-2",
+          "label": "On the False Embassy (Section 61 - Section 125)",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-false-embassy-xdl5xh-3",
+          "label": "On the False Embassy (Section 126 - Section 185)",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-false-embassy-xdl5xh-4",
+          "label": "On the False Embassy (Section 186 - Section 245)",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-false-embassy-xdl5xh-5",
+          "label": "On the False Embassy (Section 246 - Section 305)",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-false-embassy-xdl5xh-6",
+          "label": "On the False Embassy (Section 306 - Section 343)",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 38,
+          "status": "ready"
+        },
+        {
+          "slug": "against-leptines-1g9mq6-1",
+          "label": "Against Leptines (Section 1 - Section 60)",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "against-leptines-1g9mq6-2",
+          "label": "Against Leptines (Section 61 - Section 120)",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "against-leptines-1g9mq6-3",
+          "label": "Against Leptines (Section 121 - Section 167)",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 47,
+          "status": "ready"
+        },
+        {
+          "slug": "against-meidias-1em9ve-1",
+          "label": "Against Meidias (Section 1 - Section 60)",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "against-meidias-1em9ve-2",
+          "label": "Against Meidias (Section 61 - Section 120)",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "against-meidias-1em9ve-3",
+          "label": "Against Meidias (Section 121 - Section 180)",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "against-meidias-1em9ve-4",
+          "label": "Against Meidias (Section 181 - Section 227)",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 47,
+          "status": "ready"
+        },
+        {
+          "slug": "against-androtion-16ntjm",
+          "label": "Against Androtion",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 78,
+          "status": "ready"
+        },
+        {
+          "slug": "against-aristocrates-n8rzqd-1",
+          "label": "Against Aristocrates (Section 1 - Section 60)",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "against-aristocrates-n8rzqd-2",
+          "label": "Against Aristocrates (Section 61 - Section 120)",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "against-aristocrates-n8rzqd-3",
+          "label": "Against Aristocrates (Section 121 - Section 180)",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "against-aristocrates-n8rzqd-4",
+          "label": "Against Aristocrates (Section 181 - Section 220)",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 40,
+          "status": "ready"
+        },
+        {
+          "slug": "against-timocrates-1l76s2-1",
+          "label": "Against Timocrates (Section 1 - Section 60)",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "against-timocrates-1l76s2-2",
+          "label": "Against Timocrates (Section 61 - Section 120)",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "against-timocrates-1l76s2-3",
+          "label": "Against Timocrates (Section 121 - Section 180)",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "against-timocrates-1l76s2-4",
+          "label": "Against Timocrates (Section 181 - Section 218)",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 38,
+          "status": "ready"
+        },
+        {
+          "slug": "against-aristogeiton-i-wwv5wm-1",
+          "label": "Against Aristogeiton I (Section 1 - Section 60)",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "against-aristogeiton-i-wwv5wm-2",
+          "label": "Against Aristogeiton I (Section 61 - Section 101)",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 41,
+          "status": "ready"
+        },
+        {
+          "slug": "against-aristogeiton-ii-pv9bhf",
+          "label": "Against Aristogeiton II",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 27,
+          "status": "ready"
+        },
+        {
+          "slug": "against-aphobus-i-fc649g",
+          "label": "Against Aphobus I",
+          "partId": "orations-volume-iii-1lkkge",
+          "partTitle": "Orations, Volume III",
+          "sectionCount": 69,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "on-the-false-embassy-xdl5xh-1",
+      "label": "On the False Embassy (Section 1 - Section 60)",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-false-embassy-xdl5xh-2",
+      "label": "On the False Embassy (Section 61 - Section 125)",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-false-embassy-xdl5xh-3",
+      "label": "On the False Embassy (Section 126 - Section 185)",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-false-embassy-xdl5xh-4",
+      "label": "On the False Embassy (Section 186 - Section 245)",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-false-embassy-xdl5xh-5",
+      "label": "On the False Embassy (Section 246 - Section 305)",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-false-embassy-xdl5xh-6",
+      "label": "On the False Embassy (Section 306 - Section 343)",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 38,
+      "status": "ready"
+    },
+    {
+      "slug": "against-leptines-1g9mq6-1",
+      "label": "Against Leptines (Section 1 - Section 60)",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "against-leptines-1g9mq6-2",
+      "label": "Against Leptines (Section 61 - Section 120)",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "against-leptines-1g9mq6-3",
+      "label": "Against Leptines (Section 121 - Section 167)",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 47,
+      "status": "ready"
+    },
+    {
+      "slug": "against-meidias-1em9ve-1",
+      "label": "Against Meidias (Section 1 - Section 60)",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "against-meidias-1em9ve-2",
+      "label": "Against Meidias (Section 61 - Section 120)",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "against-meidias-1em9ve-3",
+      "label": "Against Meidias (Section 121 - Section 180)",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "against-meidias-1em9ve-4",
+      "label": "Against Meidias (Section 181 - Section 227)",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 47,
+      "status": "ready"
+    },
+    {
+      "slug": "against-androtion-16ntjm",
+      "label": "Against Androtion",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 78,
+      "status": "ready"
+    },
+    {
+      "slug": "against-aristocrates-n8rzqd-1",
+      "label": "Against Aristocrates (Section 1 - Section 60)",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "against-aristocrates-n8rzqd-2",
+      "label": "Against Aristocrates (Section 61 - Section 120)",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "against-aristocrates-n8rzqd-3",
+      "label": "Against Aristocrates (Section 121 - Section 180)",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "against-aristocrates-n8rzqd-4",
+      "label": "Against Aristocrates (Section 181 - Section 220)",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 40,
+      "status": "ready"
+    },
+    {
+      "slug": "against-timocrates-1l76s2-1",
+      "label": "Against Timocrates (Section 1 - Section 60)",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "against-timocrates-1l76s2-2",
+      "label": "Against Timocrates (Section 61 - Section 120)",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "against-timocrates-1l76s2-3",
+      "label": "Against Timocrates (Section 121 - Section 180)",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "against-timocrates-1l76s2-4",
+      "label": "Against Timocrates (Section 181 - Section 218)",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 38,
+      "status": "ready"
+    },
+    {
+      "slug": "against-aristogeiton-i-wwv5wm-1",
+      "label": "Against Aristogeiton I (Section 1 - Section 60)",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "against-aristogeiton-i-wwv5wm-2",
+      "label": "Against Aristogeiton I (Section 61 - Section 101)",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 41,
+      "status": "ready"
+    },
+    {
+      "slug": "against-aristogeiton-ii-pv9bhf",
+      "label": "Against Aristogeiton II",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 27,
+      "status": "ready"
+    },
+    {
+      "slug": "against-aphobus-i-fc649g",
+      "label": "Against Aphobus I",
+      "partId": "orations-volume-iii-1lkkge",
+      "partTitle": "Orations, Volume III",
+      "sectionCount": 69,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "on-the-false-embassy-xdl5xh-1",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "περὶ τῆς παραπρεσβείας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg019.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Embassy",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg019.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-false-embassy-xdl5xh-2",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "περὶ τῆς παραπρεσβείας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg019.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Embassy",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg019.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-false-embassy-xdl5xh-3",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "περὶ τῆς παραπρεσβείας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg019.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Embassy",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg019.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-false-embassy-xdl5xh-4",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "περὶ τῆς παραπρεσβείας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg019.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Embassy",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg019.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-false-embassy-xdl5xh-5",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "περὶ τῆς παραπρεσβείας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg019.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Embassy",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg019.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-false-embassy-xdl5xh-6",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "περὶ τῆς παραπρεσβείας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg019.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Embassy",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg019.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-leptines-1g9mq6-1",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "περὶ τῆς Ἀτελείας πρὸς Λεπτίνην",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg020.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Leptines",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg020.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-leptines-1g9mq6-2",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "περὶ τῆς Ἀτελείας πρὸς Λεπτίνην",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg020.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Leptines",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg020.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-leptines-1g9mq6-3",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "περὶ τῆς Ἀτελείας πρὸς Λεπτίνην",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg020.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Leptines",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg020.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-meidias-1em9ve-1",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Μειδίου περὶ τοῦ Κονδύλου",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg021.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Meidias",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg021.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-meidias-1em9ve-2",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Μειδίου περὶ τοῦ Κονδύλου",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg021.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Meidias",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg021.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-meidias-1em9ve-3",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Μειδίου περὶ τοῦ Κονδύλου",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg021.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Meidias",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg021.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-meidias-1em9ve-4",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Μειδίου περὶ τοῦ Κονδύλου",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg021.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Meidias",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg021.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-androtion-16ntjm",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Ἀνδροτίωνος παρανόμων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg022.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Androtion",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg022.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-aristocrates-n8rzqd-1",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Ἀριστοκράτους",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg023.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Aristocrates",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg023.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-aristocrates-n8rzqd-2",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Ἀριστοκράτους",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg023.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Aristocrates",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg023.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-aristocrates-n8rzqd-3",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Ἀριστοκράτους",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg023.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Aristocrates",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg023.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-aristocrates-n8rzqd-4",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Ἀριστοκράτους",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg023.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Aristocrates",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg023.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-timocrates-1l76s2-1",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Τιμοκράτους",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg024.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Timocrates",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg024.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-timocrates-1l76s2-2",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Τιμοκράτους",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg024.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Timocrates",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg024.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-timocrates-1l76s2-3",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Τιμοκράτους",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg024.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Timocrates",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg024.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-timocrates-1l76s2-4",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Τιμοκράτους",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg024.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Timocrates",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg024.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-aristogeiton-i-wwv5wm-1",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Ἀριστογείτονος α΄",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg025.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Aristogeiton I",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg025.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-aristogeiton-i-wwv5wm-2",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Ἀριστογείτονος α΄",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg025.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Aristogeiton I",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg025.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-aristogeiton-ii-pv9bhf",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Ἀριστογείτονος β΄",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg026.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Aristogeiton II",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg026.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-aphobus-i-fc649g",
+      "partTitle": "Orations, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Ἀφόβου ἐπιτροπῆς α΄",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg027.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Aphobus I",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg027.perseus-eng2/"
+      }
+    }
+  ]
+}

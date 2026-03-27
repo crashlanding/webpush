@@ -1,0 +1,27 @@
+{
+  "loebNumber": 312,
+  "sortOrder": 312,
+  "slug": "tacitus-annals-799fsq",
+  "title": "Annals",
+  "volumeLabel": "Annals",
+  "authorDisplay": "Tacitus",
+  "authors": [
+    "Tacitus"
+  ],
+  "language": "latin",
+  "summary": "A catalog placeholder for Annals. Scaife does not currently provide a confidently matchable original-and-English pair for this volume.",
+  "status": "placeholder",
+  "defaultChunkSlug": null,
+  "readyChunkCount": 0,
+  "contents": [
+    {
+      "id": "annals-wif41z",
+      "title": "Annals",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Annals."
+    }
+  ],
+  "chunks": [],
+  "citations": []
+}

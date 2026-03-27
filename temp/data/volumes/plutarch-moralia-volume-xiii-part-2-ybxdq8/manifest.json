@@ -1,0 +1,151 @@
+{
+  "loebNumber": 470,
+  "sortOrder": 470,
+  "slug": "plutarch-moralia-volume-xiii-part-2-ybxdq8",
+  "title": "Moralia, Volume XIII: Part 2",
+  "volumeLabel": "Moralia, Volume XIII: Part 2",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Moralia, Volume XIII: Part 2. Moralia: Part 2 opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "quaestiones-naturales-1m92e1",
+  "readyChunkCount": 4,
+  "contents": [
+    {
+      "id": "moralia-part-2-1xpanw",
+      "title": "Moralia: Part 2",
+      "status": "ready",
+      "sectionCount": 105,
+      "chunkSlug": "quaestiones-naturales-1m92e1",
+      "chunks": [
+        {
+          "slug": "quaestiones-naturales-1m92e1",
+          "label": "Quaestiones Naturales",
+          "partId": "moralia-part-2-1xpanw",
+          "partTitle": "Moralia: Part 2",
+          "sectionCount": 39,
+          "status": "ready"
+        },
+        {
+          "slug": "de-facie-quae-in-orbe-lunae-apparet-tqldym",
+          "label": "De Facie Quae in orbe Lunae Apparet",
+          "partId": "moralia-part-2-1xpanw",
+          "partTitle": "Moralia: Part 2",
+          "sectionCount": 30,
+          "status": "ready"
+        },
+        {
+          "slug": "de-primo-frigido-16281i",
+          "label": "De primo frigido",
+          "partId": "moralia-part-2-1xpanw",
+          "partTitle": "Moralia: Part 2",
+          "sectionCount": 23,
+          "status": "ready"
+        },
+        {
+          "slug": "aquane-an-ignis-sit-utilior-1u10nh",
+          "label": "Aquane an ignis sit utilior",
+          "partId": "moralia-part-2-1xpanw",
+          "partTitle": "Moralia: Part 2",
+          "sectionCount": 13,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "quaestiones-naturales-1m92e1",
+      "label": "Quaestiones Naturales",
+      "partId": "moralia-part-2-1xpanw",
+      "partTitle": "Moralia: Part 2",
+      "sectionCount": 39,
+      "status": "ready"
+    },
+    {
+      "slug": "de-facie-quae-in-orbe-lunae-apparet-tqldym",
+      "label": "De Facie Quae in orbe Lunae Apparet",
+      "partId": "moralia-part-2-1xpanw",
+      "partTitle": "Moralia: Part 2",
+      "sectionCount": 30,
+      "status": "ready"
+    },
+    {
+      "slug": "de-primo-frigido-16281i",
+      "label": "De primo frigido",
+      "partId": "moralia-part-2-1xpanw",
+      "partTitle": "Moralia: Part 2",
+      "sectionCount": 23,
+      "status": "ready"
+    },
+    {
+      "slug": "aquane-an-ignis-sit-utilior-1u10nh",
+      "label": "Aquane an ignis sit utilior",
+      "partId": "moralia-part-2-1xpanw",
+      "partTitle": "Moralia: Part 2",
+      "sectionCount": 13,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "quaestiones-naturales-1m92e1",
+      "partTitle": "Moralia: Part 2",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Αἴτια φυσικά",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg125.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Plutarch's Natural Questions",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg125.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "de-facie-quae-in-orbe-lunae-apparet-tqldym",
+      "partTitle": "Moralia: Part 2",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τοῦ ἐμφαινομένου προσώπου τῷ κύκλῳ τῆς σελήνης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg126.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Concerning the Face which Appears in the Orb Of the Moon",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg126.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "de-primo-frigido-16281i",
+      "partTitle": "Moralia: Part 2",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τοῦ πρώτως ψυχροῦ",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg127.perseus-grc3/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Principle of Cold ",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg127.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "aquane-an-ignis-sit-utilior-1u10nh",
+      "partTitle": "Moralia: Part 2",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τοῦ πότερον ὕδωρ ἢ πῦρ χρησιμώτερον",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg128.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Whether fire or water is most useful",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg128.perseus-eng3/"
+      }
+    }
+  ]
+}

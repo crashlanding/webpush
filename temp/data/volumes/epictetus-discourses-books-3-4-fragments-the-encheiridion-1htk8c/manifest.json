@@ -1,0 +1,107 @@
+{
+  "loebNumber": 218,
+  "sortOrder": 218,
+  "slug": "epictetus-discourses-books-3-4-fragments-the-encheiridion-1htk8c",
+  "title": "Discourses, Books 3-4. Fragments. The Encheiridion",
+  "volumeLabel": "Discourses, Books 3-4. Fragments. The Encheiridion",
+  "authorDisplay": "Epictetus",
+  "authors": [
+    "Epictetus"
+  ],
+  "language": "greek",
+  "summary": "2 of 3 contents in Discourses, Books 3-4. Fragments. The Encheiridion are live from Scaife, while the remaining contents stay visible until a confident pair is available.",
+  "status": "partial",
+  "defaultChunkSlug": "discourses-books-3-4-1ty6wu",
+  "readyChunkCount": 2,
+  "contents": [
+    {
+      "id": "discourses-books-3-4-1ty6wu",
+      "title": "Discourses, Books 3-4",
+      "status": "ready",
+      "sectionCount": 2,
+      "chunkSlug": "discourses-books-3-4-1ty6wu",
+      "chunks": [
+        {
+          "slug": "discourses-books-3-4-1ty6wu",
+          "label": "Discourses, Books 3-4",
+          "partId": "discourses-books-3-4-1ty6wu",
+          "partTitle": "Discourses, Books 3-4",
+          "sectionCount": 2,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "fragments-13g3hm",
+      "title": "Fragments",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Fragments."
+    },
+    {
+      "id": "the-encheiridion-1b62kf",
+      "title": "The Encheiridion",
+      "status": "ready",
+      "sectionCount": 53,
+      "chunkSlug": "the-encheiridion-1b62kf",
+      "chunks": [
+        {
+          "slug": "the-encheiridion-1b62kf",
+          "label": "The Encheiridion",
+          "partId": "the-encheiridion-1b62kf",
+          "partTitle": "The Encheiridion",
+          "sectionCount": 53,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "discourses-books-3-4-1ty6wu",
+      "label": "Discourses, Books 3-4",
+      "partId": "discourses-books-3-4-1ty6wu",
+      "partTitle": "Discourses, Books 3-4",
+      "sectionCount": 2,
+      "status": "ready"
+    },
+    {
+      "slug": "the-encheiridion-1b62kf",
+      "label": "The Encheiridion",
+      "partId": "the-encheiridion-1b62kf",
+      "partTitle": "The Encheiridion",
+      "sectionCount": 53,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "discourses-books-3-4-1ty6wu",
+      "partTitle": "Discourses, Books 3-4",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0557.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Arrian's Discourses of Epictetus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0557.tlg001.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "the-encheiridion-1b62kf",
+      "partTitle": "The Encheiridion",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἐγχειρίδιον",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0557.tlg002.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Encheiridion, or Manual",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0557.tlg002.perseus-eng3/"
+      }
+    }
+  ]
+}

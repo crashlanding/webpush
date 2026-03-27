@@ -1,0 +1,181 @@
+{
+  "loebNumber": 306,
+  "sortOrder": 306,
+  "slug": "plutarch-moralia-volume-v-bnr10y",
+  "title": "Moralia, Volume V",
+  "volumeLabel": "Moralia, Volume V",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Moralia, Volume V. Moralia, Volume V opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "quaestiones-graecae-1gtjm9",
+  "readyChunkCount": 5,
+  "contents": [
+    {
+      "id": "moralia-volume-v-1w3umf",
+      "title": "Moralia, Volume V",
+      "status": "ready",
+      "sectionCount": 126,
+      "chunkSlug": "quaestiones-graecae-1gtjm9",
+      "chunks": [
+        {
+          "slug": "quaestiones-graecae-1gtjm9",
+          "label": "Quaestiones Graecae",
+          "partId": "moralia-volume-v-1w3umf",
+          "partTitle": "Moralia, Volume V",
+          "sectionCount": 59,
+          "status": "ready"
+        },
+        {
+          "slug": "parallela-minora-ek9p1u",
+          "label": "Parallela minora",
+          "partId": "moralia-volume-v-1w3umf",
+          "partTitle": "Moralia, Volume V",
+          "sectionCount": 42,
+          "status": "ready"
+        },
+        {
+          "slug": "de-fortuna-romanorum-12ae0q",
+          "label": "De fortuna Romanorum",
+          "partId": "moralia-volume-v-1w3umf",
+          "partTitle": "Moralia, Volume V",
+          "sectionCount": 13,
+          "status": "ready"
+        },
+        {
+          "slug": "de-alexandri-magni-fortuna-aut-virtute-zlyy5p",
+          "label": "De Alexandri magni fortuna aut virtute",
+          "partId": "moralia-volume-v-1w3umf",
+          "partTitle": "Moralia, Volume V",
+          "sectionCount": 4,
+          "status": "ready"
+        },
+        {
+          "slug": "de-gloria-atheniensium-e19s0z",
+          "label": "De gloria Atheniensium",
+          "partId": "moralia-volume-v-1w3umf",
+          "partTitle": "Moralia, Volume V",
+          "sectionCount": 8,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "quaestiones-graecae-1gtjm9",
+      "label": "Quaestiones Graecae",
+      "partId": "moralia-volume-v-1w3umf",
+      "partTitle": "Moralia, Volume V",
+      "sectionCount": 59,
+      "status": "ready"
+    },
+    {
+      "slug": "parallela-minora-ek9p1u",
+      "label": "Parallela minora",
+      "partId": "moralia-volume-v-1w3umf",
+      "partTitle": "Moralia, Volume V",
+      "sectionCount": 42,
+      "status": "ready"
+    },
+    {
+      "slug": "de-fortuna-romanorum-12ae0q",
+      "label": "De fortuna Romanorum",
+      "partId": "moralia-volume-v-1w3umf",
+      "partTitle": "Moralia, Volume V",
+      "sectionCount": 13,
+      "status": "ready"
+    },
+    {
+      "slug": "de-alexandri-magni-fortuna-aut-virtute-zlyy5p",
+      "label": "De Alexandri magni fortuna aut virtute",
+      "partId": "moralia-volume-v-1w3umf",
+      "partTitle": "Moralia, Volume V",
+      "sectionCount": 4,
+      "status": "ready"
+    },
+    {
+      "slug": "de-gloria-atheniensium-e19s0z",
+      "label": "De gloria Atheniensium",
+      "partId": "moralia-volume-v-1w3umf",
+      "partTitle": "Moralia, Volume V",
+      "sectionCount": 8,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "quaestiones-graecae-1gtjm9",
+      "partTitle": "Moralia, Volume V",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Αἴτια Ἑλληνικά",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg084b.perseus-grc3/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Greek Questions",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg084b.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "parallela-minora-ek9p1u",
+      "partTitle": "Moralia, Volume V",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Συναγωγὴ ἱστοριῶν παραλλήλων Ἑλληνικῶν καὶ Ῥωμαϊκῶν",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg085.perseus-grc3/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Greek and Roman Parallel Stories",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg085.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "de-fortuna-romanorum-12ae0q",
+      "partTitle": "Moralia, Volume V",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τῆς Ῥωμαίων τύχης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg086.perseus-grc3/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Fortunes of the Romans",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg086.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "de-alexandri-magni-fortuna-aut-virtute-zlyy5p",
+      "partTitle": "Moralia, Volume V",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τῆς Ἀλεξάνδρου τύχης ἢ ἀρετῆς λόγος Α, λόγος Β",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg087.perseus-grc3/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Fortune or the Virtue of Alexander I and II",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg087.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "de-gloria-atheniensium-e19s0z",
+      "partTitle": "Moralia, Volume V",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πότερον Ἀθηναῖοι κατὰ πόλεμον ἢ κατὰ σοφίαν ἐνδοξότεροι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg088.perseus-grc3/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Were the Athenians More Famous in War or in Wisdom?",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg088.perseus-eng3/"
+      }
+    }
+  ]
+}

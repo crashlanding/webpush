@@ -1,0 +1,61 @@
+{
+  "loebNumber": 192,
+  "sortOrder": 192,
+  "slug": "plato-laws-volume-ii-ke1fd9",
+  "title": "Laws, Volume II",
+  "volumeLabel": "Laws, Volume II",
+  "authorDisplay": "Plato",
+  "authors": [
+    "Plato"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Laws, Volume II. Laws, Volume II currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "laws-volume-ii-1cjlw5",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "laws-volume-ii-1cjlw5",
+      "title": "Laws, Volume II",
+      "status": "ready",
+      "sectionCount": 60,
+      "chunkSlug": "laws-volume-ii-1cjlw5",
+      "chunks": [
+        {
+          "slug": "laws-volume-ii-1cjlw5",
+          "label": "Laws, Volume II",
+          "partId": "laws-volume-ii-1cjlw5",
+          "partTitle": "Laws, Volume II",
+          "sectionCount": 60,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "laws-volume-ii-1cjlw5",
+      "label": "Laws, Volume II",
+      "partId": "laws-volume-ii-1cjlw5",
+      "partTitle": "Laws, Volume II",
+      "sectionCount": 60,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "laws-volume-ii-1cjlw5",
+      "partTitle": "Laws, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Νόμοι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg034.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Laws",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg034.perseus-eng2/"
+      }
+    }
+  ]
+}

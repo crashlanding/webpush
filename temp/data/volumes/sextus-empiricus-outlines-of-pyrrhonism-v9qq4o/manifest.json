@@ -1,0 +1,61 @@
+{
+  "loebNumber": 273,
+  "sortOrder": 273,
+  "slug": "sextus-empiricus-outlines-of-pyrrhonism-v9qq4o",
+  "title": "Outlines of Pyrrhonism",
+  "volumeLabel": "Outlines of Pyrrhonism",
+  "authorDisplay": "Sextus Empiricus",
+  "authors": [
+    "Sextus Empiricus"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Outlines of Pyrrhonism, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "outlines-of-pyrrhonism-1t8e8k",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "outlines-of-pyrrhonism-1t8e8k",
+      "title": "Outlines of Pyrrhonism",
+      "status": "ready",
+      "sectionCount": 3,
+      "chunkSlug": "outlines-of-pyrrhonism-1t8e8k",
+      "chunks": [
+        {
+          "slug": "outlines-of-pyrrhonism-1t8e8k",
+          "label": "Outlines of Pyrrhonism",
+          "partId": "outlines-of-pyrrhonism-1t8e8k",
+          "partTitle": "Outlines of Pyrrhonism",
+          "sectionCount": 3,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "outlines-of-pyrrhonism-1t8e8k",
+      "label": "Outlines of Pyrrhonism",
+      "partId": "outlines-of-pyrrhonism-1t8e8k",
+      "partTitle": "Outlines of Pyrrhonism",
+      "sectionCount": 3,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "outlines-of-pyrrhonism-1t8e8k",
+      "partTitle": "Outlines of Pyrrhonism",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pyrrhoniae Hypotyposes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0544.tlg001.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Outlines of Pyrrhonism",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0544.tlg001.1st1K-eng1/"
+      }
+    }
+  ]
+}

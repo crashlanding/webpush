@@ -1,0 +1,59 @@
+{
+  "volumeSlug": "plutarch-lives-volume-iv-lhuc0t",
+  "volumeTitle": "Lives, Volume IV",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "comparison-of-timoleon-and-aemilius-r8fasj",
+  "label": "Comparison of Timoleon and Aemilius",
+  "partId": "lives-volume-iv-15nalc",
+  "partTitle": "Lives, Volume IV",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Comparison of Timoleon and Aemilius",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg020.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Comparison of Timoleon and Aemilius",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg020.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1",
+      "label": "Section 1.1",
+      "chapter": null,
+      "original": "τοιούτων δὲ τῶν κατὰ τὴν ἱστορίαν ὄντων , δῆλον ὡς οὐκ ἔχει πολλὰς διαφορὰς οὐδὲ ἀνομοιότητας ἡ σύγκρισις .",
+      "translation": "SUCH being the history of these men , it is clear that our comparison of them will have few points of difference or dissimilarity to show ."
+    },
+    {
+      "id": "1.2",
+      "label": "Section 1.2",
+      "chapter": null,
+      "original": "οἵ τε γὰρ πόλεμοι πρὸς ἐνδόξους γεγόνασιν ἀμφοτέροις ἀνταγωνιστάς , τῷ μὲν Μακεδόνας , τῷ δὲ Καρχηδονίους , αἵ τε νῖκαι περιβόητοι , τοῦ μὲν ἑλόντος Μακεδονίαν p.460 καὶ τὴν ἀπʼ Ἀντιγόνου διαδοχὴν ἐν ἑβδόμῳ βασιλεῖ καταπαύσαντος , τοῦ δὲ τὰς τυραννίδας πάσας ἀνελόντος ἐκ Σικελίας καὶ τὴν νῆσον ἐλευθερώσαντος ·",
+      "translation": "For the wars which both conducted were against notable antagonists ; in the one case against the Macedonians , in the other against the Carthaginians . Their victories , too , were far-famed : the one took Macedonia and brought the royal line of Antigonus to an end in its seventh king ; the other abolished all the tyrannies in Sicily and set the island free ."
+    },
+    {
+      "id": "2.1",
+      "label": "Section 2.1",
+      "chapter": null,
+      "original": "καθαρῶν οὖν καὶ δικαίων ἐν τοῖς πράγμασιν ἀμφοτέρων γεγονότων , Αἰμίλιος μὲν ὑπὸ τῶν νόμων καὶ τῆς πατρίδος οὕτως ἔοικεν εὐθὺς ἀφικέσθαι παρεσκευασμένος , Τιμολέων δὲ τοιοῦτον αὐτὸς ἑαυτὸν παρέσχε .",
+      "translation": "Further , in their administration of affairs both were just and incorruptible ; but Aemilius , it would seem , was made so from the outset of his career by the laws and customs of his country , while Timoleon ’ s great probity was due to himself ."
+    },
+    {
+      "id": "2.2",
+      "label": "Section 2.2",
+      "chapter": null,
+      "original": "τούτου τεκμήριον ὅτι Ῥωμαῖοι μὲν ὁμαλῶς ἐν τῷ τότε χρόνῳ πάντες ἦσαν εὔτακτοι καὶ ὑποχείριοι τοῖς ἐθισμοῖς καὶ τοὺς νόμους δεδιότες καὶ τοὺς πολίτας , Ἑλλήνων δὲ οὐδεὶς ἡγεμών ἐστιν οὐδὲ στρατηγός ὃς οὐ διεφθάρη τότε Σικελίας ἁψάμενος ἔξω Δίωνος .",
+      "translation": "There is proof of this in the fact that the Romans in the time of Aemilius were , all alike , orderly in their lives , observant of usage , and wholesomely fearful of the laws and of their fellow citizens ; whereas , of the Greek leaders and generals who took part in Sicilian affairs during the time of Timoleon , not one was free from corruption except Dion ."
+    }
+  ],
+  "prevChunkSlug": "aemilius-paulus-h4r18r",
+  "nextChunkSlug": "pelopidas-sc3b8l"
+}

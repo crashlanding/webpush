@@ -1,0 +1,61 @@
+{
+  "loebNumber": 81,
+  "sortOrder": 81,
+  "slug": "procopius-history-of-the-wars-volume-ii-cjyk1r",
+  "title": "History of the Wars, Volume II",
+  "volumeLabel": "History of the Wars, Volume II",
+  "authorDisplay": "Procopius",
+  "authors": [
+    "Procopius"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for History of the Wars, Volume II. History of the Wars, Volume II currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "history-of-the-wars-volume-ii-169qsq",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "history-of-the-wars-volume-ii-169qsq",
+      "title": "History of the Wars, Volume II",
+      "status": "ready",
+      "sectionCount": 87,
+      "chunkSlug": "history-of-the-wars-volume-ii-169qsq",
+      "chunks": [
+        {
+          "slug": "history-of-the-wars-volume-ii-169qsq",
+          "label": "History of the Wars, Volume II",
+          "partId": "history-of-the-wars-volume-ii-169qsq",
+          "partTitle": "History of the Wars, Volume II",
+          "sectionCount": 87,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "history-of-the-wars-volume-ii-169qsq",
+      "label": "History of the Wars, Volume II",
+      "partId": "history-of-the-wars-volume-ii-169qsq",
+      "partTitle": "History of the Wars, Volume II",
+      "sectionCount": 87,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "history-of-the-wars-volume-ii-169qsq",
+      "partTitle": "History of the Wars, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Res Gestae",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:stoa0023.stoa001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "History",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:stoa0023.stoa001.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "sophocles-antigone-the-women-of-trachis-philoctetes-oedipus-at-colonus-1bun03",
+  "volumeTitle": "Antigone. The Women of Trachis. Philoctetes. Oedipus at Colonus",
+  "authorDisplay": "Sophocles",
+  "authors": [
+    "Sophocles"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "oedipus-at-colonus-1cl6mn-12",
+  "label": "Oedipus at Colonus (Section 1437 - Section 1583)",
+  "partId": "oedipus-at-colonus-1cl6mn",
+  "partTitle": "Oedipus at Colonus",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Οἰδίπους ἐπὶ Κολωνῷ",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg007.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Oedipus at Colonus",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg007.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1437",
+      "label": "Section 1437",
+      "chapter": null,
+      "original": "μέθεσθε δʼ ἤδη χαίρετόν τʼ · οὐ γάρ μʼ ἔτι",
+      "translation": "Now release me , and farewell ; for nevermore will you behold me living ."
+    },
+    {
+      "id": "1438a",
+      "label": "Section 1438a",
+      "chapter": null,
+      "original": "ὦ τάλαινʼ ἐγώ .",
+      "translation": "Ah , wretched that I am !"
+    },
+    {
+      "id": "1439",
+      "label": "Section 1439",
+      "chapter": null,
+      "original": "μή τοί μʼ ὀδύρου .",
+      "translation": "Do not mourn for me ."
+    },
+    {
+      "id": "1439a",
+      "label": "Section 1439a",
+      "chapter": null,
+      "original": "καὶ τίς ἄν σʼ ὁρμώμενον",
+      "translation": "And who would not mourn you , brother , when you are hurrying off"
+    },
+    {
+      "id": "1440",
+      "label": "Section 1440",
+      "chapter": null,
+      "original": "εἰς προὖπτον Ἅιδην οὐ καταστένοι , κάσι ;",
+      "translation": "to a death foreseen ?"
+    },
+    {
+      "id": "1441",
+      "label": "Section 1441",
+      "chapter": null,
+      "original": "εἰ χρή , θανοῦμαι .",
+      "translation": "If it is fated , then I must die ."
+    },
+    {
+      "id": "1441a",
+      "label": "Section 1441a",
+      "chapter": null,
+      "original": "μὴ σύ γʼ , ἀλλʼ ἐμοὶ πιθοῦ .",
+      "translation": "No , no , listen to my prayer !"
+    },
+    {
+      "id": "1442",
+      "label": "Section 1442",
+      "chapter": null,
+      "original": "μὴ πεῖθʼ ἃ μὴ δεῖ .",
+      "translation": "Do not plead for what must not be ."
+    },
+    {
+      "id": "1442a",
+      "label": "Section 1442a",
+      "chapter": null,
+      "original": "δυστάλαινά τἄρʼ ἐγώ , εἴ σου στερηθῶ .",
+      "translation": "Then I , indeed , am utterly wretched , if I must lose you !"
+    },
+    {
+      "id": "1443a",
+      "label": "Section 1443a",
+      "chapter": null,
+      "original": "καὶ τῇδε φῦναι χἀτέρᾳ . σφὼ δʼ οὖν ἐγὼ",
+      "translation": "It rests with the divinity , this way or that . But as for you two ,"
+    },
+    {
+      "id": "1445",
+      "label": "Section 1445",
+      "chapter": null,
+      "original": "θεοῖς ἀρῶμαι μή ποτʼ ἀντῆσαι κακῶν ·",
+      "translation": "I pray to the gods that you may never meet with evil ; for in all men ’ s eyes you do not deserve to suffer . Polyneices exits ."
+    },
+    {
+      "id": "1.1448",
+      "label": "Section 1.1448",
+      "chapter": null,
+      "original": "κακὰ βαρύποτμὰ παρʼ ἀλαοῦ ξένου ,",
+      "translation": "Behold , new ills of heavy fate have newly come from the blind stranger ,"
+    },
+    {
+      "id": "1.1450",
+      "label": "Section 1.1450",
+      "chapter": null,
+      "original": "εἴ τι μοῖρα μὴ κιγχάνει .",
+      "translation": "unless , perhaps , fate is finding its goal . I cannot say that a purpose of the divinities is ever vain . Time sees all things forever , and raises up some things ,"
+    },
+    {
+      "id": "1.1455",
+      "label": "Section 1.1455",
+      "chapter": null,
+      "original": "τὰ δὲ παρʼ ἦμαρ αὖθις αὔξων ἄνω .",
+      "translation": "then on the next day raises others back up again . The sky resounds ! Zeus !"
+    },
+    {
+      "id": "1.1457",
+      "label": "Section 1.1457",
+      "chapter": null,
+      "original": "ὦ τέκνα τέκνα , πῶς ἄν , εἴ τις ἔντοπος ,",
+      "translation": "Children , children ! If there is any man still here , send him forth to bring back Theseus , excellent in all respects ."
+    },
+    {
+      "id": "1.1459",
+      "label": "Section 1.1459",
+      "chapter": null,
+      "original": "πάτερ , τί δʼ ἐστὶ τἀξίωμʼ ἐφʼ ᾧ καλεῖς ;",
+      "translation": "And what , father , is the purpose of your summons ?"
+    },
+    {
+      "id": "1.1460",
+      "label": "Section 1.1460",
+      "chapter": null,
+      "original": "Διὸς πτερωτὸς ἥδε μʼ αὐτίκʼ ἄξεται",
+      "translation": "This winged thunder of Zeus will soon lead me to Hades . So send someone with speed ."
+    },
+    {
+      "id": "1.1463",
+      "label": "Section 1.1463",
+      "chapter": null,
+      "original": "κτύπος ἄφατος διόβολος · ἐς δʼ ἄκραν",
+      "translation": "Listen ! With a louder noise this one crashes down unspeakably ,"
+    },
+    {
+      "id": "1.1465",
+      "label": "Section 1.1465",
+      "chapter": null,
+      "original": "δεῖμʼ ὑπῆλθε κρατὸς φόβαν .",
+      "translation": "hurled by Zeus ! The hair of my head stands up for fear , my soul is dismayed ; for again the lightning flashes in the sky . What end will it release ?"
+    },
+    {
+      "id": "1.1470",
+      "label": "Section 1.1470",
+      "chapter": null,
+      "original": "ἀφορμᾷ ποτʼ , οὐκ ἄνευ ξυμφορᾶς .",
+      "translation": "I fear it , for never does it fly forth in vain , or without serious results . O great Sky ! O Zeus !"
+    },
+    {
+      "id": "1.1472",
+      "label": "Section 1.1472",
+      "chapter": null,
+      "original": "ὦ παῖδες , ἥκει τῷδʼ ἐπʼ ἀνδρὶ θέσφατος",
+      "translation": "Children , the appointed end of life has reached this man ; he can turn from it no more ."
+    },
+    {
+      "id": "1.1474",
+      "label": "Section 1.1474",
+      "chapter": null,
+      "original": "πῶς οἶσθα ; τῷ δὲ τοῦτο συμβαλὼν ἔχεις ;",
+      "translation": "How do you know ? By what means do you understand this ?"
+    },
+    {
+      "id": "1.1475",
+      "label": "Section 1.1475",
+      "chapter": null,
+      "original": "καλῶς κάτοιδʼ · ἀλλʼ ὡς τάχιστά μοι μολὼν",
+      "translation": "I know it well . But let some one go , I pray you , as quickly as he can , and bring back the lord of this land ."
+    },
+    {
+      "id": "2.1477",
+      "label": "Section 2.1477",
+      "chapter": null,
+      "original": "ἔα ἔα , ἰδοὺ μάλʼ αὖθις ἀμφίσταται διαπρύσιος ὄτοβος .",
+      "translation": "Look ! Look ! Once again the piercing din is around us !"
+    },
+    {
+      "id": "2.1480",
+      "label": "Section 2.1480",
+      "chapter": null,
+      "original": "ἵλαος , ὦ δαίμων , ἵλαος εἴ τι γᾷ",
+      "translation": "Be merciful , divinity , be merciful , if you are bringing anything of gloom for the land which is our mother ! May I find you well disposed , and may I not , because I have cared for a man accursed , somehow obtain a favor without profit !"
+    },
+    {
+      "id": "2.1486",
+      "label": "Section 2.1486",
+      "chapter": null,
+      "original": "ἆρʼ ἐγγὺς ἁνήρ ; ἆρʼ ἔτʼ ἐμψύχου , τέκνα ,",
+      "translation": "Is the man near ? Will he find me still alive , children , and master of my senses ?"
+    },
+    {
+      "id": "2.1488",
+      "label": "Section 2.1488",
+      "chapter": null,
+      "original": "τί δʼ ἂν θέλοις τὸ πιστὸν ἐμφῦναι φρενί ;",
+      "translation": "And what is the pledge that you would like to have firm in your mind ?"
+    },
+    {
+      "id": "2.1489",
+      "label": "Section 2.1489",
+      "chapter": null,
+      "original": "ἀνθʼ ὧν ἔπασχον εὖ , τελεσφόρον χάριν",
+      "translation": "In return for his benefits ,"
+    },
+    {
+      "id": "2.1490",
+      "label": "Section 2.1490",
+      "chapter": null,
+      "original": "δοῦναί σφιν , ἥνπερ τυγχάνων ὑπεσχόμην .",
+      "translation": "I would grant him the fulfillment of the favor that I promised ."
+    },
+    {
+      "id": "2.1491",
+      "label": "Section 2.1491",
+      "chapter": null,
+      "original": "ἰὼ ἰὼ παῖ , βᾶθι βᾶθʼ , εἴτʼ ἄκρα ,",
+      "translation": "Hurry , my son , come to us ! If you chance to be in the glade sacrificing an ox to the sea-god Poseidon ,"
+    },
+    {
+      "id": "2.1495",
+      "label": "Section 2.1495",
+      "chapter": null,
+      "original": "δικαίαν χάριν παρασχεῖν παθών .",
+      "translation": "then come ! For the stranger thinks you worthy , you and your city and your friends , to receive just return for benefits . Hasten quickly , lord !"
+    },
+    {
+      "id": "1500",
+      "label": "Section 1500",
+      "chapter": null,
+      "original": "τίς αὖ παρʼ ὑμῶν κοινὸς ἠχεῖται κτύπος ,",
+      "translation": "What din is this that once more rings forth from you all , from my people as clearly as from the stranger ? Can a thunderbolt from Zeus be the cause , or rushing hail in its fierce onset ? When the god sends such a storm , forebodings of every sort may find a place ."
+    },
+    {
+      "id": "1505",
+      "label": "Section 1505",
+      "chapter": null,
+      "original": "ἄναξ , ποθοῦντι προυφάνης , καί σοι θεῶν",
+      "translation": "Lord , you have appeared at my desire , and to you some god granted noble fortune at this coming ."
+    },
+    {
+      "id": "1507",
+      "label": "Section 1507",
+      "chapter": null,
+      "original": "τί δʼ ἐστίν , ὦ παῖ Λαΐου , νέορτον αὖ ;",
+      "translation": "And what new thing has now occurred , son of Laius ?"
+    },
+    {
+      "id": "1508",
+      "label": "Section 1508",
+      "chapter": null,
+      "original": "ῥοπὴ βίου μοι · καί σʼ ἅπερ ξυνῄνεσα",
+      "translation": "My life hangs in the balance ; and I wish to die without cheating you and this city of the promises I made ."
+    },
+    {
+      "id": "1510",
+      "label": "Section 1510",
+      "chapter": null,
+      "original": "τῷ δʼ ἐκπέπεισαι τοῦ μόρου τεκμηρίῳ ;",
+      "translation": "And what is the proof of your fate that you depend on ?"
+    },
+    {
+      "id": "1511",
+      "label": "Section 1511",
+      "chapter": null,
+      "original": "αὐτοὶ θεοὶ κήρυκες ἀγγέλλουσί μοι ,",
+      "translation": "The gods themselves herald the news to me , nor do they cheat me of any of the appointed signs ."
+    },
+    {
+      "id": "1513",
+      "label": "Section 1513",
+      "chapter": null,
+      "original": "πῶς εἶπας , ὦ γεραιέ , δηλοῦσθαι τάδε ;",
+      "translation": "What makes these things clear ? Tell me , old man ."
+    },
+    {
+      "id": "1514",
+      "label": "Section 1514",
+      "chapter": null,
+      "original": "αἱ πολλὰ βρονταὶ διατελεῖς τὰ πολλά τε",
+      "translation": "The thunder , crash after crash ; the lightning , flash after flash ,"
+    },
+    {
+      "id": "1515",
+      "label": "Section 1515",
+      "chapter": null,
+      "original": "στράψαντα χειρὸς τῆς ἀνικήτου βέλη .",
+      "translation": "hurled from the unconquered hand ."
+    },
+    {
+      "id": "1516",
+      "label": "Section 1516",
+      "chapter": null,
+      "original": "πείθεις με · πολλὰ γάρ σε θεσπίζονθʼ ὁρῶ",
+      "translation": "I am persuaded , for in much I find you a prophet whose voice is not false . Then say what must be done ."
+    },
+    {
+      "id": "1518",
+      "label": "Section 1518",
+      "chapter": null,
+      "original": "ἐγὼ διδάξω , τέκνον Αἰγέως , ἅ σοι",
+      "translation": "I will expound myself , son of Aegeus , the treasures which will be laid up for this city , such as age can never hurt ."
+    },
+    {
+      "id": "1520",
+      "label": "Section 1520",
+      "chapter": null,
+      "original": "χῶρον μὲν αὐτὸς αὐτίκʼ ἐξηγήσομαι ,",
+      "translation": "Immediately , with no hand to guide me , I will lead to the place where I must die . But as to that place , never reveal it to another man , neither where it is hidden , nor in what region it lies , so that it may be an eternal defence for you , better than many shields , better than the spear of neighbors which brings relief ."
+    },
+    {
+      "id": "1525",
+      "label": "Section 1525",
+      "chapter": null,
+      "original": "δορός τʼ ἐπακτοῦ γειτονῶν ἀεὶ τιθῇ .",
+      "translation": "But as for mysteries which speech may not profane , you will learn them yourself when you come to that place alone , since I cannot declare them either to any of these people , or even to my own children , though I love them ."
+    },
+    {
+      "id": "1530",
+      "label": "Section 1530",
+      "chapter": null,
+      "original": "ἀλλʼ αὐτὸς αἰεὶ σῷζε , χὤταν εἰς τέλος",
+      "translation": "Reserve them always to yourself , and when you reach the end of life , reveal them to your eldest son alone , and let him reveal them to his successor in turn forever .\nIn this way you will keep this city unscathed by the men born of the Dragon ’ s teeth . Countless cities commit outrage"
+    },
+    {
+      "id": "1535",
+      "label": "Section 1535",
+      "chapter": null,
+      "original": "κἂν εὖ τις οἰκῇ , ῥᾳδίως καθύβρισαν .",
+      "translation": "even though their neighbor commits no sin . For the gods are slow to punish , yet they are sure , when men scorn holiness and turn to frenzy . Do not desire this , son of Aegeus ! But you know such things as these without my teaching ."
+    },
+    {
+      "id": "1540",
+      "label": "Section 1540",
+      "chapter": null,
+      "original": "χῶρον δʼ , ἐπείγει γάρ με τοὐκ θεοῦ παρόν ,",
+      "translation": "Let us now set forth to that place — the divine summons urges me — and hesitate no longer ."
+    },
+    {
+      "id": "1542",
+      "label": "Section 1542",
+      "chapter": null,
+      "original": "ὦ παῖδες , ὧδʼ ἕπεσθʼ · ἐγὼ γὰρ ἡγεμὼν",
+      "translation": "Children , follow me . For now in turn it is I that shine forth wondrously as a leader for you , as you were your father ’ s . Onward . Do not touch me , but"
+    },
+    {
+      "id": "1545",
+      "label": "Section 1545",
+      "chapter": null,
+      "original": "αὐτὸν τὸν ἱερὸν τύμβον ἐξευρεῖν , ἵνα",
+      "translation": "allow me unaided to find the sacred tomb where it is my fate to be buried in this land .\nThis way , here — come this way ! Hermes the Conductor and the goddess of the dead lead me in this direction .\nLight of day , no light to me , once you were mine ,"
+    },
+    {
+      "id": "1550",
+      "label": "Section 1550",
+      "chapter": null,
+      "original": "νῦν δʼ ἔσχατόν σου τοὐμὸν ἅπτεται δέμας .",
+      "translation": "but now my body feels you for the last time ! For now I go to hide the end of my life in the house of Hades . But you , dearest of strangers , may you yourself be prosperous , and this land , and your followers . In your prosperity ,"
+    },
+    {
+      "id": "1555",
+      "label": "Section 1555",
+      "chapter": null,
+      "original": "μέμνησθέ μου θανόντος εὐτυχεῖς ἀεί .",
+      "translation": "remember me in my death , and be fortunate evermore . He exits , followed by his daughters , Theseus , and attendants ."
+    },
+    {
+      "id": "1.1556",
+      "label": "Section 1.1556",
+      "chapter": null,
+      "original": "εἰ θέμις ἐστί μοι τὰν ἀφανῆ θεὸν",
+      "translation": "If it is right for me with prayer to adore the Unseen Goddess and you , Lord of the Dead , then hear me , Aidoneus , Aidoneus !"
+    },
+    {
+      "id": "1.1560",
+      "label": "Section 1.1560",
+      "chapter": null,
+      "original": "Αἰδωνεῦ Αἰδωνεῦ , λίσσωμαι",
+      "translation": "Grant that without pain , without a fate arousing heavy grief , the stranger may pass to the all-concealing fields of the dead below , and to the Stygian house ."
+    },
+    {
+      "id": "1.1565",
+      "label": "Section 1.1565",
+      "chapter": null,
+      "original": "πολλῶν γὰρ ἂν καὶ μάταν",
+      "translation": "Many were the sorrows that came to him without cause , but a just divinity will lift him up again ."
+    },
+    {
+      "id": "1.1568",
+      "label": "Section 1.1568",
+      "chapter": null,
+      "original": "ὦ χθόνιαι θεαὶ σῶμά τʼ ἀνικάτου",
+      "translation": "Goddesses of the nether world and unconquered beast"
+    },
+    {
+      "id": "1.1570",
+      "label": "Section 1.1570",
+      "chapter": null,
+      "original": "ταῖσι πολυξένοις",
+      "translation": "whose lair lies in the gates of many guests , you untamable Watcher of Hades , snarling from the cavern ’ s jaws , as rumor has always told ! Hear me , Death , son of Earth and Tartarus !"
+    },
+    {
+      "id": "1.1575",
+      "label": "Section 1.1575",
+      "chapter": null,
+      "original": "κατεύχομαι ἐν καθαρῷ βῆναι",
+      "translation": "May that Watcher leave a clear path for the stranger on his way to the nether fields of the dead ! To you I call , giver of the eternal sleep ."
+    },
+    {
+      "id": "1579",
+      "label": "Section 1579",
+      "chapter": null,
+      "original": "ἄνδρες πολῖται , ξυντομωτάτως , μὲν ἂν",
+      "translation": "Citizens , my news might be summed up most briefly thus : Oedipus is dead ."
+    },
+    {
+      "id": "1580",
+      "label": "Section 1580",
+      "chapter": null,
+      "original": "τύχοιμι λέξας Οἰδίπουν ὀλωλότα ·",
+      "translation": "But the story of the happening cannot be told in brief words , as the deeds done there were not brief ."
+    },
+    {
+      "id": "1583",
+      "label": "Section 1583",
+      "chapter": null,
+      "original": "ὄλωλε γὰρ δύστηνος ;",
+      "translation": "Is he gone , the unfortunate man ?"
+    }
+  ],
+  "prevChunkSlug": "oedipus-at-colonus-1cl6mn-11",
+  "nextChunkSlug": "oedipus-at-colonus-1cl6mn-13"
+}

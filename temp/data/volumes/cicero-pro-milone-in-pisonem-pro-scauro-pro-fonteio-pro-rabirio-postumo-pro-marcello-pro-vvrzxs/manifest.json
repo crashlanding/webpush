@@ -1,0 +1,234 @@
+{
+  "loebNumber": 252,
+  "sortOrder": 252,
+  "slug": "cicero-pro-milone-in-pisonem-pro-scauro-pro-fonteio-pro-rabirio-postumo-pro-marcello-pro-vvrzxs",
+  "title": "Pro Milone. In Pisonem. Pro Scauro. Pro Fonteio. Pro Rabirio Postumo. Pro Marcello. Pro Ligario. Pro Rege Deiotaro",
+  "volumeLabel": "Pro Milone. In Pisonem. Pro Scauro. Pro Fonteio. Pro Rabirio Postumo. Pro Marcello. Pro Ligario. Pro Rege Deiotaro",
+  "authorDisplay": "Cicero",
+  "authors": [
+    "Cicero"
+  ],
+  "language": "latin",
+  "summary": "3 of 8 contents in Pro Milone. In Pisonem. Pro Scauro. Pro Fonteio. Pro Rabirio Postumo. Pro Marcello. Pro Ligario. Pro Rege Deiotaro are live from Scaife, while the remaining contents stay visible until a confident pair is available. Pro Milone is currently filled with the closest same-author Scaife text that exposes both an original-language version and an English translation.",
+  "status": "partial",
+  "defaultChunkSlug": "pro-fonteio-1lvwxy",
+  "readyChunkCount": 5,
+  "contents": [
+    {
+      "id": "pro-milone-13gihw",
+      "title": "Pro Milone",
+      "status": "ready",
+      "sectionCount": 49,
+      "chunkSlug": "pro-fonteio-1lvwxy",
+      "chunks": [
+        {
+          "slug": "pro-fonteio-1lvwxy",
+          "label": "Pro Fonteio",
+          "partId": "pro-milone-13gihw",
+          "partTitle": "Pro Milone",
+          "sectionCount": 49,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "in-pisonem-17bqvz",
+      "title": "In Pisonem",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for In Pisonem."
+    },
+    {
+      "id": "pro-scauro-167ake",
+      "title": "Pro Scauro",
+      "status": "ready",
+      "sectionCount": 154,
+      "chunkSlug": "pro-s-roscio-amerino-e4zo6u-1",
+      "chunks": [
+        {
+          "slug": "pro-s-roscio-amerino-e4zo6u-1",
+          "label": "Pro S. Roscio Amerino (Section 1 - Section 60)",
+          "partId": "pro-scauro-167ake",
+          "partTitle": "Pro Scauro",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pro-s-roscio-amerino-e4zo6u-2",
+          "label": "Pro S. Roscio Amerino (Section 61 - Section 120)",
+          "partId": "pro-scauro-167ake",
+          "partTitle": "Pro Scauro",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pro-s-roscio-amerino-e4zo6u-3",
+          "label": "Pro S. Roscio Amerino (Section 121 - Section 154)",
+          "partId": "pro-scauro-167ake",
+          "partTitle": "Pro Scauro",
+          "sectionCount": 34,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "pro-fonteio-1lvwxy",
+      "title": "Pro Fonteio",
+      "status": "ready",
+      "sectionCount": 49,
+      "chunkSlug": "pro-fonteio-1lvwxy",
+      "chunks": [
+        {
+          "slug": "pro-fonteio-1lvwxy",
+          "label": "Pro Fonteio",
+          "partId": "pro-fonteio-1lvwxy",
+          "partTitle": "Pro Fonteio",
+          "sectionCount": 49,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "pro-rabirio-postumo-1pwpb6",
+      "title": "Pro Rabirio Postumo",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Pro Rabirio Postumo."
+    },
+    {
+      "id": "pro-marcello-gm79c2",
+      "title": "Pro Marcello",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Pro Marcello."
+    },
+    {
+      "id": "pro-ligario-xmdpq",
+      "title": "Pro Ligario",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Pro Ligario."
+    },
+    {
+      "id": "pro-rege-deiotaro-kpldd9",
+      "title": "Pro Rege Deiotaro",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Pro Rege Deiotaro."
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "pro-fonteio-1lvwxy",
+      "label": "Pro Fonteio",
+      "partId": "pro-milone-13gihw",
+      "partTitle": "Pro Milone",
+      "sectionCount": 49,
+      "status": "ready"
+    },
+    {
+      "slug": "pro-s-roscio-amerino-e4zo6u-1",
+      "label": "Pro S. Roscio Amerino (Section 1 - Section 60)",
+      "partId": "pro-scauro-167ake",
+      "partTitle": "Pro Scauro",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pro-s-roscio-amerino-e4zo6u-2",
+      "label": "Pro S. Roscio Amerino (Section 61 - Section 120)",
+      "partId": "pro-scauro-167ake",
+      "partTitle": "Pro Scauro",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pro-s-roscio-amerino-e4zo6u-3",
+      "label": "Pro S. Roscio Amerino (Section 121 - Section 154)",
+      "partId": "pro-scauro-167ake",
+      "partTitle": "Pro Scauro",
+      "sectionCount": 34,
+      "status": "ready"
+    },
+    {
+      "slug": "pro-fonteio-1lvwxy",
+      "label": "Pro Fonteio",
+      "partId": "pro-fonteio-1lvwxy",
+      "partTitle": "Pro Fonteio",
+      "sectionCount": 49,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "pro-fonteio-1lvwxy",
+      "partTitle": "Pro Milone",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pro Fonteio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi007.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For M. Fonteius",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi007.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pro-s-roscio-amerino-e4zo6u-1",
+      "partTitle": "Pro Scauro",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pro S. Roscio Amerino",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi002.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For Sextus Roscius of Ameria",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pro-s-roscio-amerino-e4zo6u-2",
+      "partTitle": "Pro Scauro",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pro S. Roscio Amerino",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi002.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For Sextus Roscius of Ameria",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pro-s-roscio-amerino-e4zo6u-3",
+      "partTitle": "Pro Scauro",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pro S. Roscio Amerino",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi002.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For Sextus Roscius of Ameria",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pro-fonteio-1lvwxy",
+      "partTitle": "Pro Fonteio",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pro Fonteio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi007.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For M. Fonteius",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi007.perseus-eng2/"
+      }
+    }
+  ]
+}

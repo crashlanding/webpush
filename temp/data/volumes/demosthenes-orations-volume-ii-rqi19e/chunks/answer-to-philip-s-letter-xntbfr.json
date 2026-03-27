@@ -1,0 +1,192 @@
+{
+  "volumeSlug": "demosthenes-orations-volume-ii-rqi19e",
+  "volumeTitle": "Orations, Volume II",
+  "authorDisplay": "Demosthenes",
+  "authors": [
+    "Demosthenes"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "answer-to-philip-s-letter-xntbfr",
+  "label": "Answer to Philip’s Letter",
+  "partId": "orations-volume-ii-173mr8",
+  "partTitle": "Orations, Volume II",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "πρὸς τὴν ἐπιστολήν τὴν Φιλίππου",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg011.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Answer to Philip’s Letter",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg011.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1",
+      "label": "Section 1",
+      "chapter": null,
+      "original": "ὅτι μέν , ὦ ἄνδρες Ἀθηναῖοι , Φίλιππος οὐκ ἐποιήσατο τὴν εἰρήνην πρὸς ὑμᾶς , ἀλλʼ ἀνεβάλετο τὸν πόλεμον , πᾶσιν ὑμῖν φανερὸν γέγονεν · ἐπειδὴ γὰρ Φαρσαλίοις Ἅλον παρέδωκε καὶ τὰ περὶ Φωκέας διῳκήσατο καὶ τὴν Θρᾴκην κατεστρέψατο πᾶσαν , αἰτίας οὐκ οὔσας πλασάμενος καὶ προφάσεις ἀδίκους ἐξευρὼν τῷ μὲν ἔργῳ πάλαι πολεμεῖ πρὸς τὴν πόλιν , τῷ δὲ λόγῳ νῦν ὁμολογεῖ διὰ τῆς ἐπιστολῆς ἧς ἔπεμψεν ·",
+      "translation": "It must now be clear to all of you , Athenians , that Philip never concluded a peace with you , but only postponed the war ; for ever since he handed Halus [*] over to the Pharsalians , settled the Phocian question , and subdued the whole of Thrace , coining false excuses and inventing hollow pretexts , he has been all the time practically at war with Athens , though it is only now that he confesses it openly in the letter which he has sent ."
+    },
+    {
+      "id": "2",
+      "label": "Section 2",
+      "chapter": null,
+      "original": "ὅτι δὲ χρὴ μήτʼ ὀρρωδεῖν ὑμᾶς τὴν ἐκείνου δύναμιν μήτʼ ἀγεννῶς ἀντιταχθῆναι πρὸς αὐτόν , ἀλλὰ καὶ σώμασι καὶ χρήμασι καὶ ναυσὶ καὶ πᾶσιν ὡς ἁπλῶς εἰπεῖν ἀφειδῶς ὁρμῆσαι πρὸς τὸν πόλεμον , ἐγὼ πειράσομαι διδάσκειν . πρῶτον μὲν γὰρ εἰκός , ὦ ἄνδρες Ἀθηναῖοι , τοὺς θεοὺς μεγίστους ὑμῖν ὑπάρχειν συμμάχους καὶ βοηθούς , ὧν ἐκεῖνος τὰς πίστεις ὑπεριδὼν καὶ τοὺς ὅρκους ὑπερβὰς λέλυκεν ἀδίκως τὴν εἰρήνην ·",
+      "translation": "I shall , however , try to prove to you that you must not quail before his power nor offer a half-hearted resistance , but must enter the war with an unsparing provision of men , money , and ships — in a word , with all your resources . For first , men of Athens , you may reasonably expect that your mightiest allies and supporters will be those gods whose sanction he has flouted and whose name he has taken in vain through his unjust violation of the peace ."
+    },
+    {
+      "id": "3",
+      "label": "Section 3",
+      "chapter": null,
+      "original": "ἔπειθʼ οἷς πρότερον ηὐξήθη , φενακίζων ἀεί τινας καὶ μεγάλʼ ἐπαγγελλόμενος εὐεργετήσειν , ταῦτα πάντα διεξελήλυθεν ἤδη , καὶ γιγνώσκεται μὲν ὑπὸ τῶν Περινθίων καὶ Βυζαντίων καὶ τῶν ἐκείνοις συμμαχούντων ὡς ἐπιθυμεῖ προσενεχθῆναι τούτοις τὸν αὐτὸν τρόπον ὅνπερ Ὀλυνθίοις πρότερον ,",
+      "translation": "Then again , he has at last come to the end of his policy of deception and his lavish promises of future benefit , which before helped him to power . The Perinthians and Byzantines with their allies realize that his aim is to deal with them even as he dealt with the Olynthians before ."
+    },
+    {
+      "id": "4",
+      "label": "Section 4",
+      "chapter": null,
+      "original": "οὐκ ἀγνοεῖται δʼ ὑπὸ Θετταλῶν δεσπόζειν , ἀλλʼ οὐχ ἡγεῖσθαι τῶν συμμάχων προαιρούμενος , ὑποπτεύεται δʼ ὑπὸ Θηβαίων Νίκαιαν μὲν φρουρᾷ κατέχων , εἰς δὲ τὴν ἀμφικτυονίαν εἰσδεδυκώς , τὰς δὲ πρεσβείας τὰς ἐκ Πελοποννήσου πρὸς αὑτὸν ἄγων καὶ τὴν ἐκείνων συμμαχίαν παραιρούμενος · ὥστε τῶν αὐτῷ πρὸ τοῦ φίλων ὄντων τοὺς μὲν νῦν πολεμεῖν ἀκαταλλάκτως , τοὺς δὲ μηκέτι προθύμους εἶναι συναγωνιστάς , ἅπαντας δʼ ὑφορᾶσθαι καὶ διαβεβλῆσθαι πρὸς αὐτόν .",
+      "translation": "The Thessalians recognize that he is determined to be their despot and not the president of a confederacy . The Thebans suspect him , because he keeps a garrison at Nicaea and has stolen into the Amphictyonic Council , and because he attracts to his court the embassies of the Peloponnesian powers and secures their allies for himself . Thus of his old friends some are even now his irreconcilable foes , others are no longer his hearty supporters , while all regard him with suspicion and dislike ."
+    },
+    {
+      "id": "5",
+      "label": "Section 5",
+      "chapter": null,
+      "original": "ἔτι τοίνυν ( οὐδὲ γὰρ τοῦτʼ ἔστι μικρόν ) οἱ κατὰ τὴν Ἀσίαν σατράπαι καθεστῶτες ἔναγχος μὲν ξένους μισθοφόρους εἰσπέμψαντες ἐκώλυσαν ἐκπολιορκηθῆναι Πέρινθον , νῦν δὲ τῆς ἔχθρας αὐτοῖς ἐνεστώσης καὶ τοῦ κινδύνου πλησίον ὄντος , εἰ χειρωθήσεται Βυζάντιον ,",
+      "translation": "Then too — nor is this a matter of small importance — quite recently the satraps of Asia Minor sent a force of mercenaries and compelled Philip to raise the siege of Perinthus ; but today their hostility is confirmed , the danger , if he reduces Byzantium , is at their very doors , and not only will they eagerly join the war against him ."
+    },
+    {
+      "id": "6",
+      "label": "Section 6",
+      "chapter": null,
+      "original": "οὐ μόνον αὐτοὶ προθύμως συμπολεμήσουσιν , ἀλλὰ καὶ βασιλέα Περσῶν χρήματα χορηγεῖν ἡμῖν προτρέψονται , ὃς τοσοῦτον μὲν κέκτηται πλοῦτον ὅσον οὐδʼ οἱ λοιποὶ πάντες , τηλικαύτην δʼ ἔχει ῥώμην πρὸς τὰς ἐνθάδε πράξεις ὥστε καὶ πρότερον , ἡνίκα Λακεδαιμονίοις ἐπολεμοῦμεν , ὁποτέροις πρόσθοιτο , τούτους ἐποίει κρατεῖν τῶν ἑτέρων , καὶ νῦν μεθʼ ἡμῶν γενόμενος ῥᾳδίως καταπολεμήσει τὴν Φιλίππου δύναμιν .",
+      "translation": "but they will prompt the king of Persia to become our paymaster and he is richer than all the rest together , and his power to interfere in Greece is such that in our former wars with Sparta , whichever side he joined , he ensured their victory , and so , if he sides with us now , he will easily crush the power of Philip ."
+    },
+    {
+      "id": "7",
+      "label": "Section 7",
+      "chapter": null,
+      "original": "πρὸς τοίνυν τούτοις τηλικούτοις οὖσιν , οὐκ ἐρῶ μὲν ὡς οὐ διὰ τὴν εἰρήνην πολλὰ προείληφεν ἡμῶν χωρία καὶ λιμένας καὶ τοιαῦθʼ ἕτερα χρήσιμα πρὸς πόλεμον , ὁρῶ δʼ ὡς ὅταν μὲν ὑπʼ εὐνοίας τὰ πράγματα συνέχηται καὶ πᾶσι ταὐτὰ συμφέρῃ τοῖς μετέχουσι τῶν πολέμων , μένει τὰ συσταθέντα βεβαίως · ὅταν δʼ ἐξ ἐπιβουλῆς καὶ πλεονεξίας ἀπάτῃ καὶ βίᾳ κατέχηται , καθάπερ ὑπὸ τούτου νῦν , μικρὰ πρόφασις καὶ τὸ τυχὸν πταῖσμα ταχέως αὐτὰ διέσεισε καὶ κατέλυσεν .",
+      "translation": "Now , admitting these great advantages , I cannot deny that Philip has used the peace to forestall us in occupying many fortresses , harbors , and other points of vantage ; only I observe that when a league is knit together by goodwill , and when all the allied states have the same interests , then the coalition stands firm ; but when , like Philip ’ s , it is based on treachery and greed and maintained by fraud and violence , then on some slight pretext or by some trifling slip it is instantly shattered and dissolved ."
+    },
+    {
+      "id": "8",
+      "label": "Section 8",
+      "chapter": null,
+      "original": "καὶ πολλάκις εὑρίσκω λογιζόμενος οὐ μόνον , ὦ ἄνδρες Ἀθηναῖοι , τὰ συμμαχικὰ τῷ Φιλίππῳ πρὸς ὑποψίαν ἥκοντα καὶ δυσμένειαν , ἀλλὰ καὶ τὰ τῆς ἰδίας ἀρχῆς οὐ συνηρμοσμένα καλῶς οὐδʼ οἰκείως οὐδʼ ὡς οἴεταί τις . ὅλως μὲν γὰρ ἡ Μακεδονικὴ δύναμις ἐν μὲν προσθήκης μέρει ῥοπὴν ἔχει τινὰ καὶ χρῆσιν , αὐτὴ δὲ καθʼ αὑτὴν ἀσθενής ἐστι καὶ πρὸς τηλικοῦτον ὄγκον πραγμάτων εὐκαταφρόνητος .",
+      "translation": "Moreover , men of Athens , frequent reflection has taught me that not only do Philip ’ s alliances end in suspicion and hostility , but also the various parts of his own kingdom are not united by such satisfactory and intimate ties as people imagine . For although in a general way the Macedonian power carries some weight and value as an auxiliary , yet by itself it is weak and , in face of such a stupendous task , even negligible ."
+    },
+    {
+      "id": "9",
+      "label": "Section 9",
+      "chapter": null,
+      "original": "ἔτι δʼ αὐτὴν οὗτος τοῖς πολέμοις καὶ ταῖς στρατείαις καὶ πᾶσιν οἷς ἄν τις αὐτὸν μέγαν εἶναι νομίσειε , σφαλερωτέραν αὑτῷ πεποίηκεν . μὴ γὰρ οἴεσθʼ , ὦ ἄνδρες Ἀθηναῖοι , τοῖς αὐτοῖς χαίρειν Φίλιππόν τε καὶ τοὺς ἀρχομένους , ἀλλʼ ἐννοεῖσθʼ ὡς ὁ μὲν ἐπιθυμεῖ δόξης , οἱ δʼ ἀσφαλείας , καὶ αὐτῷ μὲν οὐκ ἔστι τυχεῖν ταύτης ἀκινδύνως , οἱ δʼ οὐδὲν δέονται , καταλείποντες οἴκοι τέκνα , γονεῖς , γυναῖκας , φθείρεσθαι καὶ καθʼ ἑκάστην ἡμέραν κινδυνεύειν ὑπὲρ αὐτοῦ .",
+      "translation": "and Philip , by his wars and his campaigns and by all those activities to which his greatness might be attributed , has really made it a less trusty weapon to his own hand . For you must not imagine , men of Athens , that his subjects share his tastes ; you must rather reflect that he wants glory , but they security . He cannot gain his end without danger ; they , thinking of children , parents , and wives left at home , are not so eager to court ruin and danger every day to oblige him ."
+    },
+    {
+      "id": "10",
+      "label": "Section 10",
+      "chapter": null,
+      "original": "ὥστε τοὺς μὲν πολλοὺς τῶν Μακεδόνων ἐκ τούτων ἄν τις ἴδοι πῶς διάκεινται πρὸς τὸν Φίλιππον · τοὺς δὲ περὶ αὐτὸν ὄντας ἑταίρους καὶ τοὺς τῶν ξένων ἡγεμόνας εὑρήσετε δόξαν μὲν ἔχοντας ἐπʼ ἀνδρείᾳ , περιδεῶς δὲ μᾶλλον τῶν ἀδόξων ζῶντας . τοῖς μὲν γὰρ ὁ πρὸς τοὺς πολεμίους μόνον ὑπάρχει κίνδυνος , οἱ δὲ τοὺς κόλακας καὶ τοὺς διαβάλλοντας αὐτοὺς μᾶλλον ἢ τὰς μάχας δεδίασι ·",
+      "translation": "From this you can gauge the feelings of the great body of the Macedonians towards Philip ; while as regards his courtiers and captains of his mercenaries you will find that , though they have some repute for valor , they live in greater fear than those who have none ; for these have only the enemy to fear , but those dread the sycophants and slanderers of the court more than a pitched battle ."
+    },
+    {
+      "id": "11",
+      "label": "Section 11",
+      "chapter": null,
+      "original": "κἀκεῖνοι μὲν μετὰ πάντων ἀγωνίζονται πρὸς τοὺς ἀντιταχθέντας , τοῖς δὲ καὶ τῶν ἐν τοῖς πολέμοις κακῶν οὐκ ἐλάχιστον μέρος μέτεστιν , καὶ χωρὶς ἰδίᾳ τὸν τρόπον τὸν τοῦ βασιλέως φοβεῖσθαι συμβέβηκεν . ἔτι δὲ τῶν μὲν πολλῶν ἐὰν ἁμάρτῃ τις , ζημίας κατὰ τὴν ἀξίαν εἴληφεν · οἱ δʼ ὅταν μάλιστα κατορθώσωσι , τότε μάλιστα σκορακίζονται καὶ προπηλακίζονται παρὰ τὸ προσῆκον .",
+      "translation": "These , again , have the whole army to support them when they face the hostile ranks , but those both have to bear the chief burden of the war , and , apart from that , it is their peculiar misfortune to fear the temper of their king . Moreover , if a common soldier is at fault , his punishment is proportioned to his deserts , but it is just when the officers are most successful that they are most exposed to unmerited curses and gibes ."
+    },
+    {
+      "id": "12",
+      "label": "Section 12",
+      "chapter": null,
+      "original": "καὶ τούτοις οὐδʼ ἂν εἷς εὖ φρονῶν ἀπιστήσειεν · οὕτω γὰρ φιλότιμον αὐτὸν εἶναί φασιν οἱ συνδιατρίψαντες ὥστε βουλόμενον τὰ κάλλιστα τῶν ἔργων πάνθʼ αὑτοῦ δοκεῖν εἶναι μᾶλλον ἄχθεσθαι τῶν στρατηγῶν καὶ τῶν ἡγεμόνων τοῖς ἄξιον ἐπαίνου τι πράξασιν ἢ τοῖς ὅλως ἀποτυχοῦσι .",
+      "translation": "And all this no one in his senses would refuse to believe ; for those who have resided at his court agree that Philip is so jealous that he wants to take to himself all the credit of the chief successes , and is more annoyed with a general or an officer who achieves something praiseworthy than with those who fail ignominiously ."
+    },
+    {
+      "id": "13",
+      "label": "Section 13",
+      "chapter": null,
+      "original": "πῶς οὖν , εἴπερ ἐστὶ ταῦτα τοιαῦτα , πιστῶς ἤδη πολὺν χρόνον αὐτῷ παραμένουσιν ; ὅτι νῦν μέν , ὦ ἄνδρες Ἀθηναῖοι , τὸ κατορθοῦν αὐτὸν ἐπισκοτεῖ πᾶσι τοῖς τοιούτοις · αἱ γὰρ εὐπραξίαι δειναὶ συγκρύψαι καὶ συσκιάσαι τὰς ἁμαρτίας τῶν ἀνθρώπων εἰσίν · εἰ δέ τι πταίσει , τότʼ ἀκριβῶς διακαλυφθήσεται ταῦτα πάντα . συμβαίνει γάρ , ὥσπερ ἐν τοῖς σώμασιν ἡμῶν ·",
+      "translation": "This being so , how is it that they have so long remained loyal to him ? Because , men of Athens , at present his prosperity overshadows all such shortcomings , for success has a strange power of obscuring and covering men ’ s failings ; but if he trips , all his weakness will be clearly revealed . For it is with the political as with the bodily constitution ."
+    },
+    {
+      "id": "14",
+      "label": "Section 14",
+      "chapter": null,
+      "original": "ὅταν μὲν ἐρρωμένος ᾖ τις , οὐδὲν ἐπαισθάνεται τῶν καθʼ ἕκαστα σαθρῶν , ἐπὰν δʼ ἀρρωστήσῃ , πάντα κινεῖται , κἂν ῥῆγμα κἂν στρέμμα κἂν ἄλλο τι τῶν ὑπαρχόντων ᾖ μὴ τελέως ὑγιεινόν · οὕτω καὶ τῶν βασιλειῶν καὶ ἁπασῶν τῶν δυναστειῶν , ἕως μὲν ἂν ἐν τοῖς πολέμοις κατορθῶσιν , ἀφανῆ τὰ κακά ἐστι τοῖς πολλοῖς , ἐπὰν δέ τι πταίσωσιν , ὃ νῦν παθεῖν εἰκὸς ἐκεῖνον μεῖζον φορτίον ἢ καθʼ αὑτὸν αἰρόμενον , γίγνεται φανερὰ τὰ δυσχερῆ πάντα τοῖς ἅπασιν .",
+      "translation": "As long as a man is in good health , he is conscious of no unsoundness here or here , but when his health breaks down , every part is set a-working , be it a rupture or a sprain or any organ that is not perfectly healthy . So with all monarchies and oligarchies ; as long as their arms prosper , few detect their weaknesses , but when they stumble , even as Philip must stumble beneath a burden that is greater than he can bear , then all their disadvantages are plain for all men to see ."
+    },
+    {
+      "id": "15",
+      "label": "Section 15",
+      "chapter": null,
+      "original": "εἰ δέ τις ὑμῶν , ὦ ἄνδρες Ἀθηναῖοι , τὸν Φίλιππον ὁρῶν εὐτυχοῦντα φοβερὸν εἶναι νομίζει καὶ δυσπολέμητον , σώφρονος μὲν ἀνδρὸς χρῆται προνοίᾳ · μεγάλη γὰρ ῥοπή , μᾶλλον δὲ τὸ ὅλον ἡ τύχη ἐστὶ πρὸς ἅπαντα τὰ τῶν ἀνθρώπων πράγματα · κατὰ πολλοὺς μέντοι τρόπους ἕλοιτʼ ἄν τις οὐχ ἧττον τὴν ἡμετέραν εὐτυχίαν ἢ τὴν ἐκείνου .",
+      "translation": "Now if any of you , Athenians , seeing Philip ’ s good fortune , considers him a formidable and dangerous opponent , he is exercising a prudent forethought . For fortune is indeed a great weight in the scale ; I might almost say it is everything in human affairs . And yet in many respects our good fortune is to be preferred to Philip ’ s ."
+    },
+    {
+      "id": "16",
+      "label": "Section 16",
+      "chapter": null,
+      "original": "παρά τε γὰρ τῶν προγόνων ἐκ πλείονος χρόνου παρειλήφαμεν τὴν εὐδαιμονίαν οὐ τούτου μόνον , ἀλλὰ συνελόντι φράσαι πάντων τῶν ἐν Μακεδονίᾳ βασιλευσάντων · κἀκεῖνοι μὲν Ἀθηναίοις φόρους ἤνεγκαν , ἡ δʼ ἡμετέρα πόλις οὐδενί πω τῶν ἁπάντων . ἔτι δὲ τοσούτῳ πλείους ἀφορμὰς αὐτοῦ πρὸς τὴν τῶν θεῶν εὔνοιαν ἔχομεν , ὅσῳ διατελοῦμεν εὐσεβέστερα καὶ δικαιότερα πράττοντες .",
+      "translation": "For our prosperity is inherited from our ancestors , and is of an earlier date than the prosperity not only of Philip , but , roughly speaking , of all the kings that have ever reigned in Macedonia . Those kings actually paid tribute to Athens , but Athens never paid tribute to any power in the world . Moreover , we have a more secure claim than Philip upon the favour of heaven , in so far as our conduct has always been guided by greater regard for religion and for justice ."
+    },
+    {
+      "id": "17",
+      "label": "Section 17",
+      "chapter": null,
+      "original": "τί ποτʼ οὖν ἐκεῖνος ἐν τῷ προτέρῳ πολέμῳ πλείω κατώρθωσεν ἡμῶν ; ὅτι , ὦ ἄνδρες Ἀθηναῖοι , ( παρρησιάσομαι γὰρ πρὸς ὑμᾶς ) ὁ μὲν αὐτὸς στρατεύεται καὶ ταλαιπωρεῖ καὶ τοῖς κινδύνοις πάρεστιν , οὔτε καιρὸν παριεὶς οὔθʼ ὥραν ἔτους παραλείπων οὐδεμίαν , ἡμεῖς δὲ ( εἰρήσεται γὰρ τἀληθῆ ) οὐδὲν ποιοῦντες ἐνθάδε καθήμεθα , μέλλοντες ἀεὶ καὶ ψηφιζόμενοι καὶ πυνθανόμενοι κατὰ τὴν ἀγορὰν εἴ τι λέγεται νεώτερον . καίτοι τί γένοιτʼ ἂν νεώτερον ἢ Μακεδὼν ἀνὴρ καταφρονῶν Ἀθηναίων καὶ τολμῶν ἐπιστολὰς πέμπειν τοιαύτας οἵας ἠκούσατε μικρῷ πρότερον ;",
+      "translation": "Why , then , was he more successful than we in the late war ? I will be frank with you , men of Athens . It is because he always takes a personal share in the hardships and dangers of the campaign , never neglects a chance , never wastes any season of the year ; while we — for the truth must out — sit here idle ; we are always hanging back and passing resolutions and haunting the market-place to learn the latest news . Yet what more startling news could there be than that a Macedonian should insult Athenians , daring to send us such a letter as you have heard read a moment ago ."
+    },
+    {
+      "id": "18",
+      "label": "Section 18",
+      "chapter": null,
+      "original": "καὶ τῷ μὲν ὑπάρχουσι μισθοφόροι στρατιῶται , καὶ νὴ Δία πρὸς τούτοις τῶν παρʼ ἡμῖν ῥητόρων τινές , οἳ τὰς παρʼ ἐκείνου δωρεὰς οἴκαδε λαμβάνειν νομίζοντες οὐκ αἰσχύνονται Φιλίππῳ ζῶντες , οὐδʼ αἰσθάνονται πάντα καὶ τὰ τῆς πόλεως καὶ τὰ σφῶν αὐτῶν μικροῦ λήμματος πωλοῦντες . ἡμεῖς δʼ οὔτε τῶν ἐκείνου πραγμάτων οὐδὲν στασιάζειν παρασκευάζομεν , οὔτε ξενοτροφεῖν ἐθέλομεν , οὔτε στρατεύεσθαι τολμῶμεν .",
+      "translation": "Philip ’ s resources include mercenary soldiers , and also , observe ! certain mercenary orators here among us , men who are not ashamed to devote their lives to his service , thinking that they are carrying home his bribes , but blind to the fact that they are bartering all the interests of the State , and their own as well , for a paltry profit . We , on the other hand , make no attempt to foment a revolution in his kingdom , we decline to hire mercenaries , we shrink from taking the field ."
+    },
+    {
+      "id": "19",
+      "label": "Section 19",
+      "chapter": null,
+      "original": "οὔκουν ἐστὶν οὐδὲν δεινόν , εἴ τι πεπλεονέκτηκεν ἡμῶν κατὰ τὸν πρότερον πόλεμον , ἀλλὰ μᾶλλον εἰ μηδὲν ποιοῦντες ἡμεῖς ὧν προσήκει τοὺς πολεμοῦντας , νομίζομεν κρατήσειν τοῦ πάντα πράττοντος · ἃ δεῖ τοὺς πλεονεκτήσειν μέλλοντας .",
+      "translation": "It is not a strange thing , then , that he has gained ground at our expense in the late war , but rather that we , performing no single duty of a nation at war , think that we are going to defeat one who does everything that a grasping ambition demands ."
+    },
+    {
+      "id": "20",
+      "label": "Section 20",
+      "chapter": null,
+      "original": "ὧν , ὦ ἄνδρες Ἀθηναῖοι , χρὴ λαβόντας ἔννοιαν , καὶ λογισαμένους ὡς οὐδʼ ἐφʼ ἡμῖν ἐστι τὸ φάσκειν ἄγειν εἰρήνην ( ἤδη γὰρ ἐκεῖνος καὶ προηγόρευκε τὸν πόλεμον καὶ τοῖς ἔργοις ἐξενήνοχε ) μηδενὸς μὲν φείδεσθαι μήτε τῶν δημοσίων μήτε τῶν ἰδίων , στρατεύεσθαι δέ , ἄν που καιρὸς ᾖ , προθύμως ἅπαντας , χρῆσθαι δὲ στρατηγοῖς ἀμείνοσιν ἢ πρότερον .",
+      "translation": "Bearing this in mind , Athenians , and reflecting that it is not even in our power to pretend that we are at peace , for Philip has already issued a declaration of war and followed it up by active hostilities , it is necessary to spare no expense , public or private , to take the field eagerly and in full force , wherever the opportunity occurs , and to employ abler generals than before ."
+    },
+    {
+      "id": "21",
+      "label": "Section 21",
+      "chapter": null,
+      "original": "μὴ γὰρ ὑπολάβῃ τις ὑμῶν , διʼ ὧν ἐγένετο τὰ πράγματα χείρω τὰ τῆς πόλεως , διὰ τούτων αὐτὰ πάλιν ἀναλήψεσθαι καὶ γενήσεσθαι βελτίω · μηδὲ νομίσητε ῥᾳθυμούντων ὑμῶν , ὥσπερ πρότερον , ἑτέρους ὑπὲρ τῶν ὑμετέρων ἀγωνιεῖσθαι προθύμως · ἀλλʼ ἐννοεῖσθʼ ὡς αἰσχρόν ἐστι τοὺς μὲν πατέρας ὑμῶν πολλοὺς πόνους καὶ μεγάλους κινδύνους ὑποστῆναι Λακεδαιμονίοις πολεμοῦντας ,",
+      "translation": "For none of you must assume that the same policy that weakened the power of Athens will suffice to restore and advance it , nor suppose that , if you are as half-hearted as before , others will be zealous in defence of your interests . Reflect , rather , what a disgrace it would be if your fathers faced many hardships and great dangers in fighting the Lacedaemonians ."
+    },
+    {
+      "id": "22",
+      "label": "Section 22",
+      "chapter": null,
+      "original": "ὑμᾶς δὲ μηδʼ ὑπὲρ ὧν ἐκεῖνοι δικαίως κτησάμενοι παρέδοσαν ὑμῖν ἐθέλειν ἐρρωμένως ἀμύνεσθαι , ἀλλὰ τὸν μὲν ἐκ Μακεδονίας ὁρμώμενον οὕτως εἶναι φιλοκίνδυνον ὥσθʼ ὑπὲρ τοῦ μείζω ποιῆσαι τὴν ἀρχὴν κατατετρῶσθαι πᾶν τὸ σῶμα τοῖς πολεμίοις μαχόμενον , Ἀθηναίους δέ , οἷς πάτριόν ἐστι μηδενὸς ἀκούειν , ἁπάντων δὲ κρατεῖν ἐν τοῖς πολέμοις , τούτους διὰ ῥᾳθυμίαν ἢ μαλακίαν ἐγκαταλείπειν τά τε τῶν προγόνων ἔργα καὶ τὰ συμφέροντα τῆς πατρίδος .",
+      "translation": "but you should refuse to defend with vigor those advantages which they justly won and bequeathed to you ; what a disgrace if one , with only the tradition of Macedonia behind him , so cheerfully courts danger that , in the task of extending his sway , he has been wounded in every limb on the battle-field , but Athenians , whose ancestral boast it is in war to yield to none and conquer all , should renounce , through indolence or cowardice , alike the deeds of their ancestors and the interests of their fatherland ."
+    },
+    {
+      "id": "23",
+      "label": "Section 23",
+      "chapter": null,
+      "original": "ἵνα δὲ μὴ μακρολογῶ , φημὶ χρῆναι παρεσκευάσθαι μὲν πρὸς τὸν πόλεμον , παρακαλεῖν δὲ τοὺς Ἕλληνας , μὴ λόγοις , ἀλλὰ τοῖς ἔργοις πρὸς τὴν παρʼ ἡμῶν συμμαχίαν · ὡς ἅπας μέν ἐστι λόγος μάταιος πράξεων ἄμοιρος γενόμενος , τοσούτῳ δὲ μάλισθʼ ὁ παρὰ τῆς ἡμετέρας πόλεως , ὅσῳ δοκοῦμεν αὐτῷ προχειρότατα χρῆσθαι τῶν ἄλλων Ἑλλήνων .",
+      "translation": "Not to detain you longer , I say that we must be prepared for war , and must urge the Greek states , by our action rather than by our appeals , to join our alliance ; for all words divorced from action are futile , especially words from Athenian lips , in proportion as we are reputed to be more ready of speech than all other Greeks ."
+    }
+  ],
+  "prevChunkSlug": "philippic-4-1q88ji",
+  "nextChunkSlug": "philip-s-letter-1dgdc2"
+}

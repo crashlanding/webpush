@@ -1,0 +1,547 @@
+{
+  "loebNumber": 229,
+  "sortOrder": 229,
+  "slug": "isocrates-on-the-peace-areopagiticus-against-the-sophists-antidosis-panathenaicus-rv5ma2",
+  "title": "On the Peace. Areopagiticus. Against the Sophists. Antidosis. Panathenaicus",
+  "volumeLabel": "On the Peace. Areopagiticus. Against the Sophists. Antidosis. Panathenaicus",
+  "authorDisplay": "Isocrates",
+  "authors": [
+    "Isocrates"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for On the Peace. Areopagiticus. Against the Sophists. Antidosis. Panathenaicus, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "on-the-peace-qkrbwe-1",
+  "readyChunkCount": 16,
+  "contents": [
+    {
+      "id": "on-the-peace-qkrbwe",
+      "title": "On the Peace",
+      "status": "ready",
+      "sectionCount": 145,
+      "chunkSlug": "on-the-peace-qkrbwe-1",
+      "chunks": [
+        {
+          "slug": "on-the-peace-qkrbwe-1",
+          "label": "On the Peace (Section 1 - Section 60)",
+          "partId": "on-the-peace-qkrbwe",
+          "partTitle": "On the Peace",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-peace-qkrbwe-2",
+          "label": "On the Peace (Section 61 - Section 120)",
+          "partId": "on-the-peace-qkrbwe",
+          "partTitle": "On the Peace",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-peace-qkrbwe-3",
+          "label": "On the Peace (Section 121 - Section 145)",
+          "partId": "on-the-peace-qkrbwe",
+          "partTitle": "On the Peace",
+          "sectionCount": 25,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "areopagiticus-1r0dk0",
+      "title": "Areopagiticus",
+      "status": "ready",
+      "sectionCount": 84,
+      "chunkSlug": "areopagiticus-1r0dk0",
+      "chunks": [
+        {
+          "slug": "areopagiticus-1r0dk0",
+          "label": "Areopagiticus",
+          "partId": "areopagiticus-1r0dk0",
+          "partTitle": "Areopagiticus",
+          "sectionCount": 84,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "against-the-sophists-1ocp28",
+      "title": "Against the Sophists",
+      "status": "ready",
+      "sectionCount": 22,
+      "chunkSlug": "against-the-sophists-1ocp28",
+      "chunks": [
+        {
+          "slug": "against-the-sophists-1ocp28",
+          "label": "Against the Sophists",
+          "partId": "against-the-sophists-1ocp28",
+          "partTitle": "Against the Sophists",
+          "sectionCount": 22,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "antidosis-1x6kgf",
+      "title": "Antidosis",
+      "status": "ready",
+      "sectionCount": 323,
+      "chunkSlug": "antidosis-1x6kgf-1",
+      "chunks": [
+        {
+          "slug": "antidosis-1x6kgf-1",
+          "label": "Antidosis (Section 1 - Section 60)",
+          "partId": "antidosis-1x6kgf",
+          "partTitle": "Antidosis",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "antidosis-1x6kgf-2",
+          "label": "Antidosis (Section 61 - Section 120)",
+          "partId": "antidosis-1x6kgf",
+          "partTitle": "Antidosis",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "antidosis-1x6kgf-3",
+          "label": "Antidosis (Section 121 - Section 180)",
+          "partId": "antidosis-1x6kgf",
+          "partTitle": "Antidosis",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "antidosis-1x6kgf-4",
+          "label": "Antidosis (Section 181 - Section 240)",
+          "partId": "antidosis-1x6kgf",
+          "partTitle": "Antidosis",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "antidosis-1x6kgf-5",
+          "label": "Antidosis (Section 241 - Section 300)",
+          "partId": "antidosis-1x6kgf",
+          "partTitle": "Antidosis",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "antidosis-1x6kgf-6",
+          "label": "Antidosis (Section 301 - Section 323)",
+          "partId": "antidosis-1x6kgf",
+          "partTitle": "Antidosis",
+          "sectionCount": 23,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "panathenaicus-1z08ft",
+      "title": "Panathenaicus",
+      "status": "ready",
+      "sectionCount": 272,
+      "chunkSlug": "panathenaicus-1z08ft-1",
+      "chunks": [
+        {
+          "slug": "panathenaicus-1z08ft-1",
+          "label": "Panathenaicus (Section 1 - Section 60)",
+          "partId": "panathenaicus-1z08ft",
+          "partTitle": "Panathenaicus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "panathenaicus-1z08ft-2",
+          "label": "Panathenaicus (Section 61 - Section 120)",
+          "partId": "panathenaicus-1z08ft",
+          "partTitle": "Panathenaicus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "panathenaicus-1z08ft-3",
+          "label": "Panathenaicus (Section 121 - Section 180)",
+          "partId": "panathenaicus-1z08ft",
+          "partTitle": "Panathenaicus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "panathenaicus-1z08ft-4",
+          "label": "Panathenaicus (Section 181 - Section 240)",
+          "partId": "panathenaicus-1z08ft",
+          "partTitle": "Panathenaicus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "panathenaicus-1z08ft-5",
+          "label": "Panathenaicus (Section 241 - Section 272)",
+          "partId": "panathenaicus-1z08ft",
+          "partTitle": "Panathenaicus",
+          "sectionCount": 32,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "on-the-peace-qkrbwe-1",
+      "label": "On the Peace (Section 1 - Section 60)",
+      "partId": "on-the-peace-qkrbwe",
+      "partTitle": "On the Peace",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-peace-qkrbwe-2",
+      "label": "On the Peace (Section 61 - Section 120)",
+      "partId": "on-the-peace-qkrbwe",
+      "partTitle": "On the Peace",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-peace-qkrbwe-3",
+      "label": "On the Peace (Section 121 - Section 145)",
+      "partId": "on-the-peace-qkrbwe",
+      "partTitle": "On the Peace",
+      "sectionCount": 25,
+      "status": "ready"
+    },
+    {
+      "slug": "areopagiticus-1r0dk0",
+      "label": "Areopagiticus",
+      "partId": "areopagiticus-1r0dk0",
+      "partTitle": "Areopagiticus",
+      "sectionCount": 84,
+      "status": "ready"
+    },
+    {
+      "slug": "against-the-sophists-1ocp28",
+      "label": "Against the Sophists",
+      "partId": "against-the-sophists-1ocp28",
+      "partTitle": "Against the Sophists",
+      "sectionCount": 22,
+      "status": "ready"
+    },
+    {
+      "slug": "antidosis-1x6kgf-1",
+      "label": "Antidosis (Section 1 - Section 60)",
+      "partId": "antidosis-1x6kgf",
+      "partTitle": "Antidosis",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "antidosis-1x6kgf-2",
+      "label": "Antidosis (Section 61 - Section 120)",
+      "partId": "antidosis-1x6kgf",
+      "partTitle": "Antidosis",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "antidosis-1x6kgf-3",
+      "label": "Antidosis (Section 121 - Section 180)",
+      "partId": "antidosis-1x6kgf",
+      "partTitle": "Antidosis",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "antidosis-1x6kgf-4",
+      "label": "Antidosis (Section 181 - Section 240)",
+      "partId": "antidosis-1x6kgf",
+      "partTitle": "Antidosis",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "antidosis-1x6kgf-5",
+      "label": "Antidosis (Section 241 - Section 300)",
+      "partId": "antidosis-1x6kgf",
+      "partTitle": "Antidosis",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "antidosis-1x6kgf-6",
+      "label": "Antidosis (Section 301 - Section 323)",
+      "partId": "antidosis-1x6kgf",
+      "partTitle": "Antidosis",
+      "sectionCount": 23,
+      "status": "ready"
+    },
+    {
+      "slug": "panathenaicus-1z08ft-1",
+      "label": "Panathenaicus (Section 1 - Section 60)",
+      "partId": "panathenaicus-1z08ft",
+      "partTitle": "Panathenaicus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "panathenaicus-1z08ft-2",
+      "label": "Panathenaicus (Section 61 - Section 120)",
+      "partId": "panathenaicus-1z08ft",
+      "partTitle": "Panathenaicus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "panathenaicus-1z08ft-3",
+      "label": "Panathenaicus (Section 121 - Section 180)",
+      "partId": "panathenaicus-1z08ft",
+      "partTitle": "Panathenaicus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "panathenaicus-1z08ft-4",
+      "label": "Panathenaicus (Section 181 - Section 240)",
+      "partId": "panathenaicus-1z08ft",
+      "partTitle": "Panathenaicus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "panathenaicus-1z08ft-5",
+      "label": "Panathenaicus (Section 241 - Section 272)",
+      "partId": "panathenaicus-1z08ft",
+      "partTitle": "Panathenaicus",
+      "sectionCount": 32,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "on-the-peace-qkrbwe-1",
+      "partTitle": "On the Peace",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ εἰρήνης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg017.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Peace",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-peace-qkrbwe-2",
+      "partTitle": "On the Peace",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ εἰρήνης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg017.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Peace",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-peace-qkrbwe-3",
+      "partTitle": "On the Peace",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ εἰρήνης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg017.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Peace",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "areopagiticus-1r0dk0",
+      "partTitle": "Areopagiticus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀρεοπαγιτικός",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg018.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Areopagiticus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg018.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-the-sophists-1ocp28",
+      "partTitle": "Against the Sophists",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Κατὰ τῶν σοφιστῶν",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg008.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against the Sophists",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg008.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "antidosis-1x6kgf-1",
+      "partTitle": "Antidosis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ ἀντιδόσεως",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg019.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Antidosis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg019.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "antidosis-1x6kgf-2",
+      "partTitle": "Antidosis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ ἀντιδόσεως",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg019.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Antidosis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg019.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "antidosis-1x6kgf-3",
+      "partTitle": "Antidosis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ ἀντιδόσεως",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg019.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Antidosis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg019.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "antidosis-1x6kgf-4",
+      "partTitle": "Antidosis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ ἀντιδόσεως",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg019.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Antidosis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg019.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "antidosis-1x6kgf-5",
+      "partTitle": "Antidosis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ ἀντιδόσεως",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg019.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Antidosis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg019.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "antidosis-1x6kgf-6",
+      "partTitle": "Antidosis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ ἀντιδόσεως",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg019.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Antidosis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg019.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "panathenaicus-1z08ft-1",
+      "partTitle": "Panathenaicus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Παναθηναικός",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg021.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Panathenaicus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg021.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "panathenaicus-1z08ft-2",
+      "partTitle": "Panathenaicus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Παναθηναικός",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg021.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Panathenaicus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg021.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "panathenaicus-1z08ft-3",
+      "partTitle": "Panathenaicus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Παναθηναικός",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg021.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Panathenaicus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg021.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "panathenaicus-1z08ft-4",
+      "partTitle": "Panathenaicus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Παναθηναικός",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg021.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Panathenaicus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg021.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "panathenaicus-1z08ft-5",
+      "partTitle": "Panathenaicus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Παναθηναικός",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg021.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Panathenaicus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg021.perseus-eng2/"
+      }
+    }
+  ]
+}

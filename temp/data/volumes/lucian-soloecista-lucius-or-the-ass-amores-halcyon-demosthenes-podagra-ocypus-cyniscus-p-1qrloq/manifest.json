@@ -1,0 +1,195 @@
+{
+  "loebNumber": 432,
+  "sortOrder": 432,
+  "slug": "lucian-soloecista-lucius-or-the-ass-amores-halcyon-demosthenes-podagra-ocypus-cyniscus-p-1qrloq",
+  "title": "Soloecista. Lucius or The Ass. Amores. Halcyon. Demosthenes. Podagra. Ocypus. Cyniscus. Philopatris. Charidemus. Nero",
+  "volumeLabel": "Soloecista. Lucius or The Ass. Amores. Halcyon. Demosthenes. Podagra. Ocypus. Cyniscus. Philopatris. Charidemus. Nero",
+  "authorDisplay": "Lucian",
+  "authors": [
+    "Lucian"
+  ],
+  "language": "greek",
+  "summary": "3 of 11 contents in Soloecista. Lucius or The Ass. Amores. Halcyon. Demosthenes. Podagra. Ocypus. Cyniscus. Philopatris. Charidemus. Nero are live from Scaife, while the remaining contents stay visible until a confident pair is available.",
+  "status": "partial",
+  "defaultChunkSlug": "soloecista-1v894s",
+  "readyChunkCount": 3,
+  "contents": [
+    {
+      "id": "soloecista-1v894s",
+      "title": "Soloecista",
+      "status": "ready",
+      "sectionCount": 12,
+      "chunkSlug": "soloecista-1v894s",
+      "chunks": [
+        {
+          "slug": "soloecista-1v894s",
+          "label": "Soloecista",
+          "partId": "soloecista-1v894s",
+          "partTitle": "Soloecista",
+          "sectionCount": 12,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "lucius-or-the-ass-105due",
+      "title": "Lucius or The Ass",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "The original and English Scaife TOCs could not be aligned."
+    },
+    {
+      "id": "amores-whwavx",
+      "title": "Amores",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Amores."
+    },
+    {
+      "id": "halcyon-12ygix",
+      "title": "Halcyon",
+      "status": "ready",
+      "sectionCount": 8,
+      "chunkSlug": "halcyon-12ygix",
+      "chunks": [
+        {
+          "slug": "halcyon-12ygix",
+          "label": "Halcyon",
+          "partId": "halcyon-12ygix",
+          "partTitle": "Halcyon",
+          "sectionCount": 8,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "demosthenes-1atuxj",
+      "title": "Demosthenes",
+      "status": "ready",
+      "sectionCount": 50,
+      "chunkSlug": "demosthenes-1atuxj",
+      "chunks": [
+        {
+          "slug": "demosthenes-1atuxj",
+          "label": "Demosthenes",
+          "partId": "demosthenes-1atuxj",
+          "partTitle": "Demosthenes",
+          "sectionCount": 50,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "podagra-ktle9m",
+      "title": "Podagra",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Podagra."
+    },
+    {
+      "id": "ocypus-12z7f8",
+      "title": "Ocypus",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Ocypus."
+    },
+    {
+      "id": "cyniscus-1v9rmt",
+      "title": "Cyniscus",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Cyniscus."
+    },
+    {
+      "id": "philopatris-80clrh",
+      "title": "Philopatris",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Philopatris."
+    },
+    {
+      "id": "charidemus-1lczzr",
+      "title": "Charidemus",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Charidemus."
+    },
+    {
+      "id": "nero-1fyok",
+      "title": "Nero",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Nero."
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "soloecista-1v894s",
+      "label": "Soloecista",
+      "partId": "soloecista-1v894s",
+      "partTitle": "Soloecista",
+      "sectionCount": 12,
+      "status": "ready"
+    },
+    {
+      "slug": "halcyon-12ygix",
+      "label": "Halcyon",
+      "partId": "halcyon-12ygix",
+      "partTitle": "Halcyon",
+      "sectionCount": 8,
+      "status": "ready"
+    },
+    {
+      "slug": "demosthenes-1atuxj",
+      "label": "Demosthenes",
+      "partId": "demosthenes-1atuxj",
+      "partTitle": "Demosthenes",
+      "sectionCount": 50,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "soloecista-1v894s",
+      "partTitle": "Soloecista",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ψευδοσοφιστής ἢ Σολοικιστής",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg070.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Purist Purized",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg070.perseus-eng4/"
+      }
+    },
+    {
+      "chunkSlug": "halcyon-12ygix",
+      "partTitle": "Halcyon",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀλκυών",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0061.tlg004.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Halcyon",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0061.tlg004.perseus-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "demosthenes-1atuxj",
+      "partTitle": "Demosthenes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Δημοσθένους Ἐγκώμιον",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0061.tlg003.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Demosthenes: an Encomium",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0061.tlg003.perseus-eng1/"
+      }
+    }
+  ]
+}

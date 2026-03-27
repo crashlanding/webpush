@@ -1,0 +1,61 @@
+{
+  "loebNumber": 71,
+  "sortOrder": 71,
+  "slug": "galen-on-the-natural-faculties-156gur",
+  "title": "On the Natural Faculties",
+  "volumeLabel": "On the Natural Faculties",
+  "authorDisplay": "Galen",
+  "authors": [
+    "Galen"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for On the Natural Faculties, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "on-the-natural-faculties-17uj5m",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "on-the-natural-faculties-17uj5m",
+      "title": "On the Natural Faculties",
+      "status": "ready",
+      "sectionCount": 3,
+      "chunkSlug": "on-the-natural-faculties-17uj5m",
+      "chunks": [
+        {
+          "slug": "on-the-natural-faculties-17uj5m",
+          "label": "On the Natural Faculties",
+          "partId": "on-the-natural-faculties-17uj5m",
+          "partTitle": "On the Natural Faculties",
+          "sectionCount": 3,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "on-the-natural-faculties-17uj5m",
+      "label": "On the Natural Faculties",
+      "partId": "on-the-natural-faculties-17uj5m",
+      "partTitle": "On the Natural Faculties",
+      "sectionCount": 3,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "on-the-natural-faculties-17uj5m",
+      "partTitle": "On the Natural Faculties",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De naturalibus facultatibus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0057.tlg010.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Natural Faculties",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0057.tlg010.perseus-eng2/"
+      }
+    }
+  ]
+}

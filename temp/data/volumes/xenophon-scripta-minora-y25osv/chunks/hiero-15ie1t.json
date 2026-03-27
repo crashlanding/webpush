@@ -1,0 +1,185 @@
+{
+  "volumeSlug": "xenophon-scripta-minora-y25osv",
+  "volumeTitle": "Scripta Minora",
+  "authorDisplay": "Xenophon",
+  "authors": [
+    "Xenophon"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "hiero-15ie1t",
+  "label": "Hiero",
+  "partId": "scripta-minora-11ri19",
+  "partTitle": "Scripta Minora",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Hiero",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg008.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Hiero",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg008.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1",
+      "label": "Section 1.1",
+      "chapter": null,
+      "original": "Σιμωνίδης ὁ ποιητὴς ἀφίκετό ποτε πρὸς Ἱέρωνα τὸν τύραννον . σχολῆς δὲ γενομένης ἀμφοῖν εἶπεν ὁ Σιμωνίδης · ἆρʼ ἄν μοι ἐθελήσαις , ὦ Ἱέρων , διηγήσασθαι ἃ εἰκὸς εἰδέναι σε βέλτιον ἐμοῦ ; καὶ ποῖα ταῦτʼ ἐστίν , ἔφη ὁ Ἱέρων , ὁποῖα δὴ ἐγὼ βέλτιον ἂν εἰδείην σοῦ οὕτως ὄντος σοφοῦ ἀνδρός ;",
+      "translation": "Simonides , the poet , once paid a visit to Hiero , the despot . When both found time to spare , Simonides said :\nHiero , will you please explain something to me that you probably know better than I ?\n\nAnd pray what is it ,\nsaid Hiero ,\nthat I can know better than one so wise as yourself ?"
+    },
+    {
+      "id": "1.2",
+      "label": "Section 1.2",
+      "chapter": null,
+      "original": "οἶδά σε , ἔφη , ἐγὼ καὶ ἰδιώτην γεγενημένον καὶ νῦν τύραννον ὄντα · εἰκὸς οὖν ἀμφοτέρων πεπειραμένον καὶ εἰδέναι σε μᾶλλον ἐμοῦ πῇ διαφέρει ὁ τυραννικός τε καὶ ὁ ἰδιωτικὸς βίος εἰς εὐφροσύνας τε καὶ λύπας ἀνθρώποις .",
+      "translation": "I know you were born a private citizen ,\nhe answered ,\nand are now a despot . Therefore , as you have experienced both fortunes , you probably know better than I how the lives of the despot and the citizen differ as regards the joys and sorrows that fall to man ’ s lot ."
+    },
+    {
+      "id": "2.1",
+      "label": "Section 2.1",
+      "chapter": null,
+      "original": "πρὸς ταῦτα εἶπεν ὁ Σιμωνίδης · ἀλλὰ ταῦτα μὲν πάνυ ἔμοιγε μικρὰ δοκεῖ εἶναι ἃ σὺ λέγεις . πολλοὺς γάρ , ἔφη , ἔγωγε ὁρῶ τῶν δοκούντων ἀνδρῶν εἶναι ἑκόντας μειονεκτοῦντας καὶ σίτων καὶ ποτῶν καὶ ὄψων καὶ ἀφροδισίων γε ἀπεχομένους .",
+      "translation": "To this Simonides replied :\nWell , the points that you raise seem to me mere trifles . For I notice that many respected men willingly go short in the matter of meat and drink and delicacies , and deliberately abstain from sexual indulgence ."
+    },
+    {
+      "id": "2.2",
+      "label": "Section 2.2",
+      "chapter": null,
+      "original": "ἀλλʼ ἐκείνῃ γε πολὺ διαφέρετε τῶν ἰδιωτῶν , ὅτι μεγάλα μὲν ἐπινοεῖτε , ταχὺ δὲ κατεργάζεσθε , πλεῖστα δὲ τὰ περιττὰ ἔχετε , κέκτησθε δὲ διαφέροντας μὲν ἀρετῇ ἵππους , διαφέροντα δὲ κάλλει ὅπλα , ὑπερέχοντα δὲ κόσμον γυναιξί , μεγαλοπρεπεστάτας δʼ οἰκίας , καὶ ταύτας κατεσκευασμένας τοῖς πλείστου ἀξίοις , ἔτι δὲ πλήθει καὶ ἐπιστήμαις θεράποντας ἀρίστους κέκτησθε , ἱκανώτατοι δʼ ἐστὲ κακῶσαι μὲν ἐχθρούς , ὀνῆσαι δὲ φίλους .",
+      "translation": "But I will show you where you have a great advantage over private citizens . Your objects are vast , your attainment swift : you have luxuries in abundance : you own horses unequalled in excellence , arms unmatched in beauty , superb jewelry for women , stately houses full of costly furniture : moreover you have servants many in number and excellent in accomplishments and you are rich in power to harm enemies and reward friends .\nTo this Hiero answered :"
+    },
+    {
+      "id": "3.1",
+      "label": "Section 3.1",
+      "chapter": null,
+      "original": "φιλίας δʼ αὖ καταθέασαι ὡς κοινωνοῦσιν οἱ τύραννοι . πρῶτον μὲν εἰ μέγα ἀγαθὸν ἀνθρώποις ἡ φιλία , τοῦτο ἐπισκεψώμεθα .",
+      "translation": "Turn next to friendship , and behold how despots share in it . First let us consider whether friendship is a great blessing to mankind ."
+    },
+    {
+      "id": "3.2",
+      "label": "Section 3.2",
+      "chapter": null,
+      "original": "ὃς γὰρ ἂν φιλῆται δήπου ὑπό τινων , ἡδέως μὲν τοῦτον οἱ φιλοῦντες παρόντα ὁρῶσιν , ἡδέως δʼ εὖ ποιοῦσι , ποθοῦσι δέ , ἤν που ἀπῇ , ἥδιστα δὲ πάλιν προσιόντα δέχονται , συνήδονται δʼ ἐπὶ τοῖς αὐτοῦ ἀγαθοῖς , συνεπικουροῦσι δέ , ἐάν τι σφαλλόμενον ὁρῶσιν .",
+      "translation": "When a man is loved by friends , I take it , they rejoice at his presence , delight to do him good , miss him when he is absent , greet him most joyfully on his return , rejoice with him in his good fortune , unite in aiding him when they see him tripping . [*]"
+    },
+    {
+      "id": "4.1",
+      "label": "Section 4.1",
+      "chapter": null,
+      "original": "ἀλλὰ μὴν καὶ πίστεως ὅστις ἐλάχιστον μετέχει , πῶς οὐχὶ μεγάλου ἀγαθοῦ μειονεκτεῖ ; ποία μὲν γὰρ ξυνουσία ἡδεῖα ἄνευ πίστεως τῆς πρὸς ἀλλήλους , ποία δʼ ἀνδρὶ καὶ γυναικὶ τερπνὴ ἄνευ πίστεως ὁμιλία , ποῖος δὲ θεράπων ἡδὺς ἀπιστούμενος ;",
+      "translation": "Next take confidence . Surely he who has very little of that is stinted in a great blessing ? What companionship is pleasant without mutual trust ? What intercourse between husband and wife is delightful without confidence ? What squire is pleasant if he is not trusted ?"
+    },
+    {
+      "id": "4.2",
+      "label": "Section 4.2",
+      "chapter": null,
+      "original": "καὶ τούτου τοίνυν τοῦ πιστῶς πρός τινας ἔχειν ἐλάχιστον μέτεστι τυράννῳ · ὁπότε γε οὐδὲ σιτίοις καὶ ποτοῖς πιστεύων διάγει , ἀλλὰ καὶ τούτων πρὶν ἀπάρχεσθαι τοῖς θεοῖς τοὺς διακόνους πρῶτον κελεύουσιν ἀπογεύεσθαι διὰ τὸ ἀπιστεῖν μὴ καὶ ἐν τούτοις κακόν τι φάγωσιν ἢ πίωσιν ·",
+      "translation": "Now of this confidence in others despots enjoy the smallest share . They go in constant suspicion even of their meat and drink ; they bid their servitors taste them first , before the libation is offered to the gods , because of their misgiving that they may sup poison in the dish or the bowl ."
+    },
+    {
+      "id": "5.1",
+      "label": "Section 5.1",
+      "chapter": null,
+      "original": "χαλεπὸν δʼ ἐρῶ σοι καὶ ἄλλο πάθημα , ὦ Σιμωνίδη , τῶν τυράννων . γιγνώσκουσι μὲν γὰρ οὐδὲν ἧττον τῶν ἰδιωτῶν τοὺς ἀλκίμους τε καὶ σοφοὺς καὶ δικαίους . τούτους δʼ ἀντὶ τοῦ ἄγασθαι φοβοῦνται , τοὺς μὲν ἀνδρείους , μή τι τολμήσωσι τῆς ἐλευθερίας ἕνεκεν , τοὺς δὲ σοφούς , μή τι μηχανήσωνται , τοὺς δὲ δικαίους , μὴ ἐπιθυμήσῃ τὸ πλῆθος ὑπʼ αὐτῶν προστατεῖσθαι .",
+      "translation": "Despots are oppressed by yet another trouble , Simonides , which I will tell you of . They recognize a stout-hearted , a wise or an upright man as easily as private citizens do . But instead of admiring such men , they fear them ,— the brave lest they strike a bold stroke for freedom , the wise lest they hatch a plot , the upright lest the people desire them for leaders ."
+    },
+    {
+      "id": "5.2",
+      "label": "Section 5.2",
+      "chapter": null,
+      "original": "ὅταν δὲ τοὺς τοιούτους διὰ τὸν φόβον ὑπεξαιρῶνται , τίνες ἄλλοι αὐτοῖς καταλείπονται χρῆσθαι ἀλλʼ ἢ οἱ ἄδικοί τε καὶ ἀκρατεῖς καὶ ἀνδραποδώδεις ; οἱ μὲν ἄδικοι πιστευόμενοι , διότι φοβοῦνται ὥσπερ οἱ τύραννοι τὰς πόλεις μήποτε ἐλεύθεραι γενόμεναι ἐγκρατεῖς αὐτῶν γένωνται , οἱ δʼ ἀκρατεῖς τῆς εἰς τὸ παρὸν ἐξουσίας ἕνεκα , οἱ δʼ ἀνδραποδώδεις , διότι οὐδʼ αὐτοὶ ἀξιοῦσιν ἐλεύθεροι εἶναι . χαλεπὸν οὖν καὶ τοῦτο τὸ πάθημα ἔμοιγε δοκεῖ εἶναι , τὸ ἄλλους μὲν ἡγεῖσθαι ἀγαθοὺς ἄνδρας , ἄλλοις δὲ χρῆσθαι ἀναγκάζεσθαι .",
+      "translation": "When they get rid of such men through fear , who are left for their use , save only the unrighteous , the vicious and the servile ,— the unrighteous being trusted because , like the despots , they fear that the cities may some day shake off the yoke and prove their masters , the vicious on account of the licence they enjoy as things are , the servile because even they themselves have no desire for freedom ? This too , then , is a heavy trouble , in my opinion , to see the good in some men , and yet perforce to employ others ."
+    },
+    {
+      "id": "6.1",
+      "label": "Section 6.1",
+      "chapter": null,
+      "original": "βούλομαι δέ σοι , ἔφη , ὦ Σιμωνίδη , κἀκείνας τὰς εὐφροσύνας δηλῶσαι ὅσαις ἐγὼ χρώμενος ὅτʼ ἦν ἰδιώτης , νῦν ἐπειδὴ τύραννος ἐγενόμην , αἰσθάνομαι στερόμενος αὐτῶν .",
+      "translation": "But now , Simonides ,\nhe continued ,\nI want to show you all those delights that were mine when I was a private citizen , but which I now find are withheld from me since the day I became a despot ."
+    },
+    {
+      "id": "6.2",
+      "label": "Section 6.2",
+      "chapter": null,
+      "original": "ἐγὼ γὰρ ξυνῆν μὲν ἡλικιώταις ἡδόμενος ἡδομένοις ἐμοί , συνῆν δὲ ἐμαυτῷ , ὁπότε ἡσυχίας ἐπιθυμήσαιμι , διῆγον δʼ ἐν συμποσίοις πολλάκις μὲν μέχρι τοῦ ἐπιλαθέσθαι πάντων εἴ τι χαλεπὸν ἐν ἀνθρωπίνῳ βίῳ ἦν , πολλάκις δὲ μέχρι τοῦ ᾠδαῖς τε καὶ θαλίαις καὶ χοροῖς τὴν ψυχὴν συγκαταμιγνύναι , πολλάκις δὲ μέχρι κοίτης ἐπιθυμίας ἐμῆς τε καὶ τῶν παρόντων .",
+      "translation": "I communed with my fellows then : they pleased me and I pleased them . I communed with myself whenever I desired rest . I passed the time in carousing , often till I forgot all the troubles of mortal life , often till my soul was absorbed in songs and revels and dances , often till the desire of sleep fell on me and all the company ."
+    },
+    {
+      "id": "7.1",
+      "label": "Section 7.1",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ ταῦτα αὐτοῦ ἤκουσεν ὁ Σιμωνίδης , εἶπεν · ἔοικεν , ἔφη , ὦ Ἱέρων , μέγα τι εἶναι ἡ τιμή , ἧς ὀρεγόμενοι οἱ ἄνθρωποι πάντα μὲν πόνον ὑποδύονται , πάντα δὲ κίνδυνον ὑπομένουσι .",
+      "translation": "These statements drew from Simonides the following reply :\nA great thing , surely , Hiero , is the honour for which men strive so earnestly that they undergo any toil and endure any danger to win it !"
+    },
+    {
+      "id": "7.2",
+      "label": "Section 7.2",
+      "chapter": null,
+      "original": "καὶ ὑμεῖς , ὡς ἔοικε , τοσαῦτα πράγματα ἐχούσης ὁπόσα λέγεις τῆς τυραννίδος , ὅμως προπετῶς φέρεσθε εἰς αὐτήν , ὅπως τιμᾶσθε καὶ ὑπηρετῶσι μὲν ὑμῖν πάντες πάντα τὰ προσταττόμενα ἀπροφασίστως , περιβλέπωσι δὲ πάντες , ὑπανιστῶνται δʼ ἀπὸ τῶν θάκων ὁδῶν τε παραχωρῶσι , γεραίρωσι δὲ καὶ λόγοις καὶ ἔργοις πάντες οἱ παρόντες ἀεὶ ὑμᾶς · τοιαῦτα γὰρ δὴ ποιοῦσι τοῖς τυράννοις οἱ ἀρχόμενοι καὶ ἄλλον ὅντινʼ ἂν ἀεὶ τιμῶντες τυγχάνωσι .",
+      "translation": "And what if despotism brings all those troubles that you tell of , yet such men as you , it seems , rush headlong into it that you may have honour , that all men may carry out your behests in all things without question , that the eyes of all may wait on you , that all may rise from their seats and make way for you , that all in your presence may glorify you by deed and word alike . ( Such , in fact , is the behaviour of subjects to despots and to anyone else who happens to be their hero at the moment .)"
+    },
+    {
+      "id": "8.1",
+      "label": "Section 8.1",
+      "chapter": null,
+      "original": "καὶ ὁ Σιμωνίδης ὑπολαβὼν εἶπεν · ἀλλὰ τὸ μὲν νῦν , ὦ Ἱέρων , ἀθύμως ἔχειν σε πρὸς τὴν τυραννίδα οὐ θαυμάζω , ἐπείπερ ἐπιθυμῶν φιλεῖσθαι ὑπʼ ἀνθρώπων ἐμποδών σοι τούτου νομίζεις αὐτὴν εἶναι . ἐγὼ μέντοι ἔχειν μοι δοκῶ διδάξαι σε ὡς τὸ ἄρχειν οὐδὲν ἀποκωλύει τοῦ φιλεῖσθαι , ἀλλὰ καὶ πλεονεκτεῖ γε τῆς ἰδιωτείας .",
+      "translation": "Well , Hiero ,\nretorted Simonides ,\nI am not surprised that you are out of heart with despotism for the moment , since you hold that it cuts you off from gaining the affection of mankind , which you covet . Nevertheless , I think I can show you that rule so far from being a bar to popularity , actually has the advantage of a citizen ’ s life ."
+    },
+    {
+      "id": "8.2",
+      "label": "Section 8.2",
+      "chapter": null,
+      "original": "ἐπισκοποῦντες δὲ αὐτὸ εἰ οὕτως ἔχει μήπω ἐκεῖνο σκοπῶμεν , εἰ διὰ τὸ μεῖζον δύνασθαι ὁ ἄρχων καὶ χαρίζεσθαι πλείω δύναιτʼ ἄν , ἀλλʼ ἂν τὰ ὅμοια ποιῶσιν ὅ τε ἰδιώτης καὶ ὁ τύραννος , ἐννόει πότερος μείζω ἀπὸ τῶν ἴσων κτᾶται χάριν . ἄρξομαι δέ σοι ἀπὸ τῶν μικροτάτων παραδειγμάτων .",
+      "translation": "In trying to discover whether this is so , let us for the time being pass over the question whether the ruler , because of his greater power , is able to confer more favours . Assume that the citizen and the despot act alike , and consider which of the two wins the greater measure of gratitude from the same actions . You shall have the most trifling examples to begin with ."
+    },
+    {
+      "id": "9.1",
+      "label": "Section 9.1",
+      "chapter": null,
+      "original": "πρὸς ταῦτα δὴ πάλιν εἶπεν ὁ Σιμωνίδης · ἀλλʼ ὅπως μὲν οὐ πάντων τούτων ἐπιμελητέον , ὦ Ἱέρων , οὐ λέγω . ἐπιμέλειαι μέντοι μοι δοκοῦσιν αἱ μὲν πάνυ πρὸς ἔχθραν ἄγειν , αἱ δὲ πάνυ διὰ χαρίτων εἶναι .",
+      "translation": "In answer to this Simonides said :\nWell , Hiero , I do not deny that all these matters must receive attention . But I should divide a ruler ’ s activities into two classes , those that lead inevitably to unpopularity , and those that are greeted with thanks ."
+    },
+    {
+      "id": "9.2",
+      "label": "Section 9.2",
+      "chapter": null,
+      "original": "τὸ μὲν γὰρ διδάσκειν ἅ ἐστι βέλτιστα καὶ τὸν κάλλιστα ταῦτα ἐξεργαζόμενον ἐπαινεῖν καὶ τιμᾶν , αὕτη μὲν ἡ ἐπιμέλεια διὰ χαρίτων γίγνεται , τὸ δὲ τὸν ἐνδεῶς τι ποιοῦντα λοιδορεῖν τε καὶ ἀναγκάζειν καὶ ζημιοῦν καὶ κολάζειν , ταῦτα δὲ ἀνάγκη διʼ ἀπεχθείας μᾶλλον γίγνεσθαι .",
+      "translation": "The duty of teaching the people what things are best , and of dispensing praise and honour to those who accomplish the same most efficiently , is a form of activity that is greeted with thanks . The duty of pronouncing censure , using coercion , inflicting pains and penalties on those who come short in any respect , is one that must of necessity give rise to a certain amount of unpopularity ."
+    },
+    {
+      "id": "10.1",
+      "label": "Section 10.1",
+      "chapter": null,
+      "original": "καὶ ὁ Ἱέρων εἶπεν · ἀλλὰ ταῦτα μέν , ὦ Σιμωνίδη , καλῶς μοι δοκεῖς λέγειν · περὶ δὲ τῶν μισθοφόρων ἔχεις τι εἰπεῖν ὡς μὴ μισεῖσθαι διʼ αὐτούς ; ἢ λέγεις ὡς φιλίαν κτησάμενος ἄρχων οὐδὲν ἔτι δεήσεται δορυφόρων ;",
+      "translation": "Well , Simonides ,\nsaid Hiero ,\nI think you are right in saying that . But what about the mercenaries ? Can you tell me how to employ them without incurring unpopularity ? Or do you say that a ruler , once he becomes popular , will have no further need of a bodyguard ?"
+    },
+    {
+      "id": "10.2",
+      "label": "Section 10.2",
+      "chapter": null,
+      "original": "ναὶ μὰ Δία , εἶπεν ὁ Σιμωνίδης , δεήσεται μὲν οὖν . οἶδα γὰρ ὅτι ὥσπερ ἐν ἵπποις οὕτως καὶ ἐν ἀνθρώποις τισὶν ἐγγίγνεται , ὅσῳ ἂν ἔκπλεα τὰ δέοντα ἔχωσι , τοσούτῳ ὑβριστοτέροις εἶναι .",
+      "translation": "No , no , he will need them , of course ,\nsaid Simonides .\nFor I know that some human beings are like horses — the more they get what they want , the more unruly they are apt to become ."
+    },
+    {
+      "id": "11.1",
+      "label": "Section 11.1",
+      "chapter": null,
+      "original": "χρὴ δέ , ὦ Ἱέρων , οὐδʼ ἀπὸ τῶν ἰδίων κτημάτων ὀκνεῖν δαπανᾶν εἰς τὸ κοινὸν ἀγαθόν . καὶ γὰρ ἔμοιγε δοκεῖ τὰ εἰς τὴν πόλιν ἀναλούμενα μᾶλλον εἰς τὸ δέον τελεῖσθαι ἢ τὰ εἰς τὸ ἴδιον ἀνδρὶ τυράννῳ . καθʼ ἓν δʼ ἕκαστον σκοπῶμεν .",
+      "translation": "Nor should you hesitate to draw on your private property , Hiero , for the common good . For in my opinion the sums that a great despot spends on the city are more truly necessary expenses than the money he spends on himself ."
+    },
+    {
+      "id": "11.2",
+      "label": "Section 11.2",
+      "chapter": null,
+      "original": "οἰκίαν πρῶτον ὑπερβαλλούσῃ δαπάνῃ κεκαλλωπισμένην μᾶλλον ἡγῇ κόσμου ἄν σοι παρέχειν ἢ πᾶσαν τὴν πόλιν τείχεσί τε καὶ ναοῖς καὶ παστάσι καὶ ἀγοραῖς καὶ λιμέσι κατεσκευασμένην ;",
+      "translation": "But let us go into details . First , which do you suppose is likely to bring you more credit , to own a palace adorned with priceless objects of art , or to have the whole city garnished with walls and temples and verandahs and market-places and harbours ?"
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": "agesilaus-77y2fc"
+}

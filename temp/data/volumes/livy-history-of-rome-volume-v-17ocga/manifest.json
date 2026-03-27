@@ -1,0 +1,61 @@
+{
+  "loebNumber": 233,
+  "sortOrder": 233,
+  "slug": "livy-history-of-rome-volume-v-17ocga",
+  "title": "History of Rome, Volume V",
+  "volumeLabel": "History of Rome, Volume V",
+  "authorDisplay": "Livy",
+  "authors": [
+    "Livy"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for History of Rome, Volume V. History of Rome, Volume V currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "history-of-rome-volume-v-cz2nbq",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "history-of-rome-volume-v-cz2nbq",
+      "title": "History of Rome, Volume V",
+      "status": "ready",
+      "sectionCount": 50,
+      "chunkSlug": "history-of-rome-volume-v-cz2nbq",
+      "chunks": [
+        {
+          "slug": "history-of-rome-volume-v-cz2nbq",
+          "label": "History of Rome, Volume V",
+          "partId": "history-of-rome-volume-v-cz2nbq",
+          "partTitle": "History of Rome, Volume V",
+          "sectionCount": 50,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "history-of-rome-volume-v-cz2nbq",
+      "label": "History of Rome, Volume V",
+      "partId": "history-of-rome-volume-v-cz2nbq",
+      "partTitle": "History of Rome, Volume V",
+      "sectionCount": 50,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "history-of-rome-volume-v-cz2nbq",
+      "partTitle": "History of Rome, Volume V",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ab urbe condita",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0914.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The History of Rome",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0914.phi001.perseus-eng3/"
+      }
+    }
+  ]
+}

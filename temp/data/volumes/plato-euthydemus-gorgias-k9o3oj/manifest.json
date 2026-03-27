@@ -1,0 +1,100 @@
+{
+  "loebNumber": 561,
+  "sortOrder": 561,
+  "slug": "plato-euthydemus-gorgias-k9o3oj",
+  "title": "Euthydemus. Gorgias",
+  "volumeLabel": "Euthydemus. Gorgias",
+  "authorDisplay": "Plato",
+  "authors": [
+    "Plato"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Euthydemus. Gorgias, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "euthydemus-1yp5w5",
+  "readyChunkCount": 2,
+  "contents": [
+    {
+      "id": "euthydemus-1yp5w5",
+      "title": "Euthydemus",
+      "status": "ready",
+      "sectionCount": 37,
+      "chunkSlug": "euthydemus-1yp5w5",
+      "chunks": [
+        {
+          "slug": "euthydemus-1yp5w5",
+          "label": "Euthydemus",
+          "partId": "euthydemus-1yp5w5",
+          "partTitle": "Euthydemus",
+          "sectionCount": 37,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "gorgias-v01xj2",
+      "title": "Gorgias",
+      "status": "ready",
+      "sectionCount": 81,
+      "chunkSlug": "gorgias-v01xj2",
+      "chunks": [
+        {
+          "slug": "gorgias-v01xj2",
+          "label": "Gorgias",
+          "partId": "gorgias-v01xj2",
+          "partTitle": "Gorgias",
+          "sectionCount": 81,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "euthydemus-1yp5w5",
+      "label": "Euthydemus",
+      "partId": "euthydemus-1yp5w5",
+      "partTitle": "Euthydemus",
+      "sectionCount": 37,
+      "status": "ready"
+    },
+    {
+      "slug": "gorgias-v01xj2",
+      "label": "Gorgias",
+      "partId": "gorgias-v01xj2",
+      "partTitle": "Gorgias",
+      "sectionCount": 81,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "euthydemus-1yp5w5",
+      "partTitle": "Euthydemus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Εὐθύδημος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg021.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Euthydemus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg021.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "gorgias-v01xj2",
+      "partTitle": "Gorgias",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Γοργίας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg023.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Gorgias",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg023.perseus-eng2/"
+      }
+    }
+  ]
+}

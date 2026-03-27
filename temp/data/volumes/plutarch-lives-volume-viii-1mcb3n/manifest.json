@@ -1,0 +1,391 @@
+{
+  "loebNumber": 100,
+  "sortOrder": 100,
+  "slug": "plutarch-lives-volume-viii-1mcb3n",
+  "title": "Lives, Volume VIII",
+  "volumeLabel": "Lives, Volume VIII",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Lives, Volume VIII. Lives, Volume VIII opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "comparison-of-sertorius-and-eumenes-1n7gfx",
+  "readyChunkCount": 12,
+  "contents": [
+    {
+      "id": "lives-volume-viii-wfl60u",
+      "title": "Lives, Volume VIII",
+      "status": "ready",
+      "sectionCount": 542,
+      "chunkSlug": "comparison-of-sertorius-and-eumenes-1n7gfx",
+      "chunks": [
+        {
+          "slug": "comparison-of-sertorius-and-eumenes-1n7gfx",
+          "label": "Comparison of Sertorius and Eumenes",
+          "partId": "lives-volume-viii-wfl60u",
+          "partTitle": "Lives, Volume VIII",
+          "sectionCount": 4,
+          "status": "ready"
+        },
+        {
+          "slug": "agesilaus-77y2fc",
+          "label": "Agesilaus",
+          "partId": "lives-volume-viii-wfl60u",
+          "partTitle": "Lives, Volume VIII",
+          "sectionCount": 80,
+          "status": "ready"
+        },
+        {
+          "slug": "pompey-13mmwj-1",
+          "label": "Pompey (Section 1.1 - Section 30.2)",
+          "partId": "lives-volume-viii-wfl60u",
+          "partTitle": "Lives, Volume VIII",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pompey-13mmwj-2",
+          "label": "Pompey (Section 31.1 - Section 60.2)",
+          "partId": "lives-volume-viii-wfl60u",
+          "partTitle": "Lives, Volume VIII",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pompey-13mmwj-3",
+          "label": "Pompey (Section 61.1 - Section 80.2)",
+          "partId": "lives-volume-viii-wfl60u",
+          "partTitle": "Lives, Volume VIII",
+          "sectionCount": 40,
+          "status": "ready"
+        },
+        {
+          "slug": "comparison-of-agesilaus-and-pompey-1iingk",
+          "label": "Comparison of Agesilaus and Pompey",
+          "partId": "lives-volume-viii-wfl60u",
+          "partTitle": "Lives, Volume VIII",
+          "sectionCount": 9,
+          "status": "ready"
+        },
+        {
+          "slug": "alexander-bipeti-1",
+          "label": "Alexander (Section 1.1 - Section 30.2)",
+          "partId": "lives-volume-viii-wfl60u",
+          "partTitle": "Lives, Volume VIII",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "alexander-bipeti-2",
+          "label": "Alexander (Section 31.1 - Section 61.1)",
+          "partId": "lives-volume-viii-wfl60u",
+          "partTitle": "Lives, Volume VIII",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "alexander-bipeti-3",
+          "label": "Alexander (Section 62.1 - Section 77.2)",
+          "partId": "lives-volume-viii-wfl60u",
+          "partTitle": "Lives, Volume VIII",
+          "sectionCount": 32,
+          "status": "ready"
+        },
+        {
+          "slug": "caesar-x97nbx-1",
+          "label": "Caesar (Section 1.1 - Section 30.2)",
+          "partId": "lives-volume-viii-wfl60u",
+          "partTitle": "Lives, Volume VIII",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "caesar-x97nbx-2",
+          "label": "Caesar (Section 31.1 - Section 61.1)",
+          "partId": "lives-volume-viii-wfl60u",
+          "partTitle": "Lives, Volume VIII",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "caesar-x97nbx-3",
+          "label": "Caesar (Section 61.2 - Section 69.2)",
+          "partId": "lives-volume-viii-wfl60u",
+          "partTitle": "Lives, Volume VIII",
+          "sectionCount": 17,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "comparison-of-sertorius-and-eumenes-1n7gfx",
+      "label": "Comparison of Sertorius and Eumenes",
+      "partId": "lives-volume-viii-wfl60u",
+      "partTitle": "Lives, Volume VIII",
+      "sectionCount": 4,
+      "status": "ready"
+    },
+    {
+      "slug": "agesilaus-77y2fc",
+      "label": "Agesilaus",
+      "partId": "lives-volume-viii-wfl60u",
+      "partTitle": "Lives, Volume VIII",
+      "sectionCount": 80,
+      "status": "ready"
+    },
+    {
+      "slug": "pompey-13mmwj-1",
+      "label": "Pompey (Section 1.1 - Section 30.2)",
+      "partId": "lives-volume-viii-wfl60u",
+      "partTitle": "Lives, Volume VIII",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pompey-13mmwj-2",
+      "label": "Pompey (Section 31.1 - Section 60.2)",
+      "partId": "lives-volume-viii-wfl60u",
+      "partTitle": "Lives, Volume VIII",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pompey-13mmwj-3",
+      "label": "Pompey (Section 61.1 - Section 80.2)",
+      "partId": "lives-volume-viii-wfl60u",
+      "partTitle": "Lives, Volume VIII",
+      "sectionCount": 40,
+      "status": "ready"
+    },
+    {
+      "slug": "comparison-of-agesilaus-and-pompey-1iingk",
+      "label": "Comparison of Agesilaus and Pompey",
+      "partId": "lives-volume-viii-wfl60u",
+      "partTitle": "Lives, Volume VIII",
+      "sectionCount": 9,
+      "status": "ready"
+    },
+    {
+      "slug": "alexander-bipeti-1",
+      "label": "Alexander (Section 1.1 - Section 30.2)",
+      "partId": "lives-volume-viii-wfl60u",
+      "partTitle": "Lives, Volume VIII",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "alexander-bipeti-2",
+      "label": "Alexander (Section 31.1 - Section 61.1)",
+      "partId": "lives-volume-viii-wfl60u",
+      "partTitle": "Lives, Volume VIII",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "alexander-bipeti-3",
+      "label": "Alexander (Section 62.1 - Section 77.2)",
+      "partId": "lives-volume-viii-wfl60u",
+      "partTitle": "Lives, Volume VIII",
+      "sectionCount": 32,
+      "status": "ready"
+    },
+    {
+      "slug": "caesar-x97nbx-1",
+      "label": "Caesar (Section 1.1 - Section 30.2)",
+      "partId": "lives-volume-viii-wfl60u",
+      "partTitle": "Lives, Volume VIII",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "caesar-x97nbx-2",
+      "label": "Caesar (Section 31.1 - Section 61.1)",
+      "partId": "lives-volume-viii-wfl60u",
+      "partTitle": "Lives, Volume VIII",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "caesar-x97nbx-3",
+      "label": "Caesar (Section 61.2 - Section 69.2)",
+      "partId": "lives-volume-viii-wfl60u",
+      "partTitle": "Lives, Volume VIII",
+      "sectionCount": 17,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "comparison-of-sertorius-and-eumenes-1n7gfx",
+      "partTitle": "Lives, Volume VIII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Comparison of Sertorius and Eumenes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg043.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Comparison of Sertorius and Eumenes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg043.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "agesilaus-77y2fc",
+      "partTitle": "Lives, Volume VIII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀγησίλαος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg044.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Agesilaus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg044.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pompey-13mmwj-1",
+      "partTitle": "Lives, Volume VIII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πομπήϊος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg045.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pompey",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg045.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pompey-13mmwj-2",
+      "partTitle": "Lives, Volume VIII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πομπήϊος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg045.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pompey",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg045.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pompey-13mmwj-3",
+      "partTitle": "Lives, Volume VIII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πομπήϊος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg045.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pompey",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg045.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "comparison-of-agesilaus-and-pompey-1iingk",
+      "partTitle": "Lives, Volume VIII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀγησιλάου καὶ Πομπηΐου σύγκρισις",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg046.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Comparison of Agesilaus and Pompey",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg046.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "alexander-bipeti-1",
+      "partTitle": "Lives, Volume VIII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Alexander",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg047.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Alexander",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg047.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "alexander-bipeti-2",
+      "partTitle": "Lives, Volume VIII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Alexander",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg047.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Alexander",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg047.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "alexander-bipeti-3",
+      "partTitle": "Lives, Volume VIII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Alexander",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg047.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Alexander",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg047.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "caesar-x97nbx-1",
+      "partTitle": "Lives, Volume VIII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Caesar",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg048.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Caesar",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg048.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "caesar-x97nbx-2",
+      "partTitle": "Lives, Volume VIII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Caesar",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg048.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Caesar",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg048.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "caesar-x97nbx-3",
+      "partTitle": "Lives, Volume VIII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Caesar",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg048.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Caesar",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg048.perseus-eng2/"
+      }
+    }
+  ]
+}

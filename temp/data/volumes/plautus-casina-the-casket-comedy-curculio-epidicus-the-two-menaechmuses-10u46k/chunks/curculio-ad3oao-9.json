@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-casina-the-casket-comedy-curculio-epidicus-the-two-menaechmuses-10u46k",
+  "volumeTitle": "Casina. The Casket Comedy. Curculio. Epidicus. The Two Menaechmuses",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "curculio-ad3oao-9",
+  "label": "Curculio (Section 5.2.618 - Section 5.2.671c)",
+  "partId": "curculio-ad3oao",
+  "partTitle": "Curculio",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Curculio",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi008.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Curculio, or The Forgery",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi008.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "5.2.618",
+      "label": "Section 5.2.618",
+      "chapter": null,
+      "original": "Ego quidem pro istac rem solvi áb trapezita meo .",
+      "translation": "Why , I paid the money for her through my banker — a sum which I ’ ll have refunded to me fourfold by you and the Procurer ."
+    },
+    {
+      "id": "5.2.620",
+      "label": "Section 5.2.620",
+      "chapter": null,
+      "original": "Qui scis mercari furtivas atque ingenuas virgines ,",
+      "translation": "You , who understand how to traffic in young women , kidnapped and of free birth , come you before the judge ."
+    },
+    {
+      "id": "5.2.621b",
+      "label": "Section 5.2.621b",
+      "chapter": null,
+      "original": "Non eo .",
+      "translation": "I shan ’ t come ."
+    },
+    {
+      "id": "5.2.621c",
+      "label": "Section 5.2.621c",
+      "chapter": null,
+      "original": "Licet te antestari ?",
+      "translation": "I may call my witness [*] to the summons ."
+    },
+    {
+      "id": "5.2.621d",
+      "label": "Section 5.2.621d",
+      "chapter": null,
+      "original": "Non licet .",
+      "translation": "No , you mayn ’ t ."
+    },
+    {
+      "id": "5.2.622",
+      "label": "Section 5.2.622",
+      "chapter": null,
+      "original": "Iuppiter te , miles , perdat , intestatus vivito ;",
+      "translation": "May Jupiter then utterly confound you : live without witnesses [*] then ."
+    },
+    {
+      "id": "5.2.623",
+      "label": "Section 5.2.623",
+      "chapter": null,
+      "original": "at ego , quem licet , te . accede huc .",
+      "translation": "But I ’ m a person that he may summon ."
+    },
+    {
+      "id": "5.2.623b",
+      "label": "Section 5.2.623b",
+      "chapter": null,
+      "original": "Servom antestari ?",
+      "translation": "What ? A slave summoned as a witness ?"
+    },
+    {
+      "id": "5.2.623c",
+      "label": "Section 5.2.623c",
+      "chapter": null,
+      "original": "Vide .",
+      "translation": "Take you care ."
+    },
+    {
+      "id": "5.2.624_625",
+      "label": "Section 5.2.624_625",
+      "chapter": null,
+      "original": "em ut scias me liberum esse . ergo ambula in ius .",
+      "translation": "Well , that you may know it , I ’ m free ."
+    },
+    {
+      "id": "5.2.624_625b",
+      "label": "Section 5.2.624_625b",
+      "chapter": null,
+      "original": "Em tibi .",
+      "translation": "There ’ s for you : take that ."
+    },
+    {
+      "id": "5.2.626",
+      "label": "Section 5.2.626",
+      "chapter": null,
+      "original": "O cives , cives .",
+      "translation": "O townsmen , townsmen , help ."
+    },
+    {
+      "id": "5.2.626b",
+      "label": "Section 5.2.626b",
+      "chapter": null,
+      "original": "Quid clamas ?",
+      "translation": "Why do you bawl so ?"
+    },
+    {
+      "id": "5.2.626c",
+      "label": "Section 5.2.626c",
+      "chapter": null,
+      "original": "Quid tibi istum tactio est ?",
+      "translation": "What right have you to strike him ?"
+    },
+    {
+      "id": "5.2.627",
+      "label": "Section 5.2.627",
+      "chapter": null,
+      "original": "Quia mihi lubitum est .",
+      "translation": "Because I choose ."
+    },
+    {
+      "id": "5.2.627b",
+      "label": "Section 5.2.627b",
+      "chapter": null,
+      "original": "Accede huc tu , ego illum tibi dedam , tace .",
+      "translation": "Step this way you ( pushes him towards the CAPTAIN ) ; there , I ’ ll give him up to you . Hold your noise ."
+    },
+    {
+      "id": "5.2.628",
+      "label": "Section 5.2.628",
+      "chapter": null,
+      "original": "Phaedrome , obsecro serva me .",
+      "translation": "Phaedromus , prithee do save me ."
+    },
+    {
+      "id": "5.2.628b",
+      "label": "Section 5.2.628b",
+      "chapter": null,
+      "original": "Tamquam me et genium meum .",
+      "translation": "As I would myself and my own good Genius . Captain , prithee , do tell me whence you got that ring ,"
+    },
+    {
+      "id": "5.2.630",
+      "label": "Section 5.2.630",
+      "chapter": null,
+      "original": "quem parasitus hic te elusit .",
+      "translation": "which this Parasite purloined from you ."
+    },
+    {
+      "id": "5.2.630b",
+      "label": "Section 5.2.630b",
+      "chapter": null,
+      "original": "Per tua genua te obsecro ,",
+      "translation": "By your knees , I do entreat you to give us that information ."
+    },
+    {
+      "id": "5.2.631b",
+      "label": "Section 5.2.631b",
+      "chapter": null,
+      "original": "Quid istuc ad vos attinet ?",
+      "translation": "What matters that to you ? You might as well ask after this sabre and this scarf , how each came into my possession ."
+    },
+    {
+      "id": "5.2.633",
+      "label": "Section 5.2.633",
+      "chapter": null,
+      "original": "Vt fastidit gloriosus .",
+      "translation": "What airs the swaggerer does give himself !"
+    },
+    {
+      "id": "5.2.633b",
+      "label": "Section 5.2.633b",
+      "chapter": null,
+      "original": "Mitte istum , ego dicam omnia .",
+      "translation": "Send that fellow away ( pointing to CURCULIO ) ; then I ’ ll tell you all ."
+    },
+    {
+      "id": "5.2.634",
+      "label": "Section 5.2.634",
+      "chapter": null,
+      "original": "Nihil est quod ille dicit .",
+      "translation": "It ’ s nonsense what he says ."
+    },
+    {
+      "id": "5.2.634b",
+      "label": "Section 5.2.634b",
+      "chapter": null,
+      "original": "Fac me certiorem , óbsecro .",
+      "translation": "Prithee , do let me know ."
+    },
+    {
+      "id": "5.2.635",
+      "label": "Section 5.2.635",
+      "chapter": null,
+      "original": "Ego dícam , surge . hanc rem ágite atque animum advórtite .",
+      "translation": "I ’ ll tell you : ( to PLANESIUM ) get up . Listen to this matter , and give attention . My father Periphanes used to wear it ."
+    },
+    {
+      "id": "5.2.637",
+      "label": "Section 5.2.637",
+      "chapter": null,
+      "original": "is prius quam moritur mihi dedit tamquam suo ,",
+      "translation": "He , before he died , gave it to me as being his son , as it was right he should ."
+    },
+    {
+      "id": "5.2.638b",
+      "label": "Section 5.2.638b",
+      "chapter": null,
+      "original": "Pro Iuppiter .",
+      "translation": "O Jupiter !"
+    },
+    {
+      "id": "5.2.639",
+      "label": "Section 5.2.639",
+      "chapter": null,
+      "original": "Et istó me heredem fecit .",
+      "translation": "And on that occasion he made me his heir ."
+    },
+    {
+      "id": "5.2.639b",
+      "label": "Section 5.2.639b",
+      "chapter": null,
+      "original": "O Pietas mea ,",
+      "translation": "O filial affection , do thou preserve me , since I have carefully preserved thee . Welcome , my brother ."
+    },
+    {
+      "id": "5.2.641b",
+      "label": "Section 5.2.641b",
+      "chapter": null,
+      "original": "Qui credam ego istuc ? cedo ,",
+      "translation": "How am I to believe that ? Tell me , if you are speaking the truth , who was your mother ?"
+    },
+    {
+      "id": "5.2.643",
+      "label": "Section 5.2.643",
+      "chapter": null,
+      "original": "Cleobula .",
+      "translation": "Cleobula ."
+    },
+    {
+      "id": "5.2.643b",
+      "label": "Section 5.2.643b",
+      "chapter": null,
+      "original": "Nutrix quae fuit ?",
+      "translation": "Who was your nurse ?"
+    },
+    {
+      "id": "5.2.643c",
+      "label": "Section 5.2.643c",
+      "chapter": null,
+      "original": "Archestrata .",
+      "translation": "Archestrata ."
+    },
+    {
+      "id": "5.2.644_645",
+      "label": "Section 5.2.644_645",
+      "chapter": null,
+      "original": "ea me spectatum tulerat per Dionysia .",
+      "translation": "Amid the sacred rites of Bacchus she had carried me to see the sights ⋯ after we had come thither , when now she had found me a place , a whirlwind arose [*] ; the scaffolding [*] of the stage there tumbled down ; I was greatly alarmed , and then some one , I know not who , seized hold of me trembling and frightened , neither alive nor dead ;"
+    },
+    {
+      "id": "5.2.650",
+      "label": "Section 5.2.650",
+      "chapter": null,
+      "original": "nec quo me pacto abstulerit possum dicere .",
+      "translation": "and in what manner he carried me off I cannot say ."
+    },
+    {
+      "id": "5.2.651",
+      "label": "Section 5.2.651",
+      "chapter": null,
+      "original": "Memini istanc turbam fieri . sed tu dic mihi ,",
+      "translation": "I recollect that disturbance happening ; but , do you tell me , where is this person , who carried you away ?"
+    },
+    {
+      "id": "5.2.652b",
+      "label": "Section 5.2.652b",
+      "chapter": null,
+      "original": "Nescio .",
+      "translation": "I know not ; but ( showing a ring ) this ring I have all along preserved by me , with it long since was I lost ."
+    },
+    {
+      "id": "5.2.654b",
+      "label": "Section 5.2.654b",
+      "chapter": null,
+      "original": "Cedo , ut inspiciam .",
+      "translation": "Give it me to look at ."
+    },
+    {
+      "id": "5.2.654c",
+      "label": "Section 5.2.654c",
+      "chapter": null,
+      "original": "Sanan es ,",
+      "translation": "Are you in your senses to be trusting it to that fellow ?"
+    },
+    {
+      "id": "5.2.655b",
+      "label": "Section 5.2.655b",
+      "chapter": null,
+      "original": "Sine modo .",
+      "translation": "Do you only leave me alone ."
+    },
+    {
+      "id": "5.2.655c",
+      "label": "Section 5.2.655c",
+      "chapter": null,
+      "original": "Pro Iuppiter ,",
+      "translation": "O Jupiter ! This is the same that I presented you upon your birthday ; I recognize it as easily as my own self . Welcome to you , my sister ."
+    },
+    {
+      "id": "5.2.658",
+      "label": "Section 5.2.658",
+      "chapter": null,
+      "original": "Frater mi , salve .",
+      "translation": "My brother , welcome to you ."
+    },
+    {
+      "id": "5.2.658b",
+      "label": "Section 5.2.658b",
+      "chapter": null,
+      "original": "Deos volo bene vortere",
+      "translation": "I trust the Gods will prosper this matter for you ."
+    },
+    {
+      "id": "5.2.659b",
+      "label": "Section 5.2.659b",
+      "chapter": null,
+      "original": "Et ego nobis omnibus :",
+      "translation": "And I , for all of us ."
+    },
+    {
+      "id": "5.2.660",
+      "label": "Section 5.2.660",
+      "chapter": null,
+      "original": "tu ut hodie adveniens cenam des sororiam ,",
+      "translation": "Do you , as having this day arrived , give a dinner in honor of your sister he ( pointing to PHAEDROMUS ) , to-morrow , will give one in honor of his marriage ; we promise that ."
+    },
+    {
+      "id": "5.2.662",
+      "label": "Section 5.2.662",
+      "chapter": null,
+      "original": "Tace tú .",
+      "translation": "Do you hold your tongue ."
+    },
+    {
+      "id": "5.2.662b",
+      "label": "Section 5.2.662b",
+      "chapter": null,
+      "original": "Non taceo , quando res vortit bene .",
+      "translation": "I shan ’ t hold my tongue , as things are turning out so well . Captain , do you promise her to him ; I ’ ll give the marriage-portion ."
+    },
+    {
+      "id": "5.2.664",
+      "label": "Section 5.2.664",
+      "chapter": null,
+      "original": "Quid dotis ?",
+      "translation": "What is the marriage-portion ?"
+    },
+    {
+      "id": "5.2.664b",
+      "label": "Section 5.2.664b",
+      "chapter": null,
+      "original": "Egone ? ut semper , dum vivat , me alat .",
+      "translation": "What , that I give ? Why , that always as long as he lives he ’ s to feed me ."
+    },
+    {
+      "id": "5.2.665",
+      "label": "Section 5.2.665",
+      "chapter": null,
+      "original": "verum hercle dico .",
+      "translation": "I ’ troth , he says what ’ s fair ;"
+    },
+    {
+      "id": "5.2.665b",
+      "label": "Section 5.2.665b",
+      "chapter": null,
+      "original": "Me lubente feceris .",
+      "translation": "with my consent you shall do so ."
+    },
+    {
+      "id": "5.2.666",
+      "label": "Section 5.2.666",
+      "chapter": null,
+      "original": "sed leno hic debet nobis triginta minas .",
+      "translation": "But this Procurer owes me the thirty minae ."
+    },
+    {
+      "id": "5.2.667",
+      "label": "Section 5.2.667",
+      "chapter": null,
+      "original": "Quam ob rem istuc ?",
+      "translation": "For what reason so ?"
+    },
+    {
+      "id": "5.2.667b",
+      "label": "Section 5.2.667b",
+      "chapter": null,
+      "original": "Quia ille íta repromisit mihi :",
+      "translation": "Because he agreed with me on these terms to give it back : that if any one should assert her to be free born in due course of law , he would , without dispute , pay back all the money ."
+    },
+    {
+      "id": "5.2.670",
+      "label": "Section 5.2.670",
+      "chapter": null,
+      "original": "nunc eamus ad lenonem .",
+      "translation": "Then let ’ s go to the Procurer ."
+    },
+    {
+      "id": "5.2.670b",
+      "label": "Section 5.2.670b",
+      "chapter": null,
+      "original": "Laudo .",
+      "translation": "I agree ."
+    },
+    {
+      "id": "5.2.670c",
+      "label": "Section 5.2.670c",
+      "chapter": null,
+      "original": "Hoc prius volo ,",
+      "translation": "This first I wish ; to despatch my matter ."
+    },
+    {
+      "id": "5.2.671b",
+      "label": "Section 5.2.671b",
+      "chapter": null,
+      "original": "Quid id est ?",
+      "translation": "What ’ s that ?"
+    },
+    {
+      "id": "5.2.671c",
+      "label": "Section 5.2.671c",
+      "chapter": null,
+      "original": "Vt mihi hanc despondeas .",
+      "translation": "That you will betroth her to me ."
+    }
+  ],
+  "prevChunkSlug": "curculio-ad3oao-8",
+  "nextChunkSlug": "curculio-ad3oao-10"
+}

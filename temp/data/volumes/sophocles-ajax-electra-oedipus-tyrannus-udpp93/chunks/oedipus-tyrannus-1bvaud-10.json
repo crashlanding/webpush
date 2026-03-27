@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "sophocles-ajax-electra-oedipus-tyrannus-udpp93",
+  "volumeTitle": "Ajax. Electra. Oedipus Tyrannus",
+  "authorDisplay": "Sophocles",
+  "authors": [
+    "Sophocles"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "oedipus-tyrannus-1bvaud-10",
+  "label": "Oedipus Tyrannus (Section 1167 - Section 1.1319)",
+  "partId": "oedipus-tyrannus-1bvaud",
+  "partTitle": "Oedipus Tyrannus",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Οἰδίπους Τύραννος",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Oedipus Tyrannus",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1167",
+      "label": "Section 1167",
+      "chapter": null,
+      "original": "τῶν Λαΐου τοίνυν τις ἦν γεννημάτων .",
+      "translation": "It was a child , then , of the house of Laius ."
+    },
+    {
+      "id": "1168",
+      "label": "Section 1168",
+      "chapter": null,
+      "original": "ἦ δοῦλος ἢ κείνου τις ἐγγενὴς γεγώς ;",
+      "translation": "A slave ? Or one of his own clan ?"
+    },
+    {
+      "id": "1169",
+      "label": "Section 1169",
+      "chapter": null,
+      "original": "οἴμοι , πρὸς αὐτῷ γʼ εἰμὶ τῷ δεινῷ λέγειν .",
+      "translation": "Alas ! I am on the brink of speaking the dreaded words ."
+    },
+    {
+      "id": "1170",
+      "label": "Section 1170",
+      "chapter": null,
+      "original": "κἄγωγʼ ἀκούειν · ἀλλʼ ὅμως ἀκουστέον .",
+      "translation": "And I of hearing : I must hear nevertheless ."
+    },
+    {
+      "id": "1171",
+      "label": "Section 1171",
+      "chapter": null,
+      "original": "κείνου γέ τοι δὴ παῖς ἐκλῄζεθʼ · ἡ δʼ ἔσω",
+      "translation": "You must know then , that it was said to be his own child . But your lady within could say best how these matters lie ."
+    },
+    {
+      "id": "1173",
+      "label": "Section 1173",
+      "chapter": null,
+      "original": "ἦ γὰρ δίδωσιν ἥδε σοι ;",
+      "translation": "How ? Did she give it to you ?"
+    },
+    {
+      "id": "1173a",
+      "label": "Section 1173a",
+      "chapter": null,
+      "original": "μάλιστʼ , ἄναξ .",
+      "translation": "Yes , my lord ."
+    },
+    {
+      "id": "1174",
+      "label": "Section 1174",
+      "chapter": null,
+      "original": "ὡς πρὸς τί χρείας ;",
+      "translation": "For what purpose ?"
+    },
+    {
+      "id": "1174a",
+      "label": "Section 1174a",
+      "chapter": null,
+      "original": "ὡς ἀναλώσαιμί νιν .",
+      "translation": "That I should do away with it ."
+    },
+    {
+      "id": "1175",
+      "label": "Section 1175",
+      "chapter": null,
+      "original": "τεκοῦσα τλήμων ;",
+      "translation": "Her own child , the wretched woman ?"
+    },
+    {
+      "id": "1175a",
+      "label": "Section 1175a",
+      "chapter": null,
+      "original": "θεσφάτων γʼ ὄκνῳ κακῶν .",
+      "translation": "Yes , from fear of the evil prophecies ."
+    },
+    {
+      "id": "1176",
+      "label": "Section 1176",
+      "chapter": null,
+      "original": "ποίων ;",
+      "translation": "What were they ?"
+    },
+    {
+      "id": "1176a",
+      "label": "Section 1176a",
+      "chapter": null,
+      "original": "κτενεῖν νιν τοὺς τεκόντας ἦν λόγος .",
+      "translation": "The tale ran that he would slay his father ."
+    },
+    {
+      "id": "1177",
+      "label": "Section 1177",
+      "chapter": null,
+      "original": "πῶς δῆτʼ ἀφῆκας τῷ γέροντι τῷδε σύ ;",
+      "translation": "Why , then , did you give him to this old man ?"
+    },
+    {
+      "id": "1178",
+      "label": "Section 1178",
+      "chapter": null,
+      "original": "κατοικτίσας , ὦ δέσποθʼ , ὡς ἄλλην χθόνα",
+      "translation": "Out of pity , master , thinking that he would carry him to another land , from where he himself came . But he saved him for the direst woe ."
+    },
+    {
+      "id": "1180",
+      "label": "Section 1180",
+      "chapter": null,
+      "original": "κάκʼ εἰς μέγιστʼ ἔσωσεν . εἰ γὰρ οὗτος εἶ",
+      "translation": "For if you are what this man says , be certain that you were born ill-fated ."
+    },
+    {
+      "id": "1182",
+      "label": "Section 1182",
+      "chapter": null,
+      "original": "ἰοὺ ἰού · τὰ πάντʼ ἂν ἐξήκοι σαφῆ .",
+      "translation": "Oh , oh ! All brought to pass , all true . Light , may I now look on you for the last time — I who have been found to be accursed in birth ,"
+    },
+    {
+      "id": "1185",
+      "label": "Section 1185",
+      "chapter": null,
+      "original": "οὐ χρῆν ὁμιλῶν , οὕς τέ μʼ οὐκ ἔδει κτανών .",
+      "translation": "accursed in wedlock , accursed in the shedding of blood . He rushes into the palace ."
+    },
+    {
+      "id": "1.1186",
+      "label": "Section 1.1186",
+      "chapter": null,
+      "original": "ἰὼ γενεαὶ βροτῶν ,",
+      "translation": "Alas , generations of mortals , how mere a shadow I count your life ! Where , where is the mortal who"
+    },
+    {
+      "id": "1.1190",
+      "label": "Section 1.1190",
+      "chapter": null,
+      "original": "τᾶς εὐδαιμονίας φέρει",
+      "translation": "attains a happiness which is more than apparent and doomed to fall away to nothing ? Your fate warns me — yours , unhappy Oedipus — to call no"
+    },
+    {
+      "id": "1.1195",
+      "label": "Section 1.1195",
+      "chapter": null,
+      "original": "οὐδὲν μακαρίζω ·",
+      "translation": "earthly creature blessed ."
+    },
+    {
+      "id": "1.1196",
+      "label": "Section 1.1196",
+      "chapter": null,
+      "original": "ὅστις καθʼ ὑπερβολὰν",
+      "translation": "For he , O Zeus , shot his shaft with peerless skill , and won the prize of an all-prosperous fortune , having slain the maiden with crooked talons , who sang darkly ."
+    },
+    {
+      "id": "1.1200",
+      "label": "Section 1.1200",
+      "chapter": null,
+      "original": "χρησμῳδόν , θανάτων δʼ ἐμᾷ",
+      "translation": "He arose for our land like a tower against death . And from that time , Oedipus , you have been called our king , and have been honored supremely , holding power in great Thebes ."
+    },
+    {
+      "id": "2.1204",
+      "label": "Section 2.1204",
+      "chapter": null,
+      "original": "τανῦν δʼ ἀκούειν τίς ἀθλιώτερος ;",
+      "translation": "But now whose story is more grievous in men ’ s ears ?"
+    },
+    {
+      "id": "2.1205",
+      "label": "Section 2.1205",
+      "chapter": null,
+      "original": "τίς ἄταις ἀγρίαις , τίς ἐν πόνοις",
+      "translation": "Who is a more wretched slave to fierce plagues and troubles , with all his life reversed ? Alas , renowned Oedipus ! The same bounteous harbor was sufficient for you , both as child and as father , to make your nuptial couch in . Oh , how can the soil"
+    },
+    {
+      "id": "2.1210",
+      "label": "Section 2.1210",
+      "chapter": null,
+      "original": "πῶς ποτε πῶς ποθʼ αἱ πατρῷαί σʼ ἄλοκες φέρειν , τάλας ,",
+      "translation": "in which your father sowed , unhappy man , have endured you in silence for so long ?"
+    },
+    {
+      "id": "2.1212",
+      "label": "Section 2.1212",
+      "chapter": null,
+      "original": "ἐφηῦρέ σʼ ἄκονθʼ ὁ πάνθʼ ὁρῶν χρόνος ,",
+      "translation": "Time the all-seeing has found you out , against your will : he judges the monstrous marriage in which"
+    },
+    {
+      "id": "2.1215",
+      "label": "Section 2.1215",
+      "chapter": null,
+      "original": "τεκνοῦντα καὶ τεκνούμενον .",
+      "translation": "parent and child have long been one . Alas , child of Laius , would that I had never seen you . I wail as one who pours a dirge from his lips ."
+    },
+    {
+      "id": "2.1220",
+      "label": "Section 2.1220",
+      "chapter": null,
+      "original": "σέθεν",
+      "translation": "It was you who gave me new life , to speak directly , and through you darkness has fallen upon my eyes ."
+    },
+    {
+      "id": "1223",
+      "label": "Section 1223",
+      "chapter": null,
+      "original": "ὦ γῆς μέγιστα τῆσδʼ ἀεὶ τιμώμενοι ,",
+      "translation": "You who are most honored in this land , what deeds you will hear , what deeds you will behold , what burden of sorrow will be yours ,"
+    },
+    {
+      "id": "1225",
+      "label": "Section 1225",
+      "chapter": null,
+      "original": "ἀρεῖσθε πένθος , εἴπερ ἐγγενῶς ἔτι",
+      "translation": "if , true to your race , you still care for the house of Labdacus . For I think that neither the Ister nor the Phasis could wash this house clean , so many are the ills that it shrouds , or will soon bring to light , ills wrought not unwittingly , but on purpose ."
+    },
+    {
+      "id": "1230",
+      "label": "Section 1230",
+      "chapter": null,
+      "original": "ἑκόντα κοὐκ ἄκοντα . τῶν δὲ πημονῶν",
+      "translation": "And those griefs smart the most which are seen to be of our own choice ."
+    },
+    {
+      "id": "1232",
+      "label": "Section 1232",
+      "chapter": null,
+      "original": "λείπει μὲν οὐδʼ ἃ πρόσθεν εἴδομεν τὸ μὴ οὐ",
+      "translation": "Indeed the troubles which we knew before are far from being easy to bear . Besides them , what do you have to announce ?"
+    },
+    {
+      "id": "1234",
+      "label": "Section 1234",
+      "chapter": null,
+      "original": "ὁ μὲν τάχιστος τῶν λόγων εἰπεῖν τε καὶ",
+      "translation": "This is the shortest tale to tell and hear :"
+    },
+    {
+      "id": "1235",
+      "label": "Section 1235",
+      "chapter": null,
+      "original": "μαθεῖν , τέθνηκε θεῖον Ἰοκάστης κάρα .",
+      "translation": "our royal lady Iocasta is dead ."
+    },
+    {
+      "id": "1236",
+      "label": "Section 1236",
+      "chapter": null,
+      "original": "ὦ δυστάλαινα , πρὸς τίνος ποτʼ αἰτίας ;",
+      "translation": "Alas , wretched lady ! From what cause ?"
+    },
+    {
+      "id": "1237",
+      "label": "Section 1237",
+      "chapter": null,
+      "original": "αὐτὴ πρὸς αὑτῆς . τῶν δὲ πραχθέντων τὰ μὲν",
+      "translation": "By her own hand . You will not suffer the worst part of the painful event , since you do not behold the events . Nevertheless , so far as my memory serves ,"
+    },
+    {
+      "id": "1240",
+      "label": "Section 1240",
+      "chapter": null,
+      "original": "πεύσει τὰ κείνης ἀθλίας παθήματα .",
+      "translation": "you will learn that unhappy woman ’ s fate .\nWhen , frantic , she passed within the vestibule , she rushed straight towards her marriage couch , clutching her hair with the fingers of both hands . Once within the chamber ,"
+    },
+    {
+      "id": "1245",
+      "label": "Section 1245",
+      "chapter": null,
+      "original": "καλεῖ τὸν ἤδη Λάϊον πάλαι νεκρόν ,",
+      "translation": "she dashed the doors together behind her , then called on the name of Laius , long since a corpse , thinking of that son , born long ago , by whose hand the father was slain , leaving the mother to breed accursed offspring with his own child . And she bewailed the marriage in which , wretched woman , she had given birth to a twofold brood ,"
+    },
+    {
+      "id": "1250",
+      "label": "Section 1250",
+      "chapter": null,
+      "original": "ἐξ ἀνδρὸς ἄνδρα καὶ τέκνʼ ἐκ τέκνων τέκοι .",
+      "translation": "husband by husband , children by her child . And how she perished is more than I know . For with a shriek Oedipus burst in , and did not allow us to watch her woe until the end : on him , as he rushed around , our eyes were set ."
+    },
+    {
+      "id": "1255",
+      "label": "Section 1255",
+      "chapter": null,
+      "original": "φοιτᾷ γὰρ ἡμᾶς ἔγχος ἐξαιτῶν πορεῖν ,",
+      "translation": "To and fro he went , asking us to give him a sword , asking where he could find the wife who was no wife , but a mother whose womb had borne both him and his children . And in his frenzy a power greater than mortal man was his guide , for it was none of us mortals who were near ."
+    },
+    {
+      "id": "1260",
+      "label": "Section 1260",
+      "chapter": null,
+      "original": "δεινὸν δʼ ἀύσας ὡς ὑφηγητοῦ τινος",
+      "translation": "With a dread cry , as though someone beckoned him on , he sprang at the double doors , forced the bending bolts from the sockets , and rushed into the room . There we beheld the woman hanging by the neck in a twisted noose of swinging cords ."
+    },
+    {
+      "id": "1265",
+      "label": "Section 1265",
+      "chapter": null,
+      "original": "ὁ δʼ ὡς ὁρᾷ νιν , δεινὰ βρυχηθεὶς τάλας",
+      "translation": "And when he saw her , with a dread deep cry he released the halter by which she hung . And when the hapless woman was stretched out on the ground , then the sequel was horrible to see : for he tore from her raiment the golden brooches with which she had decorated herself ,"
+    },
+    {
+      "id": "1270",
+      "label": "Section 1270",
+      "chapter": null,
+      "original": "ἄρας ἔπαισεν ἄρθρα τῶν αὑτοῦ κύκλων ,",
+      "translation": "and lifting them struck his own eye-balls , uttering words like these : No longer will you behold such horrors as I was suffering and performing ! Long enough have you looked on those whom you ought never to have seen , having failed in the knowledge of those whom I yearned to know — henceforth you shall be dark !"
+    },
+    {
+      "id": "1275",
+      "label": "Section 1275",
+      "chapter": null,
+      "original": "τοιαῦτʼ ἐφυμνῶν πολλάκις τε κοὐχ ἅπαξ",
+      "translation": "With such a dire refrain , he struck his eyes with raised hand not once but often . At each blow the bloody eye-balls bedewed his beard , and sent forth not sluggish drops of gore , but all at once a dark shower of blood came down like hail ."
+    },
+    {
+      "id": "1280",
+      "label": "Section 1280",
+      "chapter": null,
+      "original": "ἀλλʼ ἀνδρὶ καὶ γυναικὶ συμμιγῆ κακά .",
+      "translation": "From the deeds of the two of them such ills have broken forth , not on one alone , but with mingled woe for man and wife . The old happiness of their ancestral fortune was once happiness indeed . But now today lamentation , ruin , death , shame ,"
+    },
+    {
+      "id": "1285",
+      "label": "Section 1285",
+      "chapter": null,
+      "original": "νῦν δʼ ἔσθʼ ὁ τλήμων ἐν τίνι σχολῇ κακοῦ ;",
+      "translation": "and every earthly ill that anyone could name are all theirs ."
+    },
+    {
+      "id": "1286",
+      "label": "Section 1286",
+      "chapter": null,
+      "original": "βοᾷ διοίγειν κλῇθρα καὶ δηλοῦν τινα",
+      "translation": "And does the sufferer have any respite from pain now ?"
+    },
+    {
+      "id": "1287",
+      "label": "Section 1287",
+      "chapter": null,
+      "original": "τοῖς πᾶσι Καδμείοισι τὸν πατροκτόνον ,",
+      "translation": "He cries for some one to unbar the gates and show to all the Cadmeans his father ’ s slayer , his mother ’ s — the words must not pass my lips —"
+    },
+    {
+      "id": "1290",
+      "label": "Section 1290",
+      "chapter": null,
+      "original": "ὡς ἐκ χθονὸς ῥίψων ἑαυτὸν οὐδʼ ἔτι",
+      "translation": "in order to banish himself from the land and not to put the house under his own curse by waiting here . And yet he lacks strength , and one to guide his steps , for the anguish is more than he can bear . He will soon show this to you : look , the bars of the gates are withdrawn ,"
+    },
+    {
+      "id": "1295",
+      "label": "Section 1295",
+      "chapter": null,
+      "original": "διοίγεται · θέαμα δʼ εἰσόψει τάχα",
+      "translation": "and soon you will behold a sight which even he who abhors it must pity ."
+    },
+    {
+      "id": "1297",
+      "label": "Section 1297",
+      "chapter": null,
+      "original": "ὦ δεινὸν ἰδεῖν πάθος ἀνθρώποις ,",
+      "translation": "O dread fate for men to see , O most dreadful of all that I have set my eyes on ! Unhappy one , what madness has come upon you ?"
+    },
+    {
+      "id": "1300",
+      "label": "Section 1300",
+      "chapter": null,
+      "original": "προσέβη μανία ; τίς ὁ πηδήσας",
+      "translation": "Who is the unearthly foe who , with a leap of more than mortal range has made your ill-starred life his prey ? Alas , alas , you hapless man ! I cannot even look on you , though there is much I desire to ask , much I desire to learn ,"
+    },
+    {
+      "id": "1305",
+      "label": "Section 1305",
+      "chapter": null,
+      "original": "πόλλʼ ἀνερέσθαι , πολλὰ πυθέσθαι ,",
+      "translation": "much that draws my wistful gaze : with such a shuddering do you fill me !"
+    },
+    {
+      "id": "1308",
+      "label": "Section 1308",
+      "chapter": null,
+      "original": "αἰαῖ αἰαῖ , δύστανος ἐγώ ,",
+      "translation": "Woe is me ! Alas , alas , wretched that I am ! Where , where am I carried in my misery ?"
+    },
+    {
+      "id": "1310",
+      "label": "Section 1310",
+      "chapter": null,
+      "original": "φθογγὰ διαπωτᾶται φοράδην ;",
+      "translation": "How is my voice swept abroad on the wings of the air ? Oh , my fate , how far you have sprung !"
+    },
+    {
+      "id": "1312",
+      "label": "Section 1312",
+      "chapter": null,
+      "original": "ἐς δεινὸν οὐδʼ ἀκουστὸν οὐδʼ ἐπόψιμον .",
+      "translation": "To a dread place , dire in men ’ s ears , dire in their sight ."
+    },
+    {
+      "id": "1.1313",
+      "label": "Section 1.1313",
+      "chapter": null,
+      "original": "ἰὼ σκότου",
+      "translation": "Oh horror of darkness that enfolds me , unspeakable visitant ,"
+    },
+    {
+      "id": "1.1315",
+      "label": "Section 1.1315",
+      "chapter": null,
+      "original": "ἀδάματόν τε καὶ δυσούριστον ὄν .",
+      "translation": "resistless , sped by a wind too favorable ! Oh , me ! and once again , Oh , me ! How my soul is pierced by the stab of these goads and by the memory of sorrows !"
+    },
+    {
+      "id": "1.1319",
+      "label": "Section 1.1319",
+      "chapter": null,
+      "original": "καὶ θαῦμά γʼ οὐδὲν ἐν τοσοῖσδε πήμασιν",
+      "translation": "No wonder that amidst these woes"
+    }
+  ],
+  "prevChunkSlug": "oedipus-tyrannus-1bvaud-9",
+  "nextChunkSlug": "oedipus-tyrannus-1bvaud-11"
+}

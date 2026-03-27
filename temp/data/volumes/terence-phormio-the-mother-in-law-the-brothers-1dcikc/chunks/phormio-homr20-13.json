@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "terence-phormio-the-mother-in-law-the-brothers-1dcikc",
+  "volumeTitle": "Phormio. The Mother-in-Law. The Brothers",
+  "authorDisplay": "Terence",
+  "authors": [
+    "Terence"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "phormio-homr20-13",
+  "label": "Phormio (Section 5.3.810 - Section 5.6.861)",
+  "partId": "phormio-homr20",
+  "partTitle": "Phormio",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Phormio",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Phormio; or, The Scheming Parasite",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi004.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "5.3.810",
+      "label": "Section 5.3.810",
+      "chapter": null,
+      "original": "Quid est ?",
+      "translation": "What ’ s the matter ?"
+    },
+    {
+      "id": "5.3.810b",
+      "label": "Section 5.3.810b",
+      "chapter": null,
+      "original": "Itan parvam mihi fidem esse apud te ?",
+      "translation": "That you should put so little confidence in me !"
+    },
+    {
+      "id": "5.3.810c",
+      "label": "Section 5.3.810c",
+      "chapter": null,
+      "original": "Vin me credere ?",
+      "translation": "Do you wish me to believe you ? Do you wish me to consider this as quite certain ? Very well , be it so . Well , what ’ s to be done with our friend ’ s [*] daughter ?"
+    },
+    {
+      "id": "5.3.812b",
+      "label": "Section 5.3.812b",
+      "chapter": null,
+      "original": "Recte .",
+      "translation": "She ’ ll do well enough ."
+    },
+    {
+      "id": "5.3.812c",
+      "label": "Section 5.3.812c",
+      "chapter": null,
+      "original": "Hanc igitur mittimus ?",
+      "translation": "Are we to drop her , then ?"
+    },
+    {
+      "id": "5.3.813",
+      "label": "Section 5.3.813",
+      "chapter": null,
+      "original": "Quidni ?",
+      "translation": "Why not ?"
+    },
+    {
+      "id": "5.3.813b",
+      "label": "Section 5.3.813b",
+      "chapter": null,
+      "original": "Illa maneat ?",
+      "translation": "The other one to stop ?"
+    },
+    {
+      "id": "5.3.813c",
+      "label": "Section 5.3.813c",
+      "chapter": null,
+      "original": "Sic .",
+      "translation": "Just so ."
+    },
+    {
+      "id": "5.3.813d",
+      "label": "Section 5.3.813d",
+      "chapter": null,
+      "original": "Ire igitur tibi licet , Nausistrata .",
+      "translation": "You may go then , Nausistrata ."
+    },
+    {
+      "id": "5.3.814",
+      "label": "Section 5.3.814",
+      "chapter": null,
+      "original": "Sic pol commodius esse in omnes arbitror quam ut coeperas ,",
+      "translation": "I ’ faith , I think it better for all that she should remain here as it is ,"
+    },
+    {
+      "id": "5.3.815",
+      "label": "Section 5.3.815",
+      "chapter": null,
+      "original": "Mancre hanc ; nam perliberalis visa est quum vidi mihi .",
+      "translation": "than as you first intended ; for she seemed to me a very genteel person when I saw her ."
+    },
+    {
+      "id": "5.3.816",
+      "label": "Section 5.3.816",
+      "chapter": null,
+      "original": "Quid istuc negoti est ?",
+      "translation": "What is the meaning of all this ?"
+    },
+    {
+      "id": "5.3.816b",
+      "label": "Section 5.3.816b",
+      "chapter": null,
+      "original": "Iamne operuit ostium ?",
+      "translation": "Has she shut the door yet ?"
+    },
+    {
+      "id": "5.3.816c",
+      "label": "Section 5.3.816c",
+      "chapter": null,
+      "original": "Iam .",
+      "translation": "Now she has ."
+    },
+    {
+      "id": "5.3.816d",
+      "label": "Section 5.3.816d",
+      "chapter": null,
+      "original": "O Iupiter ,",
+      "translation": "O Jupiter ! the Gods do befriend us ; I have found that it is my daughter married to your son ."
+    },
+    {
+      "id": "5.3.817b",
+      "label": "Section 5.3.817b",
+      "chapter": null,
+      "original": "Hem ,",
+      "translation": "Ha ! How can that possibly be ?"
+    },
+    {
+      "id": "5.3.818b",
+      "label": "Section 5.3.818b",
+      "chapter": null,
+      "original": "Non satis tutus est ad narrandum hic locus .",
+      "translation": "This spot is not exactly suited for me to tell it you ."
+    },
+    {
+      "id": "5.3.819",
+      "label": "Section 5.3.819",
+      "chapter": null,
+      "original": "At tu abi intro .",
+      "translation": "Well then , step in-doors ."
+    },
+    {
+      "id": "5.3.819b",
+      "label": "Section 5.3.819b",
+      "chapter": null,
+      "original": "Heus , ne filii quidem nostri hoc resciscant volo .",
+      "translation": "Hark , you , I don ’ t wish our sons even to come to know of this ."
+    },
+    {
+      "id": "5.4.820",
+      "label": "Section 5.4.820",
+      "chapter": null,
+      "original": "Laetus sum , ut meae res sese habent , fratri obtigisse quod vult .",
+      "translation": "I ’ m glad that , however my own affairs go , my brother has succeeded in his wishes . How wise it is to cherish desires of that nature in the mind , that when things run counter , you may easily find a cure for them ! He has both got the money , and released himself from care ; I , by no method , can extricate myself from these troubles ;"
+    },
+    {
+      "id": "5.4.825",
+      "label": "Section 5.4.825",
+      "chapter": null,
+      "original": "Quin , si hoc celetur , in metu , sin patefit , ill probro sim .",
+      "translation": "on the contrary , if the matter is concealed , I am in dread — but if disclosed , in disgrace . Neither should I now go home , were not a hope still presented me of retaining her . But where , I wonder , can I find Geta , that I may ask him what opportunity he would recommend me to take for meeting my father ?"
+    },
+    {
+      "id": "5.5.829",
+      "label": "Section 5.5.829",
+      "chapter": null,
+      "original": "Argentum accepi ; tradidi lenoni ; abduxi mulierem ;",
+      "translation": "I received the money ; handed it over to the Procurer ; brought away the woman ,"
+    },
+    {
+      "id": "5.5.830",
+      "label": "Section 5.5.830",
+      "chapter": null,
+      "original": "Curavi propria ea Phaedria ut poteretur ; nam emissa est manu .",
+      "translation": "that Phaedria might have her as his own — for she has now become free . Now there is one thing still remaining for me to manage ,— to get a respite from the old gentlemen for carousing ; for I ’ ll enjoy myself the next few days ."
+    },
+    {
+      "id": "5.5.833",
+      "label": "Section 5.5.833",
+      "chapter": null,
+      "original": "Sed Phormio est . Quid ais ?",
+      "translation": "But here ’ s Phormio . ( Going up to him .) What have you to say ?"
+    },
+    {
+      "id": "5.5.833b",
+      "label": "Section 5.5.833b",
+      "chapter": null,
+      "original": "Quid ?",
+      "translation": "About what ?"
+    },
+    {
+      "id": "5.5.833c",
+      "label": "Section 5.5.833c",
+      "chapter": null,
+      "original": "Quidnam nunc facturus Phaedria ?",
+      "translation": "Why — what ’ s Phaedria going to do now ? In what way does he say that he intends to take his fill of love ?"
+    },
+    {
+      "id": "5.5.835",
+      "label": "Section 5.5.835",
+      "chapter": null,
+      "original": "Vicissim partes tuas acturus est .",
+      "translation": "In his turn , he ’ s going to act your part ."
+    },
+    {
+      "id": "5.5.835b",
+      "label": "Section 5.5.835b",
+      "chapter": null,
+      "original": "Quas ?",
+      "translation": "What part ?"
+    },
+    {
+      "id": "5.5.835c",
+      "label": "Section 5.5.835c",
+      "chapter": null,
+      "original": "Ut fugitet patrem .",
+      "translation": "To run away from his father ; he begs that you in your return will act on his behalf — to plead his cause for him . For he ’ s going to carouse at my house . I shall tell the old man that I ’ m going to Sunium , to the fair , to purchase the female servant that Geta mentioned a while since , so that , when they don ’ t see me here , they mayn ’ t suppose that I ’ m squandering their money ."
+    },
+    {
+      "id": "5.5.840",
+      "label": "Section 5.5.840",
+      "chapter": null,
+      "original": "Sed ostium concrepuit abs te .",
+      "translation": "But there is a noise at the door of your house ."
+    },
+    {
+      "id": "5.5.840b",
+      "label": "Section 5.5.840b",
+      "chapter": null,
+      "original": "Vide quis egrediatur .",
+      "translation": "See who ’ s coming out ."
+    },
+    {
+      "id": "5.5.840c",
+      "label": "Section 5.5.840c",
+      "chapter": null,
+      "original": "Geta est .",
+      "translation": "It ’ s Geta ."
+    },
+    {
+      "id": "5.6.841",
+      "label": "Section 5.6.841",
+      "chapter": null,
+      "original": "O Fortuna , O Fors fortuna , quantis commoditatibus",
+      "translation": "O fortune ! O good luck ! [*] with blessings how great , how suddenly hast thou loaded this day with thy favors to my master Antipho !—"
+    },
+    {
+      "id": "5.6.843",
+      "label": "Section 5.6.843",
+      "chapter": null,
+      "original": "Quidnam hic sibi vult ?",
+      "translation": "I wonder what it is he means ."
+    },
+    {
+      "id": "5.6.843b",
+      "label": "Section 5.6.843b",
+      "chapter": null,
+      "original": "nosque amicos eius exonerastis metu !",
+      "translation": "And relieved us , his friends , from alarm ; but I ’ m now delaying , in not throwing my cloak [*] over my shoulder ( throws it over his shoulder ) ,"
+    },
+    {
+      "id": "5.6.845",
+      "label": "Section 5.6.845",
+      "chapter": null,
+      "original": "Atque hominem propero invenire , ut haec quae contigerint sciat .",
+      "translation": "and making haste to find him , that he may know what has happened ."
+    },
+    {
+      "id": "5.6.846",
+      "label": "Section 5.6.846",
+      "chapter": null,
+      "original": "Num tu intelligis hic quid narret ?",
+      "translation": "Do you understand what he ’ s talking about ?"
+    },
+    {
+      "id": "5.6.846b",
+      "label": "Section 5.6.846b",
+      "chapter": null,
+      "original": "Num tu ?",
+      "translation": "Do you ?"
+    },
+    {
+      "id": "5.6.846c",
+      "label": "Section 5.6.846c",
+      "chapter": null,
+      "original": "Nihil .",
+      "translation": "Not at all ."
+    },
+    {
+      "id": "5.6.846d",
+      "label": "Section 5.6.846d",
+      "chapter": null,
+      "original": "Tantundem ego .",
+      "translation": "And I just as much ."
+    },
+    {
+      "id": "5.6.847",
+      "label": "Section 5.6.847",
+      "chapter": null,
+      "original": "Ad lenonem hinc ire pergam : ibi nunc sunt .",
+      "translation": "I ’ ll be off hence to the Procurer ’ s ; they are there just now . ( Runs along .)"
+    },
+    {
+      "id": "5.6.847b",
+      "label": "Section 5.6.847b",
+      "chapter": null,
+      "original": "Heus Geta .",
+      "translation": "Halloo ! Geta !"
+    },
+    {
+      "id": "5.6.847c",
+      "label": "Section 5.6.847c",
+      "chapter": null,
+      "original": "Hem tibi .",
+      "translation": "There ’ s for you . Is it any thing new or wonderful to be called back , directly you ’ ve started ?"
+    },
+    {
+      "id": "5.6.848b",
+      "label": "Section 5.6.848b",
+      "chapter": null,
+      "original": "Geta .",
+      "translation": "Geta !"
+    },
+    {
+      "id": "5.6.849",
+      "label": "Section 5.6.849",
+      "chapter": null,
+      "original": "Pergit hercle . Nunquam tu odio tuo me vines .",
+      "translation": "Do you persist ? Troth , you shall not on this occasion get the better of me by your annoyance ."
+    },
+    {
+      "id": "5.6.849b",
+      "label": "Section 5.6.849b",
+      "chapter": null,
+      "original": "Non manes ?",
+      "translation": "Won ’ t you stop ?"
+    },
+    {
+      "id": "5.6.850",
+      "label": "Section 5.6.850",
+      "chapter": null,
+      "original": "Vapula .",
+      "translation": "You ’ ll be getting a beating ."
+    },
+    {
+      "id": "5.6.850b",
+      "label": "Section 5.6.850b",
+      "chapter": null,
+      "original": "Id quidem tibi iam fiet , nisi resistis , verbero .",
+      "translation": "Assuredly that will befall yourself just now unless you stop , you whip-knave ."
+    },
+    {
+      "id": "5.6.851",
+      "label": "Section 5.6.851",
+      "chapter": null,
+      "original": "Familiariorem oportet esse hunc : minitatur malum .",
+      "translation": "This must be some one pretty familiar , threatening me with a beating . ( Turns round .) But is it the person I ’ m in search of or not ? ’ Tis the very man ! Up to him at once ."
+    },
+    {
+      "id": "5.6.852b",
+      "label": "Section 5.6.852b",
+      "chapter": null,
+      "original": "Congredere actutum .",
+      "translation": "What ’ s the matter ?"
+    },
+    {
+      "id": "5.6.852c",
+      "label": "Section 5.6.852c",
+      "chapter": null,
+      "original": "Quid est ?",
+      "translation": "O being most blessed of all men living ! For without question , Antipho , you are the only favorite of the Gods ."
+    },
+    {
+      "id": "5.6.853",
+      "label": "Section 5.6.853",
+      "chapter": null,
+      "original": "O omnium quantum est qui vivunt hominum homo ornatissime !",
+      "translation": "So I could wish ; but I should like to be told why I ’ m to believe it is so ."
+    },
+    {
+      "id": "5.6.856",
+      "label": "Section 5.6.856",
+      "chapter": null,
+      "original": "Satin est si te delibutum gaudio reddo ?",
+      "translation": "Is it enough if I plunge you into a sea of joy ?"
+    },
+    {
+      "id": "5.6.856b",
+      "label": "Section 5.6.856b",
+      "chapter": null,
+      "original": "Enicas .",
+      "translation": "You are worrying me to death ."
+    },
+    {
+      "id": "5.6.857",
+      "label": "Section 5.6.857",
+      "chapter": null,
+      "original": "Quin tu hinc pollicitationes aufer , et quod fers cedo .",
+      "translation": "Nay but do have done with your promises , and tell us what you bring ."
+    },
+    {
+      "id": "5.6.857b",
+      "label": "Section 5.6.857b",
+      "chapter": null,
+      "original": "Oh ,",
+      "translation": "Oh , are you here too , Phormio ?"
+    },
+    {
+      "id": "5.6.858b",
+      "label": "Section 5.6.858b",
+      "chapter": null,
+      "original": "Aderam : sed cessas ?",
+      "translation": "I am : but why do you delay ?"
+    },
+    {
+      "id": "5.6.858c",
+      "label": "Section 5.6.858c",
+      "chapter": null,
+      "original": "Accipe , hem ,",
+      "translation": "Listen , then . When we just now paid you the money at the Forum , we went straight"
+    },
+    {
+      "id": "5.6.860",
+      "label": "Section 5.6.860",
+      "chapter": null,
+      "original": "Sumus profecti : interea mittit herus me ad uxorem tuam .",
+      "translation": "to Chremes ; in the mean time , my master sent me to your wife ."
+    },
+    {
+      "id": "5.6.861",
+      "label": "Section 5.6.861",
+      "chapter": null,
+      "original": "Quamobrem ?",
+      "translation": "What for ?"
+    }
+  ],
+  "prevChunkSlug": "phormio-homr20-12",
+  "nextChunkSlug": "phormio-homr20-14"
+}

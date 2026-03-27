@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-amphitryon-the-comedy-of-asses-the-pot-of-gold-the-two-bacchises-the-captives-najy9a",
+  "volumeTitle": "Amphitryon. The Comedy of Asses. The Pot of Gold. The Two Bacchises. The Captives",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-pot-of-gold-12wtur-7",
+  "label": "The Pot of Gold (Section 4.4.638 - Section 4.10.732b)",
+  "partId": "the-pot-of-gold-12wtur",
+  "partTitle": "The Pot of Gold",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Aulularia",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi003.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Aulularia, or The Concealed Treasure",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi003.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "4.4.638",
+      "label": "Section 4.4.638",
+      "chapter": null,
+      "original": "Pone hoc sis , aufer cavillam , non ego nunc nugas ago .",
+      "translation": "Put that down , please ; cease your quibbling ; I ’ m not trifling now ."
+    },
+    {
+      "id": "4.4.639",
+      "label": "Section 4.4.639",
+      "chapter": null,
+      "original": "Quid ego ponam ? quin tu eloquere quidquid est suo nomine .",
+      "translation": "What am I to put down ? Why don ’ t you mention it , whatever it is , by its own name ?"
+    },
+    {
+      "id": "4.4.640",
+      "label": "Section 4.4.640",
+      "chapter": null,
+      "original": "non hercle equidem quicquam sumpsi nec tetigi .",
+      "translation": "By my faith , I really have neither taken nor touched anything ."
+    },
+    {
+      "id": "4.4.640b",
+      "label": "Section 4.4.640b",
+      "chapter": null,
+      "original": "Ostende huc manus .",
+      "translation": "Show me your hands , here ."
+    },
+    {
+      "id": "4.4.641",
+      "label": "Section 4.4.641",
+      "chapter": null,
+      "original": "Em tibi , ostendi , eccas .",
+      "translation": "Well , I do show them ; see , here they are ."
+    },
+    {
+      "id": "4.4.641b",
+      "label": "Section 4.4.641b",
+      "chapter": null,
+      "original": "Video . age ostende etiam tertiam .",
+      "translation": "I see them . Come , show me the third [*] , as well ."
+    },
+    {
+      "id": "4.4.642",
+      "label": "Section 4.4.642",
+      "chapter": null,
+      "original": "Laruae hunc atque intemperiae insaniaeque agitant senem .",
+      "translation": "Sprites , and frenzy , and madness , possess this old fellow . Are you doing me an injustice , or not ?"
+    },
+    {
+      "id": "4.4.643b",
+      "label": "Section 4.4.643b",
+      "chapter": null,
+      "original": "Fateor , quia non pendes , maximam .",
+      "translation": "A very great one , I confess , inasmuch as you are not strung up ; and that too shall be done this moment , un less you do confess ."
+    },
+    {
+      "id": "4.4.644b",
+      "label": "Section 4.4.644b",
+      "chapter": null,
+      "original": "Quid fatear tibi ?",
+      "translation": "What am I to confess to you ?"
+    },
+    {
+      "id": "4.4.645",
+      "label": "Section 4.4.645",
+      "chapter": null,
+      "original": "Quid abstulisti hinc ?",
+      "translation": "What it was you took away hence ."
+    },
+    {
+      "id": "4.4.645b",
+      "label": "Section 4.4.645b",
+      "chapter": null,
+      "original": "Di me perdant . si ego tui quicquam abstuli",
+      "translation": "May the Gods confound me , if I ’ ve taken away anything of yours , ( aside ) and if I don ’ t wish I had taken it away ."
+    },
+    {
+      "id": "4.4.646b",
+      "label": "Section 4.4.646b",
+      "chapter": null,
+      "original": "Agedum , excutedum pallium .",
+      "translation": "Come then , shake out your cloak ."
+    },
+    {
+      "id": "4.4.647",
+      "label": "Section 4.4.647",
+      "chapter": null,
+      "original": "Tuo arbitratu .",
+      "translation": "At your pleasure ."
+    },
+    {
+      "id": "4.4.647b",
+      "label": "Section 4.4.647b",
+      "chapter": null,
+      "original": "Ne inter tunicas habeas .",
+      "translation": "You haven ’ t it among your under-clothing ?"
+    },
+    {
+      "id": "4.4.647c",
+      "label": "Section 4.4.647c",
+      "chapter": null,
+      "original": "Tempta qua lubet .",
+      "translation": "Search where you please ."
+    },
+    {
+      "id": "4.4.648",
+      "label": "Section 4.4.648",
+      "chapter": null,
+      "original": "Vah , scelestus quam benigne : ut ne abstulisse intellegam .",
+      "translation": "Pshaw ! how civilly the rascal speaks , that I mayn ’ t suppose he has taken it away ! I know your tricks . Come , show me here again that right hand ."
+    },
+    {
+      "id": "4.4.650b",
+      "label": "Section 4.4.650b",
+      "chapter": null,
+      "original": "Em .",
+      "translation": "Here it is ."
+    },
+    {
+      "id": "4.4.650c",
+      "label": "Section 4.4.650c",
+      "chapter": null,
+      "original": "Nunc laevam ostende .",
+      "translation": "Now show me your left ."
+    },
+    {
+      "id": "4.4.650d",
+      "label": "Section 4.4.650d",
+      "chapter": null,
+      "original": "Quin equidem ambas profero .",
+      "translation": "Well , then , I show you both , in fact ."
+    },
+    {
+      "id": "4.4.651",
+      "label": "Section 4.4.651",
+      "chapter": null,
+      "original": "Iam scrutari mitto . redde huc .",
+      "translation": "Now I leave off searching . Give back that here ."
+    },
+    {
+      "id": "4.4.651b",
+      "label": "Section 4.4.651b",
+      "chapter": null,
+      "original": "Quid reddam ?",
+      "translation": "Give back what ?"
+    },
+    {
+      "id": "4.4.651c",
+      "label": "Section 4.4.651c",
+      "chapter": null,
+      "original": "A , nugas agis ,",
+      "translation": "Are you trifling with me ? You certainly have got it ."
+    },
+    {
+      "id": "4.4.652b",
+      "label": "Section 4.4.652b",
+      "chapter": null,
+      "original": "Habeo ego ? quid habeo ?",
+      "translation": "I , got it ? Got what ?"
+    },
+    {
+      "id": "4.4.652c",
+      "label": "Section 4.4.652c",
+      "chapter": null,
+      "original": "Non dico , audire expetis .",
+      "translation": "I shan ’ t say ; you want to hear . Whatever you have of mine , give it back ."
+    },
+    {
+      "id": "4.4.653b",
+      "label": "Section 4.4.653b",
+      "chapter": null,
+      "original": "Insanis : perscrutatus es",
+      "translation": "You are mad ; you ’ ve searched me all over at your own pleasure , and yet you ’ ve found nothing of yours in my possession ."
+    },
+    {
+      "id": "4.4.655",
+      "label": "Section 4.4.655",
+      "chapter": null,
+      "original": "Máne , mane . quís illic est ? quis hic íntus alter érat tecum simul ?",
+      "translation": "Stop , stop ; who was that ? Who was the other [*] that was within here , together with yourself ? Troth , I ’ m undone ; he ’ s now rummaging about within . If I let this one go , he ’ ll escape . At last , I ’ ve now searched this one all over ; he has got nothing . Be off where you please ;"
+    },
+    {
+      "id": "4.4.658",
+      "label": "Section 4.4.658",
+      "chapter": null,
+      "original": "Iuppiter te dique perdant .",
+      "translation": "Jupiter and the Gods confound you !"
+    },
+    {
+      "id": "4.4.658b",
+      "label": "Section 4.4.658b",
+      "chapter": null,
+      "original": "Haud male egit gratias .",
+      "translation": "He returns his thanks not amiss [*] ."
+    },
+    {
+      "id": "4.4.659",
+      "label": "Section 4.4.659",
+      "chapter": null,
+      "original": "ibo intro atque illi socienno tuo iam interstringam gulam .",
+      "translation": "I ’ ll go in here now , and I ’ ll at once throttle this accomplice of yours . Will you not fly hence from my sight ? Will you away from here , or no ?"
+    },
+    {
+      "id": "4.4.660b",
+      "label": "Section 4.4.660b",
+      "chapter": null,
+      "original": "Abeo .",
+      "translation": "I ’ m off ."
+    },
+    {
+      "id": "4.4.660c",
+      "label": "Section 4.4.660c",
+      "chapter": null,
+      "original": "Cave sis † te videam .—",
+      "translation": "Take you care , please , how I see you ."
+    },
+    {
+      "id": "4.5.661",
+      "label": "Section 4.5.661",
+      "chapter": null,
+      "original": "Emortuom ego me mavelim leto malo",
+      "translation": "I would rather that I were dead outright , by a shocking death , than not lay an ambush this day for that old fellow . But he ’ ll not venture now to hide his gold here ; he ’ ll now be carrying it with him , I guess , and be changing the spot ."
+    },
+    {
+      "id": "4.5.665",
+      "label": "Section 4.5.665",
+      "chapter": null,
+      "original": "attat , foris crépuit . senex eccum aurum ecfert foras .",
+      "translation": "But hark ! there ’ s a noise at the door . ( Looking in the direction of the Temple .) See , the old fellow ’ s bringing out the gold with him ! Meanwhile , I ’ ll step aside here to the door ."
+    },
+    {
+      "id": "4.6.667",
+      "label": "Section 4.6.667",
+      "chapter": null,
+      "original": "Fide censebam maxumam multo fidem",
+      "translation": "I had thought that there was the very greatest dependence upon Faith ; very nearly had she played me a pretty trick [*] . If the raven hadn ’ t come to my assistance , to my sorrow I should have been undone ."
+    },
+    {
+      "id": "4.6.670",
+      "label": "Section 4.6.670",
+      "chapter": null,
+      "original": "nimis hercle ego illum corvom ad me veniat velim ,",
+      "translation": "Troth , I very much wish that raven would come to me which gave me the warning , that I might say something kind to him ; for I would as soon give [*] him something to eat as lose it . Now I ’ m thinking of a lonely spot where I shall hide this . The grove of Sylvanus , outside of the wall , is unfrequented ,"
+    },
+    {
+      "id": "4.6.675",
+      "label": "Section 4.6.675",
+      "chapter": null,
+      "original": "crebro salicto oppletus . ibi sumam locum .",
+      "translation": "and planted with many a willow ; there will I choose a spot . I ’ m determined to trust Sylvanus [*] , rather than Faith ."
+    },
+    {
+      "id": "4.6.677",
+      "label": "Section 4.6.677",
+      "chapter": null,
+      "original": "Euge , euge , di me salvom et servatum volunt .",
+      "translation": "Capital ! capital ! the Gods will me to be safe and preserved ! Now will I run before to that place , and climb up into some tree , and thence will I watch where the old fellow hides the gold ."
+    },
+    {
+      "id": "4.6.680",
+      "label": "Section 4.6.680",
+      "chapter": null,
+      "original": "quamquam hic manere mé erus sese iusserat ;",
+      "translation": "Although my master bade me remain here , I ’ m resolved rather to risk a mishap along with emolument ."
+    },
+    {
+      "id": "4.7.682",
+      "label": "Section 4.7.682",
+      "chapter": null,
+      "original": "Dixi tibi , mater , iuxta rem mecum tenes ,",
+      "translation": "I ’ ve told you all , mother ; as well as I do myself , you understand all about the daughter of Euclio . Now , I do entreat you , my mother , make mention of it to my uncle , and I now unask of you , mother , that which before I entreated of you , to conceal this from Megadorus ."
+    },
+    {
+      "id": "4.7.686",
+      "label": "Section 4.7.686",
+      "chapter": null,
+      "original": "Scis tute facta velle me quae tu velis ,",
+      "translation": "You know , yourself , that what you desire to be done , I desire , and I trust that I shall obtain this of my brother ; and the reason is good , if ’ tis so as you say , that in a drunken fit you debauched this damsel ."
+    },
+    {
+      "id": "4.7.690",
+      "label": "Section 4.7.690",
+      "chapter": null,
+      "original": "Egone ut te advorsum mentiar , mater mea ?",
+      "translation": "Could I , my mother , tell a falsehood in your presence ?"
+    },
+    {
+      "id": "4.7.691",
+      "label": "Section 4.7.691",
+      "chapter": null,
+      "original": "Perii , mea nutrix . obsecro te , uterum dolet .",
+      "translation": "I die , my nurse ; my pangs are coming on ! I entreat thee for thy protection , Juno Lucina [*] !"
+    },
+    {
+      "id": "4.7.692b",
+      "label": "Section 4.7.692b",
+      "chapter": null,
+      "original": "Em , mater mea ,",
+      "translation": "Ah ! my mother , I see a more convincing proof for you ; she ’ s crying aloud — she ’ s in the pangs of labour ."
+    },
+    {
+      "id": "4.7.694",
+      "label": "Section 4.7.694",
+      "chapter": null,
+      "original": "Ei hac intro mecum , gnate mi , ad fratrem meum ,",
+      "translation": "Come in-doors here , with me , my son , to my brother ,"
+    },
+    {
+      "id": "4.7.695",
+      "label": "Section 4.7.695",
+      "chapter": null,
+      "original": "ut istúc quod me oras impetratum ab eo auferam .—",
+      "translation": "that I may obtain a grant from him of that which you beg of me ."
+    },
+    {
+      "id": "4.7.696",
+      "label": "Section 4.7.696",
+      "chapter": null,
+      "original": "I , iam sequor te , mater . sed servom meum",
+      "translation": "Go ; I ’ ll follow you this instant , mother . ( EUNOMIA goes into the house .) But my servant , Strobilus , I wonder where he is , whom I ordered to wait here for me . Now I reflect with myself , if he ’ s lending me his assistance , it isn ’ t fair that I should be angry with him ."
+    },
+    {
+      "id": "4.7.700",
+      "label": "Section 4.7.700",
+      "chapter": null,
+      "original": "ibo intro , ubí de capite meo sunt comitia .—",
+      "translation": "I ’ ll go in-doors , where they are sitting in judgment [*] upon my life ."
+    },
+    {
+      "id": "4.8.701",
+      "label": "Section 4.8.701",
+      "chapter": null,
+      "original": "Picis divitiis , qui aureos montes colunt ,",
+      "translation": "I , by myself , exceed the riches of the Griffins [*] , who inhabit the golden mountains , For I ’ m unwilling to make mention of those other kings , beggarly fellows — I am the king Philip . O charming day !"
+    },
+    {
+      "id": "4.8.705",
+      "label": "Section 4.8.705",
+      "chapter": null,
+      "original": "nam ut dudum hinc abii , multo illo adveni prior",
+      "translation": "for when I went from here , just now , I arrived there much the first , and , long before , I placed myself in a tree , and thence observed where the old fellow hid the gold . When he departed thence , I let myself down from the tree , and dug up the pot full of gold . Thence , from that spot ,"
+    },
+    {
+      "id": "4.8.710",
+      "label": "Section 4.8.710",
+      "chapter": null,
+      "original": "video recipere se senem ; ille me non videt ,",
+      "translation": "I saw the old fellow betaking himself back again ; he didn ’ t see me , for I turned a little on one side , out of the path . Heyday ! here he comes himself . I ’ ll go and hide this away , at home ."
+    },
+    {
+      "id": "4.9.713",
+      "label": "Section 4.9.713",
+      "chapter": null,
+      "original": "Perii ínterii occidi . quó curram ? quo nón curram ? tene , téne . quem ? quis ?",
+      "translation": "I ’ m ruined ! I ’ m done for ! I ’ m murdered ! Whither shall I run ? Whither not run ? Stop him — stop him . Whom ? who ? I don ’ t know . I see nothing ! I ’ m going blindfold ; and , in fact , whither I am going , or where I am , or who I am ,"
+    },
+    {
+      "id": "4.9.715",
+      "label": "Section 4.9.715",
+      "chapter": null,
+      "original": "nequeó cum animo certum ínvestigare . óbsecro vos ego , mi aúxilio ,",
+      "translation": "I can ’ t in my mind find out for certain . ( To the AUDIENCE .) I beseech you , give me your aid ( I beg and entreat of you ), and point me out the person that has taken it away . What ’ s the matter ? Why do you laugh ? I ’ m acquainted with you all ; I know that there are many thieves here , who conceal themselves with white clothes and chalk [*] , and sit as though they were honest ! ( To one of the SPECTATORS .) What say you ? You I ’ m resolved to believe ; for I perceive , even by your looks , that you are honest ."
+    },
+    {
+      "id": "4.9.720",
+      "label": "Section 4.9.720",
+      "chapter": null,
+      "original": "hem , némo habet horum ? occídisti . dic ígitur , quis habet ? néscis ?",
+      "translation": "Well then , none of these has got it ? You ’ ve been the death of me ! Tell me , then , who has got it ? You don ’ t know ? Oh , wretched , wretched me ! I ’ m done for ! wofully undone ! In most sorry plight I go ; so much groaning , and misfortune , and sorrow , has this day brought upon me , hunger and poverty , too . I ’ m the most utterly ruined of all men upon the earth ! For what need of life have I , who have"
+    },
+    {
+      "id": "4.9.725",
+      "label": "Section 4.9.725",
+      "chapter": null,
+      "original": "animúmque meum geniúmque meum ; nunc eó alii laetíficantur",
+      "translation": "lost so much gold that I so carefully watched ? I pinched myself , and my inclinations , and my very heart [*] ! Now others are rejoicing at this , my loss and my misfortune ! I cannot endure it ."
+    },
+    {
+      "id": "4.9.727",
+      "label": "Section 4.9.727",
+      "chapter": null,
+      "original": "Quínam homo hic ante aédis nostras éiulans conquéritur maerens ?",
+      "translation": "What person , I wonder , is this before our house lamenting , and that utters complaints with his moaning ? Why , surely , this is Euclio , as I imagine . I ’ m utterly undone ! The thing ’ s all out ; he knows now , as I suppose , that his daughter is brought to bed . I ’ m in a state of uncertainty now"
+    },
+    {
+      "id": "4.9.730",
+      "label": "Section 4.9.730",
+      "chapter": null,
+      "original": "abeam an maneam , an adeam an fugiam . quid agam édepol nescio .",
+      "translation": "what I shall do , whether go or remain , accost him or fly ."
+    },
+    {
+      "id": "4.10.731",
+      "label": "Section 4.10.731",
+      "chapter": null,
+      "original": "Quís homo hic loquitur ?",
+      "translation": "What person is it that speaks there ?"
+    },
+    {
+      "id": "4.10.731b",
+      "label": "Section 4.10.731b",
+      "chapter": null,
+      "original": "Égo sum miser .",
+      "translation": "’ Tis I , wretch that I am ."
+    },
+    {
+      "id": "4.10.731c",
+      "label": "Section 4.10.731c",
+      "chapter": null,
+      "original": "Immo égo sum , et misere pérditus ,",
+      "translation": "Yes , and so am I , and wretchedly ruined , whose lot is misfortune so great and sorrow ."
+    },
+    {
+      "id": "4.10.732b",
+      "label": "Section 4.10.732b",
+      "chapter": null,
+      "original": "Animo bono es .",
+      "translation": "Be of good courage ."
+    }
+  ],
+  "prevChunkSlug": "the-pot-of-gold-12wtur-6",
+  "nextChunkSlug": "the-pot-of-gold-12wtur-8"
+}

@@ -1,0 +1,151 @@
+{
+  "loebNumber": 31,
+  "sortOrder": 31,
+  "slug": "suetonius-lives-of-the-caesars-volume-i-10k8ia",
+  "title": "Lives of the Caesars, Volume I",
+  "volumeLabel": "Lives of the Caesars, Volume I",
+  "authorDisplay": "Suetonius",
+  "authors": [
+    "Suetonius"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for Lives of the Caesars, Volume I. Lives of the Caesars, Volume I opens a closest available slice of Suetonius on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "tiberius-wjtrql",
+  "readyChunkCount": 4,
+  "contents": [
+    {
+      "id": "lives-of-the-caesars-volume-i-13v9tp",
+      "title": "Lives of the Caesars, Volume I",
+      "status": "ready",
+      "sectionCount": 239,
+      "chunkSlug": "tiberius-wjtrql",
+      "chunks": [
+        {
+          "slug": "tiberius-wjtrql",
+          "label": "Tiberius",
+          "partId": "lives-of-the-caesars-volume-i-13v9tp",
+          "partTitle": "Lives of the Caesars, Volume I",
+          "sectionCount": 76,
+          "status": "ready"
+        },
+        {
+          "slug": "caligula-1x7ijt",
+          "label": "Caligula",
+          "partId": "lives-of-the-caesars-volume-i-13v9tp",
+          "partTitle": "Lives of the Caesars, Volume I",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "divus-claudius-1pjn2m",
+          "label": "Divus Claudius",
+          "partId": "lives-of-the-caesars-volume-i-13v9tp",
+          "partTitle": "Lives of the Caesars, Volume I",
+          "sectionCount": 46,
+          "status": "ready"
+        },
+        {
+          "slug": "nero-1fyok",
+          "label": "Nero",
+          "partId": "lives-of-the-caesars-volume-i-13v9tp",
+          "partTitle": "Lives of the Caesars, Volume I",
+          "sectionCount": 57,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "tiberius-wjtrql",
+      "label": "Tiberius",
+      "partId": "lives-of-the-caesars-volume-i-13v9tp",
+      "partTitle": "Lives of the Caesars, Volume I",
+      "sectionCount": 76,
+      "status": "ready"
+    },
+    {
+      "slug": "caligula-1x7ijt",
+      "label": "Caligula",
+      "partId": "lives-of-the-caesars-volume-i-13v9tp",
+      "partTitle": "Lives of the Caesars, Volume I",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "divus-claudius-1pjn2m",
+      "label": "Divus Claudius",
+      "partId": "lives-of-the-caesars-volume-i-13v9tp",
+      "partTitle": "Lives of the Caesars, Volume I",
+      "sectionCount": 46,
+      "status": "ready"
+    },
+    {
+      "slug": "nero-1fyok",
+      "label": "Nero",
+      "partId": "lives-of-the-caesars-volume-i-13v9tp",
+      "partTitle": "Lives of the Caesars, Volume I",
+      "sectionCount": 57,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "tiberius-wjtrql",
+      "partTitle": "Lives of the Caesars, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Tiberius",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1348.abo013.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Tiberius",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1348.abo013.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "caligula-1x7ijt",
+      "partTitle": "Lives of the Caesars, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Caligula",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1348.abo014.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "C. Caligula",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1348.abo014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "divus-claudius-1pjn2m",
+      "partTitle": "Lives of the Caesars, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Divus Claudius",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1348.abo015.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Claudius",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1348.abo015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "nero-1fyok",
+      "partTitle": "Lives of the Caesars, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Nero",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1348.abo016.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Nero",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1348.abo016.perseus-eng2/"
+      }
+    }
+  ]
+}

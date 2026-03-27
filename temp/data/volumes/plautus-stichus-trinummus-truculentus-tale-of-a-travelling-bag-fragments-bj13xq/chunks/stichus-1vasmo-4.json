@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-stichus-trinummus-truculentus-tale-of-a-travelling-bag-fragments-bj13xq",
+  "volumeTitle": "Stichus. Trinummus. Truculentus. Tale of a Travelling Bag. Fragments",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "stichus-1vasmo-4",
+  "label": "Stichus (Section 2.2.330c - Section 2.2.374b)",
+  "partId": "stichus-1vasmo",
+  "partTitle": "Stichus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Stichus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi018.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Stichus, or The Parasite Rebuffed",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi018.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "2.2.330c",
+      "label": "Section 2.2.330c",
+      "chapter": null,
+      "original": "Úbi is est ?",
+      "translation": "Where is he ?"
+    },
+    {
+      "id": "2.2.331",
+      "label": "Section 2.2.331",
+      "chapter": null,
+      "original": "Réspice ad me et relínque egentem párasitum , Panégyris .",
+      "translation": "Attend to me , and leave alone that needy Parasite , Philumena ."
+    },
+    {
+      "id": "2.2.332",
+      "label": "Section 2.2.332",
+      "chapter": null,
+      "original": "Pinacium .",
+      "translation": "Pinacium ."
+    },
+    {
+      "id": "2.2.332b",
+      "label": "Section 2.2.332b",
+      "chapter": null,
+      "original": "Istuc indiderunt nomen maiores mihi .",
+      "translation": "That name my elders gave me ."
+    },
+    {
+      "id": "2.2.333",
+      "label": "Section 2.2.333",
+      "chapter": null,
+      "original": "Quid agis ?",
+      "translation": "What ’ s your business"
+    },
+    {
+      "id": "2.2.333b",
+      "label": "Section 2.2.333b",
+      "chapter": null,
+      "original": "Quid agam rogitas ?",
+      "translation": "What ’ s my business , do you ask ?"
+    },
+    {
+      "id": "2.2.333c",
+      "label": "Section 2.2.333c",
+      "chapter": null,
+      "original": "Quidni rogitem ?",
+      "translation": "Why shouldn ’ t I ask it ?"
+    },
+    {
+      "id": "2.2.333d",
+      "label": "Section 2.2.333d",
+      "chapter": null,
+      "original": "Quid mecum est tibi ?",
+      "translation": "What ’ s yours with me ?"
+    },
+    {
+      "id": "2.2.334",
+      "label": "Section 2.2.334",
+      "chapter": null,
+      "original": "Mein fastidis , propudiose ? eloquere propere , Pinacium .",
+      "translation": "Do you insult me , impudent fellow ? Answer me , this very instant , Pinacium ."
+    },
+    {
+      "id": "2.2.335",
+      "label": "Section 2.2.335",
+      "chapter": null,
+      "original": "Iube me omittere igitur hos , qui retinent .",
+      "translation": "Bid those , then , to let me alone , who are detaining me ."
+    },
+    {
+      "id": "2.2.335b",
+      "label": "Section 2.2.335b",
+      "chapter": null,
+      "original": "Qui retinent ?",
+      "translation": "Who are detaining you ?"
+    },
+    {
+      "id": "2.2.335c",
+      "label": "Section 2.2.335c",
+      "chapter": null,
+      "original": "Rogas ?",
+      "translation": "Do you ask me that ? A lassitude is in possession of all my limbs ."
+    },
+    {
+      "id": "2.2.336b",
+      "label": "Section 2.2.336b",
+      "chapter": null,
+      "original": "Linguam quidem",
+      "translation": "Well , I know right well that it ’ s not in possession of your tongue ."
+    },
+    {
+      "id": "2.2.337b",
+      "label": "Section 2.2.337b",
+      "chapter": null,
+      "original": "Ita celeri curriculo fui",
+      "translation": "With such rapid speed have I been hastening from the harbour , for the sake of your own well-doing ."
+    },
+    {
+      "id": "2.2.338b",
+      "label": "Section 2.2.338b",
+      "chapter": null,
+      "original": "Ecquid adportas boni ?",
+      "translation": "Why , do you bring any good news ?"
+    },
+    {
+      "id": "2.2.339",
+      "label": "Section 2.2.339",
+      "chapter": null,
+      "original": "Nimio † inparti multo tanto plus quam speras .",
+      "translation": "I bring more , by very much , than you expect ."
+    },
+    {
+      "id": "2.2.339b",
+      "label": "Section 2.2.339b",
+      "chapter": null,
+      "original": "Salva sum .",
+      "translation": "I ’ m saved , then ."
+    },
+    {
+      "id": "2.2.340",
+      "label": "Section 2.2.340",
+      "chapter": null,
+      "original": "At ego perii , quoi medullam lassitudo perbibit .",
+      "translation": "And I ’ m done for ; lassitude is drinking up my marrow apace ."
+    },
+    {
+      "id": "2.2.341",
+      "label": "Section 2.2.341",
+      "chapter": null,
+      "original": "Quid ego , quoi misero medullam ventris percepit fames .",
+      "translation": "What , then , am I , the marrow of whose stomach , to my sorrow , famine has seized upon ?"
+    },
+    {
+      "id": "2.2.342",
+      "label": "Section 2.2.342",
+      "chapter": null,
+      "original": "Ecquem convenisti ?",
+      "translation": "Did you meet any one ?"
+    },
+    {
+      "id": "2.2.342b",
+      "label": "Section 2.2.342b",
+      "chapter": null,
+      "original": "Multos .",
+      "translation": "Many ."
+    },
+    {
+      "id": "2.2.342c",
+      "label": "Section 2.2.342c",
+      "chapter": null,
+      "original": "At virum ?",
+      "translation": "But any man ?"
+    },
+    {
+      "id": "2.2.342d",
+      "label": "Section 2.2.342d",
+      "chapter": null,
+      "original": "Equidem plurimos :",
+      "translation": "Very many ; but , of the many , not one a greater rascal than he is ."
+    },
+    {
+      "id": "2.2.343b",
+      "label": "Section 2.2.343b",
+      "chapter": null,
+      "original": "Quo modo ?",
+      "translation": "How so ?"
+    },
+    {
+      "id": "2.2.344",
+      "label": "Section 2.2.344",
+      "chapter": null,
+      "original": "iam dudum ego ístum patior dicere iniuste mihi .",
+      "translation": "I have been affronted already at his saying uncivil things to me . If you irritate me any further —"
+    },
+    {
+      "id": "2.2.345b",
+      "label": "Section 2.2.345b",
+      "chapter": null,
+      "original": "Edepol essuries male .",
+      "translation": "I ’ faith , you ’ ll be plaguy hungry to eat me ."
+    },
+    {
+      "id": "2.2.346",
+      "label": "Section 2.2.346",
+      "chapter": null,
+      "original": "Animum inducam , ut istuc verum te elocutum esse arbitrer .",
+      "translation": "I ’ ll cause you to know that assuredly you ’ ve said that with reason ."
+    },
+    {
+      "id": "2.2.347",
+      "label": "Section 2.2.347",
+      "chapter": null,
+      "original": "Munditias volo fieri . ecferte huc scopas simulque harundinem ,",
+      "translation": "I wish everything to be made clean . ( Calls to the SERVANTS from the door .) Bring out here your brooms , and a reed as well , [*] that I may destroy all the labours of the spiders and their plaguy webs , and rout out all their looms ."
+    },
+    {
+      "id": "2.2.349b",
+      "label": "Section 2.2.349b",
+      "chapter": null,
+      "original": "Miseri algebunt postea .",
+      "translation": "The poor things will be cold in future ."
+    },
+    {
+      "id": "2.2.350",
+      "label": "Section 2.2.350",
+      "chapter": null,
+      "original": "Quid ? illos itidemne esse censes quasi te , cum veste unica ?",
+      "translation": "What ? Do you think that they are just like yourself , with only one coat ? Take this broom ."
+    },
+    {
+      "id": "2.2.351b",
+      "label": "Section 2.2.351b",
+      "chapter": null,
+      "original": "Cápiam .",
+      "translation": "I ’ ll take it ."
+    },
+    {
+      "id": "2.2.351c",
+      "label": "Section 2.2.351c",
+      "chapter": null,
+      "original": "Hoc egomet , tu hoc converre .",
+      "translation": "This I ’ ll take myself . Do you sweep away there ."
+    },
+    {
+      "id": "2.2.351d",
+      "label": "Section 2.2.351d",
+      "chapter": null,
+      "original": "Ego fecero .",
+      "translation": "I ’ ll do so ."
+    },
+    {
+      "id": "2.2.352",
+      "label": "Section 2.2.352",
+      "chapter": null,
+      "original": "Ecquis huc effert nassiternam cúm aqua ?",
+      "translation": "Will some one bring here a pail and water [*] ?"
+    },
+    {
+      "id": "2.2.352b",
+      "label": "Section 2.2.352b",
+      "chapter": null,
+      "original": "Sine suffragio",
+      "translation": "Really , this fellow ’ s playing the Aedile [*] without the vote of the public even ."
+    },
+    {
+      "id": "2.2.353b",
+      "label": "Section 2.2.353b",
+      "chapter": null,
+      "original": "Age tu ocius",
+      "translation": "Come , do you quickly sweep the ground , and sprinkle before the house ."
+    },
+    {
+      "id": "2.2.354b",
+      "label": "Section 2.2.354b",
+      "chapter": null,
+      "original": "Faciam .",
+      "translation": "I ’ ll do so ."
+    },
+    {
+      "id": "2.2.354c",
+      "label": "Section 2.2.354c",
+      "chapter": null,
+      "original": "Factum oportuit .",
+      "translation": "It needs be done ."
+    },
+    {
+      "id": "2.2.355",
+      "label": "Section 2.2.355",
+      "chapter": null,
+      "original": "ego hinc araneas de foribus deiciam et de pariete .",
+      "translation": "I ’ ll knock down the spider-webs there from the door and from the wall ."
+    },
+    {
+      "id": "2.2.356",
+      "label": "Section 2.2.356",
+      "chapter": null,
+      "original": "Edepol rem negotiosam .",
+      "translation": "I ’ faith , a troublesome business , this ."
+    },
+    {
+      "id": "2.2.356b",
+      "label": "Section 2.2.356b",
+      "chapter": null,
+      "original": "Quid sit , nil etiam scio ,",
+      "translation": "Still , I don ’ t at all understand what it means ; unless , perchance , some guests are about to come ?"
+    },
+    {
+      "id": "2.2.357b",
+      "label": "Section 2.2.357b",
+      "chapter": null,
+      "original": "Vos lectos sternite .",
+      "translation": "Do you spread the couches ."
+    },
+    {
+      "id": "2.2.358",
+      "label": "Section 2.2.358",
+      "chapter": null,
+      "original": "Principium placet de lectis .",
+      "translation": "The beginning pleases me , about the couches ."
+    },
+    {
+      "id": "2.2.358b",
+      "label": "Section 2.2.358b",
+      "chapter": null,
+      "original": "Alii ligna caedite ,",
+      "translation": "Others , you chop the billets ; others , you clean the fish which the fisherman has brought ;"
+    },
+    {
+      "id": "2.2.360",
+      "label": "Section 2.2.360",
+      "chapter": null,
+      "original": "pernam et glandium deicite .",
+      "translation": "take you down the gammon of bacon and the collar of brawn [*] ."
+    },
+    {
+      "id": "2.2.360b",
+      "label": "Section 2.2.360b",
+      "chapter": null,
+      "original": "Hic hercle homo nimium sapit .",
+      "translation": "I ’ faith , this is a very sensible fellow ."
+    },
+    {
+      "id": "2.2.361",
+      "label": "Section 2.2.361",
+      "chapter": null,
+      "original": "Non ecastor , ut ego opinor , satis erae morem geris .",
+      "translation": "By my troth , as I imagine , you haven ’ t quite minded the directions of your mistress ."
+    },
+    {
+      "id": "2.2.362",
+      "label": "Section 2.2.362",
+      "chapter": null,
+      "original": "Immo res omnis relictas habeo prae quod tu velis .",
+      "translation": "Why , I ’ ve left all matters unattended to by reason of what you wished ."
+    },
+    {
+      "id": "2.2.363",
+      "label": "Section 2.2.363",
+      "chapter": null,
+      "original": "Tum tu igitur , qua causa missus es ad portum , id expedi .",
+      "translation": "Then do you inform me upon that , on account of which you were sent to the harbour ?"
+    },
+    {
+      "id": "2.2.364",
+      "label": "Section 2.2.364",
+      "chapter": null,
+      "original": "Dicam . postquam me misisti ad portum , cum luci simul ,",
+      "translation": "I ’ ll tell you . After , with the daybreak , you had sent me to the harbour ,"
+    },
+    {
+      "id": "2.2.365",
+      "label": "Section 2.2.365",
+      "chapter": null,
+      "original": "commodum radiosus sese sol superabat ex mari .",
+      "translation": "the sun with its beams opportunely arose from out of the sea . While I was enquiring of the revenue officers whether any ship had arrived from Asia , and they were saying none had come , I beheld , in the meantime , a bark , than which I think I never saw a greater one . With a favouring breeze , and in full sail , it came into harbour ."
+    },
+    {
+      "id": "2.2.370",
+      "label": "Section 2.2.370",
+      "chapter": null,
+      "original": "alius alium percontamur : quoiast navis ? quid vehit ?",
+      "translation": "We were enquiring one of another whose ship it was , and what it carried ? In the meantime I espied your husband and his servant Stichus ."
+    },
+    {
+      "id": "2.2.372",
+      "label": "Section 2.2.372",
+      "chapter": null,
+      "original": "Hem quid ? Epignomum elocutu'selocutus es ?",
+      "translation": "Ha ! what ? Did you mention Epignomus ?"
+    },
+    {
+      "id": "2.2.372b",
+      "label": "Section 2.2.372b",
+      "chapter": null,
+      "original": "Tuom virum .",
+      "translation": "Your husband"
+    },
+    {
+      "id": "2.2.372c",
+      "label": "Section 2.2.372c",
+      "chapter": null,
+      "original": "Et vitam meam .",
+      "translation": "and my own life ."
+    },
+    {
+      "id": "2.2.373",
+      "label": "Section 2.2.373",
+      "chapter": null,
+      "original": "Venit inquam .",
+      "translation": "He has arrived , I say ."
+    },
+    {
+      "id": "2.2.373b",
+      "label": "Section 2.2.373b",
+      "chapter": null,
+      "original": "Tutin ipsus ipsum vidisti ?",
+      "translation": "Did you see him yourself ?"
+    },
+    {
+      "id": "2.2.373c",
+      "label": "Section 2.2.373c",
+      "chapter": null,
+      "original": "Lubens .",
+      "translation": "Yes , and with pleasure too ."
+    },
+    {
+      "id": "2.2.374",
+      "label": "Section 2.2.374",
+      "chapter": null,
+      "original": "argentí aurique advexit nimium .",
+      "translation": "He has brought a great amount of silver and gold ."
+    },
+    {
+      "id": "2.2.374b",
+      "label": "Section 2.2.374b",
+      "chapter": null,
+      "original": "Nimis factum bene .",
+      "translation": "’ Tis right cleverly done ."
+    }
+  ],
+  "prevChunkSlug": "stichus-1vasmo-3",
+  "nextChunkSlug": "stichus-1vasmo-5"
+}

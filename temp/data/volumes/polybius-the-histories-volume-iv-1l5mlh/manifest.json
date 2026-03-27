@@ -1,0 +1,61 @@
+{
+  "loebNumber": 159,
+  "sortOrder": 159,
+  "slug": "polybius-the-histories-volume-iv-1l5mlh",
+  "title": "The Histories, Volume IV",
+  "volumeLabel": "The Histories, Volume IV",
+  "authorDisplay": "Polybius",
+  "authors": [
+    "Polybius"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for The Histories, Volume IV. The Histories, Volume IV currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "the-histories-volume-iv-1ven0u",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "the-histories-volume-iv-1ven0u",
+      "title": "The Histories, Volume IV",
+      "status": "ready",
+      "sectionCount": 38,
+      "chunkSlug": "the-histories-volume-iv-1ven0u",
+      "chunks": [
+        {
+          "slug": "the-histories-volume-iv-1ven0u",
+          "label": "The Histories, Volume IV",
+          "partId": "the-histories-volume-iv-1ven0u",
+          "partTitle": "The Histories, Volume IV",
+          "sectionCount": 38,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "the-histories-volume-iv-1ven0u",
+      "label": "The Histories, Volume IV",
+      "partId": "the-histories-volume-iv-1ven0u",
+      "partTitle": "The Histories, Volume IV",
+      "sectionCount": 38,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "the-histories-volume-iv-1ven0u",
+      "partTitle": "The Histories, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἱστορίαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0543.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Histories",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0543.tlg001.perseus-eng2/"
+      }
+    }
+  ]
+}

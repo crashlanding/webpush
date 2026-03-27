@@ -1,0 +1,709 @@
+{
+  "loebNumber": 146,
+  "sortOrder": 146,
+  "slug": "aeschylus-oresteia-agamemnon-libation-bearers-eumenides-ycx6u4",
+  "title": "Oresteia: Agamemnon. Libation-Bearers. Eumenides",
+  "volumeLabel": "Oresteia: Agamemnon. Libation-Bearers. Eumenides",
+  "authorDisplay": "Aeschylus",
+  "authors": [
+    "Aeschylus"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Oresteia: Agamemnon. Libation-Bearers. Eumenides, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "oresteia-agamemnon-gdm51v-1",
+  "readyChunkCount": 22,
+  "contents": [
+    {
+      "id": "oresteia-agamemnon-gdm51v",
+      "title": "Oresteia: Agamemnon",
+      "status": "ready",
+      "sectionCount": 515,
+      "chunkSlug": "oresteia-agamemnon-gdm51v-1",
+      "chunks": [
+        {
+          "slug": "oresteia-agamemnon-gdm51v-1",
+          "label": "Oresteia: Agamemnon (Section 1 - Section 6.248)",
+          "partId": "oresteia-agamemnon-gdm51v",
+          "partTitle": "Oresteia: Agamemnon",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "oresteia-agamemnon-gdm51v-2",
+          "label": "Oresteia: Agamemnon (Section 6.250 - Section 3.456)",
+          "partId": "oresteia-agamemnon-gdm51v",
+          "partTitle": "Oresteia: Agamemnon",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "oresteia-agamemnon-gdm51v-3",
+          "label": "Oresteia: Agamemnon (Section 3.460 - Section 634)",
+          "partId": "oresteia-agamemnon-gdm51v",
+          "partTitle": "Oresteia: Agamemnon",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "oresteia-agamemnon-gdm51v-4",
+          "label": "Oresteia: Agamemnon (Section 635 - Section 887)",
+          "partId": "oresteia-agamemnon-gdm51v",
+          "partTitle": "Oresteia: Agamemnon",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "oresteia-agamemnon-gdm51v-5",
+          "label": "Oresteia: Agamemnon (Section 890 - Section 1.1072)",
+          "partId": "oresteia-agamemnon-gdm51v",
+          "partTitle": "Oresteia: Agamemnon",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "oresteia-agamemnon-gdm51v-6",
+          "label": "Oresteia: Agamemnon (Section 1.1074 - Section 1220)",
+          "partId": "oresteia-agamemnon-gdm51v",
+          "partTitle": "Oresteia: Agamemnon",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "oresteia-agamemnon-gdm51v-7",
+          "label": "Oresteia: Agamemnon (Section 1225 - Section 1372)",
+          "partId": "oresteia-agamemnon-gdm51v",
+          "partTitle": "Oresteia: Agamemnon",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "oresteia-agamemnon-gdm51v-8",
+          "label": "Oresteia: Agamemnon (Section 1375 - Section 1580)",
+          "partId": "oresteia-agamemnon-gdm51v",
+          "partTitle": "Oresteia: Agamemnon",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "oresteia-agamemnon-gdm51v-9",
+          "label": "Oresteia: Agamemnon (Section 1585 - Section 1671)",
+          "partId": "oresteia-agamemnon-gdm51v",
+          "partTitle": "Oresteia: Agamemnon",
+          "sectionCount": 35,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "libation-bearers-v51dkl",
+      "title": "Libation-Bearers",
+      "status": "ready",
+      "sectionCount": 389,
+      "chunkSlug": "libation-bearers-v51dkl-1",
+      "chunks": [
+        {
+          "slug": "libation-bearers-v51dkl-1",
+          "label": "Libation-Bearers (Section 1 - Section 170)",
+          "partId": "libation-bearers-v51dkl",
+          "partTitle": "Libation-Bearers",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "libation-bearers-v51dkl-2",
+          "label": "Libation-Bearers (Section 171 - Section 340)",
+          "partId": "libation-bearers-v51dkl",
+          "partTitle": "Libation-Bearers",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "libation-bearers-v51dkl-3",
+          "label": "Libation-Bearers (Section 3.345 - Section 496)",
+          "partId": "libation-bearers-v51dkl",
+          "partTitle": "Libation-Bearers",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "libation-bearers-v51dkl-4",
+          "label": "Libation-Bearers (Section 497 - Section 674)",
+          "partId": "libation-bearers-v51dkl",
+          "partTitle": "Libation-Bearers",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "libation-bearers-v51dkl-5",
+          "label": "Libation-Bearers (Section 675 - Section 851)",
+          "partId": "libation-bearers-v51dkl",
+          "partTitle": "Libation-Bearers",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "libation-bearers-v51dkl-6",
+          "label": "Libation-Bearers (Section 855 - Section 985)",
+          "partId": "libation-bearers-v51dkl",
+          "partTitle": "Libation-Bearers",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "libation-bearers-v51dkl-7",
+          "label": "Libation-Bearers (Section 990 - Section 1075)",
+          "partId": "libation-bearers-v51dkl",
+          "partTitle": "Libation-Bearers",
+          "sectionCount": 29,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "eumenides-1avx0c",
+      "title": "Eumenides",
+      "status": "ready",
+      "sectionCount": 355,
+      "chunkSlug": "eumenides-1avx0c-1",
+      "chunks": [
+        {
+          "slug": "eumenides-1avx0c-1",
+          "label": "Eumenides (Section 1 - Section 203)",
+          "partId": "eumenides-1avx0c",
+          "partTitle": "Eumenides",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "eumenides-1avx0c-2",
+          "label": "Eumenides (Section 204 - Section 3.377)",
+          "partId": "eumenides-1avx0c",
+          "partTitle": "Eumenides",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "eumenides-1avx0c-3",
+          "label": "Eumenides (Section 3.380 - Section 4.555)",
+          "partId": "eumenides-1avx0c",
+          "partTitle": "Eumenides",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "eumenides-1avx0c-4",
+          "label": "Eumenides (Section 4.558 - Section 695)",
+          "partId": "eumenides-1avx0c",
+          "partTitle": "Eumenides",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "eumenides-1avx0c-5",
+          "label": "Eumenides (Section 700 - Section 2.890)",
+          "partId": "eumenides-1avx0c",
+          "partTitle": "Eumenides",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "eumenides-1avx0c-6",
+          "label": "Eumenides (Section 892 - Section 2.1045)",
+          "partId": "eumenides-1avx0c",
+          "partTitle": "Eumenides",
+          "sectionCount": 55,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "oresteia-agamemnon-gdm51v-1",
+      "label": "Oresteia: Agamemnon (Section 1 - Section 6.248)",
+      "partId": "oresteia-agamemnon-gdm51v",
+      "partTitle": "Oresteia: Agamemnon",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "oresteia-agamemnon-gdm51v-2",
+      "label": "Oresteia: Agamemnon (Section 6.250 - Section 3.456)",
+      "partId": "oresteia-agamemnon-gdm51v",
+      "partTitle": "Oresteia: Agamemnon",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "oresteia-agamemnon-gdm51v-3",
+      "label": "Oresteia: Agamemnon (Section 3.460 - Section 634)",
+      "partId": "oresteia-agamemnon-gdm51v",
+      "partTitle": "Oresteia: Agamemnon",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "oresteia-agamemnon-gdm51v-4",
+      "label": "Oresteia: Agamemnon (Section 635 - Section 887)",
+      "partId": "oresteia-agamemnon-gdm51v",
+      "partTitle": "Oresteia: Agamemnon",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "oresteia-agamemnon-gdm51v-5",
+      "label": "Oresteia: Agamemnon (Section 890 - Section 1.1072)",
+      "partId": "oresteia-agamemnon-gdm51v",
+      "partTitle": "Oresteia: Agamemnon",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "oresteia-agamemnon-gdm51v-6",
+      "label": "Oresteia: Agamemnon (Section 1.1074 - Section 1220)",
+      "partId": "oresteia-agamemnon-gdm51v",
+      "partTitle": "Oresteia: Agamemnon",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "oresteia-agamemnon-gdm51v-7",
+      "label": "Oresteia: Agamemnon (Section 1225 - Section 1372)",
+      "partId": "oresteia-agamemnon-gdm51v",
+      "partTitle": "Oresteia: Agamemnon",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "oresteia-agamemnon-gdm51v-8",
+      "label": "Oresteia: Agamemnon (Section 1375 - Section 1580)",
+      "partId": "oresteia-agamemnon-gdm51v",
+      "partTitle": "Oresteia: Agamemnon",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "oresteia-agamemnon-gdm51v-9",
+      "label": "Oresteia: Agamemnon (Section 1585 - Section 1671)",
+      "partId": "oresteia-agamemnon-gdm51v",
+      "partTitle": "Oresteia: Agamemnon",
+      "sectionCount": 35,
+      "status": "ready"
+    },
+    {
+      "slug": "libation-bearers-v51dkl-1",
+      "label": "Libation-Bearers (Section 1 - Section 170)",
+      "partId": "libation-bearers-v51dkl",
+      "partTitle": "Libation-Bearers",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "libation-bearers-v51dkl-2",
+      "label": "Libation-Bearers (Section 171 - Section 340)",
+      "partId": "libation-bearers-v51dkl",
+      "partTitle": "Libation-Bearers",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "libation-bearers-v51dkl-3",
+      "label": "Libation-Bearers (Section 3.345 - Section 496)",
+      "partId": "libation-bearers-v51dkl",
+      "partTitle": "Libation-Bearers",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "libation-bearers-v51dkl-4",
+      "label": "Libation-Bearers (Section 497 - Section 674)",
+      "partId": "libation-bearers-v51dkl",
+      "partTitle": "Libation-Bearers",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "libation-bearers-v51dkl-5",
+      "label": "Libation-Bearers (Section 675 - Section 851)",
+      "partId": "libation-bearers-v51dkl",
+      "partTitle": "Libation-Bearers",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "libation-bearers-v51dkl-6",
+      "label": "Libation-Bearers (Section 855 - Section 985)",
+      "partId": "libation-bearers-v51dkl",
+      "partTitle": "Libation-Bearers",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "libation-bearers-v51dkl-7",
+      "label": "Libation-Bearers (Section 990 - Section 1075)",
+      "partId": "libation-bearers-v51dkl",
+      "partTitle": "Libation-Bearers",
+      "sectionCount": 29,
+      "status": "ready"
+    },
+    {
+      "slug": "eumenides-1avx0c-1",
+      "label": "Eumenides (Section 1 - Section 203)",
+      "partId": "eumenides-1avx0c",
+      "partTitle": "Eumenides",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "eumenides-1avx0c-2",
+      "label": "Eumenides (Section 204 - Section 3.377)",
+      "partId": "eumenides-1avx0c",
+      "partTitle": "Eumenides",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "eumenides-1avx0c-3",
+      "label": "Eumenides (Section 3.380 - Section 4.555)",
+      "partId": "eumenides-1avx0c",
+      "partTitle": "Eumenides",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "eumenides-1avx0c-4",
+      "label": "Eumenides (Section 4.558 - Section 695)",
+      "partId": "eumenides-1avx0c",
+      "partTitle": "Eumenides",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "eumenides-1avx0c-5",
+      "label": "Eumenides (Section 700 - Section 2.890)",
+      "partId": "eumenides-1avx0c",
+      "partTitle": "Eumenides",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "eumenides-1avx0c-6",
+      "label": "Eumenides (Section 892 - Section 2.1045)",
+      "partId": "eumenides-1avx0c",
+      "partTitle": "Eumenides",
+      "sectionCount": 55,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "oresteia-agamemnon-gdm51v-1",
+      "partTitle": "Oresteia: Agamemnon",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀγαμέμνων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg005.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Agamemnon",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg005.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "oresteia-agamemnon-gdm51v-2",
+      "partTitle": "Oresteia: Agamemnon",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀγαμέμνων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg005.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Agamemnon",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg005.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "oresteia-agamemnon-gdm51v-3",
+      "partTitle": "Oresteia: Agamemnon",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀγαμέμνων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg005.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Agamemnon",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg005.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "oresteia-agamemnon-gdm51v-4",
+      "partTitle": "Oresteia: Agamemnon",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀγαμέμνων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg005.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Agamemnon",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg005.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "oresteia-agamemnon-gdm51v-5",
+      "partTitle": "Oresteia: Agamemnon",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀγαμέμνων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg005.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Agamemnon",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg005.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "oresteia-agamemnon-gdm51v-6",
+      "partTitle": "Oresteia: Agamemnon",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀγαμέμνων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg005.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Agamemnon",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg005.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "oresteia-agamemnon-gdm51v-7",
+      "partTitle": "Oresteia: Agamemnon",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀγαμέμνων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg005.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Agamemnon",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg005.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "oresteia-agamemnon-gdm51v-8",
+      "partTitle": "Oresteia: Agamemnon",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀγαμέμνων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg005.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Agamemnon",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg005.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "oresteia-agamemnon-gdm51v-9",
+      "partTitle": "Oresteia: Agamemnon",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀγαμέμνων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg005.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Agamemnon",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg005.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "libation-bearers-v51dkl-1",
+      "partTitle": "Libation-Bearers",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Χοηφóρoι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg006.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Libation Bearers",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg006.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "libation-bearers-v51dkl-2",
+      "partTitle": "Libation-Bearers",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Χοηφóρoι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg006.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Libation Bearers",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg006.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "libation-bearers-v51dkl-3",
+      "partTitle": "Libation-Bearers",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Χοηφóρoι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg006.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Libation Bearers",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg006.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "libation-bearers-v51dkl-4",
+      "partTitle": "Libation-Bearers",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Χοηφóρoι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg006.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Libation Bearers",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg006.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "libation-bearers-v51dkl-5",
+      "partTitle": "Libation-Bearers",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Χοηφóρoι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg006.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Libation Bearers",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg006.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "libation-bearers-v51dkl-6",
+      "partTitle": "Libation-Bearers",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Χοηφóρoι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg006.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Libation Bearers",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg006.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "libation-bearers-v51dkl-7",
+      "partTitle": "Libation-Bearers",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Χοηφóρoι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg006.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Libation Bearers",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg006.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "eumenides-1avx0c-1",
+      "partTitle": "Eumenides",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Εὐμενίδες",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg007.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Eumenides",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg007.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "eumenides-1avx0c-2",
+      "partTitle": "Eumenides",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Εὐμενίδες",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg007.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Eumenides",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg007.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "eumenides-1avx0c-3",
+      "partTitle": "Eumenides",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Εὐμενίδες",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg007.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Eumenides",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg007.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "eumenides-1avx0c-4",
+      "partTitle": "Eumenides",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Εὐμενίδες",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg007.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Eumenides",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg007.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "eumenides-1avx0c-5",
+      "partTitle": "Eumenides",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Εὐμενίδες",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg007.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Eumenides",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg007.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "eumenides-1avx0c-6",
+      "partTitle": "Eumenides",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Εὐμενίδες",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg007.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Eumenides",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg007.perseus-eng2/"
+      }
+    }
+  ]
+}

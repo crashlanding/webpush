@@ -1,0 +1,190 @@
+{
+  "loebNumber": 56,
+  "sortOrder": 56,
+  "slug": "pindar-olympian-odes-pythian-odes-1mns43",
+  "title": "Olympian Odes. Pythian Odes",
+  "volumeLabel": "Olympian Odes. Pythian Odes",
+  "authorDisplay": "Pindar",
+  "authors": [
+    "Pindar"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Olympian Odes. Pythian Odes, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "olympian-odes-z7higc-1",
+  "readyChunkCount": 5,
+  "contents": [
+    {
+      "id": "olympian-odes-z7higc",
+      "title": "Olympian Odes",
+      "status": "ready",
+      "sectionCount": 128,
+      "chunkSlug": "olympian-odes-z7higc-1",
+      "chunks": [
+        {
+          "slug": "olympian-odes-z7higc-1",
+          "label": "Olympian Odes (Section 1.1 - Section 7.1)",
+          "partId": "olympian-odes-z7higc",
+          "partTitle": "Olympian Odes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "olympian-odes-z7higc-2",
+          "label": "Olympian Odes (Section 7.5 - Section 13.24)",
+          "partId": "olympian-odes-z7higc",
+          "partTitle": "Olympian Odes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "olympian-odes-z7higc-3",
+          "label": "Olympian Odes (Section 13.25 - Section 14.20)",
+          "partId": "olympian-odes-z7higc",
+          "partTitle": "Olympian Odes",
+          "sectionCount": 8,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "pythian-odes-6wp2ru",
+      "title": "Pythian Odes",
+      "status": "ready",
+      "sectionCount": 114,
+      "chunkSlug": "pythian-odes-6wp2ru-1",
+      "chunks": [
+        {
+          "slug": "pythian-odes-6wp2ru-1",
+          "label": "Pythian Odes (Section 1.1 - Section 7.9)",
+          "partId": "pythian-odes-6wp2ru",
+          "partTitle": "Pythian Odes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pythian-odes-6wp2ru-2",
+          "label": "Pythian Odes (Section 7.10 - Section 12.30)",
+          "partId": "pythian-odes-6wp2ru",
+          "partTitle": "Pythian Odes",
+          "sectionCount": 54,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "olympian-odes-z7higc-1",
+      "label": "Olympian Odes (Section 1.1 - Section 7.1)",
+      "partId": "olympian-odes-z7higc",
+      "partTitle": "Olympian Odes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "olympian-odes-z7higc-2",
+      "label": "Olympian Odes (Section 7.5 - Section 13.24)",
+      "partId": "olympian-odes-z7higc",
+      "partTitle": "Olympian Odes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "olympian-odes-z7higc-3",
+      "label": "Olympian Odes (Section 13.25 - Section 14.20)",
+      "partId": "olympian-odes-z7higc",
+      "partTitle": "Olympian Odes",
+      "sectionCount": 8,
+      "status": "ready"
+    },
+    {
+      "slug": "pythian-odes-6wp2ru-1",
+      "label": "Pythian Odes (Section 1.1 - Section 7.9)",
+      "partId": "pythian-odes-6wp2ru",
+      "partTitle": "Pythian Odes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pythian-odes-6wp2ru-2",
+      "label": "Pythian Odes (Section 7.10 - Section 12.30)",
+      "partId": "pythian-odes-6wp2ru",
+      "partTitle": "Pythian Odes",
+      "sectionCount": 54,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "olympian-odes-z7higc-1",
+      "partTitle": "Olympian Odes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὀλυμπιονῖκαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0033.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Olympian Odes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0033.tlg001.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "olympian-odes-z7higc-2",
+      "partTitle": "Olympian Odes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὀλυμπιονῖκαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0033.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Olympian Odes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0033.tlg001.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "olympian-odes-z7higc-3",
+      "partTitle": "Olympian Odes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὀλυμπιονῖκαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0033.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Olympian Odes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0033.tlg001.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pythian-odes-6wp2ru-1",
+      "partTitle": "Pythian Odes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πυθιονῖκαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0033.tlg002.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pythian Odes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0033.tlg002.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "pythian-odes-6wp2ru-2",
+      "partTitle": "Pythian Odes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πυθιονῖκαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0033.tlg002.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Pythian Odes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0033.tlg002.perseus-eng3/"
+      }
+    }
+  ]
+}

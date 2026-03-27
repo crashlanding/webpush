@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-helen-phoenician-women-orestes-18fbzk",
+  "volumeTitle": "Helen. Phoenician Women. Orestes",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "phoenician-women-u9p4q-2",
+  "label": "Phoenician Women (Section 171b - Section 379)",
+  "partId": "phoenician-women-u9p4q",
+  "partTitle": "Phoenician Women",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Φοίνισσαι",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "The Phoenician Maidens",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "171b",
+      "label": "Section 171b",
+      "chapter": null,
+      "original": "οὗτος δʼ , ὦ γεραιέ , τίς κυρεῖ ,",
+      "translation": "Who is that , old man , on his chariot , driving white horses ?"
+    },
+    {
+      "id": "173",
+      "label": "Section 173",
+      "chapter": null,
+      "original": "ὁ μάντις Ἀμφιάραος , ὦ δέσποινʼ , ὅδε ·",
+      "translation": "That , lady , is the prophet Amphiaraus ; with him are the victims , earth ’ s bloodthirsty streams ."
+    },
+    {
+      "id": "175",
+      "label": "Section 175",
+      "chapter": null,
+      "original": "ὦ λιπαροζώνου θύγατερ Ἀελίου",
+      "translation": "Daughter of the sun with dazzling zone , O moon , you circle of golden light , how quietly , with what restraint he drives , goading first one horse , then the other ! But where is the one who utters those dreadful insults against this city ?"
+    },
+    {
+      "id": "180",
+      "label": "Section 180",
+      "chapter": null,
+      "original": "Καπανεύς ; ἐκεῖνος προσβάσεις τεκμαίρεται",
+      "translation": "Capaneus ? There he is , calculating how he may scale the towers , taking the measure of our walls up and down ."
+    },
+    {
+      "id": "182",
+      "label": "Section 182",
+      "chapter": null,
+      "original": "ἰώ ,",
+      "translation": "O Nemesis , and roaring thunder-peals of Zeus and blazing lightning-bolts , oh ! put to sleep his presumptuous boasting !"
+    },
+    {
+      "id": "185",
+      "label": "Section 185",
+      "chapter": null,
+      "original": "ὅδʼ ἐστίν , αἰχμαλώτιδας",
+      "translation": "This is the man who says he will give the Theban girls as captives of his spear to the women of Mycenae , to Lerna ’ s trident , and the waters of Amymone , dear to Poseidon , when he has them enslaved ."
+    },
+    {
+      "id": "190",
+      "label": "Section 190",
+      "chapter": null,
+      "original": "μήποτε μήποτε τάνδʼ , ὦ πότνια ,",
+      "translation": "Never , never , Lady Artemis , golden-haired child of Zeus , may I endure that slavery ."
+    },
+    {
+      "id": "193",
+      "label": "Section 193",
+      "chapter": null,
+      "original": "ὦ τέκνον , ἔσβα δῶμα καὶ κατὰ στέγας",
+      "translation": "My child , go inside , and stay beneath the shelter of your maiden chamber , now that you have had"
+    },
+    {
+      "id": "195",
+      "label": "Section 195",
+      "chapter": null,
+      "original": "ἐς τέρψιν ἦλθες ὧν ἔχρῃζες εἰσιδεῖν .",
+      "translation": "your wish and seen all that you wanted ; for a crowd of women is coming toward the royal palace , as confusion enters the city . Now women by nature love scandal ; and if they get some slight handle for their gossip"
+    },
+    {
+      "id": "200",
+      "label": "Section 200",
+      "chapter": null,
+      "original": "πλείους ἐπεσφέρουσιν · ἡδονὴ δέ τις",
+      "translation": "they exaggerate it , for women seem to have pleasure in saying nothing wholesome about each other . Exeunt Antigone and the old servant ."
+    },
+    {
+      "id": "1.202",
+      "label": "Section 1.202",
+      "chapter": null,
+      "original": "Τύριον οἶδμα λιποῦσʼ ἔβαν",
+      "translation": "From the Tyrian swell of the sea I came , a choice offering for Loxias from the island of Phoenicia ,"
+    },
+    {
+      "id": "1.205",
+      "label": "Section 1.205",
+      "chapter": null,
+      "original": "Φοίβῳ δούλα μελάθρων ,",
+      "translation": "to be a slave to Phoebus in his halls , where he dwells under the snow-swept peaks of Parnassus ; through the Ionian sea I sailed in the waves ,"
+    },
+    {
+      "id": "1.210",
+      "label": "Section 1.210",
+      "chapter": null,
+      "original": "ὑπὲρ ἀκαρπίστων πεδίων",
+      "translation": "over the unharvested plains , in the gusts of Zephyrus that ride from Sicily , sweetest music in the sky ."
+    },
+    {
+      "id": "1.214",
+      "label": "Section 1.214",
+      "chapter": null,
+      "original": "πόλεος ἐκπροκριθεῖσʼ ἐμᾶς",
+      "translation": "Chosen from my city"
+    },
+    {
+      "id": "1.215",
+      "label": "Section 1.215",
+      "chapter": null,
+      "original": "καλλιστεύματα Λοξίᾳ",
+      "translation": "as beauty ’ s gift for Loxias , to the land of Cadmus I came , sent here to the towers of Laius , the home of my kin , the famous sons of Agenor ."
+    },
+    {
+      "id": "1.220",
+      "label": "Section 1.220",
+      "chapter": null,
+      "original": "ἴσα δʼ ἀγάλμασι χρυσοτεύ-",
+      "translation": "And I became the handmaid of Phoebus , dedicated like his statues of wrought gold . But the water of Castalia is still waiting for me to drench the maiden glory of my hair"
+    },
+    {
+      "id": "1.225",
+      "label": "Section 1.225",
+      "chapter": null,
+      "original": "Φοιβείαισι λατρείαις .",
+      "translation": "for the service of Phoebus ."
+    },
+    {
+      "id": "226",
+      "label": "Section 226",
+      "chapter": null,
+      "original": "ἰὼ λάμπουσα πέτρα πυρὸς",
+      "translation": "Hail , rock that lights up a double-crested flash of fire above the frenzied heights of Dionysus ; and the vine , that every day"
+    },
+    {
+      "id": "230",
+      "label": "Section 230",
+      "chapter": null,
+      "original": "στάζεις τὸν πολύκαρπον",
+      "translation": "lets fall the lush cluster of grapes ; and the holy cavern of the serpent and the gods ’ watchtower on the hills , and the sacred snow-swept mountain !"
+    },
+    {
+      "id": "235",
+      "label": "Section 235",
+      "chapter": null,
+      "original": "λίσσων ἀθανάτας θεοῦ",
+      "translation": "Would I were free of fear and circling in the dance of the deathless god , having left Dirce for the valleys of Phoebus at the center of the world ."
+    },
+    {
+      "id": "2.239",
+      "label": "Section 2.239",
+      "chapter": null,
+      "original": "νῦν δέ μοι πρὸ τειχέων",
+      "translation": "But now I find"
+    },
+    {
+      "id": "2.240",
+      "label": "Section 2.240",
+      "chapter": null,
+      "original": "θούριος μολὼν Ἄρης",
+      "translation": "the impetuous god of war has come to battle before the walls , and is kindling a murderous blaze — may he not succeed !— for this city . For a friend ’ s pain is shared , and if this land with its seven towers"
+    },
+    {
+      "id": "2.245",
+      "label": "Section 2.245",
+      "chapter": null,
+      "original": "ἑπτάπυργος ἅδε γᾶ ,",
+      "translation": "suffers any mischance , Phoenicia ’ s realm will share it . Ah me ! our blood is one ; we are all children of Io , the horned maid ; these sorrows I claim as mine ."
+    },
+    {
+      "id": "2.250",
+      "label": "Section 2.250",
+      "chapter": null,
+      "original": "ἀμφὶ δὲ πτόλιν νέφος",
+      "translation": "Around the city a thick cloud of shields is kindling a shape of bloody battle , which Ares will soon learn , if he brings upon the sons of Oedipus"
+    },
+    {
+      "id": "2.255",
+      "label": "Section 2.255",
+      "chapter": null,
+      "original": "πημονὰν Ἐρινύων .",
+      "translation": "the curse of the Furies . O Argos , city of Pelasgia ! I dread your might , and also what comes from the gods ; for the one who approaches his home in armor is setting out to a contest"
+    },
+    {
+      "id": "2.260",
+      "label": "Section 2.260",
+      "chapter": null,
+      "original": "ὃς μετέρχεται δόμους .",
+      "translation": "that is not without justice ."
+    },
+    {
+      "id": "261",
+      "label": "Section 261",
+      "chapter": null,
+      "original": "τὰ μὲν πυλωρῶν κλῇθρά μʼ εἰσεδέξατο",
+      "translation": "The doorkeeper ’ s bolts admitted me readily within the walls , and so I fear that now they have caught me in their nets , they will not let me out unscathed ;"
+    },
+    {
+      "id": "265",
+      "label": "Section 265",
+      "chapter": null,
+      "original": "ὧν οὕνεκʼ ὄμμα πανταχῇ διοιστέον",
+      "translation": "so I must turn my eye in every direction , here and there , to guard against treachery . Armed with this sword , I shall inspire myself with the confidence that is born of boldness . Starting . Oh ! Who is that ? Or is it a sound I fear ?"
+    },
+    {
+      "id": "270",
+      "label": "Section 270",
+      "chapter": null,
+      "original": "ἅπαντα γὰρ τολμῶσι δεινὰ φαίνεται ,",
+      "translation": "Everything seems a danger to the daring , when their feet begin to tread an enemy ’ s country . Still I trust my mother , and at the same time mistrust her , the one who persuaded me to come here under truce . Well , there is help at hand , for the altar ’ s hearth"
+    },
+    {
+      "id": "275",
+      "label": "Section 275",
+      "chapter": null,
+      "original": "πέλας πάρεισι , κοὐκ ἔρημα δώματα .",
+      "translation": "is close and the house is not deserted . Come , let me sheath my sword in its dark scabbard and ask these women standing near the house , who they are ."
+    },
+    {
+      "id": "278",
+      "label": "Section 278",
+      "chapter": null,
+      "original": "ξέναι γυναῖκες , εἴπατʼ , ἐκ ποίας πάτρας",
+      "translation": "Ladies of another land , tell me from what country do you come to the halls of Hellas ?"
+    },
+    {
+      "id": "280",
+      "label": "Section 280",
+      "chapter": null,
+      "original": "Φοίνισσα μὲν γῆ πατρὶς ἡ θρέψασά με ,",
+      "translation": "Phoenicia is my native land where I was born and bred ; and the grandsons of Agenor sent me here as first-fruits of the spoil of war for Phoebus . But when the noble son of Oedipus was about to send me to the hallowed oracle and the altars of Loxias ,"
+    },
+    {
+      "id": "285",
+      "label": "Section 285",
+      "chapter": null,
+      "original": "ἐν τῷδʼ ἐπεστράτευσαν Ἀργεῖοι πόλιν .",
+      "translation": "the Argive army came against his city . Now tell me in return who you are , who have come to this fortress of the Theban land with its seven gates ."
+    },
+    {
+      "id": "288",
+      "label": "Section 288",
+      "chapter": null,
+      "original": "πατὴρ μὲν ἡμῖν Οἰδίπους ὁ Λαΐου ,",
+      "translation": "My father was Oedipus , the son of Laius ; my mother Jocasta , daughter of Menoeceus ;"
+    },
+    {
+      "id": "290",
+      "label": "Section 290",
+      "chapter": null,
+      "original": "καλεῖ δὲ Πολυνείκη με Θηβαῖος λεώς .",
+      "translation": "and I am called Polyneices by the people of Thebes ."
+    },
+    {
+      "id": "291",
+      "label": "Section 291",
+      "chapter": null,
+      "original": "ὦ συγγένεια τῶν Ἀγήνορος τέκνων ,",
+      "translation": "O kinsman of Agenor ’ s race , my royal masters who sent me here !"
+    },
+    {
+      "id": "293",
+      "label": "Section 293",
+      "chapter": null,
+      "original": "γονυπετεῖς ἕδρας προσπίτνω σʼ , ἄναξ ,",
+      "translation": "I fall to my knees before you , lord , honoring the custom of my home ."
+    },
+    {
+      "id": "295",
+      "label": "Section 295",
+      "chapter": null,
+      "original": "ἔβας ὢ χρόνῳ γᾶν πατρῴαν .",
+      "translation": "At last you have come to your native land . Hail to you ! all hail ! Lady , come from the house , open wide the gates ! Do you hear , you who gave birth to this man ? Why do you delay to leave the sheltered hall"
+    },
+    {
+      "id": "300",
+      "label": "Section 300",
+      "chapter": null,
+      "original": "θιγεῖν τʼ ὠλέναισιν τέκνου ;",
+      "translation": "and hold your son in your embrace ?"
+    },
+    {
+      "id": "301",
+      "label": "Section 301",
+      "chapter": null,
+      "original": "Φοίνισσαν βοὰν",
+      "translation": "Maidens , I hear your Phoenician voice , and my old feet drag their tottering steps . O my son ,"
+    },
+    {
+      "id": "305",
+      "label": "Section 305",
+      "chapter": null,
+      "original": "χρόνῳ σὸν ὄμμα μυρίαις τʼ ἐν ἁμέραις",
+      "translation": "at last after countless days I see your face ; throw your arms about your mother ’ s breast , stretch out to me your cheeks and the dark , curly locks of your hair , overshadowing my neck ."
+    },
+    {
+      "id": "310",
+      "label": "Section 310",
+      "chapter": null,
+      "original": "ἰὼ ἰώ , μόλις φανεὶς",
+      "translation": "Hail to you ! all hail ! scarcely here in your mother ’ s arms , beyond hope and expectation . What can I say to you ? How in every way , by hands , by words , in the mazy delight"
+    },
+    {
+      "id": "315",
+      "label": "Section 315",
+      "chapter": null,
+      "original": "ἐκεῖσε καὶ τὸ δεῦρο",
+      "translation": "of the dance , shall I find the pleasure of my former joy ? Ah ! my son , you left your father ’ s house desolate , when your brother ’ s outrage drove you away in exile ."
+    },
+    {
+      "id": "320",
+      "label": "Section 320",
+      "chapter": null,
+      "original": "ἦ ποθεινὸς φίλοις ,",
+      "translation": "Truly you were missed alike by your friends and Thebes . And so I cut my white hair and let it fall for grief , in tears , not clad in robes of white , my son ,"
+    },
+    {
+      "id": "325",
+      "label": "Section 325",
+      "chapter": null,
+      "original": "δυσόρφναια δʼ ἀμφὶ τρύχη τάδε",
+      "translation": "but taking instead these dark rags ."
+    },
+    {
+      "id": "327",
+      "label": "Section 327",
+      "chapter": null,
+      "original": "ὁ δʼ ἐν δόμοισι πρέσβυς ὀμματοστερὴς",
+      "translation": "While in the house the old blind man , always possessed by his tearful longing for the pair of brothers estranged from the home ,"
+    },
+    {
+      "id": "330",
+      "label": "Section 330",
+      "chapter": null,
+      "original": "πόθον ἀμφιδάκρυτον ἀεὶ κατ-",
+      "translation": "rushed to kill himself with the sword or by the noose suspended over his chamber-roof , moaning his curses on his sons ;"
+    },
+    {
+      "id": "335",
+      "label": "Section 335",
+      "chapter": null,
+      "original": "σὺν ἀλαλαῖσι δʼ αἰὲν αἰαγμάτων",
+      "translation": "and now he hides himself in darkness , always weeping and lamenting . And you , my child , I hear you have married and are begetting children to your joy in a foreign home ,"
+    },
+    {
+      "id": "340",
+      "label": "Section 340",
+      "chapter": null,
+      "original": "ξένον τε κῆδος ἀμφέπειν ,",
+      "translation": "and are courting a foreign alliance , a ceaseless regret to me your mother and to Laius your ancestor , ruin brought by your marriage . I was not the one who lit for you the marriage-torch ,"
+    },
+    {
+      "id": "345",
+      "label": "Section 345",
+      "chapter": null,
+      "original": "νόμιμον ἐν γάμοις",
+      "translation": "the custom in marriage for a happy mother ; Ismenus had no part at your wedding in supplying the luxurious bath , and there was silence through the streets of Thebes , at the entrance of your bride ."
+    },
+    {
+      "id": "350",
+      "label": "Section 350",
+      "chapter": null,
+      "original": "ὄλοιτο , τάδʼ εἴτε σίδαρος",
+      "translation": "Curses on them ! whether the sword or strife or your father that is to blame , or heaven ’ s visitation that has burst riotously upon the house of Oedipus ; for on me has come all the anguish of these evils ."
+    },
+    {
+      "id": "355",
+      "label": "Section 355",
+      "chapter": null,
+      "original": "δεινὸν γυναιξὶν αἱ διʼ ὠδίνων γοναί ,",
+      "translation": "Their offspring are a wonderful thing to women ; all of them have some love for their children ."
+    },
+    {
+      "id": "357",
+      "label": "Section 357",
+      "chapter": null,
+      "original": "μῆτερ , φρονῶν εὖ κοὐ φρονῶν ἀφικόμην",
+      "translation": "Mother , I have come among enemies wisely or foolishly ; but all men must love their native land ; whoever says otherwise"
+    },
+    {
+      "id": "360",
+      "label": "Section 360",
+      "chapter": null,
+      "original": "λόγοισι χαίρει τὸν δὲ νοῦν ἐκεῖσʼ ἔχει .",
+      "translation": "is pleased to say so , but his thoughts are turned elsewhere . I was so fearful and in such terror , lest my brother should kill me by treachery , that I came through the city sword in hand , looking all round . I had one advantage ,"
+    },
+    {
+      "id": "365",
+      "label": "Section 365",
+      "chapter": null,
+      "original": "σπονδαί τε καὶ σὴ πίστις , ἥ μʼ ἐσήγαγε",
+      "translation": "the truce and your word , which brought me to to the paternal walls ; and I arrived here weeping , to see after a long time my home and the altars of the gods , the training ground , scene of my childhood , and the water of Dirce , from which I was unjustly driven to live in a foreign city ,"
+    },
+    {
+      "id": "370",
+      "label": "Section 370",
+      "chapter": null,
+      "original": "ναίω , διʼ ὄσσων νᾶμʼ ἔχων δακρύρροον .",
+      "translation": "a stream of tears flowing from my eyes . Now , grief upon grief , I see you with hair cut short and in black robes , alas for my sorrows !"
+    },
+    {
+      "id": "374",
+      "label": "Section 374",
+      "chapter": null,
+      "original": "ὡς δεινὸν ἔχθρα , μῆτερ , οἰκείων φίλων",
+      "translation": "What a terrible thing , mother , is hatred between dear friends ."
+    },
+    {
+      "id": "375",
+      "label": "Section 375",
+      "chapter": null,
+      "original": "καὶ δυσλύτους ἔχουσα τὰς διαλλαγάς .",
+      "translation": "and how hard it makes reconciliation"
+    },
+    {
+      "id": "376",
+      "label": "Section 376",
+      "chapter": null,
+      "original": "τί γὰρ πατήρ μοι πρέσβυς ἐν δόμοισι δρᾷ ,",
+      "translation": "What is my old father doing within the house , looking on darkness ? What of my two sisters ? Surely the unhappy ones lament my exile ?"
+    },
+    {
+      "id": "379",
+      "label": "Section 379",
+      "chapter": null,
+      "original": "κακῶς θεῶν τις Οἰδίπου φθείρει γένος ·",
+      "translation": "Some god with evil intent is destroying the race of Oedipus ."
+    }
+  ],
+  "prevChunkSlug": "phoenician-women-u9p4q-1",
+  "nextChunkSlug": "phoenician-women-u9p4q-3"
+}

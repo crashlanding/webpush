@@ -1,0 +1,61 @@
+{
+  "loebNumber": 39,
+  "sortOrder": 39,
+  "slug": "caesar-civil-war-1uso2y",
+  "title": "Civil War",
+  "volumeLabel": "Civil War",
+  "authorDisplay": "Caesar",
+  "authors": [
+    "Caesar"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for Civil War. Civil War is currently filled with the closest same-author Scaife text that exposes both an original-language version and an English translation.",
+  "status": "ready",
+  "defaultChunkSlug": "gallic-war-1kct54",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "civil-war-10s81r",
+      "title": "Civil War",
+      "status": "ready",
+      "sectionCount": 32,
+      "chunkSlug": "gallic-war-1kct54",
+      "chunks": [
+        {
+          "slug": "gallic-war-1kct54",
+          "label": "Gallic War",
+          "partId": "civil-war-10s81r",
+          "partTitle": "Civil War",
+          "sectionCount": 32,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "gallic-war-1kct54",
+      "label": "Gallic War",
+      "partId": "civil-war-10s81r",
+      "partTitle": "Civil War",
+      "sectionCount": 32,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "gallic-war-1kct54",
+      "partTitle": "Civil War",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Bello Gallico",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0448.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Gallic War",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0448.phi001.perseus-eng2/"
+      }
+    }
+  ]
+}

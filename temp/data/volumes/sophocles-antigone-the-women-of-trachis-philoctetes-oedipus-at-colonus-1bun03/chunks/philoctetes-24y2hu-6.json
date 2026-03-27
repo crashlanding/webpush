@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "sophocles-antigone-the-women-of-trachis-philoctetes-oedipus-at-colonus-1bun03",
+  "volumeTitle": "Antigone. The Women of Trachis. Philoctetes. Oedipus at Colonus",
+  "authorDisplay": "Sophocles",
+  "authors": [
+    "Sophocles"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "philoctetes-24y2hu-6",
+  "label": "Philoctetes (Section 782 - Section 906)",
+  "partId": "philoctetes-24y2hu",
+  "partTitle": "Philoctetes",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Φιλοκτήτης",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg006.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Philoctetes",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg006.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "782",
+      "label": "Section 782",
+      "chapter": null,
+      "original": "ἀλλʼ οὖν δέδοικα μὴ ἀτέλεστʼ εὔχῃ , τέκνον .",
+      "translation": "Futile , I fear , are your prayers , boy . Look , once again the dark blood is oozing drop by drop from deep in the wound , and I look for worse to come ."
+    },
+    {
+      "id": "785",
+      "label": "Section 785",
+      "chapter": null,
+      "original": "παπαῖ , φεῦ .",
+      "translation": "Ah , me , oh , oh ! Cursed foot , what torment you cause me ! It creeps on me , it is coming near ! Ah , misery ! Now you know my condition . Do not flee , no !"
+    },
+    {
+      "id": "790",
+      "label": "Section 790",
+      "chapter": null,
+      "original": "ἀτταταῖ .",
+      "translation": "Oh , alas ! Odysseus of Cephallene , once my friend , would that this anguish might stick to you , and pierce your chest ! Ah , me ! Ah , me ! O you twin marshalls , Agamemnon , and you , Menelaus , may your flesh instead of mine"
+    },
+    {
+      "id": "795",
+      "label": "Section 795",
+      "chapter": null,
+      "original": "τὸν ἴσον χρόνον τρέφοιτε τήνδε τὴν νόσον ; ἰώ μοι .",
+      "translation": "nourish this plague , and for as long ! Oh , Ah , me ! O Death , Death , though I am always summoning you day after day , why do you never come ? O son , noble youth , seize me ,"
+    },
+    {
+      "id": "800",
+      "label": "Section 800",
+      "chapter": null,
+      "original": "τῷ Λημνίῳ τῷδʼ ἀνακαλουμένῳ πυρὶ",
+      "translation": "burn me up , true friend , in that fire famed as Lemnian . I , too , once deemed it lawful to do that very service for the son of Zeus , in return for which I received these same arms , which are now in your keeping . What do you say , boy , what do you say ?"
+    },
+    {
+      "id": "805",
+      "label": "Section 805",
+      "chapter": null,
+      "original": "τί φής ; τί σιγᾷς ; ποῦ ποτʼ ὤν , τέκνον , κυρεῖς ;",
+      "translation": "Why this silence ? Where are your thoughts , son ?"
+    },
+    {
+      "id": "806",
+      "label": "Section 806",
+      "chapter": null,
+      "original": "ἀλγῶ πάλαι δὴ τἀπὶ σοὶ στένων κακά .",
+      "translation": "My heart has long been aching for your load of pain ."
+    },
+    {
+      "id": "807",
+      "label": "Section 807",
+      "chapter": null,
+      "original": "ἀλλʼ , ὦ τέκνον , καὶ θάρσος ἴσχʼ · ὡς ἥδε μοι",
+      "translation": "Stop , then , and take courage ; this visitor comes sharply , but goes quickly . Yet , I beg you , do not leave me alone ."
+    },
+    {
+      "id": "810",
+      "label": "Section 810",
+      "chapter": null,
+      "original": "θάρσει , μενοῦμεν .",
+      "translation": "Take heart , we will remain ."
+    },
+    {
+      "id": "810a",
+      "label": "Section 810a",
+      "chapter": null,
+      "original": "ἦ μενεῖς ;",
+      "translation": "Will you ?"
+    },
+    {
+      "id": "810b",
+      "label": "Section 810b",
+      "chapter": null,
+      "original": "σαφῶς φρόνει .",
+      "translation": "Be sure of it ."
+    },
+    {
+      "id": "811",
+      "label": "Section 811",
+      "chapter": null,
+      "original": "οὐ μήν σʼ ἔνορκόν γʼ ἀξιῶ θέσθαι , τέκνον .",
+      "translation": "Indeed , I do not think it right to put you under oath ."
+    },
+    {
+      "id": "812",
+      "label": "Section 812",
+      "chapter": null,
+      "original": "ὡς οὐ θέμις γʼ ἐμοὔστι σοῦ μολεῖν ἄτερ .",
+      "translation": "Rest assured ; it is not lawful for me to leave without you ."
+    },
+    {
+      "id": "813",
+      "label": "Section 813",
+      "chapter": null,
+      "original": "ἔμβαλλε χειρὸς πίστιν .",
+      "translation": "Give me your hand in pledge !"
+    },
+    {
+      "id": "813a",
+      "label": "Section 813a",
+      "chapter": null,
+      "original": "ἐμβάλλω μενεῖν .",
+      "translation": "I give it — to stay ."
+    },
+    {
+      "id": "814",
+      "label": "Section 814",
+      "chapter": null,
+      "original": "ἐκεῖσε νῦν μʼ , ἐκεῖσε",
+      "translation": "Now take me there , over there !"
+    },
+    {
+      "id": "814a",
+      "label": "Section 814a",
+      "chapter": null,
+      "original": "ποῖ λέγεις ;",
+      "translation": "Where do you mean ?"
+    },
+    {
+      "id": "814b",
+      "label": "Section 814b",
+      "chapter": null,
+      "original": "ἄνω",
+      "translation": "Up there !"
+    },
+    {
+      "id": "815",
+      "label": "Section 815",
+      "chapter": null,
+      "original": "τί παραφρονεῖς αὖ ; τί τὸν ἄνω λεύσσεις κύκλον ;",
+      "translation": "What is this new delirium ? Why do you gaze at the dome above us ?"
+    },
+    {
+      "id": "816",
+      "label": "Section 816",
+      "chapter": null,
+      "original": "μέθες μέθες με .",
+      "translation": "Let me go , let me go !"
+    },
+    {
+      "id": "816a",
+      "label": "Section 816a",
+      "chapter": null,
+      "original": "ποῖ μεθῶ ;",
+      "translation": "Where will you go , if I do so ?"
+    },
+    {
+      "id": "816b",
+      "label": "Section 816b",
+      "chapter": null,
+      "original": "μέθες ποτέ .",
+      "translation": "Let me go , I say !"
+    },
+    {
+      "id": "817",
+      "label": "Section 817",
+      "chapter": null,
+      "original": "οὔ φημʼ ἐάσειν .",
+      "translation": "I will not ."
+    },
+    {
+      "id": "817a",
+      "label": "Section 817a",
+      "chapter": null,
+      "original": "ἀπό μʼ ὀλεῖς , ἢν προσθίγῃς .",
+      "translation": "You will kill me , if you touch me further ."
+    },
+    {
+      "id": "818",
+      "label": "Section 818",
+      "chapter": null,
+      "original": "καὶ δὴ μεθίημʼ , εἴ τι δὴ πλέον φρονεῖς .",
+      "translation": "There , then , I release you — if in fact you believe it is for the better ."
+    },
+    {
+      "id": "819",
+      "label": "Section 819",
+      "chapter": null,
+      "original": "ὦ γαῖα , δέξαι θανάσιμόν μʼ ὅπως ἔχω",
+      "translation": "Wide Earth , embrace me now on the verge of death !"
+    },
+    {
+      "id": "820",
+      "label": "Section 820",
+      "chapter": null,
+      "original": "τὸ γὰρ κακὸν τόδʼ οὐκέτʼ ὀρθοῦσθαί μʼ ἐᾷ .",
+      "translation": "This pain no longer lets me stand up ."
+    },
+    {
+      "id": "821",
+      "label": "Section 821",
+      "chapter": null,
+      "original": "τὸν ἄνδρʼ ἔοικεν ὕπνος οὐ μακροῦ χρόνου",
+      "translation": "Sleep , I think , will take him before long . See , his head sinks backward . Yes , a sweat runs over his whole body , and a dark , hemorrhaging vein has burst from his heel ."
+    },
+    {
+      "id": "825",
+      "label": "Section 825",
+      "chapter": null,
+      "original": "αἱμορραγὴς φλέψ . ἀλλʼ ἐάσωμεν , φίλοι ,",
+      "translation": "Come , friends , let us leave him in quietness , so that he may fall asleep ."
+    },
+    {
+      "id": "1.827",
+      "label": "Section 1.827",
+      "chapter": null,
+      "original": "Ὕπνʼ ὀδύνας ἀδαής , Ὕπνε δʼ ἀλγέων ,",
+      "translation": "Divine Sleep , god who knows no pain , Sleep , stranger to anguish , come in favor to us , come happy , and giving happiness , great King !"
+    },
+    {
+      "id": "1.830",
+      "label": "Section 1.830",
+      "chapter": null,
+      "original": "ὄμμασι δʼ ἀντίσχοις",
+      "translation": "Keep before his eyes such light as is spread before them now . Come to him , I pray you , come with power to heal ! Son , consider what position you will take , and to what strategy you will next direct our course ."
+    },
+    {
+      "id": "1.835",
+      "label": "Section 1.835",
+      "chapter": null,
+      "original": "φροντίδος . ὁρᾷς ἤδη .",
+      "translation": "You see his condition now ! Why should we hesitate to act ? Opportunity , the umpire of all contests , often wins a great victory by one swift stroke ."
+    },
+    {
+      "id": "839",
+      "label": "Section 839",
+      "chapter": null,
+      "original": "ἀλλʼ ὅδε μὲν κλύει οὐδέν , ἐγὼ δʼ ὁρῶ οὕνεκα θήραν",
+      "translation": "No , even though he hears nothing , I see that"
+    },
+    {
+      "id": "840",
+      "label": "Section 840",
+      "chapter": null,
+      "original": "τήνδʼ ἁλίως ἔχομεν τόξων , δίχα τοῦδε πλέοντες .",
+      "translation": "we have made this bow our quarry to no end , if we sail without him . His must be the victor ’ s crown . It is he that the god commanded we bring . It would be a foul disgrace upon us to boast of deeds in which failure and fraud had equal parts ."
+    },
+    {
+      "id": "1.843",
+      "label": "Section 1.843",
+      "chapter": null,
+      "original": "ἀλλά , τέκνον , τάδε μὲν θεὸς ὄψεται ·",
+      "translation": "Well , the god must look to that , son . But when you answer me again ,"
+    },
+    {
+      "id": "1.845",
+      "label": "Section 1.845",
+      "chapter": null,
+      "original": "βαιάν μοι , βαιάν , ὦ τέκνον ,",
+      "translation": "softly , please , softly whisper your words . For sick men ’ s restless sleep is quick to vision . But , please , use your utmost care to win that prize ,"
+    },
+    {
+      "id": "1.850",
+      "label": "Section 1.850",
+      "chapter": null,
+      "original": "κεῖνο δή μοι κεῖνο λάθρᾳ",
+      "translation": "that great prize , by stealth . For if you maintain your present purpose towards this man — you know what purpose I mean — then truly there are irremediable troubles in store , which a shrewd mind can foresee ."
+    },
+    {
+      "id": "855",
+      "label": "Section 855",
+      "chapter": null,
+      "original": "οὖρός τοι , τέκνον , οὖρος ·",
+      "translation": "Now , son , a fair wind blows you on your way : sightless and helpless , the man lies stretched in darkness — sleep in the heat is sound —"
+    },
+    {
+      "id": "860",
+      "label": "Section 860",
+      "chapter": null,
+      "original": "οὐ χερός , οὐ ποδός , οὔ τινος ἄρχων ,",
+      "translation": "with no command of hands or feet , but stripped of all his powers , like one who rests with Hades . Take note , see if your pronouncements are seasonable . So far as my thoughts can seize the truth , boy , the best strategy is that which stirs no alarm ."
+    },
+    {
+      "id": "865",
+      "label": "Section 865",
+      "chapter": null,
+      "original": "σιγᾶν κελεύω μηδʼ ἀφεστάναι φρενῶν ·",
+      "translation": "Quiet , I say , and do not abandon your wits — the man is opening his eyes and lifts his head ."
+    },
+    {
+      "id": "867",
+      "label": "Section 867",
+      "chapter": null,
+      "original": "ὦ φέγγος ὕπνου διάδοχον τό τʼ ἐλπίδων",
+      "translation": "Ah , light succeeding upon sleep ! Ah , friendly watchers , sight unlooked for even in my dreams ! I could never have expected this , son —"
+    },
+    {
+      "id": "870",
+      "label": "Section 870",
+      "chapter": null,
+      "original": "τλῆναί σʼ ἐλεινῶς ὧδε τἀμὰ πήματα",
+      "translation": "that you would have the patience to wait so tenderly upon my sufferings by staying close beside me and helping to relieve me . The Atreids , certainly , those valiant generals , had no heart to bear this burden so lightly . But your nature is noble and drawn of a noble line ,"
+    },
+    {
+      "id": "875",
+      "label": "Section 875",
+      "chapter": null,
+      "original": "ὦ τέκνον , ἡ σή , πάντα ταῦτʼ ἐν εὐχερεῖ",
+      "translation": "and so you have made little of all this , though loud cries and stenches afflicted you . And now , since the plague seems to allow me a space of forgetfulness and peace at last , lift me up yourself and set me on my feet ,"
+    },
+    {
+      "id": "880",
+      "label": "Section 880",
+      "chapter": null,
+      "original": "ἵνʼ , ἡνίκʼ ἂν κόπος μʼ ἀπαλλάξῃ ποτέ ,",
+      "translation": "so that , when the faintness releases me at length , we may set out to the ship , and not hold back our sailing ."
+    },
+    {
+      "id": "882",
+      "label": "Section 882",
+      "chapter": null,
+      "original": "ἀλλʼ ἥδομαι μέν σʼ εἰσιδὼν παρʼ ἐλπίδα",
+      "translation": "It pleases me to see you living unpained and breathing still , however contrary to my expectation . For in view of your persistent sufferings ,"
+    },
+    {
+      "id": "885",
+      "label": "Section 885",
+      "chapter": null,
+      "original": "πρὸς τὰς παρούσας ξυμφορὰς ἐφαίνετο .",
+      "translation": "your symptoms seemed to speak of death . But now lift yourself , or , if you prefer , these men will carry you . The labor will not be grudged , since you and I are of one mind ."
+    },
+    {
+      "id": "889",
+      "label": "Section 889",
+      "chapter": null,
+      "original": "αἰνῶ τάδʼ , ὦ παῖ , καί μʼ ἔπαιρʼ , ὥσπερ νοεῖς ·",
+      "translation": "Thank you , son , and help me up , as you will ."
+    },
+    {
+      "id": "890",
+      "label": "Section 890",
+      "chapter": null,
+      "original": "τούτους δʼ ἔασον , μὴ βαρυνθῶσιν κακῇ",
+      "translation": "Yet do not trouble your men , so that they may not suffer from the foul stench before it is necessary . It will be trial enough for them to live on board with me ."
+    },
+    {
+      "id": "893",
+      "label": "Section 893",
+      "chapter": null,
+      "original": "ἔσται τάδʼ · ἀλλʼ ἵστω τε καὐτὸς ἀντέχου .",
+      "translation": "So be it . Now stand up , and take hold of me ."
+    },
+    {
+      "id": "894",
+      "label": "Section 894",
+      "chapter": null,
+      "original": "θάρσει · τό τοι σύνηθες ὀρθώσει μʼ ἔθος .",
+      "translation": "Do not worry , my habitual method will help me to my feet ."
+    },
+    {
+      "id": "895",
+      "label": "Section 895",
+      "chapter": null,
+      "original": "παπαῖ · τί δῆτʼ ἂν δρῷμʼ ἐγὼ τοὐνθένδε γε ;",
+      "translation": "God ! What am I to do next ?"
+    },
+    {
+      "id": "896",
+      "label": "Section 896",
+      "chapter": null,
+      "original": "τί δʼ ἔστιν , ὦ παῖ ; ποῖ ποτʼ ἐξέβης λόγῳ ;",
+      "translation": "What is the matter ? Where strays your speech ?"
+    },
+    {
+      "id": "897",
+      "label": "Section 897",
+      "chapter": null,
+      "original": "οὐκ οἶδʼ ὅποι χρὴ τἄπορον τρέπειν ἔπος .",
+      "translation": "I do not know where to turn my tongue when my thoughts are so confused ."
+    },
+    {
+      "id": "898",
+      "label": "Section 898",
+      "chapter": null,
+      "original": "ἀπορεῖς δὲ τοῦ σύ ; μὴ λέγʼ , ὦ τέκνον , τάδε .",
+      "translation": "Confused ? How so ? No , do not say it !"
+    },
+    {
+      "id": "899",
+      "label": "Section 899",
+      "chapter": null,
+      "original": "ἀλλʼ ἐνθάδʼ ἤδη τοῦδε τοῦ πάθους κυρῶ .",
+      "translation": "My mind is indeed brought to that condition ."
+    },
+    {
+      "id": "900",
+      "label": "Section 900",
+      "chapter": null,
+      "original": "οὐ δή σε δυσχέρεια τοῦ νοσήματος",
+      "translation": "It cannot be that offense at my sickness has persuaded you not to take me aboard your ship ?"
+    },
+    {
+      "id": "902",
+      "label": "Section 902",
+      "chapter": null,
+      "original": "ἅπαντα δυσχέρεια , τὴν αὑτοῦ φύσιν",
+      "translation": "All is offense when a man has abandoned his true nature and does what does not suit him ."
+    },
+    {
+      "id": "904",
+      "label": "Section 904",
+      "chapter": null,
+      "original": "ἀλλʼ οὐδὲν ἔξω τοῦ φυτεύσαντος σύ γε",
+      "translation": "But you , at least , are not departing from your begetter ’ s"
+    },
+    {
+      "id": "905",
+      "label": "Section 905",
+      "chapter": null,
+      "original": "δρᾷς οὐδὲ φωνεῖς , ἐσθλὸν ἄνδρʼ ἐπωφελῶν .",
+      "translation": "example either in word or deed , when you help a man who is noble ."
+    },
+    {
+      "id": "906",
+      "label": "Section 906",
+      "chapter": null,
+      "original": "αἰσχρὸς φανοῦμαι · τοῦτʼ ἀνιῶμαι πάλαι .",
+      "translation": "I shall be found to have no honor — this is the thought that long torments me ."
+    }
+  ],
+  "prevChunkSlug": "philoctetes-24y2hu-5",
+  "nextChunkSlug": "philoctetes-24y2hu-7"
+}

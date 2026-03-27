@@ -1,0 +1,298 @@
+{
+  "loebNumber": 198,
+  "sortOrder": 198,
+  "slug": "cicero-pro-lege-manilia-pro-caecina-pro-cluentio-pro-rabirio-perduellionis-reo-1hidzt",
+  "title": "Pro Lege Manilia. Pro Caecina. Pro Cluentio. Pro Rabirio Perduellionis Reo",
+  "volumeLabel": "Pro Lege Manilia. Pro Caecina. Pro Cluentio. Pro Rabirio Perduellionis Reo",
+  "authorDisplay": "Cicero",
+  "authors": [
+    "Cicero"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for Pro Lege Manilia. Pro Caecina. Pro Cluentio. Pro Rabirio Perduellionis Reo, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "pro-lege-manilia-18td5d",
+  "readyChunkCount": 8,
+  "contents": [
+    {
+      "id": "pro-lege-manilia-18td5d",
+      "title": "Pro Lege Manilia",
+      "status": "ready",
+      "sectionCount": 71,
+      "chunkSlug": "pro-lege-manilia-18td5d",
+      "chunks": [
+        {
+          "slug": "pro-lege-manilia-18td5d",
+          "label": "Pro Lege Manilia",
+          "partId": "pro-lege-manilia-18td5d",
+          "partTitle": "Pro Lege Manilia",
+          "sectionCount": 71,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "pro-caecina-72ugq5",
+      "title": "Pro Caecina",
+      "status": "ready",
+      "sectionCount": 104,
+      "chunkSlug": "pro-caecina-72ugq5-1",
+      "chunks": [
+        {
+          "slug": "pro-caecina-72ugq5-1",
+          "label": "Pro Caecina (Section 1 - Section 60)",
+          "partId": "pro-caecina-72ugq5",
+          "partTitle": "Pro Caecina",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pro-caecina-72ugq5-2",
+          "label": "Pro Caecina (Section 61 - Section 104)",
+          "partId": "pro-caecina-72ugq5",
+          "partTitle": "Pro Caecina",
+          "sectionCount": 44,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "pro-cluentio-xcy48o",
+      "title": "Pro Cluentio",
+      "status": "ready",
+      "sectionCount": 202,
+      "chunkSlug": "pro-cluentio-xcy48o-1",
+      "chunks": [
+        {
+          "slug": "pro-cluentio-xcy48o-1",
+          "label": "Pro Cluentio (Section 1 - Section 60)",
+          "partId": "pro-cluentio-xcy48o",
+          "partTitle": "Pro Cluentio",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pro-cluentio-xcy48o-2",
+          "label": "Pro Cluentio (Section 61 - Section 120)",
+          "partId": "pro-cluentio-xcy48o",
+          "partTitle": "Pro Cluentio",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pro-cluentio-xcy48o-3",
+          "label": "Pro Cluentio (Section 121 - Section 180)",
+          "partId": "pro-cluentio-xcy48o",
+          "partTitle": "Pro Cluentio",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pro-cluentio-xcy48o-4",
+          "label": "Pro Cluentio (Section 181 - Section 202)",
+          "partId": "pro-cluentio-xcy48o",
+          "partTitle": "Pro Cluentio",
+          "sectionCount": 22,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "pro-rabirio-perduellionis-reo-1bkua5",
+      "title": "Pro Rabirio Perduellionis Reo",
+      "status": "ready",
+      "sectionCount": 39,
+      "chunkSlug": "pro-rabirio-perduellionis-reo-1bkua5",
+      "chunks": [
+        {
+          "slug": "pro-rabirio-perduellionis-reo-1bkua5",
+          "label": "Pro Rabirio Perduellionis Reo",
+          "partId": "pro-rabirio-perduellionis-reo-1bkua5",
+          "partTitle": "Pro Rabirio Perduellionis Reo",
+          "sectionCount": 39,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "pro-lege-manilia-18td5d",
+      "label": "Pro Lege Manilia",
+      "partId": "pro-lege-manilia-18td5d",
+      "partTitle": "Pro Lege Manilia",
+      "sectionCount": 71,
+      "status": "ready"
+    },
+    {
+      "slug": "pro-caecina-72ugq5-1",
+      "label": "Pro Caecina (Section 1 - Section 60)",
+      "partId": "pro-caecina-72ugq5",
+      "partTitle": "Pro Caecina",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pro-caecina-72ugq5-2",
+      "label": "Pro Caecina (Section 61 - Section 104)",
+      "partId": "pro-caecina-72ugq5",
+      "partTitle": "Pro Caecina",
+      "sectionCount": 44,
+      "status": "ready"
+    },
+    {
+      "slug": "pro-cluentio-xcy48o-1",
+      "label": "Pro Cluentio (Section 1 - Section 60)",
+      "partId": "pro-cluentio-xcy48o",
+      "partTitle": "Pro Cluentio",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pro-cluentio-xcy48o-2",
+      "label": "Pro Cluentio (Section 61 - Section 120)",
+      "partId": "pro-cluentio-xcy48o",
+      "partTitle": "Pro Cluentio",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pro-cluentio-xcy48o-3",
+      "label": "Pro Cluentio (Section 121 - Section 180)",
+      "partId": "pro-cluentio-xcy48o",
+      "partTitle": "Pro Cluentio",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pro-cluentio-xcy48o-4",
+      "label": "Pro Cluentio (Section 181 - Section 202)",
+      "partId": "pro-cluentio-xcy48o",
+      "partTitle": "Pro Cluentio",
+      "sectionCount": 22,
+      "status": "ready"
+    },
+    {
+      "slug": "pro-rabirio-perduellionis-reo-1bkua5",
+      "label": "Pro Rabirio Perduellionis Reo",
+      "partId": "pro-rabirio-perduellionis-reo-1bkua5",
+      "partTitle": "Pro Rabirio Perduellionis Reo",
+      "sectionCount": 39,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "pro-lege-manilia-18td5d",
+      "partTitle": "Pro Lege Manilia",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Imperio Cn. Pompei Ad Quirites",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi009.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "In Defense of the Proposed Manilian Law",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi009.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pro-caecina-72ugq5-1",
+      "partTitle": "Pro Caecina",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pro A. Caecina",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi008.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For Aulus Caecina",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi008.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pro-caecina-72ugq5-2",
+      "partTitle": "Pro Caecina",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pro A. Caecina",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi008.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For Aulus Caecina",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi008.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pro-cluentio-xcy48o-1",
+      "partTitle": "Pro Cluentio",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pro A. Cluentio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi010.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For A. Cluentius",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi010.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pro-cluentio-xcy48o-2",
+      "partTitle": "Pro Cluentio",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pro A. Cluentio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi010.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For A. Cluentius",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi010.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pro-cluentio-xcy48o-3",
+      "partTitle": "Pro Cluentio",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pro A. Cluentio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi010.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For A. Cluentius",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi010.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pro-cluentio-xcy48o-4",
+      "partTitle": "Pro Cluentio",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pro A. Cluentio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi010.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For A. Cluentius",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi010.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pro-rabirio-perduellionis-reo-1bkua5",
+      "partTitle": "Pro Rabirio Perduellionis Reo",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pro Rabirio Perduellionis Reo Ad Quirites",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi012.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For C. Rabirius",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi012.perseus-eng3/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "sophocles-ajax-electra-oedipus-tyrannus-udpp93",
+  "volumeTitle": "Ajax. Electra. Oedipus Tyrannus",
+  "authorDisplay": "Sophocles",
+  "authors": [
+    "Sophocles"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "electra-wuse-8",
+  "label": "Electra (Section 1178 - Section 1.1236)",
+  "partId": "electra-wuse",
+  "partTitle": "Electra",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἠλέκτρα",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Electra",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1178",
+      "label": "Section 1178",
+      "chapter": null,
+      "original": "τόδʼ ἔστʼ ἐκεῖνο , καὶ μάλʼ ἀθλίως ἔχον .",
+      "translation": "It is , though in a very wretched state ."
+    },
+    {
+      "id": "1179",
+      "label": "Section 1179",
+      "chapter": null,
+      "original": "οἴμοι ταλαίνης ἆρα τῆσδε συμφορᾶς .",
+      "translation": "What pity , then , for this miserable fortune !"
+    },
+    {
+      "id": "1180",
+      "label": "Section 1180",
+      "chapter": null,
+      "original": "οὐ δή ποτʼ , ὦ ξένʼ , ἀμφʼ ἐμοὶ στένεις τάδε ;",
+      "translation": "Surely , stranger , you are not saddened like this on my account ?"
+    },
+    {
+      "id": "1181",
+      "label": "Section 1181",
+      "chapter": null,
+      "original": "ὦ σῶμʼ ἀτίμως κἀθέως ἐφθαρμένον .",
+      "translation": "O frame dishonorably , godlessly wasted !"
+    },
+    {
+      "id": "1182",
+      "label": "Section 1182",
+      "chapter": null,
+      "original": "οὔτοι ποτʼ ἄλλην ἢ ʼμὲ δυσφημεῖς , ξένε .",
+      "translation": "Those ills of which you speak , stranger , are none other ’ s than mine ."
+    },
+    {
+      "id": "1183",
+      "label": "Section 1183",
+      "chapter": null,
+      "original": "φεῦ τῆς ἀνύμφου δυσμόρου τε σῆς τροφῆς ,",
+      "translation": "Ah , pity for your unwed , ill-fated life !"
+    },
+    {
+      "id": "1184",
+      "label": "Section 1184",
+      "chapter": null,
+      "original": "τί δή ποτʼ , ὦ ξένʼ , ὧδʼ ἐπισκοπῶν στένεις ;",
+      "translation": "Why , stranger , do you stare and grieve in this way ?"
+    },
+    {
+      "id": "1185",
+      "label": "Section 1185",
+      "chapter": null,
+      "original": "ὡς οὐκ ἄρʼ ᾔδη τῶν ἐμῶν οὐδὲν κακῶν .",
+      "translation": "How I knew nothing , it seems , of my own sorrows !"
+    },
+    {
+      "id": "1186",
+      "label": "Section 1186",
+      "chapter": null,
+      "original": "ἐν τῷ διέγνως τοῦτο τῶν εἰρημένων ;",
+      "translation": "What that has been said made you realize this ?"
+    },
+    {
+      "id": "1187",
+      "label": "Section 1187",
+      "chapter": null,
+      "original": "ὁρῶν σε πολλοῖς ἐμπρέπουσαν ἄλγεσιν .",
+      "translation": "It was the sight of you conspicuous in your many sufferings ."
+    },
+    {
+      "id": "1188",
+      "label": "Section 1188",
+      "chapter": null,
+      "original": "καὶ μὴν ὁρᾷς γε παῦρα τῶν ἐμῶν κακῶν .",
+      "translation": "And yet you see but a few of my troubles ."
+    },
+    {
+      "id": "1189",
+      "label": "Section 1189",
+      "chapter": null,
+      "original": "καὶ πῶς γένοιτʼ ἂν τῶνδʼ ἔτʼ ἐχθίω βλέπειν ;",
+      "translation": "And how could there be any more odious to look on than these ?"
+    },
+    {
+      "id": "1190",
+      "label": "Section 1190",
+      "chapter": null,
+      "original": "ὁθούνεκʼ εἰμὶ τοῖς φονεῦσι σύντροφος",
+      "translation": "Because I share house and table with the murderers ."
+    },
+    {
+      "id": "1191",
+      "label": "Section 1191",
+      "chapter": null,
+      "original": "τοῖς τοῦ ; πόθεν τοῦτʼ ἐξεσήμηνας κακόν ;",
+      "translation": "Whose murderers ? Where lies the guilt at which you point ?"
+    },
+    {
+      "id": "1192",
+      "label": "Section 1192",
+      "chapter": null,
+      "original": "τοῖς πατρός · εἶτα τοῖσδε δουλεύω βίᾳ .",
+      "translation": "The murderers of my father . And , further , I am forced to slave for them ."
+    },
+    {
+      "id": "1193",
+      "label": "Section 1193",
+      "chapter": null,
+      "original": "τίς γάρ σʼ ἀνάγκῃ τῇδε προτρέπει βροτῶν ;",
+      "translation": "Who is it that binds you with this compulsion ?"
+    },
+    {
+      "id": "1194",
+      "label": "Section 1194",
+      "chapter": null,
+      "original": "μήτηρ καλεῖται , μητρὶ δʼ οὐδὲν ἐξισοῖ .",
+      "translation": "She is called my mother , but in no respect is she like a mother ."
+    },
+    {
+      "id": "1195",
+      "label": "Section 1195",
+      "chapter": null,
+      "original": "τί δρῶσα ; πότερα χερσὶν ἢ λύμῃ βίου ;",
+      "translation": "How does she do it ? By violence or by inflicting hardship ?"
+    },
+    {
+      "id": "1196",
+      "label": "Section 1196",
+      "chapter": null,
+      "original": "καὶ χερσὶ καὶ λύμαισι καὶ πᾶσιν κακοῖς .",
+      "translation": "By violence and hardships and all manner of evil ."
+    },
+    {
+      "id": "1197",
+      "label": "Section 1197",
+      "chapter": null,
+      "original": "οὐδʼ οὑπαρήξων οὐδʼ ὁ κωλύσων πάρα ;",
+      "translation": "And is there no one to help , or to prevent it ?"
+    },
+    {
+      "id": "1198",
+      "label": "Section 1198",
+      "chapter": null,
+      "original": "οὐ δῆθʼ . ὃς ἦν γάρ μοι σὺ προὔθηκας σποδόν .",
+      "translation": "No one . The one I had , his ashes you have put before me ."
+    },
+    {
+      "id": "1199",
+      "label": "Section 1199",
+      "chapter": null,
+      "original": "ὦ δύσποτμʼ , ὡς ὁρῶν σʼ ἐποικτίρω πάλαι .",
+      "translation": "Unfortunate girl , how seeing you stirs my pity !"
+    },
+    {
+      "id": "1200",
+      "label": "Section 1200",
+      "chapter": null,
+      "original": "μόνος βροτῶν νυν ἴσθʼ ἐποικτίρας ποτέ .",
+      "translation": "Then know that you are the first who ever pitied me ."
+    },
+    {
+      "id": "1201",
+      "label": "Section 1201",
+      "chapter": null,
+      "original": "μόνος γὰρ ἥκω τοῖς ἴσοις ἀλγῶν κακοῖς .",
+      "translation": "Yes , for I alone have come and been pained by your troubles ."
+    },
+    {
+      "id": "1202",
+      "label": "Section 1202",
+      "chapter": null,
+      "original": "οὐ δή ποθʼ ἡμῖν ξυγγενὴς ἥκεις ποθέν ;",
+      "translation": "Surely you are not some unknown kinsman ?"
+    },
+    {
+      "id": "1203",
+      "label": "Section 1203",
+      "chapter": null,
+      "original": "ἐγὼ φράσαιμʼ ἄν , εἰ τὸ τῶνδʼ εὔνουν πάρα .",
+      "translation": "I would tell you , if these women bear you goodwill ."
+    },
+    {
+      "id": "1204",
+      "label": "Section 1204",
+      "chapter": null,
+      "original": "ἀλλʼ ἐστὶν εὔνουν , ὥστε πρὸς πιστὰς ἐρεῖς .",
+      "translation": "Indeed they do , so you will speak to trustworthy companions ."
+    },
+    {
+      "id": "1205",
+      "label": "Section 1205",
+      "chapter": null,
+      "original": "μέθες τόδʼ ἄγγος νῦν , ὅπως τὸ πᾶν μάθῃς .",
+      "translation": "Give up this urn , then , and you shall know everything ."
+    },
+    {
+      "id": "1206",
+      "label": "Section 1206",
+      "chapter": null,
+      "original": "μὴ δῆτα πρὸς θεῶν τοῦτό μʼ ἐργάσῃ , ξένε .",
+      "translation": "No , by the gods , do not do this to me , stranger !"
+    },
+    {
+      "id": "1207",
+      "label": "Section 1207",
+      "chapter": null,
+      "original": "πείθου λέγοντι κοὐχ ἁμαρτήσει ποτέ .",
+      "translation": "Do as I say , and you will never be mistaken ."
+    },
+    {
+      "id": "1208",
+      "label": "Section 1208",
+      "chapter": null,
+      "original": "μή , πρὸς γενείου , μὴ ʼξέλῃ τὰ φίλτατα .",
+      "translation": "No , I beg you , do not rip from me what I hold most dear !"
+    },
+    {
+      "id": "1209",
+      "label": "Section 1209",
+      "chapter": null,
+      "original": "οὔ φημʼ ἐάσειν .",
+      "translation": "You must not keep it ."
+    },
+    {
+      "id": "1209a",
+      "label": "Section 1209a",
+      "chapter": null,
+      "original": "ὦ τάλαινʼ ἐγὼ σέθεν ,",
+      "translation": "Ah , what misery I will have because of you ,"
+    },
+    {
+      "id": "1210",
+      "label": "Section 1210",
+      "chapter": null,
+      "original": "Ὀρέστα , τῆς σῆς εἰ στερήσομαι ταφῆς .",
+      "translation": "Orestes , if I am robbed of your burial !"
+    },
+    {
+      "id": "1211",
+      "label": "Section 1211",
+      "chapter": null,
+      "original": "εὔφημα φώνει · πρὸς δίκης γὰρ οὐ στένεις .",
+      "translation": "Hush ! No ill-omened words ! You have no right to grieve ."
+    },
+    {
+      "id": "1212",
+      "label": "Section 1212",
+      "chapter": null,
+      "original": "πῶς τὸν θανόντʼ ἀδελφὸν οὐ δίκῃ στένω ;",
+      "translation": "How is it not right for me to grieve for my dead brother ?"
+    },
+    {
+      "id": "1213",
+      "label": "Section 1213",
+      "chapter": null,
+      "original": "οὔ σοι προσήκει τήνδε προσφωνεῖν φάτιν .",
+      "translation": "It is not proper for you to speak of him as you do ."
+    },
+    {
+      "id": "1214",
+      "label": "Section 1214",
+      "chapter": null,
+      "original": "οὕτως ἄτιμός εἰμι τοῦ τεθνηκότος ;",
+      "translation": "Am I so without rights in the dead ?"
+    },
+    {
+      "id": "1215",
+      "label": "Section 1215",
+      "chapter": null,
+      "original": "ἄτιμος οὐδενὸς σύ · τοῦτο δʼ οὐχὶ σόν .",
+      "translation": "You are without rights in nothing ; but this burial is not your concern ."
+    },
+    {
+      "id": "1216",
+      "label": "Section 1216",
+      "chapter": null,
+      "original": "εἴπερ γʼ Ὀρέστου σῶμα βαστάζω τόδε ;",
+      "translation": "Yes it is , if these are the remains of Orestes that I hold ."
+    },
+    {
+      "id": "1217",
+      "label": "Section 1217",
+      "chapter": null,
+      "original": "ἀλλʼ οὐκ Ὀρέστου , πλὴν λόγῳ γʼ ἠσκημένον .",
+      "translation": "They are not his , except inasmuch as fiction alone contrives to make them so . He gently takes the urn from her ."
+    },
+    {
+      "id": "1218",
+      "label": "Section 1218",
+      "chapter": null,
+      "original": "ποῦ δʼ ἔστʼ ἐκείνου τοῦ ταλαιπώρου τάφος ;",
+      "translation": "And where is that sufferer ’ s tomb ?"
+    },
+    {
+      "id": "1219",
+      "label": "Section 1219",
+      "chapter": null,
+      "original": "οὐκ ἔστι · τοῦ γὰρ ζῶντος οὐκ ἔστιν τάφος .",
+      "translation": "There is none ; the living have no tomb ."
+    },
+    {
+      "id": "1220",
+      "label": "Section 1220",
+      "chapter": null,
+      "original": "πῶς εἶπας , ὦ παῖ ;",
+      "translation": "What are you saying , boy ?"
+    },
+    {
+      "id": "1221",
+      "label": "Section 1221",
+      "chapter": null,
+      "original": "ἦ ζῇ γὰρ ἁνήρ ;",
+      "translation": "Nothing that is untrue ."
+    },
+    {
+      "id": "1221a",
+      "label": "Section 1221a",
+      "chapter": null,
+      "original": "εἴπερ ἔμψυχός γʼ ἐγώ .",
+      "translation": "The man is alive ?"
+    },
+    {
+      "id": "1222",
+      "label": "Section 1222",
+      "chapter": null,
+      "original": "ἦ γὰρ σὺ κεῖνος ;",
+      "translation": "If there is life in me ."
+    },
+    {
+      "id": "1222a",
+      "label": "Section 1222a",
+      "chapter": null,
+      "original": "τήνδε προσβλέψασά μου",
+      "translation": "What ? Are you he ?"
+    },
+    {
+      "id": "1223",
+      "label": "Section 1223",
+      "chapter": null,
+      "original": "σφραγῖδα πατρὸς ἔκμαθʼ εἰ σαφῆ λέγω .",
+      "translation": "Look at this signet , once our father ’ s , and know if I speak the truth ."
+    },
+    {
+      "id": "1224",
+      "label": "Section 1224",
+      "chapter": null,
+      "original": "ὦ φίλτατον φῶς .",
+      "translation": "O blissful day !"
+    },
+    {
+      "id": "1224a",
+      "label": "Section 1224a",
+      "chapter": null,
+      "original": "φίλτατον , συμμαρτυρῶ .",
+      "translation": "Blissful , I am your witness !"
+    },
+    {
+      "id": "1225",
+      "label": "Section 1225",
+      "chapter": null,
+      "original": "ὦ φθέγμʼ , ἀφίκου ;",
+      "translation": "Is this your voice ?"
+    },
+    {
+      "id": "1225a",
+      "label": "Section 1225a",
+      "chapter": null,
+      "original": "μηκέτʼ ἄλλοθεν πύθῃ ,",
+      "translation": "Hear it from no other ."
+    },
+    {
+      "id": "1226",
+      "label": "Section 1226",
+      "chapter": null,
+      "original": "ἔχω σε χερσίν ;",
+      "translation": "Do I hold you in my arms ?"
+    },
+    {
+      "id": "1226a",
+      "label": "Section 1226a",
+      "chapter": null,
+      "original": "ὡς τὰ λοίπʼ ἔχοις ἀεί .",
+      "translation": "May you hold me so always hereafter !"
+    },
+    {
+      "id": "1227",
+      "label": "Section 1227",
+      "chapter": null,
+      "original": "ὦ φίλταται γυναῖκες , ὦ πολίτιδες ,",
+      "translation": "Ah , dear friends and fellow-citizens , see Orestes here , who was dead by design , and now by design has come safely home !"
+    },
+    {
+      "id": "1230",
+      "label": "Section 1230",
+      "chapter": null,
+      "original": "ὁρῶμεν , ὦ παῖ , κἀπὶ συμφοραῖσί μοι",
+      "translation": "We see him , daughter , and for this happy turn of fortune a tear of joy trickles from our eyes ."
+    },
+    {
+      "id": "1.1232",
+      "label": "Section 1.1232",
+      "chapter": null,
+      "original": "ἰὼ γοναί ,",
+      "translation": "O seed , seed of the person to me most dear , you have just now come ,"
+    },
+    {
+      "id": "1.1235",
+      "label": "Section 1.1235",
+      "chapter": null,
+      "original": "ἐφηύρετʼ , ἤλθετʼ , εἴδεθʼ οὓς ἐχρῄζετε .",
+      "translation": "you have come , and have found and seen her whom your heart desired !"
+    },
+    {
+      "id": "1.1236",
+      "label": "Section 1.1236",
+      "chapter": null,
+      "original": "πάρεσμεν · ἀλλὰ σῖγʼ ἔχουσα πρόσμενε .",
+      "translation": "I am with you ; but keep silence and wait ."
+    }
+  ],
+  "prevChunkSlug": "electra-wuse-7",
+  "nextChunkSlug": "electra-wuse-9"
+}

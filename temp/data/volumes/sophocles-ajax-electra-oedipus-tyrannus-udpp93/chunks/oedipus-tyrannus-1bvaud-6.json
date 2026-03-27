@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "sophocles-ajax-electra-oedipus-tyrannus-udpp93",
+  "volumeTitle": "Ajax. Electra. Oedipus Tyrannus",
+  "authorDisplay": "Sophocles",
+  "authors": [
+    "Sophocles"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "oedipus-tyrannus-1bvaud-6",
+  "label": "Oedipus Tyrannus (Section 720 - Section 861)",
+  "partId": "oedipus-tyrannus-1bvaud",
+  "partTitle": "Oedipus Tyrannus",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Οἰδίπους Τύραννος",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Oedipus Tyrannus",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "720",
+      "label": "Section 720",
+      "chapter": null,
+      "original": "κἀνταῦθʼ Ἀπόλλων οὔτʼ ἐκεῖνον ἤνυσεν",
+      "translation": "So , in that case , Apollo did not bring it to pass that the child should become the slayer of his father , or that Laius should suffer that which he feared , death at the hands of his child : thus the messages of the seer ’ s art had mapped out the future . Pay them no regard . Whatever necessary event"
+    },
+    {
+      "id": "725",
+      "label": "Section 725",
+      "chapter": null,
+      "original": "χρείαν ἐρευνᾷ , ῥᾳδίως αὐτὸς φανεῖ .",
+      "translation": "the god seeks , he himself will easily bring to light ."
+    },
+    {
+      "id": "726",
+      "label": "Section 726",
+      "chapter": null,
+      "original": "οἷόν μʼ ἀκούσαντʼ ἀρτίως ἔχει , γύναι ,",
+      "translation": "What restlessness of soul , lady , what tumult has come upon me since I heard you speak !"
+    },
+    {
+      "id": "728",
+      "label": "Section 728",
+      "chapter": null,
+      "original": "ποίας μερίμνης τοῦθʼ ὑποστραφεὶς λέγεις ;",
+      "translation": "What anxiety has startled you , that you say this ?"
+    },
+    {
+      "id": "729",
+      "label": "Section 729",
+      "chapter": null,
+      "original": "ἔδοξʼ ἀκοῦσαι σοῦ τόδʼ , ὡς ὁ Λάϊος",
+      "translation": "I thought that I heard this from you — that Laius"
+    },
+    {
+      "id": "730",
+      "label": "Section 730",
+      "chapter": null,
+      "original": "κατασφαγείη πρὸς τριπλαῖς ἁμαξιτοῖς .",
+      "translation": "was slain where the three roads meet ."
+    },
+    {
+      "id": "731",
+      "label": "Section 731",
+      "chapter": null,
+      "original": "ηὐδᾶτο γὰρ ταῦτʼ οὐδέ πω λήξαντʼ ἔχει .",
+      "translation": "Yes , that was the report , and so it is still thought ."
+    },
+    {
+      "id": "732",
+      "label": "Section 732",
+      "chapter": null,
+      "original": "καὶ ποῦ ʼσθʼ ὁ χῶρος οὗτος οὗ τόδʼ ἦν πάθος ;",
+      "translation": "And where is the place where this occurred ?"
+    },
+    {
+      "id": "733",
+      "label": "Section 733",
+      "chapter": null,
+      "original": "Φωκὶς μὲν ἡ γῆ κλῄζεται , σχιστὴ δʼ ὁδὸς",
+      "translation": "The land is called Phocis ; the branching forks lead to the same spot from Delphi and from Daulia ."
+    },
+    {
+      "id": "735",
+      "label": "Section 735",
+      "chapter": null,
+      "original": "καὶ τίς χρόνος τοῖσδʼ ἐστὶν οὑξεληλυθώς ;",
+      "translation": "And how much time has passed since these events took place ?"
+    },
+    {
+      "id": "736",
+      "label": "Section 736",
+      "chapter": null,
+      "original": "σχεδόν τι πρόσθεν ἢ σὺ τῆσδʼ ἔχων χθονὸς",
+      "translation": "The news was announced to the town shortly before you first attained power over this land ."
+    },
+    {
+      "id": "738",
+      "label": "Section 738",
+      "chapter": null,
+      "original": "ὦ Ζεῦ , τί μου δρᾶσαι βεβούλευσαι πέρι ;",
+      "translation": "O Zeus , what have you decreed for me ?"
+    },
+    {
+      "id": "739",
+      "label": "Section 739",
+      "chapter": null,
+      "original": "τί δʼ ἐστί σοι τοῦτʼ , Οἰδίπους , ἐνθύμιον ;",
+      "translation": "Why , Oedipus , does this matter weigh upon your heart ?"
+    },
+    {
+      "id": "740",
+      "label": "Section 740",
+      "chapter": null,
+      "original": "μήπω μʼ ἐρώτα · τὸν δὲ Λάϊον φύσιν",
+      "translation": "Do not ask me yet . Tell me rather what stature Laius had , and how ripe his manhood was ."
+    },
+    {
+      "id": "742",
+      "label": "Section 742",
+      "chapter": null,
+      "original": "μέγας , χνοάζων ἄρτι λευκανθὲς κάρα ,",
+      "translation": "He was tall — the silver just lightly strewn among his hair — and his form was not greatly unlike your own ."
+    },
+    {
+      "id": "744",
+      "label": "Section 744",
+      "chapter": null,
+      "original": "οἴμοι τάλας · ἔοικʼ ἐμαυτὸν εἰς ἀρὰς",
+      "translation": "Unhappy that I am ! I think that I have"
+    },
+    {
+      "id": "745",
+      "label": "Section 745",
+      "chapter": null,
+      "original": "δεινὰς προβάλλων ἀρτίως οὐκ εἰδέναι .",
+      "translation": "laid myself under a terrible curse without realizing it ."
+    },
+    {
+      "id": "746",
+      "label": "Section 746",
+      "chapter": null,
+      "original": "πῶς φῄς ; ὀκνῶ τοι πρός σʼ ἀποσκοποῦσʼ , ἄναξ .",
+      "translation": "How do you mean ? I tremble when I look at you , my lord ."
+    },
+    {
+      "id": "747",
+      "label": "Section 747",
+      "chapter": null,
+      "original": "δεινῶς ἀθυμῶ μὴ βλέπων ὁ μάντις ᾖ ·",
+      "translation": "I have dread fears that the seer can see . But you will reveal the matter better if you tell me one thing more ."
+    },
+    {
+      "id": "749",
+      "label": "Section 749",
+      "chapter": null,
+      "original": "καὶ μὴν ὀκνῶ μέν , ἃ δʼ ἂν ἔρῃ μαθοῦσʼ ἐρῶ .",
+      "translation": "Indeed , though I tremble , I will hear and answer all that you ask ."
+    },
+    {
+      "id": "750",
+      "label": "Section 750",
+      "chapter": null,
+      "original": "πότερον ἐχώρει βαιὸς ἢ πολλοὺς ἔχων",
+      "translation": "Did he go with a small force , or like a chieftain , with many armed followers ?"
+    },
+    {
+      "id": "753",
+      "label": "Section 753",
+      "chapter": null,
+      "original": "κῆρυξ · ἀπήνη δʼ ἦγε Λάϊον μία .",
+      "translation": "Five they were in all — a herald among them — and there was one carriage which bore Laius ."
+    },
+    {
+      "id": "755",
+      "label": "Section 755",
+      "chapter": null,
+      "original": "ὁ τούσδε λέξας τοὺς λόγους ὑμῖν , γύναι ;",
+      "translation": "Alas ! It is all clear now ! Who gave you this information , lady ?"
+    },
+    {
+      "id": "756",
+      "label": "Section 756",
+      "chapter": null,
+      "original": "οἰκεύς τις , ὅσπερ ἵκετʼ ἐκσωθεὶς μόνος .",
+      "translation": "A servant , the only survivor who returned home ."
+    },
+    {
+      "id": "757",
+      "label": "Section 757",
+      "chapter": null,
+      "original": "ἦ κἀν δόμοισι τυγχάνει τανῦν παρών ;",
+      "translation": "Is he by any chance in the house now ?"
+    },
+    {
+      "id": "758",
+      "label": "Section 758",
+      "chapter": null,
+      "original": "οὐ δῆτʼ · ἀφʼ οὗ γὰρ κεῖθεν ἦλθε καὶ κράτη",
+      "translation": "No . Soon after he returned and found you ruling in Laius ’ stead ,"
+    },
+    {
+      "id": "760",
+      "label": "Section 760",
+      "chapter": null,
+      "original": "ἐξικέτευσε τῆς ἐμῆς χειρὸς θιγὼν",
+      "translation": "he pled with me , with hand laid on mine , to send him to the fields , to the pastures of the flocks , that he might be far from the sight of this town . And I sent him ; he was worthy , for a slave , to win even a larger favor than that ."
+    },
+    {
+      "id": "765",
+      "label": "Section 765",
+      "chapter": null,
+      "original": "πῶς ἂν μόλοι δῆθʼ ἡμὶν ἐν τάχει πάλιν ;",
+      "translation": "Would , then , that he return to us without delay !"
+    },
+    {
+      "id": "766",
+      "label": "Section 766",
+      "chapter": null,
+      "original": "πάρεστιν · ἀλλὰ πρὸς τί τοῦτʼ ἐφίεσαι ;",
+      "translation": "That is easy . But why do you enjoin this ?"
+    },
+    {
+      "id": "767",
+      "label": "Section 767",
+      "chapter": null,
+      "original": "δέδοικʼ ἐμαυτόν , ὦ γύναι , μὴ πόλλʼ ἄγαν",
+      "translation": "I fear , lady , that my words have been rash , and therefore I wish to see him ."
+    },
+    {
+      "id": "769",
+      "label": "Section 769",
+      "chapter": null,
+      "original": "ἀλλʼ ἵξεται μέν · ἀξία δέ που μαθεῖν",
+      "translation": "He will come . But I think that"
+    },
+    {
+      "id": "770",
+      "label": "Section 770",
+      "chapter": null,
+      "original": "κἀγὼ τά γʼ ἐν σοὶ δυσφόρως ἔχοντʼ , ἄναξ .",
+      "translation": "I too have a claim to learn what lies heavy on your heart , my king ."
+    },
+    {
+      "id": "771",
+      "label": "Section 771",
+      "chapter": null,
+      "original": "κοὐ μὴ στερηθῇς γʼ , ἐς τοσοῦτον ἐλπίδων",
+      "translation": "It will not be kept from you , now that my forebodings have advanced so far . To whom more than to you would I speak in suffering such a fortune as this ? My father was Polybus of Corinth ,"
+    },
+    {
+      "id": "775",
+      "label": "Section 775",
+      "chapter": null,
+      "original": "μήτηρ δὲ Μερόπη Δωρίς . ἠγόμην δʼ ἀνὴρ",
+      "translation": "my mother the Dorian Merope . I was considered the greatest of the folk in that town , until a chance event befell me , worthy , indeed , of wonder , though not of my overreaction regarding it . At a banquet , a man drunk with wine"
+    },
+    {
+      "id": "780",
+      "label": "Section 780",
+      "chapter": null,
+      "original": "καλεῖ παρʼ οἴνῳ , πλαστὸς ὡς εἴην πατρί .",
+      "translation": "cast it at me that I was not the true son of my father . And I , vexed , restrained myself for that day as best as I could , but on the next went to my mother and father and questioned them . They were angry at the one who had let this taunt fly ."
+    },
+    {
+      "id": "785",
+      "label": "Section 785",
+      "chapter": null,
+      "original": "κἀγὼ τὰ μὲν κείνοιν ἐτερπόμην , ὅμως δʼ",
+      "translation": "So I had comfort about them , but the matter rankled in my heart , for such a rumor still spread widely . I went to Delphi without my parents ’ knowledge , and Phoebus sent me forth disappointed of the knowledge for which I had come ,"
+    },
+    {
+      "id": "790",
+      "label": "Section 790",
+      "chapter": null,
+      "original": "καὶ δεινὰ καὶ δύστηνα προύφηνεν λέγων ,",
+      "translation": "but in his response set forth other things , full of sorrow and terror and woe : that I was fated to defile my mother ’ s bed , that I would reveal to men a brood which they could not endure to behold , and that I would slay the father that sired me . When I heard this , I turned in flight from the land of Corinth ,"
+    },
+    {
+      "id": "795",
+      "label": "Section 795",
+      "chapter": null,
+      "original": "ἄστροις τὸ λοιπὸν ἐκμετρούμενος , χθόνα",
+      "translation": "from then on thinking of it only by its position under the stars , to some spot where I should never see fulfillment of the infamies foretold in my evil fate . And on my way I came to the land in which you say that this prince perished ."
+    },
+    {
+      "id": "800",
+      "label": "Section 800",
+      "chapter": null,
+      "original": "καί σοι , γύναι , τἀληθὲς ἐξερῶ . τριπλῆς",
+      "translation": "Now , lady , I will tell you the truth . When on my journey I was near those three roads , there I met a herald , and a man in a carriage drawn by colts , as you have described . The leader and the old man"
+    },
+    {
+      "id": "805",
+      "label": "Section 805",
+      "chapter": null,
+      "original": "αὐτός θʼ ὁ πρέσβυς πρὸς βίαν ἠλαυνέτην .",
+      "translation": "himself tried to thrust me rudely from the path . Then , in anger , I struck the one pushing me aside , the driver , and the old man , when he saw this , watched for the moment I was passing , and from his carriage , brought his double goad straight down on my head ."
+    },
+    {
+      "id": "810",
+      "label": "Section 810",
+      "chapter": null,
+      "original": "οὐ μὴν ἴσην γʼ ἔτισεν , ἀλλὰ συντόμως",
+      "translation": "Yet he was paid back with interest : with one swift blow from the staff in this hand he rolled right out of the carriage onto his back . I slew every one of them . But if this stranger had any tie of kinship to Laius ,"
+    },
+    {
+      "id": "815",
+      "label": "Section 815",
+      "chapter": null,
+      "original": "τίς τοῦδέ γʼ ἀνδρός ἐστιν ἀθλιώτερος ;",
+      "translation": "who is now more wretched than this man before you ? What mortal could be proved more hateful to the gods ? No stranger , no citizen , is allowed to receive him at home , it is unlawful for anyone to accost him , and all must push him from their homes . And this — this curse —"
+    },
+    {
+      "id": "820",
+      "label": "Section 820",
+      "chapter": null,
+      "original": "ἢ ʼγὼ ʼπʼ ἐμαυτῷ τάσδʼ ἀρὰς ὁ προστιθείς .",
+      "translation": "was laid on me by no other mouth than my own . And I pollute the bed of the slain man with the hands by which he perished . Am I now vile ? Oh , am I not utterly unclean , seeing that I must be banished , and in banishment neither see my own people ,"
+    },
+    {
+      "id": "825",
+      "label": "Section 825",
+      "chapter": null,
+      "original": "μηδʼ ἐμβατεύειν πατρίδος , ἢ γάμοις με δεῖ",
+      "translation": "nor set foot in my own land , or else be joined in wedlock to my mother , and slay my father Polybus , who sired and reared me ? Then would he who judged these things to be sent down by some cruel divinity not be right about Oedipus ?"
+    },
+    {
+      "id": "830",
+      "label": "Section 830",
+      "chapter": null,
+      "original": "μὴ δῆτα , μὴ δῆτʼ , ὦ θεῶν ἁγνὸν σέβας ,",
+      "translation": "Prevent , prevent , you pure and awful gods , me from ever seeing that day ! No , may I be swept away from all men , before I see myself visited with that brand of doom ."
+    },
+    {
+      "id": "834",
+      "label": "Section 834",
+      "chapter": null,
+      "original": "ἡμῖν μέν , ὦναξ , ταῦτʼ ὀκνήρʼ · ἕως δʼ ἂν οὖν",
+      "translation": "To us , king , these things are fraught with fear . Yet have hope , until at least you have gained full knowledge"
+    },
+    {
+      "id": "835",
+      "label": "Section 835",
+      "chapter": null,
+      "original": "πρὸς τοῦ παρόντος ἐκμάθῃς , ἔχʼ ἐλπίδα .",
+      "translation": "from the one who saw the deed ."
+    },
+    {
+      "id": "836",
+      "label": "Section 836",
+      "chapter": null,
+      "original": "καὶ μὴν τοσοῦτόν γʼ ἐστί μοι τῆς ἐλπίδος ,",
+      "translation": "I have , in truth , this much hope alone : I await the man summoned from the pastures ."
+    },
+    {
+      "id": "838",
+      "label": "Section 838",
+      "chapter": null,
+      "original": "πεφασμένου δὲ τίς ποθʼ ἡ προθυμία ;",
+      "translation": "And what do you want from him when he appears ?"
+    },
+    {
+      "id": "839",
+      "label": "Section 839",
+      "chapter": null,
+      "original": "ἐγὼ διδάξω σʼ · ἢν γὰρ εὑρεθῇ λέγων",
+      "translation": "I will tell you . If his story is found"
+    },
+    {
+      "id": "840",
+      "label": "Section 840",
+      "chapter": null,
+      "original": "σοὶ ταὔτʼ , ἔγωγʼ ἂν ἐκπεφευγοίην πάθος .",
+      "translation": "to match withwith yours , I at least , will stand clear of disaster ."
+    },
+    {
+      "id": "841",
+      "label": "Section 841",
+      "chapter": null,
+      "original": "ποῖον δέ μου περισσὸν ἤκουσας λόγον ;",
+      "translation": "And what special note did you hear from me ?"
+    },
+    {
+      "id": "842",
+      "label": "Section 842",
+      "chapter": null,
+      "original": "λῃστὰς ἔφασκες αὐτὸν ἄνδρας ἐννέπειν",
+      "translation": "You said that he spoke of Laius as slain by robbers . If , then , he still speaks of several as before , I was not the slayer :"
+    },
+    {
+      "id": "845",
+      "label": "Section 845",
+      "chapter": null,
+      "original": "οὐ γὰρ γένοιτʼ ἂν εἷς γε τοῖς πολλοῖς ἴσος ·",
+      "translation": "a solitary man could not be considered the same as that band . But if he names one lonely wayfarer , then beyond doubt this guilt rests upon me ."
+    },
+    {
+      "id": "848",
+      "label": "Section 848",
+      "chapter": null,
+      "original": "ἀλλʼ ὡς φανέν γε τοὔπος ὧδʼ ἐπίστασο ,",
+      "translation": "Be assured that thus , at least , the tale was first told . He cannot revoke that ,"
+    },
+    {
+      "id": "850",
+      "label": "Section 850",
+      "chapter": null,
+      "original": "πόλις γὰρ ἤκουσʼ , οὐκ ἐγὼ μόνη , τάδε .",
+      "translation": "for the city heard it , not I alone . But even if he should diverge somewhat from his former story , never , king , can he show that the murder of Laius , at least , is truly square with the prophecy , for Loxias plainly said that he was to die at the hand of my child ."
+    },
+    {
+      "id": "855",
+      "label": "Section 855",
+      "chapter": null,
+      "original": "καίτοι νιν οὐ κεῖνός γʼ ὁ δύστηνός ποτε",
+      "translation": "How was it then that that poor innocent never slew him , but perished first ? From now on then , as far as divination goes , I would not look to my right hand or my left ."
+    },
+    {
+      "id": "859",
+      "label": "Section 859",
+      "chapter": null,
+      "original": "καλῶς νομίζεις · ἀλλʼ ὅμως τὸν ἐργάτην",
+      "translation": "You are right . But nevertheless send someone to fetch the peasant ,"
+    },
+    {
+      "id": "860",
+      "label": "Section 860",
+      "chapter": null,
+      "original": "πέμψον τινὰ στελοῦντα μηδὲ τοῦτʼ ἀφῇς .",
+      "translation": "and do not neglect this matter ."
+    },
+    {
+      "id": "861",
+      "label": "Section 861",
+      "chapter": null,
+      "original": "πέμψω ταχύνασʼ · ἀλλʼ ἴωμεν ἐς δόμους ·",
+      "translation": "I will send for him without delay . But let us go into the house : I will do nothing which does not please you . Exeunt Oedipus and Iocasta ."
+    }
+  ],
+  "prevChunkSlug": "oedipus-tyrannus-1bvaud-5",
+  "nextChunkSlug": "oedipus-tyrannus-1bvaud-7"
+}

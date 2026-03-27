@@ -1,0 +1,241 @@
+{
+  "loebNumber": 98,
+  "sortOrder": 98,
+  "slug": "plutarch-lives-volume-vi-lhucbn",
+  "title": "Lives, Volume VI",
+  "volumeLabel": "Lives, Volume VI",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Lives, Volume VI. Lives, Volume VI opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "caius-marius-e9n96o-1",
+  "readyChunkCount": 7,
+  "contents": [
+    {
+      "id": "lives-volume-vi-15naln",
+      "title": "Lives, Volume VI",
+      "status": "ready",
+      "sectionCount": 362,
+      "chunkSlug": "caius-marius-e9n96o-1",
+      "chunks": [
+        {
+          "slug": "caius-marius-e9n96o-1",
+          "label": "Caius Marius (Section 1.1 - Section 30.2)",
+          "partId": "lives-volume-vi-15naln",
+          "partTitle": "Lives, Volume VI",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "caius-marius-e9n96o-2",
+          "label": "Caius Marius (Section 31.1 - Section 46.2)",
+          "partId": "lives-volume-vi-15naln",
+          "partTitle": "Lives, Volume VI",
+          "sectionCount": 32,
+          "status": "ready"
+        },
+        {
+          "slug": "lysander-18so93",
+          "label": "Lysander",
+          "partId": "lives-volume-vi-15naln",
+          "partTitle": "Lives, Volume VI",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "sulla-1brxgf",
+          "label": "Sulla",
+          "partId": "lives-volume-vi-15naln",
+          "partTitle": "Lives, Volume VI",
+          "sectionCount": 76,
+          "status": "ready"
+        },
+        {
+          "slug": "comparison-of-lysander-and-sulla-5854xy",
+          "label": "Comparison of Lysander and Sulla",
+          "partId": "lives-volume-vi-15naln",
+          "partTitle": "Lives, Volume VI",
+          "sectionCount": 10,
+          "status": "ready"
+        },
+        {
+          "slug": "cimon-12rkxy",
+          "label": "Cimon",
+          "partId": "lives-volume-vi-15naln",
+          "partTitle": "Lives, Volume VI",
+          "sectionCount": 38,
+          "status": "ready"
+        },
+        {
+          "slug": "lucullus-1dug03",
+          "label": "Lucullus",
+          "partId": "lives-volume-vi-15naln",
+          "partTitle": "Lives, Volume VI",
+          "sectionCount": 86,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "caius-marius-e9n96o-1",
+      "label": "Caius Marius (Section 1.1 - Section 30.2)",
+      "partId": "lives-volume-vi-15naln",
+      "partTitle": "Lives, Volume VI",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "caius-marius-e9n96o-2",
+      "label": "Caius Marius (Section 31.1 - Section 46.2)",
+      "partId": "lives-volume-vi-15naln",
+      "partTitle": "Lives, Volume VI",
+      "sectionCount": 32,
+      "status": "ready"
+    },
+    {
+      "slug": "lysander-18so93",
+      "label": "Lysander",
+      "partId": "lives-volume-vi-15naln",
+      "partTitle": "Lives, Volume VI",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "sulla-1brxgf",
+      "label": "Sulla",
+      "partId": "lives-volume-vi-15naln",
+      "partTitle": "Lives, Volume VI",
+      "sectionCount": 76,
+      "status": "ready"
+    },
+    {
+      "slug": "comparison-of-lysander-and-sulla-5854xy",
+      "label": "Comparison of Lysander and Sulla",
+      "partId": "lives-volume-vi-15naln",
+      "partTitle": "Lives, Volume VI",
+      "sectionCount": 10,
+      "status": "ready"
+    },
+    {
+      "slug": "cimon-12rkxy",
+      "label": "Cimon",
+      "partId": "lives-volume-vi-15naln",
+      "partTitle": "Lives, Volume VI",
+      "sectionCount": 38,
+      "status": "ready"
+    },
+    {
+      "slug": "lucullus-1dug03",
+      "label": "Lucullus",
+      "partId": "lives-volume-vi-15naln",
+      "partTitle": "Lives, Volume VI",
+      "sectionCount": 86,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "caius-marius-e9n96o-1",
+      "partTitle": "Lives, Volume VI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Caius Marius",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg031.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Caius Marius",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg031.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "caius-marius-e9n96o-2",
+      "partTitle": "Lives, Volume VI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Caius Marius",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg031.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Caius Marius",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg031.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "lysander-18so93",
+      "partTitle": "Lives, Volume VI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Λύσανδρος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg032.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Lysander",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg032.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "sulla-1brxgf",
+      "partTitle": "Lives, Volume VI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Σύλλας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg033.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Sulla",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg033.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "comparison-of-lysander-and-sulla-5854xy",
+      "partTitle": "Lives, Volume VI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Σύγκρισις Λυσάνδρου καὶ Σύλλα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg034.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Comparison of Lysander and Sulla",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg034.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "cimon-12rkxy",
+      "partTitle": "Lives, Volume VI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Κίμων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg035.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Cimon",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg035.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "lucullus-1dug03",
+      "partTitle": "Lives, Volume VI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Λούκουλλος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg036.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Lucullus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg036.perseus-eng2/"
+      }
+    }
+  ]
+}

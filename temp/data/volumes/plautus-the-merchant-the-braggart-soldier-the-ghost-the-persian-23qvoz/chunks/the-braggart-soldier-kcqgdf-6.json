@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-braggart-soldier-kcqgdf-6",
+  "label": "The Braggart Soldier (Section 2.5.428c - Section 2.5.472b)",
+  "partId": "the-braggart-soldier-kcqgdf",
+  "partTitle": "The Braggart Soldier",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Miles Gloriosus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Miles Gloriosus, or The Braggart Captain",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "2.5.428c",
+      "label": "Section 2.5.428c",
+      "chapter": null,
+      "original": "Neutrum .",
+      "translation": "No , neither of you ."
+    },
+    {
+      "id": "2.5.428d",
+      "label": "Section 2.5.428d",
+      "chapter": null,
+      "original": "Metuo maxume ,",
+      "translation": "I very much fear —"
+    },
+    {
+      "id": "2.5.429",
+      "label": "Section 2.5.429",
+      "chapter": null,
+      "original": "Quid metuis ?",
+      "translation": "What do you fear ?"
+    },
+    {
+      "id": "2.5.429b",
+      "label": "Section 2.5.429b",
+      "chapter": null,
+      "original": "Enim ne nos nosmet perdiderimus uspiam ;",
+      "translation": "Why , that we have lost ourselves somewhere or other ; for she says that she knows neither you nor me ."
+    },
+    {
+      "id": "2.5.430b",
+      "label": "Section 2.5.430b",
+      "chapter": null,
+      "original": "Persectari hic volo ,",
+      "translation": "I wish , Sceledrus , to examine into this , whether we are ourselves , or else some other persons ; lest secretly somehow some one of our neighbours may have transformed us without our knowing it ."
+    },
+    {
+      "id": "2.5.433",
+      "label": "Section 2.5.433",
+      "chapter": null,
+      "original": "Certe equidem noster sum .",
+      "translation": "For my part , beyond a doubt , I am my own self ."
+    },
+    {
+      "id": "2.5.433b",
+      "label": "Section 2.5.433b",
+      "chapter": null,
+      "original": "Et pol ego . quaeris tu , mulier , malum .",
+      "translation": "I ’ faith , and so am I ."
+    },
+    {
+      "id": "2.5.434",
+      "label": "Section 2.5.434",
+      "chapter": null,
+      "original": "tibi ego dico , heus , Philocomasium .",
+      "translation": "My lady , you are seeking your destruction . [*] To you I am speaking ; hark you , Philocomasium !"
+    },
+    {
+      "id": "2.5.434b",
+      "label": "Section 2.5.434b",
+      "chapter": null,
+      "original": "Quae te intemperiae tenent ,",
+      "translation": "What craziness possesses you ,"
+    },
+    {
+      "id": "2.5.435",
+      "label": "Section 2.5.435",
+      "chapter": null,
+      "original": "qui me perperam perplexo nomine appelles ?",
+      "translation": "to be calling me wrongly by a crackjaw name [*] ?"
+    },
+    {
+      "id": "2.5.435b",
+      "label": "Section 2.5.435b",
+      "chapter": null,
+      "original": "Eho ,",
+      "translation": "How now ! What are you called , then ?"
+    },
+    {
+      "id": "2.5.436b",
+      "label": "Section 2.5.436b",
+      "chapter": null,
+      "original": "Diceae nomen est .",
+      "translation": "My name is Glycera ."
+    },
+    {
+      "id": "2.5.436c",
+      "label": "Section 2.5.436c",
+      "chapter": null,
+      "original": "Iniuria es ,",
+      "translation": "For a bad purpose , Philocomasium , you wish to have a wrong name [*] . Away with you , shocking woman ; for most notably are you doing a wrong to my master ."
+    },
+    {
+      "id": "2.5.439",
+      "label": "Section 2.5.439",
+      "chapter": null,
+      "original": "Egone ?",
+      "translation": "I ?"
+    },
+    {
+      "id": "2.5.439b",
+      "label": "Section 2.5.439b",
+      "chapter": null,
+      "original": "Tu ne .",
+      "translation": "Yes , you ."
+    },
+    {
+      "id": "2.5.439c",
+      "label": "Section 2.5.439c",
+      "chapter": null,
+      "original": "Quaé heri Athenis Ephesum adveni vesperi",
+      "translation": "I , who arrived from Athens yesterday evening at Ephesus ,"
+    },
+    {
+      "id": "2.5.440",
+      "label": "Section 2.5.440",
+      "chapter": null,
+      "original": "cum meo amatore , adulescente Atheniensi ?",
+      "translation": "with my lover , a young man of Athens ?"
+    },
+    {
+      "id": "2.5.440b",
+      "label": "Section 2.5.440b",
+      "chapter": null,
+      "original": "Dic mihi ,",
+      "translation": "Tell me ,"
+    },
+    {
+      "id": "2.5.441",
+      "label": "Section 2.5.441",
+      "chapter": null,
+      "original": "quid hic tibi in Epheso est negoti ?",
+      "translation": "what business have you here in Ephesus ?"
+    },
+    {
+      "id": "2.5.441b",
+      "label": "Section 2.5.441b",
+      "chapter": null,
+      "original": "Geminam germanam meam",
+      "translation": "I had heard that my own twin-sister is here in Ephesus ; I came here to look for her ."
+    },
+    {
+      "id": "2.5.442b",
+      "label": "Section 2.5.442b",
+      "chapter": null,
+      "original": "Mala es .",
+      "translation": "You ’ re a good-for-nothing woman ."
+    },
+    {
+      "id": "2.5.443",
+      "label": "Section 2.5.443",
+      "chapter": null,
+      "original": "Immo ecastor stulta multum , quae vobiscum fabuler .",
+      "translation": "Yes , i ’ faith , I am a very foolish one to be parleying with you fellows . I am going ."
+    },
+    {
+      "id": "2.5.444b",
+      "label": "Section 2.5.444b",
+      "chapter": null,
+      "original": "Abire non sinam te .",
+      "translation": "I won ’ t let you go ."
+    },
+    {
+      "id": "2.5.444c",
+      "label": "Section 2.5.444c",
+      "chapter": null,
+      "original": "Mitte .",
+      "translation": "Let me go ."
+    },
+    {
+      "id": "2.5.444d",
+      "label": "Section 2.5.444d",
+      "chapter": null,
+      "original": "Manifestaria es .",
+      "translation": "You are discovered in the fact ."
+    },
+    {
+      "id": "2.5.445",
+      "label": "Section 2.5.445",
+      "chapter": null,
+      "original": "non omitto .",
+      "translation": "I won ’ t let you go ."
+    },
+    {
+      "id": "2.5.445b",
+      "label": "Section 2.5.445b",
+      "chapter": null,
+      "original": "At iam crepabunt mihi manus , malae tibi ,",
+      "translation": "But my hands shall just now sound again against your cheek , if you don ’ t let me go ."
+    },
+    {
+      "id": "2.5.446b",
+      "label": "Section 2.5.446b",
+      "chapter": null,
+      "original": "Quid , malum , astas ? quin tenes altrinsecus ?",
+      "translation": "Why the plague are you standing idle ? Why don ’ t you hold her on the other side ?"
+    },
+    {
+      "id": "2.5.447",
+      "label": "Section 2.5.447",
+      "chapter": null,
+      "original": "Nil moror negotiosum mi esse tergum . qui scio",
+      "translation": "I don ’ t choose to bring the business down upon my back . How do I know but that this is not Philocomasium , but is some other female that resembles her ?"
+    },
+    {
+      "id": "2.5.449",
+      "label": "Section 2.5.449",
+      "chapter": null,
+      "original": "Mittis me an non mittis ?",
+      "translation": "Will you let me go , or will you not let me go ?"
+    },
+    {
+      "id": "2.5.449b",
+      "label": "Section 2.5.449b",
+      "chapter": null,
+      "original": "Immo vi atque invitam ingratiis ,",
+      "translation": "No ; by force and against your will , in spite of you ,"
+    },
+    {
+      "id": "2.5.450",
+      "label": "Section 2.5.450",
+      "chapter": null,
+      "original": "nisi voluntate ibis , rapiam te domum .",
+      "translation": "I ’ ll drag you home , unless you ’ ll go of your own accord ."
+    },
+    {
+      "id": "2.5.450b",
+      "label": "Section 2.5.450b",
+      "chapter": null,
+      "original": "Hosticum hoc mihi",
+      "translation": "This is my lodging here abroad [*] , at Athens is my home ."
+    },
+    {
+      "id": "2.5.452",
+      "label": "Section 2.5.452",
+      "chapter": null,
+      "original": "neque moror neque vos qui hómines sitis novi neque scio .",
+      "translation": "I have nothing to do with that house , nor do I know or understand yourselves what persons you are ."
+    },
+    {
+      "id": "2.5.453",
+      "label": "Section 2.5.453",
+      "chapter": null,
+      "original": "Lege agito : te nusquam mittam , nisi das firmatam fidem ,",
+      "translation": "Proceed against me [*] at law . I ’ ll never let you go , until you give me your solemn word that you will go indoors here ( pointing to the CAPTAIN ’ S house ) if I let go of you ."
+    },
+    {
+      "id": "2.5.454b",
+      "label": "Section 2.5.454b",
+      "chapter": null,
+      "original": "Vi me cogis , quisquis es .",
+      "translation": "You are compelling me by force , whoever you are ."
+    },
+    {
+      "id": "2.5.455",
+      "label": "Section 2.5.455",
+      "chapter": null,
+      "original": "do fidem , si omittis , isto me intro ituram quo iubes .",
+      "translation": "I give you my word , that if you let go of me , I will go into that house where you bid me ."
+    },
+    {
+      "id": "2.5.456",
+      "label": "Section 2.5.456",
+      "chapter": null,
+      "original": "Ecce omitto .",
+      "translation": "Then , now I let go of you ."
+    },
+    {
+      "id": "2.5.456b",
+      "label": "Section 2.5.456b",
+      "chapter": null,
+      "original": "At ego abeo missa . —",
+      "translation": "And , as I ’ m let go , I ’ ll go in here ."
+    },
+    {
+      "id": "2.5.456c",
+      "label": "Section 2.5.456c",
+      "chapter": null,
+      "original": "Muliebri fecit fide .",
+      "translation": "She has acted with a woman ’ s honour ."
+    },
+    {
+      "id": "2.5.457",
+      "label": "Section 2.5.457",
+      "chapter": null,
+      "original": "Sceledre , manibus amisisti praedam . tám east quam potis",
+      "translation": "Sceledrus , you ’ ve lost the prey through your hands ; as sure as possible she is the lady of our master . Do you intend to act in this matter with spirit ?"
+    },
+    {
+      "id": "2.5.459",
+      "label": "Section 2.5.459",
+      "chapter": null,
+      "original": "Quid faciam ?",
+      "translation": "How am I to act ?"
+    },
+    {
+      "id": "2.5.459b",
+      "label": "Section 2.5.459b",
+      "chapter": null,
+      "original": "Ecfer mihi machaeram huc intus .",
+      "translation": "Bring me a sword out here from in-doors ."
+    },
+    {
+      "id": "2.5.459c",
+      "label": "Section 2.5.459c",
+      "chapter": null,
+      "original": "Quid facies ea ?",
+      "translation": "What will you do with it ?"
+    },
+    {
+      "id": "2.5.460",
+      "label": "Section 2.5.460",
+      "chapter": null,
+      "original": "Intro rumpam recta in aedis : quemque hic intus videro",
+      "translation": "I ’ ll break right into the house [*] ; and whatever man I see in-doors there caressing Philocomasium , I ’ ll behead him on the spot ."
+    },
+    {
+      "id": "2.5.462",
+      "label": "Section 2.5.462",
+      "chapter": null,
+      "original": "Visanest ea esse ?",
+      "translation": "And do you think that it was she ?"
+    },
+    {
+      "id": "2.5.462b",
+      "label": "Section 2.5.462b",
+      "chapter": null,
+      "original": "Immo edepol plane east .",
+      "translation": "I ’ faith , it was she , sure enough ."
+    },
+    {
+      "id": "2.5.462c",
+      "label": "Section 2.5.462c",
+      "chapter": null,
+      "original": "Sed quo modo",
+      "translation": "But how she did dissemble ."
+    },
+    {
+      "id": "2.5.463b",
+      "label": "Section 2.5.463b",
+      "chapter": null,
+      "original": "Abi , machaeram huc ecfer .",
+      "translation": "Go , bring me a sword out here ."
+    },
+    {
+      "id": "2.5.463c",
+      "label": "Section 2.5.463c",
+      "chapter": null,
+      "original": "Iam faxo hic erit . —",
+      "translation": "I ’ ll have it here this moment ."
+    },
+    {
+      "id": "2.5.464",
+      "label": "Section 2.5.464",
+      "chapter": null,
+      "original": "Neque eques neque pedes profectost quisquam tanta audacia ,",
+      "translation": "Beyond a doubt , neither any horse nor foot has so great a degree of boldness"
+    },
+    {
+      "id": "2.5.465",
+      "label": "Section 2.5.465",
+      "chapter": null,
+      "original": "qui aeque faciat confidenter quicquam quam mulier facit .",
+      "translation": "in carrying out anything with as much confidence as some women . How cleverly and how skilfully she performed her part in both her characters !— how her wary keeper , my fellow-servant , is being gulled ! ’ Tis most fortunate that the passage communicates through the party-wall ."
+    },
+    {
+      "id": "2.5.469",
+      "label": "Section 2.5.469",
+      "chapter": null,
+      "original": "Heus , Palaestrio , machaera nihil opust .",
+      "translation": "Hallo ! Palaestrio , there ’ s no occasion for the sword ."
+    },
+    {
+      "id": "2.5.469b",
+      "label": "Section 2.5.469b",
+      "chapter": null,
+      "original": "Quid iam , aut quid est ?",
+      "translation": "How so ?— or what ’ s the matter now ?"
+    },
+    {
+      "id": "2.5.470",
+      "label": "Section 2.5.470",
+      "chapter": null,
+      "original": "Domi eccam erilem concubinam .",
+      "translation": "Our master ’ s lady is there , at home ."
+    },
+    {
+      "id": "2.5.470b",
+      "label": "Section 2.5.470b",
+      "chapter": null,
+      "original": "Quid , domi ?",
+      "translation": "What ? At home ?"
+    },
+    {
+      "id": "2.5.470c",
+      "label": "Section 2.5.470c",
+      "chapter": null,
+      "original": "In lecto cubat .",
+      "translation": "She ’ s lying on the sofa ."
+    },
+    {
+      "id": "2.5.471",
+      "label": "Section 2.5.471",
+      "chapter": null,
+      "original": "Edepol ne tu tibi malam rem repperisti , ut praedicas .",
+      "translation": "Faith , but you ’ ve certainly brought on yourself a disagreable affair , according to what you report ."
+    },
+    {
+      "id": "2.5.472",
+      "label": "Section 2.5.472",
+      "chapter": null,
+      "original": "Quid iam ?",
+      "translation": "How so ?"
+    },
+    {
+      "id": "2.5.472b",
+      "label": "Section 2.5.472b",
+      "chapter": null,
+      "original": "Quia hanc attingere ausus esausu's mulierem hinc ex proxumo .",
+      "translation": "Inasmuch as you have dared to touch that lady next door here ."
+    }
+  ],
+  "prevChunkSlug": "the-braggart-soldier-kcqgdf-5",
+  "nextChunkSlug": "the-braggart-soldier-kcqgdf-7"
+}

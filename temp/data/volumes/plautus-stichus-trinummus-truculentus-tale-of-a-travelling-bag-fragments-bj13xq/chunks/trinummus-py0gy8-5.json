@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-stichus-trinummus-truculentus-tale-of-a-travelling-bag-fragments-bj13xq",
+  "volumeTitle": "Stichus. Trinummus. Truculentus. Tale of a Travelling Bag. Fragments",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "trinummus-py0gy8-5",
+  "label": "Trinummus (Section 2.4.439 - Section 2.4.535)",
+  "partId": "trinummus-py0gy8",
+  "partTitle": "Trinummus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Trinummus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi019.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Trinummus: The Three Pieces of Money",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi019.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "2.4.439",
+      "label": "Section 2.4.439",
+      "chapter": null,
+      "original": "Nequam illud verbumst bene volt , nisi qui bene facit .",
+      "translation": "That phrase , He wishes well , is worthless , unless a person does well too ."
+    },
+    {
+      "id": "2.4.440",
+      "label": "Section 2.4.440",
+      "chapter": null,
+      "original": "ego quoque volo esse liber : nequiquam volo ;",
+      "translation": "I , too , wish to be a free man ; I wish in vain . He , perhaps , might wish to become frugal ; he would wish to no purpose ."
+    },
+    {
+      "id": "2.4.442",
+      "label": "Section 2.4.442",
+      "chapter": null,
+      "original": "Meus gnátus me ad te misit , inter te atque nos",
+      "translation": "My son has sent me to you to propose an alliance and bond of friendship between himself and your family . He wishes to take your sister for his wife ; and I"
+    },
+    {
+      "id": "2.4.445",
+      "label": "Section 2.4.445",
+      "chapter": null,
+      "original": "sententia eademst et volo .",
+      "translation": "have the same feelings , and I desire it ."
+    },
+    {
+      "id": "2.4.445b",
+      "label": "Section 2.4.445b",
+      "chapter": null,
+      "original": "Hau nosco tuom :",
+      "translation": "I really don ’ t understand your ways ; amid your prosperity you are laughing at my adversity ."
+    },
+    {
+      "id": "2.4.447",
+      "label": "Section 2.4.447",
+      "chapter": null,
+      "original": "Homo ego sum , homo tu es : ita me amabit Iuppiter ,",
+      "translation": "I am a man [*] : you are a man . So may Jupiter love me , I have neither come to laugh at you , nor do I think you deserving of it ! But as to what I said , my son begged me"
+    },
+    {
+      "id": "2.4.450",
+      "label": "Section 2.4.450",
+      "chapter": null,
+      "original": "ut tuam sororem poscerem uxorem sibi .",
+      "translation": "to ask for your sister as his wife ."
+    },
+    {
+      "id": "2.4.451",
+      "label": "Section 2.4.451",
+      "chapter": null,
+      "original": "Mearúm me rerum novisse aequomst ordinem .",
+      "translation": "It is right that I should know the state of my own circumstances . My position is not on an equal footing with yours ; seek some other alliance for yourselves ."
+    },
+    {
+      "id": "2.4.454",
+      "label": "Section 2.4.454",
+      "chapter": null,
+      "original": "Satin tu es sanus mentis aut animi tui ,",
+      "translation": "Are you really sound in mind or intellect"
+    },
+    {
+      "id": "2.4.455",
+      "label": "Section 2.4.455",
+      "chapter": null,
+      "original": "qui condicionem hanc repudies ? nam illum tibi",
+      "translation": "to refuse this proposal ? For I perceive that he has been found for you a very friend in need [*] ."
+    },
+    {
+      "id": "2.4.457",
+      "label": "Section 2.4.457",
+      "chapter": null,
+      "original": "Abin hínc dierecte ?",
+      "translation": "Get away hence , and go hang yourself [*] ."
+    },
+    {
+      "id": "2.4.457b",
+      "label": "Section 2.4.457b",
+      "chapter": null,
+      "original": "Si hercle ire occipiam , votes .",
+      "translation": "Faith , if I should commence to go , you would be forbidding me [*] ."
+    },
+    {
+      "id": "2.4.458",
+      "label": "Section 2.4.458",
+      "chapter": null,
+      "original": "Nisi quid me aliud vis , Philto , respondi tibi .",
+      "translation": "Unless you want me , Philto , for anything else , I have given you my answer ."
+    },
+    {
+      "id": "2.4.459",
+      "label": "Section 2.4.459",
+      "chapter": null,
+      "original": "Benigniorem , Lesbonice , te mihi ,",
+      "translation": "I trust , Lesbonicus , that you"
+    },
+    {
+      "id": "2.4.460",
+      "label": "Section 2.4.460",
+      "chapter": null,
+      "original": "quam nunc experior esse , confido fore ;",
+      "translation": "will one day be more obliging to me than I now find you to be . For both to act [*] unwisely and to talk unwisely , Lesbonicus , are sometimes neither of them profitable ."
+    },
+    {
+      "id": "2.4.463",
+      "label": "Section 2.4.463",
+      "chapter": null,
+      "original": "Verum hercle hic dicit .",
+      "translation": "Troth , he says what ’ s true ."
+    },
+    {
+      "id": "2.4.463b",
+      "label": "Section 2.4.463b",
+      "chapter": null,
+      "original": "Oculum ego ecfodiam tibi ,",
+      "translation": "I will tear out your eye if you add one word ."
+    },
+    {
+      "id": "2.4.464b",
+      "label": "Section 2.4.464b",
+      "chapter": null,
+      "original": "Hercle qui dicam tamen ;",
+      "translation": "Troth , but I will talk ;"
+    },
+    {
+      "id": "2.4.465",
+      "label": "Section 2.4.465",
+      "chapter": null,
+      "original": "nam si sic non licebit , luscus dixero .",
+      "translation": "for if I may not be allowed to do so as I am , then I will submit to be called the one-eyed man [*] ."
+    },
+    {
+      "id": "2.4.466",
+      "label": "Section 2.4.466",
+      "chapter": null,
+      "original": "Ita tu nunc dicis , non esse aequiperabiles",
+      "translation": "Do you now say this , that your position and means are not on an equal footing with ours ?"
+    },
+    {
+      "id": "2.4.468",
+      "label": "Section 2.4.468",
+      "chapter": null,
+      "original": "Dico .",
+      "translation": "I do say so ."
+    },
+    {
+      "id": "2.4.468b",
+      "label": "Section 2.4.468b",
+      "chapter": null,
+      "original": "Quid ? nunc si in aedem ad cenam veneris",
+      "translation": "Well , suppose , now , you were to come to a building to a public banquet , and a wealthy man by chance were to come there as your neighbour [*] ."
+    },
+    {
+      "id": "2.4.470",
+      "label": "Section 2.4.470",
+      "chapter": null,
+      "original": "( adposita cena sit , popularem quam vocant ),",
+      "translation": "The banquet is set on table , one that they style a public one [*] . Suppose that dainties were heaped up before him by his dependents , and suppose any-thing pleased you that was so heaped up before him , would you eat , or would you keep your place next to this wealthy man , going without your dinner ?"
+    },
+    {
+      "id": "2.4.474",
+      "label": "Section 2.4.474",
+      "chapter": null,
+      "original": "Edim , nisi si ille votet .",
+      "translation": "I should eat , unless he were to forbid me doing so ."
+    },
+    {
+      "id": "2.4.474b",
+      "label": "Section 2.4.474b",
+      "chapter": null,
+      "original": "At pol ego etsi votet",
+      "translation": "But I , by my faith , even if he were to forbid me ,"
+    },
+    {
+      "id": "2.4.475",
+      "label": "Section 2.4.475",
+      "chapter": null,
+      "original": "edim , atque ambabus malis expletis vorem ,",
+      "translation": "would eat and cram with both cheeks stuffed out ; and what pleased him , that , in especial , would I lay hold of beforehand ; nor would I yield to him one jot of my very existence . At table it befits no one to be bashful ; for there the decision [*] is about things both divine and human ."
+    },
+    {
+      "id": "2.4.480",
+      "label": "Section 2.4.480",
+      "chapter": null,
+      "original": "Rem fabulare .",
+      "translation": "You say what is the fact ."
+    },
+    {
+      "id": "2.4.480b",
+      "label": "Section 2.4.480b",
+      "chapter": null,
+      "original": "Non tibi dicam dolo :",
+      "translation": "I will tell you without any subterfuge : I would make place for him on the highway , on the footpath , in the canvass for public honors ; but as to what concerns the stomach — by my troth , not this much ( shows the breadth of his finger-nail ) , unless he should first have thrashed me with his fists . With provisions at the present prices , a feast is a fortune without incumbrances [*] ."
+    },
+    {
+      "id": "2.4.485",
+      "label": "Section 2.4.485",
+      "chapter": null,
+      "original": "Semper tu hoc facito , Lesbonice , cogites ,",
+      "translation": "Always , Lesbonicus , do you take care and think this , that that is the best , according as you yourself are the most deserving : if that you cannot attain to , at least be as near as possible to the most deserving . And now , Lesbonicus , I wish you to grant and accept these terms which I propose , and which I ask of you ."
+    },
+    {
+      "id": "2.4.490",
+      "label": "Section 2.4.490",
+      "chapter": null,
+      "original": "di divites sunt , deos decent opulentiae",
+      "translation": "The Gods are rich ; wealth and station befit the Gods : but we poor mortal beings are , as it were , the salt-cellar [*] for the salt of life . The moment that we have breathed forth this , the beggar is held of equal value at Acheron [*] with the most wealthy man when dead ."
+    },
+    {
+      "id": "2.4.495",
+      "label": "Section 2.4.495",
+      "chapter": null,
+      "original": "Mirum quin tu illo tecum divitias feras .",
+      "translation": "It will be a wonder if you don ’ t carry your riches there with you . When you are dead , you may , perhaps , be as good as your name imports [*] ."
+    },
+    {
+      "id": "2.4.497",
+      "label": "Section 2.4.497",
+      "chapter": null,
+      "original": "Nunc ut scias hic factiones atque opes",
+      "translation": "Now , that you may understand that position and means have no place here , and that we do not undervalue your alliance ; I ask for your sister without a marriage-portion ."
+    },
+    {
+      "id": "2.4.500",
+      "label": "Section 2.4.500",
+      "chapter": null,
+      "original": "quae res bene vortat — habeon pactam ? quid taces ?",
+      "translation": "May the matter turn out happily . Do I understand her to be promised ? Why are you silent ?"
+    },
+    {
+      "id": "2.4.501",
+      "label": "Section 2.4.501",
+      "chapter": null,
+      "original": "Pro di immortales , condicionem quoius modi .",
+      "translation": "O immortal Gods , what a proposal !"
+    },
+    {
+      "id": "2.4.502",
+      "label": "Section 2.4.502",
+      "chapter": null,
+      "original": "Quin fabulare di bene vortant , spondeo ?",
+      "translation": "Why don ’ t you say , May the Gods prosper it , I agree [*] ?"
+    },
+    {
+      "id": "2.4.503",
+      "label": "Section 2.4.503",
+      "chapter": null,
+      "original": "Eheú ubi usus nil erat dícto , spondeo",
+      "translation": "Alas ! when there was no advantage in the expression , he used to say , I agree ; now , when there is advantage in it , he is not able to say so ."
+    },
+    {
+      "id": "2.4.505",
+      "label": "Section 2.4.505",
+      "chapter": null,
+      "original": "Quom adfinitate vostra me arbitramini",
+      "translation": "Since you think me , Philto , worthy of an alliance with you , I return you many thanks . But though this fortune of mine has sadly diminished through my folly , I have , Philto , a piece of land near the city here ; that I will give as a portion to my sister : for , after all my follies ,"
+    },
+    {
+      "id": "2.4.510",
+      "label": "Section 2.4.510",
+      "chapter": null,
+      "original": "solus superfit praeter vitam relicuos .",
+      "translation": "that alone , besides my existence , is left me ."
+    },
+    {
+      "id": "2.4.511",
+      "label": "Section 2.4.511",
+      "chapter": null,
+      "original": "Profecto dotem nil moror .",
+      "translation": "Really I care nothing at all about a portion ."
+    },
+    {
+      "id": "2.4.511b",
+      "label": "Section 2.4.511b",
+      "chapter": null,
+      "original": "Certumst dare .",
+      "translation": "I am determined to give her one ."
+    },
+    {
+      "id": "2.4.512",
+      "label": "Section 2.4.512",
+      "chapter": null,
+      "original": "Nostramne , ere , vis nutricem , quae nos educat ,",
+      "translation": "And are you ready , master , to sever that nurse from us which is supporting us ? Take care how you do it . What are we ourselves to eat in future ?"
+    },
+    {
+      "id": "2.4.514b",
+      "label": "Section 2.4.514b",
+      "chapter": null,
+      "original": "Etiam tu taces ?",
+      "translation": "Once more , will you hold your tongue ?"
+    },
+    {
+      "id": "2.4.515",
+      "label": "Section 2.4.515",
+      "chapter": null,
+      "original": "tibi ego rationem reddam ?",
+      "translation": "Am I to be rendered accountable to you ?"
+    },
+    {
+      "id": "2.4.515b",
+      "label": "Section 2.4.515b",
+      "chapter": null,
+      "original": "Plane periimus ,",
+      "translation": "We are evidently done for , unless I devise something or other . Philto , I want you ."
+    },
+    {
+      "id": "2.4.517",
+      "label": "Section 2.4.517",
+      "chapter": null,
+      "original": "Si quid vis , Stasime .",
+      "translation": "If you wish aught , Stasimus ."
+    },
+    {
+      "id": "2.4.517b",
+      "label": "Section 2.4.517b",
+      "chapter": null,
+      "original": "Huc cóncede aliquantum .",
+      "translation": "Step a little this way ."
+    },
+    {
+      "id": "2.4.517c",
+      "label": "Section 2.4.517c",
+      "chapter": null,
+      "original": "Licet .",
+      "translation": "By all means ."
+    },
+    {
+      "id": "2.4.518",
+      "label": "Section 2.4.518",
+      "chapter": null,
+      "original": "Arcano tibi ego hoc dico , ne ille ex te sciat",
+      "translation": "I tell you this in secrecy , that neither he nor any one else may learn it of you ."
+    },
+    {
+      "id": "2.4.519b",
+      "label": "Section 2.4.519b",
+      "chapter": null,
+      "original": "Crede audacter quidlubet .",
+      "translation": "Trust me boldly with anything you please ."
+    },
+    {
+      "id": "2.4.520",
+      "label": "Section 2.4.520",
+      "chapter": null,
+      "original": "Per deos atque homines dico , ne tu illunc agrum",
+      "translation": "By Gods and men I warn you , not to allow that piece of land ever to become yours or your son ’ s . I ’ ll tell you my reasons for this matter ."
+    },
+    {
+      "id": "2.4.522b",
+      "label": "Section 2.4.522b",
+      "chapter": null,
+      "original": "Audire edepol lubet .",
+      "translation": "Troth , I should like to hear them ."
+    },
+    {
+      "id": "2.4.523",
+      "label": "Section 2.4.523",
+      "chapter": null,
+      "original": "Primum omnium olim terra cum proscinditur ,",
+      "translation": "First of all then , when at any time the ground is being ploughed , in every fifth furrow the oxen die ."
+    },
+    {
+      "id": "2.4.525",
+      "label": "Section 2.4.525",
+      "chapter": null,
+      "original": "Apage , Acheruntis ostium in vostrost agro .",
+      "translation": "The gate of Acheron is in that land of ours ."
+    },
+    {
+      "id": "2.4.526",
+      "label": "Section 2.4.526",
+      "chapter": null,
+      "original": "Tum vinum prius quam coctumst pendet putidum .",
+      "translation": "Then the grapes , before they are ripe , hang in a putrid state ."
+    },
+    {
+      "id": "2.4.527",
+      "label": "Section 2.4.527",
+      "chapter": null,
+      "original": "Consuadet homini , credo . etsi scelestus est ,",
+      "translation": "He is persuading the man to something , I think . Although he is a rogue , still he is not unfaithful to me ."
+    },
+    {
+      "id": "2.4.528b",
+      "label": "Section 2.4.528b",
+      "chapter": null,
+      "original": "Audi cetera .",
+      "translation": "Hear the rest . Besides that , when elsewhere the harvest of wheat is most abundant ,"
+    },
+    {
+      "id": "2.4.530",
+      "label": "Section 2.4.530",
+      "chapter": null,
+      "original": "tribus tántis illi minus redit quam opseveris .",
+      "translation": "there it comes up less by one-fourth than what you have sowed ."
+    },
+    {
+      "id": "2.4.531",
+      "label": "Section 2.4.531",
+      "chapter": null,
+      "original": "Em istic oportet opseri mores malos ,",
+      "translation": "Ah ! bad habits ought to be sown on that spot , if in the sowing they can be killed ."
+    },
+    {
+      "id": "2.4.533",
+      "label": "Section 2.4.533",
+      "chapter": null,
+      "original": "Neque umquam quisquamst , quoius ille ager fuit ,",
+      "translation": "And never is there any person to whom that piece of land belongs , but that his affairs turn out most unfortunate . Of those to whom it has belonged ,"
+    },
+    {
+      "id": "2.4.535",
+      "label": "Section 2.4.535",
+      "chapter": null,
+      "original": "alii exulatum abierunt , alii emortui ,",
+      "translation": "some have gone away in banishment ; some are dead outright ; some , again , have hanged themselves . See this man , now , to whom it belongs , how he has been brought to a regular backgammoned state [*] ."
+    }
+  ],
+  "prevChunkSlug": "trinummus-py0gy8-4",
+  "nextChunkSlug": "trinummus-py0gy8-6"
+}

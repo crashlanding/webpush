@@ -1,0 +1,178 @@
+{
+  "loebNumber": 167,
+  "sortOrder": 167,
+  "slug": "plato-cratylus-parmenides-greater-hippias-lesser-hippias-rqpem5",
+  "title": "Cratylus. Parmenides. Greater Hippias. Lesser Hippias",
+  "volumeLabel": "Cratylus. Parmenides. Greater Hippias. Lesser Hippias",
+  "authorDisplay": "Plato",
+  "authors": [
+    "Plato"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Cratylus. Parmenides. Greater Hippias. Lesser Hippias, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "cratylus-tkod83",
+  "readyChunkCount": 4,
+  "contents": [
+    {
+      "id": "cratylus-tkod83",
+      "title": "Cratylus",
+      "status": "ready",
+      "sectionCount": 58,
+      "chunkSlug": "cratylus-tkod83",
+      "chunks": [
+        {
+          "slug": "cratylus-tkod83",
+          "label": "Cratylus",
+          "partId": "cratylus-tkod83",
+          "partTitle": "Cratylus",
+          "sectionCount": 58,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "parmenides-1yywld",
+      "title": "Parmenides",
+      "status": "ready",
+      "sectionCount": 41,
+      "chunkSlug": "parmenides-1yywld",
+      "chunks": [
+        {
+          "slug": "parmenides-1yywld",
+          "label": "Parmenides",
+          "partId": "parmenides-1yywld",
+          "partTitle": "Parmenides",
+          "sectionCount": 41,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "greater-hippias-1xen34",
+      "title": "Greater Hippias",
+      "status": "ready",
+      "sectionCount": 24,
+      "chunkSlug": "greater-hippias-1xen34",
+      "chunks": [
+        {
+          "slug": "greater-hippias-1xen34",
+          "label": "Greater Hippias",
+          "partId": "greater-hippias-1xen34",
+          "partTitle": "Greater Hippias",
+          "sectionCount": 24,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "lesser-hippias-yo9z34",
+      "title": "Lesser Hippias",
+      "status": "ready",
+      "sectionCount": 14,
+      "chunkSlug": "lesser-hippias-yo9z34",
+      "chunks": [
+        {
+          "slug": "lesser-hippias-yo9z34",
+          "label": "Lesser Hippias",
+          "partId": "lesser-hippias-yo9z34",
+          "partTitle": "Lesser Hippias",
+          "sectionCount": 14,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "cratylus-tkod83",
+      "label": "Cratylus",
+      "partId": "cratylus-tkod83",
+      "partTitle": "Cratylus",
+      "sectionCount": 58,
+      "status": "ready"
+    },
+    {
+      "slug": "parmenides-1yywld",
+      "label": "Parmenides",
+      "partId": "parmenides-1yywld",
+      "partTitle": "Parmenides",
+      "sectionCount": 41,
+      "status": "ready"
+    },
+    {
+      "slug": "greater-hippias-1xen34",
+      "label": "Greater Hippias",
+      "partId": "greater-hippias-1xen34",
+      "partTitle": "Greater Hippias",
+      "sectionCount": 24,
+      "status": "ready"
+    },
+    {
+      "slug": "lesser-hippias-yo9z34",
+      "label": "Lesser Hippias",
+      "partId": "lesser-hippias-yo9z34",
+      "partTitle": "Lesser Hippias",
+      "sectionCount": 14,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "cratylus-tkod83",
+      "partTitle": "Cratylus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Κρατύλος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg005.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Cratylus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg005.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "parmenides-1yywld",
+      "partTitle": "Parmenides",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Παρμενίδης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg009.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Parmenides",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg009.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "greater-hippias-1xen34",
+      "partTitle": "Greater Hippias",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἱππίας μείζων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg025.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Greater Hippias",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg025.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "lesser-hippias-yo9z34",
+      "partTitle": "Lesser Hippias",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἱππίας ἐλάττων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg026.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Lesser Hippias",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg026.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-bacchae-iphigenia-at-aulis-rhesus-11kdpx",
+  "volumeTitle": "Bacchae. Iphigenia at Aulis. Rhesus",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "rhesus-14gqjv-5",
+  "label": "Rhesus (Section 622 - Section 1.727)",
+  "partId": "rhesus-14gqjv",
+  "partTitle": "Rhesus",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ῥῆσος",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg019.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Rhesus",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg019.perseus-eng3/"
+    }
+  },
+  "sections": [
+    {
+      "id": "622",
+      "label": "Section 622",
+      "chapter": null,
+      "original": "Διόμηδες , ἢ σὺ κτεῖνε Θρῄκιον λεών ,",
+      "translation": "Diomedes , either you slay the Thracian folk , or leave that to me , while your care must be the horses ."
+    },
+    {
+      "id": "624",
+      "label": "Section 624",
+      "chapter": null,
+      "original": "ἐγὼ φονεύσω , πωλοδαμνήσεις δὲ σύ ·",
+      "translation": "I will do the killing , and you master the horses ."
+    },
+    {
+      "id": "625",
+      "label": "Section 625",
+      "chapter": null,
+      "original": "τρίβων γὰρ εἶ τὰ κομψὰ καὶ νοεῖν σοφός .",
+      "translation": "For you are well versed in clever tricks , and have a ready wit . And it is right to station a man where he may best serve ."
+    },
+    {
+      "id": "627",
+      "label": "Section 627",
+      "chapter": null,
+      "original": "καὶ μὴν καθʼ ἡμᾶς τόνδʼ Ἀλέξανδρον βλέπω",
+      "translation": "Look ! there I see Paris coming towards us ; perhaps he has heard from the guard a vague rumor that foes are near ."
+    },
+    {
+      "id": "630",
+      "label": "Section 630",
+      "chapter": null,
+      "original": "πότερα σὺν ἄλλοις ἢ μόνος πορεύεται ;",
+      "translation": "Are others with him or does he come alone ?"
+    },
+    {
+      "id": "631",
+      "label": "Section 631",
+      "chapter": null,
+      "original": "μόνος · πρὸς εὐνὰς δʼ , ὡς ἔοικεν , Ἕκτορος",
+      "translation": "Alone ; to Hector ’ s couch he seems to wend his way , to announce to him that spies are in the camp ."
+    },
+    {
+      "id": "633",
+      "label": "Section 633",
+      "chapter": null,
+      "original": "οὐκ οὖν ὑπάρχειν τόνδε κατθανόντα χρή ;",
+      "translation": "Ought he not head the list of slain ?"
+    },
+    {
+      "id": "634",
+      "label": "Section 634",
+      "chapter": null,
+      "original": "οὐκ ἂν δύναιο τοῦ πεπρωμένου πλέον .",
+      "translation": "You can not overreach destiny ."
+    },
+    {
+      "id": "635",
+      "label": "Section 635",
+      "chapter": null,
+      "original": "τοῦτον δὲ πρὸς σῆς χειρὸς οὐ θέμις θανεῖν .",
+      "translation": "It is not decreed that he should fall by your hand . But hasten on your mission of fore-ordained slaughter , while I , feigning to be Cypris , his ally , and to aid him in his efforts , will answer the foe with unsound words ."
+    },
+    {
+      "id": "640",
+      "label": "Section 640",
+      "chapter": null,
+      "original": "καὶ ταῦτʼ ἐγὼ μὲν εἶπον · ὃν δὲ χρὴ παθεῖν ,",
+      "translation": "I tell you this ; but the fated victim does not know , nor has he heard , for all he is so near . Exeunt Odysseus and Diomedes ."
+    },
+    {
+      "id": "642",
+      "label": "Section 642",
+      "chapter": null,
+      "original": "σὲ τὸν στρατηγὸν καὶ κασίγνητον λέγω ,",
+      "translation": "To you I call , general and brother , Hector , are you asleep ? Should you not awake ? Some enemy draws near our army ,"
+    },
+    {
+      "id": "645",
+      "label": "Section 645",
+      "chapter": null,
+      "original": "ἢ κλῶπες ἄνδρες ἢ κατάσκοποί τινες .",
+      "translation": "or thieves perhaps , or spies ."
+    },
+    {
+      "id": "646",
+      "label": "Section 646",
+      "chapter": null,
+      "original": "θάρσει · φυλάσσει σʼ ἥδε πρευμενὴς Κύπρις .",
+      "translation": "Courage ! See , Cypris watches over you in gracious mood . Your warfare is my concern , for I do not forget the honor you once did me , and I thank you for your good service . And now , when the army of Troy is triumphant ,"
+    },
+    {
+      "id": "650",
+      "label": "Section 650",
+      "chapter": null,
+      "original": "ἥκω πορεύουσʼ ἄνδρα σοι μέγαν φίλον ,",
+      "translation": "I have come bringing to you a powerful friend , the Thracian child of the Muse , the heavenly singer ; his father ’ s name is Strymon ."
+    },
+    {
+      "id": "653",
+      "label": "Section 653",
+      "chapter": null,
+      "original": "αἰεί ποτʼ εὖ φρονοῦσα τυγχάνεις πόλει",
+      "translation": "Always to this city and to me you are a kind friend , and I am sure that decision I then made"
+    },
+    {
+      "id": "655",
+      "label": "Section 655",
+      "chapter": null,
+      "original": "κρίνας σέ φημι τῇδε προσθέσθαι πόλει .",
+      "translation": "conferred you upon this city , the highest treasure life affords . I came when I heard a vague report — for a rumor prevailed amlng the guards — that Achaean spies are here . One man , that did not see them , says so , while another , that saw them come , cannot describe them ;"
+    },
+    {
+      "id": "660",
+      "label": "Section 660",
+      "chapter": null,
+      "original": "ὧν οὕνεκʼ εὐνὰς ἤλυθον πρὸς Ἕκτορος .",
+      "translation": "and so I am on my way to Hector ’ s tent ."
+    },
+    {
+      "id": "661",
+      "label": "Section 661",
+      "chapter": null,
+      "original": "μηδὲν φοβηθῇς · οὐδὲν ἐν στρατῷ νέον ·",
+      "translation": "Fear nothing ; all is quiet in the army , and Hector has gone to assign a sleeping-place to the Thracian army ."
+    },
+    {
+      "id": "663",
+      "label": "Section 663",
+      "chapter": null,
+      "original": "σύ τοί με πείθεις , σοῖς δὲ πιστεύων λόγοις",
+      "translation": "You persuade me , and I believe your words , and will go to guard my post , free of fear ."
+    },
+    {
+      "id": "665",
+      "label": "Section 665",
+      "chapter": null,
+      "original": "χώρει · μέλειν γὰρ πάντʼ ἐμοὶ δόκει τὰ σά ,",
+      "translation": "Go , for it is my pleasure ever to watch your interests , that so I may see my allies prosperous . Yes , and you too shall recognize my zeal . Exit Paris ."
+    },
+    {
+      "id": "668",
+      "label": "Section 668",
+      "chapter": null,
+      "original": "ὑμᾶς δʼ ἀυτῶ τοὺς ἄγαν ἐρρωμένους ,",
+      "translation": "In a loud voice , to Odysseus and Diomedes . Son of Laertes , I bid you sheath your whetted swords , you warriors all too keen ."
+    },
+    {
+      "id": "670",
+      "label": "Section 670",
+      "chapter": null,
+      "original": "κεῖται γὰρ ἡμῖν Θρῄκιος στρατηλάτης ,",
+      "translation": "For the Thracian chief lies dead and his horses are captured , but the enemy know it , and are coming against you ; fly with all speed to the ships ’ station . Why delay saving your lives , when the enemy ’ s storm is just bursting on you ?"
+    },
+    {
+      "id": "675",
+      "label": "Section 675",
+      "chapter": null,
+      "original": "— ἔα ἔα ·",
+      "translation": "Oh , oh ! At them , at them ! Strike them , strike them !"
+    },
+    {
+      "id": "678",
+      "label": "Section 678",
+      "chapter": null,
+      "original": "— τίς ἁνήρ ; λεύσσετε · τοῦτον αὐδῶ .",
+      "translation": "Who goes there ?"
+    },
+    {
+      "id": "680",
+      "label": "Section 680",
+      "chapter": null,
+      "original": "— δεῦρο δεῦρο πᾶς .",
+      "translation": "Come here , here , everyone ! I have them , I have clutched them fast ."
+    },
+    {
+      "id": "682",
+      "label": "Section 682",
+      "chapter": null,
+      "original": "— τίς ὁ λόχος ; πόθεν ἔβας ; ποδαπὸς εἶ ;",
+      "translation": "What is your company ? Where did you come from ? Who are you ?"
+    },
+    {
+      "id": "683",
+      "label": "Section 683",
+      "chapter": null,
+      "original": "οὔ σε χρὴ εἰδέναι · θανῇ γὰρ σήμερον δράσας κακῶς .",
+      "translation": "It is not for you to know ; for you will die today for your villainy ."
+    },
+    {
+      "id": "684",
+      "label": "Section 684",
+      "chapter": null,
+      "original": "οὐκ ἐρεῖς ξύνθημα , λόγχην πρὶν διὰ στέρνων μολεῖν ;",
+      "translation": "Will you not declare the password , before my sword finds its way to your heart ?"
+    },
+    {
+      "id": "685",
+      "label": "Section 685",
+      "chapter": null,
+      "original": "ἵστω . θάρσει .",
+      "translation": "Halt ! Be of good heart ."
+    },
+    {
+      "id": "685b",
+      "label": "Section 685b",
+      "chapter": null,
+      "original": "πέλας ἴθι . παῖε πᾶς .",
+      "translation": "Come near . Strike , everyone !"
+    },
+    {
+      "id": "686",
+      "label": "Section 686",
+      "chapter": null,
+      "original": "ἦ σὺ δὴ Ῥῆσον κατέκτας ;",
+      "translation": "What ! have you slain Rhesus ?"
+    },
+    {
+      "id": "686b",
+      "label": "Section 686b",
+      "chapter": null,
+      "original": "ἀλλὰ τὸν κτενοῦντα σὲ ⋯",
+      "translation": "No , but you , who came to slay us —"
+    },
+    {
+      "id": "687",
+      "label": "Section 687",
+      "chapter": null,
+      "original": "ἴσχε πᾶς τις .",
+      "translation": "Stay , every man of you !"
+    },
+    {
+      "id": "687b",
+      "label": "Section 687b",
+      "chapter": null,
+      "original": "οὐ μὲν οὖν .",
+      "translation": "No , no , lay on !"
+    },
+    {
+      "id": "687c",
+      "label": "Section 687c",
+      "chapter": null,
+      "original": "ἆ · φίλιον ἄνδρα μὴ θένῃς .",
+      "translation": "Ah ! do not slay a friend !"
+    },
+    {
+      "id": "688",
+      "label": "Section 688",
+      "chapter": null,
+      "original": "καὶ τί δὴ τὸ σῆμα ;",
+      "translation": "What is the password , then ?"
+    },
+    {
+      "id": "688b",
+      "label": "Section 688b",
+      "chapter": null,
+      "original": "Φοῖβος .",
+      "translation": "Phoebus ."
+    },
+    {
+      "id": "688c",
+      "label": "Section 688c",
+      "chapter": null,
+      "original": "ἔμαθον · ἴσχε πᾶς δόρυ .",
+      "translation": "Right ! every man hold back his spear !"
+    },
+    {
+      "id": "689",
+      "label": "Section 689",
+      "chapter": null,
+      "original": "οἶσθʼ ὅποι βεβᾶσιν ἅνδρες ;",
+      "translation": "Do you know where the men have gone ?"
+    },
+    {
+      "id": "689b",
+      "label": "Section 689b",
+      "chapter": null,
+      "original": "τῇδέ πῃ κατείδομεν .",
+      "translation": "Somewhere here I caught a sight of them ."
+    },
+    {
+      "id": "690",
+      "label": "Section 690",
+      "chapter": null,
+      "original": "ἕρπω πᾶς κατʼ ἴχνος αὐτῶν . ἢ βοὴν ἐγερτέον ;",
+      "translation": "Close on their track each man of you ! Or should we shout for aid ?"
+    },
+    {
+      "id": "691",
+      "label": "Section 691",
+      "chapter": null,
+      "original": "ἀλλὰ συμμάχους ταράσσειν δεινὸν ἐκ νυκτῶν φόβῳ .",
+      "translation": "[*] No , it would be strange conduct to disturb our friends with wild alarms by night . Exeunt Odysseus and Diomedes ."
+    },
+    {
+      "id": "1.692",
+      "label": "Section 1.692",
+      "chapter": null,
+      "original": "— τίς ἀνδρῶν ὁ βάς ;",
+      "translation": "Who was that man who slipped away ? Who was he that will loudly boast his daring in escaping me ?"
+    },
+    {
+      "id": "1.695",
+      "label": "Section 1.695",
+      "chapter": null,
+      "original": "πόθεν νιν κυρήσω ;",
+      "translation": "How shall I catch him now ? To whom shall I liken him , the man who came by night with fearless step passing through our ranks and the guard we set ? Is he a Thessalian or"
+    },
+    {
+      "id": "1.700",
+      "label": "Section 1.700",
+      "chapter": null,
+      "original": "παραλίαν Λοκρῶν νεμόμενος πόλιν ;",
+      "translation": "a dweller in some seacoast town of Locris ? Or does he make his living among the islands scattered in the sea ? Who was he ? Where from ? What is his fatherland ? What god does he avow as lord of all the rest ?"
+    },
+    {
+      "id": "1.704",
+      "label": "Section 1.704",
+      "chapter": null,
+      "original": "— ἆρʼ ἔστʼ Ὀδυσσέως τοὔργον ἢ τίνος τόδε ;",
+      "translation": "Whose work is this ? is it the deed of Odysseus ?"
+    },
+    {
+      "id": "1.705",
+      "label": "Section 1.705",
+      "chapter": null,
+      "original": "εἰ τοῖς πάροιθε χρὴ τεκμαίρεσθαι · τί μήν ;",
+      "translation": "If one may conjecture from his former acts , of course it is ."
+    },
+    {
+      "id": "1.706",
+      "label": "Section 1.706",
+      "chapter": null,
+      "original": "— δοκεῖς γάρ ; — τί μὴν οὔ ;",
+      "translation": "Do you think so really ?"
+    },
+    {
+      "id": "1.707",
+      "label": "Section 1.707",
+      "chapter": null,
+      "original": "— θρασὺς γοῦν ἐς ἡμᾶς .",
+      "translation": "He is a bold foe for us ."
+    },
+    {
+      "id": "1.708",
+      "label": "Section 1.708",
+      "chapter": null,
+      "original": "— τίνʼ ἀλκήν ; τίνʼ αἰνεῖς ; — Ὀδυσσῆ .",
+      "translation": "What strength ? Whom are you praising ?"
+    },
+    {
+      "id": "1.709",
+      "label": "Section 1.709",
+      "chapter": null,
+      "original": "— μὴ κλωπὸς αἴνει φωτὸς αἱμύλον δόρυ .",
+      "translation": "Do not praise the crafty weapons that a robber uses ."
+    },
+    {
+      "id": "1.710",
+      "label": "Section 1.710",
+      "chapter": null,
+      "original": "ἔβα καὶ πάρος",
+      "translation": "Once before he came into this city , with swimming bleary eyes , clad in rags and tatters , his sword hidden in his cloak ."
+    },
+    {
+      "id": "1.715",
+      "label": "Section 1.715",
+      "chapter": null,
+      "original": "βίον δʼ ἐπαιτῶν εἷρπʼ ἀγύρτης τις λάτρις ,",
+      "translation": "And like some vagrant menial he slunk about begging his living , his head rough and dirty ; and he spoke bitterly of the royal house of the Atreidae — as though he were really opposed to those chiefs !"
+    },
+    {
+      "id": "1.720",
+      "label": "Section 1.720",
+      "chapter": null,
+      "original": "ὄλοιτʼ ὄλοιτο πανδίκως ,",
+      "translation": "Would , oh ! would he had perished , as was his due , before he set foot on Phrygia ’ s soil !"
+    },
+    {
+      "id": "1.722",
+      "label": "Section 1.722",
+      "chapter": null,
+      "original": "— εἴτʼ οὖν Ὀδυσσέως εἴτε μή , φόβος μʼ ἔχει ·",
+      "translation": "Whether it was really Odysseus or not , I am afraid ;"
+    },
+    {
+      "id": "1.723",
+      "label": "Section 1.723",
+      "chapter": null,
+      "original": "Ἕκτωρ γὰρ ἡμῖν τοῖς φύλαξι μέμψεται .",
+      "translation": "for Hector will blame us sentinels ."
+    },
+    {
+      "id": "1.724",
+      "label": "Section 1.724",
+      "chapter": null,
+      "original": "— τί λάσκων ; — δυσοίζων .",
+      "translation": "What can he allege ?"
+    },
+    {
+      "id": "1.725",
+      "label": "Section 1.725",
+      "chapter": null,
+      "original": "— τί δρᾶσαι ; τί ταρβεῖς ;",
+      "translation": "What have we done ? Why are you afraid ?"
+    },
+    {
+      "id": "1.726",
+      "label": "Section 1.726",
+      "chapter": null,
+      "original": "— καθʼ ἡμᾶς περᾶσαι ⋯ — τίνʼ ἀνδρῶν ;",
+      "translation": "They got past us —"
+    },
+    {
+      "id": "1.727",
+      "label": "Section 1.727",
+      "chapter": null,
+      "original": "— οἳ τῆσδε νυκτὸς ἦλθον ἐς Φρυγῶν στρατόν .",
+      "translation": "The ones who came this night to the Phrygian army ."
+    }
+  ],
+  "prevChunkSlug": "rhesus-14gqjv-4",
+  "nextChunkSlug": "rhesus-14gqjv-6"
+}

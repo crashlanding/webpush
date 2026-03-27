@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-little-carthaginian-pseudolus-the-rope-rpgc9x",
+  "volumeTitle": "The Little Carthaginian. Pseudolus. The Rope",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "pseudolus-1bndy7-1",
+  "label": "Pseudolus (Section prologue.pr.1 - Section 1.1.80)",
+  "partId": "pseudolus-1bndy7",
+  "partTitle": "Pseudolus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Pseudolus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Pseudolus, or The Cheat",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "prologue.pr.1",
+      "label": "Section prologue.pr.1",
+      "chapter": null,
+      "original": "exporgi meliust lumbos atque exsurgier :",
+      "translation": "’ Tis better for your loins to be stretched [*] , and for you to arise . A long play of Plautus is coming upon the stage ."
+    },
+    {
+      "id": "1.1.3",
+      "label": "Section 1.1.3",
+      "chapter": null,
+      "original": "Si ex te tacente fieri possem certior ,",
+      "translation": "If , master , by your being silent , I could be informed what miseries are afflicting you so sadly ,"
+    },
+    {
+      "id": "1.1.5",
+      "label": "Section 1.1.5",
+      "chapter": null,
+      "original": "duorúm labori ego hominum parsissem lubens ,",
+      "translation": "I would willingly have spared the trouble of two persons — of myself in asking you , and of yourself in answering me . Since , however , that cannot be , necessity compels me to enquire of you . Answer me : What ’ s the reason that , out of spirits for these many days past ,"
+    },
+    {
+      "id": "1.1.10",
+      "label": "Section 1.1.10",
+      "chapter": null,
+      "original": "gestas tabellas tecum , eas lacrumis lavis ,",
+      "translation": "you ’ ve been carrying a letter about with you , washing it with your tears , and making no person the sharer of your purpose ? Speak out , that what I am ignorant of , I may know together with yourself ."
+    },
+    {
+      "id": "1.1.13",
+      "label": "Section 1.1.13",
+      "chapter": null,
+      "original": "Misere miser sum , Pseudole .",
+      "translation": "I am wretchedly miserable , Pseudolus ."
+    },
+    {
+      "id": "1.1.13b",
+      "label": "Section 1.1.13b",
+      "chapter": null,
+      "original": "Id te Iuppiter",
+      "translation": "May Jupiter forbid it !"
+    },
+    {
+      "id": "1.1.14b",
+      "label": "Section 1.1.14b",
+      "chapter": null,
+      "original": "Nihil hoc Iovis ad iudicium attinet :",
+      "translation": "This belongs not at all to the arbitration of Jupiter ;"
+    },
+    {
+      "id": "1.1.15",
+      "label": "Section 1.1.15",
+      "chapter": null,
+      "original": "sub Veneris regno vapulo , non sub Iovis .",
+      "translation": "under the sway of Venus [*] am I harassed , not under that of Jove ."
+    },
+    {
+      "id": "1.1.16",
+      "label": "Section 1.1.16",
+      "chapter": null,
+      "original": "Licet me id scire quid sit ? nam tu me antidhac",
+      "translation": "Is it allowable for me to know what it is ? For hitherto you have had me as chief confidant in your plans ."
+    },
+    {
+      "id": "1.1.18",
+      "label": "Section 1.1.18",
+      "chapter": null,
+      "original": "Idem animus nunc est .",
+      "translation": "The same is now my intention ."
+    },
+    {
+      "id": "1.1.18b",
+      "label": "Section 1.1.18b",
+      "chapter": null,
+      "original": "Face me certum quid tibist ;",
+      "translation": "Let me know then what ’ s the matter with you . I ’ ll aid you either with resources , or with my efforts , or with good counsel ."
+    },
+    {
+      "id": "1.1.20",
+      "label": "Section 1.1.20",
+      "chapter": null,
+      "original": "Cape has tabellas , tute hinc narrato tibi",
+      "translation": "Do you take this letter : do you thence inform yourself what misery and what care are wasting me away ."
+    },
+    {
+      "id": "1.1.22",
+      "label": "Section 1.1.22",
+      "chapter": null,
+      "original": "Mos tibi geretur . sed quid hoc , quaeso ?",
+      "translation": "Compliance shall be given you . But , prithee , how ’ s this ?"
+    },
+    {
+      "id": "1.1.22b",
+      "label": "Section 1.1.22b",
+      "chapter": null,
+      "original": "Quid est ?",
+      "translation": "What ’ s the matter ?"
+    },
+    {
+      "id": "1.1.23",
+      "label": "Section 1.1.23",
+      "chapter": null,
+      "original": "Vt opinor , quaerunt litterae hae sibi liberos :",
+      "translation": "As I think , these letters are very loving ; they are climbing on each other ’ s backs ."
+    },
+    {
+      "id": "1.1.24b",
+      "label": "Section 1.1.24b",
+      "chapter": null,
+      "original": "Ludis iam ludo tuo ?",
+      "translation": "Are you making sport of me with your foolery ?"
+    },
+    {
+      "id": "1.1.25",
+      "label": "Section 1.1.25",
+      "chapter": null,
+      "original": "Has quidem pol credo nisi Sibulla legerit ,",
+      "translation": "I ’ faith , I really do believe that unless the Sibyl [*] can read them , nobody else can possibly interpret them ."
+    },
+    {
+      "id": "1.1.27",
+      "label": "Section 1.1.27",
+      "chapter": null,
+      "original": "Cur inclementer dicis lepidis litteris",
+      "translation": "Why speak you unkindly of those sweet letters — sweet tablets too , written upon by a hand as sweet ."
+    },
+    {
+      "id": "1.1.29",
+      "label": "Section 1.1.29",
+      "chapter": null,
+      "original": "An , opsecro hercle , habent quas gallinae manus ?",
+      "translation": "Troth now , have hens , prithee , such hands ?"
+    },
+    {
+      "id": "1.1.30",
+      "label": "Section 1.1.30",
+      "chapter": null,
+      "original": "nam has quidem gallina scripsit .",
+      "translation": "For certainly a hen has written these letters ."
+    },
+    {
+      "id": "1.1.30b",
+      "label": "Section 1.1.30b",
+      "chapter": null,
+      "original": "Odiosus mihi es .",
+      "translation": "You are annoying me . Either read it or return the letter ."
+    },
+    {
+      "id": "1.1.31b",
+      "label": "Section 1.1.31b",
+      "chapter": null,
+      "original": "Immo enim pellegam .",
+      "translation": "Very well then , I ’ ll read it through . Give me your attention ."
+    },
+    {
+      "id": "1.1.32b",
+      "label": "Section 1.1.32b",
+      "chapter": null,
+      "original": "Non adest .",
+      "translation": "That ’ s not here ."
+    },
+    {
+      "id": "1.1.32c",
+      "label": "Section 1.1.32c",
+      "chapter": null,
+      "original": "At tu cita .",
+      "translation": "Do you summon it then ."
+    },
+    {
+      "id": "1.1.33",
+      "label": "Section 1.1.33",
+      "chapter": null,
+      "original": "Immo ego tacebo , tu istinc ex cera cita ;",
+      "translation": "Well , I ’ ll be silent ; do you summon it from that wax there [*] ; for there my attention is at present , not in my breast ."
+    },
+    {
+      "id": "1.1.35",
+      "label": "Section 1.1.35",
+      "chapter": null,
+      "original": "Tuam amicam video , Calidore .",
+      "translation": "I see your mistress , Calidorus ."
+    },
+    {
+      "id": "1.1.35b",
+      "label": "Section 1.1.35b",
+      "chapter": null,
+      "original": "Vbi ea est , opsecro ?",
+      "translation": "Where is she , prithee ?"
+    },
+    {
+      "id": "1.1.36",
+      "label": "Section 1.1.36",
+      "chapter": null,
+      "original": "Eccam in tabellis porrectam : in cera cubat .",
+      "translation": "See , here she is at full length in the letter ; she ’ s lying upon the wax ."
+    },
+    {
+      "id": "1.1.37",
+      "label": "Section 1.1.37",
+      "chapter": null,
+      "original": "At te di deaeque quantumst —",
+      "translation": "Now , may the Gods and Goddesses , inasmuch — [*]"
+    },
+    {
+      "id": "1.1.37b",
+      "label": "Section 1.1.37b",
+      "chapter": null,
+      "original": "Servassint quidem .",
+      "translation": "Preserve me from harm , to wit ."
+    },
+    {
+      "id": "1.1.38",
+      "label": "Section 1.1.38",
+      "chapter": null,
+      "original": "Quasi solstitialis herba paulisper fui :",
+      "translation": "For a short season have I been like a summer plant [*] ; suddenly have I sprung up , suddenly have I withered ."
+    },
+    {
+      "id": "1.1.40",
+      "label": "Section 1.1.40",
+      "chapter": null,
+      "original": "Tace , dúm tabellas pellego .",
+      "translation": "Be silent , while I read the letter through ."
+    },
+    {
+      "id": "1.1.40b",
+      "label": "Section 1.1.40b",
+      "chapter": null,
+      "original": "Ergo quin legis ?",
+      "translation": "Why don ’ t you read it then ?"
+    },
+    {
+      "id": "1.1.41",
+      "label": "Section 1.1.41",
+      "chapter": null,
+      "original": "“ Phoenicium Calidoro amatori suo",
+      "translation": "Phœnicium to her lover , Calidorus , by means of wax and string and letters , her exponents , sends health , and safety does she beg [*] of you , weeping , and with palpitating feelings , heart , and breast ."
+    },
+    {
+      "id": "1.1.45",
+      "label": "Section 1.1.45",
+      "chapter": null,
+      "original": "Perii , salutem nusquam invenio , Pseudole ,",
+      "translation": "I ’ m undone ; I nowhere find , Pseudolus , this safety for me to send her back ."
+    },
+    {
+      "id": "1.1.46b",
+      "label": "Section 1.1.46b",
+      "chapter": null,
+      "original": "Quam salutem ?",
+      "translation": "What safety ?"
+    },
+    {
+      "id": "1.1.46c",
+      "label": "Section 1.1.46c",
+      "chapter": null,
+      "original": "Argenteam .",
+      "translation": "A silver one ."
+    },
+    {
+      "id": "1.1.47",
+      "label": "Section 1.1.47",
+      "chapter": null,
+      "original": "Pro lignean salute vis argenteam",
+      "translation": "And do you wish to send her back a silver safety for one on wood [*] ? Consider what you ’ re about ."
+    },
+    {
+      "id": "1.1.49",
+      "label": "Section 1.1.49",
+      "chapter": null,
+      "original": "Recita modo : ex tabellis iam faxo scies",
+      "translation": "Read on now ; I ’ ll soon cause you to know from the letter"
+    },
+    {
+      "id": "1.1.50",
+      "label": "Section 1.1.50",
+      "chapter": null,
+      "original": "quam subito argento mi usus invento siet .",
+      "translation": "how suddenly there ’ s need for me for one of silver to be found ."
+    },
+    {
+      "id": "1.1.51",
+      "label": "Section 1.1.51",
+      "chapter": null,
+      "original": "“ Leno me peregre militi Macedonio",
+      "translation": "The procurer has sold me , my love , for twenty minae , to a Macedonian officer from abroad . Before he departed hence , the Captain paid him fifteen minae ; only five minae now are remaining unpaid ."
+    },
+    {
+      "id": "1.1.55",
+      "label": "Section 1.1.55",
+      "chapter": null,
+      "original": "ea caúsa miles hic reliquit symbolum ,",
+      "translation": "On that account the Captain left here a token — his own likeness impressed on wax by his ring — that he who should bring hither a token like to that , together with him the procurer might send me . The next day hence , on the Festival of Bacchus [*] , is the one fixed for this matter ."
+    },
+    {
+      "id": "1.1.60",
+      "label": "Section 1.1.60",
+      "chapter": null,
+      "original": "cras ea quidem sunt .",
+      "translation": "Well , that ’ s to-morrow ;"
+    },
+    {
+      "id": "1.1.60b",
+      "label": "Section 1.1.60b",
+      "chapter": null,
+      "original": "Prope adest exitium mihi ,",
+      "translation": "my ruin is near at hand , unless I have some help in you ."
+    },
+    {
+      "id": "1.1.61b",
+      "label": "Section 1.1.61b",
+      "chapter": null,
+      "original": "Sine pellegam .",
+      "translation": "Let me read it through ."
+    },
+    {
+      "id": "1.1.62",
+      "label": "Section 1.1.62",
+      "chapter": null,
+      "original": "Sino , nám mihi videor cúm ea fabularier ;",
+      "translation": "I permit you ; for I seem to myself to be talking to her . Read on ; the sweet and the hitter are you now mingling together for me ."
+    },
+    {
+      "id": "1.1.64",
+      "label": "Section 1.1.64",
+      "chapter": null,
+      "original": "“ Nunc nostri amores mores consuetudines ,",
+      "translation": "Now our loves , our tenderness , our intimacy ,"
+    },
+    {
+      "id": "1.1.65",
+      "label": "Section 1.1.65",
+      "chapter": null,
+      "original": "iocus lúdus sermo suavisaviatio",
+      "translation": "our mirth , our dalliance , our talking , our sweet kisses , the close embrace of us lovers equally fond , the soft , dear kisses impressed on our tender lips , the delicious pressing of the swelling bosom ; of all these delights , I say , for me and for you as well ,"
+    },
+    {
+      "id": "1.1.70",
+      "label": "Section 1.1.70",
+      "chapter": null,
+      "original": "distractio discidium vastities venit ,",
+      "translation": "the severance , the destruction , and the downfal is at hand , unless there is some rescue for me in you or for you in me . I have taken care that you should know all these things that I have written ; now shall I make trial how far you love me , and how far you pretend to do so ."
+    },
+    {
+      "id": "1.1.74",
+      "label": "Section 1.1.74",
+      "chapter": null,
+      "original": "Est misere scriptum , Pseudole .",
+      "translation": "’ Tis written , Pseudolus , in wretchedness ."
+    },
+    {
+      "id": "1.1.74b",
+      "label": "Section 1.1.74b",
+      "chapter": null,
+      "original": "O , miserrime .",
+      "translation": "Alas ! very wretchedly [*] ."
+    },
+    {
+      "id": "1.1.75",
+      "label": "Section 1.1.75",
+      "chapter": null,
+      "original": "Quin fles ?",
+      "translation": "Why don ’ t you weep , then ?"
+    },
+    {
+      "id": "1.1.75b",
+      "label": "Section 1.1.75b",
+      "chapter": null,
+      "original": "Pumiceos oculos habeo : non queo",
+      "translation": "I ’ ve eyes of pumice stone [*] ; I can ’ t prevail upon them to squeeze out one tear even ."
+    },
+    {
+      "id": "1.1.77",
+      "label": "Section 1.1.77",
+      "chapter": null,
+      "original": "Quid ita ?",
+      "translation": "Why so ?"
+    },
+    {
+      "id": "1.1.77b",
+      "label": "Section 1.1.77b",
+      "chapter": null,
+      "original": "Genus nostrum semper siccoculum fuit .",
+      "translation": "My family was always a dryeyed one ."
+    },
+    {
+      "id": "1.1.78",
+      "label": "Section 1.1.78",
+      "chapter": null,
+      "original": "Nilne adiuvare me audes ?",
+      "translation": "Won ’ t you attempt to assist me at all ?"
+    },
+    {
+      "id": "1.1.78b",
+      "label": "Section 1.1.78b",
+      "chapter": null,
+      "original": "Quid faciam tibi ?",
+      "translation": "What shall I do for you ?"
+    },
+    {
+      "id": "1.1.79",
+      "label": "Section 1.1.79",
+      "chapter": null,
+      "original": "Eheú .",
+      "translation": "Alas !"
+    },
+    {
+      "id": "1.1.79b",
+      "label": "Section 1.1.79b",
+      "chapter": null,
+      "original": "Eheu ? id quidem hercle ne parsis : dabo .",
+      "translation": "Alas ! do you say ? Well , don ’ t be sparing of them , i ’ faith ; I ’ ll give you plenty ."
+    },
+    {
+      "id": "1.1.80",
+      "label": "Section 1.1.80",
+      "chapter": null,
+      "original": "Miser sum , argentum nusquam invenio mutuom .",
+      "translation": "I ’ m distracted . I nowhere can find any money to borrow ."
+    }
+  ],
+  "prevChunkSlug": "the-little-carthaginian-12yp3b-19",
+  "nextChunkSlug": "pseudolus-1bndy7-2"
+}

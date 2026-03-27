@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-persian-1ldq65-11",
+  "label": "The Persian (Section 4.4.630c - Section 4.5.679b)",
+  "partId": "the-persian-1ldq65",
+  "partTitle": "The Persian",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Persa",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Persa, or The Persian",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "4.4.630c",
+      "label": "Section 4.4.630c",
+      "chapter": null,
+      "original": "Vt mihi",
+      "translation": "According to what my mother told me , in the kitchen [*] , in a corner on the left hand ."
+    },
+    {
+      "id": "4.4.632",
+      "label": "Section 4.4.632",
+      "chapter": null,
+      "original": "Haec erit tibi fausta meretrix : natast in calido loco ,",
+      "translation": "This woman will prove a lucky Courtesan for you ; she has been born in a warm spot , where full oft there is an abundance of all good things . ( Aside .) The Procurer was taken in when he asked where she was born ."
+    },
+    {
+      "id": "4.4.635",
+      "label": "Section 4.4.635",
+      "chapter": null,
+      "original": "lepide lusit .",
+      "translation": "She has played him off nicely ."
+    },
+    {
+      "id": "4.4.635b",
+      "label": "Section 4.4.635b",
+      "chapter": null,
+      "original": "At ego patriam te rogo quae sit tua .",
+      "translation": "But I ask of you , what is your country ?"
+    },
+    {
+      "id": "4.4.636",
+      "label": "Section 4.4.636",
+      "chapter": null,
+      "original": "Quae mihi sít , nisi haec ubi nunc sum ?",
+      "translation": "What should be mine but that where I now am ?"
+    },
+    {
+      "id": "4.4.636b",
+      "label": "Section 4.4.636b",
+      "chapter": null,
+      "original": "At ego illam quaero quae fuit .",
+      "translation": "But this I ’ m asking , what was ?"
+    },
+    {
+      "id": "4.4.637",
+      "label": "Section 4.4.637",
+      "chapter": null,
+      "original": "Omne ego pro nihilo esse duco quod fuit , quando fuit :",
+      "translation": "Everything that was , do I consider as nothing , since it was , and is not now . Just like a man when he has breathed forth his spirit ; why enquire of him who he was ?"
+    },
+    {
+      "id": "4.4.639",
+      "label": "Section 4.4.639",
+      "chapter": null,
+      "original": "Ita me di bene ament , sapienter . atque equidem miseret tamen .",
+      "translation": "So may the Deities kindly favour me , right cleverly . And yet I really do pity her ."
+    },
+    {
+      "id": "4.4.640",
+      "label": "Section 4.4.640",
+      "chapter": null,
+      "original": "sed tamen , virgo , quae patriast tua , age mi actutum expedi .",
+      "translation": "But still , young woman , come , tell me at once which is your country ? Why are you silent ?"
+    },
+    {
+      "id": "4.4.641b",
+      "label": "Section 4.4.641b",
+      "chapter": null,
+      "original": "Dico equidem : quando hic servio , haec patriast mea .",
+      "translation": "For my part , I really am telling you my country . Since I ’ m in servitude here , this is my country ."
+    },
+    {
+      "id": "4.4.642",
+      "label": "Section 4.4.642",
+      "chapter": null,
+      "original": "Iam de istoc rogare omitte ( non vides nolle eloqui ?)",
+      "translation": "Do cease now making enquiries about that . Don ’ t you see that she ’ s unwilling to declare , lest you should recall to her the remembrance of her misfortunes ?"
+    },
+    {
+      "id": "4.4.643b",
+      "label": "Section 4.4.643b",
+      "chapter": null,
+      "original": "Quid est ?",
+      "translation": "What ’ s the matter ? Is your father in captivity ?"
+    },
+    {
+      "id": "4.4.644b",
+      "label": "Section 4.4.644b",
+      "chapter": null,
+      "original": "Non captus , sed quod habuit perdidit .",
+      "translation": "Not in captivity ; but what he had , he has lost ."
+    },
+    {
+      "id": "4.4.645",
+      "label": "Section 4.4.645",
+      "chapter": null,
+      "original": "Haec erit bono genere nata : nil scit nisi verum loqui .",
+      "translation": "She will prove to be born of a good family ; she knows how to say nothing but the truth ."
+    },
+    {
+      "id": "4.4.646",
+      "label": "Section 4.4.646",
+      "chapter": null,
+      "original": "Quis fuit ? dic nomen .",
+      "translation": "Who was he ? Tell me his name ?"
+    },
+    {
+      "id": "4.4.646b",
+      "label": "Section 4.4.646b",
+      "chapter": null,
+      "original": "Quid illum miserum memorem qui fuit ?",
+      "translation": "Why should I tell of him , wretched man , who he was ? For the present ’ twere proper for him to be called Miserable , and me Miserable ."
+    },
+    {
+      "id": "4.4.648",
+      "label": "Section 4.4.648",
+      "chapter": null,
+      "original": "Quoius modi is suo ín populo habitust ?",
+      "translation": "What kind of a person was he considered by the public ?"
+    },
+    {
+      "id": "4.4.648b",
+      "label": "Section 4.4.648b",
+      "chapter": null,
+      "original": "Nemo quisquam acceptior :",
+      "translation": "Not a person more acceptable ; slaves and free persons all liked him ."
+    },
+    {
+      "id": "4.4.649b",
+      "label": "Section 4.4.649b",
+      "chapter": null,
+      "original": "Hominem miserum praedicas ,",
+      "translation": "You do speak of a miserable man ,"
+    },
+    {
+      "id": "4.4.650",
+      "label": "Section 4.4.650",
+      "chapter": null,
+      "original": "quom ét ipsus prorsus perditust et benevolentis perdidit .",
+      "translation": "inasmuch as he ’ s almost lost himself , and has lost his friends ."
+    },
+    {
+      "id": "4.4.651",
+      "label": "Section 4.4.651",
+      "chapter": null,
+      "original": "Emam , opinor .",
+      "translation": "I shall purchase her , I think ."
+    },
+    {
+      "id": "4.4.651b",
+      "label": "Section 4.4.651b",
+      "chapter": null,
+      "original": "Etiam opinor ? summo genere esse arbitror ;",
+      "translation": "What , still I think ?"
+    },
+    {
+      "id": "4.4.652",
+      "label": "Section 4.4.652",
+      "chapter": null,
+      "original": "divitias tu ex istac facies .",
+      "translation": "You ’ ll make riches by her ."
+    },
+    {
+      "id": "4.4.652b",
+      "label": "Section 4.4.652b",
+      "chapter": null,
+      "original": "Ita di faxint .",
+      "translation": "May the Gods grant it so ."
+    },
+    {
+      "id": "4.4.652c",
+      "label": "Section 4.4.652c",
+      "chapter": null,
+      "original": "Eme modo .",
+      "translation": "Do you only buy her ."
+    },
+    {
+      "id": "4.4.653",
+      "label": "Section 4.4.653",
+      "chapter": null,
+      "original": "Iam hoc tibi dico : iam actutum ecastor meus pater , ubi me sciet",
+      "translation": "Now this I tell you : my father will be here directly , when he knows that I ’ ve been sold , and will ransom me thus separated from him ."
+    },
+    {
+      "id": "4.4.654b",
+      "label": "Section 4.4.654b",
+      "chapter": null,
+      "original": "Quid nunc ?",
+      "translation": "What say you now ?"
+    },
+    {
+      "id": "4.4.654c",
+      "label": "Section 4.4.654c",
+      "chapter": null,
+      "original": "Quid est ?",
+      "translation": "What ’ s the matter ?"
+    },
+    {
+      "id": "4.4.655",
+      "label": "Section 4.4.655",
+      "chapter": null,
+      "original": "Audin quid ait ?",
+      "translation": "Do you hear what she says ?"
+    },
+    {
+      "id": "4.4.655b",
+      "label": "Section 4.4.655b",
+      "chapter": null,
+      "original": "Nam etsi res sunt fractae , amici sunt tamen .",
+      "translation": "For although his fortunes are broken , he still has friends ."
+    },
+    {
+      "id": "4.4.656",
+      "label": "Section 4.4.656",
+      "chapter": null,
+      "original": "Ne sis plora ; libera eris actutum , si crebro cades .",
+      "translation": "Don ’ t weep , please ; you ’ ll soon be at liberty , if — you have sweethearts enough [*] . Would you like to belong to me ?"
+    },
+    {
+      "id": "4.4.657b",
+      "label": "Section 4.4.657b",
+      "chapter": null,
+      "original": "Dum quidem ne nímis diu tua sim , volo .",
+      "translation": "So long , indeed , as I don ’ t belong to you too long . I ’ d like ."
+    },
+    {
+      "id": "4.4.658",
+      "label": "Section 4.4.658",
+      "chapter": null,
+      "original": "Satin ut meminit libertatis ? dabit haec tibi grandis bolos .",
+      "translation": "How well she does keep in mind her liberty . She ’ ll be producing you fine hauls . About it , if you are about it . I ’ ll go back to him . ( To the YOUNG WOMAN .) Do you follow me . ( To SAGARISTIO ) I ’ ve brought her back to you ."
+    },
+    {
+      "id": "4.4.660",
+      "label": "Section 4.4.660",
+      "chapter": null,
+      "original": "Adulescens , vin vendere istanc ?",
+      "translation": "Young man , are you disposed to sell her ?"
+    },
+    {
+      "id": "4.4.660b",
+      "label": "Section 4.4.660b",
+      "chapter": null,
+      "original": "Magis libet quam perdere .",
+      "translation": "I ’ d like it , rather than lose her ."
+    },
+    {
+      "id": "4.4.661",
+      "label": "Section 4.4.661",
+      "chapter": null,
+      "original": "Tum tu pauca in verba confer : qui datur , tanti indica .",
+      "translation": "Do you compress it then into a few words ; state the price at which she ’ s offered ."
+    },
+    {
+      "id": "4.4.662",
+      "label": "Section 4.4.662",
+      "chapter": null,
+      "original": "Faciam ita ut te velle video , út emas . habe centum minis .",
+      "translation": "I ’ ll do so , as I see you wish it . Take her for a hundred minae ."
+    },
+    {
+      "id": "4.4.663",
+      "label": "Section 4.4.663",
+      "chapter": null,
+      "original": "Nimiumst .",
+      "translation": "That ’ s too much ."
+    },
+    {
+      "id": "4.4.663b",
+      "label": "Section 4.4.663b",
+      "chapter": null,
+      "original": "Octoginta .",
+      "translation": "For eighty ."
+    },
+    {
+      "id": "4.4.663c",
+      "label": "Section 4.4.663c",
+      "chapter": null,
+      "original": "Nimiumst .",
+      "translation": "That ’ s too much ."
+    },
+    {
+      "id": "4.4.663d",
+      "label": "Section 4.4.663d",
+      "chapter": null,
+      "original": "Nummus abesse hinc non potest ,",
+      "translation": "There can ’ t a didrachm be abated from the price which I shall now name ."
+    },
+    {
+      "id": "4.4.664b",
+      "label": "Section 4.4.664b",
+      "chapter": null,
+      "original": "Quid id est ergo ? eloquere actutum atque indica .",
+      "translation": "What is it , then ? Speak out at once and name it ."
+    },
+    {
+      "id": "4.4.665",
+      "label": "Section 4.4.665",
+      "chapter": null,
+      "original": "Tuo periclo sexaginta haec dabitur argenti minis .",
+      "translation": "At your own risk , she ’ s offered at sixty minae ."
+    },
+    {
+      "id": "4.4.666",
+      "label": "Section 4.4.666",
+      "chapter": null,
+      "original": "Toxilé , quid ago ?",
+      "translation": "Toxilus , what am I to do ?"
+    },
+    {
+      "id": "4.4.666b",
+      "label": "Section 4.4.666b",
+      "chapter": null,
+      "original": "Di deaeque te agitant irati , scelus ,",
+      "translation": "The Gods and Goddesses are pursuing you with their vengeance , you rogue , for not making haste to purchase her ."
+    },
+    {
+      "id": "4.4.667b",
+      "label": "Section 4.4.667b",
+      "chapter": null,
+      "original": "Habeto .",
+      "translation": "Take them , then ."
+    },
+    {
+      "id": "4.4.667c",
+      "label": "Section 4.4.667c",
+      "chapter": null,
+      "original": "Eu , praedatu'spraedatus es probe .",
+      "translation": "Well done , you have got a rich prize ! Be off , and fetch the money out here . On my faith , she ’ s not dear at three hundred minae ."
+    },
+    {
+      "id": "4.4.669",
+      "label": "Section 4.4.669",
+      "chapter": null,
+      "original": "Heus tu , etiam pro vestimentis huc decem accedent minae .",
+      "translation": "Hark you , for her clothing there ’ ll be ten minae added to this as well ."
+    },
+    {
+      "id": "4.4.670",
+      "label": "Section 4.4.670",
+      "chapter": null,
+      "original": "Abscedent enim , nón accedent .",
+      "translation": "Yes , be deducted , not added ."
+    },
+    {
+      "id": "4.4.670b",
+      "label": "Section 4.4.670b",
+      "chapter": null,
+      "original": "Tace sis , non tu illum vides",
+      "translation": "Do hold your tongue , will you ; don ’ t you see that he ’ s seeking an excuse to have the bargain broken ? Why don ’ t you be off and fetch the money ?"
+    },
+    {
+      "id": "4.4.672",
+      "label": "Section 4.4.672",
+      "chapter": null,
+      "original": "Heus tu serva istum .",
+      "translation": "Hark you , do you keep an eye upon him ."
+    },
+    {
+      "id": "4.4.672b",
+      "label": "Section 4.4.672b",
+      "chapter": null,
+      "original": "Quin tu is intro ?",
+      "translation": "Why don ’ t you then go in ?"
+    },
+    {
+      "id": "4.4.672c",
+      "label": "Section 4.4.672c",
+      "chapter": null,
+      "original": "Abeo atque argentum affero .—",
+      "translation": "I ’ ll go and fetch the money ."
+    },
+    {
+      "id": "4.5.673",
+      "label": "Section 4.5.673",
+      "chapter": null,
+      "original": "Edepol dedisti , virgo , operam adlaudabilem ,",
+      "translation": "Upon my word , young lady , you have given us praiseworthy aid , good . and wise , and sensible ."
+    },
+    {
+      "id": "4.5.674b",
+      "label": "Section 4.5.674b",
+      "chapter": null,
+      "original": "Si quid bonis",
+      "translation": "If for good persons"
+    },
+    {
+      "id": "4.5.675",
+      "label": "Section 4.5.675",
+      "chapter": null,
+      "original": "boni fit , esse id et grave et gratum solet .",
+      "translation": "anything good is done , the same is wont to be both important and pleasing ."
+    },
+    {
+      "id": "4.5.676",
+      "label": "Section 4.5.676",
+      "chapter": null,
+      "original": "Audin tu , Persa ? ubi argentum ab hoc acceperis ,",
+      "translation": "Do you hear , you Persian , when you ’ ve got the money of him , do you pretend as though you are going straight to the ship ."
+    },
+    {
+      "id": "4.5.677b",
+      "label": "Section 4.5.677b",
+      "chapter": null,
+      "original": "Ne doce .",
+      "translation": "Don ’ t teach me ."
+    },
+    {
+      "id": "4.5.678",
+      "label": "Section 4.5.678",
+      "chapter": null,
+      "original": "Per angiportum rursum te ad me recipito",
+      "translation": "Betake yourself back again to our house , that way ( pointing .) down the lane through the garden ."
+    },
+    {
+      "id": "4.5.679b",
+      "label": "Section 4.5.679b",
+      "chapter": null,
+      "original": "Quod futurum est praedicas .",
+      "translation": "You are naming what ’ s intended to be done ."
+    }
+  ],
+  "prevChunkSlug": "the-persian-1ldq65-10",
+  "nextChunkSlug": "the-persian-1ldq65-12"
+}

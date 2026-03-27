@@ -1,0 +1,80 @@
+{
+  "volumeSlug": "the-apostolic-fathers-volume-i-i-clement-ii-clement-ignatius-polycarp-didache-wid8ne",
+  "volumeTitle": "Volume I: I Clement. II Clement. Ignatius. Polycarp. Didache",
+  "authorDisplay": "The Apostolic Fathers",
+  "authors": [
+    "The Apostolic Fathers"
+  ],
+  "language": "mixed",
+  "status": "ready",
+  "chunkSlug": "ignatius-1ax3tt",
+  "label": "Ignatius",
+  "partId": "ignatius-1ax3tt",
+  "partTitle": "Ignatius",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Epistulae vii genuinae",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg1443.tlg001.1st1K-grc1/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "The Epistles of Saint Ignatius",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg1443.tlg001.perseus-eng1/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.praef.1",
+      "label": "Section 1.praef.1",
+      "chapter": null,
+      "original": "Ἰγνάτιος , ὁ καὶ Θεοφόρος , τῇ εὐλογημένῃ ἐν μεγέθει θεοῦ πατρὸς πληρώματι , τῇ προωρισμένῃ πρὸ αἰώνων εἶναι διὰ παντὸς εἰς δόξαν παράμονον ἄτρεπτον , ἡνωμένῃ καὶ ἐκλελεγμένῃ ἐν πάθει ἀληθινῷ , ἐν θελήματι τοῦ πατρὸς καὶ Ἰησοῦ Χριστοῦ τοῦ θεοῦ ἡμῶν , τῇ ἐκκλησίᾳ τῇ ἀξιομακαρίστῳ , τῇ οὔσῃ ἐν Ἐφέσῳ τῆς Ἀσίας , πλεῖστα ἐν Ἰησοῦ Χριστῷ καὶ ἐν ἀμώμῳ χαρᾷ χαίρειν .",
+      "translation": "Ignatius , who is also called Theophorus , [*] to [*] the Church , worthy of all felicitation , which is at Ephesus in Asia ,— blessed with greatness by the fulness of God the Father , predestined from eternity for abiding and unchangeable glory , united and chosen through true suffering by the will of the Father and Jesus Christ our God ,— abundant greeting in Jesus Christ and in blameless joy ."
+    },
+    {
+      "id": "2.praef.1",
+      "label": "Section 2.praef.1",
+      "chapter": null,
+      "original": "Ἰγνάτιος , ὁ καὶ Θεοφόρος , τῇ εὐλογημένῃ ἐν χάριτι θεοῦ πατρὸς ἐν Χριστῷ Ἰησοῦ τῷ σωτῆρι ἡμῶν , ἐν ᾧ ἀσπάζομαι τὴν ἐκκλησίαν τὴν οὖσαν ἐν Μαγνησίᾳ τῇ πρὸς Μαιάνδρῳ καὶ εὔχομαι ἐν θεῷ πατρὶ καῖ ἐν Ἰησοῦ Χριστῷ πλεῖστα χαίρειν .",
+      "translation": "Ignatius , who is also called Theophorus , to her [*] [*] who is blessed in the Grace of God the Father by Christ Jesus , our Saviour , in whom I greet the Church which is in Magnesia on the Maeander , and bid it in God the Father and in Christ Jesus abundant greeting ."
+    },
+    {
+      "id": "3.praef.1",
+      "label": "Section 3.praef.1",
+      "chapter": null,
+      "original": "Ἰγνάτιος , ὁ καὶ Θεοφόρος , ἠγαπημένῃ θεῷ , πατρὶ Ἰησοῦ Χριστοῦ , ἐκκλησίᾳ ἁγίᾳ τῇ οὔσῃ ἐν Τράλλεσιν τῆς Ἀσίας , ἐκλεκτῇ καὶ ἀξιοθέῳ , εἰρηνευούσῃ ἐν σαρκὶ καὶ πνεύματι τῷ πάθει Ἰησοῦ Χριστοῦ , τῆς ἐλπίδος ἡμῶν ἐν τῇ εἰς αὐτὸν ἀναστάσει : ἣν καὶ ἀσπάζομαι ἐν τῷ πληρώματι ἐν ἀποστολικῷ χαρακτῆρι καὶ εὔχομαι πλεῖστα χαίρειν .",
+      "translation": "Ignatius , who is also called Theophorus , to the [*] Holy Church which is at Tralles in Asia , beloved of God the Father of Jesus Christ , elect and worthy of God , having peace in the flesh and in the Spirit through the passion of Jesus Christ , who is our hope through our resurrection unto him . Which Church I also greet in the Divine fulness after the apostolic fashion , and I bid her abundant greeting ."
+    },
+    {
+      "id": "4.praef.1",
+      "label": "Section 4.praef.1",
+      "chapter": null,
+      "original": "Ἰγνατιος , ὁ καὶ Θεοφόρος , τῇ ἠλεημένῃ ἐν μεγαλειότητι πατρὸς ὑψίστου καὶ Ἰησοῦ Χριστοῦ τοῦ μόνου υἱοῦ αὐτοῦ ἐκκλησίᾳ ἠγαπημένῃ καὶ πεφωτισμένῃ ἐν θελήματι τοῦ θελήσαντος τὰ πάντα , ἃ ἔστιν , κατὰ ἀγάπην Ἰησοῦ Χριστοῦ , τοῦ θεοῦ ἡμῶν , ἥτις καὶ προκάθηται ἐν τόπῳ χωρίου Ῥωμαίων , ἀξιόθεος , ἀξιοπρεπής , ἀξιομακάριστος , ἀξιέπαινος , ἀξιεπίτευκτος , ἀξίαγνος καὶ προκαθημένη τῆς ἀγάπης , χριστώνυμος , [*] πατρώνυμος , ἣν καὶ ἀσπάζομαι ἐν 226 ὀνόματι Ἰησοῦ Χριστοῦ , υἱοῦ πατρός : κατὰ σάρκα καὶ πνεῦμα ἡνωμένοις πάσῃ ἐντολῇ αὐτοῦ , πεπληρωμένοις χάριτος θεοῦ ἀδιακρίτως καὶ ἀποδιυλισμένοις ἀπὸ παντὸς ἀλλοτρίου χρώματος πλεῖστα ἐν Ἰησοῦ Χριστῷ , τῷ θεῷ ἡμῶν , ἀμώμως χαίρειν .",
+      "translation": "Ignatius , who is also called Theophorus , to her who [*] has obtained mercy in the greatness of the Most High Father , and of Jesus Christ his only Son ; to the Church beloved and enlightened by the will of him who has willed all things which are , according to the love of Jesus Christ , our God , which also has the presidency in the country of the land of the Romans , worthy of God , worthy of honour , worthy of blessing , worthy of praise , worthy of success , worthy in its holiness , and preeminent in love , named after Christ , named after the Father , which also I greet in the name of Jesus Christ , the Son of the Father ; to those who are united in flesh and spirit in every one of his commandments , filled with the grace of God without wavering , and filtered clear from every foreign stain , abundant greeting in Jesus Christ , our God , in blamelessness ."
+    },
+    {
+      "id": "5.praef.1",
+      "label": "Section 5.praef.1",
+      "chapter": null,
+      "original": "Ἰγνάτιος , ὁ καὶ Θεοφόρος , ἐκκλησίᾳ θεοῦ πατρὸς καὶ κυρίου Ἰησοῦ Χριστοῦ τῇ οὔσῃ ἐν Φιλαδελφίᾳ τῆς Ἀσίας , ἠλεημένῃ καὶ ἡδρασμένῃ ἐν ὁμονοίᾳ θεοῦ καὶ ἀγαλλιωμένῃ ἐν τῷ πάθει τοῦ κυρίου ἡμῶν ἀδιακρίτως καὶ ἐν τῇ ἀναστάσει αὐτοῦ πεπληροφορημένῃ ἐν παντὶ ἐλέει , ἣν ἀσπάζομαι ἐν αἵματι Ἰησοῦ Χριστοῦ , ἥτις ἐστὶν χαρὰ αἰώνιος καὶ παράμονος , μάλιστα ἐὰν ἐν ἑνὶ ὦσιν σὺν τῷ ἐπισκόπῳ καὶ τοῖς σὺν αὐτῷ πρεσβυτέροις καὶ διακόνοις ἀποδεδειγμένοις ἐν γνώμῃ Ἰησοῦ Χριστοῦ , οὓς κατὰ τὸ ἴδιον θέλημα ἐστήριξεν ἐν βεβαιωσύνῃ τῷ ἁγίῳ αὐτοῦ πνεύματι .",
+      "translation": "Ignatius , who is also called Theophorus , to the [*] Church of God the Father and of the Lord Jesus Christ , which is in Philadelphia in Asia , which has obtained mercy , and is established in the harmony of God , and rejoices in the Passion of our Lord without doubting , and is fully assured in all mercy in his resurrection ; I greet her in the blood of Jesus Christ , which is eternal and abiding joy , especially if men be at one with the bishop , and with the presbyters and deacons , who together with him have been appointed according to the mind of Jesus Christ , and he established them in security according to his own will by his Holy Spirit ."
+    },
+    {
+      "id": "6.praef.1",
+      "label": "Section 6.praef.1",
+      "chapter": null,
+      "original": "Ἰγνάτιος , ὁ καὶ Θεοφόρος , ἐκκλησίᾳ θεοῦ πατρὸς καὶ τοῦ ἠγαπημένου Ἰησοῦ Χριστοῦ , [*] ἠλεημένῃ ἐν παντὶ χαρίσματι , πεπληρωμένῃ ἐν πίστει καὶ ἀγάπῃ , ἀνυστερήτῳ οὔσῃ παντὸς χαρίσματος , θεοπρεπεστάτῃ καὶ ἁγιοφόρῳ , 252 τῇ οὔσῃ ἐν Σμύρνῃ τῆς Ἀσίας . ἐν ἀμώμῳ πνεύματι καὶ λόγῳ θεοῦ πλεῖστα χαίρειν .",
+      "translation": "Ignatius , who is also called Theophorus , to the [*] Church of God the Father and the Beloved Jesus Christ , which has obtained mercy in every gift , and is filled with faith and love , and comes behind in no gift , most worthy of God , and gifted with holiness ,— the Church which is in Smyrna in Asia — abundant greeting in a blameless spirit and in the Word of God ."
+    },
+    {
+      "id": "7.praef.1",
+      "label": "Section 7.praef.1",
+      "chapter": null,
+      "original": "Ἰγνάτιος , ὁ καὶ Θεοφόρος , Πολυκάρπῳ ἐπισκόπῳ ἐκκλησίας Σμυρναίων , μᾶλλον ἐπισκοπημένῳ ὑπὸ θεοῦ πατρὸς καὶ κυρίου Ἰησοῦ Χριστοῦ , πλεῖστα χαίρειν .",
+      "translation": "Ignatius , who is also called Theophorus , to Polycarp , [*] who is bishop of the Church of the Smyrnaeans , or rather has for his bishop God the Father and the Lord Jesus Christ , abundant greeting ."
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": "didache-1ixwby"
+}

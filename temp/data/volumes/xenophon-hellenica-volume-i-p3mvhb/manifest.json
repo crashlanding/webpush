@@ -1,0 +1,61 @@
+{
+  "loebNumber": 88,
+  "sortOrder": 88,
+  "slug": "xenophon-hellenica-volume-i-p3mvhb",
+  "title": "Hellenica, Volume I",
+  "volumeLabel": "Hellenica, Volume I",
+  "authorDisplay": "Xenophon",
+  "authors": [
+    "Xenophon"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Hellenica, Volume I. Hellenica, Volume I currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "hellenica-volume-i-t707iw",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "hellenica-volume-i-t707iw",
+      "title": "Hellenica, Volume I",
+      "status": "ready",
+      "sectionCount": 35,
+      "chunkSlug": "hellenica-volume-i-t707iw",
+      "chunks": [
+        {
+          "slug": "hellenica-volume-i-t707iw",
+          "label": "Hellenica, Volume I",
+          "partId": "hellenica-volume-i-t707iw",
+          "partTitle": "Hellenica, Volume I",
+          "sectionCount": 35,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "hellenica-volume-i-t707iw",
+      "label": "Hellenica, Volume I",
+      "partId": "hellenica-volume-i-t707iw",
+      "partTitle": "Hellenica, Volume I",
+      "sectionCount": 35,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "hellenica-volume-i-t707iw",
+      "partTitle": "Hellenica, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Hellenica",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": " Hellenica",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg001.perseus-eng2/"
+      }
+    }
+  ]
+}

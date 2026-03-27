@@ -1,0 +1,87 @@
+{
+  "volumeSlug": "plutarch-moralia-volume-iv-6aplox",
+  "volumeTitle": "Moralia, Volume IV",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "lacaenarum-apophthegmata-mmxxlg",
+  "label": "Lacaenarum Apophthegmata",
+  "partId": "moralia-volume-iv-1ff3q1",
+  "partTitle": "Moralia, Volume IV",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Λακαινῶν ἀποφθάγματα",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg082b.perseus-grc3/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Sayings of Spartan Women",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg082b.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1",
+      "label": "Section 1.1",
+      "chapter": null,
+      "original": "240c Ἀργιλεωνὶς ἡ Βρασίδου μήτηρ , τελευτήσαντος αὐτῇ τοῦ υἱοῦ , ὡς παραγενόμενοί τινες τῶν Ἀμφιπολιτῶν εἰς Σπάρτην ἧκον πρὸς αὐτὴν ἠρώτησεν εἰ καλῶς καὶ ἀξίως τῆς Σπάρτης ὁ υἱὸς ἐτελεύτα · μεγαλυνόντων δʼ ἐκεῖνον καὶ λεγόντων ἄριστον ἐν τοῖς τοιούτοις ἔργοις ἁπάντων Λακεδαιμονίων εἶναι , εἶπεν , ὦ ξένοι , καλὸς μὲν ἦν κἀγαθὸς ὁ παῖς μου , πολλοὺς δʼ ἄνδρας Λακεδαίμων ἔχει 240d τήνω κάρρονας .",
+      "translation": "Argileonis , the mother of Brasidas , when her son had met his death , [*] and some of the citizens of Amphipolis arrived at Sparta and came to her , asked if her son had met his death honourably and in a manner worthy of Sparta . And when th ey proceeded to tell of his greatness , and declared that he was the best of all the Spartans in such enterprises , she said , Sirs , my son was a gude and honourable mon , but Sparta has mony a mon better than him . [*]"
+    },
+    {
+      "id": "2.1",
+      "label": "Section 2.1",
+      "chapter": null,
+      "original": "Γοργὼ βασιλέως Κλεομένους θυγάτηρ , Ἀρισταγόρου τοῦ Μιλησίου παρακαλοῦντος αὐτὸν ἐπὶ τὸν πρὸς βασιλέα πόλεμον ὑπὲρ Ἰώνων καὶ ὑπισχνουμένου χρημάτων πλῆθος καὶ ὅσῳ ἀντέλεγε πλείονα προστιθέντος , καταφθερεῖ σε , ἔφη , ὦ πάτερ , τὸ ξενύλλιον , ἐὰν μὴ τάχιον αὐτὸν τῆς οἰκίας ἐκβάλῃς .",
+      "translation": "Gorgo , daughter of king Cleomenes , when Aristagoras of Miletus was urging her father to enter upon the war against the Persian king in behalf of the Ionians , promising a vast sum of money , and , in answer to Cleomenes ’ objections , making the amount larger and larger , said , Father , the miserable foreigner will be your ruin if you don ’ t get him out of the house pretty soon ! [*]"
+    },
+    {
+      "id": "2.2",
+      "label": "Section 2.2",
+      "chapter": null,
+      "original": "προστάξαντος δέ ποτε αὐτῇ τοῦ ; πατρὸς δοῦναί τινι σῖτον εἰς μισθοῦ λόγον καὶ προστιθέντος , ἐδίδαξε γάρ με τὸν οἶνον χρηστὸν ποιεῖν , οὐκοῦν , ὦ πάτερ , ἔφη , ὃ τʼ οἶνος πλείων 240e ἐκποθήσεται καὶ οἱ πίνοντες θρυπτικώτεροι καὶ χείρονες γενήσονται . ʼ ʼ",
+      "translation": "Once when her father told her to give some grain to a man by way of remuneration , and added , It is because he showed me how to make the wine taste good , she said , Then , father , there will be more wine drunk , and the drinkers will become more intemperate and depraved . [*]"
+    },
+    {
+      "id": "3.1",
+      "label": "Section 3.1",
+      "chapter": null,
+      "original": "Γυρτιάς , Ἀκροτάτου ποτὲ τοῦ θυγατριδοῦ αὐτῆς ἔκ τινος τῶν παίδων μάχης πολλὰς πληγὰς λαβόντος καὶ ἀπενεχθέντος οἴκαδε ὡς τεθνηκότος , κλαιόντων τῶν οἰκείων τε καὶ γνωρίμων , οὐ σιωπήσετε ; 240f ἔφη · ἔδειξε γὰρ οἵου αἵματος ἦν · καὶ οὐκ ἔφη δεῖν τοὺς ἀγαθοὺς βοᾶν ἀλλʼ ἰατρεύεσθαι .",
+      "translation": "Gyrtias , when on a time Acrotatus , her grandson , in a fight with other boys received many blows , and was brought home for dead , and the family and friends were all wailing , said , Will you not stop your noise ? He has shown from what blood he was sprung . And she said that people who were good for anything should not scream , but should try to find some remedy . [*]"
+    },
+    {
+      "id": "3.2",
+      "label": "Section 3.2",
+      "chapter": null,
+      "original": "ὅτε ἄγγελος ἦλθεν ἐκ Κρήτης τὸν Ἀκροτάτου θάνατον ἀπαγγέλλων , οὐκ ἔμελλεν , ἔφη , πρὸς τοὺς πολεμίους ἥκων ἢ αὐτὸς ὑπʼ ἐκείνων ἀποθανεῖσθαι ἢ κατακανεῖν [*] ἐκείνους ; ἥδιον δʼ ἀκούειν ὅτι ἀπέθανε καὶ ἑαυτῆς καὶ τῆς πόλεως ἀξίως καὶ τῶν προγόνων , ἢ εἰ ἔζη τὸν ἅπαντα χρόνον κακὸς ὤν .",
+      "translation": "When a messenger came from Crete bringing the news of the death of Acrotatus , [*] she said , When he had come to the enemy , was he not bound either to be slain by them or to slay them ? It is more pleasing to hear that he died in a manner worthy of myself , his country , and his ancestors than if he had lived for all time a coward . [*]"
+    },
+    {
+      "id": "4.1",
+      "label": "Section 4.1",
+      "chapter": null,
+      "original": "Δαματρία τὸν υἱὸν δειλὸν καὶ ἀνάξιον ἑαυτῆς [*] ἀκούσασα , παραγενόμενον ἀνεῖλε · τὸ δʼ ἐπίγραμμα ἐπʼ αὐτῆς τόδε ,\nτὸν παραβάντα νόμους Δαμάτριον ἔκτανε μάτηρ ἁ Λακεδαιμονία τὸν Λακεδαιμόνιον .",
+      "translation": "Damatria heard that her son had been a coward and unworthy of her , and when he arrived , she made away with him . This is the epigram [*] referring to her :\nSinner against our laws , Damatrius , slain by his mother , Was of the Spartan youth ; she was of Sparta too ."
+    },
+    {
+      "id": "5.1",
+      "label": "Section 5.1",
+      "chapter": null,
+      "original": "ἑτέρα Λάκαινα τὸν υἱὸν λιποτακτήσαντα [*] ὡς ἀνάξιον τῆς πατρίδος ἀνεῖλεν , εἰποῦσα , οὐκ ἐμὸν τὸ φίτυμα . ἐφʼ ἧς τὸ ἐπίγραμμα τόδε ,\nἔρρε κακὸν φίτυμα διὰ σκότος , οὗ διὰ μῖσος Εὐρώτας δειλαῖς μηδʼ ἐλάφοισι ῥέοι . ἀχρεῖον σκυλάκευμα , κακὰ μερίς , ἔρρε ποθʼ Ἅιδαν , ἔρρε · τὸ μὴ Σπάρτας ἄξιον οὐδʼ ἔτεκον .",
+      "translation": "Another Spartan woman made away with her son , who had deserted his post , on the ground that he was unworthy of his country , saying , Not mine the scion . This is the epigram referring to her [*] :\nOff to your fate through the darkness , vile scion , who makes such a hatred , So the Eurotas flow not e ’ en for the timorous deer . Worthless whelp that you are , vile remnant , be oif now to Hades ; Off ! for never I bore Sparta ’ s unworthy son . [*]"
+    },
+    {
+      "id": "5.2",
+      "label": "Section 5.2",
+      "chapter": null,
+      "original": "ἄλλη ἀκούσασα τὸν υἱὸν ἐν παρατάξει πεσόντα ἔφη ,\nδειλοὶ κλαιέσθωσαν ἐγὼ δέ σε , τέκνον , ἄδακρυς θάπτω [*] τὸν καὶ ἐμὸν καὶ Λακεδαιμόνιον .",
+      "translation": "Another , hearing that her son had fallen on the field of battle , said : [*]\nLet the poor cowards be mourned , but , with never a tear do I bury You , my son , who are mine , yea , and are Sparta ’ s as well ."
+    }
+  ],
+  "prevChunkSlug": "instituta-laconia-gbj792",
+  "nextChunkSlug": "mulierum-virtutes-rotwig"
+}

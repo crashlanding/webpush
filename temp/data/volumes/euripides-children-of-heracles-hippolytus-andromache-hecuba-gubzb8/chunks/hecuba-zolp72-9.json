@@ -1,0 +1,94 @@
+{
+  "volumeSlug": "euripides-children-of-heracles-hippolytus-andromache-hecuba-gubzb8",
+  "volumeTitle": "Children of Heracles. Hippolytus. Andromache. Hecuba",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "hecuba-zolp72-9",
+  "label": "Hecuba (Section 1282 - Section 1295)",
+  "partId": "hecuba-zolp72",
+  "partTitle": "Hecuba",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἑκάβη",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg007.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Hecuba",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg007.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1282",
+      "label": "Section 1282",
+      "chapter": null,
+      "original": "οὐχ ἕλξετʼ αὐτόν , δμῶες , ἐκποδὼν βίᾳ ;",
+      "translation": "Ho ! servants , drag away him from my sight !"
+    },
+    {
+      "id": "1283",
+      "label": "Section 1283",
+      "chapter": null,
+      "original": "ἀλγεῖς ἀκούων ;",
+      "translation": "Do my words pain you ?"
+    },
+    {
+      "id": "1283b",
+      "label": "Section 1283b",
+      "chapter": null,
+      "original": "οὐκ ἐφέξετε στόμα ;",
+      "translation": "Stop his mouth !"
+    },
+    {
+      "id": "1284",
+      "label": "Section 1284",
+      "chapter": null,
+      "original": "ἐγκλῄετʼ · εἴρηται γάρ .",
+      "translation": "Close it now ; for I have spoken ."
+    },
+    {
+      "id": "1284b",
+      "label": "Section 1284b",
+      "chapter": null,
+      "original": "οὐχ ὅσον τάχος",
+      "translation": "Make haste"
+    },
+    {
+      "id": "1285",
+      "label": "Section 1285",
+      "chapter": null,
+      "original": "νήσων ἐρήμων αὐτὸν ἐκβαλεῖτέ που ,",
+      "translation": "and cast him upon some desert island , since his mouth is full of such exceeding presumption . Go , unhappy Hecuba , and bury your two corpses ; and you , Trojan women , must draw near your masters ’ tents , for lo ! I perceive a breeze"
+    },
+    {
+      "id": "1290",
+      "label": "Section 1290",
+      "chapter": null,
+      "original": "πρὸς οἶκον ἤδη τάσδε πομπίμους ὁρῶ .",
+      "translation": "just rising to waft us home . May we reach our country well and find all well at home , released from troubles here ! Polymestor is dragged away by Agamemnon ’ s guards ."
+    },
+    {
+      "id": "1293",
+      "label": "Section 1293",
+      "chapter": null,
+      "original": "ἴτε πρὸς λιμένας σκηνάς τε , φίλαι ,",
+      "translation": "Away to the harbour and the tents , my friends , to prove the toils of"
+    },
+    {
+      "id": "1295",
+      "label": "Section 1295",
+      "chapter": null,
+      "original": "μόχθων · στερρὰ γὰρ ἀνάγκη .",
+      "translation": "slavery ! for such is fate ’ s relentless hest ."
+    }
+  ],
+  "prevChunkSlug": "hecuba-zolp72-8",
+  "nextChunkSlug": null
+}

@@ -1,0 +1,381 @@
+{
+  "volumeSlug": "pausanias-description-of-greece-volume-ii-ackl1v",
+  "volumeTitle": "Description of Greece, Volume II",
+  "authorDisplay": "Pausanias",
+  "authors": [
+    "Pausanias"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "description-of-greece-volume-ii-1irthp",
+  "label": "Description of Greece, Volume II",
+  "partId": "description-of-greece-volume-ii-1irthp",
+  "partTitle": "Description of Greece, Volume II",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἑλλάδος Περιηγήσεως",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0525.tlg001.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "\n         Description of Greece\n      ",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0525.tlg001.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1.1",
+      "label": "Section 1.1.1",
+      "chapter": null,
+      "original": "τῆς ἠπείρου τῆς Ἑλληνικῆς κατὰ νήσους τὰς Κυκλάδας καὶ πέλαγος τὸ Αἰγαῖον ἄκρα Σούνιον πρόκειται γῆς τῆς Ἀττικῆς · καὶ λιμήν τε παραπλεύσαντι τὴν ἄκραν ἐστὶ καὶ ναὸς Ἀθηνᾶς Σουνιάδος ἐπὶ κορυφῇ τῆς ἄκρας . πλέοντι δὲ ἐς τὸ πρόσω Λαύριόν τέ ἐστιν , ἔνθα ποτὲ Ἀθηναίοις ἦν ἀργύρου μέταλλα , καὶ νῆσος ἔρημος οὐ μεγάλη Πατρόκλου καλουμένη · τεῖχος γὰρ ᾠκοδομήσατο ἐν αὐτῇ καὶ χάρακα ἐβάλετο Πάτροκλος , ὃς τριήρεσιν ὑπέπλει ναύαρχος Αἰγυπτίαις , ἃς Πτολεμαῖος ὁ Πτολεμαίου τοῦ Λάγου τιμωρεῖν ἔστειλεν Ἀθηναίοις , ὅτε σφίσιν Ἀντίγονος ὁ Δημητρίου στρατιᾷ τε αὐτὸς ἐσβεβληκὼς ἔφθειρε τὴν χώραν καὶ ναυσὶν ἅμα ἐκ θαλάσσης κατεῖργεν .",
+      "translation": "On the Greek mainland facing the Cyclades Islands and the Aegean Sea the Sunium promontory stands out from the Attic land . When you have rounded the promontory you see a harbor and a temple to Athena of Sunium on the peak of the promontory . Farther on is Laurium , where once the Athenians had silver mines , and a small uninhabited island called the Island of Patroclus . For a fortification was built on it and a palisade constructed by Patroclus , who was admiral in command of the Egyptian men-of-war sent by Ptolemy , son of Ptolemy , son of Lagus , to help the Athenians , when Antigonus , son of Demetrius , was ravaging their country , which he had invaded with an army , and at the same time was blockading them by sea with a fleet . [*]"
+    },
+    {
+      "id": "1.1.2",
+      "label": "Section 1.1.2",
+      "chapter": null,
+      "original": "ὁ δὲ Πειραιεὺς δῆμος μὲν ἦν ἐκ παλαιοῦ , πρότερον δὲ πρὶν ἢ Θεμιστοκλῆς Ἀθηναίοις ἦρξεν ἐπίνειον οὐκ ἦν · Φαληρὸν δέ — ταύτῃ γὰρ ἐλάχιστον ἀπέχει τῆς πόλεως ἡ θάλασσα —, τοῦτό σφισιν ἐπίνειον ἦν , καὶ Μενεσθέα φασὶν αὐτόθεν ταῖς ναυσὶν ἐς Τροίαν ἀναχθῆναι καὶ τούτου πρότερον Θησέα δώσοντα Μίνῳ 0 δίκας τῆς Ἀνδρόγεω τελευτῆς . Θεμιστοκλῆς δὲ ὡς ἦρξε — τοῖς τε γὰρ πλέουσιν ἐπιτηδειότερος ὁ Πειραιεὺς ἐφαίνετό οἱ προκεῖσθαι καὶ λιμένας τρεῖς ἀνθʼ ἑνὸς ἔχειν τοῦ Φαληροῖ — τοῦτό σφισιν ἐπίνειον εἶναι κατεσκευάσατο · καὶ νεὼς καὶ ἐς ἐμὲ ἦσαν οἶκοι καὶ πρὸς τῷ μεγίστῳ λιμένι τάφος Θεμιστοκλέους . φασὶ γὰρ μεταμελῆσαι τῶν ἐς Θεμιστοκλέα Ἀθηναίοις καὶ ὡς οἱ προσήκοντες τὰ ὀστᾶ κομίσαιεν ἐκ Μαγνησίας ἀνελόντες · φαίνονται δὲ οἱ παῖδες οἱ Θεμιστοκλέους καὶ κατελθόντες καὶ γραφὴν ἐς τὸν Παρθενῶνα ἀναθέντες , ἐν ᾗ Θεμιστοκλῆς ἐστι γεγραμμένος .",
+      "translation": "The Peiraeus was a parish from early times , though it was not a port before Themistocles became an archon of the Athenians . [*] Their port was Phalerum , for at this place the sea comes nearest to Athens , and from here men say that Menestheus set sail with his fleet for Troy , and before him Theseus , when he went to give satisfaction to Minos for the death of Androgeos . But when Themistocles became archon , since he thought that the Peiraeus was more conveniently situated for mariners , and had three harbors as against one at Phalerum , he made it the Athenian port . Even up to my time there were docks there , and near the largest harbor is the grave of Themistocles . For it is said that the Athenians repented of their treatment of Themistocles , and that his relations took up his bones and brought them from Magnesia . And the children of Themistocles certainly returned and set up in the Parthenon a painting , on which is a portrait of Themistocles ."
+    },
+    {
+      "id": "1.1.3",
+      "label": "Section 1.1.3",
+      "chapter": null,
+      "original": "θέας δὲ ἄξιον τῶν ἐν Πειραιεῖ μάλιστα Ἀθηνᾶς ἐστι καὶ Διὸς τέμενος · χαλκοῦ μὲν ἀμφότερα τὰ ἀγάλματα , ἔχει δὲ ὁ μὲν σκῆπτρον καὶ Νίκην , ἡ δὲ Ἀθηνᾶ δόρυ . ἐνταῦθα Λεωσθένην , ὃς Ἀθηναίοις καὶ τοῖς πᾶσιν Ἕλλησιν ἡγούμενος Μακεδόνας ἔν τε Βοιωτοῖς ἐκράτησε μάχῃ καὶ αὖθις ἔξω Θερμοπυλῶν καὶ βιασάμενος ἐς Λάμιαν κατέκλεισε τὴν ἀπαντικρὺ τῆς Οἴτης , τοῦτον τὸν Λεωσθένην καὶ τοὺς παῖδας ἔγραψεν Ἀρκεσίλαος . ἔστι δὲ τῆς στοᾶς τῆς μακρᾶς , ἔνθα καθέστηκεν ἀγορὰ τοῖς ἐπὶ θαλάσσης — καὶ γὰρ τοῖς ἀπωτέρω τοῦ λιμένος ἐστὶν ἑτέρα —, τῆς δὲ ἐπὶ θαλάσσης στοᾶς ὄπισθεν ἑστᾶσι Ζεὺς καὶ Δῆμος , Λεωχάρους ἔργον . πρὸς δὲ τῇ θαλάσσῃ Κόνων ᾠκοδόμησεν Ἀφροδίτης ἱερόν , τριήρεις Λακεδαιμονίων κατεργασάμενος περὶ Κνίδον τὴν ἐν τῇ Καρικῇ χερρονήσῳ . Κνίδιοι γὰρ τιμῶσιν Ἀφροδίτην μάλιστα , καί σφισιν ἔστιν ἱερὰ τῆς θεοῦ · τὸ μὲν γὰρ ἀρχαιότατον Δωρίτιδος , 0 μετὰ δὲ τὸ Ἀκραίας , νεώτατον δὲ ἣν Κνιδίαν οἱ πολλοί , Κνίδιοι δὲ αὐτοὶ καλοῦσιν Εὔπλοιαν .",
+      "translation": "The most noteworthy sight in the Peiraeus is a precinct of Athena and Zeus . Both their images are of bronze ; Zeus holds a staff and a Victory , Athena a spear . Here is a portrait of Leosthenes and of his sons , painted by Arcesilaus . This Leosthenes at the head of the Athenians and the united Greeks defeated the Macedonians in Boeotia and again outside Thermopylae forced them into Lamia over against Oeta , and shut them up there . [*] The portrait is in the long portico , where stands a market-place for those living near the sea — those farther away from the harbor have another — but behind the portico near the sea stand a Zeus and a Demos , the work of Leochares . And by the sea Conon [*] built a sanctuary of Aphrodite , after he had crushed the Lacedaemonian warships off Cnidus in the Carian peninsula . [*] For the Cnidians hold Aphrodite in very great honor , and they have sanctuaries of the goddess ; the oldest is to her as Doritis ( Bountiful ), the next in age as Acraea ( Of the Height ), while the newest is to the Aphrodite called Cnidian by men generally , but Euploia ( Fair Voyage ) by the Cnidians themselves ."
+    },
+    {
+      "id": "1.1.4",
+      "label": "Section 1.1.4",
+      "chapter": null,
+      "original": "ἔστι δὲ καὶ ἄλλος Ἀθηναίοις ὁ μὲν ἐπὶ Μουνυχίᾳ λιμὴν καὶ Μουνυχίας ναὸς Ἀρτέμιδος , ὁ δὲ ἐπὶ Φαληρῷ , καθὰ καὶ πρότερον εἴρηταί μοι , καὶ πρὸς αὐτῷ Δήμητρος ἱερόν . ἐνταῦθα καὶ Σκιράδος Ἀθηνᾶς ναός ἐστι καὶ Διὸς ἀπωτέρω , βωμοὶ δὲ θεῶν τε ὀνομαζομένων Ἀγνώστων καὶ ἡρώων καὶ παίδων τῶν Θησέως καὶ Φαληροῦ · τοῦτον γὰρ τὸν Φαληρὸν Ἀθηναῖοι πλεῦσαι μετὰ Ἰάσονός φασιν ἐς Κόλχους . ἔστι δὲ καὶ Ἀνδρόγεω βωμὸς τοῦ Μίνω , καλεῖται δὲ Ἥρωος · Ἀνδρόγεω δὲ ὄντα ἴσασιν οἷς ἐστιν ἐπιμελὲς τὰ ἐγχώρια σαφέστερον ἄλλων ἐπίστασθαι .",
+      "translation": "The Athenians have also another harbor , at Munychia , with a temple of Artemis of Munychia , and yet another at Phalerum , as I have already stated , and near it is a sanctuary of Demeter . Here there is also a temple of Athena Sciras , and one of Zeus some distance away , and altars of the gods named Unknown , and of heroes , and of the children of Theseus and Phalerus ; for this Phalerus is said by the Athenians to have sailed with Jason to Colchis . There is also an altar of Androgeos , son of Minos , though it is called that of Heros ; those , however , who pay special attention to the study of their country ' s antiquities know that it belongs to Androgeos ."
+    },
+    {
+      "id": "1.1.5",
+      "label": "Section 1.1.5",
+      "chapter": null,
+      "original": "ἀπέχει δὲ σταδίους εἴκοσιν ἄκρα Κωλιάς · ἐς ταύτην φθαρέντος τοῦ ναυτικοῦ τοῦ Μήδων κατήνεγκεν ὁ κλύδων τὰ ναυάγια . Κωλιάδος δέ ἐστιν ἐνταῦθα Ἀφροδίτης ἄγαλμα καὶ Γενετυλλίδες ὀνομαζόμεναι θεαί · δοκῶ δὲ καὶ Φωκαεῦσι τοῖς ἐν Ἰωνίᾳ θεάς , ἃς καλοῦσι Γενναΐδας , εἶναι ταῖς ἐπὶ Κωλιάδι τὰς αὐτάς . — ἔστι δὲ κατὰ τὴν ὁδὸν τὴν ἐς Ἀθήνας ἐκ Φαληροῦ ναὸς Ἥρας οὔτε θύρας ἔχων οὔτε ὄροφον · Μαρδόνιόν φασιν αὐτὸν ἐμπρῆσαι τὸν Γωβρύου . τὸ δὲ ἄγαλμα τὸ νῦν δή , καθὰ λέγουσιν , Ἀλκαμένους ἐστὶν ἔργον · οὐκ ἂν τοῦτό γε ὁ Μῆδος εἴη λελωβημένος .",
+      "translation": "Twenty stades away is the Coliad promontory ; on to it , when the Persian fleet was destroyed , the wrecks were carried down by the waves . There is here an image of the Coliad Aphrodite , with the goddesses Genetyllides ( Goddesses of Birth ), as they are called . And I am of opinion that the goddesses of the Phocaeans in Ionia , whom they call Gennaides , are the same as those at Colias . On the way from Phalerum to Athens there is a temple of Hera with neither doors nor roof . Men say that Mardonius , son of Gobryas , burnt it . But the image there to-day is , as report goes , the work of Alcamenes [*] So that this , at any rate , cannot have been damaged by the Persians ."
+    },
+    {
+      "id": "2.1.1",
+      "label": "Section 2.1.1",
+      "chapter": null,
+      "original": "ἡ δὲ Κορινθία χώρα μοῖρα οὖσα τῆς Ἀργείας ἀπὸ Κορίνθου τὸ ὄνομα ἔσχηκε . Διὸς δὲ εἶναι Κόρινθον οὐδένα οἶδα εἰπόντα πω σπουδῇ πλὴν Κορινθίων τῶν πολλῶν · Εὔμηλος δὲ ὁ Ἀμφιλύτου τῶν Βακχιδῶν καλουμένων , ὃς καὶ τὰ ἔπη λέγεται ποιῆσαι , φησὶν ἐν τῇ Κορινθίᾳ συγγραφῇ — εἰ δὲ Εὐμήλου γε ἡ συγγραφή — Ἐφύραν Ὠκεανοῦ θυγατέρα οἰκῆσαι πρῶτον ἐν τῇ γῇ ταύτῃ , Μαραθῶνα δὲ ὕστερον τὸν Ἐπωπέως τοῦ Ἀλωέως τοῦ Ἡλίου φεύγοντα ἀνομίαν καὶ ὕβριν τοῦ πατρὸς ἐς τὰ παραθαλάσσια μετοικῆσαι τῆς Ἀττικῆς , ἀποθανόντος δὲ Ἐπωπέως ἀφικόμενον ἐς Πελοπόννησον καὶ τὴν ἀρχὴν διανείμαντα τοῖς παισὶν αὐτὸν ἐς τὴν Ἀττικὴν αὖθις ἀναχωρῆσαι , καὶ ἀπὸ μὲν Σικυῶνος τὴν Ἀσωπίαν , ἀπὸ δὲ Κορίνθου τὴν Ἐφυραίαν μετονομασθῆναι .",
+      "translation": "The Corinthian land is a portion of the Argive , and is named after Corinthus . That Corinthus was a son of Zeus I have never known anybody say seriously except the majority of the Corinthians . Eumelus , the son of Amphilytus , [*] of the family called Bacchidae , who is said to have composed the epic poem , says in his Corinthian History ( if indeed the history be his ) that Ephyra , the daughter of Oceanus , dwelt first in this land ; that afterwards Marathon , the son of Epopeus , the son of Aloeus , the son of Helius ( Sun ), fleeing from the lawless violence of his father migrated to the sea coast of Attica ; that on the death of Epopeus he came to Peloponnesus , divided his kingdom among his sons , and returned to Attica ; and that Asopia was renamed after Sicyon , and Ephyraea after Corinthus ."
+    },
+    {
+      "id": "2.1.2",
+      "label": "Section 2.1.2",
+      "chapter": null,
+      "original": "Κόρινθον δὲ οἰκοῦσι Κορινθίων μὲν οὐδεὶς ἔτι τῶν ἀρχαίων , ἔποικοι δὲ ἀποσταλέντες ὑπὸ Ῥωμαίων . αἴτιον δὲ τὸ συνέδριον τὸ Ἀχαιῶν · συντελοῦντες γὰρ ἐς αὐτὸ καὶ οἱ Κορίνθιοι μετέσχον τοῦ πολέμου τοῦ πρὸς Ῥωμαίους , ὃν Κριτόλαος στρατηγεῖν Ἀχαιῶν ἀποδειχθεὶς παρεσκεύασε γενέσθαι τούς τε Ἀχαιοὺς ἀναπείσας ἀποστῆναι καὶ τῶν ἔξω Πελοποννήσου τοὺς πολλούς . Ῥωμαῖοι δὲ ὡς ἐκράτησαν τῷ πολέμῳ , παρείλοντο μὲν καὶ τῶν ἄλλων Ἑλλήνων τὰ ὅπλα καὶ τείχη περιεῖλον ὅσαι τετειχισμέναι πόλεις ἦσαν · Κόρινθον δὲ ἀνάστατον Μομμίου ποιήσαντος τοῦ τότε ἡγουμένου τῶν ἐπὶ στρατοπέδου Ῥωμαίων , ὕστερον λέγουσιν ἀνοικίσαι Καίσαρα , ὃς πολιτείαν ἐν Ῥώμῃ πρῶτος τὴν ἐφʼ ἡμῶν κατεστήσατο · ἀνοικίσαι δὲ καὶ Καρχηδόνα ἐπὶ τῆς ἀρχῆς τῆς αὐτοῦ .",
+      "translation": "Corinth is no longer inhabited by any of the old Corinthians , but by colonists sent out by the Romans . This change is due to the Achaean League . [*] The Corinthians , being members of it , joined in the war against the Romans , which Critolaus , when appointed general of the Achaeans , brought about by persuading to revolt both the Achaeans and the majority of the Greeks outside the Peloponnesus . When the Romans won the war , they carried out a general disarmament of the Greeks [*] and dismantled the walls of such cities as were fortified . Corinth was laid waste by Mummius , who at that time commanded the Romans in the field , and it is said that it was afterwards refounded by Caesar , [*] who was the author of the present constitution of Rome . Carthage , too , they say , was refounded in his reign ."
+    },
+    {
+      "id": "2.1.3",
+      "label": "Section 2.1.3",
+      "chapter": null,
+      "original": "τῆς δὲ Κορινθίας ἐστὶ γῆς καὶ ὁ καλούμενος Κρομυὼν ἀπὸ τοῦ Κρόμου τοῦ Ποσειδῶνος . ἐνταῦθα τραφῆναί φασι Φαιὰν , καὶ τῶν λεγομένων Θησέως καὶ τὸ ἐς τὴν ὗν ταύτην ἐστὶν ἔργον . προϊοῦσι δὲ ἡ πίτυς ἄχρι γε ἐμοῦ πεφύκει παρὰ τὸν αἰγιαλὸν καὶ Μελικέρτου βωμὸς ἦν . ἐς τοῦτον τὸν τόπον ἐκκομισθῆναι τὸν παῖδα ὑπὸ δελφῖνος λέγουσι · κειμένῳ δὲ ἐπιτυχόντα Σίσυφον θάψαι τε ἐν τῷ ἰσθμῷ καὶ τὸν ἀγῶνα ἐπʼ αὐτῷ ποιῆσαι τῶν Ἰσθμίων .",
+      "translation": "In the Corinthian territory is also the place called Cromyon from Cromus the son of Poseidon . Here they say that Phaea was bred ; overcoming this sow was one of the traditional achievements of Theseus . Farther on the pine still grew by the shore at the time of my visit , and there was an altar of Melicertes . At this place , they say , the boy was brought ashore by a dolphin ; Sisyphus found him lying and gave him burial on the Isthmus , establishing the Isthmian games in his honor ."
+    },
+    {
+      "id": "2.1.4",
+      "label": "Section 2.1.4",
+      "chapter": null,
+      "original": "ἔστι δὲ ἐπὶ τοῦ ἰσθμοῦ τῆς ἀρχῆς , ἔνθα ὁ λῃστὴς Σίνις λαμβανόμενος πιτύων ἦγεν ἐς τὸ κάτω σφᾶς · ὁπόσων δὲ μάχῃ κρατήσειεν , ἀπʼ αὐτῶν δήσας ἀφῆκεν ἂν τὰ δένδρα ἄνω φέρεσθαι · ἐνταῦθα ἑκατέρα τῶν πιτύων τὸν δεθέντα ἐφʼ αὑτὴν εἷλκε , καὶ τοῦ δεσμοῦ μηδετέρωσε εἴκοντος ἀλλʼ ἀμφοτέρωθεν ἐπʼ ἴσης βιαζομένου διεσπᾶτο ὁ δεδεμένος . τοιούτῳ διεφθάρη τρόπῳ καὶ αὐτὸς ὑπὸ Θησέως ὁ Σίνις · ἐκάθηρε γὰρ Θησεὺς τῶν κακούργων τὴν ὁδὸν τὴν ἐς Ἀθήνας ἐκ Τροιζῆνος , οὕς τε πρότερον κατηρίθμησα ἀνελὼν καὶ ἐν Ἐπιδαύρῳ τῇ ἱερᾷ Περιφήτην Ἡφαίστου νομιζόμενον , κορύνῃ χαλκῇ χρώμενον ἐς τὰς μάχας .",
+      "translation": "At the beginning of the Isthmus is the place where the brigand Sinis used to take hold of pine trees and draw them down . All those whom he overcame in fight he used to tie to the trees , and then allow them to swing up again . Thereupon each of the pines used to drag to itself the bound man , and as the bond gave way in neither direction but was stretched equally in both , he was torn in two . This was the way in which Sinis himself was slain by Theseus . For Theseus rid of evildoers the road from Troezen to Athens , killing those whom I have enumerated and , in sacred Epidaurus , Periphetes , thought to be the son of Hephaestus , who used to fight with a bronze club ."
+    },
+    {
+      "id": "2.1.5",
+      "label": "Section 2.1.5",
+      "chapter": null,
+      "original": "καθήκει δὲ ὁ τῶν Κορινθίων ἰσθμὸς τῇ μὲν ἐς τὴν ἐπὶ Κεγχρέαις , τῇ δὲ ἐς τὴν ἐπὶ Λεχαίῳ θάλασσαν · τοῦτο γὰρ ἤπειρον ποιεῖ τὴν ἐντὸς χώραν . ὃς δὲ ἐπεχείρησε Πελοπόννησον ἐργάσασθαι νῆσον , προαπέλιπε διορύσσων ἰσθμόν · καὶ ὅθεν μὲν διορύσσειν ἤρξαντο δῆλόν ἐστιν , ἐς δὲ τὸ πετρῶδες οὐ προεχώρησαν ἀρχήν · μένει δὲ ὡς πεφύκει καὶ νῦν ἤπειρος ὤν . Ἀλεξάνδρῳ τε τῷ Φιλίππου διασκάψαι Μίμαντα ἐθελήσαντι μόνον τοῦτο οὐ προεχώρησε τὸ ἔργον · Κνιδίους δὲ ἡ Πυθία τὸν ἰσθμὸν ὀρύσσοντας ἔπαυσεν . οὕτω χαλεπὸν ἀνθρώπῳ τὰ θεῖα βιάσασθαι .",
+      "translation": "The Corinthian Isthmus stretches on the one hand to the sea at Cenchreae , and on the other to the sea at Lechaeum . For this is what makes the region to the south mainland . He who tried to make the Peloponnesus an island gave up before digging through the Isthmus . Where they began to dig is still to be seen , but into the rock they did not advance at all . So it still is mainland as its nature is to be . Alexander the son of Philip wished to dig through Mimas , and his attempt to do this was his only unsuccessful project . The Cnidians began to dig through their isthmus , but the Pythian priestess stopped them . So difficult it is for man to alter by violence what Heaven has made ."
+    },
+    {
+      "id": "3.1.1",
+      "label": "Section 3.1.1",
+      "chapter": null,
+      "original": "μετὰ δὲ τοὺς Ἑρμᾶς ἐστιν ἤδη Λακωνικὴ τὰ πρὸς ἑσπέρας . ὡς δὲ αὐτοὶ Λακεδαιμόνιοι λέγουσι , Λέλεξ αὐτόχθων ὢν ἐβασίλευσε πρῶτος ἐν τῇ γῇ ταύτῃ καὶ ἀπὸ τούτου Λέλεγες ὧν ἦρχεν ὠνομάσθησαν . Λέλεγος δὲ γίνεται Μύλης καὶ νεώτερος Πολυκάων . Πολυκάων μὲν δὴ ὅποι καὶ διʼ ἥντινα αἰτίαν ἀπεχώρησεν , ἑτέρωθι δηλώσω · Μύλητος δὲ τελευτήσαντος παρέλαβεν ὁ παῖς 0 Εὐρώτας τὴν ἀρχήν . οὗτος τὸ ὕδωρ τὸ λιμνάζον ἐν τῷ πεδίῳ διώρυγι κατήγαγεν ἐπὶ θάλασσαν , ἀπορρυέντος δὲ — ἦν γὰν δὴ τὸ ὑπόλοιπον ποταμοῦ ῥεῦμα — ὠνόμασεν Εὐρώταν .",
+      "translation": "After the figures of Hermes we reach Laconia on the west . According to the tradition of the Lacedaemonians themselves , Lelex , an aboriginal was the first king in this land , after whom his subjects were named Leleges . Lelex had a son Myles , and a younger one Polycaon . Polycaon retired into exile , the place of this retirement and its reason I will set forth elsewhere . On the death of Myles his son Eurotas succeeded to the throne . He led down to the sea by means of a trench the stagnant water on the plain , and when it had flowed away , as what was left formed a river-stream , he named it Eurotas . [*]"
+    },
+    {
+      "id": "3.1.2",
+      "label": "Section 3.1.2",
+      "chapter": null,
+      "original": "ἅτε δὲ οὐκ ὄντων · αὐτῷ παίδων ἀρρένων βασιλεύειν καταλείπει Λακεδαίμονα , μητρὸς μὲν Ταϋγέτης ὄντα , ἀφʼ ἧς καὶ τὸ ὄρος ὠνομάσθη , ἐς Δία δὲ πατέρα ἀνήκοντα κατὰ τὴν φήμην · συνῴκει δὲ ὁ Λακεδαίμων Σπάρτῃ θυγατρὶ τοῦ Εὐρώτα . τότε δὲ ὡς ἔσχε τὴν ἀρχήν , πρῶτα μὲν τῇ χώρᾳ καὶ τοῖς ἀνθρώποις μετέθετο ἀφʼ αὑτοῦ τὰ ὀνόματα , μετὰ δὲ τοῦτο ᾤκισέ τε καὶ ὠνόμασεν ἀπὸ τῆς γυναικὸς πόλιν , ἣ Σπάρτη καλεῖται καὶ ἐς ἡμᾶς .",
+      "translation": "Having no male issue , he left the kingdom to Lacedaemon , whose mother was Taygete , after whom the mountain was named , while according to report his father was none other than Zeus . Lacedaemon was wedded to Sparta , a daughter of Eurotas . When he came to the throne , he first changed the names of the land and its inhabitants , calling them after himself , and next he founded and named after his wife a city , which even down to our own day has been called Sparta ."
+    },
+    {
+      "id": "3.1.3",
+      "label": "Section 3.1.3",
+      "chapter": null,
+      "original": "Ἀμύκλας δὲ ὁ Λακεδαίμονος , βουλόμενος ὑπολιπέσθαι τι καὶ αὐτὸς ἐς μνήμην , πόλισμα ἔκτισεν ἐν τῇ Λακωνικῇ . γενομένων δέ οἱ παίδων Ὑάκινθον μὲν νεώτατον ὄντα καὶ τὸ εἶδος κάλλιστον κατέλαβεν ἡ πεπρωμένη πρότερον τοῦ πατρός , καὶ Ὑακίνθου μνῆμά ἐστιν ἐν Ἀμύκλαις ὑπὸ τὸ ἄγαλμα τοῦ Ἀπόλλωνος . ἀποθανόντος δὲ Ἀμύκλα ἐς Ἄργαλον τὸν πρεσβύτατον τῶν Ἀμύκλα παίδων καὶ ὕστερον ἐς Κυνόρταν Ἀργάλου τελευτήσαντος ἀφίκετο ἡ ἀρχή .",
+      "translation": "Amyclas , too , son of Lacedaemon , wished to leave some memorial behind him , and built a town in Laconia . Hyacinthus , the youngest and most beautiful of his sons , died before his father , and his tomb is in Amyclae below the image of Apollo . On the death of Amyclas the empire came to Aigalus , the eldest of his sons , and afterwards , when Aigalus died , to Cynortas . Cynortas had a son Oebalus ."
+    },
+    {
+      "id": "3.1.4",
+      "label": "Section 3.1.4",
+      "chapter": null,
+      "original": "Κυνόρτα δὲ ἐγένετο Οἴβαλος . οὗτος Γοργοφόνην τε τὴν Περσέως γυναῖκα ἔσχεν ἐξ Ἄργους καὶ παῖδα ἔσχε Τυνδάρεων , ᾧ περὶ τῆς βασιλείας Ἱπποκόων ἠμφισβήτει καὶ κατὰ πρεσβείαν ἔχειν ἠξίου τὴν ἀρχήν . προσλαβὼν δὲ Ἰκάριον καὶ τοὺς στασιώτας παρὰ πολύ τε ὑπερεβάλετο δυνάμει Τυνδάρεων καὶ ἠνάγκασεν ἀποχωρῆσαι δείσαντα , ὡς μὲν Λακεδαιμόνιοί φασιν , ἐς Πελλάναν , Μεσσηνίων δέ ἐστιν ἐς αὐτὸν λόγος Τυνδάρεων φεύγοντα ἐλθεῖν ὡς Ἀφαρέα ἐς τὴν Μεσσηνίαν εἶναί τε Ἀφαρέα τὸν Περιήρους ἀδελφὸν Τυνδάρεω πρὸς μητρός · καὶ οἰκῆσαί τε αὐτὸν τῆς Μεσσηνίας φασὶν ἐν Θαλάμαις καὶ τοὺς παῖδας ἐνταῦθα οἰκοῦντι αὐτῷ γενέσθαι .",
+      "translation": "He took a wife from Argos , Gorgophone the daughter of Perseus , and begat a son Tyndareus , with whom Hippocoon disputed about the kingship , claiming the throne on the ground of being the eldest . With the end of Icarius and his partisans he had surpassed Tyndareus in power , and forced him to retire in fear ; the Lacedaemonians say that he went to Pellana , but a Messenian legend about him is that he fled to Aphareus in Messenia , Aphareus being the son of Perieres and the brother of Tyndareus on his mother ' s side . The story goes on to say that he settled at Thalamae in Messenia , and that his children were born to him when he was living there ."
+    },
+    {
+      "id": "3.1.5",
+      "label": "Section 3.1.5",
+      "chapter": null,
+      "original": "χρόνῳ δὲ ὕστερον κατῆλθέ τε ὑπὸ Ἡρακλέους Τυνδάρεως καὶ ἀνενεώσατο τὴν ἀρχὴν · ἐβασίλευσαν δὲ καὶ οἱ Τυνδάρεω παῖδες καὶ Μενέλαος ὁ Ἀτρέως Τυνδάρεω γαμβρὸς ὢν Ὀρέστης τε Ἑρμιόνῃ τῇ Μενελάου συνοικῶν . κατελθόντων δὲ Ἡρακλειδῶν ἐπὶ Τισαμενοῦ τοῦ Ὀρέστου βασιλεύοντος , Μεσσήνη μὲν καὶ Ἄργος ἑκατέρα μοῖρα Τήμενον , ἡ δὲ Κρεσφόντην ἔσχεν ἄρχοντας · ἐν Λακεδαίμονι δὲ ὄντων διδύμων τῶν Ἀριστοδήμου παίδων οἰκίαι δύο βασίλειαι γίνονται ·",
+      "translation": "Subsequently Tyndareus was brought back by Heracles and recovered his throne . His sons too became kings , as did Menelaus the son of Atreus and son-in-law of Tyndareus , and Orestes the husband of Hermione the daughter of Menelaus . On the return of the Heracleidae in the reign of Tisamenus , son of Orestes , both districts , Messene and Argos , had kings put over them ; Argos had Temenus and Messene Cresphontes . In Lacedaemon , as the sons of Aristodemus were twins , there arose two royal houses ; for they say that the Pythian priestess approved ."
+    },
+    {
+      "id": "4.1.1",
+      "label": "Section 4.1.1",
+      "chapter": null,
+      "original": "Μεσσηνίοις δὲ πρὸς τὴν σφετέραν τὴν ἀπονεμηθεῖσαν ὑπὸ τοῦ βασιλέως ἐς τὸ Λακωνικὸν ὅροι κατὰ τὴν Γερηνίαν εἰσὶν ἐφʼ ἡμῶν ἡ ὀνομαζομένη Χοίριος νάπη . ταύτην τὴν χώραν ἔρημον οὖσαν οὕτω σχεῖν τοὺς πρώτους λέγουσιν οἰκήτορας · ἀποθανόντος Λέλεγος , ὃς ἐβασίλευεν ἐν τῇ νῦν Λακωνικῇ , τότε δὲ ἀπʼ ἐκείνου Λελεγίᾳ καλουμένῃ , Μύλης μὲν πρεσβύτερος ὢν τῶν παίδων ἔσχε τὴν ἀρχήν , Πολυκάων δὲ νεώτερός τε ἦν ἡλικίᾳ καὶ διʼ αὐτὸ ἰδιώτης , ἐς ὃ Μεσσήνην τὴν Τριόπα τοῦ Φόρβαντος ἔλαβε γυναῖκα ἐξ Ἄργους .",
+      "translation": "The frontier between Messenia and that part of it which was incorporated by the emperor in Laconia towards Gerenia is formed in our time by the valley called Choerius . They say that this country , being unoccupied , received its first inhabitants in the following manner : On the death of Lelex , who ruled in the present Laconia , then called after him Lelegia , Myles , the elder of his sons , received the kingdom . Polycaon was the younger and for this reason a private person , until he took to wife Messene , the daughter of Triopas , son of Phorbas , from Argos ."
+    },
+    {
+      "id": "4.1.2",
+      "label": "Section 4.1.2",
+      "chapter": null,
+      "original": "φρονοῦσα δὲ ἡ Μεσσήνη διὰ τὸν πατέρα , ἀξιώματι καὶ δυνάμει τῶν τότε προέχοντα Ἑλλήνων , οὐκ ἠξίου τὸν ἄνδρα ἰδιωτεύειν . ἀθροίσαντες δὲ ἔκ τε Ἄργους δύναμιν καὶ ἐκ Λακεδαίμονος ἀφίκοντο ἐς ταύτην τὴν χώραν , καὶ συμπάσῃ μὲν ἐτέθη τῇ γῇ Μεσσήνη τὸ ὄνομα ἀπὸ τῆς Πολυκάονος γυναικός , πόλεις δὲ ἄλλαι τε ἐκτίσθησαν καὶ — ἔνθα τὰ βασίλεια κατεσκευάσθη σφίσιν — Ἀνδανία .",
+      "translation": "Messene , being proud of her origin , for her father was the chief of the Greeks of his day in reputation and power , was not content that her husband should be a private person . They collected a force from Argos and from Lacedaemon and came to this country , the whole land receiving the name Messene from the wife of Polycaon . Together with other cities , they founded Andania , where their palace was built ."
+    },
+    {
+      "id": "4.1.3",
+      "label": "Section 4.1.3",
+      "chapter": null,
+      "original": "πρὸ δὲ τῆς μάχης , ἣν Θηβαῖοι πρὸς Λακεδαιμονίους ἐμαχέσαντο ἐν Λεύκτροις , καὶ τοῦ οἰκισμοῦ Μεσσήνης τῆς ἐφʼ ἡμῶν ὑπὸ τῇ Ἰθώμῃ , πόλιν οὐδεμίαν πω κληθῆναι πρότερον δοκῶ Μεσσήνην · εἰκάζω δὲ οὐχ ἥκιστα Ὁμήρου τοῖς ἔπεσιν . ἐν μὲν γὰρ καταλόγῳ τῶν ἐς Ἴλιον ἀφικομένων Πύλον καὶ 0 Ἀρήνην καὶ ἄλλας καταλέγων οὐδεμίαν πόλιν Μεσσήνην ἐκάλεσεν · ἐν Ὀδυσσείᾳ δὲ δηλοῖ μὲν καὶ ἐν τῷδε ἔθνος καὶ οὐ πόλιν τοὺς Μεσσηνίους ὄντας , μῆλα γὰρ ἐξ Ἰθάκης Μεσσήνιοι ἄνδρες ἄειραν , Hom. Od. 21.18",
+      "translation": "Before the battle which the Thebans fought with the Lacedaemonians at Leuctra , and the foundation of the present city of Messene under Ithome , I think that no city had the name Messene . I base this conclusion principally on Homer ' s lines . [*] In the catalogue of those who came to Troy he enumerated Pylos , Arene and other towns , but called no town Messene . In the Odyssey he shows that the Messenians were a tribe and not a city by the following :— For Messenian men carried away sheep from Ithaca . Hom. Od. 21.18"
+    },
+    {
+      "id": "4.1.4",
+      "label": "Section 4.1.4",
+      "chapter": null,
+      "original": "σαφέστερον δὲ ἔτι περὶ τοῦ τόξου λέγων τοῦ Ἰφίτου\nτὼ δʼ ἐν Μεσσήνῃ ξυμβλήτην ἀλλήλοιιν οἴκῳ ἐν Ὀρτιλόχοιο .\nHom. Od. 21.15 τοῦ γὰρ Ὀρτιλόχου τὸν οἶκον ἐν τῇ Μεσσήνῃ πόλισμα εἴρηκε τὰς Φηράς , καὶ τόδε ἐξηγήσατο αὐτὸς ἐν Πεισιστράτου παρὰ Μενέλαον ἀποδημίᾳ ·\nἐς Φηρὰς δʼ ἵκοντο Διοκλῆος ποτὶ δῶμα , υἱέος Ὀρτιλόχοιο .\nHom. Od. 3.488",
+      "translation": "He is still more clear when speaking about the bow of Iphitus :—\nThey met one another in Messene in the dwelling of Ortilochus .\nHom. Od. 21.15 By the dwelling of Ortilochus he meant the city of Pherae in Messene , and explained this himself in the visit of Peisistratus to Menelaus :—\nThey came to Pherae to the house of Diocleus , son of Ortilochus .\nHom. Od. 3.488"
+    },
+    {
+      "id": "4.1.5",
+      "label": "Section 4.1.5",
+      "chapter": null,
+      "original": "πρῶτοι δʼ οὖν βασιλεύουσιν ἐν τῇ χώρᾳ ταύτῃ Πολυκάων τε ὁ Λέλεγος καὶ Μεσσήνη γυνὴ τοῦ Πολυκάονος . παρὰ ταύτην τὴν Μεσσήνην τὰ ὄργια κομίζων τῶν Μεγάλων θεῶν Καύκων ἦλθεν ἐξ Ἐλευσῖνος ὁ Κελαινοῦ τοῦ Φλύου . Φλῦον δὲ αὐτὸν Ἀθηναῖοι λέγουσι παῖδα εἶναι Γῆς · ὁμολογεῖ δέ σφισι καὶ ὕμνος Μουσαίου Λυκομίδαις ποιηθεὶς ἐς Δήμητρα .",
+      "translation": "The first rulers then in this country were Polycaon , the son of Lelex , and Messene his wife . It was to her that Caucon , the son of Celaenus , son of Phlyus , brought the rites of the Great Goddesses from Eleusis . Phlyus himself is said by the Athenians to have been the son of Earth , and the hymn of Musaeus to Demeter made for the Lycomidae agrees ."
+    },
+    {
+      "id": "5.1.1",
+      "label": "Section 5.1.1",
+      "chapter": null,
+      "original": "ὅσοι δὲ Ἑλλήνων Πελοποννήσου πέντε εἶναι μοίρας καὶ οὐ πλείονάς φασιν , ἀνάγκη σφᾶς ὁμολογεῖν ὡς ἐν τῇ Ἀρκάδων οἰκοῦσιν Ἠλεῖοι καὶ Ἀρκάδες , δευτέρα δὲ Ἀχαιῶν , τρεῖς δὲ ἐπὶ ταύταις αἱ Δωριέων . γένη δὲ οἰκεῖ Πελοπόννησον Ἀρκάδες μὲν αὐτόχθονες καὶ Ἀχαιοί · καὶ οἱ μὲν ὑπὸ Δωριέων ἐκ τῆς σφετέρας ἀνέστησαν , οὐ μέντοι Πελοποννήσου γε ἐξεχώρησαν , ἀλλὰ ἐκβαλόντες Ἴωνας νέμονται τὸν Αἰγιαλὸν τὸ ἀρχαῖον , νῦν δὲ ἀπὸ τῶν Ἀχαιῶν τούτων καλούμενον ·",
+      "translation": "The Greeks who say that the Peloponnesus has five , and only five , divisions must agree that Arcadia contains both Arcadians and Eleans , that the second division belongs to the Achaeans , and the remaining three to the Dorians . Of the races dwelling in Peloponnesus the Arcadians and Achaeans are aborigines . When the Achaeans were driven from their land by the Dorians , they did not retire from Peloponnesus , but they cast out the Ionians and occupied the land called of old Aegialus , but now called Achaea from these Achaeans . The Arcadians , on the other hand , have from the beginning to to the present time continued in possession of their own country ."
+    },
+    {
+      "id": "5.1.2",
+      "label": "Section 5.1.2",
+      "chapter": null,
+      "original": "οἱ δὲ Ἀρκάδες διατελοῦσιν ἐξ ἀρχῆς καὶ ἐς τόδε τὴν ἑαυτῶν ἔχοντες . τὰ δὲ λοιπὰ ἐπηλύδων ἐστὶν ἀνθρώπων . Κορίνθιοι μὲν γὰρ οἱ νῦν νεώτατοι Πελοποννησίων εἰσί , καί σφισιν , ἀφʼ οὗ τὴν γῆν παρὰ βασιλέως ἔχουσιν , εἴκοσιν ἔτη καὶ διακόσια τριῶν δέοντα ἦν ἐς ἐμέ · Δρύοπες δὲ καὶ Δωριεῖς , οἱ μὲν ἐκ Παρνασσοῦ , Δωριεῖς δὲ ἐκ τῆς Οἴτης ἐς Πελοπόννησόν εἰσιν ἀφιγμένοι .",
+      "translation": "The rest of Peloponnesus belongs to immigrants . The modern Corinthians are the latest inhabitants of Peloponnesus , and from my time [*] to the time when they received their land from the Roman Emperor [*] is two hundred and seventeen years . The Dryopians reached the Peloponnesus from Parnassus , the Dorians from Oeta ."
+    },
+    {
+      "id": "5.1.3",
+      "label": "Section 5.1.3",
+      "chapter": null,
+      "original": "τοὺς Ἠλείους ἴσμεν ἐκ Καλυδῶνος διαβεβηκότας καὶ Αἰτωλίας τῆς ἄλλης · τὰ δὲ ἔτι παλαιότερα ἐς 0 αὐτοὺς τοιάδε εὕρισκον . βασιλεῦσαι πρῶτον ἐν τῇ γῇ ταύτῃ λέγουσιν Ἀέθλιον , παῖδα δὲ αὐτὸν Διός τε εἶναι καὶ Πρωτογενείας τῆς Δευκαλίωνος , Ἀεθλίου δὲ Ἐνδυμίωνα γενέσθαι ·",
+      "translation": "The Eleans we know crossed over from Calydon and Aetolia generally . Their earlier history I found to be as follows . The first to rule in this land , they say , was Aethlius , who was the son of Zeus and of Protogeneia , the daughter of Deucalion , and the father of Endymion ."
+    },
+    {
+      "id": "5.1.4",
+      "label": "Section 5.1.4",
+      "chapter": null,
+      "original": "τούτου τοῦ Ἐνδυμίωνος Σελήνην φασὶν ἐρασθῆναι , καὶ ὡς θυγατέρες αὐτῷ γένοιντο ἐκ τῆς θεοῦ πεντήκοντα . οἱ δὲ δὴ μᾶλλόν τι εἰκότα λέγοντες Ἐνδυμίωνι λαβόντι Ἀστεροδίαν γυναῖκα — οἱ δὲ τὴν Ἰτώνου τοῦ Ἀμφικτύονος Χρομίαν , ἄλλοι δὲ Ὑπερίππην τὴν Ἀρκάδος —, γενέσθαι δʼ οὖν φασιν αὐτῷ Παίονα καὶ Ἐπειόν τε καὶ Αἰτωλὸν καὶ θυγατέρα ἐπʼ αὐτοῖς Εὐρυκύδαν . ἔθηκε δὲ καὶ ἐν Ὀλυμπίᾳ δρόμου τοῖς παισὶν ἀγῶνα Ἐνδυμίων ὑπὲρ τῆς ἀρχῆς , καὶ ἐνίκησε καὶ ἔσχε τὴν βασιλείαν Ἐπειός · καὶ Ἐπειοὶ πρῶτον τότε ὧν ἦρχεν ὠνομάσθησαν .",
+      "translation": "The Moon , they say , fell in love with this Endymion and bore him fifty daughters . Others with greater probability say that Endymion took a wife Asterodia — others say she was Cromia , the daughter of Itonus , the son of Amphictyon ; others again , Hyperippe , the daughter of Arcas — but all agree that Endymion begat Paeon , Epeius , Aetolus , and also a daughter Eurycyda . Endymion set his sons to run a race at Olympia for the throne ; Epeius won , and obtained the kingdom , and his subjects were then named Epeans for the first time ."
+    },
+    {
+      "id": "5.1.5",
+      "label": "Section 5.1.5",
+      "chapter": null,
+      "original": "τῶν δὲ ἀδελφῶν οἱ τὸν μὲν καταμεῖναί φασιν αὐτοῦ , Παίονα δὲ ἀχθόμενον τῇ ἥσσῃ φυγεῖν ὡς πορρωτάτω , καὶ τὴν ὑπὲρ Ἀξιοῦ ποταμοῦ χώραν ἀπʼ αὐτοῦ Παιονίαν ὀνομασθῆναι . τὰ δὲ ἐς τὴν Ἐνδυμίωνος τελευτὴν οὐ κατὰ τὰ αὐτὰ Ἡρακλεῶταί τε οἱ πρὸς Μιλήτῳ καὶ Ἠλεῖοι λέγουσιν , ἀλλὰ Ἠλεῖοι μὲν ἀποφαίνουσιν Ἐνδυμίωνος μνῆμα , Ἡρακλεῶται δὲ ἐς Λάτμον τὸ ὄρος ἀποχωρῆσαί φασιν αὐτὸν καὶ τιμὴν αὐτῷ νέ μουσι , καὶ ἄδυτον Ἐνδυμίωνός ἐστιν ἐν τῷ Λάτμῳ .",
+      "translation": "Of his brothers they say that Aetolus remained at home , while Paeon , vexed at his defeat , went into the farthest exile possible , and that the region beyond the river Axius was named after him Paeonia . As to the death of Endymion , the people of Heracleia near Miletus do not agree with the Eleans for while the Eleans show a tomb of Endymion , the folk of Heracleia say that he retired to Mount Latmus and give him honor , there being a shrine of Endymion on Latmus ."
+    },
+    {
+      "id": "6.1.1",
+      "label": "Section 6.1.1",
+      "chapter": null,
+      "original": "ἕπεται δέ μοι τῷ λόγῳ τῷ ἐς τὰ ἀναθήματα τὸ μετὰ τοῦτο ἤδη ποιήσασθαι καὶ ἵππων ἀγωνιστῶν μνήμην καὶ ἀνδρῶν ἀθλητῶν τε καὶ ἰδιωτῶν ὁμοίως . τῶν δὲ νικησάντων Ὀλυμπίασιν οὐχ ἁπάντων εἰσὶν ἑστηκότες ἀνδριάντες , ἀλλὰ καὶ ἀποδειξάμενοι λαμπρὰ ἐς τὸν ἀγῶνα , οἱ δὲ καὶ ἐπὶ ἄλλοις ἔργοις , ὅμως οὐ τετυχήκασιν εἰκόνων ·",
+      "translation": "After my description of the votive offerings I must now go on to mention the statues of racehorses and those of men , whether athletes or ordinary folk . Not all the Olympic victors have had their statues erected ; some , in fact , who have distinguished themselves , either at the games or by other exploits , have had no statue ."
+    },
+    {
+      "id": "6.1.2",
+      "label": "Section 6.1.2",
+      "chapter": null,
+      "original": "τούτους ἐκέλευσεν ἀφεῖναί με ὁ λόγος , ὅτι οὐ κατάλογός ἐστιν ἀθλητῶν ὁπόσοις γεγόνασιν Ὀλυμπικαὶ νῖκαι , ἀναθημάτων δὲ ἄλλων τε καὶ εἰκόνων συγγραφή . οὐδὲ ὁπόσων ἑστήκασιν ἀνδριάντες , οὐδὲ τούτοις πᾶσιν ἐπέξειμι , ἐπιστάμενος ὅσοι τῷ παραλόγῳ τοῦ κλήρου καὶ οὐχ ὑπὸ ἰσχύος ἀνείλοντο ἤδη τὸν κότινον · ὁπόσοις δὲ ἢ αὐτοῖς τι εἶχεν ἐς δόξαν ἢ καὶ τοῖς ἀνδριᾶσιν ὑπῆρχεν ἄμεινον ἑτέρων πεποιῆσθαι , τοσαῦτα καὶ αὐτὸς μνησθήσομαι . 0",
+      "translation": "These I am forced to omit by the nature of my work , which is not a list of athletes who have won Olympic victories , but an account of statues and of votive offerings generally . I shall not even record all those whose statues have been set up , as I know how many have before now won the crown of wild olive not by strength but by the chance of the lot . [*] Those only will be mentioned who themselves gained some distinction , or whose statues happened to be better made than others ."
+    },
+    {
+      "id": "6.1.3",
+      "label": "Section 6.1.3",
+      "chapter": null,
+      "original": "ἔστιν ἐν δεξιᾷ τοῦ ναοῦ τῆς Ἥρας ἀνδρὸς εἰκὼν παλαιστοῦ , γένος δὲ ἦν Ἠλεῖος , Σύμμαχος Αἰσχύλου · παρὰ δὲ αὐτὸν ἐκ Φενεοῦ τῆς Ἀρκάδων Νεολαΐδας Προξένου , πυγμῆς ἐν παισὶν ἀνῃρημένος νίκην · ἐφεξῆς δὲ Ἀρχέδαμος Ξενίου , καταβαλὼν καὶ οὗτος παλαιστὰς παῖδας , γένος καὶ αὐτὸς Ἠλεῖος . τούτων τῶν κατειλεγμένων εἰργάσατο Ἄλυπος τὰς εἰκόνας Σικυώνιος , Ναυκύδους τοῦ Ἀργείου μαθητής .",
+      "translation": "On the right of the temple of Hera is the statue of a wrestler , Symmachus the son of Aeschylus . He was an Elean by birth . Beside him is Neolaidas , son of Proxenus , from Pheneus in Arcadia , who won a victory in the boys ' boxing-match . Next comes Archedamus , son of Xenius , another Elean by birth , who like Symmachus overthrew wrestlers in the contest for boys . The statues of the athletes mentioned above were made by Alypus of Sicyon , pupil of Naucydes of Argos ."
+    },
+    {
+      "id": "6.1.4",
+      "label": "Section 6.1.4",
+      "chapter": null,
+      "original": "Κλεογένην δὲ Σιληνοῦ τὸ ἐπίγραμμα τὸ ἐπʼ αὐτῷ φησιν εἶναι τῶν ἐπιχωρίων , ἐκ δὲ ἀγέλης αὐτὸν οἰκείας ἵππῳ κρατῆσαι κέλητι . πλησίον δὲ τοῦ Κλεογένους Δεινόλοχός τε κεῖται Πύρρου τε καὶ Τρωίλος Ἀλκίνου . τούτοις γένος μὲν καὶ αὐτοῖς ἐστιν ἐξ Ἤλιδος , γεγόνασι δέ σφισιν οὐ κατὰ ταὐτὰ αἱ νῖκαι · ἀλλὰ τῷ μὲν ἑλλανοδικεῖν τε ὁμοῦ καὶ ἵππων ὑπῆρξεν ἀνελέσθαι νίκας τῷ Τρωίλῳ δὲ τελείᾳ τε συνωρίδι καὶ πώλων ἅρματι — Ὀλυμπιάδι δὲ ἐκράτει δευτέρᾳ πρὸς ταῖς ἑκατόν ,",
+      "translation": "The inscription on Cleogenes the son of Silenus declares that he was a native , and that he won a prize with a riding-horse from his own private stable . Hard by Cleogenes are set up Deinolochus , son of Pyrrhus , and Troilus , son of Alcinous . These also were both Eleans by birth , though their victories were not the same . Troilus , at the time that he was umpire , succeeded in winning victories in the chariot-races , one for a chariot drawn by a full-grown pair and another for a chariot drawn by foals . The date of his victories was the hundred and second Festival [*] ."
+    },
+    {
+      "id": "6.1.5",
+      "label": "Section 6.1.5",
+      "chapter": null,
+      "original": "ἀπὸ τούτου δὲ καὶ νόμος ἐγένετο Ἠλείοις μηδὲ ἵππους τοῦ λοιποῦ τῶν ἑλλανοδικούντων καθιέναι μηδένα —, τούτου μὲν δὴ τὸν ἀνδριάντα ἐποίησε Λύσιππος · ἡ δὲ τοῦ Δεινολόχου μήτηρ εἶδεν ὄψιν ὀνείρατος ὡς ἔχοιτο τοῦ παιδὸς ἐν τοῖς κόλποις ἐστεφανωμένου , καὶ τοῦδε ἕνεκα ἐς τὸν ἀγῶνα ὁ Δεινόλοχος ἠσκήθη καὶ τοὺς παῖδας παρέθει τρέχων . Σικυωνίου δὲ Κλέωνός ἐστιν ἡ εἰκών .",
+      "translation": "After this the Eleans passed a law that in future no umpire was to compete in the chariot-races . The statue of Troilus was made by Lysippus . The mother of Deinolochus had a dream , in which she thought that the son she clasped in her bosom had a crown on his head . For this reason Deinolochus was trained to compete in the games and outran the boys . The artist was Cleon of Sicyon ."
+    },
+    {
+      "id": "7.1.1",
+      "label": "Section 7.1.1",
+      "chapter": null,
+      "original": "ἡ δὲ τῆς Ἠλείας μέση καὶ Σικυωνίας , καθήκουσα μὲν ἐπὶ τὴν πρὸς ἕω θάλασσαν , Ἀχαΐαν δὲ ὄνομα τὸ ἐφʼ ἡμῶν ἔχουσα ἀπὸ τῶν ἐνοικούντων , αὐτή τε Αἰγιαλὸς τὸ ἀρχαῖον καὶ οἱ νεμόμενοι τὴν γῆν ἐκαλοῦντο Αἰγιαλεῖς , λόγῳ μὲν τῷ Σικυωνίων ἀπὸ Αἰγιαλέως βασιλεύσαντος ἐν τῇ νῦν Σικυωνίᾳ , εἰσὶ δὲ οἵ φασιν ἀπὸ τῆς χώρας , εἶναι γὰρ τὰ πολλὰ αὐτῆς αἰγιαλόν .",
+      "translation": "The land between Elis and Sicyonia , reaching down to the eastern sea , is now called Achaia after the inhabitants , but of old was called Aegialus and those who lived in it Aegialians . According to the Sicyonians the name is derived from Aegialeus , who was king in what is now Sicyonia ; others say that it is from the land , the greater part of which is coast ( aigialos )."
+    },
+    {
+      "id": "7.1.2",
+      "label": "Section 7.1.2",
+      "chapter": null,
+      "original": "χρόνῳ δὲ ὕστερον ἀποθανόντος Ἕλληνος Ξοῦθον οἱ λοιποὶ τοῦ Ἕλληνος παῖδες διώκουσιν ἐκ Θεσσαλίας , ἐπενεγκόντες αἰτίαν ὡς ἰδίᾳ χρήματα ὑφελόμενος ἔχοι τῶν πατρῴων · ὁ δὲ ἐς Ἀθήνας φυγὼν θυγατέρα Ἐρεχθέως ἠξιώθη λαβεῖν καὶ παῖδας Ἀχαιὸν καὶ Ἴωνα ἔσχεν ἐξ αὐτῆς . ἀποθανόντος δὲ Ἐρεχθέως τοῖς παισὶν αὐτοῦ δικαστὴς Ξοῦθος ἐγένετο ὑπὲρ τῆς ἀρχῆς , καὶ — ἔγνω γὰρ τὸν πρεσβύτατον Κέκροπα βασιλέα εἶναι — οἱ λοιποὶ τοῦ Ἐρεχθέως παῖδες ἐξελαύνουσιν ἐκ τῆς χώρας αὐτόν ·",
+      "translation": "Later on , after the death of Hellen , Xuthus was expelled from Thessaly by the rest of the sons of Hellen , who charged him with having appropriated some of the ancestral property . But he fled to Athens , where he was deemed worthy to wed the daughter of Erechtheus , by whom he had sons , Achaeus and Ion . On the death of Erechtheus Xuthus was appointed judge to decide which of his sons should succeed him . He decided that Cecrops , the eldest of them , should be king , and was accordingly banished from the land by the rest of the sons of Erechtheus ."
+    },
+    {
+      "id": "7.1.3",
+      "label": "Section 7.1.3",
+      "chapter": null,
+      "original": "ἀφικομένῳ δὲ ἐς τὸν Αἰγιαλὸν καὶ οἰκήσαντι αὐτῷ μὲν ἐγένετο ἐνταῦθα ἡ τελευτή , τῶν δέ οἱ παίδων Ἀχαιὸς μὲν ἐκ τοῦ Αἰγιαλοῦ παραλαβὼν καὶ ἐξ Ἀθηνῶν ἐπικούρους κατῆλθεν ἐς Θεσσαλίαν καὶ ἔσχε τὴν πατρῴαν ἀρχήν , Ἴωνι δὲ ἐπὶ τοὺς Αἰγιαλεῖς στρατιὰν καὶ ἐπὶ Σελινοῦντα τὸν βασιλέα αὐτῶν ἀθροίζοντι ἀγγέλους ἔπεμπεν ὁ Σελινοῦς , τὴν θυγατέρα Ἑλίκην , ἣ μόνη οἱ παῖς ἦν , γυναῖκα αὐτῷ διδοὺς καὶ αὐτὸν Ἴωνα ἐπὶ τῇ ἀρχῇ παῖδα ποιούμενος .",
+      "translation": "He reached Aegialus , made his home there , and there died . Of his sons , Achaeus with the assistance of allies from Aegialus and Athens returned to Thessaly and recovered the throne of his fathers : Ion , while gathering an army against the Aegialians and Selinus their king , received a message from Selinus , who offered to give him in marriage Helice , his only child , as well as to adopt him as his son and successor ."
+    },
+    {
+      "id": "7.1.4",
+      "label": "Section 7.1.4",
+      "chapter": null,
+      "original": "καί πως ταῦτα τῷ Ἴωνι ἐγένετο οὐκ ἄπο γνώμης , καὶ τῶν Αἰγιαλέων τὴν ἀρχὴν Ἴων ἔσχεν ἀποθανόντος Σελινοῦντος , καὶ Ἑλίκην τε ἀπὸ τῆς γυναικὸς ᾤκισεν ἐν τῷ Αἰγιαλῷ πόλιν καὶ τοὺς ἀνθρώπους ἐκάλεσεν Ἴωνας ἀφʼ αὑτοῦ . τοῦτο οὐ μεταβολὴ τοῦ ὀνόματος , προσθήκη δέ σφισιν ἐγένετο · Αἰγιαλεῖς γὰρ ἐκαλοῦντο Ἴωνες . τῇ χώρᾳ δὲ ἔτι καὶ μᾶλλον διέμεινεν ὄνομα τὸ ἐξ ἀρχῆς · Ὁμήρῳ γοῦν ἐν καταλόγῳ τῶν μετὰ Ἀγαμέμνονος ἐξήρκεσε τὸ ἀρχαῖον δηλῶσαι τῆς γῆς ὄνομα · Αἰγιαλόν τʼ ἀνὰ πάντα καὶ ἀμφʼ Ἑλίκην εὐρεῖαν . Hom. Il. 2.575",
+      "translation": "It so happened that the proposal found favour with Ion , and on the death of Selinus he became king of the Aegialians . He called the city he founded in Aegialus Helice after his wife , and called the inhabitants Ionians after himself . This , however , was not a change of name , but an addition to it , for the folk were named Aegialian Ionians . The original name clung to the land even longer than to the people ; for at any rate in the list of the allies of Agamemnon , Homer [*] is content to mention the ancient name of the land : Throughout all Aegialus and about wide Helice . Hom. Il. 2.575"
+    },
+    {
+      "id": "7.1.5",
+      "label": "Section 7.1.5",
+      "chapter": null,
+      "original": "τότε δὲ ἐπὶ τῆς Ἴωνος βασιλείας πολεμησάντων Ἀθηναίοις Ἐλευσινίων καὶ Ἀθηναίων Ἴωνα ἐπαγαγομένων ἐπὶ ἡγεμονίᾳ τοῦ πολέμου , τὸν μὲν ἐν τῇ Ἀττικῇ τὸ χρεὼν ἐπιλαμβάνει , καὶ Ἴωνος ἐν τῷ δήμῳ μνῆμα τῷ Ποταμίων ἐστίν · οἱ δὲ ἀπόγονοι τοῦ Ἴωνος τὸ Ἰώνων ἔσχον κράτος , ἐς ὃ ὑπʼ Ἀχαιῶν ἐξέπεσον καὶ αὐτοὶ καὶ ὁ δῆμος . τοῖς δὲ Ἀχαιοῖς τηνικαῦτα ὑπῆρξε καὶ αὐτοῖς ἐκ Λακεδαίμονος καὶ Ἄργους ὑπὸ Δωριέων 0 ἐξεληλάσθαι ·",
+      "translation": "At that time in the reign of Ion the Eleusinians made war on the Athenians , and these having invited Ion to be their leader in the war , he met his death in Attica , his tomb being in the deme of Potamus . The descendants of Ion became rulers of the Ionians , until they themselves as well as the people were expelled by the Achaeans . The Achaeans at that time had themselves been expelled from Lacedaemon and Argos by the Dorians ."
+    },
+    {
+      "id": "8.1.1",
+      "label": "Section 8.1.1",
+      "chapter": null,
+      "original": "Ἀρκάδων δὲ τὰ πρὸς τῆς Ἀργείας Τεγεᾶταί τε ἔχουσι καὶ Μαντινεῖς , νέμονται δὲ οὗτοί τε καὶ τὸ ἄλλο Ἀρκαδικὸν τὸ μεσόγαιον τῆς Πελοποννήσου . Κορίνθιοι γὰρ οἰκοῦσιν ἐπὶ τῷ ἰσθμῷ πρῶτοι · Κορινθίοις δὲ τὰ πρὸς θαλάσσης εἰσὶν Ἐπιδαύριοι γείτονες · τὰ δὲ ἐς Ἐπίδαυρον καὶ Τροιζῆνά τε καὶ Ἑρμιόνα ὁ κόλπος ἐστὶν ὁ Ἀργολικὸς καὶ ὅσα ἐπιθαλάσσια τῆς Ἀργείας · ταύτης δὲ ἔχονται τῆς χώρας Λακεδαιμονίων περίοικοι , τούτοις δὲ ὅμορος ἡ Μεσσηνία · καταβαίνει γὰρ μέχρι θαλάσσης ἐς Μοθώνην καὶ Πύλον καὶ ἐπὶ Κυπαρισσιάς .",
+      "translation": "The part of Arcadia that lies next to the Argive land is occupied by Tegeans and Mantineans , who with the rest of the Arcadians inhabit the interior of the Peloponnesus . The first people within the peninsula are the Corinthians , living on the Isthmus , and their neighbors on the side sea-wards are the Epidaurians . Along Epidaurus , Troezen , and Nermion , come the Argolic Gulf and the coast of Argolis ; next to Argolis come the vassals of Lacedaemon , and these border on Messenia , which comes down to the sea at Mothone , Pylus and Cyparissiae ."
+    },
+    {
+      "id": "8.1.2",
+      "label": "Section 8.1.2",
+      "chapter": null,
+      "original": "τὰ δὲ πρὸς Λεχαίου Κορινθίοις Σικυώνιοι προσοικοῦσιν ἔσχατοι ταύτῃ μοίρας τῆς Ἀργολίδος · μετὰ δὲ Σικυῶνα Ἀχαιοὶ τὸ ἐντεῦθέν εἰσιν οἱ παρὰ 0 τὸν αἰγιαλὸν οἰκοῦντες · τὸ δὲ ἕτερον Πελοποννήσου πέρας τὸ ἀπαντικρὺ τῶν Ἐχινάδων οἰκοῦσιν Ἠλεῖοι · τῆς δὲ γῆς τῆς Ἠλείας κατὰ μὲν Ὀλυμπίαν καὶ τοῦ Ἀλφειοῦ τὰς ἐκβολὰς πρὸς τὴν Μεσσηνίαν εἰσὶν ὅροι , τὰ δὲ πρὸς Ἀχαΐαν Δυμαίων εἰσὶν ὅμοροι .",
+      "translation": "On the side of Lechaeum the Corinthians are bounded by the Sicyonians , who dwell in the extreme part of Argolis on this side . After Sicyon come the Achaeans who live along the coast at the other end of the Peloponnesus , opposite the Echinadian islands , dwell the Eleans . The land of Elis , on the side of Olympia and the mouth of the Alpheius , borders on Messenia ; on the side of Achaia it borders on the land of Dyme ."
+    },
+    {
+      "id": "8.1.3",
+      "label": "Section 8.1.3",
+      "chapter": null,
+      "original": "τούτων τῶν κατειλεγμένων καθηκόντων ἐπὶ θάλασσαν Ἀρκάδες τὸ ἐντὸς οἰκοῦσιν ἀποκλειόμενοι θαλάσσης πανταχόθεν · ὅθεν σφᾶς καὶ Ὅμηρος ἀφικέσθαι φησὶν ἐς Τροίαν παρʼ Ἀγαμέμνονος πλοῖα εἰληφότας καὶ οὐχὶ ναυσὶν οἰκείαις .",
+      "translation": "These that I have mentioned extend to the sea , but the Arcadians are shut off from the sea on every side and dwell in the interior . Hence , when they went to Troy , so Homer says , they did not sail in their own ships , but in vessels lent by Agamemnon ."
+    },
+    {
+      "id": "8.1.4",
+      "label": "Section 8.1.4",
+      "chapter": null,
+      "original": "φασὶ δὲ Ἀρκάδες ὡς Πελασγὸς γένοιτο ἐν τῇ γῇ ταύτῃ πρῶτος . εἰκὸς δὲ ἔχει τοῦ λόγου καὶ ἄλλους ὁμοῦ τῷ Πελασγῷ μηδὲ αὐτὸν Πελασγὸν γενέσθαι μόνον · ποίων γὰρ ἂν καὶ ἦρχεν ὁ Πελασγὸς ἀνθρώπων ; μεγέθει μέντοι καὶ κατὰ ἀλκὴν καὶ κάλλος προεἶχεν ὁ Πελασγὸς καὶ γνώμην ὑπὲρ τοὺς ἄλλους ἦν , καὶ τούτων ἕνεκα αἱρεθῆναί μοι δοκεῖ βασιλεύειν ὑπʼ αὐτῶν . πεποίηται δὲ καὶ Ἀσίῳ τοιάδε ἐς αὐτόν ·\nἈντίθεον δὲ Πελασγὸν ἐν ὑψικόμοισιν ὄρεσσι γαῖα μέλαινʼ ἀνέδωκεν , ἵνα θνητῶν γένος εἴη .\nAsius, unknown location.",
+      "translation": "The Arcadians say that Pelasgus was the first inhabitant of this land . It is natural to suppose that others accompanied Pelasgus , and that he was not by himself ; for otherwise he would have been a king without any subjects to rule over . However , in stature and in prowess , in beauty and in wisdom , Pelasgus excelled his fellows , and for this reason , I think , he was chosen to be king by them . Asius the poet says of him :—\nThe godlike Pelasgus on the wooded mountains Black earth gave up , that the race of mortals might exist .\nAsius, unknown location."
+    },
+    {
+      "id": "8.1.5",
+      "label": "Section 8.1.5",
+      "chapter": null,
+      "original": "Πελασγὸς δὲ βασιλεύσας τοῦτο μὲν ποιήσασθαι καλύβας ἐπενόησεν , ὡς μὴ ῥιγοῦν τε καὶ ὕεσθαι τοὺς ἀνθρώπους μηδὲ ὑπὸ τοῦ καύματος ταλαιπωρεῖν · τοῦτο δὲ τοὺς χιτῶνας τοὺς ἐκ τῶν δερμάτων τῶν οἰῶν , οἷς καὶ νῦν περί τε Εὔβοιαν ἔτι χρῶνται καὶ ἐν τῇ Φωκίδι ὁπόσοι βίου σπανίζουσιν , οὗτός ἐστιν ὁ ἐξευρών . καὶ δὴ καὶ τῶν φύλλων τὰ ἔτι χλωρὰ καὶ πόας τε καὶ ῥίζας οὐδὲ ἐδωδίμους , ἀλλὰ καὶ ὀλεθρίους ἐνίας σιτουμένους τοὺς ἀνθρώπους τούτων μὲν ἔπαυσεν ὁ Πελασγός ·",
+      "translation": "Pelasgus on becoming king invented huts that humans should not shiver , or be soaked by rain , or oppressed by heat . Moreover ; he it was who first thought of coats of sheep-skins , such as poor folk still wear in Euboea and Phocis . He too it was who checked the habit of eating green leaves , grasses , and roots always inedible and sometimes poisonous ."
+    },
+    {
+      "id": "9.1.1",
+      "label": "Section 9.1.1",
+      "chapter": null,
+      "original": "Ἀθηναίοις δὲ ἡ Βοιωτία καὶ κατὰ ἄλλα τῆς Ἀττικῆς ἐστιν ὅμορος , πρὸς δὲ Ἐλευθερῶν οἱ Πλαταιεῖς . Βοιωτοὶ δὲ τὸ μὲν πᾶν ἔθνος ἀπὸ Βοιωτοῦ τὸ ὄνομα ἔσχηκεν , ὃν Ἰτώνου παῖδα καὶ νύμφης δὴ Μελανίππης , Ἴτωνον δὲ Ἀμφικτύονος εἶναι λέγουσι · καλοῦνται δὲ κατὰ πόλεις ἀπό τε ἀνδρῶν καὶ τὰ πλείω γυναικῶν . οἱ δὲ Πλαταιεῖς τὸ ἐξ ἀρχῆς ἐμοὶ δοκεῖν εἰσιν αὐτόχθονες · ὄνομα δέ σφισιν ἀπὸ Πλαταίας , ἣν θυγατέρα εἶναι Ἀσωποῦ τοῦ ποταμοῦ νομίζουσιν .",
+      "translation": "Boeotia borders on Attica at several places , one of which is where Plataea touches Eleutherae . The Boeotians as a race got their name from Boeotus , who , legend says , was the son of Itonus and the nymph Melanippe , and Itonus was the son of Amphictyon . The cities are called in some cases after men , but in most after women . The Plataeans were originally , in my opinion , sprung from the soil ; their name comes from Plataea , whom they consider to be a daughter of the river Asopus ."
+    },
+    {
+      "id": "9.1.2",
+      "label": "Section 9.1.2",
+      "chapter": null,
+      "original": "ὅτι μὲν δὴ καὶ οὗτοι τὸ ἀρχαῖον ἐβασιλεύοντο , δῆλά ἐστι · βασιλεῖαι γὰρ πανταχοῦ τῆς Ἑλλάδος καὶ οὐ δημοκρατίαι πάλαι καθεστήκεσαν . τῶν δὲ βασιλέων ἄλλον μὲν οὐδένα οἱ Πλαταιεῖς ἴσασι , μόνον δὲ Ἀσωπὸν καὶ ἔτι πρότερον Κιθαιρῶνα · καὶ τὸν μὲν ἀφʼ αὑτοῦ θέσθαι τῷ ὄρει τὸ ὄνομα , τὸν δὲ τῷ ποταμῷ λέγουσι . δοκῶ δὲ καὶ τὴν Πλάταιαν , ἀφʼ ἧς κέκληται καὶ ἡ πόλις , βασιλέως Ἀσωποῦ καὶ οὐ τοῦ ποταμοῦ παῖδα εἶναι . 0",
+      "translation": "It is clear that the Plataeans too were of old ruled by kings ; for everywhere in Greece in ancient times , kingship and not democracy was the established form of government . But the Plataeans know of no king except Asopus and Cithaeron before him , holding that the latter gave his name to the mountain , the former to the river . I think that Plataea also , after whom the city is named , was a daughter of King Asopus , and not of the river ."
+    },
+    {
+      "id": "9.1.3",
+      "label": "Section 9.1.3",
+      "chapter": null,
+      "original": "Πλαταιεῦσι δὲ πρὸ μὲν τῆς μάχης , ἣν Ἀθηναῖοι Μαραθῶνι ἐμαχέσαντο , οὐδὲν ὑπῆρχεν ἐς δόξαν · μετασχόντες δὲ τοῦ Μαραθῶνι ἀγῶνος ὕστερον καταβεβηκότος ἤδη Ξέρξου καὶ ἐς τὰς ναῦς ἐτόλμησαν μετʼ Ἀθηναίων ἐσβῆναι , Μαρδόνιον δὲ τὸν Γωβρύου Ξέρξῃ στρατηγοῦντα ἠμύναντο ἐν τῇ σφετέρᾳ . δὶς δὲ σφᾶς κατέλαβε γενέσθαι τε ἀναστάτους καὶ αὖθις ἐς Βοιωτίαν καταχθῆναι .",
+      "translation": "Before the battle that the Athenians fought at Marathon , the Plataeans had no claim to renown . But they were present at the battle of Marathon , and later , when Xerxes came down to the sea , they bravely manned the fleet with the Athenians , and defended themselves in their own country against the general of Xerxes , Mardonius , the son of Gobryas . Twice it was their fate to be driven from their homes and to be taken back to Boeotia ."
+    },
+    {
+      "id": "9.1.4",
+      "label": "Section 9.1.4",
+      "chapter": null,
+      "original": "ἐπὶ μὲν γὰρ τοῦ πολέμου τοῦ Πελοποννησίοις πρὸς Ἀθηναίους γενομένου Λακεδαιμόνιοι πολιορκίᾳ Πλάταιαν ἐξεῖλον · ἀνοικισθείσης δὲ ἐπὶ τῆς εἰρήνης , ἣν πρὸς βασιλέα τῶν Περσῶν γενέσθαι τοῖς Ἕλλησιν ἔπραξεν Ἀνταλκίδας ἀνὴρ Σπαρτιάτης , καὶ τῶν Πλαταιέων κατελθόντων ἐξ Ἀθηνῶν , τοὺς δὲ αὖθις ἔμελλεν ἐπιλήψεσθαι κακὸν δεύτερον . ἐκ μέν γε τοῦ ἐμφανοῦς πόλεμος πρὸς τοὺς Θηβαίους οὐκ ἦν συνεστηκώς , ἀλλὰ οἱ Πλαταιεῖς μένειν τὴν εἰρήνην σφίσιν ἔφασαν , ὅτι τὴν Καδμείαν Λακεδαιμονίοις κατασχοῦσιν οὔτε βουλεύματος οὔτε ἔργου μετεσχήκεσαν ·",
+      "translation": "For in the war between the Peloponnesians and Athens , the Lacedaemonians reduced Plataea by siege , but it was restored [*] during the peace made by the Spartan Antalcidas between the Persians and the Greeks , and the Plataeans returned from Athens . But a second disaster was destined to befall them . There was no open war between Plataea and Thebes ; in fact the Plataeans declared that the peace with them still held , because when the Lacedaemonians seized the Cadmeia they had no part either in the plan or in the performance ."
+    },
+    {
+      "id": "9.1.5",
+      "label": "Section 9.1.5",
+      "chapter": null,
+      "original": "Θηβαῖοι δὲ ἀπέφαινον τήν τε εἰρήνην Λακεδαιμονίους εἶναι τοὺς πράξαντας καὶ ὕστερον παραβάντων ἐκείνων λελύσθαι καὶ ἅπασιν ἠξίουν τὰς σπονδάς . οὐκ ἀνύποπτα οὖν ἡγούμενοι οἱ Πλαταιεῖς τὰ ἐκ τῶν Θηβαίων διὰ φυλακῆς εἶχον ἰσχυρᾶς τὴν πόλιν · καὶ ἐς τοὺς ἀγρούς , ὁπόσοι ἀπωτέρω τοῦ ἄστεως ἦσαν , οὐδὲ ἐς τούτους ἀνὰ πᾶσαν ἤρχοντο τὴν ἡμέραν , ἀλλὰ — ἠπίσταντο γὰρ τοὺς Θηβαίους ὡς πανδημεὶ καὶ ἅμα ἐπὶ πλεῖστον εἰώθεσαν βουλεύεσθαι — παρεφύλασσον τὰς ἐκκλησίας αὐτῶν , καὶ ἐν τῷ τοσούτῳ καθʼ ἡσυχίαν 0 ἐφεώρων τὰ ἑαυτῶν καὶ οἱ ἔσχατοι γεωργοῦντες .",
+      "translation": "But the Thebans maintained that as the Lacedaemonians had themselves made the peace and then broken it , all alike , in their view , were freed from its terms . The Plataeans , therefore , looked upon the attitude of the Thebans with suspicion , and maintained strict watch over their city . They did not go either daily to the fields at some distance from the city , but , knowing that the Thebans were wont to conduct their assemblies with every voter present , and at the same time to prolong their discussions , they waited for their assemblies to be called , and then , even those whose farms lay farthest away , looked after their lands at their leisure ."
+    },
+    {
+      "id": "10.1.1",
+      "label": "Section 10.1.1",
+      "chapter": null,
+      "original": "γῆς δὲ τῆς Φωκίδος , ὅσον μὲν περὶ Τιθορέαν καὶ Δελφούς ἐστιν αὐτῆς , ἐκ παλαιοτάτου φανερὰ τὸ ὄνομα τοῦτο εἰληφυῖά ἐστιν ἀπὸ ἀνδρὸς Κορινθίου Φώκου τοῦ Ὀρνυτίωνος · ἔτεσι δʼ ὕστερον οὐ πολλοῖς ἐξενίκησε καὶ ἁπάσῃ γενέσθαι τῇ ἐφʼ ἡμῶν καλουμένῃ Φωκίδι , Αἰγινητῶν ναυσὶν ἐς τὴν χώραν διαβάντων ὁμοῦ Φώκῳ τῷ Αἰακοῦ .",
+      "translation": "It is plain that such part of Phocis as is around Tithorea and Delphi was so named in very ancient days after a Corinthian , Phocus , a son of Ornytion . Not many years afterwards , the name established itself as the received title of what is today called Phocis , when the Aeginetans had disembarked on the land with Phocus the son of Aeacus ."
+    },
+    {
+      "id": "10.1.2",
+      "label": "Section 10.1.2",
+      "chapter": null,
+      "original": "τὰ μὲν δὴ ἀπαντικρὺ Πελοποννήσου καὶ τὰ ἐπὶ Βοιωτίας καθήκουσιν ἐπὶ θάλασσαν οἱ Φωκεῖς , τῇ μὲν ἐς Κίρραν τὸ ἐπίνειον Δελφῶν , τῇ δʼ ἐπὶ Ἀντίκυραν πόλιν · τὰ δὲ πρὸς τοῦ Λαμιακοῦ κόλπου Λοκροὶ σφᾶς παραθαλασσίους οἱ Ὑποκνημίδιοι κωλύουσιν εἶναι · οὗτοι γὰρ δή εἰσιν οἱ ταύτῃ τὴν Φωκίδα ὑπεροικοῦντες , Σκαρφεῖς μὲν τὰ ἐπέκεινα Ἐλατείας , ὑπὲρ δὲ Ὑάμπολιν καὶ Ἄβας οἱ πόλιν τε Ὀποῦντα καὶ Ὀπουντίων ἐπίνειον νεμόμενοι Κῦνον .",
+      "translation": "Opposite the Peloponnesus , and in the direction of Boeotia , Phocis stretches to the sea , and touches it on one side at Cirrha , the port of Delphi , and on the other at the city of Anticyra . In the direction of the Lamian Gulf there are between Phocis and the sea only the Hypocnemidian Locrians . By these is Phocis bounded in this direction , by Scarpheia on the other side of Elateia , and by Opus and its port Cynus beyond Hyampolis and Abae ."
+    },
+    {
+      "id": "10.1.3",
+      "label": "Section 10.1.3",
+      "chapter": null,
+      "original": "τὰ δὲ ἐπιφανέστατα Φωκεῦσίν ἐστιν ἐν κοινῷ · πολέμου γὰρ τοῦ πρὸς Ἰλίῳ μετεσχήκασι , καὶ Θεσσαλῶν ἐναντία ἐπολέμησαν πρότερον ἔτι ἢ ἐλάσαι τὸν Μῆδον ἐπὶ Ἕλληνας , ὅτε δὴ καὶ ἐπεδείξαντο οἱ Φωκεῖς ἔργα ἐς μνήμην . κατὰ γὰρ τὴν Ὑάμπολιν , ᾗ τοὺς Θεσσαλοὺς προσεδέχοντο ἐμβαλεῖν σφισιν ἐς τὴν χώραν , 0 ὑδρίας κεράμου πεποιημένας κατορύξαντες καὶ ἐπʼ αὐτὰς γῆν ἐπιφορήσαντες ὑπέμενον τὴν ἵππον τῶν Θεσσαλῶν · οἱ δέ , ἅτε οὐ προπεπυσμένοι τῶν Φωκέων τὴν τέχνην , ἐπελάσαντες τοὺς ἵππους λανθάνουσιν ἐπὶ τὰς ὑδρίας . ἐνταῦθα ἀπεχωλοῦντο μὲν οἱ ἵπποι τῶν ποδῶν ἐσπιπτόντων σφίσιν ἐς τὰς ὑδρίας , ἐκτείνοντο δὲ καὶ ἀπέπιπτον οἱ ἄνδρες ἀπὸ τῶν ἵππων .",
+      "translation": "The most renowned exploits of the Phocian people were undertaken by the whole nation . They took part in the Trojan war , and fought against the Thessalians before the Persian invasion of Greece , when they accomplished some noteworthy deeds . Expecting that the Thessalians would invade their land at Hyampolis , they buried there earthen water-pots , covered these with earth , and so waited for the Thessalian cavalry . Ignorant of the Phocian stratagem , the Thessalians without knowing it drove their horses on to the water-pots , where stumbling into them the horses were lamed , and threw or killed their riders ."
+    },
+    {
+      "id": "10.1.4",
+      "label": "Section 10.1.4",
+      "chapter": null,
+      "original": "ὡς δὲ οἱ Θεσσαλοὶ μείζονι ἢ τὰ πρότερα ἐς τοὺς Φωκέας χρώμενοι τῇ ὀργῇ συνελέχθησαν ἀπὸ τῶν πόλεων πασῶν καὶ ἐς τὴν Φωκίδα ἐστρατεύοντο , ἐνταῦθα οἱ Φωκεῖς ἐν οὐ μικρῷ ποιούμενοι δείματι τήν τε ἄλλην τῶν Θεσσαλῶν ἐς τὸν πόλεμον παρασκευὴν καὶ οὐχ ἥκιστα τῆς ἵππου τὸ πλῆθος καὶ ὁμοῦ τῷ ἀριθμῷ τὴν ἐς τοὺς ἀγῶνας τῶν τε ἵππων καὶ αὐτῶν μελέτην τῶν ἱππέων , ἀποστέλλουσιν ἐς Δελφοὺς αἰτοῦντες τὸν θεὸν ἐκφυγεῖν τὸν ἐπιόντα κίνδυνον · καὶ αὐτοῖς ἀφίκετο μάντευμα ·\nσυμβαλέω θνητόν τε καὶ ἀθάνατον μαχέσασθαι , νίκην δʼ ἀμφοτέροις δώσω , θνητῷ δέ νυ μᾶλλον .",
+      "translation": "The Thessalians , more enraged than ever against the Phocians , gathered levies from all their cities and marched out against them . Whereupon the Phocians , greatly terrified at the army of the Thessalians , especially at the number of their cavalry and the practised discipline of both mounts and riders , despatched a mission to Delphi , praying the god that they might escape the danger that threatened them . The oracle given them was this :—\nI will match in fight mortal and immortal , And to both will I give victory , but more to the mortal ."
+    },
+    {
+      "id": "10.1.5",
+      "label": "Section 10.1.5",
+      "chapter": null,
+      "original": "ταῦτα ὡς ἐπύθοντο οἱ Φωκεῖς , λογάδας τριακοσίους καὶ Γέλωνα ἐπʼ αὐτοῖς ἄρχοντα ἀποστέλλουσιν ἐς τοὺς πολεμίους ἄρτι ἀρχομένης νυκτός , προστάξαντές σφισι κατοπτεῦσαί τε τὰ τῶν Θεσσαλῶν ὅντινα ἀφανέστατον δύναιντο τρόπον καὶ αὖθις ἐς τὸ στράτευμα ἐπανήκειν κατὰ τῶν ὁδῶν τὴν μάλιστα ἄγνωστον , μηδὲ ἑκόντας μάχης ἄρχειν . οὗτοι ὑπὸ τῶν Θεσσαλῶν οἱ λογάδες ἀπώλοντο ἀθρόοι καὶ αὐτοὶ καὶ ὁ ἡγούμενός σφισι Γέλων , συμπατούμενοί τε ὑπὸ τῶν ἵππων καὶ ὑπὸ τῶν ἀνδρῶν φονευόμενοι .",
+      "translation": "On receiving this oracle , the Phocians sent three hundred picked men with Gelon in command to make an attack on the enemy . The night was just falling , and the orders given were to reconnoiter without being observed , to return to the main body by the least known route , and to remain strictly on the defensive . These picked men along with their leader Gelon , trampled on by horses and butchered by their enemies , perished to a man at the hands of the Thessalians ."
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": null
+}

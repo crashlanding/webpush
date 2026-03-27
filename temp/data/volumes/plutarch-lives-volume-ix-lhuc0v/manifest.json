@@ -1,0 +1,271 @@
+{
+  "loebNumber": 101,
+  "sortOrder": 101,
+  "slug": "plutarch-lives-volume-ix-lhuc0v",
+  "title": "Lives, Volume IX",
+  "volumeLabel": "Lives, Volume IX",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Lives, Volume IX. Lives, Volume IX opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "phocion-hod3fg",
+  "readyChunkCount": 8,
+  "contents": [
+    {
+      "id": "lives-volume-ix-15nalc",
+      "title": "Lives, Volume IX",
+      "status": "ready",
+      "sectionCount": 308,
+      "chunkSlug": "phocion-hod3fg",
+      "chunks": [
+        {
+          "slug": "phocion-hod3fg",
+          "label": "Phocion",
+          "partId": "lives-volume-ix-15nalc",
+          "partTitle": "Lives, Volume IX",
+          "sectionCount": 75,
+          "status": "ready"
+        },
+        {
+          "slug": "cato-the-younger-ayx49b-1",
+          "label": "Cato the Younger (Section 1.1 - Section 30.2)",
+          "partId": "lives-volume-ix-15nalc",
+          "partTitle": "Lives, Volume IX",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "cato-the-younger-ayx49b-2",
+          "label": "Cato the Younger (Section 31.1 - Section 60.2)",
+          "partId": "lives-volume-ix-15nalc",
+          "partTitle": "Lives, Volume IX",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "cato-the-younger-ayx49b-3",
+          "label": "Cato the Younger (Section 61.1 - Section 73.2)",
+          "partId": "lives-volume-ix-15nalc",
+          "partTitle": "Lives, Volume IX",
+          "sectionCount": 26,
+          "status": "ready"
+        },
+        {
+          "slug": "agis-and-cleomenes-8p0914",
+          "label": "Agis and Cleomenes",
+          "partId": "lives-volume-ix-15nalc",
+          "partTitle": "Lives, Volume IX",
+          "sectionCount": 5,
+          "status": "ready"
+        },
+        {
+          "slug": "tiberius-and-caius-gracchus-1lqqvj",
+          "label": "Tiberius and Caius Gracchus",
+          "partId": "lives-volume-ix-15nalc",
+          "partTitle": "Lives, Volume IX",
+          "sectionCount": 10,
+          "status": "ready"
+        },
+        {
+          "slug": "comparison-of-agis-and-cleomenes-and-the-gracchi-142a9g",
+          "label": "Comparison of Agis and Cleomenes and the Gracchi",
+          "partId": "lives-volume-ix-15nalc",
+          "partTitle": "Lives, Volume IX",
+          "sectionCount": 10,
+          "status": "ready"
+        },
+        {
+          "slug": "demosthenes-1atuxj",
+          "label": "Demosthenes",
+          "partId": "lives-volume-ix-15nalc",
+          "partTitle": "Lives, Volume IX",
+          "sectionCount": 62,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "phocion-hod3fg",
+      "label": "Phocion",
+      "partId": "lives-volume-ix-15nalc",
+      "partTitle": "Lives, Volume IX",
+      "sectionCount": 75,
+      "status": "ready"
+    },
+    {
+      "slug": "cato-the-younger-ayx49b-1",
+      "label": "Cato the Younger (Section 1.1 - Section 30.2)",
+      "partId": "lives-volume-ix-15nalc",
+      "partTitle": "Lives, Volume IX",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "cato-the-younger-ayx49b-2",
+      "label": "Cato the Younger (Section 31.1 - Section 60.2)",
+      "partId": "lives-volume-ix-15nalc",
+      "partTitle": "Lives, Volume IX",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "cato-the-younger-ayx49b-3",
+      "label": "Cato the Younger (Section 61.1 - Section 73.2)",
+      "partId": "lives-volume-ix-15nalc",
+      "partTitle": "Lives, Volume IX",
+      "sectionCount": 26,
+      "status": "ready"
+    },
+    {
+      "slug": "agis-and-cleomenes-8p0914",
+      "label": "Agis and Cleomenes",
+      "partId": "lives-volume-ix-15nalc",
+      "partTitle": "Lives, Volume IX",
+      "sectionCount": 5,
+      "status": "ready"
+    },
+    {
+      "slug": "tiberius-and-caius-gracchus-1lqqvj",
+      "label": "Tiberius and Caius Gracchus",
+      "partId": "lives-volume-ix-15nalc",
+      "partTitle": "Lives, Volume IX",
+      "sectionCount": 10,
+      "status": "ready"
+    },
+    {
+      "slug": "comparison-of-agis-and-cleomenes-and-the-gracchi-142a9g",
+      "label": "Comparison of Agis and Cleomenes and the Gracchi",
+      "partId": "lives-volume-ix-15nalc",
+      "partTitle": "Lives, Volume IX",
+      "sectionCount": 10,
+      "status": "ready"
+    },
+    {
+      "slug": "demosthenes-1atuxj",
+      "label": "Demosthenes",
+      "partId": "lives-volume-ix-15nalc",
+      "partTitle": "Lives, Volume IX",
+      "sectionCount": 62,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "phocion-hod3fg",
+      "partTitle": "Lives, Volume IX",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Phocion",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg049.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Phocion",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg049.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "cato-the-younger-ayx49b-1",
+      "partTitle": "Lives, Volume IX",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Cato the Younger",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg050.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Cato the Younger",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg050.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "cato-the-younger-ayx49b-2",
+      "partTitle": "Lives, Volume IX",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Cato the Younger",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg050.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Cato the Younger",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg050.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "cato-the-younger-ayx49b-3",
+      "partTitle": "Lives, Volume IX",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Cato the Younger",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg050.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Cato the Younger",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg050.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "agis-and-cleomenes-8p0914",
+      "partTitle": "Lives, Volume IX",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Agis and Cleomenes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg051.perseus-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Agis and Cleomenes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg051.perseus-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "tiberius-and-caius-gracchus-1lqqvj",
+      "partTitle": "Lives, Volume IX",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Tiberius and Caius Gracchus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg052.perseus-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Tiberius and Caius Gracchus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg052.perseus-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "comparison-of-agis-and-cleomenes-and-the-gracchi-142a9g",
+      "partTitle": "Lives, Volume IX",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Comparison of Agis and Cleomenes and the Gracchi",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg053.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Comparison of Agis and Cleomenes and the Gracchi",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg053.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "demosthenes-1atuxj",
+      "partTitle": "Lives, Volume IX",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Demosthenes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg054.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Demosthenes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg054.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "loebNumber": 245,
+  "sortOrder": 245,
+  "slug": "plutarch-moralia-volume-iii-1h5tk9",
+  "title": "Moralia, Volume III",
+  "volumeLabel": "Moralia, Volume III",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Moralia, Volume III. Moralia, Volume III opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "de-tuenda-sanitate-praecepta-ow6ss6",
+  "readyChunkCount": 7,
+  "contents": [
+    {
+      "id": "moralia-volume-iii-vbq7ca",
+      "title": "Moralia, Volume III",
+      "status": "ready",
+      "sectionCount": 259,
+      "chunkSlug": "de-tuenda-sanitate-praecepta-ow6ss6",
+      "chunks": [
+        {
+          "slug": "de-tuenda-sanitate-praecepta-ow6ss6",
+          "label": "De tuenda sanitate praecepta",
+          "partId": "moralia-volume-iii-vbq7ca",
+          "partTitle": "Moralia, Volume III",
+          "sectionCount": 27,
+          "status": "ready"
+        },
+        {
+          "slug": "conjugalia-praecepta-135auk",
+          "label": "Conjugalia Praecepta",
+          "partId": "moralia-volume-iii-vbq7ca",
+          "partTitle": "Moralia, Volume III",
+          "sectionCount": 49,
+          "status": "ready"
+        },
+        {
+          "slug": "septem-sapientium-convivium-1bkg6f",
+          "label": "Septem sapientium convivium",
+          "partId": "moralia-volume-iii-vbq7ca",
+          "partTitle": "Moralia, Volume III",
+          "sectionCount": 21,
+          "status": "ready"
+        },
+        {
+          "slug": "de-superstitione-p3e30l",
+          "label": "De Superstitione",
+          "partId": "moralia-volume-iii-vbq7ca",
+          "partTitle": "Moralia, Volume III",
+          "sectionCount": 14,
+          "status": "ready"
+        },
+        {
+          "slug": "regum-et-imperatorum-apophthegmata-iq5cgp-1",
+          "label": "Regum et imperatorum apophthegmata (Section 1.1 - Section 39.1)",
+          "partId": "moralia-volume-iii-vbq7ca",
+          "partTitle": "Moralia, Volume III",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "regum-et-imperatorum-apophthegmata-iq5cgp-2",
+          "label": "Regum et imperatorum apophthegmata (Section 39.2 - Section 76.1)",
+          "partId": "moralia-volume-iii-vbq7ca",
+          "partTitle": "Moralia, Volume III",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "regum-et-imperatorum-apophthegmata-iq5cgp-3",
+          "label": "Regum et imperatorum apophthegmata (Section 76.2 - Section 92.2)",
+          "partId": "moralia-volume-iii-vbq7ca",
+          "partTitle": "Moralia, Volume III",
+          "sectionCount": 28,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "de-tuenda-sanitate-praecepta-ow6ss6",
+      "label": "De tuenda sanitate praecepta",
+      "partId": "moralia-volume-iii-vbq7ca",
+      "partTitle": "Moralia, Volume III",
+      "sectionCount": 27,
+      "status": "ready"
+    },
+    {
+      "slug": "conjugalia-praecepta-135auk",
+      "label": "Conjugalia Praecepta",
+      "partId": "moralia-volume-iii-vbq7ca",
+      "partTitle": "Moralia, Volume III",
+      "sectionCount": 49,
+      "status": "ready"
+    },
+    {
+      "slug": "septem-sapientium-convivium-1bkg6f",
+      "label": "Septem sapientium convivium",
+      "partId": "moralia-volume-iii-vbq7ca",
+      "partTitle": "Moralia, Volume III",
+      "sectionCount": 21,
+      "status": "ready"
+    },
+    {
+      "slug": "de-superstitione-p3e30l",
+      "label": "De Superstitione",
+      "partId": "moralia-volume-iii-vbq7ca",
+      "partTitle": "Moralia, Volume III",
+      "sectionCount": 14,
+      "status": "ready"
+    },
+    {
+      "slug": "regum-et-imperatorum-apophthegmata-iq5cgp-1",
+      "label": "Regum et imperatorum apophthegmata (Section 1.1 - Section 39.1)",
+      "partId": "moralia-volume-iii-vbq7ca",
+      "partTitle": "Moralia, Volume III",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "regum-et-imperatorum-apophthegmata-iq5cgp-2",
+      "label": "Regum et imperatorum apophthegmata (Section 39.2 - Section 76.1)",
+      "partId": "moralia-volume-iii-vbq7ca",
+      "partTitle": "Moralia, Volume III",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "regum-et-imperatorum-apophthegmata-iq5cgp-3",
+      "label": "Regum et imperatorum apophthegmata (Section 76.2 - Section 92.2)",
+      "partId": "moralia-volume-iii-vbq7ca",
+      "partTitle": "Moralia, Volume III",
+      "sectionCount": 28,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "de-tuenda-sanitate-praecepta-ow6ss6",
+      "partTitle": "Moralia, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὑγιεινὰ παραγγέλματα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg077.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Advice About Keeping Well",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg077.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "conjugalia-praecepta-135auk",
+      "partTitle": "Moralia, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Γαμικὰ παραγγέλματα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg078.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Advice to Bride and Groom",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg078.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "septem-sapientium-convivium-1bkg6f",
+      "partTitle": "Moralia, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πων επτά σοφών συμπόσιον",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg079.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Dinner of the Seven Wise Men",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg079.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "de-superstitione-p3e30l",
+      "partTitle": "Moralia, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ δεισιδαιμονίας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg080.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Superstition",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg080.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "regum-et-imperatorum-apophthegmata-iq5cgp-1",
+      "partTitle": "Moralia, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀποφθέγματα βασιλέων καὶ στρατηγῶν",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg081.perseus-grc3/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Sayings of Kings and Commanders",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg081.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "regum-et-imperatorum-apophthegmata-iq5cgp-2",
+      "partTitle": "Moralia, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀποφθέγματα βασιλέων καὶ στρατηγῶν",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg081.perseus-grc3/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Sayings of Kings and Commanders",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg081.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "regum-et-imperatorum-apophthegmata-iq5cgp-3",
+      "partTitle": "Moralia, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀποφθέγματα βασιλέων καὶ στρατηγῶν",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg081.perseus-grc3/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Sayings of Kings and Commanders",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg081.perseus-eng3/"
+      }
+    }
+  ]
+}

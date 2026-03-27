@@ -1,0 +1,80 @@
+{
+  "volumeSlug": "aeschylus-persians-seven-against-thebes-suppliants-prometheus-bound-ol57q",
+  "volumeTitle": "Persians. Seven against Thebes. Suppliants. Prometheus Bound",
+  "authorDisplay": "Aeschylus",
+  "authors": [
+    "Aeschylus"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "seven-against-thebes-dy9uup-7",
+  "label": "Seven against Thebes (Section 1060 - Section 1080)",
+  "partId": "seven-against-thebes-dy9uup",
+  "partTitle": "Seven against Thebes",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἑπτὰ ἐπὶ Θήβας",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg004.1st1K-grc1/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Seven Against Thebes",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg004.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1060",
+      "label": "Section 1060",
+      "chapter": null,
+      "original": "Κῆρες Ἐρινύες , αἵτ Οἰδιπόδα",
+      "translation": "O Erinyes , far-famed destroyers of families , goddesses of death who have thus laid ruin to the family of Oedipus , digging it up from the roots ! What will happen to me ? What should I do ? What plan shall I devise ? How can I have the heart neither to weep for you"
+    },
+    {
+      "id": "1065",
+      "label": "Section 1065",
+      "chapter": null,
+      "original": "ἀλλὰ φοβοῦμαι κἀποτρέπομαι",
+      "translation": "nor escort you to your tomb ? But I am afraid and turn away in terror of the citizens . You , at least , Eteocles , will have many mourners , while he , wretched man , departs without lamentation"
+    },
+    {
+      "id": "1070",
+      "label": "Section 1070",
+      "chapter": null,
+      "original": "εἶσιν : τίς ἂν οὖν τὰ πίθοιτο ; [*]",
+      "translation": "and has a dirge sung only by one sister . Now who could comply with that ?"
+    },
+    {
+      "id": "1072",
+      "label": "Section 1072",
+      "chapter": null,
+      "original": "τοὺς κλαίοντας Πολυνείκη .",
+      "translation": "Let the city take action or not take action against those who lament for Polynices . We , at all events , will go and"
+    },
+    {
+      "id": "1075",
+      "label": "Section 1075",
+      "chapter": null,
+      "original": "καὶ γὰρ γενεᾷ κοινὸν τόδ ἄχος ,",
+      "translation": "bury him with her , following the funeral procession . For this grief is shared by all our race , and the city approves as just different things at different times ."
+    },
+    {
+      "id": "1078",
+      "label": "Section 1078",
+      "chapter": null,
+      "original": "ἡμεῖς δ ἅμα τῷδ , ὥσπερ τε πόλις",
+      "translation": "We will go with this other corpse , as the city and justice , too , approves ."
+    },
+    {
+      "id": "1080",
+      "label": "Section 1080",
+      "chapter": null,
+      "original": "μετὰ γὰρ μάκαρας καὶ Διὸς ἰσχὺν",
+      "translation": "For after the blessed gods and powerful Zeus , he it was who saved the city of the Cadmeans from being capsized and flooded by a wave of foreign men — he beyond all others . Exeunt omnes ."
+    }
+  ],
+  "prevChunkSlug": "seven-against-thebes-dy9uup-6",
+  "nextChunkSlug": "prometheus-bound-1dtq9c-1"
+}

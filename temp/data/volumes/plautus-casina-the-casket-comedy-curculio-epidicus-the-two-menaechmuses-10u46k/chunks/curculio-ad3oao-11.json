@@ -1,0 +1,101 @@
+{
+  "volumeSlug": "plautus-casina-the-casket-comedy-curculio-epidicus-the-two-menaechmuses-10u46k",
+  "volumeTitle": "Casina. The Casket Comedy. Curculio. Epidicus. The Two Menaechmuses",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "curculio-ad3oao-11",
+  "label": "Curculio (Section 5.3.724 - Section 5.3.729)",
+  "partId": "curculio-ad3oao",
+  "partTitle": "Curculio",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Curculio",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi008.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Curculio, or The Forgery",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi008.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "5.3.724",
+      "label": "Section 5.3.724",
+      "chapter": null,
+      "original": "Ego te vehementer perire cupio , ne tu me nescias .",
+      "translation": "I do most earnestly wish you may come to a bad end , so don ’ t misunderstand me [*] ."
+    },
+    {
+      "id": "5.3.725",
+      "label": "Section 5.3.725",
+      "chapter": null,
+      "original": "Itane vero ?",
+      "translation": "Do you really so ?"
+    },
+    {
+      "id": "5.3.725b",
+      "label": "Section 5.3.725b",
+      "chapter": null,
+      "original": "Ita hercle vero .",
+      "translation": "I ’ faith , I really do so ."
+    },
+    {
+      "id": "5.3.725c",
+      "label": "Section 5.3.725c",
+      "chapter": null,
+      "original": "Novi ego hos pugnos meos .",
+      "translation": "I don ’ t misunderstand these fists of mine ."
+    },
+    {
+      "id": "5.3.726",
+      "label": "Section 5.3.726",
+      "chapter": null,
+      "original": "Quid tum ?",
+      "translation": "What then ?"
+    },
+    {
+      "id": "5.3.726b",
+      "label": "Section 5.3.726b",
+      "chapter": null,
+      "original": "Quid tum , rogitas ? hisce ego , si tu me irritaveris ,",
+      "translation": "What then , do you ask ? With these same fists , if you provoke me , I ’ ll be making you quiet immediately ."
+    },
+    {
+      "id": "5.3.727b",
+      "label": "Section 5.3.727b",
+      "chapter": null,
+      "original": "Age ergo , recipe áctutum .",
+      "translation": "Well then , take this back at once ."
+    },
+    {
+      "id": "5.3.727c",
+      "label": "Section 5.3.727c",
+      "chapter": null,
+      "original": "Licet .",
+      "translation": "By all means ."
+    },
+    {
+      "id": "5.3.728",
+      "label": "Section 5.3.728",
+      "chapter": null,
+      "original": "Tu , miles , apud me cenabis . hodie fient nuptiae .",
+      "translation": "Captain , you ’ ll dine with me ; the nuptials shall take place to-day ."
+    },
+    {
+      "id": "5.3.729",
+      "label": "Section 5.3.729",
+      "chapter": null,
+      "original": "Quae res bene vortat mi et vobis . spectatores , plaudite .",
+      "translation": "May this matter turn out well for me and for yourselves ."
+    }
+  ],
+  "prevChunkSlug": "curculio-ad3oao-10",
+  "nextChunkSlug": "epidicus-1peem3-1"
+}

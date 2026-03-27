@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "sophocles-antigone-the-women-of-trachis-philoctetes-oedipus-at-colonus-1bun03",
+  "volumeTitle": "Antigone. The Women of Trachis. Philoctetes. Oedipus at Colonus",
+  "authorDisplay": "Sophocles",
+  "authors": [
+    "Sophocles"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "oedipus-at-colonus-1cl6mn-7",
+  "label": "Oedipus at Colonus (Section 654 - Section 821)",
+  "partId": "oedipus-at-colonus-1cl6mn",
+  "partTitle": "Oedipus at Colonus",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Οἰδίπους ἐπὶ Κολωνῷ",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg007.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Oedipus at Colonus",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg007.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "654",
+      "label": "Section 654",
+      "chapter": null,
+      "original": "ὅρα με λείπων",
+      "translation": "Beware that if you leave me —"
+    },
+    {
+      "id": "654a",
+      "label": "Section 654a",
+      "chapter": null,
+      "original": "μὴ δίδασχʼ ἃ χρή με δρᾶν .",
+      "translation": "Do not instruct me in my duties ."
+    },
+    {
+      "id": "655",
+      "label": "Section 655",
+      "chapter": null,
+      "original": "ὀκνοῦντʼ ἀνάγκη .",
+      "translation": "Fear constrains me —"
+    },
+    {
+      "id": "655a",
+      "label": "Section 655a",
+      "chapter": null,
+      "original": "τοὐμὸν οὐκ ὀκνεῖ κέαρ .",
+      "translation": "My heart feels no fear ."
+    },
+    {
+      "id": "656",
+      "label": "Section 656",
+      "chapter": null,
+      "original": "οὐκ οἶσθʼ ἀπειλὰς",
+      "translation": "You do not know the threats —"
+    },
+    {
+      "id": "656a",
+      "label": "Section 656a",
+      "chapter": null,
+      "original": "οἶδʼ ἐγώ σε μή τινα",
+      "translation": "I know that none will lead you from here against my will . Often threats have blustered in men ’ s hearts with words loud and vain ; but when the mind comes to itself once more ,"
+    },
+    {
+      "id": "660",
+      "label": "Section 660",
+      "chapter": null,
+      "original": "αὑτοῦ γένηται , φροῦδα τἀπειλήματα .",
+      "translation": "the threats have vanished . For those men , too , perhaps — yes , even if in boldness they have spoken dreadful things of bringing you back , the voyage here will prove long and hard to sail . Now I exhort you , apart from any decision of mine , to take heart ,"
+    },
+    {
+      "id": "665",
+      "label": "Section 665",
+      "chapter": null,
+      "original": "γνώμης ἐπαινῶ , Φοῖβος εἰ προὔπεμψέ σε ·",
+      "translation": "if indeed Phoebus has been your escort here . Even if I am not present , still my name , I know , will shield you from harm ."
+    },
+    {
+      "id": "1.668",
+      "label": "Section 1.668",
+      "chapter": null,
+      "original": "εὐίππου , ξένε , τᾶσδε χώρας",
+      "translation": "Stranger , in this land of fine horses you have come to earth ’ s fairest home , the shining Colonus ."
+    },
+    {
+      "id": "1.670",
+      "label": "Section 1.670",
+      "chapter": null,
+      "original": "τὸν ἀργῆτα Κολωνόν , ἔνθʼ",
+      "translation": "Here the nightingale , a constant guest , trills her clear note under the trees of green glades , dwelling amid the wine-dark ivy"
+    },
+    {
+      "id": "1.675",
+      "label": "Section 1.675",
+      "chapter": null,
+      "original": "καὶ τὰν ἄβατον θεοῦ",
+      "translation": "and the god ’ s inviolate foliage , rich in berries and fruit , unvisited by sun , unvexed by the wind of any storm . Here the reveller Dionysus ever walks the ground ,"
+    },
+    {
+      "id": "1.680",
+      "label": "Section 1.680",
+      "chapter": null,
+      "original": "θεαῖς ἀμφιπολῶν τιθήναις .",
+      "translation": "companion of the nymphs that nursed him ."
+    },
+    {
+      "id": "1.681",
+      "label": "Section 1.681",
+      "chapter": null,
+      "original": "θάλλει δʼ οὐρανίας ὑπʼ ἄχνας",
+      "translation": "And , fed on heavenly dew , the narcissus blooms day by day with its fair clusters ; it is the ancient crown of the Great Goddesses ."
+    },
+    {
+      "id": "1.685",
+      "label": "Section 1.685",
+      "chapter": null,
+      "original": "χρυσαυγὴς κρόκος · οὐδʼ ἄϋπνοι",
+      "translation": "And the crocus blooms with a golden gleam . Nor do the ever-flowing springs diminish , from which the waters of Cephisus wander , and each day with pure"
+    },
+    {
+      "id": "1.690",
+      "label": "Section 1.690",
+      "chapter": null,
+      "original": "ἀκηράτῳ σὺν ὄμβρῳ",
+      "translation": "current it moves over the plains of the land ’ s swelling bosom , bringing fertility . Nor have the dancing Muses shunned this place , nor Aphrodite of the golden rein ."
+    },
+    {
+      "id": "2.695",
+      "label": "Section 2.695",
+      "chapter": null,
+      "original": "ἔστιν δʼ οἷον ἐγὼ γᾶς Ἀσίας οὐκ ἐπακούω",
+      "translation": "nor as ever yet born in the great Dorian isle of Pelops : a plant unconquered , self-renewing , causing terror to destroying enemies ."
+    },
+    {
+      "id": "2.700",
+      "label": "Section 2.700",
+      "chapter": null,
+      "original": "ὃ τᾷδε θάλλει μέγιστα χώρᾳ ,",
+      "translation": "It greatly flourishes in this land — the gray-leafed olive , nurturer of children . Youth cannot harm it by the ravages of his hand , nor can any who lives with old age . For the sleepless eye"
+    },
+    {
+      "id": "2.705",
+      "label": "Section 2.705",
+      "chapter": null,
+      "original": "λεύσσει νιν μορίου Διὸς",
+      "translation": "of Zeus Morios watches over it , and gray-eyed Athena ."
+    },
+    {
+      "id": "2.707",
+      "label": "Section 2.707",
+      "chapter": null,
+      "original": "ἄλλον δʼ αἶνον ἔχω ματροπόλει τᾷδε κράτιστον",
+      "translation": "And I have more praise for this city our mother ,"
+    },
+    {
+      "id": "2.710",
+      "label": "Section 2.710",
+      "chapter": null,
+      "original": "δῶρον τοῦ μεγάλου δαίμονος , εἰπεῖν , χθονὸς αὔχημα μέγιστον ,",
+      "translation": "the gift of a great divinity , a glory most great : the might of horses , the might of colts , and the might of the sea .\nFor you , son of Cronus , lord Poseidon , have set her on the throne of this pride ,"
+    },
+    {
+      "id": "2.715",
+      "label": "Section 2.715",
+      "chapter": null,
+      "original": "ἵπποισιν τὸν ἀκεστῆρα χαλινὸν",
+      "translation": "by establishing first in our roads the bit that cures the rage of horses . And the shapely oar , well-fitted for the sea , in flying past the land leaps to follow the hundred-footed Nereids ."
+    },
+    {
+      "id": "720",
+      "label": "Section 720",
+      "chapter": null,
+      "original": "ὦ πλεῖστʼ ἐπαίνοις εὐλογούμενον πέδον ,",
+      "translation": "Land that is praised above all lands , now it is your task to make those bright praises seen in deeds !"
+    },
+    {
+      "id": "722",
+      "label": "Section 722",
+      "chapter": null,
+      "original": "τί δʼ ἔστιν , ὦ παῖ , καινόν ;",
+      "translation": "What strange new thing has happened , my daughter ?"
+    },
+    {
+      "id": "722a",
+      "label": "Section 722a",
+      "chapter": null,
+      "original": "ἆσσον ἔρχεται",
+      "translation": "Creon there draws near us , and not without followers , father ."
+    },
+    {
+      "id": "724",
+      "label": "Section 724",
+      "chapter": null,
+      "original": "ὦ φίλτατοι γέροντες , ἐξ ὑμῶν ἐμοὶ",
+      "translation": "Ah , dearest old men , now give me"
+    },
+    {
+      "id": "725",
+      "label": "Section 725",
+      "chapter": null,
+      "original": "φαίνοιτʼ ἂν ἤδη τέρμα τῆς σωτηρίας .",
+      "translation": "the final proof of my salvation !"
+    },
+    {
+      "id": "726",
+      "label": "Section 726",
+      "chapter": null,
+      "original": "θάρσει , παρέσται · καὶ γὰρ εἰ γέρων ἐγώ ,",
+      "translation": "Courage ! It will be yours . For even if I am aged , this country ’ s strength has not grown old ."
+    },
+    {
+      "id": "728",
+      "label": "Section 728",
+      "chapter": null,
+      "original": "ἄνδρες χθονὸς τῆσδʼ εὐγενεῖς οἰκήτορες ,",
+      "translation": "Gentlemen , noble dwellers in this land , I see from your eyes that a sudden fear has troubled you at my coming ;"
+    },
+    {
+      "id": "730",
+      "label": "Section 730",
+      "chapter": null,
+      "original": "φόβον νεώρη τῆς ἐμῆς ἐπεισόδου ,",
+      "translation": "but do not shrink back from me , and let no evil word escape you .\nI am here with no thought of force ; I am old , and I know that the city to which I have come is mighty , if any in Hellas has might ."
+    },
+    {
+      "id": "735",
+      "label": "Section 735",
+      "chapter": null,
+      "original": "ἀλλʼ ἄνδρα τόνδε τηλικόσδʼ ἀπεστάλην",
+      "translation": "No , I have been sent , aged as I am , to plead with this man to return with me to the land of Cadmus . I am not one man ’ s envoy , but have a mandate from all our people ; since it belonged to me , by family , beyond all other Thebans to mourn his woes ."
+    },
+    {
+      "id": "740",
+      "label": "Section 740",
+      "chapter": null,
+      "original": "ἀλλʼ ὦ ταλαίπωρʼ Οἰδίπους , κλύων ἐμοῦ",
+      "translation": "Unhappy Oedipus , hear us , and come home ! Justly are you summoned by all the Cadmeans , and most of all by me , since I — unless I am the worst of all men born — feel most sorrow for your woes , old man ,"
+    },
+    {
+      "id": "745",
+      "label": "Section 745",
+      "chapter": null,
+      "original": "ὁρῶν σε τὸν δύστηνον ὄντα μὲν ξένον ,",
+      "translation": "when I see you , unhappy as you are , a stranger and a wanderer evermore , roaming in beggary , with one handmaid for your support . Ah , me , I had not thought that she could fall to such a depth of misery as that to which she has fallen —"
+    },
+    {
+      "id": "750",
+      "label": "Section 750",
+      "chapter": null,
+      "original": "ἀεί σε κηδεύουσα καὶ τὸ σὸν κάρα",
+      "translation": "this poor girl !— as she tends forever your dark life amid poverty ; in ripe youth , but unwed : a prize for the first passerby to seize .\nIs it not a cruel reproach — alas !— that I have cast at you , and me , and all our race ?"
+    },
+    {
+      "id": "755",
+      "label": "Section 755",
+      "chapter": null,
+      "original": "ἀλλʼ οὐ γὰρ ἔστι τἀμφανῆ κρύπτειν , σύ νιν",
+      "translation": "But indeed an open shame cannot be hidden . Oedipus , in the name of your ancestral gods , listen to me ! Hide it , and consent to return to the city and the house of your ancestors , after bidding a kind farewell to this city . Athens is worthy ; yet your own city has the first claim on your reverence ,"
+    },
+    {
+      "id": "760",
+      "label": "Section 760",
+      "chapter": null,
+      "original": "δίκῃ σέβοιτʼ ἄν , οὖσα σὴ πάλαι τροφός .",
+      "translation": "since it was Thebes that nurtured you long ago ."
+    },
+    {
+      "id": "761",
+      "label": "Section 761",
+      "chapter": null,
+      "original": "ὦ πάντα τολμῶν κἀπὸ παντὸς ἂν φέρων",
+      "translation": "You who will dare anything , who from any just plea would derive a crafty trick , why do you make this attempt on me , and seek once more to snare me in your trap where I would feel most grief ?"
+    },
+    {
+      "id": "765",
+      "label": "Section 765",
+      "chapter": null,
+      "original": "πρόσθεν τε γάρ με τοῖσιν οἰκείοις κακοῖς",
+      "translation": "Long ago , when I labored under the sickness of my self-made evils , and I yearned to be cast out of the land , you refused to grant the favor . But when my fierce anger had spent its force , and seclusion in the house was sweet to me ,"
+    },
+    {
+      "id": "770",
+      "label": "Section 770",
+      "chapter": null,
+      "original": "τότʼ ἐξεώθεις κἀξέβαλλες , οὐδέ σοι",
+      "translation": "it was then that you thrust me from the house and cast me from the land . And this common race that you mention — that was not at all dear to you then . Now , in turn , when you see that I have a kindly welcome from this city and all its race , you try to pluck me away , wrapping your cruel thoughts in soft words ."
+    },
+    {
+      "id": "775",
+      "label": "Section 775",
+      "chapter": null,
+      "original": "καίτοι τίς αὕτη τέρψις ἄκοντας φιλεῖν ;",
+      "translation": "And yet what pleasure do you find in this , in treating me as dear against my will ? As if a man should refuse you a gift , bring you no aid , when you continually begged for it ; but after your heart was sated with your desires , he should grant it then , when the favor could bring no joy"
+    },
+    {
+      "id": "780",
+      "label": "Section 780",
+      "chapter": null,
+      "original": "ἆρʼ ἂν ματαίου τῆσδʼ ἂν ἡδονῆς τύχοις ;",
+      "translation": "— would you not find your delight in this empty ? Yet such is the nature of your own offers to me : noble in appearance , but in substance base . And I will declare it to these men too , to show you up as base . You have come to get me ,"
+    },
+    {
+      "id": "785",
+      "label": "Section 785",
+      "chapter": null,
+      "original": "ἀλλʼ ὡς πάραυλον οἰκίσῃς , πόλις δέ σοι",
+      "translation": "not to bring me home , but to plant me near your borders , so that your city might escape uninjured by evils from this land . That fate is not for you , but this one : the brooding of my vengeful spirit on your land forever ; and for my sons , this heirloom :"
+    },
+    {
+      "id": "790",
+      "label": "Section 790",
+      "chapter": null,
+      "original": "χθονὸς λαχεῖν τοσοῦτον , ἐνθανεῖν μόνον .",
+      "translation": "just so much soil in my realm in which to die .\nAm I not wiser than you in the fortunes of Thebes ? Yes , far wiser , by as much as the sources of my knowledge are truer : Phoebus I mean , and his father , Zeus himself . But you have come here with fraud on your lips , yes ,"
+    },
+    {
+      "id": "795",
+      "label": "Section 795",
+      "chapter": null,
+      "original": "πολλὴν ἔχον στόμωσιν · ἐν δὲ τῷ λέγειν",
+      "translation": "and with a tongue keener than the edge of a sword ; yet by their use you may well reap more sorrow than salvation . Still , since I know that I cannot persuade you of this , go ! Allow us to live on here ; for even in this plight our life would not be bad , if we should be content with it ."
+    },
+    {
+      "id": "800",
+      "label": "Section 800",
+      "chapter": null,
+      "original": "πότερα νομίζεις δυστυχεῖν ἔμʼ ἐς τὰ σά ,",
+      "translation": "Which of us , do you think , suffers more in this exchange — I by your action , or you by your own ?"
+    },
+    {
+      "id": "802",
+      "label": "Section 802",
+      "chapter": null,
+      "original": "ἐμοὶ μέν ἐσθʼ ἥδιστον , εἰ σὺ μήτʼ ἐμὲ",
+      "translation": "For me , it is enough if your pleading fails both with me and with these men nearby ."
+    },
+    {
+      "id": "804",
+      "label": "Section 804",
+      "chapter": null,
+      "original": "ὦ δύσμορʼ , οὐδὲ τῷ χρόνῳ φύσας φανεῖ",
+      "translation": "Unhappy man , will you let everyone see that even in your years you have gained no sense ?"
+    },
+    {
+      "id": "805",
+      "label": "Section 805",
+      "chapter": null,
+      "original": "φρένας ποτʼ ἀλλὰ λῦμα τῷ γήρᾳ τρέφει ;",
+      "translation": "Must you live on to disgrace your old age ?"
+    },
+    {
+      "id": "806",
+      "label": "Section 806",
+      "chapter": null,
+      "original": "γλώσσῃ σὺ δεινός · ἄνδρα δʼ οὐδένʼ οἶδʼ ἐγὼ",
+      "translation": "You have a clever tongue , but I know no just man who can produce from every side a pretty speech ."
+    },
+    {
+      "id": "808",
+      "label": "Section 808",
+      "chapter": null,
+      "original": "χωρὶς τό τʼ εἰπεῖν πολλὰ καὶ τὰ καίρια .",
+      "translation": "Words may be many , and yet not to the point ."
+    },
+    {
+      "id": "809",
+      "label": "Section 809",
+      "chapter": null,
+      "original": "ὡς δὴ σὺ βραχέα , ταῦτα δʼ ἐν καιρῷ λέγεις .",
+      "translation": "As if yours , indeed , were few , but on the mark ."
+    },
+    {
+      "id": "810",
+      "label": "Section 810",
+      "chapter": null,
+      "original": "οὐ δῆθʼ ὅτῳ γε νοῦς ἴσος καὶ σοὶ πάρα .",
+      "translation": "They cannot be , not for one whose mind is such as yours ."
+    },
+    {
+      "id": "811",
+      "label": "Section 811",
+      "chapter": null,
+      "original": "ἄπελθʼ , ἐρῶ γὰρ καὶ πρὸ τῶνδε , μηδέ με",
+      "translation": "Begone ! I will say it for these men too . And do not besiege me with a jealous watch where I am destined to remain ."
+    },
+    {
+      "id": "813",
+      "label": "Section 813",
+      "chapter": null,
+      "original": "μαρτύρομαι τούσδʼ , οὐ σέ · πρὸς δὲ τοὺς φίλους",
+      "translation": "I call these men , and not you , to witness the tenor of your words to your friends . And if I ever catch you —"
+    },
+    {
+      "id": "815",
+      "label": "Section 815",
+      "chapter": null,
+      "original": "τίς δʼ ἄν με τῶνδε συμμάχων ἕλοι βίᾳ ;",
+      "translation": "And who could catch me against the will of these allies ?"
+    },
+    {
+      "id": "816",
+      "label": "Section 816",
+      "chapter": null,
+      "original": "ἦ μὴν σὺ κἄνευ τοῦδε λυπηθεὶς ἔσει .",
+      "translation": "I promise you , soon you will be pained even without that ."
+    },
+    {
+      "id": "817",
+      "label": "Section 817",
+      "chapter": null,
+      "original": "ποίῳ σὺν ἔργῳ τοῦτʼ ἀπειλήσας ἔχεις ;",
+      "translation": "Where is the deed which backs that threatening word ?"
+    },
+    {
+      "id": "818",
+      "label": "Section 818",
+      "chapter": null,
+      "original": "παίδοιν δυοῖν σοι τὴν μὲν ἀρτίως ἐγὼ",
+      "translation": "One of your two daughters I have myself just seized and sent away . The other I will drag off immediately ."
+    },
+    {
+      "id": "820",
+      "label": "Section 820",
+      "chapter": null,
+      "original": "οἴμοι .",
+      "translation": "Oh , no !"
+    },
+    {
+      "id": "820a",
+      "label": "Section 820a",
+      "chapter": null,
+      "original": "τάχʼ ἕξεις μᾶλλον οἰμώζειν τάδε .",
+      "translation": "You will soon find more to weep about ."
+    },
+    {
+      "id": "821",
+      "label": "Section 821",
+      "chapter": null,
+      "original": "τὴν παῖδʼ ἔχεις μου ;",
+      "translation": "You have my child ?"
+    }
+  ],
+  "prevChunkSlug": "oedipus-at-colonus-1cl6mn-6",
+  "nextChunkSlug": "oedipus-at-colonus-1cl6mn-8"
+}

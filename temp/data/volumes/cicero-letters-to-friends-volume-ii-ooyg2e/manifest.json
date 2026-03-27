@@ -1,0 +1,91 @@
+{
+  "loebNumber": 216,
+  "sortOrder": 216,
+  "slug": "cicero-letters-to-friends-volume-ii-ooyg2e",
+  "title": "Letters to Friends, Volume II",
+  "volumeLabel": "Letters to Friends, Volume II",
+  "authorDisplay": "Cicero",
+  "authors": [
+    "Cicero"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for Letters to Friends, Volume II. Letters to Friends, Volume II is currently filled with the closest same-author Scaife text that exposes both an original-language version and an English translation.",
+  "status": "ready",
+  "defaultChunkSlug": "de-amicitia-5wq9oo-1",
+  "readyChunkCount": 2,
+  "contents": [
+    {
+      "id": "letters-to-friends-volume-ii-1pnjvv",
+      "title": "Letters to Friends, Volume II",
+      "status": "ready",
+      "sectionCount": 104,
+      "chunkSlug": "de-amicitia-5wq9oo-1",
+      "chunks": [
+        {
+          "slug": "de-amicitia-5wq9oo-1",
+          "label": "De Amicitia (Section 1 - Section 60)",
+          "partId": "letters-to-friends-volume-ii-1pnjvv",
+          "partTitle": "Letters to Friends, Volume II",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "de-amicitia-5wq9oo-2",
+          "label": "De Amicitia (Section 61 - Section 104)",
+          "partId": "letters-to-friends-volume-ii-1pnjvv",
+          "partTitle": "Letters to Friends, Volume II",
+          "sectionCount": 44,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "de-amicitia-5wq9oo-1",
+      "label": "De Amicitia (Section 1 - Section 60)",
+      "partId": "letters-to-friends-volume-ii-1pnjvv",
+      "partTitle": "Letters to Friends, Volume II",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "de-amicitia-5wq9oo-2",
+      "label": "De Amicitia (Section 61 - Section 104)",
+      "partId": "letters-to-friends-volume-ii-1pnjvv",
+      "partTitle": "Letters to Friends, Volume II",
+      "sectionCount": 44,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "de-amicitia-5wq9oo-1",
+      "partTitle": "Letters to Friends, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Amicitia",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi052.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Laelius on Friendship",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi052.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "de-amicitia-5wq9oo-2",
+      "partTitle": "Letters to Friends, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Amicitia",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi052.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Laelius on Friendship",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi052.perseus-eng2/"
+      }
+    }
+  ]
+}

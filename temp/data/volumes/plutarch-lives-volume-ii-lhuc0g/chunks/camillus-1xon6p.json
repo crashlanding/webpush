@@ -1,0 +1,626 @@
+{
+  "volumeSlug": "plutarch-lives-volume-ii-lhuc0g",
+  "volumeTitle": "Lives, Volume II",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "camillus-1xon6p",
+  "label": "Camillus",
+  "partId": "lives-volume-ii-15nalc",
+  "partTitle": "Lives, Volume II",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Κάμιλλος",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg011.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Camillus",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg011.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1",
+      "label": "Section 1.1",
+      "chapter": null,
+      "original": "περὶ δὲ Φουρίου Καμίλλου πολλῶν καὶ paris.1624.129 μεγάλων λεγομένων ἴδιον εἶναι δοκεῖ μάλιστα καὶ παράδοξον , ὅτι πλεῖστα μὲν ἐν ἡγεμονίαις καὶ μέγιστα κατορθώσας , δικτάτωρ δὲ πεντάκις αἱρεθείς , θριαμβεύσας δὲ τετράκις , κτίστης δὲ τῆς Ῥώμης ἀναγραφεὶς δεύτερος , οὐδὲ ἅπαξ ὑπάτευσε .",
+      "translation": "Turning now to Furius Camillus , among the many notable things that are told of him , this seems the most singular and strange , namely , that although in other offices of command he won many and great successes , and although he was five times chosen dictator , four times celebrated a triumph , and was styled a Second Founder of Rome , not even once was he consul ."
+    },
+    {
+      "id": "1.2",
+      "label": "Section 1.2",
+      "chapter": null,
+      "original": "τούτου δʼ αἴτιον ἡ τῆς τότε πολιτείας κατάστασις , ἐκ διαφορᾶς τοῦ δήμου πρὸς τὴν σύγκλητον ὑπάτους μὲν ἐρίσαντος μὴ ἀποδείκνυσθαι , χιλιάρχους δὲ χειροτονοῦντος ἐπὶ τὴν ἡγεμονίαν , ὧν , καίπερ ἀπʼ ἐξουσίας καὶ δυνάμεως ὑπατικῆς ἅπαντα πραττόντων , ἧττον ἦν ἐπαχθὴς ἡ ἀρχὴ διὰ τὸ πλῆθος , τὸ γὰρ ἓξ ἄνδρας , ἀλλὰ μὴ δύο , τοῖς πράγμασιν ἐφιστάναι , παρεμυθεῖτο τοὺς βαρυνομένους τὴν ὀλιγαρχίαν .",
+      "translation": "The reason for this lay in the political conditions of his time . The common people , being at variance with the Senate , strove against the appointment of consuls , and elected military tribunes to the command instead . These , although they always acted with consular authority and power , were less obnoxious in their sway because of their number . For the fact that six men instead of two stood at the head of affairs , was some comfort to those who were bitterly set against the rule of the few ."
+    },
+    {
+      "id": "2.1",
+      "label": "Section 2.1",
+      "chapter": null,
+      "original": "οὔπω δὲ τότε περὶ τὸν τῶν Φουρίων οἶκον οὔσης μεγάλης ἐπιφανείας αὐτὸς ἀφʼ ἑαυτοῦ πρῶτος εἰς δόξαν προῆλθεν ἐν τῇ μεγάλῃ μάχῃ πρὸς Αἰκανοὺς καὶ Οὐολούσκους ὑπὸ δικτάτορι Ποστουμίῳ Τουβέρτῳ στρατευόμενος , προϊππεύων γὰρ τοῦ στρατοῦ καὶ πληγῇ περιπεσὼν εἰς τὸν μηρόν οὐκ ἀνῆκεν , ἀλλʼ ἐγκείμενον τῷ τραύματι παρέλκων τὸ ἀκόντισμα καὶ συμπλεκόμενος τοῖς ἀρίστοις τῶν πολεμίων τροπὴν ἐποίησεν .",
+      "translation": "At a time when the house of the Furii was not yet very conspicuous , he , by his own efforts , was the first of his clan to achieve fame . This he did in the great battle with the Aequians and Volscians , serving under Postumius Tubertus the dictator . Dashing out on his horse in front of the army , he did not abate his speed when he got a wound in the thigh , but dragging the missile along with him in its wound , he engaged the bravest of the enemy and put them to flight ."
+    },
+    {
+      "id": "2.2",
+      "label": "Section 2.2",
+      "chapter": null,
+      "original": "ἐκ δὲ τούτου τῶν τʼ ἄλλων γερῶν ἔτυχε καὶ τιμητὴς ἀπεδείχθη , μέγα τῆς ἀρχῆς ἀξίωμα ταύτης ἐπὶ τῶν τότε χρόνων ἐχούσης . μνημονεύεται δὲ αὐτοῦ τιμητεύοντος καλὸν μὲν ἔργον τὸ τοὺς ἀγάμους λόγοις τε πείθοντα καὶ ζημίαις ἀπειλοῦντα συγκαταζεῦξαι ταῖς χηρευούσαις γυναιξί πολλαὶ δʼ ἦσαν αὗται διὰ τοὺς πολέμους , ἀναγκαῖον δὲ τὸ καὶ τοὺς ὀρφανοὺς ὑποτελεῖς ποιῆσαι πρότερον ἀνεισφόρους ὄντας .",
+      "translation": "For this exploit , among other honours bestowed upon him , he was appointed censor , in those days an office of great dignity . There is on record a noble achievement of his censorship , that of bringing the unmarried men , partly by persuasion and partly by threatening them with fines , to join in wedlock with the women who were living in widowhood , and these were many because of the wars ; likewise a necessary achievement , that of making the orphans , who before this had contributed nothing to the support of the state , subject to taxation ."
+    },
+    {
+      "id": "3.1",
+      "label": "Section 3.1",
+      "chapter": null,
+      "original": "ἐκ τούτου τὸ περὶ τὴν Ἀλβανίδα λίμνην πάθος ἀκμάζοντι τῷ πολέμῳ συνενεχθέν οὐδενὸς ἧττον τῶν ἀπίστων πυθέσθαι θαυμάτων αἰτίας κοινῆς ἀποοίᾳ , καὶ λόγου φυσικὴν ἔχοντος ἀρχὴν ἐφόβησεν , ἦν μὲν γὰρ ὥρα μετοπωρινή , καὶ τὸ p.100 θέρος ἔληγεν οὔτʼ ἔπομβρον οὔτε πνεύμασι νοτίοις χαλεπὸν ἐπιδήλως γενόμενον ·",
+      "translation": "And now , when the war was at its climax , the calamity of the Alban lake added its terrors . It seemed a most incredible prodigy , without familiar cause or natural explanation . For the season was autumn , and the summer just ended had , to all observation , been neither rainy nor vexed by south winds ."
+    },
+    {
+      "id": "3.2",
+      "label": "Section 3.2",
+      "chapter": null,
+      "original": "πολλὰς δὲ λίμνας καὶ ποταμοὺς καὶ νάματα παντοδαπὰ τῆς Ἰταλίας ἐχούσης τὰ μὲν ἐξέλιπε κομιδῇ , τὰ δʼ ἀντέσχε γλίσχρως καὶ μόλις , οἱ δὲ ποταμοὶ πάντες ὥσπερ ἀεὶ κοῖλοι καὶ ταπεινοὶ διὰ θέρους ἐρρύησαν . τὸ δὲ τῆς Ἀλβανίδος λίμνης ἀρχὴν ἔχον ἐν ἑαυτῷ καὶ τελευτήν , ὄρεσιν εὐγείοις περιεχόμενον , ἀπʼ οὐδενὸς αἰτίου , πλὴν εἴ τι θεῖον , αὐξόμενον ἐπιδήλως διωγκοῦτο καὶ προσίστατο ταῖς ὑπωρείαις καὶ τῶν ἀνωτάτω λόφων ὁμαλῶς ἐπέψαυεν , ἄνευ σάλου καὶ κλύδωνος ἐξανιστάμενον .",
+      "translation": "Of the lakes , rivers , and streams of all sizes with which Italy abounds , some had failed utterly , others barely managed to hold out , and all the rivers ran low , between high banks , as was always the case in summer . But the Alban lake , which had its source and outlet within itself , and was girt about with fertile mountains , for no reason , except it be that heaven willed it , was observed to increase and swell until it reached the skirts of the mountains and gradually touched their highest ridges . All this rise was without surge or billow ."
+    },
+    {
+      "id": "4.1",
+      "label": "Section 4.1",
+      "chapter": null,
+      "original": "οἷα δʼ ἐν πολιορκίᾳ διὰ χρόνου μῆκος ἐπιμιξίας τε πολλὰς ἐχούσῃ καὶ κοινολογίας πρὸς τοὺς πολεμίους , ἐγεγόνει τινὶ Ῥωμαίῳ συνήθεια καὶ παρρησία πρὸς ἕνα τῶν πολιτῶν , ἄνθρωπον ἔμπειρόν τε λογίων παλαιῶν καί τι καὶ πλέον εἰδέναι τῶν ἄλλων ἀπὸ μαντικῆς δοκοῦντα . τοῦτον οὖν ὁ Ῥωμαῖος , ὡς ἤκουσε τὴν ἐπίδοσιν τῆς λίμνης , ὁρῶν ὑπερηδόμενόν τε καὶ καταγελῶντα τῆς πολιορκίας , οὐ ταῦτʼ p.102 ἔφη μόνον ἐνηνοχέναι θαυμαστὰ τὸν παρόντα χρόνον , ἀλλʼ ἕτερα τούτων ἀτοπώτερα σημεῖα Ῥωμαίοις γεγονέναι , περὶ ὧν ἐθέλειν ἐκείνῳ κοινωσάμενος , εἴ τι δύναιτο , θέσθαι τῶν ἰδίων ἄμεινον ἐν τοῖς κοινοῖς νοσοῦσιν .",
+      "translation": "As was to be expected in a long siege requiring many meetings for conference with the enemy , it fell out that a certain Roman became intimate and confidential with one of the citizens of Veii , a man versed in ancient oracles , and reputed wiser than the rest from his being a diviner . The Roman saw that this man , on hearing the story of the lake , was overjoyed and made mock of the siege . He therefore told him this was not the only wonder which the passing days had brought , but that other and stranger signs than this had been given to the Romans , of which he was minded to tell him , in order that , if possible , he might better his own private case in the midst of the public distresses ."
+    },
+    {
+      "id": "4.2",
+      "label": "Section 4.2",
+      "chapter": null,
+      "original": "ὑπακούσαντος δὲ τοῦ ἀνθρώπου προθύμως καὶ διδόντος ἑαυτὸν εἰς κοινολογίαν , ὡς ἀπορρήτων τινῶν ἀκροατὴν ἐσόμενον , κατὰ μικρὸν οὕτω διαλεγόμενος καὶ ὑπάγων αὐτόν , ὡς πορρωτέρω τῶν πυλῶν ἐγεγόνεισαν , αἴρει τε μετέωρον εὐρωστότερος ὢν καί τινῶν ἀπὸ στρατοπέδου προσδραμόντων χειρωσάμενος καὶ κρατήσας παρέδωκε τοῖς στρατηγοῖς .",
+      "translation": "The man gave eager hearing to all this , and consented to a conference , supposing that he was going to hear some deep secrets . But the Roman led him along little by little , conversing as he went , until they were some way beyond the city gate , when he seized him bodily , being a sturdier man than he , and with the help of comrades who came running up from the camp , mastered him completely and handed him over to the generals ."
+    },
+    {
+      "id": "5.1",
+      "label": "Section 5.1",
+      "chapter": null,
+      "original": "ἡ δὲ σύγκλητος εἰς τὸ δέκατον ἔτος τοῦ πολέμου καταλύσασα τὰς ἄλλας ἀρχὰς δικτάτορα Κάμιλλον ἀπέδειξεν ἵππαρχον δʼ ἐκεῖνος αὑτῷ προσελόμενος Κορνήλιον Σκηπίωνα , πρῶτον μὲν εὐχὰς ἐποιήσατο τοῖς θεοῖς ἐπὶ τῷ πολέμῳ τέλος εὐκλεὲς λαβόντι τὰς μεγάλας θέας ἄξειν καὶ νεὼν θεᾶς , ἣν Μητέρα Ματοῦταν καλοῦσι Ῥωμαῖοι , καθιερώσειν .",
+      "translation": "In the tenth year of the war , [*] the Senate abolished the other magistracies and appointed Camillus dictator . After choosing Cornelius Scipio as his master of horse , in the first place he made solemn vows to the gods that , in case the war had a glorious ending , he would celebrate the great games in their honour , and dedicate a temple to a goddess whom the Romans call Mater Matuta ."
+    },
+    {
+      "id": "5.2",
+      "label": "Section 5.2",
+      "chapter": null,
+      "original": "ταύτην ἄν τις ἀπὸ τῶν δρωμένων ἱερῶν μάλιστα Λευκοθέαν νομίσειεν εἶναι , καὶ γὰρ θεράπαιναν εἰς τὸν σηκὸν εἰσάγουσαι ῥαπίζουσιν , εἶτʼ ἐξελαύνουσι καὶ τὰ τῶν ἀδελφῶν τέκνα πρὸ τῶν ἰδίων ἐναγκαλίζονται καὶ δρῶσι περὶ τὴν θυσίαν ἃ ταῖς Διονύσου τροφοῖς καὶ τοῖς διὰ τὴν παλλακὴν πάθεσι τῆς Ἰνοῦς προσέοικε . μετὰ δὲ τὰς εὐχὰς ὁ Κάμιλλος εἰς τὴν Φαλίσκων ἐνέβαλε , καὶ μάχῃ μεγάλῃ τούτους τε καὶ Καπηνάτας προσβοηθήσαντας αὐτοῖς ἐνίκησεν .",
+      "translation": "From the sacred rites used in the worship of this goddess , she might be held to be almost identical with Leucothea . The women bring a serving-maid into the sanctuary and beat her with rods , then drive her forth again ; they embrace their nephews and nieces in preference to their own children ; and their conduct at the sacrifice resembles that of the nurses of Dionysus , or that of Ino under the afflictions put upon her by her husband ’ s concubine . After his vows , Camillus invaded the country of the Faliscans and conquered them in a great battle , together with the Capenates who came up to their aid ."
+    },
+    {
+      "id": "6.1",
+      "label": "Section 6.1",
+      "chapter": null,
+      "original": "διαπορθήσας δὲ τὴν πόλιν ἔγνω τὸ ἄγαλμα paris.1624.132 τῆς Ἥρας μεταφέρειν εἰς Ῥώμην , ὥσπερ εὔξατο . καὶ συνελθόντων ἐπὶ τούτῳ τῶν τεχνιτῶν , ὁ μὲν ἔθυε καὶ προσεύχετο τῇ θεῷ δέχεσθαι τὴν προθυμίαν αὐτῶν καὶ εὐμενῆ γενέσθαι σύνοικον τοῖς λαχοῦσι τὴν Ῥώμην θεοῖς , τὸ δʼ ἄγαλμά φασιν ὑποφθεγξάμενον εἰπεῖν . ὅτι καὶ βούλεται καὶ συγκαταινεῖ .",
+      "translation": "After he had utterly sacked the city , he determined to transfer the image of Juno to Rome , in accordance with his vows . The workmen were assembled for the purpose , and Camillus was sacrificing and praying the goddess to accept of their zeal and to be a kindly co-dweller with the gods of Rome , when the image , they say , spoke in low tones and said she was ready and willing ."
+    },
+    {
+      "id": "6.2",
+      "label": "Section 6.2",
+      "chapter": null,
+      "original": "Λίουιος δέ φησιν εὔχεσθαι μὲν τὸν Κάμιλλον ἁπτόμενον τῆς θεοῦ καὶ παρακαλεῖν , ἀποκρίνασθαι δέ τινας τῶν παρόντων , ὅτι καὶ βούλεται καὶ συνακολουθεῖ καὶ συνακολουθεῖ προθύμως . οἱ δʼ ἰσχυριζόμενοι καὶ τῷ παραδόξῳ βοηθοῦντες μεγίστην μὲν ἔχουσι συνήγορον τὴν τύχην τῆς πόλεως , ἣν ἀπὸ μικρᾶς καὶ καταφρονουμένης ἀρχῆς ἐπὶ τοσοῦτον δόξης καὶ δυνάμεως προελθεῖν δίχα θεοῦ πολλαῖς καὶ μεγάλαις ἐπιφανείαις ἑκάστοτε συμπαρόντος ἀμήχανον ·",
+      "translation": "But Livy [*] says that Camillus did indeed lay his hand upon the goddess and pray and beseech her , but that it was certain of the bystanders who gave answer that she was ready and willing and eager to go along with him . Those who insist upon and defend the marvel have a most powerful advocate for their contention in the fortune of the city , which , from its small and despised beginning , could never have come to such a pinnacle of glory and power had God not dwelt with her and made many great manifestations of himself from time to time ."
+    },
+    {
+      "id": "7.1",
+      "label": "Section 7.1",
+      "chapter": null,
+      "original": "ὁ δὲ Κάμιλλος εἴτε μεγέθει τοῦ ἔργου , πόλιν ἀντίπαλον τῆς Ῥώμης ἔτει δεκάτῳ τῆς πολιορκίας καθῃρηκώς , εἴτε ὑπὸ τῶν εὐδαιμονιζόντων αὐτὸν εἰς ὄγκον ἐξαρθεὶς καὶ φρόνημα νομίμου καὶ πολιτικῆς ἀρχῆς ἐπαχθέστερον , τά τε ἄλλα σοβαρῶς ἐθριάμβευσε καί τέθριππον ὑποζευξάμενος λευκόπωλον ἐπέβη καὶ διεξήλασε τῆς Ῥώμης , οὐδενὸς τοῦτο ποιήσαντος ἡγεμόνος πρότερον οὐδʼ ὕστερον , ἱερὸν γὰρ ἡγοῦνται τὸ τοιοῦτον ὄχημα τῷ βασιλεῖ καὶ πατρὶ τῶν θεῶν ἐπιπεφημισμένον .",
+      "translation": "Whether it was due to the magnitude of his exploit in taking a city which could vie with Rome and endure a siege of ten years , or to the congratulations showered upon him , Camillus was lifted up to vanity , cherished thoughts far from becoming to a civil magistrate subject to the law , and celebrated a triumph with great pomp : he actually had four white horses harnessed to a chariot on which he mounted and drove through Rome , a thing which no commander had ever done before or afterwards did . For they thought such a car sacred and devoted to the king and father of the gods ."
+    },
+    {
+      "id": "7.2",
+      "label": "Section 7.2",
+      "chapter": null,
+      "original": "ἔκ τε δὴ τούτου διεβλήθη πρὸς τοὺς πολίτας οὐκ εἰθισμένους ἐντρυφᾶσθαι , καὶ δευτέραν ἔλαβεν αἰτίαν ἐνιστάμενος νόμῳ διοικίζοντι τήν πόλιν . εἰσηγοῦντο γὰρ οἱ δήμαρχοι τόν τε δῆμον καὶ τήν σύγκλητον ἴσα μέρη δύο νεμηθῆναι , καὶ τοὺς μὲν αὐτόθι κατοικεῖν , τοὺς δὲ κλήρῳ λαχόντας εἰς τήν αἰχμάλωτον μεταστῆναι πόλιν , ὡς εὐπορωτέρων ἐσομένων καὶ δυσὶ μεγάλοις καὶ καλοῖς ἄστεσι τήν τε χώραν ὁμοῦ καὶ τήν ἄλλην εὐδαιμονίαν φυλαξόντων .",
+      "translation": "In this way he incurred the enmity of the citizens , who were not accustomed to wanton extravagance . They had also a second grievance against him in that he opposed himself to a law dividing the city . The tribunes introduced a measure dividing the people and the Senate into two parts , one to remain and dwell there , and the one on which the lot fell to remove into the city they had captured , on the ground that they would thus be more commodiously bestowed , and with two large and fair cities could better protect their territory as well as their prosperity in general ."
+    },
+    {
+      "id": "8.1",
+      "label": "Section 8.1",
+      "chapter": null,
+      "original": "ψηφισαμένης δὲ τῆς βουλῆς τὴν μὲν ὠφέλειαν χαλεπὸν γὰρ ἦν ἀνάδαστον μὴ γενέσθαι , τοὺς δὲ λαβόντας αὐτοὺς σὺν ὅρκῳ τὴν δεκάτην παραφέρειν εἰς μέσον , ἐγίνετο πολλὰ p.114 λυπηρὰ καὶ βίαια περὶ τοὺς στρατιώτας , ἀνθρώπους πένητας καὶ πολλὰ πεπονηκότας , ἀναγκαζομένους ὧν ἐκέκτηντο καὶ κατεκέχρηντο μέρος εἰσφέρειν τοσοῦτον .",
+      "translation": "The Senate voted , not that the booty should be redistributed , for that would have been a difficult matter , but that those who had got it should , in person and under oath , bring the tenth thereof to the public treasury . This subjected the soldiers to many vexations and constraints . They were poor men , who had toiled hard , and yet were now forced to contribute a large share of what they had gained , yes , and spent already ."
+    },
+    {
+      "id": "8.2",
+      "label": "Section 8.2",
+      "chapter": null,
+      "original": "θορυβουμένῳ δʼ ὑπʼ αὐτῶν τῷ Καμίλλῳ καὶ προφάσεως ἀποροῦντι βελτίονος εἰς τὸν ἀτοπώτατον τῶν λόγων συνέβαινε καταφεύγειν , ὁμολογοῦντι ἐπιλαθέσθαι τῆς εὐχῆς , οἱ δʼ ἐχαλέπαινον , εἰ τὰ τῶν πολεμίων δεκατεύσειν εὐξάμενος τότε νῦν δεκατεύει τὰ τῶν πολιτῶν , οὐ μὴν ἀλλὰ πάντων ὅσον ἔδει μέρος εἰσενεγκόντων ἔδοξε κρατῆρα χρυσοῦν κατασκευάσαντας εἰς Δελφοὺς ἀποστεῖλαι .",
+      "translation": "Beset by their tumultuous complaints , and at loss for a better excuse , Camillus had recourse to the absurdest of all explanations , and admitted that he had forgotten his vow . The soldiers were filled with indignation at the thought that it was the goods of the enemy of which he had once vowed a tithe , but the goods of his fellow citizens from which he was now paying the tithe . However , all of them brought in the necessary portion , and it was decided to make a bowl of massive gold and send it to Delphi ."
+    },
+    {
+      "id": "9.1",
+      "label": "Section 9.1",
+      "chapter": null,
+      "original": "τῶν δὲ δημάρχων αὖθις ἐπεγειρόντων τὸν περὶ τοῦ διοικισμοῦ νόμον , ὁ πρὸς Φαλίσκους πόλεμος ἐν καιρῷ παραφανεὶς ἔδωκε τοῖς πρώτοις ἀνδράσιν ἀρχαιρεσιάσαι κατὰ γνώμην καὶ Κάμιλλον ἀποδείξαι μεθʼ ἑτέρων πέντε χιλίαρχον , ὡς τῶν πραγμάτων ἡγεμόνος δεομένων ἀξίωμα καὶ δόξαν μετʼ ἐμπειρίας ἔχοντος .",
+      "translation": "Once more the tribunes of the people urged the passage of the law for the division of the city , but the war with the Faliscans came on opportunely and gave the leading men occasion to hold such elective assemblies as they wished , and to appoint Camillus military tribune , with five others . The emergency was thought to demand a leader with the dignity and reputation which experience alone could give ."
+    },
+    {
+      "id": "9.2",
+      "label": "Section 9.2",
+      "chapter": null,
+      "original": "ψηφισαμένου δὲ τοῦ δήμου λαβὼν δύναμιν ὁ Κάμιλλος εἰς τὴν Φαλίσκων ἐνέβαλε · καὶ πόλιν ἐρυμνὴν κατεσκευασμένην πᾶσιν εἰς πόλεμον καλῶς Φαλερίους ἐπολιόρκει , τὸ μὲν ἑλεῖν οὐ μικρὸν ἔργον οὐδὲ χρόνου τοῦ τυχόντος ἡγούμενος , ἄλλως δὲ τρίβειν τοὺς πολίτας καὶ περισπᾶν βουλόμενος , ὡς μὴ σχολάζοιεν οἴκοι καθήμενοι δημαγωγεῖσθαι καὶ στασιάζειν . ἐπιεικῶς γὰρ ἀεὶ φαρμάκῳ τούτῳ χρώμενοι διετέλουν , ὥσπερ ἰατροὶ , τὰ ταρακτικὰ πάθη τῆς πολιτείας ἔξω τρέποντες .",
+      "translation": "After the people had ratified the election , Camillus , at the head of his army , invaded the territory of the Faliscans and laid siege to Falerii , a strong city , and well equipped with all the munitions of war . It was not that he thought its capture would demand slight effort or short time , but he wished to turn the thoughts of the citizens to other matters and keep them busy therein , that they might not be able to stay at home and become the prey of seditious leaders . This was a fitting and sovereign remedy which the Romans used , like good physicians , thereby expelling from the body politic its troublesome distempers ."
+    },
+    {
+      "id": "10.1",
+      "label": "Section 10.1",
+      "chapter": null,
+      "original": "οὕτως δὲ τῆς πολιορκίας κατεφρόνουν οἱ p.118 Φαλέριοι τῷ πανταχόθεν ἐξωχυρῶσθαι πιστεύοντες , ὥστε πλὴν τῶν τὰ τείχη φυλαττόντων τοὺς ἄλλους ἐν ἱματίοις κατὰ τὴν πόλιν ἀναστρέφεσθαι , τοὺς δὲ παῖδας αὐτῶν εἴς τε τὰ διδασκαλεῖα φοιτᾶν καὶ παρὰ τὰ τείχη περιπατήσοντας καὶ γυμνασομένους ὑπὸ τοῦ διδασκάλου καταβιβάζεσθαι . κοινῷ γὰρ ἐχρῶντο τῷ διδασκάλῳ , ὥσπερ Ἕλληνες , οἱ Φαλέριοι , βουλόμενοι paris.1624.134 συντρέφεσθαι καὶ συναγελάζεσθαι μετʼ",
+      "translation": "The Falerians , relying on the great strength of their city at all points , made so light of the siege that , with the exception of the defenders of the walls , the rest went up and down the city in their garb of peace . The boys went to school as usual , and were brought by their teacher along the walls outside to walk about and get their exercise . For the Falerians , like the Greeks , employed one teacher in common , wishing their boys , from the very start , to herd with one another and grow up together ."
+    },
+    {
+      "id": "10.2",
+      "label": "Section 10.2",
+      "chapter": null,
+      "original": "ἀλλήλων εὐθὺς ἐξ ἀρχῆς τοὺς παῖδας . οὗτος οὖν ὁ διδάσκαλος ἐπιβουλεύων τοῖς Φαλερίοις διὰ τῶν παίδων ἐξῆγεν αὐτοὺς ἡμέρας ἑκάστης ὑπὸ τὸ τεῖχος ἐγγὺς τὸ πρῶτον , εἶτʼ ἀπῆγεν αὖθις εἴσω γυμνασαμένους , ἐκ δὲ τούτου κατὰ μικρὸν ὑπάγων εἴθισε θαρρεῖν ὡς πολλῆς οὔσης ἀδείας , καὶ τέλος ἔχων ἅπαντας εἰς τοὺς προφύλακας τῶν Ῥωμαίων ἐνέβαλε καὶ παρέδωκεν , ἄγειν κελεύσας πρὸς τὸν Κάμιλλον .",
+      "translation": "This teacher , then , wishing to betray Falerii by means of its boys , led them out every day beyond the city walls , at first only a little way , and then brought them back inside when they had taken their exercise . Presently he led them , little by little , farther and farther out , accustomed them to feel confident that there was no danger at all , and finally pushed in among the Roman outposts with his whole company , handed them over to the enemy , and demanded to be led to Camillus ."
+    },
+    {
+      "id": "11.1",
+      "label": "Section 11.1",
+      "chapter": null,
+      "original": "οἱ δὲ στρατιῶται διαρπάσειν προσδοκήσαντες τοὺς Φαλερίους , ὡς ἐπανῆλθον εἰς Ῥώμην κεναῖς χερσί , κατηγόρουν τοῦ Καμίλλου πρὸς τοὺς ἄλλους πολίτας ὡς μισοδήμου καὶ φθονήσαντος ὠφεληθῆναι τοῖς πένησιν . ἐπεὶ δὲ τὸν περὶ τοῦ διοικισμοῦ νόμον οἱ δήμαρχοι προθέντες p.122 αὖθις ἐπὶ τὴν ψῆφον ἐκάλουν τὸν δῆμον , ὁ δὲ Κάμιλλος οὐδεμιᾶς ἀπεχθείας οὐδὲ παρρησίας φεισάμενος ἐφάνη μάλιστα πάντων ἐκβιαζόμενος τοὺς πολλούς , τὸν μὲν νόμον ἄκοντες ἀπεψηφίσαντο ,",
+      "translation": "But the soldiers thought to have had the sacking of Falerii , and when they came back to Rome empty-handed , they denounced Camillus to the rest of the citizens as a hater of the common people , and as begrudging to the poor the enjoyment of their rightful booty . And when the tribunes once more put forward the law for the division of the city and summoned the people to vote upon it , then Camillus , shunning no hatred nor any boldness of utterance , was manifestly the chief one in forcing the multitude away from its desires ."
+    },
+    {
+      "id": "11.2",
+      "label": "Section 11.2",
+      "chapter": null,
+      "original": "τὸν δὲ Κάμιλλον διʼ ὀργῆς εἶχον , ὥστε καὶ δυστυχήσαντος αὐτοῦ περὶ τὰ οἰκεῖα τῶν γὰρ υἱῶν ἀπέβαλε τὸν ἕτερον νοσήσαντα μηδὲν οἴκτῳ τῆς ὀργῆς ὑφέσθαι . καίτοι τὸ πάθος οὐ μετρίως ἤνεγκεν ἀνὴρ ἥμερος φύσει καὶ χρηστός , ἀλλὰ τῆς δίκης προγεγραμμένης αὐτῷ διὰ πένθος οἰκούρει καθειργμένος μετὰ τῶν γυναικῶν .",
+      "translation": "Therefore , they did indeed reject the law , much against their will , but they were wroth with Camillus , so that even when he met with domestic affliction and lost one of his two sons by sickness , their wrath was in no wise softened by pity . And yet he set no bounds to his sorrow , being by nature a gentle and kindly man , but even after the indictment against him had been published , he suffered his grief to keep him at home , in close seclusion with the women of his household ."
+    },
+    {
+      "id": "12.1",
+      "label": "Section 12.1",
+      "chapter": null,
+      "original": "ὁ μὲν οὖν κατήγορος ἦν Λεύκιος Ἀπουλήιος , ἔγκλημα δὲ κλοπῆς περὶ τὰ Τυρρηνικὰ χρήματα , καὶ δῆτα καὶ θύραι τινὲς ἐλέγοντο χαλκαῖ παρʼ αὐτῷ φανῆναι τῶν αἰχμαλώτων , ὁ δὲ δῆμος ἐξηρέθιστο καὶ δῆλος ἦν ἐκ πάσης προφάσεως κατʼ αὐτοῦ τῇ ψήφῳ χρησόμενος .",
+      "translation": "Well , then , his accuser was Lucius Apuleius , and the charge was theft of Tuscan goods . It was said , forsooth , that certain bronze doors belonging to the booty had been seen at his house . But the people were exasperated , and would plainly lay hold of any pretext whatever for condemning him ."
+    },
+    {
+      "id": "12.2",
+      "label": "Section 12.2",
+      "chapter": null,
+      "original": "οὕτως οὖν συναγαγὼν τούς τε φίλους καὶ τούς συστρατευσαμένους οὐκ ὀλίγους τὸ πλῆθος ὄντας , ἐδεῖτο μὴ περιιδεῖν αὐτὸν ἀδίκως ἐπʼ αἰτίαις paris.1624.135 πονηραῖς ὀφλόντα καὶ καταγέλαστον ὑπὸ τῶν ἐχθρῶν γενόμενον . ἐπεὶ δʼ οἱ φίλοι βουλευσάμενοι καὶ διαλεχθέντες ἑαυτοῖς ἀπεκρίναντο , πρὸς μὲν τὴν κρίσιν αὐτῷ μηδὲν οἴεσθαι βοηθήσειν , τὴν δὲ ζημίαν ὀφλόντι συνεκτίσειν , οὐκ ἀνασχόμενος ἔγνω μεταστῆναι καὶ φυγεῖν ἐκ τῆς πόλεως πρὸς ὀργήν .",
+      "translation": "So then he assembled his friends and comrades in arms , who were many in number , and begged them not to suffer him to be convicted on base charges and to be made a laughingstock by his foes . When his friends had laid their heads together and discussed the case , they answered that , as regarded his trial , they thought they could be of no help to him ; but if he were punished with a fine , they would help him pay it . This he could not endure , and in his wrath determined to depart the city and go into exile ."
+    },
+    {
+      "id": "13.1",
+      "label": "Section 13.1",
+      "chapter": null,
+      "original": "ἐκεῖνος μὲν οὖν , ὥσπερ ὁ Ἀχιλλεὺς , ἀρὰς θέμενος ἐπὶ τοὺς πολίτας καὶ μεταστὰς ὦφλε τὴν δίκην ἐρήμην , τίμημα μυρίων καὶ πεντακισχιλίων ἀσσαρίων ἔχουσαν . ὃ γίνεται πρὸς ἀργυρίου λόγον χίλιαι δραχμαὶ καὶ πεντακόσιαι · ἀσσάριον γὰρ ἦν τὸ ἀργύριον , καὶ τὸ δεκάχαλκον οὕτως ἐκαλεῖτο δηνάριον .",
+      "translation": "After he had thus , like Achilles , [*] invoked curses upon his fellow citizens , he removed from out the city . His case went by default , and he was fined fifteen thousand asses . This sum , reduced to our money , is fifteen hundred drachmas . For the as was the current copper coin , and the silver coin worth ten of these pieces was for that reason called the denarius , which is equivalent to the drachma ."
+    },
+    {
+      "id": "13.2",
+      "label": "Section 13.2",
+      "chapter": null,
+      "original": "οὐδεὶς δʼ ἔστι Ῥωμαίων , ὃς οὐ νομίζει τὰς εὐχὰς τοῦ Καμίλλου ταχὺ τὴν Δίκην ὑπολαβεῖν , καὶ γενέσθαι τιμωρίαν αὐτῷ τῆς ἀδικίας οὐκ ἡδεῖαν , ἀλλʼ ἀνιαράν , ὀνομαστὴν δὲ καὶ περιβόητον · τοσαύτη περιῆλθε τὴν Ῥώμην νέμεσις , καὶ τοσοῦτον ἄγων φθόρον καὶ κίνδυνον ἅμα μετʼ αἰσχύνης ἐφάνη καιρὸς ἐπὶ τὴν πόλιν , εἴτε τῆς τύχης οὕτω συνελθούσης , εἴτε καὶ θεῶν τινος ἔργον ἔστι μὴ παραμελεῖν ἀρετῆς ἀχαριστουμένης .",
+      "translation": "Now there is no Roman who does not believe that justice followed hard upon the imprecations of Camillus , and that he received a requital for his wrongs which was not pleasing to him , but painful ; certainly it was notable and famous . For a great retribution encompassed Rome , and a season of dire destruction and peril not unmixed with disgrace assailed the city , whether fortune so brought things to pass , or whether it is the mission of some god not to neglect virtue that goes unrequited ."
+    },
+    {
+      "id": "14.1",
+      "label": "Section 14.1",
+      "chapter": null,
+      "original": "πρῶτον μὲν οὖν ἔδοξε σημεῖον γεγονέναι κακοῦ μεγάλου προσιόντος ἡ Ἰουλίου τοῦ τιμητοῦ τελευτή · μάλιστα γὰρ δὴ Ῥωμαῖοι σέβονται καὶ νομίζουσιν ἱερὰν τὴν τῶν τιμητῶν ἀρχήν , δεύτερον δὲ πρὸ τῆς Καμίλλου φυγῆς ἀνὴρ οὐκ ἐπιφανὴς μὲν οὐδὲ ἐκ τῆς βουλῆς , ἐπιεικὴς δὲ καὶ χρηστὸς εἶναι δοκῶν , Μᾶρκος Καιδίκιος , ἀνήνεγκε πρὸς τοὺς χιλιάρχους πρᾶγμα φροντίδος ἄξιον . p.126",
+      "translation": "In the first place , then , it seemed to be a sign of great evil impending when Julius the censor died . For the Romans specially revere and hold sacred the office of censor . In the second place , before Camillus went into exile , a man who was not conspicuous , to be sure , but who was esteemed honest and kindly , Marcus Caedicius , informed the military tribunes of a matter well worth their attention ."
+    },
+    {
+      "id": "14.2",
+      "label": "Section 14.2",
+      "chapter": null,
+      "original": "ἔφη γὰρ ἐν τῇ παρῳχημένῃ νυκτὶ καθʼ ὁδὸν βαδίζων , ἣν Καινὴν ὀνομάζουσι , κληθεὶς ὑπό τινος φθεγξαμένου μεταστραφῆναι , καὶ θεάσασθαι μὲν οὐδένα , φωνῆς δὲ μείζονος ἢ κατʼ ἀνθρωπίνην ἀκοῦσαι τάδε λεγούσης · ἄγε , Μᾶρκε Καιδίκιε , λέγε πρὸς τοὺς ἄρχοντας ἕωθεν ἐλθὼν ὀλίγου χρόνου Γαλάτας προσδέχεσθαι . ταῦτʼ ἀκούσαντες οἱ χιλίαρχοι γέλωτα καὶ παιδιὰν ἐποιοῦντο . καὶ μετʼ ὀλίγον συνέβη τὰ περὶ Κάμιλλον .",
+      "translation": "He said that during the night just passed , as he was going along the so-called New Street , he was hailed by someone in clear tones , and turned , and saw no man , but heard a voice louder than man ’ s saying : Hark thou ! Marcus Caedicius , early in the morning go and tell the magistrates that within a little time they must expect the Gauls . At this story the tribunes mocked and jested . And a little while after , Camillus suffered his disgrace ."
+    },
+    {
+      "id": "15.1",
+      "label": "Section 15.1",
+      "chapter": null,
+      "original": "οἱ δὲ Γαλάται τοῦ Κελτικοῦ γένους ὄντες ὑπὸ πλήθους λέγονται τὴν αὑτῶν ἀπολιπόντες , οὐκ οὖσαν αὐτάρκη τρέφειν ἅπαντας , ἐπὶ γῆς ζήτησιν ἑτέρας ὁρμῆσαι · μυριάδες δὲ πολλαὶ γενόμενοι νέων ἀνδρῶν καὶ μαχίμων , ἔτι δὲ πλείους παίδων καὶ γυναικῶν ἄγοντες , οἱ μὲν ἐπὶ τὸν βόρειον Ὠκεανὸν ὑπερβαλόντες τὰ Ῥιπαῖα ὄρη ῥυῆναι καὶ τὰ ἔσχατα τῆς Εὐρώπης κατασχεῖν ,",
+      "translation": "The Gauls were of the Celtic stock , and their numbers were such , as it is said , that they abandoned their own country , which was not able to sustain them all , and set out in quest of another . They were many myriads of young warriors , and they took along with them a still greater number of women and children . Some of them crossed the Rhipaean mountains , streamed off towards the northern ocean , and occupied the remotest parts of Europe ;"
+    },
+    {
+      "id": "15.2",
+      "label": "Section 15.2",
+      "chapter": null,
+      "original": "οἱ δὲ μεταξὺ Πυρρήνης ὄρους καὶ τῶν Ἄλπεων ἱδρυθέντες ἐγγὺς Σενώνων καὶ Κελτορίων κατοικεῖν χρόνον πολύν ὀψὲ δʼ οἴνου γευσάμενοι τότε πρῶτον ἐξ Ἰταλίας διακομισθέντος οὕτως ἄρα θαυμάσαι τὸ πόμα καὶ πρὸς τὴν καινότητα τῆς ἡδονῆς ἔκφρονες γενέσθαι πάντες , ὥστε ἀράμενοι τὰ ὅπλα καὶ γενεὰς ἀναλαβόντες ἐπὶ τὰς Ἄλπεις φέρεσθαι καὶ ζητεῖν ἐκείνην τὴν γῆν , ἣ τοιοῦτον καρπὸν ἀναδίδωσι , τὴν δʼ ἄλλην ἄκαρπον ἡγεῖσθαι καὶ ἀνήμερον .",
+      "translation": "others settled between the Pyrenees and the Alps , near the Senones and the Celtorians , and dwelt there a long time . But at last they got a taste of wine , which was then for the first time brought to them from Italy . They admired the drink so much , and were all so beside themselves with the novel pleasure which it gave , that they seized their arms , took along their families , and made off to the Alps , in quest of the land which produced such fruit , considering the rest of the world barren and wild ."
+    },
+    {
+      "id": "16.1",
+      "label": "Section 16.1",
+      "chapter": null,
+      "original": "οἱ δʼ ἐμβαλόντες εὐθὺς ἐκράτουν τῆς χώρας ὅσην τὸ παλαιὸν οἱ Τυρρηνοὶ κατεῖχον , ἀπὸ τῶν Ἄλπεων ἐπʼ ἀμφοτέρας καθήκουσαν τὰς θαλάσσας , ὡς καὶ τοὔνομα μαρτυρεῖ τῷ λόγῳ , τὴν μὲν γὰρ βόρειον θάλατταν Ἀδρίαν καλοῦσιν ἀπὸ Τυρρηνικῆς πόλεως Ἀδρίας , τὴν δὲ πρὸς νότον κεκλιμένην ἄντικρυς Τυρρηνικὸν πέλαγος .",
+      "translation": "The Gauls burst in and straightway mastered all the country which the Tuscans occupied of old , namely , that stretching from the Alps down to both seas , the names of which bear witness to the story . For the northern sea is called Adria , from the Tuscan city of Adria ; the southern is called outright the Tuscan Sea ."
+    },
+    {
+      "id": "16.2",
+      "label": "Section 16.2",
+      "chapter": null,
+      "original": "πᾶσα δʼ ἐστὶ δενδρόφυτος αὕτη καὶ θρέμμασιν εὔβοτος καὶ κατάρρυτος ποταμοῖς . καὶ πόλεις εἶχεν ὀκτωκαίδεκα καλὰς καὶ μεγάλας καὶ κατεσκευασμένας πρός τε χρηματισμὸν ἐργατικῶς καὶ πρὸς δίαιταν πανηγυρικῶς , ἃς οἱ Γαλάται τοὺς Τυρρηνοὺς ἐκβαλόντες αὐτοὶ κατέσχον . ἀλλὰ ταῦτα μὲν ἐπράχθη συχνῷ τινι χρόνῳ πρότερον .",
+      "translation": "This whole country is studded with trees , has excellent pasturage for flocks and herds , and an abundance of rivers . It had also eighteen cities , large and fair , well equipped for profitable commerce and for sumptuous living . These the Gauls took away from the Tuscans and occupied themselves . But this happened long before the time of which I speak ."
+    },
+    {
+      "id": "17.1",
+      "label": "Section 17.1",
+      "chapter": null,
+      "original": "οἱ δὲ Γαλάται τότε πρὸς πόλιν Τυρρηνίδα Κλούσιον στρατεύσαντες ἐπολιόρκουν , οἱ δὲ Κλουσῖνοι καταφυγόντες ἐπὶ τοὺς Ῥωμαίους p.130 ᾐτήσαντο πρέσβεις παρʼ αὐτῶν καὶ γράμματα πρὸς τοὺς βαρβάρους . ἐπέμφθησαν δὲ τοῦ Φαβίων γένους τρεῖς ἄνδρες εὐδόκιμοι καὶ τιμὰς μεγάλας ἔχοντες ἐν τῇ πόλει .",
+      "translation": "At this time the Gauls had marched against the Tuscan city of Clusium and were laying siege to it . The Clusians applied for assistance to the Romans , and begged them to send ambassadors in their behalf with a letter to the Barbarians . So there were sent three men of the Fabian gens who were of great repute and honour in the city ."
+    },
+    {
+      "id": "17.2",
+      "label": "Section 17.2",
+      "chapter": null,
+      "original": "τούτους ἐδέξαντο μὲν οἱ Γαλάται φιλανθρώπως διὰ τὸ τῆς Ῥώμης ὄνομα , καὶ παυσάμενοι τῆς πρὸς τὰ τείχη μάχης εἰς λόγους συνῆλθον . πυνθανομένων δʼ αὐτῶν , ὅ τι παθόντες ὑπὸ Κλουσίνων ἥκοιεν ἐπὶ τὴν πόλιν , γελάσας ὁ βασιλεὺς τῶν Γαλατῶν Βρέννος , ἀδικοῦσιν ἡμᾶς , ἔφη , Κλουσῖνοι γῆν καὶ χώραν ὀλίγην μὲν γεωργεῖν δυνάμενοι , πολλὴν δὲ κατέχειν ἀξιοῦντες καὶ μὴ μεταδιδόντες ἡμῖν ξένοις οὖσι καὶ πολλοῖς καὶ πένησι .",
+      "translation": "The Gauls received them courteously , because of the name of Rome , ceased their attacks upon the city walls , and held conference with them . When they were asked what wrong they had suffered at the hands of the Clusians that they had come up against their city , Brennus , the king of the Gauls , burst into a laugh and said : The Clusians wrong us in that , being able to till only a small parcel of earth , they yet are bent on holding a large one , and will not share it with us , who are strangers , many in number and poor ."
+    },
+    {
+      "id": "18.1",
+      "label": "Section 18.1",
+      "chapter": null,
+      "original": "ἐν δὲ Ῥώμῃ τῆς βουλῆς συναχθείσης ἄλλοι τε πολλοὶ τοῦ Φαβίου κατηγόρουν , καὶ τῶν ἱερέων οἱ καλούμενοι Φητιαλεῖς ἐνῆγον ἐπιθειάζοντες καὶ κελεύοντες τὸ τῶν πεπραγμένων ἄγος τήν σύγκλητον εἰς ἕνα τὸν αἴτιον τρέψασαν ὑπὲρ τῶν ἄλλων ἀφοσιώσασθαι . τούτους τοὺς Φητιαλεῖς Πομπίλιος Νομᾶς , βασιλέων ἡμερώτατος γενόμενος καὶ δικαιότατος , κατέστησε φύλακας μὲν εἰρήνης , ἐπιγνώμονας δὲ καὶ βεβαιωτὰς αἰτιῶν , αἳ σὺν δίκῃ πόλεμον συνάπτουσι . p.134",
+      "translation": "When the Senate convened in Rome , many denounced the Fabii , and especially the priests called Fetiales were instant in calling upon the Senate in the name of all the gods to turn the curse of what had been done upon the one guilty man , and so to make expiation for the rest . These Fetiales were instituted by Numa Pompilius , gentlest and justest of kings , to be the guardians of peace , as well as judges and determiners of the grounds on which war could justly be made ."
+    },
+    {
+      "id": "18.2",
+      "label": "Section 18.2",
+      "chapter": null,
+      "original": "τῆς δὲ βουλῆς ἐπὶ τὸν δῆμον ἀνενεγκαμένης τὸ πρᾶγμα καὶ τῶν ἱερέων ὅμοια τοῦ Φαβίου κατηγορούντων , οὕτω περιύβρισαν οἱ πολλοὶ τὰ θεῖα καὶ κατεγέλασαν , ὥστε καὶ χιλίαρχον ἀποδεῖξαι τὸν Φάβιον μετὰ τῶν ἀδελφῶν , οἱ δὲ Κελτοὶ πυθόμενοι ταῦτα καὶ χαλεπῶς φέροντες οὐδὲν ἐμποδὼν ἐποιοῦντο τῆς σπουδῆς , ἀλλʼ",
+      "translation": "The Senate referred the matter to the people , and although the priests with one accord denounced Fabius , the multitude so scorned and mocked at religion as to appoint him military tribune , along with his brothers . The Gauls , on learning this , were wroth , and suffered nothing to impede their haste , but advanced with all speed ."
+    },
+    {
+      "id": "19.1",
+      "label": "Section 19.1",
+      "chapter": null,
+      "original": "ἐγένετο δʼ ἡ μάχη μετὰ τροπὰς θερινὰς περὶ τήν πανσέληνον , ᾗ καὶ πρότερον ἡμέρᾳ μέγα πάθος συνέβη τὸ περὶ τοὺς Φαβίους · τριακόσιοι γὰρ ἐκ τοῦ γένους ἄνδρες ὑπὸ Τυρρηνῶν ἀνῃρέθησαν . ἐκράτησε δὲ τήν ἡμέραν ἀπὸ τῆς δευτέρας ἥττης Ἀλιάδα μέχρι νῦν καλεῖσθαι διὰ τὸν ποταμόν . περὶ δʼ ἡμερῶν ἀποφράδων εἴτε χρὴ τίθεσθαί paris.1624.138 τινας , εἴτε ὀρθῶς Ἡράκλειτος ἐπέπληξεν Ἡσιόδῳ τὰς μὲν ἀγαθὰς ποιουμένῳ , τὰς δὲ φαύλας , ὡς ἀγνοοῦντι φύσιν ἡμέρας ἁπάσης μίαν οὖσαν , ἑτέρωθι διηπόρηται .",
+      "translation": "The battle [*] took place just after the summer solstice when the moon was near the full , on the very day of a former great disaster , when three hundred men of the Fabian gens had been cut to pieces by the Tuscans . But the second defeat was so much the worse that the day on which it fell is called down to the present time dies Alliensis , from the river . Now concerning dies nefasti , or unlucky days , whether we must regard some as such , or whether Heracleitus was right in rebuking Hesiod for calling some days good and some bad , in his ignorance that the nature of every day is one and the same ,— this question has been fully discussed elsewhere ."
+    },
+    {
+      "id": "19.2",
+      "label": "Section 19.2",
+      "chapter": null,
+      "original": "τῇ δʼ ὑποκειμένῃ γραφῇ τὸ μνημονεῦσαι παραδειγμάτων ὀλίγων ἴσως ἂν p.138 ἁρμόσειε . τοῦτο μὲν τοίνυν Βοιωτοῖς Ἱπποδρομίου μηνός , ὡς δʼ Ἀθηναῖοι καλοῦσιν Ἑκατομβαιῶνος , ἱσταμένου πέμπτῃ δύο λαβεῖν συνέβη νίκας ἐπιφανεστάτας , αἷς τοὺς Ἕλληνας ἠλευθέρωσαν , τήν τε περὶ Λεῦκτρα καὶ τήν ἐπὶ Κερησσῷ ταύτης πρότερον ἔτεσι πλείοσιν ἢ διακοσίοις , ὅτε Λατταμύαν καὶ Θεσσαλοὺς ἐνίκησαν .",
+      "translation": "Still , even in what I am now writing , the mention of a few examples may not be amiss . To begin with , then , it was on the fifth day of the month of Hippodromius ( which the Athenians call Hecatombaeon ) that the Boeotians won two illustrious victories which set the Greeks free : that at Leuctra , and that at Ceressus more than two hundred years earlier , when they conquered Lattamyas and the Thessalians ."
+    },
+    {
+      "id": "20.1",
+      "label": "Section 20.1",
+      "chapter": null,
+      "original": "μετὰ δὲ τὴν μάχην ἐκείνην εἰ μὲν εὐθὺς ἐπηκολούθησαν οἱ Γαλάται τοῖς φεύγουσιν , οὐδὲν ἂν ἐκώλυσε τὴν Ῥώμην ἄρδην ἀναιρεθῆναι καὶ πάντας ἀπολέσθαι τοὺς ἐν αὐτῇ καταλειφθέντας · τοσοῦτον οἱ φεύγοντες ἐνειργάζοντο δεῖμα τοῖς ὑποδεχομένοις , καὶ τοσαύτης πάλιν ἐνεπίμπλαντο ταραχῆς καὶ παραφροσύνης .",
+      "translation": "Now had the Gauls , after this battle , followed hard upon the fugitives , naught would have hindered Rome from being utterly destroyed and all those who remained in her from perishing , such was the terror which the fugitives infused into the occupants of the city , and with such confusion and delirium were they themselves once more filled ."
+    },
+    {
+      "id": "20.2",
+      "label": "Section 20.2",
+      "chapter": null,
+      "original": "νυνὶ δʼ ἀπιστίᾳ τοῦ μεγέθους οἱ βάρβαροι τῆς νίκης καὶ πρὸς p.142 εὐπάθειαν ἐκ τοῦ περιχαροῦς ἅμα καὶ νεμήσεις τῶν ἑαλωκότων ἐν τῷ στρατοπέδῳ χρημάτων τραπόμενοι , τῷ μὲν ἐκπίπτοντι τῆς πόλεως ὄχλῳ ῥᾳστώνην φυγῆς παρέσχον , ἐλπίσαι δʼ ἔτι καὶ παρασκευάσασθαι τοῖς ὑπομένουσι τὴν γὰρ ἄλλην πόλιν προέμενοι τὸ Καπιτώλιον ἐφράξαντο βέλεσι καὶ διατειχίσμασιν .",
+      "translation": "But as it was , the Barbarians could not realize the magnitude of their victory , and in the excess of their joy , turned to revelry and the distribution of the good things captured in their enemy ’ s camp . For this reason the throngs who were for abandoning the city had ample time for flight , and those who were for remaining plucked up hope and prepared to defend themselves . Abandoning the rest of the city , they fenced the Capitol with ramparts and stocked it with missiles ."
+    },
+    {
+      "id": "21.1",
+      "label": "Section 21.1",
+      "chapter": null,
+      "original": "τὰ δὲ κυριώτατα καὶ μέγιστα τῶν ἱερῶν αὗται λαβοῦσαι φυγῇ παρὰ τὸν ποταμὸν ἐποιοῦντο τὴν ἀποχώρησιν . ἐνταῦθα Λεύκιος Ἀλβίνιος [*] ἀνὴρ δημοτικὸς ἐν τοῖς φεύγουσιν ἔτυχε τέκνα νήπια καὶ γυναῖκα μετὰ χρημάτων ἀναγκαίων ἐφʼ ἁμάξης ὑπεκκομίζων . ὡς δʼ εἶδε τὰς παρθένους ἐν τοῖς κόλποις φερούσας τὰ τῶν θεῶν ἱερά θεραπείας ἐρήμους παραπορευομένας καὶ κακοπαθούσας , ταχὺ τὴν γυναῖκα μετὰ τῶν παίδων καὶ τῶν χρημάτων καθελὼν ἀπὸ τῆς ἁμάξης ἐκείναις παρέδωκεν ἐπιβῆναι καὶ p.146 διαφυγεῖν εἴς τινα τῶν Ἑλληνίδων πόλεων .",
+      "translation": "However that may be , these virgins took the choicest and most important of the sacred objects and fled away along the river . There it chanced that Lucius Albinius , a man of the common people , was among the fugitives , carrying off his wife and little children , with the most necessary household goods , upon a waggon . When he saw the virgins with the sacred symbols of the gods in their bosoms , making their way along unattended and in great distress , he speedily took his wife , with the children and the household goods , down from the waggon , and suffered the virgins to mount upon it and make their escape to a Greek city ."
+    },
+    {
+      "id": "21.2",
+      "label": "Section 21.2",
+      "chapter": null,
+      "original": "τὴν μὲν οὖν Ἀλβινίου πρὸς τὸ θεῖον εὐλάβειαν καὶ τιμὴν ἐν τοῖς ἐπισφαλεστάτοις καιροῖς ἐκφανῆ γενομένην οὐκ ἄξιον ἦν ἀμνημόνευτον παρελθεῖν . οἱ δὲ τῶν ἄλλων θεῶν ἱερεῖς οἵ τε γηραιοὶ τῶν ὑπατικῶν καὶ θριαμβικῶν ἀνδρῶν τὴν μὲν πόλιν ἐκλιπεῖν οὐχ ὑπέμειναν , ἱερὰς δὲ καὶ λαμπρὰς ἀναλαβόντες ἐσθῆτας , ἐξηγουμένου Φαβίου τοῦ ἀρχιερέως , ἐπευξάμενοι τοῖς θεοῖς , ὡς ἑαυτοὺς ὑπὲρ τῆς πατρίδος τῷ δαίμονι καθιεροῦντες , ἐπὶ τῶν ἐλεφαντίνων δίφρων ἐν ἀγορᾷ ἐκάθηντο [*] κεκοσμημένοι , τὴν ἐπιοῦσαν τύχην ὑπομένοντες .",
+      "translation": "This pious act of Albinius , and the conspicuous honour which he showed the gods in a season of the greatest danger , could not well be passed over in silence . But the priests of the other gods , and the aged men who had been consuls and celebrated triumphs , could not endure to leave the city . So they put on their robes of state and ceremony , following the lead of Fabius , the pontifex maximus , and vowed the gods that they would devote themselves to death in their country ’ s behalf . Then they sat themselves down , thus arrayed , on their ivory chairs in the forum , and awaited their fate ."
+    },
+    {
+      "id": "22.1",
+      "label": "Section 22.1",
+      "chapter": null,
+      "original": "τρίτῃ δʼ ἀπὸ τῆς μάχης ἡμέρᾳ παρῆν ὁ Βρέννος ἄγων ἐπὶ τὴν πόλιν τὸ στράτευμα · καὶ τάς τε πύλας εὑρὼν ἀνεῳγμένας καὶ τὰ τείχη φυλάκων ἔρημα , πρῶτον μὲν ἔδεισεν ἐνέδραν καὶ δόλον , ἀπιστῶν οὕτω παντάπασιν ἀπειρηκέναι τοὺς Ῥωμαίους , ἐπεὶ δʼ ἔγνω τὸ ἀληθές , εἰσελάσας διὰ τῆς Κολλίνης πύλης εἷλε τὴν Ῥώμην ἑξήκοντα καὶ τριακοσίων ἐτῶν πλείονα βραχὺ χρόνον ἀπὸ τῆς κτίσεως ἔχουσαν , εἴ τῳ πιστόν ἀποσῴζεσθαί τινα τῶν χρόνων ἀκρίβειαν , οἷς καὶ περὶ νεωτέρων ἄλλων ἀμφισβήτησιν ἡ σύγχυσις ἐκείνη παρέσχε .",
+      "translation": "On the third day after the battle , Brennus came up to the city with his army . Finding its gates open and its walls without defenders , at first he feared a treacherous ambush , being unable to believe that the Romans were in such utter despair . But when he realised the truth , he marched in by the Colline gate , and took Rome . This was a little more than three hundred and sixty years from her foundation , if one can believe that any accurate chronology has been preserved in this matter , when that of even later events is disputed , owing to the confusion caused by this very disaster ."
+    },
+    {
+      "id": "22.2",
+      "label": "Section 22.2",
+      "chapter": null,
+      "original": "τοῦ μέντοι πάθους αὐτοῦ καὶ τῆς ἁλώσεως ἔοικεν ἀμυδρά τις εὐθὺς εἰς τὴν Ἑλλάδα φήμη διελθεῖν . Ἡρακλείδης γὰρ paris.1624.140 ὁ Ποντικὸς οὐ πολὺ τῶν χρόνων ἐκείνων ἀπολειπόμενος ἐν τῷ Περὶ ψυχῆς συγγράμματί φησιν ἀπὸ τῆς ἑσπέρας λόγον κατασχεῖν , ὡς στρατὸς ἐξ Ὑπερβορέων ἐλθὼν ἔξωθεν ᾑρήκοι πόλιν Ἑλληνίδα Ῥώμην , ἐκεῖ που κατῳκημένην περὶ p.148 τὴν μεγάλην θάλασσαν .",
+      "translation": "However , it would seem that some vague tidings of the calamity and capture of the city made their way at once to Greece . For Heracleides Ponticus , who lived not long after that time , in his treatise On the soul , says that out of the West a story prevailed , how an army of Hyperboreans had come from afar and captured a Greek city called Rome , situated somewhere on the shores of the Great Sea ."
+    },
+    {
+      "id": "23.1",
+      "label": "Section 23.1",
+      "chapter": null,
+      "original": "τῆς δὲ πολιορκίας μῆκος λαμβανούσης ἐπισιτισμοῦ τοῖς Γαλάταις ἔδει · καὶ διελόντες ἑαυτοὺς οἱ μὲν τῷ βασιλεῖ παραμένοντες ἐφρούρουν τὸ Καπιτώλιον , οἱ δὲ τὴν χώραν περιιόντες ἐλεηλάτουν καὶ τὰς κώμας ἐπόρθουν προσπίπτοντες , οὐχ ὁμοῦ πάντες , ἄλλοι δʼ ἄλλῃ καθʼ ἡγεμονίας καὶ συντάγματα , τῷ μέγα φρονεῖν ὑπὸ τῶν εὐτυχημάτων καὶ δεδιέναι μηδὲν ἀποσκιδνάμενοι .",
+      "translation": "The siege lasted a long time , and the Gauls began to lack provisions . They therefore divided their forces . Some remained with their king and watched the Capitol , others ravaged the country round about , falling upon the villages and sacking them , not all together in one body , hut scattered about by commands and companies , some here , some there , moved by their successes to great confidence and the fear of nothing ."
+    },
+    {
+      "id": "23.2",
+      "label": "Section 23.2",
+      "chapter": null,
+      "original": "τὸ δὲ πλεῖστον αὐτῶν καὶ μάλιστα συντεταγμένον ἐχώρει πρὸς τὴν Ἀρδεατῶν πόλιν , ἐν ᾗ διέτριβε Κάμιλλος ἀργῶν ταῖς πράξεσι μετὰ τὴν φυγὴν καὶ ἰδιωτεύων , ἐλπίδας δὲ λαμβάνων καὶ διαλογισμοὺς οὐχὶ τὸ λαθεῖν καὶ διαφυγεῖν τοὺς πολεμίους ἀγαπῶντος ἀνδρός , ἀλλʼ ὅπως , εἰ παραγένοιτο καιρὸς , ἀμυνεῖται σκοποῦντος .",
+      "translation": "The largest and best disciplined body of them marched upon the city of Ardea , where Camillus was staying since his exile . He lived in complete retirement and privacy , it is true , but cherished the hopes and plans not of a man who eagerly desired to escape the notice and hands of the enemy , but of one who sought to avenge himself upon them if occasion offered ."
+    },
+    {
+      "id": "24.1",
+      "label": "Section 24.1",
+      "chapter": null,
+      "original": "ἡ δὲ φήμη ταχὺ διαγγέλλουσα τὴν πρᾶξιν ἐπὶ τὰς πόλεις ἐξεκαλεῖτο πολλοὺς τῶν ἐν ἡλικίᾳ συνισταμένους , μάλιστα δὲ Ῥωμαίων ὅσοι διαφυγόντες ἐκ τῆς ἐπʼ Ἀλίᾳ μάχης ἐν Οὐηΐοις ἦσαν καὶ ὠδύροντο κατὰ σφᾶς αὐτούς , p.154 οἷον ἡγεμόνα τῆς Ῥώμης ὁ δαίμων ἀφελόμενος Ἀρδεάτας ἐκόσμησε τοῖς Καμίλλου κατορθώμασιν , ἡ δὲ γειναμένη καὶ θρέψασα τοιοῦτον ἄνδρα πόλις οἴχεται καὶ ἀπόλωλεν .",
+      "translation": "Rumour quickly carried news of this exploit to the neighbouring cities , and called to arms many of those who were of age for service , particularly the Romans who had made their escape from the battle on the Allia , and were in Veii . These lamented among themselves , saying : Of what a leader has heaven robbed Rome in Camillus , only to adorn Ardea with his victories ! The city which bore and reared such a hero is dead and gone ,"
+    },
+    {
+      "id": "24.2",
+      "label": "Section 24.2",
+      "chapter": null,
+      "original": "ἡμεῖς δʼ ἀπορίᾳ στρατηγῶν ἀλλότρια τείχη περιβαλόμενοι καθήμεθα προέμενοι τὴν Ἰταλίαν . φέρε , πέμψαντες Ἀρδεάτας ἀπαιτῶμεν τὸν ἑαυτῶν στρατηγόν , ἢ λαβόντες αὐτοὶ τὰ ὅπλα πρὸς ἐκεῖνον βαδίζωμεν οὐκέτι γάρ ἐστι φυγὰς οὐδʼ ἡμεῖς πολῖται πατρίδος οὐκ οὔσης , ἀλλὰ κρατουμένης ὑπὸ τῶν πολεμίων . ταῦτʼ ἔδοξε καὶ πέμψαντες ἐδέοντο τοῦ Καμίλλου δέχεσθαι τὴν ἀρχήν .",
+      "translation": "and we , for lack of generals , sit pent up within alien walls , and see Italy ruined before our very eyes . Come ! let us send to Ardea and demand our own general , or take our arms and go ourselves to him ! For he is no longer an exile , nor are we citizens , now that our country is no more , but is mastered by the enemy . So said , so done , and they sent and asked Camillus to take the command ."
+    },
+    {
+      "id": "25.1",
+      "label": "Section 25.1",
+      "chapter": null,
+      "original": "ἦν δέ τις ἐν τοῖς νέοις Πόντιος Κομίνιος , τῶν μέσων κατὰ γένος πολιτῶν , δόξης δὲ καὶ τιμῆς ἐραστής · οὗτος ὑπέστη τόν ἆθλον ἑκούσιος . καὶ γράμματα μὲν οὐκ ἔλαβε πρὸς τοὺς ἐν τῷ Καπιτωλίῳ , μὴ ληφθέντος αὐτοῦ φωράσωσιν οἱ πολέμιοι διʼ αὐτῶν τοῦ Καμίλλου τήν διάνοιαν , ἐσθῆτα δὲ φαύλην ἔχων καὶ φελλοὺς ὑπʼ αὐτῇ κομίζων τήν μὲν ἄλλην ὁδὸν ἡμέρας ἀδεῶς διῆλθεν , ἐγγὺς δὲ τῆς πόλεως p.156 γενόμενος ἤδη σκοταῖος , ἐπεὶ κατὰ γέφυραν οὐκ ἦν τόν ποταμὸν περᾶσαι τῶν βαρβάρων παραφυλαττόντων ,",
+      "translation": "But there was a certain young man , Pontius Cominius by name , who was , in spite of his ordinary birth , a lover of glory and honour . He volunteered to attempt the task . He took no letter with him to the defenders of the Capitol , lest this , in the event of his capture , should help the enemy to discover the purpose of Camillus ; but under the coarse garments which he wore , he carried some pieces of cork . The greater part of his journey was made by daylight and without fear ; but as night came on he found himself near the city . He could not cross the river by the bridge , since the Barbarians were guarding it ,"
+    },
+    {
+      "id": "25.2",
+      "label": "Section 25.2",
+      "chapter": null,
+      "original": "τήν μὲν ἐσθῆτα τῇ κεφαλῇ περισπειράσας οὐ πολλὴν οὐδὲ βαρεῖαν , τοῖς δὲ φελλοῖς ἐφεὶς τὸ σῶμα καὶ συνεπικουφίζων τῷ [*] περαιοῦσθαι πρὸς τήν πόλιν ἐξέβη . καὶ παραλλάττων ἀεὶ τοὺς ἐγρηγορότας , τοῖς φέγγεσι καὶ τῷ θορύβῳ τεκμαιρόμενος , ἐβάδιζε πρὸς τὴν Καρμεντίδα πύλην , ἣ πλείστην εἶχεν ἡσυχίαν , καὶ μάλιστα κατʼ αὐτὴν ὄρθιος ὁ τοῦ Καπιτωλίου λόφος ἀνέστηκε καὶ πέτρα κύκλῳ πολλὴ καὶ τραχεῖα περιπέφυκε · διʼ ἧς ἀνέβη λαθὼν καὶ προσέμιξε τοῖς φυλάττουσι τὸ διατείχισμα χαλεπῶς καὶ μόλις κατὰ τὸ λαγαρώτατον .",
+      "translation": "so he wrapped his light and scanty garments about his head , fastened the corks to his body , and thus supported , swam across , came out on the other side , and went on towards the city . Always giving a wide berth to those of the enemy who were watchful and wakeful , as he judged by their fires and noise , he made his way to the Carmental gate , where there was the most quiet , at which the Capitoline hill was most sheer and steep , and which was girt about by a huge and jagged cliff . Up this he mounted unperceived , and finally reached , with great pains and difficulty , the sentries posted where the wall was lowest ."
+    },
+    {
+      "id": "26.1",
+      "label": "Section 26.1",
+      "chapter": null,
+      "original": "ἐκείνων δὲ δεξαμένων προθύμως ἀφικόμενος ὁ Κάμιλλος ἤδη μὲν ἐν ὅπλοις δισμυρίους κατέλαβε , πλείονας δὲ συνῆγεν ἀπὸ τῶν p.158 συμμάχων καὶ παρεσκευάζετο πρὸς τὴν ἐπίθεσιν . οὕτω μὲν ᾑρέθη δικτάτωρ ὁ Κάμιλλος τὸ δεύτερον καὶ πορευθεὶς εἰς Οὐηΐους ἐνέτυχε τοῖς στρατιώταις καὶ συνῆγε πλείους ἀπὸ τῶν συμμάχων ὡς ἐπιθησόμενος τοῖς πολεμίοις . [*] ἐν δὲ τῇ Ῥώμῃ τῶν βαρβάρων τινὲς ἐκείνῃ κατὰ τύχην παρεξιόντες , ᾗ διὰ νυκτὸς ὁ Πόντιος προσέβη τῷ Καπιτωλίῳ , καταμαθόντες πολλαχῇ μὲν ἴχνη ποδῶν καὶ χειρῶν , ὡς ἀντελαμβάνετο καὶ περιεδράττετο , πολλαχῇ δὲ τῶν ἐπιπεφυκότων τοῖς κρημνοῖς ἀποτριβὰς καὶ περιολισθήσεις τῶν γεωδῶν , φράζουσι τῷ βασιλεῖ .",
+      "translation": "These gave eager welcome to the tidings , so that when Camillus came , he found twenty thousand men already under arms . He collected still more from the allies , and made preparations for his attack . Thus Camillus was chosen dictator for the second time , and proceeding to Veii , he put himself at the head of the soldiers there , and collected more from the allies , with the purpose of attacking the enemy . But in Rome , some of the Barbarians chanced to pass by the spot where Pontius had made his way by night up to the Capitol , and noticed in many places the marks made by his hands and feet in clambering up , and many places also where the plants that grew upon the rocks had been torn away , and the earth displaced . They advised their king of this , and he too came and made inspection ."
+    },
+    {
+      "id": "26.2",
+      "label": "Section 26.2",
+      "chapter": null,
+      "original": "κἀκεῖνος ἐπελθὼν καὶ θεασάμενος τότε μὲν ἡσύχαζεν , ἑσπέρας δὲ τοὺς ἐλαφροτάτους τοῖς σώμασι καὶ πεφυκότας ὀρειβατεῖν μάλιστα τῶν Κελτῶν συναγαγών , Τὴν μὲν ὁδόν , εἶπεν , ἡμῖν ἐφʼ ἑαυτοὺς ἀγνοουμένην οἱ πολέμιοι δεικνύουσιν ὡς οὔτʼ ἀπόρευτος οὔτε ἄβατος ἀνθρώποις ἐστίν , αἰσχύνη δὲ πολλὴ τὴν ἀρχὴν ἔχοντας ἐλλείπειν πρὸς τὸ τέλος καὶ προέσθαι τὸν τόπον ὡς ἀνάλωτον , αὐτῶν τῶν πολεμίων ᾗ ληπτός ἐστι διδασκόντων , ᾗ γὰρ ἑνὶ προσβῆναι ῥᾴδιον , οὐδὲ πολλοῖς καθʼ ἕνα δύσκολον , ἀλλὰ καὶ ῥώμη καὶ βοήθεια πολλὴ μετʼ ἀλλήλων ἐπιχειροῦσι . δωρεαὶ δὲ καὶ τιμαὶ πρέπουσαι τῆς ἀνδραγαθίας ἑκάστῳ δοθήσονται .",
+      "translation": "At the time he said nothing , but when evening came , he assembled the nimblest men and the best mountain-climbers of the Gauls and said to them : The enemy have shown us that there is a way up to them of which we knew not , and one which men can traverse and tread . It would be a great shame for us , after such a beginning as we have made , to fail at the end , and to give the place up as impregnable , when the enemy themselves show us where it can be taken . For where it is easy for one man to approach it , there it will be no difficult matter for many to go one by one , nay , they will support and aid one another greatly in the undertaking . Gifts and honours befitting his valour shall be given to every man ."
+    },
+    {
+      "id": "27.1",
+      "label": "Section 27.1",
+      "chapter": null,
+      "original": "τοιαῦτα τοῦ βασιλέως διαλεχθέντος ὑπέστησαν οἱ Γαλάται προθύμως , καὶ περὶ μέσας νύκτας ἐπιβάντες ἅμα πολλοὶ τῆς πέτρας p.160 ἐχώρουν ἄνω μετὰ σιωπῆς , ἐμφυόμενοι τοῖς χωρίοις ἀποτόμοις οὖσι καὶ χαλεποῖς , οὐ μὴν ἀλλὰ μᾶλλον ἢ προσεδοκήθη πειρωμένων αὐτῶν προσιεμένοις καὶ παρείκουσιν ,",
+      "translation": "So spake their king , and the Gauls eagerly undertook to do his will . About midnight a large band of them scaled the cliff and made their way upward in silence . They climbed on all fours over places which were precipitous and rough , but which yielded to their efforts better than they had expected ,"
+    },
+    {
+      "id": "27.2",
+      "label": "Section 27.2",
+      "chapter": null,
+      "original": "ὥστε τοὺς πρώτους ἁψαμένους τῶν ἄκρων καὶ διασκευασαμένους ὅσον οὐκ ἤδη τοῦ προτειχίσματος ἅπτεσθαι καὶ τοῖς φύλαξιν ἐπιχειρεῖν κοιμωμένοις · ᾔσθετο γὰρ οὔτʼ ἄνθρωπος οὔτε κύων . ἀλλὰ χῆνες ἦσαν ἱεροὶ περὶ τὸν νεὼν τῆς Ἥρας τρεφόμενοι τὸν ἄλλον χρόνον ἀφθόνως , τότε δὲ τῶν σιτίων ἤδη γλίσχρως καὶ μόλις αὐτοῖς διαρκούντων ἀμελούμενοι κακῶς ἔπραττον .",
+      "translation": "until the foremost of them reached the heights , put themselves in array , and had all but seized the outwork and fallen upon the sleeping watch . Neither man nor dog was aware of their approach . But there were some sacred geese near the temple of Juno , which were usually fed without stint , but at that time , since provisions barely sufficed for the garrison alone , they were neglected and in evil plight ."
+    },
+    {
+      "id": "28.1",
+      "label": "Section 28.1",
+      "chapter": null,
+      "original": "ἐκ τούτου τὰ τῶν Κελτῶν ἦν ἀθυμότερα . καὶ γὰρ ἐπιτηδείων ἐσπάνιζον εἰργόμενοι προνομῆς φόβῳ τοῦ Καμίλλου , καὶ νόσος ὑποικούρησεν αὐτοὺς ἐν νεκρῶν πλήθει χύδην καταβεβλημένων σκηνοῦντας ἐν ἐρειπίοις , τό τε βάθος τῆς τέφρας ἀέρα ξηρότητι καὶ δριμύτητι φαῦλον ὑπὸ πνευμάτων καὶ καυμάτων ἀναθυμιώσης ἐλυμαίνετο τὰ σώματα διὰ τῆς ἀναπνοῆς .",
+      "translation": "After this , the case of the Gauls was less hopeful . They lacked provisions , being shut off from foraging through fear of Camillus , and disease lurked among them . They were encamped amid ruins , where a multitude of corpses had been cast at random , and besides , an air made dry and acrid by vast quantities of ashes which wind and heat sent flying abroad , made breathing hurtful ."
+    },
+    {
+      "id": "28.2",
+      "label": "Section 28.2",
+      "chapter": null,
+      "original": "μάλιστα δʼ ἡ μεταβολὴ τῆς συντρόφου διαίτης ἐκ τόπων σκιερῶν καὶ θέρους καταφυγὰς ἀλύπους ἐχόντων ἐμβαλόντας εἰς χώραν ταπεινὴν καὶ κεκραμένην ἀφυῶς πρὸς τὸ μετόπωρον ἐκίνησεν αὐτούς , ἥ τε πρὸς τῷ Καπιτωλίῳ καθέδρα καὶ σχολὴ γενομένη χρόνιος , ἕβδομον γὰρ ἐκεῖνον οἱκούρουν μῆνα πολιορκοῦντες . ὥστε φθορὰν εἶναι πολλὴν ἐν τῷ στρατοπέδῳ καὶ μηδὲ θάπτεσθαι διὰ πλῆθος ἔτι τοὺς ἀποθνῄσκοντας .",
+      "translation": "But what most of all affected them was the complete change in their mode of life . They had come all at once from regions of shade , where easy refuge could be had from the heats of summer , into a land which was low lying and had an unnatural climate towards autumn . Then there was their long and idle sitting down before the Capitol ,— they were now whiling away the seventh month in its siege . For all these reasons the mortality was great in their camp ; so many were the dead that they could no longer be buried ."
+    },
+    {
+      "id": "29.1",
+      "label": "Section 29.1",
+      "chapter": null,
+      "original": "οὔσης δὲ περὶ τούτων πρός τε τοὺς Κελτοὺς καὶ πρὸς αὑτοὺς [*] διαφορᾶς ἄγων τὸν στρατὸν ὁ Κάμιλλος ἐν ταῖς πύλαις ἦν · καὶ πυθόμενος τὰ γινόμενα τοὺς ἄλλους ἐκέλευσεν ἐν τάξει καὶ σχέδην ἐπακολουθεῖν , αὐτὸς δὲ μετὰ p.166 τῶν ἀρίστων ἐπειγόμενος εὐθὺς ἐπορεύετο πρὸς τοὺς Ῥωμαίους .",
+      "translation": "While they were thus at odds in the matter , both with the Gauls and with themselves , Camillus led his army up to the gates of the city . On learning what was going on , he ordered the rest of his army to follow in battle array and deliberately , while he himself , with the flower of his men , pressed on , and presently came to the Romans ."
+    },
+    {
+      "id": "29.2",
+      "label": "Section 29.2",
+      "chapter": null,
+      "original": "διαστάντων δὲ πάντων καὶ δεξαμένων αὐτόν ὡς αὐτοκράτορα κόσμῳ καὶ σιωπῇ , τὸ μὲν χρυσίον ἄρας ἀπὸ τοῦ ζυγοῦ τοῖς ὑπηρέταις ἔδωκε , τὸν δὲ ζυγὸν καὶ τὰ σταθμὰ τοὺς Κελτοὺς λαβόντας ἀποχωρεῖν ἐκέλευσεν εἰπὼν , ὡς σιδήρῳ πάτριόν ἐστι Ῥωμαίοις , οὐ χρυσῷ τὴν πατρίδα σῴζειν . ἀγανακτοῦντος δὲ τοῦ Βρέννου καὶ φάσκοντος ἀδικεῖσθαι λυομένης τῆς ὁμολογίας , ἀντεῖπε μὴ νομίμως γεγονέναι μηδὲ κυρίας εἶναι τὰς συνθήκας ·",
+      "translation": "These all made way for him , in decorous silence acknowledging him as their dictator . Thereupon he lifted the gold from the scales and gave it to his attendants , and then ordered the Gauls to take their scales and weights and be off , saying that it was the custom with the Romans to deliver their city with iron and not with gold . When Brennus in wrath declared that he was wronged by this breaking of the agreement , Camillus answered that the compact was not legally made nor binding ,"
+    },
+    {
+      "id": "30.1",
+      "label": "Section 30.1",
+      "chapter": null,
+      "original": "οὕτω μὲν ἡ Ῥώμη παραλόγως ἥλω καὶ παραλογώτερον ἐσώθη , μῆνας ἑπτὰ τοὺς πάντας ὑπὸ τοῖς βαρβάροις γενομένη , παρελθόντες γὰρ εἰς αὐτὴν ὀλίγαις ἡμέραις ὕστερον τῶν Κυϊντιλίων εἰδῶν περὶ τὰς Φεβρουαρίας εἰδοὺς ἐξέπεσον . ὁ δὲ Κάμιλλος ἐθριάμβευσε μέν , ὡς εἰκὸς ἦν , τὸν ἀπολωλυίας σωτῆρα πατρίδος γενόμενον καὶ κατάγοντα τὴν πόλιν αὐτὴν εἰς ἑαυτήν ·",
+      "translation": "So strangely was Rome taken , and more strangely still delivered , after the Barbarians had held it seven months in all . They entered it a few days after the Ides of July , and were driven out about the Ides of February . Camillus celebrated a triumph , as it was meet that a man should do who had saved a country that was lost , and who now brought the city back again to itself ."
+    },
+    {
+      "id": "30.2",
+      "label": "Section 30.2",
+      "chapter": null,
+      "original": "οἵ τε γὰρ ἔξωθεν ἅμα παισὶ καὶ γυναιξὶν εἰσελαύνοντος αὐτοῦ συγκατῄεσαν , οἵ τε πολιορκηθέντες ἐν τῷ Καπιτωλίῳ , μικροῦ δεήσαντες ἀπολέσθαι διὰ λιμόν , ἀπήντων περιβάλλοντες ἀλλήλους καὶ δακρύοντες ὑπὸ [*] τῆς παρούσης ἡδονῆς , ἱερεῖς τε καὶ ζάκοροι θεῶν , ὅσα φεύγοντες αὐτόθι τῶν ἀβεβήλων ἔκρυψαν ἢ σὺν αὑτοῖς ἐξέκλεψαν , ἀνασωζόμενα [*] κομίζοντες ἐπεδείκνυντο ποθουμένας ὄψεις τοῖς πολίταις δεχομένοις μετὰ χαρᾶς , ὥσπερ αὐτῶν τῶν θεῶν αὖθις εἰς τὴν Ῥώμην συγκατερχομένων ·",
+      "translation": "For the citizens outside , with their wives and children , accompanied his triumphal chariot as it entered the city , and those who had been besieged on the Capitol , and had narrowly escaped death by starvation , came forth to meet them , all embracing one another , and weeping for the joy that was theirs . The priests and ministrants of the gods , bringing whatever sacred objects they had either buried on the spot or carried off with them when they took to flight , displayed them , thus preserved in safety , to the citizens , who caught the welcome sights with delight , believing in their hearts that the gods themselves were now coming back to Rome with them ."
+    },
+    {
+      "id": "31.1",
+      "label": "Section 31.1",
+      "chapter": null,
+      "original": "χαλεπῶς μὲν οὖν καί μόλις αἱ τῶν ἱερῶν ἀνεκαλύπτοντο χῶραι φιλοτιμίᾳ τοῦ Καμίλλου καὶ πόνῳ πολλῷ τῶν ἱεροφαντῶν ὡς δὲ καὶ τήν πόλιν ἀνοικοδομεῖν ἔδει παντάπασι διεφθαρμένην , ἀθυμία πρὸς τὸ ἔργον ἐνέπιπτε τοῖς πολλοῖς καί μέλλησις ἦν ἐστερημένοις ἁπάντων καί τινος ἐν τῷ παρόντι ῥᾳστώνης καί ἀναπαύσεως ἐκ κακῶν δεομένοις μᾶλλον ἢ κάμνειν καί ἀποτρύχειν ἑαυτούς οὔτε χρήμασιν οὔτε σώμασιν ἐρρωμένους .",
+      "translation": "Owing to the zeal of Camillus and the abundant labours of the priesthood , the sites of the temples were at last uncovered , but it proved a grievous undertaking . And since the city had also to be built up again from a state of utter destruction , the multitude were overwhelmed with despair of the task , and shrank from it . They were bereft of all things , and for the present needed some rest and repose after their sufferings , instead of toiling and wearing themselves out on a task for which they had neither means nor strength ."
+    },
+    {
+      "id": "31.2",
+      "label": "Section 31.2",
+      "chapter": null,
+      "original": "οὕτω δὲ ἡσυχῇ πρὸς τοὺς Οὐηΐους αὖθις ἀποστρεφόμενοι , πόλιν ἅπασι κατεσκευασμένην καί διαμένουσαν , ἀρχὰς δημαγωγιῶν ἐνέδοσαν τοῖς πρὸς χάριν εἰθισμένοις ὁμιλεῖν , καί λόγων ἠκροῶντο στασιαστικῶν πρὸς τὸν Κάμιλλον , ὡς ἐκείνου φιλοτιμίας ἕνεκα καί δόξης ἰδίας ἀποστεροῦντος αὐτοὺς πόλεως ἑτοίμης καί βιαζομένου σκηνοῦν ἐρείπια καί πυρκαϊὰν τοσαύτην ἐγείρειν , ὅπως μὴ μόνον ἡγεμὼν Ῥώμης καί στρατηγός , ἀλλὰ καί κτίστης λέγηται παρώσας Ῥωμύλον .",
+      "translation": "And so it was that insensibly their thoughts turned again to Veii , a city which remained intact and was equipped with all things needful . This gave opportunity for mischievous agitations to such as were wont to consult only the people ’ s will and pleasure , and ready ear was given to seditious speeches against Camillus . He had an eye , it was said , only to his own ambition and fame , when he would deprive them of a city that stood ready to receive them , and force them to pitch their tents among a mass of ruins , while they rebuilt what had become a monstrous funeral pyre . He wished not merely to be a leader and general of Rome , but to thrust Romulus to one side and be styled its founder ."
+    },
+    {
+      "id": "32.1",
+      "label": "Section 32.1",
+      "chapter": null,
+      "original": "ἔδοξεν οὖν βουλὴν προθεῖναι τῷ Καμίλλῳ · καὶ πολλὰ μὲν αὐτὸς διεξῆλθε παρακαλῶν ὑπὲρ τῆς πατρίδος , πολλὰ δὲ καὶ τῶν ἄλλων ὁ βουλόμενος τέλος δὲ τὸν πρῶτον εἰωθότα λέγειν γνώμην Λεύκιον Λουκρήτιον ἀναστήσας ἐκέλευσεν ἀποφήνασθαι πρῶτον , εἶτα τοὺς ἄλλους ἐφεξῆς .",
+      "translation": "Accordingly , Camillus decided that the question should be debated and settled in council . He himself spoke at great length , in exhortation to preserve their common country , and every one else who wished did likewise . Finally , he called upon Lucius Lucretius , to whom custom gave the first vote , and bade him declare his opinion first , and then the other senators in the order due ."
+    },
+    {
+      "id": "32.2",
+      "label": "Section 32.2",
+      "chapter": null,
+      "original": "γενομένης δὲ σιωπῆς καὶ τοῦ Λουκρητίου μέλλοντος ἐνάρχεσθαι , κατὰ τύχην ἔξωθεν ἑκατοντάρχης ἄγων τάγμα φυλακῆς ἡμερινῆς παρεπορεύετο , καὶ τὸν φέροντα πρῶτον τὸ σημεῖον μεγάλῃ φωνῇ προσαγορεύσας ἐκέλευσεν αὐτοῦ μένειν καὶ τὸ σημεῖον τίθεσθαι · p.174 κάλλιστα γὰρ ἐνταῦθα καθεδεῖσθαι καὶ μενεῖν . ἅμα δὲ τῷ καιρῷ καὶ τῇ περὶ τοῦ μέλλοντος ἐννοίᾳ , καὶ ἀδηλότητι τῆς φωνῆς γενομένης , ὅ τε Λουκρήτιος ἔφη προσκυνήσας τῷ θεῷ προστίθεσθαι τὴν ἑαυτοῦ γνώμην καὶ τῶν ἄλλων ἕκαστος ἐπηκολούθησε .",
+      "translation": "Silence fell , and Lucretius was on the point of beginning , when it chanced that a centurion with a squad of the day watch passed by outside , and calling with a loud voice on the man who led with the standard , bade him halt and plant his standard there , for that was the best place to settle down and stay in . The utterance fell at the crisis of their anxious thought for the uncertain future , and Lucretius said , with a devout obeisance , that he cast his vote with the god . The rest , one by one , followed his example ."
+    },
+    {
+      "id": "33.1",
+      "label": "Section 33.1",
+      "chapter": null,
+      "original": "οὔπω δὲ τῆς Περὶ ταῦτα πεπαυμένοις ἀσχολίας αὐτοῖς ἐπιπίπτει πόλεμος , Αἰκανῶν μὲν ἅμα καὶ Οὐολούσκων καὶ Λατίνων εἰς τὴν χώραν ἐμβαλλόντων , Τυρρηνῶν δὲ πολιορκούντων Σούτριν , συμμαχίδα Ῥωμαίων πόλιν . ἐπειδὴ δʼ οἱ τὴν ἡγεμονίαν ἔχοντες χιλίαρχοι στρατοπεδευσάμενοι Περὶ τὸ Μάρκιον ὄρος ὑπὸ τῶν Λατίνων ἐπολιορκοῦντο καὶ κινδυνεύοντες ἀποβαλεῖν τὸ στρατόπεδον εἰς Ῥώμην ἔπεμψαν ἀποδείκνυται τὸ τρίτον Κάμιλλος δικτάτωρ ·",
+      "translation": "They were not yet done with these pressing tasks when a fresh war broke upon them . The Aequians , Volscians , and Latins burst into their territory all at once , and the Tuscans laid siege to Sutrium , a city allied with Rome . The military tribunes in command of the army , having encamped near Mount Marcius , were besieged by the Latins , and were in danger of losing their camp . Wherefore they sent to Rome for aid , and Camillus was appointed dictator for the third time ."
+    },
+    {
+      "id": "33.2",
+      "label": "Section 33.2",
+      "chapter": null,
+      "original": "περὶ τούτου τοῦ πολέμου διττοὶ λόγοι λέγονται · δίειμι δὲ τὸν μυθώδη πρότερον . φασὶ τοὺς Λατίνους , εἴτε προφάσει χρωμένους εἴτε βουλομένους ὡς ἀληθῶς ἀναμίξασθαι τὰ γένη πάλιν ἐξ ὑπαρχῆς , πέμψαντας αἰτεῖν παρὰ paris.1624.146 τῶν Ῥωμαίων παρθένους ἐλευθέρας γυναῖκας , ἀπορούντων δὲ τῶν Ῥωμαίων , τί χρὴ ποιεῖν καὶ γὰρ τὸν πόλεμον ὠρρώδουν οὔπω καθεστῶτες οὐδʼ ἀνειληφότες αὑτούς , καὶ τὴν αἴτησιν τῶν γυναικῶν ὑπώπτευον ἐξομήρευσιν εἶναι , τοῦ δʼ εὐπρεποῦς χάριν ἐπιγαμίαν καλεῖσθαι ,",
+      "translation": "Two stories are told about this war , and I will give the fabulous one first . They say that the Latins , either as a pretext for war , or because they really wished to revive the ancient affinity between the two peoples , sent and demanded from the Romans freeborn virgins in marriage . The Romans were in doubt what to do , for they dreaded war in their unsettled and unrestored condition , and yet they suspected that this demand for wives was really a call for hostages disguised under the specious name of intermarriage ."
+    },
+    {
+      "id": "34.1",
+      "label": "Section 34.1",
+      "chapter": null,
+      "original": "τὸν δʼ ἕτερον λόγον οἱ πλεῖστοι τῶν συγγραφέων δοκιμάζοντες οὕτω λέγουσιν . ἀποδειχθεὶς δικτάτωρ τὸ τρίτον ὁ Κάμιλλος καὶ πυθόμενος τὸ μετὰ τῶν χιλιάρχων στράτευμα πολιορκούμενον ὑπὸ τῶν Λατίνων καὶ τῶν Οὐολούσκων , ἠναγκάσθη καὶ τοὺς οὐκ ἐν ὥρᾳ τῶν πολιτῶν , ἀλλʼ ἤδη παρηβηκότας καθοπλίσαι .",
+      "translation": "But most writers adopt the other account of this war , which runs thus . Camillus , having been appointed dictator for the third time , and learning that the army under the military tribunes was besieged by the Latins and Volscians , was forced to put under arms even those of the citizens who were exempt from military duty by reason of advancing years ."
+    },
+    {
+      "id": "34.2",
+      "label": "Section 34.2",
+      "chapter": null,
+      "original": "περιελθὼν δὲ μακρὰν περίοδον περὶ τὸ Μάρκιον ὄρος καὶ λαθὼν τοὺς πολεμίους ἵδρυσε τὴν στρατιὰν κατόπιν αὐτῶν , καὶ πυρὰ πολλὰ καύσας διεσήμηνε τὴν ἑαυτοῦ παρουσίαν . οἱ μὲν οὖν πολιορκούμενοι θαρρήσαντες ἐπιέναι διενοοῦντο καὶ μάχην συνάπτειν ·",
+      "translation": "Fetching a long circuit around Mount Marcius and thus eluding the enemy ’ s notice , he planted his army securely in their rear , and then by lighting many fires made known his presence there . The besieged Romans at once took heart and purposed to sally out and join battle ."
+    },
+    {
+      "id": "35.1",
+      "label": "Section 35.1",
+      "chapter": null,
+      "original": "γεγονότων δὲ τούτων ἀπολιπὼν ἐπὶ τὸν στρατοπέδου τὸν υἱὸν Λεύκιον φύλακα τῶν ἡλωκότων ἀνθρώπων καὶ χρημάτων αὐτός εἰς τὴν τῶν πολεμίων ἐνέβαλε . καὶ τὴν Αἰκανῶν πόλιν ἐξελὼν καὶ προσαγαγόμενος τοὺς Οὐολούσκους εὐθὺς ἦγε τὴν στρατιὰν πρὸς τὸ Σούτριον , οὔπω τὰ συμβεβηκότα τοῖς Σούτριον πεπυσμένος , ἀλλʼ ὡς ἔτι κινδυνεύουσι καὶ πολιορκουμένοις ὑπὸ τῶν Τυρρηνῶν βοηθῆσαι σπεύδων .",
+      "translation": "This business dispatched , he left his son Lucius in command of the camp to guard the captives and the booty , while he himself invaded the enemy ’ s country . He captured the city of the Aequians , brought the Volscians to terms , and straightway led his army towards Sutrium . He was not yet apprised of the fate of the Sutrians , but thought they were still in peril of siege by the Tuscans , and so hastened to relieve them ."
+    },
+    {
+      "id": "35.2",
+      "label": "Section 35.2",
+      "chapter": null,
+      "original": "οἱ δʼ ἔτυχον ἤδη τὴν μὲν πόλιν τοῖς πολεμίοις παραδεδωκότες , αὐτοὶ p.184 δὲ πάντων ἐνδεεῖς ἐν ἱματίοις μόνον ἀφειμένοι · καὶ καθʼ ὁδὸν ὄντι τῷ Καμίλλῳ μετὰ παίδων καὶ γυναικῶν ἀπήντων ὀδυρόμενοι τὰς ἑαυτῶν τύχας . ὁ δὲ Κάμιλλος αὐτός τε πρὸς τὴν ὄψιν ἐπικλασθεὶς καὶ τοὺς Ῥωμαίους ὁρῶν ἐμφυομένων αὐτοῖς τῶν Σουτρίνων δακρύοντας καὶ δυσανασχετοῦντας ἐπὶ τοῖς γεγενημένοις , ἔγνω μὴ ποιεῖσθαι τῆς τιμωρίας ἀναβολήν ,",
+      "translation": "But they had already surrendered their city to the enemy , and been sent off in utter destitution , with nothing but the clothes on their backs . As Camillus came marching along they met him , with their wives and children , all lamenting their misfortunes . Camillus himself was filled with compassion at the sight , and noticed that his Romans too , with the Sutrians hanging upon their necks in supplication , were moved to tears and anger at their lot . He therefore determined to make no postponement of his vengeance ,"
+    },
+    {
+      "id": "36.1",
+      "label": "Section 36.1",
+      "chapter": null,
+      "original": "ὁ δʼ ἀπὸ τούτων θρίαμβος αὐτῷ χάριν οὐκ ἐλάττονα καὶ κόσμον ἤνεγκε τῶν πρώτων δυεῖν . καὶ γὰρ τοὺς πάνυ βασκαίνοντας τῶν πολιτῶν καὶ πάντα βουλομένους εὐτυχίᾳ p.186 τινὶ μᾶλλον ἢ διʼ ἀρετὴν κατωρθῶσθαι , τότʼ ἠνάγκαζον αἱ πράξεις τῇ δεινότητι καὶ τῷ δραστηρίῳ τοῦ ἀνδρὸς ἀποδιδόναι τὴν δόξαν .",
+      "translation": "The triumph decreed him for these victories brought him no less favour and renown than his first two had done , and those citizens who had been most envious of him and preferred to ascribe all his successes to an unbounded good fortune rather than to a native valour , were forced by these new exploits to set the man ’ s glory to the credit of his ability and energy ."
+    },
+    {
+      "id": "36.2",
+      "label": "Section 36.2",
+      "chapter": null,
+      "original": "ἦν δὲ τῶν διαμαχομένων αὐτῷ καὶ προσφθονούντων ἐπιφανέστατος Μᾶρκος Μάλλιος , ὁ πρῶτος ὠσάμενος τοὺς Κελτούς ἀπὸ τῆς ἄκρας ὅτε τῷ Καπιτωλίῳ νυκτὸς [*] ἐπέθεντο καὶ διὰ τοῦτο Καπιτωλῖνος ἐπικληθείς . οὗτος γὰρ ἀξιῶν πρῶτος εἶναι τῶν πολιτῶν καὶ μὴ δυνάμενος τὸν Κάμιλλον ἀπὸ τοῦ βελτίστου τρόπου τῇ δόξῃ παρελθεῖν ,",
+      "translation": "Now of all those who fought him with hatred and envy , the most conspicuous was Marcus Manlius , the man who first thrust the Gauls down the cliff when they made their night attack upon the Capitol , and for this reason had been surnamed Capitolinus . This man aspired to be chief in the city , and since he could not in the fairest way outstrip Camillus in the race for glory ,"
+    },
+    {
+      "id": "37.1",
+      "label": "Section 37.1",
+      "chapter": null,
+      "original": "ὁ δὲ Κάμιλλος ἐπὶ χιλιαρχίαν ἕκτην καλούμενος παρῃτεῖτο , γεγονὼς μὲν ἡλικίας ἤδη πρόσω καί πού τινα καί φθόνον δεδιὼς καί νέμεσιν ἐπὶ δόξῃ τοσαύτῃ καί κατορθώμασιν · ἡ δὲ φανερωτάτη τῶν αἰτιῶν ἦν ἀρρωστία σώματος · ἐτύγχανε γὰρ νοσῶν περὶ τὰς ἡμέρας ἐκείνας .",
+      "translation": "Camillus , called now to be military tribune for the sixth time , declined the honour , being already well on in years , and fearful perhaps of the envy of men and the resentment of the gods which often follows upon such glorious successes as his . But the most manifest reason was his bodily weakness , for it chanced that in those days he was sick ."
+    },
+    {
+      "id": "37.2",
+      "label": "Section 37.2",
+      "chapter": null,
+      "original": "οὐ μὴν π ., ρῆκεν αὐτῷ τὴν ἀρχὴν ὁ δῆμος , ἀλλὰ p.190 βοῶν μήτε ἱππεύοντος αὐτοῦ μήτε ὁπλομαχοῦντος ἐν τοῖς ἀγῶσι δεῖσθαι , βουλευομένου δὲ μόνον καί προστάττοντος , ἠνάγκασεν ὑποστῆναι τὴν στρατηγίαν καί μεθʼ ἑνὸς τῶν συναρχόντων Λευκίου Φουρίου τὸν στρατὸν ἄγειν εὐθὺς ἐπὶ τοὺς πολεμίους . οὗτοι δʼ ἦσαν Πραινεστῖνοι καί Οὐολοῦσκοι μετὰ πολλῆς δυνάμεως τὴν συμμαχίδα τῶν Ῥωμαίων πορθοῦντες .",
+      "translation": "The people , however , would not relieve him of the office . He had no need , they cried , to fight in the ranks of the cavalry or the men-at-arms , but only to counsel and ordain ; and so they forced him to undertake the command , and with one of his colleagues , Lucius Furius , to lead the army at once against the enemy . These were the Praenestines and Volscians , who , with a large force , were laying waste the lands of the Roman allies ."
+    },
+    {
+      "id": "38.1",
+      "label": "Section 38.1",
+      "chapter": null,
+      "original": "ἐπανελθὼν δὲ μετὰ πολλῶν λαφύρων εἰς Ῥώμην ἐπέδειξε φρονιμωτάτους ἁπάντων τοὺς μὴ φοβηθέντας ἀσθένειαν καὶ γῆρας ἡγεμόνος ἐμπειρίαν καὶ τόλμαν ἔχοντος , ἀλλʼ ἑλομένους ἐκεῖνον ἄκοντα καὶ νοσοῦντα μᾶλλον ἢ τῶν ἐν ἡλικίᾳ τοὺς δεομένους καὶ σπουδάζοντας ἄρχειν . διὸ καὶ Τουσκλανῶν ἀφεστάναι λεγομένων ἐκέλευον ἐξιέναι τὸν Κάμιλλον ἐπʼ αὐτούς ἕνα τῶν πέντε συστρατήγων προσελόμενον .",
+      "translation": "He returned with much spoil to Rome , having proved that those citizens were the most sensible of all who did not fear the bodily age and weakness of a leader possessed of experience and courage , but chose him out , though he was ill and did not wish it , rather than younger men who craved and solicited the command . They showed the same good sense , when the Tusculans were reported to be on the brink of a revolt , in ordering Camillus to select one of his five colleagues as an aid , and march out against them ."
+    },
+    {
+      "id": "38.2",
+      "label": "Section 38.2",
+      "chapter": null,
+      "original": "ὁ δέ , καίπερ ἁπάντων βουλομένων καὶ δεομένων , ἐάσας τοὺς ἄλλους , προσείλετο Λεύκιον Φούριον οὐδενὸς ἂν προσδοκήσαντος , · ἐκεῖνος γὰρ ἦν ὁ παρὰ γνώμην τοῦ Καμίλλου διαγωνίσασθαι προθυμηθεὶς ἔναγχος καὶ δυστυχήσας περὶ τὴν μάχην ἀλλὰ βουλόμενος , ὡς ἔοικεν , ἀποκρύψαι τὴν συμφορὰν καὶ τὴν αἰσχύνην ἀπαλλάξαι τοῦ ἀνδρός ἀντὶ πάντων τοῦτον προῆγεν .",
+      "translation": "Although all the five wished and begged to be taken , Camillus passed the rest by and selected Lucius Furius , to everyone ’ s surprise . For he was the man who had just now been eager to hazard a struggle with the enemy against the judgment of Camillus , and had been worsted in the battle . But Camillus wished , as it would seem , to hide away the misfortune and wipe away the disgrace of the man , and so preferred him above all the rest ."
+    },
+    {
+      "id": "39.1",
+      "label": "Section 39.1",
+      "chapter": null,
+      "original": "μετὰ δὲ ταῦτα Λικιννίου Στόλωνος ἐν τῇ πόλει τὴν μεγάλην στάσιν ἐγείροντος , ἣν ὁ δῆμος ἐστασίαζε πρὸς τὴν σύγκλητον βιαζόμενος δυεῖν ὑπάτων καθισταμένων τὸν ἕτερον πάντως ἐκ δημοτῶν εἶναι καὶ μὴ συναμφοτέρους πατρικίους , δήμαρχοι μὲν ᾑρέθησαν , τὰς δʼ ὑπατικὰς ἀρχαιρεσίας ἐπιτελεσθῆναι διεκώλυσαν οἱ πολλοί .",
+      "translation": "After this , Licinius Stolo stirred up the great dissension in the city which brought the people into collision with the Senate . The people insisted that , when two consuls were appointed , one of them must certainly be a plebeian , and not both patricians . Tribunes of the people were chosen , but the multitude prevented the consular elections from being duly held ."
+    },
+    {
+      "id": "39.2",
+      "label": "Section 39.2",
+      "chapter": null,
+      "original": "καὶ τῶν πραγμάτων διʼ ἀναρχίας φερομένων ἐς μείζονας ταραχάς ἀποδείκνυται δικτάτωρ ὁ Κάμιλλος ὑπὸ τῆς βουλῆς ἄκοντι τῷ δήμῳ τὸ τέταρτον , οὐδʼ αὐτὸς ὢν πρόθυμος οὐδὲ βουλόμενος ἐναντιοῦσθαι πρὸς ἀνθρώπους παρρησίαν ἔχοντας ἀπὸ πολλῶν καὶ μεγάλων ἀγώνων πρὸς αὐτόν , ὡς πλείονα μετʼ αὐτῶν [*] διαπεπραγμένος ἐν στρατηγίαις ἢ μετὰ τῶν πατρικίων ἐν πολιτείαις , καὶ p.196 νῦν διὰ φθόνον ἐκείνων ᾑρημένος ὑπʼ αὐτῶν , ὅπως ἢ καταλύσειε τὸν δῆμον ἰσχύσας ἢ καταλυθείη μὴ κρατήσας .",
+      "translation": "Owing to this lack of magistrates , matters were getting more and more confused , and so Camillus was for the fourth time appointed dictator by the Senate , though much against the wishes of the people . He was not eager for the office himself , nor did he wish to oppose men whose many and great struggles gave them the right to say boldly to him : Your achievements have been in the field with us , rather than in politics with the patricians ; it is through hate and envy that they have now made you dictator ; they hope that you will crush the people if you prevail , or be crushed yourself if you fail ."
+    },
+    {
+      "id": "40.1",
+      "label": "Section 40.1",
+      "chapter": null,
+      "original": "ὑπολειπομένης δὲ τῆς περὶ τῶν ὑπατικῶν ἀρχαιρεσιῶν φιλονεικίας , ὃ δὴ χαλεπώτατον τῆς στάσεως ἦν καὶ πρῶτον ἦρξε καὶ πλεῖστα p.198 πράγματα τῇ βουλῇ παρέσχε διαφερομένῃ πρὸς τὸν δῆμον , ἀγγελίαι προσέπεσον σαφεῖς , Κελτοὺς αὖθις ἀπὸ τῆς Ἀδριατικῆς ἄραντας θαλάσσης μυριάσι πολλαῖς ἐπὶ τὴν Ῥώμην ἐλαύνειν .",
+      "translation": "There remained , however , the strife over the consular elections , which was the main problem in the dissensions , as it was its first cause , and gave the Senate most concern in its contention with the people . But suddenly clear tidings came that the Gauls had once more set out from the Adriatic Sea , many myriads strong , and were marching on Rome ."
+    },
+    {
+      "id": "40.2",
+      "label": "Section 40.2",
+      "chapter": null,
+      "original": "ἅμα δὲ τῷ λόγῳ καὶ τὰ ἔργα τοῦ πολέμου παρῆν πορθουμένης τῆς χώρας καὶ τῶν ἀνθρώπων , ὅσοις μὴ ῥᾴδιον ἦν εἰς τὴν Ῥώμην καταφυγεῖν , ἀνὰ τὰ ὄρη σκεδαννυμένων . οὗτος ὁ φόβος κατέπαυσε τὴν στάσιν , καὶ συνελθόντες εἰς ταὐτὸ τοῖς πολλοῖς οἱ κράτιστοι καὶ τῇ βουλῇ τὸ δημοτικὸν εἵλοντο πάντες ἐκ μιᾶς γνώμης δικτάτορα τὸ πέμπτον Κάμιλλον .",
+      "translation": "With the word , the actual deeds of war kept pace . The country was ravaged , and its population , all who could not more easily fly to Rome for refuge , scattered among the mountains . This terror put an end to the dissension in the city , and brought together into conference both the rich and the poor , the Senate and the people . All with one mind chose Camillus dictator for the fifth time ."
+    },
+    {
+      "id": "41.1",
+      "label": "Section 41.1",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ πλησίον ἦσαν οἱ Κελτοί , περὶ τὸν Ἀνίωνα ποταμὸν στρατόπεδον βαρὺ καὶ p.200 μεστὸν ἀφθόνου λείας ἔχοντες , ἐξαγαγὼν τὴν δύναμιν ἵδρυσε κατὰ νάπης μαλακῆς καὶ συγκλίσεις πολλὰς ἐχούσης , ὥστε τὸ μὲν πλεῖστον ἀποκρύπτεσθαι , τὸ δʼ ὁρώμενον δοκεῖν ὑπὸ δέους εἰς χωρία προσάντη κατειλεῖσθαι .",
+      "translation": "When the Gauls were near at hand , being encamped on the Anio and encumbered with untold plunder , Camillus led his forces out and posted them in a gently sloping glade with many hollows , so that the largest part of them were concealed , and the part that could be seen had the look of shutting themselves up in hilly places out of fear ."
+    },
+    {
+      "id": "41.2",
+      "label": "Section 41.2",
+      "chapter": null,
+      "original": "ταύτην δὲ τὴν δόξαν αὐτῶν ὁ Κάμιλλος αὔξειν βουλόμενος οὐ προσήμυνε τῶν ὑπὸ πόδας πορθουμένων , ἀλλὰ τὸν χάρακα φραξάμενος ἠρέμει , μέχρι οὗ τοὺς μὲν ἐν προνομαῖς ἐσκεδασμένους κατεῖδε , τοὺς δʼ ἐν τῷ στρατοπέδῳ πᾶσαν ὥραν ἐμπιπλαμένους ἀφειδῶς καὶ μεθύοντας .",
+      "translation": "This opinion of them Camillus wished to strengthen , and therefore made no defence of those who were plundered even at his very feet , but fenced in his trenches and lay quiet , until he saw that some of the enemy were scattered abroad in foraging parties , while those in the camp did nothing but gorge themselves with meat and drink"
+    },
+    {
+      "id": "42.1",
+      "label": "Section 42.1",
+      "chapter": null,
+      "original": "τῶν μὲν οὖν στρατιωτικῶν ἀγώνων οὗτος ἠγωνίσθη τῷ Καμίλλῳ τελευταῖος , τὴν γὰρ Οὐελιτρανῶν πόλιν εἷλεν ἐν παρέργῳ ταύτης τῆς στρατείας ἀμαχεὶ προσχωρήσασαν αὐτῷ . τῶν δὲ πολιτικῶν ὁ μέγιστος ὑπελείπετο καὶ χαλεπώτερος [*] πρὸς τὸν δῆμον ἰσχυρὸν ἐπανήκοντα τῇ νίκῃ καὶ βιαζόμενον ἐκ δημοτῶν ὕπατον ἀποδεῖξαι παρὰ τὸν καθεστῶτα νόμον , ἀντιταττομένης τῆς βουλῆς καὶ τὸν Κάμιλλον οὐκ ἐώσης p.204 ἀποθέσθαι τὴν ἀρχήν , ὡς μετʼ ἰσχυρᾶς καὶ μεγάλης ἐξουσίας τῆς ἐκείνου μαχησομένων ἂν βέλτιον ὑπὲρ τῆς ἀριστοκρατίας .",
+      "translation": "This was the last military exploit performed by Camillus , for the capture of Velitrae was a direct sequel of this campaign , and it yielded to him without a struggle . But the greatest of his civil contests yet remained and it was harder to wage it now against a people which had come back flushed with victory , and bent on electing a plebeian consul , contrary to the established law . But the Senate opposed their demands , and would not suffer Camillus to lay aside his office , thinking that , with the aid of his great power and authority , they could make a better fight in defence of their aristocracy ."
+    },
+    {
+      "id": "42.2",
+      "label": "Section 42.2",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ προκαθημένου τοῦ Καμίλλου καὶ χρηματίζοντος ἐπὶ τῆς ἀγορᾶς ὑπηρέτης πεμφθεὶς παρὰ τῶν δημάρχων ἐκέλευσεν ἀκολουθεῖν καὶ τὴν χεῖρα τῷ σώματι προσῆγεν ὡς ἀπάξων , κραυγὴ δὲ καὶ θόρυβος , οἷος οὔπω , κατέσχε τὴν ἀγοράν , τῶν μὲν περὶ τὸν Κάμιλλον ὠθούντων ἀπὸ τοῦ βήματος τὸν δημόσιον , τῶν δὲ πολλῶν κάτωθεν ἕλκειν ἐπικελευομένων , ἀπορούμενος τοῖς παροῦσι τὴν μὲν ἀρχὴν οὐ προήκατο , τοὺς δὲ βουλευτὰς ἀναλαβὼν ἐβάδιζεν ἐπὶ τὴν σύγκλητον .",
+      "translation": "But once when Camillus was seated in state and despatching public business in the forum , an officer , sent by the tribunes of the people , ordered him to follow , actually laying hands upon him as though to hale him away . All at once such cries and tumult as had never been heard before filled the forum , the friends of Camillus thrusting the plebeian officer down from the tribunal , and the multitude below ordering him to drag the dictator away . Camillus , perplexed at the issue , did not renounce his office , but taking the senators with him , marched off to their place of meeting ."
+    },
+    {
+      "id": "43.1",
+      "label": "Section 43.1",
+      "chapter": null,
+      "original": "ἐν δὲ τῷ κατόπιν ἐνιαυτῷ λοιμώδης νόσος ἐμπεσοῦσα τῇ Ῥώμῃ τὸν μὲν ἄλλον ὄχλον οὐ περιληπτὸν ἀριθμῷ διέφθειρε , τῶν δʼ ἀρχόντων τοὺς πλείστους . ἐτελεύτησε δὲ καὶ Κάμιλλος , ἡλικίας μὲν οὕνεκα καὶ βίου τελειότητος , ὡς εἴ τις ἄλλος ἀνθρώπων ὡραῖος , ἀνιάσας δὲ Ῥωμαίους ὡς οὐδὲ σύμπαντες οἱ τῇ νόσῳ κατʼ ἐκεῖνον τὸν χρόνον ἀποθανόντες . p.208",
+      "translation": "In the year following , a pestilential sickness visited Rome , carrying off an incalculable number of the common people , and most of the magistrates . Camillus also died at this time , and he was full ripe for death , if any man ever was , considering his years and the completeness of his life ; yet his loss grieved the Romans more than that of all those who perished of the plague at this time ."
+    }
+  ],
+  "prevChunkSlug": "themistocles-1cxbmi",
+  "nextChunkSlug": "pericles-88mg9v"
+}

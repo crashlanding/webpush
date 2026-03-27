@@ -1,0 +1,142 @@
+{
+  "loebNumber": 482,
+  "sortOrder": 482,
+  "slug": "hippocrates-places-in-man-glands-fleshes-prorrhetic-1-2-physician-use-of-liquids-ulcers-r9yv70",
+  "title": "Places in Man. Glands. Fleshes. Prorrhetic 1-2. Physician. Use of Liquids. Ulcers. Haemorrhoids and Fistulas",
+  "volumeLabel": "Places in Man. Glands. Fleshes. Prorrhetic 1-2. Physician. Use of Liquids. Ulcers. Haemorrhoids and Fistulas",
+  "authorDisplay": "Hippocrates",
+  "authors": [
+    "Hippocrates"
+  ],
+  "language": "greek",
+  "summary": "2 of 8 contents in Places in Man. Glands. Fleshes. Prorrhetic 1-2. Physician. Use of Liquids. Ulcers. Haemorrhoids and Fistulas are live from Scaife, while the remaining contents stay visible until a confident pair is available. Places in Man is currently filled with the closest same-author Scaife text that exposes both an original-language version and an English translation.",
+  "status": "partial",
+  "defaultChunkSlug": "de-aere-aquis-locis-qhjy6p",
+  "readyChunkCount": 2,
+  "contents": [
+    {
+      "id": "places-in-man-bp7rw3",
+      "title": "Places in Man",
+      "status": "ready",
+      "sectionCount": 24,
+      "chunkSlug": "de-aere-aquis-locis-qhjy6p",
+      "chunks": [
+        {
+          "slug": "de-aere-aquis-locis-qhjy6p",
+          "label": "De aere, aquis, locis",
+          "partId": "places-in-man-bp7rw3",
+          "partTitle": "Places in Man",
+          "sectionCount": 24,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "glands-zbd7up",
+      "title": "Glands",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Glands."
+    },
+    {
+      "id": "fleshes-epl3lu",
+      "title": "Fleshes",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Fleshes."
+    },
+    {
+      "id": "prorrhetic-1-2-94eagq",
+      "title": "Prorrhetic 1-2",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Prorrhetic 1-2."
+    },
+    {
+      "id": "physician-n9wemi",
+      "title": "Physician",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Physician."
+    },
+    {
+      "id": "use-of-liquids-dzc2av",
+      "title": "Use of Liquids",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Use of Liquids."
+    },
+    {
+      "id": "ulcers-15y110",
+      "title": "Ulcers",
+      "status": "ready",
+      "sectionCount": 27,
+      "chunkSlug": "ulcers-15y110",
+      "chunks": [
+        {
+          "slug": "ulcers-15y110",
+          "label": "Ulcers",
+          "partId": "ulcers-15y110",
+          "partTitle": "Ulcers",
+          "sectionCount": 27,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "haemorrhoids-and-fistulas-1qq6zx",
+      "title": "Haemorrhoids and Fistulas",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Haemorrhoids and Fistulas."
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "de-aere-aquis-locis-qhjy6p",
+      "label": "De aere, aquis, locis",
+      "partId": "places-in-man-bp7rw3",
+      "partTitle": "Places in Man",
+      "sectionCount": 24,
+      "status": "ready"
+    },
+    {
+      "slug": "ulcers-15y110",
+      "label": "Ulcers",
+      "partId": "ulcers-15y110",
+      "partTitle": "Ulcers",
+      "sectionCount": 27,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "de-aere-aquis-locis-qhjy6p",
+      "partTitle": "Places in Man",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De aere, aquis, locis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg002.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Airs, Waters, and Places",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg002.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "ulcers-15y110",
+      "partTitle": "Ulcers",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De ulceribus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg028.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Ulcers",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg028.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "loebNumber": 57,
+  "sortOrder": 57,
+  "slug": "hesiod-theogony-works-and-days-testimonia-1176gx",
+  "title": "Theogony. Works and Days. Testimonia",
+  "volumeLabel": "Theogony. Works and Days. Testimonia",
+  "authorDisplay": "Hesiod",
+  "authors": [
+    "Hesiod"
+  ],
+  "language": "greek",
+  "summary": "1 of 3 contents in Theogony. Works and Days. Testimonia are live from Scaife, while the remaining contents stay visible until a confident pair is available.",
+  "status": "partial",
+  "defaultChunkSlug": "works-and-days-1pxjm7-1",
+  "readyChunkCount": 3,
+  "contents": [
+    {
+      "id": "theogony-jfve29",
+      "title": "Theogony",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "The original and English Scaife TOCs could not be aligned."
+    },
+    {
+      "id": "works-and-days-1pxjm7",
+      "title": "Works and Days",
+      "status": "ready",
+      "sectionCount": 178,
+      "chunkSlug": "works-and-days-1pxjm7-1",
+      "chunks": [
+        {
+          "slug": "works-and-days-1pxjm7-1",
+          "label": "Works and Days (Section 1 - Section 260)",
+          "partId": "works-and-days-1pxjm7",
+          "partTitle": "Works and Days",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "works-and-days-1pxjm7-2",
+          "label": "Works and Days (Section 265 - Section 540)",
+          "partId": "works-and-days-1pxjm7",
+          "partTitle": "Works and Days",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "works-and-days-1pxjm7-3",
+          "label": "Works and Days (Section 545 - Section 825)",
+          "partId": "works-and-days-1pxjm7",
+          "partTitle": "Works and Days",
+          "sectionCount": 58,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "testimonia-ths3x",
+      "title": "Testimonia",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Testimonia."
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "works-and-days-1pxjm7-1",
+      "label": "Works and Days (Section 1 - Section 260)",
+      "partId": "works-and-days-1pxjm7",
+      "partTitle": "Works and Days",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "works-and-days-1pxjm7-2",
+      "label": "Works and Days (Section 265 - Section 540)",
+      "partId": "works-and-days-1pxjm7",
+      "partTitle": "Works and Days",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "works-and-days-1pxjm7-3",
+      "label": "Works and Days (Section 545 - Section 825)",
+      "partId": "works-and-days-1pxjm7",
+      "partTitle": "Works and Days",
+      "sectionCount": 58,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "works-and-days-1pxjm7-1",
+      "partTitle": "Works and Days",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἔργα καὶ Ἡμέραι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0020.tlg002.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Works and Days",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0020.tlg002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "works-and-days-1pxjm7-2",
+      "partTitle": "Works and Days",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἔργα καὶ Ἡμέραι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0020.tlg002.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Works and Days",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0020.tlg002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "works-and-days-1pxjm7-3",
+      "partTitle": "Works and Days",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἔργα καὶ Ἡμέραι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0020.tlg002.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Works and Days",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0020.tlg002.perseus-eng2/"
+      }
+    }
+  ]
+}

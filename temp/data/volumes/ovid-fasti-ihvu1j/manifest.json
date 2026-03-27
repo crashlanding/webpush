@@ -1,0 +1,27 @@
+{
+  "loebNumber": 253,
+  "sortOrder": 253,
+  "slug": "ovid-fasti-ihvu1j",
+  "title": "Fasti",
+  "volumeLabel": "Fasti",
+  "authorDisplay": "Ovid",
+  "authors": [
+    "Ovid"
+  ],
+  "language": "latin",
+  "summary": "A catalog placeholder for Fasti. Scaife does not currently provide a confidently matchable original-and-English pair for this volume.",
+  "status": "placeholder",
+  "defaultChunkSlug": null,
+  "readyChunkCount": 0,
+  "contents": [
+    {
+      "id": "fasti-149ze5",
+      "title": "Fasti",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Fasti."
+    }
+  ],
+  "chunks": [],
+  "citations": []
+}

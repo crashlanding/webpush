@@ -1,0 +1,151 @@
+{
+  "loebNumber": 426,
+  "sortOrder": 426,
+  "slug": "plutarch-moralia-volume-xi-6apm1h",
+  "title": "Moralia, Volume XI",
+  "volumeLabel": "Moralia, Volume XI",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Moralia, Volume XI. Moralia, Volume XI opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "quaestiones-convivales-1hc64j",
+  "readyChunkCount": 4,
+  "contents": [
+    {
+      "id": "moralia-volume-xi-1ff3qd",
+      "title": "Moralia, Volume XI",
+      "status": "ready",
+      "sectionCount": 44,
+      "chunkSlug": "quaestiones-convivales-1hc64j",
+      "chunks": [
+        {
+          "slug": "quaestiones-convivales-1hc64j",
+          "label": "Quaestiones Convivales",
+          "partId": "moralia-volume-xi-1ff3qd",
+          "partTitle": "Moralia, Volume XI",
+          "sectionCount": 9,
+          "status": "ready"
+        },
+        {
+          "slug": "amatorius-1ezg3q",
+          "label": "Amatorius",
+          "partId": "moralia-volume-xi-1ff3qd",
+          "partTitle": "Moralia, Volume XI",
+          "sectionCount": 26,
+          "status": "ready"
+        },
+        {
+          "slug": "amatoriae-narrationes-1kpdwf",
+          "label": "Amatoriae Narrationes",
+          "partId": "moralia-volume-xi-1ff3qd",
+          "partTitle": "Moralia, Volume XI",
+          "sectionCount": 5,
+          "status": "ready"
+        },
+        {
+          "slug": "maxime-cum-principibus-viris-philosopho-esse-disserendum-41fnpx",
+          "label": "Maxime Cum Principibus Viris Philosopho Esse Disserendum",
+          "partId": "moralia-volume-xi-1ff3qd",
+          "partTitle": "Moralia, Volume XI",
+          "sectionCount": 4,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "quaestiones-convivales-1hc64j",
+      "label": "Quaestiones Convivales",
+      "partId": "moralia-volume-xi-1ff3qd",
+      "partTitle": "Moralia, Volume XI",
+      "sectionCount": 9,
+      "status": "ready"
+    },
+    {
+      "slug": "amatorius-1ezg3q",
+      "label": "Amatorius",
+      "partId": "moralia-volume-xi-1ff3qd",
+      "partTitle": "Moralia, Volume XI",
+      "sectionCount": 26,
+      "status": "ready"
+    },
+    {
+      "slug": "amatoriae-narrationes-1kpdwf",
+      "label": "Amatoriae Narrationes",
+      "partId": "moralia-volume-xi-1ff3qd",
+      "partTitle": "Moralia, Volume XI",
+      "sectionCount": 5,
+      "status": "ready"
+    },
+    {
+      "slug": "maxime-cum-principibus-viris-philosopho-esse-disserendum-41fnpx",
+      "label": "Maxime Cum Principibus Viris Philosopho Esse Disserendum",
+      "partId": "moralia-volume-xi-1ff3qd",
+      "partTitle": "Moralia, Volume XI",
+      "sectionCount": 4,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "quaestiones-convivales-1hc64j",
+      "partTitle": "Moralia, Volume XI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Συμποσιακῶν προβλημάτων βιβλία",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg112.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Symposiacs",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg112.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "amatorius-1ezg3q",
+      "partTitle": "Moralia, Volume XI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἐρωτικός",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg113.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Of Love.",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg113.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "amatoriae-narrationes-1kpdwf",
+      "partTitle": "Moralia, Volume XI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἐρωτικαὶ διγηήσεις",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg114.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Love Stories",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg114.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "maxime-cum-principibus-viris-philosopho-esse-disserendum-41fnpx",
+      "partTitle": "Moralia, Volume XI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τοῦ ὅτι μάλιστα τοῖς ἡγεμόσι δεῖ τὸν φιλοσοφόν διαλέγεσθαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg115.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "That a Philosopher Ought to Converse Especially with Men in Power",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg115.perseus-eng3/"
+      }
+    }
+  ]
+}

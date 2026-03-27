@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-casina-the-casket-comedy-curculio-epidicus-the-two-menaechmuses-10u46k",
+  "volumeTitle": "Casina. The Casket Comedy. Curculio. Epidicus. The Two Menaechmuses",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "epidicus-1peem3-1",
+  "label": "Epidicus (Section 1.1.1 - Section 1.1.35b)",
+  "partId": "epidicus-1peem3",
+  "partTitle": "Epidicus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Epidicus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi009.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Epidicus, or The Fortunate Discovery",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi009.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1.1",
+      "label": "Section 1.1.1",
+      "chapter": null,
+      "original": "Heús , adulescens .",
+      "translation": "Harkye ! young man ."
+    },
+    {
+      "id": "1.1.1b",
+      "label": "Section 1.1.1b",
+      "chapter": null,
+      "original": "Quís properantem mé reprehendit pállio ?",
+      "translation": "Who pulls me by the cloak , when thus in haste ?"
+    },
+    {
+      "id": "1.1.2",
+      "label": "Section 1.1.2",
+      "chapter": null,
+      "original": "Familiaris .",
+      "translation": "An intimate ."
+    },
+    {
+      "id": "1.1.2b",
+      "label": "Section 1.1.2b",
+      "chapter": null,
+      "original": "Fateor , nam odio es nimium familiariter .",
+      "translation": "I confess it ; for with your annoyance you are too intimate ."
+    },
+    {
+      "id": "1.1.3",
+      "label": "Section 1.1.3",
+      "chapter": null,
+      "original": "Réspice vero , Thésprio .",
+      "translation": "But do look back , Thesprio !"
+    },
+    {
+      "id": "1.1.3b",
+      "label": "Section 1.1.3b",
+      "chapter": null,
+      "original": "Oh ,",
+      "translation": "What ? Is it Epidicus that I see ?"
+    },
+    {
+      "id": "1.1.5",
+      "label": "Section 1.1.5",
+      "chapter": null,
+      "original": "Satis recte oculis uteris .",
+      "translation": "Why surely you ’ ve the use of your eyes ."
+    },
+    {
+      "id": "1.1.6",
+      "label": "Section 1.1.6",
+      "chapter": null,
+      "original": "Salve .",
+      "translation": "Greetings to you ."
+    },
+    {
+      "id": "1.1.6b",
+      "label": "Section 1.1.6b",
+      "chapter": null,
+      "original": "Di dent quae velis .",
+      "translation": "May the Gods grant what you desire . I ’ m glad that you ’ ve got here safe ."
+    },
+    {
+      "id": "1.1.7b",
+      "label": "Section 1.1.7b",
+      "chapter": null,
+      "original": "Quid ceterum ?",
+      "translation": "What besides ?"
+    },
+    {
+      "id": "1.1.7c",
+      "label": "Section 1.1.7c",
+      "chapter": null,
+      "original": "Quod eo adsolet :",
+      "translation": "According to the usage , a dinner shall be given you [*] ."
+    },
+    {
+      "id": "1.1.8b",
+      "label": "Section 1.1.8b",
+      "chapter": null,
+      "original": "Spondeo .",
+      "translation": "I agree ."
+    },
+    {
+      "id": "1.1.8c",
+      "label": "Section 1.1.8c",
+      "chapter": null,
+      "original": "Quid ?",
+      "translation": "What to do ?"
+    },
+    {
+      "id": "1.1.8d",
+      "label": "Section 1.1.8d",
+      "chapter": null,
+      "original": "Me accepturum , si dabis .",
+      "translation": "That I ’ ll accept it , if you offer it ."
+    },
+    {
+      "id": "1.1.9",
+      "label": "Section 1.1.9",
+      "chapter": null,
+      "original": "Quid tú agis ? ut vales ? exemplum adesse intellego . euge ,",
+      "translation": "How are you ? Fare you as you could wish ?"
+    },
+    {
+      "id": "1.1.10",
+      "label": "Section 1.1.10",
+      "chapter": null,
+      "original": "córpulentior videre atque habitior .",
+      "translation": "Marvellous ! [*] You seem quite plump and hearty ."
+    },
+    {
+      "id": "1.1.10b",
+      "label": "Section 1.1.10b",
+      "chapter": null,
+      "original": "Huic gratia .",
+      "translation": "Thanks to this ."
+    },
+    {
+      "id": "1.1.11",
+      "label": "Section 1.1.11",
+      "chapter": null,
+      "original": "Quám quidem te iam diu",
+      "translation": "Which , indeed , you ought to have parted with [*] long ago ."
+    },
+    {
+      "id": "1.1.12",
+      "label": "Section 1.1.12",
+      "chapter": null,
+      "original": "Mínus iam furtificus sum quam antehac .",
+      "translation": "I ’ m less of a pilferer now than formerly ."
+    },
+    {
+      "id": "1.1.12b",
+      "label": "Section 1.1.12b",
+      "chapter": null,
+      "original": "Quid ita ?",
+      "translation": "How so ?"
+    },
+    {
+      "id": "1.1.12c",
+      "label": "Section 1.1.12c",
+      "chapter": null,
+      "original": "Rapio propalam .",
+      "translation": "I rob above-board [*] ."
+    },
+    {
+      "id": "1.1.13",
+      "label": "Section 1.1.13",
+      "chapter": null,
+      "original": "Di immortales te infelicent , ut tu es gradibus grandibus .",
+      "translation": "May the immortal Gods confound you , with what huge strides you do walk ! for when I caught sight of you at the harbour , I began to run at a rapid pace ;"
+    },
+    {
+      "id": "1.1.15",
+      "label": "Section 1.1.15",
+      "chapter": null,
+      "original": "vix adipiscendi potestas modo fuit .",
+      "translation": "I was hardly able to overtake you just now ."
+    },
+    {
+      "id": "1.1.15b",
+      "label": "Section 1.1.15b",
+      "chapter": null,
+      "original": "Scurra es .",
+      "translation": "You are a town wit ."
+    },
+    {
+      "id": "1.1.15c",
+      "label": "Section 1.1.15c",
+      "chapter": null,
+      "original": "Scio",
+      "translation": "I know that you , on the other hand , are a military gentleman ."
+    },
+    {
+      "id": "1.1.16b",
+      "label": "Section 1.1.16b",
+      "chapter": null,
+      "original": "Audacter quam vis dicito .",
+      "translation": "Speak out as boldly as you please ."
+    },
+    {
+      "id": "1.1.17",
+      "label": "Section 1.1.17",
+      "chapter": null,
+      "original": "quid ais ? perpetuen valuisti ?",
+      "translation": "How say you ? Have you been well all along ?"
+    },
+    {
+      "id": "1.1.17b",
+      "label": "Section 1.1.17b",
+      "chapter": null,
+      "original": "Varie .",
+      "translation": "In a varied way ."
+    },
+    {
+      "id": "1.1.17c",
+      "label": "Section 1.1.17c",
+      "chapter": null,
+      "original": "Qui varie valent ,",
+      "translation": "Those who are well in a varied way [*] , a race of men of the goat kind or of the panther kind , don ’ t please me ."
+    },
+    {
+      "id": "1.1.19",
+      "label": "Section 1.1.19",
+      "chapter": null,
+      "original": "Quid tíbi vis dicam nisi quod est ? ut illaé res ? responde .",
+      "translation": "What do you wish me to tell you but that which is fact ?"
+    },
+    {
+      "id": "1.1.19b",
+      "label": "Section 1.1.19b",
+      "chapter": null,
+      "original": "Probe .",
+      "translation": "To answer to these things [*] fairly ;"
+    },
+    {
+      "id": "1.1.20",
+      "label": "Section 1.1.20",
+      "chapter": null,
+      "original": "Quid erílis noster filius ?",
+      "translation": "how ’ s our master ’ s son ? Is he well ?"
+    },
+    {
+      "id": "1.1.20b",
+      "label": "Section 1.1.20b",
+      "chapter": null,
+      "original": "Valet púgilice atque athletice .",
+      "translation": "Stout as a boxer and an athlete ."
+    },
+    {
+      "id": "1.1.21",
+      "label": "Section 1.1.21",
+      "chapter": null,
+      "original": "Voluptábilem mihi nuntium tuo advéntu adportas , Thesprio .",
+      "translation": "You ’ ve brought me joyous tidings on your arrival . But where is he ?"
+    },
+    {
+      "id": "1.1.22b",
+      "label": "Section 1.1.22b",
+      "chapter": null,
+      "original": "Advenit simul .",
+      "translation": "I came here together with him ."
+    },
+    {
+      "id": "1.1.22c",
+      "label": "Section 1.1.22c",
+      "chapter": null,
+      "original": "Vbi is ergo est ? nisi si in vidulo",
+      "translation": "Where is he then ? Unless , perchance , you ’ ve brought him in your wallet , or , perhaps , in your knapsack ."
+    },
+    {
+      "id": "1.1.23b",
+      "label": "Section 1.1.23b",
+      "chapter": null,
+      "original": "Di te perdant .",
+      "translation": "May the Gods confound you !"
+    },
+    {
+      "id": "1.1.23c",
+      "label": "Section 1.1.23c",
+      "chapter": null,
+      "original": "Te volo —",
+      "translation": "I want to make enquiries of you . Lend me your attention ; attention shall be lent you in return ."
+    },
+    {
+      "id": "1.1.25",
+      "label": "Section 1.1.25",
+      "chapter": null,
+      "original": "Ius dícis .",
+      "translation": "You say what ’ s law [*] ."
+    },
+    {
+      "id": "1.1.25b",
+      "label": "Section 1.1.25b",
+      "chapter": null,
+      "original": "Me decet .",
+      "translation": "It becomes me to do so ."
+    },
+    {
+      "id": "1.1.25c",
+      "label": "Section 1.1.25c",
+      "chapter": null,
+      "original": "Iam tu autem nobis praeturam geris ?",
+      "translation": "But why now are you acting the Praetor over us ?"
+    },
+    {
+      "id": "1.1.26",
+      "label": "Section 1.1.26",
+      "chapter": null,
+      "original": "Quem díces digniorem esse hominem hódie Athenis alterum ?",
+      "translation": "What other person in Athens will you say is more deserving of it than I ?"
+    },
+    {
+      "id": "1.1.26a",
+      "label": "Section 1.1.26a",
+      "chapter": null,
+      "original": "At únum a praetura tua ,",
+      "translation": "But still , Epidicus , one thing is wanting for your Praetorship ."
+    },
+    {
+      "id": "1.1.27b",
+      "label": "Section 1.1.27b",
+      "chapter": null,
+      "original": "Quidnam ?",
+      "translation": "What , pray ?"
+    },
+    {
+      "id": "1.1.27c",
+      "label": "Section 1.1.27c",
+      "chapter": null,
+      "original": "Scies :",
+      "translation": "You shall know ; two lictors [*] two osier bundles of twigs —"
+    },
+    {
+      "id": "1.1.28b",
+      "label": "Section 1.1.28b",
+      "chapter": null,
+      "original": "Vae tibi .",
+      "translation": "Woe unto you ! But how say you —?"
+    },
+    {
+      "id": "1.1.29b",
+      "label": "Section 1.1.29b",
+      "chapter": null,
+      "original": "Quid rogas ?",
+      "translation": "What is it you ask ?"
+    },
+    {
+      "id": "1.1.29c",
+      "label": "Section 1.1.29c",
+      "chapter": null,
+      "original": "Vbi árma sunt Stratíppocli ?",
+      "translation": "Where are the arms [*] of Stratippocles ?"
+    },
+    {
+      "id": "1.1.30",
+      "label": "Section 1.1.30",
+      "chapter": null,
+      "original": "Pól illa ad hostis transfugerunt .",
+      "translation": "I ’ faith , they ’ ve gone over to the enemy ."
+    },
+    {
+      "id": "1.1.30b",
+      "label": "Section 1.1.30b",
+      "chapter": null,
+      "original": "Armane ?",
+      "translation": "What , his arms ?"
+    },
+    {
+      "id": "1.1.30c",
+      "label": "Section 1.1.30c",
+      "chapter": null,
+      "original": "Atque equidem cito .",
+      "translation": "Aye , and quickly too ."
+    },
+    {
+      "id": "1.1.30a",
+      "label": "Section 1.1.30a",
+      "chapter": null,
+      "original": "Sérione dicis tu ?",
+      "translation": "Do you say that seriously ?"
+    },
+    {
+      "id": "1.1.31a",
+      "label": "Section 1.1.31a",
+      "chapter": null,
+      "original": "Sério , inquam : hostes habent .",
+      "translation": "Seriously I say it ; the enemy have got them ."
+    },
+    {
+      "id": "1.1.32",
+      "label": "Section 1.1.32",
+      "chapter": null,
+      "original": "Édepol facinus improbum .",
+      "translation": "By my troth , a disgraceful affair ."
+    },
+    {
+      "id": "1.1.32b",
+      "label": "Section 1.1.32b",
+      "chapter": null,
+      "original": "At iam ante alii fecerunt idem .",
+      "translation": "Still , before now , other persons have done the same . This affair will turn out to his honor [*] ."
+    },
+    {
+      "id": "1.1.33b",
+      "label": "Section 1.1.33b",
+      "chapter": null,
+      "original": "Qui ?",
+      "translation": "How so ?"
+    },
+    {
+      "id": "1.1.33c",
+      "label": "Section 1.1.33c",
+      "chapter": null,
+      "original": "Quia ante aliis fuit .",
+      "translation": "Because it has been so to others before ."
+    },
+    {
+      "id": "1.1.34",
+      "label": "Section 1.1.34",
+      "chapter": null,
+      "original": "Mulciber , credo , arma fecit quaé habuit Stratippocles :",
+      "translation": "Mulciber , I suppose , made the arms which Stratippocles had ;"
+    },
+    {
+      "id": "1.1.35",
+      "label": "Section 1.1.35",
+      "chapter": null,
+      "original": "travolaverunt ad hostis .",
+      "translation": "they flew over to the enemy [*] ."
+    },
+    {
+      "id": "1.1.35b",
+      "label": "Section 1.1.35b",
+      "chapter": null,
+      "original": "Tum ille prognatus Theti",
+      "translation": "Why , then , e ’ en let this son of Thetis lose them ; the daughters of Nereus will bring him others ."
+    }
+  ],
+  "prevChunkSlug": "curculio-ad3oao-11",
+  "nextChunkSlug": "epidicus-1peem3-2"
+}

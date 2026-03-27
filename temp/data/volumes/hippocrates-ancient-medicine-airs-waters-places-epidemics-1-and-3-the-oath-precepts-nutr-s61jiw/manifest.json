@@ -1,0 +1,256 @@
+{
+  "loebNumber": 147,
+  "sortOrder": 147,
+  "slug": "hippocrates-ancient-medicine-airs-waters-places-epidemics-1-and-3-the-oath-precepts-nutr-s61jiw",
+  "title": "Ancient Medicine. Airs, Waters, Places. Epidemics 1 and 3. The Oath. Precepts. Nutriment",
+  "volumeLabel": "Ancient Medicine. Airs, Waters, Places. Epidemics 1 and 3. The Oath. Precepts. Nutriment",
+  "authorDisplay": "Hippocrates",
+  "authors": [
+    "Hippocrates"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Ancient Medicine. Airs, Waters, Places. Epidemics 1 and 3. The Oath. Precepts. Nutriment, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "ancient-medicine-79itia",
+  "readyChunkCount": 6,
+  "contents": [
+    {
+      "id": "ancient-medicine-79itia",
+      "title": "Ancient Medicine",
+      "status": "ready",
+      "sectionCount": 24,
+      "chunkSlug": "ancient-medicine-79itia",
+      "chunks": [
+        {
+          "slug": "ancient-medicine-79itia",
+          "label": "Ancient Medicine",
+          "partId": "ancient-medicine-79itia",
+          "partTitle": "Ancient Medicine",
+          "sectionCount": 24,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "airs-waters-places-1esgh1",
+      "title": "Airs, Waters, Places",
+      "status": "ready",
+      "sectionCount": 24,
+      "chunkSlug": "airs-waters-places-1esgh1",
+      "chunks": [
+        {
+          "slug": "airs-waters-places-1esgh1",
+          "label": "Airs, Waters, Places",
+          "partId": "airs-waters-places-1esgh1",
+          "partTitle": "Airs, Waters, Places",
+          "sectionCount": 24,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "epidemics-1-and-3-qvlnmu",
+      "title": "Epidemics 1 and 3",
+      "status": "ready",
+      "sectionCount": 4,
+      "chunkSlug": "epidemics-1-and-3-qvlnmu",
+      "chunks": [
+        {
+          "slug": "epidemics-1-and-3-qvlnmu",
+          "label": "Epidemics 1 and 3",
+          "partId": "epidemics-1-and-3-qvlnmu",
+          "partTitle": "Epidemics 1 and 3",
+          "sectionCount": 4,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "the-oath-i80191",
+      "title": "The Oath",
+      "status": "ready",
+      "sectionCount": 1,
+      "chunkSlug": "the-oath-i80191",
+      "chunks": [
+        {
+          "slug": "the-oath-i80191",
+          "label": "The Oath",
+          "partId": "the-oath-i80191",
+          "partTitle": "The Oath",
+          "sectionCount": 1,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "precepts-1eqpju",
+      "title": "Precepts",
+      "status": "ready",
+      "sectionCount": 14,
+      "chunkSlug": "precepts-1eqpju",
+      "chunks": [
+        {
+          "slug": "precepts-1eqpju",
+          "label": "Precepts",
+          "partId": "precepts-1eqpju",
+          "partTitle": "Precepts",
+          "sectionCount": 14,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "nutriment-sqtltu",
+      "title": "Nutriment",
+      "status": "ready",
+      "sectionCount": 55,
+      "chunkSlug": "nutriment-sqtltu",
+      "chunks": [
+        {
+          "slug": "nutriment-sqtltu",
+          "label": "Nutriment",
+          "partId": "nutriment-sqtltu",
+          "partTitle": "Nutriment",
+          "sectionCount": 55,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "ancient-medicine-79itia",
+      "label": "Ancient Medicine",
+      "partId": "ancient-medicine-79itia",
+      "partTitle": "Ancient Medicine",
+      "sectionCount": 24,
+      "status": "ready"
+    },
+    {
+      "slug": "airs-waters-places-1esgh1",
+      "label": "Airs, Waters, Places",
+      "partId": "airs-waters-places-1esgh1",
+      "partTitle": "Airs, Waters, Places",
+      "sectionCount": 24,
+      "status": "ready"
+    },
+    {
+      "slug": "epidemics-1-and-3-qvlnmu",
+      "label": "Epidemics 1 and 3",
+      "partId": "epidemics-1-and-3-qvlnmu",
+      "partTitle": "Epidemics 1 and 3",
+      "sectionCount": 4,
+      "status": "ready"
+    },
+    {
+      "slug": "the-oath-i80191",
+      "label": "The Oath",
+      "partId": "the-oath-i80191",
+      "partTitle": "The Oath",
+      "sectionCount": 1,
+      "status": "ready"
+    },
+    {
+      "slug": "precepts-1eqpju",
+      "label": "Precepts",
+      "partId": "precepts-1eqpju",
+      "partTitle": "Precepts",
+      "sectionCount": 14,
+      "status": "ready"
+    },
+    {
+      "slug": "nutriment-sqtltu",
+      "label": "Nutriment",
+      "partId": "nutriment-sqtltu",
+      "partTitle": "Nutriment",
+      "sectionCount": 55,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "ancient-medicine-79itia",
+      "partTitle": "Ancient Medicine",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De prisca medicina",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg001.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Ancient Medicine",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg001.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "airs-waters-places-1esgh1",
+      "partTitle": "Airs, Waters, Places",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De aere, aquis, locis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg002.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Airs, Waters, and Places",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg002.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "epidemics-1-and-3-qvlnmu",
+      "partTitle": "Epidemics 1 and 3",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Epidemiarum",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg006.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Epidemics",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg006.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "the-oath-i80191",
+      "partTitle": "The Oath",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Iusiurandum",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg013.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Oath",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg013.perseus-eng4/"
+      }
+    },
+    {
+      "chunkSlug": "precepts-1eqpju",
+      "partTitle": "Precepts",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Praeceptiones",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg051.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Precepts",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg051.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "nutriment-sqtltu",
+      "partTitle": "Nutriment",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De alimento",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg046.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Nutriment",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0627.tlg046.perseus-eng2/"
+      }
+    }
+  ]
+}

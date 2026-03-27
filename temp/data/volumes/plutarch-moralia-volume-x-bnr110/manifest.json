@@ -1,0 +1,151 @@
+{
+  "loebNumber": 321,
+  "sortOrder": 321,
+  "slug": "plutarch-moralia-volume-x-bnr110",
+  "title": "Moralia, Volume X",
+  "volumeLabel": "Moralia, Volume X",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Moralia, Volume X. Moralia, Volume X opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "de-fato-1fzuk6",
+  "readyChunkCount": 4,
+  "contents": [
+    {
+      "id": "moralia-volume-x-1w3umf",
+      "title": "Moralia, Volume X",
+      "status": "ready",
+      "sectionCount": 74,
+      "chunkSlug": "de-fato-1fzuk6",
+      "chunks": [
+        {
+          "slug": "de-fato-1fzuk6",
+          "label": "De Fato",
+          "partId": "moralia-volume-x-1w3umf",
+          "partTitle": "Moralia, Volume X",
+          "sectionCount": 12,
+          "status": "ready"
+        },
+        {
+          "slug": "de-genio-socratis-11h23u",
+          "label": "De Genio Socratis",
+          "partId": "moralia-volume-x-1w3umf",
+          "partTitle": "Moralia, Volume X",
+          "sectionCount": 34,
+          "status": "ready"
+        },
+        {
+          "slug": "de-exilio-1c9gwe",
+          "label": "De exilio",
+          "partId": "moralia-volume-x-1w3umf",
+          "partTitle": "Moralia, Volume X",
+          "sectionCount": 17,
+          "status": "ready"
+        },
+        {
+          "slug": "consolatio-ad-uxorem-130lqu",
+          "label": "Consolatio Ad Uxorem",
+          "partId": "moralia-volume-x-1w3umf",
+          "partTitle": "Moralia, Volume X",
+          "sectionCount": 11,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "de-fato-1fzuk6",
+      "label": "De Fato",
+      "partId": "moralia-volume-x-1w3umf",
+      "partTitle": "Moralia, Volume X",
+      "sectionCount": 12,
+      "status": "ready"
+    },
+    {
+      "slug": "de-genio-socratis-11h23u",
+      "label": "De Genio Socratis",
+      "partId": "moralia-volume-x-1w3umf",
+      "partTitle": "Moralia, Volume X",
+      "sectionCount": 34,
+      "status": "ready"
+    },
+    {
+      "slug": "de-exilio-1c9gwe",
+      "label": "De exilio",
+      "partId": "moralia-volume-x-1w3umf",
+      "partTitle": "Moralia, Volume X",
+      "sectionCount": 17,
+      "status": "ready"
+    },
+    {
+      "slug": "consolatio-ad-uxorem-130lqu",
+      "label": "Consolatio Ad Uxorem",
+      "partId": "moralia-volume-x-1w3umf",
+      "partTitle": "Moralia, Volume X",
+      "sectionCount": 11,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "de-fato-1fzuk6",
+      "partTitle": "Moralia, Volume X",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ εἱμαρμένης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg108.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Of Fate.",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg108.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "de-genio-socratis-11h23u",
+      "partTitle": "Moralia, Volume X",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τοῦ Σωκράτους δαιμονίου",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg109.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "A Discourse Concerning Socrates's Daemon",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg109.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "de-exilio-1c9gwe",
+      "partTitle": "Moralia, Volume X",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ φυγῆς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg110.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Of Banishment, or Flying One's Country.",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg110.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "consolatio-ad-uxorem-130lqu",
+      "partTitle": "Moralia, Volume X",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Παραμυθητικός εἰς τὴν γυναῖκα τὴν αὑτου",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg111.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Plutarch's Consolatory Letter to His Wife",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg111.perseus-eng2/"
+      }
+    }
+  ]
+}

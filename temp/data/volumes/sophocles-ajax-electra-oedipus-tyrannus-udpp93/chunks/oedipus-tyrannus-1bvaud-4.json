@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "sophocles-ajax-electra-oedipus-tyrannus-udpp93",
+  "volumeTitle": "Ajax. Electra. Oedipus Tyrannus",
+  "authorDisplay": "Sophocles",
+  "authors": [
+    "Sophocles"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "oedipus-tyrannus-1bvaud-4",
+  "label": "Oedipus Tyrannus (Section 1.475 - Section 605)",
+  "partId": "oedipus-tyrannus-1bvaud",
+  "partTitle": "Oedipus Tyrannus",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Οἰδίπους Τύραννος",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Oedipus Tyrannus",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.475",
+      "label": "Section 1.475",
+      "chapter": null,
+      "original": "φοιτᾷ γὰρ ὑπʼ ἀγρίαν",
+      "translation": "ordering all to search for the unknown man . He wanders under cover of the wild wood , among caves and rocks , fierce as a bull , wretched and forlorn on his joyless path , still seeking to separate himself from the doom revealed at the central shrine of the earth ."
+    },
+    {
+      "id": "1.480",
+      "label": "Section 1.480",
+      "chapter": null,
+      "original": "τὰ μεσόμφαλα γᾶς ἀπονοσφίζων",
+      "translation": "But that doom lives forever , forever flits around him ."
+    },
+    {
+      "id": "2.483",
+      "label": "Section 2.483",
+      "chapter": null,
+      "original": "δεινὰ μὲν οὖν , δεινὰ ταράσσει σοφὸς οἰωνοθέτας",
+      "translation": "The wise augur moves me , neither approving nor denying , with dread , with dread indeed ."
+    },
+    {
+      "id": "2.485",
+      "label": "Section 2.485",
+      "chapter": null,
+      "original": "οὔτε δοκοῦντʼ οὔτʼ ἀποφάσκονθʼ · ὅ τι λέξω δʼ ἀπορῶ .",
+      "translation": "I am at a loss what to say . I am flustered in my expectations , seeing neither the present nor the future clearly . Never in past days or in these have I heard how the house of Labdacus or the son of Polybus had any quarrel with one another that"
+    },
+    {
+      "id": "2.490",
+      "label": "Section 2.490",
+      "chapter": null,
+      "original": "ἢ τῷ Πολύβου νεῖκος ἔκειτʼ , οὔτε πάροιθέν ποτʼ ἔγωγʼ",
+      "translation": "I could bring as proof in assailing the public reputation of Oedipus , seeking to avenge the line of Labdacus"
+    },
+    {
+      "id": "2.495",
+      "label": "Section 2.495",
+      "chapter": null,
+      "original": "ἐπίκουρος ἀδήλων θανάτων .",
+      "translation": "for the undiscovered murder ."
+    },
+    {
+      "id": "2.496",
+      "label": "Section 2.496",
+      "chapter": null,
+      "original": "ἀλλʼ ὁ μὲν οὖν Ζεὺς ὅ τʼ Ἀπόλλων ξυνετοὶ καὶ τὰ βροτῶν",
+      "translation": "Zeus and Apollo indeed are keen of thought and know the affairs of the earth ."
+    },
+    {
+      "id": "2.500",
+      "label": "Section 2.500",
+      "chapter": null,
+      "original": "εἰδότες · ἀνδρῶν δʼ ὅτι μάντις πλέον ἢ ʼγὼ φέρεται ,",
+      "translation": "But there is no sure test of whether a mortal seer attains more knowledge than I do , though man may surpass man in wisdom . But until I see the word made good , I will never assent when men blame Oedipus . Before all eyes the winged maiden came against him once upon a time , and he was seen to be wise ,"
+    },
+    {
+      "id": "2.510",
+      "label": "Section 2.510",
+      "chapter": null,
+      "original": "ποτέ , καὶ σοφὸς ὤφθη βασάνῳ θʼ ἁδύπολις τῷ ἀπʼ ἐμᾶς",
+      "translation": "and bore the test in welcome service to the state . Never , therefore , will he be adjudged guilty of evil ."
+    },
+    {
+      "id": "513",
+      "label": "Section 513",
+      "chapter": null,
+      "original": "ἄνδρες πολῖται , δείνʼ ἔπη πεπυσμένος",
+      "translation": "Fellow citizens , having learned that Oedipus the king lays dire charges against me , I have come in indignation ."
+    },
+    {
+      "id": "515",
+      "label": "Section 515",
+      "chapter": null,
+      "original": "πάρειμʼ ἀτλητῶν . εἰ γὰρ ἐν ταῖς ξυμφοραῖς",
+      "translation": "If he thinks that in the present troubles he has suffered from me , by word or by deed , anything harmful , truly I do not desire my full term of years , when I must bear such blame as this . The wrong of this rumor"
+    },
+    {
+      "id": "520",
+      "label": "Section 520",
+      "chapter": null,
+      "original": "ἡ ζημία μοι τοῦ λόγου τούτου φέρει ,",
+      "translation": "touches me not in one point alone , but has the largest scope , if I am to be called a traitor in the city , a traitor by you and by my friends ."
+    },
+    {
+      "id": "523",
+      "label": "Section 523",
+      "chapter": null,
+      "original": "ἀλλʼ ἦλθε μὲν δὴ τοῦτο τοὔνειδος τάχʼ ἂν",
+      "translation": "But perhaps this taunt came under the stress of anger , rather than from the purpose of his heart ."
+    },
+    {
+      "id": "525",
+      "label": "Section 525",
+      "chapter": null,
+      "original": "τοὔπος δʼ ἐφάνθη , ταῖς ἐμαῖς γνώμαις ὅτι",
+      "translation": "Was the opinion given that my counsels had brought the seer to utter his falsehoods ?"
+    },
+    {
+      "id": "527",
+      "label": "Section 527",
+      "chapter": null,
+      "original": "ηὐδᾶτο μὲν τάδʼ , οἶδα δʼ οὐ γνώμῃ τίνι .",
+      "translation": "Such things were said — I do not know with what meaning ."
+    },
+    {
+      "id": "529",
+      "label": "Section 529",
+      "chapter": null,
+      "original": "κατηγορεῖτο τοὐπίκλημα τοῦτό μου ;",
+      "translation": "And was this charge laid against me with steady eyes and steady mind ?"
+    },
+    {
+      "id": "530",
+      "label": "Section 530",
+      "chapter": null,
+      "original": "οὐκ οἶδʼ · ἃ γὰρ δρῶσʼ , οἱ κρατοῦντες οὐχ ὁρῶ .",
+      "translation": "I do not know . I see not what my masters do . But here comes our lord from the house ."
+    },
+    {
+      "id": "532",
+      "label": "Section 532",
+      "chapter": null,
+      "original": "οὗτος σύ , πῶς δεῦρʼ ἦλθες ; ἦ τοσόνδʼ ἔχεις",
+      "translation": "You , how did you get here ? Are you so boldfaced that you have come to my house , you who are manifestly the murderer of its master ,"
+    },
+    {
+      "id": "535",
+      "label": "Section 535",
+      "chapter": null,
+      "original": "λῃστής τʼ ἐναργὴς τῆς ἐμῆς τυραννίδος ;",
+      "translation": "the palpable thief of its crown ? Come , tell me , in the name of the gods , was it cowardice or folly which you saw in me and which led you to plot this thing ? Did you think that I would not notice this deed of yours creeping upon me by stealth , or that if I became aware of it I would not ward it off ?"
+    },
+    {
+      "id": "540",
+      "label": "Section 540",
+      "chapter": null,
+      "original": "ἆρʼ οὐχὶ μῶρόν ἐστι τοὐγχείρημά σου ,",
+      "translation": "Is your attempt not foolish , to seek the throne without followers or friends — a prize which followers and wealth must win ?"
+    },
+    {
+      "id": "543",
+      "label": "Section 543",
+      "chapter": null,
+      "original": "οἶσθʼ ὡς πόησον ; ἀντὶ τῶν εἰρημένων",
+      "translation": "Mark me now : hear a fair reply in answer to your words , and then judge for yourself on the basis of knowledge ."
+    },
+    {
+      "id": "545",
+      "label": "Section 545",
+      "chapter": null,
+      "original": "λέγειν σὺ δεινός , μανθάνειν δʼ ἐγὼ κακὸς",
+      "translation": "You are apt in speech , but I have a poor wit for lessons , since I have found you a malignant foe ."
+    },
+    {
+      "id": "547",
+      "label": "Section 547",
+      "chapter": null,
+      "original": "τοῦτʼ αὐτὸ νῦν μου πρῶτʼ ἄκουσον ὡς ἐρῶ .",
+      "translation": "Now hear first how I will explain this very thing ."
+    },
+    {
+      "id": "548",
+      "label": "Section 548",
+      "chapter": null,
+      "original": "τοῦτʼ αὐτὸ μή μοι φράζʼ , ὅπως οὐκ εἶ κακός .",
+      "translation": "One thing — that you are not false — do not bother to explain to me ."
+    },
+    {
+      "id": "549",
+      "label": "Section 549",
+      "chapter": null,
+      "original": "εἴ τοι νομίζεις κτῆμα τὴν αὐθαδίαν",
+      "translation": "If you think that stubbornness"
+    },
+    {
+      "id": "550",
+      "label": "Section 550",
+      "chapter": null,
+      "original": "εἶναί τι τοῦ νοῦ χωρίς , οὐκ ὀρθῶς φρονεῖς .",
+      "translation": "without sense is a virtue , you are not wise ."
+    },
+    {
+      "id": "551",
+      "label": "Section 551",
+      "chapter": null,
+      "original": "εἴ τοι νομίζεις ἄνδρα συγγενῆ κακῶς",
+      "translation": "If you think you can wrong a kinsman and escape the penalty , you are not sane ."
+    },
+    {
+      "id": "553",
+      "label": "Section 553",
+      "chapter": null,
+      "original": "ξύμφημί σοι ταῦτʼ ἔνδικʼ εἰρῆσθαι · τὸ δὲ",
+      "translation": "Justly said , I grant you : but tell me what the wrong is that you say you are suffering at my hands ."
+    },
+    {
+      "id": "555",
+      "label": "Section 555",
+      "chapter": null,
+      "original": "ἔπειθες ἢ οὐκ ἔπειθες , ὡς χρείη μʼ ἐπὶ",
+      "translation": "Did you , or did you not , advise me to send for that reverend seer ?"
+    },
+    {
+      "id": "557",
+      "label": "Section 557",
+      "chapter": null,
+      "original": "καὶ νῦν ἔθʼ αὑτός εἰμι τῷ βουλεύματι .",
+      "translation": "Even now I am of the same mind ."
+    },
+    {
+      "id": "558",
+      "label": "Section 558",
+      "chapter": null,
+      "original": "πόσον τινʼ ἤδη δῆθʼ ὁ Λάϊος χρόνον",
+      "translation": "How long is it , then , since Laius . . ."
+    },
+    {
+      "id": "559",
+      "label": "Section 559",
+      "chapter": null,
+      "original": "δέδρακε ποῖον ἔργον ; οὐ γὰρ ἐννοῶ .",
+      "translation": "Did what ? I do not understand ."
+    },
+    {
+      "id": "560",
+      "label": "Section 560",
+      "chapter": null,
+      "original": "ἄφαντος ἔρρει θανασίμῳ χειρώματι ;",
+      "translation": "was swept out of sight by deadly violence ?"
+    },
+    {
+      "id": "561",
+      "label": "Section 561",
+      "chapter": null,
+      "original": "μακροὶ παλαιοί τʼ ἂν μετρηθεῖεν χρόνοι .",
+      "translation": "The count of years would run far into the past ."
+    },
+    {
+      "id": "562",
+      "label": "Section 562",
+      "chapter": null,
+      "original": "τότʼ οὖν ὁ μάντις οὗτος ἦν ἐν τῇ τέχνῃ ;",
+      "translation": "Did this seer possess this skill in those days ?"
+    },
+    {
+      "id": "563",
+      "label": "Section 563",
+      "chapter": null,
+      "original": "σοφός γʼ ὁμοίως κἀξ ἴσου τιμώμενος .",
+      "translation": "He was wise as now , and held in equal honor ."
+    },
+    {
+      "id": "564",
+      "label": "Section 564",
+      "chapter": null,
+      "original": "ἐμνήσατʼ οὖν ἐμοῦ τι τῷ τότʼ ἐν χρόνῳ ;",
+      "translation": "Did he make mention of me at that time ?"
+    },
+    {
+      "id": "565",
+      "label": "Section 565",
+      "chapter": null,
+      "original": "οὔκουν ἐμοῦ γʼ ἑστῶτος οὐδαμοῦ πέλας .",
+      "translation": "Never , certainly , when I was within hearing ."
+    },
+    {
+      "id": "566",
+      "label": "Section 566",
+      "chapter": null,
+      "original": "ἀλλʼ οὐκ ἔρευναν τοῦ κτανόντος ἔσχετε ;",
+      "translation": "Did you never investigate the murder ?"
+    },
+    {
+      "id": "567",
+      "label": "Section 567",
+      "chapter": null,
+      "original": "παρέσχομεν , πῶς δʼ οὐχί ; κοὐκ ἠκούσαμεν .",
+      "translation": "Due search we made , of course , though we learned nothing ."
+    },
+    {
+      "id": "568",
+      "label": "Section 568",
+      "chapter": null,
+      "original": "πῶς οὖν τόθʼ οὗτος ὁ σοφὸς οὐκ ηὔδα τάδε ;",
+      "translation": "And how was it that this sage did not tell this story then ."
+    },
+    {
+      "id": "569",
+      "label": "Section 569",
+      "chapter": null,
+      "original": "οὐκ οἶδʼ · ἐφʼ οἷς γὰρ μὴ φρονῶ σιγᾶν φιλῶ .",
+      "translation": "I do not know : where I lack insight it is my custom to be silent ."
+    },
+    {
+      "id": "570",
+      "label": "Section 570",
+      "chapter": null,
+      "original": "τοσόνδε γʼ οἶσθα καὶ λέγοις ἂν εὖ φρονῶν .",
+      "translation": "This much , at least , you know , and could declare with insight enough ."
+    },
+    {
+      "id": "571",
+      "label": "Section 571",
+      "chapter": null,
+      "original": "ποῖον τόδʼ ; εἰ γὰρ οἶδά γʼ , οὐκ ἀρνήσομαι .",
+      "translation": "What is that ? If I know it , I will not deny it ."
+    },
+    {
+      "id": "572",
+      "label": "Section 572",
+      "chapter": null,
+      "original": "ὁθούνεκʼ , εἰ μὴ σοὶ ξυνῆλθε , τάσδʼ ἐμὰς",
+      "translation": "That , if he had not conferred with you , he would not have named me as Laius ’ slayer ."
+    },
+    {
+      "id": "574",
+      "label": "Section 574",
+      "chapter": null,
+      "original": "εἰ μὲν λέγει τάδʼ , αὐτὸς οἶσθʼ · ἐγὼ δὲ σοῦ",
+      "translation": "If he says this , you know best : but I deem it just"
+    },
+    {
+      "id": "575",
+      "label": "Section 575",
+      "chapter": null,
+      "original": "μαθεῖν δικαιῶ ταὔθʼ ἅπερ κἀμοῦ σὺ νῦν .",
+      "translation": "to learn from you as much as you have from me now ."
+    },
+    {
+      "id": "576",
+      "label": "Section 576",
+      "chapter": null,
+      "original": "ἐκμάνθανʼ · οὐ γὰρ δὴ φονεὺς ἁλώσομαι .",
+      "translation": "Learn your fill . I will never be found guilty of the bloodshed ."
+    },
+    {
+      "id": "577",
+      "label": "Section 577",
+      "chapter": null,
+      "original": "τί δῆτʼ ; ἀδελφὴν τὴν ἐμὴν γήμας ἔχεις ;",
+      "translation": "Say , then — have you married my sister ?"
+    },
+    {
+      "id": "578",
+      "label": "Section 578",
+      "chapter": null,
+      "original": "ἄρνησις οὐκ ἔνεστιν ὧν ἀνιστορεῖς .",
+      "translation": "The question allows no denial ."
+    },
+    {
+      "id": "579",
+      "label": "Section 579",
+      "chapter": null,
+      "original": "ἄρχεις δʼ ἐκείνῃ ταὐτὰ γῆς ἴσον νέμων ;",
+      "translation": "And you rule the land as she does , with equal sway ."
+    },
+    {
+      "id": "580",
+      "label": "Section 580",
+      "chapter": null,
+      "original": "ἃν ᾖ θέλουσα πάντʼ ἐμοῦ κομίζεται .",
+      "translation": "She obtains from me all that she wishes ."
+    },
+    {
+      "id": "581",
+      "label": "Section 581",
+      "chapter": null,
+      "original": "οὔκουν ἰσοῦμαι σφῷν ἐγὼ δυοῖν τρίτος ;",
+      "translation": "And do I not rank as a third peer of you two ?"
+    },
+    {
+      "id": "582",
+      "label": "Section 582",
+      "chapter": null,
+      "original": "ἐνταῦθα γὰρ δὴ καὶ κακὸς φαίνει φίλος .",
+      "translation": "It is just in this that you are seen to be a false friend ."
+    },
+    {
+      "id": "583",
+      "label": "Section 583",
+      "chapter": null,
+      "original": "οὔκ , εἰ διδοίης γʼ ὡς ἐγὼ σαυτῷ λόγον .",
+      "translation": "Not so , if you would reason with your heart as I do with mine . Weigh this first — whether you think that anyone would"
+    },
+    {
+      "id": "585",
+      "label": "Section 585",
+      "chapter": null,
+      "original": "ἄρχειν ἑλέσθαι ξὺν φόβοισι μᾶλλον ἢ",
+      "translation": "choose to rule amid terrors rather than in unruffled peace , granted that he is to have the same powers . Now I , for one , have by nature no yearning to rule as a king rather than to do kingly deeds , and neither does any man I know who has a sound mind ."
+    },
+    {
+      "id": "590",
+      "label": "Section 590",
+      "chapter": null,
+      "original": "νῦν μὲν γὰρ ἐκ σοῦ πάντʼ ἄνευ φόβου φέρω ,",
+      "translation": "For now I attain all everything from you without fear , but , if I were ruler myself , I would have to do much that went against my own pleasure .\nHow , then , could royalty be sweeter to me to have than painless rule and influence ? I am not yet so misguided"
+    },
+    {
+      "id": "595",
+      "label": "Section 595",
+      "chapter": null,
+      "original": "ὥστʼ ἄλλα χρῄζειν ἢ τὰ σὺν κέρδει καλά .",
+      "translation": "that I desire other honors than those which bring profit . Now , every man has a greeting for me ; now , all that have a request of you crave to speak with me , since in me lies all their hope of success . Why then should I give up these things and take those others ?"
+    },
+    {
+      "id": "600",
+      "label": "Section 600",
+      "chapter": null,
+      "original": "οὐκ ἂν γένοιτο νοῦς κακὸς καλῶς φρονῶν .",
+      "translation": "No mind will become false while it is wise . No , I am no lover of such a policy , and if another put it into action , I could never bear to go along with him . And , in proof of this , first go to Pytho , and ask whether I brought a true report of the oracle ."
+    },
+    {
+      "id": "605",
+      "label": "Section 605",
+      "chapter": null,
+      "original": "τοῦτʼ ἄλλʼ , ἐάν με τῷ τερασκόπῳ λάβῃς",
+      "translation": "Then next , if you have found that I have planned anything in concert with the soothsayer , take and slay me , by the sentence not of one mouth , but of two — by my own no less than yours . But do not assume my guilt on unproven inference . It is not just to judge bad men good at random ,"
+    }
+  ],
+  "prevChunkSlug": "oedipus-tyrannus-1bvaud-3",
+  "nextChunkSlug": "oedipus-tyrannus-1bvaud-5"
+}

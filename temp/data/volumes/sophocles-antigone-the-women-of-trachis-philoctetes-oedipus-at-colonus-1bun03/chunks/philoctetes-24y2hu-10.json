@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "sophocles-antigone-the-women-of-trachis-philoctetes-oedipus-at-colonus-1bun03",
+  "volumeTitle": "Antigone. The Women of Trachis. Philoctetes. Oedipus at Colonus",
+  "authorDisplay": "Sophocles",
+  "authors": [
+    "Sophocles"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "philoctetes-24y2hu-10",
+  "label": "Philoctetes (Section 1290 - Section 1407)",
+  "partId": "philoctetes-24y2hu",
+  "partTitle": "Philoctetes",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Φιλοκτήτης",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg006.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Philoctetes",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg006.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1290",
+      "label": "Section 1290",
+      "chapter": null,
+      "original": "ὦ φίλτατʼ εἰπών , εἰ λέγεις ἐτήτυμα .",
+      "translation": "O welcome words — if your words are true !"
+    },
+    {
+      "id": "1291",
+      "label": "Section 1291",
+      "chapter": null,
+      "original": "τοὔργον παρέσται φανερόν · ἀλλὰ δεξιὰν",
+      "translation": "The deed will soon make it plain . Come , stretch out your right hand and be master of your bow ! As he hands the bow and arrows to Philoctetes , Odysseus suddenly appears ."
+    },
+    {
+      "id": "1293",
+      "label": "Section 1293",
+      "chapter": null,
+      "original": "ἐγὼ δʼ ἀπαυδῶ γʼ , ᾧ θεοὶ ξυνίστορες ,",
+      "translation": "But I forbid it , as the gods are my witnesses , in the name of the Atreids and the entire army !"
+    },
+    {
+      "id": "1295",
+      "label": "Section 1295",
+      "chapter": null,
+      "original": "τέκνον , τίνος φώνημα , μῶν Ὀδυσσέως ,",
+      "translation": "Son , whose voice was that ? Do I hear Odysseus ?"
+    },
+    {
+      "id": "1296a",
+      "label": "Section 1296a",
+      "chapter": null,
+      "original": "σάφʼ ἴσθι · καὶ πέλας γʼ ὁρᾷς ,",
+      "translation": "Be sure of it , and you see him at your side , who will carry you to the plains of Troy by force , whether or not the son of Achilles is willing ."
+    },
+    {
+      "id": "1299",
+      "label": "Section 1299",
+      "chapter": null,
+      "original": "ἀλλʼ οὔ τι χαίρων , ἢν τόδʼ ὀρθωθῇ βέλος .",
+      "translation": "But it will bring you no joy , if this arrow fly straight . Odysseus flees from the stage ."
+    },
+    {
+      "id": "1300",
+      "label": "Section 1300",
+      "chapter": null,
+      "original": "ἆ , μηδαμῶς , μή , πρὸς θεῶν , μεθῇς βέλος .",
+      "translation": "Wait — by the gods , no ! Do not let it fly !"
+    },
+    {
+      "id": "1301",
+      "label": "Section 1301",
+      "chapter": null,
+      "original": "μέθες με , πρὸς θεῶν , χεῖρα , φίλτατον τέκνον .",
+      "translation": "Let go of me , in the name of the gods , dear boy !"
+    },
+    {
+      "id": "1302",
+      "label": "Section 1302",
+      "chapter": null,
+      "original": "οὐκ ἂν μεθείην .",
+      "translation": "I will not ."
+    },
+    {
+      "id": "1302a",
+      "label": "Section 1302a",
+      "chapter": null,
+      "original": "φεῦ · τί μʼ ἄνδρα πολέμιον",
+      "translation": "Alas ! Why did you take from me the chance to kill my hated enemy with my bow ?"
+    },
+    {
+      "id": "1304",
+      "label": "Section 1304",
+      "chapter": null,
+      "original": "ἀλλʼ οὔτʼ ἐμοὶ τοῦτʼ ἐστὶν οὔτε σοὶ καλόν .",
+      "translation": "It would have been honorable neither for me , nor for you ."
+    },
+    {
+      "id": "1305",
+      "label": "Section 1305",
+      "chapter": null,
+      "original": "ἀλλʼ οὖν τοσοῦτόν γʼ ἴσθι , τοὺς πρώτους στρατοῦ ,",
+      "translation": "Well , you may be sure of one thing , at least : the army ’ s chiefs , the lying heralds of the Greeks , though bold with words , are cowards in the fight ."
+    },
+    {
+      "id": "1308",
+      "label": "Section 1308",
+      "chapter": null,
+      "original": "εἶεν · τὰ μὲν δὴ τόξʼ ἔχεις , κοὐκ ἔσθʼ ὅτου",
+      "translation": "Good ; the bow is yours , and you have no cause for anger or complaint against me ."
+    },
+    {
+      "id": "1310",
+      "label": "Section 1310",
+      "chapter": null,
+      "original": "ξύμφημι · τὴν φύσιν δʼ ἔδειξας , ὦ τέκνον ,",
+      "translation": "Agreed . You have revealed the true stock , my son , from which you spring . You are no child of Sisyphus , but of Achilles , whose fame was the fairest when he was among the living , as it is now with the dead ."
+    },
+    {
+      "id": "1314",
+      "label": "Section 1314",
+      "chapter": null,
+      "original": "ἥσθην πατέρα τὸν ἀμὸν εὐλογοῦντά σε",
+      "translation": "I delight at your praise of my father ,"
+    },
+    {
+      "id": "1315",
+      "label": "Section 1315",
+      "chapter": null,
+      "original": "αὐτόν τʼ ἔμʼ · ὧν δέ σου τυχεῖν ἐφίεμαι ,",
+      "translation": "and of myself . But hear what I desire to gain from you . It is true that men are compelled to bear the fortunes given by the gods ; but when they cling to self-inflicted miseries , as you do ,"
+    },
+    {
+      "id": "1320",
+      "label": "Section 1320",
+      "chapter": null,
+      "original": "δίκαιόν ἐστιν οὔτʼ ἐποικτίρειν τινά .",
+      "translation": "no one can justly excuse or pity them . You have become savage : you welcome no counsellor , and if someone admonishes you , even if he speaks in all good will , you detest him and consider him an enemy who wishes you ill . All the same I will speak to you , calling Zeus who guards oaths to witness ."
+    },
+    {
+      "id": "1325",
+      "label": "Section 1325",
+      "chapter": null,
+      "original": "καὶ ταῦτʼ ἐπίστω καὶ γράφου φρενῶν ἔσω .",
+      "translation": "And you remember these words and write them in your heart : you suffer this plague ’ s affliction in accordance with god-sent fate , because you came near to Chryse ’ s guardian , the serpent who secretly watches over her home and guards her roofless sanctuary . Know also that you will never gain relief from this grave sickness ,"
+    },
+    {
+      "id": "1330",
+      "label": "Section 1330",
+      "chapter": null,
+      "original": "νόσου βαρείας , ἕως ἂν αὑτὸς ἥλιος",
+      "translation": "as long as the sun still rises in the east and sets in the west , until of your own free will you come to the plains of Troy , find there the sons of Asclepius , our comrades , be relieved of this infection , and , with this bow ’ s"
+    },
+    {
+      "id": "1335",
+      "label": "Section 1335",
+      "chapter": null,
+      "original": "ξὺν τοῖσδε τόξοις ξύν τʼ ἐμοὶ πέρσας φανῇς .",
+      "translation": "aid and mine , be hailed as the sacker of Troy ’ s towers . How I know these things are so ordained , I will tell you . We have a Trojan prisoner , Helenus , foremost among seers , who says plainly that all this must come to pass , and further ,"
+    },
+    {
+      "id": "1340",
+      "label": "Section 1340",
+      "chapter": null,
+      "original": "ὡς ἔστʼ ἀνάγκη τοῦ παρεστῶτος θέρους",
+      "translation": "that this very summer must see the complete capture of Troy . Otherwise he willingly gives himself over for execution , if these prophecies of his prove false . Therefore , now that you understand everything , give way graciously . It is a glorious addition to your gain to be singled out"
+    },
+    {
+      "id": "1345",
+      "label": "Section 1345",
+      "chapter": null,
+      "original": "κριθέντʼ ἄριστον τοῦτο μὲν παιωνίας",
+      "translation": "as best of the Greeks — first , for coming into healing hands , and then for taking Troy rich in tears , and so winning a matchless renown ."
+    },
+    {
+      "id": "1348",
+      "label": "Section 1348",
+      "chapter": null,
+      "original": "ὦ στυγνὸς αἰών , τί με , τί δῆτʼ ἔχεις ἄνω",
+      "translation": "Hateful life , why , why do you keep me in the light of day , instead of letting me go to Hades ’ domain ?"
+    },
+    {
+      "id": "1350",
+      "label": "Section 1350",
+      "chapter": null,
+      "original": "οἴμοι , τί δράσω ; πῶς ἀπιστήσω λόγοις",
+      "translation": "Ah , me , what shall I do ? How can I ignore this man ’ s words , when he has advised me with good will ? But shall I yield , then ? How , after doing that , shall I , ill-fated , come into men ’ s sight ? Whom will I be able to talk to ? You orbs that have watched my every suffering ,"
+    },
+    {
+      "id": "1355",
+      "label": "Section 1355",
+      "chapter": null,
+      "original": "ταῦτʼ ἐξανασχήσεσθε , τοῖσιν Ἀτρέως",
+      "translation": "how could you endure to see me consorting with the sons of Atreus , who caused my ruin , or with the accursed son of Laertes ? It is not my resentment for what has already been done that stings me , rather it is the many troubles which I seem to foresee I must suffer at the hands of"
+    },
+    {
+      "id": "1360",
+      "label": "Section 1360",
+      "chapter": null,
+      "original": "δοκῶ προλεύσσειν · οἷς γὰρ ἡ γνώμη κακῶν",
+      "translation": "these men in the future . For when the mind of men has once mothered wrongdoing , it trains those men to be wrongdoers in all else thereafter . And in you , too , I wonder at this . You should never yourself revisit Troy , and should prevent me from going there , seeing that those men have done you outrage"
+    },
+    {
+      "id": "1365",
+      "label": "Section 1365",
+      "chapter": null,
+      "original": "πατρὸς γέρας συλῶντες , εἶτα τοῖσδε σὺ",
+      "translation": "by stripping you of your father ’ s arms when , in the suit for the weapons , they judged unhappy Ajax inferior to Odysseus . After that , will you go to fight at their side , and compel me to do the same ? No , do not do it , son , but , as you swore to me , escort me home . You yourself remain in Scyros , and leave those evil men to their evil doom ."
+    },
+    {
+      "id": "1370",
+      "label": "Section 1370",
+      "chapter": null,
+      "original": "χοὔτω διπλῆν μὲν ἐξ ἐμοῦ κτήσει χάριν ,",
+      "translation": "So shall you win double thanks from me , as from your father , and you will not appear through your service to bad men to be like them in your nature ."
+    },
+    {
+      "id": "1374",
+      "label": "Section 1374",
+      "chapter": null,
+      "original": "θεοῖς τε πιστεύσαντα τοῖς τʼ ἐμοῖς λόγοις",
+      "translation": "Your recommendation is reasonable , but nevertheless , I wish that you would put your trust in the gods and in my words ,"
+    },
+    {
+      "id": "1375",
+      "label": "Section 1375",
+      "chapter": null,
+      "original": "φίλου μετʼ ἀνδρὸς τοῦδε τῆσδʼ ἐκπλεῖν χθονός .",
+      "translation": "and sail from this land with me , your friend ."
+    },
+    {
+      "id": "1376",
+      "label": "Section 1376",
+      "chapter": null,
+      "original": "ἦ πρὸς τὰ Τροίας πεδία καὶ τὸν Ἀτρέως",
+      "translation": "What ! To the plains of Troy and to the abhorred son of Atreus , with this miserable foot ?"
+    },
+    {
+      "id": "1378",
+      "label": "Section 1378",
+      "chapter": null,
+      "original": "πρὸς τοὺς μὲν οὖν σε τήνδε τʼ ἔμπυον βάσιν",
+      "translation": "No , rather to those who will free you and your pus-filled limb from pain , and will save you from your sickness ."
+    },
+    {
+      "id": "1380",
+      "label": "Section 1380",
+      "chapter": null,
+      "original": "ὦ δεινὸν αἶνον αἰνέσας , τί φής ποτε ;",
+      "translation": "You giver of frightening advice , what have you said ?"
+    },
+    {
+      "id": "1381",
+      "label": "Section 1381",
+      "chapter": null,
+      "original": "ἃ σοί τε κἀμοὶ λῷσθʼ ὁρῶ τελούμενα .",
+      "translation": "I recognize what will be best in the end for you and for me ."
+    },
+    {
+      "id": "1382",
+      "label": "Section 1382",
+      "chapter": null,
+      "original": "καὶ ταῦτα λέξας οὐ καταισχύνει θεούς ;",
+      "translation": "Have you no shame before the gods for saying that ?"
+    },
+    {
+      "id": "1383",
+      "label": "Section 1383",
+      "chapter": null,
+      "original": "πῶς γάρ τις αἰσχύνοιτʼ ἂν ὠφελῶν φίλους ·",
+      "translation": "Why should a man be ashamed of benefiting his friends ?"
+    },
+    {
+      "id": "1384",
+      "label": "Section 1384",
+      "chapter": null,
+      "original": "λέγεις δʼ Ἀτρείδαις ὄφελος ἢ ʼπʼ ἐμοὶ τόδε ;",
+      "translation": "Do you mean a benefit to the Atreids , or for me ?"
+    },
+    {
+      "id": "1385",
+      "label": "Section 1385",
+      "chapter": null,
+      "original": "σοί που , φίλος γʼ ὤν , χὠ λόγος τοιόσδε μου .",
+      "translation": "For you , certainly , since I am your friend and speak in friendship ."
+    },
+    {
+      "id": "1386",
+      "label": "Section 1386",
+      "chapter": null,
+      "original": "πῶς , ὅς γε τοῖς ἐχθροῖσί μʼ ἐκδοῦναι θέλεις ;",
+      "translation": "How can that be , when you would give me up to my enemies ?"
+    },
+    {
+      "id": "1387",
+      "label": "Section 1387",
+      "chapter": null,
+      "original": "ὦ τᾶν , διδάσκου μὴ θρασύνεσθαι κακοῖς .",
+      "translation": "Please , sir , learn to be less defiant in misfortune ."
+    },
+    {
+      "id": "1388",
+      "label": "Section 1388",
+      "chapter": null,
+      "original": "ὀλεῖς με , γιγνώσκω σε , τοῖσδε τοῖς λόγοις .",
+      "translation": "You will ruin me — I know it — with these words ."
+    },
+    {
+      "id": "1389",
+      "label": "Section 1389",
+      "chapter": null,
+      "original": "οὔκουν ἔγωγε · φημὶ δʼ οὔ σε μανθάνειν .",
+      "translation": "Not I . But you , I say , will not understand ."
+    },
+    {
+      "id": "1390",
+      "label": "Section 1390",
+      "chapter": null,
+      "original": "ἐγὼ οὐκ Ἀτρείδας ἐκβαλόντας οἶδά με ;",
+      "translation": "Do I not know already that the Atreids cast me away ?"
+    },
+    {
+      "id": "1391",
+      "label": "Section 1391",
+      "chapter": null,
+      "original": "ἀλλʼ ἐκβαλόντες εἰ πάλιν σώσουσʼ ὅρα .",
+      "translation": "They cast you out , yes , but look if they will not in turn restore you ."
+    },
+    {
+      "id": "1392",
+      "label": "Section 1392",
+      "chapter": null,
+      "original": "οὐδέποθʼ ἑκόντα γʼ ὥστε τὴν Τροίαν ἰδεῖν .",
+      "translation": "Never — if I must first consent to see Troy ."
+    },
+    {
+      "id": "1393",
+      "label": "Section 1393",
+      "chapter": null,
+      "original": "τί δῆτʼ ἂν ἡμεῖς δρῷμεν , εἰ σέ γʼ ἐν λόγοις",
+      "translation": "What can I do , then if my pleading fails to persuade you of anything that I recommend ?"
+    },
+    {
+      "id": "1395",
+      "label": "Section 1395",
+      "chapter": null,
+      "original": "ὡς ῥᾷστʼ ἐμοὶ μὲν τῶν λόγων λῆξαι , σὲ δὲ",
+      "translation": "The easiest course for me is to stop talking , and for you to live , just as you do now , without deliverance ."
+    },
+    {
+      "id": "1397",
+      "label": "Section 1397",
+      "chapter": null,
+      "original": "ἔα με πάσχειν ταῦθʼ ἅπερ παθεῖν με δεῖ ·",
+      "translation": "Let me bear the sufferings that are fated me . But what you promised me with your right hand in mine — to bring me home ,— that promise fulfil for me , son ,"
+    },
+    {
+      "id": "1400",
+      "label": "Section 1400",
+      "chapter": null,
+      "original": "καὶ μὴ βράδυνε μηδʼ ἐπιμνησθῇς ἔτι",
+      "translation": "and do not delay , or remind me further of Troy . I have had my fill of grief and lamentations ."
+    },
+    {
+      "id": "1402",
+      "label": "Section 1402",
+      "chapter": null,
+      "original": "εἰ δοκεῖ , στείχωμεν .",
+      "translation": "If it is your will , let us go ."
+    },
+    {
+      "id": "1402a",
+      "label": "Section 1402a",
+      "chapter": null,
+      "original": "ὦ γενναῖον εἰρηκὼς ἔπος .",
+      "translation": "O noble words !"
+    },
+    {
+      "id": "1403",
+      "label": "Section 1403",
+      "chapter": null,
+      "original": "ἀντέρειδε νῦν βάσιν σήν .",
+      "translation": "Now lean your steps firmly upon mine ."
+    },
+    {
+      "id": "1403a",
+      "label": "Section 1403a",
+      "chapter": null,
+      "original": "εἰς ὅσον γʼ ἐγὼ σθένω .",
+      "translation": "As far as my strength allows ."
+    },
+    {
+      "id": "1404",
+      "label": "Section 1404",
+      "chapter": null,
+      "original": "αἰτίαν δὲ πῶς Ἀχαιῶν φεύξομαι ;",
+      "translation": "But how shall I escape blame from the Achaeans ?"
+    },
+    {
+      "id": "1404a",
+      "label": "Section 1404a",
+      "chapter": null,
+      "original": "μὴ φροντίσῃς .",
+      "translation": "Disregard it ."
+    },
+    {
+      "id": "1405",
+      "label": "Section 1405",
+      "chapter": null,
+      "original": "τί γάρ , ἐὰν πορθῶσι χώραν τὴν ἐμήν ;",
+      "translation": "What if they ravage my country ?"
+    },
+    {
+      "id": "1405a",
+      "label": "Section 1405a",
+      "chapter": null,
+      "original": "ἐγὼ παρὼν",
+      "translation": "I will be there —"
+    },
+    {
+      "id": "1406",
+      "label": "Section 1406",
+      "chapter": null,
+      "original": "τίνα προσωφέλησιν ἔρξεις ;",
+      "translation": "And what aid will you render ?"
+    },
+    {
+      "id": "1406a",
+      "label": "Section 1406a",
+      "chapter": null,
+      "original": "βέλεσι τοῖς Ἡρακλέους",
+      "translation": "— And with the shafts of Heracles —"
+    },
+    {
+      "id": "1407",
+      "label": "Section 1407",
+      "chapter": null,
+      "original": "πῶς λέγεις ;",
+      "translation": "What ?"
+    }
+  ],
+  "prevChunkSlug": "philoctetes-24y2hu-9",
+  "nextChunkSlug": "philoctetes-24y2hu-11"
+}

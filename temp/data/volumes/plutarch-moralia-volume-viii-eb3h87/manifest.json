@@ -1,0 +1,181 @@
+{
+  "loebNumber": 424,
+  "sortOrder": 424,
+  "slug": "plutarch-moralia-volume-viii-eb3h87",
+  "title": "Moralia, Volume VIII",
+  "volumeLabel": "Moralia, Volume VIII",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Moralia, Volume VIII. Moralia, Volume VIII opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "an-vitiositas-ad-infelicitatem-sufficia-12qns5",
+  "readyChunkCount": 5,
+  "contents": [
+    {
+      "id": "moralia-volume-viii-1bpbws",
+      "title": "Moralia, Volume VIII",
+      "status": "ready",
+      "sectionCount": 58,
+      "chunkSlug": "an-vitiositas-ad-infelicitatem-sufficia-12qns5",
+      "chunks": [
+        {
+          "slug": "an-vitiositas-ad-infelicitatem-sufficia-12qns5",
+          "label": "An vitiositas ad infelicitatem sufficia",
+          "partId": "moralia-volume-viii-1bpbws",
+          "partTitle": "Moralia, Volume VIII",
+          "sectionCount": 5,
+          "status": "ready"
+        },
+        {
+          "slug": "animine-an-corporis-affectiones-sint-peiores-flx57r",
+          "label": "Animine an corporis affectiones sint peiores",
+          "partId": "moralia-volume-viii-1bpbws",
+          "partTitle": "Moralia, Volume VIII",
+          "sectionCount": 4,
+          "status": "ready"
+        },
+        {
+          "slug": "de-garrulitate-8ewcpj",
+          "label": "De Garrulitate",
+          "partId": "moralia-volume-viii-1bpbws",
+          "partTitle": "Moralia, Volume VIII",
+          "sectionCount": 23,
+          "status": "ready"
+        },
+        {
+          "slug": "de-curiositate-19p834",
+          "label": "De curiositate",
+          "partId": "moralia-volume-viii-1bpbws",
+          "partTitle": "Moralia, Volume VIII",
+          "sectionCount": 16,
+          "status": "ready"
+        },
+        {
+          "slug": "de-cupiditate-divitiarum-1t1zdx",
+          "label": "De Cupiditate Divitiarum",
+          "partId": "moralia-volume-viii-1bpbws",
+          "partTitle": "Moralia, Volume VIII",
+          "sectionCount": 10,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "an-vitiositas-ad-infelicitatem-sufficia-12qns5",
+      "label": "An vitiositas ad infelicitatem sufficia",
+      "partId": "moralia-volume-viii-1bpbws",
+      "partTitle": "Moralia, Volume VIII",
+      "sectionCount": 5,
+      "status": "ready"
+    },
+    {
+      "slug": "animine-an-corporis-affectiones-sint-peiores-flx57r",
+      "label": "Animine an corporis affectiones sint peiores",
+      "partId": "moralia-volume-viii-1bpbws",
+      "partTitle": "Moralia, Volume VIII",
+      "sectionCount": 4,
+      "status": "ready"
+    },
+    {
+      "slug": "de-garrulitate-8ewcpj",
+      "label": "De Garrulitate",
+      "partId": "moralia-volume-viii-1bpbws",
+      "partTitle": "Moralia, Volume VIII",
+      "sectionCount": 23,
+      "status": "ready"
+    },
+    {
+      "slug": "de-curiositate-19p834",
+      "label": "De curiositate",
+      "partId": "moralia-volume-viii-1bpbws",
+      "partTitle": "Moralia, Volume VIII",
+      "sectionCount": 16,
+      "status": "ready"
+    },
+    {
+      "slug": "de-cupiditate-divitiarum-1t1zdx",
+      "label": "De Cupiditate Divitiarum",
+      "partId": "moralia-volume-viii-1bpbws",
+      "partTitle": "Moralia, Volume VIII",
+      "sectionCount": 10,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "an-vitiositas-ad-infelicitatem-sufficia-12qns5",
+      "partTitle": "Moralia, Volume VIII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Εἰ αὐτάρκης ἡ κακία πρὸς κακοδαιμονίαν",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg099.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Whether vice be sufficient to cause unhappiness",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg099.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "animine-an-corporis-affectiones-sint-peiores-flx57r",
+      "partTitle": "Moralia, Volume VIII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ποτερον τὰ τῆς ψυχῆς ἢ τὰ τοῦ σώματος πάθη χείρονα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg100.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Whether the Affections of the Soul are Worse Than Those of the Body",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg100.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "de-garrulitate-8ewcpj",
+      "partTitle": "Moralia, Volume VIII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ ἀδολεσχίας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg101.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Concerning Talkativeness",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg101.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "de-curiositate-19p834",
+      "partTitle": "Moralia, Volume VIII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ πολυπραγμοσύνης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg102.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Being a Busybody",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg102.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "de-cupiditate-divitiarum-1t1zdx",
+      "partTitle": "Moralia, Volume VIII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ φιλοπλουτίας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg103.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Of the Love of Wealth",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg103.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "aristotle-longinus-demetrius-poetics-longinus-on-the-sublime-demetrius-on-style-glxb1v",
+  "volumeTitle": "Longinus, Demetrius, Poetics. Longinus: On the Sublime. Demetrius: On Style",
+  "authorDisplay": "Aristotle",
+  "authors": [
+    "Aristotle"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "longinus-demetrius-poetics-1k4r0a-2",
+  "label": "Longinus, Demetrius, Poetics (Section 13.3 - Section 25.2)",
+  "partId": "longinus-demetrius-poetics-1k4r0a",
+  "partTitle": "Longinus, Demetrius, Poetics",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Περὶ ποιητικῆς",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg034.digicorpus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Poetics",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg034.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "13.3",
+      "label": "Section 13.3",
+      "chapter": null,
+      "original": "οὔτε τοὺς μοχθηροὺς ἐξ ἀτυχίας εἰς εὐτυχίαν ( ἀτραγῳδότατον γὰρ τοῦτ ἐστὶ πάντων · οὐδὲν γὰρ ἔχει ὧν δεῖ · οὔτε γὰρ φιλάνθρωπον οὔτε ἐλεεινὸν οὔτε φοβερόν ἐστιν ),",
+      "translation": "Nor again wicked people passing from bad fortune to good . That is the most untragic of all , having none of the requisite qualities , since it does not satisfy our feelings [*] or arouse pity or fear ."
+    },
+    {
+      "id": "13.4",
+      "label": "Section 13.4",
+      "chapter": null,
+      "original": "οὐδ αὖ τὸν σφόδρα πονηρὸν ἐξ εὐτυχίας εἰς δυστυχίαν μεταπίπτειν . Τὸ μὲν γὰρ φιλάνθρωπον ἔχοι ἂν ἡ τοιαύτη σύστασις , ἀλλ οὔτε ἔλεον οὔτε φόβον · ὁ μὲν γὰρ περὶ τὸν ἀνάξιόν ἐστι δυστυχοῦντα , ὁ δὲ περὶ τὸν ὅμοιον , ἔλεος μὲν περὶ τὸν ἀνάξιον , φόβος δὲ περὶ τὸν ὅμοιον , ὥστε οὔτε ἐλεεινὸν οὔτε φοβερὸν ἔσται τὸ συμβαῖνον .",
+      "translation": "1453a 1 Nor again the passing of a thoroughly bad man from good fortune to bad fortune . Such a structure might satisfy our feelings but it arouses neither pity nor fear , the one being for the man who does not deserve his misfortune and the other for the man who is like ourselves — pity for the undeserved misfortune , fear for the man like ourselves — so that the result will arouse neither pity nor fear ."
+    },
+    {
+      "id": "13.5",
+      "label": "Section 13.5",
+      "chapter": null,
+      "original": "Ὁ μεταξὺ ἄρα τούτων λοιπός . Ἔστι δὲ τοιοῦτος ὁ μήτε ἀρετῇ διαφέρων καὶ δικαιοσύνῃ , μήτε διὰ κακίαν καὶ μοχθηρίαν μεταβάλλων εἰς τὴν δυστυχίαν ἀλλὰ δι ἁμαρτίαν τινά , τῶν ἐν μεγάλῃ δόξῃ ὄντων καὶ εὐτυχίᾳ , οἷον Οἰδίπους καὶ Θυέστης καὶ οἱ ἐκ τῶν τοιούτων γενῶν ἐπιφανεῖς ἄνδρες .",
+      "translation": "There remains then the mean between these . This is the sort of man who is not pre-eminently virtous and just , and yet it is through no badness or villainy of his own that he falls into the fortune , but rather through some flaw in him , [*] he being one of those who are in high station and good fortune , like Oedipus and Thyestes and the famous men of such families as those ."
+    },
+    {
+      "id": "14.1",
+      "label": "Section 14.1",
+      "chapter": null,
+      "original": "Ἔστι μὲν οὖν τὸ φοβερὸν καὶ ἐλεεινὸν ἐκ τῆς ὄψεως γίνεσθαι , ἔστι δὲ καὶ ἐξ αὐτῆς τῆς συστάσεως τῶν πραγμάτων , ὅπερ ἐστὶ πρότερον καὶ ποιητοῦ ἀμείνονος .",
+      "translation": "1453b 1 Fear and pity sometimes result from the spectacle and are sometimes aroused by the actual arrangement of the incidents , which is preferable and the mark of a better poet ."
+    },
+    {
+      "id": "14.2",
+      "label": "Section 14.2",
+      "chapter": null,
+      "original": "Δεῖ γὰρ καὶ ἄνευ τοῦ ὁρᾶν οὕτω συνεστάναι τὸν μῦθον ὥστε τὸν ἀκούοντα τὰ πράγματα γινόμενα καὶ φρίττειν καὶ ἐλεεῖν ἐκ τῶν συμβαινόντων · ἅπερ ἂν πάθοι τις ἀκούων τὸν τοῦ Οἰδίποδος μῦθον .",
+      "translation": "The plot should be so constructed that even without seeing the play anyone hearing of the incidents happening thrills with fear and pity as a result of what occurs . So would anyone feel who heard the story of Oedipus ."
+    },
+    {
+      "id": "14.3",
+      "label": "Section 14.3",
+      "chapter": null,
+      "original": "Τὸ δὲ διὰ τῆς ὄψεως τοῦτο παρασκευάζειν ἀτεχνότερον καὶ χορηγίας δεόμενόν ἐστιν .",
+      "translation": "To produce this effect by means of an appeal to the eye is inartistic and needs adventitious aid ,"
+    },
+    {
+      "id": "14.4",
+      "label": "Section 14.4",
+      "chapter": null,
+      "original": "Οἱ δὲ μὴ τὸ φοβερὸν διὰ τῆς ὄψεως ἀλλὰ τὸ τερατῶδες μόνον παρασκευάζοντες οὐδὲν τραγῳδίᾳ κοινωνοῦσιν · οὐ γὰρ πᾶσαν δεῖ ζητεῖν ἡδονὴν ἀπὸ τραγῳδίας , ἀλλὰ τὴν οἰκείαν .",
+      "translation": "while those who by such means produce an effect which is not fearful but merely monstrous have nothing in common with tragedy . [*] For one should not seek from tragedy all kinds of pleasure but that which is peculiar to tragedy ,"
+    },
+    {
+      "id": "14.5",
+      "label": "Section 14.5",
+      "chapter": null,
+      "original": "Ἐπεὶ δὲ τὴν ἀπὸ ἐλέου καὶ φόβου διὰ μιμήσεως δεῖ ἡδονὴν παρασκευάζειν τὸν ποιητήν , φανερὸν ὡς τοῦτο ἐν τοῖς πράγμασιν ἐμποιητέον .",
+      "translation": "and since the poet must by representation produce the pleasure which comes from feeling pity and fear , obviously this quality must be embodied in the incidents ."
+    },
+    {
+      "id": "15.1",
+      "label": "Section 15.1",
+      "chapter": null,
+      "original": "Περὶ δὲ τὰ ἤθη τέτταρά ἐστιν ὧν δεῖ στοχάζεσθαι , ἓν μὲν καὶ πρῶτον , ὅπως χρηστὰ ᾖ .",
+      "translation": "Concerning character there are four points to aim at . The first and most important is that the character should be good ."
+    },
+    {
+      "id": "15.2",
+      "label": "Section 15.2",
+      "chapter": null,
+      "original": "Ἕξει δὲ ἦθος μέν , ἐὰν ὥσπερ ἐλέχθη ποιῇ φανερὰν ὁ λόγος ἢ ἡ πρᾶξις προαίρεσίν . τινα , φαῦλον μὲν ἐὰν φαύλην , χρηστὸν δ ἐὰν χρηστήν .",
+      "translation": "The play will show character if , as we said above , [*] either the dialogue or the actions reveal some choice ; and the character will be good , if the choice is good ."
+    },
+    {
+      "id": "15.3",
+      "label": "Section 15.3",
+      "chapter": null,
+      "original": "Ἔστι δὲ ἐν ἑκάστῳ γένει · καὶ γὰρ γυνή ἐστι χρηστὴ καὶ δοῦλος · καίτοι γε ἴσως τούτων τὸ μὲν χεῖρον , τὸ δὲ ὅλως φαῦλόν ἐστιν .",
+      "translation": "20 But this is relative to each class of people . Even a woman is good and so is a slave , although it may be said that a woman is an inferior thing and a slave beneath consideration ."
+    },
+    {
+      "id": "15.4",
+      "label": "Section 15.4",
+      "chapter": null,
+      "original": "Δεύτερον δὲ τὰ ἁρμόττοντα · ἔστι γὰρ ἀνδρεῖον μὲν τὸ ἦθος , ἀλλ οὐχ ἁρμόττον γυναικὶ τὸ ἀνδρείαν ἢ δεινὴν εἶναι .",
+      "translation": "The second point is that the characters should be appropriate . A character may be manly , but it is not appropriate for a woman to be manly or clever ."
+    },
+    {
+      "id": "15.5",
+      "label": "Section 15.5",
+      "chapter": null,
+      "original": "Τρίτον δὲ τὸ ὅμοιον · τοῦτο γὰρ ἕτερον τοῦ χρηστὸν τὸ ἦθος καὶ ἁρμόττον ποιῆσαι , ὥσπερ εἴρηται .",
+      "translation": "Thirdly , it should be like . [*] This is different from making the character good and from making it appropriate in the sense of the word as used above ."
+    },
+    {
+      "id": "16.1",
+      "label": "Section 16.1",
+      "chapter": null,
+      "original": "Ἀναγνώρισις δὲ τί μέν ἐστιν , εἴρηται πρότερον · εἴδη δὲ ἀναγνωρίσεως , πρώτη μὲν ἡ ἀτεχνοτάτη , καὶ ᾗ πλεῖστοι χρῶνται δι ἀπορίαν , ἡ διὰ τῶν σημείων .",
+      "translation": "What a Discovery is has been already stated . [*] 20 As for kinds of Discovery , first comes the least artistic kind , which is largely used owing to incompetence — discovery by tokens ."
+    },
+    {
+      "id": "16.2",
+      "label": "Section 16.2",
+      "chapter": null,
+      "original": "Τούτων δὲ τὰ μὲν σύμφυτα , οἷον λόγχην ἣν φοροῦσι Γηγενεῖς",
+      "translation": "These may be congenital , like the spear the Earth-born bear or stars , like those which Carcinus [*] uses in his Thyestes [*] ;"
+    },
+    {
+      "id": "16.3",
+      "label": "Section 16.3",
+      "chapter": null,
+      "original": "ἢ ἀστέρας οἵους ἐν τῷ Θυέστῃ Καρκίνος , τὰ δὲ ἐπίκτητα , καὶ τούτων τὰ μὲν ἐν τῷ σώματι , οἷον οὐλαί , τὰ δὲ ἐκτός , τὰ περιδέραια , καὶ οἷον ἐν τῇ Τυροῖ διὰ τῆς σκάφης .",
+      "translation": "or they may be acquired and these may be on the body , for instance , wounds , or external things like necklaces , and in the Tyro [*] the discovery by means of the boat ."
+    },
+    {
+      "id": "16.4",
+      "label": "Section 16.4",
+      "chapter": null,
+      "original": "Ἔστι δὲ καὶ τούτοις χρῆσθαι ἢ βέλτιον ἢ χεῖρον , οἷον Ὀδυσσεὺς διὰ τῆς οὐλῆς ἄλλως ἀνεγνωρίσθη ὑπὸ τῆς τροφοῦ 257 καὶ ἄλλως ὑπὸ τῶν συβοτῶν ·",
+      "translation": "There is a better and a worse way of using these tokens ; for instance Odysseus , by means of his wound , was discovered in one way by the nurse and in another way by the swine-herds . [*]"
+    },
+    {
+      "id": "16.5",
+      "label": "Section 16.5",
+      "chapter": null,
+      "original": "εἰσὶ γὰρ αἱ μὲν πίστεως ἕνεκα ἀτεχνότεραι , καὶ αἱ τοιαῦται πᾶσαι , αἱ δὲ ἐκ περιπετείας , ὥσπερ ἡ ἐν τοῖς Νίπτροις , βελτίους .",
+      "translation": "Discovery scenes constructed to prove the point are inartistic and so are all such scenes , but those are better which arise out of a reversal scene , as , for instance , in The Washing . [*]"
+    },
+    {
+      "id": "17.1",
+      "label": "Section 17.1",
+      "chapter": null,
+      "original": "Δεῖ δὲ τοὺς μύθους συνιστάναι καὶ τῇ λέξει συναπεργάζεσθαι ὅτι μάλιστα πρὸ ὀμμάτων τιθέμενον · οὕτω γὰρ ἂν ἐναργέστατα ὁρῶν , ὥσπερ παρ αὐτοῖς γιγνόμενος τοῖς πραττομένοις , εὑρίσκοι τὸ πρέπον , καὶ ἥκιστ ἂν λανθάνοιτο τὰ ὑπεναντία .",
+      "translation": "In constructing plots and completing the effect by the help of dialogue the poet should , as far as possible , keep the scene before his eyes . Only thus by getting the picture as clear as if he were present at the actual event , will he find what is fitting and detect contradictions ."
+    },
+    {
+      "id": "17.2",
+      "label": "Section 17.2",
+      "chapter": null,
+      "original": "Σημεῖον δὲ τούτου ὃ ἐπετιμᾶτο Καρκίνῳ · ὁ γὰρ Ἀμφιάραος ἐξ ἱεροῦ ἀνῄει , ὃ μὴ ὁρῶντα τὸν θεατὴν ἐλάνθανεν , ἐπὶ δὲ τῆς σκηνῆς ἐξέπεσε , δυσχερανάντων τοῦτο τῶν θεατῶν .",
+      "translation": "The censure upon Carcinos is evidence of this . Amphiaraos was was made to rise from a temple . The poet did not visualize the scene and therefore this escaped his notice , but on the stage it was a failure since the audience objected . [*]"
+    },
+    {
+      "id": "17.3",
+      "label": "Section 17.3",
+      "chapter": null,
+      "original": "Ὅσα δὲ δυνατόν , καὶ τοῖς σχήμασι συναπεργαζόμενον . Πιθανώτατοι γὰρ ἀπὸ τῆς αὐτῆς φύσεως οἱ ἐν τοῖς πάθεσίν εἰσι , καὶ χειμαίνει ὁ χειμαζόμενος καὶ χαλεπαίνει ὁ ὀργιζόμενος ἀληθινώτατα .",
+      "translation": "The poet should also , as far as possible , complete the effect by using the gestures . For , if their natural powers are equal , those who are actually in the emotions are the most convincing ; he who is agitated blusters and the angry man rages with the maximum of conviction . [*]"
+    },
+    {
+      "id": "17.4",
+      "label": "Section 17.4",
+      "chapter": null,
+      "original": "Διὸ εὐφυοῦς ἡ ποιητική ἐστιν ἢ μανικοῦ · τούτων γὰρ οἱ μὲν εὔπλαστοι οἱ δὲ ἐξεταστικοί εἰσιν .",
+      "translation": "And that is why poetry needs either a sympathetic nature or a madman , [*] the former being impressionable and the latter inspired ."
+    },
+    {
+      "id": "17.5",
+      "label": "Section 17.5",
+      "chapter": null,
+      "original": "Τούς τε λόγους τοὺς πεποιημένους δεῖ καὶ αὐτὸν ποιοῦντα ἐκτίθεσθαι καθόλου , εἶθ οὕτως ἐπεισοδιοῦν καὶ παρατείνειν .",
+      "translation": "The stories , whether they are traditional or whether you make them up yourself , 1455b 1 should first be sketched in outline and then expanded by putting in episodes ."
+    },
+    {
+      "id": "18.1",
+      "label": "Section 18.1",
+      "chapter": null,
+      "original": "Ἔστι δὲ πάσης τραγῳδίας τὸ μὲν δέσις τὸ δὲ λύσις , τὰ μὲν ἔξωθεν καὶ ἔνια τῶν ἔσωθεν πολλάκις ἡ δέσις , τὸ δὲ λοιπὸν ἡ λύσις .",
+      "translation": "In every tragedy there is a complication and a denouement . [*] The incidents outside the plot and some of those in it usually form the complication , the rest is the denouement ."
+    },
+    {
+      "id": "18.2",
+      "label": "Section 18.2",
+      "chapter": null,
+      "original": "Λέγω δὲ δέσιν μὲν εἶναι τὴν ἀπ ἀρχῆς μέχρι τούτου τοῦ μέρους ὃ ἔσχατόν ἐστιν , ἐξ οὗ μεταβαίνει εἰς εὐτυχίαν , λύσιν δὲ τὴν ἀπὸ τῆς ἀρχῆς τῆς μεταβάσεως μέχρι τέλους ,",
+      "translation": "I mean this , that the complication is the part from the beginning up to the point which immediately precedes the occurrence of a change from bad to good fortune or from good fortune to bad ; the denouement is from the beginning of the change down to the end ."
+    },
+    {
+      "id": "18.3",
+      "label": "Section 18.3",
+      "chapter": null,
+      "original": "ὥσπερ ἐν τῷ Λυγκεῖ τῷ Θεοδέκτου δέσις μὲν τά τε προπεπραγμένα καὶ ἡ τοῦ παιδίου λῆψις , λύσις δ ἡ ἀπὸ τῆς αἰτιάσεως τοῦ θανάτου μέχρι τοῦ τέλους .",
+      "translation": "For instance , in the Lynceus of Theodectes the complication is the preceding events , and the seizure of the boy , and then their own seizure ; and the denouement is from the capital charge to the end . [*]"
+    },
+    {
+      "id": "18.4",
+      "label": "Section 18.4",
+      "chapter": null,
+      "original": "Τραγῳδίας δὲ εἴδη εἰσὶ τέσσαρα · τοσαῦτα γὰρ καὶ τὰ μέρη ἐλέχθη .",
+      "translation": "Tragedies should properly be classed as the same or different mainly in virtue of the plot , that is to say those that have the same entanglement and denouement . Many who entangle well are bad at the denouement . Both should always be mastered .\nThere are four varieties of tragedy — the same as the number given for the elements [*] —"
+    },
+    {
+      "id": "18.5",
+      "label": "Section 18.5",
+      "chapter": null,
+      "original": "Ἡ μὲν πεπλεγμένη , ἧς τὸ ὅλον ἐστὶ περιπέτεια καὶ ἀναγνώρισις ·",
+      "translation": "first the complex kind , which all turns on reversal and discovery ;"
+    },
+    {
+      "id": "19.1",
+      "label": "Section 19.1",
+      "chapter": null,
+      "original": "Περὶ μὲν οὖν τῶν ἄλλων ἤδη εἴρηται , λοιπὸν δὲ περὶ 261 λέξεως ἢ διανοίας εἰπεῖν .",
+      "translation": "The other factors have been already discussed . It remains to speak of Diction and Thought ."
+    },
+    {
+      "id": "19.2",
+      "label": "Section 19.2",
+      "chapter": null,
+      "original": "Τὰ μὲν οὖν περὶ τὴν διάνοιαν ἐν τοῖς περὶ ῥητορικῆς κείσθω · τοῦτο γὰρ ἴδιον μᾶλλον ἐκείνης τῆς μεθόδου .",
+      "translation": "All that concerns Thought may be left to the treatise on Rhetoric , for the subject is more proper to that inquiry . [*]"
+    },
+    {
+      "id": "19.3",
+      "label": "Section 19.3",
+      "chapter": null,
+      "original": "Ἔστι δὲ κατὰ τὴν διάνοιαν ταῦτα , ὅσα ὑπὸ τοῦ λόγου δεῖ παρασκευασθῆναι .",
+      "translation": "Under the head of Thought come all the effects to be produced by the language ."
+    },
+    {
+      "id": "19.4",
+      "label": "Section 19.4",
+      "chapter": null,
+      "original": "Μέρη δὲ τούτων τό τε ἀποδεικνύναι καὶ τὸ λύειν καὶ τὸ πάθη παρασκευάζειν , οἷον ἔλεον ἢ φόβον ἢ ὀργὴν καὶ ὅσα τοιαῦτα , καὶ ἔτι μέγεθος καὶ μικρότητα .",
+      "translation": "Some of these are proof and refutation , 1456b 1 the arousing of feelings like pity , fear , anger , and so on , and then again exaggeration and depreciation . [*]"
+    },
+    {
+      "id": "19.5",
+      "label": "Section 19.5",
+      "chapter": null,
+      "original": "Δῆλον δὲ ὅτι καὶ ἐν τοῖς πράγμασιν ἀπὸ τῶν αὐτῶν ἰδεῶν δεῖ χρῆσθαι , ὅταν ἢ ἐλεεινὰ ἢ δεινὰ ἢ μέγαλα ἢ εἰκότα δέῃ παρασκευάζειν .",
+      "translation": "It is clear that in the case of the incidents , too , one should work on the same principles , when effects of pity or terror or exaggeration or probability have to be produced ."
+    },
+    {
+      "id": "20.1",
+      "label": "Section 20.1",
+      "chapter": null,
+      "original": "Τῆς δὲ λέξεως ἁπάσης τάδ ἐστὶ τὰ μέρη , στοιχεῖον , συλλαβή , σύνδεσμος , ὄνομα , ῥῆμα , ἄρθρον , πτῶσις , λόγος .",
+      "translation": "20 Diction as a whole [*] is made up of these parts : letter , syllable , conjunction , joint , [*] noun , verb , case , phrase ."
+    },
+    {
+      "id": "20.2",
+      "label": "Section 20.2",
+      "chapter": null,
+      "original": "Στοιχεῖον μὲν οὖν ἐστὶ φωνὴ ἀδιαίρετος , οὐ πᾶσα δέ , ἀλλ ἐξ ἧς πέφυκε συνετὴ γίνεσθαι φωνή · καὶ γὰρ τῶν θηρίων εἰσὶν ἀδιαίρετοι φωναί , ὦν οὐδεμίαν λέγω στοιχεῖον .",
+      "translation": "A letter is an indivisible sound , not every such sound but one of which an intelligible sound can be formed . Animals utter indivisible sounds but none that I should call a letter ."
+    },
+    {
+      "id": "20.3",
+      "label": "Section 20.3",
+      "chapter": null,
+      "original": "Ταύτης δὲ μέρη τό τε φωνῆεν καὶ τὸ ἡμίφωνον καὶ ἄφωνον . Ἔστι 262 δὲ φωνῆεν μὲν ἄνευ προσβολῆς ἔχον φωνὴν ἀκουστήν , οἷον τὸ Α καὶ τὸ Ω , ἡμίφωνον δὲ τὸ μετὰ προσβολῆς ἔχον φωνὴν ἀκουστήν , οἷον τὸ Σ καὶ τὸ Ρ , ἄφωνον δὲ τὸ μετὰ προσβολῆς καθ αὑτὸ μὲν οὐδεμίαν ἔχον φωνήν , μετὰ δὲ τῶν ἐχόντων τινὰ φωνὴν γινόμενον ἀκουστόν , οἷον τὸ Γ καὶ τὸ Δ .",
+      "translation": "Such sounds may be subdivided into vowel , semi-vowel , and mute . A vowel is that which without any addition has an audible sound ; a semivowel needs the addition of another letter to give it audible sound , for instance S and R ; a mute is that which with addition has no sound of its own but becomes audible when combined with some of the letters which have a sound . Examples of mutes are G and D ."
+    },
+    {
+      "id": "20.4",
+      "label": "Section 20.4",
+      "chapter": null,
+      "original": "Ταῦτα δὲ διαφέρει σχήμασί τε τοῦ στόματος καὶ τόποις καὶ δασύτητι καὶ ψιλότητι καὶ μήκει καὶ βραχύτητι , ἔτι δὲ ὀξύτητι καὶ βαρύτητι καὶ τῷ μέσῳ · περὶ ὦν καθ ἕκαστον ἐν τοῖς μετρικοῖς προσήκει θεωρεῖν .",
+      "translation": "Letters differ according to the shape of the mouth and the place at which they are sounded ; in being with or without aspiration ; in being long and short ; and lastly in having an acute , grave , or intermediate accent . But the detailed study of these matters properly concerns students of metre ."
+    },
+    {
+      "id": "20.5",
+      "label": "Section 20.5",
+      "chapter": null,
+      "original": "Συλλαβὴ δ ἐστὶ φωνὴ ἄσημος , συνθετὴ ἐξ ἀφώνου καὶ φωνὴν ἔχοντος · καὶ γὰρ τὸ ΓΡ ἄνευ τοῦ Α συλλαβή , καὶ μετὰ τοῦ Α , οἷον τὸ ΓΡΑ . Ἀλλὰ καὶ τούτων θεωρῆσαι τὰς διαφορὰς τῆς μετρικῆς ἐστίν .",
+      "translation": "A syllable is a sound without meaning , composed of a mute and a letter that has a sound . GR , for example , without A is a syllable just as much as GRA with an A . But these distinctions also belong to the theory of metre . words . It is also very obscure . Students should refer to Bywater ’ s edition ."
+    },
+    {
+      "id": "21.1",
+      "label": "Section 21.1",
+      "chapter": null,
+      "original": "Ὀνόματος δὲ εἴδη τὸ μὲν ἁπλοῦν ( ἁπλοῦν δὲ λέγω ὃ μὴ ἐκ σημαινόντων σύγκειται , οἷον γῆ ) τὸ δὲ διπλοῦν ·",
+      "translation": "Nouns are of two kinds . There is the simple noun , by which I mean one made up of parts that have no meaning , like γῆ , and there is the compound noun ."
+    },
+    {
+      "id": "21.2",
+      "label": "Section 21.2",
+      "chapter": null,
+      "original": "τούτου δὲ τὸ μὲν ἐκ σημαίνοντος καὶ ἀσήμου , τὸ δὲ ἐκ σημαινόντων σύγκειται .",
+      "translation": "These may be made up either of a part which has no meaning and a part which has a meaning — though it does not have its meaning in the compound — or of two parts both having a meaning ."
+    },
+    {
+      "id": "21.3",
+      "label": "Section 21.3",
+      "chapter": null,
+      "original": "Εἴη δ ἂν καὶ τριπλοῦν καὶ τετραπλοῦν καὶ πολλαπλοῦν ὄνομα , οἷον τὰ πολλὰ τῶν Μεγαλιωτῶν Ἑρμοκαϊκόξανθος .",
+      "translation": "A compound noun may be triple and quadruple and multiple , e . g . many of the bombastic names like Hermocaicoxanthus . [*] 1457b 1 . . ."
+    },
+    {
+      "id": "21.4",
+      "label": "Section 21.4",
+      "chapter": null,
+      "original": "Ἅπαν δὲ ὄνομά ἐστιν ἢ κύριον ἢ γλῶττα ἢ μεταφορὰ ἢ κόσμος ἢ πεποιημένον ἢ ἐπεκτεταμένον ἢ ὑφῃρημένον ἢ ἐξηλλαγμένον .",
+      "translation": "Every noun is either ordinary [*] or rare or metaphorical or ornamental or invented or lengthened or curtailed or altered ."
+    },
+    {
+      "id": "21.5",
+      "label": "Section 21.5",
+      "chapter": null,
+      "original": "Λέγω δὲ κύριον μὲν ᾧ χρῶνται ἕκαστοι ,",
+      "translation": "An ordinary word is one used by everybody , a rare word one used by some ;"
+    },
+    {
+      "id": "22.1",
+      "label": "Section 22.1",
+      "chapter": null,
+      "original": "Λέξεως δὲ ἀρετὴ σαφῆ καὶ μὴ ταπεινὴν εἶναι .",
+      "translation": "The merit of diction is to be clear and not commonplace . The clearest diction is that made up of ordinary words , but it is commonplace ."
+    },
+    {
+      "id": "22.2",
+      "label": "Section 22.2",
+      "chapter": null,
+      "original": "Σαφεστάτη μὲν οὖν ἐστὶν ἡ ἐκ τῶν κυρίων ὀνομάτων , ἀλλὰ ταπεινή · παράδειγμα δὲ ἡ Κλεοφῶντος ποίησις καὶ ἡ Σθενέλου .",
+      "translation": "20 An example is the poetry of Cleophon and of Sthenelus . [*]"
+    },
+    {
+      "id": "22.3",
+      "label": "Section 22.3",
+      "chapter": null,
+      "original": "Σεμνὴ δὲ καὶ ἐξαλλάττουσα τὸ ἰδιωτικὸν ἡ τοῖς ξενικοῖς κεχρημένη . Ξενικὸν δὲ λέγω γλῶτταν καὶ μεταφορὰν καὶ ἐπέκτασιν καὶ πᾶν τὸ παρὰ τὸ κύριον .",
+      "translation": "That which employs unfamiliar words is dignified and outside the common usage . By unfamiliar I mean a rare word , a metaphor , a lengthening , [*] and anything beyond the ordinary use ."
+    },
+    {
+      "id": "22.4",
+      "label": "Section 22.4",
+      "chapter": null,
+      "original": "Ἀλλ ἄν τις ἅπαντα τοιαῦτα ποιήσῃ , ἢ αἴνιγμα ἔσται ἢ βαρβαρισμός . Ἂν μὲν οὖν 266 ἐκ μεταφορῶν , αἴνιγμα , ἐὰν δὲ ἐκ γλωττῶν , βαρβαρισμός .",
+      "translation": "But if a poet writes entirely in such words , the result will be either a riddle or jargon ; if made up of metaphors , a riddle and if of rare words , jargon ."
+    },
+    {
+      "id": "22.5",
+      "label": "Section 22.5",
+      "chapter": null,
+      "original": "Αἰνίγματος γὰρ ἰδέα αὕτη ἐστί , τὸ λέγοντα ὑπάρχοντα ἀδύνατα συνάψαι . Κατὰ μὲν οὖν τὴν τῶν ὀνόματων σύνθεσιν οὐχ οἷόν τε τοῦτο ποιῆσαι , κατὰ δὲ τὴν μεταφορὰν ἐνδέχεται , οἷον Ἄνδρ εἶδον πυρὶ χαλκὸν ἐπ ἀνέρι κολλήσαντα , καὶ τὰ τοιαῦτα .",
+      "translation": "The essence of a riddle consists in describing a fact by an impossible combination of words . By merely combining the ordinary names of things this cannot be done , but it is made possible by combining metaphors . For instance , I saw a man weld bronze upon a man with fire , and so on . [*]"
+    },
+    {
+      "id": "23.1",
+      "label": "Section 23.1",
+      "chapter": null,
+      "original": "Περὶ δὲ τῆς διηγηματικῆς καὶ ἐν μέτρῳ μιμητικῆς , ὅτι δεῖ τοὺς μύθους καθάπερ ἐν ταῖς τραγῳδίαις συνιστάναι δραματικούς , καὶ περὶ μίαν πρᾶξιν ὅλην καὶ τελείαν , ἔχουσαν ἀρχὴν καὶ μέσον καὶ τέλος , ἵν ὥσπερ ζῷον ἓν ὅλον ποιῇ τὴν οἰκείαν ἡδονήν , δῆλον ,",
+      "translation": "We come now to the art of representation which is narrative and in metre . [*] Clearly the story must be constructed as in tragedy , dramatically , round a single piece of action , whole and complete in itself , 20 with a beginning , middle and end , so that like a single living organism it may produce its own peculiar form of pleasure ."
+    },
+    {
+      "id": "23.2",
+      "label": "Section 23.2",
+      "chapter": null,
+      "original": "καὶ μὴ ὁμοίας ἱστορίας τὰς συνήθεις εἶναι , ἐν αἷς ἀνάγκη οὐχὶ μιᾶς πράξεως ποιεῖσθαι δήλωσιν ἀλλ ἑνὸς χρόνου , ὅσα ἐν τούτῳ συνέβη περὶ ἕνα ἢ πλείους , ὧν ἕκαστον ὡς ἔτυχεν ἔχει πρὸς ἄλληλα .",
+      "translation": "It must not be such as we normally find in history , where what is required is an exposition not of a single piece of action but of a single period of time , showing all that within the period befell one or more persons , events that have a merely casual relation to each other ."
+    },
+    {
+      "id": "23.3",
+      "label": "Section 23.3",
+      "chapter": null,
+      "original": "Ὥσπερ γὰρ κατὰ τοὺς αὐτοὺς χρόνους ἥ τ ἐν Σαλαμῖνι ἐγένετο ναυμαχία καὶ ἡ ἐν Σικελίᾳ Καρχηδονίων μάχη , οὐδὲν πρὸς τὸ αὐτὸ συντείνουσαι τέλος , οὕτω καὶ ἐν τοῖς ἐφεξῆς χρόνοις ἐνίοτε γίνεται θάτερον μετὰ θατέρου , ἐξ ὧν ἓν οὐδὲν γίνεται τέλος .",
+      "translation": "For just as the battle of Salamis occurred at the same time as the Carthaginian battle in Sicily , but they do not converge to the same result [*] ; so , too , in any sequence of time one event may follow another and yet they may not issue in any one result ."
+    },
+    {
+      "id": "23.4",
+      "label": "Section 23.4",
+      "chapter": null,
+      "original": "Σχεδὸν δὲ οἱ πολλοὶ τῶν ποιητῶν τοῦτο δρῶσιν .",
+      "translation": "Yet most of the poets do this ."
+    },
+    {
+      "id": "23.5",
+      "label": "Section 23.5",
+      "chapter": null,
+      "original": "Διό , ὥσπερ εἴπομεν ἤδη , καὶ ταύτῃ θεσπέσιος ἂν φανείη Ὅμηρος παρὰ τοὺς ἄλλους , τῷ μηδὲ τὸν πόλεμον , καίπερ ἔχοντα ἀρχὴν καὶ τέλος , ἐπιχειρῆσαι ποιεῖν ὅλον · λίαν γὰρ ἂν μέγας καὶ οὐκ εὐσύνοπτος ἔμελλεν ἔσεσθαι · ἢ τῷ μεγέθει μετριάζοντα καταπεπλεγμένον τῇ ποικιλίᾳ . Νῦν δ ἓν μέρος ἀπολαβὼν ἐπεισοδίοις κέχρηται αὐτῶν πολλοῖς , οἷον νεῶν καταλόγῳ καὶ ἄλλοις ἐπεισοδίοις , οἷς διαλαμβάνει τὴν ποίησιν .",
+      "translation": "So in this respect , too , compared with all other poets Homer may seem , as we have already said , divinely inspired , in that even with the Trojan war , which has a beginning and an end , he did not endeavor to dramatize it as a whole , since it would have been either too long to be taken in all at once or , if he had moderated the length , he would have complicated it by the variety of incident . As it is , he takes one part of the story only and uses many incidents from other parts , such as the Catalogue of Ships and other incidents with which he diversifies his poetry ."
+    },
+    {
+      "id": "24.1",
+      "label": "Section 24.1",
+      "chapter": null,
+      "original": "Ἔτι δὲ τὰ εἴδη ταὐτὰ δεῖ ἔχειν τὴν ἐποποιίαν τῇ τραγῳδίᾳ · ἢ γὰρ ἁπλῆν ἢ πεπλεγμένην ἢ ἠθικὴν ἢ παθητικὴν δεῖ εἶναι .",
+      "translation": "The next point is that there must be the same varieties of epic as of tragedy [*] : an epic must be simple or complex , [*] or else turn on character or on calamity ."
+    },
+    {
+      "id": "24.2",
+      "label": "Section 24.2",
+      "chapter": null,
+      "original": "Καὶ τὰ μέρη ἔξω μελοποιίας καὶ ὄψεως ταὐτά · καὶ γὰρ περιπετειῶν δεῖ καὶ ἀναγνωρίσεων καὶ παθημάτων .",
+      "translation": "The constituent parts , too , are the same with the exception of song and spectacle . Epic needs reversals and discoveries and calamities , and the thought and diction too must be good ."
+    },
+    {
+      "id": "24.3",
+      "label": "Section 24.3",
+      "chapter": null,
+      "original": "Ἔτι τὰς διανοίας καὶ τὴν λέξιν ἔχειν καλῶς . Οἷς ἅπασιν Ὅμηρος κέχρηται καὶ πρῶτος καὶ ἱκανῶς . Καὶ γὰρ καὶ τῶν ποιημάτων ἑκάτερον συνέστηκεν ἡ μὲν Ἰλιὰς ἁπλοῦν καὶ παθητικόν , ἡ δὲ Ὀδύσσεια πεπλεγμένον · ἀναγνώρισις γὰρ διόλου καὶ ἠθική . Πρὸς δὲ τούτοις λέξει καὶ διανοίᾳ πάντας ὑπερβέβληκεν .",
+      "translation": "All these were used by Homer for the first time , and used well . Of his poems he made the one , the Iliad , a simple story turning on calamity , and the Odyssey a complex story — it is full of discoveries — turning on character . Besides this they surpass all other poems in diction and thought ."
+    },
+    {
+      "id": "24.4",
+      "label": "Section 24.4",
+      "chapter": null,
+      "original": "Διαφέρει δὲ κατά τε τῆς συστάσεως τὸ μῆκος ἡ ἐποποιία καὶ τὸ μέτρον .",
+      "translation": "Epic differs from tragedy in the length of the composition and in metre ."
+    },
+    {
+      "id": "24.5",
+      "label": "Section 24.5",
+      "chapter": null,
+      "original": "Τοῦ μὲν οὖν μήκους ὅρος ἱκανὸς ὁ εἰρημένος · δύνασθαι γὰρ δεῖ συνορᾶσθαι τὴν ἀρχὴν καὶ τὸ τέλος . Εἴη δ ἂν τοῦτο , εἰ τῶν μὲν ἀρχαίων ἐλάττους αἱ συστάσεις εἶεν , πρὸς δὲ τὸ πλῆθος τῶν τραγῳδιῶν τῶν εἰς μίαν ἀκρόασιν τιθεμένων παρήκοιεν .",
+      "translation": "The limit of length already given [*] will suffice — it must be possible to embrace the beginning and the end in one view , 20 which would be the case if the compositions were shorter than the ancient epics but reached to the length of the tragedies presented at a single entertainment . [*]"
+    },
+    {
+      "id": "25.1",
+      "label": "Section 25.1",
+      "chapter": null,
+      "original": "Περὶ δὲ προβλημάτων καὶ λύσεων , ἐκ πόσων τε καὶ ποίων ἂν εἰδῶν εἴη , ὧδ ἂν θεωροῦσι γένοιτ ἂν φανερόν .",
+      "translation": "With regard to problems , [*] and the various solutions of them , how many kinds there are , and the nature of each kind , all will be clear if we look at them like this ."
+    },
+    {
+      "id": "25.2",
+      "label": "Section 25.2",
+      "chapter": null,
+      "original": "Ἐπεὶ γάρ ἐστι μιμητὴς ὁ ποιητής , ὥσπερ ἂν εἰ ζωγράφος ἤ τις ἄλλος εἰκονοποιός , ἀνάγκη μιμεῖσθαι τριῶν ὄντων τὸν ἀριθμὸν ἕν τι ἀεί · ἢ γὰρ οἷα ἦν ἢ ἔστιν , ἢ οἷα φασὶ καὶ δοκεῖ , ἢ οἷα εἶναι δεῖ .",
+      "translation": "Since the poet represents life , as a painter does or any other maker of likenesses , he must always represent one of three things — either things as they were or are ; or things as they are said and seem to be ; or things as they should be ."
+    }
+  ],
+  "prevChunkSlug": "longinus-demetrius-poetics-1k4r0a-1",
+  "nextChunkSlug": "longinus-demetrius-poetics-1k4r0a-3"
+}

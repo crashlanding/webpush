@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "sophocles-ajax-electra-oedipus-tyrannus-udpp93",
+  "volumeTitle": "Ajax. Electra. Oedipus Tyrannus",
+  "authorDisplay": "Sophocles",
+  "authors": [
+    "Sophocles"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "oedipus-tyrannus-1bvaud-7",
+  "label": "Oedipus Tyrannus (Section 1.863 - Section 991)",
+  "partId": "oedipus-tyrannus-1bvaud",
+  "partTitle": "Oedipus Tyrannus",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Οἰδίπους Τύραννος",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Oedipus Tyrannus",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.863",
+      "label": "Section 1.863",
+      "chapter": null,
+      "original": "εἴ μοι ξυνείη φέροντι",
+      "translation": "May destiny still find me winning the praise of reverent purity in all words and"
+    },
+    {
+      "id": "1.865",
+      "label": "Section 1.865",
+      "chapter": null,
+      "original": "ἔργων τε πάντων , ὧν νόμοι πρόκεινται",
+      "translation": "deeds sanctioned by those laws of sublime range , called into life through the high clear aether , whose father is Olympus alone . Their parent was no race of mortal men ,"
+    },
+    {
+      "id": "1.870",
+      "label": "Section 1.870",
+      "chapter": null,
+      "original": "ἔτικτεν οὐδὲ μή ποτε λάθα κατακοιμάσῃ ·",
+      "translation": "no , nor shall oblivion ever lay them to sleep : the god is mighty in them , and he does not grow old ."
+    },
+    {
+      "id": "1.873",
+      "label": "Section 1.873",
+      "chapter": null,
+      "original": "ὕβρις φυτεύει τύραννον ·",
+      "translation": "Insolence breeds the tyrant . Insolence , once vainly stuffed with wealth"
+    },
+    {
+      "id": "1.875",
+      "label": "Section 1.875",
+      "chapter": null,
+      "original": "ἃ μὴ ʼπίκαιρα μηδὲ συμφέροντα ,",
+      "translation": "that is not proper or good for it , when it has scaled the topmost ramparts , is hurled to a dire doom , where one ’ s feet cannot serve to good advantage . But I pray that the god never"
+    },
+    {
+      "id": "1.880",
+      "label": "Section 1.880",
+      "chapter": null,
+      "original": "χρῆται . τὸ καλῶς δʼ ἔχον",
+      "translation": "quell such rivalry as benefits the state . I will always hold the god as our protector ."
+    },
+    {
+      "id": "2.884",
+      "label": "Section 2.884",
+      "chapter": null,
+      "original": "εἰ δέ τις ὑπέροπτα χερσὶν ἢ λόγῳ πορεύεται ,",
+      "translation": "But if any man walks haughtily in deed or word ,"
+    },
+    {
+      "id": "2.885",
+      "label": "Section 2.885",
+      "chapter": null,
+      "original": "δίκας ἀφόβητος οὐδὲ δαιμόνων ἕδη σέβων ,",
+      "translation": "with no fear of Justice , no reverence for the images of gods , may an evil doom seize him for his ill-starred pride , if he does not gain his advantage fairly ,"
+    },
+    {
+      "id": "2.890",
+      "label": "Section 2.890",
+      "chapter": null,
+      "original": "καὶ τῶν ἀσέπτων ἔρξεται",
+      "translation": "or avoid unholy deeds , but seeks to lay profaning hands on sanctities . Where such things occur , what mortal shall boast any more that he can ward off the arrow of the gods from his life ?"
+    },
+    {
+      "id": "2.895",
+      "label": "Section 2.895",
+      "chapter": null,
+      "original": "εἰ γὰρ αἱ τοιαίδε πράξεις τίμιαι ,",
+      "translation": "No . For if such deeds are held in honor , why should we join in the sacred dance ?"
+    },
+    {
+      "id": "2.897",
+      "label": "Section 2.897",
+      "chapter": null,
+      "original": "οὐκέτι τὸν ἄθικτον εἶμι γᾶς ἐπʼ ὀμφαλὸν σέβων ,",
+      "translation": "No longer will I go reverently to the earth ’ s central and inviolate shrine , no more to Abae ’ s temple or to Olympia ,"
+    },
+    {
+      "id": "2.900",
+      "label": "Section 2.900",
+      "chapter": null,
+      "original": "οὐδʼ ἐς τὸν Ἀβαῖσι ναὸν οὐδὲ τὰν Ὀλυμπίαν ,",
+      "translation": "if these oracles do not fit the outcome , so that all mortals shall point at them with their fingers ."
+    },
+    {
+      "id": "2.905",
+      "label": "Section 2.905",
+      "chapter": null,
+      "original": "Ζεῦ , πάντʼ ἀνάσσων , μὴ λάθοι",
+      "translation": "No , King — if this you are rightly called — Zeus all ruling , may it not escape you and your deathless power ! The old prophecies concerning Laius are fading ; already men give them no value , and nowhere is Apollo glorified with honors ;"
+    },
+    {
+      "id": "2.910",
+      "label": "Section 2.910",
+      "chapter": null,
+      "original": "ἔρρει δὲ τὰ θεῖα .",
+      "translation": "the worship of the gods is perishing ."
+    },
+    {
+      "id": "911",
+      "label": "Section 911",
+      "chapter": null,
+      "original": "χώρας ἄνακτες , δόξα μοι παρεστάθη",
+      "translation": "Princes of the land , I am planning to visit the shrines of the gods , with this wreathed branch and these gifts of incense in my hands . For Oedipus excites his soul excessively with all sorts of grief ,"
+    },
+    {
+      "id": "915",
+      "label": "Section 915",
+      "chapter": null,
+      "original": "λύπαισι παντοίαισιν · οὐδʼ ὁποῖʼ ἀνὴρ",
+      "translation": "as he does not judge the new things from the old , like a man of sense , but is under the control of the speaker , if he speaks of frightful things . Since , then , I can do no good by counsel , to you , Lycean Apollo — for you are nearest —"
+    },
+    {
+      "id": "920",
+      "label": "Section 920",
+      "chapter": null,
+      "original": "ἱκέτις ἀφῖγμαι τοῖσδε σὺν κατεύγμασιν ,",
+      "translation": "I have come as a suppliant with these symbols of prayer , that you may find us some escape from uncleanliness . For now we are all afraid , like those who see fear in the helmsman of their ship ."
+    },
+    {
+      "id": "924",
+      "label": "Section 924",
+      "chapter": null,
+      "original": "ἆρʼ ἂν παρʼ ὑμῶν , ὦ ξένοι , μάθοιμʼ ὅπου",
+      "translation": "Can you tell me , strangers , where"
+    },
+    {
+      "id": "925",
+      "label": "Section 925",
+      "chapter": null,
+      "original": "τὰ τοῦ τυράννου δώματʼ ἐστὶν Οἰδίπου ;",
+      "translation": "the house of King Oedipus is ? Or better still , tell me where he himself is , if you know ."
+    },
+    {
+      "id": "927",
+      "label": "Section 927",
+      "chapter": null,
+      "original": "στέγαι μὲν αἵδε , καὐτὸς ἔνδον , ὦ ξένε ·",
+      "translation": "This is his dwelling , and he himself , stranger , is within . This lady here is the mother of his children ."
+    },
+    {
+      "id": "929",
+      "label": "Section 929",
+      "chapter": null,
+      "original": "ἀλλʼ ὀλβία τε καὶ ξὺν ὀλβίοις ἀεὶ",
+      "translation": "Then may she be ever happy in a happy home ,"
+    },
+    {
+      "id": "930",
+      "label": "Section 930",
+      "chapter": null,
+      "original": "γένοιτʼ , ἐκείνου γʼ οὖσα παντελὴς δάμαρ .",
+      "translation": "since she is his blessed queen ."
+    },
+    {
+      "id": "931",
+      "label": "Section 931",
+      "chapter": null,
+      "original": "αὔτως δὲ καὶ σύ γʼ , ὦ ξένʼ · ἄξιος γὰρ εἶ",
+      "translation": "Happiness to you also , stranger ! Your fair greeting deserves this . But say what you have come to seek or to tell ."
+    },
+    {
+      "id": "934",
+      "label": "Section 934",
+      "chapter": null,
+      "original": "ἀγαθὰ δόμοις τε καὶ πόσει τῷ σῷ , γύναι .",
+      "translation": "Good tidings , lady , for your house and your husband ."
+    },
+    {
+      "id": "935",
+      "label": "Section 935",
+      "chapter": null,
+      "original": "τὰ ποῖα ταῦτα ; παρὰ τίνος δʼ ἀφιγμένος ;",
+      "translation": "What are they ? From whom have you come ?"
+    },
+    {
+      "id": "936",
+      "label": "Section 936",
+      "chapter": null,
+      "original": "ἐκ τῆς Κορίνθου · τὸ δʼ ἔπος οὑξερῶ τάχα ,",
+      "translation": "From Corinth , and at the message I will give now you will doubtless rejoice , though you may perhaps grieve too ."
+    },
+    {
+      "id": "938",
+      "label": "Section 938",
+      "chapter": null,
+      "original": "τί δʼ ἔστι ; ποίαν δύναμιν ὧδʼ ἔχει διπλῆν ;",
+      "translation": "What is it ? Why has it this double potency ?"
+    },
+    {
+      "id": "939",
+      "label": "Section 939",
+      "chapter": null,
+      "original": "τύραννον αὐτὸν οὑπιχώριοι χθονὸς",
+      "translation": "The people will make him king of the"
+    },
+    {
+      "id": "940",
+      "label": "Section 940",
+      "chapter": null,
+      "original": "τῆς Ἰσθμίας στήσουσιν , ὡς ηὐδᾶτʼ ἐκεῖ .",
+      "translation": "Isthmian land , as it was said there ."
+    },
+    {
+      "id": "941",
+      "label": "Section 941",
+      "chapter": null,
+      "original": "τί δʼ ; οὐχ ὁ πρέσβυς Πόλυβος ἐγκρατὴς ἔτι ;",
+      "translation": "How then ? Is the aged Polybus no longer in power ?"
+    },
+    {
+      "id": "942",
+      "label": "Section 942",
+      "chapter": null,
+      "original": "οὐ δῆτʼ , ἐπεί νιν θάνατος ἐν τάφοις ἔχει .",
+      "translation": "No . For death holds him in the tomb ."
+    },
+    {
+      "id": "943",
+      "label": "Section 943",
+      "chapter": null,
+      "original": "πῶς εἶπας ; ἦ τέθνηκε Πόλυβος , ὦ γέρον ;",
+      "translation": "What do you mean ? Is Polybus dead , old man ?"
+    },
+    {
+      "id": "944",
+      "label": "Section 944",
+      "chapter": null,
+      "original": "εἰ μὴ λέγω τἀληθές , ἀξιῶ θανεῖν .",
+      "translation": "If I do not speak the truth , I am content to die ."
+    },
+    {
+      "id": "945",
+      "label": "Section 945",
+      "chapter": null,
+      "original": "ὦ πρόσπολʼ , οὐχὶ δεσπότῃ τάδʼ ὡς τάχος",
+      "translation": "Handmaid , away with all speed , and tell this to your master ! Oracles of the gods , where do you stand now ? It is this man that Oedipus long feared he would slay . And now this man has died in the course of destiny , not by his hand ."
+    },
+    {
+      "id": "950",
+      "label": "Section 950",
+      "chapter": null,
+      "original": "ὦ φίλτατον γυναικὸς Ἰοκάστης κάρα ,",
+      "translation": "Iocasta , dearest wife , why have you summoned me forth from these doors ?"
+    },
+    {
+      "id": "952",
+      "label": "Section 952",
+      "chapter": null,
+      "original": "ἄκουε τἀνδρὸς τοῦδε , καὶ σκόπει κλύων",
+      "translation": "Hear this man , and judge , as you listen , what the awful oracles have come to ."
+    },
+    {
+      "id": "954",
+      "label": "Section 954",
+      "chapter": null,
+      "original": "οὗτος δὲ τίς ποτʼ ἐστὶ καὶ τί μοι λέγει ;",
+      "translation": "Who is he and what news does he have for me ?"
+    },
+    {
+      "id": "955",
+      "label": "Section 955",
+      "chapter": null,
+      "original": "ἐκ τῆς Κορίνθου , πατέρα τὸν σὸν ἀγγελῶν",
+      "translation": "He comes from Corinth to tell you that your father Polybus lives no longer , but has perished ."
+    },
+    {
+      "id": "957",
+      "label": "Section 957",
+      "chapter": null,
+      "original": "τί φῄς , ξένʼ ; αὐτός μοι σὺ σημάντωρ γενοῦ .",
+      "translation": "How , stranger ? Let me have it from your own mouth ."
+    },
+    {
+      "id": "958",
+      "label": "Section 958",
+      "chapter": null,
+      "original": "εἰ τοῦτο πρῶτον δεῖ μʼ ἀπαγγεῖλαι σαφῶς ,",
+      "translation": "If I must first make these tidings plain , know indeed that he is dead and gone ."
+    },
+    {
+      "id": "960",
+      "label": "Section 960",
+      "chapter": null,
+      "original": "πότερα δόλοισιν ἢ νόσου ξυναλλαγῇ ;",
+      "translation": "By treachery , or from illness ?"
+    },
+    {
+      "id": "961",
+      "label": "Section 961",
+      "chapter": null,
+      "original": "σμικρὰ παλαιὰ σώματʼ εὐνάζει ῥοπή .",
+      "translation": "A light tilt of the scale brings the aged to their rest ."
+    },
+    {
+      "id": "962",
+      "label": "Section 962",
+      "chapter": null,
+      "original": "νόσοις ὁ τλήμων , ὡς ἔοικεν , ἔφθιτο .",
+      "translation": "Ah , he died , it seems , of sickness ?"
+    },
+    {
+      "id": "963",
+      "label": "Section 963",
+      "chapter": null,
+      "original": "καὶ τῷ μακρῷ γε συμμετρούμενος χρόνῳ .",
+      "translation": "Yes , and of the long years that he had lived ."
+    },
+    {
+      "id": "964",
+      "label": "Section 964",
+      "chapter": null,
+      "original": "φεῦ φεῦ , τί δῆτʼ ἄν , ὦ γύναι , σκοποῖτό τι",
+      "translation": "Alas , alas ! Why indeed , my wife , should one look to the"
+    },
+    {
+      "id": "965",
+      "label": "Section 965",
+      "chapter": null,
+      "original": "τὴν Πυθόμαντιν ἑστίαν ἢ τοὺς ἄνω",
+      "translation": "hearth of the Pythian seer , or to the birds that scream above our heads , who declared that I was doomed to slay my father ? But he is dead , and lies beneath the earth , and here I am , not having put my hand to any spear — unless , perhaps , he died out of longing for me :"
+    },
+    {
+      "id": "970",
+      "label": "Section 970",
+      "chapter": null,
+      "original": "κατέφθιθʼ · οὕτω δʼ ἂν θανὼν εἴη ʼξ ἐμοῦ .",
+      "translation": "thus , indeed , I would be the cause of his death . But as the oracles stand , at least , Polybus has swept them with him to his rest in Hades . They are worth nothing ."
+    },
+    {
+      "id": "973",
+      "label": "Section 973",
+      "chapter": null,
+      "original": "οὔκουν ἐγώ σοι ταῦτα προύλεγον πάλαι ;",
+      "translation": "Did I not long ago foretell this to you ?"
+    },
+    {
+      "id": "974",
+      "label": "Section 974",
+      "chapter": null,
+      "original": "ηὔδας · ἐγὼ δὲ τῷ φόβῳ παρηγόμην .",
+      "translation": "You did , but I was mislead by my fear ."
+    },
+    {
+      "id": "975",
+      "label": "Section 975",
+      "chapter": null,
+      "original": "μὴ νῦν ἔτʼ αὐτῶν μηδὲν ἐς θυμὸν βάλῃς .",
+      "translation": "Now no longer take any of those things to heart ."
+    },
+    {
+      "id": "976",
+      "label": "Section 976",
+      "chapter": null,
+      "original": "καὶ πῶς τὸ μητρὸς οὐκ ὀκνεῖν λέχος με δεῖ ;",
+      "translation": "But surely I must fear my mother ’ s bed ."
+    },
+    {
+      "id": "977",
+      "label": "Section 977",
+      "chapter": null,
+      "original": "τί δʼ ἂν φοβοῖτʼ ἄνθρωπος ᾧ τὰ τῆς τύχης",
+      "translation": "What should a mortal man fear , for whom the decrees of Fortune are supreme , and who has clear foresight of nothing ? It is best to live at random , as one may ."
+    },
+    {
+      "id": "980",
+      "label": "Section 980",
+      "chapter": null,
+      "original": "σὺ δʼ εἰς τὰ μητρὸς μὴ φοβοῦ νυμφεύματα ·",
+      "translation": "But fear not that you will wed your mother . Many men before now have slept with their mothers in dreams . But he to whom these things are as though nothing bears his life most easily ."
+    },
+    {
+      "id": "984",
+      "label": "Section 984",
+      "chapter": null,
+      "original": "καλῶς ἅπαντα ταῦτʼ ἂν ἐξείρητό σοι ,",
+      "translation": "All these words of yours would have been well said ,"
+    },
+    {
+      "id": "985",
+      "label": "Section 985",
+      "chapter": null,
+      "original": "εἰ μὴ ʼκύρει ζῶσʼ ἡ τεκοῦσα · νῦν δʼ ἐπεὶ",
+      "translation": "were my mother not alive . But as it is , since she lives , I must necessarily fear , though you do speak well ."
+    },
+    {
+      "id": "987",
+      "label": "Section 987",
+      "chapter": null,
+      "original": "καὶ μὴν μέγας γʼ ὀφθαλμὸς οἱ πατρὸς τάφοι .",
+      "translation": "Your father ’ s death is a great sign for us to take cheer ."
+    },
+    {
+      "id": "988",
+      "label": "Section 988",
+      "chapter": null,
+      "original": "μέγας , ξυνίημʼ · ἀλλὰ τῆς ζώσης φόβος .",
+      "translation": "Great , I know . But my fear is of her who lives ."
+    },
+    {
+      "id": "989",
+      "label": "Section 989",
+      "chapter": null,
+      "original": "ποίας δὲ καὶ γυναικὸς ἐκφοβεῖσθʼ ὕπερ ;",
+      "translation": "And who is the woman about whom you fear ?"
+    },
+    {
+      "id": "990",
+      "label": "Section 990",
+      "chapter": null,
+      "original": "Μερόπης , γεραιέ , Πόλυβος ἧς ᾤκει μέτα .",
+      "translation": "Merope , old man , the consort of Polybus ."
+    },
+    {
+      "id": "991",
+      "label": "Section 991",
+      "chapter": null,
+      "original": "τί δʼ ἔστʼ ἐκείνης ὑμὶν ἐς φόβον φέρον ;",
+      "translation": "And what is it in her that moves your fear ?"
+    }
+  ],
+  "prevChunkSlug": "oedipus-tyrannus-1bvaud-6",
+  "nextChunkSlug": "oedipus-tyrannus-1bvaud-8"
+}

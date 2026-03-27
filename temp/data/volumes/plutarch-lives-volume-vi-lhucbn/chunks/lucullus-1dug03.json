@@ -1,0 +1,633 @@
+{
+  "volumeSlug": "plutarch-lives-volume-vi-lhucbn",
+  "volumeTitle": "Lives, Volume VI",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "lucullus-1dug03",
+  "label": "Lucullus",
+  "partId": "lives-volume-vi-15naln",
+  "partTitle": "Lives, Volume VI",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Λούκουλλος",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg036.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Lucullus",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg036.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1",
+      "label": "Section 1.1",
+      "chapter": null,
+      "original": "τῷ δὲ Λουκούλλῳ πάππος μὲν ἦν ὑπατικός , θεῖος δὲ πρὸς μητρὸς Μέτελλος ὁ Νομαδικὸς ἐπικληθείς . τῶν δὲ γονέων ὁ μὲν πατὴρ ἑάλω κλοπῆς , Κεκιλία δὲ ἡ μήτηρ ἠδόξησεν ὡς οὐ βεβιωκυῖα σωφρόνως . αὐτὸς δʼ ὁ Λούκοθλλος ἔτι μειράκιον ὢν , πρὶν ἀρχήν τινα μετελθεῖν καί πολιτείας ἅψασθαι , πρῶτον ἔργον ἐποιήσατο τὸν τοῦ πατρὸς κατήγορον κρῖναι Σερουίλιον αὔγουρα , λαβὼν ἀδικοῦντα δημοσίᾳ .",
+      "translation": "In the case of Lucullus , his grandfather was a man of consular rank , and his uncle on his mother ’ s side was Metellus , surnamed Numidicus . But as for his parents , his father was convicted of peculation , and his mother , Caecilia , had the bad name of a dissolute woman . Lucullus himself , while he was still a mere youth , before he had entered public life or stood for any office , made it his first business to impeach his father ’ s accuser , Servilius the Augur , whom he found wronging the commonwealth ."
+    },
+    {
+      "id": "1.2",
+      "label": "Section 1.2",
+      "chapter": null,
+      "original": "καί τὸ πρᾶγμα λαμπρὸν ἐφάνη Ῥωμαίοις , καί τὴν δίκην ἐκείνην ὥσπερ ἀριστείαν διὰ στόματος ἔσχον . ἐδόκει δὲ καί ἄλλως αὐτοῖς ἄνευ προφάσεως οὐκ ἀγεννὲς εἶναι τὸ τῆς κατηγορίας ἔργον , ἀλλὰ καί πάνυ τοὺς νέους ἐβούλοντο τοῖς ἀδικοῦσιν ἐπιφυομένους ὁρᾶν ὥσπερ θηρίοις εὐγενεῖς σκύλακας . οὐ μὴν ἀλλὰ μεγάλης περὶ τὴν δίκην ἐκείνην φιλονεικίας γενομένης , ὥστε καί τρωθῆναί τινας καί πεσεῖν , ἀπέφυγεν ὁ Σερουίλιος .",
+      "translation": "The Romans thought this a brilliant stroke , and the case was in everybody ’ s mouth , like a great deed of prowess . Indeed , they thought the business of impeachment , on general principles and without special provocation , no ignoble thing , but were very desirous to see their young men fastening themselves on malefactors like high-bred whelps on wild beasts . However , the case stirred up great animosity , so that sundry persons were actually wounded and slain , and Servilius was acquitted ."
+    },
+    {
+      "id": "2.1",
+      "label": "Section 2.1",
+      "chapter": null,
+      "original": "νέος δʼ ὢν ἐν τῷ Μαρσικῷ πολέμῳ πολλὰ μὲν τόλμης δείγματα παρέσχε καὶ συνέσεως , μᾶλλόν γε μὴν αὐτὸν διʼ εὐστάθειαν καὶ πρᾳότητα Σύλλας προσηγάγετο , καὶ χρώμενος ἀπʼ ἀρχῆς ἐπὶ τὰ πλείστης ἄξια σπουδῆς διετέλεσεν ὧν ἦν καὶ ἡ περὶ τὸ νόμισμα πραγματεία .",
+      "translation": "Though he was but a young man in the Marsic war , [*] he gave many proofs of courage and understanding . It was , however , more owing to his constancy and mildness that Sulla attached him to himself and employed him from first to last on business of the highest importance . Such , for instance , was the management of the mint ."
+    },
+    {
+      "id": "2.2",
+      "label": "Section 2.2",
+      "chapter": null,
+      "original": "διʼ ἐκείνου γὰρ ἐκόπη τὸ πλεῖστον ἐν Πελοποννήσῳ περὶ τὸν Μιθριδατικὸν πόλεμον , καὶ Λουκούλλειον ἀπʼ ἐκείνου προσηγορεύθη , καὶ διετέλεσεν ἐπὶ πλεῖστον , ὑπὸ τῶν στρατιωτικῶν χρειῶν ἐν τῷ πολέμῳ λαμβάνον ἀμοιβὴν ταχεῖαν . ἐκ τούτου τῆς μὲν γῆς ἐπικρατῶν ὁ Σύλλας ἐν ταῖς Ἀθήναις , περικοπτόμενος δὲ τὴν ἀγορὰν ἐκ τῆς θαλάττης ὑπὸ τῶν πολεμίων ναυκρατούντων , ἐξέπεμψεν ἐπʼ Αἰγύπτου καὶ Λιβύης τὸν Λούκουλλον ἄξοντα ναῦς ἐκεῖθεν .",
+      "translation": "Most of the money used in Peloponnesus during the Mithridatic war was coined by him , and was called Lucullean after him . It remained current for a long time , since the wants of the soldiery during the war gave it rapid circulation . Afterwards , at Athens , Sulla found himself master on land , but cut off from supplies by sea , owing to the superior naval force of the enemy . He therefore despatched Lucullus to Egypt and Libya , [*] with orders to fetch ships from there ."
+    },
+    {
+      "id": "3.1",
+      "label": "Section 3.1",
+      "chapter": null,
+      "original": "ἐπεὶ δʼ ἀπέλιπε τὴν συμμαχίαν ὁ Πτολεμαῖος πρὸς τὸν πόλεμον ἀποδειλιάσας , ἐκείνῳ δὲ ναῦς ἄχρι Κύπρου πομποὺς παρέσχε , καὶ περὶ τὸν ἔκπλουν αὐτὸν ἀσπαζόμενος καὶ θεραπεύων ἐδωρεῖτο χρυσένδετον σμάραγδον τῶν πολυτελῶν , p.478 τὸ μὲν πρῶτον ὁ Λούκουλλος παρῃτεῖτο , δείξαντος δὲ τὴν γλυφὴν τοῦ βασιλέως εἰκόνα οὖσαν ἰδίαν ἐφοβήθη διώσασθαι , μὴ παντάπασιν ἐχθρὸς ἀποπλεῖν νομισθεὶς ἐπιβουλευθείη κατὰ θάλατταν .",
+      "translation": "Ptolemy abandoned his alliance with Rome , out of fear for the outcome of the war , but furnished Lucullus with ships to convoy him as far as Cyprus , embraced him graciously at parting , and offered him a costly emerald set in gold . At first Lucullus declined to accept it , but when the king showed him that the engraving on it was a likeness of himself , he was afraid to reject it , lest he be thought to have sailed away at utter enmity with the king , and so have some plot laid against him on the voyage ."
+    },
+    {
+      "id": "3.2",
+      "label": "Section 3.2",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ πλῆθος ἐν παράπλῳ νεῶν ἐκ τῶν παραλίων πόλεων ἀθροίσας , πλὴν ὅσοι πειρατικῶν μετεῖχον ἀδικημάτων , εἰς τὴν Κύπρον διεπέρασεν , ἐνταῦθα πυνθανόμενος τοὺς πολεμίους ναυλοχοῦντας ἐπὶ ταῖς ἄκραις παραφυλάττειν αὑτόν , ἐνεώλκησε τὰ σκάφη πάντα , καὶ ταῖς πόλεσιν ἔγραψε περὶ χειμαδίων καὶ ἀγορᾶς , ὡς αὐτόθι τὴν ὥραν ἀναμενῶν .",
+      "translation": "As he sailed along , he collected a multitude of ships from the maritime cities , omitting all those engaged in piracy , and came at last to Cyprus . Learning there that the enemy lay at anchor off the headlands and were watching for his coming , he hauled all his vessels up on land , and wrote letters to the cities requesting winter quarters and provisions , as though he would await the fine season there ."
+    },
+    {
+      "id": "4.1",
+      "label": "Section 4.1",
+      "chapter": null,
+      "original": "ἐκεῖθεν δὲ Σύλλᾳ περὶ Χερρόνησον ἤδη μέλλοντι διαβαίνειν συμβαλὼν τόν τε πόρον ἀσφαλῆ παρεῖχε καὶ τήν στρατιὰν συνδιεβίβαζεν , ἐπεὶ δὲ συνθηκῶν γενομένων Μιθριδάτης μὲν ἀπέπλευσεν εἰς τὸν Εὔξεινον πόντον , Σύλλας δὲ τήν Ἀσίαν δισμυρίοις ταλάντοις ἐζημίωσε , προσταχθὲν οὕτω τά τε χρήματα ταῦτα πρᾶξαι καὶ νόμισμα κόψαι , παραμύθιόν τι δοκεῖ τῆς Σύλλα χαλεπότητος γενέσθαι ταῖς πόλεσιν , οὐ μόνον καθαρὸν καὶ δίκαιον , ἀλλὰ καὶ πρᾷον εἰς οὕτω βαρὺ καὶ σκυθρωπὸν ὑπηρέτημα παρασχὼν ἑαυτόν .",
+      "translation": "From thence he joined Sulla at the Chersonesus , where he was about to cross the strait into Asia ; [*] he rendered his passage safe , and assisted in transporting his troops . After peace had been made , Mithridates sailed away into the Euxine , and Sulla laid a contribution of twenty thousand talents upon Asia . Lucullus was commissioned to collect this money and re-coin it , and the cities of Asia felt it to be no slight assuagement of Sulla ’ s severity when Lucullus showed himself not only honest and just , but even mild in the performance of a task so oppressive and disagreeable ."
+    },
+    {
+      "id": "4.2",
+      "label": "Section 4.2",
+      "chapter": null,
+      "original": "Μιτυληναίους δʼ ἄντικρυς ἀφεστῶτας ἐβούλετο μὲν εὐγνωμονῆσαι καὶ δίκης τυχεῖν μετρίας ἐφʼ οἷς περὶ Μάριον [*] ἐξήμαρτον , ὡς δʼ ἑώρα p.484 κακοδαιμονοῦντας , ἐπιπλεύσας ἐκράτησε μάχῃ καὶ κατέκλεισεν εἰς τὰ τείχη , καὶ πολιορκίαν συστησάμενος ἐξέπλευσε μὲν ἡμέρας καὶ φανερῶς εἰς Ἐλαίαν , ὑπέστρεψε δὲ λεληθότως καὶ περὶ τήν πόλιν ὑφεὶς ἐνέδραν ἡσύχαζεν .",
+      "translation": "The Mitylenaeans too , who had revolted outright , he wished to be reasonable , and to submit to a moderate penalty for having espoused the cause of Marius . But when he saw that they were possessed by an evil spirit , he sailed against them , conquered them in battle , and shut them up within their walls . After instituting a siege of their city , he sailed away in open day to Elaea , but returned by stealth , and lay quietly in ambush near the city ."
+    },
+    {
+      "id": "5.1",
+      "label": "Section 5.1",
+      "chapter": null,
+      "original": "ὀλίγῳ δʼ ὕστερον ἢ Σύλλαν ἀποθανεῖν ὑπάτευσε μετὰ Μάρκου Κόττα περὶ τὴν ἕκτην καὶ ἑβδομηκοστὴν πρὸς ταῖς ἑκατὸν ὀλυμπιάδα . πολλῶν οὖν αὖθις ἀνακινούντων τὸν Μιθριδατικὸν πόλεμον , ἔφη Μᾶρκος αὐτὸν οὐ πεπαῦσθαι , ἀλλʼ ἀναπεπαῦσθαι . διὸ καὶ λαχὼν τῶν ἐπαρχιῶν ὁ Λούκουλλος τὴν ἐντὸς Ἄλπεων Γαλατίαν ἤχθετο , πράξεων ὑποθέσεις μεγάλων οὐκ ἔχουσαν . p.486",
+      "translation": "Shortly after the death of Sulla , Lucullus was made consul along with Marcus Cotta , about the hundred and seventy-sixth Olympiad . [*] Many were now trying to stir up anew the Mithridatic war , which Marcus said had not come to an end , but merely to a pause . Therefore when the province of Cisalpine Gaul was allotted to Lucullus , he was displeased , since it offered no opportunity for great exploits . But what most of all embittered him was the reputation which Pompey was winning in Spain ."
+    },
+    {
+      "id": "5.2",
+      "label": "Section 5.2",
+      "chapter": null,
+      "original": "μάλιστα δʼ αὐτὸν εὐδοκιμῶν Πομπήιος ἐν Ἰβηρίᾳ παρώξυνεν , ὡς ἄλλος οὐδεὶς ἐπίδοξος ὤν , εἰ συμβαίη παύσασθαι τὸν Ἰβηρικὸν πόλεμον , εὐθὺς αἱρεθήσεσθαι στρατηγὸς ἐπὶ Μιθριδάτην . διὸ καὶ χρήματα αἰτοῦντος αὐτοῦ καὶ γράφοντος , ὡς , εἰ μὴ πέμποιεν , ἀφεὶς Ἰβηρίαν καὶ Σερτώριον εἰς Ἰταλίαν ἀπάξοι τὰς δυνάμεις , συνέπραξεν ὁ Λούκουλλος προθυμότατα πεμφθῆναι τὰ χρήματα καὶ μηδʼ ἀφʼ ἡστινοσοῦν προφάσεως ἐκεῖνον ἐπανελθεῖν ὑπατεύοντος αὐτοῦ ·",
+      "translation": "If the war in Spain should happen to come to an end , Pompey was more likely than anyone else to be at once chosen general against Mithridates . Therefore when Pompey wrote home requesting money , and declaring that if they did not send it , he would abandon Spain and Sertorius and bring his forces back to Italy , Lucullus moved heaven and earth to have the money sent , and to prevent Pompey from coming back , on any pretext whatsoever , while he was consul ."
+    },
+    {
+      "id": "6.1",
+      "label": "Section 6.1",
+      "chapter": null,
+      "original": "ἐν τούτῳ δʼ ὁ τὴν Κιλικίαν ἔχων Ὀκτάουϊος ἠγγέλθη τεθνηκώς . σπαργώντων δὲ πολλῶν πρὸς τὴν ἐπαρχίαν καὶ Κέθηγον ὡς δυνατώτατον ὄντα διαπράξασθαι θεραπευόντων , αὐτῆς μὲν ὁ Λούκουλλος Κιλικίας οὐ πολὺν εἶχε λόγον , οἰόμενος δʼ , εἰ λάβοι ταύτην , ἐγγὺς οὔσης Καππαδοκίας , ἄλλον οὐδένα πεμφθήσεσθαι p.488 πολεμήσοντα Μιθριδάτῃ , πᾶσαν ἔστρεφε μηχανὴν ὑπὲρ τοῦ μὴ προέσθαι τὴν ἐπαρχίαν ἑτέρῳ .",
+      "translation": "At this time there came tidings of the death of Octavius , the governor of Cilicia . There were many eager applicants for the province , and they paid court to Cethegus as the man best able to further their designs . Of Cilicia itself Lucullus made little account , but in the belief that , if he should get this province , which was near Cappadocia , no one else would be sent to conduct the war against Mithridates , he strained every nerve to keep the province from being assigned to another ."
+    },
+    {
+      "id": "6.2",
+      "label": "Section 6.2",
+      "chapter": null,
+      "original": "καὶ τελευτῶν ἔργον οὐ σεμνὸν οὐδʼ ἐπαινετόν , ἄλλως δʼ ἀνύσιμον πρὸς τὸ τέλος ἐκ τῆς ἀνάγκης ὑπέμεινε παρὰ τὴν ἑαυτοῦ φύσιν . Πραικία τις ἦν ὄνομα τῶν ἐφʼ ὥρᾳ καὶ λαμυρίᾳ διαβοήτων ἐν τῇ πόλει , τὰ μὲν ἄλλα κρείττων οὐδὲν ἀνέδην ἑταιρούσης γυναικός , ἐκ δὲ τοῦ χρῆσθαι τοῖς ἐντυγχάνουσιν αὐτῇ καὶ διαλεγομένοις πρὸς τὰς ὑπὲρ τῶν φίλων σπουδὰς καὶ πολιτείας προσλαβοῦσα τῇ λοιπῇ χάριτι τὸ δοκεῖν φιλέταιρός τις εἶναι καὶ δραστήριος ἴσχυσε μέγιστον .",
+      "translation": "And finally , contrary to his natural bent , he was driven by the necessities of the case to adopt a course which was neither dignified nor praiseworthy , it is true , but conducive to his end . There was a certain woman then in Rome , Praecia by name , whose fame for beauty and wit filled the city . In other respects she was no whit better than an ordinary courtesan , but she used her associates and companions to further the political ambitions of her friends , and so added to her other charms the reputation of being a true comrade , and one who could bring things to pass . She thus acquired the greatest influence ."
+    },
+    {
+      "id": "7.1",
+      "label": "Section 7.1",
+      "chapter": null,
+      "original": "Λούκουλλος δὲ τάγμα μὲν αὐτόθεν ἔχων συντεταγμένον ὑπʼ αὐτοῦ διέβαινεν εἰς τὴν Ἀσίαν ἐκεῖ δὲ τὴν ἄλλην παρέλαβε δύναμιν , πάντων μὲν πάλαι τρυφαῖς διεφθορότων καὶ πλεονεξίαις , τῶν δὲ Φιμβριανῶν λεγομένων καὶ διὰ συνήθειαν ἀναρχίας δυσμεταχειρίστων γεγονότων .",
+      "translation": "With a legion which he had raised himself in Italy , Lucullus crossed into Asia , [*] and there assumed command of the rest of the Roman forces . All these had long been spoiled by habits of luxury and greed , and the Fimbrians , as they were called , had become unmanageable , through long lack of discipline ."
+    },
+    {
+      "id": "7.2",
+      "label": "Section 7.2",
+      "chapter": null,
+      "original": "οὗτοι γὰρ ἦσαν οἱ Φλάκκον τε μετὰ Φιμβρίου τὸν ὕπατον καὶ στρατηγὸν ἀνῃρηκότες αὐτόν τε τὸν Φιμβρίαν Σύλλᾳ προδεδωκότες , αὐθάδεις μὲν ἄνθρωποι καὶ παράνομοι , μάχιμοι δὲ καὶ τλήμονες μετʼ ἐμπειρίας πολέμου , οὐ μὴν ἀλλὰ βραχεῖ χρόνῳ καὶ τούτων τὸ θράσος ὁ Λούκουλλος ἐξέκοψε καὶ τοὺς ἄλλους ἐπέστρεψε , τότε πρῶτον , ὡς ἔοικε , πειρωμένους ἄρχοντος ἀληθινοῦ καὶ ἡγεμόνος · ἄλλως δʼ ἐδημαγωγοῦντο πρὸς ἡδονὴν ἐθιζόμενοι στρατεύεσθαι .",
+      "translation": "These were the men who , in collusion with Fimbrius , had slain Flaccus , their consul and general , and had delivered Fimbrius himself over to Sulla . They were self-willed and lawless , but good fighters , hardy , and experienced in war . However , in a short time Lucullus pruned off their insolent boldness , and reformed the rest . Then for the first time , as it would seem , they made the acquaintance of a genuine commander and leader , whereas before this they had always been cajoled into doing their duty , like crowds at the hustings ."
+    },
+    {
+      "id": "8.1",
+      "label": "Section 8.1",
+      "chapter": null,
+      "original": "ὃν δὲ περὶ ταῦτα Λούκουλλος ἠσχολεῖτο χρόνον αὑτοῦ καιρὸν εἶναι νομίζων ὁ Κόττας παρεσκευάζετο μάχεσθαι πρὸς Μιθριδάτην . καὶ πολλῶν ἀπαγγελλόντων ἤδη Λούκουλλον ἐν Φρυγίᾳ στρατοπεδεύειν ἐπιόντα , μόνον οὐκ ἐν ταῖς χερσὶν ἔχειν τὸν θρίαμβον οἰόμενος , ὡς μὴ μεταλάβῃ Λούκουλλος αὐτοῦ , συμβαλεῖν ἔσπευσε .",
+      "translation": "While Lucullus was thus occupied , Cotta , thinking that his own golden opportunity had come , was getting ready to give battle to Mithridates . And when tidings came from many sources that Lucullus was coming up , and was already encamped in Phrygia , thinking that a triumph was all but in his grasp , and desiring that Lucullus have no share in it , he hastened to engage the king ."
+    },
+    {
+      "id": "8.2",
+      "label": "Section 8.2",
+      "chapter": null,
+      "original": "πληγεὶς δʼ ἅμα καὶ κατὰ p.494 γῆν καὶ κατὰ θάλατταν ἑξήκοντα μὲν ἀπώλεσεν αὔτανδρα σκάφη , πεζοὺς δὲ τετρακισχιλίους , αὐτὸς δὲ κατακλεισθεὶς εἰς Χαλκηδόνα καὶ πολιορκούμενος εἰς τὰς Λουκούλλου χεῖρας ἀπέβλεπεν .",
+      "translation": "But he was defeated by sea and land , lost sixty vessels , crews and all , and four thousand foot-soldiers , while he himself was shut up in Chalcedon and besieged there , looking for relief at the hands of Lucullus ."
+    },
+    {
+      "id": "9.1",
+      "label": "Section 9.1",
+      "chapter": null,
+      "original": "ἐν τούτῳ δὲ Μιθριδάτης ἐπεβούλευε Κυζικηνοῖς πεπληγόσιν ἐν τῇ περὶ Χαλκηδόνα μάχῃ · τρισχιλίων γὰρ ἀνδρῶν καὶ δέκα νεῶν ἐστέρηντο . βουλόμενος οὖν λαθεῖν τὸν Λούκουλλον , εὐθὺς ἀπὸ δείπνου νύκτα δυσφανῆ καὶ νοτερὰν ἔχων ἐκίνει καὶ φθάνει τῆς πόλεως ἄντικρυς ἅμʼ ἡμέρᾳ περὶ τὸ τῆς Ἀδραστείας ὄρος p.498 ἱδρύσας τὴν δύναμιν .",
+      "translation": "But in the meantime , Mithridates planned a blow at Cyzicus , which had suffered terribly in the battle near Chalcedon , having lost three thousand men and ten ships . Accordingly , wishing to evade the notice of Lucullus , he set out immediately after the evening meal , taking advantage of a dark and rainy night , and succeeded in planting his forces over against the city , on the slopes of the mountain range of Adrasteia , by day-break ."
+    },
+    {
+      "id": "9.2",
+      "label": "Section 9.2",
+      "chapter": null,
+      "original": "ὁ δὲ Λούκουλλος αἰσθόμενος καὶ διώξας ἠγάπησε μὲν οὐκ ἐμπεσὼν ἀσύντακτος εἰς τοὺς πολεμίους , καθίζει δὲ τὸν στρατὸν περὶ τὴν Θρᾳκίαν λεγομένην κώμην ἐν τόπῳ κατὰ τῶν ὁδῶν ἄριστα πεφυκότι καὶ τῶν χωρίων , ἀφʼ ὧν καὶ διʼ ὧν ἀναγκαῖον ἦν τοῖς Μιθριδατικοῖς τὰ ἐπιτήδεια φοιτᾶν . διὸ καὶ περιλαβὼν τῇ διανοίᾳ τὸ μέλλον οὐκ ἀπεκρύψατο τοὺς στρατιώτας , ἀλλʼ ἅμα τῷ θέσθαι τὸ στρατόπεδον καὶ ἀπὸ τῶν ἔργων γενέσθαι συναγαγὼν αὐτοὺς ἐμεγαληγόρησεν , ὡς ὀλίγων ἡμερῶν ἀναιμωτὶ τὸ νίκημα παραδώσων αὐτοῖς .",
+      "translation": "Lucullus got wind of his departure and pursued him , but was well satisfied not to fall upon the enemy while his own troops were in disorder from their march , and stationed his army near the village called Thracia , in a spot best suited to command the roads and regions from which , and over which , the army of Mithridates must get its necessary supplies . Seeing clearly , therefore , what the issue must be , he did not conceal it from his soldiers , but as soon as they had completed the labour of fortifying their camp , called them together , and boastfully told them that within a few days he would give them their victory , and that without any bloodshed ."
+    },
+    {
+      "id": "10.1",
+      "label": "Section 10.1",
+      "chapter": null,
+      "original": "ἔοικε δὲ καὶ τὸ θεῖον ἐπιθαρρῦναι τοὺς Κυζικηνούς , ἀγασθὲν αὐτῶν τὴν ἀνδραγαθίαν , ἄλλοις τε σημείοις ἐναργέσι , καὶ τῆς τῶν Φερεφαττίων ἑορτῆς ἐνεστώσης οἱ μὲν ἠπόρουν βοὸς μελαίνης πρὸς τὴν θυσίαν καὶ σταιτίνην πλάσαντες paris.1624.498 τῷ βωμῷ παρέστησαν , ἡ δʼ ἱερὰ καὶ τρεφομένη τῇ θεῷ νομὴν μὲν εἶχεν , ὥσπερ τἆλλα βοτὰ τῶν Κυζικηνῶν , ἐν τῇ περαίᾳ , κατʼ ἐκείνην δὲ τὴν ἡμέραν ἀποκριθεῖσα τῆς ἀγέλης μόνη διενήξατο πρὸς τὴν πόλιν καὶ κατέστησεν ἐπὶ τὴν θυσίαν αὑτήν .",
+      "translation": "It would seem also that Heaven , in admiration of their bravery , emboldened the men of Cyzicus by many manifest signs , and especially by the following . The festival of Persephone was at hand , and the people , in lack of a black heifer for the sacrifice , fashioned one of dough , and brought it to the altar . Now the sacred heifer reared for the goddess was pasturing , like the other herds of the Cyzicenes , on the opposite side of the strait , but on that day she left her herd , swam over alone to the city , and presented herself for the sacrifice ."
+    },
+    {
+      "id": "10.2",
+      "label": "Section 10.2",
+      "chapter": null,
+      "original": "ὄναρ δʼ ἡ θεὸς Ἀρισταγόρᾳ τῷ τοῦ δήμου γραμματιστῇ παραστᾶσα , καὶ μὴν ἔγωγε , εἶπεν , ἥκω τὸν Λιβυκὸν αὐλητὴν ἐπὶ τὸν Ποντικὸν σαλπιγκτὴν ἐπάγουσα . φράσον οὖν θαρρεῖν τοῖς πολίταις . θαυμαζόντων δὲ τὴν φωνὴν τῶν Κυζικηνῶν ἅμʼ ἡμέρᾳ σάλον εἶχεν ἡ θάλασσα κατιόντος ἀκρίτου πνεύματος , αἵ τε μηχαναὶ τοῦ βασιλέως παρεστῶσαι τοῖς τείχεσιν , ἔργα θαυμαστὰ Νικωνίδου τοῦ Θεσσαλοῦ , ῥοίζῳ p.502 καὶ πατάγῳ πρῶτον ἀπεδήλουν τὸ μέλλον ·",
+      "translation": "And again , the goddess appeared in a dream to Aristagoras , the town-clerk , saying : Lo , here am I , and I bring the Libyan fifer against the Pontic trumpeter . Bid the citizens therefore be of good cheer . While the Cyzicenes were lost in wonder at the saying , at daybreak the sea began to toss under a boisterous wind , and the siege-engines of the king along the walls , the wonderful works of Niconides the Thessalian , by their creaking and cracking showed clearly what was about to happen ;"
+    },
+    {
+      "id": "11.1",
+      "label": "Section 11.1",
+      "chapter": null,
+      "original": "Μιθριδάτην δέ , ἄχρι μὲν ὑπὸ τῶν ἑαυτοῦ στρατηγῶν φενακιζόμενος ἠγνόει τὸν ἐν τῷ στρατοπέδῳ λιμόν , ἠνίων Κυζικηνοὶ διαφεύγοντες τὴν πολιορκίαν . ταχὺ δʼ ἐξερρύη τὸ φιλότιμον αὐτοῦ καὶ φιλόνεικον ἐν αἰσθήσει γενομένου τῶν ἀποριῶν , αἷς οἱ στρατιῶται συνείχοντο , καὶ τῶν ἀνθρωποφαγιῶν , ἅτε δὴ μὴ θεατρικῶς μηδʼ ἐπιδεικτικῶς Λουκούλλου πολεμοῦντος , ἀλλὰ , τοῦτο δὴ τὸ λεγόμενον , εἰς τὴν γαστέρα ἐναλλομένου καὶ ὅπως ὑφαιρήσει τὴν τροφὴν ἅπαντα πραγματευομένου .",
+      "translation": "Mithridates , as long as his generals deceived him into ignorance of the famine in his army , was vexed that the Cyzicenes should successfully withstand his siege . But his eager ambition quickly ebbed away when he perceived the straits in which his soldiers were involved , and their actual cannibalism . For Lucullus was not carrying on the war in any theatrical way , nor for mere display , but , as the saying is , was kicking in the belly , and devising every means for cutting off food ."
+    },
+    {
+      "id": "11.2",
+      "label": "Section 11.2",
+      "chapter": null,
+      "original": "διὸ καὶ φρούριόν τι πολιορκοῦντος αὐτοῦ τῷ καιρῷ χρήσασθαι σπεύδων ὁ Μιθριδάτης ἐξέπεμψεν εἰς Βιθυνίαν τοὺς μὲν ἱππεῖς σχεδὸν ἅπαντας μετὰ τῶν ὑποζυγίων , τῶν δὲ πεζῶν τοὺς ἀχρήστους , πυθόμενος δʼ ὁ Λούκουλλος ἔτι νυκτὸς ἧκεν εἰς τὸ στρατόπεδον , πρωὶ δὲ χειμῶνος ὄντος ἀναλαβὼν σπείρας δέκα καὶ τὴν ἵππον ἐδίωκε νιφόμενος καὶ κακοπαθῶν , ὥστε πολλοὺς ὑπὸ κρύους ἐνδιδόντας ἀπολείπεσθαι τῶν p.504 στρατιωτῶν , τοῖς δʼ ἄλλοις περὶ τὸν Ῥυνδακὸν ποταμόν καταλαβὼν τοὺς πολεμίους τοσαύτην τροπὴν ἐποίησεν ,",
+      "translation": "Accordingly , while Lucullus was laying siege to some outpost or other , Mithridates eagerly took advantage of the opportunity , and sent away into Bithynia almost all his horsemen , together with the beasts of burden , and those of his foot-soldiers who were disabled . On learning of this , Lucullus returned to his camp while it was still night , and early in the morning , in spite of a storm , took ten cohorts of infantry and his calvary , aid started in pursuit , although snow was falling and his hardships were extreme . Many of his soldiers were overcome with the cold and had to be left behind , but with the rest he overtook the enemy at the river Rhyndacus"
+    },
+    {
+      "id": "12.1",
+      "label": "Section 12.1",
+      "chapter": null,
+      "original": "Λούκουλλος δὲ πρῶτον εἰς Κύζικον παρελθών ἀπέλαυσεν ἡδονῆς καὶ φιλοφροσύνης p.506 πρεπούσης · ἔπειτα ναυτικὸν ἐξηρτύετο τὸν Ἑλλήσποντον ἐπιπορευόμενος . εἰς δὲ Τρῳάδα καταχθείς ἐσκήνωσε μὲν ἐν τῷ ἱερῷ τῆς Ἀφροδίτης , κατακοιμηθεὶς δὲ νύκτωρ ἐδόκει τὴν θεὰν ὁρᾶν ἐφεστῶσαν αὐτῷ καὶ λέγουσαν ·\nτί κνώσσεις , μεγάθυμε λέον ; νεβροὶ δε τοι ἐγγύς .",
+      "translation": "Lucullus , in the first place , entered Cyzicus in triumph , and enjoyed the pleasant welcome which was his due ; then he proceeded to the Hellespont , and began to equip a fleet . On visiting the Troad , he pitched his tent in the sacred precinct of Aphrodite , and in the night , after he had fallen asleep , he thought he saw the goddess standing over him and saying :— Why dost thou sleep , great lion ? the fawns are near for thy taking ."
+    },
+    {
+      "id": "12.2",
+      "label": "Section 12.2",
+      "chapter": null,
+      "original": "ἐξαναστὰς δὲ καὶ τοὺς φίλους καλέσας διηγεῖτο τὴν ὄψιν ἔτι νυκτὸς οὔσης . καὶ παρῆσαν ἐξ Ἰλίου τινὲς ἀπαγγέλλοντες ὦφθαι περὶ τὸν Ἀχαιῶν λιμένα τρισκαίδεκα πεντήρεις τῶν βασιλικῶν ἐπὶ Λῆμνον πλεούσας , εὐθὺς οὖν ἀναχθείς τούτους μὲν εἷλε καὶ τὸν στρατηγὸν αὐτῶν Ἰσίδωρον ἀπέκτεινεν , ἐπὶ δὲ τοὺς ἄλλους ἔπλει πρωρέας .",
+      "translation": "Rising up from sleep and calling his friends , he narrated to them his vision , while it was yet night . And lo , there came certain men from Ilium , with tidings that thirteen of the king ’ s galleys had been seen off the harbour of the Achaeans , making for Lemnos . Accordingly , Lucullus put to sea at once , captured these , slew their commander , Isodorus , and then sailed in pursuit of the other captains , whom these were seeking to join ."
+    },
+    {
+      "id": "13.1",
+      "label": "Section 13.1",
+      "chapter": null,
+      "original": "γενόμενος δʼ ἀπὸ τούτων ἠπείγετο πρὸς τὴν αὐτοῦ Μιθριδάτου δίωξιν . ἤλπιζε γὰρ ἔτι περὶ Βιθυνίαν εὑρήσειν αὐτόν ὑπὸ Βοκωνίου φρουρούμενον , ὃν αὐτὸς ἐνστησόμενον τῇ φυγῇ μετὰ νεῶν ἀπεστάλκει πρὸς Νικομήδειαν .",
+      "translation": "These things done , Lucullus hastened in pursuit of Mithridates himself . For he expected to find him still in Bithynia under the watch and ward of Voconius , whom he had dispatched with a fleet to Nicomedeia that he might intercept the king ’ s flight ."
+    },
+    {
+      "id": "13.2",
+      "label": "Section 13.2",
+      "chapter": null,
+      "original": "ἀλλὰ Βοκώνιος μὲν . ἐν Σαμοθρᾴκῃ μυούμενος καὶ πανηγυρίζων καθυστέρησε · Μιθριδάτην δὲ ἀναχθέντα μετὰ τοῦ στόλου , σπεύδοντα πρὶν ἐπιστρέφειν Λούκουλλον εἰς τὸν Πόντον εἰσπλεῦσαι , καταλαμβάνει χειμὼν πολύς , ὑφʼ οὗ τὰ μὲν ἀφηρπάγη , τὰ δʼ ἐβυθίσθη τῶν σκαφῶν , πᾶσα δʼ ἡ παραλία τῶν ναυαγίων ἐκφερομένων ὑπὸ τοῦ κλύδωνος ἐπὶ πολλὰς ἡμέρας ἦν περίπλεως .",
+      "translation": "But Voconius was behindhand , owing to his initiation into , and celebration of , the mysteries in Samothrace , and Mithridates put to sea with his armament , eager to reach Pontus before Lucullus turned and set upon him . He was overtaken , however , by a great storm , which destroyed some of his vessels and disabled others . The whole coast for many days was covered with the wrecks dashed upon it by the billows ."
+    },
+    {
+      "id": "14.1",
+      "label": "Section 14.1",
+      "chapter": null,
+      "original": "πολλῶν δὲ Λουκούλλῳ παραινούντων ἀναβάλλεσθαι τὸν πόλεμον , οὐ φροντίσας ἐνέβαλε διὰ Βιθυνίας καὶ Γαλατίας εἰς τὴν βασιλικήν , ἐν ἀρχῇ μὲν ἐνδεὴς τῶν ἀναγκαίων , ὥστε Γαλάτας ἕπεσθαι τρισμυρίους ἕκαστον ἐπὶ τῶν ὤμων κομίζοντα σίτου μέδιμνον , προϊὼν δὲ καὶ κρατῶν ἁπάντων εἰς τοσαύτην ἦλθεν εὐπορίαν , paris.1624.500 ὥστε τὸν μὲν βοῦν ἐν στρατοπέδῳ δραχμῆς , τὸ δὲ ἀνδράποδον τεττάρων ὤνιον εἶναι , τὴν δʼ ἄλλην λείαν ἐν οὐδενὶ λόγῳ τοὺς μὲν ἀπολείπειν , τοὺς δὲ ἀναλίσκειν . διάθεσις γὰρ ἦν οὐδενὸς πρὸς οὐδένα πάντων εὐπορούντων .",
+      "translation": "Though many now advised Lucullus to suspend the war , he paid no heed to them , but threw his army into the king ’ s country by way of Bithynia and Galatia . [*] At first he lacked the necessary supplies , so that thirty thousand Galatians followed in his train , each carrying a bushel of grain upon his shoulders ; but as he advanced and mastered everything , he found himself in the midst of such plenty that an ox sold in his camp for a drachma , and a man-slave for four , while other booty had no value at all . Some abandoned it , and some destroyed it . There was no sale for anything to anybody when all had such abundance ."
+    },
+    {
+      "id": "14.2",
+      "label": "Section 14.2",
+      "chapter": null,
+      "original": "ἀλλʼ ὅσον φθεῖραι καὶ κακῶσαι τὴν χώραν ἱππασάμενοι καὶ καταδραμόντες ἄχρι Θεμισκύρας καὶ τῶν περὶ Θερμώδοντα πεδίων , ᾐτιῶντο τὸν Λούκουλλον , ὅτι πάσας προσάγεται τὰς πόλεις , κατὰ κράτος δὲ οὐδεμίαν ᾕρηκεν οὐδὲ παρέσχηκεν αὐτοῖς ὠφεληθῆναι διαρπάσασιν .",
+      "translation": "But when Lucullus merely wasted and ravaged the country with cavalry incursions , which penetrated to Themiscyra and the Illains of the river Thermodon , his soldiers found fault with him because he brought all the cities over to him by peaceable measures ; he had not taken a single one by storm , they said , nor given them a chance to enrich themselves by plunder ."
+    },
+    {
+      "id": "15.1",
+      "label": "Section 15.1",
+      "chapter": null,
+      "original": "ἐπὶ τοιούτων λογισμῶν γενόμενος ὁ Λούκουλλος περί τε τὴν Ἀμισὸν διέτριψε , μαλακῶς τῇ πολιορκίᾳ χρώμενος , καὶ μετὰ χειμῶνα Μουρήναν ἀπολιπὼν ἐπὶ τῆς πολιορκίας ἐβάδιζεν ἐπὶ Μιθριδάτην καθήμενον ἐν Καβείροις καὶ διανοούμενον ὑφίστασθαι τοὺς Ῥωμαίους , ἠθροισμένης αὐτῷ δυνάμεως εἰς τετρακισμυρίους πεζούς , ἱππεῖς δὲ τετρακισχιλίους , οἷς ἐθάρρει μάλιστα .",
+      "translation": "Influenced by such considerations as these , Lucullus lingered about Amisus , without pushing the siege vigorously . When winter was over , he left Murena in charge of the siege , and marched against Mithridates , [*] who had taken his stand at Cabira , and intended to await the Roman onset there . A force of forty thousand footmen had been collected by him , and four thousand horsemen ; on the latter he placed his chief reliance ."
+    },
+    {
+      "id": "15.2",
+      "label": "Section 15.2",
+      "chapter": null,
+      "original": "καὶ διαβὰς τὸν Λύκον ποταμὸν εἰς τὸ πεδίον προὐκαλεῖτο τοὺς Ῥωμαίους . γενομένης δʼ ἱππομαχίας ἔφυγον οἱ Ῥωμαῖοι · Πομπώνιος δʼ ἀνὴρ οὐκ ἄδοξος ἑάλω τετρωμένος καὶ πρὸς τὸν Μιθριδάτην ἀνήχθη κακῶς ὑπὸ τραυμάτων διακείμενος , πυθομένου δὲ τοῦ βασιλέως , εἰ σωθεὶς ὑπʼ αὐτοῦ γενήσεται φίλος , ἄν γε δή , ἔφη , Ῥωμαίοις διαλλαγῇς · εἰ δὲ μή , πολέμιος . τοῦτον μὲν θαυμάσας ὁ Μιθριδάτης οὐκ ἠδίκησε .",
+      "translation": "Crossing the river Lycus and advancing into the plain , he offered the Romans battle . A cavalry fight ensued , and the Romans took to flight . Pomponius , a man of some note , having been wounded , was taken prisoner and led into the presence of Mithridates , suffering greatly from his wounds . When the king asked him if he would become his friend provided he spared his life , Pomponius answered : Yes , indeed , if you come to terms with the Romans ; otherwise I must remain your enemy . Mithridates was struck with admiration for him , and did him no harm ."
+    },
+    {
+      "id": "16.1",
+      "label": "Section 16.1",
+      "chapter": null,
+      "original": "τὴν δέ τις ἐν τῷ Μιθριδάτου στρατοπέδῳ Δανδαρίων δυνάστης Ὀλθακὸς γένος δʼ εἰσὶν οἱ Δανδάριοι βαρβάρων τῶν περὶ τήν Μαιῶτιν οἰκούντων , ἀνὴρ ὅσα χειρὸς ἔργα καί τόλμης ἐν πολέμῳ διαπρεπὴς ἅπαντα , καί γνώμην ἱκανὸς ἐν τοῖς μεγίστοις , ἔτι δʼ ἐμμελὴς ὁμιλῆσαι καί θεραπευτικός , οὗτος ἔχων ἀεὶ πρός τινα τῶν ὁμοφύλων δυναστῶν ἅμιλλαν ὑπὲρ πρωτείων καὶ ζηλοτυπίαν ὑπέσχετο τῷ Μιθριδάτῃ μέγα ἔργον , ἀποκτενεῖν Λούκουλλον .",
+      "translation": "In the camp of Mithridates there was a Dandarian prince named Olthacus ( the Dandarians are a tribe of barbarians dwelling about Lake Maeotis ), a man conspicuous as a soldier for qualities of strength and boldness , of a most excellent judgment , and withal affable in address and of insinuating manners . This man was always in emulous rivalry for the precedence with a fellow prince of his tribe , and so was led to undertake a great exploit for Mithridates , namely , the murder of Lucullus ."
+    },
+    {
+      "id": "16.2",
+      "label": "Section 16.2",
+      "chapter": null,
+      "original": "ἐπαινέσαντος δὲ τοῦ βασιλέως καί τινας αὐτῷ προσβαλόντος ἐπίτηδες ἀτιμίας εἷς προσποίησιν ὀργῆς ἀφιππάσατο πρός Λούκουλλον · ὁ δʼ ἄσμενος ἐδέξατο · λόγος γὰρ ἦν αὐτοῦ πολὺς ἐν τῷ στρατοπέδῳ · καί ταχὺ πειρώμενος ἠσπάζετο τήν τε ἀγχίνοιαν αὐτοῦ καί τὸ λιπαρές , ὥστε τραπέζης καί συνεδρίου ποτὲ ποιεῖσθαι κοινωνόν .",
+      "translation": "The king approved of his design , and purposely inflicted upon him sundry marks of disgrace , whereupon , pretending to be enraged , he galloped off to Lucullus , who gladly welcomed him , since there was much talk of him in the camp . After a short probation , Lucullus was so pleased with his shrewdness and zeal , that he made him a table companion , and at last a member of his council ."
+    },
+    {
+      "id": "17.1",
+      "label": "Section 17.1",
+      "chapter": null,
+      "original": "ἐκ τούτου Σωρνάτιος μὲν ἐπὶ σίτου κομιδὴν ἐπέμφθη μετὰ δέκα σπειρῶν καὶ καταδιωχθεὶς ὑπὸ Μενάνδρου , τῶν Μιθριδάτου στρατηγῶν ἑνός , ἀντέστη καὶ συμβαλὼν φόνον ἐποίησε πολὺν καὶ τροπὴν τῶν πολεμίων , αὖθις δὲ πεμφθέντος Ἀδριανοῦ μετὰ δυνάμεως , ὅπως ἐκ περιουσίας ἔχωσιν οἱ στρατιῶται σῖτον , οὐ περιεῖδε Μιθριδάτης , ἀλλʼ ἀπέστειλε Μενέμαχον καὶ Μύρωνα πολλῶν μὲν ἱππέων , πολλῶν δὲ πεζῶν ἡγουμένους .",
+      "translation": "After this , Sornatius was sent with ten cohorts to get supplies of grain . Being pursued by Menander , one of the generals of Mithridates , he faced about , joined battle , and routed the enemy with great slaughter . And again , when Adrian was sent out with a force to procure an abundance of grain for the soldiers , Mithridates did not look on idly , but dispatched Menemachus and Myron , at the head of a large body of cavalry and footmen ."
+    },
+    {
+      "id": "17.2",
+      "label": "Section 17.2",
+      "chapter": null,
+      "original": "οὗτοι πάντες , ὡς λέγεται , πλὴν δυεῖν κατεκόπησαν ὑπὸ τῶν Ῥωμαίων . καὶ Μιθριδάτης μὲν ἔκρυπτε τὴν συμφοράν ὡς οὐ τοσαύτην οὖσαν , ἀλλὰ μικράν , προσκεκρουκότων ἀπειρίᾳ τῶν στρατηγῶν , Ἀδριανὸς δὲ λαμπρὸς παρημείβετο τὸ στρατόπεδον πολλὰς κατάγων ἁμάξας σίτου καὶ λαφύρων γεμούσας , ὥστε δυσθυμίαν μὲν αὐτῷ , ταραχὴν δὲ καὶ φόβον ἀμήχανον ἐμπεσεῖν τοῖς στρατιώταις .",
+      "translation": "All these , it is said , except two , were cut to pieces by the Romans . Mithridates tried to conceal the extent of the disaster , pretending that it was a slight matter , and due to the inexperience of his generals . But when Adrian marched pompously past his camp , convoying many waggons laden with grain and booty , a great despair fell upon the king , and confusion and helpless fear upon his soldiers . They decided , therefore , to remain where they were no longer ."
+    },
+    {
+      "id": "18.1",
+      "label": "Section 18.1",
+      "chapter": null,
+      "original": "τὰ δὲ Κάβειρα λαβὼν καὶ τῶν ἄλλων φρουρίων τὰ πλεῖστα θησαυρούς τε μεγάλους εὗρε καὶ δεσμωτήρια , πολλῶν μὲν Ἑλλήνων , πολλῶν δὲ συγγενῶν τοῦ βασιλέως καθειργμένων , οἷς πάλαι τεθνάναι δοκοῦσιν οὐ σωτηρίαν , ἀλλʼ ἀναβίωσιν καὶ δευτέραν τινὰ γέννησιν ἡ Λουκούλλου χάρις παρέσχεν .",
+      "translation": "In capturing Cabira and most of the other strongholds , he found great treasures , and many prisons , in which many Greeks and many kinsfolk of the king were confined . As they had long been given up for dead , it was not so much a rescue as it was a resurrection and a sort of second birth , for which they were indebted to the favour of Lucullus ."
+    },
+    {
+      "id": "18.2",
+      "label": "Section 18.2",
+      "chapter": null,
+      "original": "ἑάλω δὲ καὶ ἀδελφὴ τοῦ Μιθριδάτου Νύσσα σωτήριον ἅλωσιν αἱ δʼ ἀπωτάτω τοῦ κινδύνου καὶ καθʼ ἡσυχίαν ἀποκεῖσθαι δοκοῦσαι περὶ Φαρνάκειαν ἀδελφαί καὶ γυναῖκες οἰκτρῶς ἀπώλοντο , Μιθριδάτου πέμψαντος ἐπʼ paris.1624.503 αὐτὰς ἐκ τῆς φυγῆς Βακχίδην εὐνοῦχον . ἦσαν δὲ μετὰ πολλῶν ἀδελφαί τε δύο τοῦ βασιλέως , Ῥωξάνη καὶ Στάτειρα , περὶ τεσσαράκοντα ἔτη παρθενευόμεναι , καὶ γαμεταὶ δύο , γένος Ἰωνίδες , Βερενίκη μὲν ἐκ Χίου , Μονίμη δὲ Μιλησία .",
+      "translation": "Nyssa , a sister of Mithridates , was also captured ; and her capture was her salvation . But the sisters and wives of the king who were thought to be at farthest remove from danger and quietly hidden away in Pharnacia , perished pitifully , since Mithridates paused long enough in his flight to send Bacchides , a eunuch , to compass their death . Among many other women , there were two sisters of the king , Roxana and Statira , about forty years old and unmarried ; and two of his wives , of Ionian families , Berenicé from Chios , and Monimé , a Milesian ."
+    },
+    {
+      "id": "19.1",
+      "label": "Section 19.1",
+      "chapter": null,
+      "original": "ἐλάσας δʼ ἄχρι Ταλαύρων , ἔνθεν ἡμέρᾳ τετάρτῃ πρότερον ἐφθάκει Μιθριδάτης εἰς Ἀρμενίαν πρὸς Τιγράνην πεφευγώς , ἀποτρέπεται , καταστρεψάμενος δὲ Χαλδαίους καὶ Τιβαρηνοὺς καὶ τὴν μικρὰν Ἀρμενίαν παραλαβών καὶ φρούρια καὶ πόλεις παραστησάμενος , Ἄππιον μὲν ἔπεμψε πρὸς Τιγράνην ἐξαιτῶν Μιθριδάτην , αὐτὸς δʼ ἧκε πρὸς Ἀμισὸν ἔτι πολιορκουμένην .",
+      "translation": "Lucullus pushed on in pursuit as far as Talaura , whence , four days before , Mithridates had succeeded in escaping to Tigranes , in Armenia ; then he turned aside . After subduing the Chaldaeans and the Tibareni , he occupied Lesser Armenia , reducing its fortresses and cities , and then sent Appius to Tigranes with a demand for Mithridates . He himself , however , came to Amisus , which was still holding out against the siege ."
+    },
+    {
+      "id": "19.2",
+      "label": "Section 19.2",
+      "chapter": null,
+      "original": "αἴτιος p.528 δʼ ἦν Καλλίμαχος ὁ στρατηγός ἐμπειρίᾳ μηχανικῆς παρασκευῆς καὶ δεινότητι πανουργίας , ὅσην πολιορκία δέχεται , πλεῖστα λυπήσας Ῥωμαίους · ὧν ὕστερον ἔδωκε δίκην . τότε δʼ ὑπὸ Λουκούλλου καταστρατηγηθείς , ὑφʼ ἣν ἔθος εἶχεν ὥραν τῆς ἡμέρας ἀπάγειν καὶ ἀναπαύειν τούς στρατιώτας , ἐν ἐκείνῃ προσβαλόντος αἰφνιδίως καὶ κατασχόντος οὐ πολὺ μέρος τοῦ τείχους , αὐτὸς ἐκλιπὼν τὴν πόλιν ὑφῆψεν , εἴτε φθονῶν ὠφεληθῆναι Ῥωμαίοις , εἴτε ῥᾳστώνην φυγῆς ἑαυτῷ μηχανώμενος .",
+      "translation": "Its success in this was due to Callimachus , its commander , who , by his acquaintance with mechanical contrivances and his power to employ every resource which the siege of a city demands , had given the Romans the greatest annoyance . For this he afterwards paid the penalty . But at this time , he was simply outgeneralled by Lucullus , who made a sudden attack at just that time of day when Callimachus was accustomed to draw his soldiers off from the ramparts and give them a rest . When the Romans had got possession of a small part of the wall , Callimachus abandoned the city , first setting fire to it with his own hands , either because he begrudged the visitors their booty , or because his own escape was thus facilitated ."
+    },
+    {
+      "id": "20.1",
+      "label": "Section 20.1",
+      "chapter": null,
+      "original": "Λούκουλλος δὲ τρέπεται πρὸς τὰς ἐν Ἀσίᾳ πόλεις , ὅπως , τῶν πολεμικῶν ἔργων σχολάζοντος αὐτοῦ , καὶ δίκης τινὸς μετάσχῃ καὶ θεσμῶν , ὧν ἐπὶ πολὺν χρόνον ἐνδεῆ τὴν ἐπαρχίαν οὖσαν ἄρρητοι καὶ ἄπιστοι δυστυχίαι κατεῖχον , ὑπὸ τῶν τελωνῶν καὶ τῶν δανειστῶν πορθουμένην καὶ ἀνδραποδιζομένην , πιπράσκειν ἰδίᾳ μὲν υἱοὺς εὐπρεπεῖς θυγατέρας τε παρθένους , δημοσίᾳ δʼ ἀναθήματα , γραφάς , ἱεροὺς ἀνδριάντας ἀναγκαζομένων .",
+      "translation": "Lucullus now turned his attention to the cities in Asia , [*] in order that , while he was at leisure from military enterprises , he might do something for the furtherance of justice and law . Through long lack of these , unspeakable and incredible misfortunes were rife in the province . Its people were plundered and reduced to slavery by the tax-gatherers and money-lenders . Families were forced to sell their comely sons and virgin daughters , and cities their votive offerings , pictures , and sacred statues ."
+    },
+    {
+      "id": "20.2",
+      "label": "Section 20.2",
+      "chapter": null,
+      "original": "αὐτοῖς δὲ τέλος μὲν ἦν προσθέτοις γενομένοις δουλεύειν , τὰ δὲ πρὸ τούτου χαλεπώτερα , σχοινισμοὶ καὶ κιγκλίδες καὶ ἵπποι καὶ στάσεις ὕπαιθροι , καύματος μὲν ἐν ἡλίῳ , ψύχους δʼ εἰς πηλὸν ἐμβιβαζομένων ἢ πάγον , ὥστε τὴν δουλείαν σεισάχθειαν δοκεῖν εἶναι καὶ εἰρήνην .",
+      "translation": "At last men had to surrender to their creditors and serve them as slaves , but what preceded this was far worse ,— tortures of rope , barrier , and horse ; standing under the open sky in the blazing sun of summer , and in winter , being thrust into mud or ice . Slavery seemed , by comparison , to be disburdenment and peace ."
+    },
+    {
+      "id": "21.1",
+      "label": "Section 21.1",
+      "chapter": null,
+      "original": "Ἄππιος δὲ Κλώδιος , ὁ πεμφθεὶς πρὸς Τιγράνην ἦν δὲ ὁ Κλώδιος ἀδελφὸς τῆς τότε paris.1624.505 Λουκούλλῳ συνοικούσης πρῶτον μὲν ὑπὸ τῶν βασιλικῶν ὁδηγῶν κύκλον τινὰ καὶ περιβολὴν ἔχουσαν οὐκ ἀναγκαίαν καὶ πολυήμερον ὁδὸν διὰ τῆς ἄνω χώρας ἀγόμενος , μηνύσαντος αὐτῷ τὴν εὐθεῖαν ὁδὸν ἀπελευθέρου Σύρου τὸ γένος , ἐκτρέπεται τῆς μακρᾶς ἐκείνης καὶ σοφιστικῆς , ἐρρῶσθαι φράσας πολλὰ τοῖς βαρβάροις ἀγωγοῖς , καὶ διʼ ἡμερῶν ὀλίγων τὸν Εὐφράτην περάσας εἷς Ἀντιόχειαν ἧκε τὴν ἐπὶ Δάφνης .",
+      "translation": "Appius Clodius , who had been sent to Tigranes ( Clodius was a brother of her who was then the wife of Lucullus ), was at first conducted by the royal guides through the upper country by a route needlessly circuitous and long . But when a freedman of his , who was a Syrian , told him of the direct route , he left the long one which was being trickily imposed upon him , bade his Barbarian guides a long farewell , and within a few days crossed the Euphrates and came to Antioch by Daphne . [*]"
+    },
+    {
+      "id": "21.2",
+      "label": "Section 21.2",
+      "chapter": null,
+      "original": "ἔπειτα Τιγράνην αὐτοῦ κελευσθεὶς περιμένειν ἀπῆν γὰρ ἐνίας ἔτι τῶν ἐν Φοινίκῃ πόλεων καταστρεφόμενος , πολλοὺς μὲν ᾠκειώσατο τῶν ὑπούλως ἀκροωμένων τοῦ Ἀρμενίου δυναστῶν , ὧν εἷς ἦν καὶ Ζαρβιηνὸς ὁ τῆς Γορδυηνῆς βασιλεύς , πολλαῖς δὲ κρύφα τῶν δεδουλωμένων πόλεων διαπεμπομέναις πρὸς αὑτὸν ὑπέσχετο τὴν Λουκούλλου βοήθειαν , ἐν τῷ παρόντι κελεύσας ἡσυχάζειν .",
+      "translation": "Then , being ordered to await Tigranes there ( the king was still engaged in subduing some cities of Phoenicia ), he gained over many of the princes who paid but a hollow obedience to the Armenian . One of these was Zarbienus , king of Gordyene . He also promised many of the enslaved cities , when they sent to confer with him secretly , the assistance of Lucullus , although for the present he bade them keen quiet ."
+    },
+    {
+      "id": "22.1",
+      "label": "Section 22.1",
+      "chapter": null,
+      "original": "Τιγράνης δὲ Μιθριδάτην πρότερον μὲν οὐδὲ ἰδεῖν ἠξίωσεν οὐδὲ προσειπεῖν οἰκεῖον ἄνδρα βασιλείας ἐκπεπτωκότα τηλικαύτης , ἀλλʼ ἀτίμως καὶ ὑπερηφάνως ἀπωτάτω περιεῖδεν αὐτὸν τρόπον τινὰ φρουρούμενον ἐν χωρίοις ἑλώδεσι καὶ νοσεροῖς · τότε δὲ σὺν τιμῇ καὶ φιλοφροσύνῃ μετεπέμψατο αὐτὸν εἰς τὰ βασίλεια .",
+      "translation": "Up to this time Tigranes had not deigned to see Mithridates , nor speak to him , though the man was allied to him by marriage , and had been expelled from such a great kingdom . Instead , he had kept him at the farthest remove possible , in disgrace and contumely , and had suffered him to be held a sort of prisoner in marshy and sickly regions . Now , however , he summoned him to his palace with marks of esteem and friendship ."
+    },
+    {
+      "id": "22.2",
+      "label": "Section 22.2",
+      "chapter": null,
+      "original": "καὶ δὴ λόγων γενομένων ἀπορρήτων τὰς πρὸς ἀλλήλους paris.1624.506 ἐθεράπευον ὑποψίας ἐπὶ κακῷ τῶν φίλων , εἰς ἐκείνους τὰς αἰτίας τρέποντες . ὧν ἦν καὶ Μητρόδωρος ὁ Σκήψιος , ἀνὴρ εἰπεῖν οὐκ ἀηδὴς καὶ πολυμαθής , ἀκμῇ δὲ φιλίας τοσαύτῃ χρησάμενος , ὥστε πατὴρ προσαγορεύεσθαι τοῦ βασιλέως .",
+      "translation": "There , in secret conference , they strove to allay their mutual suspicions at the expense of their friends , by laying the blame upon them . One of these was Metrodorus of Scepsis , a man of agreeable speech and wide learning , who enjoyed the friendship of Mithridates in such a high degree that he was called the king ’ s father ."
+    },
+    {
+      "id": "23.1",
+      "label": "Section 23.1",
+      "chapter": null,
+      "original": "Λούκουλλος δὲ τὴν Ἀσίαν πολλῆς μὲν εὐνομίας , πολλῆς δʼ εἰρήνης ἐμπεπληκώς οὐδὲ τῶν πρὸς ἡδονὴν καὶ χάριν ἠμέλησεν , ἀλλὰ πομπαῖς καὶ πανηγύρεσιν ἐπινικίοις καὶ ἀγῶσιν ἀθλητῶν καὶ μονομάχων ἐν Ἐφέσῳ καθήμενος ἐδημαγώγει τὰς πόλεις , αἱ δʼ ἀμειβόμεναι Λουκούλλειά τε ἦγον ἐπὶ τιμῇ τοῦ ἀνδρός , καὶ τῆς τιμῆς ἡδίονα τὴν ἀληθινὴν εὔνοιαν αὐτῷ παρεῖχον .",
+      "translation": "XXIII . Lucullus , after filling Asia full of law and order , and full of peace , did not neglect the things which minister to pleasure and win favour , but during his stay at Ephesus gratified the cities with processions and triumphal festivals and contests of athletes and gladiators . And the cities , in response , celebrated festivals which they called Lucullea , to do honour to the man , and bestowed upon him what is sweeter than honour , their genuine good-will ."
+    },
+    {
+      "id": "23.2",
+      "label": "Section 23.2",
+      "chapter": null,
+      "original": "ἐπεὶ δʼ Ἄππιός τε ἧκε καὶ πολεμητέον πρὸς Τιγράνην ἐφαίνετο , παρῆλθεν αὖθις εἰς Πόντον , καὶ τοὺς στρατιώτας ἀναλαβὼν ἐπολιόρκει Σινώπην , μᾶλλον δὲ τοὺς κατέχοντας αὐτὴν βασιλικοὺς Κίλικας , οἳ πολλοὺς μὲν ἀνελόντες τῶν Σινωπέων , τὴν δὲ πόλιν ἐμπρήσαντες διὰ νυκτὸς ἔφυγον .",
+      "translation": "But when Appius came , and it was plain that war must be waged against Tigranes , he went back into Pontus , put himself at the head of his soldiers , and laid siege to Sinopé , or rather , to the Cilicians who were occupying that city for the king . These slew many of the Sinopians , fired the city , and set out to fly by night ."
+    },
+    {
+      "id": "24.1",
+      "label": "Section 24.1",
+      "chapter": null,
+      "original": "ἐπειδὴ δὲ καὶ Μαχάρης ὁ Μιθριδάτου παῖς ἔχων τὸν Βόσπορον ἔπεμψεν αὐτῷ στέφανον ἀπὸ χρυσῶν χιλίων , δεόμενος Ῥωμαίων ἀναγραφῆναι φίλος καὶ σύμμαχος , ἤδη οἰόμενος τὰ τοῦ προτέρου πολέμου πέρας ἔχειν Σωρνάτιον p.546 μὲν αὐτοῦ φύλακα τῶν Ποντικῶν ἀπέλιπε μετὰ στρατιωτῶν ἑξακισχιλίων ,",
+      "translation": "But when Machares also , the son of Mithridates , who held the Bosporus , sent Lucullus a crown valued at a thousand pieces of gold , begging to be included in the list of Rome ’ s friends and allies , Lucullus decided at once that the first war was finished . He therefore left Sornatius there as guardian of Pontus , with six thousand soldiers ,"
+    },
+    {
+      "id": "24.2",
+      "label": "Section 24.2",
+      "chapter": null,
+      "original": "αὐτὸς δὲ μυρίους μὲν ἄγων καὶ δισχιλίους πεζούς , ἱππεῖς δὲ τρισχιλίων ἐλάττους , ἐπὶ τὸν δεύτερον ἐχώρει πόλεμον , ὁρμῇ τινι δοκῶν παραβόλῳ καὶ σωτήριον οὐκ ἐχούσῃ λογισμὸν ἐμβαλεῖν αὑτὸν εἰς ἔθνη μάχιμα καὶ μυριάδας ἱππέων πολλὰς καὶ ἀχανῆ χώραν , βαθέσι μὲν ποταμοῖς , ἀεὶ δὲ κατανιφομένοις ὄρεσι περιεχομένην ,",
+      "translation": "while he himself , with twelve thousand footmen and less than three thousand horse , set out for the second war . [*] He seemed to be making a reckless attack , and one which admitted of no saving calculation , upon warlike nations , countless thousands of horsemen , and a boundless region surrounded by deep rivers and mountains covered with perpetual snow ."
+    },
+    {
+      "id": "25.1",
+      "label": "Section 25.1",
+      "chapter": null,
+      "original": "Τιγράνῃ δʼ , ὡς ὁ πρῶτος ἀγγείλας ἥκοντα Λούκουλλον οὐκ ἐχαίρησεν , ἀλλʼ ἀπετέτμητο τὴν κεφαλήν , οὐδεὶς ἄλλος ἔφραζεν , ἀλλʼ ἀγνοῶν καθῆστο περικαιόμενος ἤδη τῷ πολεμίῳ p.550 πυρί , λόγους ἀκούων πρὸς χάριν , ὡς μέγαν ὄντα Λούκουλλον στρατηγόν , εἰ πρὸς Ἐφέσῳ Τιγράνην ὑποσταίη καὶ μὴ φεύγων εὐθὺς ἐξ Ἀσίας οἴχοιτο τὰς τοσαύτας μυριάδας ἰδών .",
+      "translation": "Since the first messenger who told Tigranes that Lucullus was coming had his head cut off for his pains , no one else would tell him anything , and so he sat in ignorance while the fires of war were already blazing around him , giving ear only to those who flattered him and said that Lucullus would be a great general if he ventured to withstand Tigranes at Ephesus , and did not fly incontinently from Asia at the mere sight of so many myriads of men ."
+    },
+    {
+      "id": "25.2",
+      "label": "Section 25.2",
+      "chapter": null,
+      "original": "οὕτως οὔτε σώματος παντός ἐστι πολὺν ἄκρατον ἐνεγκεῖν οὔτε διανοίας τῆς τυχούσης ἐν εὐτυχήμασι μεγάλοις μὴ ἐκστῆναι τῶν λογισμῶν , πρῶτος δʼ αὐτῷ τῶν φίλων ἐτόλμησε Μιθροβαρζάνης φράσαι τὸ ἀληθές , οὐδʼ οὗτος δὲ χρηστὸν ἠνέγκατο γέρας τῆς παρρησίας . ἐπέμφθη γὰρ εὐθὺς ἐπὶ τὸν Λούκουλλον σὺν ἱππεῦσι τρισχιλίοις , πεζοῖς δὲ παμπόλλοις , κελευσθεὶς τὸν μὲν στρατηγὸν ἄγειν ζῶντα , τοὺς δʼ ἄλλους καταπατῆσαι .",
+      "translation": "Which only proves that it is not every man who can bear much unmixed wine , nor is it any ordinary understanding that does not lose its reckoning in the midst of great prosperity . The first of his friends who ventured to tell him the truth was Mithrobarzanes , and he , too , got no very excellent reward for his boldness of speech . He was sent at once against Lucullus with three thousand horsemen and a large force of infantry , under orders to bring the general alive , but to trample his men under foot ."
+    },
+    {
+      "id": "26.1",
+      "label": "Section 26.1",
+      "chapter": null,
+      "original": "οὕτω δὲ τούτων προχωρούντων ἄρας ὁ Λούκουλλος ἐπορεύετο πρὸς Τιγρανόκερτα , καὶ περιστρατοπεδεύσας ἐπολιόρκει τὴν πόλιν . ἦσαν δʼ ἐν αὐτῇ πολλοὶ μὲν Ἕλληνες τῶν ἀναστάτων ἐκ Κιλικίας , πολλοὶ δὲ βάρβαροι τοῖς Ἕλλησιν ὅμοια πεπονθότες , Ἀδιαβηνοὶ καὶ Ἀσσύριοι καὶ Γορδυηνοὶ καὶ Καππάδοκες , ὧν κατασκάψας τὰς πατρίδας , αὐτοὺς δὲ κομίσας ἐκεῖ κατοικεῖν ἠνάγκασεν .",
+      "translation": "Thus successful in his campaign , Lucullus struck camp and proceeded to Tigranocerta , which city he invested and began to besiege . There were in the city many Greeks who had been transplanted , like others , from Cilicia , and many Barbarians who had suffered the same fate as the Greeks ,— Adiabeni , Assyrians , Gordyeni , and Cappadocians , whose native cities Tigranes had demolished , and brought their inhabitants to dwell there under compulsion ."
+    },
+    {
+      "id": "26.2",
+      "label": "Section 26.2",
+      "chapter": null,
+      "original": "ἦν δὲ καὶ χρημάτων ἡ πόλις μεστὴ καὶ ἀναθημάτων , παντὸς ἰδιώτου καὶ δυνάστου τῷ βασιλεῖ συμφιλοτιμουμένου πρὸς αὔξησιν καὶ κατασκευὴν τῆς πόλεως , διὸ καὶ συντόνως ἐπολιόρκει ὁ Λούκουλλος αὐτήν , οὐκ ἀνέξεσθαι τὸν Τιγράνην οἰόμενος , ἀλλὰ καὶ παρὰ γνώμην ὑπʼ ὀργῆς καταβήσεσθαι διαμαχούμενον , ὀρθῶς οἰόμενος .",
+      "translation": "The city was also full of wealth and votive offerings , since every private person and every prince vied with the king in contributing to its increase and adornment . Therefore Lucullus pressed the siege of the city with vigour , in the belief that Tigranes would not endure it , but contrary to his better judgment and in anger would descend into the plains to offer battle ; and his belief was justified ."
+    },
+    {
+      "id": "27.1",
+      "label": "Section 27.1",
+      "chapter": null,
+      "original": "ὡς δʼ ὑπερβαλὼν τὸν Ταῦρον ἄθρους κατεφάνη καὶ κατεῖδε πρὸς τοῖς Τιγρανοκέρτοις ἐπικαθήμενον τὸ στράτευμα τῶν Ῥωμαίων , ὁ μὲν ἐν τῇ πόλει βάρβαρος ὅμιλος ὀλολυγῇ καὶ κρότῳ τὴν ὄψιν ἐδέξατο , καὶ τοῖς Ῥωμαίοις ἀπὸ τῶν τειχῶν ἀπειλοῦντες ἐδείκνυσαν τοὺς Ἀρμενίους ·",
+      "translation": "When Tigranes had crossed the Taurus , deployed with all his forces , and looked down upon the Roman army investing Tigranocerta , the throng of Barbarians in the city greeted his appearance with shouts and din , and standing on the walls , threateningly pointed out the Armenians to the Romans ."
+    },
+    {
+      "id": "27.2",
+      "label": "Section 27.2",
+      "chapter": null,
+      "original": "Λουκούλλῳ δὲ σκοποῦντι περὶ τῆς μάχης οἱ μὲν ἄγειν ἐπὶ Τιγράνην ἐάσαντα τὴν πολιορκίαν συνεβούλευον , οἱ δὲ μὴ καταλιπεῖν ὀπίσω πολεμίους τοσούτους μηδʼ ἀνεῖναι τὴν πολιορκίαν . ὁ δʼ εἰπὼν ἑκατέρους μὲν οὐκ ὀρθῶς , ἀμφοτέρους δὲ καλῶς παραινεῖν διεῖλε τὴν στρατιάν . καὶ Μουρήναν μὲν ἑξακισχιλίους ἔχοντα πεζοὺς ἐπὶ τῆς πολιορκίας ἀπέλιπεν , αὐτὸς δὲ τέσσσαρας καὶ εἴκοσι σπείρας ἀναλαβών , ἐν αἷς οὐ πλείονες ἦσαν μυρίων ὁπλιτῶν , καὶ τοὺς ἱππεῖς ἅπαντας καὶ σφενδονήτας καὶ τοξότας περὶ χιλίους , ἐχώρει .",
+      "translation": "When Lucullus held a council of war , some of his officers advised him to give up the siege and lead his army against Tigranes ; others urged him not to leave so many enemies in his rear , and not to remit the siege . Whereupon , remarking that each counsel by itself was bad , but both together were good , he divided his army . Murena , with six thousand footmen , he left behind in charge of the siege ; while he himself , with twenty-four cohorts , comprising no more than ten thousand heavy infantry , and all the horsemen , slingers , and archers , to the number of about a thousand , set out against the enemy ."
+    },
+    {
+      "id": "28.1",
+      "label": "Section 28.1",
+      "chapter": null,
+      "original": "ταῦτα δʼ εἰπὼν καὶ θαρρεῖν κελεύσας τόν τε ποταμὸν διέβαινε καὶ πρῶτος ἐπὶ τοὺς πολεμίους ἡγεῖτο , θώρακα μὲν ἔχων σιδηροῦν φολιδωτὸν ἀποστίλβοντα , κροσσωτὴν δὲ ἐφεστρίδα , τὸ δὲ ξίφος αὐτόθεν ὑποφαίνων γυμνόν , ὡς εὐθὺς εἰς χεῖρας ἵεσθαι δέον [*] ἑκηβόλοις ἀνδράσι καὶ συναιρεῖν [*] τὴν διατοξεύσιμον χώραν τῷ τάχει τῆς ἐπαγωγῆς .",
+      "translation": "Saying this , and bidding his men be of good courage , he crossed the river , and led the way in person against the enemy . He wore a steel breastplate of glittering scales , and a tasselled cloak , and at once let his sword flash forth from its scabbard , indicating that they must forthwith come to close quarters with men who fought with long range missiles , and eliminate , by the rapidity of their onset , the space in which archery would be effective ."
+    },
+    {
+      "id": "28.2",
+      "label": "Section 28.2",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ τὴν κατάφρακτον ἵππον , ἧς πλεῖστος ἦν λόγος , κατεῖδε κατατεταγμένην ὑπὸ λόφῳ τινὶ τὴν ἄνω χώραν ἐπίπεδον καὶ πλατεῖαν ἔχοντι , πρόσβασιν δὲ τεττάρων σταδίων οὐ παντάπασι χαλεπὴν οὐδʼ ἀποκεκομμένην , Θρᾷκας μὲν ἱππεῖς καὶ Γαλάτας , οὓς εἶχεν , ἐκέλευσεν ἐκ πλαγίου προσφερομένους παρακρούεσθαι ταῖς μαχαίραις τοὺς κοντούς .",
+      "translation": "But when he saw that the mail-clad horsemen , on whom the greatest reliance was placed , were stationed at the foot of a considerable hill which was crowned by a broad and level space , and that the approach to this was a matter of only four stadia , and neither rough nor steep , he ordered his Thracian and Gallic horsemen to attack the enemy in the flank , and to parry their long spears with their own short swords ."
+    },
+    {
+      "id": "29.1",
+      "label": "Section 29.1",
+      "chapter": null,
+      "original": "διὸ καὶ Μιθριδάτης οὐ συνέτεινεν ἐπὶ τὴν μάχην , τῇ συνήθει τὸν Λούκουλλον εὐλαβείᾳ καὶ παραγωγῇ πολεμήσειν οἰόμενος , ἀλλὰ καθʼ ἡσυχίαν ἐπορεύετο πρὸς τὸν Τιγράνην . καὶ πρῶτον μὲν ὀλίγοις τῶν Ἀρμενίων ἐντυχὼν καθʼ p.566 ὁδὸν ἐπτοιημένοις καὶ περιφόβοις ἀπιοῦσιν εἴκασε τὸ πάθος , εἶτʼ ἤδη πλειόνων γυμνῶν καὶ τετρωμένων ἀπαντώντων πυθόμενος τὴν ἧτταν ἐζήτει τὸν Τιγράνην .",
+      "translation": "This was the reason why Mithridates made no haste to be at the battle . He thought Lucullus would carry on the war with his wonted caution and indirectness , and so marched slowly to join Tigranes . At first he met a few Armenians hurrying back over the road in panic fear , and conjectured what had happened ; then presently , when he had learned of the defeat from more unarmed and wounded fugitives whom he met , he sought to find Tigranes ."
+    },
+    {
+      "id": "29.2",
+      "label": "Section 29.2",
+      "chapter": null,
+      "original": "εὑρὼν δὲ πάντων ἔρημον καὶ ταπεινόν οὐκ ἀνθύβρισεν , ἀλλὰ καταβὰς καὶ συνδακρύσας τὰ κοινὰ πάθη θεραπείαν τε τὴν ἑπομένην αὐτῷ βασιλικὴν ἔδωκε καὶ κατεθάρρυνε πρὸς τὸ μέλλον , οὗτοι μὲν οὖν αὖθις ἑτέρας δυνάμεις συνῆγον . ἐν δὲ τῇ πόλει τοῖς Τιγρανοκέρτοις τῶν Ἑλλήνων πρὸς τοὺς βαρβάρους στασιασάντων καὶ τῷ Λουκούλλῳ τὴν πόλιν ἐνδιδόντων προσβαλὼν εἷλε ·",
+      "translation": "And though he found him destitute of all things and humiliated , he did not return his insolent behaviour , but got down from his horse and wept with him over their common sufferings . Then he gave him his own royal equipage , and tried to fill him with courage for the future . And so these kings began again to assemble fresh forces . But in the city of Tigranocerta , the Greeks had risen up against the Barbarians and were ready to hand the city over to Lucullus ; so he assaulted and took it ."
+    },
+    {
+      "id": "30.1",
+      "label": "Section 30.1",
+      "chapter": null,
+      "original": "ἐνταῦθα καὶ παρὰ τοῦ Πάρθων βασιλέως ἧκε πρεσβεία παρʼ αὐτόν εἰς φιλίαν προκαλουμένου καὶ συμμαχίαν . ἦν δʼ ἀσμένῳ ταῦτα τῷ Λουκούλλῳ · καὶ πάλιν ἀντέπεμψε παρʼ ἑαυτοῦ πρεσβείαν πρὸς τὸν Πάρθον , οἳ κατεφώρασαν αὐτόν ἐπαμφοτερίζοντα τῇ γνώμῃ καὶ μισθὸν αἰτοῦντα κρύφα τοῦ συμμαχῆσαι τῷ Τιγράνῃ τὴν Μεσοποταμίαν .",
+      "translation": "Here he received an embassy from the king of the Parthians also , inviting him into friendly alliance . This was agreeable to Lucullus , and in his turn he sent ambassadors to the Parthian , but they discovered that he was playing a double game , and secretly asking for Mesopotamia as reward for an alliance with Tigranes ."
+    },
+    {
+      "id": "30.2",
+      "label": "Section 30.2",
+      "chapter": null,
+      "original": "ὡς οὖν ταῦθʼ ὁ Λούκουλλος ᾔσθετο , Τιγράνην μὲν ἔγνω καὶ Μιθριδάτην παρελθεῖν ὥσπερ ἀνταγωνιστὰς ἀπειρηκότας , ἀποπειρᾶσθαι δὲ τῆς Πάρθων δυνάμεως καὶ στρατεύειν ἐπʼ αὐτούς , καλὸν ἡγούμενος μιᾷ ῥύμῃ πολέμου τρεῖς ἐφεξῆς ὥσπερ ἀθλητὴς βασιλεῖς καταπαλαῖσαι καὶ διὰ τριῶν τῶν ὑπὸ τὸν ἥλιον μεγίστων ἡγεμονιῶν ἀήττητος καὶ νικῶν διεξελθεῖν .",
+      "translation": "Accordingly , when Lucullus was apprised of this , he determined to ignore Tigranes and Mithridates as exhausted antagonists , and to make trial of the Parthian power by marching against them , thinking it a glorious thing , in a single impetuous onset of war , to throw , like an athlete , three kings in succession , and to make his way , unvanquished and victorious , through three of the greatest empires under the sun ."
+    },
+    {
+      "id": "31.1",
+      "label": "Section 31.1",
+      "chapter": null,
+      "original": "τοιούτων δὲ καὶ πονηροτέρων ἔτι λόγων αἰσθόμενος ὁ Λούκουλλος τὴν ἐπὶ Πάρθους στρατείαν ἀφῆκεν , αὖθις δʼ ἐπὶ τὸν Τιγράνην ἐβάδιζε θέρους ἀκμάζοντος , καὶ τὸν Ταῦρον ὑπερβαλὼν ἠθύμησε χλωρῶν τῶν πεδίων ἐκφανέντων τοσοῦτον αἱ ὧραι διὰ τὴν ψυχρότητα τοῦ ἀέρος ὑστερίζουσιν .",
+      "translation": "Such speeches , and even worse than these , coming to the ears of Lucullus , he gave up his expedition against the Parthians , and marched once more against Tigranes , [*] it being now the height of summer . And yet , after crossing the Taurus , he was discouraged to find the plains still covered with unripe grain , so much later are the seasons there , owing to the coolness of the atmosphere ."
+    },
+    {
+      "id": "31.2",
+      "label": "Section 31.2",
+      "chapter": null,
+      "original": "οὐ μὴν ἀλλὰ καταβὰς καὶ δὶς paris.1624.513 ἢ τρὶς ἀνατολμήσαντας ἐπʼ αὐτὸν τοὺς Ἀρμενίους τρεψάμενος ἀδεῶς ἐπόρθει τὰς κώμας , καὶ τὸν παρεσκευασμένον τῷ Τιγράνῃ σῖτον ἐξαιρῶν ἣν αὐτὸς ἐφοβεῖτο τοῖς πολεμίοις περιέστησεν ἀπορίαν . ἐπεὶ δὲ προκαλούμενος εἰς μάχην αὐτούς περιταφρεύων τὸν χάρακα καὶ πορθῶν ἐν ὄψει τὴν χώραν οὐκ ἐκίνει πεπληγότας πολλάκις , ἀναστὰς ἐβάδιζεν ἐπʼ Ἀρτάξατα τὸ Τιγράνου βασίλειον , ὅπου καὶ παῖδες αὐτῷ νήπιοι καὶ γαμεταὶ γυναῖκες ἦσαν , οὐκ ἂν οἰόμενος ἀμαχεὶ ταῦτα προήσεσθαι τὸν Τιγράνην .",
+      "translation": "However , he descended from the mountains , routed the Armenians who twice or thrice ventured to attack him , and then plundered their villages without fear , and , by taking away the grain which had been stored up for Tigranes , reduced his enemy to the straits which he had been fearing for himself . Then he challenged them to battle by encompassing their camp with a moat , and by ravaging their territory before their eyes ; but this did not move them , so often had they been defeated . He therefore broke camp and marched against Artaxas , the royal residence of Tigranes , where were his wives and young children , thinking that Tigranes would not give these up without fighting ."
+    },
+    {
+      "id": "32.1",
+      "label": "Section 32.1",
+      "chapter": null,
+      "original": "ἐκ τούτου Λούκουλλος μὲν ἐπηρμένος καὶ τεθαρρηκὼς ἄνω προάγειν διενοεῖτο καὶ καταστρέφεσθαι τὴν βάρβαρον ὥρᾳ δʼ ἰσημερίας φθινοπωρινῆς οὐκ ἂν ἐλπίσαντι χειμῶνες ἐπέπεσον βαρεῖς , τὰ μὲν πλεῖστα κατανίφοντες , ἐν δὲ ταῖς αἰθρίαις πάχνην ἐπιφέροντες καὶ πάγον , ὑφʼ οὗ χαλεποὶ μὲν ἦσαν οἱ ποταμοὶ τοῖς ἵπποις πίνεσθαι διὰ ψυχρότητος ὑπερβολήν , χαλεπαὶ δʼ αὐτῶν αἱ διαβάσεις ἐκρηγνυμένου τοῦ κρυστάλλου καὶ διακόπτοντος τὰ νεῦρα τῶν ἵππων τῇ τραχύτητι .",
+      "translation": "Elated and emboldened by this victory , Lucullus purposed to advance further into the interior and subdue the Barbarian realm utterly . But , contrary to what might have been expected at the time of the autumnal equinox , severe winter weather was encountered , which generally covered the ground with snow , and even when the sky was clear produced hoar frost and ice , owing to which the horses could not well drink of the rivers , so excessive was the cold , nor could they easily cross them , since the ice broke , and cut the horses ’ sinews with its jagged edges ."
+    },
+    {
+      "id": "32.2",
+      "label": "Section 32.2",
+      "chapter": null,
+      "original": "τῆς δὲ χώρας ἡ πολλὴ συνηρεφὴς οὖσα καὶ στενόπορος καὶ ἑλώδης ἀεὶ καθύγραινεν αὐτούς , χιόνος ἀναπιμπλαμένους ἐν ταῖς ὁδοιπορίαις καὶ κακῶς ἐν τόποις νοτεροῖς paris.1624.514 νυκτερεύοντας , οὐ πολλὰς οὖν ἡμέρας ἀκολουθήσαντες τῷ Λουκούλλῳ μετὰ τὴν μάχην ἠναντιοῦντο ,. πρῶτον δεόμενοι καὶ τοὺς χιλιάρχους προσπέμποντες , ἔπειτα θορυβωδέστερον συνιστάμενοι καὶ κατὰ σκηνὰς νυκτὸς ἀλαλάζοντες , ὅπερ εἶναι δοκεῖ σύμβολον ἀποστατικῶς ἐχούσης στρατιᾶς .",
+      "translation": "Most of the country was thickly shaded , full of narrow defiles , and marshy , so that it kept the soldiers continually wet ; they were covered with snow while they marched , and spent the nights uncomfortably in damp places . Accordingly , they had not followed Lucullus for many days after the battle when they began to object . At first they sent their tribunes to him with entreaties to desist , then they held more tumultuous assemblies , and shouted in their tents at night , which seems to have been characteristic of a mutinous army ."
+    },
+    {
+      "id": "33.1",
+      "label": "Section 33.1",
+      "chapter": null,
+      "original": "μέχρι τοῦδε φαίη τις ἂν Λουκούλλῳ τὴν τύχην ἑπομένην συστρατηγεῖν . ἐντεῦθεν δʼ ὥσπερ πνεύματος ἐπιλιπόντος προσβιαζόμενος πάντα καὶ παντάπασιν ἀντικρούων ἀρετὴν μὲν ἐπεδείκνυτο καὶ μακροθυμίαν ἡγεμόνος ἀγαθοῦ , δόξαν δὲ καὶ χάριν οὐδεμίαν αἱ πράξεις ἔσχον , ἀλλὰ καὶ τὴν προϋπάρχουσαν ἐγγὺς ἦλθε δυσπραγῶν καὶ διαφερόμενος μάτην ἀποβαλεῖν .",
+      "translation": "Up to this point , one might say that fortune had followed Lucullus and fought on his side ; but from now on , as though a favouring breeze had failed him , he had to force every issue , and met with obstacles everywhere . He still displayed the bravery and patience of a good leader , but his undertakings brought him no new fame or favour ; indeed , so ill-starred and devious was his course , that he came near losing that which he had already won ."
+    },
+    {
+      "id": "33.2",
+      "label": "Section 33.2",
+      "chapter": null,
+      "original": "τῶν δʼ αἰτιῶν αὐτὸς οὐχὶ τὴν ἐλαχίστην εἰς τοῦτο παρέσχεν , οὐκ ὢν θεραπευτικὸς πλήθους p.580 στρατιωτικοῦ , καὶ πᾶν τὸ πρὸς ἡδονὴν τοῦ ἀρχομένου γινόμενον ἀρχῆς ἀτιμίαν καὶ κατάλυσιν ἡγούμενος · τὸ δὲ μέγιστον , οὐδὲ τοῖς δυνατοῖς καὶ ἰσοτίμοις εὐάρμοστος εἶναι πεφυκώς , ἀλλὰ πάντων καταφρονῶν καὶ μηδενὸς ἀξίους πρὸς αὑτὸν ἡγούμενος .",
+      "translation": "And he himself was not least to blame for this . He was not disposed to court the favour of the common soldier , and thought that everything that was done to please one ’ s command only dishonoured and undermined one ’ s authority . Worst of all , not even with men of power and of equal rank with himself could he readily co-operate ; he despised them all , and thought them of no account as compared with himself ."
+    },
+    {
+      "id": "34.1",
+      "label": "Section 34.1",
+      "chapter": null,
+      "original": "τούτοις δὲ τηλικούτοις οὖσι προσγίνεται τὸ μάλιστα Λουκούλλῳ διειργασμένον τὰς πράξεις , Πόπλιος Κλώδιος , ἀνὴρ ὑβριστὴς καὶ μεστὸς ὀλιγωρίας ἁπάσης καὶ θρασύτητος . ἦν δὲ τῆς Λουκούλλου γυναικὸς ἀδελφός , ἣν καὶ διαφθείρειν ἔσχεν αἰτίαν ἀκολαστοτάτην οὖσαν .",
+      "translation": "To these factors in the case , so unfavourable in themselves , there was added another , which most of all vitiated the undertakings of Lucullus . This was Publius Clodius , a man of wanton violence , and full of all arrogance and boldness . He was a brother of the wife of Lucullus , a woman of the most dissolute ways , whom he was actually accused of debauching ."
+    },
+    {
+      "id": "34.2",
+      "label": "Section 34.2",
+      "chapter": null,
+      "original": "τότε δὲ τῷ Λουκούλλῳ συστρατεύων οὐχ ὅσης αὑτὸν ἠξίου τιμῆς ἐτύγχανεν ἠξίου δὲ πρῶτος εἶναι , καὶ πολλῶν ἀπολειπόμενος διὰ τὸν τρόπον ὑποικούρει τὴν Φιμβριανὴν στρατιὰν καὶ παρώξυνε κατὰ τοῦ Λουκούλλου , λόγους χρηστοὺς εἰς οὐκ ἄκοντας οὐδʼ ἀήθεις τοῦ δημαγωγεῖσθαι διαδιδούς . οὗτοι γὰρ ἦσαν , οὓς καὶ πρότερον ἀνέπεισε Φιμβρίας ἀποκτείναντας τὸν ὕπατον Φλάκκον αὑτὸν ἑλέσθαι στρατηγόν .",
+      "translation": "At this time he was in service with Lucullus , and did not get all the honour which he thought his due . He thought a foremost place his due , and when many were preferred before him because of his evil character , he worked secretly upon the soldiers who had been commanded by Fimbria , and tried to incite them against Lucullus , disseminating among them speeches well adapted to men who were neither unwilling nor unaccustomed to have their favour courted . These were the men whom Fimbria had once persuaded to kill the consul Flaccus , and choose himself for their general ."
+    },
+    {
+      "id": "35.1",
+      "label": "Section 35.1",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ Μιθριδάτης ἤγγελτο Φάβιον νενικηκὼς ἐπὶ Σωρνάτιον καὶ Τριάριον βαδίζειν , αἰσχυνθέντες εἵποντο τῷ Λουκούλλῳ . Τριάριος δʼ ὡς ἕτοιμον ἁρπάσαι τὸ νίκημα , πρὶν ἐπελθεῖν Λούκουλλον ἐγγὺς ὄντα , φιλοτιμούμενος ἡττᾶται μάχῃ μεγάλῃ , λέγονται γὰρ ὑπὲρ ἑπτακισχιλίους Ῥωμαίων ἀποθανεῖν , ἐν οἷς ἑκατόνταρχοι μὲν ἑκατὸν πεντήκοντα , χιλίαρχοι δʼ εἴκοσι καὶ τέσσαρες · τὸ δὲ στρατόπεδον εἷλε Μιθριδάτης .",
+      "translation": "But when tidings came that Mithridates had defeated Fabius , [*] and was on the march against Sornatius and Triarius , they were struck with shame and followed Lucullus . But Triarius , who was ambitious to snatch the victory , which he thought assured , before Lucullus , who was near , should come up , was defeated in a great battle . It is said that over seven thousand Romans fell , among whom were a hundred and fifty centurions , and twenty-four tribunes ; and their camp was captured by Mithridates ."
+    },
+    {
+      "id": "35.2",
+      "label": "Section 35.2",
+      "chapter": null,
+      "original": "ἐπελθὼν δὲ Λούκουλλος ὀλίγαις ὕστερον ἡμέραις Τριάριον μὲν ὑπὸ τῶν στρατιωτῶν ζητούμενον πρὸς ὀργὴν ἐξέκλεψε , Μιθριδάτου δὲ μὴ θέλοντος μάχεσθαι , ἀλλὰ Τιγράνην περιμένοντος ἤδη καταβαίνοντα μετὰ πολλῆς δυνάμεως , ἔγνω πρὶν ἀμφοτέρους συνελθεῖν πάλιν ἀπαντῆσαι καὶ διαγωνίσασθαι πρὸς τὸν Τιγράνην .",
+      "translation": "But Lucullus , coming up a few days afterward , hid Triarius from the search of his infuriated soldiers . Then , since Mithridates was unwilling to give fight , but lay waiting for Tigranes , who was coming down with a large force , he determined to anticipate the junction of their armies , and march back to meet Tigranes in battle ."
+    },
+    {
+      "id": "36.1",
+      "label": "Section 36.1",
+      "chapter": null,
+      "original": "ἔτι δὲ μᾶλλον ἐφάνη τὸ γινόμενον τοῖς ἐκεῖ παροῦσι νεμεσητόν . οὔτε γὰρ τιμῆς ὁ Λούκουλλος οὔτε τιμωρίας τῶν ἐν πολέμῳ κύριος ὑπῆρχεν , οὐδʼ εἴα τινὰ Πομπήιος βαδίζειν πρὸς αὐτὸν οὐδὲ προσέχειν οἷς ἐκεῖνος ἔγραφε καὶ διένεμε μετὰ τῶν δέκα πρέσβεων , ἀλλʼ ἐκώλυεν ἐκτιθεὶς διαγράμματα καὶ φοβερὸς παρὼν ἀπὸ μείζονος δυνάμεως .",
+      "translation": "But to those who were on the spot , what happened there seemed still greater matter for wrath and indignation . For Lucullus was not allowed to bestow rewards or punishments for what had been done in the war , nor would Pompey even suffer any one to visit him , or to pay any heed to the edicts and regulations which he made in concert with the ten commissioners , but prevented it by issuing counter-edicts , and by the terror which his presence with a larger force inspired ."
+    },
+    {
+      "id": "36.2",
+      "label": "Section 36.2",
+      "chapter": null,
+      "original": "ὅμως δὲ ἔδοξε τοῖς φίλοις συναγαγεῖν αὐτούς καὶ συνῆλθον ἐν κώμῃ τινὶ τῆς Γαλατίας καὶ προσεῖπον ἀλλήλους φιλοφρόνως καὶ συνήσθησαν ἐπὶ τοῖς κατωρθωμένοις ἑκατέρῳ , πρεσβύτερος μὲν ὢν ὁ Λούκουλλος , ἀξίωμα δʼ ἦν τὸ Πομπηΐου μεῖζον ἀπὸ πλειόνων στρατηγιῶν καὶ δυεῖν θριάμβων . ῥάβδοι δʼ p.590 ἀμφοτέρων προηγοῦντο δαφνηφόροι διὰ τὰς νίκας .",
+      "translation": "Nevertheless , their friends decided to bring the two men together , and so they met in a certain village of Galatia . They greeted one another amicably , and each congratulated the other on his victories . Lucullus was the elder man , but Pompey ’ s prestige was the greater , because he had conducted more campaigns , and celebrated two triumphs ."
+    },
+    {
+      "id": "37.1",
+      "label": "Section 37.1",
+      "chapter": null,
+      "original": "ὁ δὲ Λούκουλλος ἀναβὰς εἰς Ῥώμην πρῶτον μὲν κατέλαβε τὸν ἀδελφὸν Μᾶρκον ὑπὸ Γαΐου Μεμμίου κατηγορούμενον ἐφʼ οἷς ἔπραξε ταμιεύων Σύλλα προστάξαντος . ἐκείνου δʼ ἀποφυγόντος ἐπὶ τοῦτον αὐτὸν ὁ Μέμμιος μεταβαλόμενος παρώξυνε τὸν δῆμον , καὶ ὡς πολλὰ νενοσφισμένῳ καὶ μηκύναντι τὸν πόλεμον ἔπεισεν αὐτῷ μὴ δοῦναι θρίαμβον .",
+      "translation": "Now when Lucullus had returned to Rome , he found , in the first place , that his brother Marcus was under prosecution by Gaius Memmius for his acts as quaestor under the administration of Sulla . Marcus , indeed , was acquitted , but Memmius then turned his attack upon Lucullus , and strove to excite the people against him . He charged him with diverting much property to his own uses , and with needlessly protracting the war , and finally persuaded the people not to grant him a triumph ."
+    },
+    {
+      "id": "37.2",
+      "label": "Section 37.2",
+      "chapter": null,
+      "original": "ἐλθόντος δʼ εἰς ἀγῶνα τοῦ Λουκούλλου μέγαν οἱ πρῶτοι καὶ δυνατώτατοι καταμίξαντες ἑαυτοὺς ταῖς φυλαῖς πολλῇ δεήσει καὶ σπουδῇ μόλις ἔπεισαν τὸν δῆμον ἐπιτρέψαι θριαμβεῦσαι , οὐχ , ὥσπερ ἔνιοι , μήκει τε πομπῆς καὶ πλήθει τῶν κομιζομένων ἐκπληκτικὸν καὶ ὀχλώδη θρίαμβον , ἀλλὰ τοῖς μὲν ὅπλοις τῶν πολεμίων οὖσι παμπόλλοις καὶ τοῖς βασιλικοῖς μηχανήμασι τὸν Φλαμίνειον ἱππόδρομον διεκόσμησε · καὶ θέα τις ἦν αὐτὴ καθʼ ἑαυτὴν οὐκ εὐκαταφρόνητος ·",
+      "translation": "Lucullus strove mightily against this decision , and the foremost and most influential men mingled with the tribes , and by much entreaty and exertion at last persuaded the people to allow him to celebrate a triumph ; [*] not , however , like some , a triumph which was startling and tumultuous from the length of the procession and the multitude of objects displayed . Instead , he decorated the circus of Flaminius with the arms of the enemy , which were very numerous , and with the royal engines of war ; and this was a great spectacle in itself , and far from contemptible ."
+    },
+    {
+      "id": "38.1",
+      "label": "Section 38.1",
+      "chapter": null,
+      "original": "τῆς δὲ Κλωδίας ἀπηλλαγμένος , οὔσης ἀσελγοῦς καὶ πονηρᾶς , Σερουϊλίαν ἔγημεν , ἀδελφὴν Κάτωνος , οὐδὲ τοῦτον εὐτυχῆ γάμον . ἓν γὰρ οὐ προσῆν αὐτῷ τῶν Κλωδίας κακῶν μόνον , ἡ τῶν ἀδελφῶν διαβολή · τἆλλα δὲ βδελυρὰν ὁμοίως οὖσαν καὶ ἀκόλαστον ἠναγκάζετο φέρειν αἰδούμενος Κάτωνα , τέλος δὲ ἀπεῖπεν .",
+      "translation": "After his divorce from Clodia , who was a licentious and base woman , he married Servilia , a sister of Cato , but this , too , was an unfortunate marriage . For it lacked none of the evils which Clodia had brought in her train except one , namely , the scandal about her brothers . In all other respects Servilia was equally vile and abandoned , and yet Lucullus forced himself to tolerate her , out of regard for Cato . At last , however , he put her away ."
+    },
+    {
+      "id": "38.2",
+      "label": "Section 38.2",
+      "chapter": null,
+      "original": "ἐλπίδας δὲ θαυμαστὰς τῇ βουλῇ παρασχών , ὡς ἐχούσῃ τὸν ἄνδρα τοῦτον ἀντίταγμα πρὸς τὴν τοῦ Πομπηίου τυραννίδα καὶ τῆς ἀριστοκρατίας p.596 πρόμαχον ἀπὸ δόξης καὶ δυνάμεως ὁρμώμενον μεγάλης , ἐγκατέλιπε καὶ προήκατο τὴν πολιτείαν , εἴτε δυσκάθεκτον ἤδη καὶ νοσοῦσαν ὁρῶν εἴθʼ , ὥς φασιν ἔνιοι , μεστὸς ὢν δόξης καὶ πρὸς τὸ ῥᾷστον ἀναπίπτων τοῦ βίου καὶ μαλακώτατον ἐκ πολλῶν ἀγώνων καὶ πόνων οὐκ εὐτυχέστατον τέλος λαβόντων .",
+      "translation": "The Senate had conceived wondrous hopes that in him it would find an opposer of the tyranny of Pompey and a champion of the aristocracy , with all the advantage of great glory and influence ; but he quitted and abandoned public affairs , either because he saw that they were already beyond proper control and diseased , or , as some say , because he had his fill of glory , and felt that the unfortunate issue of his many struggles and toils entitled him to fall back upon a life of ease and luxury ."
+    },
+    {
+      "id": "39.1",
+      "label": "Section 39.1",
+      "chapter": null,
+      "original": "ἔστι δʼ οὖν τοῦ Λουκούλλου βίου , καθάπερ ἀρχαίας κωμῳδίας , ἀναγνῶναι τὰ μὲν πρῶτα πολιτείας καὶ στρατηγίας , τὰ δʼ ὕστερα πότους καὶ δεῖπνα καὶ μονονουχὶ κώμους καὶ λαμπάδας καὶ παιδιὰν ἅπασαν .",
+      "translation": "And it is true that in the life of Lucullus , as in an ancient comedy , one reads in the first part of political measures and military commands , and in the latter part of drinking bouts , and banquets , and what might pass for revel-routs , and torch-races , and all manner of frivolity ."
+    },
+    {
+      "id": "39.2",
+      "label": "Section 39.2",
+      "chapter": null,
+      "original": "εἰς παιδιὰν γὰρ ἔγωγε τίθεμαι καὶ οἰκοδομὰς πολυτελεῖς καὶ p.598 κατασκευὰς περιπάτων καὶ λουτρῶν καὶ ἔτι μᾶλλον γραφὰς καὶ ἀνδριάντας καὶ τὴν περὶ ταύτας τὰς τέχνας σπουδήν , ἃς ἐκεῖνος συνῆγε μεγάλοις ἀναλώμασιν , εἰς ταῦτα τῷ πλούτῳ ῥύδην καταχρώμενος , ὃν ἠθροίκει πολὺν καὶ λαμπρὸν ἀπὸ τῶν στρατειῶν , ὅπου καὶ νῦν , ἐπίδοσιν τοιαύτην τῆς τρυφῆς ἐχούσης , οἱ Λουκουλλιανοὶ κῆποι τῶν βασιλικῶν ἐν τοῖς πολυτελεστάτοις ἀριθμοῦνται .",
+      "translation": "For I must count as frivolity his costly edifices , his ambulatories and baths , and still more his paintings and statues ( not to speak of his devotion to these arts ), which he collected at enormous outlays , pouring out into such channels the vast and splendid wealth which he accumulated from his campaigns . Even now , when luxury has increased so much , the gardens of Lucullus are counted among the most costly of the imperial gardens ."
+    },
+    {
+      "id": "40.1",
+      "label": "Section 40.1",
+      "chapter": null,
+      "original": "Νεόπλουτα δʼ ἦν τοῦ Λουκούλλου τὰ δεῖπνα τὰ καθʼ ἡμέραν , οὐ μόνον στρωμναῖς ἁλουργέσι καὶ διαλίθοις ἐκπώμασι καὶ χοροῖς καὶ ἀκροάμασιν ἐπεισοδίοις , ἀλλʼ ὄψων τε παντοδαπῶν καὶ πεμμάτων περιττῶς διαπεπονημένων παρασκευαῖς ζηλωτὸν ἀνελευθέροις ποιοῦντος ἑαυτόν . ὁ γοῦν Πομπήιος εὐδοκίμησε νοσῶν ·",
+      "translation": "The daily repasts of Lucullus were such as the newly rich affect . Not only with his dyed coverlets , and beakers set with precious stones , and choruses and dramatic recitations , but also with his arrays of all sorts of meats and daintily prepared dishes , did he make himself the envy of the vulgar ."
+    },
+    {
+      "id": "40.2",
+      "label": "Section 40.2",
+      "chapter": null,
+      "original": "τοῦ γὰρ ἰατροῦ κίχλην αὐτὸν λαβεῖν κελεύσαντος , τῶν δʼ οἰκετῶν οὐκ ἂν εὑρεῖν ἀλλαχόθι φαμένων θέρους ὥρᾳ κίχλην ἢ παρὰ Λουκούλλῳ σιτευομένην , οὐκ εἴασε λαβεῖν ἐκεῖθεν , ἀλλʼ εἰπὼν πρὸς τὸν ἰατρόν οὐκοῦν , εἰ μὴ Λούκουλλος ἐτρύφα , Πομπήιος οὐκ ἂν ἔζησεν ; ἄλλο τι παρασκευάσαι τῶν εὐπορίστων ἐκέλευσε .",
+      "translation": "A saying of Pompey ’ s , when he was ill , was certainly very popular . His physicians had prescribed a thrush for him to eat , and his servants said that a thrush could not be found anywhere in the summer season except where Lucullus kept them fattening . Pompey , however , would not suffer them to get one from there , but bade them prepare something else that was easily to be had , remarking as he did so to his physician , What ! must a Pompey have died if a Lucullus were not luxurious ?"
+    },
+    {
+      "id": "41.1",
+      "label": "Section 41.1",
+      "chapter": null,
+      "original": "ὁ μέντοι Λούκουλλος οὐχ ἡδόμενος μόνον , ἀλλὰ καὶ σεμνυνόμενος τῷ βίῳ τούτῳ δῆλος ἦν ἐκ τῶν ἀπομνημονευομένων , λέγεται γὰρ Ἕλληνας ἀνθρώπους ἀναβάντας εἰς Ῥώμην ἑστιᾶν ἐπὶ πολλὰς ἡμέρας , τοὺς δʼ ὄντως Ἑλληνικόν τι παθόντας , αἰσχύνεσθαι καὶ διωθεῖσθαι p.602 τὴν κλῆσιν , ὡς διʼ αὐτοὺς καθʼ ἡμέραν τοσούτων ἀναλισκομένων ·",
+      "translation": "Moreover , that Lucullus took not only pleasure but pride in this way of living , is clear from the anecdotes recorded of him . It is said , for instance , that he entertained for many successive days some Greeks who had come up to Rome , and that they , with genuinely Greek scruples , were at last ashamed to accept his invitation , on the ground that he was incurring so much expense every day on their account ;"
+    },
+    {
+      "id": "41.2",
+      "label": "Section 41.2",
+      "chapter": null,
+      "original": "τὸν οὖν Λούκουλλον εἰπεῖν μειδιάσαντα πρὸς αὐτούς · γίνεται μέν τι τούτων καὶ διʼ ὑμᾶς , ὦ ἄνδρες Ἕλληνες · τὰ μέντοι πλεῖστα γίνεται διὰ Λούκουλλον . ἐπεὶ δὲ μόνου δειπνοῦντος αὐτοῦ μία τράπεζα καὶ μέτριον παρεσκευάσθη δεῖπνον , ἠγανάκτει καλέσας τὸν ἐπὶ τούτῳ τεταγμένον οἰκέτην . τοῦ δὲ φήσαντος , ὡς οὐκ ᾤετο μηδενὸς κεκλημένου πολυτελοῦς τινος αὐτὸν δεήσεσθαι τί λέγεις ; εἶπεν , οὐκ ᾔδεις , ὅτι σήμερον παρὰ Λουκούλλῳ δειπνεῖ Λούκουλλος ;",
+      "translation": "whereupon Lucullus said to them with a smile , Some of this expense , my Grecian friends , is indeed on your account ; most of it , however , is on account of Lucullus . And once , when he was dining alone , and a modest repast of one course had been prepared for him , he was angry , and summoned the servant who had the matter in charge . The servant said that he did not suppose , since there were no guests , that he wanted anything very costly . What savest thou ? said the master , dost thou not know that to-day Lucullus dines with Lucullus ?"
+    },
+    {
+      "id": "42.1",
+      "label": "Section 42.1",
+      "chapter": null,
+      "original": "σπουδῆς δʼ ἄξια καὶ λόγου τὰ περὶ τὴν τῶν βιβλίων κατασκευήν , καὶ γὰρ πολλὰ καὶ γεγραμμένα καλῶς συνῆγεν , ἥ τε χρῆσις ἦν φιλοτιμοτέρα τῆς κτήσεως , ἀνειμένων πᾶσι τῶν βιβλιοθηκῶν , καὶ τῶν περὶ αὐτὰς περιπάτων καὶ σχολαστηρίων ἀκωλύτως ὑποδεχομένων τοὺς Ἕλληνας ὥσπερ εἰς Μουσῶν τι καταγώγιον ἐκεῖσε φοιτῶντας καὶ συνδιημερεύοντας ἀλλήλοις , ἀπὸ τῶν ἄλλων χρειῶν ἀσμένως ἀποτρέχοντας .",
+      "translation": "But what he did in the establishment of a library deserves warm praise . He got together many books , and they were well written , and his use of them was more honourable to him than his acquisition of them . His libraries were thrown open to all , and the cloisters surrounding them , and the study-rooms , were accessible without restriction to the Greeks , who constantly repaired thither as to an hostelry of the Muses , and spent the day with one another , in glad escape from their other occupations ."
+    },
+    {
+      "id": "42.2",
+      "label": "Section 42.2",
+      "chapter": null,
+      "original": "πολλάκις δὲ καὶ συνεσχόλαζεν αὐτὸς ἐμβάλλων εἰς τοὺς περιπάτους τοῖς φιλολόγοις καὶ τοῖς πολιτικοῖς συνέπραττεν ὅτου δέοιντο · καὶ ὅλως ἑστία καὶ πρυτανεῖον Ἑλληνικὸν ὁ οἶκος ἦν αὐτοῦ τοῖς ἀφικνουμένοις εἰς Ῥώμην . φιλοσοφίαν δὲ πᾶσαν μὲν ἠσπάζετο καὶ πρὸς πᾶσαν εὐμενὴς ἦν καὶ οἰκεῖος , ἴδιον δὲ τῆς Ἀκαδημείας ἐξ ἀρχῆς p.606 ἔρωτα καὶ ζῆλον ἔσχεν , οὐ τῆς νέας λεγομένης ,",
+      "translation": "Lucullus himself also often spent his leisure hours there with them , walking about in the cloisters with their scholars , and he would assist their statesmen in whatever they desired . And in general his house was a home and prytaneium for the Greeks who came to Rome . He was fond of all philosophy , and well-disposed and friendly towards every school , but from the first he cherished a particular and zealous love for the Academy , not the New Academy , so-called ,"
+    },
+    {
+      "id": "43.1",
+      "label": "Section 43.1",
+      "chapter": null,
+      "original": "ταῦτα δὴ καὶ μᾶλλον ἀπῆγε τῆς πολιτείας τὸν Λούκουλλον . ἐπεὶ δὲ Κικέρων ἐξέπεσε τῆς πόλεως καὶ Κάτων εἰς Κύπρον ἀπεστάλη , παντάπασιν ἐξελύθη . καὶ πρό γε τῆς τελευτῆς λέγεται νοσῆσαι τὴν διάνοιαν αὐτῷ κατὰ μικρὸν ἀπομαραινομένην . Νέπως δὲ Κορνήλιος οὐχ ὑπό γήρως φησὶν οὐδὲ νόσου παραλλάξαι τὸν Λούκουλλον , ἀλλὰ φαρμάκοις ὑπό τινος τῶν ἀπελευθέρων Καλλισθένους διαφθαρέντα ·",
+      "translation": "Of course this induced Lucullus to withdraw even more from public life . And when Cicero was banished from the city , and Cato was sent out to Cyprus , he retired altogether . Even before his death , it is said that his understanding was affected and gradually faded away . But Cornelius Nepos says that Lucullus lost his mind not from old age , nor yet from disease , but that he was disabled by drugs administered to him by one of his freedmen , Callisthenes ;"
+    },
+    {
+      "id": "43.2",
+      "label": "Section 43.2",
+      "chapter": null,
+      "original": "τὰ δὲ φάρμακα δοθῆναι μὲν , ὡς ἀγαπῷτο μᾶλλον ὁ Καλλισθένης ὑπʼ αὐτοῦ , τοιαύτην ἔχειν δοκοῦντα τὴν δύναμιν , ἐκστῆσαι δὲ καὶ κατακλύσαι τὸν λογισμόν , ὥστʼ p.610 ἔτι ζῶντος αὐτοῦ τὴν οὐσίαν διοικεῖν τὸν ἀδελφόν · οὐ μὴν ἀλλʼ ὡς ἀπέθανε , καθάπερ ἂν [*] ἐν ἀκμῇ τῆς στρατηγίας καὶ τῆς πολιτείας αὐτοῦ τελευτήσαντος , ὁ δῆμος ἠχθέσθη καὶ συνέδραμε , καὶ τὸ σῶμα κομισθὲν εἰς ἀγορὰν ὑπὸ τῶν εὐγενεστάτων νεανίσκων ἐβιάζετο θάπτειν ἐν τῷ πεδίῳ τοῦ Ἄρεως , ὅπου καὶ Σύλλαν ἔθαψεν .",
+      "translation": "that the drugs were given him by Callisthenes in order to win more of his love , in the belief that they had such a power , but they drove him from his senses and overwhelmed his reason , so that even while he was still alive , his brother managed his property . However , when he died , [*] the people grieved just as much as if his death had come at the culmination of his military and political services , and flocked together , and tried to compel the young nobles who had carried the body into the forum to bury it in the Campus Martius , where Sulla also had been buried ."
+    }
+  ],
+  "prevChunkSlug": "cimon-12rkxy",
+  "nextChunkSlug": null
+}

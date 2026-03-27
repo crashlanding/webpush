@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "sophocles-ajax-electra-oedipus-tyrannus-udpp93",
+  "volumeTitle": "Ajax. Electra. Oedipus Tyrannus",
+  "authorDisplay": "Sophocles",
+  "authors": [
+    "Sophocles"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "electra-wuse-4",
+  "label": "Electra (Section 575 - Section 766)",
+  "partId": "electra-wuse",
+  "partTitle": "Electra",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἠλέκτρα",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Electra",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "575",
+      "label": "Section 575",
+      "chapter": null,
+      "original": "ἀνθʼ ὧν , βιασθεὶς πολλὰ κἀντιβάς , μόλις",
+      "translation": "For that reason , under fierce constraint and with much resistance , at last he sacrificed her — but it was not for the sake of Menelaus .\nBut suppose — for I will make your own plea — suppose that the motive of his deed was to benefit his brother . Should you have killed him because of that ? Under what sort of law ?"
+    },
+    {
+      "id": "580",
+      "label": "Section 580",
+      "chapter": null,
+      "original": "ὅρα τιθεῖσα τόνδε τὸν νόμον βροτοῖς",
+      "translation": "See that by laying down such a law for men , you do not lay down trouble and remorse for yourself . For , if we are to take blood for blood , you surely would be the first to die , if you were to meet with justice .\nBut consider whether this pretext is any excuse at all ."
+    },
+    {
+      "id": "585",
+      "label": "Section 585",
+      "chapter": null,
+      "original": "εἰ γὰρ θέλεις , δίδαξον ἀνθʼ ὅτου τανῦν",
+      "translation": "For tell me , if you please , what crime it is that you requite by doing the most shameless deeds of all : sharing your bed with that blood-guilty one , with whom you first destroyed my father and now bear his children"
+    },
+    {
+      "id": "590",
+      "label": "Section 590",
+      "chapter": null,
+      "original": "κἀξ εὐσεβῶν βλαστόντας ἐκβαλοῦσʼ ἔχεις .",
+      "translation": "while you have cast out the earlier born , the pious offspring of a pious marriage ? How can I commend these deeds ? Or will you claim that this , too , is recompense for your daughter ? No , it is a shameful plea , if you so plead , for there is nothing noble in marrying an enemy for a daughter ’ s sake ."
+    },
+    {
+      "id": "595",
+      "label": "Section 595",
+      "chapter": null,
+      "original": "ἀλλʼ οὐ γὰρ οὐδὲ νουθετεῖν ἔξεστί σε ,",
+      "translation": "But no , I can hardly even admonish you , when your every cry is that I slander my mother . I think , rather , that you are no less a mistress to me than a mother ; so lowly is the life that I live ,"
+    },
+    {
+      "id": "600",
+      "label": "Section 600",
+      "chapter": null,
+      "original": "πολλοῖς ἀεὶ ξυνοῦσα τοῦ τε συννόμου ·",
+      "translation": "ever beset with miseries come from you and your consort . And your other child , the exile who scarcely escaped your hand , poor Orestes , wastes away his unhappy life . You have often accused me of rearing him to punish your crime ,"
+    },
+    {
+      "id": "605",
+      "label": "Section 605",
+      "chapter": null,
+      "original": "ἔδρων ἄν , εὖ τοῦτʼ ἴσθι · τοῦδέ γʼ οὕνεκα",
+      "translation": "and I would have done so , if I could , you may be sure . As far as he is concerned , you can denounce me to all as disloyal , if you like , or loud-mouthed , or impudent . For if my nature is familiar with such wrongdoings , I hardly bring disgrace upon your nature ."
+    },
+    {
+      "id": "610",
+      "label": "Section 610",
+      "chapter": null,
+      "original": "ὁρῶ μένος πνέουσαν · εἰ δὲ σὺν δίκῃ",
+      "translation": "I see her breathing fury ; but whether justice is with her , her concern for this I see no longer ."
+    },
+    {
+      "id": "612",
+      "label": "Section 612",
+      "chapter": null,
+      "original": "ποίας δʼ ἐμοὶ δεῖ πρός γε τήνδε φροντίδος ,",
+      "translation": "And what manner of concern should I use against her , who has abused her mother like this at her mature age ? Do you not think"
+    },
+    {
+      "id": "615",
+      "label": "Section 615",
+      "chapter": null,
+      "original": "χωρεῖν ἂν εἰς πᾶν ἔργον αἰσχύνης ἄτερ ;",
+      "translation": "that she would go forward to any deed without shame ?"
+    },
+    {
+      "id": "616",
+      "label": "Section 616",
+      "chapter": null,
+      "original": "εὖ νυν ἐπίστω τῶνδέ μʼ αἰσχύνην ἔχειν ,",
+      "translation": "Now be assured that I do feel shame for it , though I seem not to you . I know that my behavior is unsuited to my age and inappropriate . But then the enmity I get from you and your"
+    },
+    {
+      "id": "620",
+      "label": "Section 620",
+      "chapter": null,
+      "original": "ἔργʼ ἐξαναγκάζει με ταῦτα δρᾶν βίᾳ ·",
+      "translation": "behavior compel me with harsh necessity to do this ; for reprehensible deeds are learned from reprehensible examples ."
+    },
+    {
+      "id": "622",
+      "label": "Section 622",
+      "chapter": null,
+      "original": "ὦ θρέμμʼ ἀναιδές , ἦ σʼ ἐγὼ καὶ τἄμʼ ἔπη",
+      "translation": "You shameless creature ! Truly I and my speech and my deeds give you too much to talk about ."
+    },
+    {
+      "id": "624",
+      "label": "Section 624",
+      "chapter": null,
+      "original": "σύ τοι λέγεις νιν , οὐκ ἐγώ · σὺ γὰρ ποεῖς",
+      "translation": "The words are yours , not mine ; for yours"
+    },
+    {
+      "id": "625",
+      "label": "Section 625",
+      "chapter": null,
+      "original": "τοὔργον · τὰ δʼ ἔργα τοὺς λόγους εὑρίσκεται .",
+      "translation": "are the deeds , and they find their own expression ."
+    },
+    {
+      "id": "626",
+      "label": "Section 626",
+      "chapter": null,
+      "original": "ἀλλʼ οὐ μὰ τὴν δέσποιναν Ἄρτεμιν θράσους",
+      "translation": "Now by our mistress Artemis , you shall not escape the consequences of this audacity once Aegisthus returns ."
+    },
+    {
+      "id": "628",
+      "label": "Section 628",
+      "chapter": null,
+      "original": "ὁρᾷς ; πρὸς ὀργὴν ἐκφέρει , μεθεῖσά μοι",
+      "translation": "You see ? You are driven to rage and , even though you grant me free speech , you have no patience to listen ."
+    },
+    {
+      "id": "630",
+      "label": "Section 630",
+      "chapter": null,
+      "original": "οὔκουν ἐάσεις οὐδʼ ὑπʼ εὐφήμου βοῆς",
+      "translation": "Will you not allow me to sacrifice without ominous shouting , when I have permitted you to say anything and everything you wished ?"
+    },
+    {
+      "id": "632",
+      "label": "Section 632",
+      "chapter": null,
+      "original": "ἐῶ , κελεύω , θῦε · μηδʼ ἐπαιτιῶ",
+      "translation": "I allow it ; I exhort you to it : sacrifice ! But do not blame my voice , for I would not say another word ."
+    },
+    {
+      "id": "634",
+      "label": "Section 634",
+      "chapter": null,
+      "original": "ἔπαιρε δὴ σὺ θύμαθʼ ἡ παροῦσά μοι",
+      "translation": "Raise then , my attendant , the offerings"
+    },
+    {
+      "id": "635",
+      "label": "Section 635",
+      "chapter": null,
+      "original": "πάγκαρπʼ , ἄνακτι τῷδʼ ὅπως λυτηρίους",
+      "translation": "of many fruits , so that I may uplift my prayers for release from my present fears to this image of our King . Please , O Phoebus our defender , may you now listen to my prayer , though it is muffled ; for I do not make my plea among friends , nor does it suit me to unfold it all"
+    },
+    {
+      "id": "640",
+      "label": "Section 640",
+      "chapter": null,
+      "original": "πρὸς φῶς παρούσης τῆσδε πλησίας ἐμοί ,",
+      "translation": "to the light while she stands near me , lest by her malice and a cry of her clamorous tongue she sow reckless rumors through the whole city . Nevertheless , hear me thus , since in this way I will speak . That vision which I saw last night"
+    },
+    {
+      "id": "645",
+      "label": "Section 645",
+      "chapter": null,
+      "original": "δισσῶν ὀνείρων , ταῦτά μοι , Λύκειʼ ἄναξ ,",
+      "translation": "in ambiguous dreams — if its appearance was to my good , grant , Lycean king , that it be fulfilled ; but if to my harm , then hurl it back upon those who would harm me . And if any are plotting to eject me by treachery from my present prosperity , do not permit them ."
+    },
+    {
+      "id": "650",
+      "label": "Section 650",
+      "chapter": null,
+      "original": "ἀλλʼ ὧδέ μʼ αἰεὶ ζῶσαν ἀβλαβεῖ βίῳ",
+      "translation": "Rather grant that living forever unharmed as I am I may govern the house of the sons of Atreus and their throne , sharing prosperous days with the friends who share them now , and with those of my children who feel no enmity or bitterness towards me ."
+    },
+    {
+      "id": "655",
+      "label": "Section 655",
+      "chapter": null,
+      "original": "ταῦτʼ , ὦ Λύκειʼ Ἄπολλον , ἵλεως κλύων",
+      "translation": "O Lycean Apollo , hear these prayers with favor , and grant them to us all just as we ask ! As for all my other prayers , though I am silent , I judge that you , a god , must know them , since it is appropriate that Zeus ’ s children see all ."
+    },
+    {
+      "id": "660",
+      "label": "Section 660",
+      "chapter": null,
+      "original": "ξέναι γυναῖκες , πῶς ἂν εἰδείην σαφῶς",
+      "translation": "Foreign ladies , how might I know for certain if this be the palace of the king Aegisthus ?"
+    },
+    {
+      "id": "662",
+      "label": "Section 662",
+      "chapter": null,
+      "original": "τάδʼ ἐστίν , ὦ ξένʼ · αὐτὸς ᾔκασας καλῶς .",
+      "translation": "This is the palace , stranger ; you yourself have guessed correctly ."
+    },
+    {
+      "id": "663",
+      "label": "Section 663",
+      "chapter": null,
+      "original": "ἦ καὶ δάμαρτα τήνδʼ ἐπεικάζων κυρῶ",
+      "translation": "And am I on target when I surmise that this lady is his wife ? She is indeed regal to look upon ."
+    },
+    {
+      "id": "665",
+      "label": "Section 665",
+      "chapter": null,
+      "original": "μάλιστα πάντων · ἥδε σοι κείνη πάρα .",
+      "translation": "Exactly right ; this is she before you ."
+    },
+    {
+      "id": "666",
+      "label": "Section 666",
+      "chapter": null,
+      "original": "ὦ χαῖρʼ , ἄνασσα · σοὶ φέρων ἥκω λόγους",
+      "translation": "Greetings , royal lady ! I bring happy news to you and to Aegisthus from a friend ."
+    },
+    {
+      "id": "668",
+      "label": "Section 668",
+      "chapter": null,
+      "original": "ἐδεξάμην τὸ ῥηθέν · εἰδέναι δέ σου",
+      "translation": "I welcome your greeting ; but I would like first to know who may have sent you ."
+    },
+    {
+      "id": "670",
+      "label": "Section 670",
+      "chapter": null,
+      "original": "Φανοτεὺς ὁ Φωκεύς , πρᾶγμα πορσύνων μέγα .",
+      "translation": "Phanoteus the Phocian provided me the weighty task ."
+    },
+    {
+      "id": "671",
+      "label": "Section 671",
+      "chapter": null,
+      "original": "τὸ ποῖον , ὦ ξένʼ ; εἰπέ · παρὰ φίλου γὰρ ὢν",
+      "translation": "And what is it , sir ? Tell me . Coming from a friend you will bring , I know , a kindly message ."
+    },
+    {
+      "id": "673",
+      "label": "Section 673",
+      "chapter": null,
+      "original": "τέθνηκʼ Ὀρέστης · ἐν βραχεῖ ξυνθεὶς λέγω .",
+      "translation": "Orestes is dead , to put it briefly ."
+    },
+    {
+      "id": "674",
+      "label": "Section 674",
+      "chapter": null,
+      "original": "οἲ ʼγὼ τάλαινʼ , ὄλωλα τῇδʼ ἐν ἡμέρᾳ .",
+      "translation": "Oh , miserable me ! My ruin comes today !"
+    },
+    {
+      "id": "675",
+      "label": "Section 675",
+      "chapter": null,
+      "original": "τί φής , τί φής , ὦ ξεῖνε ; μὴ ταύτης κλύε .",
+      "translation": "What , friend ? What did you say ? Do not listen to her !"
+    },
+    {
+      "id": "676",
+      "label": "Section 676",
+      "chapter": null,
+      "original": "θανόντʼ Ὀρέστην νῦν τε καὶ πάλαι λέγω .",
+      "translation": "I said , and say again , Orestes is dead ."
+    },
+    {
+      "id": "677",
+      "label": "Section 677",
+      "chapter": null,
+      "original": "ἀπωλόμην δύστηνος , οὐδέν εἰμʼ ἔτι .",
+      "translation": "This is my wretched end ! I am no more !"
+    },
+    {
+      "id": "678",
+      "label": "Section 678",
+      "chapter": null,
+      "original": "σὺ μὲν τὰ σαυτῆς πρᾶσσʼ , ἐμοὶ δὲ σύ , ξένε ,",
+      "translation": "You , go about your business ! But you , sir , tell me exactly in what manner he was destroyed ."
+    },
+    {
+      "id": "680",
+      "label": "Section 680",
+      "chapter": null,
+      "original": "κἀπεμπόμην πρὸς ταῦτα καὶ τὸ πᾶν φράσω .",
+      "translation": "I was sent for that purpose , and will tell you all . Having gone to the shrine which is Greece ’ s common glory in order to compete for Delphi ’ s prizes and having heard the herald ’ s loud summons to the foot-race , the first contest ,"
+    },
+    {
+      "id": "685",
+      "label": "Section 685",
+      "chapter": null,
+      "original": "εἰσῆλθε λαμπρός , πᾶσι τοῖς ἐκεῖ σέβας ·",
+      "translation": "he entered the lists , a brilliant form , a wonder in the eyes of all there . When he had finished the race at the point where it began , he went out with the glorious honor of victory . To say the most with the least words , I do not know the man whose deeds and triumphs have matched his ."
+    },
+    {
+      "id": "690",
+      "label": "Section 690",
+      "chapter": null,
+      "original": "ἓν δʼ ἴσθʼ · ὅσων γὰρ εἰσεκήρυξαν βραβῆς",
+      "translation": "But this one thing you must know : in all the contests that the judges announced , he carried away the prize , and men deemed him happy as often as the herald proclaimed him an Argive , by name Orestes , son of"
+    },
+    {
+      "id": "695",
+      "label": "Section 695",
+      "chapter": null,
+      "original": "Ἀγαμέμνονος στράτευμʼ ἀγείραντός ποτε .",
+      "translation": "Agamemnon , who once marshalled Greece ’ s famous expedition .\nSo far Orestes fared as I described . But when a god sends harm , not even the strong man can escape . For on another day , when with the rising sun there was held the race of the swift-footed horses ,"
+    },
+    {
+      "id": "700",
+      "label": "Section 700",
+      "chapter": null,
+      "original": "εἰσῆλθε πολλῶν ἁρματηλατῶν μέτα .",
+      "translation": "he entered it along with many charioteers . One was an Achaean , one from Sparta ; two masters of yoked cars were Libyans ; Orestes , driving Thessalian mares , came fifth among them ; the sixth was from Aetolia ,"
+    },
+    {
+      "id": "705",
+      "label": "Section 705",
+      "chapter": null,
+      "original": "ξανθαῖσι πώλοις · ἕβδομος Μάγνης ἀνήρ ·",
+      "translation": "with chestnut colts ; a Magnesian was the seventh ; the eighth , with white horses , was of Aenian stock ; the ninth hailed from Athens , built of gods ; there was a Boeotian too , making the tenth chariot . They took their stations where the appointed umpires"
+    },
+    {
+      "id": "710",
+      "label": "Section 710",
+      "chapter": null,
+      "original": "κλήροις ἔπηλαν καὶ κατέστησαν δίφρους ,",
+      "translation": "placed them by lot and ranged the cars . Then at the sound of the bronze trumpet , they started . All shouted to their horses , and shook the reins in their hands ; the whole course was filled with the clatter of rattling chariots ; and the dust flew upward ."
+    },
+    {
+      "id": "715",
+      "label": "Section 715",
+      "chapter": null,
+      "original": "φορεῖθʼ · ὁμοῦ δὲ πάντες ἀναμεμιγμένοι",
+      "translation": "All of them in a confused throng kept plying their goads unsparingly , so that one of them might pass the wheel-hubs and the snorting steeds of his rivals ; for both at their backs and at their rolling wheels the breath of the horses foamed and smattered ."
+    },
+    {
+      "id": "720",
+      "label": "Section 720",
+      "chapter": null,
+      "original": "κεῖνος δʼ ὑπʼ αὐτὴν ἐσχάτην στήλην ἔχων",
+      "translation": "Orestes , driving close to the near edge of the turning-post , almost grazed it with his wheel each time and , giving rein to the trace-horse on the right , he checked the horse on the inner side . To this point , all the chariots still stood upright . But then the Aenian ’ s"
+    },
+    {
+      "id": "725",
+      "label": "Section 725",
+      "chapter": null,
+      "original": "πῶλοι βίᾳ φέρουσιν · ἐκ δʼ ὑποστροφῆς",
+      "translation": "hard-mouthed colts carried him out of control as they passed out of the turn from the sixth into the seventh lap and dashed their foreheads against the rig of the Barcaean . Next , as a result of this one mishap , the cars kept smashing and colliding with each other , and the whole"
+    },
+    {
+      "id": "730",
+      "label": "Section 730",
+      "chapter": null,
+      "original": "ναυαγίων Κρισαῖον ἱππικῶν πέδον .",
+      "translation": "race-ground of Crisa swelled with shipwrecked chariots ."
+    },
+    {
+      "id": "731",
+      "label": "Section 731",
+      "chapter": null,
+      "original": "γνοὺς δʼ οὑξ Ἀθηνῶν δεινὸς ἡνιοστρόφος",
+      "translation": "Seeing this , the clever charioteer from Athens drew aside and paused , allowing the equestrian flood to pass in mid-crest . Orestes was driving last , keeping his horses"
+    },
+    {
+      "id": "735",
+      "label": "Section 735",
+      "chapter": null,
+      "original": "πώλους Ὀρέστης , τῷ τέλει πίστιν φέρων ·",
+      "translation": "behind , as his trust was in the race ’ s end . But when he sees that the Athenian is alone left in , he sends a shrill cry ringing through the ears of his swift colts , and gives chase . Bringing yoke level with yoke the two of them raced , first one man , then the other ,"
+    },
+    {
+      "id": "740",
+      "label": "Section 740",
+      "chapter": null,
+      "original": "κάρα προβάλλων ἱππικῶν ὀχημάτων .",
+      "translation": "showing his head in front of the other ’ s chariot . Up to now the ill-fated Orestes had driven upright safely through every circuit , upright in his upright car . But then he slackened his left rein while the horse was turning and unwittingly struck the edge of the pillar ,"
+    },
+    {
+      "id": "745",
+      "label": "Section 745",
+      "chapter": null,
+      "original": "παίσας · ἔθραυσε δʼ ἄξονος μέσας χνόας",
+      "translation": "breaking the axle-box in two . He spilled forward over the chariot-rail and was caught in the trim reins , and as he fell to the ground , his colts were scattered into the middle of the course .\nBut when the crowd saw that he had fallen"
+    },
+    {
+      "id": "750",
+      "label": "Section 750",
+      "chapter": null,
+      "original": "δίφρων , ἀνωλόλυξε τὸν νεανίαν ,",
+      "translation": "from the chariot , a cry of pity went up for the young man who had done such deeds and was allotted such bad fortune — now dashed against the earth , now tossed with his feet to the sky until the charioteers with difficulty reigned in the gallop of his horses and"
+    },
+    {
+      "id": "755",
+      "label": "Section 755",
+      "chapter": null,
+      "original": "ἔλυσαν αἱματηρόν , ὥστε μηδένα",
+      "translation": "freed him , so covered with blood that no friend who saw it would have known the pitiful corpse . Immediately they burned him on a pyre , and chosen men of Phocis now bring the sad dust of that mighty form in a small urn of bronze ,"
+    },
+    {
+      "id": "760",
+      "label": "Section 760",
+      "chapter": null,
+      "original": "ὅπως πατρῴας τύμβον ἐκλάχῃ χθονός .",
+      "translation": "so that he may find due burial in his fatherland .\nSuch is my story — it is grievous even to hear , but for us witnesses who looked on , it was the greatest of sorrows that these eyes have seen ."
+    },
+    {
+      "id": "764",
+      "label": "Section 764",
+      "chapter": null,
+      "original": "φεῦ φεῦ · τὸ πᾶν δὴ δεσπόταισι τοῖς πάλαι",
+      "translation": "Oh , sorrow ! It seems now that all the stock of our ancient masters"
+    },
+    {
+      "id": "765",
+      "label": "Section 765",
+      "chapter": null,
+      "original": "πρόρριζον , ὡς ἔοικεν , ἔφθαρται γένος .",
+      "translation": "has been leveled clean down to the roots ."
+    },
+    {
+      "id": "766",
+      "label": "Section 766",
+      "chapter": null,
+      "original": "ὦ Ζεῦ , τί ταῦτα , πότερον εὐτυχῆ λέγω ,",
+      "translation": "O Zeus , how shall I name this news — fortunate ? Or terrible , but beneficial ? It is a bitter thing , when by my own misery I preserve my life ."
+    }
+  ],
+  "prevChunkSlug": "electra-wuse-3",
+  "nextChunkSlug": "electra-wuse-5"
+}

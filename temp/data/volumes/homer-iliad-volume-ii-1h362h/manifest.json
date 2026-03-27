@@ -1,0 +1,61 @@
+{
+  "loebNumber": 171,
+  "sortOrder": 171,
+  "slug": "homer-iliad-volume-ii-1h362h",
+  "title": "Iliad, Volume II",
+  "volumeLabel": "Iliad, Volume II",
+  "authorDisplay": "Homer",
+  "authors": [
+    "Homer"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Iliad, Volume II. Iliad, Volume II currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "iliad-volume-ii-oresjt",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "iliad-volume-ii-oresjt",
+      "title": "Iliad, Volume II",
+      "status": "ready",
+      "sectionCount": 28,
+      "chunkSlug": "iliad-volume-ii-oresjt",
+      "chunks": [
+        {
+          "slug": "iliad-volume-ii-oresjt",
+          "label": "Iliad, Volume II",
+          "partId": "iliad-volume-ii-oresjt",
+          "partTitle": "Iliad, Volume II",
+          "sectionCount": 28,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "iliad-volume-ii-oresjt",
+      "label": "Iliad, Volume II",
+      "partId": "iliad-volume-ii-oresjt",
+      "partTitle": "Iliad, Volume II",
+      "sectionCount": 28,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "iliad-volume-ii-oresjt",
+      "partTitle": "Iliad, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἰλιάς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0012.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Iliad",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0012.tlg001.perseus-eng3/"
+      }
+    }
+  ]
+}

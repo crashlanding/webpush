@@ -1,0 +1,769 @@
+{
+  "loebNumber": 12,
+  "sortOrder": 12,
+  "slug": "euripides-cyclops-alcestis-medea-19z9hm",
+  "title": "Cyclops. Alcestis. Medea",
+  "volumeLabel": "Cyclops. Alcestis. Medea",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Cyclops. Alcestis. Medea, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "cyclops-1btvhe-1",
+  "readyChunkCount": 24,
+  "contents": [
+    {
+      "id": "cyclops-1btvhe",
+      "title": "Cyclops",
+      "status": "ready",
+      "sectionCount": 358,
+      "chunkSlug": "cyclops-1btvhe-1",
+      "chunks": [
+        {
+          "slug": "cyclops-1btvhe-1",
+          "label": "Cyclops (Section 1 - Section 129)",
+          "partId": "cyclops-1btvhe",
+          "partTitle": "Cyclops",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "cyclops-1btvhe-2",
+          "label": "Cyclops (Section 130 - Section 216)",
+          "partId": "cyclops-1btvhe",
+          "partTitle": "Cyclops",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "cyclops-1btvhe-3",
+          "label": "Cyclops (Section 217 - Section 385)",
+          "partId": "cyclops-1btvhe",
+          "partTitle": "Cyclops",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "cyclops-1btvhe-4",
+          "label": "Cyclops (Section 390 - Section 537)",
+          "partId": "cyclops-1btvhe",
+          "partTitle": "Cyclops",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "cyclops-1btvhe-5",
+          "label": "Cyclops (Section 538 - Section 632)",
+          "partId": "cyclops-1btvhe",
+          "partTitle": "Cyclops",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "cyclops-1btvhe-6",
+          "label": "Cyclops (Section 635 - Section 708)",
+          "partId": "cyclops-1btvhe",
+          "partTitle": "Cyclops",
+          "sectionCount": 58,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "alcestis-qn0hbs",
+      "title": "Alcestis",
+      "status": "ready",
+      "sectionCount": 503,
+      "chunkSlug": "alcestis-qn0hbs-1",
+      "chunks": [
+        {
+          "slug": "alcestis-qn0hbs-1",
+          "label": "Alcestis (Section 1 - Section 2.115)",
+          "partId": "alcestis-qn0hbs",
+          "partTitle": "Alcestis",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "alcestis-qn0hbs-2",
+          "label": "Alcestis (Section 2.120 - Section 285)",
+          "partId": "alcestis-qn0hbs",
+          "partTitle": "Alcestis",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "alcestis-qn0hbs-3",
+          "label": "Alcestis (Section 290 - Section 2.455)",
+          "partId": "alcestis-qn0hbs",
+          "partTitle": "Alcestis",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "alcestis-qn0hbs-4",
+          "label": "Alcestis (Section 2.460 - Section 538)",
+          "partId": "alcestis-qn0hbs",
+          "partTitle": "Alcestis",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "alcestis-qn0hbs-5",
+          "label": "Alcestis (Section 539 - Section 716)",
+          "partId": "alcestis-qn0hbs",
+          "partTitle": "Alcestis",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "alcestis-qn0hbs-6",
+          "label": "Alcestis (Section 717 - Section 855)",
+          "partId": "alcestis-qn0hbs",
+          "partTitle": "Alcestis",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "alcestis-qn0hbs-7",
+          "label": "Alcestis (Section 860 - Section 1025)",
+          "partId": "alcestis-qn0hbs",
+          "partTitle": "Alcestis",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "alcestis-qn0hbs-8",
+          "label": "Alcestis (Section 1030 - Section 1125)",
+          "partId": "alcestis-qn0hbs",
+          "partTitle": "Alcestis",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "alcestis-qn0hbs-9",
+          "label": "Alcestis (Section 1126 - Section 1160)",
+          "partId": "alcestis-qn0hbs",
+          "partTitle": "Alcestis",
+          "sectionCount": 23,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "medea-186s08",
+      "title": "Medea",
+      "status": "ready",
+      "sectionCount": 502,
+      "chunkSlug": "medea-186s08-1",
+      "chunks": [
+        {
+          "slug": "medea-186s08-1",
+          "label": "Medea (Section 1 - Section 185)",
+          "partId": "medea-186s08",
+          "partTitle": "Medea",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "medea-186s08-2",
+          "label": "Medea (Section 190 - Section 360)",
+          "partId": "medea-186s08",
+          "partTitle": "Medea",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "medea-186s08-3",
+          "label": "Medea (Section 364 - Section 598)",
+          "partId": "medea-186s08",
+          "partTitle": "Medea",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "medea-186s08-4",
+          "label": "Medea (Section 600 - Section 700)",
+          "partId": "medea-186s08",
+          "partTitle": "Medea",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "medea-186s08-5",
+          "label": "Medea (Section 701 - Section 2.856)",
+          "partId": "medea-186s08",
+          "partTitle": "Medea",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "medea-186s08-6",
+          "label": "Medea (Section 2.860 - Section 1017)",
+          "partId": "medea-186s08",
+          "partTitle": "Medea",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "medea-186s08-7",
+          "label": "Medea (Section 1019 - Section 1250)",
+          "partId": "medea-186s08",
+          "partTitle": "Medea",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "medea-186s08-8",
+          "label": "Medea (Section 1.1251 - Section 1377)",
+          "partId": "medea-186s08",
+          "partTitle": "Medea",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "medea-186s08-9",
+          "label": "Medea (Section 1378 - Section 1415)",
+          "partId": "medea-186s08",
+          "partTitle": "Medea",
+          "sectionCount": 22,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "cyclops-1btvhe-1",
+      "label": "Cyclops (Section 1 - Section 129)",
+      "partId": "cyclops-1btvhe",
+      "partTitle": "Cyclops",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "cyclops-1btvhe-2",
+      "label": "Cyclops (Section 130 - Section 216)",
+      "partId": "cyclops-1btvhe",
+      "partTitle": "Cyclops",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "cyclops-1btvhe-3",
+      "label": "Cyclops (Section 217 - Section 385)",
+      "partId": "cyclops-1btvhe",
+      "partTitle": "Cyclops",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "cyclops-1btvhe-4",
+      "label": "Cyclops (Section 390 - Section 537)",
+      "partId": "cyclops-1btvhe",
+      "partTitle": "Cyclops",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "cyclops-1btvhe-5",
+      "label": "Cyclops (Section 538 - Section 632)",
+      "partId": "cyclops-1btvhe",
+      "partTitle": "Cyclops",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "cyclops-1btvhe-6",
+      "label": "Cyclops (Section 635 - Section 708)",
+      "partId": "cyclops-1btvhe",
+      "partTitle": "Cyclops",
+      "sectionCount": 58,
+      "status": "ready"
+    },
+    {
+      "slug": "alcestis-qn0hbs-1",
+      "label": "Alcestis (Section 1 - Section 2.115)",
+      "partId": "alcestis-qn0hbs",
+      "partTitle": "Alcestis",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "alcestis-qn0hbs-2",
+      "label": "Alcestis (Section 2.120 - Section 285)",
+      "partId": "alcestis-qn0hbs",
+      "partTitle": "Alcestis",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "alcestis-qn0hbs-3",
+      "label": "Alcestis (Section 290 - Section 2.455)",
+      "partId": "alcestis-qn0hbs",
+      "partTitle": "Alcestis",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "alcestis-qn0hbs-4",
+      "label": "Alcestis (Section 2.460 - Section 538)",
+      "partId": "alcestis-qn0hbs",
+      "partTitle": "Alcestis",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "alcestis-qn0hbs-5",
+      "label": "Alcestis (Section 539 - Section 716)",
+      "partId": "alcestis-qn0hbs",
+      "partTitle": "Alcestis",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "alcestis-qn0hbs-6",
+      "label": "Alcestis (Section 717 - Section 855)",
+      "partId": "alcestis-qn0hbs",
+      "partTitle": "Alcestis",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "alcestis-qn0hbs-7",
+      "label": "Alcestis (Section 860 - Section 1025)",
+      "partId": "alcestis-qn0hbs",
+      "partTitle": "Alcestis",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "alcestis-qn0hbs-8",
+      "label": "Alcestis (Section 1030 - Section 1125)",
+      "partId": "alcestis-qn0hbs",
+      "partTitle": "Alcestis",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "alcestis-qn0hbs-9",
+      "label": "Alcestis (Section 1126 - Section 1160)",
+      "partId": "alcestis-qn0hbs",
+      "partTitle": "Alcestis",
+      "sectionCount": 23,
+      "status": "ready"
+    },
+    {
+      "slug": "medea-186s08-1",
+      "label": "Medea (Section 1 - Section 185)",
+      "partId": "medea-186s08",
+      "partTitle": "Medea",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "medea-186s08-2",
+      "label": "Medea (Section 190 - Section 360)",
+      "partId": "medea-186s08",
+      "partTitle": "Medea",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "medea-186s08-3",
+      "label": "Medea (Section 364 - Section 598)",
+      "partId": "medea-186s08",
+      "partTitle": "Medea",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "medea-186s08-4",
+      "label": "Medea (Section 600 - Section 700)",
+      "partId": "medea-186s08",
+      "partTitle": "Medea",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "medea-186s08-5",
+      "label": "Medea (Section 701 - Section 2.856)",
+      "partId": "medea-186s08",
+      "partTitle": "Medea",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "medea-186s08-6",
+      "label": "Medea (Section 2.860 - Section 1017)",
+      "partId": "medea-186s08",
+      "partTitle": "Medea",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "medea-186s08-7",
+      "label": "Medea (Section 1019 - Section 1250)",
+      "partId": "medea-186s08",
+      "partTitle": "Medea",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "medea-186s08-8",
+      "label": "Medea (Section 1.1251 - Section 1377)",
+      "partId": "medea-186s08",
+      "partTitle": "Medea",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "medea-186s08-9",
+      "label": "Medea (Section 1378 - Section 1415)",
+      "partId": "medea-186s08",
+      "partTitle": "Medea",
+      "sectionCount": 22,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "cyclops-1btvhe-1",
+      "partTitle": "Cyclops",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Κύκλωψ",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Cyclops",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg001.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "cyclops-1btvhe-2",
+      "partTitle": "Cyclops",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Κύκλωψ",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Cyclops",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg001.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "cyclops-1btvhe-3",
+      "partTitle": "Cyclops",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Κύκλωψ",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Cyclops",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg001.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "cyclops-1btvhe-4",
+      "partTitle": "Cyclops",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Κύκλωψ",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Cyclops",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg001.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "cyclops-1btvhe-5",
+      "partTitle": "Cyclops",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Κύκλωψ",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Cyclops",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg001.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "cyclops-1btvhe-6",
+      "partTitle": "Cyclops",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Κύκλωψ",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Cyclops",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg001.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "alcestis-qn0hbs-1",
+      "partTitle": "Alcestis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἄλκηστις",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg002.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Alcestis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "alcestis-qn0hbs-2",
+      "partTitle": "Alcestis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἄλκηστις",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg002.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Alcestis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "alcestis-qn0hbs-3",
+      "partTitle": "Alcestis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἄλκηστις",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg002.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Alcestis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "alcestis-qn0hbs-4",
+      "partTitle": "Alcestis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἄλκηστις",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg002.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Alcestis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "alcestis-qn0hbs-5",
+      "partTitle": "Alcestis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἄλκηστις",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg002.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Alcestis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "alcestis-qn0hbs-6",
+      "partTitle": "Alcestis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἄλκηστις",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg002.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Alcestis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "alcestis-qn0hbs-7",
+      "partTitle": "Alcestis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἄλκηστις",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg002.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Alcestis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "alcestis-qn0hbs-8",
+      "partTitle": "Alcestis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἄλκηστις",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg002.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Alcestis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "alcestis-qn0hbs-9",
+      "partTitle": "Alcestis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἄλκηστις",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg002.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Alcestis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "medea-186s08-1",
+      "partTitle": "Medea",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Μήδεια",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Medea",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "medea-186s08-2",
+      "partTitle": "Medea",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Μήδεια",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Medea",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "medea-186s08-3",
+      "partTitle": "Medea",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Μήδεια",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Medea",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "medea-186s08-4",
+      "partTitle": "Medea",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Μήδεια",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Medea",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "medea-186s08-5",
+      "partTitle": "Medea",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Μήδεια",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Medea",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "medea-186s08-6",
+      "partTitle": "Medea",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Μήδεια",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Medea",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "medea-186s08-7",
+      "partTitle": "Medea",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Μήδεια",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Medea",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "medea-186s08-8",
+      "partTitle": "Medea",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Μήδεια",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Medea",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "medea-186s08-9",
+      "partTitle": "Medea",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Μήδεια",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Medea",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg003.perseus-eng2/"
+      }
+    }
+  ]
+}

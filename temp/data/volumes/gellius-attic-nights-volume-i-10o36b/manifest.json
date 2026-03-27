@@ -1,0 +1,91 @@
+{
+  "loebNumber": 195,
+  "sortOrder": 195,
+  "slug": "gellius-attic-nights-volume-i-10o36b",
+  "title": "Attic Nights, Volume I",
+  "volumeLabel": "Attic Nights, Volume I",
+  "authorDisplay": "Gellius",
+  "authors": [
+    "Gellius"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for Attic Nights, Volume I. Attic Nights, Volume I currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "attic-nights-volume-i-7g5jjr-1",
+  "readyChunkCount": 2,
+  "contents": [
+    {
+      "id": "attic-nights-volume-i-7g5jjr",
+      "title": "Attic Nights, Volume I",
+      "status": "ready",
+      "sectionCount": 96,
+      "chunkSlug": "attic-nights-volume-i-7g5jjr-1",
+      "chunks": [
+        {
+          "slug": "attic-nights-volume-i-7g5jjr-1",
+          "label": "Attic Nights, Volume I (Section pr.1.1 - Section 13.1.3)",
+          "partId": "attic-nights-volume-i-7g5jjr",
+          "partTitle": "Attic Nights, Volume I",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "attic-nights-volume-i-7g5jjr-2",
+          "label": "Attic Nights, Volume I (Section 13.1.4 - Section 20.1.4)",
+          "partId": "attic-nights-volume-i-7g5jjr",
+          "partTitle": "Attic Nights, Volume I",
+          "sectionCount": 36,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "attic-nights-volume-i-7g5jjr-1",
+      "label": "Attic Nights, Volume I (Section pr.1.1 - Section 13.1.3)",
+      "partId": "attic-nights-volume-i-7g5jjr",
+      "partTitle": "Attic Nights, Volume I",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "attic-nights-volume-i-7g5jjr-2",
+      "label": "Attic Nights, Volume I (Section 13.1.4 - Section 20.1.4)",
+      "partId": "attic-nights-volume-i-7g5jjr",
+      "partTitle": "Attic Nights, Volume I",
+      "sectionCount": 36,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "attic-nights-volume-i-7g5jjr-1",
+      "partTitle": "Attic Nights, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Noctes Atticae",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1254.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Attic Nights",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1254.phi001.perseus-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "attic-nights-volume-i-7g5jjr-2",
+      "partTitle": "Attic Nights, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Noctes Atticae",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1254.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Attic Nights",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1254.phi001.perseus-eng1/"
+      }
+    }
+  ]
+}

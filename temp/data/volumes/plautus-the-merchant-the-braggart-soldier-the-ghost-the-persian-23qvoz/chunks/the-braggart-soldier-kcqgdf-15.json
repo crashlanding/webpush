@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-braggart-soldier-kcqgdf-15",
+  "label": "The Braggart Soldier (Section 4.3.1123b - Section 4.5.1203)",
+  "partId": "the-braggart-soldier-kcqgdf",
+  "partTitle": "The Braggart Soldier",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Miles Gloriosus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Miles Gloriosus, or The Braggart Captain",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "4.3.1123b",
+      "label": "Section 4.3.1123b",
+      "chapter": null,
+      "original": "Curatum id quidemst .",
+      "translation": "That , indeed , is resolved upon . For if she will not go out of her own accord , I ’ ll turn her out by force ."
+    },
+    {
+      "id": "4.3.1125",
+      "label": "Section 4.3.1125",
+      "chapter": null,
+      "original": "Istuc cave fáxis ; quin potius per gratiam",
+      "translation": "Do you take care how you do that ; but rather let her go from your house with a good grace [*] , and give her those things that I mentioned . The gold trinkets and apparel , with which you furnished her , let her take away ."
+    },
+    {
+      "id": "4.3.1128",
+      "label": "Section 4.3.1128",
+      "chapter": null,
+      "original": "Cupio hercle .",
+      "translation": "By my troth , I wish she would ."
+    },
+    {
+      "id": "4.3.1128b",
+      "label": "Section 4.3.1128b",
+      "chapter": null,
+      "original": "Credo te facile impetrassere .",
+      "translation": "I think you ’ ll easily prevail upon her . But go indoors ; don ’ t linger here ."
+    },
+    {
+      "id": "4.3.1129b",
+      "label": "Section 4.3.1129b",
+      "chapter": null,
+      "original": "Tibi sum oboediens . —",
+      "translation": "I obey you ."
+    },
+    {
+      "id": "4.3.1130",
+      "label": "Section 4.3.1130",
+      "chapter": null,
+      "original": "Numquid videtur demutare alio atque uti",
+      "translation": "Now , does he really appear to be anything different from what , awhile ago , I told you he was , this wenching Captain ? Now it is requisite that Acroteleutium should come to me , her maid too , and Pleusicles . O Jupiter ! and does not opportunity favour me in every respect ?"
+    },
+    {
+      "id": "4.3.1135",
+      "label": "Section 4.3.1135",
+      "chapter": null,
+      "original": "nam quos videre exoptabam me maxume ,",
+      "translation": "For those whom I especially wished to see , I perceive at this moment coming out here from our neighbour ’ s ."
+    },
+    {
+      "id": "4.4.1137",
+      "label": "Section 4.4.1137",
+      "chapter": null,
+      "original": "Séquimini , simul círcumspicite , né quis adsit árbiter .",
+      "translation": "Follow me ; at the same time look around , that there may be no overlooker ."
+    },
+    {
+      "id": "4.4.1138",
+      "label": "Section 4.4.1138",
+      "chapter": null,
+      "original": "Neminem pol video , nísi hunc quem volumus conventum .",
+      "translation": "Faith , I see no one , only him whom we want to meet ."
+    },
+    {
+      "id": "4.4.1138b",
+      "label": "Section 4.4.1138b",
+      "chapter": null,
+      "original": "Et ego vos .",
+      "translation": "Just as I want you ."
+    },
+    {
+      "id": "4.4.1139",
+      "label": "Section 4.4.1139",
+      "chapter": null,
+      "original": "Quid agis , noster architecte ?",
+      "translation": "How do you do , our master-plotter ?"
+    },
+    {
+      "id": "4.4.1139b",
+      "label": "Section 4.4.1139b",
+      "chapter": null,
+      "original": "Egone architectus ? vah .",
+      "translation": "I , the master-plotter ? Nonsense ."
+    },
+    {
+      "id": "4.4.1139c",
+      "label": "Section 4.4.1139c",
+      "chapter": null,
+      "original": "Quid est ?",
+      "translation": "How so ?"
+    },
+    {
+      "id": "4.4.1140",
+      "label": "Section 4.4.1140",
+      "chapter": null,
+      "original": "Quia enim non sum dignus prae te , ut figam palum in parietem .",
+      "translation": "Because , in comparison with yourself , I am not worthy to fix a beam in a wall ."
+    },
+    {
+      "id": "4.4.1141",
+      "label": "Section 4.4.1141",
+      "chapter": null,
+      "original": "Heia vero .",
+      "translation": "Aye , indeed so ."
+    },
+    {
+      "id": "4.4.1141b",
+      "label": "Section 4.4.1141b",
+      "chapter": null,
+      "original": "Nimis facete nimisque facunde malast .",
+      "translation": "She ’ s a very fluent and a very clever hand at mischief . How charmingly she did polish off the Captain ."
+    },
+    {
+      "id": "4.4.1142b",
+      "label": "Section 4.4.1142b",
+      "chapter": null,
+      "original": "At etiam parum .",
+      "translation": "But still , not enough ."
+    },
+    {
+      "id": "4.4.1143",
+      "label": "Section 4.4.1143",
+      "chapter": null,
+      "original": "Bono animo es : negotium omne iam succedit sub manus ;",
+      "translation": "Be of good courage all the business is now prospering under our hands . Only do you , as you have begun , still give a helping hand ;"
+    },
+    {
+      "id": "4.4.1145",
+      "label": "Section 4.4.1145",
+      "chapter": null,
+      "original": "nam ipse miles concubinam intro abiit oratum suam ,",
+      "translation": "for the Captain himself has gone in-doors , to entreat his mistress to leave his house , with her mother and sister , for Athens ."
+    },
+    {
+      "id": "4.4.1146b",
+      "label": "Section 4.4.1146b",
+      "chapter": null,
+      "original": "Eu , probe .",
+      "translation": "Very good — well done ."
+    },
+    {
+      "id": "4.4.1147",
+      "label": "Section 4.4.1147",
+      "chapter": null,
+      "original": "Quin etiam aurum atque ornamenta , quae ipse instruxit , mulieri",
+      "translation": "Besides , all the gold trinkets and apparel which he himself has provided for the damsel , he gives her to keep as a present for herself — so have I recommended him ."
+    },
+    {
+      "id": "4.4.1149",
+      "label": "Section 4.4.1149",
+      "chapter": null,
+      "original": "Facile istuc quidemst , si et illa volt et ille autem cupit .",
+      "translation": "Really , it ’ s easily done , if both she wishes it , and he desires it as well ."
+    },
+    {
+      "id": "4.4.1150",
+      "label": "Section 4.4.1150",
+      "chapter": null,
+      "original": "Non tu scis , quom ex alto puteo sursum ad summum escenderis ,",
+      "translation": "Don ’ t you know that when , from a deep well , you have ascended up to the top , there is the greatest danger lest you should thence fall back again from the top . This affair is now being carried on at the top of the well . If the Captain should have a suspicion of it , nothing whatever of his will be able to be carried off . Now , most especially , we have need of clever contrivances ."
+    },
+    {
+      "id": "4.4.1154",
+      "label": "Section 4.4.1154",
+      "chapter": null,
+      "original": "opust dolis : domi esse ad eam rem video silvai satis ,",
+      "translation": "I see that there is material enough at home for that purpose —"
+    },
+    {
+      "id": "4.4.1155",
+      "label": "Section 4.4.1155",
+      "chapter": null,
+      "original": "mulieres tres , quartus tute es , quintus ego , sextus senex ;",
+      "translation": "three women , yourself the fourth , I am the fifth , the old gentleman the sixth ."
+    },
+    {
+      "id": "4.4.1156",
+      "label": "Section 4.4.1156",
+      "chapter": null,
+      "original": "quod apud nos fallaciarum sex situmst , certo scio",
+      "translation": "What an edifice of stratagems has been erected by us ! I know for certain . that any town seems as though it could be taken by these plans : only do you lend your assistance ."
+    },
+    {
+      "id": "4.4.1158b",
+      "label": "Section 4.4.1158b",
+      "chapter": null,
+      "original": "Id nos ad te , si quid velles , venimus .",
+      "translation": "For that purpose are we come to you , to see if you wish for anything ."
+    },
+    {
+      "id": "4.4.1159",
+      "label": "Section 4.4.1159",
+      "chapter": null,
+      "original": "Lepide facitis . nunc hanc tibi ego ímpero provinciam .",
+      "translation": "You do what ’ s à propos . Now to you do I assign this department [*] ."
+    },
+    {
+      "id": "4.4.1160",
+      "label": "Section 4.4.1160",
+      "chapter": null,
+      "original": "Impetrabis , imperator , quod ego potero , quod voles .",
+      "translation": "General , you shall assign me whatever you please , so far as I am capable ."
+    },
+    {
+      "id": "4.4.1161",
+      "label": "Section 4.4.1161",
+      "chapter": null,
+      "original": "Militem lepide , et facete et laute ludificarier",
+      "translation": "I wish this Captain to be played off cleverly and adroitly ."
+    },
+    {
+      "id": "4.4.1162b",
+      "label": "Section 4.4.1162b",
+      "chapter": null,
+      "original": "Voluptatem mecastor mi imperas .",
+      "translation": "I ’ faith , you ’ re assigning me what ’ s a pleasure to me ."
+    },
+    {
+      "id": "4.4.1162c",
+      "label": "Section 4.4.1162c",
+      "chapter": null,
+      "original": "Scin quem ad modum ?",
+      "translation": "But do you understand how ?"
+    },
+    {
+      "id": "4.4.1163",
+      "label": "Section 4.4.1163",
+      "chapter": null,
+      "original": "Nempe ut adsimulem me amore istius differri .",
+      "translation": "You mean that I must pretend that I am distracted with love for him ."
+    },
+    {
+      "id": "4.4.1163b",
+      "label": "Section 4.4.1163b",
+      "chapter": null,
+      "original": "Tenes .",
+      "translation": "Right — you have it ."
+    },
+    {
+      "id": "4.4.1164",
+      "label": "Section 4.4.1164",
+      "chapter": null,
+      "original": "Quasique istius causa amoris ex hoc matrimonio",
+      "translation": "And as though by reason of that love I had foregone [*] my present marriage , longing for a match with him ."
+    },
+    {
+      "id": "4.4.1165b",
+      "label": "Section 4.4.1165b",
+      "chapter": null,
+      "original": "Omne ordine .",
+      "translation": "Everything exactly in its due order ; except only this one point ; you must say that this house ( pointing to the house of PERIPLECOMENUS ) was your marriage-portion ; that the old man had departed hence from you after you had carried out the divorce , lest he should be afraid just now to come here into the house of another man ."
+    },
+    {
+      "id": "4.4.1169",
+      "label": "Section 4.4.1169",
+      "chapter": null,
+      "original": "Bene mones .",
+      "translation": "You advise me well ."
+    },
+    {
+      "id": "4.4.1169b",
+      "label": "Section 4.4.1169b",
+      "chapter": null,
+      "original": "Sed ubi ille exierit intus , istinc te procul",
+      "translation": "But when he comes out from in-doors , I wish you — standing at a distance there —"
+    },
+    {
+      "id": "4.4.1170",
+      "label": "Section 4.4.1170",
+      "chapter": null,
+      "original": "ita volo adsimulare , prae illius forma quasi spernas tuam",
+      "translation": "so to make pretence , as though in comparison with his beauty you despised your own , and as though you were struck with awe at his opulent circumstances ; at the same time , too , praise the comeliness of his person , the beauty of his face . Are you tutored enough ?"
+    },
+    {
+      "id": "4.4.1173b",
+      "label": "Section 4.4.1173b",
+      "chapter": null,
+      "original": "Teneo . satinest , si tibi",
+      "translation": "I understand it all . Is it enough that I give you my work so nicely finished off that you cannot find a fault with it ."
+    },
+    {
+      "id": "4.4.1175",
+      "label": "Section 4.4.1175",
+      "chapter": null,
+      "original": "Sat habeo . nunc tibi vicissim quae imperabo ea discito .",
+      "translation": "I ’ m content . Now ( addressing PLEUSICLES ) , in your turn , learn what charge I shall give to you . So soon as this shall be done , when she shall have gone in , then do you immediately take care to come here dressed in the garb of a master of a ship . Have on a broad-brimmed hat [*] of iron-grey , a woollen shade [*] before your eyes ; have on an iron-grey cloak [*] ( for that is the seaman ’ s colour );"
+    },
+    {
+      "id": "4.4.1180",
+      "label": "Section 4.4.1180",
+      "chapter": null,
+      "original": "id conexum in umero laevo , exfafillato bracchio ,",
+      "translation": "have it fastened over the left shoulder , your right arm projecting out [*] , ⋯ your clothes some way well girded up , pretend as though you are some master of a ship . And all these requisites are at the house of this old gentleman , for he keeps fishermen ."
+    },
+    {
+      "id": "4.4.1183",
+      "label": "Section 4.4.1183",
+      "chapter": null,
+      "original": "Quid ? ubi ero exornatus quin tu dicis quid facturus sim ?",
+      "translation": "Well , when I ’ m dressed out , why don ’ t you tell me what I ’ m to do then ?"
+    },
+    {
+      "id": "4.4.1184_1185",
+      "label": "Section 4.4.1184_1185",
+      "chapter": null,
+      "original": "Huc venito et matris verbis Philocomasium arcessito ,",
+      "translation": "Come here , and , in the name of her mother , bring word to Philocomasium , that , if she would return to Athens , she must go with you to the harbour directly , and that she must order it to be carried down to the ship if she wishes anything to be put on board ; that if she doesn ’ t go , you must weigh anchor , for the wind is favourable ."
+    },
+    {
+      "id": "4.4.1189",
+      "label": "Section 4.4.1189",
+      "chapter": null,
+      "original": "Satis placet pictura . perge .",
+      "translation": "I like your plan much : do proceed ."
+    },
+    {
+      "id": "4.4.1189b",
+      "label": "Section 4.4.1189b",
+      "chapter": null,
+      "original": "Ille extemplo illam hortabitur",
+      "translation": "The Captain will at once advise her to go speedily that she may not delay her mother ."
+    },
+    {
+      "id": "4.4.1190b",
+      "label": "Section 4.4.1190b",
+      "chapter": null,
+      "original": "Multimodis sapis .",
+      "translation": "Every way you are clever ."
+    },
+    {
+      "id": "4.4.1191",
+      "label": "Section 4.4.1191",
+      "chapter": null,
+      "original": "Ego illi dicam , ut me adiutorem , qui onus feram ad portum , roget .",
+      "translation": "I shall tell him that she asks for me as a helper to carry her baggage down to the harbour . I shall go , and , understand you , I shall immediately be off with you straight to Athens ."
+    },
+    {
+      "id": "4.4.1193b",
+      "label": "Section 4.4.1193b",
+      "chapter": null,
+      "original": "Atque ubi illo veneris ,",
+      "translation": "And when you have reached there , I ’ ll never let you be ashore three days before you ’ re free ."
+    },
+    {
+      "id": "4.4.1195",
+      "label": "Section 4.4.1195",
+      "chapter": null,
+      "original": "Abi cito atque orna te .",
+      "translation": "Be off speedily and equip yourself ."
+    },
+    {
+      "id": "4.4.1195b",
+      "label": "Section 4.4.1195b",
+      "chapter": null,
+      "original": "Numquid aliud ?",
+      "translation": "Is there anything besides ?"
+    },
+    {
+      "id": "4.4.1195c",
+      "label": "Section 4.4.1195c",
+      "chapter": null,
+      "original": "Haec ut memineris .",
+      "translation": "Only to remember all this ."
+    },
+    {
+      "id": "4.4.1196",
+      "label": "Section 4.4.1196",
+      "chapter": null,
+      "original": "Abeo . —",
+      "translation": "I ’ m off ."
+    },
+    {
+      "id": "4.4.1196b",
+      "label": "Section 4.4.1196b",
+      "chapter": null,
+      "original": "Et vos abite hinc intro actutum ; nam illum huc sat scio",
+      "translation": "And do you ( to ACROTELEUTIUM and MILPHIDIPPA ) be off hence in-doors this instant , for I ’ m quite sure that he ’ ll just now be coming out hence from in-doors ."
+    },
+    {
+      "id": "4.4.1197b",
+      "label": "Section 4.4.1197b",
+      "chapter": null,
+      "original": "Celebre apud nos imperium tuomst . —",
+      "translation": "With us your command is as good as law ."
+    },
+    {
+      "id": "4.4.1198",
+      "label": "Section 4.4.1198",
+      "chapter": null,
+      "original": "Agite abscedite ergo . ecce autem commodum aperitur foris .",
+      "translation": "Come , then , begone . But see , the door opens opportunely ."
+    },
+    {
+      "id": "4.5.1200",
+      "label": "Section 4.5.1200",
+      "chapter": null,
+      "original": "Quod volui ut volui impetravi , per amicitiam et gratiam ,",
+      "translation": "What I wished I have obtained just as I wished , on kind and friendly terms , that she would leave me ."
+    },
+    {
+      "id": "4.5.1201b",
+      "label": "Section 4.5.1201b",
+      "chapter": null,
+      "original": "Quid tam intus fuisse te dicam diu ?",
+      "translation": "For what reason am I to say that you have been so long in-doors ?"
+    },
+    {
+      "id": "4.5.1202",
+      "label": "Section 4.5.1202",
+      "chapter": null,
+      "original": "Numquam ego me tam sensi amari quam nunc ab illa muliere .",
+      "translation": "I never was so sensible that I was beloved by that woman as now ."
+    },
+    {
+      "id": "4.5.1203",
+      "label": "Section 4.5.1203",
+      "chapter": null,
+      "original": "Quid iam ?",
+      "translation": "Why so ?"
+    }
+  ],
+  "prevChunkSlug": "the-braggart-soldier-kcqgdf-14",
+  "nextChunkSlug": "the-braggart-soldier-kcqgdf-16"
+}

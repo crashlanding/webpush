@@ -1,0 +1,61 @@
+{
+  "loebNumber": 292,
+  "sortOrder": 292,
+  "slug": "celsus-on-medicine-volume-i-repyk7",
+  "title": "On Medicine, Volume I",
+  "volumeLabel": "On Medicine, Volume I",
+  "authorDisplay": "Celsus",
+  "authors": [
+    "Celsus"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for On Medicine, Volume I. On Medicine, Volume I is partitioned from De Medicina to approximate the Loeb volume boundaries with local Scaife assets.",
+  "status": "ready",
+  "defaultChunkSlug": "on-medicine-volume-i-pyl3oy",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "on-medicine-volume-i-pyl3oy",
+      "title": "On Medicine, Volume I",
+      "status": "ready",
+      "sectionCount": 3,
+      "chunkSlug": "on-medicine-volume-i-pyl3oy",
+      "chunks": [
+        {
+          "slug": "on-medicine-volume-i-pyl3oy",
+          "label": "On Medicine, Volume I",
+          "partId": "on-medicine-volume-i-pyl3oy",
+          "partTitle": "On Medicine, Volume I",
+          "sectionCount": 3,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "on-medicine-volume-i-pyl3oy",
+      "label": "On Medicine, Volume I",
+      "partId": "on-medicine-volume-i-pyl3oy",
+      "partTitle": "On Medicine, Volume I",
+      "sectionCount": 3,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "on-medicine-volume-i-pyl3oy",
+      "partTitle": "On Medicine, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Medicina",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0836.phi002.perseus-lat4/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "De Medicina",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0836.phi002.perseus-eng2/"
+      }
+    }
+  ]
+}

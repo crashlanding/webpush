@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "aristophanes-clouds-wasps-peace-1iac3h",
+  "volumeTitle": "Clouds. Wasps. Peace",
+  "authorDisplay": "Aristophanes",
+  "authors": [
+    "Aristophanes"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "clouds-xffta6-5",
+  "label": "Clouds (Section 488 - Section 652)",
+  "partId": "clouds-xffta6",
+  "partTitle": "Clouds",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Νεφέλαι",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Clouds",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "488",
+      "label": "Section 488",
+      "chapter": null,
+      "original": "πῶς οὖν δυνήσει μανθάνειν ;",
+      "translation": "How , then , will you be able to learn ?"
+    },
+    {
+      "id": "488b",
+      "label": "Section 488b",
+      "chapter": null,
+      "original": "ἀμέλει καλῶς .",
+      "translation": "Excellently , of course ."
+    },
+    {
+      "id": "489",
+      "label": "Section 489",
+      "chapter": null,
+      "original": "ἄγε νυν ὅπως , ὅταν τι προβάλλω σοι σοφὸν",
+      "translation": "Come , then , take care that , whenever I propound any clever dogma about abstruse matters , you catch it up immediately ."
+    },
+    {
+      "id": "491",
+      "label": "Section 491",
+      "chapter": null,
+      "original": "τί δαί ; κυνηδὸν τὴν σοφίαν σιτήσομαι ;",
+      "translation": "What then ? Am I to feed upon wisdom like a dog ?"
+    },
+    {
+      "id": "492",
+      "label": "Section 492",
+      "chapter": null,
+      "original": "ἄνθρωπος ἀμαθὴς οὑτοσὶ καὶ βάρβαρος .",
+      "translation": "This man is ignorant and brutish--I fear , old man , lest you will need blows . Come , let me see ; what do you do if any one beat you ?"
+    },
+    {
+      "id": "494b",
+      "label": "Section 494b",
+      "chapter": null,
+      "original": "τύπτομαι ,",
+      "translation": "I take the beating ; and then , when I have waited a little while , I call witnesses to prove it ; then again , after a short interval , I go to law ."
+    },
+    {
+      "id": "497",
+      "label": "Section 497",
+      "chapter": null,
+      "original": "ἴθι νυν κατάθου θοἰμάτιον .",
+      "translation": "Come , then , lay down your cloak ."
+    },
+    {
+      "id": "497b",
+      "label": "Section 497b",
+      "chapter": null,
+      "original": "ἠδίκηκά τι ;",
+      "translation": "Have I done any wrong ?"
+    },
+    {
+      "id": "498",
+      "label": "Section 498",
+      "chapter": null,
+      "original": "οὔκ , ἀλλὰ γυμνοὺς εἰσιέναι νομίζεται .",
+      "translation": "No ; but it is the rule to enter naked ."
+    },
+    {
+      "id": "499",
+      "label": "Section 499",
+      "chapter": null,
+      "original": "ἀλλʼ οὐχὶ φωράσων ἔγωγʼ εἰσέρχομαι .",
+      "translation": "But I do not enter to search for stolen goods ."
+    },
+    {
+      "id": "500",
+      "label": "Section 500",
+      "chapter": null,
+      "original": "κατάθου . τί ληρεῖς ;",
+      "translation": "Lay it down . Why do you talk nonsense ?"
+    },
+    {
+      "id": "500b",
+      "label": "Section 500b",
+      "chapter": null,
+      "original": "εἰπὲ δή νύν μοι ·",
+      "translation": "[*] Now tell me this , pray ."
+    },
+    {
+      "id": "501",
+      "label": "Section 501",
+      "chapter": null,
+      "original": "ἢν ἐπιμελὴς ὦ καὶ προθύμως μανθάνω ,",
+      "translation": "If I be diligent and learn zealously , to which of your disciples shall I become like ?"
+    },
+    {
+      "id": "503",
+      "label": "Section 503",
+      "chapter": null,
+      "original": "οὐδὲν διοίσεις Χαιρεφῶντος τὴν φύσιν .",
+      "translation": "You will no way differ from Chaerephon in intellect ."
+    },
+    {
+      "id": "504",
+      "label": "Section 504",
+      "chapter": null,
+      "original": "οἴμοι κακοδαίμων ἡμιθνὴς γενήσομαι .",
+      "translation": "Ah me , unhappy ! I shall become half-dead ."
+    },
+    {
+      "id": "505",
+      "label": "Section 505",
+      "chapter": null,
+      "original": "οὐ μὴ λαλήσεις , ἀλλʼ ἀκολουθήσεις ἐμοὶ",
+      "translation": "Don ’ t chatter ; but quickly follow me hither with smartness ."
+    },
+    {
+      "id": "506b",
+      "label": "Section 506b",
+      "chapter": null,
+      "original": "ἐς τὼ χεῖρέ νυν",
+      "translation": "Then give me first into my hands a honeyed cake ; for I am afraid of descending within , as if into the cave of Trophonius ."
+    },
+    {
+      "id": "509",
+      "label": "Section 509",
+      "chapter": null,
+      "original": "χώρει · τί κυπτάζεις ἔχων περὶ τὴν θύραν ;",
+      "translation": "Proceed ; why do you keep poking about the door ?"
+    },
+    {
+      "id": "510",
+      "label": "Section 510",
+      "chapter": null,
+      "original": "ἀλλʼ ἴθι χαίρων τῆς ἀνδρείας",
+      "translation": "Well , go in peace , for the sake of this your valour . May prosperity attend the man , because , being advanced into the vale of years ,"
+    },
+    {
+      "id": "515",
+      "label": "Section 515",
+      "chapter": null,
+      "original": "νεωτέροις τὴν φύσιν αὑτοῦ",
+      "translation": "he imbues his intellect with modern subjects , and cultivates wisdom !"
+    },
+    {
+      "id": "518",
+      "label": "Section 518",
+      "chapter": null,
+      "original": "ὦ θεώμενοι κατερῶ πρὸς ὑμᾶς ἐλευθέρως",
+      "translation": "Spectators , I will freely declare to you the truth , by Bacchus , who nurtured me !"
+    },
+    {
+      "id": "520",
+      "label": "Section 520",
+      "chapter": null,
+      "original": "οὕτω νικήσαιμί τʼ ἐγὼ καὶ νομιζοίμην σοφός ,",
+      "translation": "So may I conquer , and be accounted skillful , as that , deeming you to be clever spectators , and this to be the cleverest of my comedies , I thought proper to let you first taste that comedy , which gave me the greatest labour . And then I retired from the contest defeated by vulgar fellows ,"
+    },
+    {
+      "id": "525",
+      "label": "Section 525",
+      "chapter": null,
+      "original": "ἡττηθεὶς οὐκ ἄξιος ὤν · ταῦτʼ οὖν ὑμῖν μέμφομαι",
+      "translation": "though I did not deserve it . These things , therefore , I object to you , a learned audience , for whose sake I was expending this labour . But not even thus will I ever willingly desert the discerning portion of you . For since what time my Modest Man and my Rake were very highly praised here by an audience , with whom it is a pleasure even to hold converse , and I ( for I was still a virgin , and it was not lawful for me as yet to have children )"
+    },
+    {
+      "id": "530",
+      "label": "Section 530",
+      "chapter": null,
+      "original": "κἀγώ , παρθένος γὰρ ἔτʼ ἦν , κοὐκ ἐξῆν πώ μοι τεκεῖν ,",
+      "translation": "exposed my offspring , and another girl took it up , and owned it , and you generously reared and educated it , from this time I have had sure pledges of your good will toward me . Now , therefore , like that well-known Electra , has this comedy come seeking ,"
+    },
+    {
+      "id": "535",
+      "label": "Section 535",
+      "chapter": null,
+      "original": "ζητοῦσʼ ἦλθʼ , ἤν που ʼπιτύχῃ θεαταῖς οὕτω σοφοῖς ·",
+      "translation": "if haply it meet with an audience so clever , for it will recognize , if it should see , the lock of its brother . But see how modest she is by nature , who , in the first place , has come , having stitched to her no leathern phallus hanging down , red at the top , and thick , to set the boys a laughing ;"
+    },
+    {
+      "id": "540",
+      "label": "Section 540",
+      "chapter": null,
+      "original": "οὐδʼ ἔσκωψε τοὺς φαλακρούς , οὐδὲ κόρδαχʼ εἵλκυσεν ,",
+      "translation": "nor yet jeered the bald-headed , nor danced the cordax ; nor does the old man who speaks the verses beat the person near him with his staff , keeping out of sight wretched ribaldry ; nor has she rushed in with torches , nor does she shout iou , iou ; but has come relying on herself and her verses ."
+    },
+    {
+      "id": "545",
+      "label": "Section 545",
+      "chapter": null,
+      "original": "κἀγὼ μὲν τοιοῦτος ἀνὴρ ὢν ποιητὴς οὐ κομῶ ,",
+      "translation": "And I , although so excellent a poet , do not give myself airs , nor do I seek to deceive you by twice and thrice bringing forward the same pieces ; but I am always clever at introducing new fashions , not at all resembling each other , and all of them clever ; who struck Cleon in the belly when at the height of his power ,"
+    },
+    {
+      "id": "550",
+      "label": "Section 550",
+      "chapter": null,
+      "original": "κοὐκ ἐτόλμησʼ αὖθις ἐπεμπηδῆσʼ αὐτῷ κειμένῳ .",
+      "translation": "and could not bear to attack him afterward when he was down . But these scribblers , when once Hyperbolus has given them a handle , keep ever trampling on this wretched man and his mother . Eupolis , indeed , first of all craftily introduced his Maricas , having basely , base fellow , spoiled by altering my play of the Knights ,"
+    },
+    {
+      "id": "555",
+      "label": "Section 555",
+      "chapter": null,
+      "original": "προσθεὶς αὐτῷ γραῦν μεθύσην τοῦ κόρδακος οὕνεχʼ , ἣν",
+      "translation": "having added to it , for the sake of the cordax , a drunken old woman , whom Phrynichus long ago poetized , whom the whale was for devouring . Then again Hermippus made verses on Hyperbolus ; and now all others press hard upon Hyperbolus , imitating my simile of the eels ."
+    },
+    {
+      "id": "560",
+      "label": "Section 560",
+      "chapter": null,
+      "original": "ὅστις οὖν τούτοισι γελᾷ , τοῖς ἐμοῖς μὴ χαιρέτω ·",
+      "translation": "Whoever , therefore , laughs at these , let him not take pleasure in my attempts ; but if you are delighted with me and my inventions , in times to come you will seem to be wise ."
+    },
+    {
+      "id": "563",
+      "label": "Section 563",
+      "chapter": null,
+      "original": "ὑψιμέδοντα μὲν θεῶν",
+      "translation": "I first invoke , to join our choral band , the mighty Jupiter , ruling on high ,"
+    },
+    {
+      "id": "565",
+      "label": "Section 565",
+      "chapter": null,
+      "original": "πρῶτα μέγαν κικλήσκω ·",
+      "translation": "the monarch of gods ; and the potent master of the trident , the fierce upheaver of earth and briny sea ; and our father of great renown ,"
+    },
+    {
+      "id": "570",
+      "label": "Section 570",
+      "chapter": null,
+      "original": "Αἰθέρα σεμνότατον βιοθρέμμονα πάντων ·",
+      "translation": "most august Aether , life-supporter of all ; and the horse-guider , who fills the plain of the earth with exceeding bright beams , a mighty deity among gods and mortals ."
+    },
+    {
+      "id": "575",
+      "label": "Section 575",
+      "chapter": null,
+      "original": "ὦ σοφώτατοι θεαταὶ δεῦρο τὸν νοῦν προσέχετε .",
+      "translation": "Most clever spectators , come , give us your attention ; for having been injured , we blame you to your faces . For though we benefit the state most of all the gods , to us alone of the deities you do not offer sacrifice nor yet pour libations , who watch over you . For if there should be any expedition"
+    },
+    {
+      "id": "580",
+      "label": "Section 580",
+      "chapter": null,
+      "original": "μηδενὶ ξὺν νῷ , τότʼ ἢ βροντῶμεν ἢ ψακάζομεν .",
+      "translation": "without prudence , then we either thunder or drizzle small rain . And then , when you were for choosing as your general the Paphlagonian tanner , hateful to the gods , we contracted our brows and were enraged ; and thunder burst through the lightning ; and the Moon forsook her usual paths ; and the Sun"
+    },
+    {
+      "id": "585",
+      "label": "Section 585",
+      "chapter": null,
+      "original": "τὴν θρυαλλίδʼ εἰς ἑαυτὸν εὐθέως ξυνελκύσας",
+      "translation": "immediately drew in his wick to himself , and declared he would not give you light , if Cleon should be your general . Nevertheless you chose him . For they say that ill counsel is in this city ; that the gods , however , turn all these your mismanagements to a prosperous issue ."
+    },
+    {
+      "id": "590",
+      "label": "Section 590",
+      "chapter": null,
+      "original": "ὡς δὲ καὶ τοῦτο ξυνοίσει ῥᾳδίως διδάξομεν ·",
+      "translation": "And how this also shall be advantageous , we will easily teach you . If you should convict the cormorant Cleon of bribery and embezzlement , and then make fast his neck in the stocks , the affair will turn out for the state to the ancient form again , if you have mismanaged in any way , and to a prosperous issue ."
+    },
+    {
+      "id": "595",
+      "label": "Section 595",
+      "chapter": null,
+      "original": "ἀμφί μοι αὖτε Φοῖβʼ ἄναξ",
+      "translation": "Hear me again , King Phoebus , Delian Apollo , who inhabitest the high-peaked Cynthian rock ! And thou , blessed goddess , who inhabitest the all-golden house of Ephesus ,"
+    },
+    {
+      "id": "600",
+      "label": "Section 600",
+      "chapter": null,
+      "original": "οἶκον ἐν ᾧ κόραι σε Λυδῶν μεγάλως σέβουσιν ,",
+      "translation": "in which Lydian damsels greatly reverence thee ; and thou , our national goddess , swayer of the aegis , Minerva , guardian of the city ! And thou , reveler Bacchus , who , inhabiting the Parnassian rock , sparklest with torches ,"
+    },
+    {
+      "id": "605",
+      "label": "Section 605",
+      "chapter": null,
+      "original": "Βάκχαις Δελφίσιν ἐμπρέπων ,",
+      "translation": "conspicuous among the Delphic Bacchanals !"
+    },
+    {
+      "id": "607",
+      "label": "Section 607",
+      "chapter": null,
+      "original": "ἡνίχʼ ἡμεῖς δεῦρʼ ἀφορμᾶσθαι παρεσκευάσμεθα ,",
+      "translation": "When we had got ready to set out hither , the Moon met us , and commanded us first to greet the Athenians and their allies ;"
+    },
+    {
+      "id": "610",
+      "label": "Section 610",
+      "chapter": null,
+      "original": "εἶτα θυμαίνειν ἔφασκε · δεινὰ γὰρ πεπονθέναι",
+      "translation": "and then declared that she was angry , for that she had suffered dreadful things , though she benefits you all , not in words , but openly . In the first place , not less than a drachma every month for torches ; so that also all , when they went out of an evening , were wont to say , Boy , don ’ t buy a torch , for the moonlight is beautiful ."
+    },
+    {
+      "id": "615",
+      "label": "Section 615",
+      "chapter": null,
+      "original": "ἄλλα τʼ εὖ δρᾶν φησιν , ὑμᾶς δʼ οὐκ ἄγειν τὰς ἡμέρας",
+      "translation": "And she says she confers other benefits on you , but that you do not observe the days at all correctly , but confuse them up and down ; so that she says the gods are constantly threatening her , when they are defrauded of their dinner , and depart home , not having met with the regular feast according to the number of the days ."
+    },
+    {
+      "id": "620",
+      "label": "Section 620",
+      "chapter": null,
+      "original": "κᾆθʼ ὅταν θύειν δέῃ , στρεβλοῦτε καὶ δικάζετε ·",
+      "translation": "And then , when you ought to be sacrificing , you are inflicting tortures and litigating . And often , while we gods are observing a fast , when we mourn for Memnon or Sarpedon , you are pouring libations and laughing . For which reason Hyperbolus , having obtained the lot this year to be Hieromnemon , was afterward deprived by us gods"
+    },
+    {
+      "id": "625",
+      "label": "Section 625",
+      "chapter": null,
+      "original": "τὸν στέφανον ἀφῃρέθη · μᾶλλον γὰρ οὕτως εἴσεται",
+      "translation": "of his crown ; for thus he will know better that he ought to spend the days of his life according to the Moon ."
+    },
+    {
+      "id": "627",
+      "label": "Section 627",
+      "chapter": null,
+      "original": "μὰ τὴν Ἀναπνοὴν μὰ τὸ Χάος μὰ τὸν Ἀέρα",
+      "translation": "By Respiration , and Chaos , and Air , I have not seen any man so boorish , nor so impracticable , nor so stupid , nor so forgetful ;"
+    },
+    {
+      "id": "630",
+      "label": "Section 630",
+      "chapter": null,
+      "original": "ὅστις σκαλαθυρμάτιʼ ἄττα μικρὰ μανθάνων",
+      "translation": "who , while learning some little petty quibbles , forgets them before he has learned them . Nevertheless I will certainly call him out here to the light . Where is Strepsiades ? Come forth with your couch ."
+    },
+    {
+      "id": "634",
+      "label": "Section 634",
+      "chapter": null,
+      "original": "ἀλλʼ οὐκ ἐῶσί μʼ ἐξενεγκεῖν οἱ κόρεις .",
+      "translation": "( from within ). The bugs do not permit me to bring it forth ."
+    },
+    {
+      "id": "635",
+      "label": "Section 635",
+      "chapter": null,
+      "original": "ἀνύσας τι κατάθου καὶ πρόσεχε τὸν νοῦν .",
+      "translation": "Make haste and lay it down ; and give me your attention ."
+    },
+    {
+      "id": "635b",
+      "label": "Section 635b",
+      "chapter": null,
+      "original": "ἰδού .",
+      "translation": "Very well ."
+    },
+    {
+      "id": "636",
+      "label": "Section 636",
+      "chapter": null,
+      "original": "ἄγε δὴ τί βούλει πρῶτα νυνὶ μανθάνειν",
+      "translation": "Come now ; what do you now wish to learn first of those things in none of which you have ever been instructed ? Tell me . About measures , or rhythms , or verses ?"
+    },
+    {
+      "id": "639",
+      "label": "Section 639",
+      "chapter": null,
+      "original": "περὶ τῶν μέτρων ἔγωγʼ · ἔναγχος γάρ ποτε",
+      "translation": "I should prefer to learn about measures ; for it is but lately I was cheated out of two choenices by a meal-huckster ."
+    },
+    {
+      "id": "641",
+      "label": "Section 641",
+      "chapter": null,
+      "original": "οὐ τοῦτʼ ἐρωτῶ σʼ , ἀλλʼ ὅ τι κάλλιστον μέτρον",
+      "translation": "I do not ask you this , but which you account the most beautiful measure ; the trimetre or the tetrameter ?"
+    },
+    {
+      "id": "643",
+      "label": "Section 643",
+      "chapter": null,
+      "original": "ἐγὼ μὲν οὐδὲν πρότερον ἡμιεκτέου .",
+      "translation": "I think nothing superior to the semisextarius ."
+    },
+    {
+      "id": "644",
+      "label": "Section 644",
+      "chapter": null,
+      "original": "οὐδὲν λέγεις ὦνθρωπε .",
+      "translation": "You talk nonsense , man ."
+    },
+    {
+      "id": "644b",
+      "label": "Section 644b",
+      "chapter": null,
+      "original": "περίδου νυν ἐμοί ,",
+      "translation": "Make a wager then with me , if the semisextarius be not a tetrameter ."
+    },
+    {
+      "id": "646",
+      "label": "Section 646",
+      "chapter": null,
+      "original": "ἐς κόρακας , ὡς ἄγροικος εἶ καὶ δυσμαθής .",
+      "translation": "Go to the devil ! How boorish you are and dull of learning . Perhaps you may be able to learn about rhythms ."
+    },
+    {
+      "id": "648",
+      "label": "Section 648",
+      "chapter": null,
+      "original": "τί δέ μʼ ὠφελήσουσʼ οἱ ῥυθμοὶ πρὸς τἄλφιτα ;",
+      "translation": "But what good will rhythms do me for a living ?"
+    },
+    {
+      "id": "649",
+      "label": "Section 649",
+      "chapter": null,
+      "original": "πρῶτον μὲν εἶναι κομψὸν ἐν συνουσίᾳ ,",
+      "translation": "In the first place , to be clever at an entertainment , understanding what rhythm is for the war-dance , and what , again , according to the dactyle ."
+    },
+    {
+      "id": "652",
+      "label": "Section 652",
+      "chapter": null,
+      "original": "κατὰ δάκτυλον ; νὴ τὸν Δίʼ , ἀλλʼ οἶδʼ .",
+      "translation": "According to the dactyle ? By Jove , but I know it !"
+    }
+  ],
+  "prevChunkSlug": "clouds-xffta6-4",
+  "nextChunkSlug": "clouds-xffta6-6"
+}

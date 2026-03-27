@@ -1,0 +1,151 @@
+{
+  "loebNumber": 427,
+  "sortOrder": 427,
+  "slug": "plutarch-moralia-volume-xiii-part-1-ybxdq7",
+  "title": "Moralia, Volume XIII: Part 1",
+  "volumeLabel": "Moralia, Volume XIII: Part 1",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Moralia, Volume XIII: Part 1. Moralia: Part 1 opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "de-vitando-aere-alieno-sv39pn",
+  "readyChunkCount": 4,
+  "contents": [
+    {
+      "id": "moralia-part-1-1xpanw",
+      "title": "Moralia: Part 1",
+      "status": "ready",
+      "sectionCount": 68,
+      "chunkSlug": "de-vitando-aere-alieno-sv39pn",
+      "chunks": [
+        {
+          "slug": "de-vitando-aere-alieno-sv39pn",
+          "label": "De vitando aere alieno",
+          "partId": "moralia-part-1-1xpanw",
+          "partTitle": "Moralia: Part 1",
+          "sectionCount": 8,
+          "status": "ready"
+        },
+        {
+          "slug": "vitae-decem-oratorum-1rjw0r",
+          "label": "Vitae decem oratorum",
+          "partId": "moralia-part-1-1xpanw",
+          "partTitle": "Moralia: Part 1",
+          "sectionCount": 13,
+          "status": "ready"
+        },
+        {
+          "slug": "comparationis-aristophanis-et-menandri-compendium-1gpvtq",
+          "label": "Comparationis Aristophanis et Menandri compendium",
+          "partId": "moralia-part-1-1xpanw",
+          "partTitle": "Moralia: Part 1",
+          "sectionCount": 4,
+          "status": "ready"
+        },
+        {
+          "slug": "de-heroditi-malignate-19c7sz",
+          "label": "De Heroditi malignate",
+          "partId": "moralia-part-1-1xpanw",
+          "partTitle": "Moralia: Part 1",
+          "sectionCount": 43,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "de-vitando-aere-alieno-sv39pn",
+      "label": "De vitando aere alieno",
+      "partId": "moralia-part-1-1xpanw",
+      "partTitle": "Moralia: Part 1",
+      "sectionCount": 8,
+      "status": "ready"
+    },
+    {
+      "slug": "vitae-decem-oratorum-1rjw0r",
+      "label": "Vitae decem oratorum",
+      "partId": "moralia-part-1-1xpanw",
+      "partTitle": "Moralia: Part 1",
+      "sectionCount": 13,
+      "status": "ready"
+    },
+    {
+      "slug": "comparationis-aristophanis-et-menandri-compendium-1gpvtq",
+      "label": "Comparationis Aristophanis et Menandri compendium",
+      "partId": "moralia-part-1-1xpanw",
+      "partTitle": "Moralia: Part 1",
+      "sectionCount": 4,
+      "status": "ready"
+    },
+    {
+      "slug": "de-heroditi-malignate-19c7sz",
+      "label": "De Heroditi malignate",
+      "partId": "moralia-part-1-1xpanw",
+      "partTitle": "Moralia: Part 1",
+      "sectionCount": 43,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "de-vitando-aere-alieno-sv39pn",
+      "partTitle": "Moralia: Part 1",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τοῦ μὴ δεῖν δανείζεσθαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg120.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "That we Ought not to Borrow",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg120.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "vitae-decem-oratorum-1rjw0r",
+      "partTitle": "Moralia: Part 1",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τῶν δέκα ἡτόρων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg121.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Lives of the Ten Orators",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg121.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "comparationis-aristophanis-et-menandri-compendium-1gpvtq",
+      "partTitle": "Moralia: Part 1",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Συγκρίσεως Ἀριστοφάνους καὶ Μενάνδρου ἐπιτομή",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg122.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Summary of a Comparison Between Aristophanes and Menander",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg122.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "de-heroditi-malignate-19c7sz",
+      "partTitle": "Moralia: Part 1",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τῆς Ἡροδότου κακοηθείας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg123.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Of Herodotus's Malice.",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg123.perseus-eng2/"
+      }
+    }
+  ]
+}

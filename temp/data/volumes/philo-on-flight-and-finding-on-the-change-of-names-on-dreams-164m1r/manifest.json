@@ -1,0 +1,349 @@
+{
+  "loebNumber": 275,
+  "sortOrder": 275,
+  "slug": "philo-on-flight-and-finding-on-the-change-of-names-on-dreams-164m1r",
+  "title": "On Flight and Finding. On the Change of Names. On Dreams",
+  "volumeLabel": "On Flight and Finding. On the Change of Names. On Dreams",
+  "authorDisplay": "Philo",
+  "authors": [
+    "Philo"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for On Flight and Finding. On the Change of Names. On Dreams, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "on-flight-and-finding-1o5xet-1",
+  "readyChunkCount": 10,
+  "contents": [
+    {
+      "id": "on-flight-and-finding-1o5xet",
+      "title": "On Flight and Finding",
+      "status": "ready",
+      "sectionCount": 213,
+      "chunkSlug": "on-flight-and-finding-1o5xet-1",
+      "chunks": [
+        {
+          "slug": "on-flight-and-finding-1o5xet-1",
+          "label": "On Flight and Finding (Section 1 - Section 60)",
+          "partId": "on-flight-and-finding-1o5xet",
+          "partTitle": "On Flight and Finding",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-flight-and-finding-1o5xet-2",
+          "label": "On Flight and Finding (Section 61 - Section 120)",
+          "partId": "on-flight-and-finding-1o5xet",
+          "partTitle": "On Flight and Finding",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-flight-and-finding-1o5xet-3",
+          "label": "On Flight and Finding (Section 121 - Section 180)",
+          "partId": "on-flight-and-finding-1o5xet",
+          "partTitle": "On Flight and Finding",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-flight-and-finding-1o5xet-4",
+          "label": "On Flight and Finding (Section 181 - Section 213)",
+          "partId": "on-flight-and-finding-1o5xet",
+          "partTitle": "On Flight and Finding",
+          "sectionCount": 33,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "on-the-change-of-names-5463rz",
+      "title": "On the Change of Names",
+      "status": "ready",
+      "sectionCount": 270,
+      "chunkSlug": "on-the-change-of-names-5463rz-1",
+      "chunks": [
+        {
+          "slug": "on-the-change-of-names-5463rz-1",
+          "label": "On the Change of Names (Section 1 - Section 60)",
+          "partId": "on-the-change-of-names-5463rz",
+          "partTitle": "On the Change of Names",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-change-of-names-5463rz-2",
+          "label": "On the Change of Names (Section 61 - Section 120)",
+          "partId": "on-the-change-of-names-5463rz",
+          "partTitle": "On the Change of Names",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-change-of-names-5463rz-3",
+          "label": "On the Change of Names (Section 121 - Section 180)",
+          "partId": "on-the-change-of-names-5463rz",
+          "partTitle": "On the Change of Names",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-change-of-names-5463rz-4",
+          "label": "On the Change of Names (Section 181 - Section 240)",
+          "partId": "on-the-change-of-names-5463rz",
+          "partTitle": "On the Change of Names",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-change-of-names-5463rz-5",
+          "label": "On the Change of Names (Section 241 - Section 270)",
+          "partId": "on-the-change-of-names-5463rz",
+          "partTitle": "On the Change of Names",
+          "sectionCount": 30,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "on-dreams-y63woh",
+      "title": "On Dreams",
+      "status": "ready",
+      "sectionCount": 10,
+      "chunkSlug": "on-dreams-y63woh",
+      "chunks": [
+        {
+          "slug": "on-dreams-y63woh",
+          "label": "On Dreams",
+          "partId": "on-dreams-y63woh",
+          "partTitle": "On Dreams",
+          "sectionCount": 10,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "on-flight-and-finding-1o5xet-1",
+      "label": "On Flight and Finding (Section 1 - Section 60)",
+      "partId": "on-flight-and-finding-1o5xet",
+      "partTitle": "On Flight and Finding",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-flight-and-finding-1o5xet-2",
+      "label": "On Flight and Finding (Section 61 - Section 120)",
+      "partId": "on-flight-and-finding-1o5xet",
+      "partTitle": "On Flight and Finding",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-flight-and-finding-1o5xet-3",
+      "label": "On Flight and Finding (Section 121 - Section 180)",
+      "partId": "on-flight-and-finding-1o5xet",
+      "partTitle": "On Flight and Finding",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-flight-and-finding-1o5xet-4",
+      "label": "On Flight and Finding (Section 181 - Section 213)",
+      "partId": "on-flight-and-finding-1o5xet",
+      "partTitle": "On Flight and Finding",
+      "sectionCount": 33,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-change-of-names-5463rz-1",
+      "label": "On the Change of Names (Section 1 - Section 60)",
+      "partId": "on-the-change-of-names-5463rz",
+      "partTitle": "On the Change of Names",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-change-of-names-5463rz-2",
+      "label": "On the Change of Names (Section 61 - Section 120)",
+      "partId": "on-the-change-of-names-5463rz",
+      "partTitle": "On the Change of Names",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-change-of-names-5463rz-3",
+      "label": "On the Change of Names (Section 121 - Section 180)",
+      "partId": "on-the-change-of-names-5463rz",
+      "partTitle": "On the Change of Names",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-change-of-names-5463rz-4",
+      "label": "On the Change of Names (Section 181 - Section 240)",
+      "partId": "on-the-change-of-names-5463rz",
+      "partTitle": "On the Change of Names",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-change-of-names-5463rz-5",
+      "label": "On the Change of Names (Section 241 - Section 270)",
+      "partId": "on-the-change-of-names-5463rz",
+      "partTitle": "On the Change of Names",
+      "sectionCount": 30,
+      "status": "ready"
+    },
+    {
+      "slug": "on-dreams-y63woh",
+      "label": "On Dreams",
+      "partId": "on-dreams-y63woh",
+      "partTitle": "On Dreams",
+      "sectionCount": 10,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "on-flight-and-finding-1o5xet-1",
+      "partTitle": "On Flight and Finding",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Fuga Et Inventione",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg017.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Fugitives",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg017.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-flight-and-finding-1o5xet-2",
+      "partTitle": "On Flight and Finding",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Fuga Et Inventione",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg017.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Fugitives",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg017.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-flight-and-finding-1o5xet-3",
+      "partTitle": "On Flight and Finding",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Fuga Et Inventione",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg017.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Fugitives",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg017.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-flight-and-finding-1o5xet-4",
+      "partTitle": "On Flight and Finding",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Fuga Et Inventione",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg017.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Fugitives",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg017.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-change-of-names-5463rz-1",
+      "partTitle": "On the Change of Names",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Mutatione Nominum",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg018.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the question why certain Names in the Holy Scriptures are changed",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg018.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-change-of-names-5463rz-2",
+      "partTitle": "On the Change of Names",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Mutatione Nominum",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg018.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the question why certain Names in the Holy Scriptures are changed",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg018.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-change-of-names-5463rz-3",
+      "partTitle": "On the Change of Names",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Mutatione Nominum",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg018.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the question why certain Names in the Holy Scriptures are changed",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg018.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-change-of-names-5463rz-4",
+      "partTitle": "On the Change of Names",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Mutatione Nominum",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg018.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the question why certain Names in the Holy Scriptures are changed",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg018.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-change-of-names-5463rz-5",
+      "partTitle": "On the Change of Names",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Mutatione Nominum",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg018.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the question why certain Names in the Holy Scriptures are changed",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg018.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-dreams-y63woh",
+      "partTitle": "On Dreams",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Somniis (lib. i-ii)",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg019.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the doctrine that Dreams are sent from God, Books 1-2",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg019.1st1K-eng1/"
+      }
+    }
+  ]
+}

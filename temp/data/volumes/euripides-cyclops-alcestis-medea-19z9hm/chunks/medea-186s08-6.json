@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-cyclops-alcestis-medea-19z9hm",
+  "volumeTitle": "Cyclops. Alcestis. Medea",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "medea-186s08-6",
+  "label": "Medea (Section 2.860 - Section 1017)",
+  "partId": "medea-186s08",
+  "partTitle": "Medea",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Μήδεια",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg003.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Medea",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg003.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "2.860",
+      "label": "Section 2.860",
+      "chapter": null,
+      "original": "πῶς δ ’ ὄμματα προσβαλοῦσα",
+      "translation": "How wilt thou look upon thy babes , and still without a tear retain thy bloody purpose ? Thou canst not , when they fall at thy feet for mercy , steel thy heart and dip"
+    },
+    {
+      "id": "2.865",
+      "label": "Section 2.865",
+      "chapter": null,
+      "original": "τλάμονι θυμῷ .",
+      "translation": "in their blood thy hand ."
+    },
+    {
+      "id": "866",
+      "label": "Section 866",
+      "chapter": null,
+      "original": "ἥκω κελευσθείς · καὶ γὰρ οὖσα δυσμενὴς",
+      "translation": "I am come at thy bidding , for e ’ en though thy hate for me is bitter thou shalt not fail in this small boon , but I will hear what new request thou hast to make of me , lady ."
+    },
+    {
+      "id": "869",
+      "label": "Section 869",
+      "chapter": null,
+      "original": "Ἰᾶσον , αἰτοῦμαί σε τῶν εἰρημένων",
+      "translation": "Jason , I crave thy pardon"
+    },
+    {
+      "id": "870",
+      "label": "Section 870",
+      "chapter": null,
+      "original": "συγγνώμον ’ εἶναι · τὰς δ ’ ἐμὰς ὀργὰς φέρειν",
+      "translation": "for the words I spoke , and well thou mayest brook my burst of passion , for ere now we twain have shared much love . For I have reasoned with my soul and railed upon me thus , Ah ! poor heart 1 why am I thus distraught , why so angered ’ gainst all good advice ,"
+    },
+    {
+      "id": "875",
+      "label": "Section 875",
+      "chapter": null,
+      "original": "ἐχθρὰ δὲ γαίας κοιράνοις καθίσταμαι",
+      "translation": "why have I come to hate the rulers of the land , my husband too , who does the best for me he can , in wedding with a princess and rearing for my children noble brothers ? Shall I not cease to fret ? What possesses me , when heaven its best doth offer ?"
+    },
+    {
+      "id": "880",
+      "label": "Section 880",
+      "chapter": null,
+      "original": "οὐκ εἰσὶ μέν μοι παῖδες , οἶδα δὲ χθόνα",
+      "translation": "Have I not my children to consider ? do I forget that we are fugitives , in need of friends ? When I had thought all this I saw how foolish I had been , how senselessly enraged . So now I do commend thee and think thee most wise in forming"
+    },
+    {
+      "id": "885",
+      "label": "Section 885",
+      "chapter": null,
+      "original": "κῆδος τόδ ’ ἡμῖν προσλαβών , ἐγὼ δ ’ ἄφρων ,",
+      "translation": "this connexion for us ; but I was mad , I who should have shared in these designs , helped on thy plans , and lent my aid to bring about the match , only too pleased to wait upon thy bride . But what we are , we are , we women , evil I will not say ;"
+    },
+    {
+      "id": "890",
+      "label": "Section 890",
+      "chapter": null,
+      "original": "γυναῖκες · οὔκουν χρῆν σ ’ ὁμοιοῦσθαι κακοῖς ,",
+      "translation": "wherefore thou shouldst not sink to our sorry level nor with our weapons meet our childishness ."
+    },
+    {
+      "id": "892",
+      "label": "Section 892",
+      "chapter": null,
+      "original": "παριέμεσθα , καί φαμεν κακῶς φρονεῖν",
+      "translation": "I yield and do confess that I was wrong then , but now have I come to a better mind . Come hither , my children , come , leave the house ,"
+    },
+    {
+      "id": "895",
+      "label": "Section 895",
+      "chapter": null,
+      "original": "ἐξέλθετ ’, ἀσπάσασθε καὶ προσείπατε",
+      "translation": "step forth , and with me greet and bid farewell to your father , be reconciled from all past bitterness unto your friends , as now your mother is ; for we have made a truce and anger is no more . Enter the Children . Take his right hand ; ah me ! my sad fate !"
+    },
+    {
+      "id": "900",
+      "label": "Section 900",
+      "chapter": null,
+      "original": "ὡς ἐννοοῦμαι δή τι τῶν κεκρυμμένων .",
+      "translation": "when I reflect , as now , upon the hidden future . O my children , since there awaits you even thus a long , long life , stretch forth the hand to take a fond farewell . Ah me ! how new [*] to tears am I , how full of fear ! For now that I have at last released me from my quarrel with your father ,"
+    },
+    {
+      "id": "905",
+      "label": "Section 905",
+      "chapter": null,
+      "original": "ὄψιν τέρειναν τήνδ ’ ἔπλησα δακρύων .",
+      "translation": "I let the tear-drops stream adown my tender cheek ."
+    },
+    {
+      "id": "906",
+      "label": "Section 906",
+      "chapter": null,
+      "original": "κἀμοὶ κατ ’ ὄσσων χλωρὸν ὡρμήθη δάκρυ ·",
+      "translation": "From my eyes too bursts forth the copious tear ; O , may no greater ill than the present e ’ er befall !"
+    },
+    {
+      "id": "908",
+      "label": "Section 908",
+      "chapter": null,
+      "original": "αἰνῶ , γύναι , τάδ ’, οὐδ ’ ἐκεῖνα μέμφομαι ·",
+      "translation": "Lady , I praise this conduct , not that I blame what is past ; for it is but natural to the female sex to vent their spleen against a husband"
+    },
+    {
+      "id": "910",
+      "label": "Section 910",
+      "chapter": null,
+      "original": "γάμου παρεμπολῶντος ἀλλοίου πόσει .",
+      "translation": "when he trafficks in other marriages besides his own . [*] But thy heart is changed to wiser schemes and thou art determined on the better course , late though it be ; this is acting like a woman of sober sense . And for you , my sons , hath your father provided"
+    },
+    {
+      "id": "915",
+      "label": "Section 915",
+      "chapter": null,
+      "original": "πολλὴν ἔθηκε σὺν θεοῖς σωτηρίαν ·",
+      "translation": "with all good heed a sure refuge , by God ’ s grace ; for ye , I trow , shall with your brothers share hereafter the foremost rank in this Corinthian realm . Only grow up , for all the rest your sire and whoso of the gods is kind to us is bringing to pass ."
+    },
+    {
+      "id": "920",
+      "label": "Section 920",
+      "chapter": null,
+      "original": "ἴδοιμι δ ’ ὑμᾶς εὐτραφεῖς ἥβης τέλος",
+      "translation": "May I see you reach man ’ s full estate , high o ’ er the heads of those I hate ! But thou , lady , why with fresh tears dost thou thine eyelids wet , turning away thy wan cheek , with no welcome for these my happy tidings ?"
+    },
+    {
+      "id": "925",
+      "label": "Section 925",
+      "chapter": null,
+      "original": "οὐδέν . τέκνων τῶνδ ’ ἐννοουμένη πέρι .",
+      "translation": "’ Tis naught ; upon these children my thoughts were turned ."
+    },
+    {
+      "id": "926",
+      "label": "Section 926",
+      "chapter": null,
+      "original": "θάρσει νυν · εὖ γὰρ τῶνδ ’ ἐγὼ θήσω πέρι .",
+      "translation": "Then take heart ; for I will see that it is well with them ."
+    },
+    {
+      "id": "927",
+      "label": "Section 927",
+      "chapter": null,
+      "original": "δράσω τάδ ’· οὔτοι σοῖς ἀπιστήσω λόγοις ·",
+      "translation": "I will do so ; nor will I doubt thy word ; woman is a weak creature , ever given to tears ."
+    },
+    {
+      "id": "929",
+      "label": "Section 929",
+      "chapter": null,
+      "original": "τί δῆτα λίαν τοῖσδ ’ ἐπιστένεις τέκνοις ;",
+      "translation": "Why prithee , unhappy one , dost moan o ’ er these children ?"
+    },
+    {
+      "id": "930",
+      "label": "Section 930",
+      "chapter": null,
+      "original": "ἔτικτον αὐτούς · ζῆν δ ’ ὅτ ’ ἐξηύχου τέκνα ,",
+      "translation": "I gave them birth ; and when thou didst pray long life for them , pity entered into my soul to think that these things must be . But the reason of thy coming hither to speak with me is partly told , the rest will I now mention . Since it is the pleasure of the rulers of the land to banish me ,"
+    },
+    {
+      "id": "935",
+      "label": "Section 935",
+      "chapter": null,
+      "original": "κἀμοὶ τάδ ’ ἐστὶ λῷστα , γιγνώσκω καλῶς ,",
+      "translation": "and well I know ’ twere best for me to stand not in the way of thee or of the rulers by dwelling here , enemy as I am thought unto their house , forth from this land in exile am I going , but these children ,— that they may know thy fostering hand ,"
+    },
+    {
+      "id": "940",
+      "label": "Section 940",
+      "chapter": null,
+      "original": "αἰτοῦ Κρέοντα τήνδε μὴ φεύγειν χθόνα .",
+      "translation": "beg Creon to remit their banishment"
+    },
+    {
+      "id": "941",
+      "label": "Section 941",
+      "chapter": null,
+      "original": "οὐκ οἶδ ’ ἂν εἰ πείσαιμι , πειρᾶσθαι δὲ χρή .",
+      "translation": "I doubt whether I can persuade him , yet must I attempt it ."
+    },
+    {
+      "id": "942",
+      "label": "Section 942",
+      "chapter": null,
+      "original": "σὺ δ ’ ἀλλὰ σὴν κέλευσον αἰτεῖσθαι πατρὸς",
+      "translation": "At least do thou bid thy wife ask her sire this boon , to remit the exile of the children from this land ."
+    },
+    {
+      "id": "944",
+      "label": "Section 944",
+      "chapter": null,
+      "original": "μάλιστα , καὶ πείσειν γε δοξάζω σφ ’ ἐγώ .",
+      "translation": "Yea , that will I ; and her methinks I shall persuade ,"
+    },
+    {
+      "id": "945",
+      "label": "Section 945",
+      "chapter": null,
+      "original": "εἴπερ γυναικῶν ἐστι τῶν ἄλλων μία .",
+      "translation": "since she is a woman like the rest ."
+    },
+    {
+      "id": "946",
+      "label": "Section 946",
+      "chapter": null,
+      "original": "συλλήψομαι δὲ τοῦδέ σοι κἀγὼ πόνου ·",
+      "translation": "I too will aid thee in this task , for by the children ’ s hand I will send to her gifts that far surpass in beauty , I well know , aught that now is seen ’ mongst men , a robe of finest tissue and a chaplet of chased gold ."
+    },
+    {
+      "id": "950",
+      "label": "Section 950",
+      "chapter": null,
+      "original": "παῖδας φέροντας . ἀλλ ’ ὅσον τάχος χρεὼν",
+      "translation": "But one of my attendants must haste and bring the ornaments hither . Happy shall she be not once alone but ten thousandfold , for in thee she wins the noblest soul to share her love , and gets these gifts as well which on a day my father ’ s sire , the Sun-god ,"
+    },
+    {
+      "id": "955",
+      "label": "Section 955",
+      "chapter": null,
+      "original": "πατρὸς πατὴρ δίδωσιν ἐκγόνοισιν οἷς .",
+      "translation": "bestowed on his descendants . My children , take in your hands these wedding gifts , and bear them as an offering to the royal maid , the happy bride ; for verily the gifts she shall receive are not to be scorned ."
+    },
+    {
+      "id": "959",
+      "label": "Section 959",
+      "chapter": null,
+      "original": "τί δ ’, ὦ ματαία , τῶνδε σὰς κενοῖς χέρας ;",
+      "translation": "But why so rashly rob thyself of these gifts ?"
+    },
+    {
+      "id": "960",
+      "label": "Section 960",
+      "chapter": null,
+      "original": "δοκεῖς σπανίζειν δῶμα βασίλειον πέπλων ,",
+      "translation": "Dost think a royal palace wants for robes or gold ? Keep them , nor give them to another . For well I know that if my lady hold me in esteem , she will set my price above all wealth ."
+    },
+    {
+      "id": "964",
+      "label": "Section 964",
+      "chapter": null,
+      "original": "μή μοι σύ · πείθειν δῶρα καὶ θεοὺς λόγος ·",
+      "translation": "Say not so ; ’ tis said that gifts tempt even gods ;"
+    },
+    {
+      "id": "965",
+      "label": "Section 965",
+      "chapter": null,
+      "original": "χρυσὸς δὲ κρείσσων μυρίων λόγων βροτοῖς .",
+      "translation": "and o ’ er men ’ s minds gold holds more potent sway than countless words . Fortune smiles upon thy bride , and heaven now doth swell her triumph ; youth is hers and princely power ; yet to save my children from exile I would barter life , not dross alone . Children , when ye are come to the rich palace ,"
+    },
+    {
+      "id": "970",
+      "label": "Section 970",
+      "chapter": null,
+      "original": "πατρὸς νέαν γυναῖκα , δεσπότιν δ ’ ἐμήν ,",
+      "translation": "pray your father ’ s new bride , my mistress , with suppliant voice to save you from exile , offering her these ornaments the while ; for it is most needful that she receive the gifts in her own hand . Now go and linger not ; may ye succeed and to your mother bring back"
+    },
+    {
+      "id": "975",
+      "label": "Section 975",
+      "chapter": null,
+      "original": "εὐάγγελοι γένοισθε πράξαντες καλῶς .",
+      "translation": "the glad tidings she fain would hear !"
+    },
+    {
+      "id": "1.976",
+      "label": "Section 1.976",
+      "chapter": null,
+      "original": "νῦν ἐλπίδες οὐκέτι μοι παίδων ζόας ,",
+      "translation": "Gone , gone is every hope I had that the children yet might live ; forth to their doom they now proceed . The hapless bride will take , ay , take the golden crown that is to be her ruin ;"
+    },
+    {
+      "id": "1.980",
+      "label": "Section 1.980",
+      "chapter": null,
+      "original": "ξανθᾷ δ ’ ἀμφὶ κόμᾳ θήσει τὸν Ἅιδα",
+      "translation": "with her own hand will she lift and place upon her golden locks the garniture of death ."
+    },
+    {
+      "id": "1.983",
+      "label": "Section 1.983",
+      "chapter": null,
+      "original": "πείσει χάρις ἀμβρόσιός τ ’ αὐγὰ πέπλων",
+      "translation": "Its grace and sheen divine will tempt her to put on the robe and crown of gold ,"
+    },
+    {
+      "id": "1.985",
+      "label": "Section 1.985",
+      "chapter": null,
+      "original": "νερτέροις δ ’ ἤδη πάρα νυμφοκομήσει .",
+      "translation": "and in that act will she deck herself to be a bride amid the dead . Such is the snare whereinto she will fall , such is the deadly doom that waits the hapless maid , nor shall she from the curse escape ."
+    },
+    {
+      "id": "2.990",
+      "label": "Section 2.990",
+      "chapter": null,
+      "original": "σὺ δ ’, ὦ τάλαν , ὦ κακόνυμφε κηδεμὼν τυράννων ,",
+      "translation": "And thou , poor wretch , who to thy sorrow art wedding a king ’ s daughter , little thinkest of the doom thou art bringing on thy children ’ s life , or of the cruel death that waits thy bride ."
+    },
+    {
+      "id": "2.995",
+      "label": "Section 2.995",
+      "chapter": null,
+      "original": "δύστανε μοίρας ὅσον παροίχῃ .",
+      "translation": "Woe is thee ! how art thou fallen from thy high estate !"
+    },
+    {
+      "id": "2.996",
+      "label": "Section 2.996",
+      "chapter": null,
+      "original": "μεταστένομαι δὲ σὸν ἄλγος , ὦ τάλαινα παίδων",
+      "translation": "Next do I bewail thy sorrows , O mother hapless in thy children , thou who wilt slay thy babes because thou hast a rival , the babes"
+    },
+    {
+      "id": "2.1000",
+      "label": "Section 2.1000",
+      "chapter": null,
+      "original": "σοι προλιπὼν ἀνόμως",
+      "translation": "thy husband hath deserted impiously to join him to another bride ."
+    },
+    {
+      "id": "1002",
+      "label": "Section 1002",
+      "chapter": null,
+      "original": "δέσποιν ’, ἀφεῖνται παῖδες οἵδε σοὶ φυγῆς ,",
+      "translation": "Thy children , lady , are from exile freed , and gladly did the royal bride accept thy gifts in her own hands , and so thy children made their peace with her ."
+    },
+    {
+      "id": "1005",
+      "label": "Section 1005",
+      "chapter": null,
+      "original": "ἔα .",
+      "translation": "Ah !"
+    },
+    {
+      "id": "1005a",
+      "label": "Section 1005a",
+      "chapter": null,
+      "original": "τί συγχυθεῖσ ’ ἕστηκας ἡνίκ ’ εὐτυχεῖς ;",
+      "translation": "Why art so disquieted in thy prosperous hour ? Why turnest thou thy cheek away , and hast no welcome for my glad news ?"
+    },
+    {
+      "id": "1008",
+      "label": "Section 1008",
+      "chapter": null,
+      "original": "αἰαῖ .",
+      "translation": "Ah me !"
+    },
+    {
+      "id": "1008a",
+      "label": "Section 1008a",
+      "chapter": null,
+      "original": "τάδ ’ οὐ ξυνῳδὰ τοῖσιν ἐξηγγελμένοις .",
+      "translation": "These groans but ill accord with the news I bring ."
+    },
+    {
+      "id": "1009",
+      "label": "Section 1009",
+      "chapter": null,
+      "original": "αἰαῖ μάλ ’ αὖθις .",
+      "translation": "Ah me ! once more I say ."
+    },
+    {
+      "id": "1009b",
+      "label": "Section 1009b",
+      "chapter": null,
+      "original": "μῶν τιν ’ ἀγγέλλων τύχην",
+      "translation": "Have I unwittingly announced some evil tidings ?"
+    },
+    {
+      "id": "1010",
+      "label": "Section 1010",
+      "chapter": null,
+      "original": "οὐκ οἶδα , δόξης δ ’ ἐσφάλην εὐαγγέλου ;",
+      "translation": "Have I erred in thinking my news was good ?"
+    },
+    {
+      "id": "1011",
+      "label": "Section 1011",
+      "chapter": null,
+      "original": "ἤγγειλας οἷ ’ ἤγγειλας · οὐ σὲ μέμφομαι .·",
+      "translation": "Thy news is as it is ; I blame thee not ."
+    },
+    {
+      "id": "1012",
+      "label": "Section 1012",
+      "chapter": null,
+      "original": "τί δαὶ κατηφεῖς ὄμμα καὶ δακρυρροεῖς ;",
+      "translation": "Then why this downcast eye , these floods of tears ?"
+    },
+    {
+      "id": "1013",
+      "label": "Section 1013",
+      "chapter": null,
+      "original": "πολλή μ ’ ἀνάγκη , πρέσβυ · ταῦτα γὰρ θεοὶ",
+      "translation": "Old friend , needs must I weep ; for the gods and I with fell intent devised these schemes ."
+    },
+    {
+      "id": "1015",
+      "label": "Section 1015",
+      "chapter": null,
+      "original": "θάρσει · κάτει τοι καὶ σὺ πρὸς τέκνων ἔτι .",
+      "translation": "Be of good cheer ; thou too of a surety shalt by thy sons yet be brought home again ."
+    },
+    {
+      "id": "1016",
+      "label": "Section 1016",
+      "chapter": null,
+      "original": "ἄλλους κατάξω πρόσθεν ἡ τάλαιν ’ ἐγώ .",
+      "translation": "Ere that shall I bring others to their home , ah ! woe is me !"
+    },
+    {
+      "id": "1017",
+      "label": "Section 1017",
+      "chapter": null,
+      "original": "οὔτοι μόνη σὺ σῶν ἀπεζύγης τέκνων ·",
+      "translation": "Thou art not the only mother from thy children reft . Bear patiently thy troubles as a mortal must ."
+    }
+  ],
+  "prevChunkSlug": "medea-186s08-5",
+  "nextChunkSlug": "medea-186s08-7"
+}

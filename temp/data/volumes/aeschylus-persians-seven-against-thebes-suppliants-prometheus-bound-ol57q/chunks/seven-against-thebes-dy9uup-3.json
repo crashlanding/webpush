@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "aeschylus-persians-seven-against-thebes-suppliants-prometheus-bound-ol57q",
+  "volumeTitle": "Persians. Seven against Thebes. Suppliants. Prometheus Bound",
+  "authorDisplay": "Aeschylus",
+  "authors": [
+    "Aeschylus"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "seven-against-thebes-dy9uup-3",
+  "label": "Seven against Thebes (Section 395 - Section 3.620)",
+  "partId": "seven-against-thebes-dy9uup",
+  "partTitle": "Seven against Thebes",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἑπτὰ ἐπὶ Θήβας",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg004.1st1K-grc1/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Seven Against Thebes",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg004.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "395",
+      "label": "Section 395",
+      "chapter": null,
+      "original": "τίν ἀντιτάξεις τῷδε ; τίς Προίτου πυλῶν",
+      "translation": "Whom will you send against him ? Who will be capable of standing as our champion at the Proetid gate when its bars are loosened ?"
+    },
+    {
+      "id": "397",
+      "label": "Section 397",
+      "chapter": null,
+      "original": "κόσμον μὲν ἀνδρὸς οὔτιν ἂν τρέσαιμ ἐγώ ,",
+      "translation": "I would not tremble before any mere ornaments on a man . Nor can signs and symbols wound and kill — crests and bell have no bite without the spear ."
+    },
+    {
+      "id": "400",
+      "label": "Section 400",
+      "chapter": null,
+      "original": "καὶ νύκτα ταύτην ἣν λέγεις ἐπ ἀσπίδος",
+      "translation": "And regarding this \" night \" which you describe on his shield , sparkling with heaven ’ s stars — perhaps the folly of it might yield to one some prophetic understanding . For should night fall on this man ’ s eyes as he dies , then to its bearer this arrogant symbol"
+    },
+    {
+      "id": "405",
+      "label": "Section 405",
+      "chapter": null,
+      "original": "γένοιτ ἂν ὀρθῶς ἐνδίκως τ ἐπώνυμον ,",
+      "translation": "would prove rightly and justly named ; and it is against himself that he will have prophesied this outrageous violence . Now as for me , against Tydeus I will station the trusty son of Astacus as defender of this gate , since he is full noble and"
+    },
+    {
+      "id": "410",
+      "label": "Section 410",
+      "chapter": null,
+      "original": "τιμῶντα καὶ στυγοῦνθ ὑπέρφρονας λόγους .",
+      "translation": "reveres the throne of Honor and detests proud speech . He is slow to act disgracefully , and he has no cowardly nature . His race springs from the men sown of the dragon ’ s teeth , from one of those whom Ares spared , and so Melanippus is truly born of our land . Ares will decide the outcome with a throw of the dice ;"
+    },
+    {
+      "id": "415",
+      "label": "Section 415",
+      "chapter": null,
+      "original": "Δίκη δ ὁμαίμων [*] κάρτα νιν προστέλλεται",
+      "translation": "but Justice , his kin by blood , indeed sends this man forth to keep the enemy spear from the mother that gave him birth . Exit Melanippus ."
+    },
+    {
+      "id": "1.417",
+      "label": "Section 1.417",
+      "chapter": null,
+      "original": "τὸν ἁμόν νυν ἀντίπαλον εὐτυχεῖν",
+      "translation": "May the gods grant success to our champion , since he rises up in a just cause , to battle for his city ! But I shudder"
+    },
+    {
+      "id": "1.420",
+      "label": "Section 1.420",
+      "chapter": null,
+      "original": "φόρους μόρους ὑπὲρ φίλων",
+      "translation": "to watch the bloody deaths of men cut down for the sake of their own people ."
+    },
+    {
+      "id": "1.422",
+      "label": "Section 1.422",
+      "chapter": null,
+      "original": "τούτῳ μὲν οὕτως εὐτυχεῖν δοῖεν θεοί : [*]",
+      "translation": "Yes , may the gods so grant success to this man . Capaneus is stationed at the Electran gates , another giant of a man , greater than the one described before ."
+    },
+    {
+      "id": "1.425",
+      "label": "Section 1.425",
+      "chapter": null,
+      "original": "μείζων , ὁ κόμπος δ οὐ κατ ἄνθρωπον φρονεῖ ,",
+      "translation": "But his boast is too proud for a mere human , and he makes terrifying threats against our battlements — which , I hope , chance will not fulfil ! For he says he will utterly destroy the city with god ’ s will or without it , and that not even conflict with Zeus , though it should fall before him in the plain , will stand in his way ."
+    },
+    {
+      "id": "1.430",
+      "label": "Section 1.430",
+      "chapter": null,
+      "original": "τὰς δ ἀστραπάς τε καὶ κεραυνίους βολὰς",
+      "translation": "The god ’ s lightning and thunderbolts he compares to midday heat . For his shield ’ s symbol he has a man without armor bearing fire , and the torch , his weapon , blazes in his hands ; and in golden letters he says I will burn the city ."
+    },
+    {
+      "id": "1.435",
+      "label": "Section 1.435",
+      "chapter": null,
+      "original": "τοιῷδε φωτὶ πέμπε — τίς ξυστήσεται ,",
+      "translation": "Against such a man make your dispatch — who will meet him in combat , who will stand firm without trembling before his boasts ?"
+    },
+    {
+      "id": "1.437",
+      "label": "Section 1.437",
+      "chapter": null,
+      "original": "καὶ τῷδε κόμπῳ [*] κέρδος ἄλλο τίκτεται .",
+      "translation": "Here too gain follows with interest from gain . [*] The tongue proves in the end to be an unerring accuser of men ’ s wicked thoughts ."
+    },
+    {
+      "id": "1.440",
+      "label": "Section 1.440",
+      "chapter": null,
+      "original": "Καπανεὺς δ ἀπειλεῖ δρᾶν παρεσκευασμένος ,",
+      "translation": "Capaneus makes his threats , ready to act , irreverent toward the gods , and giving his tongue full exercise in wicked glee , he , though a mere mortal , sends a loud and swollen boast to Zeus in heaven . But I trust that the fire-bearing thunderbolt will justly come to him ,"
+    },
+    {
+      "id": "1.445",
+      "label": "Section 1.445",
+      "chapter": null,
+      "original": "ἥξειν κεραυνόν , οὐδὲν ἐξῃκασμένον",
+      "translation": "and when it comes it will not be anything like the sun ’ s mid-day heat . And against him , even though he is a big talker , a man of fiery spirit , mighty Polyphontes , is stationed , a dependable sentinel"
+    },
+    {
+      "id": "1.450",
+      "label": "Section 1.450",
+      "chapter": null,
+      "original": "Ἀρτέμιδος εὐνοίαισι σύν τ ἄλλοις θεοῖς .",
+      "translation": "with the good will of guardian Artemis and the other gods . Now tell me about another one allotted to other gates ! Exit Polyphontes ."
+    },
+    {
+      "id": "1.452",
+      "label": "Section 1.452",
+      "chapter": null,
+      "original": "ὄλοιθ ὃς πόλει μεγάλ ἐπεύχεται ,",
+      "translation": "Death to him who exults so arrogantly over the city ! May the thunderbolt stop him before he leaps into my home"
+    },
+    {
+      "id": "1.455",
+      "label": "Section 1.455",
+      "chapter": null,
+      "original": "ἑδωλίων μ [*] ὑπερκόπῳ [*]",
+      "translation": "and plunders me from my maiden chambers with his outrageous spear !"
+    },
+    {
+      "id": "1.457",
+      "label": "Section 1.457",
+      "chapter": null,
+      "original": "[ καὶ μὴν τὸν ἐντεῦθεν λαχόντα πρὸς πύλαις ] [*]",
+      "translation": "Now I will tell you about the man who next drew station at the gates . The third lot leaped out of the upturned bronze helmet for Eteoclus ,"
+    },
+    {
+      "id": "1.460",
+      "label": "Section 1.460",
+      "chapter": null,
+      "original": "πύλαισι Νηίσταισι προσβαλεῖν λόχον .",
+      "translation": "to hurl his band against the Neistan gates . He whirls his horses as they snort through their bridles , eager to fall against the gate . Their muzzles whistle in a barbarian way , filled with the breath of their haughty nostrils ."
+    },
+    {
+      "id": "1.465",
+      "label": "Section 1.465",
+      "chapter": null,
+      "original": "ἐσχημάτισται [*] δ ἀσπὶς οὐ σμικρὸν [*] τρόπον :",
+      "translation": "His shield is decorated in great style : an armored man climbs a ladder ’ s rungs to mount an enemy tower that he wants to destroy . This one , too , shouts in syllables of written letters that even Ares could not hurl him from the battlements ."
+    },
+    {
+      "id": "1.470",
+      "label": "Section 1.470",
+      "chapter": null,
+      "original": "καὶ τῷδε φωτὶ πέμπε τὸν φερέγγυον",
+      "translation": "Send a dependable opponent against this man , too , to keep the yoke of slavery from our city ."
+    },
+    {
+      "id": "1.472",
+      "label": "Section 1.472",
+      "chapter": null,
+      "original": "πέμποιμ ἂν ἤδη τόνδε , σὺν τύχῃ δέ τῳ :",
+      "translation": "I would send this man here , and with good fortune . Exit Megareus . Indeed , he has already been sent , his only boast in his hands , Megareus , Creon ’ s seed , of the race of the sown- men ."
+    },
+    {
+      "id": "1.475",
+      "label": "Section 1.475",
+      "chapter": null,
+      "original": "ὃς οὔτι μάργων ἱππικῶν φρυαγμάτων",
+      "translation": "He will not withdraw from the gate in fear of the thunder of the horses ’ furious snorting ; but either he will die and pay the earth the full price of his nurture , or will capture two men and the city on the shield , and then adorn his father ’ s house with the spoils ."
+    },
+    {
+      "id": "1.480",
+      "label": "Section 1.480",
+      "chapter": null,
+      "original": "κόμπαζ ἐπ ἄλλῳ , μηδέ μοι φθόνει λόγων . [*]",
+      "translation": "Tell me about another ’ s boasts and do not begrudge me the full tale !"
+    },
+    {
+      "id": "2.481",
+      "label": "Section 2.481",
+      "chapter": null,
+      "original": "ἐπεύχομαι τῷδε [*] μὲν εὐτυχεῖν , ἰὼ",
+      "translation": "O champion of my home , I pray that this man will have good fortune , and that there will be bad fortune for his enemies . As they boast too much against the city in their frenzied mind ,"
+    },
+    {
+      "id": "2.485",
+      "label": "Section 2.485",
+      "chapter": null,
+      "original": "Ζεὺς νεμέτωρ ἐπίδοι κοταίνων .",
+      "translation": "so , too , may Zeus the Requiter look on them in anger !"
+    },
+    {
+      "id": "2.486",
+      "label": "Section 2.486",
+      "chapter": null,
+      "original": "τέταρτος ἄλλος , γείτονας πύλας ἔχων",
+      "translation": "Another , the fourth , has the gate near Onca Athena and takes his stand with a shout , Hippomedon , tremendous in form and figure . I shuddered in fear as he spun a huge disk — the circle of his shield , I mean —"
+    },
+    {
+      "id": "2.490",
+      "label": "Section 2.490",
+      "chapter": null,
+      "original": "ἔφριξα δινήσαντος : οὐκ ἄλλως ἐρῶ .",
+      "translation": "I cannot deny it . The symbol-maker who put the design on his shield was no lowly craftsman : the symbol is Typhon , spitting out of his fire-breathing mouth a dark , thick smoke , the darting sister of fire ."
+    },
+    {
+      "id": "2.495",
+      "label": "Section 2.495",
+      "chapter": null,
+      "original": "ὄφεων δὲ πλεκτάναισι περίδρομον κύτος",
+      "translation": "And the rim of the hollow-bellied shield is fastened all around with snaky braids . The warrior himself has raised the war-cry and , inspired by Ares he raves for battle like a maenad , with a look to inspire fear . We must put up a good defense against the assault of such a man ,"
+    },
+    {
+      "id": "2.500",
+      "label": "Section 2.500",
+      "chapter": null,
+      "original": "φόβος γὰρ ἤδη πρὸς πύλαις κομπάζεται .",
+      "translation": "for already Rout is boasting of victory at the gate ."
+    },
+    {
+      "id": "2.501",
+      "label": "Section 2.501",
+      "chapter": null,
+      "original": "πρῶτον μὲν Ὄγκα Παλλάς , ἥτ [*] ἀγχίπτολις ,",
+      "translation": "First Onca Pallas , who dwells near the city , close by the gate , and who loathes outrageousness in a man , will fend him off like a dangerous snake away from nestlings . Moreover , Hyperbius , Oenops ’ trusty son ,"
+    },
+    {
+      "id": "2.505",
+      "label": "Section 2.505",
+      "chapter": null,
+      "original": "ἀνὴρ κατ ἄνδρα τοῦτον ᾑρέθη , θέλων",
+      "translation": "is chosen to match him , man to man , as he is eager to search out his fate in the crisis that chance has wrought — neither in form , nor spirit nor in the wielding of his arms does he bear reproach . Hermes [*] has appropriately pitted them against each other . For the man is hostile to the man he faces in battle ,"
+    },
+    {
+      "id": "2.510",
+      "label": "Section 2.510",
+      "chapter": null,
+      "original": "ξυνοίσετον δὲ πολεμίους ἐπ ἀσπίδων",
+      "translation": "and the gods on their shields also meet as enemies . The one has fire-breathing Typhon , while father Zeus stands upright on Hyperbius ’ shield , his lightening bolt aflame in his hand . And no one yet has seen Zeus conquered ."
+    },
+    {
+      "id": "2.515",
+      "label": "Section 2.515",
+      "chapter": null,
+      "original": "τοιάδε μέντοι προσφίλεια δαιμόνων .",
+      "translation": "Such then is the favor of the divine powers : we are with the victors , they with the vanquished , if Zeus in fact proves stronger in battle than Typhon . And it is likely that the mortal adversaries will fare as do their gods ; and so , in accordance with the symbol ,"
+    },
+    {
+      "id": "2.520",
+      "label": "Section 2.520",
+      "chapter": null,
+      "original": "σωτὴρ γένοιτ ἂν Ζεὺς ἐπ ἀσπίδος τυχών .",
+      "translation": "Zeus will be a savior for Hyperbius since he resides on his shield . Exit Hyperbius ."
+    },
+    {
+      "id": "2.521",
+      "label": "Section 2.521",
+      "chapter": null,
+      "original": "πέποιθα δὴ [*] τὸν Διὸς ἀντίτυπον ἔχοντ",
+      "translation": "I am sure that Zeus ’ antagonist , since he has on his shield the unloved form of an earth-born deity , an image hated by both mortals and the long-lived gods ,"
+    },
+    {
+      "id": "2.525",
+      "label": "Section 2.525",
+      "chapter": null,
+      "original": "πρόσθε πυλᾶν κεφαλὰν ἰάψειν .",
+      "translation": "will drop his head in death before the gate ."
+    },
+    {
+      "id": "2.526",
+      "label": "Section 2.526",
+      "chapter": null,
+      "original": "οὕτως γένοιτο . τὸν δὲ πέμπτον αὖ λέγω ,",
+      "translation": "Let it be so ! Next I describe the fifth man who is stationed at the fifth , the Northern gate opposite the tomb of Amphion , Zeus ’ s son . He swears by his spear which , in his confidence , he holds more to be revered than a god"
+    },
+    {
+      "id": "2.530",
+      "label": "Section 2.530",
+      "chapter": null,
+      "original": "σέβειν πεποιθὼς ὀμμάτων θ ὑπέρτερον ,",
+      "translation": "and more precious than his eyes , that he will sack the city of the Cadmeans in spite of Zeus . He says this , the beautiful child of a mountain-bred mother — a warrior , half man , half boy , and his beard ’ s first growth is just now advancing on his cheeks ,"
+    },
+    {
+      "id": "2.535",
+      "label": "Section 2.535",
+      "chapter": null,
+      "original": "ὥρας φυούσης , ταρφὺς ἀντέλλουσα θρίξ .",
+      "translation": "his youth in first bloom , thick , upspringing hair . But now he makes his advance with a savage heart and a terrifying look , not at all like the maidens he ’ s named for . [*] Nor does he take his stand at the gate unboasting , but wields our city ’ s shame on his bronze-forged"
+    },
+    {
+      "id": "2.540",
+      "label": "Section 2.540",
+      "chapter": null,
+      "original": "σάκει , κυκλωτῷ σώματος προβλήματι ,",
+      "translation": "shield , his body ’ s circular defence , on which the Sphinx who eats men raw is cleverly fastened with bolts , her body embossed and gleaming . She carries under her a single Cadmean , so that against this man chiefly our missiles will be hurled ."
+    },
+    {
+      "id": "2.545",
+      "label": "Section 2.545",
+      "chapter": null,
+      "original": "ἐλθὼν δ ἔοικεν οὐ καπηλεύσειν μάχην ,",
+      "translation": "He does not seem to have come to do any petty trading in the battle , nor to shame the making of his long journey — he is Parthenopaeus of Arcadia . Such is the man , and aiming to make full payment for the fine support given him in Argos , his adopted land , he now threatens our fortifications — may God not fulfil his threats !"
+    },
+    {
+      "id": "2.550",
+      "label": "Section 2.550",
+      "chapter": null,
+      "original": "εἰ γὰρ τύχοιεν ὧν φρονοῦσι πρὸς θεῶν ,",
+      "translation": "If only they would get from the gods what they wish for , because of those unholy boasts of theirs , then surely they would perish in utter ruin and misery . There is a man for this one , too , whom you name an Arcadian , a man who does not boast , but who knows the thing to do —"
+    },
+    {
+      "id": "2.555",
+      "label": "Section 2.555",
+      "chapter": null,
+      "original": "Ἄκτωρ ἀδελφὸς τοῦ πάρος λελεγμένου :",
+      "translation": "Actor , brother of him I named before . He will not allow words that lack deeds to overrun his gate and increase fear , nor will he let in a man who carries on his hostile shield the image of the ravenous , detested beast ."
+    },
+    {
+      "id": "2.560",
+      "label": "Section 2.560",
+      "chapter": null,
+      "original": "ἣ ʼξωθεν [*] εἴσω τῷ φέροντι μέμψεται ,",
+      "translation": "That beast outside his shield will blame the man who carries her into the gate , when she has taken a heavy beating beneath the city ’ s walls . If the gods are willing , what I speak may prove true ! Exit Actor ."
+    },
+    {
+      "id": "3.563",
+      "label": "Section 3.563",
+      "chapter": null,
+      "original": "ἱκνεῖται λόγος διὰ στηθέων ,",
+      "translation": "His words penetrate to my heart , my hair stands on end"
+    },
+    {
+      "id": "3.565",
+      "label": "Section 3.565",
+      "chapter": null,
+      "original": "μεγάλα μεγαληγόρων κλυούσᾳ [*]",
+      "translation": "as I hear the loud threats of these loud-boasting , impious men . May the gods destroy them here in our land !"
+    },
+    {
+      "id": "3.568",
+      "label": "Section 3.568",
+      "chapter": null,
+      "original": "ἕκτον λέγοιμ ἂν ἄνδρα σωφρονέστατον ,",
+      "translation": "The sixth man I will name is of the highest moderation and a seer brave in combat , mighty Amphiaraus ."
+    },
+    {
+      "id": "3.570",
+      "label": "Section 3.570",
+      "chapter": null,
+      "original": "Ὁμολωίσιν δὲ πρὸς πύλαις τεταγμένος",
+      "translation": "Stationed at the Homoloid gate , he repeatedly rebukes mighty Tydeus with evil names Murderer , maker of unrest in the city , principal teacher of evils to the Argives , summoner of vengeance ’ s Curse , servant of Slaughter , counselor to Adrastus in these evil plans . And next , with eyes looking upward , he addressed your own brother , mighty Polynices who shares your blood , and called him by name , dwelling twice upon its latter part . [*] These were his words :"
+    },
+    {
+      "id": "3.580",
+      "label": "Section 3.580",
+      "chapter": null,
+      "original": "“ ἦ τοῖον ἔργον καὶ θεοῖσι προσφιλές ,",
+      "translation": "Will such a deed as this be pleasing to the gods , fine to hear of and to relate to those in the future — that you sacked the city of your ancestors and your native gods and launched a foreign army against them ? What justice is it to drain dry the font of your existence ? [*]"
+    },
+    {
+      "id": "3.585",
+      "label": "Section 3.585",
+      "chapter": null,
+      "original": "πατρὶς δὲ γαῖα σῆς ὑπὸ σπουδῆς δορὶ",
+      "translation": "And how shall your fatherland , captured by the spear for the sake of your ambition , be won over to your cause ? As for me , I will enrich this earth , a seer interred beneath enemy soil . Let us fight ! I anticipate no dishonorable death ."
+    },
+    {
+      "id": "3.590",
+      "label": "Section 3.590",
+      "chapter": null,
+      "original": "τοιαῦθ ὁ μάντις ἀσπίδ εὔκυκλον νέμων [*]",
+      "translation": "So the seer spoke as untroubled he held his all-bronze shield . No symbol was fixed to his shield ’ s circle . For he does not wish to appear the bravest , but to be the bravest , as he harvests the fruit of his mind ’ s deep furrow , where his careful resolutions grow ."
+    },
+    {
+      "id": "3.595",
+      "label": "Section 3.595",
+      "chapter": null,
+      "original": "τούτῳ σοφούς τε κἀγαθοὺς ἀντηρέτας",
+      "translation": "I advise you to send wise and brave opponents against him . He who reveres the gods is to be feared ."
+    },
+    {
+      "id": "3.597",
+      "label": "Section 3.597",
+      "chapter": null,
+      "original": "φεῦ τοῦ ξυναλλάσσοντος ὄρνιθος βροτοῖς [*]",
+      "translation": "Ah , the pity of fate ’ s omen when it makes a just man associate with the irreverent ! In all things , nothing is more evil"
+    },
+    {
+      "id": "3.600",
+      "label": "Section 3.600",
+      "chapter": null,
+      "original": "κάκιον οὐδέν , καρπὸς οὐ κομιστέος :",
+      "translation": "than evil partnership . Its fruit should not be gathered in : the field of recklessness yields a harvest of death . For it may be that a pious man , embarked shipboard with sailors hot for some crime , perishes along with the sort of men hated by the gods ;"
+    },
+    {
+      "id": "3.605",
+      "label": "Section 3.605",
+      "chapter": null,
+      "original": "ἢ ξὺν πολίταις ἀνδράσιν δίκαιος ὢν",
+      "translation": "or , a man , though upright himself , when among fellow-citizens who hate all strangers and neglect the gods , may fall undeserving into the same trap as they , and be subdued , struck by the scourge of God that strikes all alike .\nJust so the seer , Oecles ’ son ,"
+    },
+    {
+      "id": "3.610",
+      "label": "Section 3.610",
+      "chapter": null,
+      "original": "σώφρων δίκαιος ἀγαθὸς εὐσεβὴς ἀνήρ ,",
+      "translation": "although a moderate , just , noble , reverent man and a great prophet , mixes with impious , rash-talking men against his own judgment , men stretching out in a procession that is long to retrace , [*] and , if it is Zeus ’ s will , he will be be dragged down in ruin along with them ."
+    },
+    {
+      "id": "3.615",
+      "label": "Section 3.615",
+      "chapter": null,
+      "original": "δοκῶ μὲν οὖν σφε μηδὲ προσβαλεῖν πύλαις ,",
+      "translation": "So then , I expect that he will not even charge the gates : not because he lacks courage or is weak-willed , but because he knows that he must meet his end in battle , if the prophecies of Loxias are to come to fruition — the god usually either holds silent or speaks to the point ."
+    },
+    {
+      "id": "3.620",
+      "label": "Section 3.620",
+      "chapter": null,
+      "original": "ὅμως δ ἐπ αὐτῷ φῶτα , Λασθένους βίαν ,",
+      "translation": "Just the same , I will station a man against him , mighty Lasthenes , a gate-keeper who hates foreigners . He has the wisdom of an old man , but his body is at its prime : his eyes are quick , and he does not let his hand delay for his spear to seize what is left exposed by the shield ."
+    }
+  ],
+  "prevChunkSlug": "seven-against-thebes-dy9uup-2",
+  "nextChunkSlug": "seven-against-thebes-dy9uup-4"
+}

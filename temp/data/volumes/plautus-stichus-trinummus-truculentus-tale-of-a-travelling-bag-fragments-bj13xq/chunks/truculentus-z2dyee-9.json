@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-stichus-trinummus-truculentus-tale-of-a-travelling-bag-fragments-bj13xq",
+  "volumeTitle": "Stichus. Trinummus. Truculentus. Tale of a Travelling Bag. Fragments",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "truculentus-z2dyee-9",
+  "label": "Truculentus (Section 4.3.785 - Section 4.3.845)",
+  "partId": "truculentus-z2dyee",
+  "partTitle": "Truculentus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Truculentus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi020.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Truculentus, or The Churl",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi020.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "4.3.785",
+      "label": "Section 4.3.785",
+      "chapter": null,
+      "original": "Etiamnum quid sit negoti , falsus incertusque sum ,",
+      "translation": "Even now , what ’ s the matter , I ’ m at a loss to know and uncertain ; except that still I ’ m afraid . [*]"
+    },
+    {
+      "id": "4.3.786",
+      "label": "Section 4.3.786",
+      "chapter": null,
+      "original": "nisi quia timeo tamen , egomet quia quod peccavi scio .",
+      "translation": "What I ’ ve done wrong I know not ."
+    },
+    {
+      "id": "4.3.787",
+      "label": "Section 4.3.787",
+      "chapter": null,
+      "original": "Omnium primum diversae state — em sic , istuc volo ;",
+      "translation": "First of all , then , you stand apart . ( They stand apart .) Aye , so ; that ’ s what I mean ; that you mayn ’ t be making signs between you , I ’ ll be a party-wall . ( To his MAID-SERVANT .) Speak you ."
+    },
+    {
+      "id": "4.3.789",
+      "label": "Section 4.3.789",
+      "chapter": null,
+      "original": "Quid loquar ?",
+      "translation": "What am I to speak about ?"
+    },
+    {
+      "id": "4.3.789b",
+      "label": "Section 4.3.789b",
+      "chapter": null,
+      "original": "Quid puero factumst , mea quem peperit filia ,",
+      "translation": "What was done with the child that my daughter was delivered of ? My grandchild , I mean ? Tell me the circumstances of the case ."
+    },
+    {
+      "id": "4.3.790b",
+      "label": "Section 4.3.790b",
+      "chapter": null,
+      "original": "Istae dedi .",
+      "translation": "I gave it to her ."
+    },
+    {
+      "id": "4.3.791",
+      "label": "Section 4.3.791",
+      "chapter": null,
+      "original": "Iam tace . accepistin puerum tú ab hac ?",
+      "translation": "Now hold your tongue . ( To SYRA .) Did you receive the child from her ?"
+    },
+    {
+      "id": "4.3.791b",
+      "label": "Section 4.3.791b",
+      "chapter": null,
+      "original": "Accepi .",
+      "translation": "I did receive it ."
+    },
+    {
+      "id": "4.3.791c",
+      "label": "Section 4.3.791c",
+      "chapter": null,
+      "original": "Tace .",
+      "translation": "Hold your tongue ; I want no more ; you ’ ve confessed enough ."
+    },
+    {
+      "id": "4.3.792b",
+      "label": "Section 4.3.792b",
+      "chapter": null,
+      "original": "Infitias non eo .",
+      "translation": "I ’ m not going to deny it ."
+    },
+    {
+      "id": "4.3.793",
+      "label": "Section 4.3.793",
+      "chapter": null,
+      "original": "Iam livorem verbo scapulis istoc concinnas tuis .",
+      "translation": "By this you ’ ve now caused some relief for your shoulder-blades . So far , the account of each of them tallies ."
+    },
+    {
+      "id": "4.3.794b",
+      "label": "Section 4.3.794b",
+      "chapter": null,
+      "original": "Vae misero mihi ,",
+      "translation": "Ah wretched me !"
+    },
+    {
+      "id": "4.3.795",
+      "label": "Section 4.3.795",
+      "chapter": null,
+      "original": "mea nunc facinora aperiuntur , clam quae speravi fore .",
+      "translation": "my doings are now being disclosed , which I hoped would be concealed ."
+    },
+    {
+      "id": "4.3.796",
+      "label": "Section 4.3.796",
+      "chapter": null,
+      "original": "Loquere tu . qui dare te huic puerum iussit ?",
+      "translation": "Speak , you . Who bade you give the child to her ?"
+    },
+    {
+      "id": "4.3.796b",
+      "label": "Section 4.3.796b",
+      "chapter": null,
+      "original": "Era maior mea .",
+      "translation": "My elder mistress ."
+    },
+    {
+      "id": "4.3.797",
+      "label": "Section 4.3.797",
+      "chapter": null,
+      "original": "Quid tu , cur eum accepisti ?",
+      "translation": "What say you ? Why did you receive it ?"
+    },
+    {
+      "id": "4.3.797b",
+      "label": "Section 4.3.797b",
+      "chapter": null,
+      "original": "Era med oravit minor ,",
+      "translation": "My young mistress entreated me that the child might be brought , and that all this might remain secret ."
+    },
+    {
+      "id": "4.3.799",
+      "label": "Section 4.3.799",
+      "chapter": null,
+      "original": "Loquere tu . quid eo fecisti puero ?",
+      "translation": "Speak , you . What did you do with this child ?"
+    },
+    {
+      "id": "4.3.799b",
+      "label": "Section 4.3.799b",
+      "chapter": null,
+      "original": "Ad meam eram detuli .",
+      "translation": "I took it to my mistress ."
+    },
+    {
+      "id": "4.3.800",
+      "label": "Section 4.3.800",
+      "chapter": null,
+      "original": "Quid eo puero tua era fecit ?",
+      "translation": "What did your mistress do with this child ?"
+    },
+    {
+      "id": "4.3.800b",
+      "label": "Section 4.3.800b",
+      "chapter": null,
+      "original": "Erae meae extemplo dedit .",
+      "translation": "Gave it at once to my mistress ."
+    },
+    {
+      "id": "4.3.801",
+      "label": "Section 4.3.801",
+      "chapter": null,
+      "original": "Quoi , malum , erae ?",
+      "translation": "Plague on it , to what mistress ?"
+    },
+    {
+      "id": "4.3.801b",
+      "label": "Section 4.3.801b",
+      "chapter": null,
+      "original": "Duae sunt istae .",
+      "translation": "There are two of them ."
+    },
+    {
+      "id": "4.3.801c",
+      "label": "Section 4.3.801c",
+      "chapter": null,
+      "original": "Cave tu nisi quod te rogo .",
+      "translation": "Take you care , unless I ask you anything , only to answer that which I ask of you ."
+    },
+    {
+      "id": "4.3.802b",
+      "label": "Section 4.3.802b",
+      "chapter": null,
+      "original": "Mater , inquam , filiae dono dedit .",
+      "translation": "The mother , I say , made a present of it to the daughter ."
+    },
+    {
+      "id": "4.3.803",
+      "label": "Section 4.3.803",
+      "chapter": null,
+      "original": "Plus quam dudum inqua loquere .",
+      "translation": "You are saying more than you did just now ."
+    },
+    {
+      "id": "4.3.803b",
+      "label": "Section 4.3.803b",
+      "chapter": null,
+      "original": "Plus tu rogitas .",
+      "translation": "You are asking more ."
+    },
+    {
+      "id": "4.3.803c",
+      "label": "Section 4.3.803c",
+      "chapter": null,
+      "original": "Responde ocius :",
+      "translation": "Answer me quickly ; what did she do , to whom it was given ? Tell me ."
+    },
+    {
+      "id": "4.3.804b",
+      "label": "Section 4.3.804b",
+      "chapter": null,
+      "original": "Supposivit .",
+      "translation": "She passed it off as —"
+    },
+    {
+      "id": "4.3.804c",
+      "label": "Section 4.3.804c",
+      "chapter": null,
+      "original": "Cui ?",
+      "translation": "Whose ?"
+    },
+    {
+      "id": "4.3.804d",
+      "label": "Section 4.3.804d",
+      "chapter": null,
+      "original": "Sibi .",
+      "translation": "As her own"
+    },
+    {
+      "id": "4.3.805",
+      "label": "Section 4.3.805",
+      "chapter": null,
+      "original": "Pro filiolon ?",
+      "translation": "son ."
+    },
+    {
+      "id": "4.3.805b",
+      "label": "Section 4.3.805b",
+      "chapter": null,
+      "original": "Pro filiolo .",
+      "translation": "As her own son ?"
+    },
+    {
+      "id": "4.3.805c",
+      "label": "Section 4.3.805c",
+      "chapter": null,
+      "original": "Di , obsecro vostram fidem ,",
+      "translation": "Ye Gods , by my trust in you I do appeal to you , how much more easily does another than she to whom it belongs , bring forth another ’ s child ! She , by the labours of another , has brought forth this child without pain . A child blest indeed ! two mothers it has got , and grandams two [*] . I ’ m now afraid how many fathers there may have been . Do see , please , the shocking deeds of women !"
+    },
+    {
+      "id": "4.3.810",
+      "label": "Section 4.3.810",
+      "chapter": null,
+      "original": "Magis pol haec malitia pertinét ad viros quam ad mulieres :",
+      "translation": "I ’ troth , this fraud relates rather to the men than to the women . ’ Twas a man , and not a woman , that caused her pregnancy ."
+    },
+    {
+      "id": "4.3.811b",
+      "label": "Section 4.3.811b",
+      "chapter": null,
+      "original": "Idem ego istuc scio .",
+      "translation": "I know that too . You were a trusty guardian for it ."
+    },
+    {
+      "id": "4.3.812b",
+      "label": "Section 4.3.812b",
+      "chapter": null,
+      "original": "Plus potest qui plus valet .",
+      "translation": "He can do the most , who is strong the most . He was a man ; he was the strongest ; he prevailed ; what he wanted , he carried off ."
+    },
+    {
+      "id": "4.3.814",
+      "label": "Section 4.3.814",
+      "chapter": null,
+      "original": "Et tibi quidem hercle ídem attulit magnum malum .",
+      "translation": "And , i ’ faith , he too brought a heavy mishap , in fact , upon yourself ."
+    },
+    {
+      "id": "4.3.815",
+      "label": "Section 4.3.815",
+      "chapter": null,
+      "original": "Idem istuc ipsa , etsi tu taceas , reapse experta intellego .",
+      "translation": "The thing itself experienced , I myself fully know that , even if you had held your tongue ."
+    },
+    {
+      "id": "4.3.816",
+      "label": "Section 4.3.816",
+      "chapter": null,
+      "original": "Numquam te facere hodie quivi , ut is quis esset diceres .",
+      "translation": "Never , this day , have I been able to made you declare who he was ."
+    },
+    {
+      "id": "4.3.817",
+      "label": "Section 4.3.817",
+      "chapter": null,
+      "original": "Tacui adhuc : nunc non tacebo , quando adest nec se indicat .",
+      "translation": "I ’ ve held my tongue ; but now I shan ’ t hold my tongue , since he ’ s here ; it ’ s necessary I should tell ."
+    },
+    {
+      "id": "4.3.818",
+      "label": "Section 4.3.818",
+      "chapter": null,
+      "original": "Lapideus sum , commovere me miser non audeo .",
+      "translation": "I ’ m petrified ; in my wretchedness , I dare not move myself ; the matter ’ s all out ! The trial ’ s now going on here for my life !"
+    },
+    {
+      "id": "4.3.820",
+      "label": "Section 4.3.820",
+      "chapter": null,
+      "original": "meum illuc facinus , mea stultitia est . timeo , quam mox nominer .",
+      "translation": "These are my misdeeds , this is my folly . I ’ m in dread how soon I may be named ."
+    },
+    {
+      "id": "4.3.821",
+      "label": "Section 4.3.821",
+      "chapter": null,
+      "original": "Loquere , filiam meam quis integram stupraverit .",
+      "translation": "Speak out , who was it , debauched my maiden daughter ?"
+    },
+    {
+      "id": "4.3.822",
+      "label": "Section 4.3.822",
+      "chapter": null,
+      "original": "Video ego té , propter male facta qui es patronus parieti .",
+      "translation": "I see him near you . A supporter of the wall [*] ."
+    },
+    {
+      "id": "4.3.823",
+      "label": "Section 4.3.823",
+      "chapter": null,
+      "original": "Neque vivos neque mortuos sum , ne que quid nunc faciam scio ,",
+      "translation": "I ’ m neither alive nor dead , nor know I what I am now to do ; neither know I how to go away hence , nor how to accost him ; I ’ m numbed with fear ."
+    },
+    {
+      "id": "4.3.825",
+      "label": "Section 4.3.825",
+      "chapter": null,
+      "original": "Dicin an non ?",
+      "translation": "Will you tell me , or no ?"
+    },
+    {
+      "id": "4.3.825b",
+      "label": "Section 4.3.825b",
+      "chapter": null,
+      "original": "Diniarchus , quoi illam prius desponderas .",
+      "translation": "It is Dinarchus , to whom you first betrothed her ."
+    },
+    {
+      "id": "4.3.826",
+      "label": "Section 4.3.826",
+      "chapter": null,
+      "original": "Vbi is homost quem dicis ?",
+      "translation": "Where is this person whom you mention ?"
+    },
+    {
+      "id": "4.3.826b",
+      "label": "Section 4.3.826b",
+      "chapter": null,
+      "original": "Adsum , Callicles . per tua obsecro",
+      "translation": "Here I am , Callicles . ( Falling on the ground .) By your knees I do entreat you that you will bear with wisdom that which was done in folly ; and that you will pardon me that , which , losing my senses , I did through the bad influence of wine ."
+    },
+    {
+      "id": "4.3.829",
+      "label": "Section 4.3.829",
+      "chapter": null,
+      "original": "Non placet qui in mutum culpam confert , qui non quit loqui .",
+      "translation": "You please me not . You throw the blame on what is dumb [*] , that which cannot speak ."
+    },
+    {
+      "id": "4.3.830",
+      "label": "Section 4.3.830",
+      "chapter": null,
+      "original": "nam vinum si fabulari possit , se defenderet .",
+      "translation": "But the wine , if it could speak , would defend itself . It ’ s not wine that ’ s in the habit of ruling men , but men wine ; those , indeed , who are virtuous men ; but he who is bad , although he drinks water , or if indeed he abstains from intoxicating liquors , still , by nature he ’ s bad ."
+    },
+    {
+      "id": "4.3.834",
+      "label": "Section 4.3.834",
+      "chapter": null,
+      "original": "Scio equidem quae nolo multa mi audienda ob noxiam .",
+      "translation": "Well , I ’ m sensible that many reproaches must be heard by me , which I would prefer not ."
+    },
+    {
+      "id": "4.3.835",
+      "label": "Section 4.3.835",
+      "chapter": null,
+      "original": "ego tibi me obnoxium esse fateor culpae compotem .",
+      "translation": "I confess that I ’ ve offended you , and am privy to the crime ."
+    },
+    {
+      "id": "4.3.836",
+      "label": "Section 4.3.836",
+      "chapter": null,
+      "original": "Callicles , vide in quaéstione ne facias iniuriam :",
+      "translation": "Callicles , prithee beware that you do injury to no person ; the accused is pleading his cause at large , the witnesses you are keeping in bonds ."
+    },
+    {
+      "id": "4.3.838",
+      "label": "Section 4.3.838",
+      "chapter": null,
+      "original": "Solvite istas . agite , abite tu domum et tu autem domum .",
+      "translation": "Release those women . ( They are unbound .) Come ( to each of them in turn ) , do you be off home , and you home as well . ( To SYRA .) Tell your mistress this : she must give up the child , if any one asks for it . ( SYRA goes into the house of PHRONESIUM , and exit the MAID-SERVANT .)"
+    },
+    {
+      "id": "4.3.840",
+      "label": "Section 4.3.840",
+      "chapter": null,
+      "original": "eamus tu in ius .",
+      "translation": "You , Dinarchus , let ’ s go before the judge ."
+    },
+    {
+      "id": "4.3.840b",
+      "label": "Section 4.3.840b",
+      "chapter": null,
+      "original": "Quid vis in ius me ire ? tu es praetor mihi .",
+      "translation": "Why do you wish me to go before the judge ? You are the Praetor to me . But I entreat of you , Callicles , that you ’ ll give me your daughter for a wife ."
+    },
+    {
+      "id": "4.3.842",
+      "label": "Section 4.3.842",
+      "chapter": null,
+      "original": "Eundem pol te iudicasse qui admisti eam rem intellego .",
+      "translation": "I ’ faith , I find , indeed , that you ’ ve come to a decision on that point yourself ; for you haven ’ t waited till I gave her ; you have helped yourself . Now keep her , as you ’ ve got her , but I ’ ll fine you this grand haul ;"
+    },
+    {
+      "id": "4.3.845",
+      "label": "Section 4.3.845",
+      "chapter": null,
+      "original": "sex talenta magna dotis demam pro ista inscitia .",
+      "translation": "six great talents will I deduct from her dowry for this folly ."
+    }
+  ],
+  "prevChunkSlug": "truculentus-z2dyee-8",
+  "nextChunkSlug": "truculentus-z2dyee-10"
+}

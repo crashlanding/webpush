@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-suppliant-women-electra-heracles-k10p1d",
+  "volumeTitle": "Suppliant Women. Electra. Heracles",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "suppliant-women-7f9w7a-4",
+  "label": "Suppliant Women (Section 500 - Section 2.631)",
+  "partId": "suppliant-women-7f9w7a",
+  "partTitle": "Suppliant Women",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἱκέτιδες",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg008.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "The Suppliants",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg008.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "500",
+      "label": "Section 500",
+      "chapter": null,
+      "original": "οὐδʼ ἥρπασεν χάρυβδις οἰωνοσκόπον ,\nτέθριππον ἅρμα περιβαλοῦσα χάσματι ,\nἄλλοι τε κεῖνται πρὸς πύλαις λοχαγέται\nπέτροις καταξανθέντες ὀστέων ῥαφάς ;\nἤ νυν φρονεῖν ἄμεινον ἐξαύχει Διός ,",
+      "translation": "nor should the yawning earth have snatched away the seer , [*] opening wide her mouth to take his chariot and its horses in , nor should the other chieftains be stretched at our gates , their skeletons to atoms crushed ’ neath boulders . Either boast thy wit transcendeth that of Zeus ,"
+    },
+    {
+      "id": "505",
+      "label": "Section 505",
+      "chapter": null,
+      "original": "ἢ θεοὺς δικαίως τοὺς κακοὺς ἀπολλύναι .\nφιλεῖν μὲν οὖν χρὴ τοὺς σοφοὺς πρῶτον τέκνα ,\nἔπειτα τοκέας πατρίδα θʼ , ἣν αὔξειν χρεὼν\nκαὶ μὴ κατᾶξαι . σφαλερὸν ἡγεμὼν θρασύς ·\nνεώς τε ναύτης ἥσυχος , καιρῷ σοφός .",
+      "translation": "or else allow that gods are right to slay the ungodly . The wise should love their children first , next their parents and country , whose fortunes it behoves them to increase rather than break down . Rashness in a leader , as in a pilot , causeth shipwreck ; who knoweth when to be quiet is a wise man ."
+    },
+    {
+      "id": "510",
+      "label": "Section 510",
+      "chapter": null,
+      "original": "καὶ τοῦτʼ ἐμοὶ τἀνδρεῖον , ἡ προμηθία .",
+      "translation": "Yea and this too is bravery , even forethought ."
+    },
+    {
+      "id": "513",
+      "label": "Section 513",
+      "chapter": null,
+      "original": "ἐξαρκέσας ἦν Ζεὺς ὁ τιμωρούμενος ,\nὑμᾶς δʼ ὑβρίζειν οὐκ ἐχρῆν τοιάνδʼ ὕβριν .",
+      "translation": "The punishment Zeus hath inflicted was surely enough ; there was no need to heap this wanton insult on us ."
+    },
+    {
+      "id": "513b",
+      "label": "Section 513b",
+      "chapter": null,
+      "original": "ὦ παγκάκιστε —",
+      "translation": "Abandoned wretch !"
+    },
+    {
+      "id": "514",
+      "label": "Section 514",
+      "chapter": null,
+      "original": "σῖγʼ , Ἄδραστʼ , ἔχε στόμα ,",
+      "translation": "Peace , Adrastus ! say no more ; set not thy words before mine ,"
+    },
+    {
+      "id": "515",
+      "label": "Section 515",
+      "chapter": null,
+      "original": "καὶ μὴ ʼπίπροσθεν τῶν ἐμῶν τοὺς σοὺς λόγους\nθῇς · οὐ γὰρ ἥκει πρὸς σὲ κηρύσσων ὅδε ,\nἀλλʼ ὡς ἔμʼ · ἡμᾶς κἀποκρίνασθαι χρεών .\nκαὶ πρῶτα μέν σε πρὸς τὰ πρῶτʼ ἀμείψομαι .\nοὐκ οἶδʼ ἐγὼ Κρέοντα δεσπόζοντʼ ἐμοῦ",
+      "translation": "for ’ tis not to thee this fellow is come with his message , but to me , and I must answer him . Thy first assertion will I answer first : I am not aware that Creon is my lord and master , or that his power outweigheth mine , that so he should compel"
+    },
+    {
+      "id": "520",
+      "label": "Section 520",
+      "chapter": null,
+      "original": "οὐδὲ σθένοντα μεῖζον , ὥστʼ ἀναγκάσαι\nδρᾶν τὰς Ἀθήνας ταῦτʼ · ἄνω γὰρ ἂν ῥέοι\nτὰ πράγμαθʼ οὕτως , εἰ ʼπιταξόμεσθα δή .\nπόλεμον δὲ τοῦτον οὐκ ἐγὼ καθίσταμαι ,\nὃς οὐδὲ σὺν τοῖσδʼ ἦλθον ἐς Κάδμου χθόνα ·\nνεκροὺς δὲ τοὺς θανόντας , οὐ βλάπτων πόλιν",
+      "translation": "Athens to act on this wise ; nay ! for then would the tide of time have to flow backward , if we are to be ordered about , as he thinks . ’ Tis not I who choose this war , seeing that I did not even join these warriors to go unto the land of Cadmus ; but still I claim to bury the fallen dead , not injuring any state"
+    },
+    {
+      "id": "525",
+      "label": "Section 525",
+      "chapter": null,
+      "original": "οὐδʼ ἀνδροκμῆτας προσφέρων ἀγωνίας ,\nθάψαι δικαιῶ , τὸν Πανελλήνων νόμον\nσῴζων . τί τούτων ἐστὶν οὐ καλῶς ἔχον ;\nεἰ γάρ τι καὶ πεπόνθατʼ Ἀργείων ὕπο ,",
+      "translation": "nor yet introducing murderous strife , but preserving the law of all Hellas . What is not well in this ? If ye suffered aught from the Argives — lo ! they are dead ; ye took a splendid vengeance on your foes"
+    },
+    {
+      "id": "530",
+      "label": "Section 530",
+      "chapter": null,
+      "original": "τεθνᾶσιν , ἠμύνασθε πολεμίους καλῶς ,\nαἰσχρῶς δʼ ἐκείνοις , χἡ δίκη διοίχεται .\nἐάσατʼ ἤδη γῇ καλυφθῆναι νεκρούς ,\nὅθεν δʼ ἕκαστον ἐς τὸ φῶς ἀφίκετο ,\nἐνταῦθʼ ἀπελθεῖν , πνεῦμα μὲν πρὸς αἰθέρα ,",
+      "translation": "and covered them with shame , and now your right is at an end . Let [*] the dead now be buried in the earth , and each element return [*] to the place from whence it came to the body , the breath to the air , the body to the ground ; for in no wise did we get it"
+    },
+    {
+      "id": "535",
+      "label": "Section 535",
+      "chapter": null,
+      "original": "τὸ σῶμα δʼ ἐς γῆν · οὔτι γὰρ κεκτήμεθα\nἡμέτερον αὐτὸ πλὴν ἐνοικῆσαι βίον ,\nκἄπειτα τὴν θρέψασαν αὐτὸ δεῖ λαβεῖν .\nδοκεῖς κακουργεῖν Ἄργος οὐ θάπτων νεκρούς ;\nἥκιστα · πάσης Ἑλλάδος κοινὸν τόδε ,",
+      "translation": "for our own , but to live our life in , and after that its mother earth must take it back again . Dost think ’ tis Argos thou art injuring in refusing burial to the dead ? Nay ! all Hellas shares herein , if a man rob the dead of their due"
+    },
+    {
+      "id": "540",
+      "label": "Section 540",
+      "chapter": null,
+      "original": "εἰ τοὺς θανόντας νοσφίσας ὧν χρῆν λαχεῖν\nἀτάφους τις ἕξει · δειλίαν γὰρ ἐσφέρει\nτοῖς ἀλκίμοισιν οὗτος ἢν τεθῇ νόμος .\nκἀμοὶ μὲν ἦλθες δείνʼ ἀπειλήσων ἔπη ,\nνεκροὺς δὲ ταρβεῖτʼ , εἰ κρυβήσονται χθονί ;",
+      "translation": "and keep them from the tomb ; for , if this law be enacted , it will strike dismay into the stoutest hearts . And art thou come to cast dire threats at me , while thy own folk are afraid of giving burial to the dead ? What is your fear ? Think you they will undermine your land"
+    },
+    {
+      "id": "545",
+      "label": "Section 545",
+      "chapter": null,
+      "original": "τί μὴ γένηται ; μὴ κατασκάψωσι γῆν\nταφέντες ὑμῶν ; ἢ τέκνʼ ἐν μυχῷ χθονὸς\nφύσωσιν , ἐξ ὧν εἶσί τις τιμωρία ;\nσκαιόν γε τἀνάλωμα τῆς γλώσσης τόδε ,",
+      "translation": "in their graves , or that they will beget children in the womb of earth , from whom shall rise an avenger ? A silly waste of words , in truth it was , to show your fear of paltry groundless terrors ."
+    },
+    {
+      "id": "549",
+      "label": "Section 549",
+      "chapter": null,
+      "original": "φόβους πονηροὺς καὶ κενοὺς δεδοικέναι .",
+      "translation": "Go , triflers , learn the lesson of human misery ;"
+    },
+    {
+      "id": "550",
+      "label": "Section 550",
+      "chapter": null,
+      "original": "ἀλλʼ , ὦ μάταιοι , γνῶτε τἀνθρώπων κακά ·\nπαλαίσμαθʼ ἡμῶν ὁ βίος · εὐτυχοῦσι δὲ\nοἳ μὲν τάχʼ , οἳ δʼ ἐσαῦθις , οἳ δʼ ἤδη βροτῶν ,\nτρυφᾷ δʼ ὁ δαίμων · πρός τε γὰρ τοῦ δυστυχοῦς ,\nὡς εὐτυχήσῃ , τίμιος γεραίρεται ,",
+      "translation": "our life is made up of struggles ; some men there be that find their fortune soon , others have to wait , while some at once are blest . Fortune lives a dainty life ; to her the wretched pays his court and homage to win her smile ; her likewise doth the prosperous man extol , for fear the favouring gale"
+    },
+    {
+      "id": "555",
+      "label": "Section 555",
+      "chapter": null,
+      "original": "ὅ τʼ ὄλβιός νιν πνεῦμα δειμαίνων λιπεῖν\nὑψηλὸν αἴρει . γνόντας οὖν χρεὼν τάδε\nἀδικουμένους τε μέτρια μὴ θυμῷ φέρειν\nἀδικεῖν τε τοιαῦθʼ οἷα μὴ βλάψαι πόλιν .\nπῶς οὖν ἂν εἴη ; τοὺς ὀλωλότας νεκροὺς",
+      "translation": "may leave him . These lessons should we take to heart , to bear with moderation , free from wrath , our wrongs , and do naught to hurt a whole city . What then ? Let us , who will the pious deed perform , bury the corpses of the slain ."
+    },
+    {
+      "id": "560",
+      "label": "Section 560",
+      "chapter": null,
+      "original": "θάψαι δὸς ἡμῖν τοῖς θέλουσιν εὐσεβεῖν .\nἢ δῆλα τἀνθένδʼ · εἶμι καὶ θάψω βίᾳ .\nοὐ γάρ ποτʼ εἰς Ἕλληνας ἐξοισθήσεται\nὡς εἰς ἔμʼ ἐλθὼν καὶ πόλιν Πανδίονος",
+      "translation": "Else is the issue clear ; I will go and bury them by force . For never shall it be proclaimed through Hellas that heaven ’ s ancient law was set at naught , when it devolved on me and the city of Pandion ."
+    },
+    {
+      "id": "564",
+      "label": "Section 564",
+      "chapter": null,
+      "original": "νόμος παλαιὸς δαιμόνων διεφθάρη .",
+      "translation": "Be of good cheer ; for if thou preserve the light of justice ,"
+    },
+    {
+      "id": "565",
+      "label": "Section 565",
+      "chapter": null,
+      "original": "θάρσει · τὸ γάρ τοι τῆς Δίκης σῴζων φάος",
+      "translation": "thou shalt escape many a charge that men might urge ."
+    },
+    {
+      "id": "566",
+      "label": "Section 566",
+      "chapter": null,
+      "original": "πολλοὺς ὑπεκφύγοις ἂν ἀνθρώπων ψόγους .",
+      "translation": "Wilt thou that I sum up in brief all thou wouldst say ?"
+    },
+    {
+      "id": "567",
+      "label": "Section 567",
+      "chapter": null,
+      "original": "βούλῃ συνάψω μῦθον ἐν βραχεῖ σέθεν ;",
+      "translation": "Say what thou wilt ; for thou art not silent as it is ."
+    },
+    {
+      "id": "568",
+      "label": "Section 568",
+      "chapter": null,
+      "original": "λέγʼ , εἴ τι βούλῃ · καὶ γὰρ οὐ σιγηλὸς εἶ .",
+      "translation": "Thou shalt never take the sons of Argos from our land ."
+    },
+    {
+      "id": "569",
+      "label": "Section 569",
+      "chapter": null,
+      "original": "οὐκ ἄν ποτʼ ἐκ γῆς παῖδας Ἀργείων λάβοις .",
+      "translation": "Hear , then , my answer too to that , if so thou wilt ."
+    },
+    {
+      "id": "570",
+      "label": "Section 570",
+      "chapter": null,
+      "original": "κἀμοῦ νυν ἀντάκουσον , εἰ βούλῃ , πάλιν .",
+      "translation": "I will hear thee ; not that I wish it , but I must give thee thy turn ."
+    },
+    {
+      "id": "571",
+      "label": "Section 571",
+      "chapter": null,
+      "original": "κλύοιμʼ ἄν · οὐ γὰρ ἀλλὰ δεῖ δοῦναι μέρος .",
+      "translation": "I will bury the dead , when from Asopus ’ land I have removed them ."
+    },
+    {
+      "id": "572",
+      "label": "Section 572",
+      "chapter": null,
+      "original": "θάψω νεκροὺς γῆς ἐξελὼν Ἀσωπίας .",
+      "translation": "First must thou adventure somewhat in the front of war ."
+    },
+    {
+      "id": "573",
+      "label": "Section 573",
+      "chapter": null,
+      "original": "ἐν ἀσπίσιν σοι πρῶτα κινδυνευτέον .",
+      "translation": "Many an enterprise and of a different kind have I ere this endured ."
+    },
+    {
+      "id": "574",
+      "label": "Section 574",
+      "chapter": null,
+      "original": "πολλοὺς ἔτλην δὴ χἁτέρους ἄλλους πόνους .",
+      "translation": "Wert thou then begotten of thy sire to cope with every foe ?"
+    },
+    {
+      "id": "575",
+      "label": "Section 575",
+      "chapter": null,
+      "original": "ἦ πᾶσιν οὖν σʼ ἔφυσεν ἐξαρκεῖν πατήρ ;",
+      "translation": "Ay , with all wanton villains ; virtue I punish not ."
+    },
+    {
+      "id": "576",
+      "label": "Section 576",
+      "chapter": null,
+      "original": "ὅσοι γʼ ὑβρισταί · χρηστὰ δʼ οὐ κολάζομεν .",
+      "translation": "To meddle is aye thy wont and thy city ’ s too ."
+    },
+    {
+      "id": "577",
+      "label": "Section 577",
+      "chapter": null,
+      "original": "πράσσειν σὺ πόλλʼ εἴωθας ἥ τε σὴ πόλις .",
+      "translation": "Hence her enterprise on many a held hath won her frequent success ."
+    },
+    {
+      "id": "578",
+      "label": "Section 578",
+      "chapter": null,
+      "original": "τοιγὰρ πονοῦσα πολλὰ πόλλʼ εὐδαιμονεῖ .\nἔλθʼ , ὥς σε λόγχη σπαρτὸς ἐν πόλει λάβῃ .",
+      "translation": "Come then , that the warriors of the dragon-crop may catch thee in our city ."
+    },
+    {
+      "id": "579",
+      "label": "Section 579",
+      "chapter": null,
+      "original": "τίς δʼ ἐκ δράκοντος θοῦρος ἂν γένοιτʼ Ἄρης ;",
+      "translation": "What furious warrior-host could spring from dragon ’ s seed ?"
+    },
+    {
+      "id": "580",
+      "label": "Section 580",
+      "chapter": null,
+      "original": "γνώσῃ σὺ πάσχων · νῦν δʼ ἔτʼ εἶ νεανίας .",
+      "translation": "Thou shalt learn that to thy cost . As yet thou art young and rash ."
+    },
+    {
+      "id": "581",
+      "label": "Section 581",
+      "chapter": null,
+      "original": "οὔτοι μʼ ἐπαρεῖς ὥστε θυμῶσαι φρένας\nτοῖς σοῖσι κόμποις · ἀλλʼ ἀποστέλλου χθονός ,\nλόγους ματαίους οὕσπερ ἠνέγκω λαβών .\nπεραίνομεν γὰρ οὐδέν .",
+      "translation": "Thy boastful speech stirs not my heart at all to rage . Yet get thee gone from my land , taking with thee the idle words thou broughtest ; for we are making no advance . [ Exit Herald .]"
+    },
+    {
+      "id": "584b",
+      "label": "Section 584b",
+      "chapter": null,
+      "original": "ὁρμᾶσθαι χρεὼν",
+      "translation": "’ Tis time for all to start ,"
+    },
+    {
+      "id": "585",
+      "label": "Section 585",
+      "chapter": null,
+      "original": "πάντʼ ἄνδρʼ ὁπλίτην ἁρμάτων τʼ ἐπεμβάτην ,\nμοναμπύκων τε φάλαρα κινεῖσθαι στόμα\nἀφρῷ καταστάζοντα Καδμείαν χθόνα .\nχωρήσομαι γὰρ ἑπτὰ πρὸς Κάδμου πύλας",
+      "translation": "each stout footman , and whoso mounts the car ; ’ tis time the bit , dripping with foam , should urge the charger on toward the land of Cadmus . For I will march in person to the seven gates thereof"
+    },
+    {
+      "id": "590",
+      "label": "Section 590",
+      "chapter": null,
+      "original": "αὐτὸς σίδηρον ὀξὺν ἐν χεροῖν ἔχων\nἌδραστε , κἀμοὶ μὴ ἀναμίγνυσθαι τύχας\nτὰς σάς . ἐγὼ γὰρ δαίμονος τοὐμοῦ μέτα\nστρατηλατήσω καινὸς ἐν καινῷ δορί .\nἓν δεῖ μόνον μοι · τοὺς θεοὺς ἔχειν , ὅσοι\nδίκην σέβονται · ταῦτα γὰρ ξυνόνθʼ ὁμοῦ",
+      "translation": "with the sharp sword in my hand , and be myself my herald . But thee , Adrastus , I bid stay , nor blend with mine thy fortunes , for I will take my own good star to lead my host , a chieftain famed in famous deeds of arms . One thing alone I need , the favour of all gods that reverence right , for the presence of these things"
+    },
+    {
+      "id": "595",
+      "label": "Section 595",
+      "chapter": null,
+      "original": "νίκην δίδωσιν . ἁρετὴ δʼ οὐδὲν λέγει\nβροτοῖσιν , ἢ μὴ τὸν θεὸν χρῄζοντʼ ἔχῃ .",
+      "translation": "insures victory . For their valour availeth men naught , unless they have the god ’ s goodwill . [ Exit Theseus ."
+    },
+    {
+      "id": "1.598",
+      "label": "Section 1.598",
+      "chapter": null,
+      "original": "— ὦ μέλεαι μελέων ματέρες λοχαγῶν ,\nὥς μοι ὑφʼ ἥπατι χλωρὸν δεῖμα θάσσει —",
+      "translation": "Unhappy mothers of those hapless chiefs ! How wildly in my heart pale fear stirs up alarm !"
+    },
+    {
+      "id": "1.600",
+      "label": "Section 1.600",
+      "chapter": null,
+      "original": "— τίνʼ αὐδὰν τάνδε προσφέρεις νέαν ;",
+      "translation": "What is this new cry thou utterest ?"
+    },
+    {
+      "id": "1.601",
+      "label": "Section 1.601",
+      "chapter": null,
+      "original": "— στράτευμα πᾷ Παλλάδος κριθήσεται ;",
+      "translation": "I fear the issue of the strife , whereto the hosts of Pallas march ."
+    },
+    {
+      "id": "1.602",
+      "label": "Section 1.602",
+      "chapter": null,
+      "original": "— διὰ δορὸς εἶπας , ἢ λόγων ξυναλλαγαῖς ;",
+      "translation": "Dost speak of issues of the sword , or interchange of words ?"
+    },
+    {
+      "id": "1.603",
+      "label": "Section 1.603",
+      "chapter": null,
+      "original": "— γένοιτʼ ἂν κέρδος · εἰ δʼ ἀρείφατοι\nφόνοι μάχαι στερνοτυπεῖς τʼ ἀνὰ πτόλιν",
+      "translation": "That last were gain indeed ; but if the carnage of battle , fighting , and"
+    },
+    {
+      "id": "1.605",
+      "label": "Section 1.605",
+      "chapter": null,
+      "original": "κτύποι φανήσονται , τάλαι-\nνα , τίνα λόγον , τίνʼ ἂν τῶνδʼ αἰτία λάβοιμι ;",
+      "translation": "the noise of beaten breasts again be heard in the land , what , alas ! will be said of me , who am the cause thereof ?"
+    },
+    {
+      "id": "1.608",
+      "label": "Section 1.608",
+      "chapter": null,
+      "original": "— ἀλλὰ τὸν εὐτυχίᾳ λαμπρὸν ἄν τις αἱροῖ\nμοῖρα πάλιν · τόδε μοι θράσος ἀμφιβαίνει .",
+      "translation": "Yet may fate again bring low the brilliant victor ; ’ tis this brave thought that twines about my heart ."
+    },
+    {
+      "id": "1.610",
+      "label": "Section 1.610",
+      "chapter": null,
+      "original": "— δικαίους δαίμονας σύ γʼ ἐννέπεις .",
+      "translation": "Thou speak ’ st of the gods as if they were just ."
+    },
+    {
+      "id": "1.611",
+      "label": "Section 1.611",
+      "chapter": null,
+      "original": "— τίνες γὰρ ἄλλοι νέμουσι συμφοράς ;",
+      "translation": "For who but they allot whate ’ er betides ?"
+    },
+    {
+      "id": "1.612",
+      "label": "Section 1.612",
+      "chapter": null,
+      "original": "— διάφορα πολλὰ θεῶν βροτοῖσιν εἰσορῶ .",
+      "translation": "I see many a contradiction in their dealings with men ."
+    },
+    {
+      "id": "1.613",
+      "label": "Section 1.613",
+      "chapter": null,
+      "original": "— φόβῳ γὰρ τῷ πάρος διόλλυσαι ·\nδίκα δίκαν δʼ ἐκάλεσε καὶ φόνος φόνον ,",
+      "translation": "The former fear hath warped thy judgment . Vengeance calls vengeance forth ; slaughter calls for slaughter ,"
+    },
+    {
+      "id": "1.615",
+      "label": "Section 1.615",
+      "chapter": null,
+      "original": "κακῶν δʼ ἀναψυχὰς θεοὶ\nβροτοῖς νέμουσι , πάντων τέρμʼ ἔχοντες αὐτοί .",
+      "translation": "but the gods give respite from affliction , holding in their own hands each thing ’ s allotted end ."
+    },
+    {
+      "id": "2.618",
+      "label": "Section 2.618",
+      "chapter": null,
+      "original": "— τὰ καλλίπυργα πεδία πῶς ἱκοίμεθʼ ἄν ,\nΚαλλίχορον θεᾶς ὕδωρ λιποῦσαι —",
+      "translation": "Would I could reach yon plains with turrets crowned , leaving Callichorus , fountain of the goddess !"
+    },
+    {
+      "id": "2.620",
+      "label": "Section 2.620",
+      "chapter": null,
+      "original": "— ποτανὰν εἴ σέ τις θεῶν κτίσαι .\n— διπόταμον ἵνα πόλιν μόλω .",
+      "translation": "O that some god would give me wings to fly to the city of rivers twain !"
+    },
+    {
+      "id": "2.622",
+      "label": "Section 2.622",
+      "chapter": null,
+      "original": "— εἰδείης ἂν φίλων εἰδείης ἂν τύχας .",
+      "translation": "So might ’ st thou see and know the fortunes of thy friends ."
+    },
+    {
+      "id": "2.623",
+      "label": "Section 2.623",
+      "chapter": null,
+      "original": "— τίς ποτʼ αἶσα , τίς ἄρα πότμος\nἐπιμένει τὸν ἄλκιμον",
+      "translation": "What fate , what issue there awaits the valiant"
+    },
+    {
+      "id": "2.625",
+      "label": "Section 2.625",
+      "chapter": null,
+      "original": "τᾶσδε γᾶς ἄνακτα ;",
+      "translation": "monarch of this land ?"
+    },
+    {
+      "id": "2.626",
+      "label": "Section 2.626",
+      "chapter": null,
+      "original": "— κεκλημένους μὲν ἀνακαλούμεθʼ αὖ θεούς ·\n— ἀλλὰ φόβων πίστις ἅδε πρώτα .",
+      "translation": "Once more do we invoke the gods we called upon before ; yea , in our fear this is our first and chiefest trust ."
+    },
+    {
+      "id": "2.628",
+      "label": "Section 2.628",
+      "chapter": null,
+      "original": "— ἰὼ Ζεῦ , τᾶς παλαιομάτορος\nπαιδογόνε πόριος Ἰνάχου .",
+      "translation": "O Zeus , father to the child the heifer-mother bore in days long past , that daughter of Inachus !"
+    },
+    {
+      "id": "2.630",
+      "label": "Section 2.630",
+      "chapter": null,
+      "original": "— πόλει μοι ξύμμαχος γενοῦ τᾷδʼ εὐμενής .",
+      "translation": "O be gracious , I pray , and champion this city !"
+    },
+    {
+      "id": "2.631",
+      "label": "Section 2.631",
+      "chapter": null,
+      "original": "— τὸ σὸν ἄγαλμα , τὸ σὸν ἵδρυμα\nπόλεος , ἐκκομίζομαι\nπρὸς πυρὰν ὑβρισθέν .",
+      "translation": "’ Tis thy own darling , thy own settler in the city of Argos that I [*] am striving to rescue for the funeral pyre from outrageous insult ."
+    }
+  ],
+  "prevChunkSlug": "suppliant-women-7f9w7a-3",
+  "nextChunkSlug": "suppliant-women-7f9w7a-5"
+}

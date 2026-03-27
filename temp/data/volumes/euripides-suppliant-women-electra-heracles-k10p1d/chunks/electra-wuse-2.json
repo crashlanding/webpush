@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-suppliant-women-electra-heracles-k10p1d",
+  "volumeTitle": "Suppliant Women. Electra. Heracles",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "electra-wuse-2",
+  "label": "Electra (Section 225 - Section 284)",
+  "partId": "electra-wuse",
+  "partTitle": "Electra",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἠλέκτρα",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Electra",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg012.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "225",
+      "label": "Section 225",
+      "chapter": null,
+      "original": "καὶ πῶς ξιφήρης πρὸς δόμοις λοχᾷς ἐμοῖς ;",
+      "translation": "Then why are you in ambush , with drawn sword , near my house ?"
+    },
+    {
+      "id": "226",
+      "label": "Section 226",
+      "chapter": null,
+      "original": "μείνασʼ ἄκουσον , καὶ τάχʼ οὐκ ἄλλως ἐρεῖς .",
+      "translation": "Wait and hear , and you will soon say the same ."
+    },
+    {
+      "id": "227",
+      "label": "Section 227",
+      "chapter": null,
+      "original": "ἕστηκα · πάντως δʼ εἰμὶ σή · κρείσσων γὰρ εἶ .",
+      "translation": "I am still ; in any case , I am yours , since you are the stronger ."
+    },
+    {
+      "id": "228",
+      "label": "Section 228",
+      "chapter": null,
+      "original": "ἥκω φέρων σοι σοῦ κασιγνήτου λόγους .",
+      "translation": "I have come to bring you word from your brother ."
+    },
+    {
+      "id": "229",
+      "label": "Section 229",
+      "chapter": null,
+      "original": "ὦ φίλτατʼ , ἆρα ζῶντος ἢ τεθνηκότος ;",
+      "translation": "Oh best of friends ! Is he alive or dead ?"
+    },
+    {
+      "id": "230",
+      "label": "Section 230",
+      "chapter": null,
+      "original": "ζῇ · πρῶτα γάρ σοι τἀγάθʼ ἀγγέλλειν θέλω .",
+      "translation": "Alive ; for I want to tell you the good news first ."
+    },
+    {
+      "id": "231",
+      "label": "Section 231",
+      "chapter": null,
+      "original": "εὐδαιμονοίης , μισθὸν ἡδίστων λόγων .",
+      "translation": "May you be happy , as a reward for your most welcome tidings ."
+    },
+    {
+      "id": "232",
+      "label": "Section 232",
+      "chapter": null,
+      "original": "κοινῇ δίδωμι τοῦτο νῷν ἀμφοῖν ἔχειν .",
+      "translation": "I give that blessing for us two to have in common ."
+    },
+    {
+      "id": "233",
+      "label": "Section 233",
+      "chapter": null,
+      "original": "ποῦ γῆς ὁ τλήμων τλήμονας φυγὰς ἔχων ;",
+      "translation": "Where does the unhappy one live , in his unhappy exile ?"
+    },
+    {
+      "id": "234",
+      "label": "Section 234",
+      "chapter": null,
+      "original": "οὐχ ἕνα νομίζων φθείρεται πόλεως νόμον .",
+      "translation": "He goes miserably about , not following the customs of any one city ."
+    },
+    {
+      "id": "235",
+      "label": "Section 235",
+      "chapter": null,
+      "original": "οὔ που σπανίζων τοῦ καθʼ ἡμέραν βίου ;",
+      "translation": "Surely he does not want for a living , day by day ?"
+    },
+    {
+      "id": "236",
+      "label": "Section 236",
+      "chapter": null,
+      "original": "ἔχει μέν , ἀσθενὴς δὲ δὴ φεύγων ἀνήρ .",
+      "translation": "He has that , but an exile is a helpless man at best ."
+    },
+    {
+      "id": "237",
+      "label": "Section 237",
+      "chapter": null,
+      "original": "λόγον δὲ δὴ τίνʼ ἦλθες ἐκ κείνου φέρων ;",
+      "translation": "What is this message you have come bringing from him ?"
+    },
+    {
+      "id": "238",
+      "label": "Section 238",
+      "chapter": null,
+      "original": "εἰ ζῇς , ὅπως τε ζῶσα συμφορᾶς ἔχεις .",
+      "translation": "If you are alive , and if so , how you are ."
+    },
+    {
+      "id": "239",
+      "label": "Section 239",
+      "chapter": null,
+      "original": "οὐκοῦν ὁρᾷς μου πρῶτον ὡς ξηρὸν δέμας .",
+      "translation": "Well then , you see first of all how withered my body is ."
+    },
+    {
+      "id": "240",
+      "label": "Section 240",
+      "chapter": null,
+      "original": "λύπαις γε συντετηκός , ὥστε με στένειν .",
+      "translation": "Yes , so wasted with sorrow that I sigh for it ."
+    },
+    {
+      "id": "241",
+      "label": "Section 241",
+      "chapter": null,
+      "original": "καὶ κρᾶτα πλόκαμόν τʼ ἐσκυθισμένον ξυρῷ .",
+      "translation": "And my head and hair , close shaven as if by a Scythian ’ s razor ."
+    },
+    {
+      "id": "242",
+      "label": "Section 242",
+      "chapter": null,
+      "original": "δάκνει σʼ ἀδελφὸς ὅ τε θανὼν ἴσως πατήρ .",
+      "translation": "Your brother and your dead father perhaps gnaw at your heart ."
+    },
+    {
+      "id": "243",
+      "label": "Section 243",
+      "chapter": null,
+      "original": "οἴμοι , τί γάρ μοι τῶνδέ γʼ ἐστὶ φίλτερον ;",
+      "translation": "Alas ! For what is dearer to me than they ?"
+    },
+    {
+      "id": "244",
+      "label": "Section 244",
+      "chapter": null,
+      "original": "φεῦ φεῦ · τί δαὶ σὺ σῷ κασιγνήτῳ , δοκεῖς ;",
+      "translation": "Ah ! What are you to your brother , do you think ?"
+    },
+    {
+      "id": "245",
+      "label": "Section 245",
+      "chapter": null,
+      "original": "ἀπὼν ἐκεῖνος , οὐ παρὼν ἡμῖν φίλος .",
+      "translation": "He is far away , not here to be my friend ."
+    },
+    {
+      "id": "246",
+      "label": "Section 246",
+      "chapter": null,
+      "original": "ἐκ τοῦ δὲ ναίεις ἐνθάδʼ ἄστεως ἑκάς ;",
+      "translation": "Why are you living here , far from the city ?"
+    },
+    {
+      "id": "247",
+      "label": "Section 247",
+      "chapter": null,
+      "original": "ἐγημάμεσθʼ , ὦ ξεῖνε , θανάσιμον γάμον .",
+      "translation": "I am married , stranger ; a deadly match ."
+    },
+    {
+      "id": "248",
+      "label": "Section 248",
+      "chapter": null,
+      "original": "ᾤμωξʼ ἀδελφὸν σόν . Μυκηναίων τίνι ;",
+      "translation": "I pity your brother . Is your husband a Mycenaean ?"
+    },
+    {
+      "id": "249",
+      "label": "Section 249",
+      "chapter": null,
+      "original": "οὐχ ᾧ πατήρ μʼ ἤλπιζεν ἐκδώσειν ποτέ .",
+      "translation": "Not one to whom my father ever hoped to give me ."
+    },
+    {
+      "id": "250",
+      "label": "Section 250",
+      "chapter": null,
+      "original": "εἴφʼ , ὡς ἀκούσας σῷ κασιγνήτῳ λέγω .",
+      "translation": "Tell me so that I may hear and inform your brother ."
+    },
+    {
+      "id": "251",
+      "label": "Section 251",
+      "chapter": null,
+      "original": "ἐν τοῖσδʼ ἐκείνου τηλορὸς ναίω δόμοις .",
+      "translation": "I live in his house , at a distance from the city ."
+    },
+    {
+      "id": "252",
+      "label": "Section 252",
+      "chapter": null,
+      "original": "σκαφεύς τις ἢ βουφορβὸς ἄξιος δόμων .",
+      "translation": "A ditch-digger or a herdsman is worthy of the house ."
+    },
+    {
+      "id": "253",
+      "label": "Section 253",
+      "chapter": null,
+      "original": "πένης ἀνὴρ γενναῖος ἔς τʼ ἔμʼ εὐσεβής .",
+      "translation": "He is a man poor but noble , and respectful to me ."
+    },
+    {
+      "id": "254",
+      "label": "Section 254",
+      "chapter": null,
+      "original": "ἡ δʼ εὐσέβεια τίς πρόσεστι σῷ πόσει ;",
+      "translation": "What is this respect that your husband has ?"
+    },
+    {
+      "id": "255",
+      "label": "Section 255",
+      "chapter": null,
+      "original": "οὐπώποτʼ εὐνῆς τῆς ἐμῆς ἔτλη θιγεῖν .",
+      "translation": "He has never dared to touch me in bed ."
+    },
+    {
+      "id": "256",
+      "label": "Section 256",
+      "chapter": null,
+      "original": "ἅγνευμʼ ἔχων τι θεῖον ἤ σʼ ἀπαξιῶν ;",
+      "translation": "Does he hold some form of religious chastity , or does he think you unworthy ?"
+    },
+    {
+      "id": "257",
+      "label": "Section 257",
+      "chapter": null,
+      "original": "γονέας ὑβρίζειν τοὺς ἐμοὺς οὐκ ἠξίου .",
+      "translation": "He did not think himself worthy to insult my family ."
+    },
+    {
+      "id": "258",
+      "label": "Section 258",
+      "chapter": null,
+      "original": "καὶ πῶς γάμον τοιοῦτον οὐχ ἥσθη λαβών ;",
+      "translation": "And how was he not delighted to make such a marriage ?"
+    },
+    {
+      "id": "259",
+      "label": "Section 259",
+      "chapter": null,
+      "original": "οὐ κύριον τὸν δόντα μʼ ἡγεῖται , ξένε .",
+      "translation": "He thinks the person who gave me did not have that right , stranger ."
+    },
+    {
+      "id": "260",
+      "label": "Section 260",
+      "chapter": null,
+      "original": "ξυνῆκʼ · Ὀρέστῃ μή ποτʼ ἐκτείσῃ δίκην .",
+      "translation": "I understand ; he fears that he may someday be punished by Orestes ."
+    },
+    {
+      "id": "261",
+      "label": "Section 261",
+      "chapter": null,
+      "original": "τοῦτʼ αὐτὸ ταρβῶν , πρὸς δὲ καὶ σώφρων ἔφυ .",
+      "translation": "He does fear that , but he is also a virtuous man ."
+    },
+    {
+      "id": "262",
+      "label": "Section 262",
+      "chapter": null,
+      "original": "φεῦ ·",
+      "translation": "Ah ! You have described a noble man , and he must be treated well ."
+    },
+    {
+      "id": "263",
+      "label": "Section 263",
+      "chapter": null,
+      "original": "εἰ δή ποθʼ ἥξει γʼ ἐς δόμους ὁ νῦν ἀπών .",
+      "translation": "Yes , if ever the one now absent comes home ."
+    },
+    {
+      "id": "264",
+      "label": "Section 264",
+      "chapter": null,
+      "original": "μήτηρ δέ σʼ ἡ τεκοῦσα ταῦτʼ ἠνέσχετο ;",
+      "translation": "But did your mother , who gave you birth , endure this ?"
+    },
+    {
+      "id": "265",
+      "label": "Section 265",
+      "chapter": null,
+      "original": "γυναῖκες ἀνδρῶν , ὦ ξένʼ , οὐ παίδων φίλαι .",
+      "translation": "Women love their husbands , stranger , not their children ."
+    },
+    {
+      "id": "266",
+      "label": "Section 266",
+      "chapter": null,
+      "original": "τίνος δέ σʼ οὕνεχʼ ὕβρισʼ Αἴγισθος τάδε ;",
+      "translation": "Why did Aegisthus insult you in this way ?"
+    },
+    {
+      "id": "267",
+      "label": "Section 267",
+      "chapter": null,
+      "original": "τεκεῖν μʼ ἐβούλετʼ ἀσθενῆ , τοιῷδε δούς .",
+      "translation": "He planned for me to bear powerless children , when he gave me to such a man ."
+    },
+    {
+      "id": "268",
+      "label": "Section 268",
+      "chapter": null,
+      "original": "ὡς δῆθε παῖδας μὴ τέκοις ποινάτορας ;",
+      "translation": "So that you might not bear sons to punish him , of course ?"
+    },
+    {
+      "id": "269",
+      "label": "Section 269",
+      "chapter": null,
+      "original": "τοιαῦτʼ ἐβούλευσʼ · ὧν ἐμοὶ δοίη δίκην .",
+      "translation": "That was his plan ; may he make amends to me for it !"
+    },
+    {
+      "id": "270",
+      "label": "Section 270",
+      "chapter": null,
+      "original": "οἶδεν δέ σʼ οὖσαν παρθένον μητρὸς πόσις ;",
+      "translation": "Does your mother ’ s husband know that you are a virgin ?"
+    },
+    {
+      "id": "271",
+      "label": "Section 271",
+      "chapter": null,
+      "original": "οὐκ οἶδε · σιγῇ τοῦθʼ ὑφαιρούμεσθά νιν .",
+      "translation": "He does not know ; we steal that from him by our silence ."
+    },
+    {
+      "id": "272",
+      "label": "Section 272",
+      "chapter": null,
+      "original": "αἵδʼ οὖν φίλαι σοι τούσδʼ ἀκούουσιν λόγους ;",
+      "translation": "Are these women who hear our talk friends of yours ?"
+    },
+    {
+      "id": "273",
+      "label": "Section 273",
+      "chapter": null,
+      "original": "ὥστε στέγειν γε τἀμὰ καὶ σʼ ἔπη καλῶς .",
+      "translation": "They will keep both your words and mine well hidden ."
+    },
+    {
+      "id": "274",
+      "label": "Section 274",
+      "chapter": null,
+      "original": "τί δῆτʼ Ὀρέστης πρὸς τόδʼ , Ἄργος ἢν μόλῃ ;",
+      "translation": "What then could Orestes do in this matter if he comes to Argos ?"
+    },
+    {
+      "id": "275",
+      "label": "Section 275",
+      "chapter": null,
+      "original": "ἤρου τόδʼ ; αἰσχρόν γʼ εἶπας · οὐ γὰρ νῦν ἀκμή ;",
+      "translation": "Do you ask this ? You have said a shameful word ; isn ’ t it the critical time now ?"
+    },
+    {
+      "id": "276",
+      "label": "Section 276",
+      "chapter": null,
+      "original": "ἐλθὼν δὲ δὴ πῶς φονέας ἂν κτάνοι πατρός ;",
+      "translation": "But if he does come , how might he kill his father ’ s murderers ?"
+    },
+    {
+      "id": "277",
+      "label": "Section 277",
+      "chapter": null,
+      "original": "τολμῶν ὑπʼ ἐχθρῶν οἷʼ ἐτολμήθη πατήρ .",
+      "translation": "By daring such things as his enemies dared against my father ."
+    },
+    {
+      "id": "278",
+      "label": "Section 278",
+      "chapter": null,
+      "original": "ἦ καὶ μετʼ αὐτοῦ μητέρʼ ἂν τλαίης κτανεῖν ;",
+      "translation": "And would you dare , with him , to kill your mother ?"
+    },
+    {
+      "id": "279",
+      "label": "Section 279",
+      "chapter": null,
+      "original": "ταὐτῷ γε πελέκει τῷ πατὴρ ἀπώλετο .",
+      "translation": "Yes , with that same axe by which my father died ."
+    },
+    {
+      "id": "280",
+      "label": "Section 280",
+      "chapter": null,
+      "original": "λέγω τάδʼ αὐτῷ , καὶ βέβαια τἀπὸ σοῦ ;",
+      "translation": "Am I to tell him this , and that your purpose is steadfast ?"
+    },
+    {
+      "id": "281",
+      "label": "Section 281",
+      "chapter": null,
+      "original": "θάνοιμι μητρὸς αἷμʼ ἐπισφάξασʼ ἐμῆς .",
+      "translation": "Once I had shed my mother ’ s blood , I might die !"
+    },
+    {
+      "id": "282",
+      "label": "Section 282",
+      "chapter": null,
+      "original": "φεῦ ·",
+      "translation": "Ah ! Would that Orestes were near by , to hear that !"
+    },
+    {
+      "id": "283",
+      "label": "Section 283",
+      "chapter": null,
+      "original": "ἀλλʼ , ὦ ξένʼ , οὐ γνοίην ἂν εἰσιδοῦσά νιν .",
+      "translation": "But , stranger , I would not know him if I saw him ."
+    },
+    {
+      "id": "284",
+      "label": "Section 284",
+      "chapter": null,
+      "original": "νέα γάρ , οὐδὲν θαῦμʼ , ἀπεζεύχθης νέου .",
+      "translation": "No wonder , for you were both young when you were parted ."
+    }
+  ],
+  "prevChunkSlug": "electra-wuse-1",
+  "nextChunkSlug": "electra-wuse-3"
+}

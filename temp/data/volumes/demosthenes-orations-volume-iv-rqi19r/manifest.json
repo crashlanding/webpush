@@ -1,0 +1,301 @@
+{
+  "loebNumber": 318,
+  "sortOrder": 318,
+  "slug": "demosthenes-orations-volume-iv-rqi19r",
+  "title": "Orations, Volume IV",
+  "volumeLabel": "Orations, Volume IV",
+  "authorDisplay": "Demosthenes",
+  "authors": [
+    "Demosthenes"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Orations, Volume IV. Orations, Volume IV opens a closest available slice of Demosthenes on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "against-aphobus-ii-1dalcc",
+  "readyChunkCount": 9,
+  "contents": [
+    {
+      "id": "orations-volume-iv-173mr8",
+      "title": "Orations, Volume IV",
+      "status": "ready",
+      "sectionCount": 377,
+      "chunkSlug": "against-aphobus-ii-1dalcc",
+      "chunks": [
+        {
+          "slug": "against-aphobus-ii-1dalcc",
+          "label": "Against Aphobus II",
+          "partId": "orations-volume-iv-173mr8",
+          "partTitle": "Orations, Volume IV",
+          "sectionCount": 24,
+          "status": "ready"
+        },
+        {
+          "slug": "against-aphobus-iii-10h0h1",
+          "label": "Against Aphobus III",
+          "partId": "orations-volume-iv-173mr8",
+          "partTitle": "Orations, Volume IV",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "against-onetor-i-1gjckb",
+          "label": "Against Onetor I",
+          "partId": "orations-volume-iv-173mr8",
+          "partTitle": "Orations, Volume IV",
+          "sectionCount": 39,
+          "status": "ready"
+        },
+        {
+          "slug": "against-onetor-ii-1tzcad",
+          "label": "Against Onetor II",
+          "partId": "orations-volume-iv-173mr8",
+          "partTitle": "Orations, Volume IV",
+          "sectionCount": 14,
+          "status": "ready"
+        },
+        {
+          "slug": "against-zenothemis-1fxdh8",
+          "label": "Against Zenothemis",
+          "partId": "orations-volume-iv-173mr8",
+          "partTitle": "Orations, Volume IV",
+          "sectionCount": 32,
+          "status": "ready"
+        },
+        {
+          "slug": "against-apaturius-1lb8dl",
+          "label": "Against Apaturius",
+          "partId": "orations-volume-iv-173mr8",
+          "partTitle": "Orations, Volume IV",
+          "sectionCount": 38,
+          "status": "ready"
+        },
+        {
+          "slug": "against-phormio-p51bsp",
+          "label": "Against Phormio",
+          "partId": "orations-volume-iv-173mr8",
+          "partTitle": "Orations, Volume IV",
+          "sectionCount": 52,
+          "status": "ready"
+        },
+        {
+          "slug": "against-lacritus-1meh3s",
+          "label": "Against Lacritus",
+          "partId": "orations-volume-iv-173mr8",
+          "partTitle": "Orations, Volume IV",
+          "sectionCount": 56,
+          "status": "ready"
+        },
+        {
+          "slug": "for-phormio-1rgrpj",
+          "label": "For Phormio",
+          "partId": "orations-volume-iv-173mr8",
+          "partTitle": "Orations, Volume IV",
+          "sectionCount": 62,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "against-aphobus-ii-1dalcc",
+      "label": "Against Aphobus II",
+      "partId": "orations-volume-iv-173mr8",
+      "partTitle": "Orations, Volume IV",
+      "sectionCount": 24,
+      "status": "ready"
+    },
+    {
+      "slug": "against-aphobus-iii-10h0h1",
+      "label": "Against Aphobus III",
+      "partId": "orations-volume-iv-173mr8",
+      "partTitle": "Orations, Volume IV",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "against-onetor-i-1gjckb",
+      "label": "Against Onetor I",
+      "partId": "orations-volume-iv-173mr8",
+      "partTitle": "Orations, Volume IV",
+      "sectionCount": 39,
+      "status": "ready"
+    },
+    {
+      "slug": "against-onetor-ii-1tzcad",
+      "label": "Against Onetor II",
+      "partId": "orations-volume-iv-173mr8",
+      "partTitle": "Orations, Volume IV",
+      "sectionCount": 14,
+      "status": "ready"
+    },
+    {
+      "slug": "against-zenothemis-1fxdh8",
+      "label": "Against Zenothemis",
+      "partId": "orations-volume-iv-173mr8",
+      "partTitle": "Orations, Volume IV",
+      "sectionCount": 32,
+      "status": "ready"
+    },
+    {
+      "slug": "against-apaturius-1lb8dl",
+      "label": "Against Apaturius",
+      "partId": "orations-volume-iv-173mr8",
+      "partTitle": "Orations, Volume IV",
+      "sectionCount": 38,
+      "status": "ready"
+    },
+    {
+      "slug": "against-phormio-p51bsp",
+      "label": "Against Phormio",
+      "partId": "orations-volume-iv-173mr8",
+      "partTitle": "Orations, Volume IV",
+      "sectionCount": 52,
+      "status": "ready"
+    },
+    {
+      "slug": "against-lacritus-1meh3s",
+      "label": "Against Lacritus",
+      "partId": "orations-volume-iv-173mr8",
+      "partTitle": "Orations, Volume IV",
+      "sectionCount": 56,
+      "status": "ready"
+    },
+    {
+      "slug": "for-phormio-1rgrpj",
+      "label": "For Phormio",
+      "partId": "orations-volume-iv-173mr8",
+      "partTitle": "Orations, Volume IV",
+      "sectionCount": 62,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "against-aphobus-ii-1dalcc",
+      "partTitle": "Orations, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Ἀφόβου β΄",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg028.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Aphobus II",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg028.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-aphobus-iii-10h0h1",
+      "partTitle": "Orations, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "πρὸς Ἄφοβον ὑπὲρ Φάνου ψευδομαρτυριῶν γ΄",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg029.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Aphobus III",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg029.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-onetor-i-1gjckb",
+      "partTitle": "Orations, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "πρὸς Ὀνήτορα ἐξούλης α΄",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg030.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Onetor, An Ejectment Suit I",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg030.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-onetor-ii-1tzcad",
+      "partTitle": "Orations, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "πρὸς Ὀνήτορα ἐξούλης β΄",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg031.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Onetor, An Ejectment Suit II",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg031.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-zenothemis-1fxdh8",
+      "partTitle": "Orations, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "πρὸς Ζηνόθεμιν παραγραφή",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg032.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Plea of Demo Against Zenothemis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg032.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-apaturius-1lb8dl",
+      "partTitle": "Orations, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "πρὸς Ἀπατούριον παραγραφή",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg033.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Unknown Pleader Against Apaturius",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg033.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-phormio-p51bsp",
+      "partTitle": "Orations, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "πρὸς Φορμίωνα ὑπὲρ δανείου",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg034.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Plea of Chrysipus and Partner Against Phormio",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg034.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-lacritus-1meh3s",
+      "partTitle": "Orations, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "πρὸς τὴν Λάκριτον παραγραφὴν",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg035.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Androcles Against Lacritus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg035.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "for-phormio-1rgrpj",
+      "partTitle": "Orations, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "παραγραφὴ ὑπὲρ Φορμίωνος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg036.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "A Friend Pleading for Phormio",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg036.perseus-eng2/"
+      }
+    }
+  ]
+}

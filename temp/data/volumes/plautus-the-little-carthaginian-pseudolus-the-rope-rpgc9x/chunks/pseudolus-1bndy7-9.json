@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-little-carthaginian-pseudolus-the-rope-rpgc9x",
+  "volumeTitle": "The Little Carthaginian. Pseudolus. The Rope",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "pseudolus-1bndy7-9",
+  "label": "Pseudolus (Section 2.2.624_625b - Section 2.4.702c)",
+  "partId": "pseudolus-1bndy7",
+  "partTitle": "Pseudolus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Pseudolus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Pseudolus, or The Cheat",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "2.2.624_625b",
+      "label": "Section 2.2.624_625b",
+      "chapter": null,
+      "original": "Tun attulisti ?",
+      "translation": "What ?— have you brought it ?"
+    },
+    {
+      "id": "2.2.624_625c",
+      "label": "Section 2.2.624_625c",
+      "chapter": null,
+      "original": "Egomet .",
+      "translation": "I , myself ."
+    },
+    {
+      "id": "2.2.624_625d",
+      "label": "Section 2.2.624_625d",
+      "chapter": null,
+      "original": "Quid dubitas dare ?",
+      "translation": "Do you at all hesitate to give it me ?"
+    },
+    {
+      "id": "2.2.626",
+      "label": "Section 2.2.626",
+      "chapter": null,
+      "original": "Tibi ego dem ?",
+      "translation": "I , give it you ?"
+    },
+    {
+      "id": "2.2.626b",
+      "label": "Section 2.2.626b",
+      "chapter": null,
+      "original": "Mihi hercle vero , qui res rationesque eri",
+      "translation": "Aye , faith , to me , who manage the business and the accounts of my master Ballio , receive his money , and pay it to him to whom he owes it ."
+    },
+    {
+      "id": "2.2.628",
+      "label": "Section 2.2.628",
+      "chapter": null,
+      "original": "Si quidem hercle etiam supremi promptas thensauros Iovis ,",
+      "translation": "By my troth , if you were even the keeper of the treasures of supreme Jove , I would never entrust a groat of silver to you ."
+    },
+    {
+      "id": "2.2.629b",
+      "label": "Section 2.2.629b",
+      "chapter": null,
+      "original": "Dum tu sternuas ,",
+      "translation": "While you ’ ve been making yourself so big ,"
+    },
+    {
+      "id": "2.2.630",
+      "label": "Section 2.2.630",
+      "chapter": null,
+      "original": "res erit soluta .",
+      "translation": "the money has become loose [*] ."
+    },
+    {
+      "id": "2.2.630b",
+      "label": "Section 2.2.630b",
+      "chapter": null,
+      "original": "Vinctam potius sic servavero .",
+      "translation": "I ’ ll keep it the rather tied up — this way ."
+    },
+    {
+      "id": "2.2.631",
+      "label": "Section 2.2.631",
+      "chapter": null,
+      "original": "Vae tibi , tu inventu ’ (s e) s vero , meam qui furcilles fidem .",
+      "translation": "Woe to you ! You indeed have been found to doubt my honor . As though innumerable times as much are not in the habit of being entrusted to me alone ."
+    },
+    {
+      "id": "2.2.633",
+      "label": "Section 2.2.633",
+      "chapter": null,
+      "original": "Potest ut alii ita arbitrentur et ego ut ne credam tibi .",
+      "translation": "It ’ s possible that others may think so , and that I mayn ’ t trust you ."
+    },
+    {
+      "id": "2.2.634",
+      "label": "Section 2.2.634",
+      "chapter": null,
+      "original": "Quasi tu dicas me te velle argento circumducere .",
+      "translation": "As though you meant to say that I wished to chouse you out of the money ."
+    },
+    {
+      "id": "2.2.635",
+      "label": "Section 2.2.635",
+      "chapter": null,
+      "original": "Immo vero quasi tu dicas quasique ego autem id suspicer .",
+      "translation": "Why , yes ; as though you meant to say so ; and as though I , on the other hand , meant to suspect it . But what ’ s your name ?"
+    },
+    {
+      "id": "2.2.636b",
+      "label": "Section 2.2.636b",
+      "chapter": null,
+      "original": "Servos est huic lenoni Surus ,",
+      "translation": "This procurer has a servant of the name of Syrus ; I ’ ll say that I am he . I am Syrus ."
+    },
+    {
+      "id": "2.2.637b",
+      "label": "Section 2.2.637b",
+      "chapter": null,
+      "original": "Surus ?",
+      "translation": "Syrus ?"
+    },
+    {
+      "id": "2.2.637c",
+      "label": "Section 2.2.637c",
+      "chapter": null,
+      "original": "Id est nomen mihi .",
+      "translation": "That ’ s my name ."
+    },
+    {
+      "id": "2.2.638",
+      "label": "Section 2.2.638",
+      "chapter": null,
+      "original": "Verba multa facimus . erus si tuos domi est , quin provocas ,",
+      "translation": "We are making many words . If your master ’ s at home , why don ’ t you call him out , that I may transact that for which I was sent here , whatever be your name ?"
+    },
+    {
+      "id": "2.2.640",
+      "label": "Section 2.2.640",
+      "chapter": null,
+      "original": "Si intus esset , evocarem . verum si dare vis mihi ,",
+      "translation": "If he were within I would call him out . But if you choose to give it me , it will be more truly paid than if you were to give it to himself ."
+    },
+    {
+      "id": "2.2.641b",
+      "label": "Section 2.2.641b",
+      "chapter": null,
+      "original": "At enim scin quid est ?",
+      "translation": "But now do you know how it is ? My master has sent me to pay this , not to lose it . But I know , to a certainty , that you are in a fever now , because you cannot lay your claws upon it . I shall entrust the money to no person except to Ballio himself ."
+    },
+    {
+      "id": "2.2.645",
+      "label": "Section 2.2.645",
+      "chapter": null,
+      "original": "At illic nunc negotiosust : res agitur apud iudicem .",
+      "translation": "But at present he ’ s full of business : a cause of his is being tried before the judge ."
+    },
+    {
+      "id": "2.2.646",
+      "label": "Section 2.2.646",
+      "chapter": null,
+      "original": "Di bene vortant . at ego quando eum esse censebo domi ,",
+      "translation": "May the Gods prosper it ! And I , when I shall think that he ’ s at home , will come again . Do you take this letter from me , and give it him : for in it is the token agreed upon between your master and mine about the damsel ."
+    },
+    {
+      "id": "2.2.649",
+      "label": "Section 2.2.649",
+      "chapter": null,
+      "original": "Scio equidem : ut qui argentum adferret atque expressam imaginem",
+      "translation": "For my part , I understand it ; the person who should bring the money and the impress of his likeness"
+    },
+    {
+      "id": "2.2.650",
+      "label": "Section 2.2.650",
+      "chapter": null,
+      "original": "suam huc ad nos , cum eo aiebat velle mitti mulierem .",
+      "translation": "hither to us , with him he said he wished the damsel to be sent ; for he left a specimen of it here as well ."
+    },
+    {
+      "id": "2.2.651b",
+      "label": "Section 2.2.651b",
+      "chapter": null,
+      "original": "Omnem rem tenes .",
+      "translation": "You understand the whole affair ?"
+    },
+    {
+      "id": "2.2.652",
+      "label": "Section 2.2.652",
+      "chapter": null,
+      "original": "Quid ego ni teneam ?",
+      "translation": "Why should I not understand it ?"
+    },
+    {
+      "id": "2.2.652b",
+      "label": "Section 2.2.652b",
+      "chapter": null,
+      "original": "Dato istunc sumbolum ergo illi .",
+      "translation": "Give him this token then ."
+    },
+    {
+      "id": "2.2.652c",
+      "label": "Section 2.2.652c",
+      "chapter": null,
+      "original": "Licet .",
+      "translation": "Very well . But what ’ s your name ?"
+    },
+    {
+      "id": "2.2.653b",
+      "label": "Section 2.2.653b",
+      "chapter": null,
+      "original": "Harpax .",
+      "translation": "Harpax ."
+    },
+    {
+      "id": "2.2.653c",
+      "label": "Section 2.2.653c",
+      "chapter": null,
+      "original": "Apage te , Harpax , hau places ;",
+      "translation": "Get along with you , Harpax , I like you not . By my troth , you really shan ’ t enter this house , lest you should be doing something in the harpy line [*] ."
+    },
+    {
+      "id": "2.2.655",
+      "label": "Section 2.2.655",
+      "chapter": null,
+      "original": "Hostis vivos rapere soleo ex acie : eo hoc nomen mihi est .",
+      "translation": "I am wont to carry off my enemies alive from the battle-field ; from that circumrstance is my name ."
+    },
+    {
+      "id": "2.2.656",
+      "label": "Section 2.2.656",
+      "chapter": null,
+      "original": "Pol te multo magis opinor vasa ahena ex aedibus .",
+      "translation": "I ’ faith , I think that you are much more likely to carry off the brass pots from a house ."
+    },
+    {
+      "id": "2.2.657",
+      "label": "Section 2.2.657",
+      "chapter": null,
+      "original": "Non ita est . sed scin quid te oro , Sure ?",
+      "translation": "Such is not the fact . But , Syrus , do you know what I request of you ?"
+    },
+    {
+      "id": "2.2.657b",
+      "label": "Section 2.2.657b",
+      "chapter": null,
+      "original": "Sciam si dixeris .",
+      "translation": "I shall know , if you tell me ."
+    },
+    {
+      "id": "2.2.658",
+      "label": "Section 2.2.658",
+      "chapter": null,
+      "original": "Ego devortor extra portam huc in tabernam tertiam ,",
+      "translation": "I shall put up outside of the gate here , at the third shop , at the house of that tun-bellied , limping , fat old woman , Chrysis ."
+    },
+    {
+      "id": "2.2.660",
+      "label": "Section 2.2.660",
+      "chapter": null,
+      "original": "Quid nunc vis ?",
+      "translation": "What do you wish then ?"
+    },
+    {
+      "id": "2.2.660b",
+      "label": "Section 2.2.660b",
+      "chapter": null,
+      "original": "Inde ut me arcessas , erus tuos ubi venerit .",
+      "translation": "That you ’ ll fetch me thence when your master comes ."
+    },
+    {
+      "id": "2.2.661",
+      "label": "Section 2.2.661",
+      "chapter": null,
+      "original": "Tuo arbitratu , maxume .",
+      "translation": "At your pleasure ; by all means ."
+    },
+    {
+      "id": "2.2.661b",
+      "label": "Section 2.2.661b",
+      "chapter": null,
+      "original": "Nam ut lassus veni de via ,",
+      "translation": "For , as I ’ ve come wearied off my journey , I wish to refresh myself ."
+    },
+    {
+      "id": "2.2.662b",
+      "label": "Section 2.2.662b",
+      "chapter": null,
+      "original": "Sane sapis et consilium placet .",
+      "translation": "You are very wise , and your plan is agreable to me . But take care , please , that you are not out of the way when I send for you ."
+    },
+    {
+      "id": "2.2.664",
+      "label": "Section 2.2.664",
+      "chapter": null,
+      "original": "Quin ubi prandero , dabo operam somno .",
+      "translation": "Why , when I ’ ve dined , I shall indulge myself with a nap ."
+    },
+    {
+      "id": "2.2.664b",
+      "label": "Section 2.2.664b",
+      "chapter": null,
+      "original": "Sane censeo .",
+      "translation": "I quite agree with you ."
+    },
+    {
+      "id": "2.2.665",
+      "label": "Section 2.2.665",
+      "chapter": null,
+      "original": "Numquid vis ?",
+      "translation": "Do you wish aught else ?"
+    },
+    {
+      "id": "2.2.665b",
+      "label": "Section 2.2.665b",
+      "chapter": null,
+      "original": "Dormitum ut abeas .",
+      "translation": "That you ’ ll be off to take your nap ."
+    },
+    {
+      "id": "2.2.665c",
+      "label": "Section 2.2.665c",
+      "chapter": null,
+      "original": "Abeo .—",
+      "translation": "I ’ m off ."
+    },
+    {
+      "id": "2.2.665d",
+      "label": "Section 2.2.665d",
+      "chapter": null,
+      "original": "Atque audin , Harpage ?",
+      "translation": "And , do you hear , Harpax ? Order yourself to be covered up , please ; you ’ ll receive the benefit if you take a good sweat ."
+    },
+    {
+      "id": "2.3.667",
+      "label": "Section 2.3.667",
+      "chapter": null,
+      "original": "di immortales , conservavit me illic homo adventu suo .",
+      "translation": "Immortal Gods ! this man has preserved me by his coming . By his supply for my journey he has brought me from my wanderings quite into the right way . For the Goddess Opportunity herself could not come to me more opportunely ,"
+    },
+    {
+      "id": "2.3.670",
+      "label": "Section 2.3.670",
+      "chapter": null,
+      "original": "advenire quam haec allatast mi opportune epistula .",
+      "translation": "than has this letter in this opportune manner been brought to me . For this has been brought as a horn of plenty [*] , in which there is whatever I wish for : here are my wiles , here all my tricks , here my stratagems , here my money , here his mistress for my master ’ s son so much in love . And now how vaunting shall I show myself ; how , with a breast so fertile in expedients ,"
+    },
+    {
+      "id": "2.3.675",
+      "label": "Section 2.3.675",
+      "chapter": null,
+      "original": "quo modo quícque agerem , ut lenoni surruperem mulierculam ,",
+      "translation": "I was to do each thing , how , to steal away the damsel from the procurer , I had all my plans arranged in order in my mind as I desired , fixed , planned out . But , no doubt , thus will it come to pass : this Goddess Fortune , unaided , prevails over the designs of a hundred armed men . And this is the fact , just as each person uses his fortune , so does he surpass others ,"
+    },
+    {
+      "id": "2.3.680",
+      "label": "Section 2.3.680",
+      "chapter": null,
+      "original": "ita praecellet atque exinde sapere eum omnes dicimus .",
+      "translation": "and forthwith we all pronounce him wise . When we learn that the counsels of any person have turned out well , we declare that he is a prudent man ; but that he is a fool who is unsuccessful . In our folly we know not how much we are mistaken , when we eagerly wish anything to be given to us ; as though we ourselves could possibly know what is for our advantage ."
+    },
+    {
+      "id": "2.3.685",
+      "label": "Section 2.3.685",
+      "chapter": null,
+      "original": "certa mittimus , dum incerta petimus ; atque hoc evenit",
+      "translation": "We lose what is certain , while we are seeking what is uncertain . And this comes to pass , amid labours and amid sorrow , that death meanwhile comes creeping on . But there ’ s enough now of philosophizing ; I have been talking too long , and at too great length . Immortal Gods ! my lie was not dear at its weight in double-distilled gold , which I just now trumped up here on the spur of the moment ,"
+    },
+    {
+      "id": "2.3.690",
+      "label": "Section 2.3.690",
+      "chapter": null,
+      "original": "quia lenonis me esse dixi . nunc ego hac epistula",
+      "translation": "when I said that I belonged to the procurer . Now , through this letter shall I deceive three persons — my master , and the procurer , and him who gave me this letter . Excellent ! another thing as well has happened , that I wished for : see , Calidorus is coming ; he is bringing some one with him , I know not whom ."
+    },
+    {
+      "id": "2.4.694",
+      "label": "Section 2.4.694",
+      "chapter": null,
+      "original": "Dulcia atque amara apud te sum elocutus omnia :",
+      "translation": "The sweets and the bitters , all have I disclosed to you . You know my love , you know my difficulty , you know my poverty ."
+    },
+    {
+      "id": "2.4.696",
+      "label": "Section 2.4.696",
+      "chapter": null,
+      "original": "Commemini omnia : id tu modo , me quid vis facere , fac sciam .",
+      "translation": "I well remember all ; do you only let me know what you want me to do ."
+    },
+    {
+      "id": "2.4.697",
+      "label": "Section 2.4.697",
+      "chapter": null,
+      "original": "Pseudolus mi ita imperavit , ut aliquem hominem strenuom",
+      "translation": "Pseudolus has directed me thus , that I should bring to him some bold and zealous person ."
+    },
+    {
+      "id": "2.4.698b",
+      "label": "Section 2.4.698b",
+      "chapter": null,
+      "original": "Servas imperium probe ;",
+      "translation": "You observe your directions well ; for you bring him one both friendly and zealous . But this Pseudolus"
+    },
+    {
+      "id": "2.4.700",
+      "label": "Section 2.4.700",
+      "chapter": null,
+      "original": "novos mihist .",
+      "translation": "is a stranger to me ."
+    },
+    {
+      "id": "2.4.700b",
+      "label": "Section 2.4.700b",
+      "chapter": null,
+      "original": "Nimium est mortalis graphicus , † heuretes mihi est .",
+      "translation": "He is a very clever fellow — he is my contriver . He said that he would effect those things for me that I have told you of ."
+    },
+    {
+      "id": "2.4.702",
+      "label": "Section 2.4.702",
+      "chapter": null,
+      "original": "Magnufice hominem compellabo .",
+      "translation": "I ’ ll address this person in a very lofty strain ."
+    },
+    {
+      "id": "2.4.702b",
+      "label": "Section 2.4.702b",
+      "chapter": null,
+      "original": "Quoia vox resonat ?",
+      "translation": "Whose voice is it that ’ s heard here ?"
+    },
+    {
+      "id": "2.4.702c",
+      "label": "Section 2.4.702c",
+      "chapter": null,
+      "original": "Io ,",
+      "translation": "Oh ! thee , sovereign lord , thee , oh ! thee do I address who dost rule over Pseudolus : thee do I seek , to impart to thee delights thrice three , threefold , acquired by three contrivances ,"
+    }
+  ],
+  "prevChunkSlug": "pseudolus-1bndy7-8",
+  "nextChunkSlug": "pseudolus-1bndy7-10"
+}

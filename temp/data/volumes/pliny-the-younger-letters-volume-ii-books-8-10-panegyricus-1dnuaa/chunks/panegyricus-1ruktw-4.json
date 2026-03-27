@@ -1,0 +1,94 @@
+{
+  "volumeSlug": "pliny-the-younger-letters-volume-ii-books-8-10-panegyricus-1dnuaa",
+  "volumeTitle": "Letters, Volume II: Books 8-10. Panegyricus",
+  "authorDisplay": "Pliny the Younger",
+  "authors": [
+    "Pliny the Younger"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "panegyricus-1ruktw-4",
+  "label": "Panegyricus (Section 181 - Section 189)",
+  "partId": "panegyricus-1ruktw",
+  "partTitle": "Panegyricus",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Πανηγυρικός",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg011.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Panegyricus",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg011.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "181",
+      "label": "Section 181",
+      "chapter": null,
+      "original": "ὑπὲρ ὧν ἄξιον ὀργίζεσθαι , καὶ σκοπεῖν ὅπως τῶν τε γεγενημένων δίκην ληψόμεθα καὶ τὰ μέλλοντα διορθωσόμεθα . καὶ γὰρ αἰσχρὸν ἰδίᾳ μὲν τοῖς βαρβάροις οἰκέταις ἀξιοῦν χρῆσθαι , δημοσίᾳ δὲ τοσούτους τῶν συμμάχων περιορᾶν αὐτοῖς δουλεύοντας , καὶ τοὺς μὲν περὶ τὰ Τρωικὰ γενομένους μιᾶς γυναικὸς ἁρπασθείσης οὕτως ἅπαντας συνοργισθῆναι τοῖς ἀδικηθεῖσιν , ὥστε μὴ πρότερον παύσασθαι πολεμοῦντας πρὶν τὴν πόλιν ἀνάστατον ἐποίησαν τοῦ τολμήσαντος ἐξαμαρτεῖν ,",
+      "translation": "These things may well rouse our indignation and make us look to the means by which we shall take vengeance for the past and set the future right . For verily it is shameful for us , who in our private life think the barbarians are fit only to be used as household slaves , to permit by our public policy so many of our allies to be enslaved by them ; and it is disgraceful for us , when our fathers who engaged in the Trojan expedition because of the rape of one woman , all shared so deeply in the indignation of the wronged that they did not stop waging war until they had laid in ruins the city of him who had dared to commit the crime ,"
+    },
+    {
+      "id": "182",
+      "label": "Section 182",
+      "chapter": null,
+      "original": "ἡμᾶς δʼ ὅλης τῆς Ἑλλάδος ὑβριζομένης μηδεμίαν ποιήσασθαι κοινὴν τιμωρίαν , ἐξὸν ἡμῖν εὐχῆς ἄξια διαπράξασθαι . μόνος γὰρ οὗτος ὁ πόλεμος εἰρήνης κρείττων ἐστί , θεωρίᾳ μὲν μᾶλλον ἢ στρατείᾳ προσεοικώς , ἀμφοτέροις δὲ συμφέρων , καὶ τοῖς ἡσυχίαν ἄγειν καὶ τοῖς πολεμεῖν ἐπιθυμοῦσιν . εἴη γὰρ ἂν τοῖς μὲν ἀδεῶς τὰ σφέτερʼ αὐτῶν καρποῦσθαι , τοῖς δʼ ἐκ τῶν ἀλλοτρίων μεγάλους πλούτους κατακτήσασθαι .",
+      "translation": "— it is disgraceful for us , I say , now that all Hellas is being continually outraged , to take not a single step to wreak a common vengeance , although we have it in our power to accomplish deeds as lofty as our dreams . For this war is the only war which is better than peace ; it will be more like a sacred mission than a military expedition ; and it will profit equally both those who crave the quiet life and those who are eager for war ; for it will enable the former to reap the fruits of their own possessions in security and the latter to win great wealth from the possessions of our foes ."
+    },
+    {
+      "id": "183",
+      "label": "Section 183",
+      "chapter": null,
+      "original": "πολλαχῇ δʼ ἄν τις λογιζόμενος εὕροι ταύτας τὰς πράξεις μάλιστα λυσιτελούσας ἡμῖν . φέρε γάρ , πρὸς τίνας χρὴ πολεμεῖν τοὺς μηδεμιᾶς πλεονεξίας ἐπιθυμοῦντας ἀλλʼ αὐτὸ τὸ δίκαιον σκοποῦντας ; οὐ πρὸς τοὺς καὶ πρότερον κακῶς τὴν Ἑλλάδα ποιήσαντας καὶ νῦν ἐπιβουλεύοντας καὶ πάντα τὸν χρόνον οὕτω πρὸς ἡμᾶς διακειμένους ;",
+      "translation": "You will find , if you weigh the matter carefully , that this undertaking is most desirable for us from many points of view . For against whom , pray , ought men to wage war who crave no aggrandizement , but look to the claims of justice alone ? Is it not against those who in the past have injured Hellas , and are now plotting against her , and have always been so disposed towards us ?"
+    },
+    {
+      "id": "184",
+      "label": "Section 184",
+      "chapter": null,
+      "original": "τίσι δὲ φθονεῖν εἰκός ἐστι τοὺς μὴ παντάπασιν ἀνάνδρως διακειμένους ἀλλὰ μετρίως τούτῳ τῷ πράγματι χρωμένους ; οὐ τοῖς μείζους μὲν τὰς δυναστείας ἢ κατʼ ἀνθρώπους περιβεβλημένοις , ἐλάττονος δʼ ἀξίοις τῶν παρʼ ἡμῖν δυστυχούντων ; ἐπὶ τίνας δὲ στρατεύειν προσήκει τοὺς ἅμα μὲν εὐσεβεῖν βουλομένους ἅμα δὲ τοῦ συμφέροντος ἐνθυμουμένους ; οὐκ ἐπὶ τοὺς καὶ φύσει πολεμίους καὶ πατρικοὺς ἐχθρούς , καὶ πλεῖστα μὲν ἀγαθὰ κεκτημένους , ἥκιστα δʼ ὑπὲρ αὐτῶν ἀμύνεσθαι δυναμένους ; οὐκοῦν ἐκεῖνοι πᾶσι τούτοις ἔνοχοι τυγχάνουσιν ὄντες .",
+      "translation": "And against whom should we expect men to direct their envy who , while not wholly lacking in courage , yet curb this feeling with prudence ? Is it not against those who have compassed powers that are too great for man , and yet are less deserving than those who are unfortunate among us ? And against whom should those take the field who both desire to serve their gods and are at the same time intent on their own advantage ? Is it not against those who are both their natural enemies and their hereditary foes , who have acquired the greatest possessions and are yet , of all men , the least able to defend them ? Do not the Persians , then , fulfill all these conditions ?"
+    },
+    {
+      "id": "185",
+      "label": "Section 185",
+      "chapter": null,
+      "original": "καὶ μὴν οὐδὲ τὰς πόλεις λυπήσομεν στρατιώτας ἐξ αὐτῶν καταλέγοντες , ὃ νῦν ἐν τῷ πολέμῳ τῷ πρὸς ἀλλήλους ὀχληρότατόν ἐστιν αὐταῖς · πολὺ γὰρ οἶμαι σπανιωτέρους ἔσεσθαι τοὺς μένειν ἐθελήσοντας τῶν συνακολουθεῖν ἐπιθυμησόντων . τίς γὰρ οὕτως ἢ νέος ἢ παλαιὸς ῥᾴθυμός ἐστιν , ὅστις οὐ μετασχεῖν βουλήσεται ταύτης τῆς στρατιᾶς , τῆς ὑπʼ Ἀθηναίων μὲν καὶ Λακεδαιμονίων στρατηγουμένης , ὑπὲρ δὲ τῆς τῶν συμμάχων ἐλευθερίας ἀθροιζομένης , ὑπὸ δὲ τῆς Ἑλλάδος ἁπάσης ἐκπεμπομένης , ἐπὶ δὲ τὴν τῶν βαρβάρων τιμωρίαν πορευομένης ;",
+      "translation": "Furthermore , we shall not even trouble the several states by levying soldiers from them — a practice which now in our warfare against each other they find most burdensome . For it is my belief that those who will be inclined to remain at home will be far fewer than those who will be eager to join this army . For who , be he young or old , is so indolent that he will not desire to have a part in this expedition — an expedition led by the Athenians and the Lacedaemonians , gathered together in the cause of the liberty of our allies , dispatched by all Greece , and faring forth to wreak vengeance on the barbarians ?"
+    },
+    {
+      "id": "186",
+      "label": "Section 186",
+      "chapter": null,
+      "original": "φήμην δὲ καὶ μνήμην καὶ δόξαν πόσην τινὰ χρὴ νομίζειν ἢ ζῶντας ἕξειν ἢ τελευτήσαντας καταλείψειν τοὺς ἐν τοῖς τοιούτοις ἔργοις ἀριστεύσαντας ; ὅπου γὰρ οἱ πρὸς Ἀλέξανδρον πολεμήσαντες καὶ μίαν πόλιν ἑλόντες τοιούτων ἐπαίνων ἠξιώθησαν , ποίων τινῶν χρὴ προσδοκᾶν ἐγκωμίων τεύξεσθαι τοὺς ὅλης τῆς Ἀσίας κρατήσαντας ; τίς γὰρ ἢ τῶν ποιεῖν δυναμένων ἢ τῶν λέγειν ἐπισταμένων οὐ πονήσει καὶ φιλοσοφήσει βουλόμενος ἅμα τῆς θʼ αὑτοῦ διανοίας καὶ τῆς ἐκείνων ἀρετῆς μνημεῖον εἰς ἅπαντα τὸν χρόνον καταλιπεῖν ;",
+      "translation": "And how great must we think will be the name and the fame and the glory which they will enjoy during their lives , or , if they die in battle , will leave behind them — they who will have won the meed of honor in such an enterprise ? For if those who made war against an Alexander [*] and took a single city were accounted worthy of such praise , what encomiums should we expect these men to win who have conquered the whole of Asia ? For who that is skilled to sing or trained to speak will not labor and study in his desire to leave behind a memorial both of his own genius and of their valor , for all time to come ?"
+    },
+    {
+      "id": "187",
+      "label": "Section 187",
+      "chapter": null,
+      "original": "οὐ τὴν αὐτὴν δὲ τυγχάνω γνώμην ἔχων ἔν τε τῷ παρόντι καὶ περὶ τὰς ἀρχὰς τοῦ λόγου . τότε μὲν γὰρ ᾤμην ἀξίως δυνήσεσθαι τῶν πραγμάτων εἰπεῖν · νῦν δʼ οὐκ ἐφικνοῦμαι τοῦ μεγέθους αὐτῶν , ἀλλὰ πολλά με διαπέφευγεν ὧν διενοήθην . αὐτοὺς οὖν χρὴ συνδιορᾶν ὅσης ἂν εὐδαιμονίας τύχοιμεν , εἰ τὸν μὲν πόλεμον τὸν νῦν ὄντα περὶ ἡμᾶς πρὸς τοὺς ἠπειρώτας ποιησαίμεθα , τὴν δʼ εὐδαιμονίαν τὴν ἐκ τῆς Ἀσίας εἰς τὴν Εὐρώπην διακομίσαιμεν , καὶ μὴ μόνον ἀκροατὰς γενομένους ἀπελθεῖν ,",
+      "translation": "I am not at the present moment of the same mind as I was at the beginning of my speech . For then I thought that I should be able to speak in a manner worthy of my theme ; now , however , I have not risen to its grandeur , and many of the thoughts which I had in mind to utter have escaped me . Therefore you must come to my aid and try to picture to yourselves what vast prosperity we should attain if we should turn the war which now involves ourselves against the peoples of the continent , and bring the prosperity of Asia across to Europe ."
+    },
+    {
+      "id": "188",
+      "label": "Section 188",
+      "chapter": null,
+      "original": "ἀλλὰ τοὺς μὲν πράττειν δυναμένους παρακαλοῦντας ἀλλήλους πειρᾶσθαι διαλλάττειν τήν τε πόλιν τὴν ἡμετέραν καὶ τὴν Λακεδαιμονίων , τοὺς δὲ τῶν λόγων ἀμφισβητοῦντας πρὸς μὲν τὴν παρακαταθήκην καὶ περὶ τῶν ἄλλων ὧν νῦν φλυαροῦσι παύεσθαι γράφοντας , πρὸς δὲ τοῦτον τὸν λόγον ποιεῖσθαι τὴν ἅμιλλαν , καὶ σκοπεῖν ὅπως ἄμεινον ἐμοῦ περὶ τῶν αὐτῶν πραγμάτων ἐροῦσιν ,",
+      "translation": "And you must not depart to your homes as men who have merely listened to an oration ; nay , those among you who are men of action must exhort one another to try to reconcile our city with Lacedaemon ; and those among you who make claims to eloquence must stop composing orations on “ deposits ,” [*] or on the other trivial themes [*] which now engage your efforts , and center your rivalry on this subject and study how you may surpass me in speaking on the same question ,"
+    },
+    {
+      "id": "189",
+      "label": "Section 189",
+      "chapter": null,
+      "original": "ἐνθυμουμένους ὅτι τοῖς μεγάλʼ ὑπισχνουμένοις οὐ πρέπει περὶ μικρὰ διατρίβειν , οὐδὲ τοιαῦτα λέγειν ἐξ ὧν ὁ βίος μηδὲν ἐπιδώσει τῶν πεισθέντων , ἀλλʼ ὧν ἐπιτελεσθέντων αὐτοί τʼ ἀπαλλαγήσονται τῆς παρούσης ἀπορίας καὶ τοῖς ἄλλοις μεγάλων ἀγαθῶν αἴτιοι δόξουσιν εἶναι .",
+      "translation": "bearing ever in mind that it does not become men who promise great things to waste their time on little things , [*] nor yet to make the kind of speeches which will improve no whit the lives of those whom they convince , but rather the kind which , if carried out in action , will both deliver the authors themselves from their present distress [*] and win for them the credit of bringing to pass great blessings for the rest of the world . [*]"
+    }
+  ],
+  "prevChunkSlug": "panegyricus-1ruktw-3",
+  "nextChunkSlug": null
+}

@@ -1,0 +1,136 @@
+{
+  "volumeSlug": "aristotle-art-of-rhetoric-7b7q9v",
+  "volumeTitle": "Art of Rhetoric",
+  "authorDisplay": "Aristotle",
+  "authors": [
+    "Aristotle"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "art-of-rhetoric-mxc9am",
+  "label": "Art of Rhetoric",
+  "partId": "art-of-rhetoric-mxc9am",
+  "partTitle": "Art of Rhetoric",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ῥητορική",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg038.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "The \"Art\" of Rhetoric",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg038.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1.1",
+      "label": "Section 1.1.1",
+      "chapter": null,
+      "original": "1354a 1 ἡ ῥητορική ἐστιν ἀντίστροφος τῇ διαλεκτικῇ · ἀμφότεραι γὰρ περὶ τοιούτων τινῶν εἰσιν ἃ κοινὰ τρόπον τινὰ ἁπάντων ἐστὶ γνωρίζειν καὶ οὐδεμιᾶς ἐπιστήμης ἀφωρισμένης · διὸ καὶ πάντες τρόπον τινὰ μετέχουσιν ἀμφοῖν · πάντες γὰρ μέχρι 5 τινὸς καὶ ἐξετάζειν καὶ ὑπέχειν λόγον καὶ ἀπολογεῖσθαι καὶ κατηγορεῖν ἐγχειροῦσιν .",
+      "translation": "1354a 1 Rhetoric is a counterpart [*] of Dialectic ; for both have to do with matters that are in a manner within the cognizance of all men and not confined [*] to any special science . Hence all men in a manner have a share of both ; for all , up to a certain point , endeavor to criticize or uphold an argument , to defend themselves or to accuse ."
+    },
+    {
+      "id": "1.1.2",
+      "label": "Section 1.1.2",
+      "chapter": null,
+      "original": "τῶν μὲν οὖν πολλῶν οἱ μὲν εἰκῇ ταῦτα δρῶσιν , οἱ δὲ διὰ συνήθειαν ἀπὸ ἕξεως · ἐπεὶ δʼ ἀμφοτέρως ἐνδέχεται , δῆλον ὅτι εἴη ἂν αὐτὰ καὶ ὁδῷ ποιεῖν · διʼ ὃ γὰρ ἐπιτυγχάνουσιν οἵ τε διὰ συνήθειαν καὶ οἱ ἀπὸ 10 τοῦ αὐτομάτου τὴν αἰτίαν θεωρεῖν ἐνδέχεται , τὸ δὲ τοιοῦτον ἤδη πάντες ἂν ὁμολογήσαιεν τέχνης ἔργον εἶναι .",
+      "translation": "Now , the majority of people do this either at random or with a familiarity arising from habit . But since both these ways are possible , it is clear that matters can be reduced to a system , for it is possible to examine the reason why some attain their end by familiarity and others by chance ; and such an examination all would at once admit to be the function of an art . [*]"
+    },
+    {
+      "id": "1.1.3",
+      "label": "Section 1.1.3",
+      "chapter": null,
+      "original": "νῦν μὲν οὖν οἱ τὰς τέχνας τῶν λόγων συντιθέντες οὐδὲν ὡς εἰπεῖν πεπορίκασιν αὐτῆς μόριον ( αἱ γὰρ πίστεις ἔντεχνόν εἰσι μόνον , τὰ δʼ ἄλλα προσθῆκαι ), οἱ δὲ περὶ μὲν ἐνθυμημάτων οὐδὲν λέγουσιν , 15 ὅπερ ἐστὶ σῶμα τῆς πίστεως , περὶ δὲ τῶν ἔξω τοῦ πράγματος τὰ πλεῖστα πραγματεύονται ·",
+      "translation": "Now , previous compilers of Arts [*] of Rhetoric have provided us with only a small portion of this art , for proofs are the only things in it that come within the province of art ; everything else is merely an accessory . And yet they say nothing about enthymemes which are the body of proof , but chiefly devote their attention to matters outside the subject ;"
+    },
+    {
+      "id": "1.1.4",
+      "label": "Section 1.1.4",
+      "chapter": null,
+      "original": "διαβολὴ γὰρ καὶ ἔλεος καὶ ὀργὴ καὶ τὰ τοιαῦτα πάθη τῆς ψυχῆς οὐ περὶ τοῦ πράγματός ἐστιν , ἀλλὰ πρὸς τὸν δικαστήν · ὥστʼ εἰ περὶ πάσας ἦν τὰς κρίσεις καθάπερ ἐν ἐνίαις γε νῦν ἐστι τῶν πόλεων 20 καὶ μάλιστα ταῖς εὐνομουμέναις , οὐδὲν ἂν εἶχον ὅ τι λέγωσιν ·",
+      "translation": "for the arousing of prejudice , compassion , anger , and similar emotions has no connection with the matter in hand , but is directed only to the dicast . [*] The result would be that , if all trials were now carried on as they are in some States , 20 especially those that are well administered , there would be nothing left for the rhetorician to say ."
+    },
+    {
+      "id": "1.1.5",
+      "label": "Section 1.1.5",
+      "chapter": null,
+      "original": "ἅπαντες γὰρ οἱ μὲν οἴονται δεῖν οὕτω τοὺς νόμους ἀγορεύειν , οἱ δὲ καὶ χρῶνται καὶ κωλύουσιν ἔξω τοῦ πράγματος λέγειν , καθάπερ καὶ ἐν Ἀρείῳ πάγῳ , ὀρθῶς τοῦτο νομίζοντες · οὐ γὰρ δεῖ τὸν δικαστὴν διαστρέφειν εἰς ὀργὴν 25 προάγοντας ἢ φθόνον ἢ ἔλεον · ὅμοιον γὰρ κἂν εἴ τις ᾧ μέλλει χρῆσθαι κανόνι , τοῦτον ποιήσειε στρεβλόν .",
+      "translation": "For all men either think that all the laws ought so to prescribe , [*] or in fact carry out the principle and forbid speaking outside the subject , as in the court of Areopagus , and in this they are right . For it is wrong to warp the dicast ' s feelings , to arouse him to anger , jealousy or compassion , which would be like making the rule crooked which one intended to use ."
+    },
+    {
+      "id": "2.1.1",
+      "label": "Section 2.1.1",
+      "chapter": null,
+      "original": "16 ἐκ τίνων μὲν οὖν δεῖ καὶ προτρέπειν καὶ ἀποτρέπειν , καὶ ἐπαινεῖν καὶ ψέγειν , καὶ κατηγορεῖν καὶ ἀπολογεῖσθαι , καὶ ποῖαι δόξαι καὶ προτάσεις χρήσιμοι πρὸς τὰς τούτων πίστεις , ταῦτʼ ἐστίν · περὶ γὰρ τούτων καὶ ἐκ τούτων τὰ ἐνθυμήματα , 20 ὡς περὶ ἕκαστον εἰπεῖν ἰδίᾳ τὸ γένος τῶν λόγων .",
+      "translation": "1377b 16 Such then are the materials which we must employ in exhorting and dissuading , praising and blaming , accusing and defending , and such are the opinions and propositions that are useful to produce conviction in these circumstances ; for they are the subject and source of enthymemes , 20 which are specially suitable to each class ( so to say ) of speeches . [*]"
+    },
+    {
+      "id": "2.1.2",
+      "label": "Section 2.1.2",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ ἕνεκα κρίσεώς ἐστιν ἡ ῥητορική ( καὶ γὰρ τὰς συμβουλὰς κρίνουσι καὶ ἡ δίκη κρίσις ἐστίν ), ἀνάγκη μὴ μόνον πρὸς τὸν λόγον ὁρᾶν , ὅπως ἀποδεικτικὸς ἔσται καὶ πιστός , ἀλλὰ καὶ αὑτὸν ποιόν τινα καὶ τὸν κριτὴν κατασκευάζειν ·",
+      "translation": "But since the object of Rhetoric is judgement — for judgements are pronounced in deliberative rhetoric and judicial proceedings are a judgement — it is not only necessary to consider how to make the speech itself demonstrative and convincing , but also that the speaker should show himself to be of a certain character and should know how to put the judge into a certain frame of mind ."
+    },
+    {
+      "id": "2.1.3",
+      "label": "Section 2.1.3",
+      "chapter": null,
+      "original": "πολὺ γὰρ διαφέρει 25 πρὸς πίστιν , μάλιστα μὲν ἐν ταῖς συμβουλαῖς , εἶτα καὶ ἐν ταῖς δίκαις , τό τε ποιόν τινα φαίνεσθαι τὸν λέγοντα καὶ τὸ πρὸς αὑτοὺς ὑπολαμβάνειν πως διακεῖσθαι αὐτόν , πρὸς δὲ τούτοις ἐὰν καὶ αὐτοὶ διακείμενοί πως τυγχάνωσιν .",
+      "translation": "For it makes a great difference with regard to producing conviction — especially in demonstrative , and , next to this , in forensic oratory — that the speaker should show himself to be possessed of certain qualities and that his hearers should think that he is disposed in a certain way towards them ; and further , that they themselves should be disposed in a certain way towards him . [*]"
+    },
+    {
+      "id": "2.1.4",
+      "label": "Section 2.1.4",
+      "chapter": null,
+      "original": "τὸ μὲν οὖν ποιόν τινα φαίνεσθαι τὸν λέγοντα χρησιμώτερον εἰς τὰς 30 συμβουλάς ἐστιν , τὸ δὲ διακεῖσθαί πως τὸν ἀκροατὴν εἰς τὰς δίκας · οὐ γὰρ ταὐτὰ φαίνεται φιλοῦσι καὶ μισοῦσιν , οὐδʼ ὀργιζομένοις καὶ πράως ἔχουσιν , 1378a 1 ἀλλʼ ἢ τὸ παράπαν ἕτερα ἢ κατὰ μέγεθος ἕτερα · τῷ μὲν γὰρ φιλοῦντι περὶ οὗ ποιεῖται τὴν κρίσιν ἢ οὐκ ἀδικεῖν ἢ μικρὰ δοκεῖ ἀδικεῖν , τῷ δὲ μισοῦντι τοὐναντίον · καὶ τῷ μὲν ἐπιθυμοῦντι καὶ εὐέλπιδι ὄντι , ἐὰν ᾖ τὸ ἐσόμενον ἡδύ , καὶ ἔσεσθαι καὶ ἀγαθὸν ἔσεσθαι φαίνεται , τῷ 5 δʼ ἀπαθεῖ ἢ καὶ δυσχεραίνοντι τοὐναντίον .",
+      "translation": "In deliberative oratory , it is more useful that the orator should appear to be of a certain character , in forensic , that the hearer should be disposed in a certain way ; for opinions vary , according as men love or hate , are wrathful or mild , 1378a 1 and things appear either altogether different , or different in degree ; for when a man is favorably disposed towards one on whom he is passing judgement , he either thinks that the accused has committed no wrong at all or that his offence is trifling ; but if he hates him , the reverse is the case . And if a man desires anything and has good hopes of getting it , if what is to come is pleasant , he thinks that it is sure to come to pass and will be good ; but if a man is unemotional or not hopeful [*] it is quite the reverse ."
+    },
+    {
+      "id": "2.1.5",
+      "label": "Section 2.1.5",
+      "chapter": null,
+      "original": "τοῦ μὲν οὖν αὐτοὺς εἶναι πιστοὺς τοὺς λέγοντας τρία ἐστὶ τὰ αἴτια · τοσαῦτα γάρ ἐστι διʼ ἃ πιστεύομεν ἔξω τῶν ἀποδείξεων . ἔστι δὲ ταῦτα φρόνησις καὶ ἀρετὴ καὶ εὔνοια · διαψεύδονται γὰρ περὶ ὧν λέγουσιν ἢ συμβουλεύουσιν ἢ διʼ 10 ἅπαντα ταῦτα ἢ διὰ τούτων τι ·",
+      "translation": "For the orator to produce conviction three qualities are necessary ; for , independently of demonstrations , the things which induce belief are three in number . These qualities are good sense , virtue , and goodwill ; for speakers are wrong both in what they say and in the advice they give , because they lack either all three or one of them ."
+    },
+    {
+      "id": "3.1.1",
+      "label": "Section 3.1.1",
+      "chapter": null,
+      "original": "6 ἐπειδὴ τρία ἐστὶν ἃ δεῖ πραγματευθῆναι περὶ τὸν λόγον , ἓν μὲν ἐκ τίνων αἱ πίστεις ἔσονται , δεύτερον δὲ περὶ τὴν λέξιν , τρίτον δὲ πῶς χρὴ τάξαι τὰ μέρη τοῦ λόγου , περὶ μὲν τῶν πίστεων εἴρηται , καὶ ἐκ πόσων , ὅτι ἐκ τριῶν 10 εἰσί , καὶ ταῦτα ποῖα , καὶ διὰ τί τοσαῦτα μόνα ( ἢ γὰρ τῷ αὐτοί τι πεπονθέναι οἱ κρίνοντες , ἢ τῷ ποιούς τινας ὑπολαμβάνειν τοὺς λέγοντας , ἢ τῷ ἀποδεδεῖχθαι , πείθονται πάντες ), εἴρηται δὲ καὶ τὰ ἐνθυμήματα , πόθεν δεῖ πορίζεσθαι ( ἔστι γὰρ τὰ μὲν εἴδη τῶν ἐνθυμημάτων , τὰ δὲ τόποι )·",
+      "translation": "6 There are three things which require special attention in regard to speech : first , the sources of proofs ; secondly , style ; and thirdly , the arrangement of the parts of the speech . We have already spoken of proofs and stated that they are three in number , what is their nature , and why there are only three ; for in all cases persuasion is the result either of the judges themselves being affected in a certain manner , or because they consider the speakers to be of a certain character , or because something has been demonstrated . We have also stated the sources from which enthymemes should be derived — some of them being special , the others general commonplaces ."
+    },
+    {
+      "id": "3.1.2",
+      "label": "Section 3.1.2",
+      "chapter": null,
+      "original": "περὶ 15 δὲ τῆς λέξεως ἐχόμενόν ἐστιν εἰπεῖν · οὐ γὰρ ἀπόχρη τὸ ἔχειν ἃ δεῖ λέγειν , ἀλλʼ ἀνάγκη καὶ ταῦτα ὡς δεῖ εἰπεῖν , καὶ συμβάλλεται πολλὰ πρὸς τὸ φανῆναι ποιόν τινα τὸν λόγον .",
+      "translation": "We have therefore next to speak of style ; for it is not sufficient to know what one ought to say , but one must also know how to say it , and this largely contributes to making the speech appear of a certain character ."
+    },
+    {
+      "id": "3.1.3",
+      "label": "Section 3.1.3",
+      "chapter": null,
+      "original": "τὸ μὲν οὖν πρῶτον ἐζητήθη κατὰ φύσιν ὅπερ πέφυκε πρῶτον , αὐτὰ τὰ πράγματα ἐκ τίνων ἔχει τὸ πιθανόν , 20 δεύτερον δὲ τὸ ταῦτα τῇ λέξει διαθέσθαι , τρίτον δὲ τούτων ὃ δύναμιν μὲν ἔχει μεγίστην , οὔπω δʼ ἐπικεχείρηται , τὰ περὶ τὴν ὑπόκρισιν . καὶ γὰρ εἰς τὴν τραγικὴν καὶ ῥαψῳδίαν ὀψὲ παρῆλθεν · ὑπεκρίνοντο γὰρ αὐτοὶ τὰς τραγῳδίας οἱ ποιηταὶ τὸ πρῶτον . δῆλον οὖν ὅτι καὶ περὶ τὴν ῥητορικήν 25 ἐστι τὸ τοιοῦτον ὥσπερ καὶ περὶ τὴν ποιητικήν , ὅπερ ἕτεροί τέ τινες ἐπραγματεύθησαν καὶ Γλαύκων ὁ Τήιος .",
+      "translation": "In the first place , following the natural order , we investigated that which first presented itself — what gives things themselves their persuasiveness ; 20 in the second place , their arrangement by style ; and in the third place , delivery , which is of the greatest importance but has not yet been treated of by anyone . In fact , it only made its appearance late in tragedy and rhapsody , for at first the poets themselves acted their tragedies . [*] It is clear , therefore , that there is something of the sort in rhetoric as well as in poetry , and it has been dealt with by Glaucon of Teos among others ."
+    },
+    {
+      "id": "3.1.4",
+      "label": "Section 3.1.4",
+      "chapter": null,
+      "original": "ἔστιν δὲ αὕτη μὲν ἐν τῇ φωνῇ , πῶς αὐτῇ δεῖ χρῆσθαι πρὸς ἕκαστον πάθος , οἷον πότε μεγάλῃ καὶ πότε μικρᾷ καὶ μέσῃ , καὶ πῶς τοῖς τόνοις , οἷον ὀξείᾳ καὶ βαρείᾳ καὶ μέσῃ , καὶ 30 ῥυθμοῖς τίσι πρὸς ἕκαστα . τρία γάρ ἐστιν περὶ ἃ σκοποῦσιν · ταῦτα δʼ ἐστὶ μέγεθος ἁρμονία ῥυθμός . τὰ μὲν οὖν ἆθλα σχεδὸν ἐκ τῶν ἀγώνων οὗτοι λαμβάνουσιν , καὶ καθάπερ ἐκεῖ μεῖζον δύνανται νῦν τῶν ποιητῶν οἱ ὑποκριταί , καὶ κατὰ τοὺς πολιτικοὺς ἀγῶνας , διὰ τὴν μοχθηρίαν τῶν 35 πολιτῶν .",
+      "translation": "Now delivery is a matter of voice , as to the mode in which it should be used for each particular emotion ; when it should be loud , when low , when intermediate ; and how the tones , that is , shrill , deep , and intermediate , should be used ; and what rhythms are adapted to each subject . For there are three qualities that are considered ,— volume , harmony , rhythm . Those who use these properly nearly always carry off the prizes in dramatic contests , and as at the present day actors have greater influence on the stage than the poets , it is the same In political [*] contests , owing to the corruptness of our forms of government ."
+    },
+    {
+      "id": "3.1.5",
+      "label": "Section 3.1.5",
+      "chapter": null,
+      "original": "οὔπω δὲ σύγκειται τέχνη περὶ αὐτῶν , ἐπεὶ καὶ τὸ περὶ τὴν λέξιν ὀψὲ προῆλθεν · 1404a 1 1 καὶ δοκεῖ φορτικὸν εἶναι , καλῶς ὑπολαμβανόμενον . ἀλλʼ ὅλης οὔσης πρὸς δόξαν τῆς πραγματείας τῆς περὶ τὴν ῥητορικήν , οὐχ ὡς ὀρθῶς ἔχοντος ἀλλʼ ὡς ἀναγκαίου τὴν ἐπιμέλειαν ποιητέον , ἐπεὶ τό γε δίκαιόν ἐστι μηδὲν πλέον ζητεῖν περὶ τὸν λόγον ἢ ὥστε μήτε 5 λυπεῖν μήτʼ εὐφραίνειν · δίκαιον γὰρ αὐτοῖς ἀγωνίζεσθαι τοῖς πράγμασιν , ὥστε τἆλλα ἔξω τοῦ ἀποδεῖξαι περίεργα ἐστίν · ἀλλʼ ὅμως μέγα δύναται , καθάπερ εἴρηται , διὰ τὴν τοῦ ἀκροατοῦ μοχθηρίαν .",
+      "translation": "But no treatise has yet been composed on delivery , since the matter of style itself only lately came into notice ; 1404a 1 and rightly considered it is thought vulgar . [*] But since the whole business of Rhetoric is to influence opinion , [*] we must pay attention to it , not as being right , but necessary ; for , as a matter of right , one should aim at nothing more in a speech than how to avoid exciting pain or pleasure . For justice should consist in fighting the case with the facts alone , so that everything else that is beside demonstration is superfluous ; nevertheless , as we have just said , it is of great importance owing to the corruption of the hearer ."
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": null
+}

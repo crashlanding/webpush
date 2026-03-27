@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-helen-phoenician-women-orestes-18fbzk",
+  "volumeTitle": "Helen. Phoenician Women. Orestes",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "orestes-7l7ixd-5",
+  "label": "Orestes (Section 487 - Section 670)",
+  "partId": "orestes-7l7ixd",
+  "partTitle": "Orestes",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ὀρέστης",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Orestes",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "487",
+      "label": "Section 487",
+      "chapter": null,
+      "original": "καὶ τῶν νόμων γε μὴ πρότερον εἶναι θέλειν .",
+      "translation": "And another custom is to yield a willing deference to the laws ."
+    },
+    {
+      "id": "488",
+      "label": "Section 488",
+      "chapter": null,
+      "original": "πᾶν τοὐξ ἀνάγκης δοῦλόν ἐστʼ ἐν τοῖς σοφοῖς .",
+      "translation": "The wise hold that everything which depends on necessity is a slave ."
+    },
+    {
+      "id": "489",
+      "label": "Section 489",
+      "chapter": null,
+      "original": "κέκτησό νυν σὺ τοῦτʼ , ἐγὼ δʼ οὐ κτήσομαι .",
+      "translation": "Keep that wisdom for yourself ; I will not have it ."
+    },
+    {
+      "id": "490",
+      "label": "Section 490",
+      "chapter": null,
+      "original": "ὀργὴ γὰρ ἅμα σου καὶ τὸ γῆρας οὐ σοφόν .",
+      "translation": "Yes , for you are angry , and also old age is not wise ."
+    },
+    {
+      "id": "491",
+      "label": "Section 491",
+      "chapter": null,
+      "original": "πρὸς τόνδʼ ἀγὼν τίς ἀσοφίας ἥκει πέρι ;",
+      "translation": "What does a dispute about foolishness have to do with him ? If right and wrong are clear to all , who was ever more senseless than this man , because he never weighed the justice of the case ,"
+    },
+    {
+      "id": "495",
+      "label": "Section 495",
+      "chapter": null,
+      "original": "οὐδʼ ἦλθεν ἐπὶ τὸν κοινὸν Ἑλλήνων νόμον ;",
+      "translation": "nor appealed to the universal law of Hellas ? For instance , when Agamemnon breathed his last struck on his head by my daughter a most foul deed , which I will never defend ,"
+    },
+    {
+      "id": "500",
+      "label": "Section 500",
+      "chapter": null,
+      "original": "χρῆν αὐτὸν ἐπιθεῖναι μὲν αἵματος δίκην ,",
+      "translation": "he should have brought a charge against his mother and inflicted a holy penalty for bloodshed , banishing her from his house ; thus he would have gained moderation instead of calamity , keeping strictly to the law and showing his piety as well . As it is , he has come into the same fate as his mother ."
+    },
+    {
+      "id": "505",
+      "label": "Section 505",
+      "chapter": null,
+      "original": "κακὴν γὰρ αὐτὴν ἐνδίκως ἡγούμενος ,",
+      "translation": "for though he had just cause for thinking her a wicked woman , he has become more wicked by murdering her ."
+    },
+    {
+      "id": "507",
+      "label": "Section 507",
+      "chapter": null,
+      "original": "ἐρήσομαι δέ , Μενέλεως , τοσόνδε σε ·",
+      "translation": "I will ask you , Menelaus , just one question . If a man ’ s wedded wife should kill him , and his son in turn will kill his mother in revenge ;"
+    },
+    {
+      "id": "510",
+      "label": "Section 510",
+      "chapter": null,
+      "original": "κἄπειθʼ ὁ κείνου γενόμενος φόνῳ φόνον",
+      "translation": "next the avenger ’ s son to expiate this murder will commit another : where will the chain of horrors end ?"
+    },
+    {
+      "id": "512",
+      "label": "Section 512",
+      "chapter": null,
+      "original": "καλῶς ἔθεντο ταῦτα πατέρες οἱ πάλαι ·",
+      "translation": "Our forefathers settled these matters the right way . They forbade any one with blood upon his hands to appear in their sight or cross their path ;"
+    },
+    {
+      "id": "515",
+      "label": "Section 515",
+      "chapter": null,
+      "original": "φυγαῖσι δʼ ὁσιοῦν , ἀνταποκτείνειν δὲ μή .",
+      "translation": "but they purified him by exile , they did not kill him in revenge . Otherwise someone , by taking the pollution last upon his hands , is always going to be liable to have his own blood shed ."
+    },
+    {
+      "id": "518",
+      "label": "Section 518",
+      "chapter": null,
+      "original": "ἐγὼ δὲ μισῶ μὲν γυναῖκας ἀνοσίους ,",
+      "translation": "Now I hate wicked women , especially my daughter who killed her husband ;"
+    },
+    {
+      "id": "520",
+      "label": "Section 520",
+      "chapter": null,
+      "original": "Ἑλένην τε , τὴν σὴν ἄλοχον , οὔποτʼ αἰνέσω",
+      "translation": "Helen , too , your own wife , I will never commend , nor would I even speak to her ; and I do not envy you a voyage to Troy for a worthless woman . But the law I will defend with all my might , to put an end to this brutal spirit of murder ,"
+    },
+    {
+      "id": "525",
+      "label": "Section 525",
+      "chapter": null,
+      "original": "παύων , ὃ καὶ γῆν καὶ πόλεις ὄλλυσʼ ἀεί .",
+      "translation": "which is always the ruin of countries and cities alike . Turning to Orestes Wretch ! Had you no heart when your mother was baring her breast in her appeal to you ? I , who did not see that awful deed , weep unhappy tears from my old eyes ."
+    },
+    {
+      "id": "530",
+      "label": "Section 530",
+      "chapter": null,
+      "original": "ἓν δʼ οὖν λόγοισι τοῖς ἐμοῖς ὁμορροθεῖ ·",
+      "translation": "One thing at least agrees with what I say : you are hated by the gods , and you pay atonement for your mother by your fits of madness and terror . Why do I need to hear from other witnesses what I can see for myself ? Therefore , Menelaus , take heed ;"
+    },
+    {
+      "id": "535",
+      "label": "Section 535",
+      "chapter": null,
+      "original": "μὴ πρᾶσσʼ ἐναντίʼ , ὠφελεῖν τοῦτον θέλων ,",
+      "translation": "do not oppose the gods in your wish to help this man ; but leave him to be stoned to death by the citizens , or do not set foot on Spartan land . My daughter is dead , and rightly ; but it should not have been his hand that slew her ."
+    },
+    {
+      "id": "540",
+      "label": "Section 540",
+      "chapter": null,
+      "original": "ἐγὼ δὲ τἄλλα μακάριος πέφυκʼ ἀνήρ ,",
+      "translation": "In all except my daughters I have been a happy man ; there I am not blessed ."
+    },
+    {
+      "id": "542",
+      "label": "Section 542",
+      "chapter": null,
+      "original": "ζηλωτὸς ὅστις εὐτύχησεν ἐς τέκνα",
+      "translation": "He is enviable , who is fortunate in his children , and does not bring hazardous notoriety on himself ."
+    },
+    {
+      "id": "544",
+      "label": "Section 544",
+      "chapter": null,
+      "original": "ὦ γέρον , ἐγώ τοι πρὸς σὲ δειμαίνω λέγειν ,",
+      "translation": "Old man , I am afraid to speak before you ,"
+    },
+    {
+      "id": "545",
+      "label": "Section 545",
+      "chapter": null,
+      "original": "ὅπου σὲ μέλλω σήν τε λυπήσειν φρένα .",
+      "translation": "in a matter where I am sure to grieve you to the heart . I am unholy because I killed my mother , I know it , yet holy on another count , because I avenged my father . Only let your years , which frighten me from speaking , set no barrier in the path of my words ,"
+    },
+    {
+      "id": "550",
+      "label": "Section 550",
+      "chapter": null,
+      "original": "καὶ καθʼ ὁδὸν εἶμι · νῦν δὲ σὴν ταρβῶ τρίχα .",
+      "translation": "and I will go forward ; but now I fear your gray hairs ."
+    },
+    {
+      "id": "551",
+      "label": "Section 551",
+      "chapter": null,
+      "original": "τί χρῆν με δρᾶσαι ; δύο γὰρ ἀντίθες δυοῖν ·",
+      "translation": "What ought I to have done ? Set one thing against another . My father begot me ; your daughter gave me birth , being the field that received the seed from another ; for without a father no child would ever be born ."
+    },
+    {
+      "id": "555",
+      "label": "Section 555",
+      "chapter": null,
+      "original": "ἐλογισάμην οὖν τῷ γένους ἀρχηγέτῃ",
+      "translation": "So I reasoned that I ought to stand by the author of my being rather than the woman who undertook to rear me . Now your daughter — I am ashamed to call her mother — came to a man ’ s bed in a private and unchaste wedding ; I speak against myself when I speak"
+    },
+    {
+      "id": "560",
+      "label": "Section 560",
+      "chapter": null,
+      "original": "κακῶς ἐκείνην , ἐξερῶ · λέξω δʼ ὅμως .",
+      "translation": "badly of her , yet I will speak . Aegisthus was her secret husband in the home ; I killed him , and I sacrificed my mother , an unholy crime , no doubt , but done to avenge my father ."
+    },
+    {
+      "id": "564",
+      "label": "Section 564",
+      "chapter": null,
+      "original": "ἐφʼ οἷς δʼ ἀπειλεῖς ὡς πετρωθῆναί με χρή ,",
+      "translation": "Now , as regards the matters for which I deserve to be stoned as you threatened ,"
+    },
+    {
+      "id": "565",
+      "label": "Section 565",
+      "chapter": null,
+      "original": "ἄκουσον ὡς ἅπασαν Ἑλλάδʼ ὠφελῶ .",
+      "translation": "hear the service I am conferring on all Hellas . For if women become so bold as to murder their husbands , taking refuge in their children , with the mother ’ s breast to catch the pity , they would think nothing of destroying their husbands"
+    },
+    {
+      "id": "570",
+      "label": "Section 570",
+      "chapter": null,
+      "original": "ἐπίκλημʼ ἐχούσαις ὅ τι τύχοι . δράσας δʼ ἐγὼ",
+      "translation": "on any charge whatsoever . But I , by a horrible crime , as you boast it to be , have put an end to this custom . I hated my mother and killed her justly . She was false to her husband when he was gone from his home to fight for all Hellas at the head of its armies ,"
+    },
+    {
+      "id": "575",
+      "label": "Section 575",
+      "chapter": null,
+      "original": "προύδωκε κοὐκ ἔσῳσʼ ἀκήρατον λέχος ·",
+      "translation": "and she did not keep his bed undefiled ; and when her sin had found her out , she did not impose punishment on herself , but , to avoid paying the penalty to her husband , punished my father by death . By the gods ! it is not a good time for me to mention the gods ,"
+    },
+    {
+      "id": "580",
+      "label": "Section 580",
+      "chapter": null,
+      "original": "φόνον δικάζων · εἰ δὲ δὴ τὰ μητέρος",
+      "translation": "when defending the charge of murder ; but if I consented by my silence to my mother ’ s conduct , what would the murdered man have done to me ? Would he not now in hatred be tormenting me with the Furies ? Or does my mother have goddesses as allies , but he does not , in his deeper wrong ?"
+    },
+    {
+      "id": "585",
+      "label": "Section 585",
+      "chapter": null,
+      "original": "σύ τοι φυτεύσας θυγατέρʼ , ὦ γέρον , κακὴν",
+      "translation": "You , yes ! you , old man , have been my ruin by begetting a wicked daughter ; for it was owing to her audacious deed that I lost my father and became my mother ’ s murderer ."
+    },
+    {
+      "id": "588",
+      "label": "Section 588",
+      "chapter": null,
+      "original": "ὁρᾷς , Ὀδυσσέως ἄλοχον οὐ κατέκτανε",
+      "translation": "You see , Telemachus did not kill the wife of Odysseus , because she did not marry husband upon husband ,"
+    },
+    {
+      "id": "590",
+      "label": "Section 590",
+      "chapter": null,
+      "original": "μένει δʼ ἐν οἴκοις ὑγιὲς εὐνατήριον .",
+      "translation": "but the marriage-bed remained untainted in her home ."
+    },
+    {
+      "id": "591",
+      "label": "Section 591",
+      "chapter": null,
+      "original": "ὁρᾷς δʼ Ἀπόλλωνʼ , ὃς μεσομφάλους ἕδρας",
+      "translation": "And you see Apollo , who makes the navel of the earth his home , dispensing to mortals unerring prophecies , whom we obey in all he says ; I killed my mother in obedience to him ."
+    },
+    {
+      "id": "595",
+      "label": "Section 595",
+      "chapter": null,
+      "original": "ἐκεῖνον ἡγεῖσθʼ ἀνόσιον καὶ κτείνετε ·",
+      "translation": "Find him guilty of the crime , slay him ; his was the sin , not mine . What ought I to have done ? or is the god not competent to expiate the pollution when I refer it to him ? Where then should anyone flee , if he will not rescue me from death after giving his commands ?"
+    },
+    {
+      "id": "600",
+      "label": "Section 600",
+      "chapter": null,
+      "original": "ἀλλʼ ὡς μὲν οὐκ εὖ μὴ λέγʼ εἴργασται τάδε ,",
+      "translation": "Do not say that the deed was done badly , but unfortunately for the ones who did it ."
+    },
+    {
+      "id": "602",
+      "label": "Section 602",
+      "chapter": null,
+      "original": "γάμοι δʼ ὅσοις μὲν εὖ καθεστᾶσιν βροτῶν ,",
+      "translation": "A blessed life those mortals lead who make wise marriages ; but those for whom it does not fall out well are unfortunate in their public and private concerns ."
+    },
+    {
+      "id": "605",
+      "label": "Section 605",
+      "chapter": null,
+      "original": "αἰεὶ γυναῖκες ἐμποδὼν ταῖς συμφοραῖς",
+      "translation": "Women by nature always meddle in the doings of men , with unfortunate results ."
+    },
+    {
+      "id": "607",
+      "label": "Section 607",
+      "chapter": null,
+      "original": "ἐπεὶ θρασύνῃ κοὐχ ὑποστέλλῃ λόγῳ ,",
+      "translation": "Since you are so bold and suppress nothing , but answer me back in such a way as to vex my heart , you will lead me to go to greater lengths in procuring your execution ;"
+    },
+    {
+      "id": "610",
+      "label": "Section 610",
+      "chapter": null,
+      "original": "καλὸν πάρεργον δʼ αὐτὸ θήσομαι πόνων",
+      "translation": "and I shall regard this as a fine addition to my labors in coming here to adorn my daughter ’ s grave . Yes , I will go to the chosen band of Argives and set the city , willing or not , on you and your sister , to pay the penalty of stoning ."
+    },
+    {
+      "id": "615",
+      "label": "Section 615",
+      "chapter": null,
+      "original": "μᾶλλον δʼ ἐκείνη σοῦ θανεῖν ἐστʼ ἀξία ,",
+      "translation": "She deserves to die even more than you , for it was she who embittered you against your mother , always carrying tales to your ear to increase your hate the more , announcing dreams from Agamemnon , and Aegisthus ’ bed ,"
+    },
+    {
+      "id": "620",
+      "label": "Section 620",
+      "chapter": null,
+      "original": "οἱ νέρτεροι θεοί · καὶ γὰρ ἐνθάδʼ ἦν πικρόν ·",
+      "translation": "may the gods in Hades loathe it ! for even here on earth it was bitter ; till she set the house ablaze with fires never kindled by Hephaestus ."
+    },
+    {
+      "id": "622",
+      "label": "Section 622",
+      "chapter": null,
+      "original": "Μενέλαε , σοὶ δὲ τάδε λέγω δράσω τε πρός ·",
+      "translation": "Menelaus , I tell you this , and I will do it , too : if you then consider my hatred or our marriage connection of any account , do not ward off this man ’ s doom in defiance of the gods ,"
+    },
+    {
+      "id": "625",
+      "label": "Section 625",
+      "chapter": null,
+      "original": "ἔα δʼ ὑπʼ ἀστῶν καταφονευθῆναι πέτροις ,",
+      "translation": "but leave him to be stoned to death by the citizens , or do not set foot on Spartan land . Remember you have been told all this , and do not choose the ungodly as friends , pushing aside the more righteous . Servants , lead me from this house . Exit Tyndareus ."
+    },
+    {
+      "id": "630",
+      "label": "Section 630",
+      "chapter": null,
+      "original": "στεῖχʼ , ὡς ἀθορύβως οὑπιὼν ἡμῖν λόγος",
+      "translation": "Go , so that the remainder of my speech may come to this man without interruption , free from your old age ."
+    },
+    {
+      "id": "632",
+      "label": "Section 632",
+      "chapter": null,
+      "original": "Μενέλαε , ποῖ σὸν πόδʼ ἐπὶ συννοίᾳ κυκλεῖς ,",
+      "translation": "Menelaus , why are you pacing round and round in thought , going back and forth , in a dilemma ?"
+    },
+    {
+      "id": "634",
+      "label": "Section 634",
+      "chapter": null,
+      "original": "ἔασον · ἐν ἐμαυτῷ τι συννοούμενος",
+      "translation": "Let me alone ! When I think it over ,"
+    },
+    {
+      "id": "635",
+      "label": "Section 635",
+      "chapter": null,
+      "original": "ὅποι τράπωμαι τῆς τύχης ἀμηχανῶ .",
+      "translation": "I am perplexed to know where to turn in these events ."
+    },
+    {
+      "id": "636",
+      "label": "Section 636",
+      "chapter": null,
+      "original": "μή νυν πέραινε τὴν δόκησιν , ἀλλʼ ἐμοὺς",
+      "translation": "Do not come to a final decision now , but after first hearing what I have to say , then make up your mind ."
+    },
+    {
+      "id": "638",
+      "label": "Section 638",
+      "chapter": null,
+      "original": "λέγʼ · εὖ γὰρ εἶπας · ἔστι δʼ οὗ σιγὴ λόγου",
+      "translation": "Good advice ! Speak . There are times when silence would be better than speech , and the reverse also ."
+    },
+    {
+      "id": "640",
+      "label": "Section 640",
+      "chapter": null,
+      "original": "λέγοιμʼ ἂν ἤδη . τὰ μακρὰ τῶν σμικρῶν λόγων",
+      "translation": "I will speak now . A long statement has advantages over a short one and is more intelligible to listen to . Give me nothing of your own , Menelaus , but repay what you received from my father . As Menelaus makes a deprecating gesture . I am not speaking of possessions ; if you save my life ,"
+    },
+    {
+      "id": "645",
+      "label": "Section 645",
+      "chapter": null,
+      "original": "σῴσῃς , ἅπερ μοι φίλτατʼ ἐστὶ τῶν ἐμῶν . —",
+      "translation": "you will save my dearest possession ."
+    },
+    {
+      "id": "646",
+      "label": "Section 646",
+      "chapter": null,
+      "original": "ἀδικῶ · λαβεῖν χρή μʼ ἀντὶ τοῦδε τοῦ κακοῦ",
+      "translation": "I have done wrong ; I ought to have a little wrong-doing from you to requite that evil , for my father Agamemnon also did wrong in gathering the Hellenes and going to Ilium , not that he had sinned himself ,"
+    },
+    {
+      "id": "650",
+      "label": "Section 650",
+      "chapter": null,
+      "original": "τῆς σῆς γυναικὸς ἀδικίαν τʼ ἰώμενος .",
+      "translation": "but he was trying to find a cure for the sin and wrong-doing of your wife . So this is one thing you are bound to pay me back . For he really gave his life , as friends should , toiling hard in battle with you , so that you might have your wife again ."
+    },
+    {
+      "id": "655",
+      "label": "Section 655",
+      "chapter": null,
+      "original": "ἀπότεισον οὖν μοι ταὐτὸ τοῦτʼ ἐκεῖ λαβών ,",
+      "translation": "Pay back to me the same thing you got there . For one day exert yourself , on my behalf standing up in my defense , not ten full years ."
+    },
+    {
+      "id": "658",
+      "label": "Section 658",
+      "chapter": null,
+      "original": "ἃ δʼ Αὐλὶς ἔλαβε σφάγιʼ ἐμῆς ὁμοσπόρου ,",
+      "translation": "As for what Aulis took , the sacrifice of my sister , I let you have that ; do not kill Hermione ."
+    },
+    {
+      "id": "660",
+      "label": "Section 660",
+      "chapter": null,
+      "original": "δεῖ γὰρ σʼ ἐμοῦ πράσσοντος ὡς πράσσω τὰ νῦν",
+      "translation": "For in my present plight , you must have an advantage over me and I must pardon it . But give to my miserable father my life and the life of my sister , a maiden so long ; for by my death I shall leave my father ’ s house without an heir ."
+    },
+    {
+      "id": "665",
+      "label": "Section 665",
+      "chapter": null,
+      "original": "ἐρεῖς · ἀδύνατον . αὐτὸ τοῦτο · τοὺς φίλους",
+      "translation": "You will say it is impossible . That ’ s the point ; friends are bound to help friends in trouble . But when fortune gives of its best , what need of friends ? For the god ’ s help is enough of itself when he is willing to give it ."
+    },
+    {
+      "id": "669",
+      "label": "Section 669",
+      "chapter": null,
+      "original": "φιλεῖν δάμαρτα πᾶσιν Ἕλλησιν δοκεῖς ·",
+      "translation": "All Hellas believes that you love your wife ,"
+    },
+    {
+      "id": "670",
+      "label": "Section 670",
+      "chapter": null,
+      "original": "κοὐχ ὑποτρέχων σε τοῦτο θωπείᾳ λέγω ·",
+      "translation": "and I am not saying this to flatter or wheedle you ; by her I implore you ."
+    }
+  ],
+  "prevChunkSlug": "orestes-7l7ixd-4",
+  "nextChunkSlug": "orestes-7l7ixd-6"
+}

@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-stichus-trinummus-truculentus-tale-of-a-travelling-bag-fragments-bj13xq",
+  "volumeTitle": "Stichus. Trinummus. Truculentus. Tale of a Travelling Bag. Fragments",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "trinummus-py0gy8-4",
+  "label": "Trinummus (Section 2.2.369b - Section 2.4.438b)",
+  "partId": "trinummus-py0gy8",
+  "partTitle": "Trinummus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Trinummus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi019.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Trinummus: The Three Pieces of Money",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi019.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "2.2.369b",
+      "label": "Section 2.2.369b",
+      "chapter": null,
+      "original": "Nil quicquam , pater ;",
+      "translation": "Nothing at all , father ."
+    },
+    {
+      "id": "2.2.370",
+      "label": "Section 2.2.370",
+      "chapter": null,
+      "original": "tu modo ne me prohibeas accipere , si quid det mihi .",
+      "translation": "Do you only not hinder me from accepting it if he should give anything to me ."
+    },
+    {
+      "id": "2.2.371",
+      "label": "Section 2.2.371",
+      "chapter": null,
+      "original": "An eo egestatem ei tolerabis , si quid ab illo acceperis ?",
+      "translation": "And will you be relieving his poverty by that , if you shall accept anything of him ?"
+    },
+    {
+      "id": "2.2.372",
+      "label": "Section 2.2.372",
+      "chapter": null,
+      "original": "Eo , pater .",
+      "translation": "By that very means , my father ."
+    },
+    {
+      "id": "2.2.372b",
+      "label": "Section 2.2.372b",
+      "chapter": null,
+      "original": "Pol ego istam volo me rationem edoceas .",
+      "translation": "Faith , I wish that you would instruct me in that method ."
+    },
+    {
+      "id": "2.2.372c",
+      "label": "Section 2.2.372c",
+      "chapter": null,
+      "original": "Licet .",
+      "translation": "Certainly . Do you know of what family he is born ?"
+    },
+    {
+      "id": "2.2.373b",
+      "label": "Section 2.2.373b",
+      "chapter": null,
+      "original": "Scio , adprime probo .",
+      "translation": "I know — of an extremely honourable one ."
+    },
+    {
+      "id": "2.2.374",
+      "label": "Section 2.2.374",
+      "chapter": null,
+      "original": "Soror illi est adulta virgo grandis : eam cupio , pater ,",
+      "translation": "He has a sister — a fine young woman now grown up : I wish , father ,"
+    },
+    {
+      "id": "2.2.375",
+      "label": "Section 2.2.375",
+      "chapter": null,
+      "original": "ducere uxorem sine dote .",
+      "translation": "to take her without a portion for my wife ."
+    },
+    {
+      "id": "2.2.375b",
+      "label": "Section 2.2.375b",
+      "chapter": null,
+      "original": "Sine dote uxorem ?",
+      "translation": "A wife without a portion ?"
+    },
+    {
+      "id": "2.2.375c",
+      "label": "Section 2.2.375c",
+      "chapter": null,
+      "original": "Ita ;",
+      "translation": "Just so — your riches saved as well . By these means you will be conferring an extreme favour on him , and in no way could you help him to greater advantage ."
+    },
+    {
+      "id": "2.2.378",
+      "label": "Section 2.2.378",
+      "chapter": null,
+      "original": "Egone indotatam te uxorem ut patiar ?",
+      "translation": "Am I to suffer you to take a wife without a portion ?"
+    },
+    {
+      "id": "2.2.378b",
+      "label": "Section 2.2.378b",
+      "chapter": null,
+      "original": "Patiundumst , pater ;",
+      "translation": "You must suffer it , father ; and by these means you will be giving an estimable character to our family ."
+    },
+    {
+      "id": "2.2.380",
+      "label": "Section 2.2.380",
+      "chapter": null,
+      "original": "Multa ego possum docta dicta et quamvis facunde loqui ,",
+      "translation": "I could give utterance to many a learned saying , and very fluently too : this old age of mine retains stories of old and ancient times . But , since I see that you are courting friendship and esteem for our family , although I have been opposed to you , I thus give my decision — I will permit you ; ask for the girl , and marry her ."
+    },
+    {
+      "id": "2.2.384b",
+      "label": "Section 2.2.384b",
+      "chapter": null,
+      "original": "Di te servassint mihi .",
+      "translation": "May the Gods preserve you to me ."
+    },
+    {
+      "id": "2.2.385",
+      "label": "Section 2.2.385",
+      "chapter": null,
+      "original": "sed adde ad istam gratiam unum .",
+      "translation": "But , to this favour add one thing ."
+    },
+    {
+      "id": "2.2.385b",
+      "label": "Section 2.2.385b",
+      "chapter": null,
+      "original": "Quid id est autem unum ?",
+      "translation": "But what is this one thing ?"
+    },
+    {
+      "id": "2.2.385c",
+      "label": "Section 2.2.385c",
+      "chapter": null,
+      "original": "Eloquar .",
+      "translation": "I will tell you . Do you go to him , do you solicit him , and do you ask for her yourself ."
+    },
+    {
+      "id": "2.2.386b",
+      "label": "Section 2.2.386b",
+      "chapter": null,
+      "original": "Eccere .",
+      "translation": "Think of that now ."
+    },
+    {
+      "id": "2.2.387",
+      "label": "Section 2.2.387",
+      "chapter": null,
+      "original": "Nimio citius transiges : firmum omne erit quod tu egeris .",
+      "translation": "You will transact it much more speedily : all will be made sure of that you do . One word of yours in this matter will be of more consequence than a hundred of mine ."
+    },
+    {
+      "id": "2.2.389",
+      "label": "Section 2.2.389",
+      "chapter": null,
+      "original": "Ecce autem in benignitate hoc repperi , negotium .",
+      "translation": "See , now , how , in my kindness , I have undertaken this matter ."
+    },
+    {
+      "id": "2.2.390",
+      "label": "Section 2.2.390",
+      "chapter": null,
+      "original": "dabitur opera .",
+      "translation": "My assistance shall be given ."
+    },
+    {
+      "id": "2.2.390b",
+      "label": "Section 2.2.390b",
+      "chapter": null,
+      "original": "Lepidus vivis . haec sunt aedes , hic habet ;",
+      "translation": "You really are a kind father . This is the house here he dwells . ( He points to the house of CHARMIDES .) Lesbonicus is his name . Mind and attend to the business ; I will await you at home ."
+    },
+    {
+      "id": "2.3.392",
+      "label": "Section 2.3.392",
+      "chapter": null,
+      "original": "Non optuma haec sunt , neque ut ego aequom censeo ;",
+      "translation": "These things are not for the best , nor as I think they ought to be ; but still , they are better than that which is downright bad . But this one circumstance consoles myself and my thoughts-namely ,"
+    },
+    {
+      "id": "2.3.395",
+      "label": "Section 2.3.395",
+      "chapter": null,
+      "original": "quia qui nihil aliud nisi quod sibi soli placet",
+      "translation": "that he who counsels in respect to a son nothing else but that which pleases himself alone , only plays the fool ; he becomes wretched in mind , and yet he is no nearer bringing it about . He is preparing a very inclement winter for his own old age when he arouses that unseasonable storm ."
+    },
+    {
+      "id": "2.3.400",
+      "label": "Section 2.3.400",
+      "chapter": null,
+      "original": "sed aperiuntur aedes quo ibam : commodum",
+      "translation": "( The door of the house of CHARMIDES opens .) But the house is opened to which I was going ; most conveniently , Lesbonicus himself is coming out of doors with his servant ."
+    },
+    {
+      "id": "2.4.402",
+      "label": "Section 2.4.402",
+      "chapter": null,
+      "original": "Minus quíndecim dies sunt , quom pro hisce aedibus",
+      "translation": "’ Tis less than fifteen days since you received from Callicles forty minae for this house ; is it not as I say , Stasimus ?"
+    },
+    {
+      "id": "2.4.404b",
+      "label": "Section 2.4.404b",
+      "chapter": null,
+      "original": "Quom considero ,",
+      "translation": "When I consider ,"
+    },
+    {
+      "id": "2.4.405",
+      "label": "Section 2.4.405",
+      "chapter": null,
+      "original": "meminisse videor fieri .",
+      "translation": "I think I remember that it was so ."
+    },
+    {
+      "id": "2.4.405b",
+      "label": "Section 2.4.405b",
+      "chapter": null,
+      "original": "Quid factumst eo ?",
+      "translation": "What has been done with it ?"
+    },
+    {
+      "id": "2.4.406",
+      "label": "Section 2.4.406",
+      "chapter": null,
+      "original": "Comessum , expotum ; exussum : elotum in balineis ,",
+      "translation": "It has been eaten and drunk up — spent away in unguents , washed away in baths [*] . The fishmonger and the baker have carried it off : butchers , too , and cooks , green-grocers , perfumers , and poulterers ; ’ twas quickly consumed . I ’ faith ! that money was made away with not less speedily"
+    },
+    {
+      "id": "2.4.410",
+      "label": "Section 2.4.410",
+      "chapter": null,
+      "original": "quam si tu obicias formicis papaverem .",
+      "translation": "than if you were to throw a poppy among the ants ."
+    },
+    {
+      "id": "2.4.411",
+      "label": "Section 2.4.411",
+      "chapter": null,
+      "original": "Minus hercle in istis rebus sumptumst sex minis .",
+      "translation": "By my troth , less has been spent on those items than six minae ?"
+    },
+    {
+      "id": "2.4.412",
+      "label": "Section 2.4.412",
+      "chapter": null,
+      "original": "Quid quod dedisti scortis ?",
+      "translation": "Besides , what have you given to your mistresses ?"
+    },
+    {
+      "id": "2.4.412b",
+      "label": "Section 2.4.412b",
+      "chapter": null,
+      "original": "Ibidem una traho .",
+      "translation": "That I am including as well in it ."
+    },
+    {
+      "id": "2.4.413",
+      "label": "Section 2.4.413",
+      "chapter": null,
+      "original": "Quid quod égo defrudavi ?",
+      "translation": "Besides , what have I pilfered of it ?"
+    },
+    {
+      "id": "2.4.413b",
+      "label": "Section 2.4.413b",
+      "chapter": null,
+      "original": "Em , istaec ratio maxumast .",
+      "translation": "Aye , that item is a very heavy one ."
+    },
+    {
+      "id": "2.4.414",
+      "label": "Section 2.4.414",
+      "chapter": null,
+      "original": "Non tibi illud apparere , si sumas , potest ;",
+      "translation": "That cannot so appear to you , if you make all due deductions [*] ,"
+    },
+    {
+      "id": "2.4.415",
+      "label": "Section 2.4.415",
+      "chapter": null,
+      "original": "nisi tu immortale rere esse argentum tibi .",
+      "translation": "unless you think that your money is everlasting ."
+    },
+    {
+      "id": "2.4.416",
+      "label": "Section 2.4.416",
+      "chapter": null,
+      "original": "Sero atque stulte , prius quod cautum oportuit ,",
+      "translation": "( Aside .) Too late and unwisely ,— a caution that should have been used before ,— after he has devoured his substance , he reckons up the account too late ."
+    },
+    {
+      "id": "2.4.418",
+      "label": "Section 2.4.418",
+      "chapter": null,
+      "original": "Nequaquam argenti ratio comparet tamen .",
+      "translation": "The account , however , of this money is by no means clear ."
+    },
+    {
+      "id": "2.4.419",
+      "label": "Section 2.4.419",
+      "chapter": null,
+      "original": "Ratio quidem hercle apparet : argentum οἴχεται .",
+      "translation": "I ’ faith , the account is very clear : the money ’ s gone [*] ."
+    },
+    {
+      "id": "2.4.420",
+      "label": "Section 2.4.420",
+      "chapter": null,
+      "original": "minas quadraginta accepisti a Callicle ,",
+      "translation": "Did you not receive forty minae from Callicles , and did he not receive from you the house in possession ?"
+    },
+    {
+      "id": "2.4.421b",
+      "label": "Section 2.4.421b",
+      "chapter": null,
+      "original": "Admodum .",
+      "translation": "Very good ."
+    },
+    {
+      "id": "2.4.422",
+      "label": "Section 2.4.422",
+      "chapter": null,
+      "original": "Pol opino adfinis noster aedis vendidit ;",
+      "translation": "Troth , I think our neighbour has sold his house [*] . When his father shall come from abroad , his place is in the beggar ’ s gate [*] , unless , perchance , he should creep into his son ’ s stomach [*] ."
+    },
+    {
+      "id": "2.4.425",
+      "label": "Section 2.4.425",
+      "chapter": null,
+      "original": "Trapezítae mille drachumarúm Olympico ,",
+      "translation": "There were a thousand Olympic drachmae [*] paid to the banker [*] , which you were owing upon account ."
+    },
+    {
+      "id": "2.4.427",
+      "label": "Section 2.4.427",
+      "chapter": null,
+      "original": "Nempe quás spopondi .",
+      "translation": "Those , I suppose , that I was security for [*] ?"
+    },
+    {
+      "id": "2.4.427b",
+      "label": "Section 2.4.427b",
+      "chapter": null,
+      "original": "Immó quas dependi inquito",
+      "translation": "Say , rather [*] , Those that I paid down — for that young man whom you used to say [*] was so rich ."
+    },
+    {
+      "id": "2.4.429",
+      "label": "Section 2.4.429",
+      "chapter": null,
+      "original": "Factum .",
+      "translation": "It was so done ."
+    },
+    {
+      "id": "2.4.429b",
+      "label": "Section 2.4.429b",
+      "chapter": null,
+      "original": "Vt quidem illud perierit .",
+      "translation": "Yes , just to be squandered away ."
+    },
+    {
+      "id": "2.4.429c",
+      "label": "Section 2.4.429c",
+      "chapter": null,
+      "original": "Factum id quoque est .",
+      "translation": "That was done as well ."
+    },
+    {
+      "id": "2.4.430",
+      "label": "Section 2.4.430",
+      "chapter": null,
+      "original": "nam nunc eum vidi miserum et me eius miseritumst .",
+      "translation": "But I saw him in a pitiable state , and I did have pity on him ."
+    },
+    {
+      "id": "2.4.431",
+      "label": "Section 2.4.431",
+      "chapter": null,
+      "original": "Miseret te aliorum , tui nec miseret nec pudet .",
+      "translation": "You have pity on others , and you have neither pity nor shame for yourself ."
+    },
+    {
+      "id": "2.4.432",
+      "label": "Section 2.4.432",
+      "chapter": null,
+      "original": "Tempust adeundi .",
+      "translation": "’ Tis time to accost him ."
+    },
+    {
+      "id": "2.4.432b",
+      "label": "Section 2.4.432b",
+      "chapter": null,
+      "original": "Éstne hic Philto qui advenit ?",
+      "translation": "Is this Philto that is coming here ? Troth , ’ tis he himself ."
+    },
+    {
+      "id": "2.4.433b",
+      "label": "Section 2.4.433b",
+      "chapter": null,
+      "original": "Edepol né ego istum velim",
+      "translation": "I ’ faith , I could wish he was my slave , together with his savings [*] ."
+    },
+    {
+      "id": "2.4.435",
+      "label": "Section 2.4.435",
+      "chapter": null,
+      "original": "Erum atque servom plurumum Philto iubet",
+      "translation": "Philto right heartily wishes health to both master and servant , Lesbonicus and Stasimus ."
+    },
+    {
+      "id": "2.4.436b",
+      "label": "Section 2.4.436b",
+      "chapter": null,
+      "original": "Di duint",
+      "translation": "May the Gods give you , Philto , whatever you may wish for . How is your son ?"
+    },
+    {
+      "id": "2.4.438",
+      "label": "Section 2.4.438",
+      "chapter": null,
+      "original": "Bene volt tibi .",
+      "translation": "He wishes well to you ."
+    },
+    {
+      "id": "2.4.438b",
+      "label": "Section 2.4.438b",
+      "chapter": null,
+      "original": "Edepol mutuom mecum facit .",
+      "translation": "In good sooth , he does for me what I do for him in return !"
+    }
+  ],
+  "prevChunkSlug": "trinummus-py0gy8-3",
+  "nextChunkSlug": "trinummus-py0gy8-5"
+}

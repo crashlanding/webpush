@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-stichus-trinummus-truculentus-tale-of-a-travelling-bag-fragments-bj13xq",
+  "volumeTitle": "Stichus. Trinummus. Truculentus. Tale of a Travelling Bag. Fragments",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "trinummus-py0gy8-11",
+  "label": "Trinummus (Section 4.2.973b - Section 4.3.1059b)",
+  "partId": "trinummus-py0gy8",
+  "partTitle": "Trinummus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Trinummus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi019.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Trinummus: The Three Pieces of Money",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi019.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "4.2.973b",
+      "label": "Section 4.2.973b",
+      "chapter": null,
+      "original": "Nequiquam hercle es , nam nihil auri fero .",
+      "translation": "I ’ faith , you are so to no purpose , for I carry [*] no gold . Right cleverly were you down upon me , at the very nick of time ."
+    },
+    {
+      "id": "4.2.975",
+      "label": "Section 4.2.975",
+      "chapter": null,
+      "original": "postquam ego me aurum ferre dixi , post tu factu'sfactus es Charmides ;",
+      "translation": "After I said that I was bringing the gold , that instant you became Charmides . Before I made mention of the gold , you were not he . It won ’ t do . Just , therefore , in such manner as you Charmidised yourself , do you again un-Charmidise yourself ."
+    },
+    {
+      "id": "4.2.978",
+      "label": "Section 4.2.978",
+      "chapter": null,
+      "original": "Quis ego sum igitur , siquidem is non sum qui sum ?",
+      "translation": "Who am I , then , if in fact I am not he who I really am ?"
+    },
+    {
+      "id": "4.2.978b",
+      "label": "Section 4.2.978b",
+      "chapter": null,
+      "original": "Quid id ad me attinet ?",
+      "translation": "What matters that to me ? So long as you are not he whom I do not choose you to be , you may be who you like , for what I care ."
+    },
+    {
+      "id": "4.2.980",
+      "label": "Section 4.2.980",
+      "chapter": null,
+      "original": "prius non is eras quí eras : nunc is factu'sfactus es qui tum non eras .",
+      "translation": "Just now , you were not he who you were , now you are become he who then you were not ."
+    },
+    {
+      "id": "4.2.981",
+      "label": "Section 4.2.981",
+      "chapter": null,
+      "original": "Age si quid agis .",
+      "translation": "Come , despatch , if you are going to do it ."
+    },
+    {
+      "id": "4.2.981b",
+      "label": "Section 4.2.981b",
+      "chapter": null,
+      "original": "Quid ego agam ?",
+      "translation": "What am I to do ?"
+    },
+    {
+      "id": "4.2.981c",
+      "label": "Section 4.2.981c",
+      "chapter": null,
+      "original": "Aurum redde .",
+      "translation": "Give me back the gold ."
+    },
+    {
+      "id": "4.2.981d",
+      "label": "Section 4.2.981d",
+      "chapter": null,
+      "original": "Dormitas , senex .",
+      "translation": "You are dreaming , old gentleman ."
+    },
+    {
+      "id": "4.2.982",
+      "label": "Section 4.2.982",
+      "chapter": null,
+      "original": "Fassu'sfassus es Charmidem dedisse aurum tibi .",
+      "translation": "Did you own that Charmides delivered the gold to you ?"
+    },
+    {
+      "id": "4.2.982b",
+      "label": "Section 4.2.982b",
+      "chapter": null,
+      "original": "Scriptum quidem .",
+      "translation": "Yes — in writing [*] ."
+    },
+    {
+      "id": "4.2.983",
+      "label": "Section 4.2.983",
+      "chapter": null,
+      "original": "Properas an non properas ire actutum ab his regionibus ,",
+      "translation": "Are you making haste or not , you night-robber , to be off with all speed this very instant from this neighbourhood , before I order you to be soundly cudgelled on the spot ?"
+    },
+    {
+      "id": "4.2.985",
+      "label": "Section 4.2.985",
+      "chapter": null,
+      "original": "Quam ob rem ?",
+      "translation": "For what reason ?"
+    },
+    {
+      "id": "4.2.985b",
+      "label": "Section 4.2.985b",
+      "chapter": null,
+      "original": "Quia illum quem ementitus es , ego sum ipsus Charmides ,",
+      "translation": "Because I am that self-same Charmides about whom you have been thus lying , and who you said gave the letters to you ."
+    },
+    {
+      "id": "4.2.986b",
+      "label": "Section 4.2.986b",
+      "chapter": null,
+      "original": "Eho , quaeso , an tu is es ?",
+      "translation": "How now ; prithee , are you really he ?"
+    },
+    {
+      "id": "4.2.987",
+      "label": "Section 4.2.987",
+      "chapter": null,
+      "original": "Is enim vero sum .",
+      "translation": "I really am he ."
+    },
+    {
+      "id": "4.2.987b",
+      "label": "Section 4.2.987b",
+      "chapter": null,
+      "original": "Ain tu tandem ? is ipsusne es ?",
+      "translation": "Say you so , pray ? Are you really he himself ?"
+    },
+    {
+      "id": "4.2.987c",
+      "label": "Section 4.2.987c",
+      "chapter": null,
+      "original": "Aio .",
+      "translation": "I do say so ."
+    },
+    {
+      "id": "4.2.987d",
+      "label": "Section 4.2.987d",
+      "chapter": null,
+      "original": "Ipsus es ?",
+      "translation": "Are you his own self ?"
+    },
+    {
+      "id": "4.2.988",
+      "label": "Section 4.2.988",
+      "chapter": null,
+      "original": "Ipsus , inquam , Charmides sum .",
+      "translation": "His own self , I say . I am Charmides ."
+    },
+    {
+      "id": "4.2.988b",
+      "label": "Section 4.2.988b",
+      "chapter": null,
+      "original": "Ergo ipsusne es ?",
+      "translation": "And are you then his own self ?"
+    },
+    {
+      "id": "4.2.988c",
+      "label": "Section 4.2.988c",
+      "chapter": null,
+      "original": "Ipsissimus .",
+      "translation": "His own very self . Begone hence out of my sight ."
+    },
+    {
+      "id": "4.2.989b",
+      "label": "Section 4.2.989b",
+      "chapter": null,
+      "original": "Enim véro serio , quoniam advenis —",
+      "translation": "Since you really have made your appearance here thus late ,"
+    },
+    {
+      "id": "4.2.990",
+      "label": "Section 4.2.990",
+      "chapter": null,
+      "original": "vapulabis meo arbitratu ét novorum aedilium .",
+      "translation": "you shall be beaten both at my own award [*] and that of the new Aediles ."
+    },
+    {
+      "id": "4.2.991",
+      "label": "Section 4.2.991",
+      "chapter": null,
+      "original": "At etiam maledicis ?",
+      "translation": "And are you abusing me as well ?"
+    },
+    {
+      "id": "4.2.991b",
+      "label": "Section 4.2.991b",
+      "chapter": null,
+      "original": "Immo , salvos quandoquidem advenis —",
+      "translation": "Yes ; seeing that you have arrived in safety [*] , may the Gods confound me , if I care a straw for you , had you perished first . I have received the money for this job ; you , I devote to bad luck . But who you are , or who you are not , I care not one jot ."
+    },
+    {
+      "id": "4.2.995",
+      "label": "Section 4.2.995",
+      "chapter": null,
+      "original": "ibo , ad illúm renuntiabo qui mihi tris nummos dedit ,",
+      "translation": "I ’ ll go and carry word [*] to him who gave me the three pieces , that he may know that he has thrown them away . I ’ m off . Live with a curse , and fare you ill ; may all the Gods confound you , Charmides , for coming from abroad [*] ."
+    },
+    {
+      "id": "4.2.998",
+      "label": "Section 4.2.998",
+      "chapter": null,
+      "original": "Postquam illic hinc ábiit , post loquendi libere",
+      "translation": "Since this fellow has gone , at last a time and opportunity seem to have arrived for speaking out without restraint ."
+    },
+    {
+      "id": "4.2.1000",
+      "label": "Section 4.2.1000",
+      "chapter": null,
+      "original": "iam dudum meum ille pectus pnngit aculeus ,",
+      "translation": "Already does this sting pierce my breast — what business he could have before my house ? For these letters summon apprehensions into my heart ; those thousand pieces , too — what purpose they were to serve . I ’ faith , a bell [*] is never rung for no purpose ;"
+    },
+    {
+      "id": "4.2.1005",
+      "label": "Section 4.2.1005",
+      "chapter": null,
+      "original": "nisi qui illud tractat aut movet , mutumst , tacet .",
+      "translation": "unless some one handles it or moves it , ’ tis mute , ’ tis dumb . But who is this , that is beginning to run this way along the street ? I should like to observe what he is about . I ’ ll step aside this way ."
+    },
+    {
+      "id": "4.3.1008",
+      "label": "Section 4.3.1008",
+      "chapter": null,
+      "original": "Stasime , fac te propere celerem , recipe te ad dominum domum ,",
+      "translation": "Stasimus , make you haste with all speed ; away with you to your master ’ s house , lest on a sudden , through your folly , fears should arise for your shoulder-blades [*] ."
+    },
+    {
+      "id": "4.3.1010",
+      "label": "Section 4.3.1010",
+      "chapter": null,
+      "original": "adde gradum , adpropera . iam dudum factumst , cum abiisti domo .",
+      "translation": "Quicken your pace , make haste ; ’ tis now a long while since you left the house . If you shall be absent when inquired after by your master , take you care , please , that the smacks of the bull ’ s-hide [*] don ’ t clatter thick upon you . Don ’ t you cease running . See now , Stasimus , what a worthless fellow you are ; and isn ’ t it the fact that you have forgotten your ring [*] at the liquor- shop [*] after you have been washing your throat with warm drink ?"
+    },
+    {
+      "id": "4.3.1015",
+      "label": "Section 4.3.1015",
+      "chapter": null,
+      "original": "recipe te et recurre petere re recenti .",
+      "translation": "Turn about , and run back now , to seek it , while the thing has but just happened ."
+    },
+    {
+      "id": "4.3.1015b",
+      "label": "Section 4.3.1015b",
+      "chapter": null,
+      "original": "Huic , quisquis est ,",
+      "translation": "Whoever he is , his throat is his taskmaster [*] ; that teaches this fellow the art of running ."
+    },
+    {
+      "id": "4.3.1017",
+      "label": "Section 4.3.1017",
+      "chapter": null,
+      "original": "Quid , homo nihili , non pudet te ? tribusne te poteriis",
+      "translation": "What , good-for-nothing fellow , are you not ashamed of yourself ? having lost your memory after only three cups ? And really , because you were there drinking together with such honest fellows , who could keep their hands off [*] the property of another without difficulty ;"
+    },
+    {
+      "id": "4.3.1020",
+      "label": "Section 4.3.1020",
+      "chapter": null,
+      "original": "Truthus fuit , Cerconicus , Crinnus , Cercobulus , Collabus ,",
+      "translation": "Chiruchus was there , Cerconicus , Crimnus , Cricolabus , Collabus [*] , whipped-necks [*] , whipped-legs , iron-rubbers , whipped-knaves ."
+    },
+    {
+      "id": "4.3.1022",
+      "label": "Section 4.3.1022",
+      "chapter": null,
+      "original": "inter eosne homines condalium te redipisci postulas ?",
+      "translation": "— is it among such men that you expect you may recover your ring ?"
+    },
+    {
+      "id": "4.3.1023",
+      "label": "Section 4.3.1023",
+      "chapter": null,
+      "original": "quorum eorum únus surrupuit currenti cursori solum .",
+      "translation": "By my faith , any one of these could steal the sole of his shoe from a running footman [*] ."
+    },
+    {
+      "id": "4.3.1024",
+      "label": "Section 4.3.1024",
+      "chapter": null,
+      "original": "Ita me di ament , graphicum furem .",
+      "translation": "So may the Gods love me , a finished thief ."
+    },
+    {
+      "id": "4.3.1024b",
+      "label": "Section 4.3.1024b",
+      "chapter": null,
+      "original": "Quid ego quod periit petam ?",
+      "translation": "Why should I go seek what is gone for ever ?"
+    },
+    {
+      "id": "4.3.1025",
+      "label": "Section 4.3.1025",
+      "chapter": null,
+      "original": "nisi etiam laborem ad damnum ápponam epithecam insuper .",
+      "translation": "Unless I would bestow my pains , too , by way of addition over and above to my loss . Why , then , don ’ t you consider that what is gone is gone ? Tack about , then [*] . Betake yourself back to your master ."
+    },
+    {
+      "id": "4.3.1027b",
+      "label": "Section 4.3.1027b",
+      "chapter": null,
+      "original": "Non fugitivost hic homo , commeminit domi .",
+      "translation": "This fellow is no runaway ; he remembers his home ."
+    },
+    {
+      "id": "4.3.1028",
+      "label": "Section 4.3.1028",
+      "chapter": null,
+      "original": "Vtinam veteres homin um mor es , veteres parsimoniae",
+      "translation": "I wish that the old-fashioned ways of old-fashioned days , and the old-fashioned thriftiness , were in greater esteem here , rather than these bad ways ."
+    },
+    {
+      "id": "4.3.1030",
+      "label": "Section 4.3.1030",
+      "chapter": null,
+      "original": "Di immortales , basilica hic quidem facinora inceptat loqui .",
+      "translation": "Immortal Gods ! this man really is beginning to talk of noble doings ! He longs for the old-fashioned ways ; know that he loves the old-fashioned ways , after the fashion of our forefathers ."
+    },
+    {
+      "id": "4.3.1032",
+      "label": "Section 4.3.1032",
+      "chapter": null,
+      "original": "Nam nunc mores nihili faciunt quod licet , nisi quod lubet :",
+      "translation": "For , now-a-days , men ’ s manners reckon of no value what is proper , except what is agreable . Ambition now is sanctioned by usage , and is free from the laws . By usage , people have the license to throw away their shields , and to run away from the enemy ."
+    },
+    {
+      "id": "4.3.1035",
+      "label": "Section 4.3.1035",
+      "chapter": null,
+      "original": "petere honorem pro flagitio more fit .",
+      "translation": "To seek honor thereby in place of disgrace is the usage ."
+    },
+    {
+      "id": "4.3.1035b",
+      "label": "Section 4.3.1035b",
+      "chapter": null,
+      "original": "Morem improbum .",
+      "translation": "A shameless usage ."
+    },
+    {
+      "id": "4.3.1036",
+      "label": "Section 4.3.1036",
+      "chapter": null,
+      "original": "Strenuiores praeterire more fit .",
+      "translation": "Now-a-days , ’ tis the usage to neglect the brave ."
+    },
+    {
+      "id": "4.3.1036b",
+      "label": "Section 4.3.1036b",
+      "chapter": null,
+      "original": "Nequam quidem .",
+      "translation": "Aye , ’ tis really shocking ."
+    },
+    {
+      "id": "4.3.1037",
+      "label": "Section 4.3.1037",
+      "chapter": null,
+      "original": "Mores leges perduxerunt iam in potestatem suam ,",
+      "translation": "The public manners have now got the laws in their power ; to them they are more submissive than are parents to their children [*] . In their misery , these laws are even hung up [*] against the wall with iron nails ,"
+    },
+    {
+      "id": "4.3.1040",
+      "label": "Section 4.3.1040",
+      "chapter": null,
+      "original": "ubi malos mores adfigi nimio fuerat aequius .",
+      "translation": "where it had been much more becoming for bad ways to be fixed up ."
+    },
+    {
+      "id": "4.3.1041",
+      "label": "Section 4.3.1041",
+      "chapter": null,
+      "original": "Lubet adire atque appellare hunc ; verum ausculto perlubens",
+      "translation": "I ’ d like to go up and accost this person ; but I listen to him with much pleasure , and I ’ m afraid , if I address him , that he may begin to talk on some other subject ."
+    },
+    {
+      "id": "4.3.1043",
+      "label": "Section 4.3.1043",
+      "chapter": null,
+      "original": "Neque istis quicquam lege sanctumst : leges mori serviunt ,",
+      "translation": "And , for these ways , there is nothing rendered sacred by the law . The laws are subservient to usage ; but these habits are hastening to sweep away both what is sacred and what is public property ."
+    },
+    {
+      "id": "4.3.1045",
+      "label": "Section 4.3.1045",
+      "chapter": null,
+      "original": "Hercle istis malam rem magnam moribus dignumst dari .",
+      "translation": "By my troth , ’ twere right for some great calamity to befal these bad customs ."
+    },
+    {
+      "id": "4.3.1046",
+      "label": "Section 4.3.1046",
+      "chapter": null,
+      "original": "Nonne hoc publice animum advorti ? nam id genus hominum omnibus",
+      "translation": "Ought not this state of things to be publicly censured ? For this kind of men are the enemies of all persons , and do an injury to the entire people . By a non-observance of their own honour , they likewise destroy all trust even in those who merit it not ; inasmuch as people form an estimate of the disposition of these from the disposition of those fellows ."
+    },
+    {
+      "id": "4.3.1050",
+      "label": "Section 4.3.1050",
+      "chapter": null,
+      "original": "hoc qui in mentem venerit mihi ? re ipsa modo commonitus sum .",
+      "translation": "As to how this suggests itself to me , I have by actual experience been lately put in mind of it ."
+    },
+    {
+      "id": "4.3.1051",
+      "label": "Section 4.3.1051",
+      "chapter": null,
+      "original": "si quoi mutuom quid dederis , fit pro proprio perditum :",
+      "translation": "If you lend [*] a person any money , it becomes lost for any purpose as one ’ s own . When you ask for it back again , you may find a friend made an enemy by your kindness . If you begin to press still further , the option of two things ensues — either you must part with that which you have entrusted , or else you must lose that friend ."
+    },
+    {
+      "id": "4.3.1055",
+      "label": "Section 4.3.1055",
+      "chapter": null,
+      "original": "Meus est hic quidem Stasimus servos .",
+      "translation": "Surely this is my servant Stasimus ?"
+    },
+    {
+      "id": "4.3.1055b",
+      "label": "Section 4.3.1055b",
+      "chapter": null,
+      "original": "Nam ego talentum mutuom",
+      "translation": "For as to him to whom I lent the talent , I bought myself an enemy with my talent , and sold my friend . But I am too great a simpleton to be attending to public matters rather than ( what ’ s my immediate interest ) obtain safety for my back . I ’ ll go home ."
+    },
+    {
+      "id": "4.3.1059b",
+      "label": "Section 4.3.1059b",
+      "chapter": null,
+      "original": "Heus tu , asta ilico . audi .",
+      "translation": "Hallo , you ! Stop , this instant ! Harkye ; hallo , you !"
+    }
+  ],
+  "prevChunkSlug": "trinummus-py0gy8-10",
+  "nextChunkSlug": "trinummus-py0gy8-12"
+}

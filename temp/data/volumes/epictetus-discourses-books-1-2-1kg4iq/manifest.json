@@ -1,0 +1,61 @@
+{
+  "loebNumber": 131,
+  "sortOrder": 131,
+  "slug": "epictetus-discourses-books-1-2-1kg4iq",
+  "title": "Discourses, Books 1-2",
+  "volumeLabel": "Discourses, Books 1-2",
+  "authorDisplay": "Epictetus",
+  "authors": [
+    "Epictetus"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Discourses, Books 1-2, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "discourses-books-1-2-1ty6vc",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "discourses-books-1-2-1ty6vc",
+      "title": "Discourses, Books 1-2",
+      "status": "ready",
+      "sectionCount": 2,
+      "chunkSlug": "discourses-books-1-2-1ty6vc",
+      "chunks": [
+        {
+          "slug": "discourses-books-1-2-1ty6vc",
+          "label": "Discourses, Books 1-2",
+          "partId": "discourses-books-1-2-1ty6vc",
+          "partTitle": "Discourses, Books 1-2",
+          "sectionCount": 2,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "discourses-books-1-2-1ty6vc",
+      "label": "Discourses, Books 1-2",
+      "partId": "discourses-books-1-2-1ty6vc",
+      "partTitle": "Discourses, Books 1-2",
+      "sectionCount": 2,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "discourses-books-1-2-1ty6vc",
+      "partTitle": "Discourses, Books 1-2",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀρριανοῦ τῶν Ἐπικτήτου Διατριβῶν",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0557.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Arrian's Discourses of Epictetus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0557.tlg001.perseus-eng3/"
+      }
+    }
+  ]
+}

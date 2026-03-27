@@ -1,0 +1,135 @@
+{
+  "loebNumber": 199,
+  "sortOrder": 199,
+  "slug": "aristotle-longinus-demetrius-poetics-longinus-on-the-sublime-demetrius-on-style-glxb1v",
+  "title": "Longinus, Demetrius, Poetics. Longinus: On the Sublime. Demetrius: On Style",
+  "volumeLabel": "Longinus, Demetrius, Poetics. Longinus: On the Sublime. Demetrius: On Style",
+  "authorDisplay": "Aristotle",
+  "authors": [
+    "Aristotle"
+  ],
+  "language": "greek",
+  "summary": "1 of 3 contents in Longinus, Demetrius, Poetics. Longinus: On the Sublime. Demetrius: On Style are live from Scaife, while the remaining contents stay visible until a confident pair is available.",
+  "status": "partial",
+  "defaultChunkSlug": "longinus-demetrius-poetics-1k4r0a-1",
+  "readyChunkCount": 3,
+  "contents": [
+    {
+      "id": "longinus-demetrius-poetics-1k4r0a",
+      "title": "Longinus, Demetrius, Poetics",
+      "status": "ready",
+      "sectionCount": 128,
+      "chunkSlug": "longinus-demetrius-poetics-1k4r0a-1",
+      "chunks": [
+        {
+          "slug": "longinus-demetrius-poetics-1k4r0a-1",
+          "label": "Longinus, Demetrius, Poetics (Section 1.1 - Section 13.2)",
+          "partId": "longinus-demetrius-poetics-1k4r0a",
+          "partTitle": "Longinus, Demetrius, Poetics",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "longinus-demetrius-poetics-1k4r0a-2",
+          "label": "Longinus, Demetrius, Poetics (Section 13.3 - Section 25.2)",
+          "partId": "longinus-demetrius-poetics-1k4r0a",
+          "partTitle": "Longinus, Demetrius, Poetics",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "longinus-demetrius-poetics-1k4r0a-3",
+          "label": "Longinus, Demetrius, Poetics (Section 25.3 - Section 26.5)",
+          "partId": "longinus-demetrius-poetics-1k4r0a",
+          "partTitle": "Longinus, Demetrius, Poetics",
+          "sectionCount": 8,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "longinus-on-the-sublime-1ufykb",
+      "title": "Longinus: On the Sublime",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Longinus: On the Sublime."
+    },
+    {
+      "id": "demetrius-on-style-1vana1",
+      "title": "Demetrius: On Style",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Demetrius: On Style."
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "longinus-demetrius-poetics-1k4r0a-1",
+      "label": "Longinus, Demetrius, Poetics (Section 1.1 - Section 13.2)",
+      "partId": "longinus-demetrius-poetics-1k4r0a",
+      "partTitle": "Longinus, Demetrius, Poetics",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "longinus-demetrius-poetics-1k4r0a-2",
+      "label": "Longinus, Demetrius, Poetics (Section 13.3 - Section 25.2)",
+      "partId": "longinus-demetrius-poetics-1k4r0a",
+      "partTitle": "Longinus, Demetrius, Poetics",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "longinus-demetrius-poetics-1k4r0a-3",
+      "label": "Longinus, Demetrius, Poetics (Section 25.3 - Section 26.5)",
+      "partId": "longinus-demetrius-poetics-1k4r0a",
+      "partTitle": "Longinus, Demetrius, Poetics",
+      "sectionCount": 8,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "longinus-demetrius-poetics-1k4r0a-1",
+      "partTitle": "Longinus, Demetrius, Poetics",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ ποιητικῆς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg034.digicorpus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Poetics",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg034.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "longinus-demetrius-poetics-1k4r0a-2",
+      "partTitle": "Longinus, Demetrius, Poetics",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ ποιητικῆς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg034.digicorpus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Poetics",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg034.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "longinus-demetrius-poetics-1k4r0a-3",
+      "partTitle": "Longinus, Demetrius, Poetics",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ ποιητικῆς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg034.digicorpus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Poetics",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0086.tlg034.perseus-eng2/"
+      }
+    }
+  ]
+}

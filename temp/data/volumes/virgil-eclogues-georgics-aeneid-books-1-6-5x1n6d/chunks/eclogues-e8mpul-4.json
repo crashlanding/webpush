@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "virgil-eclogues-georgics-aeneid-books-1-6-5x1n6d",
+  "volumeTitle": "Eclogues. Georgics. Aeneid: Books 1-6",
+  "authorDisplay": "Virgil",
+  "authors": [
+    "Virgil"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "eclogues-e8mpul-4",
+  "label": "Eclogues (Section 7.1 - Section 8.30)",
+  "partId": "eclogues-e8mpul",
+  "partTitle": "Eclogues",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Eclogues",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Eclogues",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "7.1",
+      "label": "Section 7.1",
+      "chapter": null,
+      "original": "Forte sub arguta consederat ilice Daphnis ,",
+      "translation": "daphnis beneath a rustling ilex-tree"
+    },
+    {
+      "id": "7.2",
+      "label": "Section 7.2",
+      "chapter": null,
+      "original": "compulerantque greges Corydon et Thyrsis in unum ,",
+      "translation": "had sat him down ; Thyrsis and Corydon"
+    },
+    {
+      "id": "7.3",
+      "label": "Section 7.3",
+      "chapter": null,
+      "original": "Trhyrsis ovis , Corydon distentas lacte capellas ,",
+      "translation": "had gathered in the flock , Thyrsis the sheep ,"
+    },
+    {
+      "id": "7.4",
+      "label": "Section 7.4",
+      "chapter": null,
+      "original": "ambo florentes aetatibus , Arcades ambo ,",
+      "translation": "and Corydon the she-goats swollen with milk —"
+    },
+    {
+      "id": "7.5",
+      "label": "Section 7.5",
+      "chapter": null,
+      "original": "et cantare pares , et respondere parati .",
+      "translation": "both in the flower of age , Arcadians both ,"
+    },
+    {
+      "id": "7.6",
+      "label": "Section 7.6",
+      "chapter": null,
+      "original": "Huc mihi , dum teneras defendo a frigore myrtos ,",
+      "translation": "ready to sing , and in like strain reply ."
+    },
+    {
+      "id": "7.7",
+      "label": "Section 7.7",
+      "chapter": null,
+      "original": "vir gregis ipse caper deerraverat ; atque ego Daphnim",
+      "translation": "Hither had strayed , while from the frost I fend"
+    },
+    {
+      "id": "7.8",
+      "label": "Section 7.8",
+      "chapter": null,
+      "original": "aspicio . Ille ubi me contra videt : “ Ocius ” inquit",
+      "translation": "my tender myrtles , the he-goat himself ,"
+    },
+    {
+      "id": "7.9",
+      "label": "Section 7.9",
+      "chapter": null,
+      "original": "“ huc ades , O Meliboee , caper tibi salvus et haedi ;",
+      "translation": "lord of the flock ; when Daphnis I espy !"
+    },
+    {
+      "id": "7.10",
+      "label": "Section 7.10",
+      "chapter": null,
+      "original": "et , si quid cessare potes , requiesce sub umbra .",
+      "translation": "Soon as he saw me , “ Hither haste ,” he cried ,"
+    },
+    {
+      "id": "7.11",
+      "label": "Section 7.11",
+      "chapter": null,
+      "original": "huc ipsi potum venient per prata iuvenci ,",
+      "translation": "“ O Meliboeus ! goat and kids are safe ;"
+    },
+    {
+      "id": "7.12",
+      "label": "Section 7.12",
+      "chapter": null,
+      "original": "hic viridis tenera praetexit arundine ripas",
+      "translation": "and , if you have an idle hour to spare ,"
+    },
+    {
+      "id": "7.13",
+      "label": "Section 7.13",
+      "chapter": null,
+      "original": "Mincius , eque sacra resonant examina quercu .”",
+      "translation": "rest here beneath the shade . Hither the steers"
+    },
+    {
+      "id": "7.14",
+      "label": "Section 7.14",
+      "chapter": null,
+      "original": "Quid facerem ? Neque ego Alcippen , nec Phyllida habebam ,",
+      "translation": "will through the meadows , of their own free will ,"
+    },
+    {
+      "id": "7.15",
+      "label": "Section 7.15",
+      "chapter": null,
+      "original": "depulsos a lacte domi quae clauderet agnos ,",
+      "translation": "untended come to drink . Here Mincius hath"
+    },
+    {
+      "id": "7.16",
+      "label": "Section 7.16",
+      "chapter": null,
+      "original": "et certamen erat , Corydon cum Thyrside , magnum .",
+      "translation": "with tender rushes rimmed his verdant banks ,"
+    },
+    {
+      "id": "7.17",
+      "label": "Section 7.17",
+      "chapter": null,
+      "original": "posthabui tamen illorum mea seria ludo :",
+      "translation": "and from yon sacred oak with busy hum"
+    },
+    {
+      "id": "7.18",
+      "label": "Section 7.18",
+      "chapter": null,
+      "original": "alternis igitur contendere versibus ambo",
+      "translation": "the bees are swarming .” What was I to do ?"
+    },
+    {
+      "id": "7.19",
+      "label": "Section 7.19",
+      "chapter": null,
+      "original": "coepere ; alternos Musae meminisse volebant .",
+      "translation": "No Phyllis or Alcippe left at home"
+    },
+    {
+      "id": "7.20",
+      "label": "Section 7.20",
+      "chapter": null,
+      "original": "hos Corydon , illos referebat in ordine Thyrsis .",
+      "translation": "had I , to shelter my new-weaned lambs ,"
+    },
+    {
+      "id": "7.21",
+      "label": "Section 7.21",
+      "chapter": null,
+      "original": "Nymphae , noster amor , Libethrides , aut mihi carmen ,",
+      "translation": "and no slight matter was a singing-bout"
+    },
+    {
+      "id": "7.22",
+      "label": "Section 7.22",
+      "chapter": null,
+      "original": "quale meo Codro , concedite : proxima Phoebi",
+      "translation": "' twixt Corydon and Thyrsis . Howsoe ' er ,"
+    },
+    {
+      "id": "7.23",
+      "label": "Section 7.23",
+      "chapter": null,
+      "original": "versibus ille facit ; aut , si non possumus omnes ,",
+      "translation": "I let my business wait upon their sport ."
+    },
+    {
+      "id": "7.24",
+      "label": "Section 7.24",
+      "chapter": null,
+      "original": "hic arguta sacra pendebit fistula pinu .",
+      "translation": "So they began to sing , voice answering voice"
+    },
+    {
+      "id": "7.25",
+      "label": "Section 7.25",
+      "chapter": null,
+      "original": "Pastores , hedera crescentem ornate poetam ,",
+      "translation": "in strains alternate — for alternate strains"
+    },
+    {
+      "id": "7.26",
+      "label": "Section 7.26",
+      "chapter": null,
+      "original": "Arcades , invidia rumpantur ut ilia Codro ;",
+      "translation": "the Muses then were minded to recall —"
+    },
+    {
+      "id": "7.27",
+      "label": "Section 7.27",
+      "chapter": null,
+      "original": "aut si ultra placitum laudarit , baccare frontem",
+      "translation": "first Corydon , then Thyrsis in reply ."
+    },
+    {
+      "id": "7.28",
+      "label": "Section 7.28",
+      "chapter": null,
+      "original": "cingite , ne vati noceat mala lingua futuro .",
+      "translation": "“ Libethrian Nymphs , who are my heart ' s delight ,"
+    },
+    {
+      "id": "7.29",
+      "label": "Section 7.29",
+      "chapter": null,
+      "original": "Saetosi caput hoc apri tibi , Delia , parvus",
+      "translation": "grant me , as doth my Codrus , so to sing —"
+    },
+    {
+      "id": "7.30",
+      "label": "Section 7.30",
+      "chapter": null,
+      "original": "et ramosa Micon vivacis cornua cervi .",
+      "translation": "next to Apollo he — or if to this"
+    },
+    {
+      "id": "8.1",
+      "label": "Section 8.1",
+      "chapter": null,
+      "original": "Pastorem Musam Damonis et Alphesiboei —",
+      "translation": "of Damon and Alphesiboeus now ,"
+    },
+    {
+      "id": "8.2",
+      "label": "Section 8.2",
+      "chapter": null,
+      "original": "immemor herbarum quos est mirata iuvenca",
+      "translation": "those shepherd-singers at whose rival strains"
+    },
+    {
+      "id": "8.3",
+      "label": "Section 8.3",
+      "chapter": null,
+      "original": "certantis , quorum stupefactae carmine lynces ,",
+      "translation": "the heifer wondering forgot to graze ,"
+    },
+    {
+      "id": "8.4",
+      "label": "Section 8.4",
+      "chapter": null,
+      "original": "et mutata suos requierunt flumina cursus —",
+      "translation": "the lynx stood awe-struck , and the flowing streams ,"
+    },
+    {
+      "id": "8.5",
+      "label": "Section 8.5",
+      "chapter": null,
+      "original": "Illonis Musam dicemus et Alphesiboei .",
+      "translation": "unwonted loiterers , stayed their course to hear —"
+    },
+    {
+      "id": "8.6",
+      "label": "Section 8.6",
+      "chapter": null,
+      "original": "Tu mihi seu magni superas iam saxa Timavi ,",
+      "translation": "how Damon and Alphesiboeus sang"
+    },
+    {
+      "id": "8.7",
+      "label": "Section 8.7",
+      "chapter": null,
+      "original": "sive oram Illyrici legis aequoris , en erit umquam",
+      "translation": "their pastoral ditties , will I tell the tale ."
+    },
+    {
+      "id": "8.8",
+      "label": "Section 8.8",
+      "chapter": null,
+      "original": "ille dies , mihi cum liceat tua dicere facta ?",
+      "translation": "Thou , whether broad Timavus ' rocky banks"
+    },
+    {
+      "id": "8.9",
+      "label": "Section 8.9",
+      "chapter": null,
+      "original": "en erit ut liceat totum mihi ferre per orbem",
+      "translation": "thou now art passing , or dost skirt the shore"
+    },
+    {
+      "id": "8.10",
+      "label": "Section 8.10",
+      "chapter": null,
+      "original": "sola Sophocleo tua carmina digna coturno ?",
+      "translation": "of the Illyrian main ,— will ever dawn"
+    },
+    {
+      "id": "8.11",
+      "label": "Section 8.11",
+      "chapter": null,
+      "original": "A te principium , tibi desinam : accipe iussis",
+      "translation": "that day when I thy deeds may celebrate ,"
+    },
+    {
+      "id": "8.12",
+      "label": "Section 8.12",
+      "chapter": null,
+      "original": "carmina coepta tuis , atque hanc sine tempora circum",
+      "translation": "ever that day when through the whole wide world"
+    },
+    {
+      "id": "8.13",
+      "label": "Section 8.13",
+      "chapter": null,
+      "original": "inter victrices hederam tibi serpere laurus .",
+      "translation": "I may renown thy verse — that verse alone"
+    },
+    {
+      "id": "8.14",
+      "label": "Section 8.14",
+      "chapter": null,
+      "original": "Frigida vix caelo noctis decesserat umbra ,",
+      "translation": "of Sophoclean buskin worthy found ?"
+    },
+    {
+      "id": "8.15",
+      "label": "Section 8.15",
+      "chapter": null,
+      "original": "cum ros in tenera pecori gratissimus herba ;",
+      "translation": "With thee began , to thee shall end , the strain ."
+    },
+    {
+      "id": "8.16",
+      "label": "Section 8.16",
+      "chapter": null,
+      "original": "incumbens tereti Damon sic coepit olivae .",
+      "translation": "Take thou these songs that owe their birth to thee ,"
+    },
+    {
+      "id": "8.17",
+      "label": "Section 8.17",
+      "chapter": null,
+      "original": "Nascere , praeque diem veniens age , Lucifer , almum ,",
+      "translation": "and deign around thy temples to let creep"
+    },
+    {
+      "id": "8.18",
+      "label": "Section 8.18",
+      "chapter": null,
+      "original": "coniugis indigno Nisae deceptus amore",
+      "translation": "this ivy-chaplet ' twixt the conquering bays ."
+    },
+    {
+      "id": "8.19",
+      "label": "Section 8.19",
+      "chapter": null,
+      "original": "dum queror , et divos , quamquam nil testibus illis",
+      "translation": "Scarce had night ' s chilly shade forsook the sky"
+    },
+    {
+      "id": "8.20",
+      "label": "Section 8.20",
+      "chapter": null,
+      "original": "profeci , extrema moriens tamen adloquor hora .",
+      "translation": "what time to nibbling sheep the dewy grass"
+    },
+    {
+      "id": "8.21",
+      "label": "Section 8.21",
+      "chapter": null,
+      "original": "Incipe Maenalios mecum , mea tibia , versus .",
+      "translation": "tastes sweetest , when , on his smooth shepherd-staff"
+    },
+    {
+      "id": "8.22",
+      "label": "Section 8.22",
+      "chapter": null,
+      "original": "Maenalus argutumque nemus pinosque loquentis",
+      "translation": "of olive leaning , Damon thus began ."
+    },
+    {
+      "id": "8.23",
+      "label": "Section 8.23",
+      "chapter": null,
+      "original": "semper habet ; semper pastorum ille audit amores ,",
+      "translation": "“ Rise , Lucifer , and , heralding the light ,"
+    },
+    {
+      "id": "8.24",
+      "label": "Section 8.24",
+      "chapter": null,
+      "original": "Panaque , qui primus calamos non passus inertis .",
+      "translation": "bring in the genial day , while I make moan"
+    },
+    {
+      "id": "8.25",
+      "label": "Section 8.25",
+      "chapter": null,
+      "original": "Incipe Maenalios mecum , mea tibia , versus .",
+      "translation": "fooled by vain passion for a faithless bride ,"
+    },
+    {
+      "id": "8.26",
+      "label": "Section 8.26",
+      "chapter": null,
+      "original": "Mopso Nisa datur : quid non speremus amantes ?",
+      "translation": "for Nysa , and with this my dying breath"
+    },
+    {
+      "id": "8.27",
+      "label": "Section 8.27",
+      "chapter": null,
+      "original": "Iungentur iam grypes equis , aevoque sequenti",
+      "translation": "call on the gods , though little it bestead —"
+    },
+    {
+      "id": "8.28",
+      "label": "Section 8.28",
+      "chapter": null,
+      "original": "cum canibus timidi venient ad pocula dammae .",
+      "translation": "the gods who heard her vows and heeded not ."
+    },
+    {
+      "id": "8.29",
+      "label": "Section 8.29",
+      "chapter": null,
+      "original": "Mopse , novas incide faces : tibi ducitur uxor ;",
+      "translation": "‘ Begin , my flute , with me Maenalian lays .’"
+    },
+    {
+      "id": "8.30",
+      "label": "Section 8.30",
+      "chapter": null,
+      "original": "sparge , marite , nuces : tibi deserit Hesperus Oetam .",
+      "translation": "Ever hath Maenalus his murmuring groves"
+    }
+  ],
+  "prevChunkSlug": "eclogues-e8mpul-3",
+  "nextChunkSlug": "eclogues-e8mpul-5"
+}

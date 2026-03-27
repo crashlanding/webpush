@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-casina-the-casket-comedy-curculio-epidicus-the-two-menaechmuses-10u46k",
+  "volumeTitle": "Casina. The Casket Comedy. Curculio. Epidicus. The Two Menaechmuses",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "curculio-ad3oao-8",
+  "label": "Curculio (Section 4.3.554 - Section 5.2.617)",
+  "partId": "curculio-ad3oao",
+  "partTitle": "Curculio",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Curculio",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi008.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Curculio, or The Forgery",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi008.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "4.3.554",
+      "label": "Section 4.3.554",
+      "chapter": null,
+      "original": "Quid valeam ?",
+      "translation": "How — farewell ?"
+    },
+    {
+      "id": "4.3.554b",
+      "label": "Section 4.3.554b",
+      "chapter": null,
+      "original": "Aut tu aegrota aetatem , si lubet , per me quidem .—",
+      "translation": "Fare you ill then , if you choose ,— aye , all your life , so far as I ’ m concerned . ( Exit .)"
+    },
+    {
+      "id": "4.3.555",
+      "label": "Section 4.3.555",
+      "chapter": null,
+      "original": "Quid ego nunc faciam ? quid refert me fecisse regibus",
+      "translation": "What shall I do now ? Of what use is it that I have caused kings to obey me , if this obscure fellow [*] is this day to laugh at me ?"
+    },
+    {
+      "id": "4.4.557",
+      "label": "Section 4.4.557",
+      "chapter": null,
+      "original": "Quoi homini di sunt propitii , ei non esse iratos puto .",
+      "translation": "The man to whom the Gods are propitious , they cannot , I think , be angered with him . After I ad finished my devotions , it then came into my mind , lest the banker should abscond , to go fetch the money ,"
+    },
+    {
+      "id": "4.4.560",
+      "label": "Section 4.4.560",
+      "chapter": null,
+      "original": "ut ego potius comedim quam ille .",
+      "translation": "that I may make good cheer rather than he ."
+    },
+    {
+      "id": "4.4.560b",
+      "label": "Section 4.4.560b",
+      "chapter": null,
+      "original": "Iusseram salvere te .",
+      "translation": "I had left my compliments for you at your house ."
+    },
+    {
+      "id": "4.4.561",
+      "label": "Section 4.4.561",
+      "chapter": null,
+      "original": "Therapontigone Platagidore , salve ; salvos quom advenis",
+      "translation": "Therapontigonus Platagidorus , save you ; since you are come safe to Epidaurus this day , at my house — you won ’ t lick up one grain of salt [*] ."
+    },
+    {
+      "id": "4.4.563",
+      "label": "Section 4.4.563",
+      "chapter": null,
+      "original": "Bene vocas , verum locata res est — ut male sit tibi .",
+      "translation": "You give me a kind invitation ; things , however , are in a train for it to go badly with yourself . But how fares my purchase at your house ?"
+    },
+    {
+      "id": "4.4.564b",
+      "label": "Section 4.4.564b",
+      "chapter": null,
+      "original": "Nil apud mé quidem ,",
+      "translation": "Why , not at my house at all ."
+    },
+    {
+      "id": "4.4.565",
+      "label": "Section 4.4.565",
+      "chapter": null,
+      "original": "ne facias testis , neque equidem debeo quicquam .",
+      "translation": "Don ’ t be bringing your witnesses — assuredly , I don ’ t owe you anything ."
+    },
+    {
+      "id": "4.4.565b",
+      "label": "Section 4.4.565b",
+      "chapter": null,
+      "original": "Quid est ?",
+      "translation": "How ’ s that ?"
+    },
+    {
+      "id": "4.4.566",
+      "label": "Section 4.4.566",
+      "chapter": null,
+      "original": "Quod fui iuratus feci .",
+      "translation": "What I was bound on oath to do , I ’ ve done ."
+    },
+    {
+      "id": "4.4.566b",
+      "label": "Section 4.4.566b",
+      "chapter": null,
+      "original": "Reddin an non virginem ,",
+      "translation": "Will you give me up the girl or not , before I spit you with this sabre of mine , you whip-scoundrel ?"
+    },
+    {
+      "id": "4.4.568",
+      "label": "Section 4.4.568",
+      "chapter": null,
+      "original": "Vapulare ego te vehementer iubeo : ne me territes .",
+      "translation": "I bid you go to perdition with all my heart ; don ’ t you be terrifying me ."
+    },
+    {
+      "id": "4.4.569",
+      "label": "Section 4.4.569",
+      "chapter": null,
+      "original": "illa abductast , tu auferere hinc a me , si perges mihi",
+      "translation": "She has been carried off ; you shall be carried off hence away from me , beyond a doubt , if you persist in abusing me , to whom I owe nothing but a punishing ."
+    },
+    {
+      "id": "4.4.571",
+      "label": "Section 4.4.571",
+      "chapter": null,
+      "original": "Mihin malum minitare ?",
+      "translation": "What , threaten me with a punishing ?"
+    },
+    {
+      "id": "4.4.571b",
+      "label": "Section 4.4.571b",
+      "chapter": null,
+      "original": "Atque edepol non minitabor , sed dabo ,",
+      "translation": "Aye , and by my troth , I ’ ll not be threatening , but I ’ ll give it , if you persist in being impertinent to me ."
+    },
+    {
+      "id": "4.4.572b",
+      "label": "Section 4.4.572b",
+      "chapter": null,
+      "original": "Leno minitatur mihi ,",
+      "translation": "A Procurer , forsooth , threatening me ; and are my combats in battle , so many in number , lying trodden under foot ? But so may my sabre and my shield ⋯"
+    },
+    {
+      "id": "4.4.575",
+      "label": "Section 4.4.575",
+      "chapter": null,
+      "original": "bene iuvent pugnantem in acie : nisi mi virgo redditur ,",
+      "translation": "trustily aid me when fighting in the field ; unless the girl is restored to me , I ’ ll at once cause the ants to carry you away piecemeal from this spot ."
+    },
+    {
+      "id": "4.4.577",
+      "label": "Section 4.4.577",
+      "chapter": null,
+      "original": "At ita me volsellae , pecten , speculum , calamistrum meum",
+      "translation": "And so may my tweezers [*] , my comb , my looking-glass , my crisping-iron , and my hair-scissors and scrubbing-towel love me well ,"
+    },
+    {
+      "id": "4.4.580",
+      "label": "Section 4.4.580",
+      "chapter": null,
+      "original": "non pluris facio quam ancillam meam quae latrinam lavat .",
+      "translation": "I don ’ t value your high-sounding words , nor these big threats of yours , a bit the more than my servant-girl that washes out my sink . I ’ ve given her up to him who brought the money from you ."
+    },
+    {
+      "id": "4.4.581b",
+      "label": "Section 4.4.581b",
+      "chapter": null,
+      "original": "Quis is est homo ?",
+      "translation": "What person was that ?"
+    },
+    {
+      "id": "4.4.582",
+      "label": "Section 4.4.582",
+      "chapter": null,
+      "original": "Tuom libertum ésse aiebat sese Summanum .",
+      "translation": "He said that he was Summanus , your freed-man ."
+    },
+    {
+      "id": "4.4.582b",
+      "label": "Section 4.4.582b",
+      "chapter": null,
+      "original": "Meum ?",
+      "translation": "Mine ? You don ’ t say so ; i ’ faith , it ’ s that Curculio that has put a trick upon me , when I think upon it ; he stole my ring from me ."
+    },
+    {
+      "id": "4.4.584b",
+      "label": "Section 4.4.584b",
+      "chapter": null,
+      "original": "Perdidistin tu anulum ?",
+      "translation": "The Captain has been finely appointed to a cashiered company [*] ."
+    },
+    {
+      "id": "4.4.586",
+      "label": "Section 4.4.586",
+      "chapter": null,
+      "original": "Vbi nunc Curculionem inveniam ?",
+      "translation": "Where now shall I find Curculio [*] ?"
+    },
+    {
+      "id": "4.4.586b",
+      "label": "Section 4.4.586b",
+      "chapter": null,
+      "original": "In tritico facillume ,",
+      "translation": "In some wheat with the greatest ease I ’ ll make you find even five hundred Curculios instead of one . Therefore I ’ m off ; fare you well , and my service to you ."
+    },
+    {
+      "id": "4.4.588b",
+      "label": "Section 4.4.588b",
+      "chapter": null,
+      "original": "Male vale , male sit tibi .",
+      "translation": "Fare you ill , a plague attend you . What shall I do ? Shall I stop or go away ? That I should have been imposed upon in this way !"
+    },
+    {
+      "id": "4.4.590",
+      "label": "Section 4.4.590",
+      "chapter": null,
+      "original": "cupio dare mercedem qui illunc ubi sit commonstret mihi .",
+      "translation": "I ’ d like to give a reward to him who would point out that fellow to me ."
+    },
+    {
+      "id": "5.1.591",
+      "label": "Section 5.1.591",
+      "chapter": null,
+      "original": "Antiquom poëtam audivi scripsisse in tragoedia ,",
+      "translation": "I ’ ve heard that an ancient Poet [*] wrote in a Tragedy , that two women are worse than one ; such is the fact . But a more crafty woman than is this mistress of Phaedromus , I never saw or heard of , nor , i ’ faith , can one be spoken of or imagined ;"
+    },
+    {
+      "id": "5.1.595",
+      "label": "Section 5.1.595",
+      "chapter": null,
+      "original": "peior quam haec est : quae ubi me habere hunc conspicatast anulum ,",
+      "translation": "she , as soon as ever she saw that I had got this ring , asked me whence I got it . Why do you ask that ? said I . Because I ’ ve need to know , said she . I said I wouldn ’ t tell her . To get it away , she seized hold of my hand with her teeth . With much ado I betook me out of doors , and made my escape . Away with this slut [*] ."
+    },
+    {
+      "id": "5.2.599",
+      "label": "Section 5.2.599",
+      "chapter": null,
+      "original": "Phaedrome , propera .",
+      "translation": "My Phaedromus , make haste ."
+    },
+    {
+      "id": "5.2.599b",
+      "label": "Section 5.2.599b",
+      "chapter": null,
+      "original": "Quid properem ?",
+      "translation": "Make haste for what ?"
+    },
+    {
+      "id": "5.2.599c",
+      "label": "Section 5.2.599c",
+      "chapter": null,
+      "original": "Parasitum ne amiseris .",
+      "translation": "That you mayn ’ t let the Parasite escape ;"
+    },
+    {
+      "id": "5.2.600",
+      "label": "Section 5.2.600",
+      "chapter": null,
+      "original": "magna res est .",
+      "translation": "the affair ’ s of consequence ."
+    },
+    {
+      "id": "5.2.600b",
+      "label": "Section 5.2.600b",
+      "chapter": null,
+      "original": "Nulla est mihi , nam quam habui absumpsi celeriter .",
+      "translation": "Nothing have I [*] of consequence ; for what I did have I quickly made away with ?"
+    },
+    {
+      "id": "5.2.601",
+      "label": "Section 5.2.601",
+      "chapter": null,
+      "original": "Teneo .",
+      "translation": "I ’ ve got him ;"
+    },
+    {
+      "id": "5.2.601b",
+      "label": "Section 5.2.601b",
+      "chapter": null,
+      "original": "Quid negotist ?",
+      "translation": "what ’ s the matter ?"
+    },
+    {
+      "id": "5.2.601c",
+      "label": "Section 5.2.601c",
+      "chapter": null,
+      "original": "Rogita unde istunc habeat anulum .",
+      "translation": "Ask him whence he got that ring : my father used to wear it ."
+    },
+    {
+      "id": "5.2.602b",
+      "label": "Section 5.2.602b",
+      "chapter": null,
+      "original": "At mea matertera .",
+      "translation": "Why , troth , and so did my aunt ."
+    },
+    {
+      "id": "5.2.603",
+      "label": "Section 5.2.603",
+      "chapter": null,
+      "original": "Mater ei utendum dederat .",
+      "translation": "My mother gave it him to wear ."
+    },
+    {
+      "id": "5.2.603b",
+      "label": "Section 5.2.603b",
+      "chapter": null,
+      "original": "Pater † uois rusum tibi .",
+      "translation": "And your father , in his turn , to me ."
+    },
+    {
+      "id": "5.2.604",
+      "label": "Section 5.2.604",
+      "chapter": null,
+      "original": "Nugas garris .",
+      "translation": "You are talking nonsense ."
+    },
+    {
+      "id": "5.2.604b",
+      "label": "Section 5.2.604b",
+      "chapter": null,
+      "original": "Soleo , nam propter eas vivo facilius .",
+      "translation": "I ’ m in the habit ; for by reason of it I make a livelihood the more easily . What is the matter now ?"
+    },
+    {
+      "id": "5.2.605",
+      "label": "Section 5.2.605",
+      "chapter": null,
+      "original": "Quid nunc ? obsecro , parentes ne meos mihi prohibeas .",
+      "translation": "I entreat you , don ’ t be keeping me from finding my parents ."
+    },
+    {
+      "id": "5.2.606",
+      "label": "Section 5.2.606",
+      "chapter": null,
+      "original": "Quid ego ? sub gemmane abstrusos habeo tuam matrem et patrem ?",
+      "translation": "How can I ? Have I got your father and mother hidden beneath the stone ? ( Holding up the ring .)"
+    },
+    {
+      "id": "5.2.607",
+      "label": "Section 5.2.607",
+      "chapter": null,
+      "original": "Libera ego sum nata .",
+      "translation": "I was born a free woman ."
+    },
+    {
+      "id": "5.2.607b",
+      "label": "Section 5.2.607b",
+      "chapter": null,
+      "original": "Et alii multi qui nunc serviunt .",
+      "translation": "And so were many others , who are now in servitude ."
+    },
+    {
+      "id": "5.2.608",
+      "label": "Section 5.2.608",
+      "chapter": null,
+      "original": "Enim vero irascor .",
+      "translation": "Really now , I ’ m vexed ."
+    },
+    {
+      "id": "5.2.608b",
+      "label": "Section 5.2.608b",
+      "chapter": null,
+      "original": "Dixi equidem tibi , unde ad me hic pervenerit .",
+      "translation": "For my part , I ’ ve told you how this came into my possession . How often must you be told ? I cheated the Captain at dice , I tell you ."
+    },
+    {
+      "id": "5.2.610",
+      "label": "Section 5.2.610",
+      "chapter": null,
+      "original": "Salvos sum , eccum quem quaerebam . quid agis , bone vir ?",
+      "translation": "I ’ m all right ; see , here he is whom I was looking for . How do you do , good sir ?"
+    },
+    {
+      "id": "5.2.610b",
+      "label": "Section 5.2.610b",
+      "chapter": null,
+      "original": "Audio .",
+      "translation": "I hear you ; three casts of the dice , if you like , even for that scarf of yours ."
+    },
+    {
+      "id": "5.2.611b",
+      "label": "Section 5.2.611b",
+      "chapter": null,
+      "original": "Quin tu is in malam crucem",
+      "translation": "Why don ’ t you go to very perdition , with your casts and catch-pennies [*] ? Either give me back the money or the young woman ?"
+    },
+    {
+      "id": "5.2.613",
+      "label": "Section 5.2.613",
+      "chapter": null,
+      "original": "Quod argentum , quas tu mihi tricas narras ? quam tu virginem",
+      "translation": "What money ? what rubbish are you talking about to me ? What young woman are you demanding back of me ?"
+    },
+    {
+      "id": "5.2.614b",
+      "label": "Section 5.2.614b",
+      "chapter": null,
+      "original": "Quam ab lenone ábduxti hodie , scelus viri .",
+      "translation": "The one that you took away this day from the Procurer , you scoundrelly fellow ."
+    },
+    {
+      "id": "5.2.615",
+      "label": "Section 5.2.615",
+      "chapter": null,
+      "original": "Nullam abduxi .",
+      "translation": "I took none away ."
+    },
+    {
+      "id": "5.2.615b",
+      "label": "Section 5.2.615b",
+      "chapter": null,
+      "original": "Certe eccistam video .",
+      "translation": "Why , surely , I see her . There she is . ( Pointing to PLANESIUM .)"
+    },
+    {
+      "id": "5.2.615c",
+      "label": "Section 5.2.615c",
+      "chapter": null,
+      "original": "Virgo haec libera est .",
+      "translation": "This young woman is free ."
+    },
+    {
+      "id": "5.2.616",
+      "label": "Section 5.2.616",
+      "chapter": null,
+      "original": "Mean ancilla libera ut sit , quam ego numquam emisi manu ?",
+      "translation": "What , my female slave free , to whom I have never given her liberty ?"
+    },
+    {
+      "id": "5.2.617",
+      "label": "Section 5.2.617",
+      "chapter": null,
+      "original": "Quis tibi hanc dedit mancipio ? aut unde emisti ? fac sciam .",
+      "translation": "Who gave you possession of her , or of whom did you buy her ? Let me know that ?"
+    }
+  ],
+  "prevChunkSlug": "curculio-ad3oao-7",
+  "nextChunkSlug": "curculio-ad3oao-9"
+}

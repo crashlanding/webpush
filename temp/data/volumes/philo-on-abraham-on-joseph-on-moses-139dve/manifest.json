@@ -1,0 +1,379 @@
+{
+  "loebNumber": 289,
+  "sortOrder": 289,
+  "slug": "philo-on-abraham-on-joseph-on-moses-139dve",
+  "title": "On Abraham. On Joseph. On Moses",
+  "volumeLabel": "On Abraham. On Joseph. On Moses",
+  "authorDisplay": "Philo",
+  "authors": [
+    "Philo"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for On Abraham. On Joseph. On Moses, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "on-abraham-df0s3n-1",
+  "readyChunkCount": 11,
+  "contents": [
+    {
+      "id": "on-abraham-df0s3n",
+      "title": "On Abraham",
+      "status": "ready",
+      "sectionCount": 276,
+      "chunkSlug": "on-abraham-df0s3n-1",
+      "chunks": [
+        {
+          "slug": "on-abraham-df0s3n-1",
+          "label": "On Abraham (Section 1 - Section 60)",
+          "partId": "on-abraham-df0s3n",
+          "partTitle": "On Abraham",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-abraham-df0s3n-2",
+          "label": "On Abraham (Section 61 - Section 120)",
+          "partId": "on-abraham-df0s3n",
+          "partTitle": "On Abraham",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-abraham-df0s3n-3",
+          "label": "On Abraham (Section 121 - Section 180)",
+          "partId": "on-abraham-df0s3n",
+          "partTitle": "On Abraham",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-abraham-df0s3n-4",
+          "label": "On Abraham (Section 181 - Section 240)",
+          "partId": "on-abraham-df0s3n",
+          "partTitle": "On Abraham",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-abraham-df0s3n-5",
+          "label": "On Abraham (Section 241 - Section 276)",
+          "partId": "on-abraham-df0s3n",
+          "partTitle": "On Abraham",
+          "sectionCount": 36,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "on-joseph-10yza4",
+      "title": "On Joseph",
+      "status": "ready",
+      "sectionCount": 270,
+      "chunkSlug": "on-joseph-10yza4-1",
+      "chunks": [
+        {
+          "slug": "on-joseph-10yza4-1",
+          "label": "On Joseph (Section 1 - Section 60)",
+          "partId": "on-joseph-10yza4",
+          "partTitle": "On Joseph",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-joseph-10yza4-2",
+          "label": "On Joseph (Section 61 - Section 120)",
+          "partId": "on-joseph-10yza4",
+          "partTitle": "On Joseph",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-joseph-10yza4-3",
+          "label": "On Joseph (Section 121 - Section 180)",
+          "partId": "on-joseph-10yza4",
+          "partTitle": "On Joseph",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-joseph-10yza4-4",
+          "label": "On Joseph (Section 181 - Section 240)",
+          "partId": "on-joseph-10yza4",
+          "partTitle": "On Joseph",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-joseph-10yza4-5",
+          "label": "On Joseph (Section 241 - Section 270)",
+          "partId": "on-joseph-10yza4",
+          "partTitle": "On Joseph",
+          "sectionCount": 30,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "on-moses-18l1by",
+      "title": "On Moses",
+      "status": "ready",
+      "sectionCount": 10,
+      "chunkSlug": "on-moses-18l1by",
+      "chunks": [
+        {
+          "slug": "on-moses-18l1by",
+          "label": "On Moses",
+          "partId": "on-moses-18l1by",
+          "partTitle": "On Moses",
+          "sectionCount": 10,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "on-abraham-df0s3n-1",
+      "label": "On Abraham (Section 1 - Section 60)",
+      "partId": "on-abraham-df0s3n",
+      "partTitle": "On Abraham",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-abraham-df0s3n-2",
+      "label": "On Abraham (Section 61 - Section 120)",
+      "partId": "on-abraham-df0s3n",
+      "partTitle": "On Abraham",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-abraham-df0s3n-3",
+      "label": "On Abraham (Section 121 - Section 180)",
+      "partId": "on-abraham-df0s3n",
+      "partTitle": "On Abraham",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-abraham-df0s3n-4",
+      "label": "On Abraham (Section 181 - Section 240)",
+      "partId": "on-abraham-df0s3n",
+      "partTitle": "On Abraham",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-abraham-df0s3n-5",
+      "label": "On Abraham (Section 241 - Section 276)",
+      "partId": "on-abraham-df0s3n",
+      "partTitle": "On Abraham",
+      "sectionCount": 36,
+      "status": "ready"
+    },
+    {
+      "slug": "on-joseph-10yza4-1",
+      "label": "On Joseph (Section 1 - Section 60)",
+      "partId": "on-joseph-10yza4",
+      "partTitle": "On Joseph",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-joseph-10yza4-2",
+      "label": "On Joseph (Section 61 - Section 120)",
+      "partId": "on-joseph-10yza4",
+      "partTitle": "On Joseph",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-joseph-10yza4-3",
+      "label": "On Joseph (Section 121 - Section 180)",
+      "partId": "on-joseph-10yza4",
+      "partTitle": "On Joseph",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-joseph-10yza4-4",
+      "label": "On Joseph (Section 181 - Section 240)",
+      "partId": "on-joseph-10yza4",
+      "partTitle": "On Joseph",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-joseph-10yza4-5",
+      "label": "On Joseph (Section 241 - Section 270)",
+      "partId": "on-joseph-10yza4",
+      "partTitle": "On Joseph",
+      "sectionCount": 30,
+      "status": "ready"
+    },
+    {
+      "slug": "on-moses-18l1by",
+      "label": "On Moses",
+      "partId": "on-moses-18l1by",
+      "partTitle": "On Moses",
+      "sectionCount": 10,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "on-abraham-df0s3n-1",
+      "partTitle": "On Abraham",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Abrahamo",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg020.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Life of the Wise Man made perfect by Instruction or, on the Unwritten Law, that is to say, on Abraham",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-abraham-df0s3n-2",
+      "partTitle": "On Abraham",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Abrahamo",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg020.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Life of the Wise Man made perfect by Instruction or, on the Unwritten Law, that is to say, on Abraham",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-abraham-df0s3n-3",
+      "partTitle": "On Abraham",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Abrahamo",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg020.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Life of the Wise Man made perfect by Instruction or, on the Unwritten Law, that is to say, on Abraham",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-abraham-df0s3n-4",
+      "partTitle": "On Abraham",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Abrahamo",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg020.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Life of the Wise Man made perfect by Instruction or, on the Unwritten Law, that is to say, on Abraham",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-abraham-df0s3n-5",
+      "partTitle": "On Abraham",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Abrahamo",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg020.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Life of the Wise Man made perfect by Instruction or, on the Unwritten Law, that is to say, on Abraham",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg020.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-joseph-10yza4-1",
+      "partTitle": "On Joseph",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Josepho",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg021.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Life of a Man occupied with Affairs of State, or on Joseph",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg021.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-joseph-10yza4-2",
+      "partTitle": "On Joseph",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Josepho",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg021.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Life of a Man occupied with Affairs of State, or on Joseph",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg021.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-joseph-10yza4-3",
+      "partTitle": "On Joseph",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Josepho",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg021.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Life of a Man occupied with Affairs of State, or on Joseph",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg021.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-joseph-10yza4-4",
+      "partTitle": "On Joseph",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Josepho",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg021.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Life of a Man occupied with Affairs of State, or on Joseph",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg021.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-joseph-10yza4-5",
+      "partTitle": "On Joseph",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Josepho",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg021.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Life of a Man occupied with Affairs of State, or on Joseph",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg021.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-moses-18l1by",
+      "partTitle": "On Moses",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Vita Mosis (Lib. I-II)",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg022.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Life of Moses: Books 1-3",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg022.1st1K-eng1/"
+      }
+    }
+  ]
+}

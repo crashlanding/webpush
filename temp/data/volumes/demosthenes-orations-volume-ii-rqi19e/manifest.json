@@ -1,0 +1,451 @@
+{
+  "loebNumber": 155,
+  "sortOrder": 155,
+  "slug": "demosthenes-orations-volume-ii-rqi19e",
+  "title": "Orations, Volume II",
+  "volumeLabel": "Orations, Volume II",
+  "authorDisplay": "Demosthenes",
+  "authors": [
+    "Demosthenes"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Orations, Volume II. Orations, Volume II opens a closest available slice of Demosthenes on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "philippic-4-1q88ji",
+  "readyChunkCount": 14,
+  "contents": [
+    {
+      "id": "orations-volume-ii-173mr8",
+      "title": "Orations, Volume II",
+      "status": "ready",
+      "sectionCount": 620,
+      "chunkSlug": "philippic-4-1q88ji",
+      "chunks": [
+        {
+          "slug": "philippic-4-1q88ji",
+          "label": "Philippic 4",
+          "partId": "orations-volume-ii-173mr8",
+          "partTitle": "Orations, Volume II",
+          "sectionCount": 76,
+          "status": "ready"
+        },
+        {
+          "slug": "answer-to-philip-s-letter-xntbfr",
+          "label": "Answer to Philip’s Letter",
+          "partId": "orations-volume-ii-173mr8",
+          "partTitle": "Orations, Volume II",
+          "sectionCount": 23,
+          "status": "ready"
+        },
+        {
+          "slug": "philip-s-letter-1dgdc2",
+          "label": "Philip’s Letter",
+          "partId": "orations-volume-ii-173mr8",
+          "partTitle": "Orations, Volume II",
+          "sectionCount": 23,
+          "status": "ready"
+        },
+        {
+          "slug": "on-organization-1shw0y",
+          "label": "On Organization",
+          "partId": "orations-volume-ii-173mr8",
+          "partTitle": "Orations, Volume II",
+          "sectionCount": 36,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-navy-boards-d6s6pg",
+          "label": "On the Navy-Boards",
+          "partId": "orations-volume-ii-173mr8",
+          "partTitle": "Orations, Volume II",
+          "sectionCount": 41,
+          "status": "ready"
+        },
+        {
+          "slug": "for-the-liberty-of-the-rhodians-wcasup",
+          "label": "For the Liberty of the Rhodians",
+          "partId": "orations-volume-ii-173mr8",
+          "partTitle": "Orations, Volume II",
+          "sectionCount": 35,
+          "status": "ready"
+        },
+        {
+          "slug": "for-the-people-of-megalopolis-1iu6wr",
+          "label": "For the People of Megalopolis",
+          "partId": "orations-volume-ii-173mr8",
+          "partTitle": "Orations, Volume II",
+          "sectionCount": 32,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-treaty-with-alexander-nohajh",
+          "label": "On the Treaty with Alexander",
+          "partId": "orations-volume-ii-173mr8",
+          "partTitle": "Orations, Volume II",
+          "sectionCount": 30,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-crown-qdulvr-1",
+          "label": "On the Crown (Section 1 - Section 60)",
+          "partId": "orations-volume-ii-173mr8",
+          "partTitle": "Orations, Volume II",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-crown-qdulvr-2",
+          "label": "On the Crown (Section 61 - Section 120)",
+          "partId": "orations-volume-ii-173mr8",
+          "partTitle": "Orations, Volume II",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-crown-qdulvr-3",
+          "label": "On the Crown (Section 121 - Section 180)",
+          "partId": "orations-volume-ii-173mr8",
+          "partTitle": "Orations, Volume II",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-crown-qdulvr-4",
+          "label": "On the Crown (Section 181 - Section 240)",
+          "partId": "orations-volume-ii-173mr8",
+          "partTitle": "Orations, Volume II",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-crown-qdulvr-5",
+          "label": "On the Crown (Section 241 - Section 300)",
+          "partId": "orations-volume-ii-173mr8",
+          "partTitle": "Orations, Volume II",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-crown-qdulvr-6",
+          "label": "On the Crown (Section 301 - Section 324)",
+          "partId": "orations-volume-ii-173mr8",
+          "partTitle": "Orations, Volume II",
+          "sectionCount": 24,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "philippic-4-1q88ji",
+      "label": "Philippic 4",
+      "partId": "orations-volume-ii-173mr8",
+      "partTitle": "Orations, Volume II",
+      "sectionCount": 76,
+      "status": "ready"
+    },
+    {
+      "slug": "answer-to-philip-s-letter-xntbfr",
+      "label": "Answer to Philip’s Letter",
+      "partId": "orations-volume-ii-173mr8",
+      "partTitle": "Orations, Volume II",
+      "sectionCount": 23,
+      "status": "ready"
+    },
+    {
+      "slug": "philip-s-letter-1dgdc2",
+      "label": "Philip’s Letter",
+      "partId": "orations-volume-ii-173mr8",
+      "partTitle": "Orations, Volume II",
+      "sectionCount": 23,
+      "status": "ready"
+    },
+    {
+      "slug": "on-organization-1shw0y",
+      "label": "On Organization",
+      "partId": "orations-volume-ii-173mr8",
+      "partTitle": "Orations, Volume II",
+      "sectionCount": 36,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-navy-boards-d6s6pg",
+      "label": "On the Navy-Boards",
+      "partId": "orations-volume-ii-173mr8",
+      "partTitle": "Orations, Volume II",
+      "sectionCount": 41,
+      "status": "ready"
+    },
+    {
+      "slug": "for-the-liberty-of-the-rhodians-wcasup",
+      "label": "For the Liberty of the Rhodians",
+      "partId": "orations-volume-ii-173mr8",
+      "partTitle": "Orations, Volume II",
+      "sectionCount": 35,
+      "status": "ready"
+    },
+    {
+      "slug": "for-the-people-of-megalopolis-1iu6wr",
+      "label": "For the People of Megalopolis",
+      "partId": "orations-volume-ii-173mr8",
+      "partTitle": "Orations, Volume II",
+      "sectionCount": 32,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-treaty-with-alexander-nohajh",
+      "label": "On the Treaty with Alexander",
+      "partId": "orations-volume-ii-173mr8",
+      "partTitle": "Orations, Volume II",
+      "sectionCount": 30,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-crown-qdulvr-1",
+      "label": "On the Crown (Section 1 - Section 60)",
+      "partId": "orations-volume-ii-173mr8",
+      "partTitle": "Orations, Volume II",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-crown-qdulvr-2",
+      "label": "On the Crown (Section 61 - Section 120)",
+      "partId": "orations-volume-ii-173mr8",
+      "partTitle": "Orations, Volume II",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-crown-qdulvr-3",
+      "label": "On the Crown (Section 121 - Section 180)",
+      "partId": "orations-volume-ii-173mr8",
+      "partTitle": "Orations, Volume II",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-crown-qdulvr-4",
+      "label": "On the Crown (Section 181 - Section 240)",
+      "partId": "orations-volume-ii-173mr8",
+      "partTitle": "Orations, Volume II",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-crown-qdulvr-5",
+      "label": "On the Crown (Section 241 - Section 300)",
+      "partId": "orations-volume-ii-173mr8",
+      "partTitle": "Orations, Volume II",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-crown-qdulvr-6",
+      "label": "On the Crown (Section 301 - Section 324)",
+      "partId": "orations-volume-ii-173mr8",
+      "partTitle": "Orations, Volume II",
+      "sectionCount": 24,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "philippic-4-1q88ji",
+      "partTitle": "Orations, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Φιλίππου δ΄",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg010.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Fourth Philippic",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg010.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "answer-to-philip-s-letter-xntbfr",
+      "partTitle": "Orations, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "πρὸς τὴν ἐπιστολήν τὴν Φιλίππου",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg011.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Answer to Philip’s Letter",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "philip-s-letter-1dgdc2",
+      "partTitle": "Orations, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "ἐπιστολή [Φιλίππου]",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg012.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Philip’s Letter",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg012.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "on-organization-1shw0y",
+      "partTitle": "Orations, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "περὶ συντάξεως",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg013.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Organization",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg013.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-navy-boards-d6s6pg",
+      "partTitle": "Orations, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "περὶ τῶν συμμοριῶν",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg014.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Navy-Boards",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "for-the-liberty-of-the-rhodians-wcasup",
+      "partTitle": "Orations, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "ὑπὲρ τῆς Ῥοδίων ἐλευθερίας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg015.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For the Liberty of the Rhodians",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "for-the-people-of-megalopolis-1iu6wr",
+      "partTitle": "Orations, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "ὑπὲρ Μεγαλοπολιτῶν",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg016.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For the People of Megalopolis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-treaty-with-alexander-nohajh",
+      "partTitle": "Orations, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "περὶ τῶν πρὸς Ἀλέξανδρον συνθηκῶν",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg017.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Treaty with Alexander",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-crown-qdulvr-1",
+      "partTitle": "Orations, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "ὑπὲρ Κτησιφῶντος περὶ τοῦ στεφάνου",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg018.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Crown",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg018.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-crown-qdulvr-2",
+      "partTitle": "Orations, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "ὑπὲρ Κτησιφῶντος περὶ τοῦ στεφάνου",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg018.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Crown",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg018.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-crown-qdulvr-3",
+      "partTitle": "Orations, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "ὑπὲρ Κτησιφῶντος περὶ τοῦ στεφάνου",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg018.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Crown",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg018.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-crown-qdulvr-4",
+      "partTitle": "Orations, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "ὑπὲρ Κτησιφῶντος περὶ τοῦ στεφάνου",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg018.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Crown",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg018.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-crown-qdulvr-5",
+      "partTitle": "Orations, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "ὑπὲρ Κτησιφῶντος περὶ τοῦ στεφάνου",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg018.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Crown",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg018.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-crown-qdulvr-6",
+      "partTitle": "Orations, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "ὑπὲρ Κτησιφῶντος περὶ τοῦ στεφάνου",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg018.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Crown",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg018.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "loebNumber": 371,
+  "sortOrder": 371,
+  "slug": "pliny-natural-history-volume-v-books-17-19-uiow0u",
+  "title": "Natural History, Volume V: Books 17-19",
+  "volumeLabel": "Natural History, Volume V: Books 17-19",
+  "authorDisplay": "Pliny",
+  "authors": [
+    "Pliny"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for Natural History, Volume V: Books 17-19, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "natural-history-books-17-19-1ul3i0",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "natural-history-books-17-19-1ul3i0",
+      "title": "Natural History: Books 17-19",
+      "status": "ready",
+      "sectionCount": 14,
+      "chunkSlug": "natural-history-books-17-19-1ul3i0",
+      "chunks": [
+        {
+          "slug": "natural-history-books-17-19-1ul3i0",
+          "label": "Natural History: Books 17-19",
+          "partId": "natural-history-books-17-19-1ul3i0",
+          "partTitle": "Natural History: Books 17-19",
+          "sectionCount": 14,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "natural-history-books-17-19-1ul3i0",
+      "label": "Natural History: Books 17-19",
+      "partId": "natural-history-books-17-19-1ul3i0",
+      "partTitle": "Natural History: Books 17-19",
+      "sectionCount": 14,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "natural-history-books-17-19-1ul3i0",
+      "partTitle": "Natural History: Books 17-19",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Res Gestae",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:stoa0023.stoa001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "History",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:stoa0023.stoa001.perseus-eng2/"
+      }
+    }
+  ]
+}

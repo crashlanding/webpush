@@ -1,0 +1,223 @@
+{
+  "loebNumber": 284,
+  "sortOrder": 284,
+  "slug": "minor-latin-poets-volume-i-publilius-syrus-elegies-on-maecenas-grattius-calpurnius-sicul-1ick2q",
+  "title": "Volume I: Publilius Syrus. Elegies on Maecenas. Grattius. Calpurnius Siculus. Laus Pisonis. Einsiedeln Eclogues. Aetna",
+  "volumeLabel": "Volume I: Publilius Syrus. Elegies on Maecenas. Grattius. Calpurnius Siculus. Laus Pisonis. Einsiedeln Eclogues. Aetna",
+  "authorDisplay": "Minor Latin Poets",
+  "authors": [
+    "Minor Latin Poets"
+  ],
+  "language": "latin",
+  "summary": "1 of 7 contents in Volume I: Publilius Syrus. Elegies on Maecenas. Grattius. Calpurnius Siculus. Laus Pisonis. Einsiedeln Eclogues. Aetna are live from Scaife, while the remaining contents stay visible until a confident pair is available.",
+  "status": "partial",
+  "defaultChunkSlug": "einsiedeln-eclogues-1g5ezt-1",
+  "readyChunkCount": 5,
+  "contents": [
+    {
+      "id": "publilius-syrus-jbey5b",
+      "title": "Publilius Syrus",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Publilius Syrus."
+    },
+    {
+      "id": "elegies-on-maecenas-45ezr0",
+      "title": "Elegies on Maecenas",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Elegies on Maecenas."
+    },
+    {
+      "id": "grattius-2suwcx",
+      "title": "Grattius",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Grattius."
+    },
+    {
+      "id": "calpurnius-siculus-t3eqey",
+      "title": "Calpurnius Siculus",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Calpurnius Siculus."
+    },
+    {
+      "id": "laus-pisonis-dqhdau",
+      "title": "Laus Pisonis",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Laus Pisonis."
+    },
+    {
+      "id": "einsiedeln-eclogues-1g5ezt",
+      "title": "Einsiedeln Eclogues",
+      "status": "ready",
+      "sectionCount": 300,
+      "chunkSlug": "einsiedeln-eclogues-1g5ezt-1",
+      "chunks": [
+        {
+          "slug": "einsiedeln-eclogues-1g5ezt-1",
+          "label": "Einsiedeln Eclogues (Section 1.1 - Section 2.30)",
+          "partId": "einsiedeln-eclogues-1g5ezt",
+          "partTitle": "Einsiedeln Eclogues",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "einsiedeln-eclogues-1g5ezt-2",
+          "label": "Einsiedeln Eclogues (Section 3.1 - Section 4.30)",
+          "partId": "einsiedeln-eclogues-1g5ezt",
+          "partTitle": "Einsiedeln Eclogues",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "einsiedeln-eclogues-1g5ezt-3",
+          "label": "Einsiedeln Eclogues (Section 5.1 - Section 6.30)",
+          "partId": "einsiedeln-eclogues-1g5ezt",
+          "partTitle": "Einsiedeln Eclogues",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "einsiedeln-eclogues-1g5ezt-4",
+          "label": "Einsiedeln Eclogues (Section 7.1 - Section 8.30)",
+          "partId": "einsiedeln-eclogues-1g5ezt",
+          "partTitle": "Einsiedeln Eclogues",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "einsiedeln-eclogues-1g5ezt-5",
+          "label": "Einsiedeln Eclogues (Section 9.1 - Section 10.30)",
+          "partId": "einsiedeln-eclogues-1g5ezt",
+          "partTitle": "Einsiedeln Eclogues",
+          "sectionCount": 60,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "aetna-11lkyr",
+      "title": "Aetna",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Aetna."
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "einsiedeln-eclogues-1g5ezt-1",
+      "label": "Einsiedeln Eclogues (Section 1.1 - Section 2.30)",
+      "partId": "einsiedeln-eclogues-1g5ezt",
+      "partTitle": "Einsiedeln Eclogues",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "einsiedeln-eclogues-1g5ezt-2",
+      "label": "Einsiedeln Eclogues (Section 3.1 - Section 4.30)",
+      "partId": "einsiedeln-eclogues-1g5ezt",
+      "partTitle": "Einsiedeln Eclogues",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "einsiedeln-eclogues-1g5ezt-3",
+      "label": "Einsiedeln Eclogues (Section 5.1 - Section 6.30)",
+      "partId": "einsiedeln-eclogues-1g5ezt",
+      "partTitle": "Einsiedeln Eclogues",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "einsiedeln-eclogues-1g5ezt-4",
+      "label": "Einsiedeln Eclogues (Section 7.1 - Section 8.30)",
+      "partId": "einsiedeln-eclogues-1g5ezt",
+      "partTitle": "Einsiedeln Eclogues",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "einsiedeln-eclogues-1g5ezt-5",
+      "label": "Einsiedeln Eclogues (Section 9.1 - Section 10.30)",
+      "partId": "einsiedeln-eclogues-1g5ezt",
+      "partTitle": "Einsiedeln Eclogues",
+      "sectionCount": 60,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "einsiedeln-eclogues-1g5ezt-1",
+      "partTitle": "Einsiedeln Eclogues",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Eclogues",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Eclogues",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "einsiedeln-eclogues-1g5ezt-2",
+      "partTitle": "Einsiedeln Eclogues",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Eclogues",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Eclogues",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "einsiedeln-eclogues-1g5ezt-3",
+      "partTitle": "Einsiedeln Eclogues",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Eclogues",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Eclogues",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "einsiedeln-eclogues-1g5ezt-4",
+      "partTitle": "Einsiedeln Eclogues",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Eclogues",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Eclogues",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "einsiedeln-eclogues-1g5ezt-5",
+      "partTitle": "Einsiedeln Eclogues",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Eclogues",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Eclogues",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi001.perseus-eng2/"
+      }
+    }
+  ]
+}

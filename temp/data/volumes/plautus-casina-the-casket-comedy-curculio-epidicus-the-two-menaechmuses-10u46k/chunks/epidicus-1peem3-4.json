@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-casina-the-casket-comedy-curculio-epidicus-the-two-menaechmuses-10u46k",
+  "volumeTitle": "Casina. The Casket Comedy. Curculio. Epidicus. The Two Menaechmuses",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "epidicus-1peem3-4",
+  "label": "Epidicus (Section 2.1.177b - Section 2.2.254)",
+  "partId": "epidicus-1peem3",
+  "partTitle": "Epidicus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Epidicus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi009.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Epidicus, or The Fortunate Discovery",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi009.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "2.1.177b",
+      "label": "Section 2.1.177b",
+      "chapter": null,
+      "original": "Oh ,",
+      "translation": "Ah me ! I was a Hercules while she was with me ; and , upon my faith , the sixth labour [*] was not more difficult to Hercules than the one that fell to my lot ."
+    },
+    {
+      "id": "2.1.180",
+      "label": "Section 2.1.180",
+      "chapter": null,
+      "original": "Pulcra édepol dos pecuniast .",
+      "translation": "I ’ faith , money ’ s a handsome dowry ."
+    },
+    {
+      "id": "2.1.180b",
+      "label": "Section 2.1.180b",
+      "chapter": null,
+      "original": "Quae quidem pol non maritast .",
+      "translation": "Troth , so it is , which isn ’ t encumbered with a wife ."
+    },
+    {
+      "id": "2.2.181",
+      "label": "Section 2.2.181",
+      "chapter": null,
+      "original": "St , tacéte , habete animúm bonum .",
+      "translation": "Hist ! hist ! be silent , and have good courage ; with a fair omen have I come out of doors , the bird upon the left hand [*] . ( Pointing to his head .) I ’ ve got a sharp knife , with which to embowel the old man ’ s purse ;"
+    },
+    {
+      "id": "2.2.184_185",
+      "label": "Section 2.2.184_185",
+      "chapter": null,
+      "original": "sed eccum ípsum ante aedis conspicor Apoecide †",
+      "translation": "but see ! here he is before the house of Apaecides , the two old fellows , just as I want . Now I shall change me into a leech , and suck out the blood of these who are called the pillars of the Senate ."
+    },
+    {
+      "id": "2.2.189_190",
+      "label": "Section 2.2.189_190",
+      "chapter": null,
+      "original": "cóntinuo ut maritus fiat .",
+      "translation": "Let him be married at once ."
+    },
+    {
+      "id": "2.2.189_190b",
+      "label": "Section 2.2.189_190b",
+      "chapter": null,
+      "original": "Laudo consilium tuom .",
+      "translation": "I approve of your design ."
+    },
+    {
+      "id": "2.2.191",
+      "label": "Section 2.2.191",
+      "chapter": null,
+      "original": "nam égo illum audivi in amorem haerere apud néscio quam fidicinam ,",
+      "translation": "For I ’ ve heard that he ’ s entangled with love with a certain music-girl , I don ’ t know who . At that I ’ m vexed to death ."
+    },
+    {
+      "id": "2.2.192b",
+      "label": "Section 2.2.192b",
+      "chapter": null,
+      "original": "Di hercle omnis me ádiuvant augent amant :",
+      "translation": "By my troth , all the Deities do aid , amplify , and love me ; really , these men themselves are pointing out to me the way by means of which I ’ m to get the money out of them . Now then , come , equip yourself , Epidicus , and throw your cloak about your neck ( suiting the action to the word .)"
+    },
+    {
+      "id": "2.2.195",
+      "label": "Section 2.2.195",
+      "chapter": null,
+      "original": "itaque ádsimulato quasi per urbem totam hominem quaesiveris .",
+      "translation": "and pretend as though you had been in search of the man all the city over . On with it , if you are going to do it ! ( He hurries past the OLD MEN as though he didn ’ t see them , and calls out aloud .) Immortal Gods ! I do wish I could meet with Periphanes at home , whom I ’ m tired with searching for all over the city , throughout the doctors ’ shops , throughout the barbers ’ shops , in the gymnasium , and in the Forum , at the perfumers ’ shops and the butchers ’ stalls [*] , and round about the bankers ’ shops ."
+    },
+    {
+      "id": "2.2.200",
+      "label": "Section 2.2.200",
+      "chapter": null,
+      "original": "rogitando sum raucus factus , paene in cursu concidi .",
+      "translation": "I ’ m become hoarse with enquiring ; I ’ ve almost dropped down with running ."
+    },
+    {
+      "id": "2.2.201",
+      "label": "Section 2.2.201",
+      "chapter": null,
+      "original": "Epidice .",
+      "translation": "Epidicus !"
+    },
+    {
+      "id": "2.2.201b",
+      "label": "Section 2.2.201b",
+      "chapter": null,
+      "original": "Epidicum quis est qui revocat ?",
+      "translation": "Who is it that ’ s calling Epidicus back ?"
+    },
+    {
+      "id": "2.2.201c",
+      "label": "Section 2.2.201c",
+      "chapter": null,
+      "original": "Ego sum , Periphanes .",
+      "translation": "It ’ s I , Periphanes ."
+    },
+    {
+      "id": "2.2.202",
+      "label": "Section 2.2.202",
+      "chapter": null,
+      "original": "Et ego Apoecides sum .",
+      "translation": "And I , Apaecides ."
+    },
+    {
+      "id": "2.2.202b",
+      "label": "Section 2.2.202b",
+      "chapter": null,
+      "original": "Et ego quidem sum Epidicus . sed , ere , optuma",
+      "translation": "And I , indeed , am Epidicus . But , master , I find that you ’ ve both met me at the nick of time ."
+    },
+    {
+      "id": "2.2.203b",
+      "label": "Section 2.2.203b",
+      "chapter": null,
+      "original": "Quid rei est ?",
+      "translation": "What ’ s the matter ?"
+    },
+    {
+      "id": "2.2.204",
+      "label": "Section 2.2.204",
+      "chapter": null,
+      "original": "Mane dum , sine respirem quaeso .",
+      "translation": "Wait , wait ! ( puffs and blows .) prithee , do let me get breath !"
+    },
+    {
+      "id": "2.2.204b",
+      "label": "Section 2.2.204b",
+      "chapter": null,
+      "original": "Immo adquiesce .",
+      "translation": "By all means , rest yourself ."
+    },
+    {
+      "id": "2.2.204c",
+      "label": "Section 2.2.204c",
+      "chapter": null,
+      "original": "Animo malest .",
+      "translation": "I ’ m quite faint ;"
+    },
+    {
+      "id": "2.2.205",
+      "label": "Section 2.2.205",
+      "chapter": null,
+      "original": "Recipe anhelitum .",
+      "translation": "I must recover my breath ."
+    },
+    {
+      "id": "2.2.205b",
+      "label": "Section 2.2.205b",
+      "chapter": null,
+      "original": "Clementer , requiesce .",
+      "translation": "Do rest yourself at your leisure ."
+    },
+    {
+      "id": "2.2.205c",
+      "label": "Section 2.2.205c",
+      "chapter": null,
+      "original": "Animum advortite .",
+      "translation": "Lend me your attention . All the men of the army have been remanded home from Thebes [*] ."
+    },
+    {
+      "id": "2.2.206b",
+      "label": "Section 2.2.206b",
+      "chapter": null,
+      "original": "Quis hoc",
+      "translation": "Who knows for certain that this has been done ?"
+    },
+    {
+      "id": "2.2.207b",
+      "label": "Section 2.2.207b",
+      "chapter": null,
+      "original": "Ego ita factum esse dico .",
+      "translation": "I say that it has been done ."
+    },
+    {
+      "id": "2.2.207c",
+      "label": "Section 2.2.207c",
+      "chapter": null,
+      "original": "Scin tu istuc ?",
+      "translation": "Are you sure of that ?"
+    },
+    {
+      "id": "2.2.207d",
+      "label": "Section 2.2.207d",
+      "chapter": null,
+      "original": "Scio .",
+      "translation": "I am sure of it ."
+    },
+    {
+      "id": "2.2.208",
+      "label": "Section 2.2.208",
+      "chapter": null,
+      "original": "Qui tu scis ?",
+      "translation": "Why are you sure of it ?"
+    },
+    {
+      "id": "2.2.208b",
+      "label": "Section 2.2.208b",
+      "chapter": null,
+      "original": "Quia ego ire vidi milites plenis viis ;",
+      "translation": "Because I ’ ve seen the soldiers marching through the streets in shoals . They are bringing back their arms and their baggage-horses ."
+    },
+    {
+      "id": "2.2.209b",
+      "label": "Section 2.2.209b",
+      "chapter": null,
+      "original": "Nimis factum bene .",
+      "translation": "Very good indeed !"
+    },
+    {
+      "id": "2.2.210",
+      "label": "Section 2.2.210",
+      "chapter": null,
+      "original": "Tum captivorum quid ducunt secum ! pueros , virgines ,",
+      "translation": "Then , what prisoners they ’ ve got with them ! boys , girls , in twos and threes ; another one has got five ; there ’ s a crowd in the streets ; they are looking out each for his son ."
+    },
+    {
+      "id": "2.2.212b",
+      "label": "Section 2.2.212b",
+      "chapter": null,
+      "original": "Hercle rem gestam bene .",
+      "translation": "I ’ troth , a business very well managed !"
+    },
+    {
+      "id": "2.2.213",
+      "label": "Section 2.2.213",
+      "chapter": null,
+      "original": "Tum meretricum numerus tantus , quantum in urbe omni fuit ,",
+      "translation": "Then , filly as many of the courtesans as there are in the whole city were going decked out each to meet her lover ;"
+    },
+    {
+      "id": "2.2.215",
+      "label": "Section 2.2.215",
+      "chapter": null,
+      "original": "eos captabant . id adeo qui maxime animum advorterim ?",
+      "translation": "they were going to trap them ; that ’ s the fact , inasmuch as I gave especial attention to it ; several of these had with them nets beneath their garments . When I came to the harbour , forthwith I espied her waiting there , and with her were four music-girls ."
+    },
+    {
+      "id": "2.2.218b",
+      "label": "Section 2.2.218b",
+      "chapter": null,
+      "original": "Quicum , Epidice ?",
+      "translation": "With whom , Epidicus ?"
+    },
+    {
+      "id": "2.2.219",
+      "label": "Section 2.2.219",
+      "chapter": null,
+      "original": "Cum illa quam tuos gnatus annos multos deamat , deperit ,",
+      "translation": "With her whom your son has been loving and doting on for years ,"
+    },
+    {
+      "id": "2.2.220",
+      "label": "Section 2.2.220",
+      "chapter": null,
+      "original": "ubi fidemque remque seque teque properat perdere ;",
+      "translation": "with whom he ’ s making all haste to ruin credit , property , himself , and yourself . She was on the lookout for him at the harbour ."
+    },
+    {
+      "id": "2.2.221b",
+      "label": "Section 2.2.221b",
+      "chapter": null,
+      "original": "Viden veneficam ?",
+      "translation": "Just see the sorceress now !"
+    },
+    {
+      "id": "2.2.222",
+      "label": "Section 2.2.222",
+      "chapter": null,
+      "original": "Sed vestita , aurata , ornata ut lepide , ut concinne , ut nove .",
+      "translation": "But decked out , sparkling with gold , and adorned so splendidly ! so nicely ! so fashionably !"
+    },
+    {
+      "id": "2.2.223",
+      "label": "Section 2.2.223",
+      "chapter": null,
+      "original": "Quid erat induta ? an regillam induculam an mendiculam ?",
+      "translation": "What was she drest in ? Was it a royal robe , or was it a plain dress ?"
+    },
+    {
+      "id": "2.2.224",
+      "label": "Section 2.2.224",
+      "chapter": null,
+      "original": "Inpluviatam , ut istaec faciunt vestimentis nomina .",
+      "translation": "A skylight one [*] , according as these women coin names for garments ."
+    },
+    {
+      "id": "2.2.225",
+      "label": "Section 2.2.225",
+      "chapter": null,
+      "original": "Vtin inpluvium induta fuerit ?",
+      "translation": "What ! was she dressed in a skylight ?"
+    },
+    {
+      "id": "2.2.225b",
+      "label": "Section 2.2.225b",
+      "chapter": null,
+      "original": "Quid istuc tam mirabile est ?",
+      "translation": "What ’ s there wonderful in that ? As though many women didn ’ t go through the streets decked out with farms upon them . But when the tax is demanded , they declare it cannot be paid [*] ; while to these hussies , to whom a larger tax is paid , it can be paid . Why , what new names every year these women are finding for their clothing —"
+    },
+    {
+      "id": "2.2.230",
+      "label": "Section 2.2.230",
+      "chapter": null,
+      "original": "tunicam rallam , tunicam spissam , linteolum caesicium ,",
+      "translation": "the thin tunic , the thick tunic , your fulled linen cloth , chemises , bordered shifts ’ the marigold or saffron-coloured dress , the under-petticoat or else the light vermilion dress , the hood , the royal or the foreign robe , the wave pattern [*] or the feather-pattern , the wax or the apple-tint . The greatest nonsense ! From dogs , too , do they even take the names ."
+    },
+    {
+      "id": "2.2.234b",
+      "label": "Section 2.2.234b",
+      "chapter": null,
+      "original": "Qui ?",
+      "translation": "How so ?"
+    },
+    {
+      "id": "line:234c",
+      "label": "Line 234c",
+      "chapter": null,
+      "original": "Vocant Laconicum .",
+      "translation": "They call one the Laconian [*] . These names compel men to make auctions ."
+    },
+    {
+      "id": "2.2.236",
+      "label": "Section 2.2.236",
+      "chapter": null,
+      "original": "Quin tu ut occepisti loquere ?",
+      "translation": "But do you say on as you commenced ."
+    },
+    {
+      "id": "2.2.236b",
+      "label": "Section 2.2.236b",
+      "chapter": null,
+      "original": "Occepere aliae mulieres",
+      "translation": "Two other women behind me began to speak thus between themselves ; I , like my wont , went away a little distance from them ; I pretended that I wasn ’ t attending to their talk : I didn ’ t quite hear all , and still I wasn ’ t deceived"
+    },
+    {
+      "id": "2.2.240",
+      "label": "Section 2.2.240",
+      "chapter": null,
+      "original": "quae loquerentur .",
+      "translation": "in a word they said ."
+    },
+    {
+      "id": "2.2.240b",
+      "label": "Section 2.2.240b",
+      "chapter": null,
+      "original": "Id lubidost scire .",
+      "translation": "I long to hear it ."
+    },
+    {
+      "id": "2.2.240c",
+      "label": "Section 2.2.240c",
+      "chapter": null,
+      "original": "Ibi illarum altera",
+      "translation": "Then one of them said to the other with whom she was talking —"
+    },
+    {
+      "id": "2.2.241b",
+      "label": "Section 2.2.241b",
+      "chapter": null,
+      "original": "Quid ?",
+      "translation": "What ?"
+    },
+    {
+      "id": "2.2.241c",
+      "label": "Section 2.2.241c",
+      "chapter": null,
+      "original": "Tace ergo , ut audias )",
+      "translation": "Be quiet then , that you may hear . After they had caught sight of her whom your son is dying for : Prithee , how happily and luckily has it befallen that woman for her lover to be wishing to set her free . Who is he ?"
+    },
+    {
+      "id": "2.2.245",
+      "label": "Section 2.2.245",
+      "chapter": null,
+      "original": "inquit altera illi . ibi illa nominat Stratippoclem",
+      "translation": "said the other . She mentioned Stratippocles ."
+    },
+    {
+      "id": "2.2.246b",
+      "label": "Section 2.2.246b",
+      "chapter": null,
+      "original": "Perii hercle . quid ego ex te audio ?",
+      "translation": "Troth now , I ’ m undone ; what is it I hear of you ?"
+    },
+    {
+      "id": "2.2.247",
+      "label": "Section 2.2.247",
+      "chapter": null,
+      "original": "Hoc quod actum est . egomet postquam id illas audivi loqui ,",
+      "translation": "That which really took place . After this , I myself , when I heard them talking , began again to draw closer towards them little by little , as though the crowd of people was pushing me , whether I would or no ."
+    },
+    {
+      "id": "2.2.249b",
+      "label": "Section 2.2.249b",
+      "chapter": null,
+      "original": "Intellego .",
+      "translation": "I understand ."
+    },
+    {
+      "id": "2.2.250",
+      "label": "Section 2.2.250",
+      "chapter": null,
+      "original": "Ibi illa interrogavit illam : qui scis ? quis id dixit tibi ?",
+      "translation": "Then the one asked the other , How do you know ? Why , because a letter has been brought her to-day from Stratippocles ; that he has borrowed money on interest from a banker at Thebes ; that it is ready , and he himself has brought it for that purpose ."
+    },
+    {
+      "id": "2.2.253b",
+      "label": "Section 2.2.253b",
+      "chapter": null,
+      "original": "Certo ego occidi .",
+      "translation": "Tell on — I ’ m undone !"
+    },
+    {
+      "id": "2.2.254",
+      "label": "Section 2.2.254",
+      "chapter": null,
+      "original": "Haec sic aibat : sic audivisse ex eapse atque epistula .",
+      "translation": "She said that she had heard so from her and from the letter which she had seen ."
+    }
+  ],
+  "prevChunkSlug": "epidicus-1peem3-3",
+  "nextChunkSlug": "epidicus-1peem3-5"
+}

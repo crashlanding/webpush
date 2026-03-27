@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-cyclops-alcestis-medea-19z9hm",
+  "volumeTitle": "Cyclops. Alcestis. Medea",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "medea-186s08-8",
+  "label": "Medea (Section 1.1251 - Section 1377)",
+  "partId": "medea-186s08",
+  "partTitle": "Medea",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Μήδεια",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg003.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Medea",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg003.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1251",
+      "label": "Section 1.1251",
+      "chapter": null,
+      "original": "ἰὼ Γᾶ τε καὶ παμφαὴς",
+      "translation": "O earth , O sun whose beam illumines all , look , look upon this lost woman , ere she stretch forth , her murderous hand upon her sons for blood ;"
+    },
+    {
+      "id": "1.1255",
+      "label": "Section 1.1255",
+      "chapter": null,
+      "original": "τεᾶς γὰρ ἀπὸ χρυσέας γονᾶς",
+      "translation": "for lo ! these are scions of thy own golden seed , and the blood of gods is in danger of being shed by man . O light , from Zeus proceeding , stay her , hold her hand , forth from the house"
+    },
+    {
+      "id": "1.1260",
+      "label": "Section 1.1260",
+      "chapter": null,
+      "original": "τάλαινάν τ ’ Ἐρινὺν ὑπ ’ ἀλαστόρων .",
+      "translation": "chase this fell bloody fiend by demons led ."
+    },
+    {
+      "id": "1.1261",
+      "label": "Section 1.1261",
+      "chapter": null,
+      "original": "μάταν μόχθος ἔρρει τέκνων ,",
+      "translation": "Vainly wasted were the throes thy children cost thee ; vainly hast thou born , it seems , sweet babes , O thou who hast left behind thee that passage through the blue Symplegades , that strangers justly hate ."
+    },
+    {
+      "id": "1.1265",
+      "label": "Section 1.1265",
+      "chapter": null,
+      "original": "δειλαία , τί σοι φρενῶν βαρὺς",
+      "translation": "Ah ! hapless one , why doth fierce anger thy soul assail ? Why [*] in its place is fell murder growing up ? For grievous unto mortal men are pollutions that come of kindred blood poured on the earth ,"
+    },
+    {
+      "id": "1.1270",
+      "label": "Section 1.1270",
+      "chapter": null,
+      "original": "δὰ θεόθεν πίτνοντ ’ ἐπὶ δόμοις ἄχη .",
+      "translation": "woes to suit each crime hurled from heaven on the murderer ’ s house ."
+    },
+    {
+      "id": "1270a",
+      "label": "Section 1270a",
+      "chapter": null,
+      "original": "αἰαῖ .",
+      "translation": "Ah ! [*]"
+    },
+    {
+      "id": "2.1273",
+      "label": "Section 2.1273",
+      "chapter": null,
+      "original": "— ἀκούεις βοὰν ἀκούεις τέκνων ;",
+      "translation": "Didst hear , didst hear the children ’ s cry ? O lady , born to sorrow , victim of an evil fate !"
+    },
+    {
+      "id": "2.1271",
+      "label": "Section 2.1271",
+      "chapter": null,
+      "original": "— οἴμοι , τί δράσω ; ποῖ φύγω μητρὸς χέρας ;",
+      "translation": "( within ). Ah , me ; what can I do ? Whither fly to escape my mother ’ s blows ?"
+    },
+    {
+      "id": "2.1272",
+      "label": "Section 2.1272",
+      "chapter": null,
+      "original": "— οὐκ οἶδ ’, ἄδελφε φίλτατ ’· ὀλλύμεσθα γάρ .",
+      "translation": "( within ). I know not , sweet brother mine ; we are undone ."
+    },
+    {
+      "id": "2.1275",
+      "label": "Section 2.1275",
+      "chapter": null,
+      "original": "παρέλθω δόμους ; ἀρῆξαι φόνον",
+      "translation": "Shall I enter the house ? For the children ’ s sake I am resolved to ward off the murder ."
+    },
+    {
+      "id": "2.1277",
+      "label": "Section 2.1277",
+      "chapter": null,
+      "original": "— ναί , πρὸς θεῶν , ἀρήξατ ’· ἐν δέοντι γάρ .",
+      "translation": "( within ). Yea , by heaven I adjure you ; help , your aid is needed ."
+    },
+    {
+      "id": "2.1278",
+      "label": "Section 2.1278",
+      "chapter": null,
+      "original": "— ὡς ἐγγὺς ἤδη γ ’ ἐσμὲν ἀρκύων ξίφους .",
+      "translation": "( within ). Even now the toils of the sword are closing round us ."
+    },
+    {
+      "id": "2.1279",
+      "label": "Section 2.1279",
+      "chapter": null,
+      "original": "— τάλαιν ’, ὡς ἄρ ’ ἦσθα πέτρος ἢ σίδα-",
+      "translation": "O hapless mother , surely thou hast a heart of stone or steel"
+    },
+    {
+      "id": "2.1280",
+      "label": "Section 2.1280",
+      "chapter": null,
+      "original": "ρος , ἅτις τέκνων",
+      "translation": "to slay the offspring of thy womb by such a murderous doom ."
+    },
+    {
+      "id": "2.1282",
+      "label": "Section 2.1282",
+      "chapter": null,
+      "original": "— μίαν δὴ κλύω μίαν τῶν πάρος",
+      "translation": "Of all the wives of yore I know but one who laid her hand upon her children dear , even Ino , [*] whom the gods did madden in the day"
+    },
+    {
+      "id": "2.1285",
+      "label": "Section 2.1285",
+      "chapter": null,
+      "original": "δάμαρ νιν ἐξέπεμψε δωμάτων ἄλῃ ·",
+      "translation": "that the wife of Zeus drove her wandering from her home . But she , poor sufferer , flung herself into the sea because of the foul murder of her children , leaping o ’ er the wave-beat cliff , and in her death was she united to her children twain ."
+    },
+    {
+      "id": "2.1290",
+      "label": "Section 2.1290",
+      "chapter": null,
+      "original": "τί δῆτ ’ οὖν γένοιτ ’ ἂν ἔτι δεινόν ; ὦ",
+      "translation": "Can there be any deed of horror left to follow this ? Woe for the wooing of women fraught with disaster ! What sorrows hast thou caused for men ere now !"
+    },
+    {
+      "id": "1293",
+      "label": "Section 1293",
+      "chapter": null,
+      "original": "γυναῖκες , αἳ τῆσδ ’ ἐγγὺς ἕστατε στέγης ,",
+      "translation": "Ladies , stationed near this house , pray tell me is the author of these hideous deeds ,"
+    },
+    {
+      "id": "1295",
+      "label": "Section 1295",
+      "chapter": null,
+      "original": "Μήδεια τοῖσδ ’ ἔτ ’, ἢ μεθέστηκεν φυγῇ ;",
+      "translation": "Medea , still within , or hath she fled from hence ? For she must hide beneath the earth or soar on wings towards heaven ’ s vault , if she would avoid the vengeance of the royal house . Is she so sure she will escape herself unpunished from this house ,"
+    },
+    {
+      "id": "1300",
+      "label": "Section 1300",
+      "chapter": null,
+      "original": "ἀθῷος αὐτὴ τῶνδε φεύξεσθαι δόμων ;",
+      "translation": "when she hath slain the rulers of the land ? But enough of this ! I am forgetting her children . As for her , those whom she hath wronged will do the like by her ; but I am come to save the children ’ s life , lest the victim ’ s kin visit their wrath on me , in vengeance for the murder foul ,"
+    },
+    {
+      "id": "1305",
+      "label": "Section 1305",
+      "chapter": null,
+      "original": "μητρῷον ἐκπράσσοντες ἀνόσιον φόνον .",
+      "translation": "wrought by my children ’ s mother ."
+    },
+    {
+      "id": "1306",
+      "label": "Section 1306",
+      "chapter": null,
+      "original": "ὦ τλῆμον , οὐκ οἶσθ ’ οἷ κακῶν ἐλήλυθας ,",
+      "translation": "Unhappy man , thou knowest not the full extent of thy misery , else had thou never said those words ."
+    },
+    {
+      "id": "1308",
+      "label": "Section 1308",
+      "chapter": null,
+      "original": "τί δ ’ ἔστιν ; ἦ που κἄμ ’ ἀποκτεῖναι θέλει ;",
+      "translation": "How now ? Can she want to kill me too ?"
+    },
+    {
+      "id": "1309",
+      "label": "Section 1309",
+      "chapter": null,
+      "original": "παῖδες τεθνᾶσι χειρὶ μητρῴᾳ σέθεν .",
+      "translation": "Thy sons are dead ; slain by their own mother ’ s hand ."
+    },
+    {
+      "id": "1310",
+      "label": "Section 1310",
+      "chapter": null,
+      "original": "οἴμοι τί λέξεις ; ὥς μ ’ ἀπώλεσας , γύναι .",
+      "translation": "O God ! what sayest thou ? Woman , thou hast sealed my doom ."
+    },
+    {
+      "id": "1311",
+      "label": "Section 1311",
+      "chapter": null,
+      "original": "ὡς οὐκέτ ’ ὄντων σῶν τέκνων φρόντιζε δή .",
+      "translation": "Thy children are no more ; be sure of this ."
+    },
+    {
+      "id": "1312",
+      "label": "Section 1312",
+      "chapter": null,
+      "original": "ποῦ γάρ νιν ἔκτειν ’; ἐντὸς ἢ ἔξωθεν δόμων ;",
+      "translation": "Where slew she them ; within the palace or outside ?"
+    },
+    {
+      "id": "1313",
+      "label": "Section 1313",
+      "chapter": null,
+      "original": "πύλας ἀνοίξας σῶν τέκνων ὄψῃ φόνον .",
+      "translation": "Throw wide the doors and see thy children ’ s murdered corpses ."
+    },
+    {
+      "id": "1314",
+      "label": "Section 1314",
+      "chapter": null,
+      "original": "χαλᾶτε κλῇδας ὡς τάχιστα , πρόσπολοι ,",
+      "translation": "Haste , ye slaves , loose the bolts ,"
+    },
+    {
+      "id": "1315",
+      "label": "Section 1315",
+      "chapter": null,
+      "original": "ἐκλύεθ ’ ἁρμούς , ὡς ἴδω διπλοῦν κακόν ,",
+      "translation": "undo the fastenings , that I may see the sight of twofold woe , my murdered sons and her , whose blood in vengeance I will shed . [ Medea in mid air , on a chariot drawn by dragons ; the children ’ s corpses by her ."
+    },
+    {
+      "id": "1317",
+      "label": "Section 1317",
+      "chapter": null,
+      "original": "τί τάσδε κινεῖς κἀναμοχλεύεις πύλας ,",
+      "translation": "Why shake those doors and attempt to loose their bolts , in quest of the dead and me their murderess ? From such toil desist . If thou wouldst aught with me ,"
+    },
+    {
+      "id": "1320",
+      "label": "Section 1320",
+      "chapter": null,
+      "original": "λέγ ’, εἴ τι βούλῃ , χειρὶ δ ’ οὐ ψαύσεις ποτέ .",
+      "translation": "say on , if so thou wilt ; but never shalt thou lay hand on me , so swift the steeds the sun , my father ’ s sire , to me doth give to save me from the hand of my foes ."
+    },
+    {
+      "id": "1323",
+      "label": "Section 1323",
+      "chapter": null,
+      "original": "ὦ μῖσος , ὦ μέγιστον ἐχθίστη γύναι",
+      "translation": "Accursed woman ! by gods , by me and all mankind abhorred as never woman was ,"
+    },
+    {
+      "id": "1325",
+      "label": "Section 1325",
+      "chapter": null,
+      "original": "ἥτις τέκνοισι σοῖσιν ἐμβαλεῖν ξίφος",
+      "translation": "who hadst the heart to stab thy babes , thou their mother , leaving me undone and childless ; this hast thou done and still dost gaze upon the sun and earth after this deed most impious . Curses on thee ! I now perceive what then I missed"
+    },
+    {
+      "id": "1330",
+      "label": "Section 1330",
+      "chapter": null,
+      "original": "ὅτ ’ ἐκ δόμων σε βαρβάρου τ ’ ἀπὸ χθονὸς",
+      "translation": "in the day I brought thee , fraught with doom , from thy home in a barbarian land to dwell in Hellas , traitress to thy sire and to the land that nurtured thee . On me the gods have hurled the curse that dogged thy steps , for thou didst slay thy brother at his hearth"
+    },
+    {
+      "id": "1335",
+      "label": "Section 1335",
+      "chapter": null,
+      "original": "τὸ καλλίπρῳρον εἰσέβης Ἀργοῦς σκάφος .",
+      "translation": "ere thou cam ’ st aboard our fair ship Argo . Such was the outset of thy life of crime ; then didst thou wed with me , and having born me sons to glut thy passion ’ s lust , thou now hast slain them . Not one amongst the wives of Hellas e ’ er had dared"
+    },
+    {
+      "id": "1340",
+      "label": "Section 1340",
+      "chapter": null,
+      "original": "ἔτλη ποθ ’, ὧν γε πρόσθεν ἠξίουν ἐγὼ",
+      "translation": "this deed ; yet before them all I chose thee for my wife , wedding a foe to be my doom , no woman , but a lioness fiercer than Tyrrhene Scylla in nature . But with reproaches heaped a thousandfold"
+    },
+    {
+      "id": "1345",
+      "label": "Section 1345",
+      "chapter": null,
+      "original": "δάκοιμι · τοιόνδ ’ ἐμπέφυκέ σοι θράσος ·",
+      "translation": "I cannot wound thee , so brazen is thy nature . Perish , vile sorceress , murderess of thy babes ! Whilst I must mourn my luckless fate , for I shall ne ’ er enjoy my new-found bride , nor shall I have the children ,"
+    },
+    {
+      "id": "1350",
+      "label": "Section 1350",
+      "chapter": null,
+      "original": "ἕξω προσειπεῖν ζῶντας , ἀλλ ’ ἀπώλεσα .",
+      "translation": "whom I bred and reared , alive to say the last farewell to me ; nay , I have lost them ."
+    },
+    {
+      "id": "1351",
+      "label": "Section 1351",
+      "chapter": null,
+      "original": "μακρὰν ἂν ἐξέτεινα τοῖσδ ’ ἐναντίον",
+      "translation": "To this thy speech I could have made a long retort , but Father Zeus knows well all I have done for thee , and the treatment thou hast given me . Yet thou wert not ordained to scorn my love"
+    },
+    {
+      "id": "1355",
+      "label": "Section 1355",
+      "chapter": null,
+      "original": "τερπνὸν διάξειν βίοτον ἐγγελῶν ἐμοί ·",
+      "translation": "and lead a life of joy in mockery of me , nor was thy royal bride nor Creon , who gave thee a second wife , to thrust me from this land and rue it not . Wherefore , if thou wilt , call me e ’ en a lioness , and Scylla , whose home is in the Tyrrhene land ;"
+    },
+    {
+      "id": "1360",
+      "label": "Section 1360",
+      "chapter": null,
+      "original": "τῆς σῆς γὰρ ὡς χρὴ καρδίας ἀνθηψάμην .",
+      "translation": "for I in turn have wrung thy heart , as well I might ."
+    },
+    {
+      "id": "1361",
+      "label": "Section 1361",
+      "chapter": null,
+      "original": "καὐτή γε λυπῇ καὶ κακῶν κοινωνὸς εἶ .",
+      "translation": "Thou , too , art grieved thyself , and sharest in my sorrow ."
+    },
+    {
+      "id": "1362",
+      "label": "Section 1362",
+      "chapter": null,
+      "original": "σάφ ’ ἴσθι · λύει δ ’ ἄλγος , ἢν σὺ μὴ ’ γγελᾷς .",
+      "translation": "Be well assured I am ; but it relieves my pain to know thou canst not mock at me ."
+    },
+    {
+      "id": "1363",
+      "label": "Section 1363",
+      "chapter": null,
+      "original": "ὦ τέκνα , μητρὸς ὡς κακῆς ἐκύρσατε .",
+      "translation": "O my children , how vile a mother ye have found !"
+    },
+    {
+      "id": "1364",
+      "label": "Section 1364",
+      "chapter": null,
+      "original": "ὦ παῖδες , ὡς ὤλεσθε πατρῴᾳ νόσῳ .",
+      "translation": "My sons , your father ’ s feeble lust has been your ruin !"
+    },
+    {
+      "id": "1365",
+      "label": "Section 1365",
+      "chapter": null,
+      "original": "οὔτοι νυν ἡμὴ δεξιά σφ ’ ἀπώλεσεν .",
+      "translation": "’ Twas not my hand , at any rate , that slew them ."
+    },
+    {
+      "id": "1366",
+      "label": "Section 1366",
+      "chapter": null,
+      "original": "ἀλλ ’ ὕβρις , οἵ τε σοὶ νεοδμῆτες γάμοι .",
+      "translation": "No , but thy foul treatment of me , and thy new marriage ."
+    },
+    {
+      "id": "1367",
+      "label": "Section 1367",
+      "chapter": null,
+      "original": "λέχους σφε κἠξίωσας οὕνεκα κτανεῖν .",
+      "translation": "Didst think that marriage cause enough to murder them ?"
+    },
+    {
+      "id": "1368",
+      "label": "Section 1368",
+      "chapter": null,
+      "original": "σμικρὸν γυναικὶ πῆμα τοῦτ ’ εἶναι δοκεῖς ;",
+      "translation": "Dost think a woman counts this a trifling injury ?"
+    },
+    {
+      "id": "1369",
+      "label": "Section 1369",
+      "chapter": null,
+      "original": "ἥτις γε σώφρων · σοὶ δὲ πάντ ’ ἐστὶν κακά .",
+      "translation": "So she be self-restrained ; but in thy eyes all is evil ."
+    },
+    {
+      "id": "1370",
+      "label": "Section 1370",
+      "chapter": null,
+      "original": "οἵδ ’ οὐκέτ ’ εἰσί · τοῦτο γάρ σε δήξεται .",
+      "translation": "Thy sons are dead and gone . That will stab thy heart ."
+    },
+    {
+      "id": "1371",
+      "label": "Section 1371",
+      "chapter": null,
+      "original": "οἵδ ’ εἰσίν , οἴμοι , σῷ κάρᾳ μιάστορες .",
+      "translation": "They live , methinks , [*] to bring a curse upon thy head ."
+    },
+    {
+      "id": "1372",
+      "label": "Section 1372",
+      "chapter": null,
+      "original": "ἴσασιν ὅστις ἦρξε πημονῆς θεοί .",
+      "translation": "The gods know , whoso of them began this troublous coil ."
+    },
+    {
+      "id": "1373",
+      "label": "Section 1373",
+      "chapter": null,
+      "original": "ἴσασι δῆτα σήν γ ’ ἀπόπτυστον φρένα .",
+      "translation": "Indeed , they know that hateful heart of thine ."
+    },
+    {
+      "id": "1374",
+      "label": "Section 1374",
+      "chapter": null,
+      "original": "στύγει · πικρὰν δὲ βάξιν ἐχθαίρω σέθεν .",
+      "translation": "Thou art as hateful . I am aweary of thy bitter tongue ."
+    },
+    {
+      "id": "1375",
+      "label": "Section 1375",
+      "chapter": null,
+      "original": "καὶ μὴν ἐγὼ σήν · ῥᾴδιον δ ’ ἀπαλλαγαί .",
+      "translation": "And I likewise of thine . But parting is easy ."
+    },
+    {
+      "id": "1376",
+      "label": "Section 1376",
+      "chapter": null,
+      "original": "πῶς οὖν ; τί δράσω ; κάρτα γὰρ κἀγὼ θέλω .",
+      "translation": "Say how ; what am I to do ? for I am fain as thou to go ."
+    },
+    {
+      "id": "1377",
+      "label": "Section 1377",
+      "chapter": null,
+      "original": "θάψαι νεκρούς μοι τούσδε καὶ κλαῦσαι πάρες .",
+      "translation": "Give up to me those dead , to bury and lament"
+    }
+  ],
+  "prevChunkSlug": "medea-186s08-7",
+  "nextChunkSlug": "medea-186s08-9"
+}

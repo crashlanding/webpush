@@ -1,0 +1,178 @@
+{
+  "volumeSlug": "appian-roman-history-volume-ii-bb990q",
+  "volumeTitle": "Roman History, Volume II",
+  "authorDisplay": "Appian",
+  "authors": [
+    "Appian"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "gallic-history-e3beug",
+  "label": "Gallic History",
+  "partId": "roman-history-volume-ii-xu1erl",
+  "partTitle": "Roman History, Volume II",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "ἐκ τῆς Κελτῖκης",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg005.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Gallic History",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg005.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "I",
+      "label": "Section I",
+      "chapter": null,
+      "original": "1 Κελτοὶ Ῥωμαίοις ἐπεχείρησαν πρῶτοι , καὶ τὴν Ῥώμην εἷλον ἄνευ τοῦ Καπιτωλίου , καὶ ἐμπεπρήκασιν . Κάμιλλος δὲ αὐτοὺς ἐνίκησε καὶ ἐξήλασε , καὶ μετὰ χρόνον ἐπελθόντας αὖθις ἐνίκησε , καὶ ἐθριάμβευσεν ἀπʼ αὐτῶν ὀγδοήκοντα γεγονὼς ἔτη . καὶ τρίτη δὲ Κελτῶν στρατιὰ ἐμβέβληκεν ἐς τὴν Ἰταλίαν , ἣν καὶ αὐτὴν οἱ Ῥωμαῖοι διεφθάρκασιν ὑφʼ ἡγεμόνι Τίτῳ Κοϊντίῳ . μετὰ δὲ ταῦτα Βοιοί , Κελτικὸν ἔθνος θηριωδέστατον , ἐπῆλθε Ῥωμαίοις , καὶ αὐτοῖς Γάϊος Σουλπίκιος δικτάτωρ μετὰ στρατιᾶς ἀπήντα , ὅς τις καὶ στρατηγήματι τοιούτῳ χρήσασθαι λέγεται · ἐκέλευσε γὰρ τοὺς ἐπὶ τοῦ μετώπου τεταγμένους ἐξακοντίσαντας ὁμοῦ συγκαθίσαι τάχιστα , μέχρι βάλωσιν οἱ δεύτεροι καὶ τρίτοι καὶ τέταρτοι , τοὺς δʼ ἀφιέντας ἀεὶ συνίζειν , ἵνα μὴ κατʼ αὐτῶν ἐνεχθείη τὰ δόρατα · βαλόντων δὲ τῶν ὑστάτων ἀναπηδᾶν ἅπαντας ὁμοῦ , καὶ σὺν βοῇ τάχιστα ἐς χεῖρας ἰέναι · καταπλήξειν γὰρ ὧδε τοὺς πολεμίους τοσῶνδε δοράτων ἄφεσιν καὶ ἐπʼ αὐτῇ ταχεῖαν ἐπιχείρησιν . τὰ δὲ δόρατα ἦν οὐκ ἀπεοικότα ἀκοντίοις · ἃ Ῥωμαῖοι καλοῦσιν ὑσσούς , ξύλου τετραγώνου τὸ ἥμισυ , καὶ τὸ ἄλλο σιδήρου , τετραγώνου καὶ τοῦδε καὶ μαλακοῦ χωρίς γε τῆς αἰχμῆς . καὶ οἱ Βοιοὶ οὖν ὑπὸ Ῥωμαίων τότε ἐφθάρησαν πανστρατιᾷ .\n2 ἄλλους δὲ πάλιν Κελτοὺς ἐνίκα Ποπίλλιος , καὶ μετʼ ἐκεῖνον τοὺς αὐτοὺς Κάμιλλος ὁ τοῦ Καμίλλου υἱός . ἔστησε δὲ κατὰ Κελτῶν καὶ Πάππος Αἰμίλιος τρόπαια . πρὸ δὲ τῶν τοῦ Μαρίου ὑπατειῶν πλεῖστόν τι καὶ μαχιμώτατον , τῇ τε ἡλικίᾳ μάλιστα φοβερώτατον χρῆμα Κελτῶν ἐς τὴν Ἰταλίαν τε καὶ Γαλατίαν ἐσέβαλε , καί τινας ὑπάτους Ῥωμαίων ἐνίκησε καὶ στρατόπεδα κατέκοψεν · ἐφʼ οὓς ὁ Μάριος ἀποσταλεὶς ἅπαντας διέφθειρε . τελευταῖα δὲ καὶ μέγιστα τῶν ἐς Γαλάτας Ῥωμαίοις πεπραγμένων ἐστὶ τὰ ὑπὸ Γαΐῳ Καίσαρι στρατηγοῦντι γενόμενα . μυριάσι τε γὰρ ἀνδρῶν ἀγρίων , ἐν τοῖς δέκα ἔτεσιν ἐν οἷς ἐστρατήγησεν , ἐς χεῖρας ἦλθον , εἴ τις ὑφʼ ἓν τὰ μέρη συναγάγοι , τετρακοσίων πλείοσι , καὶ τούτων ἑκατὸν μὲν ἐζώγρησαν , ἑκατὸν δʼ ἐν τῷ πόνῳ κατέκανον . ἔθνη δὲ τετρακόσια καὶ πόλεις ὑπὲρ ὀκτακοσίας , τὰ μὲν ἀφιστάμενα σφῶν , τὰ δὲ προσεπιλαμβάνοντες , ἐκρατύναντο . πρὸ δὲ τοῦ Μαρίου καὶ Φάβιος Μάξιμος ὁ Αἰμιλιανός , ὀλίγην κομιδῇ στρατιὰν ἔχων , ἐπολέμησε τοῖς Κελτοῖς , καὶ δώδεκα μυριάδας αὐτῶν ἐν μιᾷ μάχῃ κατέκανε , πεντεκαίδεκα μόνους τῶν ἰδίων ἀποβαλών . καὶ ταῦτα μέντοι ἔπραξε πιεζόμενος ὑπὸ τραύματος ὑπογυίου , καὶ τὰ τάγματα ἐπιὼν καὶ παραθαρρύνων , καὶ διδάσκων ὅπως τοῖς βαρβάροις πολεμητέον , τὰ μὲν ἐπʼ ἀπήνης φερόμενος , τὰ δὲ καὶ βάδην χειραγωγούμενος .\n3 Καῖσαρ δὲ πολεμήσας αὐτοῖς πρῶτον μὲν Ἑλουητίους καὶ Τιγυρίους ἀμφὶ τὰς εἴκοσι μυριάδας ὄντας ἐνίκησεν . οἱ Τιγύριοι δʼ αὐτῶν χρόνῳ ἔμπροσθεν Πίσωνος καὶ Κασσίου τινὰ στρατὸν ἑλόντες ὑπὸ ζυγὸν ἐξεπεπόμφεσαν , ὡς ἐν χρονικαῖς συντάξεσι δοκεῖ Παύλῳ τῷ Κλαυδίῳ . τοὺς μὲν οὖν Τιγυρίους ὑποστράτηγος αὐτοῦ Λαβιηνὸς ἐνίκησε , τοὺς δὲ ἄλλους ὁ Καῖσαρ , καὶ Τρικούρους ἀμύνοντας σφίσιν , ἔπειτα τοὺς μετʼ Ἀριοουίστου Γερμανούς , οἳ καὶ τὰ μεγέθη μείζους τῶν μεγίστων ὑπῆρχον καὶ τὸ ἦθος ἄγριοι καὶ τὴν τόλμαν θρασύτατοι , καὶ θανάτου καταφρονηταὶ διʼ ἐλπίδα ἀναβιώσεως , καὶ κρύος ὁμοίως ἔφερον θάλπει , καὶ πόᾳ ἐχρῶντο παρὰ τὰς ἀπορίας τροφῇ , καὶ ὁ ἵππος ξύλοις . ἦσαν δέ , ὡς ἔοικεν , οὐ φερέπονοι ἐν ταῖς μάχαις , οὐδὲ λογισμῷ ἢ ἐπιστήμῃ τινὶ ἀλλὰ θυμῷ χρώμενοι καθάπερ θηρία , διὸ καὶ ὑπὸ τῆς Ῥωμαίων ἐπιστήμης καὶ φερεπονίας ἡσσῶντο . οἱ μὲν γὰρ μετὰ ὁρμῆς βαρυτάτης ἐπεπήδων αὐτοῖς , καὶ ὅλην ὁμοῦ τὴν φάλαγγα ἀνεώθουν · Ῥωμαῖοι δʼ ὑπέμενον ἐν τάξει , καὶ κατεστρατήγουν αὐτούς , καὶ ὀκτακισμυρίους αὐτῶν τελευτῶντες ἀπέκτειναν .\n4 μετὰ τούτους ὁ Καῖσαρ τοῖς καλουμένοις Βέλγαις ἐπιπεσὼν ποταμόν τινα περῶσι , τοσούτους ἀπέκτεινεν ὡς τὸν ποταμὸν γεφυρωθέντα τοῖς σώμασι περᾶσαι . Νέρβιοι δὲ αὐτὸν ἐτρέψαντο , ἄρτι στρατόπεδον ἐξ ὁδοιπορίας κατασκευάζοντι αἰφνιδίως ἐπιπεσόντες , καὶ παμπόλλους ἐφόνευσαν , τοὺς δὲ ταξιάρχας καὶ λοχαγοὺς ἅπαντας · καὶ αὐτὸν ἐκεῖνον ἐς λόφον τινὰ μετὰ τῶν ὑπασπιστῶν πεφευγότα περιέσχον κύκλῳ . ὑπὸ δὲ τοῦ δεκάτου τάγματος αὐτοῖς ἐξόπισθεν ἐπιπεσόντος ἐφθάρησαν , ἑξακισμύριοι ὄντες . ἦσαν δὲ τῶν Κίμβρων καὶ Τευτόνων ἀπόγονοι . ἐκράτησε δὲ καὶ Ἀλλοβρίγων ὁ Καῖσαρ . Οὐσιπετῶν δὲ καὶ Ταγχαρέων τεσσαράκοντα μυριάδες , στρατεύσιμοί τε καὶ ἀστράτευτοι , συνεκόπησαν . Σούκαμβροι δὲ πεντακοσίοις ἱππεῦσι τοὺς πεντακισχιλίους ἱππεῖς τοῦ Καίσαρος ἔτρεψαν , ἐξαίφνης ἐπιπεσόντες , καὶ δίκην ἔδοσαν ἡττηθέντες μετὰ ταῦτα .\n5 ἐπέρασε καὶ τὸν Ῥῆνον πρῶτος Ῥωμαίων ὁ Καῖσαρ , καὶ ἐς τὴν Βρεττανίδα νῆσον , ἠπείρου τε μείζονα οὖσαν μεγίστης καὶ τοῖς τῇδε ἀνθρώποις ἄγνωστον ἔτι . ἐπέρασε δὲ κατὰ τὸν καιρὸν τῆς ἀμπώτεως · ἄρτι γὰρ τὸ πάθος ἥπτετο τῆς θαλάσσης , καὶ ὁ στόλος ἐσαλεύετο , ἠρέμα πρῶτον , εἶτα ὀξύτερον , μέχρι σὺν βιαίῳ τάχει διέπλευσεν ὁ Καῖσαρ ἐς τὴν Βρεττανίαν .",
+      "translation": "AN EPITOME OF APPIAN'S BOOK \"DE REBUS GALLICIS\"\n[*] 1 AT an early period the Gauls waged war against the [*] Romans , took Rome itself , except the Capitol , and burned it . Camillus , however , overcame and expelled them . At a later period , when they had made a second invasion , he overcame them again and enjoyed a triumph in consequence , being then in his eightieth year . A third army of Gauls which invaded Italy was destroyed by the Romans under Titus Quintius . Afterwards the Boii , the most savage of the Gallic tribes , attacked the Romans . Gaius Sulpicius , the dictator , marched against them , and is said to have used the following stratagem . He commanded those who were in the front line to discharge their javelins , and immediately crouch low ; then the second , third , and fourth lines to discharge theirs , each crouching in turn so that they should not be struck by the spears thrown from the rear ; then when the last line had hurled their javelins , all were to rush forward suddenly with a shout and join battle at close quarters . The hurling of so many missiles , followed by an immediate charge , would throw the enemy into confusion . The spears of the Gauls were not like javelins , but what the Romans called , four-sided , part wood and part iron , and not hard except at the pointed end . In this way the army of the Boii was completely destroyed by the Romans . [*]\n2\nAnother Gallic force was defeated by Popillius , and [*] after this Camillus , son of the former Camillus , defeated the same tribe . Afterwards AEmilius Pappus won some trophies from the Gauls . Shortly before the consulships of Marius a most numerous and warlike horde of Celtic tribes , most formidable in bodily strength , made incursions into both [*] Italy and Gaul , and defeated some of the Roman consuls , [*] and cut their armies in pieces . Marius was sent against them and he destroyed them all . The latest and greatest war of the Romans against the Gauls was that waged under the command of Cæsar , for , in the ten years that he held command there , he fought with more than 4 , 000 , 000 barbarians , taken all together . Of these 1 , 000 , 000 were captured and as many more slain in battle . He reduced to subjection 400 tribes and more than 800 towns , which had either revolted from their allegiance or were conquered for the first time . Even before Marius , Fabius Maximus AEmilianus with a very small army killed 120 , 000 of them in one battle , losing only fifteen of his own men ; and he did this although suffering from a recent wound , urging and encouraging his troops and showing them how to fight barbarians , now borne on a litter and now hobbling on foot leaning on the arms of others .\n3\nCæsar began his war against them by gaining a victory over some 200 , 000 of the Helvetii and Tigurini . The latter at an earlier period had captured a Roman army commanded by Piso and Cassius and sent them under the yoke , as is related in the writings of Paulus Claudius . The Tigurini [*] were now overcome by Labienus , Cæsar ' s lieutenant , and [*] the others by Cæsar himself , together with the Tricorii , who were aiding them . He also overcame the Germans under Ariovistus , a people who excelled all others , even the largest men , in size ; savage , the bravest of the brave , despising death because they believe they shall live hereafter , bearing heat and cold with equal patience , living on herbs in time of scarcity , and their horses browsing on trees . It seems that they were without patient endurance in their battles , and did not fight in a scientific way or in any regular order , but with a sort of high spirit simply made an onset like wild beasts , for which reason they were overcome by Roman science and endurance . For , although the Germans made a tremendous rush and pushed the legions back a short distance , the Romans kept their ranks unbroken , and outmanœuvred them , and eventually slew 800000 of them . [*]\n4\nAfterwards Cæsar fell upon the so-called Belgæ as they were crossing a river , and killed so many of them that he crossed the stream on a bridge of their bodies . The Nervii defeated him by falling suddenly upon his army as it [*] was getting itself into camp after a march . They made a very great slaughter , killing all of his tribunes and centurions . Cæsar himself took refuge on a hill with his bodyguard , and there he was surrounded by the enemy . The latter being assailed in the rear by the tenth legion were destroyed , although they were 60 , 000 in number . The Nervii were the descendants of the Cimbri and Teutones . [*] Cæsar conquered the Allobroges also . He slaughtered [*] 400 , 000 of the Usipetes and Tenchteri , armed and unarmed together . The Sicambri with 500 horse put to flight 5000 of Cæsar ' s horse , falling upon them unexpectedly . They subsequently paid the penalty for this in a defeat .\n5\nCæsar was also the first of the Romans to cross the Rhine . He also passed over to Britain , an island larger than a very large continent , and still unknown to the men of Rome . He crossed by taking advantage of the movement of the tide . As it rose the fleet was impelled by the waves , slowly at first , then more rapidly , until finally Cæsar was carried with great swiftness to Britain ."
+    },
+    {
+      "id": "II",
+      "label": "Section II",
+      "chapter": null,
+      "original": "ὅτι Ὀλυμπιάδων τοῖς Ἕλλησιν ἑπτὰ καὶ ἐνενήκοντα γεγενημένων , τῆς γῆς τῶν Κελτῶν οὐκ ἀρκούσης αὐτοῖς διὰ τὸ πλῆθος , ἀνίσταται μοῖρα Κελτῶν τῶν ἀμφὶ τὸν Ῥῆνον ἱκανὴ κατὰ ζήτησιν ἑτέρας γῆς · οἳ τό τε Ἄλπειον ὄρος ὑπερέβησαν , καὶ Κλουσίνοις , εὐδαίμονα γῆν ἔχουσι Τυρρηνῶν , ἐπολέμουν . οὐ πάλαι δὲ οἱ Κλουσῖνοι Ῥωμαίοις ἔνσπονδοι γεγονότες ἐπʼ αὐτοὺς κατέφυγον . καὶ οἱ Ῥωμαῖοι πρέσβεις συνέπεμψαν αὐτοῖς , Φαβίους τρεῖς , οἳ τοῖς Κελτοῖς ἔμελλον προαγορεύσειν ἀνίστασθαι τῆς γῆς ὡς Ῥωμαίων φίλης , καὶ ἀπειλήσειν ἀπειθοῦσιν . ἀποκριναμένων δὲ τῶν Κελτῶν ὅτι ἀνθρώπων οὐδένα δεδίασιν οὔτε ἀπειλοῦντα σφίσιν οὔτε πολεμοῦντα , χρῄζοντες δὲ γῆς οὔπω τὰ Ῥωμαίων πολυπραγμονοῦσιν , οἱ πρέσβεις οἱ Φάβιοι τοὺς Κλουσίνους ἐνῆγον ἐπιθέσθαι τοῖς Κελτοῖς τὴν χώραν λεηλατοῦσιν ἀπερισκέπτως . καὶ συνεκδημοῦντες αὐτοῖς ἀναιροῦσι τῶν Κελτῶν πολὺ πλῆθος ἐν προνομῇ , καὶ τὸν ἡγούμενον ἐκείνου τοῦ μέρους αὐτὸς ὁ Ῥωμαίων πρεσβευτὴς Κόιντος Φάβιος ἀνεῖλέ τε καὶ ἐσκύλευσε , καὶ τὰ ὅπλα φορῶν ἐπανῆλθεν ἐς Κλούσιον .\nυ. π. 349.",
+      "translation": "FROM \"THE EMBASSIES\" [*] In the 97th Olympiad , according to the Greek calendar , a considerable part of the Gauls who dwelt along the Rhine moved off in search of new land , that which they occupied being insufficient for their numbers . Having scaled the Alps they fell upon the territory of Clusium , a fertile part of Etruria . The Clusians had made a league with the Romans not long before , and now applied to them for aid . So the three Fabii were sent with the Clusians as ambassadors to the Gauls to order them to vacate the country that was in alliance with Rome , and to threaten them if they did not obey . The Gauls replied that they feared no mortal man in threat or war , that they were in need of land , and that they had not yet meddled with the affairs of the Romans . The Fabii urged the Clusians to make an attack upon the Gauls while they were heedlessly plundering the country . They took part in the expedition themselves and slew an immense number of the Gauls whom they caught foraging . Quintus Fabius , one of the Roman embassy , himself killed the chief of that band , stripped his body , and [*] carried his arms back to Clusium ."
+    },
+    {
+      "id": "III",
+      "label": "Section III",
+      "chapter": null,
+      "original": "ὅτι ὁ τῶν Κελτῶν βασιλεὺς Βρέννος , τῶν Φαβίων τῶν Ῥωμαίων πολλοὺς ἀνελόντων Κελτῶν , μὴ δεξάμενος τοὺς Ῥωμαίων πρέσβεις , ἐπὶ τούτοις πρέσβεις ἐπιλεξάμενος ἐς κατάπληξιν , οἳ Κελτῶν ἁπάντων μεγάλων τὰ σώματα ὄντων ὑπερέβαλλον , ἐξέπεμπεν ἐς Ῥώμην , αἰτιώμενος τοὺς Φαβίους ὅτι πρεσβεύοντες παρὰ τοὺς κοινοὺς νόμους ἐπολέμησαν . ᾔτει τε τοὺς ἄνδρας ἐς δίκην ἐκδότους οἱ γενέσθαι , εἰ μὴ θέλουσι Ῥωμαῖοι κοινὸν αὐτῶν εἶναι τὸ ἔργον . οἱ δὲ Ῥωμαῖοι συνεγίγνωσκον μὲν τοὺς Φαβίους ἁμαρτεῖν , αἰδοῖ δὲ οἴκου διαφέροντος χρήματα τοὺς Κελτοὺς πράξασθαι παρὰ σφῶν παρεκάλουν . οὐ πειθομένων δὲ χειροτονοῦσι τοὺς Φαβίους ἐπὶ τὴν ἐτήσιον ἀρχὴν χιλιάρχους , καὶ τοῖς πρεσβεύουσι τῶν Κελτῶν ἔφασαν οὐ δύνασθαι νῦν οὐδὲν ἐς τοὺς Φαβίους ἄρχοντας ἤδη . τοῦ δʼ ἐπιόντος ἔτους ἥκειν αὐτούς , ἂν ἔτι μηνίωσιν , ἐκέλευον . Βρέννος δὲ καὶ ὅσοι Κελτῶν ἦσαν ὑπʼ ἐκείνῳ , νομίσαντες ὑβρίσθαι καὶ χαλεπῶς ἐνεγκόντες ἐς τοὺς ἄλλους Κελτοὺς περιέπεμπον , ἀξιοῦντες αὐτοὺς συνεφάψασθαι τοῦδε τοῦ πολέμου . καὶ πολλῶν ἀφικομένων ἄραντες ἤλαυνον ἐπὶ τὴν Ῥώμην .\nιδ. π. 350.",
+      "translation": "FROM \"THE EMBASSIES\" After the Fabii had slain this large number of Gauls , Brennus , their king , though he had refused to recognize the Roman embassy , for the purpose of intimidating the Romans selected as ambassadors to them certain Gauls who exceeded all the others in bodily size as much as the Gauls exceeded other peoples , and sent them to Rome to complain that the Fabii , while serving as ambassadors , had joined in war against him , contrary to the law of nations . He demanded that they should be given up to him for punishment unless the Romans wished to make the crime their own . The Romans acknowledged that the Fabii had done wrong , but having great respect for that distinguished family , they urged the Gauls to accept a pecuniary compensation from them . As the latter refused , they elected the Fabii military tribunes for that year , and then said to the Gallic ambassadors that they could not do anything to the Fabii now because they were now holding office , but told them to come again next year if they were still in a bad humor . Brennus and the Gauls under him considered this an insult and took it hard . Accordingly they sent around to the other Gauls asking them to make common cause of war with them . When a large number had collected in obedience to this summons they broke camp and marched against Rome . [*]"
+    },
+    {
+      "id": "IV",
+      "label": "Section IV",
+      "chapter": null,
+      "original": "ὁ δὲ ὑφίσταται γράμματα διοίσειν διὰ τῶν ἐχθρῶν ἐς τὸ Καπιτώλιον .\nσυιδ. ϝ. ὑφίσταται.",
+      "translation": "FROM SUIDAS [*] He ( Cædicius ) promised to carry letters through the [*] enemy ' s ranks to the Capitol ."
+    },
+    {
+      "id": "V",
+      "label": "Section V",
+      "chapter": null,
+      "original": "ὅτι Καιδίκιος γράμμα φέρων ἀπὸ τῆς βουλῆς περὶ τῆς ὑπάτου ἀρχῆς , παρεκάλει τὸν Κάμιλλον μηδὲν ἐν τῷ παρόντι μηνῖσαι τῇ πατρίδι τῆς ζημίας . ὁ δὲ ἐπισχὼν αὐτὸν ἔτι λέγοντα εἶπεν , οὐκ ἂν ηὐξάμην ἐπιποθῆσαί με Ῥωμαίους , εἰ τοιαύτην ἤλπισα τὴν ἐπιπόθησιν αὐτοῖς ἔσεσθαι . νῦν δὲ δικαιοτέραν εὐχὴν εὔχομαι , γενέσθαι τῇ πατρίδι χρήσιμος ἐς τοσοῦτον ἀγαθοῦ ἐς ὅσον κακοῦ περιελήλυθεν .\nϝαλ. π. 557.",
+      "translation": "FROM PEIRESC When Cædicius bore the decree of the Senate to Camillus , by which he was made consul , he exhorted him not to lay up against his country the injury it had done him . The latter , interrupting him , said : \" I could not have prayed to the gods that the Romans might some time long for me if I had cherished any such feeling as that towards them . Now I pray the nobler prayer that I may render my country a service equal to the calamity that has befallen her .\""
+    },
+    {
+      "id": "VI",
+      "label": "Section VI",
+      "chapter": null,
+      "original": "ὅτι Κελτοὶ μηδεμιᾷ μηχανῇ δυνηθέντες ἐπιβῆναι τῆς ἀκροπόλεως , ἠρέμουν ὡς λιμῷ τοὺς ἔνδον παραστησόμενοι . καί τις ἀπὸ τοῦ Καπιτωλίου κατέβαινεν ἱερεύς , ὄνομα Δόρσων , ἐπὶ ἐτήσιον δή τινα ἱερουργίαν ἐς τὸν τῆς Ἑστίας νεὼν στέλλων τὰ ἱερὰ διὰ τῶν πολεμίων , αἰδεσθέντων ἢ καταπλαγέντων αὐτοῦ τὴν τόλμαν ἢ τὴν εὐσέβειαν , ἢ τὴν ὄψιν ἱερὰν οὖσαν . ὁ μὲν δὴ κινδυνεύειν ὑπὲρ τῶν ἱερῶν ἑλόμενος ὑπʼ αὐτῶν ἐσώζετο τῶν ἱερῶν . καὶ τόδε φησὶν ὧδε γενέσθαι Κάσσιος ὁ Ῥωμαῖος .\nιδ. ιβ.",
+      "translation": "FROM PEIRESC When the Gauls could find no means for scaling the Capitol they remained quietly in camp in order to reduce the defenders by famine . A certain priest named Dorso went down from the Capitol to make a certain yearly sacrifice in the temple of Vesta , and passed safely , with the sacred utensils , through the ranks of the enemy , who were either awed by his courage or had respect for his piety and his venerable appearance . Thus he who had incurred danger for the sake of his holy office was saved by it . That this event occurred , as related , the Roman writer Cassius tells us . [*]"
+    },
+    {
+      "id": "VII",
+      "label": "Section VII",
+      "chapter": null,
+      "original": "τοῦ δὲ οἴνου καὶ τῶν ἄλλων ἄδην ἐνεπίμπλαντο οἱ Κελτοί , τήν τε φύσιν ὄντες ἀκρατεῖς , καὶ χώραν ἔχοντες , ὅτι μὴ πρὸς δημητριακοὺς καρπούς , τῶν ἄλλων ἄγονον καὶ ἀφυᾶ . τά τε σώματα αὐτοῖς μεγάλα ὄντα καὶ τρυφηλὰ καὶ σαρκῶν ὑγρῶν μεστὰ ὑπὸ τῆς ἀδηφαγίας καὶ μέθης ἐς ὄγκον καὶ βάρος ἐξεχεῖτο , καὶ πρὸς δρόμους καὶ πόνους ἀδύνατα πάμπαν ἐγίγνετο · ὑπό τε ἱδρῶτος καὶ ἄσθματος , ὅπου τι δέοι κάμνειν , ἐξελύοντο ταχέως .\nιδ. ιβ. ετ ηινξ συιδ. ϝ. ἄδην.",
+      "translation": "FROM SUIDAS AND PEIRESC The Gauls filled themselves to repletion with wine and other luxuries , being intemperate by nature , and inhabiting a country which yielded only cereals , and was unfruitful and destitute of other productions . Thus their large bodies became delicate , distended with fatness , and heavy by reason of excessive eating and drinking , and quite incapable of running or hardship ; and when any exertion was required of them they speedily became exhausted by perspiration and shortness of breath ."
+    },
+    {
+      "id": "VIII",
+      "label": "Section VIII",
+      "chapter": null,
+      "original": "οὓς γυμνοὺς ἐπεδείκνυε Ῥωμαίοις , οὗτοί εἰσιν οἱ τὴν βοὴν βαρεῖαν ἱέντες ὑμῖν ἐν ταῖς μάχαις καὶ τὰ ὅπλα παταγοῦντες καὶ ξίφη μακρὰ καὶ κόμας αἰωροῦντες . ὧν τὸ ἄτολμον ὁρῶντες , καὶ τὸ σῶμα μαλακὸν καὶ ἄτονον , προσίεσθε τῷ ἔργῳ .\nσυιδ. ϝ. ἱέντες.",
+      "translation": "FROM SUIDAS He ( Camillus ) showed them naked to the Romans and said : \" These are the creatures who assail you with such terrible shouts in battle , and clash their arms and shake their long swords and toss their hair . Behold their weakness of soul , their slothfulness and flabbiness of body , and gird yourselves to your work .\""
+    },
+    {
+      "id": "IX",
+      "label": "Section IX",
+      "chapter": null,
+      "original": "τὸν δὲ δῆμον ἀπὸ τοῦ τείχους ὁρᾶν , καὶ τοῖς πονουμένοις ἑτέρους νεαλεῖς ἐπιπέμπειν ἀεί . οἱ δὲ Κελτοὶ κεκμηκότες ἀκμῆσι συμπλεκόμενοι ἔφευγον ἀτάκτως .\nιδ. ϝ. νεαλής.",
+      "translation": "FROM THE SAME [*] The people beheld the battle from the walls , and constantly [*] sent fresh troops to take the place of the tired ones . But the tired Gauls having to engage with fresh opponents took to disorderly flight ."
+    },
+    {
+      "id": "X",
+      "label": "Section X",
+      "chapter": null,
+      "original": "ὁ δὲ Κελτὸς ἀγανακτῶν καὶ λιφαιμῶν ἐδιωκε τὸν Οὐαλέριον , συγκαταπεσεῖν ἐπειγομενος · ὑπὸ δὲ τοὺς πόδας ἀναχωροῦντος ἀεὶ τοῦ Οὐαλερίου κατέπεσε πρηνὴς ὁ Κελτός . καὶ δεύτερον τοῦτο μονομάχιον ἐπὶ Κελτοῖς ἐμεγαλαύχουν οἱ Ῥωμαῖοι .\nιδ. ϝ. λιφαιμεῖ.",
+      "translation": "FROM THE SAME [*] The Gaul , furious and exhausted with loss of blood , [*] pursued Valerius , hastening in order to grapple with him . As Valerius was all the time dodging just in front of him , the Gaul fell headlong . The Romans felicitated themselves on this second single combat with the Gauls ."
+    },
+    {
+      "id": "XI",
+      "label": "Section XI",
+      "chapter": null,
+      "original": "ὅτι τὸ τῶν Σενόνων ἔθνος ἔνσπονδον ἦν Ῥωμαίοις , καὶ ἐμισθοφόρουν κατὰ Ῥωμαίων . ἡ δὲ βουλὴ πρέσβεις ἔπεμψεν ἐγκαλέσοντας ὅτι ὄντες ἔνσπονδοι μισθοφοροῦσι κατὰ Ῥωμαίων . τούτους Βριτόμαρις ὁ Κελτός , ἀγανακτῶν ὑπὲρ τοῦ πατρὸς ὅτι συμμαχῶν Τυρρηνοῖς ὑπὸ Ῥωμαίων ἐν τῷδε τῷ πολέμῳ διέφθαρτο , τά τε κηρύκεια φέροντας καὶ τὴν ἄσυλον ἐσθῆτα περικειμένους κατέτεμεν ἐς πολλά , καὶ τὰ μέρη τῶν σωμάτων διέρριψεν ἐς τὰ πεδία . καὶ τοῦ μύσους ὁ Κορνήλιος ἐν ὁδῷ πυθόμενος , ἐς τὰς Σενόνων πόλεις συντόνῳ σπουδῇ διὰ Σαβίνων καὶ Πικεντίνων ἐσβαλὼν ἅπαντα καθῄρει καὶ ἐνεπίμπρη , τῶν τε ἀνθρώπων τὰς μὲν γυναῖκας καὶ τὰ παιδία ἠνδραποδίζετο , τοὺς δὲ ἐν ἥβῃ πάντας ἔκτεινεν ὁμαλῶς , καὶ τὴν χώραν ἐλυμαίνετο ποικίλως καὶ ἄοικον ἐς τὸ λοιπὸν ἐποίει . Βριτόμαριν δὲ μόνον ἦγεν αἰχμάλωτον ἐπὶ λύμῃ . ὕστερον δὲ Σένονες οὐκ ἔχοντες ἔτι πατρίδας ἐς ἃς διαφύγωσι , συνέπεσον ἐς χεῖρας ὑπὸ τόλμης τῷ Δομετίῳ , καὶ ἡττώμενοι σφᾶς αὐτοὺς ὑπʼ ὀργῆς διεχρῶντο μανικῶς . καὶ δίκη μὲν ἥδε παρανομίας ἐς πρέσβεις ἐγένετο Σένοσιν .\nυ. π. 350.",
+      "translation": "FROM \"THE EMBASSIES\" [*] The Senones , although they had a treaty with the Romans , nevertheless furnished mercenaries against them , wherefore the Senate sent an embassy to them to remonstrate against this infraction of the treaty . Britomaris , the Gaul , being incensed against them on account of his father , who had been killed by the Romans while fighting on the side of the Etruscans in this very war , slew the ambassadors while they held the caduceus in their hands , and wore the garments of their office . He then cut their bodies in small pieces and scattered them in the fields . The consul Cornelius , learning of this abominable deed while he was on the march , moved with great speed against the towns of the Senones by way of the Sabine country and Picenum , and ravaged them all with fire and sword . He reduced the women and children to slavery , killed all the adult males without exception , devastated the country in every possible way , and made it uninhabitable for anybody else . He carried off Britomaris alone as a prisoner for torture . A little later the Senones ( who were serving as mercenaries ), having no longer any homes to return to , fell boldly upon the consul Domitius , and being [*] defeated by him killed themselves in despair . Such punishment was meted out to the Senones for their crime against the ambassadors . [*]"
+    },
+    {
+      "id": "XII",
+      "label": "Section XII",
+      "chapter": null,
+      "original": "ὅτι οἱ Σαλύων δυνάσται , τοῦ ἔθνους ἡττηθέντος ὑπὸ Ῥωμαίων , ἐς Ἀλλόβριγας κατέφυγον . καὶ αὐτοὺς ἐξαιτοῦντες οἱ Ῥωμαῖοι στρατεύουσιν ἐπὶ τοὺς Ἀλλόβριγας οὐκ ἐκδιδόντας , ἡγουμένου σφῶν Γναίου Δομετίου . ᾧ παροδεύοντι τὴν τῶν Σαλύων ἐντυγχάνει πρεσβευτὴς Βιτοίτου βασιλέως τῶν Ἀλλοβρίγων , ἐσκευασμένος τε πολυτελῶς , καὶ δορυφόροι παρείποντο αὐτῷ κεκοσμημένοι καὶ κύνες · δορυφοροῦνται γὰρ δὴ καὶ πρὸς κυνῶν οἱ τῇδε βάρβαροι . μουσικός τε ἀνὴρ εἵπετο , βαρβάρῳ μουσικῇ τὸν βασιλέα Βιτοῖτον , εἶτʼ Ἀλλόβριγας , εἶτα τὸν πρεσβευτὴν αὐτὸν ἔς τε γένος καὶ ἀνδρείαν καὶ περιουσίαν ὑμνῶν · οὗ δὴ καὶ μάλιστα ἕνεκα αὐτοὺς οἱ τῶν πρεσβευτῶν ἐπιφανεῖς ἐπάγονται . ἀλλʼ ὁ μὲν συγγνώμην αἰτῶν τοῖς Σαλύων δυνάσταις ἀπέτυχεν .\nιδ. π. 351.",
+      "translation": "FROM \"THE EMBASSIES\" [*] The chiefs of the Salyi , a nation vanquished by the Romans , [*] took refuge with the Allobroges . When the Romans asked for their surrender and it was refused , they made war on the Allobroges , under the leadership of Cnæus Domitius . When he was passing through the territory of the Salyi , an ambassador of Bituitus , king of the Allobroges , met him , arrayed magnificently and followed by attendants likewise arrayed , and also by dogs ; for the barbarians of this region use dogs also as body-guards . A musician was in the train who sang in barbarous fashion the praises of King Bituitus , and then of the Allobroges , and then of the ambassador himself , celebrating his birth , his bravery , and his wealth ; for which reason chiefly their illustrious ambassadors usually take such persons along with them . But this one , although he begged pardon for the chiefs of the Salyi , accomplished nothing ."
+    },
+    {
+      "id": "XIII",
+      "label": "Section XIII",
+      "chapter": null,
+      "original": "ὅτι τῶν Τευτόνων μοῖρα λῃστεύουσα πολύανδρος ἐς τὴν γῆν τῶν Νωρικῶν ἐσέβαλε , καὶ ὁ Ῥωμαίων ὕπατος Παπίριος Κάρβων δείσας μὴ ἐς τὴν Ἰταλίαν ἐσβάλοιεν , ἐφήδρευε τοῖς Ἀλπείοις , ᾗ μάλιστά ἐστιν ἡ διάβασις στενωτάτη . οὐκ ἐπιχειρούντων δʼ ἐκείνων αὐτὸς ἐπέβαινεν αὐτοῖς , αἰτιώμενος ἐς Νωρικοὺς ἐσβαλεῖν , Ῥωμαίων ξένους ὄντας · ἐποιοῦντο δʼ οἱ Ῥωμαῖοι ξένους , οἷς ἐδίδοσαν μὲν εἶναι φίλοις , ἀνάγκη δʼ οὐκ ἐπῆν ὡς φίλοις ἐπαμύνειν . οἱ μὲν δὴ Τεύτονες πλησιάζοντι τῷ Κάρβωνι προσέπεμπον ἀγνοῆσαί τε τὴν ἐς Ῥωμαίους Νωρικῶν ξενίαν , καὶ αὐτῶν ἐς τὸ μέλλον ἀφέξεσθαι · ὁ δʼ ἐπαινέσας τοὺς πρέσβεις , καὶ δοὺς αὐτοῖς ὁδῶν ἡγεμόνας , κρύφα τοῖς ἡγουμένοις ἐνετείλατο μακροτέραν αὐτοὺς περιάγειν . τῇ βραχυτέρᾳ δὲ αὐτὸς διαδραμών , ἀδοκήτως ἀναπαυομένοις ἔτι τοῖς Τεύτοσιν ἐμπεσών , ἔδωκε δίκην ἀπιστίας , πολλοὺς ἀποβαλών . τάχα δʼ ἂν καὶ πάντας ἀπώλεσεν , εἰ μὴ ζόφος καὶ ὄμβρος καὶ βρονταὶ βαρεῖαι , τῆς μάχης ἔτι συνεστώσης ἐπιπεσοῦσαι , διέστησαν αὐτοὺς ἀπʼ ἀλλήλων , καὶ ὁ ἀγὼν ὑπὸ τῆς ἄνωθεν ἐκπλήξεως διελύθη . σποράδες δὲ καὶ ὣς ἐς ὕλας οἱ Ῥωμαῖοι διαφυγόντες , τρίτῃ μόλις ἡμέρᾳ συνῆλθον . καὶ Τεύτονες ἐς Γαλάτας ἐχώρουν .\nιδ. π. 352.",
+      "translation": "FROM \"THE EMBASSIES\" [*] A numerous band of the Teutones bent on plunder invaded the territory of Noricum . The Roman consul , Papirius Carbo , fearing lest they should make an incursion into Italy , occupied the Alps at a place where the pass is narrowest . As they made no attempt in this direction he attacked them , complaining that they had invaded the people of Noricum , who were foreign friends of the Romans . It was the practice of the Romans to make foreign friends of any people for whom they wanted to intervene on the score of friendship , without being obliged to defend them as allies . As Carbo was approaching , the Teutones sent word to him that they had not known anything about this relationship between Rome and Noricum , and that for the future they would keep hands off . He praised the ambassadors , and gave them guides for their homeward journey , but privately charged the guides to take them by a longer route . He himself then marched by [*] a shorter one and fell unexpectedly upon the Teutones , though they were still desisting [*]"
+    },
+    {
+      "id": "XIV",
+      "label": "Section XIV",
+      "chapter": null,
+      "original": "ὁ δὲ τοῖς σώμασι τῶν Κίμβρων ἀψαυστεῖν ἐκέλευεν , ἕως ἡμέρα γένγται , πολύχρυσα εἶναι δοκῶν .\nσυιδ. ϝϝ. ἀψαύστως ετ Κίμβρος.",
+      "translation": "FROM SUIDAS He ordered them to leave the bodies of the Cimbri intact till daylight because he believed they were adorned with gold ."
+    },
+    {
+      "id": "XV",
+      "label": "Section XV",
+      "chapter": null,
+      "original": "ὅτι ἔθνη δύο Τιγύριοι καὶ Ἑλουήτιοι ἐς τὴν Ῥωμαίων Κελτικὴν ἐσέβαλον , καὶ τούτων τὸν στόλον ὁ Καῖσαρ Γάϊος πυθόμενος διετείχισεν ὅσα περὶ Ῥοδανόν ἐστι ποταμὸν ἐς ἑκατὸν καὶ πεντήκοντα σταδίους μάλιστα . καὶ πρεσβευσαμένοις ἐπὶ διαπείρᾳ τοῖς πολεμίοις ὑπὲρ σπονδῶν ἐκέλευεν ὅμηρα δοῦναι καὶ χρήματα . ἀποκριναμένων δʼ εἰθίσθαι ταῦτα λαμβάνειν , οὐ διδόναι , βουλόμενος φθάσαι τὴν ὁμαιχμίαν αὐτῶν , ἐπὶ μὲν τοὺς Τιγυρίους ἐλάσσους ὄντας ἔπεμπε Λαβιηνόν , αὐτὸς δὲ ἐπὶ τοὺς Ἑλουητίους ἐχώρει , προσλαβὼν Γαλατῶν τῶν ὀρείων ἐς δισμυρίους . καὶ γίγνεται Λαβιηνῷ τὸ ἔργον εὐμαρές , ἀδοκήτοις Τιγυρίοις περὶ τὸν ποταμὸν ἐπιπεσόντι , καὶ τρεψαμένῳ καὶ σκεδάσαντι τοὺς πολλοὺς ἐν ἀσυνταξίᾳ .\nυ. π. 352.",
+      "translation": "FROM \"THE EMBASSIES\" [*] Two nations , the Tigurini and the Helvetii , made an incursion [*] into the Roman province of Gaul . When Cæsar heard of this movement he built a wall along the river Rhone about a hundred and fifty stades in length to intercept them . When they sent ambassadors to him to endeavor to make a treaty , he ordered them to give him hostages and money . They replied that they were accustomed to receive these things , not to give them . As he wished to prevent them [*]"
+    },
+    {
+      "id": "XVI",
+      "label": "Section XVI",
+      "chapter": null,
+      "original": "ὅτι Ἀριόουιστος , Γερμανῶν βασιλεὺς τῶν ὑπὲρ Ῥῆνον , ἐπιβαίνων τῆς πέραν Αἰδούοις ἔτι πρὸ τοῦ Καίσαρος ἐπολέμει φίλοις οὖσι Ῥωμαίων . τότε μὲν δή , τοῖς Ῥωμαίοις κελεύουσι πεισθείς , ἀνέζευζεν ἀπὸ τῶν Αἰδούων , καὶ φίλος ἠξίωσε Ῥωμαίοις γενέσθαι . καὶ ἐγένετο , ὑπατεύοντος αὐτοῦ Καίσαρος καὶ ψηφισαμένου .\nιδ. π. 353.",
+      "translation": "FROM \"THE EMBASSIES\" [*] Ariovistus , the king of the Germans beyond the Rhine , [*] crossed to this side before Cæsar ' s arrival and made war against the AEdui , who were friends of the Romans . But when the Romans commanded him to desist , he obeyed and moved away from AEdui and desired to be accounted a friend of the Roman people also , and this was granted , Cæsar being consul and voting for it ."
+    },
+    {
+      "id": "XVII",
+      "label": "Section XVII",
+      "chapter": null,
+      "original": "ὅτι Ἀριόουιστος ὁ Γερμανῶν βασιλεύς , φίλος γενόμενος Ῥωμαίων , ἐς λόγους ἦλθε τῷ Καίσαρι , καὶ διαχωρισθέντων ἀπʼ ἀλλήλων αὖθις συνελθεῖν ἐς λόγους ἠξίωσεν . τοῦ δὲ Καίσαρος οὐ συνελθόντος , ἀλλὰ τοὺς πρωτεύοντας Γαλατῶν ἀποστείλαντος , ἔδησε τοὺς πρέσβεις . καὶ ὁ Καῖσαρ ἐστράτευεν ἐπʼ αὐτὸν μετʼ ἀπειλῆς . δέος δʼ ἐμπίπτει τῷ στρατῷ κατὰ κλέος τῶν Γερμανῶν .\nιδ. ιβ.",
+      "translation": "FROM \"THE EMBASSIES\" Ariovistus , the king of the Germans , who had been voted a friend of the Roman people , came to Cæsar to have a colloquy . After they had separated he wished to have another . Cæsar refused it , but sent some of the leading men of the Gauls to meet him . Ariovistus cast them in chains , wherefore Cæsar threatened him and made war on him , but fear fell upon the army on account of the military reputation of the Germans . [*]"
+    },
+    {
+      "id": "XVIII",
+      "label": "Section XVIII",
+      "chapter": null,
+      "original": "ὅτι Οὐσιπέται , ἔθνος Γερμανικόν , καὶ Ταγχρέαι δοκοῦσι πρότεροι σφετέροις ἱππεῦσιν ὀκτακοσίοις τρέψασθαι τῶν Καίσαρος ἱππέων ἐς πεντακισχιλίους , ὁ δὲ Καῖσαρ αὐτοῖς πρεσβευομένοις ἐς αὐτὸν ἐπιθέσθαι , τοὺς πρέσβεις κατασχών , καὶ τὸ πάθος ἐκείνοις ἐς τέλος αἰφνίδιον οὕτω συνενεχθῆναι ὡς τεσσαράκοντα μυριάδας τούτων συγκοπῆναι . Κάτωνά τε ἐν Ῥώμῃ τῶν τις συγγραφέων φησὶ γνώμην ἐσενεγκεῖν , ἐκδοῦναι τοῖς βαρβάροις τὸν Καίσαρα ὡς ἐναγὲς ἔργον ἐς διαπρεσβευσαμένους ἐργασάμενον . ὁ δὲ Καῖσαρ ἐν ταῖς ἰδίαις ἀναγραφαῖς τῶν ἐφημέρων ἔργων φησὶ τοὺς Οὐσιπέτας καὶ Ταγχρέας κελευομένους ἐκπηδᾶν ἐς τὰ ἀρχαῖα σφῶν , φάναι πρέσβεις ἐς τοὺς ἐκβαλόντας Σουήβους ἀπεσταλκέναι καὶ τὰς ἀποκρίσεις αὐτῶν ἀναμένειν , καὶ ἐν ταῖσδε ταῖς διαπρεσβεύσεσιν ἐπιθέσθαι τοῖς ὀκτακοσίοις , καὶ παρʼ αὐτὸ τρέψαι τοὺς Ῥωμαίων πεντακισχιλίους . ἐπιπρεσβευομένων δʼ αὐτῶν καὶ περὶ τοῦ παρασπονδήματος ἀπολογουμένων , ὑποτοπήσας ἐνέδραν ὁμοίαν , ἐπιθέσθαι πρὸ τῶν ἀποκρίσεων .\nιδ. ιβ.",
+      "translation": "FROM \"THE EMBASSIES\" [*] It is believed that the Usipetes and the Tenchteri , German tribes , with 800 of their own horse , put to flight about 5000 of Cæsar ' s horse . When they sent ambassadors to Cæsar he held them as prisoners and made an attack on them , and took them so completely by surprise that 400 , 000 of them were cut to pieces . One writer says that Cato in the Roman Senate proposed that Cæsar should be surrendered to the barbarians for this deed of blood perpetrated while negotiations were pending . But Cæsar in his own diary says that when the Usipetes and Tenchteri were ordered to go back forthwith to their former homes , they replied that they had sent ambassadors to the Suevi , who had driven them away , and that they were waiting for their answer ; that while these negotiations were pending , they set upon his men with 800 of their horse , and by the suddenness of the attack put to flight his 5000 ; and that when they sent another embassy to explain this violation of good faith he suspected a similar deception , and made his attack before [*] giving his answer . [*]"
+    },
+    {
+      "id": "XIX",
+      "label": "Section XIX",
+      "chapter": null,
+      "original": "εὐθὺς ἠρέθιζον τοὺς Βρεττανοὺς παρορκῆσαι , ἔγκλημα ἔχοντας ὅτι σπονδῶν σφίσι γενομένων ἔτι παρῆν τὸ στρατόπεδον .\nσυιδ. ϝ. παρορκῆσαι.",
+      "translation": "FROM SUIDAS Straightway they stirred up the Britons to violate the oath , complaining that while a treaty with them was in force the camp was still among them ."
+    },
+    {
+      "id": "XX",
+      "label": "Section XX",
+      "chapter": null,
+      "original": "δείσας ὁ Καῖσαρ περὶ τῷ Κικέρωνι ὑπέστρεφεν εἰς τοὐπίσω .\nιδ. ϝ. δείσαντες.",
+      "translation": "FROM SUIDAS [*] Cæsar apprehending an attack on [ Quintus ] Cicero turned [*] back . [*]"
+    },
+    {
+      "id": "XXI",
+      "label": "Section XXI",
+      "chapter": null,
+      "original": "ὅτι ὁ Βριτόρης διέφθειρεν Αἰδούους Ῥωμαίων ἀποστῆναι , καὶ τοῦ Καίσαρος ὀνειδίσαντος αὐτοῖς φιλίαν ἔφασαν παλαιὰν ἐφθακέναι .\nμαι, σξριπτορυμ ϝετερυμ νοϝ. ξολλεξτ. τ. 2 π. 367.",
+      "translation": "FROM THE VATICAN MSS. OF CARDINAL MAI\nBritores seduced the AEdui from their Roman allegiance . When Cæsar reproached them for this , they said that an ancient alliance had the precedence .\n[ Here follow two fragments of only three words each .]"
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": "sicily-and-the-other-islands-19rm5a"
+}

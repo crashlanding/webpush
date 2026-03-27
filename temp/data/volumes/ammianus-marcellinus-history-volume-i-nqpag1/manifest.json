@@ -1,0 +1,61 @@
+{
+  "loebNumber": 300,
+  "sortOrder": 300,
+  "slug": "ammianus-marcellinus-history-volume-i-nqpag1",
+  "title": "History, Volume I",
+  "volumeLabel": "History, Volume I",
+  "authorDisplay": "Ammianus Marcellinus",
+  "authors": [
+    "Ammianus Marcellinus"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for History, Volume I. History, Volume I currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "history-volume-i-gpysi3",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "history-volume-i-gpysi3",
+      "title": "History, Volume I",
+      "status": "ready",
+      "sectionCount": 87,
+      "chunkSlug": "history-volume-i-gpysi3",
+      "chunks": [
+        {
+          "slug": "history-volume-i-gpysi3",
+          "label": "History, Volume I",
+          "partId": "history-volume-i-gpysi3",
+          "partTitle": "History, Volume I",
+          "sectionCount": 87,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "history-volume-i-gpysi3",
+      "label": "History, Volume I",
+      "partId": "history-volume-i-gpysi3",
+      "partTitle": "History, Volume I",
+      "sectionCount": 87,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "history-volume-i-gpysi3",
+      "partTitle": "History, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Res Gestae",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:stoa0023.stoa001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "History",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:stoa0023.stoa001.perseus-eng2/"
+      }
+    }
+  ]
+}

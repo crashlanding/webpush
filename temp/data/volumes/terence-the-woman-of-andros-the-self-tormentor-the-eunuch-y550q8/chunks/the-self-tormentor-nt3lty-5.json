@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "terence-the-woman-of-andros-the-self-tormentor-the-eunuch-y550q8",
+  "volumeTitle": "The Woman of Andros. The Self-Tormentor. The Eunuch",
+  "authorDisplay": "Terence",
+  "authors": [
+    "Terence"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-self-tormentor-nt3lty-5",
+  "label": "The Self-Tormentor (Section 2.3.380d - Section 3.1.469b)",
+  "partId": "the-self-tormentor-nt3lty",
+  "partTitle": "The Self-Tormentor",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Heautontimorumenos",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi002.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Heautontimorumenos; or, The Self-Tormenter",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi002.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "2.3.380d",
+      "label": "Section 2.3.380d",
+      "chapter": null,
+      "original": "Ambula .",
+      "translation": "Take yourself off ."
+    },
+    {
+      "id": "2.4.381",
+      "label": "Section 2.4.381",
+      "chapter": null,
+      "original": "Edepol te , mea Antiphila , laudo et fortunatam iudico ,",
+      "translation": "Upon my word , my dear Antiphila , I commend you , and think you fortunate in having made it your study that your manners should be conformable to those good looks of yours : and so may the Gods bless me , I do not at all wonder if every man is in love with you . For your discourse has been a proof to me what kind of disposition you possess ."
+    },
+    {
+      "id": "2.4.385",
+      "label": "Section 2.4.385",
+      "chapter": null,
+      "original": "Et quum egomet nunc mecum in animo vitam tuam considero ,",
+      "translation": "And when now I reflect in my mind upon your way of life , and that of all of you , in fact , who keep the public at a distance from yourselves , it is not surprising both that you are of that disposition , and that we are not ; for it is your interest to be virtuous ; those , with whom we are acquainted , will not allow us to be so . For our lovers , allured merely by our beauty , court us for that ;"
+    },
+    {
+      "id": "2.4.390",
+      "label": "Section 2.4.390",
+      "chapter": null,
+      "original": "Haec ubi immutata est , illi suum animum alio conferunt .",
+      "translation": "when that has faded , they transfer their affections elsewhere ; and unless we have made provision in the mean time for the future , we live in destitution . Now with you , when you have once resolved to pass your life with one man whose manners are especially kindred to your own , those persons [*] become attached to you . By this kindly feeling , you are truly devoted to each other ;"
+    },
+    {
+      "id": "2.4.395",
+      "label": "Section 2.4.395",
+      "chapter": null,
+      "original": "Ut numquam ulla amori vestro incidere possit calamitas .",
+      "translation": "and no calamity can ever possibly interrupt your love ."
+    },
+    {
+      "id": "2.4.396",
+      "label": "Section 2.4.396",
+      "chapter": null,
+      "original": "Nescio alias : me quidem semper scio fecisse sedulo",
+      "translation": "I know nothing about other women : I ’ m sure that I have , indeed , always used every endeavor to derive my own happiness from his happiness ."
+    },
+    {
+      "id": "2.4.397b",
+      "label": "Section 2.4.397b",
+      "chapter": null,
+      "original": "Ah !",
+      "translation": "Ah ! ’ tis for that reason , my Antiphila , that you alone have now caused me to return to my native country ; for while I was absent from you , all other hardships which I encountered were light to me ,"
+    },
+    {
+      "id": "2.4.400",
+      "label": "Section 2.4.400",
+      "chapter": null,
+      "original": "Praeterquam tui carendum quod erat .",
+      "translation": "save the being deprived of you ."
+    },
+    {
+      "id": "2.4.400b",
+      "label": "Section 2.4.400b",
+      "chapter": null,
+      "original": "Credo .",
+      "translation": "I believe it ."
+    },
+    {
+      "id": "2.4.400c",
+      "label": "Section 2.4.400c",
+      "chapter": null,
+      "original": "Syre , vix suffero .",
+      "translation": "Syrus , I can scarce endure it ! [*] Wretch that I am , that I should not be allowed to possess one of such a disposition at my own discretion !"
+    },
+    {
+      "id": "2.4.402",
+      "label": "Section 2.4.402",
+      "chapter": null,
+      "original": "Immo , ut patrem tuum vidi esse habitum , diu etiam duras dabit .",
+      "translation": "Nay , so far as I understand your father , he will for a long time yet be giving you a hard task ."
+    },
+    {
+      "id": "2.4.403",
+      "label": "Section 2.4.403",
+      "chapter": null,
+      "original": "Quisnam hic adolescens est qui intuitur nos ?",
+      "translation": "Why , who is that young man that ’ s looking at us ?"
+    },
+    {
+      "id": "2.4.403b",
+      "label": "Section 2.4.403b",
+      "chapter": null,
+      "original": "Ah , retine me , obsecro .",
+      "translation": "Ah ! do support me , I entreat you !"
+    },
+    {
+      "id": "2.4.404",
+      "label": "Section 2.4.404",
+      "chapter": null,
+      "original": "Amabo , quid tibi est ?",
+      "translation": "Prithee , what is the matter with you ?"
+    },
+    {
+      "id": "2.4.404b",
+      "label": "Section 2.4.404b",
+      "chapter": null,
+      "original": "Disperii , perii misera .",
+      "translation": "I shall die , alas ! I shall die !"
+    },
+    {
+      "id": "2.4.404c",
+      "label": "Section 2.4.404c",
+      "chapter": null,
+      "original": "Quid stupes ,",
+      "translation": "Why are you thus surprised , Antiphila ?"
+    },
+    {
+      "id": "2.4.405b",
+      "label": "Section 2.4.405b",
+      "chapter": null,
+      "original": "Videon Cliniam an non ?",
+      "translation": "Is it Clinia that I see , or not ?"
+    },
+    {
+      "id": "2.4.405c",
+      "label": "Section 2.4.405c",
+      "chapter": null,
+      "original": "Quem vides ?",
+      "translation": "Whom do you see ?"
+    },
+    {
+      "id": "2.4.406",
+      "label": "Section 2.4.406",
+      "chapter": null,
+      "original": "Salve , anime mi .",
+      "translation": "Blessings on you , my life !"
+    },
+    {
+      "id": "2.4.406b",
+      "label": "Section 2.4.406b",
+      "chapter": null,
+      "original": "O mi exspectate , salve .",
+      "translation": "Oh my long-wished for Clinia , blessings on you !"
+    },
+    {
+      "id": "2.4.406c",
+      "label": "Section 2.4.406c",
+      "chapter": null,
+      "original": "Ut vales ?",
+      "translation": "How fare you , my love ?"
+    },
+    {
+      "id": "2.4.407",
+      "label": "Section 2.4.407",
+      "chapter": null,
+      "original": "Salvum advenisse gaudeo .",
+      "translation": "I ’ m overjoyed that you have returned safe ."
+    },
+    {
+      "id": "2.4.407b",
+      "label": "Section 2.4.407b",
+      "chapter": null,
+      "original": "Teneone te ,",
+      "translation": "And do I embrace you , Antiphila , so passionately longed for by my soul ?"
+    },
+    {
+      "id": "2.4.409",
+      "label": "Section 2.4.409",
+      "chapter": null,
+      "original": "Ite intro : nam vos iamdudum exspectat senex .",
+      "translation": "Go in-doors ; for the old gentleman has been waiting for us some time ."
+    },
+    {
+      "id": "3.1.410",
+      "label": "Section 3.1.410",
+      "chapter": null,
+      "original": "Luciscit hoc iam : cesso pultare ostium",
+      "translation": "It is now daybreak . [*] Why do I delay to knock at my neighbor ’ s door , that he may learn from me the first that his son has returned ? Although I am aware that the youth would not prefer this . But when I see him tormenting himself so miserably about his absence , can I conceal a joy so unhoped for ,"
+    },
+    {
+      "id": "3.1.415",
+      "label": "Section 3.1.415",
+      "chapter": null,
+      "original": "Cum illi pericli nihil ex indicio siet ?",
+      "translation": "especially when there can be no danger to him from the discovery ? I will not do so ; but as far as I can I will assist the old man . As I see my son aiding his friend and year ’ s-mate , and acting as his confidant in his concerns , it is but right that we old men as well should assist each other ."
+    },
+    {
+      "id": "3.1.420",
+      "label": "Section 3.1.420",
+      "chapter": null,
+      "original": "Aut ego profecto ingenio egregie ad miserias",
+      "translation": "Assuredly I was either born with a disposition peculiarly suited for misery , or else that saying which I hear commonly repeated , that time assuages human sorrow , is false . For really my sorrow about my son increases daily ; and the longer"
+    },
+    {
+      "id": "3.1.425",
+      "label": "Section 3.1.425",
+      "chapter": null,
+      "original": "Abest , magis cupio tanto et magis desidero .",
+      "translation": "he is away from me , the more anxiously do I wish for him , and the more I miss him ."
+    },
+    {
+      "id": "3.1.426",
+      "label": "Section 3.1.426",
+      "chapter": null,
+      "original": "Sed ipsum foras egressum video : ibo , alloquar .",
+      "translation": "But I see him coming out of his house ; I ’ ll go speak to him . ( Aloud .) Menedemus , good-morrow ; I bring you news , which you would especially desire to be imparted ."
+    },
+    {
+      "id": "3.1.429",
+      "label": "Section 3.1.429",
+      "chapter": null,
+      "original": "Numquidnam de gnato meo audisti , Chreme ?",
+      "translation": "Pray , have you heard any thing about my son , Chremes ?"
+    },
+    {
+      "id": "3.1.430",
+      "label": "Section 3.1.430",
+      "chapter": null,
+      "original": "Valet atque vivit .",
+      "translation": "He ’ s alive , and well ."
+    },
+    {
+      "id": "3.1.430b",
+      "label": "Section 3.1.430b",
+      "chapter": null,
+      "original": "Ubinam est , quaeso ?",
+      "translation": "Why , where is he , pray ?"
+    },
+    {
+      "id": "3.1.430c",
+      "label": "Section 3.1.430c",
+      "chapter": null,
+      "original": "Apud me domi .",
+      "translation": "Here , at my house , at home ."
+    },
+    {
+      "id": "3.1.431",
+      "label": "Section 3.1.431",
+      "chapter": null,
+      "original": "Meus gnatus ?",
+      "translation": "My son ?"
+    },
+    {
+      "id": "3.1.431b",
+      "label": "Section 3.1.431b",
+      "chapter": null,
+      "original": "Sic est .",
+      "translation": "Such is the fact ."
+    },
+    {
+      "id": "3.1.431c",
+      "label": "Section 3.1.431c",
+      "chapter": null,
+      "original": "Venit ?",
+      "translation": "Come home ?"
+    },
+    {
+      "id": "3.1.431d",
+      "label": "Section 3.1.431d",
+      "chapter": null,
+      "original": "Certe .",
+      "translation": "Certainly ."
+    },
+    {
+      "id": "3.1.431e",
+      "label": "Section 3.1.431e",
+      "chapter": null,
+      "original": "Clinia",
+      "translation": "My son , Clinia , come home ?"
+    },
+    {
+      "id": "3.1.432b",
+      "label": "Section 3.1.432b",
+      "chapter": null,
+      "original": "Dixi .",
+      "translation": "I say so ."
+    },
+    {
+      "id": "3.1.432c",
+      "label": "Section 3.1.432c",
+      "chapter": null,
+      "original": "Eamus : duc me ad eum , obsecro .",
+      "translation": "Let us go . Lead me to him , I beg of you ."
+    },
+    {
+      "id": "3.1.433",
+      "label": "Section 3.1.433",
+      "chapter": null,
+      "original": "Non vult te scire se redisse etiam , et tuum",
+      "translation": "He does not wish you yet to know of his return , and he shuns your presence ; he ’ s afraid that ,"
+    },
+    {
+      "id": "3.1.435",
+      "label": "Section 3.1.435",
+      "chapter": null,
+      "original": "Ne tua duritia antiqua illa etiam adaucta sit .",
+      "translation": "on account of that fault , your former severity may even be increased ."
+    },
+    {
+      "id": "3.1.436",
+      "label": "Section 3.1.436",
+      "chapter": null,
+      "original": "Non tu ei dixisti ut essem ?",
+      "translation": "Did you not tell him how I was affected ? [*]"
+    },
+    {
+      "id": "3.1.436b",
+      "label": "Section 3.1.436b",
+      "chapter": null,
+      "original": "Non .",
+      "translation": "No —"
+    },
+    {
+      "id": "3.1.436c",
+      "label": "Section 3.1.436c",
+      "chapter": null,
+      "original": "Quamobrem , Chreme ?",
+      "translation": "For what reason , Chremes ?"
+    },
+    {
+      "id": "3.1.437",
+      "label": "Section 3.1.437",
+      "chapter": null,
+      "original": "Quia pessime istoc in te atque in illum consulis ,",
+      "translation": "Because there you would judge extremely ill both for yourself and for him , if you were to show yourself of a spirit so weak and irresolute ."
+    },
+    {
+      "id": "3.1.439",
+      "label": "Section 3.1.439",
+      "chapter": null,
+      "original": "Non possum : satis iam satis pater durus fui .",
+      "translation": "I can not help it : enough already , enough , have I proved a rigorous father ."
+    },
+    {
+      "id": "3.1.439b",
+      "label": "Section 3.1.439b",
+      "chapter": null,
+      "original": "Ah !",
+      "translation": "Ah"
+    },
+    {
+      "id": "3.1.440",
+      "label": "Section 3.1.440",
+      "chapter": null,
+      "original": "Vehemens in utramque partem , Menedeme , es nimis ,",
+      "translation": "Menedemus ! you are too precipitate in either extreme , either with profuseness or with parsimony too great . Into the same error will you fall from the one side as from the other . In the first place , formerly , rather than allow your son to visit a young woman , who was"
+    },
+    {
+      "id": "3.1.445",
+      "label": "Section 3.1.445",
+      "chapter": null,
+      "original": "Tum erat contenta , cuique erant grata omnia ,",
+      "translation": "then content with a very little , and to whom any thing was acceptable , you frightened him away from here . After that , she began , quite against her inclination , to seek a subsistence upon the town . Now , when she can not be supported without a great expense , you are ready to give any thing . For , that you may know"
+    },
+    {
+      "id": "3.1.450",
+      "label": "Section 3.1.450",
+      "chapter": null,
+      "original": "Quam ea nunc instructa pulchre ad perniciem siet ,",
+      "translation": "how perfectly she is trained to extravagance , in the first place , she has already brought with her more than ten female attendants , all laden with clothes and jewels of gold ; if a satrap [*] had been her admirer , he never could support her expenses , much less can you ."
+    },
+    {
+      "id": "3.1.454b",
+      "label": "Section 3.1.454b",
+      "chapter": null,
+      "original": "Estne ea intus ?",
+      "translation": "Is she at your house ?"
+    },
+    {
+      "id": "3.1.454c",
+      "label": "Section 3.1.454c",
+      "chapter": null,
+      "original": "Sit rogas ?",
+      "translation": "Is she , do you ask ?"
+    },
+    {
+      "id": "3.1.455",
+      "label": "Section 3.1.455",
+      "chapter": null,
+      "original": "Sensi : namque ei unam coenam atque eius comitibus",
+      "translation": "I have felt it ; for I have given her and her retinue one dinner ; had I to give them another such , it would be all over with me ; for , to pass by other matters , what a quantity of wine she did consume for me in tasting only , [*] saying thus , This wine is too acid , [*] respected sir , [*] do please look for something more mellow ."
+    },
+    {
+      "id": "3.1.460",
+      "label": "Section 3.1.460",
+      "chapter": null,
+      "original": "Relevi dolia omnia , omnes serias ;",
+      "translation": "I opened all the casks , all the vessels [*] ; she kept all on the stir : and this but a single night . What do you suppose will become of you when they are constantly preying upon you ? So may the Gods prosper me , Menedemus , I do pity your lot ."
+    },
+    {
+      "id": "3.1.464b",
+      "label": "Section 3.1.464b",
+      "chapter": null,
+      "original": "Faciat quod libet :",
+      "translation": "Let him do what he will ;"
+    },
+    {
+      "id": "3.1.465",
+      "label": "Section 3.1.465",
+      "chapter": null,
+      "original": "Sumat , consumat , perdat , decretum est pati ,",
+      "translation": "let him take , waste , and squander ; I ’ m determined to endure it , so long as I only have him with me ."
+    },
+    {
+      "id": "3.1.466b",
+      "label": "Section 3.1.466b",
+      "chapter": null,
+      "original": "Si certum est tibi",
+      "translation": "If it is your determination thus to act , I hold it to be of very great foment that he should not be aware that with a full knowledge you grant him this ."
+    },
+    {
+      "id": "3.1.469",
+      "label": "Section 3.1.469",
+      "chapter": null,
+      "original": "Quid faciam ?",
+      "translation": "What shall I do ?"
+    },
+    {
+      "id": "3.1.469b",
+      "label": "Section 3.1.469b",
+      "chapter": null,
+      "original": "Quidvis potius quam quod cogitas :",
+      "translation": "Any thing , rather than what you are thinking of ;"
+    }
+  ],
+  "prevChunkSlug": "the-self-tormentor-nt3lty-4",
+  "nextChunkSlug": "the-self-tormentor-nt3lty-6"
+}

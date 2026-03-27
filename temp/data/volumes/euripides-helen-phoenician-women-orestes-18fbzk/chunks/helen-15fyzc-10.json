@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-helen-phoenician-women-orestes-18fbzk",
+  "volumeTitle": "Helen. Phoenician Women. Orestes",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "helen-15fyzc-10",
+  "label": "Helen (Section 1213 - Section 1272)",
+  "partId": "helen-15fyzc",
+  "partTitle": "Helen",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἑλένη",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Helen",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg014.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1213",
+      "label": "Section 1213",
+      "chapter": null,
+      "original": "ἐσθλῶν κακίους ἐνίοτʼ εὐτυχέστεροι .",
+      "translation": "There are times when common men have more luck than their betters ."
+    },
+    {
+      "id": "1214",
+      "label": "Section 1214",
+      "chapter": null,
+      "original": "λιπὼν δὲ ναὸς ποῦ πάρεστιν ἔκβολα ;",
+      "translation": "Where did he leave the wreckage of his ship before coming here ?"
+    },
+    {
+      "id": "1215",
+      "label": "Section 1215",
+      "chapter": null,
+      "original": "ὅπου κακῶς ὄλοιτο , Μενέλεως δὲ μή .",
+      "translation": "Where ruin may come upon it — but not on Menelaos !"
+    },
+    {
+      "id": "1216",
+      "label": "Section 1216",
+      "chapter": null,
+      "original": "ὄλωλʼ ἐκεῖνος . ἦλθε δʼ ἐν ποίῳ σκάφει ;",
+      "translation": "He is already ruined . In what ship did this man come ?"
+    },
+    {
+      "id": "1217",
+      "label": "Section 1217",
+      "chapter": null,
+      "original": "ναῦταί σφʼ ἀνείλοντʼ ἐντυχόντες , ὡς λέγει .",
+      "translation": "Sailors happened to meet him and took him up , as he says ."
+    },
+    {
+      "id": "1218",
+      "label": "Section 1218",
+      "chapter": null,
+      "original": "ποῦ δὴ τὸ πεμφθὲν ἀντὶ σοῦ Τροίᾳ κακόν ;",
+      "translation": "Where then is that mischievous creature that was sent to Troy in your place ?"
+    },
+    {
+      "id": "1219",
+      "label": "Section 1219",
+      "chapter": null,
+      "original": "νεφέλης λέγεις ἄγαλμα ; ἐς αἰθέρʼ οἴχεται .",
+      "translation": "You mean the cloud image ? It has gone into the air ."
+    },
+    {
+      "id": "1220",
+      "label": "Section 1220",
+      "chapter": null,
+      "original": "ὦ Πρίαμε καὶ γῆ Τρῳάς , ὡς ἔρρεις μάτην .",
+      "translation": "O Priam , and Trojan lands , how you have perished in vain !"
+    },
+    {
+      "id": "1221",
+      "label": "Section 1221",
+      "chapter": null,
+      "original": "κἀγὼ μετέσχον Πριαμίδαις δυσπραξίας .",
+      "translation": "I too have shared misfortunes with Priam ’ s race ."
+    },
+    {
+      "id": "1222",
+      "label": "Section 1222",
+      "chapter": null,
+      "original": "πόσιν δʼ ἄθαπτον ἔλιπεν ἢ κρύπτει χθονί ;",
+      "translation": "Did he leave your husband unburied , or did he hide him in the earth ?"
+    },
+    {
+      "id": "1223",
+      "label": "Section 1223",
+      "chapter": null,
+      "original": "ἄθαπτον · οἲ ἐγὼ τῶν ἐμῶν τλήμων κακῶν .",
+      "translation": "He is unburied ; I am so unhappy in my troubles !"
+    },
+    {
+      "id": "1224",
+      "label": "Section 1224",
+      "chapter": null,
+      "original": "τῶνδʼ οὕνεκʼ ἔταμες βοστρύχους ξανθῆς κόμης ·",
+      "translation": "It is for this that you have cut your locks of golden hair ?"
+    },
+    {
+      "id": "1225",
+      "label": "Section 1225",
+      "chapter": null,
+      "original": "φίλος γάρ ἐστιν , ὅς ποτʼ ἐστίν , ἐνθάδʼ ὤν .",
+      "translation": "Yes , for he is dear to me , whoever he is , being here ."
+    },
+    {
+      "id": "1226",
+      "label": "Section 1226",
+      "chapter": null,
+      "original": "ὀρθῶς μὲν ἥδε συμφορὰ δακρύεται —",
+      "translation": "She rightly weeps for this misfortune . . ."
+    },
+    {
+      "id": "1227",
+      "label": "Section 1227",
+      "chapter": null,
+      "original": "ἐν εὐμαρεῖ γοῦν σὴν κασιγνήτην λαθεῖν .",
+      "translation": "It is certainly easy to escape your sister ’ s notice !"
+    },
+    {
+      "id": "1228",
+      "label": "Section 1228",
+      "chapter": null,
+      "original": "οὐ δῆτα . πῶς οὖν ; τόνδʼ ἔτʼ οἰκήσεις τάφον ;",
+      "translation": "No , indeed . Well , what now ? Will you continue to live at this tomb ?"
+    },
+    {
+      "id": "1229",
+      "label": "Section 1229",
+      "chapter": null,
+      "original": "τί κερτομεῖς με , τὸν θανόντα δʼ οὐκ ἐᾷς ;",
+      "translation": "Why do you jeer at me ? Won ’ t you let the dead man be ?"
+    },
+    {
+      "id": "1230",
+      "label": "Section 1230",
+      "chapter": null,
+      "original": "πιστὴ γὰρ εἶ σὺ σῷ πόσει φεύγουσά με .",
+      "translation": "No , for you are loyal to your husband and avoid me ."
+    },
+    {
+      "id": "1231",
+      "label": "Section 1231",
+      "chapter": null,
+      "original": "ἀλλʼ οὐκέτʼ · ἤδη δʼ ἄρχε τῶν ἐμῶν γάμων .",
+      "translation": "No longer ; begin my wedding now ."
+    },
+    {
+      "id": "1232",
+      "label": "Section 1232",
+      "chapter": null,
+      "original": "χρόνια μὲν ἦλθεν , ἀλλʼ ὅμως αἰνῶ τάδε .",
+      "translation": "It has come after a long time , but still I commend you for it ."
+    },
+    {
+      "id": "1233",
+      "label": "Section 1233",
+      "chapter": null,
+      "original": "οἶσθʼ οὖν ὃ δρᾶσον ; τῶν πάρος λαθώμεθα .",
+      "translation": "Do you know what you should do ? Let us forget what is past ."
+    },
+    {
+      "id": "1234",
+      "label": "Section 1234",
+      "chapter": null,
+      "original": "ἐπὶ τῷ ; χάρις γὰρ ἀντὶ χάριτος ἐλθέτω .",
+      "translation": "On what terms ? One good turn deserves another ."
+    },
+    {
+      "id": "1235",
+      "label": "Section 1235",
+      "chapter": null,
+      "original": "σπονδὰς τέμωμεν καὶ διαλλάχθητί μοι .",
+      "translation": "Let us make a truce ; be reconciled to me ."
+    },
+    {
+      "id": "1236",
+      "label": "Section 1236",
+      "chapter": null,
+      "original": "μεθίημι νεῖκος τὸ σόν , ἴτω δʼ ὑπόπτερον .",
+      "translation": "I relinquish my quarrel with you ; may it go away on wings ."
+    },
+    {
+      "id": "1237",
+      "label": "Section 1237",
+      "chapter": null,
+      "original": "πρός νύν σε γονάτων τῶνδʼ , ἐπείπερ εἶ φίλος —",
+      "translation": "Now by your knees , since you are indeed a friend —"
+    },
+    {
+      "id": "1238",
+      "label": "Section 1238",
+      "chapter": null,
+      "original": "τί χρῆμα θηρῶσʼ ἱκέτις ὠρέχθης ἐμοῦ ;",
+      "translation": "What thing do you hunt after , that you stretch out a suppliant hand to me ?"
+    },
+    {
+      "id": "1239",
+      "label": "Section 1239",
+      "chapter": null,
+      "original": "τὸν κατθανόντα πόσιν ἐμὸν θάψαι θέλω .",
+      "translation": "I wish to bury my dead husband ."
+    },
+    {
+      "id": "1240",
+      "label": "Section 1240",
+      "chapter": null,
+      "original": "τί δʼ ; ἔστʼ ἀπόντων τύμβος ; ἢ θάψεις σκιάν ;",
+      "translation": "What ? Is there a tomb for the absent ? Or will you bury a shadow ?"
+    },
+    {
+      "id": "1241",
+      "label": "Section 1241",
+      "chapter": null,
+      "original": "Ἕλλησίν ἐστι νόμος , ὃς ἂν πόντῳ θάνῃ —",
+      "translation": "It is customary among the Hellenes , whenever someone dies at sea —"
+    },
+    {
+      "id": "1242",
+      "label": "Section 1242",
+      "chapter": null,
+      "original": "τί δρᾶν ; σοφοί τοι Πελοπίδαι τὰ τοιάδε .",
+      "translation": "To do what ? The race of Pelops is certainly clever in such matters ."
+    },
+    {
+      "id": "1243",
+      "label": "Section 1243",
+      "chapter": null,
+      "original": "κενοῖσι θάπτειν ἐν πέπλων ὑφάσμασιν .",
+      "translation": "To carry out the funeral rites in empty woven robes ."
+    },
+    {
+      "id": "1244",
+      "label": "Section 1244",
+      "chapter": null,
+      "original": "κτέριζʼ · ἀνίστη τύμβον οὗ χρῄζεις χθονός .",
+      "translation": "Hold the funeral ; set up the tomb wherever you wish ."
+    },
+    {
+      "id": "1245",
+      "label": "Section 1245",
+      "chapter": null,
+      "original": "οὐχ ὧδε ναύτας ὀλομένους τυμβεύομεν .",
+      "translation": "We do not give burial like this to sailors who have perished ."
+    },
+    {
+      "id": "1246",
+      "label": "Section 1246",
+      "chapter": null,
+      "original": "πῶς δαί ; λέλειμμαι τῶν ἐν Ἕλλησιν νόμων .",
+      "translation": "How then ? I know nothing of the customs in Hellas ."
+    },
+    {
+      "id": "1247",
+      "label": "Section 1247",
+      "chapter": null,
+      "original": "ἐς πόντον ὅσα χρὴ νέκυσιν ἐξορμίζομεν .",
+      "translation": "We take out of harbor to the sea all that is the dead man ’ s due ."
+    },
+    {
+      "id": "1248",
+      "label": "Section 1248",
+      "chapter": null,
+      "original": "τί σοι παράσχω δῆτα τῷ τεθνηκότι ;",
+      "translation": "Then what am I to give you for the dead man ?"
+    },
+    {
+      "id": "1249",
+      "label": "Section 1249",
+      "chapter": null,
+      "original": "ὅδʼ οἶδʼ , ἐγὼ δʼ ἄπειρος , εὐτυχοῦσα πρίν .",
+      "translation": "This man knows , but I have no experience , as I was fortunate before ."
+    },
+    {
+      "id": "1250",
+      "label": "Section 1250",
+      "chapter": null,
+      "original": "ὦ ξένε , λόγων μὲν κληδόνʼ ἤνεγκας φίλην .",
+      "translation": "Stranger , you have brought welcome news ."
+    },
+    {
+      "id": "1251",
+      "label": "Section 1251",
+      "chapter": null,
+      "original": "οὔκουν ἐμαυτῷ γʼ οὐδὲ τῷ τεθνηκότι .",
+      "translation": "Not for me , certainly , nor for the dead man ."
+    },
+    {
+      "id": "1252",
+      "label": "Section 1252",
+      "chapter": null,
+      "original": "πῶς τοὺς θανόντας θάπτετʼ ἐν πόντῳ νεκρούς ;",
+      "translation": "How do you bury those who have died at sea ?"
+    },
+    {
+      "id": "1253",
+      "label": "Section 1253",
+      "chapter": null,
+      "original": "ὡς ἂν παρούσης οὐσίας ἕκαστος ᾖ .",
+      "translation": "Each according to his means ."
+    },
+    {
+      "id": "1254",
+      "label": "Section 1254",
+      "chapter": null,
+      "original": "πλούτου λέγʼ οὕνεχʼ ὅ τι θέλεις ταύτης χάριν .",
+      "translation": "As far as wealth goes , say what you want , for her sake ."
+    },
+    {
+      "id": "1255",
+      "label": "Section 1255",
+      "chapter": null,
+      "original": "προσφάζεται μὲν αἷμα πρῶτα νερτέροις .",
+      "translation": "There must be a blood-offering first to the dead ."
+    },
+    {
+      "id": "1256",
+      "label": "Section 1256",
+      "chapter": null,
+      "original": "τίνος ; σύ μοι σήμαινε , πείσομαι δʼ ἐγώ .",
+      "translation": "Blood of what ? Explain it to me , and I will obey ."
+    },
+    {
+      "id": "1257",
+      "label": "Section 1257",
+      "chapter": null,
+      "original": "αὐτὸς σὺ γίγνωσκʼ · ἀρκέσει γὰρ ἃν διδῷς .",
+      "translation": "You decide that yourself ; whatever you give will suffice ."
+    },
+    {
+      "id": "1258",
+      "label": "Section 1258",
+      "chapter": null,
+      "original": "ἐν βαρβάροις μὲν ἵππον ἢ ταῦρον νόμος .",
+      "translation": "Among barbarians it is customary to sacrifice a horse or a bull ."
+    },
+    {
+      "id": "1259",
+      "label": "Section 1259",
+      "chapter": null,
+      "original": "διδούς γε μὲν δὴ δυσγενὲς μηδὲν δίδου .",
+      "translation": "If you make a gift , take care to give nothing mean ."
+    },
+    {
+      "id": "1260",
+      "label": "Section 1260",
+      "chapter": null,
+      "original": "οὐ τῶνδʼ ἐν ἀγέλαις ὀλβίαις σπανίζομεν .",
+      "translation": "I have no lack of such in my rich herds ."
+    },
+    {
+      "id": "1261",
+      "label": "Section 1261",
+      "chapter": null,
+      "original": "καὶ στρωτὰ φέρεται λέκτρα σώματος κενά .",
+      "translation": "Next , a couch empty of the body is decked and carried in procession ."
+    },
+    {
+      "id": "1262",
+      "label": "Section 1262",
+      "chapter": null,
+      "original": "ἔσται · τί δʼ ἄλλο προσφέρειν νομίζεται ;",
+      "translation": "It wall be done ; what else is it customary to add ?"
+    },
+    {
+      "id": "1263",
+      "label": "Section 1263",
+      "chapter": null,
+      "original": "χαλκήλαθʼ ὅπλα · καὶ γὰρ ἦν φίλος δορί .",
+      "translation": "Bronze arms ; for war was his delight ."
+    },
+    {
+      "id": "1264",
+      "label": "Section 1264",
+      "chapter": null,
+      "original": "ἄξια τάδʼ ἔσται Πελοπιδῶν ἃ δώσομεν .",
+      "translation": "These will be worthy of the race of Pelops , and these we will give ."
+    },
+    {
+      "id": "1265",
+      "label": "Section 1265",
+      "chapter": null,
+      "original": "καὶ τἄλλʼ ὅσα χθὼν καλὰ φέρει βλαστήματα .",
+      "translation": "And for the rest , all the lovely offspring that the earth bears ."
+    },
+    {
+      "id": "1266",
+      "label": "Section 1266",
+      "chapter": null,
+      "original": "πῶς οὖν ; ἐς οἶδμα τίνι τρόπῳ καθίετε ;",
+      "translation": "How then ? In what way do you let them fall into the waves ?"
+    },
+    {
+      "id": "1267",
+      "label": "Section 1267",
+      "chapter": null,
+      "original": "ναῦν δεῖ παρεῖναι κἀρετμῶν ἐπιστάτας .",
+      "translation": "A ship must be ready , and rowers ."
+    },
+    {
+      "id": "1268",
+      "label": "Section 1268",
+      "chapter": null,
+      "original": "πόσον δʼ ἀπείργει μῆκος ἐκ γαίας δόρυ ;",
+      "translation": "How far from the shore does the ship put out ?"
+    },
+    {
+      "id": "1269",
+      "label": "Section 1269",
+      "chapter": null,
+      "original": "ὥστʼ ἐξορᾶσθαι ῥόθια χερσόθεν μόλις .",
+      "translation": "So far that the foam in her wake can scarcely be seen from the land ."
+    },
+    {
+      "id": "1270",
+      "label": "Section 1270",
+      "chapter": null,
+      "original": "τί δή ; τόδʼ Ἑλλὰς νόμιμον ἐκ τίνος σέβει ;",
+      "translation": "But why ? Why does Hellas observe this custom ."
+    },
+    {
+      "id": "1271",
+      "label": "Section 1271",
+      "chapter": null,
+      "original": "ὡς μὴ πάλιν γῇ λύματʼ ἐκβάλῃ κλύδων .",
+      "translation": "So that the waves may not wash pollution back ashore ."
+    },
+    {
+      "id": "1272",
+      "label": "Section 1272",
+      "chapter": null,
+      "original": "Φοίνισσα κώπη ταχύπορος γενήσεται .",
+      "translation": "A swift Phoenician ship will be there ."
+    }
+  ],
+  "prevChunkSlug": "helen-15fyzc-9",
+  "nextChunkSlug": "helen-15fyzc-11"
+}

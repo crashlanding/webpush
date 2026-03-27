@@ -1,0 +1,271 @@
+{
+  "loebNumber": 103,
+  "sortOrder": 103,
+  "slug": "plutarch-lives-volume-xi-lhucdd",
+  "title": "Lives, Volume XI",
+  "volumeLabel": "Lives, Volume XI",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Lives, Volume XI. Lives, Volume XI opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "brutus-x1ss19-1",
+  "readyChunkCount": 8,
+  "contents": [
+    {
+      "id": "lives-volume-xi-15nalp",
+      "title": "Lives, Volume XI",
+      "status": "ready",
+      "sectionCount": 378,
+      "chunkSlug": "brutus-x1ss19-1",
+      "chunks": [
+        {
+          "slug": "brutus-x1ss19-1",
+          "label": "Brutus (Section 1.1 - Section 30.2)",
+          "partId": "lives-volume-xi-15nalp",
+          "partTitle": "Lives, Volume XI",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "brutus-x1ss19-2",
+          "label": "Brutus (Section 31.1 - Section 53.2)",
+          "partId": "lives-volume-xi-15nalp",
+          "partTitle": "Lives, Volume XI",
+          "sectionCount": 46,
+          "status": "ready"
+        },
+        {
+          "slug": "comparison-of-dion-and-brutus-1a1kse",
+          "label": "Comparison of Dion and Brutus",
+          "partId": "lives-volume-xi-15nalp",
+          "partTitle": "Lives, Volume XI",
+          "sectionCount": 10,
+          "status": "ready"
+        },
+        {
+          "slug": "aratus-wkedwi-1",
+          "label": "Aratus (Section 1.1 - Section 30.2)",
+          "partId": "lives-volume-xi-15nalp",
+          "partTitle": "Lives, Volume XI",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "aratus-wkedwi-2",
+          "label": "Aratus (Section 31.1 - Section 54.2)",
+          "partId": "lives-volume-xi-15nalp",
+          "partTitle": "Lives, Volume XI",
+          "sectionCount": 48,
+          "status": "ready"
+        },
+        {
+          "slug": "artaxerxes-1y6gix",
+          "label": "Artaxerxes",
+          "partId": "lives-volume-xi-15nalp",
+          "partTitle": "Lives, Volume XI",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "galba-14tmcx",
+          "label": "Galba",
+          "partId": "lives-volume-xi-15nalp",
+          "partTitle": "Lives, Volume XI",
+          "sectionCount": 58,
+          "status": "ready"
+        },
+        {
+          "slug": "otho-1gwjw",
+          "label": "Otho",
+          "partId": "lives-volume-xi-15nalp",
+          "partTitle": "Lives, Volume XI",
+          "sectionCount": 36,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "brutus-x1ss19-1",
+      "label": "Brutus (Section 1.1 - Section 30.2)",
+      "partId": "lives-volume-xi-15nalp",
+      "partTitle": "Lives, Volume XI",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "brutus-x1ss19-2",
+      "label": "Brutus (Section 31.1 - Section 53.2)",
+      "partId": "lives-volume-xi-15nalp",
+      "partTitle": "Lives, Volume XI",
+      "sectionCount": 46,
+      "status": "ready"
+    },
+    {
+      "slug": "comparison-of-dion-and-brutus-1a1kse",
+      "label": "Comparison of Dion and Brutus",
+      "partId": "lives-volume-xi-15nalp",
+      "partTitle": "Lives, Volume XI",
+      "sectionCount": 10,
+      "status": "ready"
+    },
+    {
+      "slug": "aratus-wkedwi-1",
+      "label": "Aratus (Section 1.1 - Section 30.2)",
+      "partId": "lives-volume-xi-15nalp",
+      "partTitle": "Lives, Volume XI",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "aratus-wkedwi-2",
+      "label": "Aratus (Section 31.1 - Section 54.2)",
+      "partId": "lives-volume-xi-15nalp",
+      "partTitle": "Lives, Volume XI",
+      "sectionCount": 48,
+      "status": "ready"
+    },
+    {
+      "slug": "artaxerxes-1y6gix",
+      "label": "Artaxerxes",
+      "partId": "lives-volume-xi-15nalp",
+      "partTitle": "Lives, Volume XI",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "galba-14tmcx",
+      "label": "Galba",
+      "partId": "lives-volume-xi-15nalp",
+      "partTitle": "Lives, Volume XI",
+      "sectionCount": 58,
+      "status": "ready"
+    },
+    {
+      "slug": "otho-1gwjw",
+      "label": "Otho",
+      "partId": "lives-volume-xi-15nalp",
+      "partTitle": "Lives, Volume XI",
+      "sectionCount": 36,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "brutus-x1ss19-1",
+      "partTitle": "Lives, Volume XI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Brutus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg061.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Brutus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg061.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "brutus-x1ss19-2",
+      "partTitle": "Lives, Volume XI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Brutus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg061.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Brutus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg061.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "comparison-of-dion-and-brutus-1a1kse",
+      "partTitle": "Lives, Volume XI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Comparison of Dion and Brutus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg062.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Comparison of Dion and Brutus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg062.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "aratus-wkedwi-1",
+      "partTitle": "Lives, Volume XI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Aratus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg063.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Aratus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg063.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "aratus-wkedwi-2",
+      "partTitle": "Lives, Volume XI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Aratus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg063.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Aratus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg063.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "artaxerxes-1y6gix",
+      "partTitle": "Lives, Volume XI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Artaxerxes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg064.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Artaxerxes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg064.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "galba-14tmcx",
+      "partTitle": "Lives, Volume XI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Galba",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg065.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Galba",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg065.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "otho-1gwjw",
+      "partTitle": "Lives, Volume XI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Otho",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg066.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Otho",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg066.perseus-eng2/"
+      }
+    }
+  ]
+}

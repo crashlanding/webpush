@@ -1,0 +1,61 @@
+{
+  "loebNumber": 196,
+  "sortOrder": 196,
+  "slug": "strabo-geography-volume-iv-lw0038",
+  "title": "Geography, Volume IV",
+  "volumeLabel": "Geography, Volume IV",
+  "authorDisplay": "Strabo",
+  "authors": [
+    "Strabo"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Geography, Volume IV. Geography, Volume IV currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "geography-volume-iv-uylmr",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "geography-volume-iv-uylmr",
+      "title": "Geography, Volume IV",
+      "status": "ready",
+      "sectionCount": 42,
+      "chunkSlug": "geography-volume-iv-uylmr",
+      "chunks": [
+        {
+          "slug": "geography-volume-iv-uylmr",
+          "label": "Geography, Volume IV",
+          "partId": "geography-volume-iv-uylmr",
+          "partTitle": "Geography, Volume IV",
+          "sectionCount": 42,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "geography-volume-iv-uylmr",
+      "label": "Geography, Volume IV",
+      "partId": "geography-volume-iv-uylmr",
+      "partTitle": "Geography, Volume IV",
+      "sectionCount": 42,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "geography-volume-iv-uylmr",
+      "partTitle": "Geography, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Γεωγραφικά",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0099.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Geography (Books 6-14)",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0099.tlg001.perseus-eng3/"
+      }
+    }
+  ]
+}

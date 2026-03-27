@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-bacchae-iphigenia-at-aulis-rhesus-11kdpx",
+  "volumeTitle": "Bacchae. Iphigenia at Aulis. Rhesus",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "bacchae-ls8d9p-3",
+  "label": "Bacchae (Section 466 - Section 570)",
+  "partId": "bacchae-ls8d9p",
+  "partTitle": "Bacchae",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Βάκχαι",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "The Bacchae",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "466",
+      "label": "Section 466",
+      "chapter": null,
+      "original": "Διόνυσος ἡμᾶς εἰσέβησʼ , ὁ τοῦ Διός .",
+      "translation": "Dionysus , the child of Zeus , sent me ."
+    },
+    {
+      "id": "467",
+      "label": "Section 467",
+      "chapter": null,
+      "original": "Ζεὺς δʼ ἔστʼ ἐκεῖ τις , ὃς νέους τίκτει θεούς ;",
+      "translation": "Is there a Zeus who breeds new gods there ?"
+    },
+    {
+      "id": "468",
+      "label": "Section 468",
+      "chapter": null,
+      "original": "οὔκ , ἀλλʼ ὁ Σεμέλην ἐνθάδε ζεύξας γάμοις .",
+      "translation": "No , but the one who married Semele here ."
+    },
+    {
+      "id": "469",
+      "label": "Section 469",
+      "chapter": null,
+      "original": "πότερα δὲ νύκτωρ σʼ ἢ κατʼ ὄμμʼ ἠνάγκασεν ;",
+      "translation": "Did he compel you at night , or in your sight ?"
+    },
+    {
+      "id": "470",
+      "label": "Section 470",
+      "chapter": null,
+      "original": "ὁρῶν ὁρῶντα , καὶ δίδωσιν ὄργια .",
+      "translation": "Seeing me just as I saw him , he gave me sacred rites ."
+    },
+    {
+      "id": "471",
+      "label": "Section 471",
+      "chapter": null,
+      "original": "τὰ δʼ ὄργιʼ ἐστὶ τίνʼ ἰδέαν ἔχοντά σοι ;",
+      "translation": "What appearance do your rites have ?"
+    },
+    {
+      "id": "472",
+      "label": "Section 472",
+      "chapter": null,
+      "original": "ἄρρητʼ ἀβακχεύτοισιν εἰδέναι βροτῶν .",
+      "translation": "They can not be told to mortals uninitiated in Bacchic revelry ."
+    },
+    {
+      "id": "473",
+      "label": "Section 473",
+      "chapter": null,
+      "original": "ἔχει δʼ ὄνησιν τοῖσι θύουσιν τίνα ;",
+      "translation": "And do they have any profit to those who sacrifice ?"
+    },
+    {
+      "id": "474",
+      "label": "Section 474",
+      "chapter": null,
+      "original": "οὐ θέμις ἀκοῦσαί σʼ , ἔστι δʼ ἄξιʼ εἰδέναι .",
+      "translation": "It is not lawful for you to hear , but they are worth knowing ."
+    },
+    {
+      "id": "475",
+      "label": "Section 475",
+      "chapter": null,
+      "original": "εὖ τοῦτʼ ἐκιβδήλευσας , ἵνʼ ἀκοῦσαι θέλω .",
+      "translation": "You have counterfeited this well , so that I desire to hear ."
+    },
+    {
+      "id": "476",
+      "label": "Section 476",
+      "chapter": null,
+      "original": "ἀσέβειαν ἀσκοῦντʼ ὄργιʼ ἐχθαίρει θεοῦ .",
+      "translation": "The rites are hostile to whoever practices impiety ."
+    },
+    {
+      "id": "477",
+      "label": "Section 477",
+      "chapter": null,
+      "original": "τὸν θεὸν ὁρᾶν γὰρ φῂς σαφῶς , ποῖός τις ἦν ;",
+      "translation": "Are you saying that you saw clearly what the god was like ?"
+    },
+    {
+      "id": "478",
+      "label": "Section 478",
+      "chapter": null,
+      "original": "ὁποῖος ἤθελʼ · οὐκ ἐγὼ ʼτασσον τόδε .",
+      "translation": "He was as he chose ; I did not order this ."
+    },
+    {
+      "id": "479",
+      "label": "Section 479",
+      "chapter": null,
+      "original": "τοῦτʼ αὖ παρωχέτευσας εὖ κοὐδὲν λέγων .",
+      "translation": "Again you diverted my question well , speaking mere nonsense ."
+    },
+    {
+      "id": "480",
+      "label": "Section 480",
+      "chapter": null,
+      "original": "δόξει τις ἀμαθεῖ σοφὰ λέγων οὐκ εὖ φρονεῖν .",
+      "translation": "One will seem to be foolish if he speaks wisely to an ignorant man ."
+    },
+    {
+      "id": "481",
+      "label": "Section 481",
+      "chapter": null,
+      "original": "ἦλθες δὲ πρῶτα δεῦρʼ ἄγων τὸν δαίμονα ;",
+      "translation": "Did you come here first , bringing the god ?"
+    },
+    {
+      "id": "482",
+      "label": "Section 482",
+      "chapter": null,
+      "original": "πᾶς ἀναχορεύει βαρβάρων τάδʼ ὄργια .",
+      "translation": "All the barbarians celebrate these rites ."
+    },
+    {
+      "id": "483",
+      "label": "Section 483",
+      "chapter": null,
+      "original": "φρονοῦσι γὰρ κάκιον Ἑλλήνων πολύ .",
+      "translation": "Yes , for they are far more foolish than Hellenes ."
+    },
+    {
+      "id": "484",
+      "label": "Section 484",
+      "chapter": null,
+      "original": "τάδʼ εὖ γε μᾶλλον · οἱ νόμοι δὲ διάφοροι .",
+      "translation": "In this at any rate they are wiser ; but their laws are different ."
+    },
+    {
+      "id": "485",
+      "label": "Section 485",
+      "chapter": null,
+      "original": "τὰ δʼ ἱερὰ νύκτωρ ἢ μεθʼ ἡμέραν τελεῖς ;",
+      "translation": "Do you perform the rites by night or by day ?"
+    },
+    {
+      "id": "486",
+      "label": "Section 486",
+      "chapter": null,
+      "original": "νύκτωρ τὰ πολλά · σεμνότητʼ ἔχει σκότος .",
+      "translation": "Mostly by night ; darkness conveys awe ."
+    },
+    {
+      "id": "487",
+      "label": "Section 487",
+      "chapter": null,
+      "original": "τοῦτʼ ἐς γυναῖκας δόλιόν ἐστι καὶ σαθρόν .",
+      "translation": "This is treacherous towards women , and unsound ."
+    },
+    {
+      "id": "488",
+      "label": "Section 488",
+      "chapter": null,
+      "original": "κἀν ἡμέρᾳ τό γʼ αἰσχρὸν ἐξεύροι τις ἄν .",
+      "translation": "Even during the day someone may devise what is shameful ."
+    },
+    {
+      "id": "489",
+      "label": "Section 489",
+      "chapter": null,
+      "original": "δίκην σε δοῦναι δεῖ σοφισμάτων κακῶν .",
+      "translation": "You must pay the penalty for your evil contrivances ."
+    },
+    {
+      "id": "490",
+      "label": "Section 490",
+      "chapter": null,
+      "original": "σὲ δʼ ἀμαθίας γε κἀσεβοῦντʼ ἐς τὸν θεόν .",
+      "translation": "And you for your ignorance and impiety toward the god ."
+    },
+    {
+      "id": "491",
+      "label": "Section 491",
+      "chapter": null,
+      "original": "ὡς θρασὺς ὁ βάκχος κοὐκ ἀγύμναστος λόγων .",
+      "translation": "How bold the Bacchant is , and not unpracticed in speaking !"
+    },
+    {
+      "id": "492",
+      "label": "Section 492",
+      "chapter": null,
+      "original": "εἴφʼ ὅ τι παθεῖν δεῖ · τί με τὸ δεινὸν ἐργάσῃ ;",
+      "translation": "Tell me what I must suffer ; what harm will you do to me ?"
+    },
+    {
+      "id": "493",
+      "label": "Section 493",
+      "chapter": null,
+      "original": "πρῶτον μὲν ἁβρὸν βόστρυχον τεμῶ σέθεν .",
+      "translation": "First I will cut off your delicate hair ."
+    },
+    {
+      "id": "494",
+      "label": "Section 494",
+      "chapter": null,
+      "original": "ἱερὸς ὁ πλόκαμος · τῷ θεῷ δʼ αὐτὸν τρέφω .",
+      "translation": "My hair is sacred . I am growing it for the god ."
+    },
+    {
+      "id": "495",
+      "label": "Section 495",
+      "chapter": null,
+      "original": "ἔπειτα θύρσον τόνδε παράδος ἐκ χεροῖν .",
+      "translation": "Next give me this thyrsos from your hands ."
+    },
+    {
+      "id": "496",
+      "label": "Section 496",
+      "chapter": null,
+      "original": "αὐτός μʼ ἀφαιροῦ · τόνδε Διονύσου φορῶ .",
+      "translation": "Take it from me yourself . I bear it as the ensign of Dionysus ."
+    },
+    {
+      "id": "497",
+      "label": "Section 497",
+      "chapter": null,
+      "original": "εἱρκταῖσί τʼ ἔνδον σῶμα σὸν φυλάξομεν .",
+      "translation": "We will guard your body within , in prison ."
+    },
+    {
+      "id": "498",
+      "label": "Section 498",
+      "chapter": null,
+      "original": "λύσει μʼ ὁ δαίμων αὐτός , ὅταν ἐγὼ θέλω .",
+      "translation": "The god himself will release me , whenever I want ."
+    },
+    {
+      "id": "499",
+      "label": "Section 499",
+      "chapter": null,
+      "original": "ὅταν γε καλέσῃς αὐτὸν ἐν βάκχαις σταθείς .",
+      "translation": "Yes , when you call him , standing among the Bacchae ."
+    },
+    {
+      "id": "500",
+      "label": "Section 500",
+      "chapter": null,
+      "original": "καὶ νῦν ἃ πάσχω πλησίον παρὼν ὁρᾷ .",
+      "translation": "Even now he see my sufferings from close by ."
+    },
+    {
+      "id": "501",
+      "label": "Section 501",
+      "chapter": null,
+      "original": "καὶ ποῦ ʼστιν ; οὐ γὰρ φανερὸς ὄμμασίν γʼ ἐμοῖς .",
+      "translation": "Where is he ? He is not visible to my eyes ."
+    },
+    {
+      "id": "502",
+      "label": "Section 502",
+      "chapter": null,
+      "original": "παρʼ ἐμοί · σὺ δʼ ἀσεβὴς αὐτὸς ὢν οὐκ εἰσορᾷς .",
+      "translation": "Near me ; but you , being impious , do not see him ."
+    },
+    {
+      "id": "503",
+      "label": "Section 503",
+      "chapter": null,
+      "original": "λάζυσθε · καταφρονεῖ με καὶ Θήβας ὅδε .",
+      "translation": "To attendants Seize him ; he insults me and Thebes !"
+    },
+    {
+      "id": "504",
+      "label": "Section 504",
+      "chapter": null,
+      "original": "αὐδῶ με μὴ δεῖν σωφρονῶν οὐ σώφροσιν .",
+      "translation": "I warn you not to bind me , since I am in my senses and you are not ."
+    },
+    {
+      "id": "505",
+      "label": "Section 505",
+      "chapter": null,
+      "original": "ἐγὼ δὲ δεῖν γε , κυριώτερος σέθεν .",
+      "translation": "And I , more masterful than you , bid them to bind you ."
+    },
+    {
+      "id": "506",
+      "label": "Section 506",
+      "chapter": null,
+      "original": "οὐκ οἶσθʼ ὅ τι ζῇς , οὐδʼ ὃ δρᾷς , οὐδʼ ὅστις εἶ .",
+      "translation": "You do not know why you live , or what you are doing , or who you are ."
+    },
+    {
+      "id": "507",
+      "label": "Section 507",
+      "chapter": null,
+      "original": "Πενθεύς , Ἀγαύης παῖς , πατρὸς δʼ Ἐχίονος .",
+      "translation": "I am Pentheus , son of Echion and Agave ."
+    },
+    {
+      "id": "508",
+      "label": "Section 508",
+      "chapter": null,
+      "original": "ἐνδυστυχῆσαι τοὔνομʼ ἐπιτήδειος εἶ .",
+      "translation": "You are well-suited to be miserable in your name . [*]"
+    },
+    {
+      "id": "509",
+      "label": "Section 509",
+      "chapter": null,
+      "original": "χώρει · καθείρξατʼ αὐτὸν ἱππικαῖς πέλας",
+      "translation": "Go . To attendants Shut him up near the horse"
+    },
+    {
+      "id": "510",
+      "label": "Section 510",
+      "chapter": null,
+      "original": "φάτναισιν , ὡς ἂν σκότιον εἰσορᾷ κνέφας .",
+      "translation": "stable , so that he may see only darkness . To Dionysus Dance there ; and as for these women whom you have led here as accomplices to your crimes , we will either sell them or , stopping their hands from this noise and beating of skins , I will keep them as slaves at the loom ."
+    },
+    {
+      "id": "515",
+      "label": "Section 515",
+      "chapter": null,
+      "original": "στείχοιμʼ ἄν · ὅ τι γὰρ μὴ χρεών , οὔτοι χρεὼν",
+      "translation": "I will go , for I need not suffer that which is not necessary . But Dionysus , who you claim does not exist , will pursue you for these insults . For in injuring us , you put him in bonds ."
+    },
+    {
+      "id": "1.519",
+      "label": "Section 1.519",
+      "chapter": null,
+      "original": "⋯",
+      "translation": "⋯ Daughter of Acheloüs ,"
+    },
+    {
+      "id": "1.520",
+      "label": "Section 1.520",
+      "chapter": null,
+      "original": "πότνιʼ εὐπάρθενε Δίρκα ,",
+      "translation": "venerable Dirce , happy virgin , you once received the child of Zeus in your streams , when Zeus his father snatched him up from the immortal fire and saved him in his thigh ,"
+    },
+    {
+      "id": "1.525",
+      "label": "Section 1.525",
+      "chapter": null,
+      "original": "πασέ νιν , τάδʼ ἀναβοάσας ·",
+      "translation": "crying out : Go , Dithyrambus , enter this my male womb . I will make you illustrious , Bacchus , in Thebes , so that they will call you by this name ."
+    },
+    {
+      "id": "1.530",
+      "label": "Section 1.530",
+      "chapter": null,
+      "original": "σὺ δέ μʼ , ὦ μάκαιρα Δίρκα ,",
+      "translation": "But you , blessed Dirce , reject me with my garland-bearing company about you . Why do you refuse me , why do you flee me ? I swear by the cluster-bearing"
+    },
+    {
+      "id": "1.535",
+      "label": "Section 1.535",
+      "chapter": null,
+      "original": "Διονύσου χάριν οἴνας ,",
+      "translation": "delight of Dionysus ’ vine that you will have a care for Bromius ."
+    },
+    {
+      "id": "1.537",
+      "label": "Section 1.537",
+      "chapter": null,
+      "original": "οἵαν οἵαν ὀργὰν",
+      "translation": "What rage , what rage does the earth-born race show , and Pentheus ,"
+    },
+    {
+      "id": "1.540",
+      "label": "Section 1.540",
+      "chapter": null,
+      "original": "ποτε Πενθεύς , ὃν Ἐχίων",
+      "translation": "once descended from a serpent — Pentheus , whom earth-born Echion bore , a fierce monster , not a mortal man , but like a bloody giant , hostile to the gods ."
+    },
+    {
+      "id": "1.545",
+      "label": "Section 1.545",
+      "chapter": null,
+      "original": "ὃς ἔμʼ ἐν βρόχοισι τὰν τοῦ",
+      "translation": "He will soon bind me , the hand-maid of Bromius , in chains , and he already holds my fellow-reveler within the house , hidden in a dark prison ."
+    },
+    {
+      "id": "1.550",
+      "label": "Section 1.550",
+      "chapter": null,
+      "original": "ἐσορᾷς τάδʼ , ὦ Διὸς παῖ",
+      "translation": "Do you see this , O Dionysus , son of Zeus , your priests in the dangers of restraint ? Come , lord , down from Olympus , brandishing your golden thyrsos ,"
+    },
+    {
+      "id": "1.555",
+      "label": "Section 1.555",
+      "chapter": null,
+      "original": "φονίου δʼ ἀνδρὸς ὕβριν κατάσχες .",
+      "translation": "and restrain the insolence of the blood-thirsty man ."
+    },
+    {
+      "id": "556",
+      "label": "Section 556",
+      "chapter": null,
+      "original": "πόθι Νύσας ἄρα τᾶς θη-",
+      "translation": "Where on Nysa , which nourishes wild beasts , or on Corycian heights , do you lead with your thyrsos the bands of revelers ?"
+    },
+    {
+      "id": "560",
+      "label": "Section 560",
+      "chapter": null,
+      "original": "τάχα δʼ ἐν ταῖς πολυδένδρεσ-",
+      "translation": "Perhaps in the deep-wooded lairs of Olympus , where Orpheus once playing the lyre drew together trees by his songs , drew together the beasts of the fields ."
+    },
+    {
+      "id": "565",
+      "label": "Section 565",
+      "chapter": null,
+      "original": "μάκαρ ὦ Πιερία ,",
+      "translation": "Blessed Pieria , the Joyful one reveres you and will come to lead the dance in revelry ; having crossed the swiftly flowing Axius he will bring the"
+    },
+    {
+      "id": "570",
+      "label": "Section 570",
+      "chapter": null,
+      "original": "σομένας Μαινάδας ἄξει ,",
+      "translation": "whirling Maenads , leaving Lydias , giver of wealth to mortals , the father who they say fertilizes the land of beautiful horses with"
+    }
+  ],
+  "prevChunkSlug": "bacchae-ls8d9p-2",
+  "nextChunkSlug": "bacchae-ls8d9p-4"
+}

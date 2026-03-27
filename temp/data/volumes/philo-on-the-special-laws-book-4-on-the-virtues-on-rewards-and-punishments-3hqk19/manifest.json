@@ -1,0 +1,289 @@
+{
+  "loebNumber": 341,
+  "sortOrder": 341,
+  "slug": "philo-on-the-special-laws-book-4-on-the-virtues-on-rewards-and-punishments-3hqk19",
+  "title": "On the Special Laws, Book 4. On the Virtues. On Rewards and Punishments",
+  "volumeLabel": "On the Special Laws, Book 4. On the Virtues. On Rewards and Punishments",
+  "authorDisplay": "Philo",
+  "authors": [
+    "Philo"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for On the Special Laws, Book 4. On the Virtues. On Rewards and Punishments, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "on-the-special-laws-book-4-j5kaux",
+  "readyChunkCount": 8,
+  "contents": [
+    {
+      "id": "on-the-special-laws-book-4-j5kaux",
+      "title": "On the Special Laws, Book 4",
+      "status": "ready",
+      "sectionCount": 5,
+      "chunkSlug": "on-the-special-laws-book-4-j5kaux",
+      "chunks": [
+        {
+          "slug": "on-the-special-laws-book-4-j5kaux",
+          "label": "On the Special Laws, Book 4",
+          "partId": "on-the-special-laws-book-4-j5kaux",
+          "partTitle": "On the Special Laws, Book 4",
+          "sectionCount": 5,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "on-the-virtues-1n98un",
+      "title": "On the Virtues",
+      "status": "ready",
+      "sectionCount": 227,
+      "chunkSlug": "on-the-virtues-1n98un-1",
+      "chunks": [
+        {
+          "slug": "on-the-virtues-1n98un-1",
+          "label": "On the Virtues (Section 1 - Section 60)",
+          "partId": "on-the-virtues-1n98un",
+          "partTitle": "On the Virtues",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-virtues-1n98un-2",
+          "label": "On the Virtues (Section 61 - Section 120)",
+          "partId": "on-the-virtues-1n98un",
+          "partTitle": "On the Virtues",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-virtues-1n98un-3",
+          "label": "On the Virtues (Section 121 - Section 180)",
+          "partId": "on-the-virtues-1n98un",
+          "partTitle": "On the Virtues",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-virtues-1n98un-4",
+          "label": "On the Virtues (Section 181 - Section 227)",
+          "partId": "on-the-virtues-1n98un",
+          "partTitle": "On the Virtues",
+          "sectionCount": 47,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "on-rewards-and-punishments-nwv1mi",
+      "title": "On Rewards and Punishments",
+      "status": "ready",
+      "sectionCount": 172,
+      "chunkSlug": "on-rewards-and-punishments-nwv1mi-1",
+      "chunks": [
+        {
+          "slug": "on-rewards-and-punishments-nwv1mi-1",
+          "label": "On Rewards and Punishments (Section 1 - Section 60)",
+          "partId": "on-rewards-and-punishments-nwv1mi",
+          "partTitle": "On Rewards and Punishments",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-rewards-and-punishments-nwv1mi-2",
+          "label": "On Rewards and Punishments (Section 61 - Section 120)",
+          "partId": "on-rewards-and-punishments-nwv1mi",
+          "partTitle": "On Rewards and Punishments",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-rewards-and-punishments-nwv1mi-3",
+          "label": "On Rewards and Punishments (Section 121 - Section 172)",
+          "partId": "on-rewards-and-punishments-nwv1mi",
+          "partTitle": "On Rewards and Punishments",
+          "sectionCount": 52,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "on-the-special-laws-book-4-j5kaux",
+      "label": "On the Special Laws, Book 4",
+      "partId": "on-the-special-laws-book-4-j5kaux",
+      "partTitle": "On the Special Laws, Book 4",
+      "sectionCount": 5,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-virtues-1n98un-1",
+      "label": "On the Virtues (Section 1 - Section 60)",
+      "partId": "on-the-virtues-1n98un",
+      "partTitle": "On the Virtues",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-virtues-1n98un-2",
+      "label": "On the Virtues (Section 61 - Section 120)",
+      "partId": "on-the-virtues-1n98un",
+      "partTitle": "On the Virtues",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-virtues-1n98un-3",
+      "label": "On the Virtues (Section 121 - Section 180)",
+      "partId": "on-the-virtues-1n98un",
+      "partTitle": "On the Virtues",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-virtues-1n98un-4",
+      "label": "On the Virtues (Section 181 - Section 227)",
+      "partId": "on-the-virtues-1n98un",
+      "partTitle": "On the Virtues",
+      "sectionCount": 47,
+      "status": "ready"
+    },
+    {
+      "slug": "on-rewards-and-punishments-nwv1mi-1",
+      "label": "On Rewards and Punishments (Section 1 - Section 60)",
+      "partId": "on-rewards-and-punishments-nwv1mi",
+      "partTitle": "On Rewards and Punishments",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-rewards-and-punishments-nwv1mi-2",
+      "label": "On Rewards and Punishments (Section 61 - Section 120)",
+      "partId": "on-rewards-and-punishments-nwv1mi",
+      "partTitle": "On Rewards and Punishments",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-rewards-and-punishments-nwv1mi-3",
+      "label": "On Rewards and Punishments (Section 121 - Section 172)",
+      "partId": "on-rewards-and-punishments-nwv1mi",
+      "partTitle": "On Rewards and Punishments",
+      "sectionCount": 52,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "on-the-special-laws-book-4-j5kaux",
+      "partTitle": "On the Special Laws, Book 4",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Specialibus Legibus (lib. i‑iv)",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg024.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Creation of Magistrates",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg024.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-virtues-1n98un-1",
+      "partTitle": "On the Virtues",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Virtutibus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg025.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Three Virtues, that is to say, on Courage, Humanity, and Repentance",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg025.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-virtues-1n98un-2",
+      "partTitle": "On the Virtues",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Virtutibus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg025.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Three Virtues, that is to say, on Courage, Humanity, and Repentance",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg025.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-virtues-1n98un-3",
+      "partTitle": "On the Virtues",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Virtutibus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg025.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Three Virtues, that is to say, on Courage, Humanity, and Repentance",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg025.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-virtues-1n98un-4",
+      "partTitle": "On the Virtues",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Virtutibus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg025.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Three Virtues, that is to say, on Courage, Humanity, and Repentance",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg025.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-rewards-and-punishments-nwv1mi-1",
+      "partTitle": "On Rewards and Punishments",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Praemiis Et Poenis Et De Exsecrationibus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg026.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Rewards and Punishments",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg026.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-rewards-and-punishments-nwv1mi-2",
+      "partTitle": "On Rewards and Punishments",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Praemiis Et Poenis Et De Exsecrationibus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg026.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Rewards and Punishments",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg026.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-rewards-and-punishments-nwv1mi-3",
+      "partTitle": "On Rewards and Punishments",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Praemiis Et Poenis Et De Exsecrationibus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg026.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Rewards and Punishments",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg026.1st1K-eng1/"
+      }
+    }
+  ]
+}

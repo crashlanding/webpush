@@ -1,0 +1,121 @@
+{
+  "loebNumber": 33,
+  "sortOrder": 33,
+  "slug": "horace-odes-and-epodes-1k99l6",
+  "title": "Odes and Epodes",
+  "volumeLabel": "Odes and Epodes",
+  "authorDisplay": "Horace",
+  "authors": [
+    "Horace"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for Odes and Epodes, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "odes-and-epodes-54wjbo-1",
+  "readyChunkCount": 3,
+  "contents": [
+    {
+      "id": "odes-and-epodes-54wjbo",
+      "title": "Odes and Epodes",
+      "status": "ready",
+      "sectionCount": 164,
+      "chunkSlug": "odes-and-epodes-54wjbo-1",
+      "chunks": [
+        {
+          "slug": "odes-and-epodes-54wjbo-1",
+          "label": "Odes and Epodes (Section 1.1.1 - Section 2.1.24)",
+          "partId": "odes-and-epodes-54wjbo",
+          "partTitle": "Odes and Epodes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "odes-and-epodes-54wjbo-2",
+          "label": "Odes and Epodes (Section 2.1.25 - Section 3.1.44)",
+          "partId": "odes-and-epodes-54wjbo",
+          "partTitle": "Odes and Epodes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "odes-and-epodes-54wjbo-3",
+          "label": "Odes and Epodes (Section 3.1.45 - Section 4.1.40)",
+          "partId": "odes-and-epodes-54wjbo",
+          "partTitle": "Odes and Epodes",
+          "sectionCount": 44,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "odes-and-epodes-54wjbo-1",
+      "label": "Odes and Epodes (Section 1.1.1 - Section 2.1.24)",
+      "partId": "odes-and-epodes-54wjbo",
+      "partTitle": "Odes and Epodes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "odes-and-epodes-54wjbo-2",
+      "label": "Odes and Epodes (Section 2.1.25 - Section 3.1.44)",
+      "partId": "odes-and-epodes-54wjbo",
+      "partTitle": "Odes and Epodes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "odes-and-epodes-54wjbo-3",
+      "label": "Odes and Epodes (Section 3.1.45 - Section 4.1.40)",
+      "partId": "odes-and-epodes-54wjbo",
+      "partTitle": "Odes and Epodes",
+      "sectionCount": 44,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "odes-and-epodes-54wjbo-1",
+      "partTitle": "Odes and Epodes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Carmina",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0893.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Odes",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0893.phi001.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "odes-and-epodes-54wjbo-2",
+      "partTitle": "Odes and Epodes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Carmina",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0893.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Odes",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0893.phi001.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "odes-and-epodes-54wjbo-3",
+      "partTitle": "Odes and Epodes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Carmina",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0893.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Odes",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0893.phi001.perseus-eng2/"
+      }
+    }
+  ]
+}

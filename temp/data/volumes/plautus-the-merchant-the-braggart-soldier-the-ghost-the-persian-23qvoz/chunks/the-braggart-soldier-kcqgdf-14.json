@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-braggart-soldier-kcqgdf-14",
+  "label": "The Braggart Soldier (Section 4.2.1065 - Section 4.3.1123)",
+  "partId": "the-braggart-soldier-kcqgdf",
+  "partTitle": "The Braggart Soldier",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Miles Gloriosus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Miles Gloriosus, or The Braggart Captain",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi012.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "4.2.1065",
+      "label": "Section 4.2.1065",
+      "chapter": null,
+      "original": "tum argénti montes , nón massas habet , Aetna mons non aeque altos . †",
+      "translation": "Then , of silver , he has mountains , not ingots ; Aetna is not so high ."
+    },
+    {
+      "id": "4.2.1066",
+      "label": "Section 4.2.1066",
+      "chapter": null,
+      "original": "Eu ecástor hominem périurum .",
+      "translation": "By the stars ! O , what a lie !"
+    },
+    {
+      "id": "4.2.1066b",
+      "label": "Section 4.2.1066b",
+      "chapter": null,
+      "original": "Vt ludó ?",
+      "translation": "How rarely I am playing him off !"
+    },
+    {
+      "id": "4.2.1066c",
+      "label": "Section 4.2.1066c",
+      "chapter": null,
+      "original": "Quid ego ? ut sublécto ?",
+      "translation": "And I ; how do I do it ? Ain ’ t I gulling him ?"
+    },
+    {
+      "id": "4.2.1067",
+      "label": "Section 4.2.1067",
+      "chapter": null,
+      "original": "sed amábo , mitte me áctutum .",
+      "translation": "But , prithee , do let me go now ."
+    },
+    {
+      "id": "4.2.1067b",
+      "label": "Section 4.2.1067b",
+      "chapter": null,
+      "original": "Quin tu huíc respondes áliquid ,",
+      "translation": "But do you give her some answer , either that you will do it , or that you won ’ t do it ."
+    },
+    {
+      "id": "4.2.1068b",
+      "label": "Section 4.2.1068b",
+      "chapter": null,
+      "original": "Quid illám miseram animi excrúcias ,",
+      "translation": "Why cause this poor lady so much anguish of mind , who has never deserved any ill of you ?"
+    },
+    {
+      "id": "4.2.1069b",
+      "label": "Section 4.2.1069b",
+      "chapter": null,
+      "original": "Iube eámpse exire huc ád nos .",
+      "translation": "Bid her come to me herself . Tell her that I will do everything that she requires ."
+    },
+    {
+      "id": "4.2.1070b",
+      "label": "Section 4.2.1070b",
+      "chapter": null,
+      "original": "Facis núnc ut te facere aéquom ,",
+      "translation": "You now act as it is proper for you to act . since you wish the same yourself that she is wishing ."
+    },
+    {
+      "id": "4.2.1071b",
+      "label": "Section 4.2.1071b",
+      "chapter": null,
+      "original": "Non ínsulsum huic ingénium .",
+      "translation": "No poor faculty of invention has she ."
+    },
+    {
+      "id": "4.2.1072",
+      "label": "Section 4.2.1072",
+      "chapter": null,
+      "original": "Quomque me óratricem haud sprévisti sistíque exorare éx te .",
+      "translation": "Since too you have not scouted your petitioner , and have suffered me to prevail upon you . ( Aside to PALAESTRIO .) How now ? Haven ’ t I played him off ?"
+    },
+    {
+      "id": "4.2.1073b",
+      "label": "Section 4.2.1073b",
+      "chapter": null,
+      "original": "Nequeo hércle equidem risú meo moderari .",
+      "translation": "Faith , I couldn ’ t refrain from laughing ."
+    },
+    {
+      "id": "4.2.1073c",
+      "label": "Section 4.2.1073c",
+      "chapter": null,
+      "original": "⋯",
+      "translation": "Yes ; and for the same reason I turned in this direction away from you ."
+    },
+    {
+      "id": "4.2.1074b",
+      "label": "Section 4.2.1074b",
+      "chapter": null,
+      "original": "Non édepol tu scis , múlier ,",
+      "translation": "By my troth , wench , you don ’ t understand"
+    },
+    {
+      "id": "4.2.1075",
+      "label": "Section 4.2.1075",
+      "chapter": null,
+      "original": "quantum égo honorem nunc ílli habeo .",
+      "translation": "how great an honor I am now paying her ."
+    },
+    {
+      "id": "4.2.1075b",
+      "label": "Section 4.2.1075b",
+      "chapter": null,
+      "original": "Scio , et ístuc illi dícam .",
+      "translation": "I know , and I shall tell her so ."
+    },
+    {
+      "id": "4.2.1076",
+      "label": "Section 4.2.1076",
+      "chapter": null,
+      "original": "Contra aúro alii hanc vendére potuit operám .",
+      "translation": "To another he could have sold his favours for his weight in gold ."
+    },
+    {
+      "id": "4.2.1076b",
+      "label": "Section 4.2.1076b",
+      "chapter": null,
+      "original": "Pol istuc tibi crédo .",
+      "translation": "I ’ faith , I believe you in that ."
+    },
+    {
+      "id": "4.2.1077",
+      "label": "Section 4.2.1077",
+      "chapter": null,
+      "original": "Meri béllatores gígnuntur , quas híc praegnatis fécit ,",
+      "translation": "Of those that are parents by him true warriors are born , and his sons live eight hundred years ."
+    },
+    {
+      "id": "4.2.1078b",
+      "label": "Section 4.2.1078b",
+      "chapter": null,
+      "original": "Vae tibi , nugátor .",
+      "translation": "Fie on you for a fibber !"
+    },
+    {
+      "id": "4.2.1079",
+      "label": "Section 4.2.1079",
+      "chapter": null,
+      "original": "Quin mílle annorum pérpetuo vivónt , ab saeclo ad saéclum .",
+      "translation": "Why , straight on , from age to age , they live for a thousand years ."
+    },
+    {
+      "id": "4.2.1080",
+      "label": "Section 4.2.1080",
+      "chapter": null,
+      "original": "Eo mínus dixi , ne haec cénseret me advórsum se mentíri .",
+      "translation": "I spoke within limits , for the reason that she mightn ’ t suppose I was telling lies to her ."
+    },
+    {
+      "id": "4.2.1081",
+      "label": "Section 4.2.1081",
+      "chapter": null,
+      "original": "Perií , quot hic ipse annós vivet , cuius fílii tam diu vívont ?",
+      "translation": "I burst , I die ! ( Aloud .) How many years will he live himself whose sons live so long ?"
+    },
+    {
+      "id": "4.2.1082",
+      "label": "Section 4.2.1082",
+      "chapter": null,
+      "original": "Postríduo natus sum égo , mulier , quam Iúppiter ex Ope nátust .",
+      "translation": "Wench , I was born the day after Jupiter was born of Ops ."
+    },
+    {
+      "id": "4.2.1083",
+      "label": "Section 4.2.1083",
+      "chapter": null,
+      "original": "Si hic prídie natus forét quam ille est , hic habéret regnum in caélo .",
+      "translation": "If he had only been born the day before the other was , he would have had the realms of heaven ."
+    },
+    {
+      "id": "4.2.1084",
+      "label": "Section 4.2.1084",
+      "chapter": null,
+      "original": "Iam iám sat , amabo , est . sínite abeam , si póssum , viva a vóbis .",
+      "translation": "Now , now , prithee , no more do let me get away from you , if I can , alive ."
+    },
+    {
+      "id": "4.2.1085",
+      "label": "Section 4.2.1085",
+      "chapter": null,
+      "original": "Quin érgo abis , quando résponsumst ?",
+      "translation": "Why don ’ t you go then , as you have your answer ?"
+    },
+    {
+      "id": "4.2.1085b",
+      "label": "Section 4.2.1085b",
+      "chapter": null,
+      "original": "Ibo átque illam huc addúcam ,",
+      "translation": "I ’ ll go , and I ’ ll bring her here , on whose behalf I am employed . Is there aught else you wish ?"
+    },
+    {
+      "id": "4.2.1086b",
+      "label": "Section 4.2.1086b",
+      "chapter": null,
+      "original": "Ne mágis sim pulcher quám sum ,",
+      "translation": "May I never be more handsome than I am at present ; so much trouble do my good looks cause me ."
+    },
+    {
+      "id": "4.2.1087b",
+      "label": "Section 4.2.1087b",
+      "chapter": null,
+      "original": "Quid hic núnc stas ? quin abis ?",
+      "translation": "Why do you stay now ? Why don ’ t you go ?"
+    },
+    {
+      "id": "4.2.1087c",
+      "label": "Section 4.2.1087c",
+      "chapter": null,
+      "original": "Ábeo .",
+      "translation": "I ’ m going ."
+    },
+    {
+      "id": "4.2.1088",
+      "label": "Section 4.2.1088",
+      "chapter": null,
+      "original": "Atque ádeo , audin tu ? dicíto docte et cordáte , ut cor ei sáliat —",
+      "translation": "And tell her , too , do you hear , cleverly and correctly , what has passed ."
+    },
+    {
+      "id": "4.2.1089",
+      "label": "Section 4.2.1089",
+      "chapter": null,
+      "original": "Philocómasio dic , si ést istic , domum ut tránseat : hunc hic ésse .",
+      "translation": "If Philocomasium is there , tell her to pass through into our house ; that the Captain here ."
+    },
+    {
+      "id": "4.2.1090",
+      "label": "Section 4.2.1090",
+      "chapter": null,
+      "original": "Hic cúm mea era est , hinc clám nostrum hunc sermónem sublegérunt .",
+      "translation": "She is there with my mistress for , on the sly , they have been overhearing [*] this conversation ."
+    },
+    {
+      "id": "4.2.1091",
+      "label": "Section 4.2.1091",
+      "chapter": null,
+      "original": "Lepidé factumst : iam ex sérmone hoc gubernábunt doctius pórro .",
+      "translation": "’ Twas cleverly done ; here after they will take their cue the more readily from this conversation ."
+    },
+    {
+      "id": "4.2.1092",
+      "label": "Section 4.2.1092",
+      "chapter": null,
+      "original": "Remoráre , abeo . —",
+      "translation": "You are delaying me . I ’ m off ."
+    },
+    {
+      "id": "4.2.1092b",
+      "label": "Section 4.2.1092b",
+      "chapter": null,
+      "original": "Neque té remoror neque tángo neque te — táceo .",
+      "translation": "I ’ m not delaying you , nor touching you , nor [*] — I ’ m mum ."
+    },
+    {
+      "id": "4.2.1093",
+      "label": "Section 4.2.1093",
+      "chapter": null,
+      "original": "Iube máturare illam éxire huc . iam istíc rei praevortémur .",
+      "translation": "Bid her make haste to come out here ; we ’ ll give our first attention to this matter especially . ( MILPHIDIPPA goes into the house of PERIPLECOMENUS .)"
+    },
+    {
+      "id": "4.3.1094",
+      "label": "Section 4.3.1094",
+      "chapter": null,
+      "original": "Quid nunc mi es auctor ut faciam , Palaestrio ,",
+      "translation": "What do you advise me now to do , Palaestrio ,"
+    },
+    {
+      "id": "4.3.1095",
+      "label": "Section 4.3.1095",
+      "chapter": null,
+      "original": "de concubina ? nam nullo pacto potest",
+      "translation": "about my mistress ? For this lady can by no means be received into my house before I have sent the other away ."
+    },
+    {
+      "id": "4.3.1097",
+      "label": "Section 4.3.1097",
+      "chapter": null,
+      "original": "Quid me consultas quid agas ? dixi equidem tibi",
+      "translation": "Why consult me what you are to do ? So far as I am concerned , I have told you by what method that can be effected in the gentlest manner . The gold trinkets and female clothing with which you have furnished her , let her keep it all for herself : let her take it , be off , and carry it away :"
+    },
+    {
+      "id": "4.3.1101",
+      "label": "Section 4.3.1101",
+      "chapter": null,
+      "original": "dicasque tempus maxume esse , ut eat domum :",
+      "translation": "tell her that it is high time for her to go home ; say that her twin-sister and her mother are come , in company with whom she may go straight home ."
+    },
+    {
+      "id": "4.3.1104",
+      "label": "Section 4.3.1104",
+      "chapter": null,
+      "original": "Qui tu scis eas adesse ?",
+      "translation": "How do you know that they are here ?"
+    },
+    {
+      "id": "4.3.1104b",
+      "label": "Section 4.3.1104b",
+      "chapter": null,
+      "original": "Quia oculis meis",
+      "translation": "Because , with my own eyes , I ’ ve seen her sister here ."
+    },
+    {
+      "id": "4.3.1105b",
+      "label": "Section 4.3.1105b",
+      "chapter": null,
+      "original": "Convenitne eam ?",
+      "translation": "Have you met her ?"
+    },
+    {
+      "id": "4.3.1106",
+      "label": "Section 4.3.1106",
+      "chapter": null,
+      "original": "Convenit .",
+      "translation": "I have met her ."
+    },
+    {
+      "id": "4.3.1106b",
+      "label": "Section 4.3.1106b",
+      "chapter": null,
+      "original": "Ecquid fortis visast ?",
+      "translation": "And did she seem a brisk wench ?"
+    },
+    {
+      "id": "4.3.1106c",
+      "label": "Section 4.3.1106c",
+      "chapter": null,
+      "original": "Omnia",
+      "translation": "You are wishing to have everything ."
+    },
+    {
+      "id": "4.3.1107b",
+      "label": "Section 4.3.1107b",
+      "chapter": null,
+      "original": "Vbi matrem esse aiebat soror ?",
+      "translation": "Where did the sister say her mother was ?"
+    },
+    {
+      "id": "4.3.1108",
+      "label": "Section 4.3.1108",
+      "chapter": null,
+      "original": "Cubare in navi lippam atque oculis turgidis",
+      "translation": "The captain that brought them told me that she was in bed , on board the ship , with sore and inflamed eyes ."
+    },
+    {
+      "id": "4.3.1110",
+      "label": "Section 4.3.1110",
+      "chapter": null,
+      "original": "is ad hos nauclerus hospitio devortitur .",
+      "translation": "This captain of the ship is lodging with them next door ."
+    },
+    {
+      "id": "4.3.1111",
+      "label": "Section 4.3.1111",
+      "chapter": null,
+      "original": "Quid is ? ecquid fortis ?",
+      "translation": "And he , too , is he a very fine fellow ?"
+    },
+    {
+      "id": "4.3.1111b",
+      "label": "Section 4.3.1111b",
+      "chapter": null,
+      "original": "Abi sis hinc , nam tu quidem",
+      "translation": "Away with you , if you please . What have you [*] to do with him ? You have your hands quite full enough with the women . Attend to this for the present ."
+    },
+    {
+      "id": "4.3.1114b",
+      "label": "Section 4.3.1114b",
+      "chapter": null,
+      "original": "Istuc quod das consilium mihi ,",
+      "translation": "As to that advice you were giving me ,"
+    },
+    {
+      "id": "4.3.1115",
+      "label": "Section 4.3.1115",
+      "chapter": null,
+      "original": "te cum illa verba facere de ista re volo ;",
+      "translation": "I wish you to have a few words with her upon that subject . For , really , a conversation on that subject with her is more becoming [*] for you ."
+    },
+    {
+      "id": "4.3.1117",
+      "label": "Section 4.3.1117",
+      "chapter": null,
+      "original": "Qui potius quam tute adeas , tuam rem tute agas ?",
+      "translation": "What is more advisable than for you to go yourself , and transact your own concerns ? You must say that it is absolutely necessary for you to marry : that your relations are persuading , your friends are urging , you ."
+    },
+    {
+      "id": "4.3.1120",
+      "label": "Section 4.3.1120",
+      "chapter": null,
+      "original": "Itan tu censes ?",
+      "translation": "And do you think so ?"
+    },
+    {
+      "id": "4.3.1120b",
+      "label": "Section 4.3.1120b",
+      "chapter": null,
+      "original": "Quid ego ní ita censeam ?",
+      "translation": "Why shouldn ’ t I think so ?"
+    },
+    {
+      "id": "4.3.1121",
+      "label": "Section 4.3.1121",
+      "chapter": null,
+      "original": "Ibo igitur intro . tu hic ante aedis interim",
+      "translation": "I ’ ll go in , then . Do you , in the mean time , keep watch here before the house , that when the other woman comes out you may call me out ."
+    },
+    {
+      "id": "4.3.1123",
+      "label": "Section 4.3.1123",
+      "chapter": null,
+      "original": "Tu modo istuc cura quod agis .",
+      "translation": "Do you only mind the business that you are upon ."
+    }
+  ],
+  "prevChunkSlug": "the-braggart-soldier-kcqgdf-13",
+  "nextChunkSlug": "the-braggart-soldier-kcqgdf-15"
+}

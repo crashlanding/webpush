@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "aristophanes-clouds-wasps-peace-1iac3h",
+  "volumeTitle": "Clouds. Wasps. Peace",
+  "authorDisplay": "Aristophanes",
+  "authors": [
+    "Aristophanes"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "clouds-xffta6-10",
+  "label": "Clouds (Section 1068 - Section 1187)",
+  "partId": "clouds-xffta6",
+  "partTitle": "Clouds",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Νεφέλαι",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Clouds",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg003.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1068",
+      "label": "Section 1068",
+      "chapter": null,
+      "original": "κᾆτʼ ἀπολιποῦσά γʼ αὐτὸν ᾤχετʼ · οὐ γὰρ ἦν ὑβριστὴς",
+      "translation": "And then she went off and left him ; for he was not lustful , nor an agreeable bedfellow to spend the night with ."
+    },
+    {
+      "id": "1070",
+      "label": "Section 1070",
+      "chapter": null,
+      "original": "γυνὴ δὲ σιναμωρουμένη χαίρει · σὺ δʼ εἶ Κρόνιππος .",
+      "translation": "Now a woman delights in being wantonly treated . But you are an old dotard . For ( to Phidippides ). consider , O youth , all that attaches to modesty , and of how many pleasures you are about to be deprived — of women , of games at cottabus , of dainties , of drinking-bouts , of giggling . And yet , what is life worth to you if you be deprived of these enjoyments ?"
+    },
+    {
+      "id": "1075",
+      "label": "Section 1075",
+      "chapter": null,
+      "original": "εἶεν . πάρειμʼ ἐντεῦθεν ἐς τὰς τῆς φύσεως ἀνάγκας .",
+      "translation": "Well , I will pass from thence to the necessities of our nature . You have gone astray , you have fallen in love , you have been guilty of some adultery , and then have been caught . You are undone , for you are unable to speak . But if you associate with me , indulge your inclination , dance , laugh , and think nothing disgraceful . For if you should happen to be detected as an adulterer , you will make this reply to him ,"
+    },
+    {
+      "id": "1080",
+      "label": "Section 1080",
+      "chapter": null,
+      "original": "ὡς οὐδὲν ἠδίκηκας · εἶτʼ ἐς τὸν Δίʼ ἐπανενεγκεῖν ,",
+      "translation": "that you have done him no injury : and then refer him to Jupiter , how even he is overcome by love and women . And yet , how could you , who are a mortal , have greater power than a god ?"
+    },
+    {
+      "id": "1083",
+      "label": "Section 1083",
+      "chapter": null,
+      "original": "τί δʼ ἢν ῥαφανιδωθῇ πιθόμενός σοι τέφρᾳ τε τιλθῇ ,",
+      "translation": "But what if he should suffer the radish through obeying you , and be depillated with hot ashes ? What argument will he be able to state , to prove that he is not a blackguard ?"
+    },
+    {
+      "id": "1085",
+      "label": "Section 1085",
+      "chapter": null,
+      "original": "ἢν δʼ εὐρύπρωκτος ᾖ , τί πείσεται κακόν ;",
+      "translation": "And if he be a blackguard , what harm will he suffer ?"
+    },
+    {
+      "id": "1086",
+      "label": "Section 1086",
+      "chapter": null,
+      "original": "τί μὲν οὖν ἂν ἔτι μεῖζον πάθοι τούτου ποτέ ;",
+      "translation": "Nay , what could he ever suffer still greater than this ?"
+    },
+    {
+      "id": "1087",
+      "label": "Section 1087",
+      "chapter": null,
+      "original": "τί δῆτʼ ἐρεῖς , ἢν τοῦτο νικηθῇς ἐμοῦ ;",
+      "translation": "What then will you say if you be conquered by me in this ?"
+    },
+    {
+      "id": "1088",
+      "label": "Section 1088",
+      "chapter": null,
+      "original": "σιγήσομαι . τί δʼ ἄλλο ;",
+      "translation": "I will be silent : what else can I do ?"
+    },
+    {
+      "id": "1088b",
+      "label": "Section 1088b",
+      "chapter": null,
+      "original": "φέρε δή μοι φράσον ·",
+      "translation": "Come , now , tell me ; from what class do the advocates come ?"
+    },
+    {
+      "id": "1090",
+      "label": "Section 1090",
+      "chapter": null,
+      "original": "ἐξ εὐρυπρώκτων .",
+      "translation": "From the blackguards ."
+    },
+    {
+      "id": "1090b",
+      "label": "Section 1090b",
+      "chapter": null,
+      "original": "πείθομαι .",
+      "translation": "I believe you . What then ? From what class do tragedians come ?"
+    },
+    {
+      "id": "1092",
+      "label": "Section 1092",
+      "chapter": null,
+      "original": "ἐξ εὐρυπρώκτων .",
+      "translation": "From the blackguards ."
+    },
+    {
+      "id": "1092b",
+      "label": "Section 1092b",
+      "chapter": null,
+      "original": "εὖ λέγεις .",
+      "translation": "You say well . But from what class do the public orators come ?"
+    },
+    {
+      "id": "1094",
+      "label": "Section 1094",
+      "chapter": null,
+      "original": "ἐξ εὐρυπρώκτων .",
+      "translation": "From the blackguards ."
+    },
+    {
+      "id": "1094b",
+      "label": "Section 1094b",
+      "chapter": null,
+      "original": "ἆρα δῆτʼ",
+      "translation": "Then have you perceived that you say nothing to the purpose ? And look which class among the audience is the more numerous ."
+    },
+    {
+      "id": "1097b",
+      "label": "Section 1097b",
+      "chapter": null,
+      "original": "καὶ δὴ σκοπῶ .",
+      "translation": "Well now , I ’ m looking ."
+    },
+    {
+      "id": "1098",
+      "label": "Section 1098",
+      "chapter": null,
+      "original": "τί δῆθʼ ὁρᾷς ;",
+      "translation": "What , then , do you see ?"
+    },
+    {
+      "id": "1098a",
+      "label": "Section 1098a",
+      "chapter": null,
+      "original": "πολὺ πλείονας νὴ τοὺς θεοὺς",
+      "translation": "By the gods , the blackguards to be far more numerous . This fellow , at any rate , I know ; and him yonder ; and this fellow with the long hair ."
+    },
+    {
+      "id": "1101a",
+      "label": "Section 1101a",
+      "chapter": null,
+      "original": "τί δῆτʼ ἐρεῖς ;",
+      "translation": "What , then , will you say ?"
+    },
+    {
+      "id": "1102",
+      "label": "Section 1102",
+      "chapter": null,
+      "original": "ἡττήμεθʼ · ὦ κινούμενοι",
+      "translation": "We are conquered . Ye blackguards , by the gods , receive my cloak , for I desert to you ."
+    },
+    {
+      "id": "1105",
+      "label": "Section 1105",
+      "chapter": null,
+      "original": "τί δῆτα ; πότερα τοῦτον ἀπάγεσθαι λαβὼν",
+      "translation": "What then ? whether do you wish to take and lead away this your son , or shall I teach him to speak ?"
+    },
+    {
+      "id": "1107",
+      "label": "Section 1107",
+      "chapter": null,
+      "original": "δίδασκε καὶ κόλαζε καὶ μέμνησʼ ὅπως",
+      "translation": "Teach him , and chastise him : and remember that you train him properly ; on the one side able for petty suits ; but train his other jaw able for the more important causes ."
+    },
+    {
+      "id": "1111",
+      "label": "Section 1111",
+      "chapter": null,
+      "original": "ἀμέλει κομιεῖ τοῦτον σοφιστὴν δεξιόν .",
+      "translation": "Make yourself easy ; you shall receive him back a clever sophist ."
+    },
+    {
+      "id": "1112",
+      "label": "Section 1112",
+      "chapter": null,
+      "original": "ὠχρὸν μὲν οὖν οἶμαί γε καὶ κακοδαίμονα .",
+      "translation": "Nay , rather , pale and wretched ."
+    },
+    {
+      "id": "1113",
+      "label": "Section 1113",
+      "chapter": null,
+      "original": "χωρεῖτέ νυν . οἶμαι δέ σοι ταῦτα μεταμελήσειν .",
+      "translation": "Go ye , then : but I think that you will repent of these proceedings ."
+    },
+    {
+      "id": "1115",
+      "label": "Section 1115",
+      "chapter": null,
+      "original": "τοὺς κριτὰς ἃ κερδανοῦσιν , ἤν τι τόνδε τὸν χορὸν",
+      "translation": "We wish to speak about the judges , what they will gain , if at all they justly assist this Chorus . For in the first place , if you wish to plough up your fields in spring , we will rain for you first ; but for the others afterward . And then we will protect the fruits , and the vines ,"
+    },
+    {
+      "id": "1120",
+      "label": "Section 1120",
+      "chapter": null,
+      "original": "ὥστε μήτʼ αὐχμὸν πιέζειν μήτʼ ἄγαν ἐπομβρίαν .",
+      "translation": "so that neither drought afflict them , nor excessive wet weather . But if any mortal dishonour us who are goddesses , let him consider what evils he will suffer at our hands , obtaining neither wine nor anything else from his farm . For when his olives and vines sprout , they shall be cut down ; with such slings"
+    },
+    {
+      "id": "1125",
+      "label": "Section 1125",
+      "chapter": null,
+      "original": "ἀποκεκόψονται · τοιαύταις σφενδόναις παιήσομεν .",
+      "translation": "will we smite them . And if we see him making brick , we will rain ; and we will smash the tiles of his roof with round hailstones . And if he himself , or any one of his kindred or friends , at any time marry , we will rain the whole night ; so he will probably wish rather to have been"
+    },
+    {
+      "id": "1130",
+      "label": "Section 1130",
+      "chapter": null,
+      "original": "κἂν ἐν Αἰγύπτῳ τυχεῖν ὢν μᾶλλον ἢ κρῖναι κακῶς .",
+      "translation": "even in Egypt than to have judged badly ."
+    },
+    {
+      "id": "1131",
+      "label": "Section 1131",
+      "chapter": null,
+      "original": "πέμπτη , τετράς , τρίτη , μετὰ ταύτην δευτέρα ,",
+      "translation": "The fifth , the fourth , the third , after this the second ; and then , of all the days I most fear , and dread , and abominate , immediately after this there is the Old and New ."
+    },
+    {
+      "id": "1135",
+      "label": "Section 1135",
+      "chapter": null,
+      "original": "πᾶς γάρ τις ὀμνὺς οἷς ὀφείλων τυγχάνω ,",
+      "translation": "For every one to whom I happen to be indebted , swears , and says he will ruin and destroy me , having made his deposits against me ; though I only ask what is moderate and just — My good sir , one part don ’ t take just now ; the other part put off I pray ; and the other part remit ; they say that thus"
+    },
+    {
+      "id": "1140",
+      "label": "Section 1140",
+      "chapter": null,
+      "original": "οὕτως ἀπολήψεσθʼ , ἀλλὰ λοιδοροῦσί με",
+      "translation": "they will never get back their money , but abuse me , as I am unjust , and say they will go to law with me . Now therefore let them go to law , for it little concerns me , if Phidippides has learned to speak well . I shall soon know by knocking at the thinking-shop ."
+    },
+    {
+      "id": "1145",
+      "label": "Section 1145",
+      "chapter": null,
+      "original": "παῖ , ἠμί , παῖ παῖ .",
+      "translation": "Boy , I say ! Boy , boy !"
+    },
+    {
+      "id": "1145b",
+      "label": "Section 1145b",
+      "chapter": null,
+      "original": "Στρεψιάδην ἀσπάζομαι .",
+      "translation": "Good morning , Strepsiades ."
+    },
+    {
+      "id": "1146",
+      "label": "Section 1146",
+      "chapter": null,
+      "original": "κἄγωγέ σʼ · ἀλλὰ τουτονὶ πρῶτον λαβέ ·",
+      "translation": "The same to you . But first accept this present ; for one ought to compliment the teacher with a fee . And tell me about my son , if he has learned that cause , which you just now brought forward ."
+    },
+    {
+      "id": "1150",
+      "label": "Section 1150",
+      "chapter": null,
+      "original": "μεμάθηκεν .",
+      "translation": "He has learned it ."
+    },
+    {
+      "id": "1150b",
+      "label": "Section 1150b",
+      "chapter": null,
+      "original": "εὖ γʼ ὦ παμβασίλειʼ Ἀπαιόλη .",
+      "translation": "Well done , O Fraud , all-powerful queen !"
+    },
+    {
+      "id": "1151",
+      "label": "Section 1151",
+      "chapter": null,
+      "original": "ὥστʼ ἀποφύγοις ἂν ἥντινʼ ἂν βούλῃ δίκην .",
+      "translation": "So that you can get clear off from whatever suit you please ."
+    },
+    {
+      "id": "1152",
+      "label": "Section 1152",
+      "chapter": null,
+      "original": "κεἰ μάρτυρες παρῆσαν , ὅτʼ ἐδανειζόμην ;",
+      "translation": "Even if witnesses were present when I borrowed the money ?"
+    },
+    {
+      "id": "1153",
+      "label": "Section 1153",
+      "chapter": null,
+      "original": "πολλῷ γε μᾶλλον , κἂν παρῶσι χίλιοι .",
+      "translation": "Yea , much more ! Even if a thousand be present ."
+    },
+    {
+      "id": "1154",
+      "label": "Section 1154",
+      "chapter": null,
+      "original": "βοάσομαί τἄρα τὰν ὑπέρτονον",
+      "translation": "Then I will shout with a very loud"
+    },
+    {
+      "id": "1155",
+      "label": "Section 1155",
+      "chapter": null,
+      "original": "βοάν . ἰὼ κλάετʼ ὦ ʼβολοστάται",
+      "translation": "shout : Ho ! Weep , you petty-usurers , both you and your principals , and your compound interests ! For you can no longer do me any harm , because such a son is being reared for me in this house ,"
+    },
+    {
+      "id": "1160",
+      "label": "Section 1160",
+      "chapter": null,
+      "original": "ἀμφήκει γλώττῃ λάμπων ,",
+      "translation": "shining with a double-edged tongue , for my guardian , the preserver of my house , a mischief to my enemies , ending the sadness of the great woes of his father . Him do thou run and summon from within to me ."
+    },
+    {
+      "id": "1165",
+      "label": "Section 1165",
+      "chapter": null,
+      "original": "ὦ τέκνον ὦ παῖ ἔξελθʼ οἴκων ,",
+      "translation": "[*] O child ! O son ! Come forth from the house ! Hear your father ! Re-enter Socrates leading in Phidippides . Lo , here is the man !"
+    },
+    {
+      "id": "1168",
+      "label": "Section 1168",
+      "chapter": null,
+      "original": "ὦ φίλος ὦ φίλος .",
+      "translation": "O my dear , my dear !"
+    },
+    {
+      "id": "1169",
+      "label": "Section 1169",
+      "chapter": null,
+      "original": "ἄπιθι συλλαβών .",
+      "translation": "Take your son and depart ."
+    },
+    {
+      "id": "1170",
+      "label": "Section 1170",
+      "chapter": null,
+      "original": "ἰὼ ἰὼ τέκνον , ἰὼ ἰοῦ ἰοῦ .",
+      "translation": "Oh , oh , my child ! Huzza ! Huzza ! How I am delighted at the first sight of your complexion ! Now , indeed , you are , in the first place , negative and disputatious to look at , and this fashion native to the place plainly appears , the what do you say ? and the seeming"
+    },
+    {
+      "id": "1175",
+      "label": "Section 1175",
+      "chapter": null,
+      "original": "ἀδικοῦντʼ ἀδικεῖσθαι καὶ κακουργοῦντʼ οἶδʼ ὅτι ·",
+      "translation": "to be injured when , I well know , you are injuring and inflicting a wrong ; and in your countenance there is the Attic look . Now , therefore , see that you save me , since you have also ruined me ."
+    },
+    {
+      "id": "1178",
+      "label": "Section 1178",
+      "chapter": null,
+      "original": "φοβεῖ δὲ δὴ τί ;",
+      "translation": "What , pray , do you fear ?"
+    },
+    {
+      "id": "1178b",
+      "label": "Section 1178b",
+      "chapter": null,
+      "original": "τὴν ἕνην τε καὶ νέαν .",
+      "translation": "The Old and New ."
+    },
+    {
+      "id": "1179",
+      "label": "Section 1179",
+      "chapter": null,
+      "original": "ἕνη γάρ ἐστι καὶ νέα τις ἡμέρα ;",
+      "translation": "Why , is any day old and new ?"
+    },
+    {
+      "id": "1180",
+      "label": "Section 1180",
+      "chapter": null,
+      "original": "εἰς ἥν γε θήσειν τὰ πρυτανεῖά φασί μοι .",
+      "translation": "Yes ; on which they say that they will make their deposits against me ."
+    },
+    {
+      "id": "1181",
+      "label": "Section 1181",
+      "chapter": null,
+      "original": "ἀπολοῦσʼ ἄρʼ αὔθʼ οἱ θέντες · οὐ γὰρ ἔσθʼ ὅπως",
+      "translation": "Then those that have made them will lose them ; for it is not possible that two days can be one day ."
+    },
+    {
+      "id": "1183",
+      "label": "Section 1183",
+      "chapter": null,
+      "original": "οὐκ ἂν γένοιτο ;",
+      "translation": "Can not it ?"
+    },
+    {
+      "id": "1183b",
+      "label": "Section 1183b",
+      "chapter": null,
+      "original": "πῶς γάρ ; εἰ μή πέρ γʼ ἅμα",
+      "translation": "Certainly not ; unless the same woman can be both old and young at the same time ."
+    },
+    {
+      "id": "1185",
+      "label": "Section 1185",
+      "chapter": null,
+      "original": "καὶ μὴν νενόμισταί γʼ .",
+      "translation": "And yet it is the law ."
+    },
+    {
+      "id": "1185b",
+      "label": "Section 1185b",
+      "chapter": null,
+      "original": "οὐ γάρ , οἶμαι , τὸν νόμον",
+      "translation": "For they do not , I think , rightly understand what the law means ."
+    },
+    {
+      "id": "1186b",
+      "label": "Section 1186b",
+      "chapter": null,
+      "original": "νοεῖ δὲ τί ;",
+      "translation": "And what does it mean ?"
+    },
+    {
+      "id": "1187",
+      "label": "Section 1187",
+      "chapter": null,
+      "original": "ὁ Σόλων ὁ παλαιὸς ἦν φιλόδημος τὴν φύσιν .",
+      "translation": "The ancient Solon was by nature the commons ’ friend ."
+    }
+  ],
+  "prevChunkSlug": "clouds-xffta6-9",
+  "nextChunkSlug": "clouds-xffta6-11"
+}

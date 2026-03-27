@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-ghost-1vjypr-4",
+  "label": "The Ghost (Section 1.4.333d - Section 2.1.380)",
+  "partId": "the-ghost-1vjypr",
+  "partTitle": "The Ghost",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Mostellaria",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Mostellaria, or The Haunted House",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.4.333d",
+      "label": "Section 1.4.333d",
+      "chapter": null,
+      "original": "An ne scis ?",
+      "translation": "I know ."
+    },
+    {
+      "id": "1.4.334",
+      "label": "Section 1.4.334",
+      "chapter": null,
+      "original": "Scio , ín mentem venít modo :",
+      "translation": "It has just come into my head :"
+    },
+    {
+      "id": "1.4.335",
+      "label": "Section 1.4.335",
+      "chapter": null,
+      "original": "nempe dómum eo comissátum .",
+      "translation": "why , of course I ’ m going home for a booze ."
+    },
+    {
+      "id": "1.4.335ab",
+      "label": "Section 1.4.335ab",
+      "chapter": null,
+      "original": "Iam mémini .",
+      "translation": "Why yes , really now I do remember that ."
+    },
+    {
+      "id": "1.4.336",
+      "label": "Section 1.4.336",
+      "chapter": null,
+      "original": "Núm non vis me óbviam hís ire , anime mi ?",
+      "translation": "Won ’ t you let me go to find them , my life ? Of all persons I wish well to him especially . I ’ ll return just now ."
+    },
+    {
+      "id": "1.4.338b",
+      "label": "Section 1.4.338b",
+      "chapter": null,
+      "original": "Diu ést iam id mihi .",
+      "translation": "That just now is a long time to me ."
+    },
+    {
+      "id": "1.4.339",
+      "label": "Section 1.4.339",
+      "chapter": null,
+      "original": "Écquis hic ést ?",
+      "translation": "Is there any person here ?"
+    },
+    {
+      "id": "1.4.339b",
+      "label": "Section 1.4.339b",
+      "chapter": null,
+      "original": "Adest .",
+      "translation": "’ Tis he ."
+    },
+    {
+      "id": "1.4.339c",
+      "label": "Section 1.4.339c",
+      "chapter": null,
+      "original": "Eú , Philolaches ,",
+      "translation": "Bravo ! Philolaches ,"
+    },
+    {
+      "id": "1.4.340",
+      "label": "Section 1.4.340",
+      "chapter": null,
+      "original": "sálve , amicíssime mi ómnium hominum .",
+      "translation": "good day to you , most friendly to me of all men ."
+    },
+    {
+      "id": "1.4.341",
+      "label": "Section 1.4.341",
+      "chapter": null,
+      "original": "Dí te ament . áccuba , Cállidamates .",
+      "translation": "May the Gods bless you . ( Pointing to a couch .) Take your place , Callidamates . ( He takes his place .) Whence are you betaking yourself ?"
+    },
+    {
+      "id": "1.4.342b",
+      "label": "Section 1.4.342b",
+      "chapter": null,
+      "original": "Únde homo ébrius probe .",
+      "translation": "Whence a drunken man does ."
+    },
+    {
+      "id": "1.4.343",
+      "label": "Section 1.4.343",
+      "chapter": null,
+      "original": "Quín amabo áccubas , Délphium mea ?",
+      "translation": "Well said . But , my Delphium , do take your place , there ’ s a dear ."
+    },
+    {
+      "id": "1.4.344",
+      "label": "Section 1.4.344",
+      "chapter": null,
+      "original": "da ílli quod bibat .",
+      "translation": "Give her something to drink ."
+    },
+    {
+      "id": "1.4.344b",
+      "label": "Section 1.4.344b",
+      "chapter": null,
+      "original": "Dórmiam ego iam .",
+      "translation": "I shall go to sleep directly ."
+    },
+    {
+      "id": "1.4.345",
+      "label": "Section 1.4.345",
+      "chapter": null,
+      "original": "Núm mirum aut novom quíppiam facit ?",
+      "translation": "He doesn ’ t do anything wonderful or strange ."
+    },
+    {
+      "id": "1.4.346",
+      "label": "Section 1.4.346",
+      "chapter": null,
+      "original": "Quíd ego hoc faciam póstea ?",
+      "translation": "What shall I do with him then , my dear ?"
+    },
+    {
+      "id": "1.4.346b",
+      "label": "Section 1.4.346b",
+      "chapter": null,
+      "original": "Mea , síc sine eumpse .",
+      "translation": "Let him alone just as he is ."
+    },
+    {
+      "id": "1.4.347",
+      "label": "Section 1.4.347",
+      "chapter": null,
+      "original": "age tu ínterim da ab Délphio cito cántharum circum .",
+      "translation": "Come , you boy . Meanwhile , speedily pass the goblet round , beginning with Delphium ."
+    },
+    {
+      "id": "2.1.348",
+      "label": "Section 2.1.348",
+      "chapter": null,
+      "original": "Iúppiter supremus summis opibus atque industriis",
+      "translation": "Supreme Jove , with all his might and resources , is seeking for me and Philolaches , my master ’ s son , to be undone ."
+    },
+    {
+      "id": "2.1.350",
+      "label": "Section 2.1.350",
+      "chapter": null,
+      "original": "occidit Spes nostra , nusquam stabulum est Confidentiae ,",
+      "translation": "Our hopes are destroyed ; nowhere is there any hold for courage ; not even Salvation [*] now could save us if she wished . Such an immense mountain of woe have I just now seen at the harbour : my master has arrived from abroad ; Tranio is undone ! ( To the . AUDIENCE .) Is there any person who ’ d like to make gain of a little money ,"
+    },
+    {
+      "id": "2.1.355",
+      "label": "Section 2.1.355",
+      "chapter": null,
+      "original": "quí hodie sese excruciari meam vicem possit pati ?",
+      "translation": "who could this day endure to take my place in being tortured ? Where are those fellows hardened to a flogging , the wearers-out of iron chains , or those , who , for the consideration of three didrachms , would get beneath besieging towers [*] , where some are in the way of having their bodies pierced with fifteen spears ? I ’ ll give a talent to that man who shall be the first to run to the cross for me ;"
+    },
+    {
+      "id": "2.1.360",
+      "label": "Section 2.1.360",
+      "chapter": null,
+      "original": "sed ea lege , ut offigantur bis pedes , bis bracchia .",
+      "translation": "but on condition that twice his feet , twice his arms [*] are fastened there . When that shall have been done , then ask the money down of me . But am I not a wretched fellow , not at full speed to be running home ?"
+    },
+    {
+      "id": "2.1.363",
+      "label": "Section 2.1.363",
+      "chapter": null,
+      "original": "Adest adest opsonium . eccum Tranio a portu redit .",
+      "translation": "Here come the provisions ; see , here ’ s Tranio ; he ’ s come back from the harbour ."
+    },
+    {
+      "id": "2.1.364",
+      "label": "Section 2.1.364",
+      "chapter": null,
+      "original": "Philolaches .",
+      "translation": "Philolaches !"
+    },
+    {
+      "id": "2.1.364b",
+      "label": "Section 2.1.364b",
+      "chapter": null,
+      "original": "Quid est ?",
+      "translation": "What ’ s the matter ?"
+    },
+    {
+      "id": "2.1.364c",
+      "label": "Section 2.1.364c",
+      "chapter": null,
+      "original": "Et ego et tu —",
+      "translation": "Both I and you —"
+    },
+    {
+      "id": "2.1.364d",
+      "label": "Section 2.1.364d",
+      "chapter": null,
+      "original": "Quid et ego et tu ?",
+      "translation": "What about Both I and you ?"
+    },
+    {
+      "id": "2.1.364e",
+      "label": "Section 2.1.364e",
+      "chapter": null,
+      "original": "Periimus .",
+      "translation": "Are undone !"
+    },
+    {
+      "id": "2.1.365",
+      "label": "Section 2.1.365",
+      "chapter": null,
+      "original": "Quid ita ?",
+      "translation": "Why so ?"
+    },
+    {
+      "id": "2.1.365b",
+      "label": "Section 2.1.365b",
+      "chapter": null,
+      "original": "Pater adest .",
+      "translation": "Your father ’ s here ."
+    },
+    {
+      "id": "2.1.365c",
+      "label": "Section 2.1.365c",
+      "chapter": null,
+      "original": "Quid ego ex te aúdio ?",
+      "translation": "What is it I hear of you ?"
+    },
+    {
+      "id": "2.1.365d",
+      "label": "Section 2.1.365d",
+      "chapter": null,
+      "original": "Absumpti sumus .",
+      "translation": "We are finished up . Your father ’ s come , I say ."
+    },
+    {
+      "id": "2.1.366b",
+      "label": "Section 2.1.366b",
+      "chapter": null,
+      "original": "Vbi is est , obsecro ?",
+      "translation": "Where is he , I do entreat you ?"
+    },
+    {
+      "id": "2.1.366c",
+      "label": "Section 2.1.366c",
+      "chapter": null,
+      "original": "⋯ adest .",
+      "translation": "He ’ s coming ."
+    },
+    {
+      "id": "2.1.367",
+      "label": "Section 2.1.367",
+      "chapter": null,
+      "original": "Quis id ait ? quis vidit ?",
+      "translation": "Coming ? Who says so ? Who has seen him ?"
+    },
+    {
+      "id": "2.1.367b",
+      "label": "Section 2.1.367b",
+      "chapter": null,
+      "original": "Egomet inquam vidi .",
+      "translation": "I saw him myself , I tell you ."
+    },
+    {
+      "id": "2.1.367c",
+      "label": "Section 2.1.367c",
+      "chapter": null,
+      "original": "Vae mihi .",
+      "translation": "Woe unto me ! what am I about ?"
+    },
+    {
+      "id": "2.1.368b",
+      "label": "Section 2.1.368b",
+      "chapter": null,
+      "original": "Nam quid tu , malum , me rogitas quid agas ? accubas .",
+      "translation": "Why the plague now do you ask me what you are about ? Taking your place at table , of course ."
+    },
+    {
+      "id": "2.1.369",
+      "label": "Section 2.1.369",
+      "chapter": null,
+      "original": "Tutin vidisti ?",
+      "translation": "Did you see him ?"
+    },
+    {
+      "id": "2.1.369b",
+      "label": "Section 2.1.369b",
+      "chapter": null,
+      "original": "Egomet , inquam .",
+      "translation": "I my own self , I tell you ."
+    },
+    {
+      "id": "2.1.369c",
+      "label": "Section 2.1.369c",
+      "chapter": null,
+      "original": "Certe ?",
+      "translation": "For certain ?"
+    },
+    {
+      "id": "2.1.369d",
+      "label": "Section 2.1.369d",
+      "chapter": null,
+      "original": "Certe inquam .",
+      "translation": "For certain , I tell you ."
+    },
+    {
+      "id": "2.1.369e",
+      "label": "Section 2.1.369e",
+      "chapter": null,
+      "original": "Occidi ,",
+      "translation": "I ’ m undone ,"
+    },
+    {
+      "id": "2.1.370",
+      "label": "Section 2.1.370",
+      "chapter": null,
+      "original": "si tu vera memoras .",
+      "translation": "if you are telling the truth ."
+    },
+    {
+      "id": "2.1.370b",
+      "label": "Section 2.1.370b",
+      "chapter": null,
+      "original": "Quid mihi sit boni , si mentiar ?",
+      "translation": "What good could it be to me if I told a lie ?"
+    },
+    {
+      "id": "2.1.371",
+      "label": "Section 2.1.371",
+      "chapter": null,
+      "original": "Quid ego nunc faciam ?",
+      "translation": "What shall I do now ?"
+    },
+    {
+      "id": "2.1.371b",
+      "label": "Section 2.1.371b",
+      "chapter": null,
+      "original": "Iube haec hinc omnia amolirier .",
+      "translation": "Order all these things to be removed from here . ( Pointing .) Who ’ s that asleep there ?"
+    },
+    {
+      "id": "2.1.372b",
+      "label": "Section 2.1.372b",
+      "chapter": null,
+      "original": "Callidamates .",
+      "translation": "Callidamates ."
+    },
+    {
+      "id": "2.1.372c",
+      "label": "Section 2.1.372c",
+      "chapter": null,
+      "original": "Suscita istum , Delphium .",
+      "translation": "Arouse him , Delphium ."
+    },
+    {
+      "id": "2.1.373",
+      "label": "Section 2.1.373",
+      "chapter": null,
+      "original": "Callidamates , Callidamates , vigila .",
+      "translation": "Callidamates ! Callidamates ! awake !"
+    },
+    {
+      "id": "2.1.373b",
+      "label": "Section 2.1.373b",
+      "chapter": null,
+      "original": "Vigilo , cedo ut bibam .",
+      "translation": "I am awake ; give me something to drink ."
+    },
+    {
+      "id": "2.1.374",
+      "label": "Section 2.1.374",
+      "chapter": null,
+      "original": "Vigila . pater advenit peregre Philolachis .",
+      "translation": "Awake ; the father of Philolaches has arrived from abroad ."
+    },
+    {
+      "id": "2.1.374b",
+      "label": "Section 2.1.374b",
+      "chapter": null,
+      "original": "Valeat pater .",
+      "translation": "I hope his father ’ s well ."
+    },
+    {
+      "id": "2.1.375",
+      "label": "Section 2.1.375",
+      "chapter": null,
+      "original": "Valet ille quidem , atque ego disperii .",
+      "translation": "He is well indeed ; but I am utterly undone ."
+    },
+    {
+      "id": "2.1.375b",
+      "label": "Section 2.1.375b",
+      "chapter": null,
+      "original": "Bis periisti ? qui potest ?",
+      "translation": "You , utterly undone ? How can that be ?"
+    },
+    {
+      "id": "2.1.376",
+      "label": "Section 2.1.376",
+      "chapter": null,
+      "original": "Quaeso edepol , exsurge ; pater advenit .",
+      "translation": "By heavens ! do get up , I beg of you ; my father has arrived ."
+    },
+    {
+      "id": "2.1.376b",
+      "label": "Section 2.1.376b",
+      "chapter": null,
+      "original": "Tuos venit pater ?",
+      "translation": "Your father has come ? Bid him go back again . What business had he to come back here so soon ?"
+    },
+    {
+      "id": "2.1.378",
+      "label": "Section 2.1.378",
+      "chapter": null,
+      "original": "Quid ego agam ? pater iam híc me offendet miserum adveniens ebrium ,",
+      "translation": "What am I to do ? My father will , just now , be coming and unfortunately finding me amid drunken carousals , and the house full of revellers and women . It ’ s a shocking bad job ,"
+    },
+    {
+      "id": "2.1.380",
+      "label": "Section 2.1.380",
+      "chapter": null,
+      "original": "igitur demum fodere puteum , úbi sitis fauces tenet ;",
+      "translation": "to be digging a well at the last moment , just when thirst has gained possession of your throat ; just as I , on the arrival of my father , wretch that I am , am now enquiring what I am to do ."
+    }
+  ],
+  "prevChunkSlug": "the-ghost-1vjypr-3",
+  "nextChunkSlug": "the-ghost-1vjypr-5"
+}

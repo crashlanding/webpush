@@ -1,0 +1,61 @@
+{
+  "loebNumber": 161,
+  "sortOrder": 161,
+  "slug": "polybius-the-histories-volume-vi-1l5mls",
+  "title": "The Histories, Volume VI",
+  "volumeLabel": "The Histories, Volume VI",
+  "authorDisplay": "Polybius",
+  "authors": [
+    "Polybius"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for The Histories, Volume VI. The Histories, Volume VI currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "the-histories-volume-vi-1ven14",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "the-histories-volume-vi-1ven14",
+      "title": "The Histories, Volume VI",
+      "status": "ready",
+      "sectionCount": 38,
+      "chunkSlug": "the-histories-volume-vi-1ven14",
+      "chunks": [
+        {
+          "slug": "the-histories-volume-vi-1ven14",
+          "label": "The Histories, Volume VI",
+          "partId": "the-histories-volume-vi-1ven14",
+          "partTitle": "The Histories, Volume VI",
+          "sectionCount": 38,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "the-histories-volume-vi-1ven14",
+      "label": "The Histories, Volume VI",
+      "partId": "the-histories-volume-vi-1ven14",
+      "partTitle": "The Histories, Volume VI",
+      "sectionCount": 38,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "the-histories-volume-vi-1ven14",
+      "partTitle": "The Histories, Volume VI",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἱστορίαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0543.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Histories",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0543.tlg001.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "loebNumber": 64,
+  "sortOrder": 64,
+  "slug": "virgil-aeneid-books-7-12-appendix-vergiliana-eafelr",
+  "title": "Aeneid: Books 7-12. Appendix Vergiliana",
+  "volumeLabel": "Aeneid: Books 7-12. Appendix Vergiliana",
+  "authorDisplay": "Virgil",
+  "authors": [
+    "Virgil"
+  ],
+  "language": "latin",
+  "summary": "1 of 2 contents in Aeneid: Books 7-12. Appendix Vergiliana are live from Scaife, while the remaining contents stay visible until a confident pair is available.",
+  "status": "partial",
+  "defaultChunkSlug": "aeneid-books-7-12-x98d3d",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "aeneid-books-7-12-x98d3d",
+      "title": "Aeneid: Books 7-12",
+      "status": "ready",
+      "sectionCount": 6,
+      "chunkSlug": "aeneid-books-7-12-x98d3d",
+      "chunks": [
+        {
+          "slug": "aeneid-books-7-12-x98d3d",
+          "label": "Aeneid: Books 7-12",
+          "partId": "aeneid-books-7-12-x98d3d",
+          "partTitle": "Aeneid: Books 7-12",
+          "sectionCount": 6,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "appendix-vergiliana-fcxetl",
+      "title": "Appendix Vergiliana",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Appendix Vergiliana."
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "aeneid-books-7-12-x98d3d",
+      "label": "Aeneid: Books 7-12",
+      "partId": "aeneid-books-7-12-x98d3d",
+      "partTitle": "Aeneid: Books 7-12",
+      "sectionCount": 6,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "aeneid-books-7-12-x98d3d",
+      "partTitle": "Aeneid: Books 7-12",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Aeneid",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi003.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Aeneid",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0690.phi003.perseus-eng2/"
+      }
+    }
+  ]
+}

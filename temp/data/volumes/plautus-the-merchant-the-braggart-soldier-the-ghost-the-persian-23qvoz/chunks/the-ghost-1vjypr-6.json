@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-ghost-1vjypr-6",
+  "label": "The Ghost (Section 2.2.457d - Section 2.2.518c)",
+  "partId": "the-ghost-1vjypr",
+  "partTitle": "The Ghost",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Mostellaria",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Mostellaria, or The Haunted House",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "2.2.457d",
+      "label": "Section 2.2.457d",
+      "chapter": null,
+      "original": "Quid est ?",
+      "translation": "Why so ?"
+    },
+    {
+      "id": "2.2.458",
+      "label": "Section 2.2.458",
+      "chapter": null,
+      "original": "Male hercle factum .",
+      "translation": "By heavens ! ’ twas ill done ."
+    },
+    {
+      "id": "2.2.458b",
+      "label": "Section 2.2.458b",
+      "chapter": null,
+      "original": "Quid est negoti ?",
+      "translation": "What is the matter ?"
+    },
+    {
+      "id": "2.2.458c",
+      "label": "Section 2.2.458c",
+      "chapter": null,
+      "original": "Non potest",
+      "translation": "It cannot be expressed , how shocking and dreadful a mischief you ’ ve been guilty of ."
+    },
+    {
+      "id": "2.2.460",
+      "label": "Section 2.2.460",
+      "chapter": null,
+      "original": "Quid iam ?",
+      "translation": "How so ?"
+    },
+    {
+      "id": "2.2.460b",
+      "label": "Section 2.2.460b",
+      "chapter": null,
+      "original": "Fuge , obsecro , atque abscede ab aedibus .",
+      "translation": "Take to flight , I beseech you , and get away from the house . Fly in this direction , fly closer to me . ( He runs to wards TRANIO .) What , did you touch the door ?"
+    },
+    {
+      "id": "2.2.462",
+      "label": "Section 2.2.462",
+      "chapter": null,
+      "original": "Quo modo pultare potui , si non tangerem ?",
+      "translation": "How could I knock , if I didn ’ t touch it ?"
+    },
+    {
+      "id": "2.2.463",
+      "label": "Section 2.2.463",
+      "chapter": null,
+      "original": "Occidisti hercle —",
+      "translation": "By all that ’ s holy , you ’ ve been the death —"
+    },
+    {
+      "id": "2.2.463b",
+      "label": "Section 2.2.463b",
+      "chapter": null,
+      "original": "Quem mortalem ?",
+      "translation": "Of what person ?"
+    },
+    {
+      "id": "2.2.463c",
+      "label": "Section 2.2.463c",
+      "chapter": null,
+      "original": "Omnis tuos .",
+      "translation": "Of all your family ."
+    },
+    {
+      "id": "2.2.464",
+      "label": "Section 2.2.464",
+      "chapter": null,
+      "original": "Di te deaeque ómnes faxint cum istoc omine —",
+      "translation": "May the Gods and Goddesses confound you with that omen ."
+    },
+    {
+      "id": "2.2.465",
+      "label": "Section 2.2.465",
+      "chapter": null,
+      "original": "Metuo , te atque istos expiare ut possies .",
+      "translation": "I ’ m afraid that you can ’ t make satisfaction for yourself and them ."
+    },
+    {
+      "id": "2.2.466",
+      "label": "Section 2.2.466",
+      "chapter": null,
+      "original": "Quam ob rem ? aut quam subito rem mihi adportas novam ?",
+      "translation": "For what reason , or what new affair is this that you thus suddenly bring me news of ?"
+    },
+    {
+      "id": "2.2.467",
+      "label": "Section 2.2.467",
+      "chapter": null,
+      "original": "Et heus , iube illos illinc ambo abscedere .",
+      "translation": "And ( whispering ) hark you , prithee , do bid those people to move away from here ."
+    },
+    {
+      "id": "2.2.468",
+      "label": "Section 2.2.468",
+      "chapter": null,
+      "original": "Apscedite .",
+      "translation": "Move away from here ."
+    },
+    {
+      "id": "2.2.468b",
+      "label": "Section 2.2.468b",
+      "chapter": null,
+      "original": "Aedes ne attigatis . tangite",
+      "translation": "Don ’ t you touch the house . Touch you the ground [*] as well . ( Exeunt the ATTENDANTS .)"
+    },
+    {
+      "id": "2.2.469b",
+      "label": "Section 2.2.469b",
+      "chapter": null,
+      "original": "Obsecro hercle , quin eloquere ⋯",
+      "translation": "I ’ faith , prithee , do speak out now ."
+    },
+    {
+      "id": "2.2.470",
+      "label": "Section 2.2.470",
+      "chapter": null,
+      "original": "Quia septem menses sunt , quom in hasce aedis pedem",
+      "translation": "Because it is now seven months that not a person has set foot within this house , and since we once for all left it ."
+    },
+    {
+      "id": "2.2.472",
+      "label": "Section 2.2.472",
+      "chapter": null,
+      "original": "Eloquere , quid ita ?",
+      "translation": "Tell me , why so ?"
+    },
+    {
+      "id": "2.2.472b",
+      "label": "Section 2.2.472b",
+      "chapter": null,
+      "original": "Circumspicedum , numquis est ,",
+      "translation": "Just look around , whether there ’ s any person to overhear our discourse ."
+    },
+    {
+      "id": "2.2.473b",
+      "label": "Section 2.2.473b",
+      "chapter": null,
+      "original": "Tutum probest .",
+      "translation": "All ’ s quite safe ."
+    },
+    {
+      "id": "2.2.474",
+      "label": "Section 2.2.474",
+      "chapter": null,
+      "original": "Circumspice etiam .",
+      "translation": "Look around once more ."
+    },
+    {
+      "id": "2.2.474b",
+      "label": "Section 2.2.474b",
+      "chapter": null,
+      "original": "Nemo est . loquere nunciam .",
+      "translation": "There ’ s nobody ; now then , speak out ."
+    },
+    {
+      "id": "2.2.475",
+      "label": "Section 2.2.475",
+      "chapter": null,
+      "original": "Capitale scelus est .",
+      "translation": "The house has been guilty of a capital offence [*] ."
+    },
+    {
+      "id": "2.2.475b",
+      "label": "Section 2.2.475b",
+      "chapter": null,
+      "original": "Quid est ? non satis intellego .",
+      "translation": "I don ’ t understand you ."
+    },
+    {
+      "id": "2.2.476",
+      "label": "Section 2.2.476",
+      "chapter": null,
+      "original": "Scelus , inquam , factum est iam diu , antiquom et vetus .",
+      "translation": "A crime , I tell you , has been committed there , a long while ago , one of olden time and ancient date ."
+    },
+    {
+      "id": "2.2.477",
+      "label": "Section 2.2.477",
+      "chapter": null,
+      "original": "Antiquom ?",
+      "translation": "Of ancient date ?"
+    },
+    {
+      "id": "2.2.477b",
+      "label": "Section 2.2.477b",
+      "chapter": null,
+      "original": "Id adeo nos nunc factum invenimus .",
+      "translation": "’ Tis but recently , in fact , that we ’ ve discovered this deed ."
+    },
+    {
+      "id": "2.2.478",
+      "label": "Section 2.2.478",
+      "chapter": null,
+      "original": "Quid istúc est sceleris ? aut quis id fecit ? cedo .",
+      "translation": "What is this crime , or who committed it ? Tell me ."
+    },
+    {
+      "id": "2.2.479",
+      "label": "Section 2.2.479",
+      "chapter": null,
+      "original": "Hospes necavit hospitem captum manu ;",
+      "translation": "A host slew his guest , seized with his hand ;"
+    },
+    {
+      "id": "2.2.480",
+      "label": "Section 2.2.480",
+      "chapter": null,
+      "original": "iste , ut ego opinor , qui has tibi aedis vendidit .",
+      "translation": "he , I fancy , who sold you the house ."
+    },
+    {
+      "id": "2.2.481",
+      "label": "Section 2.2.481",
+      "chapter": null,
+      "original": "Necavit ?",
+      "translation": "Slew him ?"
+    },
+    {
+      "id": "2.2.481b",
+      "label": "Section 2.2.481b",
+      "chapter": null,
+      "original": "Aurumque ei ademit hospiti",
+      "translation": "And robbed this guest of his gold , and buried this guest there in the house , on the spot ."
+    },
+    {
+      "id": "2.2.483",
+      "label": "Section 2.2.483",
+      "chapter": null,
+      "original": "Quapropter id vos factum suspicamini ?",
+      "translation": "For what reason do you suspect that this took place ?"
+    },
+    {
+      "id": "2.2.484",
+      "label": "Section 2.2.484",
+      "chapter": null,
+      "original": "Ego dicam , ausculta . út foris cenaverat",
+      "translation": "I ’ ll tell you ; listen . One day , when your son had dined away from home , after he returned home from dining ;"
+    },
+    {
+      "id": "2.2.486",
+      "label": "Section 2.2.486",
+      "chapter": null,
+      "original": "abimus omnes cubitum ; condormivimus :",
+      "translation": "we all went to bed , and fell asleep . By accident , I had forgotten to put out my lamp ; and he , all of a sudden , called out aloud —"
+    },
+    {
+      "id": "2.2.489",
+      "label": "Section 2.2.489",
+      "chapter": null,
+      "original": "Quis homo ? án gnatus meus ?",
+      "translation": "What person ? My son ?"
+    },
+    {
+      "id": "2.2.489b",
+      "label": "Section 2.2.489b",
+      "chapter": null,
+      "original": "St , tace , ausculta modo .",
+      "translation": "Hist ! hold your peace : just listen ."
+    },
+    {
+      "id": "2.2.490",
+      "label": "Section 2.2.490",
+      "chapter": null,
+      "original": "ait vénisse illum in somnis ad se mortuom .",
+      "translation": "He said that a dead man came to him in his sleep —"
+    },
+    {
+      "id": "2.2.491",
+      "label": "Section 2.2.491",
+      "chapter": null,
+      "original": "Nempe ergo in somnis ?",
+      "translation": "In his dreams , then , you mean ?"
+    },
+    {
+      "id": "2.2.491b",
+      "label": "Section 2.2.491b",
+      "chapter": null,
+      "original": "Ita . sed ausculta modo .",
+      "translation": "Just so . But only listen . He said that he had met with his death by these means —"
+    },
+    {
+      "id": "2.2.493",
+      "label": "Section 2.2.493",
+      "chapter": null,
+      "original": "In somnis ?",
+      "translation": "What , in his sleep ?"
+    },
+    {
+      "id": "2.2.493b",
+      "label": "Section 2.2.493b",
+      "chapter": null,
+      "original": "Mirum quin vigilanti diceret ,",
+      "translation": "It would have been surprising if he had told him awake , who had been murdered sixty years ago ."
+    },
+    {
+      "id": "2.2.495",
+      "label": "Section 2.2.495",
+      "chapter": null,
+      "original": "interdum inepte stultus es , Theopropides .",
+      "translation": "On some occasions you are absurdly simple ."
+    },
+    {
+      "id": "2.2.496b",
+      "label": "Section 2.2.496b",
+      "chapter": null,
+      "original": "Sed ecce quae illi in ⋯",
+      "translation": "But look , what he said : I am the guest of Diapontius , from beyond the seas ; here do I dwell ; this has been assigned me as my abode ; for Orcus would not receive me in Acheron ,"
+    },
+    {
+      "id": "2.2.500",
+      "label": "Section 2.2.500",
+      "chapter": null,
+      "original": "quia praemature vita careo . per fidem",
+      "translation": "because prematurely I lost my life . Through confiding was I deceived : my entertainer slew me here , and that villain secretly laid me in the ground without funereal rites , in this house , on the spot , for the sake of gold . Now do you depart from here ; this house is accursed , this dwelling is defiled ."
+    },
+    {
+      "id": "2.2.505",
+      "label": "Section 2.2.505",
+      "chapter": null,
+      "original": "quae hic monstra fiunt , anno vix possum eloqui .",
+      "translation": "The wonders that here take place , hardly in a year could I recount them ."
+    },
+    {
+      "id": "2.2.506",
+      "label": "Section 2.2.506",
+      "chapter": null,
+      "original": "St , st .",
+      "translation": "Hush , hush !"
+    },
+    {
+      "id": "2.2.507",
+      "label": "Section 2.2.507",
+      "chapter": null,
+      "original": "Quid , obsecro hercle , factum est ?",
+      "translation": "Troth now , what has happened , prithee ?"
+    },
+    {
+      "id": "2.2.507b",
+      "label": "Section 2.2.507b",
+      "chapter": null,
+      "original": "Concrepuit foris .",
+      "translation": "The door made a noise ."
+    },
+    {
+      "id": "2.2.508",
+      "label": "Section 2.2.508",
+      "chapter": null,
+      "original": "Hicin percussit !",
+      "translation": "Was it he that was knocking ?"
+    },
+    {
+      "id": "2.2.508b",
+      "label": "Section 2.2.508b",
+      "chapter": null,
+      "original": "Guttam haud habeo sanguinis ,",
+      "translation": "I have not one drop of blood ! Dead men are come to fetch me to Acheron , while alive !"
+    },
+    {
+      "id": "2.2.510",
+      "label": "Section 2.2.510",
+      "chapter": null,
+      "original": "Perii , illisce hodie hanc conturbabunt fabulam .",
+      "translation": "I ’ m undone ! those people there will mar my plot . ( A noise is heard from within .) How much I dread , lest he should catch me in the fact ."
+    },
+    {
+      "id": "2.2.512",
+      "label": "Section 2.2.512",
+      "chapter": null,
+      "original": "Quid tute tecum loquere ?",
+      "translation": "What are you talking about to yourself ? ( Goes near the door .)"
+    },
+    {
+      "id": "2.2.512b",
+      "label": "Section 2.2.512b",
+      "chapter": null,
+      "original": "Abscede ab ianua .",
+      "translation": "Do get away from the door . By heavens , fly , I do beseech you ."
+    },
+    {
+      "id": "2.2.513b",
+      "label": "Section 2.2.513b",
+      "chapter": null,
+      "original": "Quo fugiam ? etiam tu fuge .",
+      "translation": "Fly where ? Fly yourself , as well ."
+    },
+    {
+      "id": "2.2.514",
+      "label": "Section 2.2.514",
+      "chapter": null,
+      "original": "Nihil ego formido , pax mihi est cum mortuis .",
+      "translation": "I am not afraid : I am at peace with the dead ."
+    },
+    {
+      "id": "2.2.515",
+      "label": "Section 2.2.515",
+      "chapter": null,
+      "original": "Heus , Tranio .",
+      "translation": "Hallo ! Tranio [*] ."
+    },
+    {
+      "id": "2.2.515b",
+      "label": "Section 2.2.515b",
+      "chapter": null,
+      "original": "Non me appellabis , si sapis .",
+      "translation": "You won ’ t be calling me , if you are wise . ( Aloud , as if speaking to the APPARITION .) ’ Tis not I that ’ s guilty ; I did not knock at the door ."
+    },
+    {
+      "id": "2.2.518c",
+      "label": "Section 2.2.518c",
+      "chapter": null,
+      "original": "Quae r es te agitat , Tranio ?",
+      "translation": "Pray , what is it that ’ s wrong ? What matter is agitating you , Tranio ? To whom are you saying these things ?"
+    }
+  ],
+  "prevChunkSlug": "the-ghost-1vjypr-5",
+  "nextChunkSlug": "the-ghost-1vjypr-7"
+}

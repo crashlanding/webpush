@@ -1,0 +1,61 @@
+{
+  "loebNumber": 191,
+  "sortOrder": 191,
+  "slug": "livy-history-of-rome-volume-iv-4dkzgh",
+  "title": "History of Rome, Volume IV",
+  "volumeLabel": "History of Rome, Volume IV",
+  "authorDisplay": "Livy",
+  "authors": [
+    "Livy"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for History of Rome, Volume IV. History of Rome, Volume IV currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "history-of-rome-volume-iv-1b1psz",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "history-of-rome-volume-iv-1b1psz",
+      "title": "History of Rome, Volume IV",
+      "status": "ready",
+      "sectionCount": 50,
+      "chunkSlug": "history-of-rome-volume-iv-1b1psz",
+      "chunks": [
+        {
+          "slug": "history-of-rome-volume-iv-1b1psz",
+          "label": "History of Rome, Volume IV",
+          "partId": "history-of-rome-volume-iv-1b1psz",
+          "partTitle": "History of Rome, Volume IV",
+          "sectionCount": 50,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "history-of-rome-volume-iv-1b1psz",
+      "label": "History of Rome, Volume IV",
+      "partId": "history-of-rome-volume-iv-1b1psz",
+      "partTitle": "History of Rome, Volume IV",
+      "sectionCount": 50,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "history-of-rome-volume-iv-1b1psz",
+      "partTitle": "History of Rome, Volume IV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ab urbe condita",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0914.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The History of Rome",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0914.phi001.perseus-eng3/"
+      }
+    }
+  ]
+}

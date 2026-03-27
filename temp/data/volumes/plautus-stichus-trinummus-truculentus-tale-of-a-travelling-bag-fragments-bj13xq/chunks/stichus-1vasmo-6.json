@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-stichus-trinummus-truculentus-tale-of-a-travelling-bag-fragments-bj13xq",
+  "volumeTitle": "Stichus. Trinummus. Truculentus. Tale of a Travelling Bag. Fragments",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "stichus-1vasmo-6",
+  "label": "Stichus (Section 3.2.473 - Section 4.1.547)",
+  "partId": "stichus-1vasmo",
+  "partTitle": "Stichus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Stichus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi018.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Stichus, or The Parasite Rebuffed",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi018.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "3.2.473",
+      "label": "Section 3.2.473",
+      "chapter": null,
+      "original": "Promitte .",
+      "translation": "Do promise me ."
+    },
+    {
+      "id": "3.2.473b",
+      "label": "Section 3.2.473b",
+      "chapter": null,
+      "original": "Certumst .",
+      "translation": "It ’ s settled ."
+    },
+    {
+      "id": "3.2.473c",
+      "label": "Section 3.2.473c",
+      "chapter": null,
+      "original": "Sic face inquam .",
+      "translation": "But do , I say ."
+    },
+    {
+      "id": "3.2.473d",
+      "label": "Section 3.2.473d",
+      "chapter": null,
+      "original": "Certa res .",
+      "translation": "The thing ’ s agreed on ."
+    },
+    {
+      "id": "3.2.474",
+      "label": "Section 3.2.474",
+      "chapter": null,
+      "original": "Lubente me hercle facies .",
+      "translation": "By my troth , you ’ d do it with much pleasure to me ."
+    },
+    {
+      "id": "3.2.474b",
+      "label": "Section 3.2.474b",
+      "chapter": null,
+      "original": "Idem ego istuc scio .",
+      "translation": "I know that well ."
+    },
+    {
+      "id": "3.2.475",
+      "label": "Section 3.2.475",
+      "chapter": null,
+      "original": "quando usus veniet , fiet .",
+      "translation": "When an opportunity shall come , it shall be so ."
+    },
+    {
+      "id": "3.2.475b",
+      "label": "Section 3.2.475b",
+      "chapter": null,
+      "original": "Nunc ergo usus est .",
+      "translation": "Now , then , is the opportunity ."
+    },
+    {
+      "id": "3.2.476",
+      "label": "Section 3.2.476",
+      "chapter": null,
+      "original": "Non edepol possum .",
+      "translation": "I ’ faith , I cannot ."
+    },
+    {
+      "id": "3.2.476b",
+      "label": "Section 3.2.476b",
+      "chapter": null,
+      "original": "Quid gravare ? censeas .",
+      "translation": "Why make difficulties ? Do consider ; I have I know not what luxuries at hand [*] ."
+    },
+    {
+      "id": "3.2.477b",
+      "label": "Section 3.2.477b",
+      "chapter": null,
+      "original": "I modo ,",
+      "translation": "Do be off , now ; seek for yourself another guest for to-day ."
+    },
+    {
+      "id": "3.2.479",
+      "label": "Section 3.2.479",
+      "chapter": null,
+      "original": "Quin tu promittis ?",
+      "translation": "You promise , then ?"
+    },
+    {
+      "id": "3.2.479b",
+      "label": "Section 3.2.479b",
+      "chapter": null,
+      "original": "Non graver , si possiem .",
+      "translation": "I would make no difficulty if I could ."
+    },
+    {
+      "id": "3.2.480",
+      "label": "Section 3.2.480",
+      "chapter": null,
+      "original": "Vnum quidem hercle certo promitto tibi :",
+      "translation": "Really , on my word , one thing , for sure , I promise you , I ’ d entertain you with pleasure , beyond a doubt , if you would promise ."
+    },
+    {
+      "id": "3.2.482",
+      "label": "Section 3.2.482",
+      "chapter": null,
+      "original": "Valeas .",
+      "translation": "Adieu !"
+    },
+    {
+      "id": "3.2.482b",
+      "label": "Section 3.2.482b",
+      "chapter": null,
+      "original": "Certumnest ?",
+      "translation": "Have you resolved ?"
+    },
+    {
+      "id": "3.2.482c",
+      "label": "Section 3.2.482c",
+      "chapter": null,
+      "original": "Certum . cenabo domi .",
+      "translation": "I have resolved . I shall dine at home ."
+    },
+    {
+      "id": "3.2.483",
+      "label": "Section 3.2.483",
+      "chapter": null,
+      "original": "Quando quidem tu ad me non vis promittere",
+      "translation": "( To EPIGNOMUS .) Since you , yourself , are not willing to promise to come to me ,"
+    },
+    {
+      "id": "3.2.484",
+      "label": "Section 3.2.484",
+      "chapter": null,
+      "original": "sed — quoniam nil processit hac , ego ivero",
+      "translation": "Since nothing has been effected this way , I ’ ll therefore approach him by a more open path , and I ’ ll speak plainly out ."
+    },
+    {
+      "id": "3.2.486",
+      "label": "Section 3.2.486",
+      "chapter": null,
+      "original": "vin ad te ad cenam veniam ?",
+      "translation": "should you like that I should come to dine with you ?"
+    },
+    {
+      "id": "3.2.486b",
+      "label": "Section 3.2.486b",
+      "chapter": null,
+      "original": "Si possim , velim ;",
+      "translation": "If it were possible , I should like it ; but here are nine other people [*] coming to dine at my house ."
+    },
+    {
+      "id": "3.2.488",
+      "label": "Section 3.2.488",
+      "chapter": null,
+      "original": "Hau postulo equidem med in lecto accumbere :",
+      "translation": "For my part , I don ’ t ask that I should recline on the couch ; you know that I ’ m a man for the lower seats ."
+    },
+    {
+      "id": "3.2.490",
+      "label": "Section 3.2.490",
+      "chapter": null,
+      "original": "At ei óratores sunt popli , summi viri ;",
+      "translation": "But these are deputies of a people , tip-top men they come here as public ambassadors from Ambracia [*] ."
+    },
+    {
+      "id": "3.2.492",
+      "label": "Section 3.2.492",
+      "chapter": null,
+      "original": "Ergo oratores populi , summates viri ,",
+      "translation": "Let then the deputies of a people , your tip-top men , recline at the tip-top place ; I , the lowest , in the lowest quarter ."
+    },
+    {
+      "id": "3.2.494",
+      "label": "Section 3.2.494",
+      "chapter": null,
+      "original": "Haud aequomst te inter oratores accipi .",
+      "translation": "It isn ’ t proper for you to be entertained among deputies ."
+    },
+    {
+      "id": "3.2.495",
+      "label": "Section 3.2.495",
+      "chapter": null,
+      "original": "Equidem hercle orator sum , sed procedit parum .",
+      "translation": "I ’ faith , and I — I ’ m a deputy , too [*] , but little it does avail me ."
+    },
+    {
+      "id": "3.2.496",
+      "label": "Section 3.2.496",
+      "chapter": null,
+      "original": "Cras de reliquiis nos volo . multum vale .—",
+      "translation": "I intend that to-morrow we shall dine upon the scraps . Sincerely , farewell ."
+    },
+    {
+      "id": "3.2.497",
+      "label": "Section 3.2.497",
+      "chapter": null,
+      "original": "Perii hercle vero plane , nihil obnoxie .",
+      "translation": "By my troth , ’ tis clear that I ’ m undone , and by no fault of my own [*] . The number is less than it was before by one Gelasimus . I ’ m resolved , hereafter , never to believe in a weasel ,"
+    },
+    {
+      "id": "3.2.500",
+      "label": "Section 3.2.500",
+      "chapter": null,
+      "original": "nam incertiorem nullam novi bestiam ;",
+      "translation": "for I know of no beast more uncertain than her . She who herself is ten times a day shifting her place , from her have I taken my omens in matters of life and death to me ! I ’ m determined to call my friends together , to take counsel how by rule I must starve henceforth ."
+    },
+    {
+      "id": "4.1.505",
+      "label": "Section 4.1.505",
+      "chapter": null,
+      "original": "Íta me di bene amént measque mihi bene servassint filias ,",
+      "translation": "So may the Gods favour me , and preserve for me my daughters , it is a pleasure to me , Pamphilus , that I see you both return home to your native land , your business prosperously managed , yourself and your brother ."
+    },
+    {
+      "id": "4.1.508",
+      "label": "Section 4.1.508",
+      "chapter": null,
+      "original": "Satis abs te accipiam , nisi videam mihi te amicum esse , Antipho ;",
+      "translation": "I should have heard enough from you , Antipho , did I not see that you are friendly to me ; now , since I ’ ve found that you are my friend , I ’ ll give you credence ."
+    },
+    {
+      "id": "4.1.510",
+      "label": "Section 4.1.510",
+      "chapter": null,
+      "original": "Vocem ego te ad me ad cenam , frater tuos ni dixisset mihi ,",
+      "translation": "I would invite you to my house to dinner , had not your brother told me that you were going to dine at his house to-day , when he invited myself to his house to dinner . And it would have been more proper for me to give you an entertainment on your arrival , than to engage myself to him , were it not that I didn ’ t wish to disoblige him . Now I don ’ t wish with words alone to insinuate myself into your favour ;"
+    },
+    {
+      "id": "4.1.515",
+      "label": "Section 4.1.515",
+      "chapter": null,
+      "original": "cras apud me éritis et tu et ille cum vostris uxoribus .",
+      "translation": "to-morrow you shall be at my house , both you and he , with your wives ."
+    },
+    {
+      "id": "4.1.516",
+      "label": "Section 4.1.516",
+      "chapter": null,
+      "original": "At apud mé perendie . nam ille heri me iam vocaverat",
+      "translation": "Then , the day after , at my house ; for it was yesterday he invited me for to-day . But am I quite reconciled to you , Antipho ?"
+    },
+    {
+      "id": "4.1.518",
+      "label": "Section 4.1.518",
+      "chapter": null,
+      "original": "Quando ita rem gessistis ut vos velle amicosque addecet ,",
+      "translation": "Since you have thus thrived in your affairs , as it behoves yourselves and persons friendly disposed to wish , let there be good-will and intercourse between us . Take you care to think of this ;"
+    },
+    {
+      "id": "4.1.520",
+      "label": "Section 4.1.520",
+      "chapter": null,
+      "original": "ut cuique homini res paratast , périnde amicis utitur :",
+      "translation": "according as wealth is obtained by each man , so does he experience his friends . If his fortunes are flourishing , so are his friends true ; if his prospects decline , so , too , do his friends decline . Fortune finds friends ."
+    },
+    {
+      "id": "4.1.523",
+      "label": "Section 4.1.523",
+      "chapter": null,
+      "original": "Iam redeo . nimiast voluptas , ubi diu afueris domo ,",
+      "translation": "I ’ m now returned . ’ Tis a great delight , if you have been long from home , when you return home again , if no anxieties come in contact with your feelings ."
+    },
+    {
+      "id": "4.1.525",
+      "label": "Section 4.1.525",
+      "chapter": null,
+      "original": "nam ita me absente familiarem rem uxor curavit meam ,",
+      "translation": "But , in my absence , so well has my wife taken care of my private affairs , that she has made me free and unembarrassed by anxieties . But , see , here ’ s my brother Pamphilus , walking with his father-in-law ."
+    },
+    {
+      "id": "4.1.528",
+      "label": "Section 4.1.528",
+      "chapter": null,
+      "original": "Quid agitur , Epignome ?",
+      "translation": "How fares it , Epignomus ?"
+    },
+    {
+      "id": "4.1.528b",
+      "label": "Section 4.1.528b",
+      "chapter": null,
+      "original": "Quid tu ? quam dudum in portum venis ?",
+      "translation": "How with you ? How long since you came into harbour ?"
+    },
+    {
+      "id": "4.1.529",
+      "label": "Section 4.1.529",
+      "chapter": null,
+      "original": "Hau longissume .",
+      "translation": "Not very long ago ."
+    },
+    {
+      "id": "4.1.529b",
+      "label": "Section 4.1.529b",
+      "chapter": null,
+      "original": "Postilla iam iste est tranquillus tibi ?",
+      "translation": "And is it since then that he has become on smooth terms with you ?"
+    },
+    {
+      "id": "4.1.530",
+      "label": "Section 4.1.530",
+      "chapter": null,
+      "original": "Magis quam mare quo ambo estis vecti .",
+      "translation": "More smooth than the sea , on which you have both been borne ."
+    },
+    {
+      "id": "4.1.530b",
+      "label": "Section 4.1.530b",
+      "chapter": null,
+      "original": "Facis ut alias res soles .",
+      "translation": "You do as you are wont to do other things . Do we unlade the ship to-day , brother ?"
+    },
+    {
+      "id": "4.1.531b",
+      "label": "Section 4.1.531b",
+      "chapter": null,
+      "original": "Clementer volo .",
+      "translation": "I would rather go quietly to work . Let ’ s rather lade ourselves with delights in their turn . How soon will the dinner be cooked ? I haven ’ t breakfasted to-day ."
+    },
+    {
+      "id": "4.1.533b",
+      "label": "Section 4.1.533b",
+      "chapter": null,
+      "original": "Abi intro ad me et lava .",
+      "translation": "Go in-doors to my house and bathe ."
+    },
+    {
+      "id": "4.1.534",
+      "label": "Section 4.1.534",
+      "chapter": null,
+      "original": "Deos salutatum atque uxorem módo intro devortor domum ;",
+      "translation": "I ’ ll only step home to my own house , to salute the Gods [*] and my wife ."
+    },
+    {
+      "id": "4.1.535",
+      "label": "Section 4.1.535",
+      "chapter": null,
+      "original": "haec si ita ut volo conficio , continuo ad te transeo .",
+      "translation": "If I do that as I wish , I ’ ll forthwith return to your house ."
+    },
+    {
+      "id": "4.1.536",
+      "label": "Section 4.1.536",
+      "chapter": null,
+      "original": "Apud nos eccillam festinat cum sorore uxor tua .",
+      "translation": "But your wife is hastening to come here with her sister ."
+    },
+    {
+      "id": "4.1.537",
+      "label": "Section 4.1.537",
+      "chapter": null,
+      "original": "Optumest , iam istoc morai minus erit . iam ego apud te ero .",
+      "translation": "’ Tis very good ; there will then be the less delay on that account . I shall be at your house [*] this instant ."
+    },
+    {
+      "id": "4.1.538",
+      "label": "Section 4.1.538",
+      "chapter": null,
+      "original": "Prius quam abis , praesente ted huic apologum agere unum volo .",
+      "translation": "Before you go away , in your presence I wish to relate a single story to him ."
+    },
+    {
+      "id": "4.1.539",
+      "label": "Section 4.1.539",
+      "chapter": null,
+      "original": "Maxume .",
+      "translation": "By all means ."
+    },
+    {
+      "id": "4.1.539b",
+      "label": "Section 4.1.539b",
+      "chapter": null,
+      "original": "Fuit olim , quasi ego sum , senex ; ei filiae",
+      "translation": "There was once an old gentleman , just as I now am ; he had two daughters , such as mine now are ; they were married to two brothers ,"
+    },
+    {
+      "id": "4.1.541",
+      "label": "Section 4.1.541",
+      "chapter": null,
+      "original": "quasi nunc meae sunt vobis .",
+      "translation": "just as mine now are to yourselves ."
+    },
+    {
+      "id": "4.1.541b",
+      "label": "Section 4.1.541b",
+      "chapter": null,
+      "original": "Miror quo evasurust apologus .",
+      "translation": "I wonder how the story is to turn out ?"
+    },
+    {
+      "id": "4.1.542",
+      "label": "Section 4.1.542",
+      "chapter": null,
+      "original": "Erant minori illi adulescenti fidicina et tibicina ,",
+      "translation": "One of these young men had , as you ( to PAMPHILUS ) now have , a damsel , a music-girl ; he had brought her from abroad , as you have now done . Now , this old gentleman was a widower , just as I now am ."
+    },
+    {
+      "id": "4.1.544b",
+      "label": "Section 4.1.544b",
+      "chapter": null,
+      "original": "Perge porro . praesens hic quidem est apologus .",
+      "translation": "Do proceed ; this story is really à propos ."
+    },
+    {
+      "id": "4.1.545",
+      "label": "Section 4.1.545",
+      "chapter": null,
+      "original": "Deinde senex ille illi dixit , cuius erat tibicina ,",
+      "translation": "Then said this old gentleman to him to whom the music-girl belonged , just as I now say to you —"
+    },
+    {
+      "id": "4.1.546b",
+      "label": "Section 4.1.546b",
+      "chapter": null,
+      "original": "Ausculto atque animum advorto sedulo .",
+      "translation": "I ’ m listening [*] , and carefully giving heed ."
+    },
+    {
+      "id": "4.1.547",
+      "label": "Section 4.1.547",
+      "chapter": null,
+      "original": "“ Ego tibi meam filiam , bene quicum cubitares , dedi :",
+      "translation": "I gave you my daughter , to be a comfortable bedfellow for you ; now , I think it fair that one should be given me in return by you , to be my bed-fellow ."
+    }
+  ],
+  "prevChunkSlug": "stichus-1vasmo-5",
+  "nextChunkSlug": "stichus-1vasmo-7"
+}

@@ -1,0 +1,361 @@
+{
+  "loebNumber": 102,
+  "sortOrder": 102,
+  "slug": "plutarch-lives-volume-x-9uwuug",
+  "title": "Lives, Volume X",
+  "volumeLabel": "Lives, Volume X",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Lives, Volume X. Lives, Volume X opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "cicero-xdkg4l-1",
+  "readyChunkCount": 11,
+  "contents": [
+    {
+      "id": "lives-volume-x-jo9iml",
+      "title": "Lives, Volume X",
+      "status": "ready",
+      "sectionCount": 515,
+      "chunkSlug": "cicero-xdkg4l-1",
+      "chunks": [
+        {
+          "slug": "cicero-xdkg4l-1",
+          "label": "Cicero (Section 1.1 - Section 30.2)",
+          "partId": "lives-volume-x-jo9iml",
+          "partTitle": "Lives, Volume X",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "cicero-xdkg4l-2",
+          "label": "Cicero (Section 31.1 - Section 49.2)",
+          "partId": "lives-volume-x-jo9iml",
+          "partTitle": "Lives, Volume X",
+          "sectionCount": 38,
+          "status": "ready"
+        },
+        {
+          "slug": "comparison-of-demosthenes-and-cicero-1f31t0",
+          "label": "Comparison of Demosthenes and Cicero",
+          "partId": "lives-volume-x-jo9iml",
+          "partTitle": "Lives, Volume X",
+          "sectionCount": 9,
+          "status": "ready"
+        },
+        {
+          "slug": "demetrius-15w6ek-1",
+          "label": "Demetrius (Section 1.1 - Section 30.2)",
+          "partId": "lives-volume-x-jo9iml",
+          "partTitle": "Lives, Volume X",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "demetrius-15w6ek-2",
+          "label": "Demetrius (Section 31.1 - Section 53.2)",
+          "partId": "lives-volume-x-jo9iml",
+          "partTitle": "Lives, Volume X",
+          "sectionCount": 46,
+          "status": "ready"
+        },
+        {
+          "slug": "antony-wij8er-1",
+          "label": "Antony (Section 1.1 - Section 30.2)",
+          "partId": "lives-volume-x-jo9iml",
+          "partTitle": "Lives, Volume X",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "antony-wij8er-2",
+          "label": "Antony (Section 31.1 - Section 60.2)",
+          "partId": "lives-volume-x-jo9iml",
+          "partTitle": "Lives, Volume X",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "antony-wij8er-3",
+          "label": "Antony (Section 61.1 - Section 87.2)",
+          "partId": "lives-volume-x-jo9iml",
+          "partTitle": "Lives, Volume X",
+          "sectionCount": 54,
+          "status": "ready"
+        },
+        {
+          "slug": "comparison-of-demetrius-and-antony-pt6o2m",
+          "label": "Comparison of Demetrius and Antony",
+          "partId": "lives-volume-x-jo9iml",
+          "partTitle": "Lives, Volume X",
+          "sectionCount": 12,
+          "status": "ready"
+        },
+        {
+          "slug": "dion-19npg-1",
+          "label": "Dion (Section 1.1 - Section 30.2)",
+          "partId": "lives-volume-x-jo9iml",
+          "partTitle": "Lives, Volume X",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "dion-19npg-2",
+          "label": "Dion (Section 31.1 - Section 58.2)",
+          "partId": "lives-volume-x-jo9iml",
+          "partTitle": "Lives, Volume X",
+          "sectionCount": 56,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "cicero-xdkg4l-1",
+      "label": "Cicero (Section 1.1 - Section 30.2)",
+      "partId": "lives-volume-x-jo9iml",
+      "partTitle": "Lives, Volume X",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "cicero-xdkg4l-2",
+      "label": "Cicero (Section 31.1 - Section 49.2)",
+      "partId": "lives-volume-x-jo9iml",
+      "partTitle": "Lives, Volume X",
+      "sectionCount": 38,
+      "status": "ready"
+    },
+    {
+      "slug": "comparison-of-demosthenes-and-cicero-1f31t0",
+      "label": "Comparison of Demosthenes and Cicero",
+      "partId": "lives-volume-x-jo9iml",
+      "partTitle": "Lives, Volume X",
+      "sectionCount": 9,
+      "status": "ready"
+    },
+    {
+      "slug": "demetrius-15w6ek-1",
+      "label": "Demetrius (Section 1.1 - Section 30.2)",
+      "partId": "lives-volume-x-jo9iml",
+      "partTitle": "Lives, Volume X",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "demetrius-15w6ek-2",
+      "label": "Demetrius (Section 31.1 - Section 53.2)",
+      "partId": "lives-volume-x-jo9iml",
+      "partTitle": "Lives, Volume X",
+      "sectionCount": 46,
+      "status": "ready"
+    },
+    {
+      "slug": "antony-wij8er-1",
+      "label": "Antony (Section 1.1 - Section 30.2)",
+      "partId": "lives-volume-x-jo9iml",
+      "partTitle": "Lives, Volume X",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "antony-wij8er-2",
+      "label": "Antony (Section 31.1 - Section 60.2)",
+      "partId": "lives-volume-x-jo9iml",
+      "partTitle": "Lives, Volume X",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "antony-wij8er-3",
+      "label": "Antony (Section 61.1 - Section 87.2)",
+      "partId": "lives-volume-x-jo9iml",
+      "partTitle": "Lives, Volume X",
+      "sectionCount": 54,
+      "status": "ready"
+    },
+    {
+      "slug": "comparison-of-demetrius-and-antony-pt6o2m",
+      "label": "Comparison of Demetrius and Antony",
+      "partId": "lives-volume-x-jo9iml",
+      "partTitle": "Lives, Volume X",
+      "sectionCount": 12,
+      "status": "ready"
+    },
+    {
+      "slug": "dion-19npg-1",
+      "label": "Dion (Section 1.1 - Section 30.2)",
+      "partId": "lives-volume-x-jo9iml",
+      "partTitle": "Lives, Volume X",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "dion-19npg-2",
+      "label": "Dion (Section 31.1 - Section 58.2)",
+      "partId": "lives-volume-x-jo9iml",
+      "partTitle": "Lives, Volume X",
+      "sectionCount": 56,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "cicero-xdkg4l-1",
+      "partTitle": "Lives, Volume X",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Cicero",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg055.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Cicero",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg055.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "cicero-xdkg4l-2",
+      "partTitle": "Lives, Volume X",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Cicero",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg055.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Cicero",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg055.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "comparison-of-demosthenes-and-cicero-1f31t0",
+      "partTitle": "Lives, Volume X",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Comparison of Demosthenes and Cicero",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg056.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Comparison of Demosthenes and Cicero",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg056.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "demetrius-15w6ek-1",
+      "partTitle": "Lives, Volume X",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Demetrius",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg057.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Demetrius",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg057.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "demetrius-15w6ek-2",
+      "partTitle": "Lives, Volume X",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Demetrius",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg057.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Demetrius",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg057.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "antony-wij8er-1",
+      "partTitle": "Lives, Volume X",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Antony",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg058.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Antony",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg058.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "antony-wij8er-2",
+      "partTitle": "Lives, Volume X",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Antony",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg058.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Antony",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg058.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "antony-wij8er-3",
+      "partTitle": "Lives, Volume X",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Antony",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg058.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Antony",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg058.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "comparison-of-demetrius-and-antony-pt6o2m",
+      "partTitle": "Lives, Volume X",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Comparison of Demetrius and Antony",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg059.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Comparison of Demetrius and Antony",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg059.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "dion-19npg-1",
+      "partTitle": "Lives, Volume X",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Dion",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg060.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Dion",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg060.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "dion-19npg-2",
+      "partTitle": "Lives, Volume X",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Dion",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg060.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Dion",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg060.perseus-eng2/"
+      }
+    }
+  ]
+}

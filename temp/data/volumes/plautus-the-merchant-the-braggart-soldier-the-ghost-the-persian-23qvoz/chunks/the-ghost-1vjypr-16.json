@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-ghost-1vjypr-16",
+  "label": "The Ghost (Section 5.1.1097e - Section 5.2.1166b)",
+  "partId": "the-ghost-1vjypr",
+  "partTitle": "The Ghost",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Mostellaria",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Mostellaria, or The Haunted House",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "5.1.1097e",
+      "label": "Section 5.1.1097e",
+      "chapter": null,
+      "original": "Scies .",
+      "translation": "You shall hear ; why , because I especially want this , for them to be taking refuge there . Do let them ; so much the more easily shall I get him fined before the judge ."
+    },
+    {
+      "id": "5.1.1100",
+      "label": "Section 5.1.1100",
+      "chapter": null,
+      "original": "Quod agas id agas . quid tu porro serere vis negotium ?",
+      "translation": "What you intend to do , do it . Why do you wish to sow further strife ? You don ’ t know how ticklish a thing it is to go to law ."
+    },
+    {
+      "id": "5.1.1102",
+      "label": "Section 5.1.1102",
+      "chapter": null,
+      "original": "Surgedum huc igitur . consulere quiddam est quod tecum volo .",
+      "translation": "Just get up , ( beckoning ) this way ; it ’ s , then , to ask your advice upon something that I want you ."
+    },
+    {
+      "id": "5.1.1103",
+      "label": "Section 5.1.1103",
+      "chapter": null,
+      "original": "Sic tamen hinc consilium dedero . nimio plus sapio sedens .",
+      "translation": "Still , as I am , I ’ ll give my advice from this spot : my wits are much sharper when I ’ m sittings [*] . Besides , advice is given with higher sanction from holy places [*] ."
+    },
+    {
+      "id": "5.1.1105",
+      "label": "Section 5.1.1105",
+      "chapter": null,
+      "original": "Surge , ne nugare . aspicedum contra me .",
+      "translation": "Get up ; don ’ t be trifling . Just look me in the face ."
+    },
+    {
+      "id": "5.1.1105b",
+      "label": "Section 5.1.1105b",
+      "chapter": null,
+      "original": "Aspexi .",
+      "translation": "I am looking ."
+    },
+    {
+      "id": "5.1.1105c",
+      "label": "Section 5.1.1105c",
+      "chapter": null,
+      "original": "Vides ?",
+      "translation": "Do you see me ?"
+    },
+    {
+      "id": "5.1.1106",
+      "label": "Section 5.1.1106",
+      "chapter": null,
+      "original": "Video . huc si quis intercedat tertius , pereat fame .",
+      "translation": "I do see — that if any third person were to step in here , he would die of hunger ."
+    },
+    {
+      "id": "5.1.1107",
+      "label": "Section 5.1.1107",
+      "chapter": null,
+      "original": "Quidum ?",
+      "translation": "Why so ?"
+    },
+    {
+      "id": "5.1.1107b",
+      "label": "Section 5.1.1107b",
+      "chapter": null,
+      "original": "Quia nil illi quaesti sit . mali hercle ambo sumus .",
+      "translation": "Because he would get no profit ; for , upon my faith , we are both artful ones ."
+    },
+    {
+      "id": "5.1.1108",
+      "label": "Section 5.1.1108",
+      "chapter": null,
+      "original": "Perii .",
+      "translation": "I ’ m undone !"
+    },
+    {
+      "id": "5.1.1108b",
+      "label": "Section 5.1.1108b",
+      "chapter": null,
+      "original": "Quid tibi est ?",
+      "translation": "What ’ s the matter with you ?"
+    },
+    {
+      "id": "5.1.1108c",
+      "label": "Section 5.1.1108c",
+      "chapter": null,
+      "original": "Dedisti verba .",
+      "translation": "You have deceived me ."
+    },
+    {
+      "id": "5.1.1108d",
+      "label": "Section 5.1.1108d",
+      "chapter": null,
+      "original": "Qui tandem ?",
+      "translation": "How so , pray ?"
+    },
+    {
+      "id": "5.1.1109b",
+      "label": "Section 5.1.1109b",
+      "chapter": null,
+      "original": "Vide sis , satine recte : num mucci fluont ?",
+      "translation": "Consider , please , if it wasn ’ t well done ; is your nose running still ?"
+    },
+    {
+      "id": "5.1.1110",
+      "label": "Section 5.1.1110",
+      "chapter": null,
+      "original": "Immo etiam cerebrum quoque omne é capite emunxti meo .",
+      "translation": "Aye , all my brains besides have you been wiping out of my head as well . For all your villanies I have discovered from their very roots ; and not from the roots , indeed , i ’ faith , but even from beneath the very roots ."
+    },
+    {
+      "id": "5.1.1113",
+      "label": "Section 5.1.1113",
+      "chapter": null,
+      "original": "Numquam edepol hodie hinc , si vivo , invitus desistam tibi .",
+      "translation": "Never this day , by my troth , will you have planned all this without being punished ."
+    },
+    {
+      "id": "5.1.1114",
+      "label": "Section 5.1.1114",
+      "chapter": null,
+      "original": "Iam iubebo ignem et sarmenta , carnifex , circumdari .",
+      "translation": "I shall at once , you villain , order fire and faggots [*] to be placed around you ."
+    },
+    {
+      "id": "5.1.1115",
+      "label": "Section 5.1.1115",
+      "chapter": null,
+      "original": "Ne faxis , nam elixus esse quam assus soleo suavior .",
+      "translation": "Don ’ t do it ; for it ’ s my way to be sweeter boiled than roasted ."
+    },
+    {
+      "id": "5.1.1116",
+      "label": "Section 5.1.1116",
+      "chapter": null,
+      "original": "Exempla edepol faciam ego in te .",
+      "translation": "Upon my faith , I ’ ll make an example of you ."
+    },
+    {
+      "id": "5.1.1116b",
+      "label": "Section 5.1.1116b",
+      "chapter": null,
+      "original": "Quia placeo , exemplum expetis ?",
+      "translation": "Because I please you , you select me for an example ."
+    },
+    {
+      "id": "5.1.1117",
+      "label": "Section 5.1.1117",
+      "chapter": null,
+      "original": "Loquere : quoius modi reliqui , quom hinc abibam , filium ?",
+      "translation": "Say now : what kind of a person did I leave my son , when I went away from here ?"
+    },
+    {
+      "id": "5.1.1118",
+      "label": "Section 5.1.1118",
+      "chapter": null,
+      "original": "Cum pedibus , manibus , cum digitis , auribus , oculis , labris .",
+      "translation": "One with feet and hands , with fingers , ears , eyes , and lips ."
+    },
+    {
+      "id": "5.1.1119",
+      "label": "Section 5.1.1119",
+      "chapter": null,
+      "original": "Aliud te rogo .",
+      "translation": "I asked you something else than that ."
+    },
+    {
+      "id": "5.1.1119b",
+      "label": "Section 5.1.1119b",
+      "chapter": null,
+      "original": "Aliud ergo nunc tibi respondeo .",
+      "translation": "For that reason I now answer you something else ."
+    },
+    {
+      "id": "5.1.1120",
+      "label": "Section 5.1.1120",
+      "chapter": null,
+      "original": "sed eccum tui gnati sodalem video húc incedere",
+      "translation": "But look , I see Callidamates , the friend of your son , coming this way . Deal with me in his presence , if you want anything"
+    },
+    {
+      "id": "5.2.1122",
+      "label": "Section 5.2.1122",
+      "chapter": null,
+      "original": "Vbi somno sepelivi omnem atque édormivi crapulam ,",
+      "translation": "When I had buried all drowsiness [*] , and slept off the debauch , Philolaches told me that his father had arrived here from abroad ; in what a way too his servant had imposed upon the man on his arrival ;"
+    },
+    {
+      "id": "5.2.1125",
+      "label": "Section 5.2.1125",
+      "chapter": null,
+      "original": "ait se metuere in conspe ctum sui patris pr ocedere .",
+      "translation": "he said that he was afraid to come into his presence . Now of our company I am deputed sole ambassador , to obtain peace from his father . And look , most opportunely here he is . ( Accosting THEUROPIDES .) I wish you health , Theuropides , and am glad that you ’ ve got back safe from abroad . You must dine here with us to-day . Do so ."
+    },
+    {
+      "id": "5.2.1130",
+      "label": "Section 5.2.1130",
+      "chapter": null,
+      "original": "Callidamates , dei te ament . de cena facio gratiam .",
+      "translation": "Callidamates , may the Gods bless you . For your dinner I offer you my thanks ."
+    },
+    {
+      "id": "5.2.1131",
+      "label": "Section 5.2.1131",
+      "chapter": null,
+      "original": "Quin venis ?",
+      "translation": "Will you come then ?"
+    },
+    {
+      "id": "5.2.1131b",
+      "label": "Section 5.2.1131b",
+      "chapter": null,
+      "original": "Promitte : ego ibo pro te , si tibi non libet .",
+      "translation": "Do promise him ; I ’ ll go for you , if you don ’ t like ."
+    },
+    {
+      "id": "5.2.1132",
+      "label": "Section 5.2.1132",
+      "chapter": null,
+      "original": "Verbero , etiam inrides ?",
+      "translation": "Whip-scoundrel , laughing at me still ?"
+    },
+    {
+      "id": "5.2.1132b",
+      "label": "Section 5.2.1132b",
+      "chapter": null,
+      "original": "Quian me pro te ire ad cenam autumo ?",
+      "translation": "What , because I say that I ’ ll go to dinner for you ?"
+    },
+    {
+      "id": "5.2.1133",
+      "label": "Section 5.2.1133",
+      "chapter": null,
+      "original": "Non enim ibis . ego ferare faxo , ut meruisti , in crucem .",
+      "translation": "But you shan ’ t go . I ’ ll have you carried to the cross , as you deserve ."
+    },
+    {
+      "id": "5.2.1134",
+      "label": "Section 5.2.1134",
+      "chapter": null,
+      "original": "Age mitte ista ac te ad me ad cenam dic venturum .",
+      "translation": "Come , let this pass , and say that I shall go to the dinner ."
+    },
+    {
+      "id": "5.2.1134b",
+      "label": "Section 5.2.1134b",
+      "chapter": null,
+      "original": "Quid taces ?",
+      "translation": "Why are you silent ?"
+    },
+    {
+      "id": "5.2.1135",
+      "label": "Section 5.2.1135",
+      "chapter": null,
+      "original": "Sed tu , istuc quid confugisti in aram ?",
+      "translation": "But why , you greatest of simpletons , have you taken refuge at the altar ?"
+    },
+    {
+      "id": "5.2.1135b",
+      "label": "Section 5.2.1135b",
+      "chapter": null,
+      "original": "Inscitissimus",
+      "translation": "He frightened me on his arrival . ( To THEUROPIDES .) Say now , what I have done amiss . Look , now there ’ s an umpire for us both ; come , discuss the matter ."
+    },
+    {
+      "id": "5.2.1138",
+      "label": "Section 5.2.1138",
+      "chapter": null,
+      "original": "Filium corrupisse aio te meum .",
+      "translation": "I say that you have corrupted my son ."
+    },
+    {
+      "id": "5.2.1138b",
+      "label": "Section 5.2.1138b",
+      "chapter": null,
+      "original": "Ausculta modo .",
+      "translation": "Only listen . I confess that he has done amiss ; that he has given freedom to his mistress ; that in your absence"
+    },
+    {
+      "id": "5.2.1140",
+      "label": "Section 5.2.1140",
+      "chapter": null,
+      "original": "faenore argentum sumpsisse ; id esse absumptum praedico .",
+      "translation": "he has borrowed money at interest ; that , I admit , is squandered away . Has he done anything different to what sons of the noblest families do ?"
+    },
+    {
+      "id": "5.2.1142",
+      "label": "Section 5.2.1142",
+      "chapter": null,
+      "original": "Hercle mihi tecum cavendum est , nimis qui es orator catus .",
+      "translation": "Upon my faith , I must be on my guard with you ; you are too clever a pleader ."
+    },
+    {
+      "id": "5.2.1143",
+      "label": "Section 5.2.1143",
+      "chapter": null,
+      "original": "Sine me dum istuc iudicare . surge , ego isti adsedero .",
+      "translation": "Just let me be umpire in this matter . ( TO TRANIO .) Get up ; I ’ ll seat myself there ."
+    },
+    {
+      "id": "5.2.1144",
+      "label": "Section 5.2.1144",
+      "chapter": null,
+      "original": "Maxime , accipito hanc tute ad te litem .",
+      "translation": "By all means : take the management of this dispute to yourself ."
+    },
+    {
+      "id": "5.2.1144b",
+      "label": "Section 5.2.1144b",
+      "chapter": null,
+      "original": "Enim istic captio est .",
+      "translation": "Why , this is surely a trick ."
+    },
+    {
+      "id": "5.2.1145",
+      "label": "Section 5.2.1145",
+      "chapter": null,
+      "original": "fac ego ne metuam ⋯ ut tu meam timeas vicem .",
+      "translation": "Make me , then , not to be in a fright , and yourself to be in a fright in my stead ."
+    },
+    {
+      "id": "5.2.1146",
+      "label": "Section 5.2.1146",
+      "chapter": null,
+      "original": "Iam minoris omnia alia fa cio , prae quam quibus modis",
+      "translation": "I consider now everything of trifling consequence , compared with the way in which he has fooled me ."
+    },
+    {
+      "id": "5.2.1147b",
+      "label": "Section 5.2.1147b",
+      "chapter": null,
+      "original": "Bene hercle factum , et factum gaudeo :",
+      "translation": "I ’ faith , ’ twas cleverly done , and I rejoice that it was done . Those who have white heads ought at that age to be wiser ."
+    },
+    {
+      "id": "5.2.1149",
+      "label": "Section 5.2.1149",
+      "chapter": null,
+      "original": "Quid ego nunc faciam ?",
+      "translation": "What am I now to do"
+    },
+    {
+      "id": "5.2.1149b",
+      "label": "Section 5.2.1149b",
+      "chapter": null,
+      "original": "Si amicus Diphilo aut Philemoni es ,",
+      "translation": "if my friend Demipho or Philonides —"
+    },
+    {
+      "id": "5.2.1150",
+      "label": "Section 5.2.1150",
+      "chapter": null,
+      "original": "dicito eis , quo pacto tuos te servos ludificaverit :",
+      "translation": "Tell them in what way your servant made a fool of you . You would be affording most capital plots for Comedies ."
+    },
+    {
+      "id": "5.2.1152",
+      "label": "Section 5.2.1152",
+      "chapter": null,
+      "original": "Tace parumper , sine vicissim me loqui , ausculta .",
+      "translation": "Hold your tongue awhile ; let me speak in my turn .— Listen ."
+    },
+    {
+      "id": "5.2.1152b",
+      "label": "Section 5.2.1152b",
+      "chapter": null,
+      "original": "Licet .",
+      "translation": "By all means ."
+    },
+    {
+      "id": "5.2.1153",
+      "label": "Section 5.2.1153",
+      "chapter": null,
+      "original": "Omnium primum sodalem me esse scis gnato tuo .",
+      "translation": "In the first place of all then , you know that I am the companion of your son ;"
+    },
+    {
+      "id": "5.2.1154_1155",
+      "label": "Section 5.2.1154_1155",
+      "chapter": null,
+      "original": "is adiit me , nam eum prodire pudet in conspectum tuom",
+      "translation": "he has gone to my house , for he is ashamed to come into your presence , because he knows that you are aware what he has done . Now , I beseech you , do pardon his simplicity and youthfulness . He is your son ; you know that this age is wont to play such pranks ; whatever he has done , he has done in company with me . We have acted wrong :"
+    },
+    {
+      "id": "5.2.1160",
+      "label": "Section 5.2.1160",
+      "chapter": null,
+      "original": "faenus , sortem sumptumque omnem , quí amica empta est , omnia",
+      "translation": "the interest , principal , and all the sum at which the mistress was purchased , all of it we will find , and will contribute together , at our own cost , not yours ."
+    },
+    {
+      "id": "5.2.1162",
+      "label": "Section 5.2.1162",
+      "chapter": null,
+      "original": "Non potuit venire orator magis ad me impetrabilis",
+      "translation": "No mediator could have come to me more able to influence me than yourself . I am neither angry with him [*] , nor do I blame him for anything : nay more , in my presence , wench on , drink , do what you please ."
+    },
+    {
+      "id": "5.2.1165",
+      "label": "Section 5.2.1165",
+      "chapter": null,
+      "original": "si hoc pudet , fecisse sumptum , supplicí habeo satis .",
+      "translation": "If he ’ s ashamed of this , that he has been extravagant , I have sufficient satisfaction ."
+    },
+    {
+      "id": "5.2.1166",
+      "label": "Section 5.2.1166",
+      "chapter": null,
+      "original": "Dispudet .",
+      "translation": "I ’ m quite ashamed myself"
+    },
+    {
+      "id": "5.2.1166b",
+      "label": "Section 5.2.1166b",
+      "chapter": null,
+      "original": "Post istam veniam quid me fiet nunciam ?",
+      "translation": "He grants pardon thus far ; now then , what is to become of me ?"
+    }
+  ],
+  "prevChunkSlug": "the-ghost-1vjypr-15",
+  "nextChunkSlug": "the-ghost-1vjypr-17"
+}

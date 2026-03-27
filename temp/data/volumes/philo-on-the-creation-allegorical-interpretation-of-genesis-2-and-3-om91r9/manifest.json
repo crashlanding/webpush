@@ -1,0 +1,160 @@
+{
+  "loebNumber": 226,
+  "sortOrder": 226,
+  "slug": "philo-on-the-creation-allegorical-interpretation-of-genesis-2-and-3-om91r9",
+  "title": "On the Creation. Allegorical Interpretation of Genesis 2 and 3",
+  "volumeLabel": "On the Creation. Allegorical Interpretation of Genesis 2 and 3",
+  "authorDisplay": "Philo",
+  "authors": [
+    "Philo"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for On the Creation. Allegorical Interpretation of Genesis 2 and 3, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "on-the-creation-1te55q-1",
+  "readyChunkCount": 4,
+  "contents": [
+    {
+      "id": "on-the-creation-1te55q",
+      "title": "On the Creation",
+      "status": "ready",
+      "sectionCount": 172,
+      "chunkSlug": "on-the-creation-1te55q-1",
+      "chunks": [
+        {
+          "slug": "on-the-creation-1te55q-1",
+          "label": "On the Creation (Section 1 - Section 60)",
+          "partId": "on-the-creation-1te55q",
+          "partTitle": "On the Creation",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-creation-1te55q-2",
+          "label": "On the Creation (Section 61 - Section 120)",
+          "partId": "on-the-creation-1te55q",
+          "partTitle": "On the Creation",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "on-the-creation-1te55q-3",
+          "label": "On the Creation (Section 121 - Section 172)",
+          "partId": "on-the-creation-1te55q",
+          "partTitle": "On the Creation",
+          "sectionCount": 52,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "allegorical-interpretation-of-genesis-2-and-3-1x8nu7",
+      "title": "Allegorical Interpretation of Genesis 2 and 3",
+      "status": "ready",
+      "sectionCount": 15,
+      "chunkSlug": "allegorical-interpretation-of-genesis-2-and-3-1x8nu7",
+      "chunks": [
+        {
+          "slug": "allegorical-interpretation-of-genesis-2-and-3-1x8nu7",
+          "label": "Allegorical Interpretation of Genesis 2 and 3",
+          "partId": "allegorical-interpretation-of-genesis-2-and-3-1x8nu7",
+          "partTitle": "Allegorical Interpretation of Genesis 2 and 3",
+          "sectionCount": 15,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "on-the-creation-1te55q-1",
+      "label": "On the Creation (Section 1 - Section 60)",
+      "partId": "on-the-creation-1te55q",
+      "partTitle": "On the Creation",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-creation-1te55q-2",
+      "label": "On the Creation (Section 61 - Section 120)",
+      "partId": "on-the-creation-1te55q",
+      "partTitle": "On the Creation",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "on-the-creation-1te55q-3",
+      "label": "On the Creation (Section 121 - Section 172)",
+      "partId": "on-the-creation-1te55q",
+      "partTitle": "On the Creation",
+      "sectionCount": 52,
+      "status": "ready"
+    },
+    {
+      "slug": "allegorical-interpretation-of-genesis-2-and-3-1x8nu7",
+      "label": "Allegorical Interpretation of Genesis 2 and 3",
+      "partId": "allegorical-interpretation-of-genesis-2-and-3-1x8nu7",
+      "partTitle": "Allegorical Interpretation of Genesis 2 and 3",
+      "sectionCount": 15,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "on-the-creation-1te55q-1",
+      "partTitle": "On the Creation",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Opificio Mundi",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg001.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Creation of the World",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg001.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-creation-1te55q-2",
+      "partTitle": "On the Creation",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Opificio Mundi",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg001.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Creation of the World",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg001.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "on-the-creation-1te55q-3",
+      "partTitle": "On the Creation",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "De Opificio Mundi",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg001.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Creation of the World",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg001.1st1K-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "allegorical-interpretation-of-genesis-2-and-3-1x8nu7",
+      "partTitle": "Allegorical Interpretation of Genesis 2 and 3",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Legum Allegoriarum Libri I-III",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg002.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Allegories of the Sacred Laws",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0018.tlg002.1st1K-eng1/"
+      }
+    }
+  ]
+}

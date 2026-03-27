@@ -1,0 +1,301 @@
+{
+  "loebNumber": 346,
+  "sortOrder": 346,
+  "slug": "demosthenes-orations-volume-v-1jvwr4",
+  "title": "Orations, Volume V",
+  "volumeLabel": "Orations, Volume V",
+  "authorDisplay": "Demosthenes",
+  "authors": [
+    "Demosthenes"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Orations, Volume V. Orations, Volume V opens a closest available slice of Demosthenes on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "against-pantaenetus-83mqqp",
+  "readyChunkCount": 9,
+  "contents": [
+    {
+      "id": "orations-volume-v-89ijnp",
+      "title": "Orations, Volume V",
+      "status": "ready",
+      "sectionCount": 492,
+      "chunkSlug": "against-pantaenetus-83mqqp",
+      "chunks": [
+        {
+          "slug": "against-pantaenetus-83mqqp",
+          "label": "Against Pantaenetus",
+          "partId": "orations-volume-v-89ijnp",
+          "partTitle": "Orations, Volume V",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "against-nausimachus-and-xenopeithes-sjigxb",
+          "label": "Against Nausimachus and Xenopeithes",
+          "partId": "orations-volume-v-89ijnp",
+          "partTitle": "Orations, Volume V",
+          "sectionCount": 28,
+          "status": "ready"
+        },
+        {
+          "slug": "against-boeotus-i-1ixd6d",
+          "label": "Against Boeotus I",
+          "partId": "orations-volume-v-89ijnp",
+          "partTitle": "Orations, Volume V",
+          "sectionCount": 41,
+          "status": "ready"
+        },
+        {
+          "slug": "against-boeotus-ii-1x0r88",
+          "label": "Against Boeotus II",
+          "partId": "orations-volume-v-89ijnp",
+          "partTitle": "Orations, Volume V",
+          "sectionCount": 61,
+          "status": "ready"
+        },
+        {
+          "slug": "against-spudias-20iu8g",
+          "label": "Against Spudias",
+          "partId": "orations-volume-v-89ijnp",
+          "partTitle": "Orations, Volume V",
+          "sectionCount": 30,
+          "status": "ready"
+        },
+        {
+          "slug": "against-phaenippus-12pbo5",
+          "label": "Against Phaenippus",
+          "partId": "orations-volume-v-89ijnp",
+          "partTitle": "Orations, Volume V",
+          "sectionCount": 32,
+          "status": "ready"
+        },
+        {
+          "slug": "against-macartatus-19le3l",
+          "label": "Against Macartatus",
+          "partId": "orations-volume-v-89ijnp",
+          "partTitle": "Orations, Volume V",
+          "sectionCount": 84,
+          "status": "ready"
+        },
+        {
+          "slug": "against-leochares-yv5naz",
+          "label": "Against Leochares",
+          "partId": "orations-volume-v-89ijnp",
+          "partTitle": "Orations, Volume V",
+          "sectionCount": 68,
+          "status": "ready"
+        },
+        {
+          "slug": "against-stephanus-i-14rcjx",
+          "label": "Against Stephanus I",
+          "partId": "orations-volume-v-89ijnp",
+          "partTitle": "Orations, Volume V",
+          "sectionCount": 88,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "against-pantaenetus-83mqqp",
+      "label": "Against Pantaenetus",
+      "partId": "orations-volume-v-89ijnp",
+      "partTitle": "Orations, Volume V",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "against-nausimachus-and-xenopeithes-sjigxb",
+      "label": "Against Nausimachus and Xenopeithes",
+      "partId": "orations-volume-v-89ijnp",
+      "partTitle": "Orations, Volume V",
+      "sectionCount": 28,
+      "status": "ready"
+    },
+    {
+      "slug": "against-boeotus-i-1ixd6d",
+      "label": "Against Boeotus I",
+      "partId": "orations-volume-v-89ijnp",
+      "partTitle": "Orations, Volume V",
+      "sectionCount": 41,
+      "status": "ready"
+    },
+    {
+      "slug": "against-boeotus-ii-1x0r88",
+      "label": "Against Boeotus II",
+      "partId": "orations-volume-v-89ijnp",
+      "partTitle": "Orations, Volume V",
+      "sectionCount": 61,
+      "status": "ready"
+    },
+    {
+      "slug": "against-spudias-20iu8g",
+      "label": "Against Spudias",
+      "partId": "orations-volume-v-89ijnp",
+      "partTitle": "Orations, Volume V",
+      "sectionCount": 30,
+      "status": "ready"
+    },
+    {
+      "slug": "against-phaenippus-12pbo5",
+      "label": "Against Phaenippus",
+      "partId": "orations-volume-v-89ijnp",
+      "partTitle": "Orations, Volume V",
+      "sectionCount": 32,
+      "status": "ready"
+    },
+    {
+      "slug": "against-macartatus-19le3l",
+      "label": "Against Macartatus",
+      "partId": "orations-volume-v-89ijnp",
+      "partTitle": "Orations, Volume V",
+      "sectionCount": 84,
+      "status": "ready"
+    },
+    {
+      "slug": "against-leochares-yv5naz",
+      "label": "Against Leochares",
+      "partId": "orations-volume-v-89ijnp",
+      "partTitle": "Orations, Volume V",
+      "sectionCount": 68,
+      "status": "ready"
+    },
+    {
+      "slug": "against-stephanus-i-14rcjx",
+      "label": "Against Stephanus I",
+      "partId": "orations-volume-v-89ijnp",
+      "partTitle": "Orations, Volume V",
+      "sectionCount": 88,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "against-pantaenetus-83mqqp",
+      "partTitle": "Orations, Volume V",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "παραγραφὴ πρὸς Πανταίνετον",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg037.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Nicobulus Against Pantaenetus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg037.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-nausimachus-and-xenopeithes-sjigxb",
+      "partTitle": "Orations, Volume V",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "παραγραφὴ πρὸς Ναυσίμακον καὶ Ξενοπείθην",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg038.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "One of the Sons of Aristaechmus Against Nausimachus and Xenopeithes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg038.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-boeotus-i-1ixd6d",
+      "partTitle": "Orations, Volume V",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "πρὸς Βοιωτὸν περὶ τοῦ Ὀνόματος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg039.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mantitheus Against Boeotus I",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg039.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-boeotus-ii-1x0r88",
+      "partTitle": "Orations, Volume V",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "πρὸς Βοιωτὸν περὶ προικὸς μητρῴας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg040.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Mantitheus Against Boeotus II",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg040.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-spudias-20iu8g",
+      "partTitle": "Orations, Volume V",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "πρὸς Σπουδίαν ὑπὲρ προικός",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg041.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "An Unknown Pleader Against Spudias in the Matter of a Marriage Proposal",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg041.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-phaenippus-12pbo5",
+      "partTitle": "Orations, Volume V",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "πρὸς Φαίνιππον περὶ ἀντιδόσεως",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg042.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Unknown Pleader Against Phaenippus, On an Exchange of Properties",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg042.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-macartatus-19le3l",
+      "partTitle": "Orations, Volume V",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "πρὸς Μακάρτατον περὶ Ἁγνίου κλήρου",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg043.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Sositheus Against Macartatus in Regard to the Estate of Hagnias",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg043.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-leochares-yv5naz",
+      "partTitle": "Orations, Volume V",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "πρὸς Λεωκάρη περὶ τοῦ Ἀρχιάδου κλήρου",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg044.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Aristodemus Against Leochares Regarding the Estate of Archiades",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg044.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-stephanus-i-14rcjx",
+      "partTitle": "Orations, Volume V",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Στεφάνου ψευδομαρτυριῶν α΄",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg045.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Apollodorus Against Stephanus, Charged with False Testimony I",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg045.perseus-eng2/"
+      }
+    }
+  ]
+}

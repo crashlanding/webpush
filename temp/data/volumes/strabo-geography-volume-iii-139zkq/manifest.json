@@ -1,0 +1,61 @@
+{
+  "loebNumber": 182,
+  "sortOrder": 182,
+  "slug": "strabo-geography-volume-iii-139zkq",
+  "title": "Geography, Volume III",
+  "volumeLabel": "Geography, Volume III",
+  "authorDisplay": "Strabo",
+  "authors": [
+    "Strabo"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Geography, Volume III. Geography, Volume III currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "geography-volume-iii-qnsmc3",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "geography-volume-iii-qnsmc3",
+      "title": "Geography, Volume III",
+      "status": "ready",
+      "sectionCount": 42,
+      "chunkSlug": "geography-volume-iii-qnsmc3",
+      "chunks": [
+        {
+          "slug": "geography-volume-iii-qnsmc3",
+          "label": "Geography, Volume III",
+          "partId": "geography-volume-iii-qnsmc3",
+          "partTitle": "Geography, Volume III",
+          "sectionCount": 42,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "geography-volume-iii-qnsmc3",
+      "label": "Geography, Volume III",
+      "partId": "geography-volume-iii-qnsmc3",
+      "partTitle": "Geography, Volume III",
+      "sectionCount": 42,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "geography-volume-iii-qnsmc3",
+      "partTitle": "Geography, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Γεωγραφικά",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0099.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Geography (Books 6-14)",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0099.tlg001.perseus-eng3/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "loebNumber": 2,
+  "sortOrder": 2,
+  "slug": "appian-roman-history-volume-i-15lwug",
+  "title": "Roman History, Volume I",
+  "volumeLabel": "Roman History, Volume I",
+  "authorDisplay": "Appian",
+  "authors": [
+    "Appian"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Roman History, Volume I. Roman History, Volume I opens a closest available slice of Appianus of Alexandria on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "kings-175y8s",
+  "readyChunkCount": 3,
+  "contents": [
+    {
+      "id": "roman-history-volume-i-sl53k8",
+      "title": "Roman History, Volume I",
+      "status": "ready",
+      "sectionCount": 35,
+      "chunkSlug": "kings-175y8s",
+      "chunks": [
+        {
+          "slug": "kings-175y8s",
+          "label": "Kings",
+          "partId": "roman-history-volume-i-sl53k8",
+          "partTitle": "Roman History, Volume I",
+          "sectionCount": 13,
+          "status": "ready"
+        },
+        {
+          "slug": "italy-1694eb",
+          "label": "Italy",
+          "partId": "roman-history-volume-i-sl53k8",
+          "partTitle": "Roman History, Volume I",
+          "sectionCount": 10,
+          "status": "ready"
+        },
+        {
+          "slug": "samnite-history-typj3z",
+          "label": "Samnite History",
+          "partId": "roman-history-volume-i-sl53k8",
+          "partTitle": "Roman History, Volume I",
+          "sectionCount": 12,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "kings-175y8s",
+      "label": "Kings",
+      "partId": "roman-history-volume-i-sl53k8",
+      "partTitle": "Roman History, Volume I",
+      "sectionCount": 13,
+      "status": "ready"
+    },
+    {
+      "slug": "italy-1694eb",
+      "label": "Italy",
+      "partId": "roman-history-volume-i-sl53k8",
+      "partTitle": "Roman History, Volume I",
+      "sectionCount": 10,
+      "status": "ready"
+    },
+    {
+      "slug": "samnite-history-typj3z",
+      "label": "Samnite History",
+      "partId": "roman-history-volume-i-sl53k8",
+      "partTitle": "Roman History, Volume I",
+      "sectionCount": 12,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "kings-175y8s",
+      "partTitle": "Roman History, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "ἐκ τῆς βασιλικῆς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg002.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Kings",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "italy-1694eb",
+      "partTitle": "Roman History, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "ἐκ τῆς Ἰταλικῆς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Italy",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "samnite-history-typj3z",
+      "partTitle": "Roman History, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "ἐκ τῆς Σαυνιτικῆς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg004.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Samnite History",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg004.perseus-eng2/"
+      }
+    }
+  ]
+}

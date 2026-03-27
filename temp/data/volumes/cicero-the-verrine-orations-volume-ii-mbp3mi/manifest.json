@@ -1,0 +1,61 @@
+{
+  "loebNumber": 293,
+  "sortOrder": 293,
+  "slug": "cicero-the-verrine-orations-volume-ii-mbp3mi",
+  "title": "The Verrine Orations, Volume II",
+  "volumeLabel": "The Verrine Orations, Volume II",
+  "authorDisplay": "Cicero",
+  "authors": [
+    "Cicero"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for The Verrine Orations, Volume II. The Verrine Orations, Volume II is partitioned from In C. Verrem to approximate the Loeb volume boundaries with local Scaife assets.",
+  "status": "ready",
+  "defaultChunkSlug": "the-verrine-orations-volume-ii-qdocyb",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "the-verrine-orations-volume-ii-qdocyb",
+      "title": "The Verrine Orations, Volume II",
+      "status": "ready",
+      "sectionCount": 5,
+      "chunkSlug": "the-verrine-orations-volume-ii-qdocyb",
+      "chunks": [
+        {
+          "slug": "the-verrine-orations-volume-ii-qdocyb",
+          "label": "The Verrine Orations, Volume II",
+          "partId": "the-verrine-orations-volume-ii-qdocyb",
+          "partTitle": "The Verrine Orations, Volume II",
+          "sectionCount": 5,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "the-verrine-orations-volume-ii-qdocyb",
+      "label": "The Verrine Orations, Volume II",
+      "partId": "the-verrine-orations-volume-ii-qdocyb",
+      "partTitle": "The Verrine Orations, Volume II",
+      "sectionCount": 5,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "the-verrine-orations-volume-ii-qdocyb",
+      "partTitle": "The Verrine Orations, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "In C. Verrem",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi005.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against Verres",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi005.perseus-eng2/"
+      }
+    }
+  ]
+}

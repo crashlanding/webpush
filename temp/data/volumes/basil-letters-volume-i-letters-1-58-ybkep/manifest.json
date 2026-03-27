@@ -1,0 +1,61 @@
+{
+  "loebNumber": 190,
+  "sortOrder": 190,
+  "slug": "basil-letters-volume-i-letters-1-58-ybkep",
+  "title": "Letters, Volume I: Letters 1-58",
+  "volumeLabel": "Letters, Volume I: Letters 1-58",
+  "authorDisplay": "Basil",
+  "authors": [
+    "Basil"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Letters, Volume I: Letters 1-58, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "letters-letters-1-58-ghr71h",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "letters-letters-1-58-ghr71h",
+      "title": "Letters: Letters 1-58",
+      "status": "ready",
+      "sectionCount": 27,
+      "chunkSlug": "letters-letters-1-58-ghr71h",
+      "chunks": [
+        {
+          "slug": "letters-letters-1-58-ghr71h",
+          "label": "Letters: Letters 1-58",
+          "partId": "letters-letters-1-58-ghr71h",
+          "partTitle": "Letters: Letters 1-58",
+          "sectionCount": 27,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "letters-letters-1-58-ghr71h",
+      "label": "Letters: Letters 1-58",
+      "partId": "letters-letters-1-58-ghr71h",
+      "partTitle": "Letters: Letters 1-58",
+      "sectionCount": 27,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "letters-letters-1-58-ghr71h",
+      "partTitle": "Letters: Letters 1-58",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Δημοσθένους ἐπιστολαὶ",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg063.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Letters",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg063.perseus-eng2/"
+      }
+    }
+  ]
+}

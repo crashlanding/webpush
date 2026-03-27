@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "terence-the-woman-of-andros-the-self-tormentor-the-eunuch-y550q8",
+  "volumeTitle": "The Woman of Andros. The Self-Tormentor. The Eunuch",
+  "authorDisplay": "Terence",
+  "authors": [
+    "Terence"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-self-tormentor-nt3lty-1",
+  "label": "The Self-Tormentor (Section front.cast - Section 1.1.158)",
+  "partId": "the-self-tormentor-nt3lty",
+  "partTitle": "The Self-Tormentor",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Heautontimorumenos",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi002.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Heautontimorumenos; or, The Self-Tormenter",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0134.phi002.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "front.cast",
+      "label": "Section front.cast",
+      "chapter": null,
+      "original": "Fabulae Interlocutores .\n\nANTIPHILA , amica Cliniae . BACCHIS , amica Clitiphonis . CHREMES , Clitiphonis pater . CLINIA , Menedemi filius . CLITIPHO , Chremetis filius . DROMO , servus Menedemi . MENEDEMUS , Cliniae pater . NUTRIX . PHRYGIA , ancilla . SOSTRATA , Chremetis uxor . SYRUS , servus Chremetis .",
+      "translation": "Dramatis Personae CHREMES , [*] an old gentleman , living in the country . MENEDEMUS , [*] an old gentleman , his neighbor . CLINIA , [*] son of Menedemus . CLITIPHO , [*] son of Chremes . DROMO , [*] son of Clinia . SYRUS , [*] servant of Clitipho . SOSTRATA , [*] wife of Chremes . ANTIPHILA , [*] a young woman beloved by Clinia . BACCHIS . [*] a Courtesan , the mistress of Clitipho . The Nurse of Antiphila . PHRYGIA , [*] maid-servant to Bacchis ."
+    },
+    {
+      "id": "front.production",
+      "label": "Section front.production",
+      "chapter": null,
+      "original": "HEAUTONTIMORUMENOS . ACTA LUDIS MEGALENSIBUS , L . CORNELIO LENTULO L . VALERIO FLACCO AEDILIBUS CURULIBUS . EGERUNT L . AMBIVIUS TURPIO ET L . ATTILIUS PRAENESTINUS . MODOS FECIT FLACCUS CLAUDII . GRAECA EST MENANDRU . ACTA PRIMUM TIBIIS IMPARIBUS ; DEINDE DUABUS DEXTRIS . ACTA III . EDITA M . IUVENTIO ET T . SEMPRONIO COSS .",
+      "translation": "THE TITLE OF THE PLAY .\nIT is from the Greek of Menander . Performed at the Megalensian Games ; Lucius Cornelius Lentulus and Lucius Valerius Flaccus being Curule Aediles . Ambivius Turpio performed it . Flaccus , the freedman of Claudius , composed the music . The first time it was performed to the music of treble and bass flutes ; the second time , of two treble flutes . It was acted three times ; Marcus Juventius and Titus Sempronius being Consuls . [*]"
+    },
+    {
+      "id": "1.prologue.1",
+      "label": "Section 1.prologue.1",
+      "chapter": null,
+      "original": "NE cui sit vestrum mirum , cur partes seni",
+      "translation": "LEST it should be a matter of surprise to any one of you , why the Poet has assigned to an old man [*] a part that belongs to the young , that I will first explain to you ; [*] and then , the reason for my coming I will disclose . An entire Play from an entire Greek one , [*]"
+    },
+    {
+      "id": "1.prologue.5",
+      "label": "Section 1.prologue.5",
+      "chapter": null,
+      "original": "Hodie sum acturus Heautontimorumenon ;",
+      "translation": "the Heautontimorumenos , I am to-day about to represent , which from a two-fold plot [*] has been made but one . I have shown that it is new , and what it is : next I would mention who it was that wrote it , and whose in Greek it is , if I did not think that the greater part of you are aware ."
+    },
+    {
+      "id": "1.prologue.10",
+      "label": "Section 1.prologue.10",
+      "chapter": null,
+      "original": "Nunc , quamobrem has partes didicerim , paucis dabo .",
+      "translation": "Now , for what reason I have learned this part , in a few words I will explain . The Poet intended me to be a Pleader , [*] not the Speaker of a Prologue ; your decision he asks , and has appointed me the advocate ; if this advocate can avail as much by his oral powers as he has excelled in inventing happily ,"
+    },
+    {
+      "id": "1.prologue.15",
+      "label": "Section 1.prologue.15",
+      "chapter": null,
+      "original": "Qui orationem hanc scripsit quam dicturus sum .",
+      "translation": "who composed this speech which I am about to recite . For as to malevolent rumors spreading abroad that he has mixed together many Greek Plays while writing a few Latin ones , he does not deny that this is the case , and that he does not repent of so doing ; and he affirms that he will do so again ."
+    },
+    {
+      "id": "1.prologue.20",
+      "label": "Section 1.prologue.20",
+      "chapter": null,
+      "original": "Habet bonorum exemplum , quo exemplo sibi",
+      "translation": "He has the example of good Poets ; after which example he thinks it is allowable for him to do what they have done . Then , as to a malevolent old Poet [*] saying that he has suddenly applied himself to dramatic pursuits , relying on the genius of his friends , [*] and not his own natural abilities ;"
+    },
+    {
+      "id": "1.prologue.25",
+      "label": "Section 1.prologue.25",
+      "chapter": null,
+      "original": "Arbitrium vestrum , vestra existimatio",
+      "translation": "on that your judgment your your opinion , will prevail . Wherefore I do entreat you all , that the suggestions of our antagonists may not avail more than those of our favorers . Do you be favorable ; grant the means of prospering to those who afford you the means of being spectators of new Plays ;"
+    },
+    {
+      "id": "1.prologue.30",
+      "label": "Section 1.prologue.30",
+      "chapter": null,
+      "original": "Sine vitiis ; ne ille pro se dictum existimet ,",
+      "translation": "those , I mean , without faults : that he may not suppose this said in his behalf who lately made the public give way to a slave as he ran along in the street ; [*] why should he take a madman ’ s part ? About his faults he will say more when he brings out some other new ones , unless he puts an end to his caviling ."
+    },
+    {
+      "id": "1.prologue.35",
+      "label": "Section 1.prologue.35",
+      "chapter": null,
+      "original": "Adeste aequo animo ; date potestatem mihi",
+      "translation": "Attend with favorable feelings ; grant me the opportunity that I may be allowed to act a quiet Play [*] in silence ; that the servant everlastingly running about , the angry old man , the gluttonous parasite , the impudent sharper , and the greedy procurer , may not have always to be performed by me"
+    },
+    {
+      "id": "1.prologue.40",
+      "label": "Section 1.prologue.40",
+      "chapter": null,
+      "original": "Clamore summo , cum labore maximo .",
+      "translation": "with the utmost expense of voice , and the greatest exertion . For my sake come to the conclusion that this request is fair , that so some portion of my labor may be abridged . For nowadays , those who write new Plays do not spare an aged man . If there is any piece requiring exertion , they come running to me ;"
+    },
+    {
+      "id": "1.prologue.45",
+      "label": "Section 1.prologue.45",
+      "chapter": null,
+      "original": "Sin lenis est , ad alium defertur gregem .",
+      "translation": "but if it is a light one , it is taken to another Company . In the present one the style is pure . Do you make proof , what , in each character , [*] my ability can effect . If I have never greedily set a high price upon my skill , and have come to the conclusion that this is my greatest gain ,"
+    },
+    {
+      "id": "1.prologue.50",
+      "label": "Section 1.prologue.50",
+      "chapter": null,
+      "original": "Quam maxime servire vestris commodis ;",
+      "translation": "as far as possible to be subservient to your convenience , establish in me a precedent , that the young may be anxious rather to please you than themselves ."
+    },
+    {
+      "id": "1.1.53",
+      "label": "Section 1.1.53",
+      "chapter": null,
+      "original": "Quanquam haec inter nos nupera notitia admodum est ,",
+      "translation": "Although this acquaintanceship between us is of very recent date , from the time in fact of your purchasing an estate here in the neighborhood ,"
+    },
+    {
+      "id": "1.1.56",
+      "label": "Section 1.1.56",
+      "chapter": null,
+      "original": "Tamen vel virtus tua me , vel vicinitas ,",
+      "translation": "yet either your good qualities , or our being neighbors ( which I take to be a sort of friendship ), induces me to inform you , frankly and familiarly , that you appear to me to labor beyond your years ,"
+    },
+    {
+      "id": "1.1.60",
+      "label": "Section 1.1.60",
+      "chapter": null,
+      "original": "Facere , et praeter quam res te adhortatur tua .",
+      "translation": "and beyond what your affairs require . For , in the name of Gods and men , what would you have ? What can be your aim ? You are , as I conjecture , sixty years of age , or more . No man in these parts has a better or a more valuable estate , no one"
+    },
+    {
+      "id": "1.1.65",
+      "label": "Section 1.1.65",
+      "chapter": null,
+      "original": "Servos complures : proinde quasi nemo siet ,",
+      "translation": "more servants ; and yet you discharge their duties just as diligently as if there were none at all . However early in the morning I go out , and however late in the evening I return home , I see you either digging , or plowing , or doing something , in fact , in the fields ."
+    },
+    {
+      "id": "1.1.70",
+      "label": "Section 1.1.70",
+      "chapter": null,
+      "original": "Nullum remittis tempus , neque te respicis .",
+      "translation": "You take respite not an instant , and are quite regardless of yourself . I am very sure that this is not done for your amusement . But really I am vexed how little work is done here . [*] If you were to employ the time you spend in laboring yourself , in keeping your servants at work , you would profit much more ."
+    },
+    {
+      "id": "1.1.75",
+      "label": "Section 1.1.75",
+      "chapter": null,
+      "original": "Chreme , tantumne est ab re tua oti tibi",
+      "translation": "Have you so much leisure , Chremes , from your own affairs , that you can attend to those of others — those which don ’ t concern you ?"
+    },
+    {
+      "id": "1.1.77",
+      "label": "Section 1.1.77",
+      "chapter": null,
+      "original": "Homo sum : humani nihil a me alienum puto .",
+      "translation": "I am a man , [*] and nothing that concerns a man do I deem a matter of indifference to me . Suppose that I wish either to advise you in this matter , or to be informed myself : if what you do is right , that I may do the same ; if it is not , then that I may dissuade you ."
+    },
+    {
+      "id": "1.1.80",
+      "label": "Section 1.1.80",
+      "chapter": null,
+      "original": "Mihi sic est usus : tibi ut opus facto est , face .",
+      "translation": "It ’ s requisite for me to do so ; do you as it is necessary for you to do ."
+    },
+    {
+      "id": "1.1.81",
+      "label": "Section 1.1.81",
+      "chapter": null,
+      "original": "An cuiquam est usus homini se ut cruciet ?",
+      "translation": "Is it requisite for any person to torment himself ?"
+    },
+    {
+      "id": "1.1.81b",
+      "label": "Section 1.1.81b",
+      "chapter": null,
+      "original": "Mihi .",
+      "translation": "It is for me ."
+    },
+    {
+      "id": "1.1.82",
+      "label": "Section 1.1.82",
+      "chapter": null,
+      "original": "Si quid laboris est , nollem : sed quid istuc mali est ,",
+      "translation": "If you have any affliction , I could wish it otherwise . But prithee , what sorrow is this of yours ? How have you deserved so ill of yourself ?"
+    },
+    {
+      "id": "1.1.83b",
+      "label": "Section 1.1.83b",
+      "chapter": null,
+      "original": "Eheu !",
+      "translation": "Alas ! alas !"
+    },
+    {
+      "id": "1.1.84",
+      "label": "Section 1.1.84",
+      "chapter": null,
+      "original": "Ne lacrima : atque istuc quicquid est fac me ut sciam :",
+      "translation": "Do not weep , but make me acquainted with it , whatever it is ."
+    },
+    {
+      "id": "1.1.85",
+      "label": "Section 1.1.85",
+      "chapter": null,
+      "original": "Ne retice : ne verere : crede , inquam , mihi ,",
+      "translation": "Do not be reserved ; fear nothing ; trust me , I tell you . Either by consolation , or by counsel , or by any means , I will aid you ."
+    },
+    {
+      "id": "1.1.87",
+      "label": "Section 1.1.87",
+      "chapter": null,
+      "original": "Scire hoc vis ?",
+      "translation": "Do you wish to know this matter ?"
+    },
+    {
+      "id": "1.1.87b",
+      "label": "Section 1.1.87b",
+      "chapter": null,
+      "original": "Hac quidem causa qua dixi tibi .",
+      "translation": "Yes , and for the reason I mentioned to you ."
+    },
+    {
+      "id": "1.1.88",
+      "label": "Section 1.1.88",
+      "chapter": null,
+      "original": "Dicetur .",
+      "translation": "I will tell you ."
+    },
+    {
+      "id": "1.1.88b",
+      "label": "Section 1.1.88b",
+      "chapter": null,
+      "original": "At istos rastros interea tamen",
+      "translation": "But still , in the mean time , lay down that rake ; don ’ t fatigue yourself ."
+    },
+    {
+      "id": "1.1.89b",
+      "label": "Section 1.1.89b",
+      "chapter": null,
+      "original": "Minime .",
+      "translation": "By no means ."
+    },
+    {
+      "id": "1.1.89c",
+      "label": "Section 1.1.89c",
+      "chapter": null,
+      "original": "Quam rem agis ?",
+      "translation": "What can be your object ?"
+    },
+    {
+      "id": "1.1.90",
+      "label": "Section 1.1.90",
+      "chapter": null,
+      "original": "Sine me vacivum tempus ne quod dem mihi",
+      "translation": "Do leave me alone , that I may give myself no respite from my labor ."
+    },
+    {
+      "id": "1.1.91b",
+      "label": "Section 1.1.91b",
+      "chapter": null,
+      "original": "Non sinam , inquam .",
+      "translation": "I will not allow it , I tell you ."
+    },
+    {
+      "id": "1.1.91c",
+      "label": "Section 1.1.91c",
+      "chapter": null,
+      "original": "Ah , non aequum facis .",
+      "translation": "Ah ! that ’ s not fair ."
+    },
+    {
+      "id": "1.1.92",
+      "label": "Section 1.1.92",
+      "chapter": null,
+      "original": "Hui , tam graves hos , quaeso ?",
+      "translation": "Whew ! such a heavy one as this , pray !"
+    },
+    {
+      "id": "1.1.92b",
+      "label": "Section 1.1.92b",
+      "chapter": null,
+      "original": "Sic meritum est meum .",
+      "translation": "Such are my deserts ."
+    },
+    {
+      "id": "1.1.93",
+      "label": "Section 1.1.93",
+      "chapter": null,
+      "original": "Nunc loquere .",
+      "translation": "Now speak ."
+    },
+    {
+      "id": "1.1.93b",
+      "label": "Section 1.1.93b",
+      "chapter": null,
+      "original": "Filium unicum adolescentulum",
+      "translation": "I have an only son ,— a young man ,— alas ! why did I say — I have ? — rather I should say , I had one , Chremes :—"
+    },
+    {
+      "id": "1.1.95",
+      "label": "Section 1.1.95",
+      "chapter": null,
+      "original": "Nunc habeam necne incertum est .",
+      "translation": "whether I have him now , or not , is uncertain ."
+    },
+    {
+      "id": "1.1.95b",
+      "label": "Section 1.1.95b",
+      "chapter": null,
+      "original": "Quid ita istuc ?",
+      "translation": "Why so ?"
+    },
+    {
+      "id": "1.1.95c",
+      "label": "Section 1.1.95c",
+      "chapter": null,
+      "original": "Scies .",
+      "translation": "You shall know :— There is a poor old woman here , a stranger from Corinth :— her daughter , a young woman , he fell in love with , insomuch that he almost regarded her as his wife ; all this took place unknown to me . When I discovered the matter , I began to reprove him , not with gentleness ,"
+    },
+    {
+      "id": "1.1.100",
+      "label": "Section 1.1.100",
+      "chapter": null,
+      "original": "Neque ut animum decuit aegrotum adolescentuli ,",
+      "translation": "nor in the way suited to the love-sick mind of a youth , but with violence , and after the usual method of fathers . I was daily reproaching him ,— Look you , do you expect to be allowed any longer to act thus , myself , your father , being alive ; to be keeping a mistress pretty much as though your wife ?"
+    },
+    {
+      "id": "1.1.105",
+      "label": "Section 1.1.105",
+      "chapter": null,
+      "original": "Erras , si id credis , et me ignoras , Clinia .",
+      "translation": "You are mistaken , Clinia , and you don ’ t know me , if you fancy that . I am willing that you should be called my son , just as long as you do what becomes you ; but if you do not do so , I shall find out how it becomes me to act toward you . This arises from nothing , in fact , but too much idleness ."
+    },
+    {
+      "id": "1.1.110",
+      "label": "Section 1.1.110",
+      "chapter": null,
+      "original": "Ego istuc aetatis non amori operam dabam ,",
+      "translation": "At your time of life , I did not devote my time to dalliance , but , in consequence of my poverty , departed hence for Asia , and there acquired in arms both riches and military glory . At length the matter came to this ,— the youth , from hearing the same things so often , and with such severity , was overcome ."
+    },
+    {
+      "id": "1.1.115",
+      "label": "Section 1.1.115",
+      "chapter": null,
+      "original": "Et aetate putavit me et benevolentia",
+      "translation": "He supposed that I , through age and affection , had more judgment and foresight for him than him-self . He went off to Asia , Chremes , to serve under the king ."
+    },
+    {
+      "id": "1.1.118",
+      "label": "Section 1.1.118",
+      "chapter": null,
+      "original": "Quid ais ?",
+      "translation": "What is it you say ?"
+    },
+    {
+      "id": "1.1.118b",
+      "label": "Section 1.1.118b",
+      "chapter": null,
+      "original": "Clam me profectus , menses tres abest .",
+      "translation": "He departed without my knowledge — and has been gone these three months ."
+    },
+    {
+      "id": "1.1.119",
+      "label": "Section 1.1.119",
+      "chapter": null,
+      "original": "Ambo accusandi ; etsi illud inceptum tamen",
+      "translation": "Both are to be blamed — although I still think this step shows an ingenuous and enterprising disposition ."
+    },
+    {
+      "id": "1.1.121",
+      "label": "Section 1.1.121",
+      "chapter": null,
+      "original": "Ubi comperi ex iis qui ei fuere conscii ,",
+      "translation": "When I learned this from those who were in the secret , I returned home sad , and with feelings almost over-whelmed and distracted through grief . I sit down ; my servants run to me ; they take off my shoes : [*] then some make all haste to spread the couches , [*]"
+    },
+    {
+      "id": "1.1.125",
+      "label": "Section 1.1.125",
+      "chapter": null,
+      "original": "Video alios festinare , lectos sternere ,",
+      "translation": "and to prepare a repast ; each according to his ability did zealously what he could , in order to alleviate my sorrow . When I observed this , I began to reflect thus :— What ! are so many persons anxious for my sake alone , to pleasure myself only ?"
+    },
+    {
+      "id": "1.1.130",
+      "label": "Section 1.1.130",
+      "chapter": null,
+      "original": "Ancillae tot me vestiant ? sumtus domi",
+      "translation": "Are so many female servants to provide me with dress ? [*] Shall I alone keep up such an expensive establishment , while my only son , who ought equally , or even more so , to enjoy these things — inasmuch as his age is better suited for the enjoyment of them — him , poor youth , have I driven away from home by my severity !"
+    },
+    {
+      "id": "1.1.135",
+      "label": "Section 1.1.135",
+      "chapter": null,
+      "original": "Malo quidem me dignum quovis deputem ,",
+      "translation": "Were I to do this , really I should deem myself deserving of any calamity . But so long as he leads this life of penury , banished from his country through my severity , I will revenge his wrongs upon myself , toiling , making money , saving , and laying up for him ."
+    },
+    {
+      "id": "1.1.140",
+      "label": "Section 1.1.140",
+      "chapter": null,
+      "original": "Ita facio prorsus : nihil relinquo in aedibus",
+      "translation": "At once I set about it ; I left nothing in the house , neither movables [*] nor clothing ; every thing I scraped together . Slaves , male and female , except those who could easily pay for their keep by working in the country , all of them I set up to auction and sold . I at once put up a bill"
+    },
+    {
+      "id": "1.1.145",
+      "label": "Section 1.1.145",
+      "chapter": null,
+      "original": "Aedes mercede ; quasi talenta ad quindecim",
+      "translation": "to sell my house . [*] I collected somewhere about fifteen talents , and purchased this farm ; here I fatigue myself : I have come to this conclusion , Chremes , that I do my son a less injury , while I am unhappy ; and that it is not right for me to enjoy any pleasure here ,"
+    },
+    {
+      "id": "1.1.150",
+      "label": "Section 1.1.150",
+      "chapter": null,
+      "original": "Nisi ubi ille huc salvus redierit meus particeps .",
+      "translation": "until such time as he returns home safe to share it with me ."
+    },
+    {
+      "id": "1.1.151",
+      "label": "Section 1.1.151",
+      "chapter": null,
+      "original": "Ingenio te esse in liberos leni puto ,",
+      "translation": "I believe you to be of an affectionate disposition toward your children , [*] and him to be an obedient son , if one were to manage him rightly or prudently . But neither did you understand him sufficiently well , nor he you — a thing that happens where persons don ’ t live on terms of frankness together ."
+    },
+    {
+      "id": "1.1.155",
+      "label": "Section 1.1.155",
+      "chapter": null,
+      "original": "Tu illum numquam ostendisti quanti penderes ,",
+      "translation": "You never showed him how highly you valued him , nor did he ever dare put that confidence in you which is due to a father . Had this been done , these troubles would never have befallen you ."
+    },
+    {
+      "id": "1.1.158",
+      "label": "Section 1.1.158",
+      "chapter": null,
+      "original": "Ita res est , fateor : peccatum a me maximum est .",
+      "translation": "Such is the fact , I confess ; the greatest fault is on my side ."
+    }
+  ],
+  "prevChunkSlug": "the-woman-of-andros-13yoky-15",
+  "nextChunkSlug": "the-self-tormentor-nt3lty-2"
+}

@@ -1,0 +1,151 @@
+{
+  "loebNumber": 429,
+  "sortOrder": 429,
+  "slug": "plutarch-moralia-volume-xv-6apm1u",
+  "title": "Moralia, Volume XV",
+  "volumeLabel": "Moralia, Volume XV",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Moralia, Volume XV. Moralia, Volume XV opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "platonicae-quaestiones-estcqh",
+  "readyChunkCount": 4,
+  "contents": [
+    {
+      "id": "moralia-volume-xv-1ff3qe",
+      "title": "Moralia, Volume XV",
+      "status": "ready",
+      "sectionCount": 103,
+      "chunkSlug": "platonicae-quaestiones-estcqh",
+      "chunks": [
+        {
+          "slug": "platonicae-quaestiones-estcqh",
+          "label": "Platonicae quaestiones",
+          "partId": "moralia-volume-xv-1ff3qe",
+          "partTitle": "Moralia, Volume XV",
+          "sectionCount": 17,
+          "status": "ready"
+        },
+        {
+          "slug": "de-animae-procreatione-in-timaeo-1xxevw",
+          "label": "De animae procreatione in Timaeo",
+          "partId": "moralia-volume-xv-1ff3qe",
+          "partTitle": "Moralia, Volume XV",
+          "sectionCount": 33,
+          "status": "ready"
+        },
+        {
+          "slug": "de-stoicorum-repugnantiis-tu7nzb",
+          "label": "De Stoicorum repugnantiis",
+          "partId": "moralia-volume-xv-1ff3qe",
+          "partTitle": "Moralia, Volume XV",
+          "sectionCount": 47,
+          "status": "ready"
+        },
+        {
+          "slug": "compendium-argumenti-stoicos-absurdiora-poetis-dicere-9txabj",
+          "label": "Compendium argumenti Stoicos absurdiora poetis dicere",
+          "partId": "moralia-volume-xv-1ff3qe",
+          "partTitle": "Moralia, Volume XV",
+          "sectionCount": 6,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "platonicae-quaestiones-estcqh",
+      "label": "Platonicae quaestiones",
+      "partId": "moralia-volume-xv-1ff3qe",
+      "partTitle": "Moralia, Volume XV",
+      "sectionCount": 17,
+      "status": "ready"
+    },
+    {
+      "slug": "de-animae-procreatione-in-timaeo-1xxevw",
+      "label": "De animae procreatione in Timaeo",
+      "partId": "moralia-volume-xv-1ff3qe",
+      "partTitle": "Moralia, Volume XV",
+      "sectionCount": 33,
+      "status": "ready"
+    },
+    {
+      "slug": "de-stoicorum-repugnantiis-tu7nzb",
+      "label": "De Stoicorum repugnantiis",
+      "partId": "moralia-volume-xv-1ff3qe",
+      "partTitle": "Moralia, Volume XV",
+      "sectionCount": 47,
+      "status": "ready"
+    },
+    {
+      "slug": "compendium-argumenti-stoicos-absurdiora-poetis-dicere-9txabj",
+      "label": "Compendium argumenti Stoicos absurdiora poetis dicere",
+      "partId": "moralia-volume-xv-1ff3qe",
+      "partTitle": "Moralia, Volume XV",
+      "sectionCount": 6,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "platonicae-quaestiones-estcqh",
+      "partTitle": "Moralia, Volume XV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πλατωνικὰ ζητήματα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg133.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Plutarch's Platonic questions",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg133.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "de-animae-procreatione-in-timaeo-1xxevw",
+      "partTitle": "Moralia, Volume XV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τῆς ἐν Τιμαίῳ ψυχογονίας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg134.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Concerning the procreation of the soul as discoursed in Timaeus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg134.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "de-stoicorum-repugnantiis-tu7nzb",
+      "partTitle": "Moralia, Volume XV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ Στωικῶν ἐνιγμάτων.",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg136.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The contradictions of the Stoics",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg136.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "compendium-argumenti-stoicos-absurdiora-poetis-dicere-9txabj",
+      "partTitle": "Moralia, Volume XV",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Σύνοψις τοῦ ὅτι παραδοξότερα οἱ Στωικοὶ τῶν ποιητῶν λέγουσι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg137.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "A breviate of a discourse, showing that the Stoics speak greater improbabilities than the poets.",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg137.perseus-eng2/"
+      }
+    }
+  ]
+}

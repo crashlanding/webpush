@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-little-carthaginian-pseudolus-the-rope-rpgc9x",
+  "volumeTitle": "The Little Carthaginian. Pseudolus. The Rope",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-rope-i828ht-18",
+  "label": "The Rope (Section 5.3.1367 - Section 5.3.1414)",
+  "partId": "the-rope-i828ht",
+  "partTitle": "The Rope",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Rudens",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Rudens, or The Fisherman's Rope",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi017.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "5.3.1367",
+      "label": "Section 5.3.1367",
+      "chapter": null,
+      "original": "Immo hercle , ut scias gaudere me , mihi triobolum",
+      "translation": "Aye , by my faith , that you may be sure that I ’ m rejoiced , you shan ’ t give me three obols for her ; I excuse you ."
+    },
+    {
+      "id": "5.3.1368b",
+      "label": "Section 5.3.1368b",
+      "chapter": null,
+      "original": "Benigne edepol facis .",
+      "translation": "I ’ faith , you are acting kindly ."
+    },
+    {
+      "id": "5.3.1369",
+      "label": "Section 5.3.1369",
+      "chapter": null,
+      "original": "Immo tu quidem hercle vero .",
+      "translation": "No , troth ; it ’ s really yourself , indeed , that ’ s doing so ."
+    },
+    {
+      "id": "5.3.1369b",
+      "label": "Section 5.3.1369b",
+      "chapter": null,
+      "original": "Heus tu , iám habes vidulum .",
+      "translation": "Hark you , you ’ ve got the wallet now ."
+    },
+    {
+      "id": "5.3.1370",
+      "label": "Section 5.3.1370",
+      "chapter": null,
+      "original": "Habeo .",
+      "translation": "I have got it ."
+    },
+    {
+      "id": "5.3.1370b",
+      "label": "Section 5.3.1370b",
+      "chapter": null,
+      "original": "Propera .",
+      "translation": "Make haste ."
+    },
+    {
+      "id": "5.3.1370c",
+      "label": "Section 5.3.1370c",
+      "chapter": null,
+      "original": "Quid properabo ?",
+      "translation": "Make haste about what ?"
+    },
+    {
+      "id": "5.3.1370d",
+      "label": "Section 5.3.1370d",
+      "chapter": null,
+      "original": "Reddere argentum mihi .",
+      "translation": "To pay me the money ."
+    },
+    {
+      "id": "5.3.1371",
+      "label": "Section 5.3.1371",
+      "chapter": null,
+      "original": "Neque edepol tibi do , neque quicquam debeo .",
+      "translation": "By my troth , I ’ ll neither give you anything nor do I owe you anything ."
+    },
+    {
+      "id": "5.3.1371b",
+      "label": "Section 5.3.1371b",
+      "chapter": null,
+      "original": "Quae haec factio est ?",
+      "translation": "What mode of proceeding is this ? Don ’ t you owe it me ?"
+    },
+    {
+      "id": "5.3.1372b",
+      "label": "Section 5.3.1372b",
+      "chapter": null,
+      "original": "Non hercle vero .",
+      "translation": "Troth , not I indeed ."
+    },
+    {
+      "id": "5.3.1372c",
+      "label": "Section 5.3.1372c",
+      "chapter": null,
+      "original": "Non tu iuratus mihi es ?",
+      "translation": "Didn ’ t you promise it me upon your oath ?"
+    },
+    {
+      "id": "5.3.1373",
+      "label": "Section 5.3.1373",
+      "chapter": null,
+      "original": "Iuratus sum , et nunc iurabo , si quid vóluptati est mihi :",
+      "translation": "I did take an oath , and now I ’ ll take an oath , if it is in any way my own pleasure ; oaths were invented for preserving property , not for losing it ."
+    },
+    {
+      "id": "5.3.1375",
+      "label": "Section 5.3.1375",
+      "chapter": null,
+      "original": "Cedo sis mihi talentum magnum argenti , periurissime .",
+      "translation": "Give me , will you , a great talent of silver , you most perjured fellow ."
+    },
+    {
+      "id": "5.3.1376",
+      "label": "Section 5.3.1376",
+      "chapter": null,
+      "original": "Gripe , quod tu istum talentum poscis ?",
+      "translation": "Gripus , what talent is it you are asking him for ?"
+    },
+    {
+      "id": "5.3.1376b",
+      "label": "Section 5.3.1376b",
+      "chapter": null,
+      "original": "Iuratust mihi",
+      "translation": "He promised it me on oath ."
+    },
+    {
+      "id": "5.3.1377b",
+      "label": "Section 5.3.1377b",
+      "chapter": null,
+      "original": "Libet iurare . tun meo póntifex peiurio es ?",
+      "translation": "I chose to swear ; ( turning to DAEMONES ) are you the priest [*] as to my perjury ?"
+    },
+    {
+      "id": "5.3.1378",
+      "label": "Section 5.3.1378",
+      "chapter": null,
+      "original": "Qua pro re argentum promisit hic tibi ?",
+      "translation": "For what reason did he promise you the money ?"
+    },
+    {
+      "id": "5.3.1378b",
+      "label": "Section 5.3.1378b",
+      "chapter": null,
+      "original": "Si vidulum",
+      "translation": "If I restored this wallet into his hands , he swore that he would give"
+    },
+    {
+      "id": "5.3.1380",
+      "label": "Section 5.3.1380",
+      "chapter": null,
+      "original": "mihi talentum magnum argenti .",
+      "translation": "me a great talent of silver ."
+    },
+    {
+      "id": "5.3.1380b",
+      "label": "Section 5.3.1380b",
+      "chapter": null,
+      "original": "Cedo quicum habeam iudicem ,",
+      "translation": "Find me a person with whom I may go to the judge , to decide whether you did not make the bargain with wicked fraudulence , and whether I am yet five-and-twenty years old [*] ."
+    },
+    {
+      "id": "5.3.1382b",
+      "label": "Section 5.3.1382b",
+      "chapter": null,
+      "original": "Habe cum hóc .",
+      "translation": "Go to the judge with him ."
+    },
+    {
+      "id": "5.3.1382c",
+      "label": "Section 5.3.1382c",
+      "chapter": null,
+      "original": "Aliost opus .",
+      "translation": "No ; I must have some other person ."
+    },
+    {
+      "id": "5.3.1383",
+      "label": "Section 5.3.1383",
+      "chapter": null,
+      "original": "Iám ab isto auferre haud potis sim , si istunc condemnavero .",
+      "translation": "Then I shan ’ t allow you to take it away from him , unless I shall have found him guilty . Did you promise him the money ?"
+    },
+    {
+      "id": "5.3.1384b",
+      "label": "Section 5.3.1384b",
+      "chapter": null,
+      "original": "Fateor .",
+      "translation": "I confess it ."
+    },
+    {
+      "id": "5.3.1384c",
+      "label": "Section 5.3.1384c",
+      "chapter": null,
+      "original": "Quod servo meo",
+      "translation": "What you promised my slave"
+    },
+    {
+      "id": "5.3.1385",
+      "label": "Section 5.3.1385",
+      "chapter": null,
+      "original": "promisisti , meum esse oportet , ne tu , leno , postules",
+      "translation": "must needs be my own . Don ’ t you be supposing , Procurer , that you are to be using your pimping honesty here . That can ’ t be ."
+    },
+    {
+      "id": "5.3.1386b",
+      "label": "Section 5.3.1386b",
+      "chapter": null,
+      "original": "Iam te ratu'sratus es",
+      "translation": "Did you fancy now that you had got hold of a person whom you might cheat ? It must be paid down here ( holding his hand ) , good silver coin ; I shall , at once , pay it to him ( pointing to DAEMONES ) , so that he may give me my liberty ."
+    },
+    {
+      "id": "5.3.1389",
+      "label": "Section 5.3.1389",
+      "chapter": null,
+      "original": "Quando ergo erga te benignus ego fui atque opera mea",
+      "translation": "Inasmuch , therefore , as I have acted courteously towards you , and by my means these things ( pointing to the wallet ) have been saved for you —"
+    },
+    {
+      "id": "5.3.1390b",
+      "label": "Section 5.3.1390b",
+      "chapter": null,
+      "original": "Immo hercle mea , ne tu dicas tua .",
+      "translation": "I ’ faith , by my means , rather ; don ’ t say by yours ."
+    },
+    {
+      "id": "5.3.1391",
+      "label": "Section 5.3.1391",
+      "chapter": null,
+      "original": "( Si sapies , tacebis ) tum te mihi benigne itidem addecet",
+      "translation": "If you are prudent you ’ ll hold your tongue . ( To LABRAX .) Then it befits you in a like courteous manner kindly to return the obligation to myself , who so well merit the same ."
+    },
+    {
+      "id": "5.3.1392b",
+      "label": "Section 5.3.1392b",
+      "chapter": null,
+      "original": "Nempe pró meo",
+      "translation": "You are pleading , of course , for my right ?"
+    },
+    {
+      "id": "5.3.1393b",
+      "label": "Section 5.3.1393b",
+      "chapter": null,
+      "original": "Mirum quin tuom ius meo periclo aps te expetam .",
+      "translation": "It would be a wonder if I didn ’ t , at a loss to myself , ask you to forego your right ."
+    },
+    {
+      "id": "5.3.1394",
+      "label": "Section 5.3.1394",
+      "chapter": null,
+      "original": "Salvos sum , leno labascit , libertas portenditur .",
+      "translation": "I ’ m all right ; the Procurer ’ s giving way ; my freedom is at hand ."
+    },
+    {
+      "id": "5.3.1395",
+      "label": "Section 5.3.1395",
+      "chapter": null,
+      "original": "Vidulum istunc ille invenit , illud mancipium meum est ;",
+      "translation": "He found this wallet ; he is my slave . I therefore have preserved this for you , together with a large sum of money ."
+    },
+    {
+      "id": "5.3.1397",
+      "label": "Section 5.3.1397",
+      "chapter": null,
+      "original": "Gratiam habeo , et de talento nulla causa est quin feras ,",
+      "translation": "I return you thanks , and with regard to the talent that I promised on oath to him , there ’ s no reason that you shouldn ’ t receive it ."
+    },
+    {
+      "id": "5.3.1398b",
+      "label": "Section 5.3.1398b",
+      "chapter": null,
+      "original": "Heus tu , mihi dato ergo , si sapis .",
+      "translation": "Hark you , give it me then , if you are wise ."
+    },
+    {
+      "id": "5.3.1399",
+      "label": "Section 5.3.1399",
+      "chapter": null,
+      "original": "Tacen an non ?",
+      "translation": "Will you hold your tongue , or not ?"
+    },
+    {
+      "id": "5.3.1399b",
+      "label": "Section 5.3.1399b",
+      "chapter": null,
+      "original": "Tu meam rem simulas agere , tibi mu ⋯ .",
+      "translation": "You pretend to be acting on my side : I tell you ⋯"
+    },
+    {
+      "id": "5.3.1400",
+      "label": "Section 5.3.1400",
+      "chapter": null,
+      "original": "non hercle istoc me intervortes , si aliam praedam perdidi .",
+      "translation": "by my troth , you shan ’ t do me out of that , if I did lose the other booty [*] ."
+    },
+    {
+      "id": "5.3.1401",
+      "label": "Section 5.3.1401",
+      "chapter": null,
+      "original": "Vapulabis , verbum si addis istúc unum .",
+      "translation": "You shall have a beating if you add a single word ."
+    },
+    {
+      "id": "5.3.1401b",
+      "label": "Section 5.3.1401b",
+      "chapter": null,
+      "original": "Vel hercle énica ,",
+      "translation": "Troth now , do you kill me even ; I ’ ll never be silent on any terms , unless my mouth is shut with the talent ."
+    },
+    {
+      "id": "5.3.1403",
+      "label": "Section 5.3.1403",
+      "chapter": null,
+      "original": "Tibi operam hic quidem dát . tace .",
+      "translation": "For yourself , in fact , is he using his exertions ; do hold your tongue ."
+    },
+    {
+      "id": "5.3.1403b",
+      "label": "Section 5.3.1403b",
+      "chapter": null,
+      "original": "Concede hoc tu , leno .",
+      "translation": "Step this way , Procurer ."
+    },
+    {
+      "id": "5.3.1403c",
+      "label": "Section 5.3.1403c",
+      "chapter": null,
+      "original": "Licet .",
+      "translation": "Very well ."
+    },
+    {
+      "id": "5.3.1404",
+      "label": "Section 5.3.1404",
+      "chapter": null,
+      "original": "Palam age , nolo ego murmurillum neque susurrum fieri .",
+      "translation": "Proceed openly ; I don ’ t want any whisperings or mumblings to be going on ."
+    },
+    {
+      "id": "5.3.1405",
+      "label": "Section 5.3.1405",
+      "chapter": null,
+      "original": "Dic mihi , quanti íllam emisti tuam alteram mulierculam ,",
+      "translation": "Tell me , at what price did you buy that other young woman , Ampelisca ?"
+    },
+    {
+      "id": "5.3.1406b",
+      "label": "Section 5.3.1406b",
+      "chapter": null,
+      "original": "Mille nummum denumeravi .",
+      "translation": "I paid down a thousand didrachms ."
+    },
+    {
+      "id": "5.3.1406c",
+      "label": "Section 5.3.1406c",
+      "chapter": null,
+      "original": "Vin tibi",
+      "translation": "Should you like me to make you a handsome offer ?"
+    },
+    {
+      "id": "5.3.1407b",
+      "label": "Section 5.3.1407b",
+      "chapter": null,
+      "original": "Sane volo .",
+      "translation": "I should like it much ."
+    },
+    {
+      "id": "5.3.1408",
+      "label": "Section 5.3.1408",
+      "chapter": null,
+      "original": "Dividuom talentum faciam .",
+      "translation": "I ’ ll divide the talent ."
+    },
+    {
+      "id": "5.3.1408b",
+      "label": "Section 5.3.1408b",
+      "chapter": null,
+      "original": "Bene facis .",
+      "translation": "You act fairly ."
+    },
+    {
+      "id": "5.3.1408c",
+      "label": "Section 5.3.1408c",
+      "chapter": null,
+      "original": "Pro illa altera ,",
+      "translation": "For that other woman Ampelisca , that she may be free , take you one half , and give the other half to him ."
+    },
+    {
+      "id": "5.3.1410",
+      "label": "Section 5.3.1410",
+      "chapter": null,
+      "original": "Maxime .",
+      "translation": "By all means ."
+    },
+    {
+      "id": "5.3.1410b",
+      "label": "Section 5.3.1410b",
+      "chapter": null,
+      "original": "Pro illo dimidio égo Gripum emittam manu ,",
+      "translation": "For that half I ’ ll give his freedom to Gripus , by means of whom you found your wallet , and I my daughter ."
+    },
+    {
+      "id": "5.3.1411b",
+      "label": "Section 5.3.1411b",
+      "chapter": null,
+      "original": "Bene facis ,",
+      "translation": "You act fairly ; I return you many thanks ."
+    },
+    {
+      "id": "5.3.1412b",
+      "label": "Section 5.3.1412b",
+      "chapter": null,
+      "original": "Quam mox mi argentum ergo redditur ?",
+      "translation": "How soon then is the money to be returned to me ?"
+    },
+    {
+      "id": "5.3.1413",
+      "label": "Section 5.3.1413",
+      "chapter": null,
+      "original": "Res soluta est , Gripe . ego habeo .",
+      "translation": "The money ’ s paid , Gripus ; I ’ ve got it ."
+    },
+    {
+      "id": "5.3.1413b",
+      "label": "Section 5.3.1413b",
+      "chapter": null,
+      "original": "Át ego me hercle mavolo .",
+      "translation": "You , faith ; but I had rather it were myself ."
+    },
+    {
+      "id": "5.3.1414",
+      "label": "Section 5.3.1414",
+      "chapter": null,
+      "original": "Nihil hercle hic tibi est , né tu speres . iuris iurandi volo",
+      "translation": "I ’ faith , there ’ s nothing for you here , so don ’ t you be expecting it . I wish you to release him from his oath ."
+    }
+  ],
+  "prevChunkSlug": "the-rope-i828ht-17",
+  "nextChunkSlug": "the-rope-i828ht-19"
+}

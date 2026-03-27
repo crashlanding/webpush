@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-ghost-1vjypr-13",
+  "label": "The Ghost (Section 4.3.925 - Section 4.4.978)",
+  "partId": "the-ghost-1vjypr",
+  "partTitle": "The Ghost",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Mostellaria",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Mostellaria, or The Haunted House",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi013.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "4.3.925",
+      "label": "Section 4.3.925",
+      "chapter": null,
+      "original": "Quid ? tibi umquam quicquam , postquam tuos sum , verborum dedi ?",
+      "translation": "Why , have I ever imposed upon you in anything , since I was your servant ?"
+    },
+    {
+      "id": "4.3.926",
+      "label": "Section 4.3.926",
+      "chapter": null,
+      "original": "Ego enim cavi recte : eam mihi des gratiam atque animo meo .",
+      "translation": "But I ’ ve taken good care of that ; I owe thanks to myself and my own judgment for that . If I ’ m only on my guard against you solely , I ’ m quite wise enough ."
+    },
+    {
+      "id": "4.3.927b",
+      "label": "Section 4.3.927b",
+      "chapter": null,
+      "original": "Tecum sentio .",
+      "translation": "I agree with you ."
+    },
+    {
+      "id": "4.3.928",
+      "label": "Section 4.3.928",
+      "chapter": null,
+      "original": "Nunc abi rús , dic me advenisse filio .",
+      "translation": "Now be off into the country ; tell my son that I ’ ve arrived ."
+    },
+    {
+      "id": "4.3.928b",
+      "label": "Section 4.3.928b",
+      "chapter": null,
+      "original": "Faciam , ut iubes .",
+      "translation": "I ’ ll do as you wish ."
+    },
+    {
+      "id": "4.3.929_930",
+      "label": "Section 4.3.929_930",
+      "chapter": null,
+      "original": "Curriculo iube in urbem veniat iam simul tecum .",
+      "translation": "Run with all speed ; bid him come to the city at once together with you ."
+    },
+    {
+      "id": "4.3.929_930b",
+      "label": "Section 4.3.929_930b",
+      "chapter": null,
+      "original": "Licet .",
+      "translation": "Very well . ( Aside .) Now I ’ ll betake myself this way by the back-door to my boon-companions ; I ’ ll tell them that things are quiet here , and how I have kept him away from here ."
+    },
+    {
+      "id": "4.4.933",
+      "label": "Section 4.4.933",
+      "chapter": null,
+      "original": "Hic quidem neque convivarum sonitus , item ut antehac fuit ,",
+      "translation": "Really , I don ’ t hear either the sound of revellers here , as once it was , nor yet the music-girl singing , nor any one else ."
+    },
+    {
+      "id": "4.4.935",
+      "label": "Section 4.4.935",
+      "chapter": null,
+      "original": "Quae illaec res est ? quid illisce homines quaerunt apud aedis meas ?",
+      "translation": "What ’ s the matter here ? What are these people seeking at my house ? What do they want ? What are they peeping in for ?"
+    },
+    {
+      "id": "4.4.936b",
+      "label": "Section 4.4.936b",
+      "chapter": null,
+      "original": "Pergam pultare ostium .",
+      "translation": "I shall proceed to knock at the door . ( Knocks .) Hallo there , unlock the door ! Hallo , Tranio ! are you going to open it , I say ?"
+    },
+    {
+      "id": "4.4.937b",
+      "label": "Section 4.4.937b",
+      "chapter": null,
+      "original": "Quae haec est fabula ?",
+      "translation": "What story ’ s this , I wonder ?"
+    },
+    {
+      "id": "4.4.938",
+      "label": "Section 4.4.938",
+      "chapter": null,
+      "original": "Etiamne aperis ? Callidamati nostro adversum venimus .",
+      "translation": "Are you going to open it , I say ? I ’ ve come to fetch my master Callidamates ."
+    },
+    {
+      "id": "4.4.939",
+      "label": "Section 4.4.939",
+      "chapter": null,
+      "original": "Heus vos , pueri , quid istic agitis ? quid istas aedis frangitis ?",
+      "translation": "Harkye , you lads ! what are you doing there ? Why are you breaking down that door ?"
+    },
+    {
+      "id": "4.4.946",
+      "label": "Section 4.4.946",
+      "chapter": null,
+      "original": "erus hic noster potat .",
+      "translation": "Our master ’ s at a drinking-party here ."
+    },
+    {
+      "id": "4.4.946b",
+      "label": "Section 4.4.946b",
+      "chapter": null,
+      "original": "Erus hic voster potat ?",
+      "translation": "Your master at a drinking-party here ?"
+    },
+    {
+      "id": "4.4.946c",
+      "label": "Section 4.4.946c",
+      "chapter": null,
+      "original": "Ita loquor .",
+      "translation": "I say so ."
+    },
+    {
+      "id": "4.4.947",
+      "label": "Section 4.4.947",
+      "chapter": null,
+      "original": "Puere , nimium .",
+      "translation": "You ’ re carrying the joke too far , my lad ."
+    },
+    {
+      "id": "4.4.947b",
+      "label": "Section 4.4.947b",
+      "chapter": null,
+      "original": "Ei advorsum venimus .",
+      "translation": "We ’ ve come to fetch him ."
+    },
+    {
+      "id": "4.4.948",
+      "label": "Section 4.4.948",
+      "chapter": null,
+      "original": "Cui homini ?",
+      "translation": "What person ?"
+    },
+    {
+      "id": "4.4.948b",
+      "label": "Section 4.4.948b",
+      "chapter": null,
+      "original": "Ero nostro . quaeso , quotiens dicendumst tibi ?",
+      "translation": "Our master . Prithee , how often must I tell you ?"
+    },
+    {
+      "id": "4.4.949",
+      "label": "Section 4.4.949",
+      "chapter": null,
+      "original": "Puere , nemo hic habitat . nam te esse arbitror puerum probum .",
+      "translation": "There ’ s no one living here my lad ; for I do think that you are a decent lad ."
+    },
+    {
+      "id": "4.4.950",
+      "label": "Section 4.4.950",
+      "chapter": null,
+      "original": "Non hic Philolaches adulescens habitat hisce in aedibus ?",
+      "translation": "Doesn ’ t a young gentleman called Philolaches live in this house ?"
+    },
+    {
+      "id": "4.4.952",
+      "label": "Section 4.4.952",
+      "chapter": null,
+      "original": "Senex hic elleborosust certe .",
+      "translation": "This old fellow ’ s crack-brained , surely ."
+    },
+    {
+      "id": "4.4.952b",
+      "label": "Section 4.4.952b",
+      "chapter": null,
+      "original": "Erras pervorse , pater .",
+      "translation": "You are entirely mistaken , respected sir [*] ; for unless he moved from here to-day or yesterday , I know for certain that he ’ s living here ."
+    },
+    {
+      "id": "4.4.954b",
+      "label": "Section 4.4.954b",
+      "chapter": null,
+      "original": "Quin sex menses iam hic nemo habitat .",
+      "translation": "Why , no one has been living here for these six months past ."
+    },
+    {
+      "id": "4.4.954c",
+      "label": "Section 4.4.954c",
+      "chapter": null,
+      "original": "Somnias .",
+      "translation": "You are dreaming ."
+    },
+    {
+      "id": "4.4.955",
+      "label": "Section 4.4.955",
+      "chapter": null,
+      "original": "Egone ?",
+      "translation": "What , I ?"
+    },
+    {
+      "id": "4.4.955b",
+      "label": "Section 4.4.955b",
+      "chapter": null,
+      "original": "Tu .",
+      "translation": "You ."
+    },
+    {
+      "id": "4.4.955c",
+      "label": "Section 4.4.955c",
+      "chapter": null,
+      "original": "Tu ne . sine me cum puero loqui .",
+      "translation": "Don ’ t you be impertinent . Let me speak to the lad . ( Pointing to PHANISCUS .)"
+    },
+    {
+      "id": "4.4.956",
+      "label": "Section 4.4.956",
+      "chapter": null,
+      "original": "nemo habitat .",
+      "translation": "No one lives there ? O dear —"
+    },
+    {
+      "id": "4.4.956b",
+      "label": "Section 4.4.956b",
+      "chapter": null,
+      "original": "Habitat profecto , nám heri et nudius tertius ,",
+      "translation": "It ’ s the fact ."
+    },
+    {
+      "id": "4.4.957",
+      "label": "Section 4.4.957",
+      "chapter": null,
+      "original": "quartus , quintus , sextus , usque postquam hinc peregre eius pater",
+      "translation": "Really ! why , yesterday and the day before , [*] four , five , six days ago , all along , in fact , since his father went abroad from here , eating and drinking have never ceased for a single three days here ."
+    },
+    {
+      "id": "4.4.959",
+      "label": "Section 4.4.959",
+      "chapter": null,
+      "original": "Quid ais ?",
+      "translation": "What is it you say ?"
+    },
+    {
+      "id": "4.4.959b",
+      "label": "Section 4.4.959b",
+      "chapter": null,
+      "original": "Triduom unum est haud intermissum hic esse et bibi ,",
+      "translation": "That eating and drinking have never stopped for a single three days here ,"
+    },
+    {
+      "id": "4.4.960",
+      "label": "Section 4.4.960",
+      "chapter": null,
+      "original": "scorta duci , pergraecari , fidicinas tibicinas",
+      "translation": "bringing in wenches , living like Greeks , hiring harpists and music-girls ."
+    },
+    {
+      "id": "4.4.961b",
+      "label": "Section 4.4.961b",
+      "chapter": null,
+      "original": "Quis istaec faciebat ?",
+      "translation": "Who was it did this ?"
+    },
+    {
+      "id": "4.4.961c",
+      "label": "Section 4.4.961c",
+      "chapter": null,
+      "original": "Philolaches .",
+      "translation": "Philolaches ."
+    },
+    {
+      "id": "4.4.961d",
+      "label": "Section 4.4.961d",
+      "chapter": null,
+      "original": "Qui Philolaches ?",
+      "translation": "What Philolaches ?"
+    },
+    {
+      "id": "4.4.962",
+      "label": "Section 4.4.962",
+      "chapter": null,
+      "original": "Quoius patrem Theopropidem esse opinor .",
+      "translation": "He whose father I take to be Theuropides ."
+    },
+    {
+      "id": "4.4.962b",
+      "label": "Section 4.4.962b",
+      "chapter": null,
+      "original": "Ei mihi , occidi ,",
+      "translation": "O dear , O dear ! I ’ m utterly undone , if he says the truth in this . I ’ ll continue to question him still Do you say that this Philolaches , whoever he is , has been in the habit of drinking here together"
+    },
+    {
+      "id": "4.4.965",
+      "label": "Section 4.4.965",
+      "chapter": null,
+      "original": "cúm ero vostro ?",
+      "translation": "with your master ?"
+    },
+    {
+      "id": "4.4.965b",
+      "label": "Section 4.4.965b",
+      "chapter": null,
+      "original": "Hic , inquam .",
+      "translation": "Here , I tell you ."
+    },
+    {
+      "id": "4.4.965c",
+      "label": "Section 4.4.965c",
+      "chapter": null,
+      "original": "Puere , praeter speciem stultus es .",
+      "translation": "My lad , contrary to your appearance , you are a fool . See now , please , that you ’ ve not perchance been dropping in somewhere for an afternoon ’ s whet [*] , and have been drinking there a little more than was enough ."
+    },
+    {
+      "id": "4.4.967b",
+      "label": "Section 4.4.967b",
+      "chapter": null,
+      "original": "Quid est ?",
+      "translation": "What do you mean ?"
+    },
+    {
+      "id": "4.4.968",
+      "label": "Section 4.4.968",
+      "chapter": null,
+      "original": "Ita dico , ne ad alias aedis perperam deveneris .",
+      "translation": "Just what I say : don ’ t be going by mistake to other persons ’ houses ."
+    },
+    {
+      "id": "4.4.969",
+      "label": "Section 4.4.969",
+      "chapter": null,
+      "original": "Scio qua me ire oportet et quo venerim novi locum .",
+      "translation": "I know where I ought to go , and the place to which I was to come ."
+    },
+    {
+      "id": "4.4.970",
+      "label": "Section 4.4.970",
+      "chapter": null,
+      "original": "Philolaches hic habitat , cuius est pater Theopropides .",
+      "translation": "Philolaches lives here , whose father is Theuropides ; and who , after his father went away to trade , made free a music-girl here ."
+    },
+    {
+      "id": "4.4.972b",
+      "label": "Section 4.4.972b",
+      "chapter": null,
+      "original": "Philolachesne ergo ?",
+      "translation": "Philolaches , say you ?"
+    },
+    {
+      "id": "4.4.972c",
+      "label": "Section 4.4.972c",
+      "chapter": null,
+      "original": "Ita , Philematium quidem .",
+      "translation": "Just so ; Philematium , I mean ."
+    },
+    {
+      "id": "4.4.973",
+      "label": "Section 4.4.973",
+      "chapter": null,
+      "original": "Quanti ?",
+      "translation": "For how much ?"
+    },
+    {
+      "id": "4.4.973b",
+      "label": "Section 4.4.973b",
+      "chapter": null,
+      "original": "Triginta .",
+      "translation": "For thirty talents ."
+    },
+    {
+      "id": "4.4.973d",
+      "label": "Section 4.4.973d",
+      "chapter": null,
+      "original": "μὰ τὸν ⋯ ʼαπόλλω , sed minis .",
+      "translation": "No , by Apollo [*] ; you mean minae ."
+    },
+    {
+      "id": "4.4.974",
+      "label": "Section 4.4.974",
+      "chapter": null,
+      "original": "Ain minis triginta amicam destinatam Philolachi ?",
+      "translation": "Do you say that a mistress was purchased for Philolaches for thirty minae ?"
+    },
+    {
+      "id": "4.4.975",
+      "label": "Section 4.4.975",
+      "chapter": null,
+      "original": "Aio .",
+      "translation": "I do say so ."
+    },
+    {
+      "id": "4.4.975b",
+      "label": "Section 4.4.975b",
+      "chapter": null,
+      "original": "Atque eam manu emisisse ?",
+      "translation": "And that he gave her her freedom ?"
+    },
+    {
+      "id": "4.4.975c",
+      "label": "Section 4.4.975c",
+      "chapter": null,
+      "original": "Aio .",
+      "translation": "I do say so ."
+    },
+    {
+      "id": "4.4.975d",
+      "label": "Section 4.4.975d",
+      "chapter": null,
+      "original": "Et , postquam eius hinc pater",
+      "translation": "And that after his father had departed hence abroad , he has been carousing here continually with your master ?"
+    },
+    {
+      "id": "4.4.977b",
+      "label": "Section 4.4.977b",
+      "chapter": null,
+      "original": "Aió .",
+      "translation": "I do say so ."
+    },
+    {
+      "id": "4.4.977c",
+      "label": "Section 4.4.977c",
+      "chapter": null,
+      "original": "Quid ? is aedis emit has hinc proxumas ?",
+      "translation": "Well , has he made purchase of the house next door here ?"
+    },
+    {
+      "id": "4.4.978",
+      "label": "Section 4.4.978",
+      "chapter": null,
+      "original": "Non aio .",
+      "translation": "I don ’ t say so ."
+    }
+  ],
+  "prevChunkSlug": "the-ghost-1vjypr-12",
+  "nextChunkSlug": "the-ghost-1vjypr-14"
+}

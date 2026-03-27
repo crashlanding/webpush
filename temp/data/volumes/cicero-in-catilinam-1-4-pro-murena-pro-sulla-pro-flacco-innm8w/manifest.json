@@ -1,0 +1,238 @@
+{
+  "loebNumber": 324,
+  "sortOrder": 324,
+  "slug": "cicero-in-catilinam-1-4-pro-murena-pro-sulla-pro-flacco-innm8w",
+  "title": "In Catilinam 1-4. Pro Murena. Pro Sulla. Pro Flacco",
+  "volumeLabel": "In Catilinam 1-4. Pro Murena. Pro Sulla. Pro Flacco",
+  "authorDisplay": "Cicero",
+  "authors": [
+    "Cicero"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for In Catilinam 1-4. Pro Murena. Pro Sulla. Pro Flacco, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "in-catilinam-1-4-1fitfw",
+  "readyChunkCount": 6,
+  "contents": [
+    {
+      "id": "in-catilinam-1-4-1fitfw",
+      "title": "In Catilinam 1-4",
+      "status": "ready",
+      "sectionCount": 8,
+      "chunkSlug": "in-catilinam-1-4-1fitfw",
+      "chunks": [
+        {
+          "slug": "in-catilinam-1-4-1fitfw",
+          "label": "In Catilinam 1-4",
+          "partId": "in-catilinam-1-4-1fitfw",
+          "partTitle": "In Catilinam 1-4",
+          "sectionCount": 8,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "pro-murena-13n7nj",
+      "title": "Pro Murena",
+      "status": "ready",
+      "sectionCount": 90,
+      "chunkSlug": "pro-murena-13n7nj",
+      "chunks": [
+        {
+          "slug": "pro-murena-13n7nj",
+          "label": "Pro Murena",
+          "partId": "pro-murena-13n7nj",
+          "partTitle": "Pro Murena",
+          "sectionCount": 90,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "pro-sulla-1i2jph",
+      "title": "Pro Sulla",
+      "status": "ready",
+      "sectionCount": 93,
+      "chunkSlug": "pro-sulla-1i2jph-1",
+      "chunks": [
+        {
+          "slug": "pro-sulla-1i2jph-1",
+          "label": "Pro Sulla (Section 1 - Section 60)",
+          "partId": "pro-sulla-1i2jph",
+          "partTitle": "Pro Sulla",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pro-sulla-1i2jph-2",
+          "label": "Pro Sulla (Section 61 - Section 93)",
+          "partId": "pro-sulla-1i2jph",
+          "partTitle": "Pro Sulla",
+          "sectionCount": 33,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "pro-flacco-106n8x",
+      "title": "Pro Flacco",
+      "status": "ready",
+      "sectionCount": 112,
+      "chunkSlug": "pro-flacco-106n8x-1",
+      "chunks": [
+        {
+          "slug": "pro-flacco-106n8x-1",
+          "label": "Pro Flacco (Section 1 - Section 54)",
+          "partId": "pro-flacco-106n8x",
+          "partTitle": "Pro Flacco",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pro-flacco-106n8x-2",
+          "label": "Pro Flacco (Section 55 - Section 106)",
+          "partId": "pro-flacco-106n8x",
+          "partTitle": "Pro Flacco",
+          "sectionCount": 52,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "in-catilinam-1-4-1fitfw",
+      "label": "In Catilinam 1-4",
+      "partId": "in-catilinam-1-4-1fitfw",
+      "partTitle": "In Catilinam 1-4",
+      "sectionCount": 8,
+      "status": "ready"
+    },
+    {
+      "slug": "pro-murena-13n7nj",
+      "label": "Pro Murena",
+      "partId": "pro-murena-13n7nj",
+      "partTitle": "Pro Murena",
+      "sectionCount": 90,
+      "status": "ready"
+    },
+    {
+      "slug": "pro-sulla-1i2jph-1",
+      "label": "Pro Sulla (Section 1 - Section 60)",
+      "partId": "pro-sulla-1i2jph",
+      "partTitle": "Pro Sulla",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pro-sulla-1i2jph-2",
+      "label": "Pro Sulla (Section 61 - Section 93)",
+      "partId": "pro-sulla-1i2jph",
+      "partTitle": "Pro Sulla",
+      "sectionCount": 33,
+      "status": "ready"
+    },
+    {
+      "slug": "pro-flacco-106n8x-1",
+      "label": "Pro Flacco (Section 1 - Section 54)",
+      "partId": "pro-flacco-106n8x",
+      "partTitle": "Pro Flacco",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pro-flacco-106n8x-2",
+      "label": "Pro Flacco (Section 55 - Section 106)",
+      "partId": "pro-flacco-106n8x",
+      "partTitle": "Pro Flacco",
+      "sectionCount": 52,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "in-catilinam-1-4-1fitfw",
+      "partTitle": "In Catilinam 1-4",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "In L. Catilinam",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi013.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Against L. Catiline",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi013.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pro-murena-13n7nj",
+      "partTitle": "Pro Murena",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pro L. Murena",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi014.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For L. Murena",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pro-sulla-1i2jph-1",
+      "partTitle": "Pro Sulla",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pro P. Sulla",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi015.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For P. Sulla",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pro-sulla-1i2jph-2",
+      "partTitle": "Pro Sulla",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pro P. Sulla",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi015.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For P. Sulla",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi015.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pro-flacco-106n8x-1",
+      "partTitle": "Pro Flacco",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pro L. Flacco",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi017.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For L. Flaccus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pro-flacco-106n8x-2",
+      "partTitle": "Pro Flacco",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pro L. Flacco",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi017.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For L. Flaccus",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi017.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "loebNumber": 158,
+  "sortOrder": 158,
+  "slug": "cicero-pro-archia-post-reditum-in-senatu-post-reditum-ad-quirites-de-domo-sua-de-haruspi-11gqdp",
+  "title": "Pro Archia. Post Reditum in Senatu. Post Reditum ad Quirites. De Domo Sua. De Haruspicum Responsis. Pro Plancio",
+  "volumeLabel": "Pro Archia. Post Reditum in Senatu. Post Reditum ad Quirites. De Domo Sua. De Haruspicum Responsis. Pro Plancio",
+  "authorDisplay": "Cicero",
+  "authors": [
+    "Cicero"
+  ],
+  "language": "latin",
+  "summary": "4 of 6 contents in Pro Archia. Post Reditum in Senatu. Post Reditum ad Quirites. De Domo Sua. De Haruspicum Responsis. Pro Plancio are live from Scaife, while the remaining contents stay visible until a confident pair is available. Pro Plancio is currently filled with the closest same-author Scaife text that exposes both an original-language version and an English translation.",
+  "status": "partial",
+  "defaultChunkSlug": "pro-archia-xwrabl",
+  "readyChunkCount": 5,
+  "contents": [
+    {
+      "id": "pro-archia-xwrabl",
+      "title": "Pro Archia",
+      "status": "ready",
+      "sectionCount": 32,
+      "chunkSlug": "pro-archia-xwrabl",
+      "chunks": [
+        {
+          "slug": "pro-archia-xwrabl",
+          "label": "Pro Archia",
+          "partId": "pro-archia-xwrabl",
+          "partTitle": "Pro Archia",
+          "sectionCount": 32,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "post-reditum-in-senatu-3lvd11",
+      "title": "Post Reditum in Senatu",
+      "status": "ready",
+      "sectionCount": 39,
+      "chunkSlug": "post-reditum-in-senatu-3lvd11",
+      "chunks": [
+        {
+          "slug": "post-reditum-in-senatu-3lvd11",
+          "label": "Post Reditum in Senatu",
+          "partId": "post-reditum-in-senatu-3lvd11",
+          "partTitle": "Post Reditum in Senatu",
+          "sectionCount": 39,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "post-reditum-ad-quirites-5gvoif",
+      "title": "Post Reditum ad Quirites",
+      "status": "ready",
+      "sectionCount": 25,
+      "chunkSlug": "post-reditum-ad-quirites-5gvoif",
+      "chunks": [
+        {
+          "slug": "post-reditum-ad-quirites-5gvoif",
+          "label": "Post Reditum ad Quirites",
+          "partId": "post-reditum-ad-quirites-5gvoif",
+          "partTitle": "Post Reditum ad Quirites",
+          "sectionCount": 25,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "de-domo-sua-1gqqxt",
+      "title": "De Domo Sua",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for De Domo Sua."
+    },
+    {
+      "id": "de-haruspicum-responsis-1li4um",
+      "title": "De Haruspicum Responsis",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for De Haruspicum Responsis."
+    },
+    {
+      "id": "pro-plancio-1oz9lx",
+      "title": "Pro Plancio",
+      "status": "ready",
+      "sectionCount": 99,
+      "chunkSlug": "pro-p-quinctio-1iiaot-1",
+      "chunks": [
+        {
+          "slug": "pro-p-quinctio-1iiaot-1",
+          "label": "Pro P. Quinctio (Section 1 - Section 60)",
+          "partId": "pro-plancio-1oz9lx",
+          "partTitle": "Pro Plancio",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "pro-p-quinctio-1iiaot-2",
+          "label": "Pro P. Quinctio (Section 61 - Section 99)",
+          "partId": "pro-plancio-1oz9lx",
+          "partTitle": "Pro Plancio",
+          "sectionCount": 39,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "pro-archia-xwrabl",
+      "label": "Pro Archia",
+      "partId": "pro-archia-xwrabl",
+      "partTitle": "Pro Archia",
+      "sectionCount": 32,
+      "status": "ready"
+    },
+    {
+      "slug": "post-reditum-in-senatu-3lvd11",
+      "label": "Post Reditum in Senatu",
+      "partId": "post-reditum-in-senatu-3lvd11",
+      "partTitle": "Post Reditum in Senatu",
+      "sectionCount": 39,
+      "status": "ready"
+    },
+    {
+      "slug": "post-reditum-ad-quirites-5gvoif",
+      "label": "Post Reditum ad Quirites",
+      "partId": "post-reditum-ad-quirites-5gvoif",
+      "partTitle": "Post Reditum ad Quirites",
+      "sectionCount": 25,
+      "status": "ready"
+    },
+    {
+      "slug": "pro-p-quinctio-1iiaot-1",
+      "label": "Pro P. Quinctio (Section 1 - Section 60)",
+      "partId": "pro-plancio-1oz9lx",
+      "partTitle": "Pro Plancio",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "pro-p-quinctio-1iiaot-2",
+      "label": "Pro P. Quinctio (Section 61 - Section 99)",
+      "partId": "pro-plancio-1oz9lx",
+      "partTitle": "Pro Plancio",
+      "sectionCount": 39,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "pro-archia-xwrabl",
+      "partTitle": "Pro Archia",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pro Archia Poeta",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi016.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For A.L. Archias",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "post-reditum-in-senatu-3lvd11",
+      "partTitle": "Post Reditum in Senatu",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Cum Senatui gratias egit",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi019.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "In the Senate after his Return",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi019.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "post-reditum-ad-quirites-5gvoif",
+      "partTitle": "Post Reditum ad Quirites",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Cum populo gratias egit",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi018.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Second Oration After Cicero's Return: Addressed to the People.",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi018.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pro-p-quinctio-1iiaot-1",
+      "partTitle": "Pro Plancio",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pro P. Quinctio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For Publius Quinctius",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi001.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "pro-p-quinctio-1iiaot-2",
+      "partTitle": "Pro Plancio",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Pro P. Quinctio",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "For Publius Quinctius",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0474.phi001.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "loebNumber": 459,
+  "sortOrder": 459,
+  "slug": "menander-heros-theophoroumene-karchedonios-kitharistes-kolax-koneiazomenai-leukadia-miso-cspjd9",
+  "title": "Heros. Theophoroumene. Karchedonios. Kitharistes. Kolax. Koneiazomenai. Leukadia. Misoumenos. Perikeiromene. Perinthia",
+  "volumeLabel": "Heros. Theophoroumene. Karchedonios. Kitharistes. Kolax. Koneiazomenai. Leukadia. Misoumenos. Perikeiromene. Perinthia",
+  "authorDisplay": "Menander",
+  "authors": [
+    "Menander"
+  ],
+  "language": "greek",
+  "summary": "2 of 10 contents in Heros. Theophoroumene. Karchedonios. Kitharistes. Kolax. Koneiazomenai. Leukadia. Misoumenos. Perikeiromene. Perinthia are live from Scaife, while the remaining contents stay visible until a confident pair is available.",
+  "status": "partial",
+  "defaultChunkSlug": "heros-15g3o9",
+  "readyChunkCount": 2,
+  "contents": [
+    {
+      "id": "heros-15g3o9",
+      "title": "Heros",
+      "status": "ready",
+      "sectionCount": 8,
+      "chunkSlug": "heros-15g3o9",
+      "chunks": [
+        {
+          "slug": "heros-15g3o9",
+          "label": "Heros",
+          "partId": "heros-15g3o9",
+          "partTitle": "Heros",
+          "sectionCount": 8,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "theophoroumene-5dr6ha",
+      "title": "Theophoroumene",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Theophoroumene."
+    },
+    {
+      "id": "karchedonios-13fqsl",
+      "title": "Karchedonios",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Karchedonios."
+    },
+    {
+      "id": "kitharistes-21mfed",
+      "title": "Kitharistes",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Kitharistes."
+    },
+    {
+      "id": "kolax-179qjj",
+      "title": "Kolax",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Kolax."
+    },
+    {
+      "id": "koneiazomenai-1evks5",
+      "title": "Koneiazomenai",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Koneiazomenai."
+    },
+    {
+      "id": "leukadia-10gjoi",
+      "title": "Leukadia",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Leukadia."
+    },
+    {
+      "id": "misoumenos-1ddrab",
+      "title": "Misoumenos",
+      "status": "ready",
+      "sectionCount": 31,
+      "chunkSlug": "misoumenos-1ddrab",
+      "chunks": [
+        {
+          "slug": "misoumenos-1ddrab",
+          "label": "Misoumenos",
+          "partId": "misoumenos-1ddrab",
+          "partTitle": "Misoumenos",
+          "sectionCount": 31,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "perikeiromene-zznurz",
+      "title": "Perikeiromene",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Perikeiromene."
+    },
+    {
+      "id": "perinthia-16i6r1",
+      "title": "Perinthia",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Perinthia."
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "heros-15g3o9",
+      "label": "Heros",
+      "partId": "heros-15g3o9",
+      "partTitle": "Heros",
+      "sectionCount": 8,
+      "status": "ready"
+    },
+    {
+      "slug": "misoumenos-1ddrab",
+      "label": "Misoumenos",
+      "partId": "misoumenos-1ddrab",
+      "partTitle": "Misoumenos",
+      "sectionCount": 31,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "heros-15g3o9",
+      "partTitle": "Heros",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἡρόδοτος ἢ Ἀετίων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg056.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Herodotus or Aëtion",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0062.tlg056.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "misoumenos-1ddrab",
+      "partTitle": "Misoumenos",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Μένων",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg024.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Meno",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg024.perseus-eng2/"
+      }
+    }
+  ]
+}

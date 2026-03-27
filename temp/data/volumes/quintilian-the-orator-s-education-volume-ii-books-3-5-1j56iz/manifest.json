@@ -1,0 +1,61 @@
+{
+  "loebNumber": 125,
+  "sortOrder": 125,
+  "slug": "quintilian-the-orator-s-education-volume-ii-books-3-5-1j56iz",
+  "title": "The Orator's Education, Volume II: Books 3-5",
+  "volumeLabel": "The Orator's Education, Volume II: Books 3-5",
+  "authorDisplay": "Quintilian",
+  "authors": [
+    "Quintilian"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for The Orator's Education, Volume II: Books 3-5, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "the-orator-s-education-books-3-5-1s8vn2",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "the-orator-s-education-books-3-5-1s8vn2",
+      "title": "The Orator's Education: Books 3-5",
+      "status": "ready",
+      "sectionCount": 15,
+      "chunkSlug": "the-orator-s-education-books-3-5-1s8vn2",
+      "chunks": [
+        {
+          "slug": "the-orator-s-education-books-3-5-1s8vn2",
+          "label": "The Orator's Education: Books 3-5",
+          "partId": "the-orator-s-education-books-3-5-1s8vn2",
+          "partTitle": "The Orator's Education: Books 3-5",
+          "sectionCount": 15,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "the-orator-s-education-books-3-5-1s8vn2",
+      "label": "The Orator's Education: Books 3-5",
+      "partId": "the-orator-s-education-books-3-5-1s8vn2",
+      "partTitle": "The Orator's Education: Books 3-5",
+      "sectionCount": 15,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "the-orator-s-education-books-3-5-1s8vn2",
+      "partTitle": "The Orator's Education: Books 3-5",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Institutio Oratoria",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1002.phi001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Institutio Oratoria",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1002.phi001.perseus-eng2/"
+      }
+    }
+  ]
+}

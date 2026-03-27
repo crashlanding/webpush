@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "aristophanes-birds-lysistrata-women-at-the-thesmophoria-w0sjv4",
+  "volumeTitle": "Birds. Lysistrata. Women at the Thesmophoria",
+  "authorDisplay": "Aristophanes",
+  "authors": [
+    "Aristophanes"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "birds-127vsq-12",
+  "label": "Birds (Section 1166 - Section 1.1269)",
+  "partId": "birds-127vsq",
+  "partTitle": "Birds",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ὄρνιθες",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg006.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Birds",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0019.tlg006.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1166",
+      "label": "Section 1166",
+      "chapter": null,
+      "original": "νὴ τοὺς θεοὺς ἔγωγε · καὶ γὰρ ἄξιον ·",
+      "translation": "By the gods , yes , and with good reason . It ' s really not to be believed . But here comes another messenger from the wall to bring us some further news ! What a fighting look he has !"
+    },
+    {
+      "id": "1170",
+      "label": "Section 1170",
+      "chapter": null,
+      "original": "ἰοὺ ἰού , ἰοὺ ἰού , ἰοὺ ἰού .",
+      "translation": "Alas ! alas ! alas ! alas ! alas ! alas !"
+    },
+    {
+      "id": "1171",
+      "label": "Section 1171",
+      "chapter": null,
+      "original": "τί τὸ πρᾶγμα τουτί ;",
+      "translation": "What ' s the matter ?"
+    },
+    {
+      "id": "1171b",
+      "label": "Section 1171b",
+      "chapter": null,
+      "original": "δεινότατα πεπόνθαμεν .",
+      "translation": "A horrible outrage has occurred ; a god sent by Zeus has passed through our gates and has penetrated the realms of the air without the knowledge of the jays , who are on guard in the daytime ."
+    },
+    {
+      "id": "1175",
+      "label": "Section 1175",
+      "chapter": null,
+      "original": "ὦ δεινὸν ἔργον καὶ σχέτλιον εἰργασμένος .",
+      "translation": "It ' s a terrible and criminal deed . What god was it ?"
+    },
+    {
+      "id": "1176b",
+      "label": "Section 1176b",
+      "chapter": null,
+      "original": "οὐκ ἴσμεν · ὅτι δʼ εἶχε πτερά ,",
+      "translation": "We don ' t know that . All we know is , that he has got wings ."
+    },
+    {
+      "id": "1177b",
+      "label": "Section 1177b",
+      "chapter": null,
+      "original": "οὔκουν δῆτα περιπόλους ἐχρῆν",
+      "translation": "Why were not patrolmen sent against him at once ?"
+    },
+    {
+      "id": "1178b",
+      "label": "Section 1178b",
+      "chapter": null,
+      "original": "ἀλλʼ ἐπέμψαμεν",
+      "translation": "We have despatched thirty thousand hawks of the legion of Mounted Archers ."
+    },
+    {
+      "id": "1180",
+      "label": "Section 1180",
+      "chapter": null,
+      "original": "χωρεῖ δὲ πᾶς τις ὄνυχας ἠγκυλωμένος ,",
+      "translation": "All the hook-clawed birds are moving against him , the kestrel , the buzzard , the vulture , the great-horned owl ; they cleave the air so that it resounds with the flapping of their wings ; they are looking everywhere for the god , who cannot be far away ; indeed , if I mistake not ,"
+    },
+    {
+      "id": "1185",
+      "label": "Section 1185",
+      "chapter": null,
+      "original": "ἤδη ʼστίν .",
+      "translation": "he is coming from yonder side ."
+    },
+    {
+      "id": "1185b",
+      "label": "Section 1185b",
+      "chapter": null,
+      "original": "οὔκουν σφενδόνας δεῖ λαμβάνειν",
+      "translation": "To arms , all , with slings and bows ! This way , all our soldiers ; shoot and strike ! Some one give me a sling !"
+    },
+    {
+      "id": "1.1189",
+      "label": "Section 1.1189",
+      "chapter": null,
+      "original": "πόλεμος αἴρεται , πόλεμος οὐ φατὸς",
+      "translation": "War , a terrible war is breaking out"
+    },
+    {
+      "id": "1.1190",
+      "label": "Section 1.1190",
+      "chapter": null,
+      "original": "πρὸς ἐμὲ καὶ θεούς . ἀλλὰ φύλαττε πᾶς",
+      "translation": "between us and the gods ! Come , let each one guard Air , the son of Erebus , in which the clouds float ."
+    },
+    {
+      "id": "1.1195",
+      "label": "Section 1.1195",
+      "chapter": null,
+      "original": "μή σε λάθῃ θεῶν τις ταύτῃ περῶν ·",
+      "translation": "Take care no immortal enters it without your knowledge ."
+    },
+    {
+      "id": "1.1196",
+      "label": "Section 1.1196",
+      "chapter": null,
+      "original": "⋯ ἄθρει δὲ πᾶς κύκλῳ σκοπῶν ,",
+      "translation": "Scan all sides with your glance . Hark ! methinks I can hear the rustle of the swift wings of a god from heaven ."
+    },
+    {
+      "id": "1.1199",
+      "label": "Section 1.1199",
+      "chapter": null,
+      "original": "αὕτη σύ , ποῖ ποῖ ποῖ πέτει ; μένʼ ἥσυχος ,",
+      "translation": "Hi ! you woman ! where , where , where are you flying to ? Halt , don ' t stir !"
+    },
+    {
+      "id": "1.1200",
+      "label": "Section 1.1200",
+      "chapter": null,
+      "original": "ἔχʼ ἀτρέμας · αὐτοῦ στῆθʼ · ἐπίσχες τοῦ δρόμου .",
+      "translation": "keep motionless ! not a beat of your wing ! She pauses in her flight . Who are you and from what country ? You must say whence you come ."
+    },
+    {
+      "id": "1.1202",
+      "label": "Section 1.1202",
+      "chapter": null,
+      "original": "παρὰ τῶν θεῶν ἔγωγε τῶν Ὀλυμπίων .",
+      "translation": "I come from the abode of the Olympian gods ."
+    },
+    {
+      "id": "1.1203",
+      "label": "Section 1.1203",
+      "chapter": null,
+      "original": "ὄνομα δέ σο . τί ἐστι ; πλοῖον ἢ κυνῆ ;",
+      "translation": "What ' s your name , ship or head-dress ?"
+    },
+    {
+      "id": "1.1204",
+      "label": "Section 1.1204",
+      "chapter": null,
+      "original": "Ἶρις ταχεῖα .",
+      "translation": "I am swift Iris ."
+    },
+    {
+      "id": "1.1204b",
+      "label": "Section 1.1204b",
+      "chapter": null,
+      "original": "Πάραλος ἢ Σαλαμινία ;",
+      "translation": "Paralus or Salaminia ?"
+    },
+    {
+      "id": "1.1205",
+      "label": "Section 1.1205",
+      "chapter": null,
+      "original": "τί δὲ τοῦτο ;",
+      "translation": "What do you mean ?"
+    },
+    {
+      "id": "1.1205b",
+      "label": "Section 1.1205b",
+      "chapter": null,
+      "original": "ταυτηνί τις οὐ συλλήψεται",
+      "translation": "Let a buzzard rush at her and seize her ."
+    },
+    {
+      "id": "1.1206b",
+      "label": "Section 1.1206b",
+      "chapter": null,
+      "original": "ἐμὲ συλλήψεται ;",
+      "translation": "Seize me ? But what do all these insults mean ?"
+    },
+    {
+      "id": "1.1207b",
+      "label": "Section 1.1207b",
+      "chapter": null,
+      "original": "οἰμώξει μακρά .",
+      "translation": "Woe to you !"
+    },
+    {
+      "id": "1.1208",
+      "label": "Section 1.1208",
+      "chapter": null,
+      "original": "ἄτοπόν γε τουτὶ πρᾶγμα .",
+      "translation": "I do not understand it ."
+    },
+    {
+      "id": "1.1208b",
+      "label": "Section 1.1208b",
+      "chapter": null,
+      "original": "κατὰ ποίας πύλας",
+      "translation": "By which gate did you pass through the wall , wretched woman ?"
+    },
+    {
+      "id": "1.1210",
+      "label": "Section 1.1210",
+      "chapter": null,
+      "original": "οὐκ οἶδα μὰ Δίʼ ἔγωγε κατὰ ποίας πύλας .",
+      "translation": "By which gate ? Why , great gods , I don ' t know ."
+    },
+    {
+      "id": "1.1211",
+      "label": "Section 1.1211",
+      "chapter": null,
+      "original": "ἤκουσας αὐτῆς οἷον εἰρωνεύεται ;",
+      "translation": "You hear how she holds us in derision . Did you present yourself to the officers in command of the jays ? You don ' t answer . Have you a permit , bearing the seal of the storks ?"
+    },
+    {
+      "id": "1.1213b",
+      "label": "Section 1.1213b",
+      "chapter": null,
+      "original": "τί τὸ κακόν .",
+      "translation": "Am I dreaming ?"
+    },
+    {
+      "id": "1.1214",
+      "label": "Section 1.1214",
+      "chapter": null,
+      "original": "οὐκ ἔλαβες ;",
+      "translation": "Did you get one ?"
+    },
+    {
+      "id": "1.1214b",
+      "label": "Section 1.1214b",
+      "chapter": null,
+      "original": "ὑγιαίνεις μέν ;",
+      "translation": "Are you mad ?"
+    },
+    {
+      "id": "1.1214c",
+      "label": "Section 1.1214c",
+      "chapter": null,
+      "original": "οὐδὲ σύμβολον",
+      "translation": "No"
+    },
+    {
+      "id": "1.1215",
+      "label": "Section 1.1215",
+      "chapter": null,
+      "original": "ἐπέβαλεν ὀρνίθαρχος οὐδείς σοι παρών ;",
+      "translation": "head-bird gave you a safe-conduct ?"
+    },
+    {
+      "id": "1.1216",
+      "label": "Section 1.1216",
+      "chapter": null,
+      "original": "μὰ Δίʼ οὐκ ἔμοιγʼ ἐπέβαλεν οὐδεὶς ὦ μέλε .",
+      "translation": "A safe-conduct to me . You poor fool !"
+    },
+    {
+      "id": "1.1217",
+      "label": "Section 1.1217",
+      "chapter": null,
+      "original": "κἄπειτα δῆθʼ οὕτω σιωπῇ διαπέτει",
+      "translation": "Ah ! and so you slipped into this city on the sly and into these realms of air-land that don ' t belong to you ."
+    },
+    {
+      "id": "1.1219",
+      "label": "Section 1.1219",
+      "chapter": null,
+      "original": "ποίᾳ γὰρ ἄλλῃ χρὴ πέτεσθαι τοὺς θεούς ;",
+      "translation": "And what other roads can the gods travel ?"
+    },
+    {
+      "id": "1.1220",
+      "label": "Section 1.1220",
+      "chapter": null,
+      "original": "οὐκ οἶδα μὰ Δίʼ ἔγωγε · τῇδε μὲν γὰρ οὔ .",
+      "translation": "By Zeus ! I know nothing about that , not I . But they won ' t pass this way . And you still dare to complain ? Why , if you were treated according to your deserts , no Iris would ever have more justly suffered death ."
+    },
+    {
+      "id": "1.1224",
+      "label": "Section 1.1224",
+      "chapter": null,
+      "original": "ἀλλʼ ἀθάνατός εἰμʼ .",
+      "translation": "I am immortal ."
+    },
+    {
+      "id": "1.1224b",
+      "label": "Section 1.1224b",
+      "chapter": null,
+      "original": "ἀλλʼ ὅμως ἂν ἀπέθανες .",
+      "translation": "You would have died nevertheless . —"
+    },
+    {
+      "id": "1.1225",
+      "label": "Section 1.1225",
+      "chapter": null,
+      "original": "δεινότατα γάρ τοι πεισόμεσθʼ , ἐμοὶ δοκεῖ ,",
+      "translation": "Oh ! that would be truly intolerable ! What ! should the universe obey us and the gods alone continue their insolence and not understand that they must submit to the law of the strongest in their due turn ? But tell me , where are you flying to ?"
+    },
+    {
+      "id": "1.1230",
+      "label": "Section 1.1230",
+      "chapter": null,
+      "original": "ἐγώ ; πρὸς ἀνθρώπους πέτομαι παρὰ τοῦ πατρὸς",
+      "translation": "I ? The messenger of Zeus to mankind , I am going to tell them to sacrifice sheep and oxen on the altars and to fill their streets with the rich smoke of burning fat ."
+    },
+    {
+      "id": "1.1233b",
+      "label": "Section 1.1233b",
+      "chapter": null,
+      "original": "τί σὺ λέγεις ; ποίοις θεοῖς ;",
+      "translation": "Of which gods are you speaking ?"
+    },
+    {
+      "id": "1.1234",
+      "label": "Section 1.1234",
+      "chapter": null,
+      "original": "ποίοισιν ; ἡμῖν τοῖς ἐν οὐρανῷ θεοῖς .",
+      "translation": "Of which ? Why , of ourselves , the gods of heaven ."
+    },
+    {
+      "id": "1.1235",
+      "label": "Section 1.1235",
+      "chapter": null,
+      "original": "θεοὶ γὰρ ὑμεῖς ;",
+      "translation": "You , gods ?"
+    },
+    {
+      "id": "1.1235b",
+      "label": "Section 1.1235b",
+      "chapter": null,
+      "original": "τίς γάρ ἐστʼ ἄλλος θεός ;",
+      "translation": "Are there others then ?"
+    },
+    {
+      "id": "1.1236",
+      "label": "Section 1.1236",
+      "chapter": null,
+      "original": "ὄρνιθες ἀνθρώποισι νῦν εἰσιν θεοί ,",
+      "translation": "Men now adore the birds as gods , and it ' s to them , by Zeus , that they must offer sacrifices , and not to Zeus at all !"
+    },
+    {
+      "id": "1.1238",
+      "label": "Section 1.1238",
+      "chapter": null,
+      "original": "ὦ μῶρε μῶρε μὴ θεῶν κίνει φρένας",
+      "translation": "Oh ! fool ! fool ! Rouse not"
+    },
+    {
+      "id": "1.1240",
+      "label": "Section 1.1240",
+      "chapter": null,
+      "original": "Διὸς μακέλλῃ πᾶν ἀναστρέψῃ Δίκη ,",
+      "translation": "the wrath of the gods , for it is terrible indeed . Armed with the brand of Zeus , Justice would annihilate your race ; the lightning would strike you as it did Licymnius and consume both your body and the porticos of your palace ."
+    },
+    {
+      "id": "1.1243",
+      "label": "Section 1.1243",
+      "chapter": null,
+      "original": "ἄκουσον αὕτη · παῦε τῶν παφλασμάτων ·",
+      "translation": "Here ! that ' s enough tall talk . Just you listen and keep quiet ! Do you take me for a Lydian or a Phrygian"
+    },
+    {
+      "id": "1.1245",
+      "label": "Section 1.1245",
+      "chapter": null,
+      "original": "ταυτὶ λέγουσα μορμολύττεσθαι δοκεῖς ;",
+      "translation": "and think to frighten me with your big words ? Know , that if Zeus worries me again , I shall go at the head of my eagles , who are armed with lightning , and reduce his dwelling and that of Amphion to cinders . I shall send more than six hundred porphyrions"
+    },
+    {
+      "id": "1.1250",
+      "label": "Section 1.1250",
+      "chapter": null,
+      "original": "ὄρνις ἐπʼ αὐτὸν παρδαλᾶς ἐνημμένους",
+      "translation": "clothed in leopards ' skins up to heaven against him ; and formerly a single Porphyrion gave him enough to do . As for you , his messenger , if you annoy me , I shall begin by getting between your thighs ,"
+    },
+    {
+      "id": "1.1255",
+      "label": "Section 1.1255",
+      "chapter": null,
+      "original": "τὴν Ἶριν αὐτήν , ὥστε θαυμάζειν ὅπως",
+      "translation": "and even though you are Iris , you will be surprised at the erection the old man can produce ; it ' s three times as good as the ram on a ship ' s prow !"
+    },
+    {
+      "id": "1.1257",
+      "label": "Section 1.1257",
+      "chapter": null,
+      "original": "διαρραγείης ὦ μέλʼ αὐτοῖς ῥήμασιν .",
+      "translation": "May you perish , you wretch , you and your infamous words !"
+    },
+    {
+      "id": "1.1258",
+      "label": "Section 1.1258",
+      "chapter": null,
+      "original": "οὐκ ἀποσοβήσεις ; οὐ ταχέως ; εὐρὰξ πατάξ .",
+      "translation": "Won ' t you get out of here quickly ? Come , stretch your wings or look out for squalls !"
+    },
+    {
+      "id": "1.1259",
+      "label": "Section 1.1259",
+      "chapter": null,
+      "original": "ἦ μήν σε παύσει τῆς ὕβρεως οὑμὸς πατήρ .",
+      "translation": "If my father does not punish you for your insults ..."
+    },
+    {
+      "id": "1.1260",
+      "label": "Section 1.1260",
+      "chapter": null,
+      "original": "οἴμοι τάλας . οὔκουν ἑτέρωσε πετομένη",
+      "translation": "Ha ! ... but just you be off elsewhere to roast younger folk than us with your lightning ."
+    },
+    {
+      "id": "1.1263",
+      "label": "Section 1.1263",
+      "chapter": null,
+      "original": "ἀποκεκλῄκαμεν διογενεῖς θεοὺς",
+      "translation": "We forbid the gods , the sons of Zeus , to pass through our city"
+    },
+    {
+      "id": "1.1265",
+      "label": "Section 1.1265",
+      "chapter": null,
+      "original": "μηδέ γέ τινʼ ἱερόθυτον ἀνὰ δάπεδον ἔτι",
+      "translation": "and the mortals to send them the smoke of their sacrifices by this road ."
+    },
+    {
+      "id": "1.1269",
+      "label": "Section 1.1269",
+      "chapter": null,
+      "original": "δεινόν γε τὸν κήρυκα τὸν παρὰ τοὺς βροτοὺς",
+      "translation": "It ' s odd that the messenger"
+    }
+  ],
+  "prevChunkSlug": "birds-127vsq-11",
+  "nextChunkSlug": "birds-127vsq-13"
+}

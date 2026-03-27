@@ -1,0 +1,61 @@
+{
+  "loebNumber": 436,
+  "sortOrder": 436,
+  "slug": "babrius-phaedrus-fables-p4pesb",
+  "title": "Phaedrus, Fables",
+  "volumeLabel": "Phaedrus, Fables",
+  "authorDisplay": "Babrius",
+  "authors": [
+    "Babrius"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Phaedrus, Fables, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "phaedrus-fables-dpvrjj",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "phaedrus-fables-dpvrjj",
+      "title": "Phaedrus, Fables",
+      "status": "ready",
+      "sectionCount": 53,
+      "chunkSlug": "phaedrus-fables-dpvrjj",
+      "chunks": [
+        {
+          "slug": "phaedrus-fables-dpvrjj",
+          "label": "Phaedrus, Fables",
+          "partId": "phaedrus-fables-dpvrjj",
+          "partTitle": "Phaedrus, Fables",
+          "sectionCount": 53,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "phaedrus-fables-dpvrjj",
+      "label": "Phaedrus, Fables",
+      "partId": "phaedrus-fables-dpvrjj",
+      "partTitle": "Phaedrus, Fables",
+      "sectionCount": 53,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "phaedrus-fables-dpvrjj",
+      "partTitle": "Phaedrus, Fables",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Φαῖδρος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg012.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Phaedrus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg012.perseus-eng2/"
+      }
+    }
+  ]
+}

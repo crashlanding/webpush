@@ -1,0 +1,421 @@
+{
+  "loebNumber": 374,
+  "sortOrder": 374,
+  "slug": "demosthenes-orations-volume-vii-7g6p2s",
+  "title": "Orations, Volume VII",
+  "volumeLabel": "Orations, Volume VII",
+  "authorDisplay": "Demosthenes",
+  "authors": [
+    "Demosthenes"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Orations, Volume VII. Orations, Volume VII opens a closest available slice of Demosthenes on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "against-callicles-6s8j7n",
+  "readyChunkCount": 13,
+  "contents": [
+    {
+      "id": "orations-volume-vii-1lkkq1",
+      "title": "Orations, Volume VII",
+      "status": "ready",
+      "sectionCount": 611,
+      "chunkSlug": "against-callicles-6s8j7n",
+      "chunks": [
+        {
+          "slug": "against-callicles-6s8j7n",
+          "label": "Against Callicles",
+          "partId": "orations-volume-vii-1lkkq1",
+          "partTitle": "Orations, Volume VII",
+          "sectionCount": 35,
+          "status": "ready"
+        },
+        {
+          "slug": "against-dionysodorus-1v4itx",
+          "label": "Against Dionysodorus",
+          "partId": "orations-volume-vii-1lkkq1",
+          "partTitle": "Orations, Volume VII",
+          "sectionCount": 50,
+          "status": "ready"
+        },
+        {
+          "slug": "against-eubulides-pu4i2b",
+          "label": "Against Eubulides",
+          "partId": "orations-volume-vii-1lkkq1",
+          "partTitle": "Orations, Volume VII",
+          "sectionCount": 70,
+          "status": "ready"
+        },
+        {
+          "slug": "against-theocrines-1xls5r",
+          "label": "Against Theocrines",
+          "partId": "orations-volume-vii-1lkkq1",
+          "partTitle": "Orations, Volume VII",
+          "sectionCount": 70,
+          "status": "ready"
+        },
+        {
+          "slug": "theomnestus-and-apollodorus-against-neaera-4xsck7-1",
+          "label": "Theomnestus and Apollodorus Against Neaera (Section 1 - Section 60)",
+          "partId": "orations-volume-vii-1lkkq1",
+          "partTitle": "Orations, Volume VII",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "theomnestus-and-apollodorus-against-neaera-4xsck7-2",
+          "label": "Theomnestus and Apollodorus Against Neaera (Section 61 - Section 120)",
+          "partId": "orations-volume-vii-1lkkq1",
+          "partTitle": "Orations, Volume VII",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "theomnestus-and-apollodorus-against-neaera-4xsck7-3",
+          "label": "Theomnestus and Apollodorus Against Neaera (Section 121 - Section 126)",
+          "partId": "orations-volume-vii-1lkkq1",
+          "partTitle": "Orations, Volume VII",
+          "sectionCount": 6,
+          "status": "ready"
+        },
+        {
+          "slug": "the-funeral-speech-kmi7p6",
+          "label": "The Funeral Speech",
+          "partId": "orations-volume-vii-1lkkq1",
+          "partTitle": "Orations, Volume VII",
+          "sectionCount": 37,
+          "status": "ready"
+        },
+        {
+          "slug": "the-erotic-essay-fnzu7s",
+          "label": "The Erotic Essay",
+          "partId": "orations-volume-vii-1lkkq1",
+          "partTitle": "Orations, Volume VII",
+          "sectionCount": 57,
+          "status": "ready"
+        },
+        {
+          "slug": "exordia-5v7i6e-1",
+          "label": "Exordia (Section 1.1 - Section 28.1)",
+          "partId": "orations-volume-vii-1lkkq1",
+          "partTitle": "Orations, Volume VII",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "exordia-5v7i6e-2",
+          "label": "Exordia (Section 28.2 - Section 48.3)",
+          "partId": "orations-volume-vii-1lkkq1",
+          "partTitle": "Orations, Volume VII",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "exordia-5v7i6e-3",
+          "label": "Exordia (Section 49.1 - Section 56.3)",
+          "partId": "orations-volume-vii-1lkkq1",
+          "partTitle": "Orations, Volume VII",
+          "sectionCount": 19,
+          "status": "ready"
+        },
+        {
+          "slug": "letters-snsw6l",
+          "label": "Letters",
+          "partId": "orations-volume-vii-1lkkq1",
+          "partTitle": "Orations, Volume VII",
+          "sectionCount": 27,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "against-callicles-6s8j7n",
+      "label": "Against Callicles",
+      "partId": "orations-volume-vii-1lkkq1",
+      "partTitle": "Orations, Volume VII",
+      "sectionCount": 35,
+      "status": "ready"
+    },
+    {
+      "slug": "against-dionysodorus-1v4itx",
+      "label": "Against Dionysodorus",
+      "partId": "orations-volume-vii-1lkkq1",
+      "partTitle": "Orations, Volume VII",
+      "sectionCount": 50,
+      "status": "ready"
+    },
+    {
+      "slug": "against-eubulides-pu4i2b",
+      "label": "Against Eubulides",
+      "partId": "orations-volume-vii-1lkkq1",
+      "partTitle": "Orations, Volume VII",
+      "sectionCount": 70,
+      "status": "ready"
+    },
+    {
+      "slug": "against-theocrines-1xls5r",
+      "label": "Against Theocrines",
+      "partId": "orations-volume-vii-1lkkq1",
+      "partTitle": "Orations, Volume VII",
+      "sectionCount": 70,
+      "status": "ready"
+    },
+    {
+      "slug": "theomnestus-and-apollodorus-against-neaera-4xsck7-1",
+      "label": "Theomnestus and Apollodorus Against Neaera (Section 1 - Section 60)",
+      "partId": "orations-volume-vii-1lkkq1",
+      "partTitle": "Orations, Volume VII",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "theomnestus-and-apollodorus-against-neaera-4xsck7-2",
+      "label": "Theomnestus and Apollodorus Against Neaera (Section 61 - Section 120)",
+      "partId": "orations-volume-vii-1lkkq1",
+      "partTitle": "Orations, Volume VII",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "theomnestus-and-apollodorus-against-neaera-4xsck7-3",
+      "label": "Theomnestus and Apollodorus Against Neaera (Section 121 - Section 126)",
+      "partId": "orations-volume-vii-1lkkq1",
+      "partTitle": "Orations, Volume VII",
+      "sectionCount": 6,
+      "status": "ready"
+    },
+    {
+      "slug": "the-funeral-speech-kmi7p6",
+      "label": "The Funeral Speech",
+      "partId": "orations-volume-vii-1lkkq1",
+      "partTitle": "Orations, Volume VII",
+      "sectionCount": 37,
+      "status": "ready"
+    },
+    {
+      "slug": "the-erotic-essay-fnzu7s",
+      "label": "The Erotic Essay",
+      "partId": "orations-volume-vii-1lkkq1",
+      "partTitle": "Orations, Volume VII",
+      "sectionCount": 57,
+      "status": "ready"
+    },
+    {
+      "slug": "exordia-5v7i6e-1",
+      "label": "Exordia (Section 1.1 - Section 28.1)",
+      "partId": "orations-volume-vii-1lkkq1",
+      "partTitle": "Orations, Volume VII",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "exordia-5v7i6e-2",
+      "label": "Exordia (Section 28.2 - Section 48.3)",
+      "partId": "orations-volume-vii-1lkkq1",
+      "partTitle": "Orations, Volume VII",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "exordia-5v7i6e-3",
+      "label": "Exordia (Section 49.1 - Section 56.3)",
+      "partId": "orations-volume-vii-1lkkq1",
+      "partTitle": "Orations, Volume VII",
+      "sectionCount": 19,
+      "status": "ready"
+    },
+    {
+      "slug": "letters-snsw6l",
+      "label": "Letters",
+      "partId": "orations-volume-vii-1lkkq1",
+      "partTitle": "Orations, Volume VII",
+      "sectionCount": 27,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "against-callicles-6s8j7n",
+      "partTitle": "Orations, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "πρὸς Καλλικλέα περὶ χωρίου βλάβης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg055.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Son of Teisias Against Callicles, Regarding Damage to a Piece of Property",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg055.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-dionysodorus-1v4itx",
+      "partTitle": "Orations, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Διονυσοδώρου βλάβης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg056.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Dareius Against Dionysodorus in the Matter of a Loan",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg056.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-eubulides-pu4i2b",
+      "partTitle": "Orations, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "ἔφεσις πρὸς Εὐβουλίδην",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg057.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Euxitheus Against Eubulides, an Appeal",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg057.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "against-theocrines-1xls5r",
+      "partTitle": "Orations, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "ἔνδειξις κατὰ Θεοκρίνου",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg058.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Epichares Against Theocrines, a Criminal Information",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg058.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "theomnestus-and-apollodorus-against-neaera-4xsck7-1",
+      "partTitle": "Orations, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Νεαίρας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg059.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Theomnestus and Apollodorus Against Neaera",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg059.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "theomnestus-and-apollodorus-against-neaera-4xsck7-2",
+      "partTitle": "Orations, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Νεαίρας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg059.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Theomnestus and Apollodorus Against Neaera",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg059.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "theomnestus-and-apollodorus-against-neaera-4xsck7-3",
+      "partTitle": "Orations, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "κατὰ Νεαίρας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg059.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Theomnestus and Apollodorus Against Neaera",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg059.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-funeral-speech-kmi7p6",
+      "partTitle": "Orations, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "ἐπιτάφιος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg060.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Funeral Speech",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg060.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "the-erotic-essay-fnzu7s",
+      "partTitle": "Orations, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "ἐρωτικὸς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg061.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Erotic Essay",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg061.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "exordia-5v7i6e-1",
+      "partTitle": "Orations, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "προοίμια δημηγορικά",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg062.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Exordia",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg062.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "exordia-5v7i6e-2",
+      "partTitle": "Orations, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "προοίμια δημηγορικά",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg062.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Exordia",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg062.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "exordia-5v7i6e-3",
+      "partTitle": "Orations, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "προοίμια δημηγορικά",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg062.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Exordia",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg062.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "letters-snsw6l",
+      "partTitle": "Orations, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Δημοσθένους ἐπιστολαὶ",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg063.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Letters",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg063.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "loebNumber": 454,
+  "sortOrder": 454,
+  "slug": "herodian-history-of-the-empire-volume-i-1mjqj1",
+  "title": "History of the Empire, Volume I",
+  "volumeLabel": "History of the Empire, Volume I",
+  "authorDisplay": "Herodian",
+  "authors": [
+    "Herodian"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for History of the Empire, Volume I. History of the Empire, Volume I currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "history-of-the-empire-volume-i-1vkisw",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "history-of-the-empire-volume-i-1vkisw",
+      "title": "History of the Empire, Volume I",
+      "status": "ready",
+      "sectionCount": 87,
+      "chunkSlug": "history-of-the-empire-volume-i-1vkisw",
+      "chunks": [
+        {
+          "slug": "history-of-the-empire-volume-i-1vkisw",
+          "label": "History of the Empire, Volume I",
+          "partId": "history-of-the-empire-volume-i-1vkisw",
+          "partTitle": "History of the Empire, Volume I",
+          "sectionCount": 87,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "history-of-the-empire-volume-i-1vkisw",
+      "label": "History of the Empire, Volume I",
+      "partId": "history-of-the-empire-volume-i-1vkisw",
+      "partTitle": "History of the Empire, Volume I",
+      "sectionCount": 87,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "history-of-the-empire-volume-i-1vkisw",
+      "partTitle": "History of the Empire, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Res Gestae",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:stoa0023.stoa001.perseus-lat2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "History",
+        "url": "https://scaife.perseus.org/library/urn:cts:latinLit:stoa0023.stoa001.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-persian-1ldq65-5",
+  "label": "The Persian (Section 2.2.235b - Section 2.4.285)",
+  "partId": "the-persian-1ldq65",
+  "partTitle": "The Persian",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Persa",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Persa, or The Persian",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi014.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "2.2.235b",
+      "label": "Section 2.2.235b",
+      "chapter": null,
+      "original": "Ad vos .",
+      "translation": "To your house ."
+    },
+    {
+      "id": "2.2.235c",
+      "label": "Section 2.2.235c",
+      "chapter": null,
+      "original": "Et pol ego ad vos .",
+      "translation": "And I to your house , i ’ faith ."
+    },
+    {
+      "id": "2.2.235d",
+      "label": "Section 2.2.235d",
+      "chapter": null,
+      "original": "Quid eo ?",
+      "translation": "Why thither ?"
+    },
+    {
+      "id": "2.2.235e",
+      "label": "Section 2.2.235e",
+      "chapter": null,
+      "original": "Quid id ad te attinet ?",
+      "translation": "What ’ s that to you ?"
+    },
+    {
+      "id": "2.2.236",
+      "label": "Section 2.2.236",
+      "chapter": null,
+      "original": "Enim non ibis nunc , vicissim nisi scio .",
+      "translation": "Why , you shan ’ t go now , unless , in return , I know ."
+    },
+    {
+      "id": "2.2.236b",
+      "label": "Section 2.2.236b",
+      "chapter": null,
+      "original": "Odiosu'sodiosus es .",
+      "translation": "You are teazing ."
+    },
+    {
+      "id": "2.2.236c",
+      "label": "Section 2.2.236c",
+      "chapter": null,
+      "original": "Lubet .",
+      "translation": "I choose to ."
+    },
+    {
+      "id": "2.2.237",
+      "label": "Section 2.2.237",
+      "chapter": null,
+      "original": "numquam hercle istuc exterebrabis , tu ut sis peior quam ego siem .",
+      "translation": "Never , upon my faith , shall you wring this out of me , so as to prove yourself more artful than I am ."
+    },
+    {
+      "id": "2.2.238",
+      "label": "Section 2.2.238",
+      "chapter": null,
+      "original": "Malitia certare tecum miseria est .",
+      "translation": "It ’ s a misery to contend with you in artfulness ."
+    },
+    {
+      "id": "2.2.238b",
+      "label": "Section 2.2.238b",
+      "chapter": null,
+      "original": "Mers tu mala es .",
+      "translation": "You are a mischievous baggage ."
+    },
+    {
+      "id": "2.2.239",
+      "label": "Section 2.2.239",
+      "chapter": null,
+      "original": "Quid est quod metuas ?",
+      "translation": "What is there for you to fear ?"
+    },
+    {
+      "id": "2.2.239b",
+      "label": "Section 2.2.239b",
+      "chapter": null,
+      "original": "Idem istuc quod tu .",
+      "translation": "The very same that there is for you ."
+    },
+    {
+      "id": "2.2.239c",
+      "label": "Section 2.2.239c",
+      "chapter": null,
+      "original": "Dic ergo ⋯",
+      "translation": "Say then , what is it ?"
+    },
+    {
+      "id": "2.2.240",
+      "label": "Section 2.2.240",
+      "chapter": null,
+      "original": "ne hoc cuiquam homini edicerem , omnes muti ut loquerentur prius .",
+      "translation": "But I ’ m forbidden to tell this to any person , and am instructed that all the dumb people are to speak of it before myself ."
+    },
+    {
+      "id": "2.2.241",
+      "label": "Section 2.2.241",
+      "chapter": null,
+      "original": "Edictum est magno opere mihi , ne quoiquam hoc homini crederem ,",
+      "translation": "And most especially was I cautioned not to trust this to any person , so that all the dumb people were to mention this before myself ."
+    },
+    {
+      "id": "2.2.242b",
+      "label": "Section 2.2.242b",
+      "chapter": null,
+      "original": "At tu hoc face :",
+      "translation": "Still , do you do so ; on giving our words , let ’ s trust each other ."
+    },
+    {
+      "id": "2.2.243b",
+      "label": "Section 2.2.243b",
+      "chapter": null,
+      "original": "Novi : omnes sunt lenae levifidae ,",
+      "translation": "I know this — all procuresses are light of faith , and the weight of a water-gnat [*] is not more light than is the word of a procurer ."
+    },
+    {
+      "id": "2.2.245",
+      "label": "Section 2.2.245",
+      "chapter": null,
+      "original": "Dic amabo .",
+      "translation": "Tell me , there ’ s a dear ."
+    },
+    {
+      "id": "2.2.245b",
+      "label": "Section 2.2.245b",
+      "chapter": null,
+      "original": "Dic amabo .",
+      "translation": "Tell me , there ’ s a dear ."
+    },
+    {
+      "id": "2.2.245c",
+      "label": "Section 2.2.245c",
+      "chapter": null,
+      "original": "Nolo ames .",
+      "translation": "I don ’ t want to be your dear ."
+    },
+    {
+      "id": "2.2.245d",
+      "label": "Section 2.2.245d",
+      "chapter": null,
+      "original": "Facile impetras .",
+      "translation": "You ’ ll easily prevail upon me in that ."
+    },
+    {
+      "id": "2.2.246",
+      "label": "Section 2.2.246",
+      "chapter": null,
+      "original": "Tecum habeto .",
+      "translation": "Keep it yourself ."
+    },
+    {
+      "id": "2.2.246b",
+      "label": "Section 2.2.246b",
+      "chapter": null,
+      "original": "Et tu hoc taceto .",
+      "translation": "And you be mum about this ."
+    },
+    {
+      "id": "2.2.246c",
+      "label": "Section 2.2.246c",
+      "chapter": null,
+      "original": "Tacitum erit .",
+      "translation": "It shall be kept a secret ."
+    },
+    {
+      "id": "2.2.246d",
+      "label": "Section 2.2.246d",
+      "chapter": null,
+      "original": "Celabitur .",
+      "translation": "It shall not be known ."
+    },
+    {
+      "id": "2.2.247",
+      "label": "Section 2.2.247",
+      "chapter": null,
+      "original": "Toxilo has fero tabellas tuo ero .",
+      "translation": "I ’ m carrying this letter to Toxilus , your master ."
+    },
+    {
+      "id": "2.2.247b",
+      "label": "Section 2.2.247b",
+      "chapter": null,
+      "original": "Abi , eccillum domi .",
+      "translation": "Be off ; he ’ s there at home . And I am carrying this pinewood tablet sealed , to Lemniselene , your mistress ."
+    },
+    {
+      "id": "2.2.249",
+      "label": "Section 2.2.249",
+      "chapter": null,
+      "original": "Quid istic scriptum ?",
+      "translation": "What ’ s written there ."
+    },
+    {
+      "id": "2.2.249b",
+      "label": "Section 2.2.249b",
+      "chapter": null,
+      "original": "Iuxta tecum , si tu nescis , nescio ;",
+      "translation": "If you don ’ t know , pretty much like yourself , I don ’ t know ,"
+    },
+    {
+      "id": "2.2.250",
+      "label": "Section 2.2.250",
+      "chapter": null,
+      "original": "nisi fortasse blanda verba .",
+      "translation": "except soft words , perhaps ."
+    },
+    {
+      "id": "2.2.250b",
+      "label": "Section 2.2.250b",
+      "chapter": null,
+      "original": "Ábeo .",
+      "translation": "I ’ m off ."
+    },
+    {
+      "id": "2.2.250c",
+      "label": "Section 2.2.250c",
+      "chapter": null,
+      "original": "Et ego ábiero .—",
+      "translation": "And I ’ ll be off ."
+    },
+    {
+      "id": "2.2.250d",
+      "label": "Section 2.2.250d",
+      "chapter": null,
+      "original": "Ambula .—",
+      "translation": "Move on then ."
+    },
+    {
+      "id": "2.3.251",
+      "label": "Section 2.3.251",
+      "chapter": null,
+      "original": "Ióvi opulento , íncluto ,",
+      "translation": "To Jove the opulent , the renowned , the son of Ops [*] , the strong , the mighty in power , who riches , hopes , kind plenty does bestow , joyously and gratefully do I offer the sacrifice of thanksgiving ,"
+    },
+    {
+      "id": "2.3.255",
+      "label": "Section 2.3.255",
+      "chapter": null,
+      "original": "quiá meo amico amíciter hanc cómmoditatis cópiam",
+      "translation": "inasmuch as in a friendly way they have bestowed for my friend this opportunity of satisfying his necessity and of borrowing the money , so that I can lend him aid in his need . Whereas I no more dreamed , or thought , or imagined that I should have this opportunity — that same has now fallen from heaven as it were ."
+    },
+    {
+      "id": "2.3.259",
+      "label": "Section 2.3.259",
+      "chapter": null,
+      "original": "nam erus meus me Eretriam misit , domitos boves ut sibi mercarer ,",
+      "translation": "For my master has sent me to Eretria [*] ; he has given me the money to purchase some trained oxen for him ; but he said that the fair would take place seven days hence ;"
+    },
+    {
+      "id": "2.3.261",
+      "label": "Section 2.3.261",
+      "chapter": null,
+      "original": "stultus , qui hoc mihi daret argentum , cuius ingenium noverat .",
+      "translation": "a simpleton to trust this money to me whose propensity he knew ; for this money I shall misapply in some other purpose : there were no oxen for me to buy . Now I ’ ll both promote the success of my friend , and will give my inclination full enjoyment . The pleasures that belong to a long time will I serve up in a single day . Crack , crack [*] it will be upon my back ; I don ’ t care ."
+    },
+    {
+      "id": "2.3.265",
+      "label": "Section 2.3.265",
+      "chapter": null,
+      "original": "nunc amico homini boves dómitos mea ex crumina largiar .",
+      "translation": "Now , to a person that is my friend I shall present these trained oxen from out of my purse ; for this , in fact , is a delightful thing , handsomely to bite your thrice-dotted niggardly , antiquated , covetous , spiritless people , who against their servant seal up the saltcellar with the salt . It ’ s a virtue , when occasion prompts , to hold them in contempt . What will he do to me ? He ’ ll order me to be beaten with stripes , the fetters to be put on . I may get a beating ."
+    },
+    {
+      "id": "2.3.270",
+      "label": "Section 2.3.270",
+      "chapter": null,
+      "original": "ne sibi me credat supplicem fore : vae illi , nil iam mihi novi",
+      "translation": "Don ’ t let him fancy that I shall go begging to him . Woe be unto him ! Nothing new can now be inflicted upon me but what I have already experienced it . But see , here comes Paegnium , Toxilus ’ s boy ."
+    },
+    {
+      "id": "2.4.272",
+      "label": "Section 2.4.272",
+      "chapter": null,
+      "original": "Pensúm meum , quod datumst , cónfeci . nunc dómum propero .",
+      "translation": "My task that was set me I ’ ve finished ; now I ’ m hastening home ."
+    },
+    {
+      "id": "2.4.272b",
+      "label": "Section 2.4.272b",
+      "chapter": null,
+      "original": "Mane , etsí properas .",
+      "translation": "Stop , although you are in haste — Paegnium , listen to me ."
+    },
+    {
+      "id": "2.4.273b",
+      "label": "Section 2.4.273b",
+      "chapter": null,
+      "original": "Emere oportet , quem tibi oboediré velis .",
+      "translation": "You ought to buy a person , for you to desire to be obedient to you ."
+    },
+    {
+      "id": "2.4.273c",
+      "label": "Section 2.4.273c",
+      "chapter": null,
+      "original": "Asta .",
+      "translation": "Stop there , I say ."
+    },
+    {
+      "id": "2.4.274",
+      "label": "Section 2.4.274",
+      "chapter": null,
+      "original": "Exhibeas molestiam , ut opínor , si quid debeam ,",
+      "translation": "You ’ d be giving some trouble , I fancy , if I were to be owing you anything ,"
+    },
+    {
+      "id": "2.4.275",
+      "label": "Section 2.4.275",
+      "chapter": null,
+      "original": "qui nunc sic tamen es molestus .",
+      "translation": "who are now so troublesome ."
+    },
+    {
+      "id": "2.4.275b",
+      "label": "Section 2.4.275b",
+      "chapter": null,
+      "original": "Scelerate , etiam respicis ?",
+      "translation": "You rascal , will you look back then ?"
+    },
+    {
+      "id": "2.4.276",
+      "label": "Section 2.4.276",
+      "chapter": null,
+      "original": "Scio ego quid sim aetatis , eo istuc maledictum impune auferes .",
+      "translation": "I am aware of what age I am ; for that reason you shall get off for this abuse with impunity ."
+    },
+    {
+      "id": "2.4.277",
+      "label": "Section 2.4.277",
+      "chapter": null,
+      "original": "Vbi Tóxilus est tuus érus ?",
+      "translation": "Where is Toxilus , your master ?"
+    },
+    {
+      "id": "2.4.277b",
+      "label": "Section 2.4.277b",
+      "chapter": null,
+      "original": "Vbi illí libet , néque te consulit .",
+      "translation": "Wherever he pleases , and he don ’ t ask your advice ."
+    },
+    {
+      "id": "2.4.277c",
+      "label": "Section 2.4.277c",
+      "chapter": null,
+      "original": "Etiam",
+      "translation": "Won ’ t you tell me , then , where he is , you villain ?"
+    },
+    {
+      "id": "2.4.279",
+      "label": "Section 2.4.279",
+      "chapter": null,
+      "original": "Néscio , inquam , ulmítriba tu .",
+      "translation": "I don ’ t know , I say , you elm-twig spoiler [*] ."
+    },
+    {
+      "id": "2.4.280",
+      "label": "Section 2.4.280",
+      "chapter": null,
+      "original": "Male dícis maiorí .",
+      "translation": "You are abusive to your senior ."
+    },
+    {
+      "id": "2.4.280b",
+      "label": "Section 2.4.280b",
+      "chapter": null,
+      "original": "Prior proméritus perpetiáre .",
+      "translation": "As you deserved it first , do you put up with it . My master bade me hold my labour at his bidding , my tongue in freedom ."
+    },
+    {
+      "id": "2.4.281",
+      "label": "Section 2.4.281",
+      "chapter": null,
+      "original": "Dicisne mi , ubi sit Toxilus ?",
+      "translation": "Will you not tell me , where is Toxilus ?"
+    },
+    {
+      "id": "2.4.281b",
+      "label": "Section 2.4.281b",
+      "chapter": null,
+      "original": "Dico ut perpetuo pereas .",
+      "translation": "I tell you that — you may go to perdition everlasting ."
+    },
+    {
+      "id": "2.4.282",
+      "label": "Section 2.4.282",
+      "chapter": null,
+      "original": "Caedere hodie tu restibus .",
+      "translation": "This day you shall be flogged with a rope ’ s end ."
+    },
+    {
+      "id": "2.4.282b",
+      "label": "Section 2.4.282b",
+      "chapter": null,
+      "original": "Tua quidem , cucule , causa !",
+      "translation": "On your account , indeed , you cuckoo ! I ’ faith , you carrion , if I were to give you a broken head , I shouldn ’ t be afraid of that ."
+    },
+    {
+      "id": "2.4.284",
+      "label": "Section 2.4.284",
+      "chapter": null,
+      "original": "Video ego te : iam incubitatus es .",
+      "translation": "I understand you , you ’ ve been up to [*] some bad work just now ."
+    },
+    {
+      "id": "2.4.284b",
+      "label": "Section 2.4.284b",
+      "chapter": null,
+      "original": "Ita sum . quid id ad te attinet ?",
+      "translation": "So I have . What business is that to you ?"
+    },
+    {
+      "id": "2.4.285",
+      "label": "Section 2.4.285",
+      "chapter": null,
+      "original": "at non sum , ita ut tu , gratiis .",
+      "translation": "But I haven ’ t , like yourself , all for nothing ."
+    }
+  ],
+  "prevChunkSlug": "the-persian-1ldq65-4",
+  "nextChunkSlug": "the-persian-1ldq65-6"
+}

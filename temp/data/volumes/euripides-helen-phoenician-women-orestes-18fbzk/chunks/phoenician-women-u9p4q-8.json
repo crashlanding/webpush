@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-helen-phoenician-women-orestes-18fbzk",
+  "volumeTitle": "Helen. Phoenician Women. Orestes",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "phoenician-women-u9p4q-8",
+  "label": "Phoenician Women (Section 981b - Section 1141)",
+  "partId": "phoenician-women-u9p4q",
+  "partTitle": "Phoenician Women",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Φοίνισσαι",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "The Phoenician Maidens",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg015.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "981b",
+      "label": "Section 981b",
+      "chapter": null,
+      "original": "ἐκ δὲ τῆσδε ποῖ περῶ ;",
+      "translation": "And where must I go from there ?"
+    },
+    {
+      "id": "982",
+      "label": "Section 982",
+      "chapter": null,
+      "original": "Θεσπρωτὸν οὖδας .",
+      "translation": "To the land of Thesprotia ."
+    },
+    {
+      "id": "982b",
+      "label": "Section 982b",
+      "chapter": null,
+      "original": "σεμνὰ Δωδώνης βάθρα ;",
+      "translation": "To Dodona ’ s holy threshold ?"
+    },
+    {
+      "id": "983",
+      "label": "Section 983",
+      "chapter": null,
+      "original": "ἔγνως .",
+      "translation": "You understand ."
+    },
+    {
+      "id": "983b",
+      "label": "Section 983b",
+      "chapter": null,
+      "original": "τί δὴ τόδʼ ἔρυμά μοι γενήσεται ;",
+      "translation": "What protection will I find there ?"
+    },
+    {
+      "id": "984",
+      "label": "Section 984",
+      "chapter": null,
+      "original": "πόμπιμος ὁ δαίμων .",
+      "translation": "The god will send you on your way ."
+    },
+    {
+      "id": "984b",
+      "label": "Section 984b",
+      "chapter": null,
+      "original": "χρημάτων δὲ τίς πόρος ;",
+      "translation": "How shall I find the means ?"
+    },
+    {
+      "id": "985",
+      "label": "Section 985",
+      "chapter": null,
+      "original": "ἐγὼ πορεύσω χρυσόν .",
+      "translation": "I will supply you with money ."
+    },
+    {
+      "id": "985b",
+      "label": "Section 985b",
+      "chapter": null,
+      "original": "εὖ λέγεις , πάτερ .",
+      "translation": "A good plan of yours , father . Go now ; for I will come to your sister , Jocasta , at whose breast I was suckled when bereft of my mother , a lonely orphan , to give her greeting and then I will save my life ."
+    },
+    {
+      "id": "990",
+      "label": "Section 990",
+      "chapter": null,
+      "original": "ἀλλʼ εἶα , χώρει · μὴ τὸ σὸν κωλυέτω . —",
+      "translation": "Come , come ! be going ; it isn ’ t your part to hinder me . Exit Creon ."
+    },
+    {
+      "id": "991",
+      "label": "Section 991",
+      "chapter": null,
+      "original": "γυναῖκες , ὡς εὖ πατρὸς ἐξεῖλον φόβον ,",
+      "translation": "How cleverly , ladies , I banished my father ’ s fears by crafty words to gain my end ; for he is trying to get me away , depriving the city of its chance and surrendering me to cowardice . Though an old man may be pardoned ,"
+    },
+    {
+      "id": "995",
+      "label": "Section 995",
+      "chapter": null,
+      "original": "γέροντι , τοὐμὸν δʼ οὐχὶ συγγνώμην ἔχει ,",
+      "translation": "yet in my case there is no pardon for betraying the country that gave me birth . Know this , I will go and save the city , and give my life up for this land . For it is shameful : those whom no oracles bind"
+    },
+    {
+      "id": "1000",
+      "label": "Section 1000",
+      "chapter": null,
+      "original": "κοὐκ εἰς ἀνάγκην δαιμόνων ἀφιγμένοι",
+      "translation": "and who have not come under divine necessity , stand there , shoulder to shoulder , with no fear of death , and fight for their country before her towers ; while I leave the land like a coward , a traitor to my father and brother and city ;"
+    },
+    {
+      "id": "1005",
+      "label": "Section 1005",
+      "chapter": null,
+      "original": "ἄπειμʼ · ὅπου δʼ ἂν ζῶ , κακὸς φανήσομαι .",
+      "translation": "wherever I live , I shall seem base ."
+    },
+    {
+      "id": "1006",
+      "label": "Section 1006",
+      "chapter": null,
+      "original": "μὰ τὸν μετʼ ἄστρων Ζῆνʼ Ἄρη τε φοίνιον ,",
+      "translation": "No , by Zeus and all his stars , by Ares , god of blood , who established the Sown-men that sprung one day from earth as lords of this land ! I will go , and standing on the topmost battlements ,"
+    },
+    {
+      "id": "1010",
+      "label": "Section 1010",
+      "chapter": null,
+      "original": "σφάξας ἐμαυτὸν σηκὸν ἐς μελαμβαθῆ",
+      "translation": "will sacrifice myself over the dragon ’ s deep , dark den , the spot the seer described , and will set my country free . I have spoken . Now I go to make the city a present of my life , no mean offering , to rid this kingdom of its affliction ."
+    },
+    {
+      "id": "1015",
+      "label": "Section 1015",
+      "chapter": null,
+      "original": "εἰ γὰρ λαβὼν ἕκαστος ὅ τι δύναιτό τις",
+      "translation": "For if each were to take and expend all the good within his power , contributing it to the common good of his country , our states would experience fewer troubles and would prosper for the future . Exit Menoeceus ."
+    },
+    {
+      "id": "1.1019",
+      "label": "Section 1.1019",
+      "chapter": null,
+      "original": "ἔβας ἔβας ,",
+      "translation": "You came , you came , O winged creature , born of earth"
+    },
+    {
+      "id": "1.1020",
+      "label": "Section 1.1020",
+      "chapter": null,
+      "original": "νερτέρου τʼ Ἐχίδνας ,",
+      "translation": "and hellish viper , to prey upon the sons of Cadmus , full of death , full of sorrow , half a maiden , a murderous monster , with roving wings"
+    },
+    {
+      "id": "1.1025",
+      "label": "Section 1.1025",
+      "chapter": null,
+      "original": "χαλαῖσί τʼ ὠμοσίτοις ·",
+      "translation": "and ravening claws ; you once caught up youths from the haunts of Dirce , with discordant song ,"
+    },
+    {
+      "id": "1.1030",
+      "label": "Section 1.1030",
+      "chapter": null,
+      "original": "ἔφερες ἔφερες ἄχεα πατρίδι",
+      "translation": "and you brought , you brought a murderous grief , a deadly curse to our native land . A deadly god he was who brought all this to pass . Mourning of mothers , mourning of maidens ,"
+    },
+    {
+      "id": "1.1035",
+      "label": "Section 1.1035",
+      "chapter": null,
+      "original": "ἐστέναζον οἴκοις ·",
+      "translation": "filled the houses with groans ; a lamenting cry , a lamenting song , one after another wailed out , in turn throughout the city . The roar of the groaning"
+    },
+    {
+      "id": "1.1040",
+      "label": "Section 1.1040",
+      "chapter": null,
+      "original": "ἀχά τʼ ἦν ὅμοιος ,",
+      "translation": "was like thunder , whenever the winged maiden bore a man out of sight from the city ."
+    },
+    {
+      "id": "1.1043",
+      "label": "Section 1.1043",
+      "chapter": null,
+      "original": "χρόνῳ δʼ ἔβα",
+      "translation": "At last came Oedipus , the man of sorrow , sent from Delphi"
+    },
+    {
+      "id": "1.1045",
+      "label": "Section 1.1045",
+      "chapter": null,
+      "original": "Θηβαίαν τάνδε γᾶν",
+      "translation": "to this land of Thebes , a joy to us then , but afterwards a cause of grief ; for , when he guessed the riddle triumphantly , he formed with his mother an unhallowed union , woe to him !"
+    },
+    {
+      "id": "1.1050",
+      "label": "Section 1.1050",
+      "chapter": null,
+      "original": "μιαίνει δὲ πτόλιν ·",
+      "translation": "polluting the city ; and striking down his sons by his curses , he handed them over to loathsome strife , through blood , the wretched man ."
+    },
+    {
+      "id": "1.1054",
+      "label": "Section 1.1054",
+      "chapter": null,
+      "original": "τέκεα μέλεος . ἀγάμεθʼ ἀγάμεθʼ ,",
+      "translation": "We admire him , we admire him ,"
+    },
+    {
+      "id": "1.1055",
+      "label": "Section 1.1055",
+      "chapter": null,
+      "original": "ὃς ἐπὶ θάνατον οἴχεται",
+      "translation": "who has gone to his death in his country ’ s cause , leaving tears to Creon , but bringing a crown of victory to our seven fenced towers ."
+    },
+    {
+      "id": "1.1060",
+      "label": "Section 1.1060",
+      "chapter": null,
+      "original": "γενοίμεθʼ ὧδε ματέρες",
+      "translation": "May we be mothers in this way , may we have such fair children , dear PalIas , you who with well-aimed stone spilled the serpent ’ s blood , rousing Cadmus to brood upon the task ,"
+    },
+    {
+      "id": "1.1065",
+      "label": "Section 1.1065",
+      "chapter": null,
+      "original": "ὅθεν ἐπέσυτο τάνδε γαῖαν",
+      "translation": "from which a demon ’ s curse swooped upon this land and ravaged it ."
+    },
+    {
+      "id": "1067",
+      "label": "Section 1067",
+      "chapter": null,
+      "original": "ὠή , τίς ἐν πύλαισι δωμάτων κυρεῖ ;",
+      "translation": "Ho there ! Who is at the palace-gates ? Open the door , summon Jocasta forth . Ho there ! once again I call ; in spite of this long delay ,"
+    },
+    {
+      "id": "1070",
+      "label": "Section 1070",
+      "chapter": null,
+      "original": "ἔξελθʼ , ἄκουσον , Οἰδίπου κλεινὴ δάμαρ ,",
+      "translation": "come forth ; listen , noble wife of Oedipus , cease your lamentation and your tears of woe ."
+    },
+    {
+      "id": "1072",
+      "label": "Section 1072",
+      "chapter": null,
+      "original": "ὦ φίλτατʼ , οὔ που ξυμφορὰν ἥκεις φέρων",
+      "translation": "Surely you have not come , dear friend , with the sad news of Eteocles ’ death , beside whose shield you have always marched , warding off from him the enemy ’ s darts ?"
+    },
+    {
+      "id": "1075",
+      "label": "Section 1075",
+      "chapter": null,
+      "original": "τί μοί ποθʼ ἥκεις καινὸν ἀγγελῶν ἔπος ;",
+      "translation": "What tidings are you here to bring me ? Is my son alive or dead ? Tell me ."
+    },
+    {
+      "id": "1077",
+      "label": "Section 1077",
+      "chapter": null,
+      "original": "ζῇ , μὴ τρέσῃς τόδʼ , ὥς σʼ ἀπαλλάξω φόβου .",
+      "translation": "He is alive , do not fear that , so that I may rid you of your terror ."
+    },
+    {
+      "id": "1078",
+      "label": "Section 1078",
+      "chapter": null,
+      "original": "τί δʼ ; ἑπτάπυργοι πῶς ἔχουσι περιβολαί ;",
+      "translation": "Well ? How is it with the seven towers that wall us in ?"
+    },
+    {
+      "id": "1079",
+      "label": "Section 1079",
+      "chapter": null,
+      "original": "ἑστᾶσʼ ἄθραυστοι , κοὐκ ἀνήρπασται πόλις .",
+      "translation": "They stand unshattered ; the city is not plundered ."
+    },
+    {
+      "id": "1080",
+      "label": "Section 1080",
+      "chapter": null,
+      "original": "ἦλθον δὲ πρὸς κίνδυνον Ἀργείου δορός ;",
+      "translation": "Have they been in jeopardy of the Argive spear ?"
+    },
+    {
+      "id": "1081",
+      "label": "Section 1081",
+      "chapter": null,
+      "original": "ἀκμήν γʼ ἐπʼ αὐτήν · ἀλλʼ ὁ Καδμείων Ἄρης",
+      "translation": "Yes , on the very brink ; but our Theban warriors proved stronger than Mycenae ’ s might ."
+    },
+    {
+      "id": "1083",
+      "label": "Section 1083",
+      "chapter": null,
+      "original": "ἓν εἰπὲ πρὸς θεῶν , εἴ τι Πολυνείκους πέρι",
+      "translation": "One thing tell me , by the gods , if you know anything of Polyneices ; for this too is my concern , if he is alive ."
+    },
+    {
+      "id": "1085",
+      "label": "Section 1085",
+      "chapter": null,
+      "original": "ζῇ σοι ξυνωρὶς ἐς τόδʼ ἡμέρας τέκνων .",
+      "translation": "As yet your sons are living , the pair of them ."
+    },
+    {
+      "id": "1086",
+      "label": "Section 1086",
+      "chapter": null,
+      "original": "εὐδαιμονοίης . πῶς γὰρ Ἀργείων δόρυ",
+      "translation": "God bless you ! How did you succeed in beating off from our gates the Argive army , when beleaguered ? Tell me , so that I may go within and cheer the old blind man , since our city is still safe ."
+    },
+    {
+      "id": "1090",
+      "label": "Section 1090",
+      "chapter": null,
+      "original": "ἐπεὶ Κρέοντος παῖς ὁ γῆς ὑπερθανὼν",
+      "translation": "After Creon ’ s son , who gave up his life for his country , had taken his stand on the turret ’ s top and plunged a dark-hilted sword through his throat to save this land , your son told off seven companies with their captains to the seven gates to keep watch on the Argive warriors ,"
+    },
+    {
+      "id": "1095",
+      "label": "Section 1095",
+      "chapter": null,
+      "original": "σὸς παῖς , ἐφέδρους δʼ ἱππότας μὲν ἱππόταις",
+      "translation": "and stationed cavalry to cover cavalry , and infantry to support infantry , so that assistance might be close at hand for any weak point in the walls . Then from our lofty towers we saw the Argive army with their white shields leaving"
+    },
+    {
+      "id": "1100",
+      "label": "Section 1100",
+      "chapter": null,
+      "original": "Τευμησὸν ἐκλιπόντα , καὶ τάφρου πέλας",
+      "translation": "Teumesus , and , when near the trench , they charged up to our Theban city at a run . In one loud burst from their ranks and from our walls rang out the battle-cry and trumpet-call ."
+    },
+    {
+      "id": "1104",
+      "label": "Section 1104",
+      "chapter": null,
+      "original": "καὶ πρῶτα μὲν προσῆγε Νηίταις πύλαις",
+      "translation": "First to the Neitian gate , Parthenopaeus , son of the huntress ,"
+    },
+    {
+      "id": "1105",
+      "label": "Section 1105",
+      "chapter": null,
+      "original": "λόχον πυκναῖσιν ἀσπίσιν πεφρικότα",
+      "translation": "led a company bristling with thick rows of shields , and he had his own device in the centre of his shield : Atalanta slaying the Aetolian boar with an arrow shot from far . To the gates of Proetus"
+    },
+    {
+      "id": "1110",
+      "label": "Section 1110",
+      "chapter": null,
+      "original": "πύλας ἐχώρει σφάγιʼ ἔχων ἐφʼ ἅρματι",
+      "translation": "came the prophet Amphiaraus , bringing the victims on a chariot ; he had no boastful sign , but weapons chastely plain ."
+    },
+    {
+      "id": "1113",
+      "label": "Section 1113",
+      "chapter": null,
+      "original": "Ὠγύγια δʼ ἐς πυλώμαθʼ Ἱππομέδων ἄναξ",
+      "translation": "Next lord Hippomedon came marching to the Ogygian gates with this device in the middle of his shield :"
+    },
+    {
+      "id": "1115",
+      "label": "Section 1115",
+      "chapter": null,
+      "original": "στικτοῖς Πανόπτην ὄμμασιν δεδορκότα ,",
+      "translation": "Argus the all-seeing dappled with eyes on the watch , some open with the rising stars , others hiding when they set , as could be seen after he was slain ."
+    },
+    {
+      "id": "1119",
+      "label": "Section 1119",
+      "chapter": null,
+      "original": "Ὁμολωίσιν δὲ τάξιν εἶχε πρὸς πύλαις",
+      "translation": "At the Homoloian gates Tydeus had his post ,"
+    },
+    {
+      "id": "1120",
+      "label": "Section 1120",
+      "chapter": null,
+      "original": "Τυδεύς , λέοντος δέρος ἔχων ἐπʼ ἀσπίδι",
+      "translation": "a lion ’ s skin with shaggy mane upon his shield , while the Titan Prometheus bore a torch in his right hand , to fire the town ."
+    },
+    {
+      "id": "1123",
+      "label": "Section 1123",
+      "chapter": null,
+      "original": "ὁ σὸς δὲ Κρηναίαισι Πολυνείκης πύλαις",
+      "translation": "Your own Polyneices led the battle against the Fountain gate ; upon his shield for a device"
+    },
+    {
+      "id": "1125",
+      "label": "Section 1125",
+      "chapter": null,
+      "original": "ἐπίσημα πῶλοι δρομάδες ἐσκίρτων φόβῳ ,",
+      "translation": "were the colts of Potniae galloping at frantic speed , revolving by some clever contrivance on pivots by the handle , so as to appear distraught ."
+    },
+    {
+      "id": "1128",
+      "label": "Section 1128",
+      "chapter": null,
+      "original": "ὁ δʼ οὐκ ἔλασσον Ἄρεος ἐς μάχην φρονῶν",
+      "translation": "At Electra ’ s gate Capaneus brought up his company , bold as Ares for the battle ;"
+    },
+    {
+      "id": "1130",
+      "label": "Section 1130",
+      "chapter": null,
+      "original": "σιδηρονώτοις δʼ ἀσπίδος τύποις ἐπῆν",
+      "translation": "this device his shield bore upon its iron back : an earth-born giant carrying on his shoulders a whole city which he had wrenched from its base , a hint to us of the fate in store for Thebes ."
+    },
+    {
+      "id": "1134",
+      "label": "Section 1134",
+      "chapter": null,
+      "original": "ταῖς δʼ ἑβδόμαις Ἄδραστος ἐν πύλαισιν ἦν ,",
+      "translation": "Adrastus was at the seventh gate ;"
+    },
+    {
+      "id": "1135",
+      "label": "Section 1135",
+      "chapter": null,
+      "original": "ἑκατὸν ἐχίδναις ἀσπίδʼ ἐκπληρῶν γραφῇ ,",
+      "translation": "a hundred vipers engraved on his shield , as he bore on his left arm the hydra the boast of Argos , and serpents were carrying off in their jaws the sons of Thebes from within our very walls . Now I was able to see each of them ,"
+    },
+    {
+      "id": "1140",
+      "label": "Section 1140",
+      "chapter": null,
+      "original": "ξύνθημα παρφέροντι ποιμέσιν λόχων .",
+      "translation": "as I carried the watch-word along to the leaders of our companies ."
+    },
+    {
+      "id": "1141",
+      "label": "Section 1141",
+      "chapter": null,
+      "original": "καὶ πρῶτα μὲν τόξοισι καὶ μεσαγκύλοις",
+      "translation": "To begin with , we fought with bows and thonged javelins , with slings that shoot from far and crashing stones ; and as we were conquering , Tydeus and your son suddenly cried aloud :"
+    }
+  ],
+  "prevChunkSlug": "phoenician-women-u9p4q-7",
+  "nextChunkSlug": "phoenician-women-u9p4q-9"
+}

@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-casina-the-casket-comedy-curculio-epidicus-the-two-menaechmuses-10u46k",
+  "volumeTitle": "Casina. The Casket Comedy. Curculio. Epidicus. The Two Menaechmuses",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "curculio-ad3oao-1",
+  "label": "Curculio (Section 1.1.1 - Section 1.1.74)",
+  "partId": "curculio-ad3oao",
+  "partTitle": "Curculio",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Curculio",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi008.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Curculio, or The Forgery",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi008.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1.1",
+      "label": "Section 1.1.1",
+      "chapter": null,
+      "original": "Quo ted hoc noctis dicam proficisci foras",
+      "translation": "Whither away must I say that you are going out of doors at this time o ’ night , Phaedromus , with that dress and with this train [*] ?"
+    },
+    {
+      "id": "1.1.3",
+      "label": "Section 1.1.3",
+      "chapter": null,
+      "original": "Quo Venus Cupidoque imperat , suadet Amor :",
+      "translation": "Whither Venus and Cupid summon me , and Love persuades me ; whether ’ tis the midnight or whether the earliest twilight ,"
+    },
+    {
+      "id": "1.1.5",
+      "label": "Section 1.1.5",
+      "chapter": null,
+      "original": "si status condictus cum hoste intercedit dies ,",
+      "translation": "if the day is fixed [*] for pleading your cause with your antagonist , still must you go where they command you , whether you will or no ."
+    },
+    {
+      "id": "1.1.7",
+      "label": "Section 1.1.7",
+      "chapter": null,
+      "original": "At tandem , tandem —",
+      "translation": "But pray , pray —"
+    },
+    {
+      "id": "1.1.7b",
+      "label": "Section 1.1.7b",
+      "chapter": null,
+      "original": "Tandem es odiosus mihi .",
+      "translation": "Pray — you are annoying to me ."
+    },
+    {
+      "id": "1.1.8",
+      "label": "Section 1.1.8",
+      "chapter": null,
+      "original": "Istuc quidem nec bellum est nec memorabile :",
+      "translation": "Really that is neither pretty nor befitting you to say . You are your own servant [*] ; in your fine garb you are showing the light with your waxen torch [*] ."
+    },
+    {
+      "id": "1.1.10",
+      "label": "Section 1.1.10",
+      "chapter": null,
+      "original": "Egon apicularum congestum opera non feram ,",
+      "translation": "And ought I not to carry that which is gathered by the labour of the little bees — which has its birth in sweets — to my own sweet one , my little honey ?"
+    },
+    {
+      "id": "1.1.12",
+      "label": "Section 1.1.12",
+      "chapter": null,
+      "original": "Nam quo te dicam ego ire ?",
+      "translation": "But whither must I say that you are going ?"
+    },
+    {
+      "id": "1.1.12b",
+      "label": "Section 1.1.12b",
+      "chapter": null,
+      "original": "Si tu me roges ,",
+      "translation": "If you ask me that , I ’ ll tell , so that you may know ."
+    },
+    {
+      "id": "1.1.13b",
+      "label": "Section 1.1.13b",
+      "chapter": null,
+      "original": "Si rogitem , quid respondeas ?",
+      "translation": "If I make the enquiry , what would you answer me ?"
+    },
+    {
+      "id": "1.1.14",
+      "label": "Section 1.1.14",
+      "chapter": null,
+      "original": "Hoc Aesculapi fanum est .",
+      "translation": "This is the Temple ( pointing to it ) of Aesculapius ."
+    },
+    {
+      "id": "1.1.14b",
+      "label": "Section 1.1.14b",
+      "chapter": null,
+      "original": "Plus iam anno scio .",
+      "translation": "That I have known for more than a twelvemonth past ."
+    },
+    {
+      "id": "1.1.15",
+      "label": "Section 1.1.15",
+      "chapter": null,
+      "original": "Huic proxumum illud ostiumst oculissimum .",
+      "translation": "Close to it is that door , dear as my very eyes . ( Points to the door of CAPPADOX .) Hail to you ! door , dear as my very eyes ; have you been quite well of late ?"
+    },
+    {
+      "id": "1.1.16b",
+      "label": "Section 1.1.16b",
+      "chapter": null,
+      "original": "Ostium occlusissimum ,",
+      "translation": "Did a fever leave you [*] but yesterday , or the day before , and did you take your dinner yesterday ?"
+    },
+    {
+      "id": "1.1.18b",
+      "label": "Section 1.1.18b",
+      "chapter": null,
+      "original": "Deridesne me ?",
+      "translation": "Are you laughing at me ?"
+    },
+    {
+      "id": "1.1.19",
+      "label": "Section 1.1.19",
+      "chapter": null,
+      "original": "Quid tu ergo , insane , rogitas valeatne ostium ?",
+      "translation": "Why then , madman , are you enquiring whether the door is well or not ?"
+    },
+    {
+      "id": "1.1.20",
+      "label": "Section 1.1.20",
+      "chapter": null,
+      "original": "Bellissimum hercle vidi et taciturnissimum ,",
+      "translation": "I ’ faith , I ’ ve known it as a door most comely and most discreet : never one word does it whisper ; when it is opened , it is silent ; and when , by night , she secretly comes out to me , it holds its peace ."
+    },
+    {
+      "id": "1.1.23",
+      "label": "Section 1.1.23",
+      "chapter": null,
+      "original": "Numquid tu quod te aut genere indignum sit tuo",
+      "translation": "And are you not , Phaedromus , doing , or contemplating the doing of , some deed which is unworthy of yourself or of your family ?"
+    },
+    {
+      "id": "1.1.25",
+      "label": "Section 1.1.25",
+      "chapter": null,
+      "original": "num tu pudicae cuipiam insidias locas",
+      "translation": "Are you not laying a snare for some modest fair one , or for one that should be modest ?"
+    },
+    {
+      "id": "1.1.26b",
+      "label": "Section 1.1.26b",
+      "chapter": null,
+      "original": "Nemini ,",
+      "translation": "For no one ; and may Jupiter not permit me to do so ."
+    },
+    {
+      "id": "1.1.27b",
+      "label": "Section 1.1.27b",
+      "chapter": null,
+      "original": "Ego item volo .",
+      "translation": "I wish the same . Ever , if you are wise , so bestow your love , that if the public should know the object which you love , it may be no disgrace to you ."
+    },
+    {
+      "id": "1.1.30",
+      "label": "Section 1.1.30",
+      "chapter": null,
+      "original": "semper curato ne sis intestabilis .",
+      "translation": "Ever do you take care that you be not disgraced [*] ."
+    },
+    {
+      "id": "1.1.32",
+      "label": "Section 1.1.32",
+      "chapter": null,
+      "original": "Quid istúc est verbi ?",
+      "translation": "What means that expression ?"
+    },
+    {
+      "id": "1.1.32b",
+      "label": "Section 1.1.32b",
+      "chapter": null,
+      "original": "Caute ut incedas via :",
+      "translation": "For you to proceed with caution on your path ; the object that you love , love in the presence of witnesses ."
+    },
+    {
+      "id": "1.1.33",
+      "label": "Section 1.1.33",
+      "chapter": null,
+      "original": "Quin leno hic habitat .",
+      "translation": "Why , ’ tis a Procurer that lives here ."
+    },
+    {
+      "id": "1.1.33b",
+      "label": "Section 1.1.33b",
+      "chapter": null,
+      "original": "Nemo hinc prohibet nec vetat ,",
+      "translation": "No one drives you away from there , nor yet forbids you , if you have the money , to buy what ’ s openly on sale ."
+    },
+    {
+      "id": "1.1.35",
+      "label": "Section 1.1.35",
+      "chapter": null,
+      "original": "nemo ire quemquam publica prohibet via ;",
+      "translation": "No one forbids any person from going along the public road , so long as he doesn ’ t make a path through the field that ’ s fenced around ; so long as you keep yourself away from the wife , the widow , the maiden , youthful age , and free-born children , love what you please ."
+    },
+    {
+      "id": "1.1.39",
+      "label": "Section 1.1.39",
+      "chapter": null,
+      "original": "Lenonis hae sunt aedes .",
+      "translation": "This is the house of a Procurer ."
+    },
+    {
+      "id": "1.1.39b",
+      "label": "Section 1.1.39b",
+      "chapter": null,
+      "original": "Male istis evenat .",
+      "translation": "A curse befall it ."
+    },
+    {
+      "id": "1.1.40",
+      "label": "Section 1.1.40",
+      "chapter": null,
+      "original": "Qui ?",
+      "translation": "Why so ?"
+    },
+    {
+      "id": "1.1.40b",
+      "label": "Section 1.1.40b",
+      "chapter": null,
+      "original": "Quia scelestam servitutem serviunt .",
+      "translation": "Because it serves in an infamous service ."
+    },
+    {
+      "id": "1.1.41",
+      "label": "Section 1.1.41",
+      "chapter": null,
+      "original": "Obloquere .",
+      "translation": "You speak out ."
+    },
+    {
+      "id": "1.1.41b",
+      "label": "Section 1.1.41b",
+      "chapter": null,
+      "original": "Fiat maxume .",
+      "translation": "Be it so , most especially ."
+    },
+    {
+      "id": "1.1.41c",
+      "label": "Section 1.1.41c",
+      "chapter": null,
+      "original": "Etiam taces ?",
+      "translation": "Once more , will you hold your tongue ?"
+    },
+    {
+      "id": "1.1.42",
+      "label": "Section 1.1.42",
+      "chapter": null,
+      "original": "Nempe obloqui me iusseras .",
+      "translation": "You bade me speak out [*] , I thought ."
+    },
+    {
+      "id": "1.1.42b",
+      "label": "Section 1.1.42b",
+      "chapter": null,
+      "original": "At nunc veto .",
+      "translation": "Then , now I forbid you . But , as I had begun to say , he has a young female slave —"
+    },
+    {
+      "id": "1.1.44",
+      "label": "Section 1.1.44",
+      "chapter": null,
+      "original": "Nempe huic lenoni qui hic habitat ?",
+      "translation": "This Procurer , you mean , who ’ s living here ?"
+    },
+    {
+      "id": "1.1.44b",
+      "label": "Section 1.1.44b",
+      "chapter": null,
+      "original": "Recte tenes .",
+      "translation": "You have hold of it exactly ."
+    },
+    {
+      "id": "1.1.45",
+      "label": "Section 1.1.45",
+      "chapter": null,
+      "original": "Minus fórmidabo , ne excidat .",
+      "translation": "The less shall I be in dread of its falling ."
+    },
+    {
+      "id": "1.1.45b",
+      "label": "Section 1.1.45b",
+      "chapter": null,
+      "original": "Odiosus es .",
+      "translation": "You are impertinent . He wishes to make her a courtesan , while she is desperately in love with me ; whereas I don ’ t wish to have her upon loan ."
+    },
+    {
+      "id": "1.1.48",
+      "label": "Section 1.1.48",
+      "chapter": null,
+      "original": "Quid ita ?",
+      "translation": "Why so ?"
+    },
+    {
+      "id": "1.1.48b",
+      "label": "Section 1.1.48b",
+      "chapter": null,
+      "original": "Quia proprium facio : amo pariter simul .",
+      "translation": "Because I ’ m for having her as my own ; I love her equally as well ."
+    },
+    {
+      "id": "1.1.49",
+      "label": "Section 1.1.49",
+      "chapter": null,
+      "original": "Malus clándestinus est amor , damnumst merum .",
+      "translation": "Clandestine courtship is bad ; ’ tis utter ruin ."
+    },
+    {
+      "id": "1.1.50",
+      "label": "Section 1.1.50",
+      "chapter": null,
+      "original": "Est hercle ita ut tu dicis .",
+      "translation": "I ’ troth , ’ tis so as you say ."
+    },
+    {
+      "id": "1.1.50b",
+      "label": "Section 1.1.50b",
+      "chapter": null,
+      "original": "Iamne ea fert iugum ?",
+      "translation": "Has she as yet submitted to the yoke of Venus ?"
+    },
+    {
+      "id": "1.1.51",
+      "label": "Section 1.1.51",
+      "chapter": null,
+      "original": "Tam a me pudica est quasi soror mea sit , nisi",
+      "translation": "For me she is as chaste as though she were my own sister , unless , indeed , she is any the more unchaste for some kissing ."
+    },
+    {
+      "id": "1.1.53",
+      "label": "Section 1.1.53",
+      "chapter": null,
+      "original": "Semper tu scito , flamma fumo est proxima ;",
+      "translation": "Always , do you understand , flame follows very close on smoke ; with smoke , nothing can be burnt , with flame , it can ."
+    },
+    {
+      "id": "1.1.55",
+      "label": "Section 1.1.55",
+      "chapter": null,
+      "original": "qui é nuce nuculeum esse volt , frangit nucem :",
+      "translation": "He who wishes to eat the kernel [*] of the nut , first breaks the nut ; he who wishes to seduce , opens the dance [*] with kisses ."
+    },
+    {
+      "id": "1.1.57",
+      "label": "Section 1.1.57",
+      "chapter": null,
+      "original": "At illa ést pudica neque dum cubitat cum viris .",
+      "translation": "But she is chaste , and never yet has bestowed her favours upon man ."
+    },
+    {
+      "id": "1.1.58",
+      "label": "Section 1.1.58",
+      "chapter": null,
+      "original": "Credam , pudor si cuiquam lenoni siet .",
+      "translation": "That I could believe [*] , if any Procurer had any shame ."
+    },
+    {
+      "id": "1.1.59",
+      "label": "Section 1.1.59",
+      "chapter": null,
+      "original": "Immo ut illam censes ? ut quaeque illi occasiost ,",
+      "translation": "Well , but what think you of her ? When she has any opportunity ,"
+    },
+    {
+      "id": "1.1.60",
+      "label": "Section 1.1.60",
+      "chapter": null,
+      "original": "subripere se ad me ; ubi savium oppegit , fugit .",
+      "translation": "she steals away to me ; when she has given me a kiss , she ’ s off again . This happens by reason of this , because this Procurer is lying a-bed ill in the Temple [*] of Aesculapius ; that fellow is my torturer ."
+    },
+    {
+      "id": "1.1.62b",
+      "label": "Section 1.1.62b",
+      "chapter": null,
+      "original": "Quid est ?",
+      "translation": "How so ?"
+    },
+    {
+      "id": "1.1.63",
+      "label": "Section 1.1.63",
+      "chapter": null,
+      "original": "Alias me poscit pro illa triginta minas ,",
+      "translation": "At one time he asks me for thirty minae for her , at another for a great talent ; and from him I cannot obtain any fair and just dealing ."
+    },
+    {
+      "id": "1.1.65b",
+      "label": "Section 1.1.65b",
+      "chapter": null,
+      "original": "Iniuriu'siniurius es ,",
+      "translation": "You are too exacting , in requiring that of him which no Procurer possesses ."
+    },
+    {
+      "id": "1.1.67",
+      "label": "Section 1.1.67",
+      "chapter": null,
+      "original": "Nunc hinc parasitum in Cariam misi meum",
+      "translation": "Now , I ’ ve sent my Parasite hence to Caria [*] , to ask for money on loan from my friend ; if he doesn ’ t bring me this , which way to turn myself I know not ."
+    },
+    {
+      "id": "1.1.70",
+      "label": "Section 1.1.70",
+      "chapter": null,
+      "original": "Si deos salutas , dextrovorsum censeo .",
+      "translation": "If you salute the Deities , towards the right [*] I think ; now this is this altar of Venus before their door ."
+    },
+    {
+      "id": "1.1.71",
+      "label": "Section 1.1.71",
+      "chapter": null,
+      "original": "Nunc ara Veneris haec est ante horunc fores ;",
+      "translation": "I have already vowed to bring me [*] an early breakfast for my Venus [*] ."
+    },
+    {
+      "id": "1.1.73",
+      "label": "Section 1.1.73",
+      "chapter": null,
+      "original": "Quid ? tu te pones Veneri ieientaculo ?",
+      "translation": "What ? Will you then be giving up yourself as a breakfast to Venus ?"
+    },
+    {
+      "id": "1.1.74",
+      "label": "Section 1.1.74",
+      "chapter": null,
+      "original": "Me , te atque hosce omnis .",
+      "translation": "Myself , and you , and all of these ."
+    }
+  ],
+  "prevChunkSlug": "the-casket-comedy-1ilhwd-6",
+  "nextChunkSlug": "curculio-ad3oao-2"
+}

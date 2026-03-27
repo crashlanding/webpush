@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-helen-phoenician-women-orestes-18fbzk",
+  "volumeTitle": "Helen. Phoenician Women. Orestes",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "orestes-7l7ixd-7",
+  "label": "Orestes (Section 774b - Section 831)",
+  "partId": "orestes-7l7ixd",
+  "partTitle": "Orestes",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ὀρέστης",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Orestes",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg016.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "774b",
+      "label": "Section 774b",
+      "chapter": null,
+      "original": "τίνος ἀναγκαίου πέρι ;",
+      "translation": "About what necessity ?"
+    },
+    {
+      "id": "775",
+      "label": "Section 775",
+      "chapter": null,
+      "original": "εἰ λέγοιμʼ ἀστοῖσιν ἐλθὼν —",
+      "translation": "Suppose I go and tell the citizens —"
+    },
+    {
+      "id": "775b",
+      "label": "Section 775b",
+      "chapter": null,
+      "original": "ὡς ἔδρασας ἔνδικα ;",
+      "translation": "That your action was just ?"
+    },
+    {
+      "id": "776",
+      "label": "Section 776",
+      "chapter": null,
+      "original": "πατρὶ τιμωρῶν ἐμαυτοῦ ;",
+      "translation": "In avenging my father ?"
+    },
+    {
+      "id": "776b",
+      "label": "Section 776b",
+      "chapter": null,
+      "original": "μὴ λάβωσί σʼ ἄσμενοι .",
+      "translation": "I am afraid they would be glad to catch you ."
+    },
+    {
+      "id": "777",
+      "label": "Section 777",
+      "chapter": null,
+      "original": "ἀλλʼ ὑποπτήξας σιωπῇ κατθάνω ;",
+      "translation": "Well , am I to crouch in fear and die without a word ?"
+    },
+    {
+      "id": "777b",
+      "label": "Section 777b",
+      "chapter": null,
+      "original": "δειλὸν τόδε .",
+      "translation": "That is cowardly ."
+    },
+    {
+      "id": "778",
+      "label": "Section 778",
+      "chapter": null,
+      "original": "πῶς ἂν οὖν δρῴην ;",
+      "translation": "How then should I act ?"
+    },
+    {
+      "id": "778b",
+      "label": "Section 778b",
+      "chapter": null,
+      "original": "ἔχεις τινʼ , ἢν μένῃς , σωτηρίαν ;",
+      "translation": "Suppose you stay here , what means of safety do you have ?"
+    },
+    {
+      "id": "779",
+      "label": "Section 779",
+      "chapter": null,
+      "original": "οὐκ ἔχω .",
+      "translation": "I have none ."
+    },
+    {
+      "id": "779b",
+      "label": "Section 779b",
+      "chapter": null,
+      "original": "μολόντι δʼ ἐλπίς ἐστι σωθῆναι κακῶν ;",
+      "translation": "And if you go , is there any hope of escaping your troubles ?"
+    },
+    {
+      "id": "780",
+      "label": "Section 780",
+      "chapter": null,
+      "original": "εἰ τύχοι , γένοιτʼ ἄν .",
+      "translation": "There might be , possibly ."
+    },
+    {
+      "id": "780b",
+      "label": "Section 780b",
+      "chapter": null,
+      "original": "οὐκοῦν τοῦτο κρεῖσσον ἢ μένειν .",
+      "translation": "Then that is better than staying ."
+    },
+    {
+      "id": "781",
+      "label": "Section 781",
+      "chapter": null,
+      "original": "ἀλλὰ δῆτʼ ἔλθω .",
+      "translation": "Then I will go ."
+    },
+    {
+      "id": "781b",
+      "label": "Section 781b",
+      "chapter": null,
+      "original": "θανὼν γοῦν ὧδε κάλλιον θανῇ .",
+      "translation": "At least you die in this way , you will die more honorably ."
+    },
+    {
+      "id": "783",
+      "label": "Section 783",
+      "chapter": null,
+      "original": "εὖ λέγεις · φεύγω τὸ δειλὸν τῇδε .",
+      "translation": "After all , my action was just ."
+    },
+    {
+      "id": "783b",
+      "label": "Section 783b",
+      "chapter": null,
+      "original": "μᾶλλον ἢ μένων .",
+      "translation": "Pray that this may be the only view they take ."
+    },
+    {
+      "id": "782",
+      "label": "Section 782",
+      "chapter": null,
+      "original": "καὶ τὸ πρᾶγμά γʼ ἔνδικόν μοι .",
+      "translation": "You are right ; in this way I escape cowardice ."
+    },
+    {
+      "id": "782b",
+      "label": "Section 782b",
+      "chapter": null,
+      "original": "τῷ Δοκεῖν εὔχου μόνον .",
+      "translation": "Better than by staying ."
+    },
+    {
+      "id": "784",
+      "label": "Section 784",
+      "chapter": null,
+      "original": "καί τις ἄν γέ μʼ οἰκτίσειε ⋯",
+      "translation": "Some one or two might pity me —"
+    },
+    {
+      "id": "784b",
+      "label": "Section 784b",
+      "chapter": null,
+      "original": "μέγα γὰρ ἡ εὐγένειά σου .",
+      "translation": "Yes , your noble birth is a great point ."
+    },
+    {
+      "id": "785",
+      "label": "Section 785",
+      "chapter": null,
+      "original": "θάνατον ἀσχάλλων πατρῷον .",
+      "translation": "Resenting my father ’ s death ."
+    },
+    {
+      "id": "785b",
+      "label": "Section 785b",
+      "chapter": null,
+      "original": "πάντα ταῦτʼ ἐν ὄμμασιν .",
+      "translation": "That is all quite clear ."
+    },
+    {
+      "id": "786",
+      "label": "Section 786",
+      "chapter": null,
+      "original": "ἰτέον , ὡς ἄνανδρον ἀκλεῶς κατθανεῖν .",
+      "translation": "I must go , for to die ignobly is a coward ’ s part ."
+    },
+    {
+      "id": "786b",
+      "label": "Section 786b",
+      "chapter": null,
+      "original": "αἰνῶ τάδε .",
+      "translation": "Well said ."
+    },
+    {
+      "id": "787",
+      "label": "Section 787",
+      "chapter": null,
+      "original": "ἦ λέγωμεν οὖν ἀδελφῇ ταῦτʼ ἐμῇ ;",
+      "translation": "Shall we tell my sister ?"
+    },
+    {
+      "id": "787b",
+      "label": "Section 787b",
+      "chapter": null,
+      "original": "μὴ πρὸς θεῶν .",
+      "translation": "God forbid !"
+    },
+    {
+      "id": "788",
+      "label": "Section 788",
+      "chapter": null,
+      "original": "δάκρυα γοῦν γένοιτʼ ἄν .",
+      "translation": "True , there might be tears ."
+    },
+    {
+      "id": "788b",
+      "label": "Section 788b",
+      "chapter": null,
+      "original": "οὐκοῦν οὗτος οἰωνὸς μέγας .",
+      "translation": "That would be a grave omen ."
+    },
+    {
+      "id": "789",
+      "label": "Section 789",
+      "chapter": null,
+      "original": "δηλαδὴ σιγᾶν ἄμεινον .",
+      "translation": "Yes , silence is clearly better ."
+    },
+    {
+      "id": "789b",
+      "label": "Section 789b",
+      "chapter": null,
+      "original": "τῷ χρόνῳ δὲ κερδανεῖς .",
+      "translation": "And you will gain time ."
+    },
+    {
+      "id": "790",
+      "label": "Section 790",
+      "chapter": null,
+      "original": "κεῖνό μοι μόνον πρόσαντες .",
+      "translation": "There is only one obstacle in my way ."
+    },
+    {
+      "id": "790b",
+      "label": "Section 790b",
+      "chapter": null,
+      "original": "τί τόδε καινὸν αὖ λέγεις ;",
+      "translation": "What fresh objection now ?"
+    },
+    {
+      "id": "791",
+      "label": "Section 791",
+      "chapter": null,
+      "original": "μὴ θεαί μʼ οἴστρῳ κατάσχωσι .",
+      "translation": "I am afraid the goddesses will prevent me by madness ."
+    },
+    {
+      "id": "791b",
+      "label": "Section 791b",
+      "chapter": null,
+      "original": "ἀλλὰ κηδεύσω σʼ ἐγώ .",
+      "translation": "But I will take care of you ."
+    },
+    {
+      "id": "792",
+      "label": "Section 792",
+      "chapter": null,
+      "original": "δυσχερὲς ψαύειν νοσοῦντος ἀνδρός .",
+      "translation": "It is annoying to have to touch a sick man ."
+    },
+    {
+      "id": "792b",
+      "label": "Section 792b",
+      "chapter": null,
+      "original": "οὐκ ἔμοιγε σοῦ .",
+      "translation": "Not to me , when it is you ."
+    },
+    {
+      "id": "793",
+      "label": "Section 793",
+      "chapter": null,
+      "original": "εὐλαβοῦ λύσσης μετασχεῖν τῆς ἐμῆς .",
+      "translation": "Beware of becoming a partner in my madness ."
+    },
+    {
+      "id": "793b",
+      "label": "Section 793b",
+      "chapter": null,
+      "original": "τόδʼ οὖν ἴτω .",
+      "translation": "Let that pass ."
+    },
+    {
+      "id": "794",
+      "label": "Section 794",
+      "chapter": null,
+      "original": "οὐκ ἄρʼ ὀκνήσεις ;",
+      "translation": "You will not hesitate ?"
+    },
+    {
+      "id": "794b",
+      "label": "Section 794b",
+      "chapter": null,
+      "original": "ὄκνος γὰρ τοῖς φίλοις κακὸν μέγα .",
+      "translation": "No , for hesitation is a grave mischief among friends ."
+    },
+    {
+      "id": "795",
+      "label": "Section 795",
+      "chapter": null,
+      "original": "ἕρπε νυν οἴαξ ποδός μοι .",
+      "translation": "On then , pilot of my course !"
+    },
+    {
+      "id": "795b",
+      "label": "Section 795b",
+      "chapter": null,
+      "original": "φίλα γʼ ἔχων κηδεύματα .",
+      "translation": "A service I am glad to render ."
+    },
+    {
+      "id": "796",
+      "label": "Section 796",
+      "chapter": null,
+      "original": "καί με πρὸς τύμβον πόρευσον πατρός .",
+      "translation": "And guide me to my father ’ s tomb ."
+    },
+    {
+      "id": "796b",
+      "label": "Section 796b",
+      "chapter": null,
+      "original": "ὡς τί δὴ τόδε ;",
+      "translation": "For what purpose ?"
+    },
+    {
+      "id": "797",
+      "label": "Section 797",
+      "chapter": null,
+      "original": "ὥς νιν ἱκετεύσω με σῶσαι .",
+      "translation": "That I may appeal to him to save me ."
+    },
+    {
+      "id": "797b",
+      "label": "Section 797b",
+      "chapter": null,
+      "original": "τό γε δίκαιον ὧδʼ ἔχει .",
+      "translation": "Yes , that is the proper way ."
+    },
+    {
+      "id": "798",
+      "label": "Section 798",
+      "chapter": null,
+      "original": "μητέρος δὲ μηδʼ ἴδοιμι μνῆμα .",
+      "translation": "May I not see my mother ’ s grave !"
+    },
+    {
+      "id": "798b",
+      "label": "Section 798b",
+      "chapter": null,
+      "original": "πολεμία γὰρ ἦν .",
+      "translation": "No ; she was an enemy . But hasten , so that the vote of Argos may not catch you first ,"
+    },
+    {
+      "id": "800",
+      "label": "Section 800",
+      "chapter": null,
+      "original": "περιβαλὼν πλευροῖς ἐμοῖσι πλευρὰ νωχελῆ νόσῳ ·",
+      "translation": "supporting those limbs , slow from sickness , on mine ; for I will carry you through the town , thinking little of the mob and unashamed . For how shall I prove my friendship , if not by helping you in sore distress ?"
+    },
+    {
+      "id": "804",
+      "label": "Section 804",
+      "chapter": null,
+      "original": "τοῦτʼ ἐκεῖνο , κτᾶσθʼ ἑταίρους , μὴ τὸ συγγενὲς μόνον ·",
+      "translation": "Ah ! the old saying again , get friends , not relations only ."
+    },
+    {
+      "id": "805",
+      "label": "Section 805",
+      "chapter": null,
+      "original": "ὡς ἀνὴρ ὅστις τρόποισι συντακῇ , θυραῖος ὢν",
+      "translation": "For a man who fuses into your ways , though he is an outsider , is better for a man to possess as a friend than a whole host of relations . Exeunt Orestes and Pylades ."
+    },
+    {
+      "id": "1.807",
+      "label": "Section 1.807",
+      "chapter": null,
+      "original": "ὁ μέγας ὄλβος ἅ τʼ ἀρετὰ",
+      "translation": "The great prosperity and the prowess , proudly boasted throughout Hellas and by the streams of Simois ,"
+    },
+    {
+      "id": "1.810",
+      "label": "Section 1.810",
+      "chapter": null,
+      "original": "πάλιν ἀνῆλθʼ ἐξ εὐτυχίας Ἀτρείδαις",
+      "translation": "went back again from good fortune for the Atreidae long ago , from an old misfortune to their house , when strife came to the sons of Tantalus over a golden ram , to end in most pitiable banqueting and"
+    },
+    {
+      "id": "1.815",
+      "label": "Section 1.815",
+      "chapter": null,
+      "original": "σφάγια γενναίων τεκέων ·",
+      "translation": "the slaughter of high-born children ; and this is why murder exchanges for murder , through blood , and does not leave the two Atreidae ."
+    },
+    {
+      "id": "1.819",
+      "label": "Section 1.819",
+      "chapter": null,
+      "original": "τὸ καλὸν οὐ καλόν , τοκέων",
+      "translation": "What seemed good was not good ,"
+    },
+    {
+      "id": "1.820",
+      "label": "Section 1.820",
+      "chapter": null,
+      "original": "πυριγενεῖ τεμεῖν παλάμᾳ",
+      "translation": "to cut a mother ’ s flesh with ruthless hand and show the sword stained black with blood to the sun ’ s bright beams ; to commit a noble crime is an impious , subtle , malignant madness !"
+    },
+    {
+      "id": "1.825",
+      "label": "Section 1.825",
+      "chapter": null,
+      "original": "θανάτου γὰρ ἀμφὶ φόβῳ",
+      "translation": "The wretched daughter of Tyndareus in terror of death screamed to him : My son , this is unholy , your bold attempt upon your mother ’ s life ; do not , while honoring your father ,"
+    },
+    {
+      "id": "1.830",
+      "label": "Section 1.830",
+      "chapter": null,
+      "original": "ψῃ δύσκλειαν ἐς αἰεί .",
+      "translation": "fasten on yourself an eternity of shame ."
+    },
+    {
+      "id": "831",
+      "label": "Section 831",
+      "chapter": null,
+      "original": "τίς νόσος ἢ τίνα δάκρυα καὶ",
+      "translation": "What affliction on earth surpasses this ? What calls for keener grief or pity , than to shed with your hand a mother ’ s blood ? Oh ! what a dreadful crime he committed ,"
+    }
+  ],
+  "prevChunkSlug": "orestes-7l7ixd-6",
+  "nextChunkSlug": "orestes-7l7ixd-8"
+}

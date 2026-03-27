@@ -1,0 +1,1009 @@
+{
+  "loebNumber": 20,
+  "sortOrder": 20,
+  "slug": "sophocles-ajax-electra-oedipus-tyrannus-udpp93",
+  "title": "Ajax. Electra. Oedipus Tyrannus",
+  "volumeLabel": "Ajax. Electra. Oedipus Tyrannus",
+  "authorDisplay": "Sophocles",
+  "authors": [
+    "Sophocles"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Ajax. Electra. Oedipus Tyrannus, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "ajax-17r5s-1",
+  "readyChunkCount": 32,
+  "contents": [
+    {
+      "id": "ajax-17r5s",
+      "title": "Ajax",
+      "status": "ready",
+      "sectionCount": 512,
+      "chunkSlug": "ajax-17r5s-1",
+      "chunks": [
+        {
+          "slug": "ajax-17r5s-1",
+          "label": "Ajax (Section 1 - Section 111)",
+          "partId": "ajax-17r5s",
+          "partTitle": "Ajax",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "ajax-17r5s-2",
+          "label": "Ajax (Section 112 - Section 295)",
+          "partId": "ajax-17r5s",
+          "partTitle": "Ajax",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "ajax-17r5s-3",
+          "label": "Ajax (Section 300 - Section 455)",
+          "partId": "ajax-17r5s",
+          "partTitle": "Ajax",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "ajax-17r5s-4",
+          "label": "Ajax (Section 460 - Section 625)",
+          "partId": "ajax-17r5s",
+          "partTitle": "Ajax",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "ajax-17r5s-5",
+          "label": "Ajax (Section 630 - Section 835)",
+          "partId": "ajax-17r5s",
+          "partTitle": "Ajax",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "ajax-17r5s-6",
+          "label": "Ajax (Section 840 - Section 981)",
+          "partId": "ajax-17r5s",
+          "partTitle": "Ajax",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "ajax-17r5s-7",
+          "label": "Ajax (Section 982 - Section 1140)",
+          "partId": "ajax-17r5s",
+          "partTitle": "Ajax",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "ajax-17r5s-8",
+          "label": "Ajax (Section 1141 - Section 1345)",
+          "partId": "ajax-17r5s",
+          "partTitle": "Ajax",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "ajax-17r5s-9",
+          "label": "Ajax (Section 1346 - Section 1390)",
+          "partId": "ajax-17r5s",
+          "partTitle": "Ajax",
+          "sectionCount": 32,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "electra-wuse",
+      "title": "Electra",
+      "status": "ready",
+      "sectionCount": 628,
+      "chunkSlug": "electra-wuse-1",
+      "chunks": [
+        {
+          "slug": "electra-wuse-1",
+          "label": "Electra (Section 1 - Section 3.230)",
+          "partId": "electra-wuse",
+          "partTitle": "Electra",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "electra-wuse-2",
+          "label": "Electra (Section 233 - Section 395)",
+          "partId": "electra-wuse",
+          "partTitle": "Electra",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "electra-wuse-3",
+          "label": "Electra (Section 396 - Section 570)",
+          "partId": "electra-wuse",
+          "partTitle": "Electra",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "electra-wuse-4",
+          "label": "Electra (Section 575 - Section 766)",
+          "partId": "electra-wuse",
+          "partTitle": "Electra",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "electra-wuse-5",
+          "label": "Electra (Section 769 - Section 887)",
+          "partId": "electra-wuse",
+          "partTitle": "Electra",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "electra-wuse-6",
+          "label": "Electra (Section 889 - Section 1033)",
+          "partId": "electra-wuse",
+          "partTitle": "Electra",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "electra-wuse-7",
+          "label": "Electra (Section 1034 - Section 1177)",
+          "partId": "electra-wuse",
+          "partTitle": "Electra",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "electra-wuse-8",
+          "label": "Electra (Section 1178 - Section 1.1236)",
+          "partId": "electra-wuse",
+          "partTitle": "Electra",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "electra-wuse-9",
+          "label": "Electra (Section 1.1237 - Section 1360)",
+          "partId": "electra-wuse",
+          "partTitle": "Electra",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "electra-wuse-10",
+          "label": "Electra (Section 1364 - Section 1460)",
+          "partId": "electra-wuse",
+          "partTitle": "Electra",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "electra-wuse-11",
+          "label": "Electra (Section 1464 - Section 1510)",
+          "partId": "electra-wuse",
+          "partTitle": "Electra",
+          "sectionCount": 28,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "oedipus-tyrannus-1bvaud",
+      "title": "Oedipus Tyrannus",
+      "status": "ready",
+      "sectionCount": 680,
+      "chunkSlug": "oedipus-tyrannus-1bvaud-1",
+      "chunks": [
+        {
+          "slug": "oedipus-tyrannus-1bvaud-1",
+          "label": "Oedipus Tyrannus (Section 1 - Section 2.169)",
+          "partId": "oedipus-tyrannus-1bvaud",
+          "partTitle": "Oedipus Tyrannus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "oedipus-tyrannus-1bvaud-2",
+          "label": "Oedipus Tyrannus (Section 2.170 - Section 341)",
+          "partId": "oedipus-tyrannus-1bvaud",
+          "partTitle": "Oedipus Tyrannus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "oedipus-tyrannus-1bvaud-3",
+          "label": "Oedipus Tyrannus (Section 342 - Section 1.473)",
+          "partId": "oedipus-tyrannus-1bvaud",
+          "partTitle": "Oedipus Tyrannus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "oedipus-tyrannus-1bvaud-4",
+          "label": "Oedipus Tyrannus (Section 1.475 - Section 605)",
+          "partId": "oedipus-tyrannus-1bvaud",
+          "partTitle": "Oedipus Tyrannus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "oedipus-tyrannus-1bvaud-5",
+          "label": "Oedipus Tyrannus (Section 610 - Section 715)",
+          "partId": "oedipus-tyrannus-1bvaud",
+          "partTitle": "Oedipus Tyrannus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "oedipus-tyrannus-1bvaud-6",
+          "label": "Oedipus Tyrannus (Section 720 - Section 861)",
+          "partId": "oedipus-tyrannus-1bvaud",
+          "partTitle": "Oedipus Tyrannus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "oedipus-tyrannus-1bvaud-7",
+          "label": "Oedipus Tyrannus (Section 1.863 - Section 991)",
+          "partId": "oedipus-tyrannus-1bvaud",
+          "partTitle": "Oedipus Tyrannus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "oedipus-tyrannus-1bvaud-8",
+          "label": "Oedipus Tyrannus (Section 992 - Section 1064)",
+          "partId": "oedipus-tyrannus-1bvaud",
+          "partTitle": "Oedipus Tyrannus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "oedipus-tyrannus-1bvaud-9",
+          "label": "Oedipus Tyrannus (Section 1065 - Section 1166)",
+          "partId": "oedipus-tyrannus-1bvaud",
+          "partTitle": "Oedipus Tyrannus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "oedipus-tyrannus-1bvaud-10",
+          "label": "Oedipus Tyrannus (Section 1167 - Section 1.1319)",
+          "partId": "oedipus-tyrannus-1bvaud",
+          "partTitle": "Oedipus Tyrannus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "oedipus-tyrannus-1bvaud-11",
+          "label": "Oedipus Tyrannus (Section 1.1320 - Section 1500)",
+          "partId": "oedipus-tyrannus-1bvaud",
+          "partTitle": "Oedipus Tyrannus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "oedipus-tyrannus-1bvaud-12",
+          "label": "Oedipus Tyrannus (Section 1505 - Section trochaic.1530)",
+          "partId": "oedipus-tyrannus-1bvaud",
+          "partTitle": "Oedipus Tyrannus",
+          "sectionCount": 20,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "ajax-17r5s-1",
+      "label": "Ajax (Section 1 - Section 111)",
+      "partId": "ajax-17r5s",
+      "partTitle": "Ajax",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "ajax-17r5s-2",
+      "label": "Ajax (Section 112 - Section 295)",
+      "partId": "ajax-17r5s",
+      "partTitle": "Ajax",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "ajax-17r5s-3",
+      "label": "Ajax (Section 300 - Section 455)",
+      "partId": "ajax-17r5s",
+      "partTitle": "Ajax",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "ajax-17r5s-4",
+      "label": "Ajax (Section 460 - Section 625)",
+      "partId": "ajax-17r5s",
+      "partTitle": "Ajax",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "ajax-17r5s-5",
+      "label": "Ajax (Section 630 - Section 835)",
+      "partId": "ajax-17r5s",
+      "partTitle": "Ajax",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "ajax-17r5s-6",
+      "label": "Ajax (Section 840 - Section 981)",
+      "partId": "ajax-17r5s",
+      "partTitle": "Ajax",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "ajax-17r5s-7",
+      "label": "Ajax (Section 982 - Section 1140)",
+      "partId": "ajax-17r5s",
+      "partTitle": "Ajax",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "ajax-17r5s-8",
+      "label": "Ajax (Section 1141 - Section 1345)",
+      "partId": "ajax-17r5s",
+      "partTitle": "Ajax",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "ajax-17r5s-9",
+      "label": "Ajax (Section 1346 - Section 1390)",
+      "partId": "ajax-17r5s",
+      "partTitle": "Ajax",
+      "sectionCount": 32,
+      "status": "ready"
+    },
+    {
+      "slug": "electra-wuse-1",
+      "label": "Electra (Section 1 - Section 3.230)",
+      "partId": "electra-wuse",
+      "partTitle": "Electra",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "electra-wuse-2",
+      "label": "Electra (Section 233 - Section 395)",
+      "partId": "electra-wuse",
+      "partTitle": "Electra",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "electra-wuse-3",
+      "label": "Electra (Section 396 - Section 570)",
+      "partId": "electra-wuse",
+      "partTitle": "Electra",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "electra-wuse-4",
+      "label": "Electra (Section 575 - Section 766)",
+      "partId": "electra-wuse",
+      "partTitle": "Electra",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "electra-wuse-5",
+      "label": "Electra (Section 769 - Section 887)",
+      "partId": "electra-wuse",
+      "partTitle": "Electra",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "electra-wuse-6",
+      "label": "Electra (Section 889 - Section 1033)",
+      "partId": "electra-wuse",
+      "partTitle": "Electra",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "electra-wuse-7",
+      "label": "Electra (Section 1034 - Section 1177)",
+      "partId": "electra-wuse",
+      "partTitle": "Electra",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "electra-wuse-8",
+      "label": "Electra (Section 1178 - Section 1.1236)",
+      "partId": "electra-wuse",
+      "partTitle": "Electra",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "electra-wuse-9",
+      "label": "Electra (Section 1.1237 - Section 1360)",
+      "partId": "electra-wuse",
+      "partTitle": "Electra",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "electra-wuse-10",
+      "label": "Electra (Section 1364 - Section 1460)",
+      "partId": "electra-wuse",
+      "partTitle": "Electra",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "electra-wuse-11",
+      "label": "Electra (Section 1464 - Section 1510)",
+      "partId": "electra-wuse",
+      "partTitle": "Electra",
+      "sectionCount": 28,
+      "status": "ready"
+    },
+    {
+      "slug": "oedipus-tyrannus-1bvaud-1",
+      "label": "Oedipus Tyrannus (Section 1 - Section 2.169)",
+      "partId": "oedipus-tyrannus-1bvaud",
+      "partTitle": "Oedipus Tyrannus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "oedipus-tyrannus-1bvaud-2",
+      "label": "Oedipus Tyrannus (Section 2.170 - Section 341)",
+      "partId": "oedipus-tyrannus-1bvaud",
+      "partTitle": "Oedipus Tyrannus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "oedipus-tyrannus-1bvaud-3",
+      "label": "Oedipus Tyrannus (Section 342 - Section 1.473)",
+      "partId": "oedipus-tyrannus-1bvaud",
+      "partTitle": "Oedipus Tyrannus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "oedipus-tyrannus-1bvaud-4",
+      "label": "Oedipus Tyrannus (Section 1.475 - Section 605)",
+      "partId": "oedipus-tyrannus-1bvaud",
+      "partTitle": "Oedipus Tyrannus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "oedipus-tyrannus-1bvaud-5",
+      "label": "Oedipus Tyrannus (Section 610 - Section 715)",
+      "partId": "oedipus-tyrannus-1bvaud",
+      "partTitle": "Oedipus Tyrannus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "oedipus-tyrannus-1bvaud-6",
+      "label": "Oedipus Tyrannus (Section 720 - Section 861)",
+      "partId": "oedipus-tyrannus-1bvaud",
+      "partTitle": "Oedipus Tyrannus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "oedipus-tyrannus-1bvaud-7",
+      "label": "Oedipus Tyrannus (Section 1.863 - Section 991)",
+      "partId": "oedipus-tyrannus-1bvaud",
+      "partTitle": "Oedipus Tyrannus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "oedipus-tyrannus-1bvaud-8",
+      "label": "Oedipus Tyrannus (Section 992 - Section 1064)",
+      "partId": "oedipus-tyrannus-1bvaud",
+      "partTitle": "Oedipus Tyrannus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "oedipus-tyrannus-1bvaud-9",
+      "label": "Oedipus Tyrannus (Section 1065 - Section 1166)",
+      "partId": "oedipus-tyrannus-1bvaud",
+      "partTitle": "Oedipus Tyrannus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "oedipus-tyrannus-1bvaud-10",
+      "label": "Oedipus Tyrannus (Section 1167 - Section 1.1319)",
+      "partId": "oedipus-tyrannus-1bvaud",
+      "partTitle": "Oedipus Tyrannus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "oedipus-tyrannus-1bvaud-11",
+      "label": "Oedipus Tyrannus (Section 1.1320 - Section 1500)",
+      "partId": "oedipus-tyrannus-1bvaud",
+      "partTitle": "Oedipus Tyrannus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "oedipus-tyrannus-1bvaud-12",
+      "label": "Oedipus Tyrannus (Section 1505 - Section trochaic.1530)",
+      "partId": "oedipus-tyrannus-1bvaud",
+      "partTitle": "Oedipus Tyrannus",
+      "sectionCount": 20,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "ajax-17r5s-1",
+      "partTitle": "Ajax",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Αἴας μαστιγοφόρος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg003.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Ajax",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "ajax-17r5s-2",
+      "partTitle": "Ajax",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Αἴας μαστιγοφόρος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg003.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Ajax",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "ajax-17r5s-3",
+      "partTitle": "Ajax",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Αἴας μαστιγοφόρος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg003.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Ajax",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "ajax-17r5s-4",
+      "partTitle": "Ajax",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Αἴας μαστιγοφόρος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg003.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Ajax",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "ajax-17r5s-5",
+      "partTitle": "Ajax",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Αἴας μαστιγοφόρος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg003.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Ajax",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "ajax-17r5s-6",
+      "partTitle": "Ajax",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Αἴας μαστιγοφόρος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg003.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Ajax",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "ajax-17r5s-7",
+      "partTitle": "Ajax",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Αἴας μαστιγοφόρος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg003.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Ajax",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "ajax-17r5s-8",
+      "partTitle": "Ajax",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Αἴας μαστιγοφόρος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg003.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Ajax",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "ajax-17r5s-9",
+      "partTitle": "Ajax",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Αἴας μαστιγοφόρος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg003.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Ajax",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "electra-wuse-1",
+      "partTitle": "Electra",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἠλέκτρα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Electra",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "electra-wuse-2",
+      "partTitle": "Electra",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἠλέκτρα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Electra",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "electra-wuse-3",
+      "partTitle": "Electra",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἠλέκτρα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Electra",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "electra-wuse-4",
+      "partTitle": "Electra",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἠλέκτρα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Electra",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "electra-wuse-5",
+      "partTitle": "Electra",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἠλέκτρα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Electra",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "electra-wuse-6",
+      "partTitle": "Electra",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἠλέκτρα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Electra",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "electra-wuse-7",
+      "partTitle": "Electra",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἠλέκτρα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Electra",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "electra-wuse-8",
+      "partTitle": "Electra",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἠλέκτρα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Electra",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "electra-wuse-9",
+      "partTitle": "Electra",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἠλέκτρα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Electra",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "electra-wuse-10",
+      "partTitle": "Electra",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἠλέκτρα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Electra",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "electra-wuse-11",
+      "partTitle": "Electra",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἠλέκτρα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Electra",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "oedipus-tyrannus-1bvaud-1",
+      "partTitle": "Oedipus Tyrannus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Οἰδίπους Τύραννος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Oedipus Tyrannus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "oedipus-tyrannus-1bvaud-2",
+      "partTitle": "Oedipus Tyrannus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Οἰδίπους Τύραννος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Oedipus Tyrannus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "oedipus-tyrannus-1bvaud-3",
+      "partTitle": "Oedipus Tyrannus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Οἰδίπους Τύραννος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Oedipus Tyrannus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "oedipus-tyrannus-1bvaud-4",
+      "partTitle": "Oedipus Tyrannus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Οἰδίπους Τύραννος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Oedipus Tyrannus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "oedipus-tyrannus-1bvaud-5",
+      "partTitle": "Oedipus Tyrannus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Οἰδίπους Τύραννος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Oedipus Tyrannus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "oedipus-tyrannus-1bvaud-6",
+      "partTitle": "Oedipus Tyrannus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Οἰδίπους Τύραννος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Oedipus Tyrannus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "oedipus-tyrannus-1bvaud-7",
+      "partTitle": "Oedipus Tyrannus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Οἰδίπους Τύραννος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Oedipus Tyrannus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "oedipus-tyrannus-1bvaud-8",
+      "partTitle": "Oedipus Tyrannus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Οἰδίπους Τύραννος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Oedipus Tyrannus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "oedipus-tyrannus-1bvaud-9",
+      "partTitle": "Oedipus Tyrannus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Οἰδίπους Τύραννος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Oedipus Tyrannus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "oedipus-tyrannus-1bvaud-10",
+      "partTitle": "Oedipus Tyrannus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Οἰδίπους Τύραννος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Oedipus Tyrannus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "oedipus-tyrannus-1bvaud-11",
+      "partTitle": "Oedipus Tyrannus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Οἰδίπους Τύραννος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Oedipus Tyrannus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "oedipus-tyrannus-1bvaud-12",
+      "partTitle": "Oedipus Tyrannus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Οἰδίπους Τύραννος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Oedipus Tyrannus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-eng2/"
+      }
+    }
+  ]
+}

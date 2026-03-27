@@ -1,0 +1,919 @@
+{
+  "loebNumber": 495,
+  "sortOrder": 495,
+  "slug": "euripides-bacchae-iphigenia-at-aulis-rhesus-11kdpx",
+  "title": "Bacchae. Iphigenia at Aulis. Rhesus",
+  "volumeLabel": "Bacchae. Iphigenia at Aulis. Rhesus",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Bacchae. Iphigenia at Aulis. Rhesus, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "bacchae-ls8d9p-1",
+  "readyChunkCount": 29,
+  "contents": [
+    {
+      "id": "bacchae-ls8d9p",
+      "title": "Bacchae",
+      "status": "ready",
+      "sectionCount": 543,
+      "chunkSlug": "bacchae-ls8d9p-1",
+      "chunks": [
+        {
+          "slug": "bacchae-ls8d9p-1",
+          "label": "Bacchae (Section 1 - Section 230)",
+          "partId": "bacchae-ls8d9p",
+          "partTitle": "Bacchae",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "bacchae-ls8d9p-2",
+          "label": "Bacchae (Section 235 - Section 465)",
+          "partId": "bacchae-ls8d9p",
+          "partTitle": "Bacchae",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "bacchae-ls8d9p-3",
+          "label": "Bacchae (Section 466 - Section 570)",
+          "partId": "bacchae-ls8d9p",
+          "partTitle": "Bacchae",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "bacchae-ls8d9p-4",
+          "label": "Bacchae (Section 575 - Section 745)",
+          "partId": "bacchae-ls8d9p",
+          "partTitle": "Bacchae",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "bacchae-ls8d9p-5",
+          "label": "Bacchae (Section 750 - Section 848)",
+          "partId": "bacchae-ls8d9p",
+          "partTitle": "Bacchae",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "bacchae-ls8d9p-6",
+          "label": "Bacchae (Section 850 - Section 1.990)",
+          "partId": "bacchae-ls8d9p",
+          "partTitle": "Bacchae",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "bacchae-ls8d9p-7",
+          "label": "Bacchae (Section 1.995 - Section 1.1179b)",
+          "partId": "bacchae-ls8d9p",
+          "partTitle": "Bacchae",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "bacchae-ls8d9p-8",
+          "label": "Bacchae (Section 1.1180 - Section 1281)",
+          "partId": "bacchae-ls8d9p",
+          "partTitle": "Bacchae",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "bacchae-ls8d9p-9",
+          "label": "Bacchae (Section 1282 - Section 1381)",
+          "partId": "bacchae-ls8d9p",
+          "partTitle": "Bacchae",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "bacchae-ls8d9p-10",
+          "label": "Bacchae (Section 1385 - Section 1390)",
+          "partId": "bacchae-ls8d9p",
+          "partTitle": "Bacchae",
+          "sectionCount": 3,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "iphigenia-at-aulis-1nu4gk",
+      "title": "Iphigenia at Aulis",
+      "status": "ready",
+      "sectionCount": 703,
+      "chunkSlug": "iphigenia-at-aulis-1nu4gk-1",
+      "chunks": [
+        {
+          "slug": "iphigenia-at-aulis-1nu4gk-1",
+          "label": "Iphigenia at Aulis (Section 49 - Section 1.165)",
+          "partId": "iphigenia-at-aulis-1nu4gk",
+          "partTitle": "Iphigenia at Aulis",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "iphigenia-at-aulis-1nu4gk-2",
+          "label": "Iphigenia at Aulis (Section 1.170 - Section 329)",
+          "partId": "iphigenia-at-aulis-1nu4gk",
+          "partTitle": "Iphigenia at Aulis",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "iphigenia-at-aulis-1nu4gk-3",
+          "label": "Iphigenia at Aulis (Section 330 - Section 510)",
+          "partId": "iphigenia-at-aulis-1nu4gk",
+          "partTitle": "Iphigenia at Aulis",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "iphigenia-at-aulis-1nu4gk-4",
+          "label": "Iphigenia at Aulis (Section 513 - Section 650)",
+          "partId": "iphigenia-at-aulis-1nu4gk",
+          "partTitle": "Iphigenia at Aulis",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "iphigenia-at-aulis-1nu4gk-5",
+          "label": "Iphigenia at Aulis (Section 651 - Section 723)",
+          "partId": "iphigenia-at-aulis-1nu4gk",
+          "partTitle": "Iphigenia at Aulis",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "iphigenia-at-aulis-1nu4gk-6",
+          "label": "Iphigenia at Aulis (Section 724 - Section 851)",
+          "partId": "iphigenia-at-aulis-1nu4gk",
+          "partTitle": "Iphigenia at Aulis",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "iphigenia-at-aulis-1nu4gk-7",
+          "label": "Iphigenia at Aulis (Section 853 - Section 955)",
+          "partId": "iphigenia-at-aulis-1nu4gk",
+          "partTitle": "Iphigenia at Aulis",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "iphigenia-at-aulis-1nu4gk-8",
+          "label": "Iphigenia at Aulis (Section 959 - Section 1131)",
+          "partId": "iphigenia-at-aulis-1nu4gk",
+          "partTitle": "Iphigenia at Aulis",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "iphigenia-at-aulis-1nu4gk-9",
+          "label": "Iphigenia at Aulis (Section 1132 - Section 1330)",
+          "partId": "iphigenia-at-aulis-1nu4gk",
+          "partTitle": "Iphigenia at Aulis",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "iphigenia-at-aulis-1nu4gk-10",
+          "label": "Iphigenia at Aulis (Section 1333 - Section 1370)",
+          "partId": "iphigenia-at-aulis-1nu4gk",
+          "partTitle": "Iphigenia at Aulis",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "iphigenia-at-aulis-1nu4gk-11",
+          "label": "Iphigenia at Aulis (Section 1374 - Section 1495)",
+          "partId": "iphigenia-at-aulis-1nu4gk",
+          "partTitle": "Iphigenia at Aulis",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "iphigenia-at-aulis-1nu4gk-12",
+          "label": "Iphigenia at Aulis (Section 1498 - Section 1627)",
+          "partId": "iphigenia-at-aulis-1nu4gk",
+          "partTitle": "Iphigenia at Aulis",
+          "sectionCount": 43,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "rhesus-14gqjv",
+      "title": "Rhesus",
+      "status": "ready",
+      "sectionCount": 386,
+      "chunkSlug": "rhesus-14gqjv-1",
+      "chunks": [
+        {
+          "slug": "rhesus-14gqjv-1",
+          "label": "Rhesus (Section 1 - Section 155)",
+          "partId": "rhesus-14gqjv",
+          "partTitle": "Rhesus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "rhesus-14gqjv-2",
+          "label": "Rhesus (Section 158 - Section 280)",
+          "partId": "rhesus-14gqjv",
+          "partTitle": "Rhesus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "rhesus-14gqjv-3",
+          "label": "Rhesus (Section 281 - Section 467)",
+          "partId": "rhesus-14gqjv",
+          "partTitle": "Rhesus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "rhesus-14gqjv-4",
+          "label": "Rhesus (Section 470 - Section 620)",
+          "partId": "rhesus-14gqjv",
+          "partTitle": "Rhesus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "rhesus-14gqjv-5",
+          "label": "Rhesus (Section 622 - Section 1.727)",
+          "partId": "rhesus-14gqjv",
+          "partTitle": "Rhesus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "rhesus-14gqjv-6",
+          "label": "Rhesus (Section 728 - Section 1.906)",
+          "partId": "rhesus-14gqjv",
+          "partTitle": "Rhesus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "rhesus-14gqjv-7",
+          "label": "Rhesus (Section 1.910 - Section 995)",
+          "partId": "rhesus-14gqjv",
+          "partTitle": "Rhesus",
+          "sectionCount": 26,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "bacchae-ls8d9p-1",
+      "label": "Bacchae (Section 1 - Section 230)",
+      "partId": "bacchae-ls8d9p",
+      "partTitle": "Bacchae",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "bacchae-ls8d9p-2",
+      "label": "Bacchae (Section 235 - Section 465)",
+      "partId": "bacchae-ls8d9p",
+      "partTitle": "Bacchae",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "bacchae-ls8d9p-3",
+      "label": "Bacchae (Section 466 - Section 570)",
+      "partId": "bacchae-ls8d9p",
+      "partTitle": "Bacchae",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "bacchae-ls8d9p-4",
+      "label": "Bacchae (Section 575 - Section 745)",
+      "partId": "bacchae-ls8d9p",
+      "partTitle": "Bacchae",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "bacchae-ls8d9p-5",
+      "label": "Bacchae (Section 750 - Section 848)",
+      "partId": "bacchae-ls8d9p",
+      "partTitle": "Bacchae",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "bacchae-ls8d9p-6",
+      "label": "Bacchae (Section 850 - Section 1.990)",
+      "partId": "bacchae-ls8d9p",
+      "partTitle": "Bacchae",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "bacchae-ls8d9p-7",
+      "label": "Bacchae (Section 1.995 - Section 1.1179b)",
+      "partId": "bacchae-ls8d9p",
+      "partTitle": "Bacchae",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "bacchae-ls8d9p-8",
+      "label": "Bacchae (Section 1.1180 - Section 1281)",
+      "partId": "bacchae-ls8d9p",
+      "partTitle": "Bacchae",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "bacchae-ls8d9p-9",
+      "label": "Bacchae (Section 1282 - Section 1381)",
+      "partId": "bacchae-ls8d9p",
+      "partTitle": "Bacchae",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "bacchae-ls8d9p-10",
+      "label": "Bacchae (Section 1385 - Section 1390)",
+      "partId": "bacchae-ls8d9p",
+      "partTitle": "Bacchae",
+      "sectionCount": 3,
+      "status": "ready"
+    },
+    {
+      "slug": "iphigenia-at-aulis-1nu4gk-1",
+      "label": "Iphigenia at Aulis (Section 49 - Section 1.165)",
+      "partId": "iphigenia-at-aulis-1nu4gk",
+      "partTitle": "Iphigenia at Aulis",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "iphigenia-at-aulis-1nu4gk-2",
+      "label": "Iphigenia at Aulis (Section 1.170 - Section 329)",
+      "partId": "iphigenia-at-aulis-1nu4gk",
+      "partTitle": "Iphigenia at Aulis",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "iphigenia-at-aulis-1nu4gk-3",
+      "label": "Iphigenia at Aulis (Section 330 - Section 510)",
+      "partId": "iphigenia-at-aulis-1nu4gk",
+      "partTitle": "Iphigenia at Aulis",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "iphigenia-at-aulis-1nu4gk-4",
+      "label": "Iphigenia at Aulis (Section 513 - Section 650)",
+      "partId": "iphigenia-at-aulis-1nu4gk",
+      "partTitle": "Iphigenia at Aulis",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "iphigenia-at-aulis-1nu4gk-5",
+      "label": "Iphigenia at Aulis (Section 651 - Section 723)",
+      "partId": "iphigenia-at-aulis-1nu4gk",
+      "partTitle": "Iphigenia at Aulis",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "iphigenia-at-aulis-1nu4gk-6",
+      "label": "Iphigenia at Aulis (Section 724 - Section 851)",
+      "partId": "iphigenia-at-aulis-1nu4gk",
+      "partTitle": "Iphigenia at Aulis",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "iphigenia-at-aulis-1nu4gk-7",
+      "label": "Iphigenia at Aulis (Section 853 - Section 955)",
+      "partId": "iphigenia-at-aulis-1nu4gk",
+      "partTitle": "Iphigenia at Aulis",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "iphigenia-at-aulis-1nu4gk-8",
+      "label": "Iphigenia at Aulis (Section 959 - Section 1131)",
+      "partId": "iphigenia-at-aulis-1nu4gk",
+      "partTitle": "Iphigenia at Aulis",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "iphigenia-at-aulis-1nu4gk-9",
+      "label": "Iphigenia at Aulis (Section 1132 - Section 1330)",
+      "partId": "iphigenia-at-aulis-1nu4gk",
+      "partTitle": "Iphigenia at Aulis",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "iphigenia-at-aulis-1nu4gk-10",
+      "label": "Iphigenia at Aulis (Section 1333 - Section 1370)",
+      "partId": "iphigenia-at-aulis-1nu4gk",
+      "partTitle": "Iphigenia at Aulis",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "iphigenia-at-aulis-1nu4gk-11",
+      "label": "Iphigenia at Aulis (Section 1374 - Section 1495)",
+      "partId": "iphigenia-at-aulis-1nu4gk",
+      "partTitle": "Iphigenia at Aulis",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "iphigenia-at-aulis-1nu4gk-12",
+      "label": "Iphigenia at Aulis (Section 1498 - Section 1627)",
+      "partId": "iphigenia-at-aulis-1nu4gk",
+      "partTitle": "Iphigenia at Aulis",
+      "sectionCount": 43,
+      "status": "ready"
+    },
+    {
+      "slug": "rhesus-14gqjv-1",
+      "label": "Rhesus (Section 1 - Section 155)",
+      "partId": "rhesus-14gqjv",
+      "partTitle": "Rhesus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "rhesus-14gqjv-2",
+      "label": "Rhesus (Section 158 - Section 280)",
+      "partId": "rhesus-14gqjv",
+      "partTitle": "Rhesus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "rhesus-14gqjv-3",
+      "label": "Rhesus (Section 281 - Section 467)",
+      "partId": "rhesus-14gqjv",
+      "partTitle": "Rhesus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "rhesus-14gqjv-4",
+      "label": "Rhesus (Section 470 - Section 620)",
+      "partId": "rhesus-14gqjv",
+      "partTitle": "Rhesus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "rhesus-14gqjv-5",
+      "label": "Rhesus (Section 622 - Section 1.727)",
+      "partId": "rhesus-14gqjv",
+      "partTitle": "Rhesus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "rhesus-14gqjv-6",
+      "label": "Rhesus (Section 728 - Section 1.906)",
+      "partId": "rhesus-14gqjv",
+      "partTitle": "Rhesus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "rhesus-14gqjv-7",
+      "label": "Rhesus (Section 1.910 - Section 995)",
+      "partId": "rhesus-14gqjv",
+      "partTitle": "Rhesus",
+      "sectionCount": 26,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "bacchae-ls8d9p-1",
+      "partTitle": "Bacchae",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Βάκχαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Bacchae",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "bacchae-ls8d9p-2",
+      "partTitle": "Bacchae",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Βάκχαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Bacchae",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "bacchae-ls8d9p-3",
+      "partTitle": "Bacchae",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Βάκχαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Bacchae",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "bacchae-ls8d9p-4",
+      "partTitle": "Bacchae",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Βάκχαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Bacchae",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "bacchae-ls8d9p-5",
+      "partTitle": "Bacchae",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Βάκχαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Bacchae",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "bacchae-ls8d9p-6",
+      "partTitle": "Bacchae",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Βάκχαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Bacchae",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "bacchae-ls8d9p-7",
+      "partTitle": "Bacchae",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Βάκχαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Bacchae",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "bacchae-ls8d9p-8",
+      "partTitle": "Bacchae",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Βάκχαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Bacchae",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "bacchae-ls8d9p-9",
+      "partTitle": "Bacchae",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Βάκχαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Bacchae",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "bacchae-ls8d9p-10",
+      "partTitle": "Bacchae",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Βάκχαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "The Bacchae",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg017.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "iphigenia-at-aulis-1nu4gk-1",
+      "partTitle": "Iphigenia at Aulis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἰφιγένεια ἐν Αὐλίδι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Iphigenia at Aulis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "iphigenia-at-aulis-1nu4gk-2",
+      "partTitle": "Iphigenia at Aulis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἰφιγένεια ἐν Αὐλίδι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Iphigenia at Aulis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "iphigenia-at-aulis-1nu4gk-3",
+      "partTitle": "Iphigenia at Aulis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἰφιγένεια ἐν Αὐλίδι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Iphigenia at Aulis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "iphigenia-at-aulis-1nu4gk-4",
+      "partTitle": "Iphigenia at Aulis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἰφιγένεια ἐν Αὐλίδι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Iphigenia at Aulis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "iphigenia-at-aulis-1nu4gk-5",
+      "partTitle": "Iphigenia at Aulis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἰφιγένεια ἐν Αὐλίδι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Iphigenia at Aulis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "iphigenia-at-aulis-1nu4gk-6",
+      "partTitle": "Iphigenia at Aulis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἰφιγένεια ἐν Αὐλίδι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Iphigenia at Aulis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "iphigenia-at-aulis-1nu4gk-7",
+      "partTitle": "Iphigenia at Aulis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἰφιγένεια ἐν Αὐλίδι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Iphigenia at Aulis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "iphigenia-at-aulis-1nu4gk-8",
+      "partTitle": "Iphigenia at Aulis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἰφιγένεια ἐν Αὐλίδι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Iphigenia at Aulis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "iphigenia-at-aulis-1nu4gk-9",
+      "partTitle": "Iphigenia at Aulis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἰφιγένεια ἐν Αὐλίδι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Iphigenia at Aulis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "iphigenia-at-aulis-1nu4gk-10",
+      "partTitle": "Iphigenia at Aulis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἰφιγένεια ἐν Αὐλίδι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Iphigenia at Aulis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "iphigenia-at-aulis-1nu4gk-11",
+      "partTitle": "Iphigenia at Aulis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἰφιγένεια ἐν Αὐλίδι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Iphigenia at Aulis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "iphigenia-at-aulis-1nu4gk-12",
+      "partTitle": "Iphigenia at Aulis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἰφιγένεια ἐν Αὐλίδι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Iphigenia at Aulis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "rhesus-14gqjv-1",
+      "partTitle": "Rhesus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ῥῆσος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg019.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rhesus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg019.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "rhesus-14gqjv-2",
+      "partTitle": "Rhesus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ῥῆσος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg019.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rhesus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg019.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "rhesus-14gqjv-3",
+      "partTitle": "Rhesus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ῥῆσος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg019.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rhesus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg019.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "rhesus-14gqjv-4",
+      "partTitle": "Rhesus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ῥῆσος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg019.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rhesus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg019.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "rhesus-14gqjv-5",
+      "partTitle": "Rhesus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ῥῆσος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg019.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rhesus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg019.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "rhesus-14gqjv-6",
+      "partTitle": "Rhesus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ῥῆσος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg019.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rhesus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg019.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "rhesus-14gqjv-7",
+      "partTitle": "Rhesus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ῥῆσος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg019.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Rhesus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg019.perseus-eng3/"
+      }
+    }
+  ]
+}

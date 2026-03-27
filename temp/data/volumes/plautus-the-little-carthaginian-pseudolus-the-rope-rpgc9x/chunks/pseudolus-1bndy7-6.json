@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-little-carthaginian-pseudolus-the-rope-rpgc9x",
+  "volumeTitle": "The Little Carthaginian. Pseudolus. The Rope",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "pseudolus-1bndy7-6",
+  "label": "Pseudolus (Section 1.3.364 - Section 1.5.453)",
+  "partId": "pseudolus-1bndy7",
+  "partTitle": "Pseudolus",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Pseudolus",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Pseudolus, or The Cheat",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi016.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.3.364",
+      "label": "Section 1.3.364",
+      "chapter": null,
+      "original": "Legirupa .",
+      "translation": "Lawbreaker !"
+    },
+    {
+      "id": "1.3.364b",
+      "label": "Section 1.3.364b",
+      "chapter": null,
+      "original": "Valide .",
+      "translation": "Very much so ."
+    },
+    {
+      "id": "1.3.364c",
+      "label": "Section 1.3.364c",
+      "chapter": null,
+      "original": "Permities adulescentum .",
+      "translation": "Pest of youth !"
+    },
+    {
+      "id": "1.3.364d",
+      "label": "Section 1.3.364d",
+      "chapter": null,
+      "original": "Acerrume .",
+      "translation": "Most severely said ."
+    },
+    {
+      "id": "1.3.365",
+      "label": "Section 1.3.365",
+      "chapter": null,
+      "original": "Fur .",
+      "translation": "Thief !"
+    },
+    {
+      "id": "1.3.365b",
+      "label": "Section 1.3.365b",
+      "chapter": null,
+      "original": "Babae .",
+      "translation": "Oh ! wonderful !"
+    },
+    {
+      "id": "1.3.365c",
+      "label": "Section 1.3.365c",
+      "chapter": null,
+      "original": "Fugitive .",
+      "translation": "Vagabond !"
+    },
+    {
+      "id": "1.3.365d",
+      "label": "Section 1.3.365d",
+      "chapter": null,
+      "original": "Bombax .",
+      "translation": "Pooh ! pooh [*] !"
+    },
+    {
+      "id": "1.3.365e",
+      "label": "Section 1.3.365e",
+      "chapter": null,
+      "original": "Fraus populi .",
+      "translation": "Defrauder of the public !"
+    },
+    {
+      "id": "1.3.365f",
+      "label": "Section 1.3.365f",
+      "chapter": null,
+      "original": "Planissume .",
+      "translation": "Most decidedly so ."
+    },
+    {
+      "id": "1.3.366",
+      "label": "Section 1.3.366",
+      "chapter": null,
+      "original": "Fraudulente .",
+      "translation": "Cheating scoundrel !"
+    },
+    {
+      "id": "1.3.366b",
+      "label": "Section 1.3.366b",
+      "chapter": null,
+      "original": "Impure .",
+      "translation": "Filthy"
+    },
+    {
+      "id": "1.3.366c",
+      "label": "Section 1.3.366c",
+      "chapter": null,
+      "original": "Leno .",
+      "translation": "pander !"
+    },
+    {
+      "id": "1.3.366d",
+      "label": "Section 1.3.366d",
+      "chapter": null,
+      "original": "Caenum .",
+      "translation": "Lump of filth !"
+    },
+    {
+      "id": "1.3.366e",
+      "label": "Section 1.3.366e",
+      "chapter": null,
+      "original": "Cantores probos .",
+      "translation": "A capital chorus ."
+    },
+    {
+      "id": "1.3.367",
+      "label": "Section 1.3.367",
+      "chapter": null,
+      "original": "Verberavisti patrem atque matrem .",
+      "translation": "You beat your father and mother ."
+    },
+    {
+      "id": "1.3.367b",
+      "label": "Section 1.3.367b",
+      "chapter": null,
+      "original": "Atque occidi quoque ,",
+      "translation": "Aye , and killed them , too , rather than find them food ; did I do wrong at all ?"
+    },
+    {
+      "id": "1.3.369",
+      "label": "Section 1.3.369",
+      "chapter": null,
+      "original": "In pertusum ingerimus dicta dolium , operam ludimus .",
+      "translation": "We are pouring our words into a pierced cask [*] : we are losing our pains ."
+    },
+    {
+      "id": "1.3.370",
+      "label": "Section 1.3.370",
+      "chapter": null,
+      "original": "Numquid aliud etiam voltis dicere ?",
+      "translation": "Would you like to call me anything else besides ?"
+    },
+    {
+      "id": "1.3.370b",
+      "label": "Section 1.3.370b",
+      "chapter": null,
+      "original": "Ecquid te pudet ?",
+      "translation": "Is there anything that shames you ?"
+    },
+    {
+      "id": "1.3.371",
+      "label": "Section 1.3.371",
+      "chapter": null,
+      "original": "Ten , amatorem esse inventum inanem quasi cassam nucem ?",
+      "translation": "Yes ; that you have been found to be a lover as empty as a rotten nut . But although you have used towards me expressions many and harsh , unless the Captain shall bring me this day the five minae that he owes me , as this was the last day appointed for the payment of that money ,"
+    },
+    {
+      "id": "1.3.375",
+      "label": "Section 1.3.375",
+      "chapter": null,
+      "original": "si id non adfert , posse opinor facere me officium meum .",
+      "translation": "if he doesn ’ t bring it , I think that I am able to do my duty ."
+    },
+    {
+      "id": "1.3.376",
+      "label": "Section 1.3.376",
+      "chapter": null,
+      "original": "Quid id est ?",
+      "translation": "What is that duty ?"
+    },
+    {
+      "id": "1.3.376b",
+      "label": "Section 1.3.376b",
+      "chapter": null,
+      "original": "Si tu argentum attuleris , cum illo perdidero fidem :",
+      "translation": "If you bring the money , I ’ ll break faith with him ; that ’ s my duty . If it were more worth my while , I would talk further with you . But , without a coin of money , ’ tis in vain that you request me to have pity upon you . Such is my determination ; but do you , from this , consider what you have henceforth to do ?"
+    },
+    {
+      "id": "1.3.380",
+      "label": "Section 1.3.380",
+      "chapter": null,
+      "original": "Iamne abis ?",
+      "translation": "Are you going then ?"
+    },
+    {
+      "id": "1.3.380b",
+      "label": "Section 1.3.380b",
+      "chapter": null,
+      "original": "Negoti nunc sum plenus .—",
+      "translation": "At present I am full of business ."
+    },
+    {
+      "id": "1.3.380c",
+      "label": "Section 1.3.380c",
+      "chapter": null,
+      "original": "Paulo post magis .",
+      "translation": "Before long you ’ ll be more so . That man is my own , unless all Gods and men forsake me . I ’ ll bone him just in the same fashion that a cook does a lamprey [*] . Now , Calidorus , I wish you to give me your attention ."
+    },
+    {
+      "id": "1.3.383b",
+      "label": "Section 1.3.383b",
+      "chapter": null,
+      "original": "Ecquid imperas ?",
+      "translation": "What do you bid me do ?"
+    },
+    {
+      "id": "1.3.384",
+      "label": "Section 1.3.384",
+      "chapter": null,
+      "original": "Hoc ego oppidum admoenire , ut hodie capiatur , volo ;",
+      "translation": "I wish to lay siege to this town , that this day it may be taken ."
+    },
+    {
+      "id": "1.3.385",
+      "label": "Section 1.3.385",
+      "chapter": null,
+      "original": "ad eam rem usust homine astuto , docto , cauto et callido ,",
+      "translation": "For that purpose , I have need of an artful , clever , knowing , and crafty fellow , who may despatch out of hand what he is ordered , not one to go to sleep upon his watch ."
+    },
+    {
+      "id": "1.3.387",
+      "label": "Section 1.3.387",
+      "chapter": null,
+      "original": "Cedo mihi , quid es facturus ?",
+      "translation": "Tell me , then , what you are going to do ?"
+    },
+    {
+      "id": "1.3.387b",
+      "label": "Section 1.3.387b",
+      "chapter": null,
+      "original": "Temperi ego faxo scies .",
+      "translation": "In good time I ’ ll let you know . I don ’ t care for it to be repeated twice ; stories are made too long that way ."
+    },
+    {
+      "id": "1.3.389",
+      "label": "Section 1.3.389",
+      "chapter": null,
+      "original": "Optumum atque aequissimum oras .",
+      "translation": "You plead what ’ s very fair and very just ."
+    },
+    {
+      "id": "1.3.389b",
+      "label": "Section 1.3.389b",
+      "chapter": null,
+      "original": "Propera , adduc hominem cito .",
+      "translation": "Make haste ; bring the fellow hither quickly ."
+    },
+    {
+      "id": "1.3.390",
+      "label": "Section 1.3.390",
+      "chapter": null,
+      "original": "Pauci ex multis sunt amici , hómini qui certi sient .",
+      "translation": "Out of many , there are but few friends that are to be depended upon by a person ."
+    },
+    {
+      "id": "1.3.391",
+      "label": "Section 1.3.391",
+      "chapter": null,
+      "original": "Ego scio istuc . ergo utrumque , tibi nunc dilectum para",
+      "translation": "I know that ; therefore , get for yourself now a choice of both , and seek out of these many one that can be depended upon ."
+    },
+    {
+      "id": "1.3.393",
+      "label": "Section 1.3.393",
+      "chapter": null,
+      "original": "Iam hic faxo aderit .—",
+      "translation": "I ’ ll have him here this instant ."
+    },
+    {
+      "id": "1.3.393b",
+      "label": "Section 1.3.393b",
+      "chapter": null,
+      "original": "Potin ut abeas ? tibi moram dictis creas .",
+      "translation": "Can ’ t you be off then ? You create delay for yourself by your talking ."
+    },
+    {
+      "id": "1.4.394",
+      "label": "Section 1.4.394",
+      "chapter": null,
+      "original": "postquam illic hinc abiit , tu astas solus , Pseudole .",
+      "translation": "Since he has gone hence , you are now standing alone , Pseudolus ."
+    },
+    {
+      "id": "1.4.395",
+      "label": "Section 1.4.395",
+      "chapter": null,
+      "original": "quid nunc acturu ’ (s e) s , postquam erili filio",
+      "translation": "What are you to do now , after you have so largely promised costly delights to your master ’ s son by your speeches ? You , for whom not even one drop of sure counsel is ready , nor yet of silver * * * * nor have you where first you must begin your undertaking ,"
+    },
+    {
+      "id": "1.4.400",
+      "label": "Section 1.4.400",
+      "chapter": null,
+      "original": "neque ad détexundam telam certos terminos .",
+      "translation": "nor yet fixed limits for finishing off your web . But just as the poet , when he has taken up his tablets , seeks what nowhere in the world exists , and still finds it , and makes that like truth which really is a fiction ; now I ’ ll become a poet ; twenty minae ,"
+    },
+    {
+      "id": "1.4.405",
+      "label": "Section 1.4.405",
+      "chapter": null,
+      "original": "quae nusquam nunc sunt gentium , inveniam tamen .",
+      "translation": "which no-where in the world are now existing , still will I find . And some time since had I said that I would find them for him , and I had attempted to throw a net over our old gentleman ; however , by what means I know not , he perceived it beforehand . But my voice and my talking must be stopped ;"
+    },
+    {
+      "id": "1.4.410",
+      "label": "Section 1.4.410",
+      "chapter": null,
+      "original": "erum eccum video húc Simonem una simul",
+      "translation": "for , see ! I perceive my master , Simo , coming this way , together with his neighbour , Callipho . Out of this old sepulchre will I dig twenty minae this day , to give them to my master ’ s son . Now I ’ ll step aside here , that I may pick up their conversation ."
+    },
+    {
+      "id": "1.5.415",
+      "label": "Section 1.5.415",
+      "chapter": null,
+      "original": "Si de damnosis aut si dé amatoribus",
+      "translation": "If now a Dictator [*] were to be appointed at Athens of Attica out of the spendthrifts or out of the gallants , I do think that no one would surpass my son . For now the only talk of all throughout the city is to the effect that he is trying to set his mistress free ,"
+    },
+    {
+      "id": "1.5.420",
+      "label": "Section 1.5.420",
+      "chapter": null,
+      "original": "argentum ad eam rem . hoc alii mihi renuntiant ;",
+      "translation": "and is seeking after money for that purpose . Some people bring me word of this ; and , in fact , I had long ago perceived it , and had suspected it , but I dissembled on it ."
+    },
+    {
+      "id": "1.5.422b",
+      "label": "Section 1.5.422b",
+      "chapter": null,
+      "original": "Iám illi fetet filius .",
+      "translation": "Already is his son suspected by him ; this affair is nipt in the bud , this business is at a stand-still ."
+    },
+    {
+      "id": "1.5.424",
+      "label": "Section 1.5.424",
+      "chapter": null,
+      "original": "quo in commeatum volui árgentarium",
+      "translation": "The way is now entirely blocked up against me , by which I had intended to go a-foraging for the money ."
+    },
+    {
+      "id": "1.5.426",
+      "label": "Section 1.5.426",
+      "chapter": null,
+      "original": "praesensit : nihil est praedae praedatoribus .",
+      "translation": "He has perceived it beforehand . There ’ s no booty for the marauders ."
+    },
+    {
+      "id": "1.5.427",
+      "label": "Section 1.5.427",
+      "chapter": null,
+      "original": "Homines qui gestant quique auscultant crimina ,",
+      "translation": "Those men who carry about and who listen to accusations , should all be hanged , if so it could be at my decision , the carriers by their tongues , the listeners by their ears ."
+    },
+    {
+      "id": "1.5.430",
+      "label": "Section 1.5.430",
+      "chapter": null,
+      "original": "nam istaec quae tibi renuntiantur , filium",
+      "translation": "For these things that are told you , that your son in his amour is desirous to chouse you out of money , the chance is that these things so told you are all lies . But sappose they are true , as habits are , now-a-days especially , what has he done so surprising ? What new thing , if a young man"
+    },
+    {
+      "id": "1.5.435",
+      "label": "Section 1.5.435",
+      "chapter": null,
+      "original": "si amat , si amicam liberat ?",
+      "translation": "does love , and if he does liberate his mistress ?"
+    },
+    {
+      "id": "1.5.435b",
+      "label": "Section 1.5.435b",
+      "chapter": null,
+      "original": "Lepidum senem .",
+      "translation": "A delightful old gentleman ."
+    },
+    {
+      "id": "1.5.436",
+      "label": "Section 1.5.436",
+      "chapter": null,
+      "original": "Vetus nólo faciat .",
+      "translation": "I don ’ t wish him to follow the old-fashioned habits [*] ."
+    },
+    {
+      "id": "1.5.436b",
+      "label": "Section 1.5.436b",
+      "chapter": null,
+      "original": "At enim nequiquam nevis ;",
+      "translation": "But still , in vain do you object ; or you yourself shouldn ’ t have done the like in your youthful days . It befits the father to be immaculate , who wishes his son to be more immaculate than he has been himself ."
+    },
+    {
+      "id": "1.5.440",
+      "label": "Section 1.5.440",
+      "chapter": null,
+      "original": "nam tu quod damni et quod fecisti flagiti",
+      "translation": "But the mischief and the profligacy you were guilty of might have been distributed throughout the whole population , a share for each man . Are you surprised at it , if the son does take after the father ?"
+    },
+    {
+      "id": "1.5.443",
+      "label": "Section 1.5.443",
+      "chapter": null,
+      "original": "ὦ Ζεῦ , quam pauci éstis homines commodi . em ,",
+      "translation": "O Zeus , Zeus [*] ! how few in number are you considerate men . See , that ’ s being a father to a son , just as is proper ."
+    },
+    {
+      "id": "1.5.445",
+      "label": "Section 1.5.445",
+      "chapter": null,
+      "original": "Quis hic lóquitur ? meus est hic quidem sérvos Pseudolus .",
+      "translation": "Who is it that ’ s speaking here ? ( Looking round .) Why , surely ’ tis my servant Pseudolus . ’ Tis he corrupts my son , the wicked scoundrel ; he is his leader , he his tutor . I long for him to be put to extreme torture ."
+    },
+    {
+      "id": "1.5.448b",
+      "label": "Section 1.5.448b",
+      "chapter": null,
+      "original": "Iam istaec insipientiast ,",
+      "translation": "This is folly now , thus to keep your anger in readiness . How much better were it"
+    },
+    {
+      "id": "1.5.450",
+      "label": "Section 1.5.450",
+      "chapter": null,
+      "original": "adire blandis verbis atque exquaerere ,",
+      "translation": "to accost him with kind words and to make all enquiries , whether these things are true or not that they tell you of ?"
+    },
+    {
+      "id": "1.5.453",
+      "label": "Section 1.5.453",
+      "chapter": null,
+      "original": "Tibi auscultabo .",
+      "translation": "I ’ ll take your advice ."
+    }
+  ],
+  "prevChunkSlug": "pseudolus-1bndy7-5",
+  "nextChunkSlug": "pseudolus-1bndy7-7"
+}

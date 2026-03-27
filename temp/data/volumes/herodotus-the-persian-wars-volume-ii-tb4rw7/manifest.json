@@ -1,0 +1,61 @@
+{
+  "loebNumber": 118,
+  "sortOrder": 118,
+  "slug": "herodotus-the-persian-wars-volume-ii-tb4rw7",
+  "title": "The Persian Wars, Volume II",
+  "volumeLabel": "The Persian Wars, Volume II",
+  "authorDisplay": "Herodotus",
+  "authors": [
+    "Herodotus"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for The Persian Wars, Volume II. The Persian Wars, Volume II is partitioned from Histories to approximate the Loeb volume boundaries with local Scaife assets.",
+  "status": "ready",
+  "defaultChunkSlug": "the-persian-wars-volume-ii-1em66s",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "the-persian-wars-volume-ii-1em66s",
+      "title": "The Persian Wars, Volume II",
+      "status": "ready",
+      "sectionCount": 6,
+      "chunkSlug": "the-persian-wars-volume-ii-1em66s",
+      "chunks": [
+        {
+          "slug": "the-persian-wars-volume-ii-1em66s",
+          "label": "The Persian Wars, Volume II",
+          "partId": "the-persian-wars-volume-ii-1em66s",
+          "partTitle": "The Persian Wars, Volume II",
+          "sectionCount": 6,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "the-persian-wars-volume-ii-1em66s",
+      "label": "The Persian Wars, Volume II",
+      "partId": "the-persian-wars-volume-ii-1em66s",
+      "partTitle": "The Persian Wars, Volume II",
+      "sectionCount": 6,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "the-persian-wars-volume-ii-1em66s",
+      "partTitle": "The Persian Wars, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἱστορίαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0016.tlg001.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Histories",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0016.tlg001.perseus-eng2/"
+      }
+    }
+  ]
+}

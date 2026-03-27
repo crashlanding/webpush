@@ -1,0 +1,91 @@
+{
+  "loebNumber": 95,
+  "sortOrder": 95,
+  "slug": "martial-epigrams-volume-ii-dwt8jm",
+  "title": "Epigrams, Volume II",
+  "volumeLabel": "Epigrams, Volume II",
+  "authorDisplay": "Martial",
+  "authors": [
+    "Martial"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for Epigrams, Volume II. Epigrams, Volume II currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "epigrams-volume-ii-1xich1-1",
+  "readyChunkCount": 2,
+  "contents": [
+    {
+      "id": "epigrams-volume-ii-1xich1",
+      "title": "Epigrams, Volume II",
+      "status": "ready",
+      "sectionCount": 109,
+      "chunkSlug": "epigrams-volume-ii-1xich1-1",
+      "chunks": [
+        {
+          "slug": "epigrams-volume-ii-1xich1-1",
+          "label": "Epigrams, Volume II (Section 1.1 - Section 12.3)",
+          "partId": "epigrams-volume-ii-1xich1",
+          "partTitle": "Epigrams, Volume II",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "epigrams-volume-ii-1xich1-2",
+          "label": "Epigrams, Volume II (Section 12.4 - Section 17.4)",
+          "partId": "epigrams-volume-ii-1xich1",
+          "partTitle": "Epigrams, Volume II",
+          "sectionCount": 49,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "epigrams-volume-ii-1xich1-1",
+      "label": "Epigrams, Volume II (Section 1.1 - Section 12.3)",
+      "partId": "epigrams-volume-ii-1xich1",
+      "partTitle": "Epigrams, Volume II",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "epigrams-volume-ii-1xich1-2",
+      "label": "Epigrams, Volume II (Section 12.4 - Section 17.4)",
+      "partId": "epigrams-volume-ii-1xich1",
+      "partTitle": "Epigrams, Volume II",
+      "sectionCount": 49,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "epigrams-volume-ii-1xich1-1",
+      "partTitle": "Epigrams, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὁμήρου ἐπιγράμματα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0012.tlg003.perseus-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Epigrams",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0012.tlg003.perseus-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "epigrams-volume-ii-1xich1-2",
+      "partTitle": "Epigrams, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὁμήρου ἐπιγράμματα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0012.tlg003.perseus-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Epigrams",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0012.tlg003.perseus-eng1/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "volumeSlug": "xenophon-scripta-minora-y25osv",
+  "volumeTitle": "Scripta Minora",
+  "authorDisplay": "Xenophon",
+  "authors": [
+    "Xenophon"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "on-the-art-of-horsemanship-18div1",
+  "label": "On the Art of Horsemanship",
+  "partId": "scripta-minora-11ri19",
+  "partTitle": "Scripta Minora",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "On the Cavalry Commander",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg013.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "On the Cavalry Commander",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg013.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1",
+      "label": "Section 1.1",
+      "chapter": null,
+      "original": "ἐπειδὴ διὰ τὸ συμβῆναι ἡμῖν πολὺν χρόνον ἱππεύειν οἰόμεθα ἔμπειροι ἱππικῆς γεγενῆσθαι , βουλόμεθα καὶ τοῖς νεωτέροις τῶν φίλων δηλῶσαι ᾗ ἂν νομίζομεν αὐτοὺς ὀρθότατα ἵπποις προσφέρεσθαι . συνέγραψε μὲν οὖν καὶ Σίμων περὶ ἱππικῆς , ὃς καὶ τὸν κατὰ τὸ Ἐλευσίνιον Ἀθήνησιν ἵππον χαλκοῦν ἀνέθηκε καὶ ἐν τῷ βάθρῳ τὰ ἑαυτοῦ ἔργα ἐξετύπωσεν · ἡμεῖς γε μέντοι ὅσοις συνετύχομεν ταὐτὰ γνόντες ἐκείνῳ , οὐκ ἐξαλείφομεν ἐκ τῶν ἡμετέρων , ἀλλὰ πολὺ ἥδιον παραδώσομεν αὐτὰ τοῖς φίλοις , νομίζοντες ἀξιοπιστότερα εἶναι ὅτι κἀκεῖνος κατὰ ταὐτὰ ἡμῖν ἔγνω ἱππικὸς ὤν · καὶ ὅσα δὴ παρέλιπεν ἡμεῖς πειρασόμεθα δηλῶσαι .\nπρῶτον δὲ γράψομεν ὡς ἄν τις ἥκιστα ἐξαπατῷτο ἐν ἱππωνίᾳ . τοῦ μὲν τοίνυν ἔτι ἀδαμάστου πώλου δῆλον ὅτι τὸ σῶμα δεῖ δοκιμάζειν · τῆς γὰρ ψυχῆς οὐ πάνυ σαφῆ τεκμήρια παρέχεται ὁ μήπω ἀναβαινόμενος .",
+      "translation": "Inasmuch as we have had a long experience of cavalry , and consequently claim familiarity with the art of horsemanship , we wish to explain to our younger friends what we believe to be the correct method of dealing with horses . True there is already a treatise on horsemanship by Simon , [*] who also dedicated the bronze horse in the Eleusinium at Athens and recorded his own feats in relief on the pedestal . Nevertheless , we shall not erase from our work the conclusions that happen to coincide with his , but shall offer them to our friends with far greater pleasure , in the belief that they are more worthy of acceptance because so expert a horseman held the same opinions as we ourselves : moreover , we shall try to explain all the points that he has omitted .\nFirst we will give directions how best to avoid being cheated in buying a horse .\nFor judging an unbroken colt , the only criterion , obviously , is the body , for no clear signs of temper are to be detected in an animal that has not yet had a man on his back ."
+    },
+    {
+      "id": "1.2",
+      "label": "Section 1.2",
+      "chapter": null,
+      "original": "τοῦ γε μὴν σώματος πρῶτόν φαμεν χρῆναι τοὺς πόδας σκοπεῖν . ὥσπερ γὰρ οἰκίας οὐδὲν ὄφελος ἂν εἴη , εἰ τὰ ἄνω πάνυ καλὰ ἔχοι μὴ ὑποκειμένων οἵων δεῖ θεμελίων , οὕτω καὶ ἵππου πολεμιστηρίου οὐδὲν ἂν ὄφελος εἴη , οὐδʼ εἰ τἆλλα πάντα ἀγαθὰ ἔχοι , κακόπους δʼ εἴη · οὐδενὶ γὰρ ἂν δύναιτο τῶν ἀγαθῶν χρῆσθαι .",
+      "translation": "In examining his body , we say you must first look at his feet . For , just as a house is bound to be worthless less if the foundations are unsound , however well the upper parts may look , so a war-horse will be quite useless , even though all his other points are good , if he has bad feet ; for in that case he will be unable to use any of his good points ."
+    },
+    {
+      "id": "2.1",
+      "label": "Section 2.1",
+      "chapter": null,
+      "original": "ὅπως γε μὴν δεῖ πωλεύειν οὐ δοκεῖ ἡμῖν γραπτέον εἶναι · τάττονται μὲν γὰρ δὴ ἐν ταῖς πόλεσιν ἱππεύειν οἱ τοῖς χρήμασί τε ἱκανώτατοι καὶ τῆς πόλεως οὐκ ἐλάχιστον μετέχοντες · πολὺ δὲ κρεῖττον τοῦ πωλοδαμνεῖν εἶναι τῷ μὲν νέῳ εὐεξίας τε ἐπιμελεῖσθαι τῆς ἑαυτοῦ καὶ ἱππικὴν ἐν ἢ ἐπισταμένῳ ἤδη ἱππάζεσθαι μελετᾶν , τῷ δὲ πρεσβυτέρῳ τοῦ τε οἴκου καὶ τῶν φίλων καὶ τῶν πολιτικῶν καὶ τῶν πολεμικῶν μᾶλλον ἢ ἀμφὶ πώλευσιν διατρίβειν .",
+      "translation": "We do not think it necessary to give directions [*] for breaking a colt . For in our states the cavalry are recruited from those who have ample means and take a considerable part in the government . And it is far better for a young man to get himself into condition and when he understands the art of horsemanship to practise riding than to be a horse-breaker ; and an older man had far better devote himself to his estate and his friends and affairs of state and of war than spend his time in horse-breaking ."
+    },
+    {
+      "id": "2.2",
+      "label": "Section 2.2",
+      "chapter": null,
+      "original": "ὁ μὲν δὴ ὥσπερ ἐγὼ γιγνώσκων περὶ πωλείας δῆλον ὅτι ἐκδώσει τὸν πῶλον . χρὴ μέντοι , ὥσπερ τὸν παῖδα ὅταν ἐπὶ τέχνην ἐκδῷ , συγγραψάμενον ἃ δεήσει ἐπιστάμενον ἀποδοῦναι οὕτως ἐκδιδόναι . ταῦτα γὰρ ὑπομνήματα ἔσται τῷ πωλοδάμνῃ ὧν δεῖ ἐπιμεληθῆναι , εἰ μέλλει τὸν μισθὸν ἀπολήψεσθαι .",
+      "translation": "So he who shares my opinion about horse-breaking will , of course , send his colt out . Still he should put in writing what the horse is to know when he is returned , just as when he apprentices his son to a profession . For these articles will serve as notes to remind the horse-breaker of what he must attend to if he is to get his money ."
+    },
+    {
+      "id": "3.1",
+      "label": "Section 3.1",
+      "chapter": null,
+      "original": "ὅταν γε μὴν ἱππαζόμενον ὠνῆταί τις , ὑπομνήματα γράψομεν ἃ δεῖ καταμανθάνειν τὸν μέλλοντα μὴ ἐξαπατᾶσθαι ἐν ἱππωνίᾳ . πρῶτον μὲν τοίνυν μὴ λαθέτω αὐτὸν τίς ἡ ἡλικία · ὁ γὰρ μηκέτι ἔχων γνώμονας οὔτʼ ἐλπίσιν εὐφραίνει οὔτε ὁμοίως εὐαπάλλακτος γίγνεται .",
+      "translation": "In case the intention is to buy a horse already ridden , we will write out some notes that the buyer must thoroughly master if he is not to be cheated over his purchase .\nFirst , then , he must not fail to ascertain the age . A horse that has shed all his milk teeth does not afford much ground for pleasing expectations , and is not so easily got rid of . [*]"
+    },
+    {
+      "id": "3.2",
+      "label": "Section 3.2",
+      "chapter": null,
+      "original": "ὁπότε δὲ ἡ νεότης σαφής , δεῖ αὖ μὴ λαθεῖν πῶς μὲν εἰς τὸ στόμα δέχεται τὸν χαλινόν , πῶς δὲ περὶ τὰ ὦτα τὴν κορυφαίαν . ταῦτα δʼ ἥκιστʼ ἂν λανθάνοι , εἰ ὁρῶντος μὲν τοῦ ὠνουμένου ἐμβάλλοιτο ὁ χαλινός , ὁρῶντος δʼ ἐξαιροῖτο .",
+      "translation": "If he is clearly a youngster , one must notice further how he receives the bit in his mouth and the headstall about his ears . This may best be noticed if the buyer sees the bridle put on and taken off again ."
+    },
+    {
+      "id": "4.1",
+      "label": "Section 4.1",
+      "chapter": null,
+      "original": "ὅταν γε μὴν ἀγασθεὶς ἵππον πρίηταί τις καὶ οἴκαδε ἀγάγηται , καλὸν μὲν ἐν τοιούτῳ τῆς οἰκίας τὸν σταθμὸν εἶναι ὅπου πλειστάκις ὁ δεσπότης ὄψεται τὸν ἵππον · ἀγαθὸν δὲ οὕτω κατεσκευάσθαι τὸν ἱππῶνα , ὥστε μηδὲν μᾶλλον οἷόν τʼ εἶναι τὸν τοῦ ἵππου σῖτον κλαπῆναι ἐκ τῆς φάτνης ἢ τὸν τοῦ δεσπότου ἐκ τοῦ ταμιείου . ὁ δὲ τούτου ἀμελῶν ἐμοὶ μὲν ἑαυτοῦ δοκεῖ ἀμελεῖν · δῆλον γὰρ ὅτι ἐν τοῖς κινδύνοις τὸ αὑτοῦ σῶμα τῷ ἵππῳ ὁ δεσπότης παρακατατίθεται .",
+      "translation": "When a man has found a horse to his mind , bought him and taken him home , it is well to have the stable so situated with respect to the house that his master can see him very often ; and it is a good plan to have the stall so contrived that it will be as difficult to steal the horse ’ s fodderout of the manger as the master ’ s victuals from the larder . He who neglects this seems to me to neglect himself ; for it is plain that in danger the master entrusts his life to his horse ."
+    },
+    {
+      "id": "4.2",
+      "label": "Section 4.2",
+      "chapter": null,
+      "original": "ἔστι δὲ οὐ μόνον τοῦ μὴ κλέπτεσθαι ἕνεκα τὸν σῖτον ἀγαθὸς ὁ ἐχυρὸς ἱππών , ἀλλʼ ὅτι καὶ ὅταν μὴ ἐκκομίζῃ τὸν σῖτον ὁ ἵππος φανερὸν γίγνεται . τούτου δʼ ἄν τις αἰσθανόμενος γιγνώσκοι ὅτι ἢ τὸ σῶμα ὑπεραιμοῦν δεῖται θεραπείας ἢ κόπου ἐνόντος δεῖται ἀναπαύσεως , ἢ κριθίασις ἢ ἄλλη τις ἀρρωστία ὑποδύεται . ἔστι δὲ ὥσπερ ἀνθρώπῳ , οὕτω καὶ ἵππῳ ἀρχόμενα πάντα εὐιατότερα ἢ ἐπειδὰν ἐνσκιρωθῇ τε καὶ ἐξαμαρτηθῇ τὰ νοσήματα .",
+      "translation": "But a well-secured stall is not only good for preventing theft of the fodder but also because one can see when the horse does not spill his food . [*] And on noticing this one may be sure that either his body is overfull of blood and needs treatment or the horse is overworked and wants rest , or that laminitis [*] or some other ailment is coming on . It is the same with horses as with men : all distempers in the early stage are more easily cured than when they have become chronic and have been wrongly treated ."
+    },
+    {
+      "id": "5.1",
+      "label": "Section 5.1",
+      "chapter": null,
+      "original": "ἱππικοῦ δὲ ἀνδρὸς ἡμῖν δοκεῖ εἶναι καὶ τὸν ἱπποκόμον πεπαιδευκέναι ἃ δεῖ περὶ τὸν ἵππον πράττειν . πρῶτον μὲν τοίνυν τῆς ἐπιφατνιδίας φορβειᾶς ἐπίστασθαι αὐτὸν δεῖ μήποτε τὸ ἅμμα ποιεῖσθαι ἔνθαπερ ἡ κορυφαία περιτίθεται . πολλάκις γὰρ κνῶν ὁ ἵππος ἐπὶ τῇ φάτνῃ τὴν κεφαλήν , εἰ μὴ ἀσινὴς ἡ φορβειὰ περὶ τὰ ὦτα ἔσται , πολλάκις ἂν ἕλκη ποιοίη . ἑλκουμένων γε μὴν τούτων ἀνάγκη τὸν ἵππον καὶ περὶ τὸ χαλινοῦσθαι καὶ περὶ τὸ ψήχεσθαι δυσκολώτερον εἶναι .",
+      "translation": "It is a mark of a good horseman , in our opinion , to see that his groom , like himself , is instructed in the way in which he should treat the horse .\nFirst then the man ought to know that he should never make the knot in the halter at the point where the headstall is put on . For if the halter is not easy about the ears , the horse will often rub his head against the manger and may often get sores in consequence . Now if there are sore places thereabouts the horse is bound to be restive both when he is bridled and when he is rubbed down ."
+    },
+    {
+      "id": "5.2",
+      "label": "Section 5.2",
+      "chapter": null,
+      "original": "ἀγαθὸν δὲ καὶ τὸ τετάχθαι τῷ ἱπποκόμῳ καθʼ ἡμέραν τὴν κόπρον καὶ τὰ ὑποστρώματα τοῦ ἵππου ἐκφέρειν εἰς ἓν χωρίον . τοῦτο γὰρ ποιῶν αὐτός τʼ ἂν ῥᾷστα ἀπαλλάττοι καὶ ἅμα τὸν ἵππον ὠφελοίη .",
+      "translation": "It is well also for the groom to have orders to remove the dung and litter daily to one and the same place . For by doing this he will get rid of it most easily and at the same time relieve the horse ."
+    },
+    {
+      "id": "6.1",
+      "label": "Section 6.1",
+      "chapter": null,
+      "original": "δηλώσομεν δὲ καὶ τοῦτο , ὡς ἂν ἀβλαβέστατα μέν τις ἑαυτῷ , τῷ δʼ ἵππῳ ὠφελιμώτατα τὰ πρόσθεν ψήχοι . ἢν μὲν γὰρ ἐς τὸ αὐτὸ βλέπων τῷ ἵππῳ καθαίρῃ , κίνδυνος καὶ τῷ γόνατι καὶ τῇ ὁπλῇ εἰς τὸ πρόσωπον πληγῆναι ·",
+      "translation": "We will now show how one may rub down a horse with least danger to oneself and most advantage to the horse . If in cleaning him [*] the man faces in the same direction as the horse , he runs the risk of getting a blow in the face from his knee and his hoof ."
+    },
+    {
+      "id": "6.2",
+      "label": "Section 6.2",
+      "chapter": null,
+      "original": "ἢν δὲ ἀντία τῷ ἵππῳ ὁρῶν καὶ ἔξω τοῦ σκέλους , ὅταν καθαίρῃ , κατὰ τὴν ὠμοπλάτην καθίζων ἀποτρίβῃ , οὕτω πάθοι μὲν ἂν οὐδέν , δύναιτο δʼ ἂν καὶ τὴν χελιδόνα τοῦ ἵππου θεραπεύειν ἀναπτύσσων τὴν ὁπλήν . ὡς δʼ αὔτως καὶ τὰ ὄπισθεν σκέλη καθαιρέτω .",
+      "translation": "But if he faces in the opposite direction to the horse and sits by the shoulder out of reach of his leg when he cleans him , and rubs him down so , then he will come to no harm , and can also attend to the horse ’ s frog by lifting up the hoof . [*] Let him do exactly the same in cleaning the hind-legs ."
+    },
+    {
+      "id": "7.1",
+      "label": "Section 7.1",
+      "chapter": null,
+      "original": "ὅταν γε μὴν παραδέξηται τὸν ἵππον ὡς ἀναβησόμενος , νῦν αὖ γράψομεν ὅσα ποιῶν ὁ ἱππεὺς καὶ ἑαυτῷ καὶ τῷ ἵππῳ ὠφελιμώτατος ἂν ἐν τῇ ἱππικῇ εἴη . πρῶτον μὲν τοίνυν τὸν ῥυταγωγέα χρὴ ἐκ τῆς ὑποχαλινιδίας ἢ ἐκ τοῦ ψαλίου ἠρτημένον εὐτρεπῆ εἰς τὴν ἀριστερὰν χεῖρα λαβεῖν , καὶ οὕτω χαλαρὸν ὡς μήτʼ ἂν ἀνιὼν τῶν τριχῶν παρὰ τὰ ὦτα λαβόμενος μέλλῃ ἀναβήσεσθαι μήτʼ ἂν ἀπὸ δόρατος ἀναπηδᾷ , σπᾶν τὸν ἵππον . τῇ δεξιᾷ δὲ τὰς ἡνίας παρὰ τὴν ἀκρωμίαν λαμβανέτω ὁμοῦ τῇ χαίτῃ , ὅπως μηδὲ καθʼ ἕνα τρόπον ἀναβαίνων σπάσῃ τῷ χαλινῷ τὸ στόμα τοῦ ἵππου .",
+      "translation": "We will now describe what the rider should do when he has received his horse and is going to mount , if he is to make the best of himself and his horse in riding .\nFirst , then , he must hold the lead-rope fastened to the chin-strap or the nose-band [*] ready in the left hand , and so loose as not to jerk the horse whether he means to mount by holding on to the mane near the ears or to spring up with the help of the spear . With his right hand let him take hold of the reins by the withers along with the mane , so that he may not jerk the horse ’ s mouth with the bit in any way as he mounts ."
+    },
+    {
+      "id": "7.2",
+      "label": "Section 7.2",
+      "chapter": null,
+      "original": "ἐπειδὰν δὲ ἀνακουφίσῃ ἑαυτὸν εἰς τὴν ἀνάβασιν , τῇ μὲν ἀριστερᾷ ἀνιμάτω τὸ σῶμα , τὴν δὲ δεξιὰν ἐκτείνων συνεπαιρέτω ἑαυτόν ( οὕτω γὰρ ἀναβαίνων οὐδὲ ὄπισθεν αἰσχρὰν θέαν παρέξει συγκεκαμμένῳ τῷ σκέλει ), καὶ μηδὲ τὸ γόνυ ἐπὶ τὴν ῥάχιν τοῦ τιθέτω ἵππου , ἀλλʼ ὑπερβησάτω ἐπὶ τὰς δεξιὰς πλευρὰς τὴν κνήμην . ὅταν δὲ περιενέγκῃ τὸν πόδα , τότε καὶ τὼ γλουτὼ καθέτω ἐπὶ τὸν ἵππον .",
+      "translation": "When he has made his spring in order to mount , he should raise his body with his left hand , while at the same time he helps himself up by stretching out his right ; for by mounting in this way he will not present an awkward appearance even from behind by bending his leg . Neither must he touch the horse ’ s back with his knee , but throw the leg right over the off side . Having brought the foot over , he must then let his buttocks down on the horse ’ s back ."
+    },
+    {
+      "id": "8.1",
+      "label": "Section 8.1",
+      "chapter": null,
+      "original": "ἐπείπερ δὲ ἔστιν ὅπου τρέχειν δεήσει τὸν ἵππον καὶ πρανῆ καὶ ὄρθια καὶ πλάγια , ἔστι δʼ ὅπου διαπηδᾶν , ἔστι δʼ ὅπου καὶ ἐκπηδᾶν , ἔνθα δὲ καθάλλεσθαι , καὶ ταῦτα πάντα διδάσκειν τε δεῖ καὶ μελετᾶν καὶ αὑτὸν καὶ τὸν ἵππον . οὕτω γὰρ ἂν σωτήριοί τε εἶεν ἀλλήλοις καὶ καθόλου χρησιμώτεροι ἂν δοκοῖεν εἶναι .",
+      "translation": "As the horse will frequently have to gallop down hill and up hill and along a slope , and as he will have to leap over , and to leap out , and to jump down at various times , the rider must teach and practise both himself and his horse in all these things . For thus they will be able to help each other , and will be thought altogether more efficient ."
+    },
+    {
+      "id": "8.2",
+      "label": "Section 8.2",
+      "chapter": null,
+      "original": "εἰ δέ τις διλογεῖν ἡμᾶς οἴεται , ὅτι περὶ τῶν αὐτῶν λέγομεν νῦν τε καὶ πρόσθεν , οὐ διλογία ταῦτʼ ἐστίν . ὅτε μὲν γὰρ ἐωνεῖτο , πειρᾶσθαι ἐκελεύομεν εἰ δύναιτο ὁ ἵππος ταῦτα ποιεῖν · νῦν δὲ διδάσκειν φαμὲν χρῆναι τὸν ἑαυτοῦ καὶ γράψομεν ὡς δεῖ διδάσκειν .",
+      "translation": "If anyone thinks that we are repeating ourselves , because we are referring to matters already dealt with , this is not repetition . For we recommended the purchaser to try whether the horse could do these things at the time of buying : but now we say that a man should teach his own horse ; and we will show how to teach him ."
+    },
+    {
+      "id": "9.1",
+      "label": "Section 9.1",
+      "chapter": null,
+      "original": "καὶ τὰ μὲν δὴ εἰρημένα ταῦτʼ ἐστίν , ὡς ἂν ἥκιστα μὲν ἐξαπατῷτο καὶ πῶλον καὶ ἵππον ὠνούμενος , ἥκιστα δʼ ἂν διαφθείροι χρώμενος , μάλιστα δʼ ἂν ἵππον ἀποδεικνύοι , εἰ δέοι , ἔχοντα ὧν ἱππεὺς δεῖται εἰς πόλεμον . καιρὸς δʼ ἴσως γράψαι καί , εἴ ποτε συμβαίη θυμοειδεστέρῳ ἵππῳ τοῦ καιρίου χρῆσθαι ἢ βλακωδεστέρῳ , ὡς ἂν ὀρθότατα ἑκατέρῳ χρῷτο .",
+      "translation": "So far we have described how to avoid being cheated in buying a colt or a horse , how to avoid spoiling him in usage and how to impart to a horse all the qualities required by a cavalryman for war . It is time perhaps to give directions , in case one has to deal with a horse that is too spirited or too sluggish , for the correct way of managing either ."
+    },
+    {
+      "id": "9.2",
+      "label": "Section 9.2",
+      "chapter": null,
+      "original": "πρῶτον μὲν τοίνυν χρὴ τοῦτο γνῶναι , ὅτι ἐστὶ θυμὸς ἵππῳ ὅπερ ὀργὴ ἀνθρώπῳ . ὥσπερ οὖν ἄνθρωπον ἥκιστʼ ἂν ὀργίζοι τις ὁ μήτε λέγων χαλεπὸν μηδὲν μήτε ποιῶν , οὕτω καὶ ἵππον θυμοειδῆ ὁ μὴ ἀνιῶν ἥκιστʼ ἂν ἐξοργίζοι .",
+      "translation": "First , then , it must be realised that spirit in a horse is precisely what anger is in a man . Therefore , just as you are least likely to make a man angry if you neither say nor do anything disagreable to him , so he who abstains from annoying a spirited horse is least likely to rouse his anger ."
+    },
+    {
+      "id": "10.1",
+      "label": "Section 10.1",
+      "chapter": null,
+      "original": "ἢν δέ τίς ποτε βουληθῇ χρῆσθαι τῷ χρησίμῳ εἰς πόλεμον ἵππῳ ὡς μεγαλοπρεπεστέρῳ τε καὶ περιβλεπτοτέρῳ ἱππάζεσθαι , τοῦ μὲν ἕλκειν τε τὸ στόμα τῷ χαλινῷ καὶ μυωπίζειν τε καὶ μαστιγοῦν τὸν ἵππον , ἃ οἱ πολλοὶ ποιοῦντες λαμπρύνειν οἴονται , ἀπέχεσθαι δεῖ · πάντα γὰρ τἀναντία οὗτοί γε ποιοῦσιν ὧν βούλονται .",
+      "translation": "If a man wants to make a useful war-horse look more stately and showy when ridden , he must avoid pulling his mouth with the bit , and using the spur and whip , means by which most people imagine that they show off a horse . In point of fact the results they produce are the very opposite of what they intend ."
+    },
+    {
+      "id": "10.2",
+      "label": "Section 10.2",
+      "chapter": null,
+      "original": "τά τε γὰρ στόματα ἕλκοντες ἄνω ἀντὶ τοῦ προορᾶν ἐκτυφλοῦσι τοὺς ἵππους καὶ μυωπίζοντες καὶ παίοντες ἐκπλήττουσιν , ὡς τεταράχθαι καὶ κινδυνεύειν . ταῦτα δʼ ἐστὶν ἵππων ἔργα τῶν μάλιστα ἀχθομένων ἱππασίᾳ καὶ αἰσχρὰ καὶ οὐ καλὰ ποιούντων .",
+      "translation": "For by dragging the mouth up they blind their horses instead of letting them see ahead , and by spurring and whipping , flurry them so that they are startled and get into danger . [*] That is the behaviour of horses that strongly object to being ridden and that behave in an ugly and unseemly fashion ."
+    },
+    {
+      "id": "11.1",
+      "label": "Section 11.1",
+      "chapter": null,
+      "original": "ἢν δέ τις ἄρα βουληθῇ καὶ πομπικῷ καὶ μετεώρῳ καὶ λαμπρῷ ἵππῳ χρήσασθαι , οὐ μάλα μὲν τὰ τοιαῦτα ἐκ παντὸς ἵππου γίγνεται , ἀλλὰ δεῖ ὑπάρξαι αὐτῷ καὶ τὴν ψυχὴν μεγαλόφρονα καὶ τὸ σῶμα εὔρωστον .",
+      "translation": "But in case anyone wants to own a horse suitable for parade , with a high and showy action , such qualities are by no means to be found in every horse : but it is essential that he should have plenty of spirit and a strong body ."
+    },
+    {
+      "id": "11.2",
+      "label": "Section 11.2",
+      "chapter": null,
+      "original": "οὐ μέντοι ὅ γε οἴονταί τινες τὸν τὰ σκέλη ὑγρὰ ἔχοντα καὶ τὸ σῶμα αἴρειν δυνήσεσθαι , οὕτως ἔχει · ἀλλὰ μᾶλλον ὃς ἂν τὴν ὀσφῦν ὑγράν τε καὶ βραχεῖαν καὶ ἰσχυρὰν ἔχῃ ( καὶ οὐ τὴν κατʼ οὐρὰν λέγομεν , ἀλλʼ ἣ πέφυκε μεταξὺ τῶν πλευρῶν καὶ τῶν ἰσχίων κατὰ τὸν κενεῶνα ), οὗτος δυνήσεται πόρρω ὑποτιθέναι τὰ ὀπίσθια σκέλη ὑπὸ τὰ ἐμπρόσθια .",
+      "translation": "Many suppose that an animal that has supple legs will also be capable of rearing his body . That , however , is not the case : rather it is the horse with supple , short , strong loins that will be able to extend his hind-legs well under the forelegs . By loins we do not mean the parts about the tail , but those between the flanks and haunches about the belly ."
+    },
+    {
+      "id": "12.1",
+      "label": "Section 12.1",
+      "chapter": null,
+      "original": "γράψαι δὲ βουλόμεθα καὶ ὡς δεῖ ὡπλίσθαι τὸν μέλλοντα ἐφʼ ἵππου κινδυνεύειν . πρῶτον μὲν τοίνυν φαμὲν χρῆναι πρὸς τὸ σῶμα τὸν θώρακα πεποιῆσθαι . τὸν μὲν γὰρ καλῶς ἁρμόττοντα ἐκεῖνον φέρει τὸ σῶμα , τὸν δὲ ἄγαν χαλαρὸν οἱ ὦμοι μόνοι φέρουσιν . ὅ γε μὴν λίαν στενὸς δεσμός , οὐχ ὅπλον ἐστίν .",
+      "translation": "We want to explain also how a man who is to face danger on horseback should be armed .\nWe say , then , that in the first place his breastplate must be made to fit his body . For the wellfitting breastplate is supported by the whole body , whereas one that is too loose is supported by the shoulders only , and one that is too tight is rather an encumbrance than a defence ."
+    },
+    {
+      "id": "12.2",
+      "label": "Section 12.2",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ καὶ ὁ αὐχήν ἐστι τῶν καιρίων , φαμὲν χρῆναι καὶ τούτῳ ἐξ αὐτοῦ τοῦ θώρακος ὅμοιον τῷ αὐχένι στέγασμα πεποιῆσθαι . τοῦτο γὰρ ἅμα κόσμον τε παρέξει καί , ἢν οἷον δεῖ εἰργασμένον ᾖ , δέξεται ὅταν βούληται τῷ ἀναβάτῃ τὸ πρόσωπον μέχρι τῆς ῥινός .",
+      "translation": "And , since the neck is one of the vital parts , we hold that a covering should be available for it also , standing up from the breastplate itself and shaped to the neck . For this will serve as an ornament , and at the same time , if properly made , will cover the rider ’ s face , when he pleases , as high as the nose ."
+    }
+  ],
+  "prevChunkSlug": "on-the-cavalry-commander-19p3zb",
+  "nextChunkSlug": "on-hunting-1i2oil"
+}

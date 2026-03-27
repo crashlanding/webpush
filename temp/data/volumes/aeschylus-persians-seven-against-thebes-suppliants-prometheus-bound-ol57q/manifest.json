@@ -1,0 +1,686 @@
+{
+  "loebNumber": 145,
+  "sortOrder": 145,
+  "slug": "aeschylus-persians-seven-against-thebes-suppliants-prometheus-bound-ol57q",
+  "title": "Persians. Seven against Thebes. Suppliants. Prometheus Bound",
+  "volumeLabel": "Persians. Seven against Thebes. Suppliants. Prometheus Bound",
+  "authorDisplay": "Aeschylus",
+  "authors": [
+    "Aeschylus"
+  ],
+  "language": "greek",
+  "summary": "3 of 4 contents in Persians. Seven against Thebes. Suppliants. Prometheus Bound are live from Scaife, while the remaining contents stay visible until a confident pair is available.",
+  "status": "partial",
+  "defaultChunkSlug": "persians-8e806r-1",
+  "readyChunkCount": 21,
+  "contents": [
+    {
+      "id": "persians-8e806r",
+      "title": "Persians",
+      "status": "ready",
+      "sectionCount": 376,
+      "chunkSlug": "persians-8e806r-1",
+      "chunks": [
+        {
+          "slug": "persians-8e806r-1",
+          "label": "Persians (Section 1 - Section 230)",
+          "partId": "persians-8e806r",
+          "partTitle": "Persians",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "persians-8e806r-2",
+          "label": "Persians (Section 232 - Section 385)",
+          "partId": "persians-8e806r",
+          "partTitle": "Persians",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "persians-8e806r-3",
+          "label": "Persians (Section 390 - Section 620)",
+          "partId": "persians-8e806r",
+          "partTitle": "Persians",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "persians-8e806r-4",
+          "label": "Persians (Section 623 - Section 755)",
+          "partId": "persians-8e806r",
+          "partTitle": "Persians",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "persians-8e806r-5",
+          "label": "Persians (Section 759 - Section 2.965)",
+          "partId": "persians-8e806r",
+          "partTitle": "Persians",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "persians-8e806r-6",
+          "label": "Persians (Section 2.967 - Section 7.1059)",
+          "partId": "persians-8e806r",
+          "partTitle": "Persians",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "persians-8e806r-7",
+          "label": "Persians (Section 7.1060 - Section 1076)",
+          "partId": "persians-8e806r",
+          "partTitle": "Persians",
+          "sectionCount": 16,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "seven-against-thebes-dy9uup",
+      "title": "Seven against Thebes",
+      "status": "ready",
+      "sectionCount": 367,
+      "chunkSlug": "seven-against-thebes-dy9uup-1",
+      "chunks": [
+        {
+          "slug": "seven-against-thebes-dy9uup-1",
+          "label": "Seven against Thebes (Section 1 - Section 2.226)",
+          "partId": "seven-against-thebes-dy9uup",
+          "partTitle": "Seven against Thebes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "seven-against-thebes-dy9uup-2",
+          "label": "Seven against Thebes (Section 2.230 - Section 390)",
+          "partId": "seven-against-thebes-dy9uup",
+          "partTitle": "Seven against Thebes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "seven-against-thebes-dy9uup-3",
+          "label": "Seven against Thebes (Section 395 - Section 3.620)",
+          "partId": "seven-against-thebes-dy9uup",
+          "partTitle": "Seven against Thebes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "seven-against-thebes-dy9uup-4",
+          "label": "Seven against Thebes (Section 3.625 - Section 795)",
+          "partId": "seven-against-thebes-dy9uup",
+          "partTitle": "Seven against Thebes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "seven-against-thebes-dy9uup-5",
+          "label": "Seven against Thebes (Section 800 - Section 1.967)",
+          "partId": "seven-against-thebes-dy9uup",
+          "partTitle": "Seven against Thebes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "seven-against-thebes-dy9uup-6",
+          "label": "Seven against Thebes (Section 1.968 - Section 1059)",
+          "partId": "seven-against-thebes-dy9uup",
+          "partTitle": "Seven against Thebes",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "seven-against-thebes-dy9uup-7",
+          "label": "Seven against Thebes (Section 1060 - Section 1080)",
+          "partId": "seven-against-thebes-dy9uup",
+          "partTitle": "Seven against Thebes",
+          "sectionCount": 7,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "suppliants-l8y38r",
+      "title": "Suppliants",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "The original and English Scaife TOCs could not be aligned."
+    },
+    {
+      "id": "prometheus-bound-1dtq9c",
+      "title": "Prometheus Bound",
+      "status": "ready",
+      "sectionCount": 391,
+      "chunkSlug": "prometheus-bound-1dtq9c-1",
+      "chunks": [
+        {
+          "slug": "prometheus-bound-1dtq9c-1",
+          "label": "Prometheus Bound (Section 1 - Section 1.135)",
+          "partId": "prometheus-bound-1dtq9c",
+          "partTitle": "Prometheus Bound",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "prometheus-bound-1dtq9c-2",
+          "label": "Prometheus Bound (Section 136 - Section 330)",
+          "partId": "prometheus-bound-1dtq9c",
+          "partTitle": "Prometheus Bound",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "prometheus-bound-1dtq9c-3",
+          "label": "Prometheus Bound (Section 332 - Section 517)",
+          "partId": "prometheus-bound-1dtq9c",
+          "partTitle": "Prometheus Bound",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "prometheus-bound-1dtq9c-4",
+          "label": "Prometheus Bound (Section 518 - Section 687)",
+          "partId": "prometheus-bound-1dtq9c",
+          "partTitle": "Prometheus Bound",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "prometheus-bound-1dtq9c-5",
+          "label": "Prometheus Bound (Section 690 - Section 835)",
+          "partId": "prometheus-bound-1dtq9c",
+          "partTitle": "Prometheus Bound",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "prometheus-bound-1dtq9c-6",
+          "label": "Prometheus Bound (Section 840 - Section 986)",
+          "partId": "prometheus-bound-1dtq9c",
+          "partTitle": "Prometheus Bound",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "prometheus-bound-1dtq9c-7",
+          "label": "Prometheus Bound (Section 987 - Section 1090)",
+          "partId": "prometheus-bound-1dtq9c",
+          "partTitle": "Prometheus Bound",
+          "sectionCount": 31,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "persians-8e806r-1",
+      "label": "Persians (Section 1 - Section 230)",
+      "partId": "persians-8e806r",
+      "partTitle": "Persians",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "persians-8e806r-2",
+      "label": "Persians (Section 232 - Section 385)",
+      "partId": "persians-8e806r",
+      "partTitle": "Persians",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "persians-8e806r-3",
+      "label": "Persians (Section 390 - Section 620)",
+      "partId": "persians-8e806r",
+      "partTitle": "Persians",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "persians-8e806r-4",
+      "label": "Persians (Section 623 - Section 755)",
+      "partId": "persians-8e806r",
+      "partTitle": "Persians",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "persians-8e806r-5",
+      "label": "Persians (Section 759 - Section 2.965)",
+      "partId": "persians-8e806r",
+      "partTitle": "Persians",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "persians-8e806r-6",
+      "label": "Persians (Section 2.967 - Section 7.1059)",
+      "partId": "persians-8e806r",
+      "partTitle": "Persians",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "persians-8e806r-7",
+      "label": "Persians (Section 7.1060 - Section 1076)",
+      "partId": "persians-8e806r",
+      "partTitle": "Persians",
+      "sectionCount": 16,
+      "status": "ready"
+    },
+    {
+      "slug": "seven-against-thebes-dy9uup-1",
+      "label": "Seven against Thebes (Section 1 - Section 2.226)",
+      "partId": "seven-against-thebes-dy9uup",
+      "partTitle": "Seven against Thebes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "seven-against-thebes-dy9uup-2",
+      "label": "Seven against Thebes (Section 2.230 - Section 390)",
+      "partId": "seven-against-thebes-dy9uup",
+      "partTitle": "Seven against Thebes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "seven-against-thebes-dy9uup-3",
+      "label": "Seven against Thebes (Section 395 - Section 3.620)",
+      "partId": "seven-against-thebes-dy9uup",
+      "partTitle": "Seven against Thebes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "seven-against-thebes-dy9uup-4",
+      "label": "Seven against Thebes (Section 3.625 - Section 795)",
+      "partId": "seven-against-thebes-dy9uup",
+      "partTitle": "Seven against Thebes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "seven-against-thebes-dy9uup-5",
+      "label": "Seven against Thebes (Section 800 - Section 1.967)",
+      "partId": "seven-against-thebes-dy9uup",
+      "partTitle": "Seven against Thebes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "seven-against-thebes-dy9uup-6",
+      "label": "Seven against Thebes (Section 1.968 - Section 1059)",
+      "partId": "seven-against-thebes-dy9uup",
+      "partTitle": "Seven against Thebes",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "seven-against-thebes-dy9uup-7",
+      "label": "Seven against Thebes (Section 1060 - Section 1080)",
+      "partId": "seven-against-thebes-dy9uup",
+      "partTitle": "Seven against Thebes",
+      "sectionCount": 7,
+      "status": "ready"
+    },
+    {
+      "slug": "prometheus-bound-1dtq9c-1",
+      "label": "Prometheus Bound (Section 1 - Section 1.135)",
+      "partId": "prometheus-bound-1dtq9c",
+      "partTitle": "Prometheus Bound",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "prometheus-bound-1dtq9c-2",
+      "label": "Prometheus Bound (Section 136 - Section 330)",
+      "partId": "prometheus-bound-1dtq9c",
+      "partTitle": "Prometheus Bound",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "prometheus-bound-1dtq9c-3",
+      "label": "Prometheus Bound (Section 332 - Section 517)",
+      "partId": "prometheus-bound-1dtq9c",
+      "partTitle": "Prometheus Bound",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "prometheus-bound-1dtq9c-4",
+      "label": "Prometheus Bound (Section 518 - Section 687)",
+      "partId": "prometheus-bound-1dtq9c",
+      "partTitle": "Prometheus Bound",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "prometheus-bound-1dtq9c-5",
+      "label": "Prometheus Bound (Section 690 - Section 835)",
+      "partId": "prometheus-bound-1dtq9c",
+      "partTitle": "Prometheus Bound",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "prometheus-bound-1dtq9c-6",
+      "label": "Prometheus Bound (Section 840 - Section 986)",
+      "partId": "prometheus-bound-1dtq9c",
+      "partTitle": "Prometheus Bound",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "prometheus-bound-1dtq9c-7",
+      "label": "Prometheus Bound (Section 987 - Section 1090)",
+      "partId": "prometheus-bound-1dtq9c",
+      "partTitle": "Prometheus Bound",
+      "sectionCount": 31,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "persians-8e806r-1",
+      "partTitle": "Persians",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πέρσαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg002.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Persians",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "persians-8e806r-2",
+      "partTitle": "Persians",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πέρσαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg002.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Persians",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "persians-8e806r-3",
+      "partTitle": "Persians",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πέρσαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg002.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Persians",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "persians-8e806r-4",
+      "partTitle": "Persians",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πέρσαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg002.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Persians",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "persians-8e806r-5",
+      "partTitle": "Persians",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πέρσαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg002.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Persians",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "persians-8e806r-6",
+      "partTitle": "Persians",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πέρσαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg002.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Persians",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "persians-8e806r-7",
+      "partTitle": "Persians",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πέρσαι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg002.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Persians",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg002.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "seven-against-thebes-dy9uup-1",
+      "partTitle": "Seven against Thebes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἑπτὰ ἐπὶ Θήβας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg004.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Seven Against Thebes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "seven-against-thebes-dy9uup-2",
+      "partTitle": "Seven against Thebes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἑπτὰ ἐπὶ Θήβας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg004.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Seven Against Thebes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "seven-against-thebes-dy9uup-3",
+      "partTitle": "Seven against Thebes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἑπτὰ ἐπὶ Θήβας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg004.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Seven Against Thebes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "seven-against-thebes-dy9uup-4",
+      "partTitle": "Seven against Thebes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἑπτὰ ἐπὶ Θήβας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg004.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Seven Against Thebes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "seven-against-thebes-dy9uup-5",
+      "partTitle": "Seven against Thebes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἑπτὰ ἐπὶ Θήβας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg004.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Seven Against Thebes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "seven-against-thebes-dy9uup-6",
+      "partTitle": "Seven against Thebes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἑπτὰ ἐπὶ Θήβας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg004.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Seven Against Thebes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "seven-against-thebes-dy9uup-7",
+      "partTitle": "Seven against Thebes",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἑπτὰ ἐπὶ Θήβας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg004.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Seven Against Thebes",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg004.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "prometheus-bound-1dtq9c-1",
+      "partTitle": "Prometheus Bound",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Προμηθεὺς Δεσμώτης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg003.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Prometheus Bound",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "prometheus-bound-1dtq9c-2",
+      "partTitle": "Prometheus Bound",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Προμηθεὺς Δεσμώτης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg003.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Prometheus Bound",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "prometheus-bound-1dtq9c-3",
+      "partTitle": "Prometheus Bound",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Προμηθεὺς Δεσμώτης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg003.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Prometheus Bound",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "prometheus-bound-1dtq9c-4",
+      "partTitle": "Prometheus Bound",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Προμηθεὺς Δεσμώτης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg003.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Prometheus Bound",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "prometheus-bound-1dtq9c-5",
+      "partTitle": "Prometheus Bound",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Προμηθεὺς Δεσμώτης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg003.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Prometheus Bound",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "prometheus-bound-1dtq9c-6",
+      "partTitle": "Prometheus Bound",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Προμηθεὺς Δεσμώτης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg003.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Prometheus Bound",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg003.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "prometheus-bound-1dtq9c-7",
+      "partTitle": "Prometheus Bound",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Προμηθεὺς Δεσμώτης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg003.1st1K-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Prometheus Bound",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0085.tlg003.perseus-eng2/"
+      }
+    }
+  ]
+}

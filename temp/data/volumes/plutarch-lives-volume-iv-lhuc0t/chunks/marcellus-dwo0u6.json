@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plutarch-lives-volume-iv-lhuc0t",
+  "volumeTitle": "Lives, Volume IV",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "marcellus-dwo0u6",
+  "label": "Marcellus",
+  "partId": "lives-volume-iv-15nalc",
+  "partTitle": "Lives, Volume IV",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Μάρκελλος",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg022.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Marcellus",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg022.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.1",
+      "label": "Section 1.1",
+      "chapter": null,
+      "original": "Μᾶρκον δὲ Κλαύδιον τὸν πεντάκις ὑπατεύσαντα paris.1624.298 Ῥωμαίων Μάρκου μὲν υἱὸν γενέσθαι λέγουσι , κληθῆναι δὲ τῶν ἀπὸ τῆς οἰκίας πρῶτον Μάρκελλον , ὅπερ ἐστὶν Ἀρήϊον , ὥς φησι Ποσειδώνιος . ἦν γὰρ τῇ μὲν ἐμπειρίᾳ πολεμικός , τῷ δὲ σώματι ῥωμαλέος , τῇ δὲ χειρὶ πλήκτης , τῇ δὲ φύσει φιλοπόλεμος κἀν τούτῳ δὴ πολὺ τὸ γαῦρον καὶ ἀγέρωχον ἐπιφαίνων ἐν τοῖς ἀγῶσι ,",
+      "translation": "Marcus Claudius , who was five times consul of the Romans , was a son of Marcus , as we are told , and , according to Poseidonius , was the first of his family to be called Marcellus , which means Martial . For he was by experience a man of war , of a sturdy body and a vigorous arm . He was naturally fond of war , and in its conflicts displayed great impetuosity and high temper ;"
+    },
+    {
+      "id": "1.2",
+      "label": "Section 1.2",
+      "chapter": null,
+      "original": "τῷ δὲ ἄλλῳ τρόπῳ σώφρων , φιλάνθρωπος , Ἑλληνικῆς παιδείας καὶ λόγων ἄχρι τοῦ τιμᾶν καὶ θαυμάζειν τοὺς κατορθοῦντας ἐραστής , αὐτὸς δὲ ὑπʼ ἀσχολιῶν ἐφʼ ὅσον ἦν πρόθυμος ἀσκῆσαι καὶ μαθεῖν οὐκ ἐξικόμενος . εἰ γὰρ ἄλλοις τισὶν ἀνθρώποις ὁ θεός , ὥσπερ Ὅμηρος εἴρηκεν ,\nἐκ νεότητος ἔδωκε καὶ εἰς γῆρας τολυπεύειν ἀργαλέους πολέμους ,\nκαὶ τοῖς τότε πρωτεύουσι Ῥωμαίων ,",
+      "translation": "but otherwise he was modest , humane , and so far a lover of Greek learning and discipline as to honour and admire those who excelled therein , although he himself was prevented by his occupations from achieving a knowledge and proficiency here which corresponded to his desires . For if ever there were men to whom Heaven , as Homer says , [*] From youth and to old age appointed the accomplishment of laborious wars , they were the chief Romans of that time ,"
+    },
+    {
+      "id": "2.1",
+      "label": "Section 2.1",
+      "chapter": null,
+      "original": "Μάρκελλος δὲ πρὸς οὐδὲν μὲν ἦν μάχης εἶδος ἀργὸς οὐδὲ ἀνάσκητος , αὐτὸς δʼ ἑαυτοῦ κράτιστος ἐν τῷ μονομαχεῖν γενόμενος οὐδεμίαν πρόκλησιν ἔφυγε , πάντας δὲ τοὺς προκαλεσαμένους ἀπέκτεινεν . ἐν δὲ Σικελίᾳ τὸν ἀδελφὸν Ὀτακίλιον κινδυνεύοντα διέσωσεν ὑπερασπίσας καὶ ἀποκτείνας τοὺς ἐπιφερομένους .",
+      "translation": "Marcellus was efficient and practised in every kind of fighting , but in single combat he surpassed himself , never declining a challenge , and always killing his challengers . In Sicily he saved his brother Otacilius from peril of his life , covering him with his shield and killing those who were setting upon him ."
+    },
+    {
+      "id": "2.2",
+      "label": "Section 2.2",
+      "chapter": null,
+      "original": "ἀνθʼ ὧν ὄντι μὲν ἔτι νέῳ στέφανοι καὶ γέρα παρὰ τῶν στρατηγῶν ἦσαν , εὐδοκιμοῦντα δὲ μᾶλλον ἀγορανόμον μὲν ἀπέδειξε τῆς ἐπιφανεστέρας τάξεως ὁ δῆμος , οἱ δὲ ἱερεῖς αὔγουρα . τοῦτο δʼ ἐστὶν ἱερωσύνης εἶδος , ᾧ μάλιστα τὴν ἀπʼ οἰωνῶν μαντικὴν ἐπιβλέπειν καὶ παραφυλάττειν νόμος δέδωκεν .",
+      "translation": "Wherefore , although he was still a youth , he received garlands and prizes from his commanders , and since he grew in repute , the people appointed him curule aedile , [*] and the priests , augur . This is a species of priesthood , to which the law particularly assigns the observation and study of prophetic signs from the flight of birds ."
+    },
+    {
+      "id": "3.1",
+      "label": "Section 3.1",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ τοῦ πρώτου τῶν Καρχηδονίων πολέμων ἔτει δευτέρῳ καὶ εἰκοστῷ συναιρεθέντος ἀρχαὶ πάλιν Γαλατικῶν ἀγώνων διεδέχοντο τὴν Ῥώμην , οἱ δὲ τὴν ὑπαλπείαν νεμόμενοι τῆς Ἰταλίας Ἴνσομβρες , Κελτικὸν ἔθνος , μεγάλοι καὶ καθʼ ἑαυτοὺς ὄντες , δυνάμεις ἐκάλουν , καὶ μετεπέμποντο Γαλατῶν τοὺς μισθοῦ στρατευομένους , οἳ Γαισάται καλοῦνται ,",
+      "translation": "After the first Punic war had come to an end in its twenty-second year , Rome was called upon to renew her struggles with the Gauls . [*] The Insubrians , a people of Celtic stock inhabiting that part of Italy which lies at the foot of the Alps , and strong even by themselves , called out their forces , and summoned to their aid the mercenary Gauls called Gaesatae ."
+    },
+    {
+      "id": "3.2",
+      "label": "Section 3.2",
+      "chapter": null,
+      "original": "θαυμαστὸν μὲν ἐδόκει καὶ τύχης ἀγαθῆς γενέσθαι τὸ μὴ συρραγῆναι τὸν Κελτικὸν εἰς τὸ αὐτὸ τῷ Λιβυκῷ πόλεμον , ἀλλʼ ὥσπερ ἐφεδρείαν εἰληφότας τοὺς Γαλάτας , ὀρθῶς καὶ δικαίως ἀτρεμήσαντας μαχομένων ἐκείνων , οὕτω τότε δὴ τοῖς νενικηκόσιν ἐπαποδύεσθαι καὶ προκαλεῖσθαι σχολὴν ἄγοντας · οὐ μὴν ἀλλὰ μέγαν ἥ τε χώρα παρεῖχε φόβον , διὰ τὴν γειτνίασιν ὁμόρῳ καὶ προσοίκῳ πολέμῳ συνοισομένοις , καὶ τὸ παλαιὸν ἀξίωμα τῶν Γαλατῶν , οὓς μάλιστα Ῥωμαῖοι δεῖσαι δοκοῦσιν , ἅτε δὴ καὶ τὴν πόλιν ὑπʼ αὐτῶν ἀποβαλόντες ,",
+      "translation": "It seemed a marvellous piece of good fortune that the Gallic war did not break out while the Punic war was raging , but that the Gauls , like a third champion sitting by and awaiting his turn with the victor , remained strictly quiet while the other two nations were fighting , and then only stripped for combat when the victors were at liberty to receive their challenge . Nevertheless , the Romans were greatly alarmed by the proximity of their country to the enemy , with whom they would wage war so near their own boundaries and homes , as well as by the ancient renown of the Gauls , whom the Romans seem to have feared more than any other people . For Rome had once been taken by them , [*]"
+    },
+    {
+      "id": "4.1",
+      "label": "Section 4.1",
+      "chapter": null,
+      "original": "οἱ μὲν οὖν πρῶτοι τῶν ἀγώνων νίκας τε μεγάλας καὶ σφάλματα τοῖς Ῥωμαίοις ἐνέγκαντες εἰς οὐδὲν ἐτελεύτησαν πέρας βέβαιον Φλαμινίου δὲ καὶ Φουρίου τῶν ὑπάτων μεγάλαις ἐκστρατευσάντων δυνάμεσιν ἐπὶ τοὺς Ἴνσομβρας , ὤφθη μὲν αἵματι ῥέων ὁ διὰ τῆς Πικηνίδος χώρας ποταμός , ἐλέχθη δὲ τρεῖς σελήνας φανῆναι περὶ πόλιν Ἀρίμινον ,",
+      "translation": "The first conflicts of this war brought great victories and also great disasters to the Romans , and led to no sure and final conclusion ; but at last Flaminius and Furius , the consuls , led forth large forces against the Insubrians . At the time of their departure , however , the river that flows through Picenum was seen to be running with blood , and it was reported that at Ariminum three moons had appeared in the heavens ,"
+    },
+    {
+      "id": "4.2",
+      "label": "Section 4.2",
+      "chapter": null,
+      "original": "οἱ δὲ ἐπὶ ταῖς ὑπατικαῖς ψηφοφορίαις παραφυλάττοντες οἰωνοὺς ἱερεῖς διεβεβαιοῦντο μοχθηρὰς καὶ δυσόρνιθας αὐτοῖς γεγονέναι τὰς τῶν ὑπάτων ἀναγορεύσεις , εὐθὺς οὖν ἔπεμψεν ἡ σύγκλητος ἐπὶ τὸ στρατόπεδον γράμματα καλοῦσα καὶ μεταπεμπομένη τοὺς ὑπάτους , ὅπως ἐπανελθόντες ᾗ τάχιστα τὴν ἀρχὴν ἀπείπωνται καὶ μηδὲν ὡς ὕπατοι φθάσωσι πρᾶξαι πρὸς τοὺς πολεμίους .",
+      "translation": "and the priests who watched the flight of birds at the time of the consular elections insisted that when the consuls were proclaimed the omens were inauspicious and baleful for them . At once , therefore , the senate sent letters to the camp , summoning the consuls to return to the city with all speed and lay down their office , and forbidding them , while they were still consuls , to take any steps against the enemy ."
+    },
+    {
+      "id": "5.1",
+      "label": "Section 5.1",
+      "chapter": null,
+      "original": "Τιβέριος οὖν Σεμπρώνιος , ἀνὴρ διʼ ἀνδρείαν καὶ καλοκαγαθίαν οὐδενὸς ἧττον ἀγαπηθεὶς ὑπὸ Ῥωμαίων , ἀπέδειξε μὲν ὑπατεύων διαδόχους Σκηπίωνα Νασικᾶν καὶ Γάϊον Μάρκιον , ἤδη δὲ ἐχόντων αὐτῶν ἐπαρχίας καὶ στρατεύματα , ἱερατικοῖς ὑπομνήμασιν ἐντυχὼν εὗρεν ἠγνοημένον ὑφʼ αὑτοῦ τι τῶν πατρίων . ἦν δὲ τοιοῦτον ·",
+      "translation": "For example , Tiberius Sempronius , a man most highly esteemed by the Romans for his valour and probity , proclaimed Scipio Nasica and Caius Marcius his successors in the consulship , but when they had already taken command in their provinces , he came upon a book of religious observances wherein he found a certain ancient prescript of which he had been ignorant ."
+    },
+    {
+      "id": "5.2",
+      "label": "Section 5.2",
+      "chapter": null,
+      "original": "ὅταν ἄρχων ἐπʼ ὄρνισι καθεζόμενος ἔξω πόλεως οἶκον ἢ σκηνὴν μεμισθωμένος ὑπʼ αἰτίας τινὸς ἀναγκασθῇ μήπω γεγονότων σημείων βεβαίων ἐπανελθεῖν εἰς πόλιν , ἀφεῖναι χρῆν τὸ προμεμισθωμένον οἴκημα καὶ λαβεῖν ἕτερον , ἐξ οὗ ποιήσεται τὴν θέαν αὖθις ἐξ ὑπαρχῆς , τοῦτο ἔλαθεν , ὡς ἔοικε , τὸν Τιβέριον , καὶ δὶς τῷ αὐτῷ χρησάμενος ἀπέδειξε τοὺς εἰρημένους ἄνδρας ὑπάτους . ὕστερον δὲ γνοὺς τὴν ἁμαρτίαν ἀνήνεγκε πρὸς τὴν σύγκλητον .",
+      "translation": "It was this . Whenever a magistrate , sitting in a hired house or tent outside the city to take auspices from the flight of birds , is compelled for any reason to return to the city before sure signs have appeared , he must give up the house first hired and take another , and from this he must take his observations anew . Of this , it would seem , Tiberius was not aware , and had twice used the same house before proclaiming the men I have mentioned as consuls . But afterwards , discovering his error , he referred the matter to the senate ."
+    },
+    {
+      "id": "6.1",
+      "label": "Section 6.1",
+      "chapter": null,
+      "original": "Ὡς δʼ οὖν ἐξωμόσαντο τὴν ἀρχὴν οἱ περὶ τὸν Φλαμίνιον , διὰ τῶν καλουμένων μεσοβασιλέων ὕπατος ἀποδείκνυται Μάρκελλος , καὶ παραλαβὼν τὴν ἀρχὴν ἀποδείκνυσιν αὑτῷ συνάρχοντα Γναῖον Κορνήλιον . ἐλέχθη μὲν οὖν ὡς πολλὰ συμβατικὰ τῶν Γαλατῶν λεγόντων , καὶ τῆς βουλῆς εἰρηναῖα βουλομένης , ὁ Μάρκελλος ἐξετράχυνε τὸν δῆμον ἐπὶ τὸν πόλεμον ·",
+      "translation": "But to resume the story , after Flaminius and his colleague had renounced their offices , Marcellus was appointed consul [*] by the so-called interreges . He took the office , and appointed Gnaeus Cornelius his colleague . Now it has been said that , although the Gauls made many conciliatory proposals , and although the senate was peaceably inclined , Marcellus tried to provoke the people to continue the war ."
+    },
+    {
+      "id": "6.2",
+      "label": "Section 6.2",
+      "chapter": null,
+      "original": "οὐ μὴν ἀλλὰ καὶ γενομένης εἰρήνης ἀνακαινίσαι τὸν πόλεμον οἱ Γαισάται δοκοῦσι , τὰς Ἄλπεις ὑπερβαλόντες καὶ τοὺς Ἰνσόμβρους ἐπάραντες · τρισμύριοι γὰρ ὄντες προσεγένοντο πολλαπλασίοις ἐκείνοις οὖσι καὶ μέγα φρονοῦντες εὐθὺς ἐπʼ Ἀκέρρας ὥρμησαν , πόλιν ὑπὲρ ποταμοῦ Πάδου ἀνῳκισμένην . ἐκεῖθεν δὲ μυρίους τῶν Γαισατῶν ὁ βασιλεὺς p.448 Βριτόματος ἀναλαβὼν τὴν περὶ Πάδον χώραν ἐπόρθει .",
+      "translation": "However , it would seem that even after peace was made the Gaesatae renewed the war ; they crossed the Alps and stirred up the Insubrians . They numbered thirty thousand themselves , and the Insubrians , whom they joined , were much more numerous . With high confidence , therefore , they marched at once to Acerrae , a city situated to the north of the river Po . [*] From thence Britomartus the king , taking with him ten thousand of the Gaesatae , ravaged the country about the Po ."
+    },
+    {
+      "id": "7.1",
+      "label": "Section 7.1",
+      "chapter": null,
+      "original": "ἐν τούτῳ δὲ κατιδὼν ὁ τῶν Γαλατῶν βασιλεὺς καὶ τεκμηράμενος ἀπὸ τῶν συμβόλων ἄρχοντα τοῦτον εἶναι , πολὺ πρὸ τῶν ἄλλων ἐξελάσας τὸν ἵππον ὑπηντίασεν , ἅμα τῇ φωνῇ προκλητικὸν ἐπαλαλάζων καὶ τὸ δόρυ κραδαίνων , ἀνὴρ μεγέθει τε σώματος ἔξοχος Γαλατῶν , καὶ πανοπλίᾳ ἐν ἀργύρῳ καὶ χρυσῷ καὶ βαφαῖς καὶ πᾶσι ποικίλμασιν , ὥσπερ ἀστραπῇ , διαφέρων στιλβούσῃ .",
+      "translation": "Meanwhile the king of the Gauls espied him , and judging from his insignia that he was the commander , rode far out in front of the rest and confronted him , shouting challenges and brandishing his spear . His stature exceeded that of the other Gauls , and he was conspicuous for a suit of armour which was set off with gold and silver and bright colours and all sorts of broideries ; it gleamed like lightning ."
+    },
+    {
+      "id": "7.2",
+      "label": "Section 7.2",
+      "chapter": null,
+      "original": "ὡς οὖν ἐπιβλέψαντι τὴν φάλαγγα τῷ Μαρκέλλῳ ταῦτα τῶν ὅπλων ἔδοξε κάλλιστα καὶ κατὰ τούτων ὑπέλαβε πεποιῆσθαι τῷ θεῷ τὴν κατευχήν , ὥρμησεν ἐπὶ τὸν ἄνδρα , καὶ τῷ δόρατι διακόψας τὸν θώρακα καὶ συνεπερείσας τῇ ῥύμῃ τοῦ ἵππου ζῶντα μὲν αὐτὸν περιέτρεψε , δευτέραν δὲ καὶ τρίτην πληγὴν ἐνεὶς εὐθὺς ἀπέκτεινεν .",
+      "translation": "Accordingly , as Marcellus surveyed the ranks of the enemy , this seemed to him to be the most beautiful armour , and he concluded that it was this which he had vowed to the god . He therefore rushed upon the man , and by a thrust of his spear which pierced his adversary ’ s breastplate , and by the impact of his horse in full career , threw him , still living , upon the ground , where , with a second and third blow , he promptly killed him ."
+    },
+    {
+      "id": "8.1",
+      "label": "Section 8.1",
+      "chapter": null,
+      "original": "ψηφισαμένης δὲ τῆς συγκλήτου μόνῳ Μαρκέλλῳ θρίαμβον , εἰσήλαυνε τῇ μὲν ἄλλῃ λαμπρότητι καὶ πλούτῳ καὶ λαφύροις καὶ σώμασιν ὑπερφυέσιν αἰχμαλώτων ἐν ὀλίγοις θαυμαστός , ἥδιστον δὲ πάντων θέαμα καὶ καινότατον ἐπιδεικνύμενος αὑτὸν κομίζοντα τῷ θεῷ τὴν τοῦ βαρβάρου πανοπλίαν .",
+      "translation": "The senate decreed a triumph to Marcellus alone , and his triumphal procession was seldom equalled in its splendour and wealth and spoils and captives of gigantic size ; but besides this , the most agreeable and the rarest spectacle of all was afforded when Marcellus himself carried to the god the armour of the barbarian king ."
+    },
+    {
+      "id": "8.2",
+      "label": "Section 8.2",
+      "chapter": null,
+      "original": "δρυὸς γὰρ εὐκτεάνου πρέμνον ὄρθιον καὶ μέγα τεμών καὶ ἀσκήσας ὥσπερ paris.1624.302 τρόπαιον ἀνεδήσατο καὶ κατήρτησεν ἐξ αὐτοῦ τὰ λάφυρα , κόσμῳ διαθεὶς καὶ περιαρμόσας ἕκαστον . προϊούσης δὲ τῆς πομπῆς ἀράμενος αὐτὸς ἐπέβη p.454 τοῦ τεθρίππου , καὶ τροπαιοφόρον ἄγαλμα τῶν ἐπʼ ἐκείνου κάλλιστον καὶ διαπρεπέστατον ἐπόμπευε διὰ τῆς πόλεως , ὁ δὲ στρατὸς εἵπετο καλλίστοις ὅπλοις κεκοσμημένος , ᾄδων ἅμα πεποιημένα μέλη καὶ παιᾶνας ἐπινικίους εἷς τὸν θεὸν καὶ τὸν στρατηγόν .",
+      "translation": "He had cut the trunk of a slender oak , straight and tall , and fashioned it into the shape of a trophy ; on this he bound and fastened the spoils , arranging and adjusting each piece in due order . When the procession began to move , he took the trophy himself and mounted the chariot , and thus a trophy-bearing figure more conspicuous and beautiful than any in his day passed in triumph through the city . The army followed , arrayed in most beautiful armour , singing odes composed for the occasion , together with paeans of victory in praise of the god and their general ."
+    },
+    {
+      "id": "9.1",
+      "label": "Section 9.1",
+      "chapter": null,
+      "original": "Ἀννίβου δὲ ἐμβαλόντος εἰς Ἰταλίαν ἐπέμφθη μὲν ὁ Μάρκελλος ἐπὶ Σικελίαν στόλον ἄγων ἐπεὶ δὲ ἡ περὶ Κάννας ἀτυχία συνέπεσε καὶ Ῥωμαίων οὐκ ὀλίγαι μυριάδες ἐν τῇ μάχῃ διεφθάρησαν , ὀλίγοι δὲ σωθέντες εἰς Κανύσιον συνεπεφεύγεσαν , ἦν δὲ προσδοκία τὸν Ἀννίβαν εὐθὺς ἐπὶ τὴν Ῥώμην ἐλᾶν , ὅπερ ἦν κράτιστον τῆς δυνάμεως ἀνῃρηκότα ,",
+      "translation": "After Hannibal had invaded Italy , [*] Marcellus was sent to Sicily with a fleet . And when the disaster at Cannae came , [*] and many thousands of Romans had been slain in the battle , and only a few had saved themselves by flying to Canusium , and it was expected that Hannibal would march at once against Rome , now that he had destroyed the flower of her forces ,"
+    },
+    {
+      "id": "9.2",
+      "label": "Section 9.2",
+      "chapter": null,
+      "original": "πρῶτον μὲν ὁ Μάρκελλος ἀπὸ τῶν νεῶν ἔπεμψε τῇ πόλει φυλακὴν πεντακοσίους καὶ χιλίους ἄνδρας , ἔπειτα δόγμα τῆς βουλῆς δεξάμενος εἰς Κανύσιον παρῆλθε , καὶ τοὺς ἐκεῖ συνειλεγμένους παραλαβὼν ἐξήγαγε τῶν ἐρυμάτων ὡς οὐ προησόμενος τὴν χώραν . Ῥωμαίοις δὲ τῶν ἡγεμονικῶν καὶ δυνατῶν ἀνδρῶν οἱ μὲν ἐτεθνήκεσαν ἐν ταῖς μάχαις , Φαβίου δὲ Μαξίμου τοῦ πλεῖστον ἔχοντος ἀξίωμα πίστεως καὶ συνέσεως , τὸ λίαν ἀπηκριβωμένον ἐν τοῖς ὑπὲρ τοῦ μὴ παθεῖν λογισμοῖς ὡς ἀργὸν ἐπὶ τὰς πράξεις καὶ ἄτολμον ᾐτιῶντο ·",
+      "translation": "in the first place , Marcellus sent fifteen hundred men from his ships to protect the city ; then , under orders from the senate , he went to Canusium , and taking the troops that had gathered there , led them out of the fortifications to show that he would not abandon the country . Most of the leaders and influential men among the Romans had fallen in battle ; and as for Fabius Maximus , who was held in the greatest esteem for his sagacity and trustworthiness , his excessive care in planning to avoid losses was censured as cowardly inactivity ."
+    },
+    {
+      "id": "10.1",
+      "label": "Section 10.1",
+      "chapter": null,
+      "original": "πρῶτον μὲν οὖν ἀνέσεως πολλῆς καί θρασύτητος ἐκ τοῦ κρατεῖν τοῦ Ἀννίβαν τοῖς στρατιώταις ἐγγενομένης , τοὺς ἀποσκιδναμένους τοῦ στρατοπέδου καί κατατρέχοντας τὴν χώραν ἐπιτιθέμενος κατέκοπτε καί ὑπανήλισκε τῆς δυνάμεως · ἔπειτα πρὸς Νέαν πόλιν καί Νῶλαν βοηθήσας Νεαπολίτας μὲν ἐπέρρωσεν αὐτοὺς καθʼ ἑαυτοὺς βεβαίους ὄντας Ῥωμαίοις , εἷς δὲ Νῶλαν εἰσελθὼν στάσιν εὗρε , τῆς βουλῆς τὸν δῆμον ἀννιβίζοντα μεταχειρίσασθαι καί καταρτίσαι μὴ δυναμένης .",
+      "translation": "To begin with , then , since Hannibal ’ s victory had made his soldiers very bold and careless , Marcellus set upon them as they straggled from their camp and overran the country , cut them down , and thus slowly diminished their forces ; secondly , he brought aid to Neapolis and Nola . In Neapolis he merely confirmed the minds of the citizens , who were of their own choice steadfast friends of Rome ; but on entering Nola , he found a state of discord , the senate being unable to regulate and manage the people , which favoured Hannibal ."
+    },
+    {
+      "id": "10.2",
+      "label": "Section 10.2",
+      "chapter": null,
+      "original": "ἦν γὰρ τις ἀνὴρ εὐγενείᾳ , τε πρωτεύων ἐν τῇ πόλει καί κατʼ ἀνδρείαν ἐπιφανής , ὄνομα Βάνδιος · τοῦτον ἐν Κάνναις περιόπτως ἀγωνισάμενον καί πολλοὺς μὲν ἀνελόντα τῶν Καρχηδονίων , τέλος δὲ αὐτὸν ἐν τοῖς νεκροῖς εὑρεθέντα πολλῶν βελῶν κατάπλεων τὸ σῶμα , θαυμάσας ὁ Ἀννίβας οὐ μόνον ἀφῆκεν ἄνευ p.460 λύτρων , ἀλλὰ καί δῶρα προσέθηκε καί φίλον ἐποιήσατο καί ξένον .",
+      "translation": "For there was a man in the city of the highest birth and of illustrious valour , whose name was Bantius . This man had fought with conspicuous bravery at Cannae , and had slain many of the Carthaginians , and when he was at last found among the dead with his body full of missiles , Hannibal was struck with admiration of him , and not only let him go without a ransom , but actually added gifts , and made him his friend and guest ."
+    },
+    {
+      "id": "11.1",
+      "label": "Section 11.1",
+      "chapter": null,
+      "original": "ἐκ τούτου βεβαιότατος μὲν ἦν Μαρκέλλῳ παραστάτης καὶ σύμμαχος , δεινότατος δὲ μηνυτὴς καὶ κατήγορος τῶν τἀναντία φρονούντων ὁ Βάνδιος . ἦσαν δὲ πολλοί , καὶ διενοοῦντο τῶν Ῥωμαίων ἐπεξιόντων τοῖς πολεμίοις αὐτοὶ διαρπάσαι τὰς ἀποσκευάς .",
+      "translation": "After this Bantius was a most steadfast partisan and ally of Marcellus , and a most formidable denouncer and accuser of those who belonged to the opposite party . [*] These were many , and they purposed , when the Romans went out against the enemy , to plunder their baggage ."
+    },
+    {
+      "id": "11.2",
+      "label": "Section 11.2",
+      "chapter": null,
+      "original": "διὸ συντάξας ὁ p.462 Μάρκελλος τὴν δύναμιν ἐντός παρὰ τὰς πύλας ἔστησε τὰ σκευοφόρα , καὶ τοῖς Νωλανοῖς διὰ κηρύγματος ἀπεῖπε πρὸς τὰ τείχη προσπελάζειν . ἦν οὖν ὅπλων ἐρημία καὶ τὸν Ἀννίβαν ἐπεσπάσατο προσάγειν ἀτακτότερον , ὡς τῶν ἐν τῇ πόλει ταραττομένων . ἐν τούτῳ δὲ τὴν καθʼ αὑτὸν πύλην ἀναπετάσαι κελεύσας ὁ Μάρκελλος ἐξήλασεν , ἔχων μεθʼ ἑαυτοῦ τῶν ἱπποτῶν τοὺς λαμπροτάτους , καὶ προσπεσὼν κατὰ στόμα συνείχετο τοῖς πολεμίοις .",
+      "translation": "Marcellus therefore drew up his forces inside the city , stationed his baggage-trains near the gates , and issued an edict forbidding the men of Nola to come near the city walls . Consequently there were no armed men to be seen , and Hannibal was thus induced to lead up his forces in some disorder , supposing the city to be in a tumult . But at this juncture Marcellus ordered the gate where he stood to be thrown open , and marched out , having with him the flower of his horsemen , and charging directly down upon the enemy joined battle with them ."
+    },
+    {
+      "id": "12.1",
+      "label": "Section 12.1",
+      "chapter": null,
+      "original": "διὸ καὶ θατέρου τῶν ὑπάτων ἀποθανόντος p.464 ἐκάλει Μάρκελλον ὁ δῆμος ἐπὶ τὴν διαδοχὴν ἀπόντα , καὶ βίᾳ τῶν ἀρχόντων ὑπερέθετο τὴν κατάστασιν ἕως ἐκεῖνος ἦλθεν ἀπὸ τοῦ στρατοπέδου . καὶ πάσαις μὲν ἀπεδείχθη ταῖς ψήφοις ὕπατος , ἐπιβροντήσαντος δὲ τοῦ θεοῦ καὶ τῶν ἱερέων οὐκ αἴσιον τιθεμένων τὸ σημεῖον , ἐμφανῶς δὲ κωλύειν ὀκνούντων καὶ δεδιότων τὸν δῆμον , αὐτὸς ἐξωμόσατο τὴν ἀρχήν .",
+      "translation": "For this reason , on the death of one of the consuls , [*] the people called Marcellus home to succeed him , and , in spite of the magistrates , postponed the election until his return from the army . He was made consul by a unanimous vote , but there was a peal of thunder at the time , and since the augurs considered the omen unpropitious , but hesitated to make open opposition for fear of the people , he renounced the office of himself ."
+    },
+    {
+      "id": "12.2",
+      "label": "Section 12.2",
+      "chapter": null,
+      "original": "οὐ μέντοι τὴν στρατείαν ἔφυγεν , ἀλλʼ ἀνθύπατος ἀναγορευθεὶς καὶ πάλιν πρὸς Νῶλαν ἐπανελθὼν εἰς τὸ στρατόπεδον κακῶς ἐποίει τοὺς ᾑρημένους τὰ τοῦ Φοίνικος , ὡς δὲ ὀξεῖαν ἐπʼ αὐτὸν θέμενος βοήθειαν ἐκεῖνος ἧκε , προκαλουμένῳ μὲν ἐκ παρατάξεως οὐκ ἠβουλήθη διαγωνίσασθαι , τρέψαντι δὲ τὸ πλεῖστον ἐφʼ ἁρπαγὴν τοῦ στρατοῦ καὶ μηκέτι προσδεχομένῳ μάχην ἐπεξῆλθε , διαδοὺς δόρατα τῶν ναυμάχων μεγάλα τοῖς πεζοῖς , καὶ διδάξας πόρρωθεν συντηροῦσι παίειν τοὺς Καρχηδονίους , ἀκοντιστὰς μὲν οὐκ ὄντας αἰχμαῖς δὲ χρωμένους ἐκ χειρὸς βραχείαις .",
+      "translation": "He did not , however , lay aside his military command , but having been declared proconsul , he returned to his army at Nola and proceeded to punish those who had espoused the cause of the Carthaginian . And when Hannibal came swiftly to their aid against him , and challenged him to a pitched battle , Marcellus declined an engagement ; but as soon as his adversary had set the greater part of his army to plundering and was no longer expecting a battle , he led his forces out against him . He had distributed long spears used in naval combats among his infantry , and taught them to watch their opportunity and smite the Carthaginians at long range ; these were not javelineers , but used short spears in hand to hand fighting ."
+    },
+    {
+      "id": "13.1",
+      "label": "Section 13.1",
+      "chapter": null,
+      "original": "ὁ δὲ Μάρκελλος ἀποδειχθεὶς ὕπατος τὸ τρίτον εἰς Σικελίαν ἔπλευσεν . αἱ γὰρ Ἀννίβου περὶ τὸν πόλεμον εὐπραξίαι Καρχηδονίους ἐπῆραν αὖθις ἀντιλαμβάνεσθαι τῆς νήσου , μάλιστα τεταραγμένων τῶν περὶ τὰς Συρακούσας μετὰ τὴν Ἱερωνύμου τοῦ τυράννου τελευτήν . διὸ καὶ Ῥωμαίων ἦν ἐκεῖ προαπεσταλμένη δύναμις καὶ στρατηγὸς Ἄππιος .",
+      "translation": "And now Marcellus , having been appointed consul for the third time , [*] sailed to Sicily . For Hannibal ’ s successes in the war had encouraged the Carthaginians to attempt anew the conquest of the island , especially now that Syracuse was in confusion after the death of the tyrant Hieronymus . For this reason the Romans also had previously sent a force thither under the command of Appius ."
+    },
+    {
+      "id": "13.2",
+      "label": "Section 13.2",
+      "chapter": null,
+      "original": "ταύτην παραλαμβάνοντι τῷ Μαρκέλλῳ προσπίπτουσι Ῥωμαῖοι πολλοί συμφορᾷ κεχρημένοι τοιαύτῃ , τῶν περὶ Κάννας παραταξαμένων πρὸς Ἀννίβαν οἱ μὲν ἔφυγον , οἱ δὲ ζῶντες ἥλωσαν , τοσοῦτον πλῆθος ὡς δοκεῖν Ῥωμαίοις ὑπολελεῖφθαι μηδὲ τοὺς τὰ τείχη διαφυλάξοντας .",
+      "translation": "As Marcellus took over this force , he was beset by many Romans who were involved in a calamity now to be described . Of those who had been drawn up against Hannibal at Cannae , some had fled , and others had been taken alive , and in such numbers that it was thought the Romans had not even men enough left to defend the walls of their city ."
+    },
+    {
+      "id": "14.1",
+      "label": "Section 14.1",
+      "chapter": null,
+      "original": "τότε δʼ ἐν Σικελίᾳ πρῶτον μὲν ἀδικηθεὶς ὑπὸ Ἱπποκράτους στρατηγοῦ στρατηγοῦ , ὃς Καρχηδονίοις χαριζόμενος καὶ τυραννίδα κτώμενος αὑτῷ πολλοὺς διέφθειρε Ῥωμαίων πρὸς Λεοντίνοις , εἷλε [*] τὴν τῶν Λεοντίνων πόλιν κατὰ κράτος , καὶ Λεοντίνους μὲν οὐκ ἠδίκησε , τῶν δὲ αὐτομόλων ὅσους ἔλαβε μαστιγώσας ἀπέκτεινε .",
+      "translation": "But in Sicily , at the time of which I speak , his first proceeding , after wrong had been done him by Hippocrates , the commander of the Syracusans ( who , to gratify the Carthaginians and acquire the tyranny for himself , had killed many Romans at Leontini ), was to take the city of Leontini by storm . He did no harm , however , to its citizens , but all the deserters whom he took he ordered to be beaten with rods and put to death ."
+    },
+    {
+      "id": "14.2",
+      "label": "Section 14.2",
+      "chapter": null,
+      "original": "τοῦ δʼ Ἱπποκράτους πρῶτον μὲν λόγον εἰς τὰς Συρακούσας προπέμψαντος ὡς Λεοντίνους ἡβηδὸν ἀποσφάττει Μάρκελλος , ἔπειτα δὲ τεταραγμένοις ἐπιπεσόντος καὶ τὴν πόλιν καταλαβόντος , ἄρας Μάρκελλος τῷ στρατῷ παντὶ πρὸς τὰς Συρακούσας ἐχώρει . καὶ καταστρατοπεδεύσας πλησίον εἰσέπεμψε μὲν πρέσβεις περὶ τῶν ἐν Λεοντίνοις διδάξοντας , ὡς δὲ οὐδὲν ἦν ὄφελος μὴ πειθομένων Συρακουσίων ( ἐκράτουν γὰρ οἱ περὶ τὸν Ἱπποκράτην ),",
+      "translation": "Hippocrates first sent a report to Syracuse that Marcellus was putting all the men of Leontini to the sword , and then , when the city was in a tumult at the news , fell suddenly upon it and made himself master of it . Upon this , Marcellus set out with his whole army and came to Syracuse . He encamped near by , and sent ambassadors into the city to tell the people what had really happened at Leontini ; but when this was of no avail and the Syracusans would not listen to him , the power being now in the hands of Hippocrates ,"
+    },
+    {
+      "id": "15.1",
+      "label": "Section 15.1",
+      "chapter": null,
+      "original": "ὡς οὖν προσέβαλον οἱ Ῥωμαῖοι διχόθεν , ἔκπληξις ἦν τῶν Συρακουσίων καὶ σιγὴ διὰ δέος , μηδὲν ἂν ἀνθέξειν πρὸς βίαν καὶ δύναμιν οἰομένων τοσαύτην . σχάσαντος δὲ τὰς μηχανὰς τοῦ Ἀρχιμήδους ἅμα τοῖς μὲν πεζοῖς ἀπήντα τοξεύματά τε παντοδαπὰ καὶ λίθων ὑπέρογκα μεγέθη , ῥοίζῳ καὶ τάχει καταφερομένων ἀπίστῳ , καὶ μηδενὸς ὅλως τὸ βρῖθος στέγοντος ἀθρόους ἀνατρεπόντων τοὺς ὑποπίπτοντας καὶ τὰς τάξεις συγχεόντων ,",
+      "translation": "When , therefore the Romans assaulted them by sea and land , the Syracusans were stricken dumb with terror ; they thought that nothing could withstand so furious an onset by such forces . But Archimedes began to ply his engines , and shot against the land forces of the assailants all sorts of missiles and immense masses of stones , which came down with incredible din and speed ; nothing whatever could ward off their weight , but they knocked down in heaps those who stood in their way , and threw their ranks into confusion ."
+    },
+    {
+      "id": "15.2",
+      "label": "Section 15.2",
+      "chapter": null,
+      "original": "ταῖς δὲ ναυσὶν ἀπὸ τῶν τειχῶν ἄφνω ὑπεραιωρούμεναι κεραῖαι τὰς μὲν ὑπὸ βρίθους στηρίζοντος ἄνωθεν ὠθοῦσαι κατέδυον εἰς βυθόν , τὰς δὲ χερσὶ σιδηραῖς ἢ στόμασιν εἰκασμένοις γεράνων ἀνασπῶσαι πρῴραθεν ὀρθὰς ἐπὶ πρύμναν ἐβάπτιζον , ἢ διʼ ἀντιτόνων ἔνδον ἐπιστρεφόμεναι καὶ περιαγόμεναι τοῖς ὑπὸ τὸ τεῖχος πεφυκόσι κρημνοῖς καὶ σκοπέλοις προσήρασσον , ἅμα φθόρῳ πολλῷ τῶν ἐπιβατῶν συντριβομένων .",
+      "translation": "At the same time huge beams were suddenly projected over the ships from the walls , which sank some of them with great weights plunging down from on high ; others were seized at the prow by iron claws , or beaks like the beaks of cranes , drawn straight up into the air , and then plunged stern foremost into the depths , or were turned round and round by means of enginery within the city , and dashed upon the steep cliffs that jutted out beneath the wall of the city , with great destruction of the fighting men on board , who perished in the wrecks ."
+    },
+    {
+      "id": "16.1",
+      "label": "Section 16.1",
+      "chapter": null,
+      "original": "ὡς οὖν προσέμιξαν οἰόμενοι λανθάνειν , αὖθις αὖ βέλεσι πολλοῖς ἐντυγχάνοντες καὶ πληγαῖς , πετρῶν μὲν ἐκ κεφαλῆς ἐπʼ αὐτοὺς φερομένων ὥσπερ πρὸς κάθετον , τοῦ δὲ τείχους τοξεύματα paris.1624.307 πανταχόθεν ἀναπέμποντος , ἀνεχώρουν ὀπίσω .",
+      "translation": "When , therefore , the Romans came up under the walls , thinking themselves unnoticed , once more they encountered a great storm of missiles ; huge stones came tumbling down upon them almost perpendicularly , and the wall shot out arrows at them from every point ; they therefore retired ."
+    },
+    {
+      "id": "16.2",
+      "label": "Section 16.2",
+      "chapter": null,
+      "original": "κἀνταῦθα πάλιν αὐτῶν εἰς μῆκος ἐκτεταγμένων , βελῶν ἐκθεόντων καὶ καταλαμβανόντων ἀπιόντας ἐγίνετο πολὺς μὲν αὐτῶν φθόρος , πολὺς δὲ τῶν νεῶν συγκρουσμός , οὐδὲν ἀντιδρᾶσαι τοὺς πολεμίους δυναμένων , τὰ γὰρ πλεῖστα τῶν p.478 ὀργάνων ὑπὸ τὸ τεῖχος ἐσκευοποίητο τῷ Ἀρχιμήδει , καὶ θεομαχοῦσιν ἐῴκεσαν οἱ Ῥωμαῖοι , μυρίων αὐτοῖς κακῶν ἐξ ἀφανοῦς ἐπιχεομένων .",
+      "translation": "And here again , when they were some distance off , missiles darted forth and fell upon them as they were going away , and there was a great slaughter among them ; many of their ships , too , were dashed together , and they could not retaliate in any way upon their foes . For Archimedes had built most of his engines close behind the wall , and the Romans seemed to be fighting against the gods , now that countless mischiefs were poured out upon them from an invisible source ."
+    },
+    {
+      "id": "17.1",
+      "label": "Section 17.1",
+      "chapter": null,
+      "original": "οὐ μὴν ἀλλʼ ὁ Μάρκελλος ἀπέφυγέ τε καὶ τοὺς σὺν ἑαυτῷ σκώπτων τεχνίτας καὶ μηχανοποιοὺς ἔλεγεν οὐ παυσόμεθα πρὸς τὸν γεωμετρικὸν τοῦτον Βριάρεων πολεμοῦντες , ὃς ταῖς μὲν ναυσὶν [*] ἡμῶν κυαθίζει ἐκ τῆς θαλάσσης , τὴν δὲ σαμβύκην ῥαπίζων [*] μετʼ αἰσχύνης ἐκβέβληκε , τοὺς δὲ μυθικοὺς ἑκατόγχειρας ὑπεραίρει τοσαῦτα βάλλων ἅμα βέλη καθʼ ἡμῶν ;",
+      "translation": "However , Marcellus made his escape , and jesting with his own artificers and engineers , Let us stop , said he , fighting against this geometrical Briareus , who uses our ships like cups to ladle water from the sea , and has whipped and driven off in disgrace our sambuca , and with the many missiles which he shoots against us all at once , outdoes the hundred-handed monsters of mythology ."
+    },
+    {
+      "id": "17.2",
+      "label": "Section 17.2",
+      "chapter": null,
+      "original": "τῷ γὰρ ὄντι πάντες οἱ λοιποὶ Συρακούσιοι σῶμα τῆς Ἀρχιμήδους παρασκευῆς ἦσαν , ἡ δὲ κινοῦσα πάντα καὶ στρέφουσα ψυχὴ μία , τῶν μὲν ἄλλων ὅπλων ἀτρέμα κειμένων , μόνοις δὲ τοῖς ἐκείνου τότε τῆς πόλεως χρωμένης καὶ πρὸς ἄμυναν καὶ πρὸς ἀσφάλειαν .",
+      "translation": "For in reality all the rest of the Syracusans were but a body for the designs of Archimedes , and his the one soul moving and managing everything ; for all other weapons lay idle , and his alone were then employed by the city both in offence and defence ."
+    },
+    {
+      "id": "18.1",
+      "label": "Section 18.1",
+      "chapter": null,
+      "original": "Ἀρχιμήδης μὲν οὖν τοιοῦτος γενόμενος ἀήττητον ἑαυτόν τε καὶ τὴν πόλιν , ὅσον ἐφʼ ἑαυτῷ , διεφύλαξε . τῆς δὲ πολιορκίας διὰ μέσου Μάρκελλος εἷλε μὲν Μεγαρέας , πόλιν ἐν ταῖς παλαιοτάταις τῶν Σικελιωτίδων , εἷλε δὲ τὸ Ἱπποκράτους paris.1624.308 πρὸς Ἀκρίλλαις στρατόπεδον , καὶ κατέκτεινεν ὑπὲρ ὀκτακισχιλίους ἐπιπεσὼν χάρακα βαλλομένοις , ἐπέδραμε δὲ πολλὴν Τῆς Σικελίας καὶ πόλεις ἀπέστησε Καρχηδονίων καὶ μάχας ἐνίκησε πάσας τοὺς ἀντιταχθῆναι τολμήσαντας .",
+      "translation": "Such , then , was Archimedes , and , so far as he himself was concerned , he maintained himself and his city unconquered . But during the progress of the siege Marcellus captured Megara , one of the most ancient cities of Sicily ; he also captured the camp of Hippocrates at Acrillae and killed more than eight thousand men , having attacked them as they were throwing up entrenchments ; furthermore , he overran a great part of Sicily , brought cities over from the Carthaginians , and was everywhere victorious over those who ventured to oppose him ."
+    },
+    {
+      "id": "18.2",
+      "label": "Section 18.2",
+      "chapter": null,
+      "original": "χρόνῳ δὲ προϊόντι Δάμιππόν τινα Σπαρτιάτην ἐκ Συρακουσῶν λαβὼν ἐκπλέοντα αἰχμάλωτον , ἀξιούντων ἐπὶ λύτροις τῶν Συρακοσίων κομίσασθαι τὸν ἄνδρα , πολλάκις ὑπὲρ τούτου διαλεγόμενος καὶ συντιθέμενος πύργον τινὰ κατεσκέψατο φυλαττόμενον μὲν ἀμελῶς , ἄνδρας δὲ δυνάμενον δέξασθαι κρύφα , τοῦ τείχους ἐπιβατοῦ παρʼ αὐτὸν ὄντος .",
+      "translation": "Some time afterwards he made a prisoner of a certain Damippus , a Spartan who tried to sail away from Syracuse . The Syracusans sought to ransom this man back , and during the frequent meetings and conferences which he held with them about the matter , Marcellus noticed a certain tower that was carelessly guarded , into which men could be secretly introduced , since the wall near it was easy to surmount ."
+    },
+    {
+      "id": "19.1",
+      "label": "Section 19.1",
+      "chapter": null,
+      "original": "καὶ τούτων ἐχομένων ἅμα φάει διὰ τῶν Ἑξαπύλων ὁ Μάρκελλος κατῄει , μακαριζόμενος ὑπὸ τῶν ὑφʼ ἑαυτὸν ἡγεμόνων . αὐτός μέντοι λέγεται κατιδὼν ἄνωθεν καὶ περισκεψάμενος τῆς πόλεως τὸ μέγεθος καὶ τὸ κάλλος ἐπὶ πολὺ δακρῦσαι τῷ μέλλοντι γίνεσθαι συμπαθήσας , ἐννοήσας οἷον ἐξ οἵου σχῆμα καὶ μορφὴν ἀμείψει μετὰ μικρόν ὑπὸ τοῦ στρατοπέδου διαφορηθεῖσα .",
+      "translation": "When these parts also were in his possession , at break of day Marcellus went down into the city through the Hexapyla , congratulated by the officers under him . He himself , however , as he looked down from the heights and surveyed the great and beautiful city , is said to have wept much in commiseration of its impending fate , bearing in mind how greatly its form and appearance would change in a little while , after his army had sacked it ."
+    },
+    {
+      "id": "19.2",
+      "label": "Section 19.2",
+      "chapter": null,
+      "original": "τῶν γὰρ ἡγεμόνων οὐδεὶς μὲν ἦν ὁ τολμῶν ἐναντιοῦσθαι τοῖς στρατιώταις αἰτουμένοις διʼ ἁρπαγῆς ὠφεληθῆναι , πολλοὶ δὲ καὶ πυρπολεῖν καὶ κατασκάπτειν ἐκέλευον . ἀλλὰ τοῦτον μὲν οὐδὲ ὅλως προσήκατο τὸν λόγον ὁ Μάρκελλος , μάλα δὲ ἄκων βιασθεὶς ἔδωκεν ἀπὸ χρημάτων καὶ ἀνδραπόδων ὠφελεῖσθαι , τῶν δὲ ἐλευθέρων σωμάτων ἀπεῖπεν ἅψασθαι , καὶ διεκελεύσατο μήτε ἀποκτεῖναί τινα μήτε αἰσχῦναι μήτε ἀνδραποδίσασθαι Συρακουσίων .",
+      "translation": "For among his officers there was not a man who had the courage to oppose the soldiers ’ demand for a harvest of plunder , nay , many of them actually urged that the city should be burned and razed to the ground . This proposal , however , Marcellus would not tolerate at all , but much against his will , and under compulsion , he permitted booty to be made of property and slaves , although he forbade his men to lay hands on the free citizens , and strictly ordered them neither to kill nor outrage nor enslave any Syracusan ."
+    },
+    {
+      "id": "20.1",
+      "label": "Section 20.1",
+      "chapter": null,
+      "original": "τῶν δὲ Ῥωμαίων τοῖς ἐκτὸς ἀνθρώποις δεινῶν μὲν εἶναι πόλεμον μεταχειρίσασθαι καὶ φοβερῶν εἰς χεῖρας ἐλθεῖν νομιζομένων , p.488 εὐγνωμοσύνης δὲ καὶ φιλανθρωπίας καὶ ὅλως πολιτικῆς ἀρετῆς ὑποδείγματα μὴ δεδωκότων , πρῶτος δοκεῖ τότε Μάρκελλος ὑποδεῖξαι τοῖς Ἕλλησι δικαιοτέρους Ῥωμαίους .",
+      "translation": "The Romans were considered by foreign peoples to be skilful in carrying on war and formidable fighters ; but of gentleness and humanity and , in a word , of civil virtues , they had given no proofs , and at this time Marcellus seems to have been the first to show the Greeks that the Romans were the more observant of justice ."
+    },
+    {
+      "id": "20.2",
+      "label": "Section 20.2",
+      "chapter": null,
+      "original": "οὕτω γὰρ ἐχρῆτο τοῖς συμβάλλουσι καὶ τοσαῦτα καὶ πόλεις καὶ ἰδιώτας εὐεργέτησεν ὥστε , εἴ τι περὶ Ἔνναν ἢ Μεγαρεῖς ἢ Συρακουσίους ἔργον ἦν εἰργασμένον οὐκ ἐπιεικὲς αὐτοῖς , τοῦτο τῶν πεπονθότων αἰτίᾳ μᾶλλον ἢ τῶν πεποιηκότων δοκεῖν γεγονέναι . μνησθήσομαι δὲ ἑνὸς ἀπὸ πολλῶν , πόλις ἐστι τῆς Σικελίας Ἐγγύϊον οὐ μεγάλη , ἀρχαία δὲ πάνυ καὶ διὰ θεῶν ἐπιφάνειαν ἔνδοξος , ἃς καλοῦσι Ματέρας .",
+      "translation": "For such was his treatment of those who had to do with him , and so many were the benefits which he conferred both upon cities and private persons , that , if the people of Enna or Megara or Syracuse met with any indignities , the blame for these was thought to belong to the sufferers rather than to the perpetrators . And I will mention one instance out of many . There is a city of Sicily called Engyium , not large , but very ancient , and famous for the appearance there of goddesses , who are called Mothers . [*]"
+    },
+    {
+      "id": "21.1",
+      "label": "Section 21.1",
+      "chapter": null,
+      "original": "τὸν δὲ Μάρκελλον ἀνακαλουμένων τῶν Ῥωμαίων ἐπὶ τὸν ἐγχώριον καὶ σύνοικον πόλεμον , ἐπανερχόμενος τὰ πλεῖστα καὶ κάλλιστα τῶν ἐν p.492 Συρακούσαις ἐκίνησεν ἀναθημάτων , ὡς αὐτῷ τε πρὸς τὸν θρίαμβον ὄψις εἴη καὶ τῇ πόλει κόσμος . οὐδὲν γὰρ εἶχεν οὐδʼ ἐγίνωσκε πρότερον τῶν κομψῶν καὶ περιττῶν , οὐδὲ ἦν ἐν αὐτῇ τὸ χάριεν τοῦτο καὶ γλαφυρὸν ἀγαπώμενον ,",
+      "translation": "When Marcellus was recalled by the Romans to the war in their home territories , he carried back with him the greater part and the most beautiful of the dedicatory offerings in Syracuse , that they might grace his triumph and adorn his city . For before this time Rome neither had nor knew about such elegant and exquisite productions , nor was there any love there for such graceful and subtle art ;"
+    },
+    {
+      "id": "21.2",
+      "label": "Section 21.2",
+      "chapter": null,
+      "original": "ὅπλων δὲ βαρβαρικῶν καὶ λαφύρων ἐναίμων ἀνάπλεως οὖσα καὶ περιεστεφανωμένη θριάμβων ὑπομνήμασι καὶ τροπαίοις οὐχ ἱλαρὸν οὐδʼ ἄφοβον οὐδὲ δειλῶν ἦν θέαμα καὶ τρυφώντων θεατῶν , ἀλλʼ ὥσπερ Ἐπαμεινώνδας τὸ Βοιώτιον πεδίον Ἄρεως ὀρχήστραν , Ξενοφῶν δὲ τὴν Ἔφεσον πολέμου ἐργαστήριον , οὕτως ἄν μοι δοκεῖ τις τότε τὴν Ῥώμην κατὰ Πίνδαρον βαθυπτολέμου τέμενος Ἄρεως προσειπεῖν .",
+      "translation": "but filled full of barbaric arms and bloody spoils , and crowned round about with memorials and trophies of triumphs , she was not a gladdening or a reassuring sight , nor one for unwarlike and luxurious spectators . Indeed , as Epaminondas called the Boeotian plain a dancing floor of Ares , and as Xenophon [*] speaks of Ephesus as a\nwork-shop of war ,\nso , it seems to me , one might at that time have called Rome , in the language of Pindar ,\na precinct of much-warring Ares .\n[*]"
+    },
+    {
+      "id": "22.1",
+      "label": "Section 22.1",
+      "chapter": null,
+      "original": "ἐνισταμένων δὲ τῶν ἐχθρῶν τῷ Μαρκέλλῳ πρὸς τὸν θρίαμβον , ἐπεὶ καὶ πράξεις τινὲς ὑπολιπεῖς ἦσαν ἔτι περὶ Σικελίαν καὶ φθόνον εἶχεν ὁ τρίτος θρίαμβος , συνεχώρησεν αὐτὸς [*] τὸν μὲν ἐντελῆ καὶ μέγαν εἰς τὸ Ἀλβανὸν ὄρος ἐξελάσαι , τὸν δὲ ἐλάττω καταγαγεῖν εἰς τὴν πόλιν , ὃν εὔαν Ἕλληνες , ὄβαν δὲ Ῥωμαῖοι καλοῦσι .",
+      "translation": "But when the enemies of Marcellus opposed his triumph , because something still remained to be done in Sicily and a third triumph would awaken jealousy , he consented of his own accord to conduct the complete and major triumph to the Alban mount , but to enter the city in the minor triumph ; this is called eua by the Greeks , and ova by the Romans . [*]"
+    },
+    {
+      "id": "22.2",
+      "label": "Section 22.2",
+      "chapter": null,
+      "original": "πέμπει δὲ αὐτὸν οὐκ ἐπὶ τὸν τεθρίππου βεβηκὼς οὐδὲ δάφνης ἔχων στέφανον οὐδὲ περισαλπιζόμενος , ἀλλὰ πεζὸς ἐν βλαύταις , ὑπʼ αὐλητῶν μάλα πολλῶν , καὶ μυρρίνης στέφανον ἐπικείμενος , ὡς ἀπόλεμος καὶ ἡδὺς ὀφθῆναι μᾶλλον ἢ καταπληκτικός , ὃ καὶ μέγιστον ἐμοὶ τεκμήριόν ἐστι τοῦ τρόπῳ πράξεως , ἀλλὰ μὴ μεγέθει , διωρίσθαι τοὺς θριάμβους τὸ παλαιόν .",
+      "translation": "In conducting it the general does not mount upon a four-horse chariot , nor wear a wreath of laurel , nor have trumpets sounding about him ; but he goes afoot with shoes on , accompanied by the sound of exceeding many flutes , and wearing a wreath of myrtle , so that his appearance is unwarlike and friendly rather than terrifying . And this is the strongest proof to my mind that in ancient times the two triumphs were distinguished , not by the magnitude , but by the manner , of the achievements which they celebrated ."
+    },
+    {
+      "id": "23.1",
+      "label": "Section 23.1",
+      "chapter": null,
+      "original": "τοῦ δὲ Μαρκέλλου τὸ τέταρτον ὑπατεύοντος οἱ ἐχθροὶ τοὺς Συρακουσίους ἀνέπεισαν εἰς Ῥώμην ἀφικομένους κατηγορεῖν καὶ καταβοᾶν πρὸς τὴν σύγκλητον ὡς δεινὰ καὶ παράσπονδα p.498 πεπονθότας . ἔτυχε μὲν οὖν ἐν Καπιτωλίῳ θυσίαν τινὰ συντελῶν ὁ Μάρκελλος · ἔτι δὲ συγκαθεζομένῃ τῇ γερουσίᾳ τῶν Συρακουσίων προσπεσόντων καὶ δεομένων λόγου τυχεῖν καὶ δίκης , ὁ μὲν συνάρχων ἐξεῖργεν αὑτούς ,",
+      "translation": "While Marcellus was serving as consul for the fourth time , [*] his enemies induced the Syracusans to come to Rome and accuse and denounce him before the senate for terrible wrongs which they had suffered contrary to the terms of surrender . It chanced , then , that Marcellus was performing a sacrifice on the Capitol , but , the senate being still in session , the Syracusans hurried before it and begged that they might have a hearing and justice ."
+    },
+    {
+      "id": "23.2",
+      "label": "Section 23.2",
+      "chapter": null,
+      "original": "ἀγανακτῶν ὑπὲρ τοῦ Μαρκέλλου μὴ παρόντος , ὁ δὲ Μάρκελλος εὐθὺς ἧκεν ἀκούσας , καὶ πρῶτον μὲν ἐπὶ τοῦ δίφρου καθίσας ὡς ὕπατος ἐχρημάτιζεν , ἔπειτα , τῶν ἄλλων τέλος ἐχόντων , καταβὰς ἀπὸ τοῦ δίφρου καὶ καταστὰς ὥσπερ ἰδιώτης εἰς τὸν τόπον ἐν ᾧ λέγειν εἰώθασιν οἱ κρινόμενοι , τοῖς Συρακουσίοις ἐλέγχειν αὑτὸν παρεῖχεν .",
+      "translation": "The colleague of Marcellus tried to have them expelled , angrily explaining that Marcellus was not present ; but Marcellus , when he heard of it , came at once . And first , sitting as consul in his curule chair , he transacted the routine business ; then , when this was all ended , coming down from his curule chair and taking his stand as a private citizen in the place where men under accusation usually plead their cause , he gave the Syracusans opportunity to press their charge ."
+    },
+    {
+      "id": "24.1",
+      "label": "Section 24.1",
+      "chapter": null,
+      "original": "τοὐντεῦθεν ἤδη τρέπεται πρὸς Ἀννίβαν . καὶ τῶν ἄλλων ὑπάτων καὶ ἡγεμόνων σχεδὸν ἁπάντων μετὰ τὰ ἐν Κάνναις ἑνὶ στρατηγήματι τῷ φυγομαχεῖν χρωμένων ἐπὶ τὸν ἄνδρα , παρατάττεσθαι δὲ καὶ συμπλέκεσθαι μηδενὸς τολμῶντος , αὐτὸς ἐπὶ τὴν ἐναντίαν ὥρμησεν ὁδόν ,",
+      "translation": "After this he moved at once against Hannibal . And although almost all the other consuls and commanders , after the disaster at Cannae , made the avoidance of all fighting their sole plan of campaign against this antagonist , and no one had the courage to engage in a pitched battle with him , Marcellus himself took the opposite course ,"
+    },
+    {
+      "id": "24.2",
+      "label": "Section 24.2",
+      "chapter": null,
+      "original": "οἰόμενος τῷ δοκοῦντι καταλύειν Ἀννίβαν χρόνῳ πρότερον ἐκτριβεῖσαν ὑπʼ ἐκείνου [*] λήσεσθαι τὴν Ἰταλίαν , καὶ τὸν Φάβιον ἀεὶ τῆς ἀσφαλείας ἐχόμενον οὐ καλῶς ἔχειν [*] ἰᾶσθαι τὸ νόσημα τῆς p.502 πατρίδος , περιμένοντα τῇ ῥώμῃ μαραινομένῃ συναποσβῆναι τὸν πόλεμον , ὥσπερ ἰατρῶν τοὺς ἀτόλμους καὶ δειλοὺς πρὸς τὰ βοηθήματα , τῆς νόσου παρακμὴν τὴν τῆς δυνάμεως [*] ἐξανάλωσιν ἡγουμένους .",
+      "translation": "thinking that before the time thought necessary for destroying Hannibal had elapsed , Italy would insensibly be worn out by him . He thought , too , that Fabius , by making safety his constant aim , was not taking the right course to heal the malady of the country , since the extinction of the war for which he waited would be coincident with the exhaustion of Rome , just as physicians who are timid and afraid to apply remedies , consider the consumption of the patient ’ s powers to be the abatement of the disease ."
+    },
+    {
+      "id": "25.1",
+      "label": "Section 25.1",
+      "chapter": null,
+      "original": "ἐπεὶ δὲ ἐλθὼν ἀπὸ τῆς Σικελίας ὁ τοῦ Μαρκέλλου συνάρχων ἕτερον ἐβούλετο λαβεῖν [*] δικτάτορα , καὶ βιασθῆναι παρὰ γνώμην μὴ βουλόμενος ἐξέπλευσε νυκτὸς εἰς Σικελίαν , οὕτως ὁ μὲν δῆμος ὠνόμασε δικτάτορα Κόϊντον Φούλβιον , ἡ βουλὴ δʼ ἔγραψε Μαρκέλλῳ κελεύουσα τοῦτον εἰπεῖν . ὁ δὲ πεισθεὶς ἀνεῖπε καὶ συνεπεκύρωσε τοῦ δήμου τὴν γνώμην , αὐτὸς δὲ πάλιν ἀνθύπατος p.506 εἰς τοὐπιὸν ἀπεδείχθη .",
+      "translation": "But the colleague of Marcellus , who had come back from Sicily , wished to appoint another man as dictator , and being unwilling to have his opinion overborne by force , sailed off by night to Sicily . Under these circumstances the people named Quintus Fulvius as dictator , and the senate wrote to Marcellus bidding him confirm the nomination . He consented , proclaimed Quintus Fulvius dictator , and so confirmed the will of the people ; he himself was appointed proconsul again for the ensuing year . [*]"
+    },
+    {
+      "id": "25.2",
+      "label": "Section 25.2",
+      "chapter": null,
+      "original": "συνθέμενος δὲ πρὸς Φάβιον Μάξιμον ὅπως ἐκεῖνος μὲν ἐπιχειρῇ Ταραντίνοις , paris.1624.313 αὐτὸς δὲ συμπλεκόμενος καὶ περιέλκων Ἀννίβαν ἐμποδὼν ᾖ τοῦ βοηθεῖν πρὸς ἐκεῖνον , ἐπέβαλε περὶ Κανύσιον , καὶ πολλὰς ἀλλάσσοντι στρατοπεδείας καὶ φυγομαχοῦντι πανταχόθεν ἐπεφαίνετο , τέλος δʼ ἱδρυνθέντα προσκείμενος ἐξανίστη τοῖς ἀκροβολισμοῖς .",
+      "translation": "He then made an agreement with Fabius Maximus that , while Fabius should make an attempt upon Tarentum , he himself , by diverting Hannibal and engaging with him , should prevent him from coming to the relief of that place . He came up with Hannibal at Canusium , and as his adversary often shifted his camp and declined battle , he threatened him continually , and at last , by harassing him with his skirmishers , drew him out of his entrenchments ."
+    },
+    {
+      "id": "26.1",
+      "label": "Section 26.1",
+      "chapter": null,
+      "original": "ἅμα δὲ ἡμέρᾳ προὔκειτο μὲν ὁ φοινικοῦς χιτὼν , ὡς εἴωθε , μάχης ἐσομένης σύμβολον , αἱ δὲ ἠτιμασμέναι σπεῖραι τὴν πρώτην αὐταὶ δεηθεῖσαι τάξιν ἐλάμβανον , τὴν δὲ ἄλλην ἐξάγοντες οἱ χιλίαρχοι στρατιὰν παρενέβαλλον , ἀκούσας δὲ ὁ Ἀννίβας , ὦ Ἡράκλεις , εἶπε , τί χρήσεταί τις ἀνθρώπῳ μήτε τὴν χείρονα τύχην μήτε τὴν βελτίονα φέρειν εἰδότι ; μόνος γὰρ οὗτος οὔτε νικῶν δίδωσιν ἀνάπαυσιν οὔτε λαμβάνει νικώμενος , ἀλλʼ ἀεὶ μαχησόμεθα πρὸς τοῦτον , ὡς ἔοικεν ,",
+      "translation": "At daybreak the scarlet tunic , the usual signal of impending battle , was displayed , the cohorts under disgrace begged and obtained for themselves the foremost position in the line , and the tribunes led forth the rest of the army and put them in array . On hearing of this Hannibal said : O Hercules ! what can be done with a man who knows not how to bear either his worse or his better fortune ? For he is the only man who neither gives a respite when he is victorious , nor takes it when he is vanquished , but we shall always be fighting with him , as it seems ,"
+    },
+    {
+      "id": "26.2",
+      "label": "Section 26.2",
+      "chapter": null,
+      "original": "ᾧ τοῦ τολμᾶν ἀεὶ καὶ τὸ θαρρεῖν εὐτυχοῦντι καὶ σφαλλομένῳ τὸ αἰδεῖσθαι πρόφασίς ἐστιν . ἐκ τούτου συνῄεσαν αἱ δυνάμεις · καὶ τῶν ἀνδρῶν ἴσα φερομένων ἐκέλευσεν Ἀννίβας τὰ θηρία καταστήσαντας εἷς πρώτην τάξιν ἐπάγειν τοῖς ὅπλοις τῶν Ῥωμαίων , ὠθισμοῦ δὲ μεγάλου καὶ ταραχῆς εὐθὺς ἐν τοῖς πρώτοις γενομένης , εἷς τῶν χιλιάρχων ὄνομα Φλάβιος ἀναρπάσας σημαίαν ὑπηντίαζε καὶ τῷ στύρακι τὸν πρῶτον ἐλέφαντα τύπτων ἀπέστρεφεν .",
+      "translation": "since both his courage in success and his shame in defeat are made reasons for bold undertaking . Then the forces engaged ; and since the men fought with equal success , Hannibal ordered his elephants to be stationed in the van , and to be driven against the ranks of the Romans . A great press and much confusion at once arose among their foremost lines , but one of the tribunes , Flavius by name , snatched up a standard , confronted the elephants , smote the leader with the iron spike of the standard , and made him wheel about ."
+    },
+    {
+      "id": "27.1",
+      "label": "Section 27.1",
+      "chapter": null,
+      "original": "ὁ δὲ Ἀννίβας ὡς ἀπέρρηξεν ἑαυτὸν τοῦ Μαρκέλλου , χρώμενος ὥσπερ λελυμένῳ τῷ paris.1624.314 στρατεύματι , πᾶσαν ἀδεῶς ἐν κύκλῳ περιϊὼν ἔφλεγε τὴν Ἰταλίαν καὶ κακῶς ἤκουσεν ἐν Ῥώμῃ Μάρκελλος , οἱ δὲ ἐχθροὶ Πουβλίκιον Βίβλον , ἕνα τῶν δημάρχων , ἀνέστησαν ἐπὶ τὴν κατηγορίαν αὐτοῦ , δεινὸν εἰπεῖν ἄνδρα καὶ βίαιον ·",
+      "translation": "But Hannibal , now that he had torn himself away from Marcellus , made free use of his army , and going fearlessly round about , wasted all Italy with fire . Meantime , at Rome , Marcellus was in ill repute , and his enemies incited Publicius Bibulus , one of the tribunes of the people , a powerful speaker and a man of violence , to bring a denunciation against him ."
+    },
+    {
+      "id": "27.2",
+      "label": "Section 27.2",
+      "chapter": null,
+      "original": "ὃς πολλάκις συναγαγὼν τὸν δῆμον ἔπειθεν ἄλλῳ παραδοῦναι στρατηγῷ τὴν δύναμιν , ἐπεὶ Μάρκελλος , ἔφη , μικρὰ τῷ πολέμῳ προσγεγυμνασμένος ὥσπερ ἐκ παλαίστρας ἐπὶ θερμὰ λουτρὰ θεραπεύσων ἑαυτὸν τέτραπται . ταῦτα πυνθανόμενος ὁ Μάρκελλος ἐπὶ μὲν τοῦ στρατοπέδου τοὺς πρεσβευτὰς ἀπέλιπεν , αὐτὸς δὲ πρὸς τὰς διαβολὰς ἐπλογησόμενος εἰς Ῥώμην ἐπανῆλθεν .",
+      "translation": "This man held frequent assemblies of the people and tried to persuade them to put the forces of Marcellus in charge of another general , since Marcellus , as he said , after giving himself a little exercise in the war , has withdrawn from it as from a palaestra , and betaken himself to warm baths for refreshment . On learning of this , Marcellus left his legates in charge of his army , while he himself went up to Rome to make answer to the accusations against him ."
+    },
+    {
+      "id": "28.1",
+      "label": "Section 28.1",
+      "chapter": null,
+      "original": "παραλαβὼν δὲ τὴν ἀρχήν πρῶτον μὲν ἐν Τυρρηνίᾳ μέγα κίνημα πρὸς ἀπόστασιν ἔπαυσε καὶ κατεπράϋνεν ἐπελθὼν τὰς πόλεις · ἔπειτα ναὸν ἐκ τῶν Σικελικῶν λαφύρων ᾠκοδομημένον ὑπʼ αὐτοῦ Δόξης καὶ Ἀρετῆς καθιερῶσαι βουλόμενος , καὶ κωλυθεὶς ὑπὸ τῶν ἱερέων οὐκ ἀξιούντων ἑνὶ ναῷ δύο θεοὺς περιέχεσθαι , πάλιν ἤρξατο προσοικοδομεῖν ἕτερον , οὐ ῥᾳδίως φέρων τὴν γεγενημένην ἀντίκρουσιν , ἀλλʼ ὥσπερ οἰωνιζόμενος .",
+      "translation": "After assuming his office , he first quelled a great agitation for revolt in Etruria , and visited and pacified the cities there ; next , he desired to dedicate to Honour and Virtue a temple that he had built out of his Sicilian spoils , hut was prevented by the priests , who would not consent that two deities should occupy one temple ; he therefore began to build another temple adjoining the first , although he resented the priests ’ opposition and regarded it as ominous ."
+    },
+    {
+      "id": "28.2",
+      "label": "Section 28.2",
+      "chapter": null,
+      "original": "καὶ γὰρ ἄλλα πολλὰ σημεῖα διετάραττεν αὐτόν , ἱερῶν τινων κεραυνώσεις καὶ μύες τὸν ἐν Διὸς χρυσὸν διαφαγόντες ἐλέχθη δὲ καὶ βοῦν ἀνθρώπου φωνὴν ἀφεῖναι καὶ παιδίον ἔχον κεφαλὴν ἐλέφαντος γενέσθαι · καὶ περὶ τὰς ἐκθύσεις καὶ ἀποτροπὰς δυσιεροῦντες οἱ μάντεις κατεῖχον αὐτὸν ἐν Ῥώμῃ σπαργῶντα καὶ φλεγόμενον . οὐδεὶς γὰρ ἔρωτα τοσοῦτον ἠράσθη πράγματος οὐδενός ὅσον οὗτος ὁ ἀνὴρ τοῦ μάχῃ κριθῆναι πρὸς Ἀννίβαν .",
+      "translation": "And indeed many other portents disturbed him : sundry temples were struck by lightning , and in that of Jupiter , mice had gnawed the gold ; it was reported also that an ox had uttered human speech , and that a boy had been born with an elephant ’ s head ; moreover , in their expiatory rites and sacrifices , the seers received bad omens , and therefore detained him at Rome , though he was all on fire and impatient to be gone . [*] For no man ever had such a passion for any thing as he had for fighting a decisive battle with Hannibal ."
+    },
+    {
+      "id": "29.1",
+      "label": "Section 29.1",
+      "chapter": null,
+      "original": "οὐ μὴν ἀλλὰ θυσιῶν καὶ καθαρμῶν ὧν ὑπηγόρευον οἱ μάντεις γενομένων ἐξῆλθε μετὰ τοῦ συνάρχοντος ἐπὶ τόν πόλεμον , καὶ πολλὰ μεταξὺ Βαντίας πόλεως καὶ Βενυσίας καθήμενον ἠρέθιζε τόν Ἀννίβαν . ὁ δὲ εἰς μάχην μὲν οὐ κατέβαινεν , αἰσθόμενος δὲ πεμπομένην ὑπʼ αὐτῶν στρατιὰν ἐπὶ Λοκροὺς τοὺς Ἐπιζεφυρίους , κατὰ τόν περὶ Πετηλίαν λόφον ὑφεὶς ἐνέδρας πεντακοσίους καὶ δισχιλίους ἀπέκτεινε .",
+      "translation": "However , after the ceremonies of sacrifice and purification which the seers prescribed had been performed , he set out with his colleague for the war , and gave much annoyance to Hannibal in his encampment between Bantia and Venusia . Hannibal would not give battle , but having been made aware that the Romans had sent some troops against Locri Epizephyrii , he set an ambush for them at the lull of Petelia , and slew twenty-five hundred of them ."
+    },
+    {
+      "id": "29.2",
+      "label": "Section 29.2",
+      "chapter": null,
+      "original": "τοῦτο Μάρκελλον paris.1624.315 ἐξέφερε τῷ θυμῷ πρὸς τὴν μάχην , καὶ προσῆγεν ἄρας ἐγγυτέρω τὴν δύναμιν . ἦν δὲ μεταξὺ τῶν στρατοπέδων λόφος ἐπιεικῶς μὲν εὐερκής , ὕλης δὲ παντοδαπῆς ἀνάπλεως · εἶχε δὲ καὶ σκοπὰς περικλινεῖς ἐπʼ ἀμφότερα , καὶ ναμάτων ὑπεφαίνοντο πηγαὶ καταρρεόντων , ἐθαύμαζον οὖν οἱ Ῥωμαῖοι Ἀννίβαν ὅτι πρῶτος ἐλὼν εὐφυᾶ τόπον οὕτως οὐ κατέσχεν , ἀλλʼ p.516 ἀπέλιπε τοῖς πολεμίοις .",
+      "translation": "This filled Marcellus with mad desire for the battle , and breaking camp , he brought his forces nearer to the enemy . Between the camps was a hill which could be made tolerably secure , and was full of all sorts of woody growth ; it had also lookout-places that sloped in either direction , and streams of water showed themselves running down its sides . The Romans therefore wondered that Hannibal , who had come first to a place of natural advantages , had not occupied it , but left it in this way for his enemies ."
+    },
+    {
+      "id": "30.1",
+      "label": "Section 30.1",
+      "chapter": null,
+      "original": "Ἀννίβᾳ δὲ τῶν μὲν ἄλλων ἐλάχιστος ἦν λόγος , Μάρκελλον δὲ πεπτωκέναι πυθόμενος αὐτὸς ἐξέδραμεν ἐπὶ τὸν τόπον , καὶ τῷ νεκρῷ παραστάς καὶ πολὺν χρόνον τήν τε ῥώμην τοῦ σώματος καταμαθὼν καὶ τὸ εἶδος , οὔτε φωνὴν p.520 ἀφῆκεν ὑπερήφανον , οὔτε ἀπʼ ὄψεως τὸ χαῖρον , ὡς ἄν τις ἐργώδη πολέμιον καὶ βαρὺν ἀπεκτονώς , ἐξέφηνεν ,",
+      "translation": "Hannibal made very little account of the rest , but when he learned that Marcellus had fallen , he ran out to the place himself , and after standing by the dead body and surveying for a long time its strength and mien , he uttered no boastful speech , nor did he manifest his joy at the sight , as one might have done who had slain a bitter and troublesome foe ;"
+    },
+    {
+      "id": "30.2",
+      "label": "Section 30.2",
+      "chapter": null,
+      "original": "ἀλλʼ ἐπιθαυμάσας τὸ παράλογον τῆς τελευτῆς τὸν μὲν δακτύλιον ἀφείλετο , τὸ δὲ σῶμα paris.1624.316 κοσμήσας πρέποντι κόσμῳ καὶ περιστείλας ἐντίμως ἔκαυσε καὶ τὰ λείψανα συνθεὶς εἰς κάλπιν ἀργυρᾶν , καὶ χρυσοῦν ἐμβαλὼν στέφανον , ἀπέστειλε πρὸς τὸν υἱόν . τῶν δὲ Νομάδων τινὲς περιτυχόντες τοῖς κομίζουσιν ὥρμησαν ἀφαιρεῖσθαι τὸ τεῦχος , ἀντιλαμβανομένων δʼ ἐκείνων ἐκβιαζόμενοι καὶ μαχόμενοι διέρριψαν τὰ ὀστᾶ .",
+      "translation": "but after wondering at the unexpectedness of his end , he took off his signet-ring , indeed , [*] but ordered the body to be honourably robed , suitably adorned , and burned . Then he collected the remains in a silver urn , placed a golden wreath upon it , and sent it back to his son . But some of the Numidians fell in with those who were carrying the urn and attempted to take it away from them , and when they resisted , fought with them , and in the fierce struggle scattered the bones far and wide ."
+    }
+  ],
+  "prevChunkSlug": "pelopidas-sc3b8l",
+  "nextChunkSlug": "comparison-of-pelopidas-and-marcellus-14rkru"
+}

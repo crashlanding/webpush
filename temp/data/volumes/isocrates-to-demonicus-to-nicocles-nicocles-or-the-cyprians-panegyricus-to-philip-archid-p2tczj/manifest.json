@@ -1,0 +1,436 @@
+{
+  "loebNumber": 209,
+  "sortOrder": 209,
+  "slug": "isocrates-to-demonicus-to-nicocles-nicocles-or-the-cyprians-panegyricus-to-philip-archid-p2tczj",
+  "title": "To Demonicus. To Nicocles. Nicocles or the Cyprians. Panegyricus. To Philip. Archidamus",
+  "volumeLabel": "To Demonicus. To Nicocles. Nicocles or the Cyprians. Panegyricus. To Philip. Archidamus",
+  "authorDisplay": "Isocrates",
+  "authors": [
+    "Isocrates"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for To Demonicus. To Nicocles. Nicocles or the Cyprians. Panegyricus. To Philip. Archidamus, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "to-demonicus-jil7i6",
+  "readyChunkCount": 12,
+  "contents": [
+    {
+      "id": "to-demonicus-jil7i6",
+      "title": "To Demonicus",
+      "status": "ready",
+      "sectionCount": 52,
+      "chunkSlug": "to-demonicus-jil7i6",
+      "chunks": [
+        {
+          "slug": "to-demonicus-jil7i6",
+          "label": "To Demonicus",
+          "partId": "to-demonicus-jil7i6",
+          "partTitle": "To Demonicus",
+          "sectionCount": 52,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "to-nicocles-oc34qr",
+      "title": "To Nicocles",
+      "status": "ready",
+      "sectionCount": 54,
+      "chunkSlug": "to-nicocles-oc34qr",
+      "chunks": [
+        {
+          "slug": "to-nicocles-oc34qr",
+          "label": "To Nicocles",
+          "partId": "to-nicocles-oc34qr",
+          "partTitle": "To Nicocles",
+          "sectionCount": 54,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "nicocles-or-the-cyprians-gd1uov",
+      "title": "Nicocles or the Cyprians",
+      "status": "ready",
+      "sectionCount": 64,
+      "chunkSlug": "nicocles-or-the-cyprians-gd1uov",
+      "chunks": [
+        {
+          "slug": "nicocles-or-the-cyprians-gd1uov",
+          "label": "Nicocles or the Cyprians",
+          "partId": "nicocles-or-the-cyprians-gd1uov",
+          "partTitle": "Nicocles or the Cyprians",
+          "sectionCount": 64,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "panegyricus-1ruktw",
+      "title": "Panegyricus",
+      "status": "ready",
+      "sectionCount": 189,
+      "chunkSlug": "panegyricus-1ruktw-1",
+      "chunks": [
+        {
+          "slug": "panegyricus-1ruktw-1",
+          "label": "Panegyricus (Section 1 - Section 60)",
+          "partId": "panegyricus-1ruktw",
+          "partTitle": "Panegyricus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "panegyricus-1ruktw-2",
+          "label": "Panegyricus (Section 61 - Section 120)",
+          "partId": "panegyricus-1ruktw",
+          "partTitle": "Panegyricus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "panegyricus-1ruktw-3",
+          "label": "Panegyricus (Section 121 - Section 180)",
+          "partId": "panegyricus-1ruktw",
+          "partTitle": "Panegyricus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "panegyricus-1ruktw-4",
+          "label": "Panegyricus (Section 181 - Section 189)",
+          "partId": "panegyricus-1ruktw",
+          "partTitle": "Panegyricus",
+          "sectionCount": 9,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "to-philip-1p4ioj",
+      "title": "To Philip",
+      "status": "ready",
+      "sectionCount": 155,
+      "chunkSlug": "to-philip-1p4ioj-1",
+      "chunks": [
+        {
+          "slug": "to-philip-1p4ioj-1",
+          "label": "To Philip (Section 1 - Section 60)",
+          "partId": "to-philip-1p4ioj",
+          "partTitle": "To Philip",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "to-philip-1p4ioj-2",
+          "label": "To Philip (Section 61 - Section 120)",
+          "partId": "to-philip-1p4ioj",
+          "partTitle": "To Philip",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "to-philip-1p4ioj-3",
+          "label": "To Philip (Section 121 - Section 155)",
+          "partId": "to-philip-1p4ioj",
+          "partTitle": "To Philip",
+          "sectionCount": 35,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "archidamus-uynja3",
+      "title": "Archidamus",
+      "status": "ready",
+      "sectionCount": 111,
+      "chunkSlug": "archidamus-uynja3-1",
+      "chunks": [
+        {
+          "slug": "archidamus-uynja3-1",
+          "label": "Archidamus (Section 1 - Section 60)",
+          "partId": "archidamus-uynja3",
+          "partTitle": "Archidamus",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "archidamus-uynja3-2",
+          "label": "Archidamus (Section 61 - Section 111)",
+          "partId": "archidamus-uynja3",
+          "partTitle": "Archidamus",
+          "sectionCount": 51,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "to-demonicus-jil7i6",
+      "label": "To Demonicus",
+      "partId": "to-demonicus-jil7i6",
+      "partTitle": "To Demonicus",
+      "sectionCount": 52,
+      "status": "ready"
+    },
+    {
+      "slug": "to-nicocles-oc34qr",
+      "label": "To Nicocles",
+      "partId": "to-nicocles-oc34qr",
+      "partTitle": "To Nicocles",
+      "sectionCount": 54,
+      "status": "ready"
+    },
+    {
+      "slug": "nicocles-or-the-cyprians-gd1uov",
+      "label": "Nicocles or the Cyprians",
+      "partId": "nicocles-or-the-cyprians-gd1uov",
+      "partTitle": "Nicocles or the Cyprians",
+      "sectionCount": 64,
+      "status": "ready"
+    },
+    {
+      "slug": "panegyricus-1ruktw-1",
+      "label": "Panegyricus (Section 1 - Section 60)",
+      "partId": "panegyricus-1ruktw",
+      "partTitle": "Panegyricus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "panegyricus-1ruktw-2",
+      "label": "Panegyricus (Section 61 - Section 120)",
+      "partId": "panegyricus-1ruktw",
+      "partTitle": "Panegyricus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "panegyricus-1ruktw-3",
+      "label": "Panegyricus (Section 121 - Section 180)",
+      "partId": "panegyricus-1ruktw",
+      "partTitle": "Panegyricus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "panegyricus-1ruktw-4",
+      "label": "Panegyricus (Section 181 - Section 189)",
+      "partId": "panegyricus-1ruktw",
+      "partTitle": "Panegyricus",
+      "sectionCount": 9,
+      "status": "ready"
+    },
+    {
+      "slug": "to-philip-1p4ioj-1",
+      "label": "To Philip (Section 1 - Section 60)",
+      "partId": "to-philip-1p4ioj",
+      "partTitle": "To Philip",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "to-philip-1p4ioj-2",
+      "label": "To Philip (Section 61 - Section 120)",
+      "partId": "to-philip-1p4ioj",
+      "partTitle": "To Philip",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "to-philip-1p4ioj-3",
+      "label": "To Philip (Section 121 - Section 155)",
+      "partId": "to-philip-1p4ioj",
+      "partTitle": "To Philip",
+      "sectionCount": 35,
+      "status": "ready"
+    },
+    {
+      "slug": "archidamus-uynja3-1",
+      "label": "Archidamus (Section 1 - Section 60)",
+      "partId": "archidamus-uynja3",
+      "partTitle": "Archidamus",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "archidamus-uynja3-2",
+      "label": "Archidamus (Section 61 - Section 111)",
+      "partId": "archidamus-uynja3",
+      "partTitle": "Archidamus",
+      "sectionCount": 51,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "to-demonicus-jil7i6",
+      "partTitle": "To Demonicus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πρὸς Δημόνικον",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg007.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "To Demonicus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg007.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "to-nicocles-oc34qr",
+      "partTitle": "To Nicocles",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πρὸς Νικόκλεα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg013.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "To Nicocles",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg013.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "nicocles-or-the-cyprians-gd1uov",
+      "partTitle": "Nicocles or the Cyprians",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Νικόκλης ἢ Κύπριοι",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg014.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Nicocles or the Cyprians",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg014.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "panegyricus-1ruktw-1",
+      "partTitle": "Panegyricus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πανηγυρικός",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg011.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Panegyricus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "panegyricus-1ruktw-2",
+      "partTitle": "Panegyricus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πανηγυρικός",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg011.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Panegyricus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "panegyricus-1ruktw-3",
+      "partTitle": "Panegyricus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πανηγυρικός",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg011.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Panegyricus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "panegyricus-1ruktw-4",
+      "partTitle": "Panegyricus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πανηγυρικός",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg011.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Panegyricus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "to-philip-1p4ioj-1",
+      "partTitle": "To Philip",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Φίλιππος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg020.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "To Philip",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg020.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "to-philip-1p4ioj-2",
+      "partTitle": "To Philip",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Φίλιππος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg020.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "To Philip",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg020.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "to-philip-1p4ioj-3",
+      "partTitle": "To Philip",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Φίλιππος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg020.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "To Philip",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg020.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "archidamus-uynja3-1",
+      "partTitle": "Archidamus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀρχίδαμος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg016.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "To Archidamus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg016.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "archidamus-uynja3-2",
+      "partTitle": "Archidamus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀρχίδαμος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg016.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "To Archidamus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg016.perseus-eng2/"
+      }
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-bacchae-iphigenia-at-aulis-rhesus-11kdpx",
+  "volumeTitle": "Bacchae. Iphigenia at Aulis. Rhesus",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "iphigenia-at-aulis-1nu4gk-11",
+  "label": "Iphigenia at Aulis (Section 1374 - Section 1495)",
+  "partId": "iphigenia-at-aulis-1nu4gk",
+  "partTitle": "Iphigenia at Aulis",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἰφιγένεια ἐν Αὐλίδι",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Iphigenia at Aulis",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg018.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1374",
+      "label": "Section 1374",
+      "chapter": null,
+      "original": "οἷα δʼ εἰσῆλθέν μʼ , ἄκουσον , μῆτερ , ἐννοουμένην ·",
+      "translation": "Listen , mother ; hear what thoughts have passed across my mind ."
+    },
+    {
+      "id": "1375",
+      "label": "Section 1375",
+      "chapter": null,
+      "original": "κατθανεῖν μέν μοι δέδοκται · τοῦτο δʼ αὐτὸ βούλομαι",
+      "translation": "I am resolved to die ; and this I want to do with honor , dismissing from me what is mean . Towards this now , mother turn your thoughts , and with me weigh how well I speak ; to me the whole of mighty Hellas looks ; on me the passage over the sea depends ; on me the sack of Troy ;"
+    },
+    {
+      "id": "1380",
+      "label": "Section 1380",
+      "chapter": null,
+      "original": "τάς τε μελλούσας γυναῖκας , ἤν τι δρῶσι βάρβαροι ,",
+      "translation": "and in my power it lies to check henceforth barbarian raids on happy Hellas , if ever in the days to come they seek to seize her women , when once they have atoned by death [*] for the violation of Helen ’ s marriage by Paris . All this deliverance will my death insure , and my fame for setting Hellas free will be a happy one ."
+    },
+    {
+      "id": "1385",
+      "label": "Section 1385",
+      "chapter": null,
+      "original": "καὶ γὰρ οὐδέ τοί τι λίαν ἐμὲ φιλοψυχεῖν χρεών ·",
+      "translation": "Besides , I have no right at all to cling too fondly to my life ; for you did not bear me for myself alone , but as a public blessing to all Hellas . What ! shall countless warriors , armed with shields , those myriads sitting at the oar , find courage to attack the foe and die for Hellas , because their fatherland is wronged ,"
+    },
+    {
+      "id": "1390",
+      "label": "Section 1390",
+      "chapter": null,
+      "original": "ἡ δʼ ἐμὴ ψυχὴ μίʼ οὖσα πάντα κωλύσει τάδε ;",
+      "translation": "and my one life prevent all this ? What [*] kind of justice is that ? could I find a word in answer ? Now let us turn to that other point . It is not right that this man should enter into battle with all Argos or be slain for a woman ’ s sake . Better a single man should see the light than ten thousand women ."
+    },
+    {
+      "id": "1395",
+      "label": "Section 1395",
+      "chapter": null,
+      "original": "εἰ βεβούληται δὲ σῶμα τοὐμὸν Ἄρτεμις λαβεῖν ,",
+      "translation": "If Artemis has decided to take my body , am I , a mortal , to thwart the goddess ? no , that is impossible . I give my body to Hellas ; sacrifice it and make an utter end of Troy . This is my enduring monument ; marriage , motherhood , and fame — all these is it to me ."
+    },
+    {
+      "id": "1400",
+      "label": "Section 1400",
+      "chapter": null,
+      "original": "βαρβάρων δʼ Ἕλληνας ἄρχειν εἰκός , ἀλλʼ οὐ βαρβάρους ,",
+      "translation": "And it is right , mother , that Hellenes should rule barbarians , but not barbarians Hellenes , those being slaves , while these are free ."
+    },
+    {
+      "id": "1402",
+      "label": "Section 1402",
+      "chapter": null,
+      "original": "τὸ μὲν σόν , ὦ νεᾶνι , γενναίως ἔχει ·",
+      "translation": "You play a noble part , maiden ; but the whims of Fate and the goddess are diseased ."
+    },
+    {
+      "id": "1403",
+      "label": "Section 1403",
+      "chapter": null,
+      "original": "τὸ τῆς τύχης δὲ καὶ τὸ τῆς θεοῦ νοσεῖ .",
+      "translation": "Daughter of Agamemnon ! some god was bent"
+    },
+    {
+      "id": "1405",
+      "label": "Section 1405",
+      "chapter": null,
+      "original": "ἔμελλε θήσειν , εἰ τύχοιμι σῶν γάμων .",
+      "translation": "on blessing me , if I could have won you for my wife . In you I consider Hellas happy , and you in Hellas ; for this that you have said is good and worthy of your fatherland ; since you , abandonIng a strife with heavenly powers , which are too strong for you , have fairly weighed advantages and needs . [*]"
+    },
+    {
+      "id": "1410",
+      "label": "Section 1410",
+      "chapter": null,
+      "original": "μᾶλλον δὲ λέκτρων σῶν πόθος μʼ ἐσέρχεται",
+      "translation": "But now that I have looked into your noble nature , I feel still more a fond desire to win you for my bride . Look to it ; for I want to serve you and receive you in my halls ; and , Thetis be my witness , how I grieve to think I shall not save your life by doing battle with the Danaids ."
+    },
+    {
+      "id": "1415",
+      "label": "Section 1415",
+      "chapter": null,
+      "original": "ἐλθών . ἄθρησον · ὁ θάνατος δεινὸν κακόν .",
+      "translation": "Reflect , I say ; a dreadful ill is death ."
+    },
+    {
+      "id": "1416",
+      "label": "Section 1416",
+      "chapter": null,
+      "original": "λέγω τάδʼ οὐδὲν οὐδένʼ εὐλαβουμένη .",
+      "translation": "This I say , without regard to anyone . [*] Enough that the daughter of Tyndareus is causing wars and bloodshed by her beauty ; then be not slain yourself , stranger , nor seek to slay another on my account ;"
+    },
+    {
+      "id": "1420",
+      "label": "Section 1420",
+      "chapter": null,
+      "original": "ἔα δὲ σῷσαί μʼ Ἑλλάδʼ , ἢν δυνώμεθα .",
+      "translation": "but let me , if I can , save Hellas ."
+    },
+    {
+      "id": "1421",
+      "label": "Section 1421",
+      "chapter": null,
+      "original": "ὦ λῆμʼ ἄριστον , οὐκ ἔχω πρὸς τοῦτʼ ἔτι",
+      "translation": "Heroic spirit ! I can say no more to this , since you are so minded ; for yours is a noble resolve ; why should not one speak the truth ? Yet I will speak , for you will perhaps change your mind ;"
+    },
+    {
+      "id": "1425",
+      "label": "Section 1425",
+      "chapter": null,
+      "original": "ὡς οὖν ἂν εἰδῇς τἀπʼ ἐμοῦ λελεγμένα ,",
+      "translation": "that you may know then what my offer is , I will go and place these arms of mine near the altar , resolved not to permit your death but to prevent ; for brave as you are at sight of the knife held at your throat , you will soon avail yourself of what I said ."
+    },
+    {
+      "id": "1430",
+      "label": "Section 1430",
+      "chapter": null,
+      "original": "οὔκουν ἐάσω σʼ ἀφροσύνῃ τῇ σῇ θανεῖν ·",
+      "translation": "So I will not let you perish through any thoughtlessness of yours , but will go to the goddess with these arms and await your arrival there . [*] Exit Achilles ."
+    },
+    {
+      "id": "1433",
+      "label": "Section 1433",
+      "chapter": null,
+      "original": "μῆτερ , τί σιγῇ δακρύοις τέγγεις κόρας ;",
+      "translation": "Mother , why so silent , your eyes wet with tears ?"
+    },
+    {
+      "id": "1434",
+      "label": "Section 1434",
+      "chapter": null,
+      "original": "ἔχω τάλαινα πρόφασιν ὥστʼ ἀλγεῖν φρένα .",
+      "translation": "I have reason , woe is me ! to be sad at heart ."
+    },
+    {
+      "id": "1435",
+      "label": "Section 1435",
+      "chapter": null,
+      "original": "παῦσαι · ʼμὲ μὴ κάκιζε · τάδε δέ μοι πιθοῦ .",
+      "translation": "Stop ; do not make me a coward ; here in one thing obey me ."
+    },
+    {
+      "id": "1436",
+      "label": "Section 1436",
+      "chapter": null,
+      "original": "λέγʼ · ὡς παρʼ ἡμῶν οὐδὲν ἀδικήσῃ , τέκνον .",
+      "translation": "Tell me , my child , for at my hands you shall never suffer injury ."
+    },
+    {
+      "id": "1437",
+      "label": "Section 1437",
+      "chapter": null,
+      "original": "μήτʼ οὖν γε τὸν σὸν πλόκαμον ἐκτέμῃς τριχός ,",
+      "translation": "Cut not off the tresses of your hair for me , nor clothe yourself in sable garb . [*]"
+    },
+    {
+      "id": "1439",
+      "label": "Section 1439",
+      "chapter": null,
+      "original": "τί δὴ τόδʼ εἶπας , τέκνον ; ἀπολέσασά σε ;",
+      "translation": "Why , my child , what is it you have said ? When I have lost you ? [*]"
+    },
+    {
+      "id": "1440",
+      "label": "Section 1440",
+      "chapter": null,
+      "original": "οὐ σύ γε · σέσῳσμαι , κατʼ ἐμὲ δʼ εὐκλεὴς ἔσῃ .",
+      "translation": "You wll not lose me ; I am saved and you renowned , as far as I can make you ."
+    },
+    {
+      "id": "1441",
+      "label": "Section 1441",
+      "chapter": null,
+      "original": "πῶς εἶπας ; οὐ πενθεῖν με σὴν ψυχὴν χρεών ;",
+      "translation": "How so ? Must I not mourn your death ?"
+    },
+    {
+      "id": "1442",
+      "label": "Section 1442",
+      "chapter": null,
+      "original": "ἥκιστʼ , ἐπεί μοι τύμβος οὐ χωσθήσεται .",
+      "translation": "By no means , for I shall have no tomb heaped over me ."
+    },
+    {
+      "id": "1443",
+      "label": "Section 1443",
+      "chapter": null,
+      "original": "τί δαί ; τὸ θνῄσκειν , οὐ τάφος , νομίζεται .",
+      "translation": "What then ? It is death , not the tomb , that is rightly mourned ."
+    },
+    {
+      "id": "1444",
+      "label": "Section 1444",
+      "chapter": null,
+      "original": "βωμὸς θεᾶς μοι μνῆμα τῆς Διὸς κόρης .",
+      "translation": "The altar of the goddess , Zeus ’ s daughter , will be my tomb ."
+    },
+    {
+      "id": "1445",
+      "label": "Section 1445",
+      "chapter": null,
+      "original": "ἀλλʼ , ὦ τέκνον , σοὶ πείσομαι · λέγεις γὰρ εὖ .",
+      "translation": "Well , my child , I will let you persuade me , for you speak well ."
+    },
+    {
+      "id": "1446",
+      "label": "Section 1446",
+      "chapter": null,
+      "original": "ὡς εὐτυχοῦσά γʼ Ἑλλάδος τʼ εὐεργέτις .",
+      "translation": "Yes , as one who prospers and does Hellas service ."
+    },
+    {
+      "id": "1447",
+      "label": "Section 1447",
+      "chapter": null,
+      "original": "τί δὴ κασιγνήταισιν ἀγγελῶ σέθεν ;",
+      "translation": "What message shall I carry to your sisters ?"
+    },
+    {
+      "id": "1448",
+      "label": "Section 1448",
+      "chapter": null,
+      "original": "μηδʼ ἀμφὶ κείναις μέλανας ἐξάψῃ πέπλους .",
+      "translation": "Do not put mourning raiment on them either ."
+    },
+    {
+      "id": "1449",
+      "label": "Section 1449",
+      "chapter": null,
+      "original": "εἴπω δὲ παρὰ σοῦ φίλον ἔπος τι παρθένοις ;",
+      "translation": "But is there no fond message I can give the maidens from you ?"
+    },
+    {
+      "id": "1450",
+      "label": "Section 1450",
+      "chapter": null,
+      "original": "χαίρειν γε . Ὀρέστην τʼ ἔκτρεφʼ ἄνδρα τόνδε μοι .",
+      "translation": "Yes , my farewell words ; and promise me to rear Orestes to manhood ."
+    },
+    {
+      "id": "1451",
+      "label": "Section 1451",
+      "chapter": null,
+      "original": "προσέλκυσαί νιν ὕστατον θεωμένη .",
+      "translation": "Press him to your bosom ; it is your last look ."
+    },
+    {
+      "id": "1452",
+      "label": "Section 1452",
+      "chapter": null,
+      "original": "ὦ φίλτατʼ , ἐπεκούρησας ὅσον εἶχες φίλοις .",
+      "translation": "O you that are most dear to me ! you have helped your friends as you had means ."
+    },
+    {
+      "id": "1453",
+      "label": "Section 1453",
+      "chapter": null,
+      "original": "ἔσθʼ ὅ τι κατʼ Ἄργος δρῶσά σοι χάριν φέρω ;",
+      "translation": "Is there anything I can do in Argos to please you ?"
+    },
+    {
+      "id": "1454",
+      "label": "Section 1454",
+      "chapter": null,
+      "original": "πατέρα τὸν ἀμὸν μὴ στύγει , πόσιν γε σόν .",
+      "translation": "Yes , do not hate my father , your own husband ."
+    },
+    {
+      "id": "1455",
+      "label": "Section 1455",
+      "chapter": null,
+      "original": "δεινοὺς ἀγῶνας διὰ σὲ δεῖ κεῖνον δραμεῖν .",
+      "translation": "Fearful are the trials through which he has to go because of you ."
+    },
+    {
+      "id": "1456",
+      "label": "Section 1456",
+      "chapter": null,
+      "original": "ἄκων μʼ ὑπὲρ γῆς Ἑλλάδος διώλεσεν .",
+      "translation": "It was against his will he ruined me for the sake of Hellas ."
+    },
+    {
+      "id": "1457",
+      "label": "Section 1457",
+      "chapter": null,
+      "original": "δόλῳ δʼ , ἀγεννῶς Ἀτρέως τʼ οὐκ ἀξίως .",
+      "translation": "Ah ! but he employed base treachery , unworthy of Atreus ."
+    },
+    {
+      "id": "1458",
+      "label": "Section 1458",
+      "chapter": null,
+      "original": "τίς μʼ εἶσιν ἄξων πρὶν σπαράσσεσθαι κόμης ;",
+      "translation": "Who will escort me from here , before my hair is torn ?"
+    },
+    {
+      "id": "1459",
+      "label": "Section 1459",
+      "chapter": null,
+      "original": "ἐγώ , μετά γε σοῦ —",
+      "translation": "I will go with you —"
+    },
+    {
+      "id": "1459b",
+      "label": "Section 1459b",
+      "chapter": null,
+      "original": "μὴ σύ γʼ · οὐ καλῶς λέγεις .",
+      "translation": "No , not you ; that is not well saidl ."
+    },
+    {
+      "id": "1460",
+      "label": "Section 1460",
+      "chapter": null,
+      "original": "πέπλων ἐχομένη σῶν .",
+      "translation": "Clinging to your robes ."
+    },
+    {
+      "id": "1460b",
+      "label": "Section 1460b",
+      "chapter": null,
+      "original": "ἐμοί , μῆτερ , πιθοῦ ·",
+      "translation": "Be persuaded by me , mother , stay here ; for this is the better way both for me and you ; but let one of these attendants of my father conduct me to the meadow of Artemis , where I shall be sacrificed ."
+    },
+    {
+      "id": "1464",
+      "label": "Section 1464",
+      "chapter": null,
+      "original": "ὦ τέκνον , οἴχῃ ;",
+      "translation": "Are you gone from me , my child ?"
+    },
+    {
+      "id": "1464b",
+      "label": "Section 1464b",
+      "chapter": null,
+      "original": "καὶ πάλιν γʼ οὐ μὴ μόλω .",
+      "translation": "Yes , and with no chance of ever returning ."
+    },
+    {
+      "id": "1465",
+      "label": "Section 1465",
+      "chapter": null,
+      "original": "λιποῦσα μητέρα ;",
+      "translation": "Leaving your mother ?"
+    },
+    {
+      "id": "1465b",
+      "label": "Section 1465b",
+      "chapter": null,
+      "original": "ὡς ὁρᾷς γʼ , οὐκ ἀξίως .",
+      "translation": "Yes , as you see , undeservedly ."
+    },
+    {
+      "id": "1466",
+      "label": "Section 1466",
+      "chapter": null,
+      "original": "σχές , μή με προλίπῃς .",
+      "translation": "Hold ! do not leave me !"
+    },
+    {
+      "id": "1466b",
+      "label": "Section 1466b",
+      "chapter": null,
+      "original": "οὐκ ἐῶ στάζειν δάκρυ .",
+      "translation": "I cannot let you shed a tear . To the Chorus . May it be yours , maidens , to hymn in joyous strains Artemis , the child of Zeus , for my hard lot ; and let the order for a solemn hush go forth to the Danaids ."
+    },
+    {
+      "id": "1470",
+      "label": "Section 1470",
+      "chapter": null,
+      "original": "κανᾶ δʼ ἐναρχέσθω τις , αἰθέσθω δὲ πῦρ",
+      "translation": "Begin the sacrifice with the baskets , let the fire blaze for the purifying meal of sprinkling , and my father pace from left to right about the altar ; for I come to bestow on Hellas safety crowned with victory ."
+    },
+    {
+      "id": "1475",
+      "label": "Section 1475",
+      "chapter": null,
+      "original": "ἄγετέ με τὰν Ἰλίου",
+      "translation": "Lead me away , the destroyer of Ilium ’ s town and the Phrygians ; give me wreaths to cast about me ; bring them here ; here are my tresses to crown ; bring lustral water too ."
+    },
+    {
+      "id": "1480",
+      "label": "Section 1480",
+      "chapter": null,
+      "original": "ἑλίσσετʼ ἀμφὶ ναὸν",
+      "translation": "Dance to Artemis , queen Artemis the blest , around her shrine and altar ; for by the blood of my sacrifice I will blot out the oracle ,"
+    },
+    {
+      "id": "1485",
+      "label": "Section 1485",
+      "chapter": null,
+      "original": "αἵμασι θύμασί τε",
+      "translation": "if it must be ."
+    },
+    {
+      "id": "1487",
+      "label": "Section 1487",
+      "chapter": null,
+      "original": "ὦ πότνια πότνια μᾶτερ , οὐ δάκρυά γέ σοι",
+      "translation": "O mother , lady revered ! I will , not give you my tears ;"
+    },
+    {
+      "id": "1490",
+      "label": "Section 1490",
+      "chapter": null,
+      "original": "παρʼ ἱεροῖς γὰρ οὐ πρέπει .",
+      "translation": "for at the holy rites it is not fitting . [*]"
+    },
+    {
+      "id": "1491",
+      "label": "Section 1491",
+      "chapter": null,
+      "original": "ἰὼ ἰὼ νεάνιδες ,",
+      "translation": "Sing with me , maidens , sing the praises of Artemis , whose temple faces Chalcis ,"
+    },
+    {
+      "id": "1495",
+      "label": "Section 1495",
+      "chapter": null,
+      "original": "ἵνα τε δόρατα μέμονε δάϊʼ",
+      "translation": "where angry spearmen madly chafe , here in the narrow havens of Aulis , because of me ."
+    }
+  ],
+  "prevChunkSlug": "iphigenia-at-aulis-1nu4gk-10",
+  "nextChunkSlug": "iphigenia-at-aulis-1nu4gk-12"
+}

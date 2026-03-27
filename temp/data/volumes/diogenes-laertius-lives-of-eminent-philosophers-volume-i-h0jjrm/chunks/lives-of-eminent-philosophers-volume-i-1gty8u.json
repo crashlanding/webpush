@@ -1,0 +1,339 @@
+{
+  "volumeSlug": "diogenes-laertius-lives-of-eminent-philosophers-volume-i-h0jjrm",
+  "volumeTitle": "Lives of Eminent Philosophers, Volume I",
+  "authorDisplay": "Diogenes Laertius",
+  "authors": [
+    "Diogenes Laertius"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "lives-of-eminent-philosophers-volume-i-1gty8u",
+  "label": "Lives of Eminent Philosophers, Volume I",
+  "partId": "lives-of-eminent-philosophers-volume-i-1gty8u",
+  "partTitle": "Lives of Eminent Philosophers, Volume I",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Βίοι καὶ γνῶμαι τῶν ἐν φιλοσοφίᾳ εὐδοκιμησάντων",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0004.tlg001.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Lives of Eminent Philosophers",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0004.tlg001.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.prol.1",
+      "label": "Section 1.prol.1",
+      "chapter": null,
+      "original": "Τὸ τῆς φιλοσοφίας ἔργον ἔνιοί φασιν ἀπὸ βαρβάρων ἄρξαι . γεγενῆσθαι γὰρ παρὰ μὲν Πέρσαις Μάγους , παρὰ δὲ Βαβυλωνίοις ἢ Ἀσσυρίοις Χαλδαίους , καὶ Γυμνοσοφιστὰς παρʼ Ἰνδοῖς , παρά τε Κελτοῖς καὶ Γαλάταις τοὺς καλουμένους Δρυΐδας καὶ Σεμνοθέους , καθά φησιν Ἀριστοτέλης ἐν τῷ Μαγικῷ καὶ Σωτίων ἐν τῷ εἰκοστῷ τρίτῳ τῆς Διαδοχῆς . Φοίνικά τε γενέσθαι Μῶχον , καὶ Θρᾷκα Ζάμολξιν , καὶ Λίβυν Ἄτλαντα .\nΑἰγύπτιοι μὲν γὰρ Νείλου γενέσθαι παῖδα Ἥφαιστον , ὃν ἄρξαι φιλοσοφίας , ἧς τοὺς προεστῶτας ἱερέας εἶναι καὶ προφήτας .",
+      "translation": "There are some who say that the study of philosophy had its beginning among the barbarians . They urge that the Persians have had their Magi , the Babylonians or Assyrians their Chaldaeans , and the Indians their Gymnosophists ; and among the Celts and Gauls there are the people called Druids or Holy Ones , for which they cite as authorities the Magicus of Aristotle and Sotion in the twenty-third [*] book of his Succession of Philosophers . Also they say that Mochus was a Phoenician , Zamolxis a Thracian , and Atlas a Libyan .\nIf we may believe the Egyptians , Hephaestus was the son of the Nile , and with him philosophy began , priests and prophets being its chief exponents ."
+    },
+    {
+      "id": "1.prol.2",
+      "label": "Section 1.prol.2",
+      "chapter": null,
+      "original": "ἀπὸ δὲ τούτου εἰς Ἀλέξανδρον τὸν Μακεδόνα ἐτῶν εἶναι μυριάδας τέσσαρας καὶ ὀκτακισχίλια ὀκτακόσια ἑξήκοντα τρία · ἐν οἷς ἡλίου μὲν ἐκλείψεις γενέσθαι τριακοσίας ἑβδομήκοντα τρεῖς , σελήνης δὲ ὀκτακοσίας τριάκοντα δύο .\nV1_4\nἈπὸ δὲ τῶν Μάγων , ὧν ἄρξαι Ζωροάστρην τὸν Πέρσην , Ἑρμόδωρος μὲν ὁ Πλατωνικὸς ἐν τῷ Περὶ μαθημάτων φησὶν εἰς τὴν Τροίας ἅλωσιν ἔτη γεγονέναι πεντακισχίλια · Ξάνθος δὲ ὁ Λυδὸς εἰς τὴν Ξέρξου διάβασιν ἀπὸ τοῦ Ζωροάστρου ἑξακισχίλιά φησι , καὶ μετʼ αὐτὸν γεγονέναι πολλούς τινας Μάγους κατὰ διαδοχήν , Ὀστάνας καὶ Ἀστραμψύχους καὶ Γωβρύας καὶ Παζάτας , μέχρι τῆς τῶν Περσῶν ὑπʼ Ἀλεξάνδρου καταλύσεως .",
+      "translation": "Hephaestus lived 48 , 863 years before Alexander of Macedon , and in the interval there occurred 373 solar and 832 lunar eclipses .\nV1_5\nThe date of the Magians , beginning with Zoroaster the Persian , was 5000 years before the fall of Troy , as given by Hermodorus the Platonist in his work on mathematics ; but Xanthus the Lydian reckons 6000 years from Zoroaster to the expedition of Xerxes , and after that event he places a long line of Magians in succession , bearing the names of Ostanas , Astrampsychos , Gobryas , and Pazatas , down to the conquest of Persia by Alexander ."
+    },
+    {
+      "id": "1.prol.3",
+      "label": "Section 1.prol.3",
+      "chapter": null,
+      "original": "Λανθάνουσι δʼ αὑτοὺς τὰ τῶν Ἑλλήνων κατορθώματα , ἀφʼ ὧν μὴ ὅτι γε φιλοσοφία , ἀλλὰ καὶ γένος ἀνθρώπων ἦρξε , βαρβάροις προσάπτοντες . ἰδοὺ γοῦν παρὰ μὲν Ἀθηναίοις γέγονε Μουσαῖος , παρὰ δὲ Θηβαίοις Λίνος . καὶ τὸν μὲν Εὐμόλπου παῖδά φασι , ποιῆσαι δὲ Θεογονίαν καὶ Σφαῖραν πρῶτον · φάναι τε ἐξ ἑνὸς τὰ πάντα γίνεσθαι καὶ εἰς ταὐτὸν ἀναλύεσθαι . τοῦτον τελευτῆσαι Φαληροῖ , καὶ αὐτῷ ἐπιγεγράφθαι τόδε τὸ ἐλεγεῖον ·\nΕὐμόλπου φίλον υἱὸν ἔχει τὸ Φαληρικὸν οὖδας , Μουσαῖον , φθιμένου σῶμʼ , ὑπὸ τῷδε τάφῳ .\nἀπὸ δὲ τοῦ πατρὸς τοῦ Μουσαίου καὶ Εὐμολπίδαι καλοῦνται παρʼ Ἀθηναίοις .",
+      "translation": "These authors forget that the achievements which they attribute to the barbarians belong to the Greeks , with whom not merely philosophy but the human race itself began . For instance , Musaeus is claimed by Athens , Linus by Thebes . It is said that the former , the son of Eumolpus , was the first to compose a genealogy of the gods and to construct a sphere , and that he maintained that all things proceed from unity and are resolved again into unity . He died at Phalerum , and this is his epitaph [*] :\nMusaeus , to his sire Eumolpus dear , In Phalerean soil lies buried here ;\nand the Eumolpidae at Athens get their name from the father of Musaeus ."
+    },
+    {
+      "id": "1.prol.4",
+      "label": "Section 1.prol.4",
+      "chapter": null,
+      "original": "Τὸν δὲ Λίνον παῖδα εἶναι Ἑρμοῦ καὶ Μούσης Οὐρανίας · ποιῆσαι δὲ κοσμογονίαν , ἡλίου καὶ σελήνης πορείαν , καὶ ζῴων καὶ καρπῶν γενέσεις . τούτῳ ἀρχὴ τῶν ποιημάτων ἥδε ·\nἦν ποτέ τοι χρόνος οὗτος , ἐν ᾧ ἅμα πάντʼ ἐπεφύκει .\nὅθεν λαβὼν Ἀναξαγόρας πάντα ἔφη χρήματα V1_6 γεγονέναι ὁμοῦ , νοῦν δὲ ἐλθόντα αὐτὰ διακοσμῆσαι . τὸν δὲ Λίνον τελευτῆσαι ἐν Εὐβοίᾳ τοξευθέντα ὑπʼ Ἀπόλλωνος , καὶ αὐτῷ ἐπιγεγράφθαι ·\nἥδε [*] Λίνον Θηβαῖον ἐδέξατο γαῖα θανόντα , Μούσης Οὐρανίης υἱὸν ἐϋστεφάνου .\nκαὶ ὧδε μὲν ἀφʼ Ἑλλήνων ἦρξε φιλοσοφία , ἧς καὶ αὐτὸ τὸ ὄνομα τὴν βάρβαρον ἀπέστραπται προσηγορίαν .",
+      "translation": "Linus again was ( so it is said ) the son of Hermes and the Muse Urania . He composed a poem describing the creation of the world , the courses of the sun and moon , and the growth of animals and plants . His poem begins with the line :\nTime was when all things grew up at once ;\nand this idea was borrowed by Anaxagoras when he V1_7 declared that all things were originally together until Mind came and set them in order . Linus died in Euboea , slain by the arrow of Apollo , and this is his epitaph [*] :\nHere Theban Linus , whom Urania bore , The fair-crowned Muse , sleeps on a foreign shore .\nAnd thus it was from the Greeks that philosophy took its rise : its very name refuses to be translated into foreign speech ."
+    },
+    {
+      "id": "1.prol.5",
+      "label": "Section 1.prol.5",
+      "chapter": null,
+      "original": "Οἱ δὲ τὴν εὕρεσιν διδόντες ἐκείνοις παράγουσι καὶ Ὀρφέα τὸν Θρᾷκα , λέγοντες φιλόσοφον γεγονέναι καὶ εἶναι ἀρχαιότατον . ἐγὼ δέ , εἰ τὸν περὶ θεῶν ἐξαγορεύσαντα τοιαῦτα χρὴ φιλόσοφον καλεῖν οὐκ οἶδα , 〈 οὐδὲ 〉 [*] τίνα δεῖ προσαγορεύειν τὸν πᾶν τὸ ἀνθρώπειον πάθος ἀφειδοῦντα τοῖς θεοῖς προστρῖψαι , καὶ τὰ σπανίως ὑπό τινων ἀνθρώπων αἰσχρουργούμενα τῷ τῆς φωνῆς ὀργάνῳ . τοῦτον δὲ ὁ μὲν μῦθος ὑπὸ γυναικῶν ἀπολέσθαι φησί · τὸ δʼ ἐν Δίῳ τῆς Μακεδονίας ἐπίγραμμα , κεραυνωθῆναι αὐτόν , λέγον οὕτως ·\nΘρήϊκα χρυσολύρην τῇδʼ Ὀρφέα Μοῦσαι ἔθαψαν , ὃν κτάνεν ὑψιμέδων Ζεὺς ψολόεντι βέλει .",
+      "translation": "But those who attribute its invention to barbarians bring forward Orpheus the Thracian , calling him a philosopher of whose antiquity there can be no doubt . Now , considering the sort of things he said about the gods , I hardly know whether he ought to be called a philosopher ; for what are we to make of one who does not scruple to charge the gods with all human suffering , and even the foul crimes wrought by the tongue amongst a few of mankind ? The story goes that he met his death at the hands of women ; but according to the epitaph at Dium in Macedonia he was slain by a thunderbolt ; it runs as follows [*] :\nHere have the Muses laid their minstrel true , The Thracian Orpheus whom Jove ’ s thunder slew ."
+    },
+    {
+      "id": "2.1.1",
+      "label": "Section 2.1.1",
+      "chapter": null,
+      "original": "Ἀναξίμανδρος Πραξιάδου Μιλήσιος . οὗτος ἔφασκεν ἀρχὴν καὶ στοιχεῖον τὸ ἄπειρον , οὐ διορίζων ἀέρα ἢ ὕδωρ ἢ ἄλλο τι . καὶ τὰ μὲν μέρη μεταβάλλειν , τὸ δὲ πᾶν ἀμετάβλητον εἶναι . μέσην τε τὴν γῆν κεῖσθαι , κέντρου τάξιν ἐπέχουσαν οὖσαν σφαιροειδῆ · τήν τε σελήνην ψευδοφαῆ , καὶ ἀπὸ ἡλίου φωτίζεσθαι , ἀλλὰ καὶ τὸν ἥλιον οὐκ ἐλάττονα τῆς γῆς , καὶ καθαρώτατον πῦρ .\nΕὗρεν δὲ καὶ γνώμονα πρῶτος καὶ ἔστησεν ἐπὶ τῶν σκιοθήρων ἐν Λακεδαίμονι , καθά φησι Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ , τροπάς τε καὶ ἰσημερίας σημαίνοντα , καὶ ὡροσκοπεῖα κατεσκεύασε .",
+      "translation": "Anaximander , the son of Praxiades , was a native of Miletus . He laid down as his principle and element that which is unlimited without defining it as air or water or anything else . He held that the parts undergo change , but the whole is unchangeable ; that the earth , which is of spherical shape , lies in the midst , occupying the place of a centre ; that the moon , shining with borrowed light , derives its illumination from the sun ; further , that the sun is as large as the earth and consists of the purest fire . [*]\nHe was the first inventor of the gnomon and set it up for a sundial in Lacedaemon , [*] as is stated by Favorinus in his Miscellaneous History , in order to mark the solstices and the equinoxes ; he also constructed clocks to tell the time ."
+    },
+    {
+      "id": "2.1.2",
+      "label": "Section 2.1.2",
+      "chapter": null,
+      "original": "καὶ γῆς καὶ θαλάσσης περίμετρον πρῶτος ἔγραψεν , ἀλλὰ καὶ σφαῖραν κατεσκεύασε .\nΤῶν δὲ ἀρεσκόντων αὐτῷ πεποίηται κεφαλαιώδη τὴν ἔκθεσιν , ᾗ που περιέτυχεν καὶ Ἀπολλόδωρος ὁ Ἀθηναῖος · ὃς καί φησιν αὐτὸν ἐν τοῖς Χρονικοῖς τῷ δευτέρῳ ἔτει τῆς πεντηκοστῆς ὀγδόης Ὀλυμπιάδος V1_132 ἐτῶν εἶναι ἑξήκοντα τεττάρων καὶ μετʼ ὀλίγον τελευτῆσαι , ἀκμάσαντά πη μάλιστα κατὰ Πολυκράτην τὸν Σάμου τύραννον . τούτου φασὶν ᾅδοντος καταγελάσαι τὰ παιδάρια , τὸν δὲ μαθόντα φάναι , βέλτιον οὖν ἡμῖν ᾀστέον διὰ τὰ παιδάρια .\nΓέγονε δὲ καὶ ἄλλος Ἀναξίμανδρος ἱστορικός , καὶ αὐτὸς Μιλήσιος τῇ Ἰάδι γεγραφώς .",
+      "translation": "He was the first to draw on a map the outline of land and sea , and he constructed a globe as well .\nHis exposition of his doctrines took the form of a summary which no doubt came into the hands , among others , of Apollodorus of Athens . He says in his Chronology that in the second year of the 58th V1_133 Olympiad [*] Anaximander was sixty-four , and that he died not long afterwards . Thus he flourished almost at the same time as Polycrates the tyrant of Samos . [*] There is a story that the boys laughed at his singing , and that , when he heard of it , he rejoined , Then to please the boys I must improve my singing .\nThere is another Anaximander , also of Miletus , a historian who wrote in the Ionic dialect ."
+    },
+    {
+      "id": "3.1.1",
+      "label": "Section 3.1.1",
+      "chapter": null,
+      "original": "Πλάτων , Ἀρίστωνος καὶ Περικτιόνης — ἢ Πωτώνης ,— Ἀθηναῖος , ἥτις τὸ γένος ἀνέφερεν εἰς Σόλωνα . τούτου γὰρ ἦν ἀδελφὸς Δρωπίδης , οὗ Κριτίας , οὗ Κάλλαισχρος , οὗ Κριτίας ὁ τῶν τριάκοντα καὶ Γλαύκων , οὗ Χαρμίδης καὶ Περικτιόνη , ἧς καὶ Ἀρίστωνος Πλάτων , ἕκτος ἀπὸ Σόλωνος . ὁ δὲ Σόλων εἰς Νηλέα καὶ Ποσειδῶνα ἀνέφερε τὸ γένος . φασὶ δὲ καὶ τὸν πατέρα αὐτοῦ ἀνάγειν εἰς Κόδρον τὸν Μελάνθου , οἵτινες ἀπὸ Ποσειδῶνος ἱστοροῦνται κατὰ Θρασύλον .",
+      "translation": "Plato was the son of Ariston and a citizen of Athens . His mother was Perictione ( or Potone ), who traced back her descent to Solon . For Solon had a brother , Dropides ; he was the father of Critias , who was the father of Callaeschrus , who was the father of Critias , one of the Thirty , as well as of Glaucon , who was the father of Charmides and Perictione . Thus Plato , the son of this Perictione and Ariston , was in the sixth generation from Solon . And Solon traced his descent to Neleus and Poseidon . His father too is said to be in the direct line from Codrus , the son of Melanthus , and , according to Thrasylus , Codrus and Melanthus also trace their descent from Poseidon ."
+    },
+    {
+      "id": "3.1.2",
+      "label": "Section 3.1.2",
+      "chapter": null,
+      "original": "Σπεύσιππος δʼ ἐν τῷ ἐπιγραφομένῳ Πλάτωνος περιδείπνῳ καὶ Κλέαρχος ἐν τῷ Πλάτωνος ἐγκωμίῳ καὶ Ἀναξιλαΐδης ἐν τῷ δευτέρῳ Περὶ φιλοσόφων φασίν , ὡς Ἀθήνησιν ἦν λόγος , ὡραίαν οὖσαν τὴν Περικτιόνην βιάζεσθαι τὸν Ἀρίστωνα καὶ μὴ τυγχάνειν · παυόμενόν τε τῆς βίας ἰδεῖν τὴν τοῦ Ἀπόλλωνος ὄψιν · ὅθεν καθαρὰν γάμου φυλάξαι ἕως τῆς ἀποκυήσεως .\nΚαὶ γίνεται Πλάτων , ὥς φησιν Ἀπολλόδωρος ἐν Χρονικοῖς , ὀγδόῃ καὶ ὀγδοηκοστῇ Ὀλυμπιάδι , Θαργηλιῶνος ἑβδόμῃ , καθʼ ἣν Δήλιοι τὸν Ἀπόλλωνα V1_278 γενέσθαι φασί . τελευτᾷ δὲ — ὥς φησιν Ἕρμιππος , ἔν γάμοις δειπνῶν — τῷ πρώτῳ ἔτει τῆς ὀγδόης καὶ ἑκατοστῆς Ὀλυμπιάδος , βιοὺς ἔτος ἓν πρὸς τοῖς ὀγδοήκοντα .",
+      "translation": "Speusippus in the work entitled Plato ’ s Funeral Feast , Clearchus in his Encomium on Plato , and Anaxilaïdes in his second book On Philosophers , tell us that there was a story at Athens that Ariston made violent love to Perictione , then in her bloom , and failed to win her ; and that , when he ceased to offer violence , Apollo appeared to him in a dream , whereupon he left her unmolested until her child was born .\nApollodorus in his Chronology fixes the date of Plato ’ s birth in the 88th Olympiad , on the seventh day of the month Thargelion , the same day on which V1_279 the Delians say that Apollo himself was born . He died , according to Hermippus , at a wedding feast , in the first year of the 108th Olympiad , in his eightyfirst year . [*]"
+    },
+    {
+      "id": "3.1.3",
+      "label": "Section 3.1.3",
+      "chapter": null,
+      "original": "Νεάνθης δέ φησιν αὐτὸν τεττάρων καὶ ὀγδοήκοντα τελευτῆσαι ἐτῶν . ἔστιν οὖν Ἰσοκράτους νεώτερος ἔτεσιν ἕξ · ὁ μὲν γὰρ ἐπὶ Λυσιμάχου , Πλάτων δὲ ἐπὶ Ἀμεινίου γέγονεν , ἐφʼ οὗ Περικλῆς ἐτελεύτησεν . ἦν δὲ τῶν δήμων Κολλυτεύς , ὥς φησιν Ἀντιλέων ἐν δευτέρῳ Περὶ χρόνων . καὶ ἐγεννήθη κατά τινας ἐν Αἰγίνῃ — ἐν τῇ Φειδιάδου οἰκίᾳ τοῦ Θάλητος , ὥς φησι Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ — τοῦ πατρὸς αὐτοῦ μετὰ καὶ ἄλλων πεμφθέντος κληρούχου καὶ ἐπανελθόντος εἰς Ἀθήνας , ὁπόθʼ ὑπὸ Λακεδαιμονίων ἐξεβλήθησαν βοηθούντων Αἰγινήταις . ἀλλὰ καὶ ἐχορήγησεν Ἀθήνησι Δίωνος ἀναλίσκοντος , ὥς φησιν Ἀθηνόδωρος ἐν ηʼ Περιπάτων .",
+      "translation": "Neanthes , however , makes him die at the age of eighty-four . He is thus seen to be six years the junior of Isocrates . For Isocrates was born in the archonship of Lysimachus , [*] Plato in that of Ameinias , the year of Pericles ’ death . [*] He belonged to the deme Collytus , as is stated by Antileon in his second book On Dates . He was born , according to some , in Aegina , in the house of Phidiades , the son of Thales , as Favorinus states in his Miscellaneous History , for his father had been sent along with others to Aegina to settle in the island , but returned to Athens when the Athenians were expelled by the Lacedaemonians , who championed the Aeginetan cause . That Plato acted as choregus at Athens , the cost being defrayed by Dion , is stated by Athenodorus in the eighth book of a work entitled Walks ."
+    },
+    {
+      "id": "3.1.4",
+      "label": "Section 3.1.4",
+      "chapter": null,
+      "original": "ἔσχε δʼ ἀδελφοὺς Ἀδείμαντον καὶ Γλαύκωνα καὶ ἀδελφὴν Πωτώνην , ἐξ ἧς ἦν Σπεύσιππος .\nΚαὶ ἐπαιδεύθη μὲν γράμματα παρὰ Διονυσίῳ , οὗ καὶ μνημονεύει ἐν τοῖς Ἀντερασταῖς . ἐγυμνάσατο δὲ παρὰ Ἀρίστωνι τῷ Ἀργείῳ παλαιστῇ · ἀφʼ οὗ καὶ Πλάτων διὰ τὴν εὐεξίαν μετωνομάσθη , πρότερον Ἀριστοκλῆς ἀπὸ τοῦ πάππου καλούμενος [ ὄνομα ], καθά φησιν Ἀλέξανδρος ἐν Διαδοχαῖς . ἔνιοι δὲ διὰ τὴν πλατύτητα τῆς ἑρμηνείας οὕτως ὀνομασθῆναι · ἢ ὅτι πλατὺς ἦν τὸ μέτωπον , ὥς φησι Νεάνθης . εἰσὶ δʼ οἳ καὶ παλαῖσαί φασιν αὐτὸν Ἰσθμοῖ , καθὰ καὶ Δικαίαρχος ἐν πρώτῳ Περὶ βίων ,",
+      "translation": "He had two brothers , Adeimantus and Glaucon , and a sister , Potone , who was the mother of Speusippus .\nHe was taught letters in the school of Dionysius , who is mentioned by him in the Rivals . And he learnt gymnastics under Ariston , the Argive wrestler . And from him he received the name of Plato on account of his robust figure , in place of his original name which was Aristocles , after his grandfather , as Alexander informs us in his Successions of Philosophers . But others affirm that he got the name Plato from the breadth of his style , or from the breadth of his forehead , as suggested by Neanthes . Others again affirm that he wrestled in the Isthmian Games — this is stated by Dicaearchus in his first book On Lives —"
+    },
+    {
+      "id": "3.1.5",
+      "label": "Section 3.1.5",
+      "chapter": null,
+      "original": "καὶ γραφικῆς ἐπιμεληθῆναι καὶ ποιήματα γράψαι , πρῶτον μὲν διθυράμβους , ἔπειτα καὶ μέλη καὶ τραγῳδίας . ἰσχνόφωνός τε , φασίν , ἦν , ὡς καὶ Τιμόθεός φησιν ὁ Ἀθηναῖος ἐν τῷ Περὶ βίων . λέγεται δʼ ὅτι Σωκράτης ὄναρ εἶδε κύκνου νεοττὸν ἐν τοῖς γόνασιν ἔχειν , ὃν καὶ παραχρῆμα πτεροφυήσαντα ἀναπτῆναι ἡδὺ κλάγξαντα · καὶ μεθʼ ἡμέραν Πλάτωνα αὐτῷ συστῆναι , τὸν δὲ τοῦτον εἰπεῖν εἶναι τὸν ὄρνιν .\nἘφιλοσόφει δὲ τὴν ἀρχὴν ἐν Ἀκαδημείᾳ , εἶτα ἐν τῷ κήπῳ τῷ παρὰ τὸν Κολωνόν , ὥς φησιν Ἀλέξανδρος ἐν Διαδοχαῖς , καθʼ Ἡράκλειτον . ἔπειτα μέντοι μέλλων ἀγωνιεῖσθαι τραγῳδίᾳ πρὸ τοῦ Διονυσιακοῦ θεάτρου Σωκράτους ἀκούσας κατέφλεξε τὰ ποιήματα εἰπών ·\nἭφαιστε , πρόμολʼ ὧδε · Πλάτων νύ τι σεῖο χατίζει .",
+      "translation": "and that he applied himself to painting and wrote poems , first dithyrambs , afterwards lyric poems and tragedies . He had , they say , a weak voice ; this is confirmed by Timotheus the Athenian in his book On Lives . It is stated that Socrates in a dream saw a cygnet on his knees , which all at once put forth plumage , and flew away after uttering a loud sweet note . And the next day Plato was introduced as a pupil , and thereupon he recognized in him the swan of his dream . [*]\nAt first he used to study philosophy in the Academy , and afterwards in the garden at Colonus ( as Alexander states in his Successions of Philosophers ), as a follower of Heraclitus . Afterwards , when he was about to compete for the prize with a tragedy , he listened to Socrates in front of the theatre of Dionysus , [*] and then consigned his poems to the flames , with the words [*] :\nCome hither , O fire-god , Plato now has need of thee . [*]"
+    },
+    {
+      "id": "4.1.1",
+      "label": "Section 4.1.1",
+      "chapter": null,
+      "original": "τὰ μὲν περὶ Πλάτωνος τοσαῦτα ἦν ἐς τὸ δυνατὸν ἡμῖν συναγαγεῖν , φιλοπόνως διειλήσασι τὰ λεγόμενα περὶ τἀνδρός . διεδέξατο δʼ αὐτὸν Σπεύσιππος Εὐρυμέδοντος Ἀθηναῖος , τῶν μὲν δήμων Μυρρινούσιος , υἱὸς δὲ τῆς ἀδελφῆς αὐτοῦ Πωτώνης . καὶ ἐσχολάρχησεν ἔτη ὀκτώ , ἀρξάμενος ἀπὸ τῆς ὀγδόης καὶ ἑκατοστῆς Ὀλυμπιάδος · Χαρίτων τʼ ἀγάλματʼ ἀνέθηκεν ἐν τῷ μουσείῳ τῷ ὑπὸ Πλάτωνος ἐν Ἀκαδημείᾳ ἱδρυθέντι . καὶ ἔμεινε μὲν ἐπὶ τῶν αὐτῶν Πλάτωνι δογμάτων · οὐ μὴν τό γʼ ἦθος διέμεινε τοιοῦτος . καὶ γὰρ ὀργίλος καὶ ἡδονῶν ἥττων ἦν . φασὶ γοῦν αὐτὸν ὑπὸ θυμοῦ τὸ κυνίδιον εἰς τὸ φρέαρ ῥῖψαι καὶ ὑφʼ ἡδονῆς ἐλθεῖν εἰς Μακεδονίαν ἐπὶ τὸν Κασάνδρου γάμον .",
+      "translation": "The foregoing is the best account of Plato that we were able to compile after a diligent examination of the authorities . He was succeeded by Speusippus , an Athenian and son of Eurymedon , who belonged to the deme of Myrrhinus , and was the son of Plato ’ s sister Potone . He was head of the school for eight years beginning in the 108th Olympiad . [*] He set up statues of the Graces in the shrine of the Muses erected by Plato in the Academy . He adhered faithfully to Plato ’ s doctrines . In character , however , he was unlike him , being prone to anger and easily overcome by pleasures . At any rate there is a story that in a fit of passion he flung his favourite dog into the well , and that pleasure was the sole motive for his journey to Macedonia to be present at the wedding-feast of Casander ."
+    },
+    {
+      "id": "4.1.2",
+      "label": "Section 4.1.2",
+      "chapter": null,
+      "original": "Ἐλέγοντο δὲ αὐτοῦ καὶ αἱ Πλάτωνος ἀκούειν μαθήτριαι , Λασθένειά τε ἡ Μαντινικὴ καὶ Ἀξιοθέα ἡ Φλιασία . ὅτε καὶ Διονύσιος πρὸς αὐτὸν γράφων τωθαστικῶς φησι · καὶ ἐκ τῆς Ἀρκαδικῆς σου μαθητρίας ἔστι καταμαθεῖν τὴν σοφίαν . καὶ Πλάτων μὲν ἀτελεῖς φόρων τοὺς παρʼ αὐτὸν φοιτῶντας V1_376 ἐποίει · σὺ δὲ δασμολογεῖς καὶ παρʼ ἑκόντων καὶ ἀκόντων λαμβάνεις . οὗτος πρῶτος , καθά φησι Διόδωρος ἐν Ἀπομνημονευμάτων πρώτῳ , ἐν τοῖς μαθήμασιν ἐθεάσατο τὸ κοινὸν καὶ συνῳκείωσε καθόσον ἦν δυνατὸν ἀλλήλοις · καὶ πρῶτος παρὰ Ἰσοκράτους τὰ καλούμενα ἀπόρρητα ἐξήνεγκεν ,",
+      "translation": "It was said that among those who attended his lectures were the two women who had been pupils of Plato , Lastheneia of Mantinea and Axiothea of Phlius . And at the time Dionysius in a letter says derisively , We may judge of your wisdom by the Arcadian girl who is your pupil . And , whereas Plato exempted from fees all who came to him , you V1_377 levy tribute on them and collect it whether they will or no . [*] According to Diodorus in the first book of his Memorabilia , Speusippus was the first to discern the common element in all studies and to bring them into connexion with each other so far as that was possible ."
+    },
+    {
+      "id": "4.1.3",
+      "label": "Section 4.1.3",
+      "chapter": null,
+      "original": "ὥς φησι Καινεύς . καὶ πρῶτος εὗρεν ᾧ τὰ φορμία τῶν φρυγάνων εὔογκα ποιοῦσιν .\nἬδη δὲ ὑπὸ παραλύσεως καὶ τὸ σῶμα διέφθαρτο , καὶ πρὸς Ξενοκράτην διεπέμπετο παρακαλῶν αὐτὸν ἐλθεῖν καὶ τὴν σχολὴν διαδέξασθαι . φασὶ δὲ αὐτὸν ἐπʼ ἀμαξίου φερόμενον εἰς τὴν Ἀκαδημείαν συναντῆσαι Διογένει καὶ Χαῖρε εἰπεῖν · τὸν δὲ φάναι , ἀλλὰ μὴ σύ γε , ὅστις ὑπομένεις ζῆν τοιοῦτος ὤν . καὶ τέλος ὑπὸ ἀθυμίας ἑκὼν τὸν βίον μετήλλαξε γηραιὸς ὤν . καὶ ἔστιν ἡμῶν εἰς αὐτόν ·\nἀλλʼ εἰ μὴ Σπεύσιππον ἐμάνθανον ὧδε θανεῖσθαι , οὐκ ἂν ἔπεισέ μέ τις τόδε λέξαι · ὡς ἦν οὐχὶ Πλάτωνι πρὸς αἵματος · οὐ γὰρ ἀθυμῶν κάτθανεν ἂν διά τι σφόδρα μικρόν .",
+      "translation": "And according to Caeneus he was the first to divulge what Isocrates called the secrets of his art , and the first to devise the means by which fagots of firewood are rendered portable .\nWhen he was already crippled by paralysis , he sent a message to Xenocrates entreating him to come and take over the charge of the school . [*] They say that , as he was being conveyed to the Academy in a tiny carriage , he met and saluted Diogenes , who replied , Nay , if you can endure to live in such a plight as this , I decline to return your greeting . At last in old age he became so despondent that he put an end to his life . Here follows my epigram upon him [*] :\nHad I not learnt that Speusippus would die thus , no one would have persuaded me to say that he was surely not of Plato ’ s blood ; for else he would never have died in despair for a trivial cause ."
+    },
+    {
+      "id": "5.1.1",
+      "label": "Section 5.1.1",
+      "chapter": null,
+      "original": "Ἀριστοτέλης Νικομάχου καὶ Φαιστίδος Σταγειρίτης . ὁ δὲ Νικόμαχος ἦν ἀπὸ Νικομάχου τοῦ Μαχάονος τοῦ Ἀσκληπιοῦ , καθά φησιν Ἕρμιππος ἐν τῷ Περὶ Ἀριστοτέλους · καὶ συνεβίω Ἀμύντᾳ τῷ Μακεδόνων βασιλεῖ ἰατροῦ καὶ φίλου χρείᾳ . οὗτος γνησιώτατος τῶν Πλάτωνος μαθητῶν , τραυλὸς τὴν φωνήν , ὥς φησι Τιμόθεος ὁ Ἀθηναῖος ἐν τῷ Περὶ βίων · ἀλλὰ καὶ ἰσχνοσκελής , φασίν , ἦν καὶ μικρόμματος ἐσθῆτί τʼ ἐπισήμῳ χρώμενος καὶ δακτυλίοις καὶ κουρᾷ . ἔσχε δὲ καὶ υἱὸν Νικόμαχον ἐξ Ἑρπυλλίδος τῆς παλλακῆς , ὥς φησι Τίμαιος . [*]",
+      "translation": "Aristotle , son of Nicomachus and Phaestis , was a native of Stagira . His father , Nicomachus , as Hermippus relates in his book On Aristotle , traced his descent from Nicomachus who was the son of Machaon and grandson of Asclepius ; and he resided with Amyntas , the king of Macedon , in the capacity of physician and friend . Aristotle was Plato ’ s most genuine disciple ; he spoke with a lisp , as we learn from Timotheus the Athenian in his book On Lives ; further , his calves were slender ( so they say ), his eyes small , and he was conspicuous by his attire , his rings , and the cut of his hair . According to Timaeus , he had a son by Herpyllis , his concubine , who was also called Nicomachus ."
+    },
+    {
+      "id": "5.1.2",
+      "label": "Section 5.1.2",
+      "chapter": null,
+      "original": "Ἀπέστη δὲ Πλάτωνος ἔτι περιόντος · ὥστε φασὶν ἐκεῖνον εἰπεῖν , Ἀριστοτέλης ἡμᾶς ἀπελάκτισε , καθαπερεὶ τὰ πωλάρια γεννηθέντα τὴν μητέρα . φησὶ δʼ Ἕρμιππος ἐν τοῖς Βίοις ὅτι πρεσβεύοντος αὐτοῦ πρὸς Φίλιππον ὑπὲρ Ἀθηναίων σχολάρχης ἐγένετο τῆς ἐν Ἀκαδημείᾳ σχολῆς Ξενοκράτης · ἐλθόντα δὴ αὐτὸν καὶ θεασάμενον ὑπʼ ἄλλῳ τὴν σχολήν , ἑλέσθαι περίπατον τὸν ἐν Λυκείῳ καὶ V1_446 μέχρι μὲν ἀλείμματος [*] ἀνακάμπτοντα τοῖς μαθηταῖς συμφιλοσοφεῖν · ὅθεν περιπατητικὸν προσαγορευθῆναι . οἱ δʼ , ὅτι ἐκ νόσου περιπατοῦντι Ἀλεξάνδρῳ συμπαρὼν διελέγετο ἄττα .",
+      "translation": "He seceded from the Academy while Plato was still alive . Hence the remark attributed to the latter : Aristotle spurns me , as colts kick out at the mother who bore them . [*] Hermippus in his Lives mentions that he was absent as Athenian envoy at the court of Philip when Xenocrates became head of the Academy , and that on his return , when he saw the school under a new head , he made choice of a public walk in the Lyceum where he would walk V1_447 up and down discussing philosophy with his pupils until it was time to rub themselves with oil . Hence the name Peripatetic . But others say that it was given to him because , when Alexander was recovering from an illness and taking daily walks , Aristotle joined him and talked with him on certain matters ."
+    },
+    {
+      "id": "5.1.3",
+      "label": "Section 5.1.3",
+      "chapter": null,
+      "original": "Ἐπειδὴ δὲ πλείους ἐγένοντο ἤδη , καὶ ἐκάθισεν εἰπών ·\nαἰσχρὸν σιωπᾶν , Ξενοκράτην δʼ ἐᾶν λέγειν .\nκαὶ πρὸς θέσιν συνεγύμναζε τοὺς μαθητάς , ἅμα καὶ ῥητορικῶς ἐπασκῶν . ἔπειτα μέντοι ἀπῆρε πρὸς Ἑρμίαν τὸν εὐνοῦχον , Ἀταρνέως ὄντα τύραννον · ὃν οἱ μέν φασι παιδικὰ γενέσθαι αὐτοῦ , οἱ δὲ καὶ κηδεῦσαι αὐτῷ δόντα τὴν θυγατέρα ἢ ἀδελφιδῆν , ὥς φησι Δημήτριος ὁ Μάγνης ἐν τοῖς Περὶ ὁμωνύμων ποιητῶν τε καὶ συγγραφέων · ὃς καὶ δοῦλον Εὐβούλου φησὶ γενέσθαι τὸν Ἑρμίαν , γένει Βιθυνὸν ὄντα καὶ τὸν δεσπότην ἀνελόντα . Ἀρίστιππος δʼ ἐν τῷ πρώτῳ [*] Περὶ παλαιᾶς τρυφῆς φησιν ἐρασθῆναι τὸν Ἀριστοτέλην παλλακίδος τοῦ Ἑρμίου .",
+      "translation": "In time the circle about him grew larger ; he then sat down to lecture , remarking [*] :\nIt were base to keep silence and let Xenocrates [*] speak .\nHe also taught his pupils to discourse upon a set theme , besides practising them in oratory . Afterwards , however , he departed to Hermias the eunuch , who was tyrant of Atarneus , and there is one story that he was on very affectionate terms with Hermias ; according to another , Hermias bound him by ties of kinship , giving him his daughter or his niece in marriage , and so Demetrius of Magnesia narrates in his work on Poets and Writers of the Same Name . The same author tells us that Hermias had been the slave of Eubulus , and that he was of Bithynian origin and had murdered his master . Aristippus in his first book On the Luxury of the Ancients says that Aristotle fell in love with a concubine of Hermias ,"
+    },
+    {
+      "id": "5.1.4",
+      "label": "Section 5.1.4",
+      "chapter": null,
+      "original": "τοῦ δὲ συγχωρήσαντος ἔγημέ τʼ αὐτὴν καὶ ἔθυεν ὑπερχαίρων τῷ γυναίῳ , ὡς Ἀθηναῖοι τῇ Ἐλευσινίᾳ Δήμητρι · τῷ τε Ἑρμίᾳ παιᾶνα ἔγραψεν , ὃς ἔνδον γέγραπται . ἐντεῦθέν τε γενέσθαι ἐν Μακεδονίᾳ παρὰ Φιλίππῳ καὶ λαβεῖν μαθητὴν παρʼ αὐτοῦ τὸν υἱὸν Ἀλέξανδρον , καὶ αἰτῆσαι ἀναστῆσαι αὐτοῦ τὴν πατρίδα κατασκαφεῖσαν ὑπὸ Φιλίππου καὶ τυχεῖν · V1_448 οἷς καὶ νόμους θεῖναι . ἀλλὰ καὶ ἐν τῇ σχολῇ νομοθετεῖν μιμούμενον Ξενοκράτην , ὥστε κατὰ δέκα ἡμέρας ἄρχοντα ποιεῖν . ἐπειδὴ δʼ ἐδόκει ἐπιεικῶς αὐτῷ συγγεγενῆσθαι Ἀλεξάνδρῳ , ἀπῆρεν εἰς Ἀθήνας , συστήσας αὐτῷ τὸν συγγενῆ Καλλισθένην τὸν Ὀλύνθιον ·",
+      "translation": "and married her with his consent , and in an excess of delight sacrificed to a weak woman as the Athenians did to Demeter of Eleusis [*] ; and that he composed a paean in honour of Hermias , which is given below ; next that he stayed in Macedonia at Philip ’ s court and received from him his son Alexander as his pupil ; that he petitioned Alexander to restore his native city which had been destroyed by Philip and obtained his V1_449 request ; and that he also drew up a code of laws for the inhabitants . We learn further that , following the example of Xenocrates , he made it a rule in his school that every ten days a new president should be appointed . When he thought that he had stayed long enough with Alexander , he departed to Athens , having first presented to Alexander his kinsman Callisthenes of Olynthus ."
+    },
+    {
+      "id": "5.1.5",
+      "label": "Section 5.1.5",
+      "chapter": null,
+      "original": "ὃν καὶ παρρησιαστικώτερον λαλοῦντα τῷ βασιλεῖ καὶ μὴ πειθόμενον αὐτῷ φασιν ἐπιπλήξαντα εἰπεῖν ·\nὠκύμορος δή μοι , τέκος , ἔσσεαι , οἷʼ ἀγορεύεις .\nκαὶ δὴ καὶ ἐγένετο . δόξας γὰρ Ἑρμολάῳ συμμετεσχηκέναι τῆς εἰς Ἀλέξανδρον ἐπιβουλῆς ἐν σιδηρᾷ περιήγετο γαλεάγρᾳ , φθειριῶν καὶ ἀκόμιστος · καὶ τέλος λέοντι παραβληθείς , οὕτω κατέστρεψεν .\nὉ δʼ οὖν Ἀριστοτέλης ἐλθὼν εἰς τὰς Ἀθήνας καὶ τρία πρὸς τοῖς δέκα τῆς σχολῆς ἀφηγησάμενος ἔτη ὑπεξῆλθεν εἰς Χαλκίδα , Εὐρυμέδοντος αὐτὸν τοῦ ἱεροφάντου δίκην ἀσεβείας γραψαμένου , ἢ Δημοφίλου , ὥς φησι Φαβωρῖνος ἐν Παντοδαπῇ ἱστορίᾳ , ἐπειδήπερ τὸν ὕμνον ἐποίησεν εἰς τὸν",
+      "translation": "But when Callisthenes talked with too much freedom to the king and disregarded his own advice , Aristotle is said to have rebuked him by citing the line [*] :\nShort-lived , I ween , wilt thou be , my child , by what thou sayest .\nAnd so indeed it fell out . For he , being suspected of complicity in the plot of Hermolaus against the life of Alexander , was confined in an iron cage and carried about until he became infested with vermin through lack of proper attention ; and finally he was thrown to a lion and so met his end .\nTo return to Aristotle : he came to Athens , was head of his school for thirteen years , and then withdrew to Chalcis because he was indicted for impiety by Eurymedon the hierophant , or , according to Favorinus [*] in his Miscellaneous History , by Demophilus , the ground of the charge being the hymn he composed to the aforesaid Hermias ,"
+    },
+    {
+      "id": "6.1.1",
+      "label": "Section 6.1.1",
+      "chapter": null,
+      "original": "Ἀντισθένης Ἀντισθένους Ἀθηναῖος . ἐλέγετο δʼ οὐκ εἶναι ἰθαγενής · ὅθεν καὶ πρὸς τὸν ὀνειδίζοντα εἰπεῖν , καὶ ἡ μήτηρ τῶν θεῶν Φρυγία ἐστίν . ἐδόκει γὰρ εἶναι Θρᾴττης μητρός · ὅθεν καὶ ἐν Τανάγρᾳ κατὰ τὴν μάχην εὐδοκιμήσας ἔδωκε λέγειν Σωκράτει ὡς οὐκ ἂν ἐκ δυοῖν Ἀθηναίων οὕτω γεγόνοι γενναῖος . καὶ αὐτὸς δὲ τοὺς Ἀθηναίους ἐπὶ τῷ γηγενεῖς εἶναι σεμνυνομένους ἐκφαυλίζων ἔλεγε μηδὲν εἶναι κοχλιῶν καὶ ἀττελέβων εὐγενεστέρους .\nΟὗτος κατʼ ἀρχὰς μὲν ἤκουσε Γοργίου τοῦ ῥήτορος · ὅθεν τὸ ῥητορικὸν εἶδος ἐν τοῖς διαλόγοις ἐπιφέρει καὶ μάλιστα ἐν τῇ Ἀληθείᾳ καὶ τοῖς Προτρεπτικοῖς .",
+      "translation": "Antisthenes , [*] the son of Antisthenes , was an Athenian . It was said , however , that he was not of pure Attic blood . Hence his reply to one who taunted him with this : The mother of the gods too is a Phrygian . [*] For his mother was supposed to have been a Thracian . Hence it was that , when he had distinguished himself in the battle of Tanagra , [*] he gave Socrates occasion to remark that , if both his parents had been Athenians , he would not have turned out so brave . He himself showed his contempt for the airs which the Athenians gave themselves on the strength of being sprung from the soil by the remark that this did not make them any better born than snails or wingless locusts .\nTo begin with , he became a pupil of Gorgias the rhetorician , and hence the rhetorical style that he introduces in his dialogues , and especially in his Truth and in his Exhortations ."
+    },
+    {
+      "id": "6.1.2",
+      "label": "Section 6.1.2",
+      "chapter": null,
+      "original": "φησὶ δʼ Ἕρμιππος ὅτι προείλετο ἐν τῇ τῶν Ἰσθμίων πανηγύρει ψέξαι τε καὶ ἐπαινέσαι Ἀθηναίους , Θηβαίους , Λακεδαιμονίους · εἶτα V2_4 μέντοι παραιτήσασθαι ἰδόντα πλείους ἐκ τῶν πόλεων ἀφιγμένους .\nὝστερον δὲ παρέβαλε Σωκράτει , καὶ τοσοῦτον ὤνατο αὐτοῦ , ὥστε παρῄνει τοῖς μαθηταῖς γενέσθαι αὐτῷ πρὸς Σωκράτην συμμαθητάς . οἰκῶν τʼ ἐν Πειραιεῖ καθʼ ἑκάστην ἡμέραν τοὺς τετταράκοντα σταδίους ἀνιὼν ἤκουε Σωκράτους , παρʼ οὗ καὶ τὸ καρτερικὸν λαβὼν καὶ τὸ ἀπαθὲς ζηλώσας κατῆρξε πρῶτος τοῦ κυνισμοῦ . καὶ ὅτι ὁ πόνος ἀγαθὸν συνέστησε διὰ τοῦ μεγάλου Ἡρακλέους καὶ τοῦ Κύρου , τὸ μὲν ἀπὸ τῶν Ἑλλήνων , τὸ δὲ ἀπὸ τῶν βαρβάρων ἑλκύσας .",
+      "translation": "According to Hermippus he intended at the public gathering for the Isthmian games to discourse on the faults and merits of Athenians , Thebans and Lacedaemonians , V2_5 but begged to be excused when he saw throngs arriving from those cities .\nLater on , however , he came into touch with Socrates , and derived so much benefit from him that he used to advise his own disciples to become fellow-pupils with him of Socrates . He lived in the Peiraeus , and every day would tramp the five miles to Athens in order to hear Socrates . From Socrates he learned his hardihood , emulating his disregard of feeling , and thus he inaugurated the Cynic way of life . He demonstrated that pain is a good thing by instancing the great Heracles and Cyrus , drawing the one example from the Greek world and the other from the barbarians ."
+    },
+    {
+      "id": "6.1.3",
+      "label": "Section 6.1.3",
+      "chapter": null,
+      "original": "Πρῶτός τε ὡρίσατο λόγον εἰπών , λόγος ἐστὶν ὁ τὸ τί ἦν ἢ ἔστι δηλῶν . ἔλεγέ τε συνεχές , μανείην μᾶλλον ἢ ἡσθείην · καὶ χρὴ τοιαύταις πλησιάζειν γυναιξὶν αἳ χάριν εἴσονται . πρός τε τὸ Ποντικὸν μειράκιον μέλλον φοιτᾶν αὐτῷ καὶ πυθόμενον τίνων αὐτῷ δεῖ , φησί , βιβλιαρίου καινοῦ καὶ γραφείου καινοῦ καὶ πινακιδίου καινοῦ , τὸν νοῦν παρεμφαίνων . πρὸς δὲ τὸν ἐρόμενον ποδαπὴν γήμαι , ἔφη , ἂν μὲν καλήν , ἕξεις κοινήν , ἂν δὲ αἰσχράν , ἕξεις ποινήν . ἀκούσας ποτὲ ὅτι Πλάτων αὐτὸν κακῶς λέγει , βασιλικόν , ἔφη , καλῶς ποιοῦντα κακῶς ἀκούειν .",
+      "translation": "He was the first to define statement ( or assertion ) by saying that a statement is that which sets forth what a thing was or is . He used repeatedly to say , I ’ d rather be mad than feel pleasure , and We ought to make love to such women as will feel a proper gratitude . When a lad from Pontus was about to attend his lectures , and asked him what he required , the answer was , Come with a new book , a new pen , and new tablets , if you have a mind to ( implying the need of brains as well ). [*] When someone inquired what sort of wife he ought to marry , he said , If she ’ s beautiful , you ’ ll not have her to yourself ; if she ’ s ugly , you ’ ll pay for it dearly . Being told that Plato was abusing him , he remarked , It is a royal privilege to do good and be ill spoken of . [*]"
+    },
+    {
+      "id": "6.1.4",
+      "label": "Section 6.1.4",
+      "chapter": null,
+      "original": "Μυούμενός ποτε τὰ Ὀρφικά , τοῦ ἱερέως εἰπόντος ὅτι οἱ ταῦτα μυούμενοι πολλῶν ἐν ᾅδου ἀγαθῶν μετίσχουσι , τί οὖν , ἔφη , οὐκ ἀποθνήσκεις ; V2_6 ὀνειδιζόμενός ποτε ὡς οὐκ εἴη ἐκ δύο ἐλευθέρων , οὐδὲ γὰρ ἐκ δύο , ἔφη , παλαιστικῶν , ἀλλὰ παλαιστικός εἰμι . ἐρωτώμενος διὰ τί ὀλίγους ἔχει μαθητάς , ἔφη , ὅτι ἀργυρέᾳ αὐτοὺς ἐκβάλλω ῥάβδῳ . ἐρωτηθεὶς διὰ τί πικρῶς τοῖς μαθηταῖς ἐπιπλήττει , καὶ οἱ ἰατροί , φησί , τοῖς κάμνουσιν . ἰδών ποτε μοιχὸν φεύγοντα , ὦ δυστυχής , εἶπε , πηλίκον κίνδυνον ὀβολοῦ διαφυγεῖν ἴσχυες . κρεῖττον ἔλεγε , καθά φησιν Ἑκάτων ἐν ταῖς Χρείαις , εἰς κόρακας ἢ εἰς κόλακας ἐμπεσεῖν · οἱ μὲν γὰρ νεκρούς , οἱ δὲ ζῶντας ἐσθίουσιν .",
+      "translation": "When he was being initiated into the Orphic mysteries , the priest said that those admitted into these rites would be partakers of many good things in Hades . Why then , said he , don ’ t you die ?\nV2_7\nBeing reproached because his parents were not both free-born , Nor were they both wrestlers , quoth he , but yet I am a wrestler . To the question why he had but few disciples he replied , Because I use a silver rod to eject them . When he was asked why he was so bitter in reproving his pupils he replied , Physicians are just the same with their patients . One day upon seeing an adulterer running for his life he exclaimed , Poor wretch , what peril you might have escaped at the price of an obol . He used to say , as we learn from Hecato in his Anecdotes , that it is better to fall in with crows than with flatterers ; for in the one case you are devoured when dead , in the other case while alive ."
+    },
+    {
+      "id": "6.1.5",
+      "label": "Section 6.1.5",
+      "chapter": null,
+      "original": "Ἐρωτηθεὶς τί μακαριώτατον ἐν ἀνθρώποις , ἔφη , τὸ εὐτυχοῦντα ἀποθανεῖν . γνωρίμου ποτὲ πρὸς αὐτὸν ἀποδυρομένου ὡς εἴη τὰ ὑπομνήματα ἀπολωλεκώς , ἔδει γάρ , ἔφη , ἐν τῇ ψυχῇ αὐτὰ καὶ μὴ ἐν τοῖς χαρτίοις καταγράφειν . ὥσπερ ὑπὸ τοῦ ἰοῦ τὸν σίδηρον , οὕτως ἔλεγε τοὺς φθονεροὺς ὑπὸ τοῦ ἰδίου ἤθους κατεσθίεσθαι . τοὺς βουλομένους ἀθανάτους εἶναι ἔφη δεῖν εὐσεβῶς καὶ δικαίως ζῆν . τότʼ ἔφη τὰς πόλεις ἀπόλλυσθαι , ὅταν μὴ δύνωνται τοὺς φαύλους ἀπὸ τῶν σπουδαίων διακρίνειν . ἐπαινούμενός ποτε ὑπὸ πονηρῶν , ἔφη , ἀγωνιῶ μή τι κακὸν εἴργασμαι .",
+      "translation": "Being asked what was the height of human bliss , he replied , To die happy . When a friend complained to him that he had lost his notes , You should have inscribed them , said he , on your mind instead of on paper . As iron is eaten away by rust , so , said he , the envious are consumed by their own passion . Those who would fain be immortal must , he declared , live piously and justly . States , said he , are doomed when they are unable to distinguish good men from bad . Once , when he was applauded by rascals , he remarked , I am horribly afraid I have done something wrong ."
+    },
+    {
+      "id": "7.1.1",
+      "label": "Section 7.1.1",
+      "chapter": null,
+      "original": "Ζήνων Μνασέου ἢ Δημέου Κιτιεὺς ἀπὸ Κύπρου , πολίσματος Ἑλληνικοῦ , Φοίνικας ἐποίκους ἐσχηκότος .\nΤὸν τράχηλον ἐπὶ θάτερα νενευκὼς ἦν , ὥς φησι Τιμόθεος ὁ Ἀθηναῖος ἐν τῷ Περὶ βίων · καὶ Ἀπολλώνιος δέ φησιν ὁ Τύριος ὅτι ἰσχνὸς ἦν , ὑπομήκης , μελάγχρουσ — ὅθεν τις αὐτὸν εἶπεν Αἰγυπτίαν κληματίδα , καθά φησι Χρύσιππος ἐν πρώτῳ Παροιμιῶν — παχύκνημός τε καὶ ἀπαγὴς καὶ ἀσθενής · διὸ καί φησι Περσαῖος ἐν Ὑπομνήμασι συμποτικοῖς τὰ πλεῖστα αὐτὸν δεῖπνα παραιτεῖσθαι . ἔχαιρε δέ , φασί , σύκοις χλωροῖς καὶ ἡλιοκαΐαις .",
+      "translation": "Zeno , the son of Mnaseas ( or Demeas ), was a native of Citium in Cyprus , a Greek city which had received Phoenician settlers . He had a wry neck , says Timotheus of Athens in his book On Lives . Moreover , Apollonius of Tyre says he was lean , fairly tall , and swarthy — hence some one called him an Egyptian vine-branch , according to Chrysippus in the first book of his Proverbs . He had thick legs ; he was flabby and delicate . Hence Persaeus in his Convivial Reminiscences relates that he declined most invitations to dinner . They say he was fond of eating green figs and of basking in the sun ."
+    },
+    {
+      "id": "7.1.2",
+      "label": "Section 7.1.2",
+      "chapter": null,
+      "original": "Διήκουσε δέ , καθὰ προείρηται , Κράτητος · εἶτα καὶ Στίλπωνος ἀκοῦσαί φασιν αὐτὸν καὶ Ξενοκράτους ἔτη δέκα , ὡς Τιμοκράτης ἐν τῷ Δίωνι · ἀλλὰ καὶ Πολέμωνος . Ἑκάτων δέ φησι καὶ Ἀπολλώνιος ὁ Τύριος ἐν πρώτῳ περὶ Ζήνωνος , χρηστηριασαμένου [*] αὐτοῦ τί πράττων ἄριστα βιώσεται , ἀποκρίνασθαι τὸν θεόν , εἰ συγχρωτίζοιτο τοῖς νεκροῖς · ὅθεν ξυνέντα τὰ τῶν ἀρχαίων ἀναγινώσκειν . τῷ οὖν Κράτητι παρέβαλε τοῦτον V2_112 τὸν τρόπον . πορφύραν ἐμπεπορευμένος ἀπὸ τῆς Φοινίκης πρὸς τῷ Πειραιεῖ ἐναυάγησεν . ἀνελθὼν δʼ εἰς τὰς Ἀθήνας ἤδη τριακοντούτης ἐκάθισε παρά τινα βιβλιοπώλην . ἀναγινώσκοντος δʼ ἐκείνου τὸ δεύτερον τῶν Ξενοφῶντος Ἀπομνημονευμάτων , ἡσθεὶς ἐπύθετο ποῦ διατρίβοιεν οἱ τοιοῦτοι ἄνδρες .",
+      "translation": "He was a pupil of Crates , as stated above . Next they say he attended the lectures of Stilpo and Xenocrates for ten years — so Timocrates says in his Dion — and Polemo as well . It is stated by Hecato and by Apollonius of Tyre in his first book on Zeno that he consulted the oracle to know what he should do to attain the best life , and that the god ’ s response was that he should take on the complexion of the dead . Whereupon , perceiving what this meant , he studied ancient authors . Now the way he came V2_113 across Crates was this . He was shipwrecked on a voyage from Phoenicia to Peiraeus with a cargo of purple . He went up into Athens and sat down in a bookseller ’ s shop , being then a man of thirty . As he went on reading the second book of Xenophon ’ s Memorabilia , he was so pleased that he inquired where men like Socrates were to be found ."
+    },
+    {
+      "id": "7.1.3",
+      "label": "Section 7.1.3",
+      "chapter": null,
+      "original": "εὐκαίρως δὲ παριόντος Κράτητος , ὁ βιβλιοπώλης δείξας αὐτόν φησι , τούτῳ παρακολούθησον . ἐντεῦθεν ἤκουσε τοῦ Κράτητος , ἄλλως μὲν εὔτονος 〈 ὢν 〉 [*] πρὸς φιλοσοφίαν , αἰδήμων δὲ ὡς πρὸς τὴν Κυνικὴν ἀναισχυντίαν . ὅθεν ὁ Κράτης βουλόμενος αὐτὸν [*] καὶ τοῦτο θεραπεῦσαι δίδωσι χύτραν φακῆς διὰ τοῦ Κεραμεικοῦ φέρειν . ἐπεὶ δʼ εἶδεν αὐτὸν αἰδούμενον καὶ παρακαλύπτοντα , παίσας τῇ βακτηρίᾳ κατάγνυσι τὴν χύτραν · φεύγοντος δʼ αὐτοῦ καὶ τῆς φακῆς κατὰ τῶν σκελῶν ῥεούσης , φησὶν ὁ Κράτης , τί φεύγεις , Φοινικίδιον ; οὐδὲν δεινὸν πέπονθας .",
+      "translation": "Crates passed by in the nick of time , so the bookseller pointed to him and said , Follow yonder man . From that day he became Crates ’ s pupil , showing in other respects a strong bent for philosophy , though with too much native modesty to assimilate Cynic shamelessness . Hence Crates , desirous of curing this defect in him , gave him a potful of lentil-soup to carry through the Ceramicus ; and when he saw that he was ashamed and tried to keep it out of sight , with a blow of his staff he broke the pot . As Zeno took to flight with the lentil-soup flowing down his legs , Why run away , my little Phoenician ? quoth Crates , nothing terrible has befallen you ."
+    },
+    {
+      "id": "7.1.5",
+      "label": "Section 7.1.5",
+      "chapter": null,
+      "original": "ἄλλοι δὲ διατρίβοντα ἐν ταῖς Ἀθήναις ἀκοῦσαι τὴν ναυαγίαν καὶ εἰπεῖν , εὖ γε ποιεῖ ἡ τύχη προσελαύνουσα ἡμᾶς φιλοσοφίᾳ . ἔνιοι δέ , διαθέμενον Ἀθήνησι τὰ φορτία , οὕτω τραπῆναι πρὸς φιλοσοφίαν .\nἈνακάμπτων δὴ ἐν τῇ ποικίλῃ στοᾷ τῇ καὶ Πεισιανακτίῳ καλουμένῃ , ἀπὸ δὲ τῆς γραφῆς τῆς V2_116 Πολυγνώτου ποικίλῃ , διετίθετο τοὺς λόγους , βουλόμενος καὶ τὸ χωρίον ἀπερίστατον ποιῆσαι . ἐπὶ γὰρ τῶν τριάκοντα τῶν πολιτῶν πρὸς τοῖς χιλίοις τετρακόσιοι [*] ἀνῄρηντʼ ἐν αὐτῷ . προσῄεσαν δὴ λοιπὸν ἀκούοντες αὐτοῦ καὶ διὰ τοῦτο Στωικοὶ ἐκλήθησαν καὶ οἱ ἀπʼ αὐτοῦ ὁμοίως , πρότερον Ζηνώνειοι καλούμενοι , καθά φησι καὶ Ἐπίκουρος ἐν ἐπιστολαῖς . καὶ πρότερόν γε Στωικοὶ ἐκαλοῦντο οἱ διατρίβοντες ἐν αὐτῇ ποιηταί , καθά φησιν Ἐρατοσθένης ἐν ὀγδόῃ Περὶ τῆς ἀρχαίας κωμῳδίας , οἳ καὶ τὸν λόγον ἐπὶ πλεῖον ηὔξησαν .",
+      "translation": "A different version of the story is that he was staying at Athens when he heard his ship was wrecked and said , It is well done of thee , Fortune , thus to drive me to philosophy . But some say that he disposed of his cargo in Athens , before he turned his attention to philosophy .\nHe used then to discourse , pacing up and down in the painted colonnade , which is also called the colonnade or Portico [*] of Pisianax , but which received its name V2_117 from the painting of Polygnotus ; his object being to keep the spot clear of a concourse of idlers . It was the spot where in the time of the Thirty 1400 Athenian citizens had been put to death . [*] Hither , then , people came henceforth to hear Zeno , and this is why they were known as men of the Stoa , or Stoics ; and the same name was given to his followers , who had formerly been known as Zenonians . So it is stated by Epicurus in his letters . According to Eratosthenes in his eighth book On the Old Comedy , the name of Stoic had formerly been applied to the poets who passed their time there , and they had made the name of Stoic still more famous ."
+    },
+    {
+      "id": "8.1.1",
+      "label": "Section 8.1.1",
+      "chapter": null,
+      "original": "Ἐπειδὴ δὲ τὴν Ἰωνικὴν φιλοσοφίαν τὴν ἀπὸ Θαλοῦ καὶ τοὺς ἐν ταύτῃ διαγενομένους ἄνδρας ἀξιολόγους διεληλύθαμεν , φέρε καὶ περὶ τῆς Ἰταλικῆς διαλάβωμεν , ἧς ἦρξε Πυθαγόρας Μνησάρχου δακτυλιογλύφου , ὥς φησιν Ἕρμιππος , Σάμιος ἤ , ὡς Ἀριστόξενος , Τυρρηνὸς ἀπὸ μιᾶς τῶν νήσων ἃς ἔσχον Ἀθηναῖοι Τυρρηνοὺς ἐκβαλόντες . ἔνιοι δʼ υἱὸν μὲν εἶναι Μαρμάκου τοῦ Ἱππάσου τοῦ Εὐθύφρονος τοῦ Κλεωνύμου φυγάδος ἐκ Φλιοῦντος , οἰκεῖν δʼ ἐν Σάμῳ τὸν Μάρμακον , ὅθεν Σάμιον τὸν Πυθαγόραν λέγεσθαι ·",
+      "translation": "Having now completed our account of the philosophy of Ionia starting with Thales , as well as of its chief representatives , let us proceed to examine the philosophy of Italy , which was started by Pythagoras , [*] son of the gem-engraver Mnesarchus , and according to Hermippus , a Samian , or , according to Aristoxenus , a Tyrrhenian from one of those islands which the Athenians held after clearing them of their Tyrrhenian inhabitants . Some indeed say that he was descended through Euthyphro , Hippasus and Marmacus from Cleonymus , who was exiled from Phlius , and that , as Marmacus lived in Samos , so Pythagoras was called a Samian ."
+    },
+    {
+      "id": "8.1.2",
+      "label": "Section 8.1.2",
+      "chapter": null,
+      "original": "συστῆναι δʼ εἰς Λέσβον ἐλθόντα Φερεκύδῃ ὑπὸ Ζωίλου τοῦ θείου . καὶ τρία ποτήρια κατασκευασάμενος ἀργυρᾶ δῶρον ἀπήνεγκεν ἑκάστῳ τῶν ἱερέων εἰς Αἴγυπτον . ἔσχε δʼ ἀδελφούς , πρεσβύτερον μὲν Εὔνομον , μέσον δὲ Τυρρηνόν · καὶ δοῦλον Ζάμολξιν , ᾧ Γέται θύουσι , Κρόνον νομίζοντες , ὥς φησιν Ἡρόδοτος . οὗτος ἤκουσε μέν , καθὰ V2_322 προείρηται , Φερεκύδου τοῦ Συρίου · μετὰ δὲ τὴν ἐκείνου τελευτὴν ἧκεν εἰς Σάμον καὶ ἤκουσεν Ἑρμοδάμαντος τοῦ ἀπογόνου Κρεωφύλου , ἤδη πρεσβυτέρου . νέος δʼ ὢν καὶ φιλομαθὴς ἀπεδήμησε τῆς πατρίδος καὶ πάσας ἐμυήθη τάς θʼ Ἑλληνικὰς καὶ βαρβαρικὰς τελετάς .",
+      "translation": "From Samos he went , it is said , to Lesbos with an introduction to Pherecydes from his uncle Zoïlus . He had three silver flagons made and took them as presents to each of the priests of Egypt . He had brothers , of whom Eunomus was the elder and Tyrrhenus the second ; he also had a slave , Zamolxis , who is worshipped , so says Herodotus , [*] by the Getans , V2_323 as Cronos . He was a pupil , as already stated , of Pherecydes of Syros , after whose death he went to Samos to be the pupil of Hermodamas , Creophylus ’ s descendant , a man already advanced in years . While still young , so eager was he for knowledge , he left his own country and had himself initiated into all the mysteries and rites not only of Greece but also of foreign countries ."
+    },
+    {
+      "id": "8.1.3",
+      "label": "Section 8.1.3",
+      "chapter": null,
+      "original": "ἐγένετʼ οὖν ἐν Αἰγύπτῳ , ὁπηνίκα καὶ Πολυκράτης αὐτὸν Ἀμάσιδι συνέστησε διʼ ἐπιστολῆς · καὶ ἐξέμαθε τὴν φωνὴν αὐτῶν , καθά φησιν Ἀντιφῶν ἐν τῷ Περὶ τῶν ἐν ἀρετῇ πρωτευσάντων , καὶ παρὰ Χαλδαίοις ἐγένετο καὶ Μάγοις . εἶτʼ ἐν Κρήτῃ σὺν Ἐπιμενίδῃ κατῆλθεν εἰς τὸ Ἰδαῖον ἄντρον , ἀλλὰ καὶ ἐν Αἰγύπτῳ εἰς τὰ ἄδυτα · καὶ τὰ περὶ θεῶν ἐν ἀπορρήτοις ἔμαθεν . εἶτʼ ἐπανῆλθεν εἰς Σάμον , καὶ εὑρὼν τὴν πατρίδα τυραννουμένην ὑπὸ Πολυκράτους , ἀπῆρεν εἰς Κρότωνα τῆς Ἰταλίας · κἀκεῖ νόμους θεὶς τοῖς Ἰταλιώταις ἐδοξάσθη σὺν τοῖς μαθηταῖς , οἳ πρὸς τοὺς τριακοσίους ὄντες ᾠκονόμουν ἄριστα τὰ πολιτικά , ὥστε σχεδὸν ἀριστοκρατίαν εἶναι τὴν πολιτείαν .",
+      "translation": "Now he was in Egypt when Polycrates sent him a letter of introduction to Amasis ; he learnt the Egyptian language , so we learn from Antiphon in his book On Men of Outstanding Merit , and he also journeyed among the Chaldaeans and Magi . Then while in Crete he went down into the cave of Ida with Epimenides ; he also entered the Egyptian sanctuaries , [*] and was told their secret lore concerning the gods . After that he returned to Samos to find his country under the tyranny of Polycrates ; so he sailed away to Croton in Italy , and there he laid down a constitution for the Italian Greeks , and he and his followers were held in great estimation ; for , being nearly three hundred in number , so well did they govern the state that its constitution was in effect a true aristocracy ( government by the best )."
+    },
+    {
+      "id": "8.1.4",
+      "label": "Section 8.1.4",
+      "chapter": null,
+      "original": "Τοῦτόν φησιν Ἡρακλείδης ὁ Ποντικὸς περὶ αὑτοῦ τάδε λέγειν , ὡς εἴη ποτὲ γεγονὼς Αἰθαλίδης καὶ Ἑρμοῦ υἱὸς νομισθείη · τὸν δὲ Ἑρμῆν εἰπεῖν αὐτῷ ἑλέσθαι ὅ τι ἂν βούληται πλὴν ἀθανασίας . αἰτήσασθαι οὖν ζῶντα καὶ τελευτῶντα μνήμην ἔχειν τῶν συμβαινόντων . ἐν μὲν οὖν τῇ ζωῇ πάντων διαμνημονεῦσαι · ἐπεὶ δὲ ἀποθάνοι , τηρῆσαι V2_324 τὴν αὐτὴν μνήμην . χρόνῳ δʼ ὕστερον εἰς Εὔφορβον ἐλθεῖν καὶ ὑπὸ Μενέλεω τρωθῆναι . ὁ δʼ Εὔφορβος ἔλεγεν ὡς Αἰθαλίδης ποτὲ γεγόνοι καὶ ὅτι παρʼ Ἑρμοῦ τὸ δῶρον λάβοι καὶ τὴν τῆς ψυχῆς περιπόλησιν , ὡς περιεπολήθη καὶ εἰς ὅσα φυτὰ καὶ ζῷα παρεγένετο καὶ ὅσα ἡ ψυχὴ ἐν Ἅιδῃ ἔπαθε καὶ αἱ λοιπαὶ τίνα ὑπομένουσιν .",
+      "translation": "This is what Heraclides of Pontus tells us he used to say about himself : that he had once been Aethalides and was accounted to be Hermes ’ son , and Hermes told him he might choose any gift he liked except immortality ; so he asked to retain through life and through death a memory of his experiences . Hence in life he could recall everything , and when he died he still kept the V2_325 same memories . Afterwards in course of time his soul entered into Euphorbus and he was wounded by Menelaus . Now Euphorbus used to say that he had once been Aethalides and obtained this gift from Hermes , and then he told of the wanderings of his soul , how it migrated hither and thither , into how many plants and animals it had come , and all that it underwent in Hades , and all that the other souls there have to endure ."
+    },
+    {
+      "id": "8.1.5",
+      "label": "Section 8.1.5",
+      "chapter": null,
+      "original": "ἐπειδὴ δὲ Εὔφορβος ἀποθάνοι , μεταβῆναι τὴν ψυχὴν αὐτοῦ εἰς Ἑρμότιμον , ὃς καὶ αὐτὸς πίστιν θέλων δοῦναι εἶτʼ ἀνῆλθεν [*] εἰς Βραγχίδας καὶ εἰσελθὼν εἰς τὸ τοῦ Ἀπόλλωνος ἱερὸν ἐπέδειξεν ἣν Μενέλαος ἀνέθηκεν ἀσπίδα , ( ἔφη γὰρ αὐτόν , ὅτʼ ἀπέπλει ἐκ Τροίας , ἀναθεῖναι τῷ Ἀπόλλωνι τὴν ἀσπίδα ,) διασεσηπυῖαν ἤδη , μόνον δὲ διαμένον τὸ ἐλεφάντινον πρόσωπον . ἐπειδὴ δʼ Ἑρμότιμος ἀπέθανε , γενέσθαι Πύρρον τὸν Δήλιον ἁλιέα · καὶ πάντα πάλιν μνημονεύειν , πῶς πρόσθεν Αἰθαλίδης , εἶτʼ Εὔφορβος , εἶτα Ἑρμότιμος , εἶτα Πύρρος γένοιτο . ἐπειδὴ δὲ Πύρρος ἀπέθανε , γενέσθαι Πυθαγόραν καὶ πάντων τῶν εἰρημένων μεμνῆσθαι .",
+      "translation": "When Euphorbus died , his soul passed into Hermotimus , and he also , wishing to authenticate the story , went up to the temple of Apollo at Branchidae , where he identified the shield which Menelaus , on his voyage home from Troy , had dedicated to Apollo , so he said : the shield being now so rotten through and through that the ivory facing only was left . When Hermotimus died , he became Pyrrhus , a fisherman of Delos , and again he remembered everything , how he was first Aethalides , then Euphorbus , then Hermotimus , and then Pyrrhus . But when Pyrrhus died , he became Pythagoras , and still remembered all the facts mentioned ."
+    },
+    {
+      "id": "9.1.1",
+      "label": "Section 9.1.1",
+      "chapter": null,
+      "original": "Ἡράκλειτος Βλόσωνος ἤ , ὥς τινες , Ἡράκωντος [*] Ἐφέσιος . οὗτος ἤκμαζε μὲν κατὰ τὴν ἐνάτην καὶ ἑξηκοστὴν Ὀλυμπιάδα . μεγαλόφρ ων δὲ γέγονε παρʼ ὁντιναοῦ καὶ ὑπερόπτης , ὡς καὶ ἐκ τοῦ συγγράμματος αὐτοῦ δῆλον , ἐν ᾧ φησι , πολυμαθίη νόον [*] οὐ διδάσκει · Ἡσίοδον γὰρ ἂν ἐδίδαξε καὶ Πυθαγόρην , αὖτίς τε Ξενοφάνεά τε καὶ Ἑκαταῖον . εἶναι γὰρͅ ἓν τὸ σοφόν , ἐπίστασθαι γνώμην , ὁτέη ἐκυβέρνησε πάντα διὰ πάντων . τόν τε Ὅμηρον ἔφασκεν ἄξιον ἐκ τῶν ἀγώνων ἐκβάλλεσθαι καὶ ῥαπίζεσθαι , καὶ Ἀρχίλοχον ὁμοίως .",
+      "translation": "Heraclitus , son of Bloson or , according to some , of Heracon , was a native of Ephesus . He flourished in the 69th Olympiad . [*] He was lofty-minded beyond all other men , [*] and over-weening , as is clear from his book in which he says : Much learning does not teach understanding ; else would it have taught Hesiod and Pythagoras , or , again , Xenophanes and Hecataeus . [*] For this one thing is wisdom , to understand thought , as that which guides all the world everywhere . [*] And he used to say that Homer deserved to be chased out of the lists and beaten with rods , and Archilochus likewise . [*]"
+    },
+    {
+      "id": "9.1.2",
+      "label": "Section 9.1.2",
+      "chapter": null,
+      "original": "Ἔλεγε δὲ καὶ ὕβριν χρὴ σβεννύναι μᾶλλον ἢ πυρκαϊὴν καὶ μάχεσθαι χρὴ τὸν δῆμον ὑπὲρ τοῦ νόμου ὅκωσπερ τείχεος . [*] καθάπτεται δὲ καὶ τῶν Ἐφεσίων ἐπὶ τῷ τὸν ἑταῖρον ἐκβαλεῖν Ἑρμόδωρον , V2_410 ἐν οἷς φησιν , ἄξιον Ἐφεσίοις ἡβηδὸν ἀποθανεῖν [*] πᾶσι καὶ τοῖς ἀνήβοις τὴν πόλιν καταλιπεῖν , οἵτινες Ἑρμόδωρον ἄνδρα ἑωυτῶν ὀνήιστον ἐξέβαλον λέγοντες , Ἡμέων μηδὲ εἷς ὀνήιστος ἔστω · εἰ δέ τις τοιοῦτος , ἄλλῃ τε καὶ μετʼ ἄλλων . ἀξιούμενος δὲ καὶ νόμους θεῖναι πρὸς αὐτῶν ὑπερεῖδε διὰ τὸ ἤδη κεκρατῆσθαι τῇ πονηρᾷ πολιτείᾳ τὴν πόλιν .",
+      "translation": "Again he would say : There is more need to extinguish insolence than an outbreak of fire , [*] and The people must fight for the law as for citywalls . [*] He attacks the Ephesians , too , for banishing his friend Hermodorus : he says : The Ephesians V2_411 would do well to end their lives , every grown man of them , and leave the city to beardless boys , for that they have driven out Hermodorus , the worthiest man among them , saying , We will have none who is worthiest among us ; or if there be any such , let him go elsewhere and consort with others . [*] And when he was requested by them to make laws , he scorned the request because the state was already in the grip of a bad constitution ."
+    },
+    {
+      "id": "9.1.3",
+      "label": "Section 9.1.3",
+      "chapter": null,
+      "original": "ἀναχωρήσας δʼ εἰς τὸ ἱερὸν τῆς Ἀρτέμιδος μετὰ τῶν παίδων ἠστραγάλιζε · περιστάντων δʼ αὐτὸν τῶν Ἐφεσίων , τί , ὦ κάκιστοι , θαυμάζετε ; εἶπεν · ἢ οὐ κρεῖττον τοῦτο ποιεῖν ἢ μεθʼ ὑμῶν πολιτεύεσθαι ;\nΚαὶ τέλος μισανθρωπήσας καὶ ἐκπατήσας ἐν τοῖς ὄρεσι διητᾶτο , πόας σιτούμενος καὶ βοτάνας . καὶ μέντοι καὶ διὰ τοῦτο περιτραπεὶς εἰς ὕδερον κατῆλθεν εἰς ἄστυ καὶ τῶν ἰατρῶν αἰνιγματωδῶς ἐπυνθάνετο εἰ δύναιντʼ ἐξ ἐπομβρίας αὐχμὸν ποιῆσαι · τῶν δὲ μὴ συνιέντων , αὑτὸν εἰς βουστάσιον κατορύξας τῇ τῶν βολίτων ἀλέᾳ ἤλπισεν ἐξατμισθήσεσθαι . οὐδὲν δʼ ἀνύων οὐδʼ οὕτως , ἐτελεύτα βιοὺς ἔτη ἑξήκοντα .",
+      "translation": "He would retire to the temple of Artemis and play at knuckle-bones with the boys ; and when the Ephesians stood round him and looked on , Why , you rascals , he said , are you astonished ? Is it not better to do this than to take part in your civil life ?\nFinally , he became a hater of his kind and wandered on the mountains , and there he continued to live , making his diet of grass and herbs . However , when this gave him dropsy , he made his way back to the city and put this riddle to the physicians , whether they were competent to create a drought after heavy rain . They could make nothing of this , whereupon he buried himself in a cowshed , expecting that the noxious damp humour would be drawn out of him by the warmth of the manure . But , as even this was of no avail , he died at the age of sixty ."
+    },
+    {
+      "id": "9.1.4",
+      "label": "Section 9.1.4",
+      "chapter": null,
+      "original": "Καὶ ἔστιν εἰς αὐτὸν ἡμῶν οὕτως ἔχον ·\nπολλάκις Ἡράκλειτον ἐθαύμασα , πῶς ποτε τὸ ζῆν ὧδε διαντλήσας δύσμορος εἶτʼ ἔθανεν · σῶμα γὰρ ἀρδεύσασα κακὴ νόσος ὕδατι φέγγος ἔσβεσεν ἐν βλεφάροις καὶ σκότον ἠγάγετο .\n\nἝρμιππος δέ φησι λέγειν αὐτὸν τοῖς ἰατροῖς εἴ τις δύναται 〈 τὰ 〉 ἔντερα κεινώσας τὸ ὑγρὸν ἐξερᾶσαι · ἀπειπόντων δέ , θεῖναι αὑτὸν εἰς τὸν V2_412 ἥλιον καὶ κελεύειν τοὺς παῖδας βολίτοις καταπλάττειν · οὕτω δὴ κατατεινόμενον δευτεραῖον τελευτῆσαι καὶ θαφθῆναι ἐν τῇ ἀγορᾷ . Νεάνθης δʼ ὁ Κυζικηνός φησι μὴ δυνηθέντʼ αὐτὸν ἀποσπάσαι τὰ βόλιτα μεῖναι καὶ διὰ τὴν μεταβολὴν ἀγνοηθέντα κυνόβρωτον γενέσθαι .",
+      "translation": "There is a piece of my own about him as follows [*] :\nOften have I wondered how it came about that Heraclitus endured to live in this miserable fashion and then to die . For a fell disease flooded his body with water , quenched the light in his eyes and brought on darkness .\nHermippus , too , says that he asked the doctors whether anyone could by emptying the intestines draw off the moisture ; and when they said it was V2_413 impossible , he put himself in the sun and bade his servants plaster him over with cow-dung . Being thus stretched and prone , he died the next day and was buried in the market-place . Neanthes of Cyzicus states that , being unable to tear off the dung , he remained as he was and , being unrecognizable when so transformed , he was devoured by dogs ."
+    },
+    {
+      "id": "9.1.5",
+      "label": "Section 9.1.5",
+      "chapter": null,
+      "original": "Γέγονε δὲ θαυμάσιος ἐκ παίδων , ὅτε καὶ νέος ὢν ἔφασκε μηδὲν εἰδέναι , τέλειος μέντοι γενόμενος πάντʼ ἐγνωκέναι . ἤκουσέ τʼ οὐδενός , ἀλλʼ αὑτὸν ἔφη διζήσασθαι καὶ μαθεῖν πάντα παρʼ ἑαυτοῦ . Σωτίων δέ φησιν εἰρηκέναι τινὰς Ξενοφάνους αὐτὸν ἀκηκοέναι · λέγειν τε Ἀρίστωνα ἐν τῷ Περὶ Ἡρακλείτου καὶ τὸν ὕδερον αὐτὸν θεραπευθῆναι , ἀποθανεῖν δʼ ἄλλῃ νόσῳ . τοῦτο δὲ καὶ Ἱππόβοτός φησι .\nΤὸ δὲ φερόμενον αὐτοῦ βιβλίον ἐστὶ μὲν ἀπὸ τοῦ συνέχοντος Περὶ φύσεως , διῄρηται δʼ εἰς τρεῖς λόγους , εἴς τε τὸν περὶ τοῦ παντὸς καὶ πολιτικὸν καὶ θεολογικόν .",
+      "translation": "He was exceptional from his boyhood ; for when a youth he used to say that he knew nothing , although when he was grown up he claimed that he knew everything . He was nobody ’ s pupil , but he declared that he inquired of himself , [*] and learned everything from himself . Some , however , had said that he had been a pupil of Xenophanes , as we learn from Sotion , who also tells us that Ariston in his book On Heraclitus declares that he was cured of the dropsy and died of another disease . And Hippobotus has the same story .\nAs to the work which passes as his , it is a continuous treatise On Nature , but is divided into three discourses , one on the universe , another on politics , and a third on theology ."
+    },
+    {
+      "id": "10.1.1",
+      "label": "Section 10.1.1",
+      "chapter": null,
+      "original": "Ἐπίκουρος Νεοκλέους καὶ Χαιρεστράτης , Ἀθηναῖος , τῶν δήμων Γαργήττιος , γένους τοῦ τῶν Φιλαϊδῶν , ὥς φησι Μητρόδωρος ἐν τῷ Περὶ εὐγενείας . τοῦτόν φασιν ἄλλοι τε καὶ Ἡρακλείδης ἐν τῇ Σωτίωνος ἐπιτομῇ κληρουχησάντων Ἀθηναίων τὴν Σάμον ἐκεῖθι τραφῆναι · ὀκτωκαιδεκέτη δʼ ἐλθεῖν εἰς Ἀθήνας , Ξενοκράτους μὲν ἐν Ἀκαδημείᾳ , Ἀριστοτέλους δʼ ἐν Χαλκίδι διατρίβοντος . τελευτήσαντος δὲ Ἀλεξάνδρου τοῦ Μακεδόνος καὶ τῶν Ἀθηναίων ἐκπεσόντων ὑπὸ Περδίκκου μετελθεῖν εἰς Κολοφῶνα πρὸς τὸν πατέρα ·",
+      "translation": "Epicurus , son of Neocles and Chaerestrate , was as citizen of Athens of the deme Gargettus , and , as Metrodorus says in his book On Noble Birth , of the family of the Philaidae . He is said by Heraclides [*] in his Epitome of Sotion , as well as by other authorities , to have been brought up at Samos after the Athenians had sent settlers there and to have come to Athens at the age of eighteen , at the time when Xenocrates was lecturing at the Academy and Aristotle in Chalcis . Upon the death of Alexander of Macedon and the expulsion of the Athenian settlers from Samos by Perdiccas , [*] Epicurus left Athens to join his father in Colophon ."
+    },
+    {
+      "id": "10.1.2",
+      "label": "Section 10.1.2",
+      "chapter": null,
+      "original": "χρόνον δέ τινα διατρίψαντα αὐτόθι καὶ μαθητὰς ἀθροίσαντα πάλιν ἐπανελθεῖν εἰς Ἀθήνας ἐπὶ Ἀναξικράτους · καὶ μέχρι μέν τινος κατʼ ἐπιμιξίαν τοῖς ἄλλοις φιλοσοφεῖν , ἔπειτα ἰδίᾳ ἀπο- 〈 φαίνεσθαι 〉 τὴν ἀπʼ αὐτοῦ κληθεῖσαν αἵρεσιν συστήσαντα . ἐφάψασθαι δὲ φιλοσοφίας αὐτός φησιν ἔτη γεγονὼς τετταρεσκαίδεκα . Ἀπολλόδωρος δʼ ὁ Ἐπικούρειος ἐν τῷ πρώτῳ περὶ τοῦ V2_530 Ἐπικούρου βίου φησὶν ἐλθεῖν αὐτὸν ἐπὶ φιλοσοφίαν καταγνόντα τῶν γραμματιστῶν , ἐπειδὴ μὴ ἐδυνήθησαν ἑρμηνεῦσαι αὐτῷ τὰ περὶ τοῦ παρʼ Ἡσιόδῳ χάους . φησὶ δʼ Ἕρμιππος γραμματοδιδάσκαλον αὐτὸν γεγενῆσθαι , ἔπειτα μέντοι περιτυχόντα τοῖς Δημοκρίτου βιβλίοις ἐπὶ φιλοσοφίαν ᾆξαι ·",
+      "translation": "For some time he stayed there and gathered disciples , but returned to Athens in the archonship of Anaxicrates . [*] And for a while , it is said , he prosecuted his studies in common with the other philosophers , but afterwards put forward independent views by the foundation of the school called after him . He says himself that he first came into contact with philosophy at the age of fourteen . Apollodorus the Epicurean , in the first book of his Life of Epicurus , says V2_531 that he turned to philosophy in disgust at the schoolmasters who could not tell him the meaning of chaos in Hesiod . [*] According to Hermippus , however , he started as a schoolmaster , but on coming across the works of Democritus turned eagerly to philosophy ."
+    },
+    {
+      "id": "10.1.3",
+      "label": "Section 10.1.3",
+      "chapter": null,
+      "original": "διὸ καὶ τὸν Τίμωνα φάσκειν περὶ αὐτοῦ ·\nὕστατος αὖ φυσικῶν καὶ κύντατος , ἐκ Σάμου ἐλθὼν γραμμαδιδασκαλίδης , ἀναγωγότατος ζωόντων .\n\nΣυνεφιλοσόφουν δʼ αὐτῷ προτρεψαμένῳ καὶ οἱ ἀδελφοὶ τρεῖς ὄντες , Νεοκλῆς Χαιρέδημος Ἀριστόβουλος , καθά φησι Φιλόδημος ὁ Ἐπικούρειος ἐν τῷ δεκάτῳ τῆς τῶν φιλοσόφων συντάξεως · ἀλλὰ καὶ δοῦλος Μῦς ὄνομα , καθά φησι Μυρωνιανὸς ἐν Ὁμοίοις ἱστορικοῖς κεφαλαίοις . Διότιμος δʼ ὁ Στωικὸς δυσμενῶς ἔχων πρὸς αὐτὸν πικρότατα αὐτὸν διαβέβληκεν , ἐπιστολὰς φέρων πεντήκοντα ἀσελγεῖς ὡς Ἐπικούρου · καὶ ὁ τὰ εἰς Χρύσιππον ἀναφερόμενα ἐπιστόλια ὡς Ἐπικούρου συντάξας .",
+      "translation": "Hence the point of Timon ’ s allusion [*] in the lines :\nAgain there is the latest and most shameless of the physicists , the schoolmaster ’ s son [*] from Samos , himself the most uneducated of mortals .\nAt his instigation his three brothers , Neocles , Chaeredemus , and Aristobulus , joined in his studies , according to Philodemus the Epicurean in the tenth book of his comprehensive work On Philosophers ; furthermore his slave named Mys , as stated by Myronianus in his Historical Parallels . Diotimus [*] the Stoic , who is hostile to him , has assailed him with bitter slanders , adducing fifty scandalous letters as written by Epicurus ; and so too did the author who ascribed to Epicurus the epistles commonly attributed to Chrysippus ."
+    },
+    {
+      "id": "10.1.4",
+      "label": "Section 10.1.4",
+      "chapter": null,
+      "original": "ἀλλὰ καὶ οἱ περὶ Ποσειδώνιον τὸν στωικὸν καὶ Νικόλαος καὶ Σωτίων ἐν τῷ δωδεκάτῳ τῶν ἐπιγραφομένων Διοκλείων ἐλέγχων , ἅ ἐστι δʼ πρὸς τοῖς κʼ , καὶ Διονύσιος ὁ Ἁλικαρνασσεύς . καὶ γὰρ σὺν τῇ μητρὶ περιιόντα αὐτὸν ἐς τὰ οἰκίδια καθαρμοὺς ἀναγινώσκειν , καὶ σὺν τῷ πατρὶ γράμματα διδάσκειν λυπροῦ τινος μισθαρίου . ἀλλὰ καὶ τῶν V2_532 ἀδελφῶν ἕνα προαγωγεύειν , Λεοντίῳ καὶ συνεῖναι τῇ ἑταίρᾳ . τὰ δὲ Δημοκρίτου περὶ τῶν ἀτόμων καὶ Ἀριστίππου περὶ τῆς ἡδονῆς ὡς ἴδια λέγειν 〈·〉 μὴ εἶναί τε γνησίως ἀστόν , ὡς Τιμοκράτης φησὶ καὶ Ἡρόδοτος ἐν τῷ Περὶ Ἐπικούρου ἐφηβείας . Μιθρῆν τε αἰσχρῶς κολακεύειν τὸν Λυσιμάχου διοικητήν , ἐν ταῖς ἐπιστολαῖς Παιᾶνα καὶ ἄνακτα καλοῦντα ·",
+      "translation": "They are followed by Posidonius the Stoic and his school , and Nicolaus and Sotion in the twelfth book of his work entitled Dioclean Refutations , consisting of twenty-four books ; also by Dionysius of Halicarnassus . They allege that he used to go round with his mother to cottages and read charms , and assist his father in his school for a pitiful fee [*] ; further , that one of his brothers was a pander and V2_533 lived with Leontion the courtesan ; that he put forward as his own the doctrines of Democritus about atoms and of Aristippus about pleasure ; that he was not a genuine Athenian citizen , a charge brought by Timocrates and by Herodotus in a book On the Training of Epicurus as a Cadet ; that he basely flattered Mithras , [*] the minister of Lysimachus , bestowing on him in his letters Apollo ’ s titles of Healer and Lord ."
+    },
+    {
+      "id": "10.1.5",
+      "label": "Section 10.1.5",
+      "chapter": null,
+      "original": "ἀλλὰ καὶ Ἰδομενέα καὶ Ἡρόδοτον καὶ Τιμοκράτην τοὺς ἔκπυστα αὐτοῦ τὰ κρύφια ποιήσαντας ἐγκωμιάζειν καὶ κολακεύειν αὐτὸ τοῦτο . ἔν τε ταῖς ἐπιστολαῖς πρὸς μὲν Λεόντιον Παιὰν ἄναξ , φίλον Λεοντάριον , οἵου κροτοθορύβου ἡμᾶς ἐνέπλησας ἀναγνόντας σου τὸ ἐπιστόλιον · πρὸς δὲ Θεμίσταν τὴν Λεοντέως γυναῖκα Οἷός τε φησίν εἰμί , ἐὰν μὴ ὑμεῖς πρός με ἀφίκησθε , αὐτὸς τρικύλιστος , ὅπου ἂν ὑμεῖς καὶ Θεμίστα παρακαλῆτε , ὠθεῖσθαι . πρὸς δὲ Πυθοκλέα ὡραῖον ὄντα Καθεδοῦμαι φησὶ προσδοκῶν τὴν ἱμερτὴν καὶ ἰσόθεόν σου εἴσοδον . καὶ πάλιν πρὸς Θεμίσταν γράφων νομίζειν αὐτῇ παραινεῖν , καθά φησι Θεόδωρος ἐν τῷ τετάρτῳ τῶν Πρὸς Ἐπίκουρον .",
+      "translation": "Furthermore that he extolled Idomeneus , Herodotus , and Timocrates , who had published his esoteric doctrines , and flattered them for that very reason . Also that in his letters he wrote to Leontion , O Lord Apollo , my dear little Leontion , with what tumultuous applause we were inspired as we read your letter . Then again to Themista , the wife of Leonteus : I am quite ready , if you do not come to see me , to spin thrice on my own axis and be propelled to any place that you , including Themista , agree upon ; and to the beautiful Pythocles he writes : I will sit down and await thy divine advent , my heart ’ s desire . And , as Theodorus says in the fourth book of his work , Against Epicurus , in another letter to Themista he thinks he preaches to her . [*]"
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": null
+}

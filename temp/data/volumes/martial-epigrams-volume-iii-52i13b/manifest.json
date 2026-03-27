@@ -1,0 +1,91 @@
+{
+  "loebNumber": 480,
+  "sortOrder": 480,
+  "slug": "martial-epigrams-volume-iii-52i13b",
+  "title": "Epigrams, Volume III",
+  "volumeLabel": "Epigrams, Volume III",
+  "authorDisplay": "Martial",
+  "authors": [
+    "Martial"
+  ],
+  "language": "latin",
+  "summary": "A Scaife-backed parallel-text shelf for Epigrams, Volume III. Epigrams, Volume III currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "epigrams-volume-iii-nvd1f9-1",
+  "readyChunkCount": 2,
+  "contents": [
+    {
+      "id": "epigrams-volume-iii-nvd1f9",
+      "title": "Epigrams, Volume III",
+      "status": "ready",
+      "sectionCount": 109,
+      "chunkSlug": "epigrams-volume-iii-nvd1f9-1",
+      "chunks": [
+        {
+          "slug": "epigrams-volume-iii-nvd1f9-1",
+          "label": "Epigrams, Volume III (Section 1.1 - Section 12.3)",
+          "partId": "epigrams-volume-iii-nvd1f9",
+          "partTitle": "Epigrams, Volume III",
+          "sectionCount": 60,
+          "status": "ready"
+        },
+        {
+          "slug": "epigrams-volume-iii-nvd1f9-2",
+          "label": "Epigrams, Volume III (Section 12.4 - Section 17.4)",
+          "partId": "epigrams-volume-iii-nvd1f9",
+          "partTitle": "Epigrams, Volume III",
+          "sectionCount": 49,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "epigrams-volume-iii-nvd1f9-1",
+      "label": "Epigrams, Volume III (Section 1.1 - Section 12.3)",
+      "partId": "epigrams-volume-iii-nvd1f9",
+      "partTitle": "Epigrams, Volume III",
+      "sectionCount": 60,
+      "status": "ready"
+    },
+    {
+      "slug": "epigrams-volume-iii-nvd1f9-2",
+      "label": "Epigrams, Volume III (Section 12.4 - Section 17.4)",
+      "partId": "epigrams-volume-iii-nvd1f9",
+      "partTitle": "Epigrams, Volume III",
+      "sectionCount": 49,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "epigrams-volume-iii-nvd1f9-1",
+      "partTitle": "Epigrams, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὁμήρου ἐπιγράμματα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0012.tlg003.perseus-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Epigrams",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0012.tlg003.perseus-eng1/"
+      }
+    },
+    {
+      "chunkSlug": "epigrams-volume-iii-nvd1f9-2",
+      "partTitle": "Epigrams, Volume III",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ὁμήρου ἐπιγράμματα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0012.tlg003.perseus-grc1/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Epigrams",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0012.tlg003.perseus-eng1/"
+      }
+    }
+  ]
+}

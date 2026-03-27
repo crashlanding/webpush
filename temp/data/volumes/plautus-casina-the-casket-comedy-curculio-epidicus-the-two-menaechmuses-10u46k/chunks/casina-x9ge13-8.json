@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-casina-the-casket-comedy-curculio-epidicus-the-two-menaechmuses-10u46k",
+  "volumeTitle": "Casina. The Casket Comedy. Curculio. Epidicus. The Two Menaechmuses",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "casina-x9ge13-8",
+  "label": "Casina (Section 3.4.620 - Section 3.5.676b)",
+  "partId": "casina-x9ge13",
+  "partTitle": "Casina",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Casina",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi006.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Casina, or The Stratagem Defeated",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi006.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "3.4.620",
+      "label": "Section 3.4.620",
+      "chapter": null,
+      "original": "quid illúc clamoris , opsecro , in nostrast domo ?",
+      "translation": "what ’ s that noise , prithee , that ’ s going on in our house ?"
+    },
+    {
+      "id": "3.5.621",
+      "label": "Section 3.5.621",
+      "chapter": null,
+      "original": "Núlla sum , núlla sum , tóta , tota óccidi ,",
+      "translation": "I ’ m undone , I ’ m undone , I ’ m utterly , utterly ruined ! My heart is deadened with fear . My limbs , in my misery , are all a-trembling ! I know not whence to obtain or look for any assistance , safety , or refuge for myself , or any means of relief :"
+    },
+    {
+      "id": "3.5.625",
+      "label": "Section 3.5.625",
+      "chapter": null,
+      "original": "tanta factu modo mira miris modis",
+      "translation": "things so surprising , in a manner so surprisingly done , have I just now witnessed in-doors , a new and unusual piece of audacity . Be on your guard , Cleostrata ! prithee do get away from her , lest amid such transports she may be doing you some mischief ! Tear away that sword from her , who ’ s not in possession of her senses !"
+    },
+    {
+      "id": "3.5.630",
+      "label": "Section 3.5.630",
+      "chapter": null,
+      "original": "Nam quid est quod haec huc timida atque exanimata exsiluit foras ?",
+      "translation": "Why , what is the matter — that she , frightened and half dead with fear , rushes hither out of doors ? Pardalisca !"
+    },
+    {
+      "id": "3.5.631b",
+      "label": "Section 3.5.631b",
+      "chapter": null,
+      "original": "Perii , unde meae usurpant aures sonitum ?",
+      "translation": "Whence do my ears catch the sound ?"
+    },
+    {
+      "id": "3.5.632",
+      "label": "Section 3.5.632",
+      "chapter": null,
+      "original": "Respice modo ad me .",
+      "translation": "Just look back at me ."
+    },
+    {
+      "id": "3.5.632b",
+      "label": "Section 3.5.632b",
+      "chapter": null,
+      "original": "O ere mi —",
+      "translation": "My master !"
+    },
+    {
+      "id": "3.5.632c",
+      "label": "Section 3.5.632c",
+      "chapter": null,
+      "original": "Quid tibi est ? quid timida es ?",
+      "translation": "What ’ s the matter ? What ?"
+    },
+    {
+      "id": "3.5.632d",
+      "label": "Section 3.5.632d",
+      "chapter": null,
+      "original": "Perii .",
+      "translation": "I ’ m undone ."
+    },
+    {
+      "id": "3.5.633",
+      "label": "Section 3.5.633",
+      "chapter": null,
+      "original": "Quid , periisti ?",
+      "translation": "How undone ?"
+    },
+    {
+      "id": "3.5.633b",
+      "label": "Section 3.5.633b",
+      "chapter": null,
+      "original": "Perii , et tu periisti .",
+      "translation": "I ’ m undone , and you are undone ."
+    },
+    {
+      "id": "3.5.633c",
+      "label": "Section 3.5.633c",
+      "chapter": null,
+      "original": "A , perii ? quid ita ?",
+      "translation": "Disclose it , what ’ s the matter with you ?"
+    },
+    {
+      "id": "3.5.634",
+      "label": "Section 3.5.634",
+      "chapter": null,
+      "original": "Vae tibi .",
+      "translation": "Woe to you !"
+    },
+    {
+      "id": "3.5.634b",
+      "label": "Section 3.5.634b",
+      "chapter": null,
+      "original": "Immo , vae tibi sit .",
+      "translation": "Aye , and the same to yourself ."
+    },
+    {
+      "id": "3.5.634c",
+      "label": "Section 3.5.634c",
+      "chapter": null,
+      "original": "Ne cadam , amabo , tene me .",
+      "translation": "That I mayn ’ t fall down , prithee do hold , hold me ."
+    },
+    {
+      "id": "3.5.635",
+      "label": "Section 3.5.635",
+      "chapter": null,
+      "original": "Quidquid est , eloquere mihi cito .",
+      "translation": "Whatever it is , tell me quickly ."
+    },
+    {
+      "id": "3.5.635b",
+      "label": "Section 3.5.635b",
+      "chapter": null,
+      "original": "Contine pectus ,",
+      "translation": "Do support my throbbing breast , prithee do make a little air with your cloak ."
+    },
+    {
+      "id": "3.5.636b",
+      "label": "Section 3.5.636b",
+      "chapter": null,
+      "original": "Timeo hóc negoti quíd siet ,",
+      "translation": "I ’ m in alarm as to what is the matter ; ( aside ) unless this woman has been somewhere upsetting herself with the pure cream [*] of Bacchus ."
+    },
+    {
+      "id": "3.5.641",
+      "label": "Section 3.5.641",
+      "chapter": null,
+      "original": "Óptine aurís , amabo .",
+      "translation": "Hold my ears , pray do ."
+    },
+    {
+      "id": "3.5.641b",
+      "label": "Section 3.5.641b",
+      "chapter": null,
+      "original": "I ín malam a mé crucem ,",
+      "translation": "Away to utter perdition ; breast , ears , head , and yourself , may the Gods confound ! For , unless I quickly learn from you this matter , whatever it is , I ’ ll forth with be knocking your brains out , you viper ,"
+    },
+    {
+      "id": "3.5.645",
+      "label": "Section 3.5.645",
+      "chapter": null,
+      "original": "ludibrio pessuma adhuc quae me habuisti .",
+      "translation": "you hussey , who have thus far been making a laughing-stock of me ."
+    },
+    {
+      "id": "3.5.646",
+      "label": "Section 3.5.646",
+      "chapter": null,
+      "original": "Ere mí —",
+      "translation": "My master !"
+    },
+    {
+      "id": "3.5.646b",
+      "label": "Section 3.5.646b",
+      "chapter": null,
+      "original": "Quid vis mea me áncilla ?",
+      "translation": "What do you want , my servant ?"
+    },
+    {
+      "id": "3.5.646c",
+      "label": "Section 3.5.646c",
+      "chapter": null,
+      "original": "Nimiúm saevis .",
+      "translation": "You are too angry ."
+    },
+    {
+      "id": "3.5.646d",
+      "label": "Section 3.5.646d",
+      "chapter": null,
+      "original": "Numeró dicis .",
+      "translation": "You are saying so too soon . But whatever this is , tell it ; relate in a few words what has been the disturbance in-doors ."
+    },
+    {
+      "id": "3.5.648b",
+      "label": "Section 3.5.648b",
+      "chapter": null,
+      "original": "Scibis , aúdi .",
+      "translation": "You shall know ."
+    },
+    {
+      "id": "3.5.649_650",
+      "label": "Section 3.5.649_650",
+      "chapter": null,
+      "original": "malúm pessumúmque hic modo intus ápud nos",
+      "translation": "Hear this most foul crime which just now in-doors at our house your female slave began to attempt after this fashion , a thing that does not befit the regulations lations of Attica ."
+    },
+    {
+      "id": "3.5.653",
+      "label": "Section 3.5.653",
+      "chapter": null,
+      "original": "Quid ést id ?",
+      "translation": "What is it ?"
+    },
+    {
+      "id": "3.5.653b",
+      "label": "Section 3.5.653b",
+      "chapter": null,
+      "original": "Timór praepedít dicta línguae .",
+      "translation": "Fever prevents the use of my tongue ."
+    },
+    {
+      "id": "3.5.654",
+      "label": "Section 3.5.654",
+      "chapter": null,
+      "original": "Possúm scire ego ístuc ex té quid negótist ?",
+      "translation": "What is it ? Can I possibly learn from you what is the matter ?"
+    },
+    {
+      "id": "3.5.654b",
+      "label": "Section 3.5.654b",
+      "chapter": null,
+      "original": "Dicam .",
+      "translation": "I ’ ll tell you . Your female slave , she whom you intend to give as a wife to your bailiff , in-doors she —"
+    },
+    {
+      "id": "3.5.656b",
+      "label": "Section 3.5.656b",
+      "chapter": null,
+      "original": "Quid íntus ? quid ést ?",
+      "translation": "In-doors what ? What is it ?"
+    },
+    {
+      "id": "3.5.657",
+      "label": "Section 3.5.657",
+      "chapter": null,
+      "original": "Imitátur malárum malám disciplínam ,",
+      "translation": "Is imitating the wicked practices of wicked women , in threatening her husband —"
+    },
+    {
+      "id": "3.5.659",
+      "label": "Section 3.5.659",
+      "chapter": null,
+      "original": "Quid érgo ?",
+      "translation": "What then ?"
+    },
+    {
+      "id": "3.5.659b",
+      "label": "Section 3.5.659b",
+      "chapter": null,
+      "original": "Ah —",
+      "translation": "Ah !"
+    },
+    {
+      "id": "3.5.659c",
+      "label": "Section 3.5.659c",
+      "chapter": null,
+      "original": "Quid ést ?",
+      "translation": "What is it ?"
+    },
+    {
+      "id": "3.5.659d",
+      "label": "Section 3.5.659d",
+      "chapter": null,
+      "original": "Interémere ait vélle vitam ,",
+      "translation": "She says that she intends to take her husband ’ s life ."
+    },
+    {
+      "id": "3.5.660",
+      "label": "Section 3.5.660",
+      "chapter": null,
+      "original": "gladium —",
+      "translation": "A sword —"
+    },
+    {
+      "id": "3.5.660b",
+      "label": "Section 3.5.660b",
+      "chapter": null,
+      "original": "Hém .",
+      "translation": "Hah !"
+    },
+    {
+      "id": "3.5.660c",
+      "label": "Section 3.5.660c",
+      "chapter": null,
+      "original": "Gladium —",
+      "translation": "A sword —"
+    },
+    {
+      "id": "3.5.660d",
+      "label": "Section 3.5.660d",
+      "chapter": null,
+      "original": "Quid eúm gladium ?",
+      "translation": "What about that sword ?"
+    },
+    {
+      "id": "3.5.661",
+      "label": "Section 3.5.661",
+      "chapter": null,
+      "original": "Habet .",
+      "translation": "She has got one ."
+    },
+    {
+      "id": "3.5.661b",
+      "label": "Section 3.5.661b",
+      "chapter": null,
+      "original": "Eí misero mihi , cúr eum habet ?",
+      "translation": "Ah ! wretch that I am ! Why has she got it ?"
+    },
+    {
+      "id": "3.5.662",
+      "label": "Section 3.5.662",
+      "chapter": null,
+      "original": "Inséctatur ómnis domí per aedis ,",
+      "translation": "She is pursuing them all at home all over the house , and she won ’ t allow any person to approach her ; and so , all , hiding in chests and under beds ,"
+    },
+    {
+      "id": "3.5.665",
+      "label": "Section 3.5.665",
+      "chapter": null,
+      "original": "metú mussitánt .",
+      "translation": "are mute with fear ."
+    },
+    {
+      "id": "3.5.665b",
+      "label": "Section 3.5.665b",
+      "chapter": null,
+      "original": "Occidi átque intérii .",
+      "translation": "I ’ m murdered and ruined outright ! What malady is this that has so suddenly befallen her ?"
+    },
+    {
+      "id": "3.5.667",
+      "label": "Section 3.5.667",
+      "chapter": null,
+      "original": "Insánit .",
+      "translation": "She is mad ."
+    },
+    {
+      "id": "3.5.667b",
+      "label": "Section 3.5.667b",
+      "chapter": null,
+      "original": "Sceléstissimum me esse crédo .",
+      "translation": "I do think that I am the most unfortunate of men !"
+    },
+    {
+      "id": "3.5.668",
+      "label": "Section 3.5.668",
+      "chapter": null,
+      "original": "Immó si sciás dicta quaé dixit hódie —",
+      "translation": "Aye , and if you were to know the speeches she uttered to-day ."
+    },
+    {
+      "id": "3.5.669",
+      "label": "Section 3.5.669",
+      "chapter": null,
+      "original": "Istúc expetó scire . quíd dixit ?",
+      "translation": "I long to know about what she said ."
+    },
+    {
+      "id": "3.5.669b",
+      "label": "Section 3.5.669b",
+      "chapter": null,
+      "original": "Aúdi .",
+      "translation": "Listen ."
+    },
+    {
+      "id": "3.5.670",
+      "label": "Section 3.5.670",
+      "chapter": null,
+      "original": "per ómnis deós et deás deierávit ,",
+      "translation": "By all the Gods and Goddesses she swore that she would murder the person with whom she should bed ."
+    },
+    {
+      "id": "3.5.672",
+      "label": "Section 3.5.672",
+      "chapter": null,
+      "original": "Men óccidet ?",
+      "translation": "Will she murder me ?"
+    },
+    {
+      "id": "3.5.672b",
+      "label": "Section 3.5.672b",
+      "chapter": null,
+      "original": "Án quippiam ád te attinét ?",
+      "translation": "Does that bear reference to yourself in any way ?"
+    },
+    {
+      "id": "3.5.672c",
+      "label": "Section 3.5.672c",
+      "chapter": null,
+      "original": "Vah .",
+      "translation": "Pshaw !"
+    },
+    {
+      "id": "3.5.673",
+      "label": "Section 3.5.673",
+      "chapter": null,
+      "original": "Quid cúm ea negóti tibíst ?",
+      "translation": "What business have you with her ?"
+    },
+    {
+      "id": "3.5.673b",
+      "label": "Section 3.5.673b",
+      "chapter": null,
+      "original": "Peccavi :",
+      "translation": "I made a mistake ; him , the bailiff , I meant to say ."
+    },
+    {
+      "id": "3.5.675",
+      "label": "Section 3.5.675",
+      "chapter": null,
+      "original": "Sciéns de via ín semitám degrédere .",
+      "translation": "It ’ s on purpose [*] that you are turning aside from the high road into bye-paths ."
+    },
+    {
+      "id": "3.5.676",
+      "label": "Section 3.5.676",
+      "chapter": null,
+      "original": "Numquíd mihi minátur ?",
+      "translation": "Does she threaten anything against myself ?"
+    },
+    {
+      "id": "3.5.676b",
+      "label": "Section 3.5.676b",
+      "chapter": null,
+      "original": "Tibi ínfesta solist",
+      "translation": "She is hostile to you individually more than any person ."
+    }
+  ],
+  "prevChunkSlug": "casina-x9ge13-7",
+  "nextChunkSlug": "casina-x9ge13-9"
+}

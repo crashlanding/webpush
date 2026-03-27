@@ -1,0 +1,181 @@
+{
+  "loebNumber": 405,
+  "sortOrder": 405,
+  "slug": "plutarch-moralia-volume-vii-1h5ttw",
+  "title": "Moralia, Volume VII",
+  "volumeLabel": "Moralia, Volume VII",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Moralia, Volume VII. Moralia, Volume VII opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "de-virtute-morali-f98uzg",
+  "readyChunkCount": 5,
+  "contents": [
+    {
+      "id": "moralia-volume-vii-vbqgzb",
+      "title": "Moralia, Volume VII",
+      "status": "ready",
+      "sectionCount": 74,
+      "chunkSlug": "de-virtute-morali-f98uzg",
+      "chunks": [
+        {
+          "slug": "de-virtute-morali-f98uzg",
+          "label": "De Virtute Morali",
+          "partId": "moralia-volume-vii-vbqgzb",
+          "partTitle": "Moralia, Volume VII",
+          "sectionCount": 12,
+          "status": "ready"
+        },
+        {
+          "slug": "de-cohibenda-ira-1bnyic",
+          "label": "De cohibenda ira",
+          "partId": "moralia-volume-vii-vbqgzb",
+          "partTitle": "Moralia, Volume VII",
+          "sectionCount": 16,
+          "status": "ready"
+        },
+        {
+          "slug": "de-tranquillitate-animi-o9532c",
+          "label": "De Tranquillitate Animi",
+          "partId": "moralia-volume-vii-vbqgzb",
+          "partTitle": "Moralia, Volume VII",
+          "sectionCount": 20,
+          "status": "ready"
+        },
+        {
+          "slug": "de-fraterno-amore-w5ziaq",
+          "label": "De fraterno amore",
+          "partId": "moralia-volume-vii-vbqgzb",
+          "partTitle": "Moralia, Volume VII",
+          "sectionCount": 21,
+          "status": "ready"
+        },
+        {
+          "slug": "de-amore-prolis-hd0n6a",
+          "label": "De Amore Prolis",
+          "partId": "moralia-volume-vii-vbqgzb",
+          "partTitle": "Moralia, Volume VII",
+          "sectionCount": 5,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "de-virtute-morali-f98uzg",
+      "label": "De Virtute Morali",
+      "partId": "moralia-volume-vii-vbqgzb",
+      "partTitle": "Moralia, Volume VII",
+      "sectionCount": 12,
+      "status": "ready"
+    },
+    {
+      "slug": "de-cohibenda-ira-1bnyic",
+      "label": "De cohibenda ira",
+      "partId": "moralia-volume-vii-vbqgzb",
+      "partTitle": "Moralia, Volume VII",
+      "sectionCount": 16,
+      "status": "ready"
+    },
+    {
+      "slug": "de-tranquillitate-animi-o9532c",
+      "label": "De Tranquillitate Animi",
+      "partId": "moralia-volume-vii-vbqgzb",
+      "partTitle": "Moralia, Volume VII",
+      "sectionCount": 20,
+      "status": "ready"
+    },
+    {
+      "slug": "de-fraterno-amore-w5ziaq",
+      "label": "De fraterno amore",
+      "partId": "moralia-volume-vii-vbqgzb",
+      "partTitle": "Moralia, Volume VII",
+      "sectionCount": 21,
+      "status": "ready"
+    },
+    {
+      "slug": "de-amore-prolis-hd0n6a",
+      "label": "De Amore Prolis",
+      "partId": "moralia-volume-vii-vbqgzb",
+      "partTitle": "Moralia, Volume VII",
+      "sectionCount": 5,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "de-virtute-morali-f98uzg",
+      "partTitle": "Moralia, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τῆς ἠθικῆς ἀρετῆς",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg094.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Moral Virtue",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg094.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "de-cohibenda-ira-1bnyic",
+      "partTitle": "Moralia, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ ἀοπγησίας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg095.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On the Control of Anger",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg095.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "de-tranquillitate-animi-o9532c",
+      "partTitle": "Moralia, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ εὐθυμίας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg096.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Tranquillity of Mind",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg096.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "de-fraterno-amore-w5ziaq",
+      "partTitle": "Moralia, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ φιλαδελφίας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg097.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Brotherly Love",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg097.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "de-amore-prolis-hd0n6a",
+      "partTitle": "Moralia, Volume VII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ τῆς εἰς τὰ ἔκγονα φιλοστοργίας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg098.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Affection for Offspring",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg098.perseus-eng3/"
+      }
+    }
+  ]
+}

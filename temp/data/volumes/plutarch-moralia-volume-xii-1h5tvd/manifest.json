@@ -1,0 +1,151 @@
+{
+  "loebNumber": 406,
+  "sortOrder": 406,
+  "slug": "plutarch-moralia-volume-xii-1h5tvd",
+  "title": "Moralia, Volume XII",
+  "volumeLabel": "Moralia, Volume XII",
+  "authorDisplay": "Plutarch",
+  "authors": [
+    "Plutarch"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Moralia, Volume XII. Moralia, Volume XII opens a closest available slice of Plutarch on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "ad-principem-ineruditum-lxlsom",
+  "readyChunkCount": 4,
+  "contents": [
+    {
+      "id": "moralia-volume-xii-vbqigp",
+      "title": "Moralia, Volume XII",
+      "status": "ready",
+      "sectionCount": 71,
+      "chunkSlug": "ad-principem-ineruditum-lxlsom",
+      "chunks": [
+        {
+          "slug": "ad-principem-ineruditum-lxlsom",
+          "label": "Ad principem ineruditum",
+          "partId": "moralia-volume-xii-vbqigp",
+          "partTitle": "Moralia, Volume XII",
+          "sectionCount": 7,
+          "status": "ready"
+        },
+        {
+          "slug": "an-seni-respublica-gerenda-sit-1x6epk",
+          "label": "An seni respublica gerenda sit",
+          "partId": "moralia-volume-xii-vbqigp",
+          "partTitle": "Moralia, Volume XII",
+          "sectionCount": 28,
+          "status": "ready"
+        },
+        {
+          "slug": "praecepta-gerendae-reipublicae-1t1byd",
+          "label": "Praecepta gerendae reipublicae",
+          "partId": "moralia-volume-xii-vbqigp",
+          "partTitle": "Moralia, Volume XII",
+          "sectionCount": 32,
+          "status": "ready"
+        },
+        {
+          "slug": "de-unius-in-republica-dominatione-populari-statu-et-paucorum-imperio-1bob60",
+          "label": "De unius in republica dominatione, populari statu, et paucorum imperio",
+          "partId": "moralia-volume-xii-vbqigp",
+          "partTitle": "Moralia, Volume XII",
+          "sectionCount": 4,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "ad-principem-ineruditum-lxlsom",
+      "label": "Ad principem ineruditum",
+      "partId": "moralia-volume-xii-vbqigp",
+      "partTitle": "Moralia, Volume XII",
+      "sectionCount": 7,
+      "status": "ready"
+    },
+    {
+      "slug": "an-seni-respublica-gerenda-sit-1x6epk",
+      "label": "An seni respublica gerenda sit",
+      "partId": "moralia-volume-xii-vbqigp",
+      "partTitle": "Moralia, Volume XII",
+      "sectionCount": 28,
+      "status": "ready"
+    },
+    {
+      "slug": "praecepta-gerendae-reipublicae-1t1byd",
+      "label": "Praecepta gerendae reipublicae",
+      "partId": "moralia-volume-xii-vbqigp",
+      "partTitle": "Moralia, Volume XII",
+      "sectionCount": 32,
+      "status": "ready"
+    },
+    {
+      "slug": "de-unius-in-republica-dominatione-populari-statu-et-paucorum-imperio-1bob60",
+      "label": "De unius in republica dominatione, populari statu, et paucorum imperio",
+      "partId": "moralia-volume-xii-vbqigp",
+      "partTitle": "Moralia, Volume XII",
+      "sectionCount": 4,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "ad-principem-ineruditum-lxlsom",
+      "partTitle": "Moralia, Volume XII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πρὸς ἡγεμόνα ἀπαίδευτον",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg116.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "To an Uneducated Ruler",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg116.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "an-seni-respublica-gerenda-sit-1x6epk",
+      "partTitle": "Moralia, Volume XII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Εἰ πρεσβυτέρῳ πολιτευτέον",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg117.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Whether an Old Man Should Engage in Public Affairs",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg117.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "praecepta-gerendae-reipublicae-1t1byd",
+      "partTitle": "Moralia, Volume XII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Πολιτικὰ παραγγέλματα",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg118.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Precepts of Statecraft",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg118.perseus-eng3/"
+      }
+    },
+    {
+      "chunkSlug": "de-unius-in-republica-dominatione-populari-statu-et-paucorum-imperio-1bob60",
+      "partTitle": "Moralia, Volume XII",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Περὶ μοναρχίας καὶ δημοκρατίας καὶ ὀλιγαρχίας",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg119.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "On Monarchy, Democracy, and Oligrachy",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0007.tlg119.perseus-eng3/"
+      }
+    }
+  ]
+}

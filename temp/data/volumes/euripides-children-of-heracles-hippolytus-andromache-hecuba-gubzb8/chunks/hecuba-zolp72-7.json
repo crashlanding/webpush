@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "euripides-children-of-heracles-hippolytus-andromache-hecuba-gubzb8",
+  "volumeTitle": "Children of Heracles. Hippolytus. Andromache. Hecuba",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "hecuba-zolp72-7",
+  "label": "Hecuba (Section 1000 - Section 1127b)",
+  "partId": "hecuba-zolp72",
+  "partTitle": "Hecuba",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἑκάβη",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg007.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Hecuba",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg007.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1000",
+      "label": "Section 1000",
+      "chapter": null,
+      "original": "ἔστʼ , ὦ φιληθεὶς ὡς σὺ νῦν ἐμοὶ φιλῇ —",
+      "translation": "O you who are as dear to me as you now are , there are —"
+    },
+    {
+      "id": "1001",
+      "label": "Section 1001",
+      "chapter": null,
+      "original": "τί χρῆμʼ ὃ κἀμὲ καὶ τέκνʼ εἰδέναι χρεών ;",
+      "translation": "What is it that I and my children must learn ?"
+    },
+    {
+      "id": "1002",
+      "label": "Section 1002",
+      "chapter": null,
+      "original": "χρυσοῦ παλαιαὶ Πριαμιδῶν κατώρυχες .",
+      "translation": "Ancient vaults filled full of gold by Priam ’ s ancestors ."
+    },
+    {
+      "id": "1003",
+      "label": "Section 1003",
+      "chapter": null,
+      "original": "ταῦτʼ ἔσθʼ ἃ βούλῃ παιδὶ σημῆναι σέθεν ;",
+      "translation": "Is it this you would tell your son ?"
+    },
+    {
+      "id": "1004",
+      "label": "Section 1004",
+      "chapter": null,
+      "original": "μάλιστα , διὰ σοῦ γʼ · εἶ γὰρ εὐσεβὴς ἀνήρ .",
+      "translation": "Certainly , through you ; for you are a righteous man ."
+    },
+    {
+      "id": "1005",
+      "label": "Section 1005",
+      "chapter": null,
+      "original": "τί δῆτα τέκνων τῶνδε δεῖ παρουσίας ;",
+      "translation": "What need then of these children ’ s presence ?"
+    },
+    {
+      "id": "1006",
+      "label": "Section 1006",
+      "chapter": null,
+      "original": "ἄμεινον , ἢν σὺ κατθάνῃς , τούσδʼ εἰδέναι .",
+      "translation": "It is better they should know it , in case of your death ."
+    },
+    {
+      "id": "1007",
+      "label": "Section 1007",
+      "chapter": null,
+      "original": "καλῶς ἔλεξας · τῇδε καὶ σοφώτερον .",
+      "translation": "Well said ; it is also the wiser way ."
+    },
+    {
+      "id": "1008",
+      "label": "Section 1008",
+      "chapter": null,
+      "original": "οἶσθʼ οὖν Ἀθάνας Ἰλίας ἵνα στέγαι ;",
+      "translation": "Then do you know where the shrine of Trojan Athena is ?"
+    },
+    {
+      "id": "1009",
+      "label": "Section 1009",
+      "chapter": null,
+      "original": "ἐνταῦθʼ ὁ χρυσός ἐστι ; σημεῖον δὲ τί ;",
+      "translation": "Is the gold there ? what is there to mark it ?"
+    },
+    {
+      "id": "1010",
+      "label": "Section 1010",
+      "chapter": null,
+      "original": "μέλαινα πέτρα γῆς ὑπερτέλλουσʼ ἄνω .",
+      "translation": "A black rock rising above the ground ."
+    },
+    {
+      "id": "1011",
+      "label": "Section 1011",
+      "chapter": null,
+      "original": "ἔτʼ οὖν τι βούλῃ τῶν ἐκεῖ φράζειν ἐμοί ;",
+      "translation": "Is there anything else you want to tell me about the place ?"
+    },
+    {
+      "id": "1012",
+      "label": "Section 1012",
+      "chapter": null,
+      "original": "σῶσαί σε χρήμαθʼ οἷς συνεξῆλθον θέλω .",
+      "translation": "I wish to keep safe the treasure I brought from Troy ."
+    },
+    {
+      "id": "1013",
+      "label": "Section 1013",
+      "chapter": null,
+      "original": "ποῦ δῆτα ; πέπλων ἐντὸς ἢ κρύψασʼ ἔχεις ;",
+      "translation": "Where can it be ? inside your dress , or have you hidden it ?"
+    },
+    {
+      "id": "1014",
+      "label": "Section 1014",
+      "chapter": null,
+      "original": "σκύλων ἐν ὄχλῳ ταῖσδε σῴζεται στέγαις .",
+      "translation": "It is safe among a heap of spoils within these tents ."
+    },
+    {
+      "id": "1015",
+      "label": "Section 1015",
+      "chapter": null,
+      "original": "ποῦ δʼ ; αἵδʼ Ἀχαιῶν ναύλοχοι περιπτυχαί .",
+      "translation": "Where ? This is the station built by the Achaeans to surround their fleet ."
+    },
+    {
+      "id": "1016",
+      "label": "Section 1016",
+      "chapter": null,
+      "original": "ἰδίᾳ γυναικῶν αἰχμαλωτίδων στέγαι .",
+      "translation": "The captive women have huts of their own ."
+    },
+    {
+      "id": "1017",
+      "label": "Section 1017",
+      "chapter": null,
+      "original": "τἄνδον δὲ πιστὰ κἀρσένων ἐρημία ;",
+      "translation": "It is safe to enter ? are there no men about ?"
+    },
+    {
+      "id": "1018",
+      "label": "Section 1018",
+      "chapter": null,
+      "original": "οὐδεὶς Ἀχαιῶν ἔνδον , ἀλλʼ ἡμεῖς μόναι .",
+      "translation": "There are no Achaeans within ; we women are alone . Enter then the tent , for the Argives"
+    },
+    {
+      "id": "1020",
+      "label": "Section 1020",
+      "chapter": null,
+      "original": "λῦσαι ποθοῦσιν οἴκαδʼ ἐκ Τροίας πόδα ·",
+      "translation": "are eager to set sail from Troy for home ; and , when you have accomplished all that you must do , you shall return with your children to the place where you have lodged my son . Hecuba leads Polymestor and his children into the tent ."
+    },
+    {
+      "id": "1024",
+      "label": "Section 1024",
+      "chapter": null,
+      "original": "οὔπω δέδωκας , ἀλλʼ ἴσως δώσεις δίκην ·",
+      "translation": "Not yet have you paid the penalty , but perhaps you will ."
+    },
+    {
+      "id": "1025",
+      "label": "Section 1025",
+      "chapter": null,
+      "original": "ἀλίμενόν τις ὡς εἰς ἄντλον πεσὼν",
+      "translation": "Like one who slips and falls into the surge with no haven near , so shall you lose your own life for the life you have taken . For where liability to justice coincides with heaven ’ s law ;"
+    },
+    {
+      "id": "1030",
+      "label": "Section 1030",
+      "chapter": null,
+      "original": "ὀλέθριον ὀλέθριον κακόν .",
+      "translation": "there is ruin full of death and doom . Your hopes of this journey shall cheat you , for it has led you , unhappy wretch ! to the halls of death ; and to no warrior ’ s hand shall you resign your life ."
+    },
+    {
+      "id": "1035",
+      "label": "Section 1035",
+      "chapter": null,
+      "original": "ὤμοι , τυφλοῦμαι φέγγος ὀμμάτων τάλας .",
+      "translation": "O horror ! I am blinded of the light of my eyes , ah me !"
+    },
+    {
+      "id": "1036",
+      "label": "Section 1036",
+      "chapter": null,
+      "original": "— ἠκούσατʼ ἀνδρὸς Θρῃκὸς οἰμωγήν , φίλαι ;",
+      "translation": "Did you hear , friends , that Thracian ’ s cry of woe ?"
+    },
+    {
+      "id": "1037",
+      "label": "Section 1037",
+      "chapter": null,
+      "original": "ὤμοι μάλʼ αὖθις , τέκνα , δυστήνου σφαγῆς .",
+      "translation": "O horror ! horror ! my children ! 0 the cruel blow ."
+    },
+    {
+      "id": "1038",
+      "label": "Section 1038",
+      "chapter": null,
+      "original": "— φίλαι , πέπρακται καίνʼ ἔσω δόμων κακά .",
+      "translation": "Friends , there is strange mischief afoot in yo ."
+    },
+    {
+      "id": "1039",
+      "label": "Section 1039",
+      "chapter": null,
+      "original": "ἀλλʼ οὔτι μὴ φύγητε λαιψηρῷ ποδί ·",
+      "translation": "No , you shall never escape for all your hurried flight ;"
+    },
+    {
+      "id": "1040",
+      "label": "Section 1040",
+      "chapter": null,
+      "original": "βάλλων γὰρ οἴκων τῶνδʼ ἀναρρήξω μυχούς .",
+      "translation": "for with a blow I will burst open the inmost recesses of this building ."
+    },
+    {
+      "id": "1041",
+      "label": "Section 1041",
+      "chapter": null,
+      "original": "— ἰδού , βαρείας χειρὸς ὁρμᾶται βέλος .",
+      "translation": "Hark ! how he launches a bolt with weighty hand ! Shall we force an entry ? The crisis calls on us to aid Hecuba and the Trojan women ."
+    },
+    {
+      "id": "1044",
+      "label": "Section 1044",
+      "chapter": null,
+      "original": "ἄρασσε , φείδου μηδέν , ἐκβάλλων πύλας ·",
+      "translation": "Strike on , spare not , burst the doors !"
+    },
+    {
+      "id": "1045",
+      "label": "Section 1045",
+      "chapter": null,
+      "original": "οὐ γάρ ποτʼ ὄμμα λαμπρὸν ἐνθήσεις κόραις ,",
+      "translation": "you shall never replace bright vision in your eyes or see your children , whom I have slain , alive again ."
+    },
+    {
+      "id": "1047",
+      "label": "Section 1047",
+      "chapter": null,
+      "original": "ἦ γὰρ καθεῖλες Θρῇκα , καὶ κρατεῖς , ξένον ,",
+      "translation": "What ! have you foiled the Thracian stranger and is he in your power , mistress ? Is all your threat now brought to pass ?"
+    },
+    {
+      "id": "1049",
+      "label": "Section 1049",
+      "chapter": null,
+      "original": "ὄψῃ νιν αὐτίκʼ ὄντα δωμάτων πάρος",
+      "translation": "A moment , and you shall see him before the tent ,"
+    },
+    {
+      "id": "1050",
+      "label": "Section 1050",
+      "chapter": null,
+      "original": "τυφλὸν τυφλῷ στείχοντα παραφόρῳ ποδί ,",
+      "translation": "blind , advancing with blind random step ; and the bodies of his two children whom I with my brave women of Troy killed ; he has paid me the penalty ; here he comes from the tent , as you see . I will withdraw out of his path and stand aside"
+    },
+    {
+      "id": "1055",
+      "label": "Section 1055",
+      "chapter": null,
+      "original": "θυμῷ ῥέοντι Θρῃκὶ δυσμαχωτάτῳ .",
+      "translation": "from the hot fury of the Thracian , my deadly foe ."
+    },
+    {
+      "id": "1056",
+      "label": "Section 1056",
+      "chapter": null,
+      "original": "ὤμοι ἐγώ , πᾷ βῶ ,",
+      "translation": "Woe is me ! where can I go , where halt , or turn ? shall I crawl like a wild four-footed beast on their track , as my reward ? Which path shall I take first ,"
+    },
+    {
+      "id": "1060",
+      "label": "Section 1060",
+      "chapter": null,
+      "original": "ἢ ταύταν ἢ τάνδʼ ἐξαλλάξω , τὰς",
+      "translation": "this or that , eager as I am to clutch those Trojan murderesses that have destroyed me ? You wretched , cursed daughters"
+    },
+    {
+      "id": "1065",
+      "label": "Section 1065",
+      "chapter": null,
+      "original": "ὦ κατάρατοι ,",
+      "translation": "of Phrygia ! to what corner have you fled cowering before me ? O sun-god , would you could heal , could heal my bleeding eyes , ridding me of my blindness !"
+    },
+    {
+      "id": "1070",
+      "label": "Section 1070",
+      "chapter": null,
+      "original": "ἆ ἆ ,",
+      "translation": "Ha ! hush ! I catch the stealthy footsteps of the women here . Where can I dart on them and gorge on their flesh and bones , making for myself a wild beasts ’ meal , inflicting mutilation"
+    },
+    {
+      "id": "1075",
+      "label": "Section 1075",
+      "chapter": null,
+      "original": "λύμας ἀντίποινʼ ἐμᾶς ; ὦ τάλας .",
+      "translation": "in requital of their outrage on me ? Ah , woe is me ! where am I rushing , leaving my children unguarded for maenads of hell to mangle , to be murdered and ruthlessly cast forth upon the hills , a feast of blood for dogs ?"
+    },
+    {
+      "id": "1080",
+      "label": "Section 1080",
+      "chapter": null,
+      "original": "πᾷ στῶ , πᾷ κάμψω , πᾷ βῶ ,",
+      "translation": "Where shall I stay or turn my steps , like a ship that lies anchored at sea , gathering close my linen robe and rushing to that chamber of death , to guard my children ?"
+    },
+    {
+      "id": "1085",
+      "label": "Section 1085",
+      "chapter": null,
+      "original": "ὦ τλῆμον , ὥς σοι δύσφορʼ εἴργασται κακά ·",
+      "translation": "Woe to you ! what grievous outrage has been done to you ! a fearful penalty for your foul deed has the deity imposed , whoever he is whose hand is heavy upon you ."
+    },
+    {
+      "id": "1089",
+      "label": "Section 1089",
+      "chapter": null,
+      "original": "αἰαῖ , ἰὼ Θρῄκης λογχοφόρον ἔνο-",
+      "translation": "Woe is me ! Ho ! my Thracian spearmen , armed ,"
+    },
+    {
+      "id": "1090",
+      "label": "Section 1090",
+      "chapter": null,
+      "original": "πλον εὔιππον Ἄρει κάτοχον γένος .",
+      "translation": "a race of knights whom Ares inspires ! Ho ! Achaeans ! sons of Atreus ! To you I loudly call ; come here , by the gods ! Does any one hearken , or will no one help me ? Why do you delay ? Women , captive women have destroyed me ."
+    },
+    {
+      "id": "1095",
+      "label": "Section 1095",
+      "chapter": null,
+      "original": "δεινὰ πεπόνθαμεν .",
+      "translation": "A fearful fate is mine ; ah me ! my hideous outrage ! Where can I turn or go ?"
+    },
+    {
+      "id": "1100",
+      "label": "Section 1100",
+      "chapter": null,
+      "original": "ἀμπτάμενος οὐράνιον",
+      "translation": "Shall I take wings and soar aloft to the mansions of the sky , where Orion and Sirius dart from their eyes"
+    },
+    {
+      "id": "1105",
+      "label": "Section 1105",
+      "chapter": null,
+      "original": "σιν ὄσσων αὐγάς , ἢ τὸν ἐς Ἀίδα",
+      "translation": "a flash as of fire , or shall I , in my misery , plunge to Hades ’ murky flood ?"
+    },
+    {
+      "id": "1107",
+      "label": "Section 1107",
+      "chapter": null,
+      "original": "συγγνώσθʼ , ὅταν τις κρείσσονʼ ἢ φέρειν κακὰ",
+      "translation": "It is pardonable , for a man suffering from evils too heavy to bear , to rid himself of a wretched existence ."
+    },
+    {
+      "id": "1109",
+      "label": "Section 1109",
+      "chapter": null,
+      "original": "κραυγῆς ἀκούσας ἦλθον · οὐ γὰρ ἥσυχος",
+      "translation": "Hearing a cry I have come here ; for Echo ,"
+    },
+    {
+      "id": "1110",
+      "label": "Section 1110",
+      "chapter": null,
+      "original": "πέτρας ὀρείας παῖς λέλακʼ ἀνὰ στρατὸν",
+      "translation": "child of the mountain-rock , has sent her voice loud-ringing through the army , causing a tumult . If we had not known that Troy ’ s towers were levelled by the might of Hellas , this uproar would have caused no slight panic ."
+    },
+    {
+      "id": "1114",
+      "label": "Section 1114",
+      "chapter": null,
+      "original": "ὦ φίλτατʼ · ᾐσθόμην γάρ , Ἀγάμεμνον , σέθεν",
+      "translation": "Best of friends ! for by your voice I know you ,"
+    },
+    {
+      "id": "1115",
+      "label": "Section 1115",
+      "chapter": null,
+      "original": "φωνῆς ἀκούσας · εἰσορᾷς ἃ πάσχομεν ;",
+      "translation": "Agamemnon ; do you see my piteous state ?"
+    },
+    {
+      "id": "1116",
+      "label": "Section 1116",
+      "chapter": null,
+      "original": "ἔα ·",
+      "translation": "What ! hapless Polymestor , who has stricken you ? who has blinded your eyes , staining the pupils with blood ? who has slain these children ? whoever he was , fierce must have been his wrath against you and your children ."
+    },
+    {
+      "id": "1120",
+      "label": "Section 1120",
+      "chapter": null,
+      "original": "Ἑκάβη με σὺν γυναιξὶν αἰχμαλωτίσιν",
+      "translation": "Hecuba , helped by the captive women , has destroyed me — not destroyed , far worse than that ."
+    },
+    {
+      "id": "1122",
+      "label": "Section 1122",
+      "chapter": null,
+      "original": "τί φῄς ; σὺ τοὔργον εἴργασαι τόδʼ , ὡς λέγει ;",
+      "translation": "What do you say ? Was it you that did this deed , as he says ? You , Hecuba , that have ventured on this inconceivable daring ?"
+    },
+    {
+      "id": "1124",
+      "label": "Section 1124",
+      "chapter": null,
+      "original": "ὤμοι , τί λέξεις ; ἦ γὰρ ἐγγύς ἐστί που ;",
+      "translation": "Ha ! what is that ? is she somewhere near ?"
+    },
+    {
+      "id": "1125",
+      "label": "Section 1125",
+      "chapter": null,
+      "original": "σήμηνον , εἰπὲ ποῦ ʼσθʼ , ἵνʼ ἁρπάσας χεροῖν",
+      "translation": "Show me , tell me where , that I may grip her in my hands and rend her limb from limb , bespattering her with gore ."
+    },
+    {
+      "id": "1127",
+      "label": "Section 1127",
+      "chapter": null,
+      "original": "οὗτος , τί πάσχεις ;",
+      "translation": "You creature , what are you about ?"
+    },
+    {
+      "id": "1127b",
+      "label": "Section 1127b",
+      "chapter": null,
+      "original": "πρὸς θεῶν σε λίσσομαι ,",
+      "translation": "By the gods I entreat you , let me vent on her the fury of my arm ."
+    }
+  ],
+  "prevChunkSlug": "hecuba-zolp72-6",
+  "nextChunkSlug": "hecuba-zolp72-8"
+}

@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "isocrates-on-the-peace-areopagiticus-against-the-sophists-antidosis-panathenaicus-rv5ma2",
+  "volumeTitle": "On the Peace. Areopagiticus. Against the Sophists. Antidosis. Panathenaicus",
+  "authorDisplay": "Isocrates",
+  "authors": [
+    "Isocrates"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "on-the-peace-qkrbwe-2",
+  "label": "On the Peace (Section 61 - Section 120)",
+  "partId": "on-the-peace-qkrbwe",
+  "partTitle": "On the Peace",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Περὶ εἰρήνης",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg017.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "On the Peace",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0010.tlg017.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "61",
+      "label": "Section 61",
+      "chapter": null,
+      "original": "πρὸς μὲν οὖν τοὺς εἰκῇ τὰς ἐπιλήψεις ποιουμένους οὐ χαλεπὸν ἀντειπεῖν · εἰ δὲ δή τίς μοι παραστὰς τῶν ἐπιεικέστερον διακειμένων ἀληθῆ μὲν λέγειν με προσομολογήσειε καὶ προσηκόντως ἐπιτιμᾶν τοῖς γιγνομένοις , δίκαιον δʼ εἶναι φαίη τοὺς ἐπʼ εὐνοίᾳ νουθετοῦντας μὴ μόνον κατηγορεῖν τῶν πεπραγμένων ,",
+      "translation": "Now it is not difficult to reply to those who take us to task without reason . But if anyone among those who are more fair-minded were to confront me and object , while conceding that I speak the truth and am correct in condemning the things which are taking place , that we have a right to expect of those who seek to admonish us with friendly purpose that they should not only denounce what has been done [*]"
+    },
+    {
+      "id": "62",
+      "label": "Section 62",
+      "chapter": null,
+      "original": "ἀλλὰ καὶ συμβουλεύειν τίνων ἀπεχόμενοι καὶ ποίων ὀρεγόμενοι παυσαίμεθʼ ἂν ταύτην ἔχοντες τὴν γνώμην καὶ τοιαῦτʼ ἐξαμαρτάνοντες , οὗτος ὁ λόγος ἀπορεῖν ἄν με ποιήσειεν ἀποκρίσεως , οὐκ ἀληθοῦς καὶ συμφερούσης , ἀλλʼ ἀρεσκούσης ὑμῖν . οὐ μὴν ἀλλʼ ἐπειδή περ ἀποκεκαλυμμένως ὥρμημαι λέγειν , οὐκ ἀποκνητέον ἀποφήνασθαι καὶ περὶ τούτων .",
+      "translation": "but should also counsel us what to abstain from and what to strive for in order to cease from this way of thinking and from making such blunders , his objection would place me at a loss , not for a true answer and one that would be profitable , but for one that would be acceptable to you . But since I have set out to speak openly I must not shrink from disclosing what I think on these matters also ."
+    },
+    {
+      "id": "63",
+      "label": "Section 63",
+      "chapter": null,
+      "original": "ἃ μὲν οὖν ὑπάρχειν δεῖ τοῖς μέλλουσιν εὐδαιμονήσειν , τὴν εὐσέβειαν καὶ τὴν σωφροσύνην καὶ τὴν δικαιοσύνην [*] καὶ τὴν ἄλλην ἀρετὴν ὀλίγῳ πρότερον εἰρήκαμεν · ὡς δʼ ἂν τάχιστα πρὸς τὸ τοιοῦτοι γενέσθαι παιδευθεῖμεν , ἀληθὲς μέν ἐστι τὸ ῥηθησόμενον , ἴσως δʼ ἂν ἀκούσασιν ὑμῖν δεινὸν εἶναι δόξειε καὶ παρὰ πολὺ τῆς τῶν ἄλλων ἐξηλλαγμένον διανοίας .",
+      "translation": "Well then , the qualities which we must possess as a foundation if we are to be happy and prosperous , namely , piety and moderation and justice and virtue in all its phases , I mentioned a moment ago . [*] But as to the means by which we may most speedily be taught to attain to such a character , what I am going to say will probably seem repellent to you when you have heard it as well as far removed from the opinions held by the rest of the world ."
+    },
+    {
+      "id": "64",
+      "label": "Section 64",
+      "chapter": null,
+      "original": "ἐγὼ γὰρ ἡγοῦμαι καὶ τὴν πόλιν ἡμᾶς ἄμεινον οἰκήσειν καὶ βελτίους αὐτοὺς ἔσεσθαι καὶ πρὸς ἁπάσας τὰς πράξεις ἐπιδώσειν , ἢν παυσώμεθα τῆς ἀρχῆς τῆς κατὰ θάλατταν ἐπιθυμοῦντες . αὕτη γάρ ἐστιν ἡ καὶ νῦν εἰς ταραχὴν ἡμᾶς καθιστᾶσα , καὶ τὴν δημοκρατίαν ἐκείνην καταλύσασα μεθʼ ἧς οἱ πρόγονοι ζῶντες εὐδαιμονέστατοι τῶν Ἑλλήνων ἦσαν , καὶ σχεδὸν ἁπάντων αἰτία τῶν κακῶν ὧν αὐτοί τʼ ἔχομεν καὶ τοῖς ἄλλοις παρέχομεν .",
+      "translation": "For I , for my part , consider that we shall manage our city to better advantage and be ourselves better men and go forward in all our undertakings if we stop setting our hearts on the empire of the sea . For it is this which plunged us into our present state of disorder , which overthrew that democratic government [*] under which our ancestors lived and were the happiest of the Hellenes , and which is the cause , one might almost say , of all the ills which we both suffer ourselves and inflict upon the rest of the Hellenes ."
+    },
+    {
+      "id": "65",
+      "label": "Section 65",
+      "chapter": null,
+      "original": "οἶδα μὲν οὖν ὅτι χαλεπόν ἐστι δυναστείας ὑπὸ πάντων ἐρωμένης καὶ περιμαχήτου γεγενημένης κατηγοροῦντα δοκεῖν ἀνεκτόν τι λέγειν · ὅμως δʼ ἐπειδή περ ὑπεμείνατε καὶ τοὺς ἄλλους λόγους , ἀληθεῖς μὲν ὄντας φιλαπεχθήμονας δέ , καὶ τοῦτον ὑμῶν ἀνασχέσθαι δέομαι ,",
+      "translation": "I know , however , that it is difficult for one who attempts to denounce that imperial power which all the world lusts after and has waged many wars to obtain to impress his hearers as saying anything which is not intolerable . Nevertheless , since you have endured the other things which I have said , which , although true , are offensive ,"
+    },
+    {
+      "id": "66",
+      "label": "Section 66",
+      "chapter": null,
+      "original": "καὶ μὴ καταγνῶναί μου τοιαύτην μανίαν , ὡς ἄρʼ ἐγὼ προειλόμην ἂν διαλεχθῆναι πρὸς ὑμᾶς περὶ πραγμάτων οὕτω παραδόξων , εἰ μή τι λέγειν ἀληθὲς εἶχον περὶ αὐτῶν . νῦν δʼ οἶμαι πᾶσι φανερὸν ποιήσειν ὡς οὔτε δικαίας ἀρχῆς ἐπιθυμοῦμεν οὔτε γενέσθαι δυνατῆς οὔτε συμφερούσης ἡμῖν .",
+      "translation": "I beg you to be patient also with what I shall say upon this subject and not to impute to me the madness of having chosen to discourse to you on matters so contrary to the general opinion without having something true to say about them . Nay , I believe that I shall make it evident to all that we covet an empire which is neither just nor capable of being attained nor advantageous to ourselves ."
+    },
+    {
+      "id": "67",
+      "label": "Section 67",
+      "chapter": null,
+      "original": "ὅτι μὲν οὖν οὐ δικαίας , παρʼ ὑμῶν μαθὼν ὑμᾶς ἔχω διδάσκειν . ὅτε γὰρ Λακεδαιμόνιοι ταύτην εἶχον τὴν δύναμιν , ποίους λόγους οὐκ ἀνηλώσαμεν κατηγοροῦντες μὲν τῆς ἐκείνων ἀρχῆς , διεξιόντες δʼ ὡς δίκαιόν ἐστιν αὐτονόμους εἶναι τοὺς Ἕλληνας ;",
+      "translation": "Now that it is not just I can show you by lessons which I have learned from yourselves . For when the Lacedaemonians held this power , [*] what eloquence did we not expend in denouncing their rule , contending that it was just for the Hellenes to enjoy independence ?"
+    },
+    {
+      "id": "68",
+      "label": "Section 68",
+      "chapter": null,
+      "original": "τίνας δὲ τῶν πόλεων τῶν ἐλλογίμων οὐ παρεκαλέσαμεν ἐπὶ τὴν συμμαχίαν τὴν ὑπὲρ τούτων συστᾶσαν ; πόσας δὲ πρεσβείας ὡς βασιλέα τὸν μέγαν ἀπεστείλαμεν , διδαξούσας αὐτὸν ὡς οὔτε δίκαιόν ἐστιν οὔτε συμφέρον μίαν πόλιν κυρίαν εἶναι τῶν Ἑλλήνων ; οὐ πρότερον δʼ ἐπαυσάμεθα πολεμοῦντες καὶ κινδυνεύοντες καὶ κατὰ γῆν καὶ κατὰ θάλατταν , πρὶν ἠθέλησαν Λακεδαιμόνιοι ποιήσασθαι τὰς συνθήκας τὰς περὶ τῆς αὐτονομίας .",
+      "translation": "What cities of repute did we not call upon to join the alliance [*] which was formed in this cause ? How many embassies did we not dispatch to the great King [*] to convince him that it was neither just nor expedient for one state to dominate the Hellenes ? Indeed we did not cease waging war and facing perils both by land and sea until the Lacedaemonians were willing to enter into the treaty which guaranteed our independence . [*]"
+    },
+    {
+      "id": "69",
+      "label": "Section 69",
+      "chapter": null,
+      "original": "ὅτι μὲν οὖν οὐ δίκαιόν ἐστι τοὺς κρείττους τῶν ἡττόνων ἄρχειν , ἐν ἐκείνοις τε τοῖς χρόνοις τυγχάνομεν ἐγνωκότες , καὶ νῦν ἐπὶ τῆς πολιτείας τῆς παρʼ ἡμῖν καθεστηκυίας · ὡς δʼ οὐδʼ ἂν δυνηθείημεν τὴν ἀρχὴν ταύτην καταστήσασθαι , ταχέως οἶμαι δηλώσειν . ἣν γὰρ μετὰ μυρίων ταλάντων οὐχ οἷοί τʼ ἦμεν διαφυλάξαι , πῶς ἂν ταύτην ἐκ τῆς παρούσης ἀπορίας κτήσασθαι δυνηθεῖμεν , ἄλλως τε καὶ χρώμενοι τοῖς ἤθεσιν οὐχ οἷς ἐλάβομεν ἀλλʼ οἷς ἀπωλέσαμεν αὐτήν ;",
+      "translation": "At that time , then , we recognized the principle that it is not just for the stronger to rule over the weaker , [*] even as now we recognize it in the nature of the polity which has been established amongst ourselves . But that we could not , if we would , attain to this empire by conquest I think I shall quickly prove . For when , with the help of ten thousand talents , [*] we were not able to retain it , how can we acquire it in our present state of poverty , especially since we are now addicted , not to the ways of life by which we gained it , but to those by which we lost it ?"
+    },
+    {
+      "id": "70",
+      "label": "Section 70",
+      "chapter": null,
+      "original": "ὡς τοίνυν οὐδὲ δέξασθαι διδομένην τῇ πόλει συμφέρει , δοκεῖτέ μοι τάχιστʼ ἂν ἐκεῖθεν καταμαθεῖν . μᾶλλον δὲ καὶ περὶ τούτων βούλομαι μικρὰ προειπεῖν · δέδοικα γὰρ μὴ διὰ τὸ πολλοῖς ἐπιτιμᾶν δόξω τισὶ προῃρῆσθαι τῆς πόλεως κατηγορεῖν .",
+      "translation": "Furthermore , that it is not even for the advantage of the state to accept this empire , if it were offered to us , I think you will learn very quickly from what further I have to say . But first I want to say a word by way of leading up to this point , fearing that , on account of my many strictures , I may give the impression to some of you of having chosen to denounce our city ."
+    },
+    {
+      "id": "71",
+      "label": "Section 71",
+      "chapter": null,
+      "original": "ἐγὼ δʼ εἰ μὲν πρὸς ἄλλους τινὰς ἐπεχείρουν οὕτω διεξιέναι περὶ τῶν πραγμάτων , εἰκότως ἂν εἶχον τὴν αἰτίαν ταύτην · νῦν δὲ πρὸς ὑμᾶς ποιοῦμαι τοὺς λόγους , οὐ διαβάλλειν ἑτέροις ἐπιθυμῶν , ἀλλʼ αὐτοὺς βουλόμενος παῦσαι τῶν τοιούτων ἔργων , καὶ τὴν εἰρήνην , περὶ ἧς ἅπας ὁ λόγος ἐστί , βεβαίως καὶ τὴν πόλιν καὶ τοὺς ἄλλους Ἕλληνας ἀγαγεῖν .",
+      "translation": "If I were attempting to discourse in this manner before any others , I should naturally lay myself open to this charge . But now I am addressing myself to you , not with the wish that I may prejudice you in the eyes of others , but with the desire that I may cause you to make an end of such a policy and that Athens and the rest of the Hellenes may form a lasting peace ."
+    },
+    {
+      "id": "72",
+      "label": "Section 72",
+      "chapter": null,
+      "original": "ἀνάγκη δὲ τοὺς νουθετοῦντας καὶ τοὺς κατηγοροῦντας τοῖς μὲν λόγοις χρῆσθαι παραπλησίοις , τὰς δὲ διανοίας ἔχειν ἀλλήλοις ὡς οἷόν τʼ ἐναντιωτάτας . ὥστε περὶ τῶν ταὐτὰ λεγόντων οὐκ ἀεὶ προσήκει τὴν αὐτὴν ὑμᾶς γνώμην ἔχειν , ἀλλὰ τοὺς μὲν ἐπὶ βλάβῃ λοιδοροῦντας μισεῖν ὡς κακόνους ὄντας τῇ πόλει , τοὺς δʼ ἐπʼ ὠφελία νουθετοῦντας ἐπαινεῖν καὶ βελτίστους τῶν πολιτῶν νομίζειν ,",
+      "translation": "But those who admonish and those who denounce cannot avoid using similar words , although their purposes are as opposite as they can be . [*] You ought not , therefore , to have the same feeling towards all who use the same language but , while abhorring those who revile you to your harm as inimical to the state , you ought to commend those who admonish you for your good and to esteem them as the best of your fellow-citizens ,"
+    },
+    {
+      "id": "73",
+      "label": "Section 73",
+      "chapter": null,
+      "original": "καὶ τούτων αὐτῶν μάλιστα τὸν ἐναργέστατα δυνάμενον δηλῶσαι τὰς πονηρὰς τῶν πράξεων καὶ τὰς συμφορὰς τὰς ἀπʼ αὐτῶν γιγνομένας · οὗτος γὰρ ἂν τάχιστα ποιήσειεν ὑμᾶς , μισήσαντας ἃ δεῖ , βελτιόνων ἐπιθυμῆσαι πραγμάτων . ὑπὲρ μὲν οὖν τῆς τῶν λόγων τραχύτητος καὶ τῶν εἰρμένων καὶ τῶν ῥηθήσεσθαι μελλόντων ταῦτʼ ἔχω λέγειν πρὸς ὑμᾶς · ὅθεν δʼ ἀπέλιπον , πάλιν ποιήσομαι τὴν ἀρχήν .",
+      "translation": "and him most of all , even among them , who is able to point out most vividly the evils of your practices and the disasters which result from them . For such a man can soonest bring you to abhor what you should abhor and to set your hearts on better things . These , then , are the things which I have to say in defense of my harshness both in the words which I have spoken and those which I am about to speak . I will now resume at the place where I left off ."
+    },
+    {
+      "id": "74",
+      "label": "Section 74",
+      "chapter": null,
+      "original": "ἔφασκον γὰρ ἐκεῖθεν κάλλιστʼ ἂν ὑμᾶς καταμαθεῖν ὡς οὐ συμφέρει λαβεῖν τὴν κατὰ θάλατταν ἀρχήν , εἰ σκέψαισθε τίνα τρόπον ἡ πόλις διέκειτο πρὶν τὴν δύναμιν ταύτην κτήσασθαι , καὶ πῶς ἐπειδὴ κατέσχεν αὐτήν · ἢν γὰρ ταῦτα παρʼ ἄλληλα τῇ διανοία θεωρήσητε , γνώσεσθʼ ὅσων κακῶν αἰτία τῇ πόλει γέγονεν .",
+      "translation": "For I was on the point of saying that you could best learn that it is not to your advantage to obtain the empire of the sea if you should consider what was the condition of Athens before she acquired this power and what after she obtained it . For if you will examine one condition in contrast with the other you will see how many evils this power has brought upon the city ."
+    },
+    {
+      "id": "75",
+      "label": "Section 75",
+      "chapter": null,
+      "original": "ἡ μὲν τοίνυν πολιτεία τοσούτω βελτίων ἦν καὶ κρείττων ἡ τότε τῆς ὕστερον καταστάσης , ὅσῳ περ Ἀριστείδης καὶ Θεμιστοκλῆς καὶ Μιλτιάδης ἄνδρες ἀμείνους ἦσαν Ὑπερβόλου καὶ Κλεοφῶντος καὶ τῶν νῦν δημηγορούντων · τὸν δὲ δῆμον εὑρήσετε τὸν τότε πολιτευόμενον οὐκ ἀργίας οὐδʼ ἀπορίας οὐδʼ ἐλπίδων κενῶν ὄντα μεστόν ,",
+      "translation": "Now the polity as it was in the earlier time was as much better and stronger than that which obtained later as Aristides and Themistocles and Miltiades [*] were better men than Hyperbolus [*] and Cleophon [*] and those who today harangue the people . [*] And you will find that the people who then governed the state were not given over to slackness and poverty and empty hopes , [*]"
+    },
+    {
+      "id": "76",
+      "label": "Section 76",
+      "chapter": null,
+      "original": "ἀλλὰ νικᾶν μὲν δυνάμενον ἐν ταῖς μάχαις ἅπαντας τοὺς εἰς τὴν χώραν εἰσβάλλοντας , ἀριστείων δʼ ἀξιούμενον ἐν τοῖς ὑπὲρ τῆς Ἑλλάδος κινδύνοις , οὕτω δὲ πιστευόμενον ὥστε τὰς πλείστας αὐτῷ τῶν πόλεων ἑκούσας ἐγχειρίσαι σφᾶς αὐτάς .",
+      "translation": "but were able to conquer in battle all who invaded their territory ; [*] that they were awarded the meed of valor [*] in the wars which they fought for the sake of Hellas ; and that they were so trusted that most of the states of their own free will placed themselves under their leadership . [*]"
+    },
+    {
+      "id": "77",
+      "label": "Section 77",
+      "chapter": null,
+      "original": "τούτων δʼ ὑπαρχόντων , ἀντὶ μὲν τῆς πολιτείας τῆς παρὰ πᾶσιν εὐδοκιμούσης ἐπὶ τοιαύτην ἀκολασίαν ἡ δύναμις ἡμᾶς αὕτη προήγαγεν , ἣν οὐδεὶς ἂν ἀνθρώπων ἐπαινέσειεν · ἀντὶ δὲ τοῦ νικᾶν τοὺς ἐπιστρατεύοντας οὕτω τοὺς πολίτας ἐπαίδευσεν , ὥστε μηδὲ πρὸ τῶν τειχῶν τολμᾶν ἐπεξιέναι τοῖς πολεμίοις ·",
+      "translation": "But , notwithstanding these advantages , in place of a polity which was admired by all men this power has led us on to a state of license which no one in the world could commend ; in place of our habit of conquering those who took the field against us it has instilled into our citizens such ways that they have not the courage even to go out in front of the walls to meet the enemy ; [*]"
+    },
+    {
+      "id": "78",
+      "label": "Section 78",
+      "chapter": null,
+      "original": "ἀντὶ δὲ τῆς εὐνοίας τῆς παρὰ τῶν συμμάχων αὐτοῖς ὑπαρχούσης καὶ τῆς δόξης τῆς παρὰ τῶν ἄλλων Ἑλλήνων εἰς τοσοῦτον μῖσος κατέστησεν , ὥστε παρὰ μικρὸν ἐλθεῖν ἐξανδραποδισθῆναι τὴν πόλιν , εἰ μὴ Λακεδαιμονίων τῶν ἐξ ἀρχῆς πολεμούντων εὐνουστέρων ἐτύχομεν ἢ τῶν πρότερον ἡμῖν συμμάχων ὄντων .",
+      "translation": "and in place of the good will which was accorded us by our allies and of the good repute in which we were held by the rest of the Hellenes it brought us into such a degree of odium that Athens barely escaped being enslaved and would have suffered this fate had we not found the Lacedaemonians , who were at war with us from the first , more friendly than those who were formerly our allies [*] —"
+    },
+    {
+      "id": "79",
+      "label": "Section 79",
+      "chapter": null,
+      "original": "οἷς οὐκ ἂν δικαίως ἐγκαλοῖμεν , ὅτι χαλεπῶς πρὸς ἡμᾶς διετέθησαν · οὐ γὰρ ὑπάρχοντες ἀλλʼ ἀμυνόμενοι καὶ πολλὰ καὶ δεινὰ παθόντες τοιαύτην γνώμην ἔσχον περὶ ἡμᾶς · τίς γὰρ ἂν ὑπέμεινε τὴν ἀσέλγειαν τῶν πατέρων τῶν ἡμετέρων , οἳ συναγαγόντες ἐξ ἁπάσης τῆς Ἑλλάδος τοὺς ἀργοτάτους καὶ τοὺς ἁπασῶν τῶν πονηριῶν μετέχοντας , πληροῦντες τούτων τὰς τριήρεις , ἀπηχθάνοντο τοῖς Ἕλλησι , καὶ τοὺς μὲν βελτίστους τῶν ἐν ταῖς ἄλλαις πόλεσιν ἐξέβαλλον , τοῖς δὲ πονηροτάτοις τῶν Ἑλλήνων τἀκείνων διένεμον ;",
+      "translation": "not that we can have any just complaint against the latter for being obdurate towards us ; for they were not aggressors but on the defensive , and came to have this feeling after suffering many grievous wrongs at our hands . For who could have brooked the insolence of our fathers ? Gathering together from all Hellas men who were the worst of idlers and men who had a part in every form of depravity and manning their triremes with them , [*] they made themselves odious to the Hellenes , [*] driving into exile the best of the citizens in the other states [*] and distributing their property among the most depraved of the Hellenes !"
+    },
+    {
+      "id": "80",
+      "label": "Section 80",
+      "chapter": null,
+      "original": "ἀλλὰ γὰρ εἰ τολμήσαιμι περὶ τῶν ἐν ἐκείνοις τοῖς χρόνοις γενομένων ἀκριβῶς διελθεῖν , ὑμᾶς μὲν ἴσως ἂν ποιήσαιμι βέλτιον βουλεύσασθαι περὶ τῶν παρόντων , αὐτὸς δʼ ἂν διαβληθείην · εἰώθατε γὰρ μισεῖν οὐχ οὕτω τοὺς αἰτίους τῶν ἁμαρτημάτων ὡς τοὺς κατηγοροῦντας αὐτῶν .",
+      "translation": "But if I were to make bold to go through in detail what took place in those times I might probably help you to be better advised regarding the present situation , but I should prejudice my own reputation ; for you are wont to hate not so much those who are responsible for your mistakes as those who undertake to denounce them ."
+    },
+    {
+      "id": "81",
+      "label": "Section 81",
+      "chapter": null,
+      "original": "τοιαύτην οὖν ὑμῶν γνώμην ἐχόντων , δέδοικα μὴ πειρώμενος ὑμᾶς εὐεργετεῖν αὐτὸς ἀπολαύσω τι φλαῦρον . οὐ μὴν ἀποστήσομαι παντάπασιν ὧν διενοήθην , ἀλλὰ τὰ μὲν πικρότατα καὶ μάλιστʼ ἂν ὑμᾶς λυπήσοντα παραλείψω , μνησθήσομαι δὲ τούτων μόνον ἐξ ὧν γνώσεσθε τὴν ἄνοιαν τῶν τότε πολιτευομένων .",
+      "translation": "I fear , therefore , since you are of such a mind , that if I attempt to benefit you I may myself reap a poor reward . Nevertheless , I am not going to refrain entirely from saying the things which I had in mind but shall pass over the most severe and , mayhap , the most painful to you and recall to your minds only the facts by which you will recognize the folly of the men who at that time governed the city ."
+    },
+    {
+      "id": "82",
+      "label": "Section 82",
+      "chapter": null,
+      "original": "οὕτω γὰρ ἀκριβῶς εὕρισκον ἐξ ὧν ἄνθρωποι μάλιστʼ ἂν μισηθεῖεν , ὥστʼ ἐψηφίσαντο τὸ περιγιγνόμενον ἐκ τῶν φόρων ἀργύριον , διελόντες κατὰ τάλαντον , εἰς τὴν ὀρχήστραν τοῖς Διονυσίοις εἰσφέρειν ἐπειδὰν πλῆρες ᾖ τὸ θέατρον · καὶ τοῦτʼ ἐποίουν , καὶ παρεισῆγον τοὺς παῖδας τῶν ἐν τῷ πολέμῳ τετελευτηκότων , ἀμφοτέροις ἐπιδεικνύοντες τοῖς μὲν συμμάχοις τὰς τιμὰς τῆς οὐσίας αὐτῶν ὑπὸ μισθωτῶν εἰσφερομένης , [*] τοῖς δʼ ἄλλοις Ἕλλησι τὸ πλῆθος τῶν ὀρφανῶν καὶ τὰς συμφορὰς τὰς διὰ τὴν πλεονεξίαν ταύτην γιγνομένας .",
+      "translation": "For so exactly did they gauge [*] the actions by which human beings incur the worst odium that they passed a decree to divide the surplus of the funds derived from the tributes of the allies into talents and to bring it on the stage , [*] when the theatre was full , at the festival of Dionysus [*] ; and not only was this done but at the same time they led in upon the stage the sons of those who had lost their lives in the war , [*] seeking thus to display to our allies , [*] on the one hand , the value of their own property [*] which was brought in by hirelings , [*] and to the rest of the Hellenes , on the other , the multitude of the fatherless and the misfortunes which result from this policy of aggression ."
+    },
+    {
+      "id": "83",
+      "label": "Section 83",
+      "chapter": null,
+      "original": "καὶ ταῦτα δρῶντες αὐτοί τε τὴν πόλιν εὐδαιμόνιζον , καὶ πολλοὶ τῶν νοῦν οὐκ ἐχόντων ἐμακάριζον αὐτήν , τῶν μὲν συμβήσεσθαι διὰ ταῦτα μελλόντων οὐδεμίαν ποιούμενοι πρόνοιαν , τὸν δὲ πλοῦτον θαυμάζοντες καὶ ζηλοῦντες , ὃς ἀδίκως εἰς τὴν πόλιν εἰσελθὼν καὶ τὸν δικαίως ὑπάρξαντα διὰ ταχέων ἤμελλε προσαπολεῖν .",
+      "translation": "And in doing this they themselves counted the city happy , while many of the simple-minded deemed it blessed , taking no thought whatsoever for future consequences but admiring and envying the wealth which flowed into the city unjustly and which was soon to destroy also that which justly belonged to it ."
+    },
+    {
+      "id": "84",
+      "label": "Section 84",
+      "chapter": null,
+      "original": "εἰς τοῦτο γὰρ κατὲστησαν τῶν μὲν οἰκείων ἀμελείας τῶν δʼ ἀλλοτρίων ἐπιθυμίας , ὥστε Λακεδαιμονίων εἰσβεβληκότων εἰς τὴν χώραν καὶ τοῦ τείχους ἤδη τοῦ Δεκελειᾶσιν ἑστηκότος εἰς Σικελίαν τριήρεις ἐπλήρουν , καὶ οὐκ ᾐσχύνοντο τὴν μὲν πατρίδα τεμνομένην καὶ πορθουμένην περιορῶντες , ἐπὶ δὲ τοὺς οὐδὲν πώποτʼ εἰς ἡμᾶς ἐξαμαρτόντας στρατιὰν ἐκπέμποντες ,",
+      "translation": "For they reached such a degree of neglect of their own possessions and of covetousness of the possessions of other states that when the Lacedaemonians had invaded our territory and the fortifications at Decelea [*] had already been built , they manned triremes to send to Sicily [*] and were not ashamed to permit their own country to be cut off and plundered [*] by the enemy while dispatching an expedition against a people who had never in any respect offended against us ."
+    },
+    {
+      "id": "85",
+      "label": "Section 85",
+      "chapter": null,
+      "original": "ἀλλʼ εἰς τοῦτʼ ἀφροσύνης ἦλθον , ὥστε τῶν προαστείων τῶν οἰκείων οὐ κρατοῦντες Ἰταλίας καὶ Σικελίας καὶ Καρχηδόνος ἄρξειν προσεδόκησαν . τοσοῦτον δὲ διήνεγκαν ἀνοίᾳ πάντων ἀνθρώπων , ὥστε τοὺς μὲν ἄλλους αἱ συμφοραὶ συστέλλουσι καὶ ποιοῦσιν ἐμφρονεστέρους , ἐκεῖνοι δʼ οὐδʼ ὑπὸ τούτων ἐπαιδεύθησαν .",
+      "translation": "Nay , they arrived at such a pitch of folly that at a time when they were not masters of their own suburbs [*] they expected to extend their power over Italy and Sicily and Carthage . [*] And so far did they outdo all mankind in recklessness that whereas misfortunes chasten others and render them more prudent our fathers learned no lessons even from this discipline ."
+    },
+    {
+      "id": "86",
+      "label": "Section 86",
+      "chapter": null,
+      "original": "καίτοι πλείοσι καὶ μείζοσι περιέπεσον ἐπὶ τῆς ἀρχῆς ταύτης τῶν ἐν ἅπαντι τῷ χρόνῳ τῇ πόλει γεγενημένων . εἰς Αἴγυπτον μέν γε διακόσιαι πλεύσασαι τριήρεις αὐτοῖς τοῖς πληρώμασι διεφθάρησαν , περὶ δὲ Κύπρον πεντήκοντα καὶ ἑκατόν · ἐν δὲ τῷ Δεκελεικῷ πολέμῳ [*] μυρίους ὁπλίτας αὑτῶν καὶ τῶν συμμάχων ἀπώλεσαν , ἐν Σικελίᾳ δὲ τέτταρας μυριάδας καὶ τριήρεις τετταράκοντα καὶ διακοσίας , τὸ δὲ τελευταῖον ἐν Ἑλλησπόντῳ διακοσίας .",
+      "translation": "And yet they were involved in more and greater disasters in the time of the empire [*] than have ever befallen Athens in all the rest of her history . Two hundred ships which set sail for Egypt perished with their crews , [*] and a hundred and fifty off the island of Cyprus ; [*] in the Decelean War [*] they lost ten thousand heavy armed troops of their own and of their allies , and in Sicily forty thousand men and two hundred and forty ships , [*] and , finally , in the Hellespont two hundred ships . [*]"
+    },
+    {
+      "id": "87",
+      "label": "Section 87",
+      "chapter": null,
+      "original": "τὰς δὲ κατὰ δέκα καὶ κατὰ πέντε [*] καὶ πλείους τούτων ἀπολλυμένας καὶ τοὺς κατὰ χιλίους καὶ δισχιλίους ἀποθνήσκοντας τίς ἄν ἐξαριθμήσειεν ; πλήν ἓν ἦν τοῦτο τῶν ἐγκυκλίων , ταφὰς ποιεῖν καθʼ ἕκαστον τὸν ἐνιαυτόν , εἰς ἃς πολλοὶ καὶ τῶν ἀστυγειτόνων καὶ τῶν ἄλλων Ἑλλήνων ἐφοίτων , οὐ συμπενθήσοντες τοὺς τεθνεῶτας ἀλλὰ συνησθησόμενοι ταῖς ἡμετέραις συμφοραῖς .",
+      "translation": "But of the ships which were lost in fleets of ten or five or more and of the men who were slain in armies of a thousand or two thousand who could tell the tale ? In a word , it was at that time a matter of regular routine to hold public funerals [*] every year , which many both of our neighbors and of the other Hellenes used to attend , not to grieve with us for the dead , but to rejoice together at our misfortunes ."
+    },
+    {
+      "id": "88",
+      "label": "Section 88",
+      "chapter": null,
+      "original": "τελευτῶντες δʼ ἔλαθον σφᾶς αὐτοὺς τοὺς μὲν τάφους τοὺς δημοσίους τῶν πολιτῶν ἐμπλήσαντες , τὰς δὲ φρατρίας καὶ τὰ γραμματεῖα τὰ ληξιαρχικὰ τῶν οὐδὲν τῇ πόλει προσηκόντων . γνοίη δʼ ἄν τις ἐκεῖθεν μάλιστα τὸ πλῆθος τῶν ἀπολλυμένων · τὰ γὰρ γένη τῶν ἀνδρῶν τῶν ὀνομαστοτάτων καὶ τοὺς οἴκους τοὺς μεγίστους , οἳ καὶ τὰς τυραννικὰς στάσεις καὶ τὸν Περσικὸν πόλεμον διέφυγον , εὑρήσομεν ἐπὶ τῆς ἀρχῆς , ἧς ἐπιθυμοῦμεν , ἀναστάτους γεγενημένους .",
+      "translation": "And at last , before they knew it , they had filled the public burial-grounds [*] with the bodies of their fellow citizens and the registers of the phratries and of the state [*] with the names of those who had no claim upon the city . And you may judge of the multitude of the slain from this fact : The families of the most illustrious Athenians and our greatest houses , which survived the civil conflicts under the tyrants [*] and the Persian Wars as well , have been , you will find , entirely wiped out [*] under this empire upon which we set our hearts ."
+    },
+    {
+      "id": "89",
+      "label": "Section 89",
+      "chapter": null,
+      "original": "ὥστʼ εἴ τις σκοπεῖσθαι βούλοιτο περὶ τῶν ἄλλων , ὥσπερ πρὸς δεῖγμα τοῦτʼ ἀναφέρων , φανεῖμεν ἂν μικροῦ δεῖν ἀντηλλαγμένοι . καίτοι χρὴ πόλιν μὲν εὐδαιμονίζειν μὴ τὴν ἐξ ἁπάντων ἀνθρώπων εἰκῇ πολλοὺς πολίτας ἀθροίζουσαν , ἀλλὰ τὴν τὸ γένος τῶν ἐξ ἀρχῆς τὴν πόλιν οἰκισάντων μᾶλλον τῶν ἄλλων διασώζουσαν , ἄνδρας δὲ ζηλοῦν μὴ τοὺς τὰς τυραννίδας κατέχοντας μηδὲ τοὺς μείζω δυναστείαν τοῦ δικαίου κεκτημένους , ἀλλὰ τοὺς ἀξίους μὲν ὄντας τῆς μεγίστης τιμῆς , στέργοντας δʼ ἐπὶ ταῖς ὑπὸ τοῦ πλήθους διδομέναις .",
+      "translation": "So that if one desired to go into the question of what befell the rest of our citizens , judging by this instance , it would be seen that we have been changed , one might almost say , into a new people . And yet we must not count that state happy which without discrimination recruits from all parts of the world a large number of citizens but rather that state which more than all others preserves the stock of those who in the beginning founded it . And we ought not to emulate those who hold despotic power nor those who have gained a dominion which is greater than is just but rather those who , while worthy of the highest honors , are yet content with the honors which are tendered them by a free people ."
+    },
+    {
+      "id": "90",
+      "label": "Section 90",
+      "chapter": null,
+      "original": "ταύτης γὰρ ἕξιν οὔτʼ ἀνὴρ οὔτε πόλις λαβεῖν ἂν δύναιτο σπουδαιοτέραν οὐδʼ ἀσφαλεστέραν οὐδὲ πλείονος ἀξίαν · ἥνπερ οἱ περὶ τὰ Περσικὰ γενόμενοι σχόντες οὐχ ὁμοίως τοῖς λῃσταῖς ἐβίωσαν , τοτὲ μὲν πλείω τῶν ἱκανῶν ἔχοντες , τοτὲ δʼ ἐν σιτοδείαις καὶ πολιορκίαις καὶ τοῖς μεγίστοις κακοῖς καθεστῶτες , ἀλλὰ περὶ μὲν τὴν τροφὴν τὴν καθʼ ἡμέραν οὔτʼ ἐν ἐνδείαις οὔτʼ ἐν ὑπερβολαῖς , ὄντες , ἐπὶ δὲ τῇ τῆς πολιτείας δικαιοσύνῃ καὶ ταῖς ἀρεταῖς ταῖς αὑτῶν φιλοτιμούμενοι καὶ τὸν βίον ἥδιον τῶν ἄλλων διάγοντες .",
+      "translation": "For no man nor any state could obtain a position more excellent than this or more secure or of greater worth . And it was because they acquired just this position that our ancestors in the time of the Persian Wars did not live in the manner of freebooters , now having more than enough for their needs , again reduced to a state of famine and siege [*] and extreme misfortune [*] ; on the contrary , while they lived neither in want nor in surfeit of the means of subsistence day by day , they prided themselves on the justice of their polity and on their own virtues , and passed their lives more pleasantly than the rest of the world ."
+    },
+    {
+      "id": "91",
+      "label": "Section 91",
+      "chapter": null,
+      "original": "ὧν ἀμελήσαντες οἱ γενόμενοι μετʼ ἐκείνους οὐκ ἄρχειν ἀλλὰ τυραννεῖν ἐπεθύμησαν , ἃ δοκεῖ μὲν τὴν αὐτὴν ἔχειν δύναμιν , πλεῖστον δʼ ἀλλήλων κεχώρισται · τῶν μὲν γὰρ ἀρχόντων ἔργον ἐστὶ τοὺς ἀρχομένους ταῖς αὑτῶν ἐπιμελείαις ποιεῖν εὐδαιμονεστέρους , τοῖς δὲ τυράννοις ἔθος καθέστηκε τοῖς τῶν ἄλλων πόνοις καὶ κακοῖς αὑτοῖς ἡδονὰς παρασκευάζειν . ἀνάγκη δὲ τοὺς τοιούτοις ἔργοις ἐπιχειροῦντας τυραννικαῖς καὶ ταῖς συμφοραῖς περιπίπτειν , καὶ τοιαῦτα πάσχειν οἷά περ ἂν καὶ τοὺς ἄλλους δράσωσιν . ἃ καὶ τῇ πόλει συνέπεσεν ·",
+      "translation": "But , heedless of these lessons , those who came after them desired , not to rule but to dominate [*] — words which are thought to have the same meaning , although between them there is the utmost difference . For it is the duty of those who rule to make their welfare , [*] whereas it is a habit of those who dominate to provide pleasures for themselves through the labors and hardships of others . But it is in the nature of things that those who attempt a despot ’ s course must encounter the disasters which befall despotic power [*] and be afflicted by the very things which they inflict upon others . And it is just this which has happened in the case of Athens ;"
+    },
+    {
+      "id": "92",
+      "label": "Section 92",
+      "chapter": null,
+      "original": "ἀντὶ μὲν γὰρ τοῦ φρουρεῖν τὰς τῶν ἄλλων ἀκροπόλεις τῆς αὑτῶν ἐπεῖδον τοὺς πολεμίους κυρίους γενομένους · ἀντὶ δὲ τοῦ παῖδας ὁμήρους λαμβάνειν , ἀποσπῶντες ἀπὸ πατέρων καὶ μητέρων , πολλοὶ τῶν πολιτῶν ἠναγκάσθησαν τοὺς αὑτῶν ἐν τῇ πολιορκίᾳ χεῖρον παιδεύειν καὶ τρέφειν ἢ προσῆκεν αὐτοῖς · ἀντὶ δὲ τοῦ γεωργεῖν τὰς χώρας τὰς ἀλλοτρίας πολλῶν ἐτῶν οὐδʼ ἰδεῖν αὐτοῖς ἐξεγένετο τὴν αὑτῶν .",
+      "translation": "for in place of holding the citadels of other states , her people saw the day when the enemy was in possession of the Acropolis [*] ; in place of dragging children from their mothers and fathers and taking them as hostages , [*] many of her citizens , living in a state of siege , were compelled to educate and support their children with less than was their due ; and in place of farming the lands of other states , [*] for many years [*] they were denied the opportunity of even setting eyes upon their own fields ."
+    },
+    {
+      "id": "93",
+      "label": "Section 93",
+      "chapter": null,
+      "original": "ὥστʼ εἴ τις ἡμᾶς ἐρωτήσειεν εἰ δεξαίμεθʼ ἂν τοσοῦτον χρόνον ἄξαντες τοιαῦτα παθοῦσαν τὴν πόλιν ἐπιδεῖν , τίς ἂν ὁμολογήσειε , πλὴν εἴ τις παντάπασιν ἀπονενοημένος ἐστὶ καὶ μήθʼ ἱερῶν μήτε γονέων μήτε παίδων μήτʼ ἄλλου μηδενὸς φροντίζει πλὴν τοῦ χρόνου μόνον τοῦ καθʼ ἑαυτόν ; ὧν οὐκ ἄξιον τὴν διάνοιαν ζηλοῦν , ἀλλὰ πολὺ μᾶλλον τῶν πολλὴν πρόνοιαν ποιουμένων , καὶ μηδὲν ἧττον ὑπὲρ τῆς κοινῆς δόξης ἢ τῆς ἰδίας φιλοτιμουμένων , καὶ προαιρουμένων μέτριον βίον μετὰ δικαιοσύνης μᾶλλον ἢ μέγαν πλοῦτον μετʼ ἀδικίας .",
+      "translation": "If , therefore , anyone were to ask us whether we should choose to see Athens in such distress as the price of having ruled so long a time , [*] who could answer yes , except some utterly abandoned wretch who cared not for sacred matters nor for parents nor for children nor for any other thing save for the term of his own existence ? We , however , ought not to emulate the judgement of such men but rather that of those who exercise great forethought and are no less jealous for the reputation of the state than for their own — men who prefer a moderate competence with justice to great wealth unjustly gained ."
+    },
+    {
+      "id": "94",
+      "label": "Section 94",
+      "chapter": null,
+      "original": "καὶ γὰρ οἱ πρόγονοι τοιούτους αὑτοὺς παρασχόντες τήν τε πόλιν εὐδαιμονεστάτην τοῖς ἐπιγιγνομένοις παρέδοσαν καὶ τῆς αὑτῶν ἀρετῆς ἀθάνατον τὴν μνήμην κατέλιπον . ἐξ ὧν ἀμφότερα ῥᾴδιόν ἐστι καταμαθεῖν , καὶ τὴν χώραν ἡμῶν , ὅτι δύναται τρέφειν ἄνδρας ἀμείνους τῶν ἄλλων , καὶ τὴν καλουμένην μὲν ἀρχὴν οὖσαν δὲ συμφοράν , ὅτι πέφυκε χείρους ἅπαντας ποιεῖν τοὺς χρωμένους αὐτῇ .",
+      "translation": "For our ancestors , [*] proving themselves to be men of this character , handed on the city to their descendants in a most prosperous condition and left behind them an imperishable memorial of their virtue . And from this we may easily learn a double lesson : that our soil is able to rear better men than the rest of the world [*] and that what we call empire , though in reality it is misfortune , [*] is of a nature to deprave all who have to do with it ."
+    },
+    {
+      "id": "95",
+      "label": "Section 95",
+      "chapter": null,
+      "original": "μέγιστον δὲ τεκμήριον · οὐ γὰρ μόνον ἡμᾶς ἀλλὰ καὶ τὴν Λακεδαιμονίων πόλιν διέφθειρεν , ὥστε τοῖς εἰθισμένοις ἐπαινεῖν τὰς ἐκείνων ἀρετὰς οὐχ οἷόν τʼ ἐστὶν εἰπεῖν τοῦτον τὸν λόγον , ὡς ἡμεῖς μὲν διὰ τὸ δημοκρατεῖσθαι κακῶς ἐχρησάμεθα τοῖς πράγμασιν , εἰ δὲ Λακεδαιμόνιοι ταύτην τὴν δύναμιν παρέλαβον , εὐδαίμονας ἂν καὶ τοὺς ἄλλους καὶ σφᾶς αὐτοὺς ἐποίησαν . πολὺ γὰρ θᾶττον ἐν ἐκείνοις ἐπεδείξατο τὴν φύσιν τὴν αὑτῆς · τὴν γὰρ πολιτείαν ἣν ἐν ἑπτακοσίοις ἔτεσιν οὐδεὶς οἶδεν οὔθʼ ὑπὸ κινδύνων οὔθʼ ὑπὸ συμφορῶν κινηθεῖσαν , ταύτην ἐν ὀλίγῳ σαλεῦσαι καὶ λυθῆναι παρὰ μικρὸν ἐποίησεν .",
+      "translation": "We have a most convincing proof of this . For imperialism worked the ruin not only of Athens but of the city of the Lacedaemonians also , so that those who are in the habit of praising the virtues of Sparta [*] cannot argue that we managed our affairs badly because of our democratic government whereas if the Lacedaemonians had taken over the empire the results would have been happy both for the rest of the Hellenes and for themselves . For this power revealed its nature much more quickly in their case . [*] Indeed it brought it to pass that a polity which over a period of seven hundred years [*] had never , so far as we know , been disturbed by perils or calamities was shaken and all but destroyed in a short space of time ."
+    },
+    {
+      "id": "96",
+      "label": "Section 96",
+      "chapter": null,
+      "original": "ἀντὶ γὰρ τῶν καθεστώτων παρʼ αὐτοῖς ἐπιτηδευμάτων τοὺς μὲν ἰδιώτας ἐνέπλησεν ἀδικίας , ῥᾳθυμίας , ἀνομίας , φιλαργυρίας , τὸ δὲ κοινὸν τῆς πόλεως ὑπεροψίας μὲν τῶν συμμάχων , ἐπιθυμίας δὲ τῶν ἀλλοτρίων , ὀλιγωρίας δὲ τῶν ὅρκων καὶ τῶν συνθηκῶν . τοσοῦτον γὰρ ὑπερεβάλοντο τοὺς ἡμετέρους τοῖς εἰς τοὺς Ἕλληνας ἁμαρτήμασιν , ὅσον πρὸς τοῖς πρότερον ὑπάρχουσι σφαγὰς καὶ στάσεις ἐν ταῖς πόλεσιν ἐποίησαν , ἐξ ὧν ἀειμνήστους τὰς ἔχθρας πρὸς ἀλλήλους ἕξουσιν .",
+      "translation": "For in place of the ways of life established among them it filled the citizens with injustice , indolence , lawlessness and avarice and the commonwealth with contempt for its allies , covetousness of the possessions of other states , and indifference to its oaths and covenants . In fact they went so far beyond our ancestors in their crimes against the Hellenes that in addition to the evils which already afflicted the several states they stirred up in them slaughter and strife , [*] in consequence of which their citizens will cherish for each other a hatred unquenchable ."
+    },
+    {
+      "id": "97",
+      "label": "Section 97",
+      "chapter": null,
+      "original": "οὕτω δὲ φιλοπολέμως καὶ φιλοκινδύνως διετέθησαν , τὸν ἄλλον χρόνον πρὸς τὰ τοιαῦτα πεφυλαγμένως μᾶλλον τῶν ἄλλων ἔχοντες , ὥστε οὐδὲ τῶν συμμάχων οὐδὲ τῶν εὐεργετῶν ἀπέσχοντο τῶν σφετέρων αὐτῶν , ἀλλὰ βασιλέως μὲν αὐτοῖς εἰς τὸν πρὸς ἡμᾶς πόλεμον πλέον ἢ πεντακισχίλια τάλαντα παρασχόντος , Χίων δὲ προθυμότατα πάντων τῶν συμμάχων τῷ ναυτικῷ συγκινδυνευσάντων ,",
+      "translation": "And they became so addicted to war and the perils of war that , whereas in times past they had been more cautious in this regard [*] than the rest of the world , they did not refrain from attacking even their own allies and their own benefactors ; on the contrary , although the great King had furnished them with more than five thousand talents [*] for the war against us , and although the Chians [*] had supported them more zealously than any of their other allies by means of their fleet"
+    },
+    {
+      "id": "98",
+      "label": "Section 98",
+      "chapter": null,
+      "original": "Θηβαίων δὲ μεγίστην δύναμιν εἰς τὸ πεζὸν συμβαλομένων , οὐκ ἔφθασαν τὴν ἀρχὴν κατασχόντες , καὶ Θηβαίοις μὲν εὐθὺς ἐπεβούλευσαν , ἐπὶ δὲ τὸν βασιλέα Κλέαρχον καὶ στρατιὰν ἀνέπεμψαν , Χίων δὲ τοὺς μὲν πρώτους τῶν πολιτῶν ἐφυγάδευσαν , τὰς δὲ τριήρεις ἐκ τῶν νεωρίων ἐξελκύσαντες ἁπάσας ὤχοντο λαβόντες .",
+      "translation": "and the Thebans [*] had contributed a great number of troops to their land forces , the Lacedaemonians no sooner gained the supremacy than they straightway plotted against the Thebans , [*] dispatched Clearchus with an army against the King , [*] and in the case of the Chians drove into exile [*] the foremost of their citizens and launched their battle-ships from their docks and made off with their whole navy . [*]"
+    },
+    {
+      "id": "99",
+      "label": "Section 99",
+      "chapter": null,
+      "original": "οὐκ ἐξήρκεσε δʼ αὐτοῖς ταῦτʼ ἐξαμαρτεῖν , ἀλλὰ περὶ τοὺς αὐτοὺς χρόνους ἐπόρθουν μὲν τὴν ἤπειρον , ὕβριζον δὲ τὰς νήσους , ἀνῄρουν δὲ τὰς ἐν Ἰταλίᾳ καὶ Σικελίᾳ πολιτείας καὶ τυράννους καθίστασαν , ἐλυμαίνοντο δὲ τὴν Πελοπόννησον καὶ μεστὴν στάσεων καὶ πολέμων ἐποίησαν . ἐπὶ ποίαν γὰρ τῶν πόλεων οὐκ ἐστράτευσαν ; ἢ περὶ τίνας αὐτῶν οὐκ ἐξήμαρτον ;",
+      "translation": "However , they were not satisfied with perpetrating these crimes , but about the same time were ravaging the Asiatic coast , [*] committing outrages against the islands , [*] subverting the free governments in Italy and Sicily , setting up despotisms in their stead , [*] overrunning the Peloponnesus and filling it with seditions and wars . For , tell me , against which of the cities of Hellas did they fail to take the field ? Which of them did they fail to wrong ?"
+    },
+    {
+      "id": "100",
+      "label": "Section 100",
+      "chapter": null,
+      "original": "οὐκ Ἠλείων μὲν μέρος τι τῆς χώρας ἀφείλοντο , τὴν δὲ γῆν τὴν Κορινθίων ἔτεμον , Μαντινέας δὲ διῴκισαν , Φλιασίους δʼ ἐξεπολιόρκησαν , εἰς δὲ τὴν Ἀργείων εἰσέβαλον , οὐδὲν δʼ ἐπαύσαντο τοὺς μὲν ἄλλους κακῶς ποιοῦντες , αὑτοῖς δὲ τὴν ἧτταν τὴν ἐν Λεύκτροις παρασκευάζοντες ; ἥν φασί τινες αἰτίαν γεγενῆσθαι τῇ Ζπάρτῃ τῶν κακῶν , οὐκ ἀληθῆ λέγοντες · οὐ γὰρ διὰ ταύτην ὑπὸ τῶν συμμάχων ἐμισήθησαν , ἀλλὰ διὰ τὰς ὕβρεις τὰς ἐν τοῖς ἔμπροσθεν χρόνοις καὶ ταύτην ἡττήθησαν καὶ περὶ τῆς αὑτῶν ἐκινδύνευσαν .",
+      "translation": "Did they not rob the Eleans of part of their territory , [*] did they not lay waste the land of the Corinthians , [*] did they not disperse the Mantineans from their homes , [*] did they not reduce the Phliasians by siege , [*] and did they not invade the country of the Argives , [*] never ceasing from their depredations upon the rest of the world and so bringing upon themselves the disaster at Leuctra ? Some maintain that this disaster was the cause of the misfortunes which overtook Sparta , but they do not speak the truth . For it was not because of this that they incurred the hatred of their allies ; it was because of their insolence in the time preceding that they were defeated in this battle and fell into peril of losing their own city ."
+    },
+    {
+      "id": "101",
+      "label": "Section 101",
+      "chapter": null,
+      "original": "χρὴ δὲ τὰς αἰτίας ἐπιφέρειν οὐ τοῖς κακοῖς τοῖς ἐπιγιγνομένοις , ἀλλὰ τοῖς πρώτοις τῶν ἁμαρτημάτων , ἐξ ὧν ἐπὶ τὴν τελευτὴν ταύτην κατηνέχθησαν . ὥστε πολὺ ἄν τις ἀληθέστερα τυγχάνοι λέγων , εἰ φαίη τότε τὴν ἀρχὴν αὐτοῖς γεγενῆσθαι τῶν συμφορῶν , ὅτε τὴν ἀρχὴν τῆς θαλάττης παρελάμβανον · ἐκτῶντο γὰρ δύναμιν οὐδὲν ὁμοίαν τῇ πρότερον ὑπαρχούσῃ .",
+      "translation": "We must not attribute the cause to any subsequent misfortunes but to their crimes in the beginning , as the result of which they were brought to such a disastrous end . So that anyone would be much more in accord with the truth if he should assert that they first became subject to the dominion of their present ills at the moment when they attempted to seize the dominion of the sea , [*] since they were seeking to acquire a power which was in no wise like that which they had before possessed ."
+    },
+    {
+      "id": "102",
+      "label": "Section 102",
+      "chapter": null,
+      "original": "διὰ μὲν γὰρ τὴν κατὰ γῆν ἡγεμονίαν καὶ τὴν εὐταξίαν καὶ τὴν καρτερίαν τὴν ἐν αὐτῇ μελετωμένην ῥᾳδίως τῆς κατὰ θάλατταν δυνάμεως ἐπεκράτησαν , διὰ δὲ τὴν ἀκολασίαν τὴν ὑπὸ ταύτης τῆς ἀρχῆς αὐτοῖς ἐγγενομένην ταχέως κἀκείνης τῆς ἡγεμονίας ἀπεστερήθησαν . οὐ γὰρ ἔτι τοὺς νόμους ἐφύλαττον οὓς παρὰ τῶν προγόνων παρέλαβον , οὐδʼ ἐν τοῖς ἤθεσιν ἔμενον οἷς πρότερον εἶχον ,",
+      "translation": "For because of their supremacy on land and of their stern discipline and of the self control which was cultivated under it , they readily obtained command of the sea , whereas because of the arrogance [*] which was bred in them by that power they speedily lost the supremacy both on land and sea . For they no longer kept the laws which they had inherited from their ancestors nor remained faithful to the ways which they had followed in times past ,"
+    },
+    {
+      "id": "103",
+      "label": "Section 103",
+      "chapter": null,
+      "original": "ἀλλʼ ὑπολαβόντες ἐξεῖναι ποιεῖν αὑτοῖς ὅ τι ἂν βουληθῶσιν , εἰς πολλὴν ταραχὴν κατέστησαν . οὐ γὰρ ᾔδεσαν τὴν ἐξουσίαν ἧς πάντες εὔχονται τυχεῖν , ὡς δύσχρηστός ἐστιν , οὐδʼ ὡς παραφρονεῖν ποιεῖ τοὺς ἀγαπῶντας αὐτήν , οὐδʼ ὅτι τὴν φύσιν ὁμοίαν ἔχει ταῖς ἑταίραις ταῖς ἐρᾶν μὲν αὑτῶν ποιούσαις , τοὺς δὲ χρωμένους ἀπολλυούσαις .",
+      "translation": "but conceived that they were licensed to do whatever they pleased and so were plunged into great confusion . For they did not know that this licence which all the world aspires to attain is a difficult thing to manage , that it turns the heads of those who are enamored by it , and that it is in its nature like courtesans , who lure their victims to love but destroy those who indulge this passion ."
+    },
+    {
+      "id": "104",
+      "label": "Section 104",
+      "chapter": null,
+      "original": "καίτοι φανερῶς ἐπιδέδεικται ταύτην ἔχουσα τὴν δύναμιν · τοὺς γὰρ ἐν πλείσταις ἐξουσίαις γεγενημένους ἴδοι τις ἂν ταῖς μεγίσταις συμφοραῖς περιπεπτωκότας , ἀρξαμένους ἀφʼ ἡμῶν καὶ Λακεδαιμονίων . αὗται γὰρ αἱ πόλεις καὶ πολιτευόμεναι πρότερον σωφρονέστατα καὶ δόξαν ἔχουσαι καλλίστην , ἐπειδὴ ταύτης ἔτυχον καὶ τὴν ἀρχὴν ἔλαβον , οὐδὲν ἀλλήλων διήνεγκαν , ἀλλʼ ὥσπερ προσήκει τοὺς ὑπὸ τῶν αὐτῶν ἐπιθυμιῶν καὶ τῆς αὐτῆς νόσου διεφθαρμένους , καὶ ταῖς πράξεσι ταῖς αὐταῖς ἐπεχείρησαν καὶ τοῖς ἁμαρτήμασι παραπλησίοις ἐχρήσαντο καὶ τὸ τελευταῖον ὁμοίαις ταῖς συμφοραῖς περιέπεσον .",
+      "translation": "And yet it has been shown clearly that it has this effect ; for anyone can see that those who have been in the strongest position to do whatever they pleased have been involved in the greatest disasters , ourselves and the Lacedaemonians first of all . For when these states , which in time past had governed themselves with the utmost sobriety and enjoyed the highest esteem , [*] attained to this license and seized the empire , they differed in no respect from each other , but , as is natural in the case of those who have been depraved by the same passions and the same malady , they attempted the same deeds and indulged in similar crimes and , finally , fell into like disasters ."
+    },
+    {
+      "id": "105",
+      "label": "Section 105",
+      "chapter": null,
+      "original": "ἡμεῖς τε γὰρ μισηθέντες ὑπὸ τῶν συμμάχων καὶ περὶ ἀνδραποδισμοῦ κινδυνεύσαντες ὑπὸ Λακεδαιμονίων ἐσώθημεν , ἐκεῖνοί τε πάντων αὐτοὺς ἀπολέσαι βουληθέντων ἐφʼ ἡμᾶς καταφυγόντες διʼ ἡμῶν τῆς σωτηρίας ἔτυχον . καίτοι πῶς χρὴ τὴν ἀρχὴν ταύτην ἐπαινεῖν τὴν τὰς τελευτὰς οὕτω πονηρὰς ἔχουσαν ; ἢ πῶς οὐ μισεῖν καὶ φεύγειν τὴν πολλὰ καὶ δεινὰ ποιεῖν ἀμφοτέρας τὰς πόλεις ἐπάρασαν καὶ παθεῖν ἀναγκάσασαν ;",
+      "translation": "For we , being hated by our allies and standing in peril of being enslaved , were saved by the Lacedaemonians ; [*] and just so they , when all the rest wanted to destroy them , came to us for refuge and were saved through us . [*] And yet how can we praise a dominion which subjects us to so miserable an end ? How can we fail to abhor and shun a power which has incited these two cities both to do and to suffer many abominable things ?"
+    },
+    {
+      "id": "106",
+      "label": "Section 106",
+      "chapter": null,
+      "original": "οὐκ ἄξιον δὲ θαυμάζειν , εἰ τὸν ἄλλον χρόνον ἐλάνθανεν ἅπαντας τοσούτων οὖσα κακῶν αἰτία τοῖς ἔχουσιν αὐτήν , οὐδʼ εἰ περιμάχητος ἦν ὑφʼ ἡμῶν καὶ Λακεδαιμονίων · εὑρήσετε γὰρ τοὺς πλείστους τῶν ἀνθρώπων περὶ τὰς αἱρέσεις τῶν πραγμάτων ἁμαρτάνοντας , καὶ πλείους μὲν ἐπιθυμίας ἔχοντας τῶν κακῶν ἢ τῶν ἀγαθῶν , ἄμεινον δὲ βουλευομένους ὑπὲρ τῶν ἐχθρῶν ἢ σφῶν αὐτῶν .",
+      "translation": "But , after all , we should not be surprised that in the past all men have failed to see that this power is the cause of so many ills to those who hold it , nor should we wonder that it has been the bone of contention between us and the Lacedaemonians . For you will find that the great majority of mankind go astray in choosing a course of action and , being possessed of more desires for things evil than for things good , take counsel more in the interest of their foes than of themselves . You can observe this in matters of the greatest importance ."
+    },
+    {
+      "id": "107",
+      "label": "Section 107",
+      "chapter": null,
+      "original": "καὶ ταῦτʼ ἴδοι τις ἂν ἐπὶ τῶν μεγίστων · τί γὰρ οὐχ οὕτω γέγονεν ; οὐχ ἡμεῖς μὲν τοιαῦτα προῃρούμεθα πράττειν , ἐξ ὧν Λακεδαιμόνιοι δεσπόται τῶν Ἑλλήνων κατέστησαν , ἐκεῖνοι δʼ οὕτω κακῶς προὔστησαν τῶν πραγμάτων , ὥσθʼ ἡμᾶς οὐ πολλοῖς ἔτεσιν ὕστερον πάλιν ἐπιπολάσαι καὶ κυρίους γενέσθαι τῆς ἐκείνων σωτηρίας ;",
+      "translation": "For when has it ever happened otherwise ? Did we not choose to pursue a policy in consequence of which the Lacedaemonians became masters of the Hellenes ? Did not they , in their turn , manage their supremacy so badly that not many years later we again got the upper hand and became the arbiters of their safety ?"
+    },
+    {
+      "id": "108",
+      "label": "Section 108",
+      "chapter": null,
+      "original": "οὐχ ἡ μὲν τῶν ἀττικιζόντων πολυπραγμοσύνη λακωνίζειν τὰς πόλεις ἐποίησεν , ἡ δὲ τῶν λακωνιζόντων ὕβρις ἀττικίζειν τὰς αὐτὰς ταύτας ἠνάγκασεν ; οὐ διὰ μὲν τὴν τῶν δημηγορούντων πονηρίαν αὐτὸς ὁ δῆμος ἐπεθύμησε τῆς ὀλιγαρχίας τῆς ἐπὶ τῶν τετρακοσίων καταστάσης , διὰ δὲ τὴν τῶν τριάκοντα μανίαν ἅπαντες δημοτικώτεροι γεγόναμεν τῶν Θυλὴν καταλαβόντων ;",
+      "translation": "Did not the meddlesomeness of the partizans of Athens cause the various states to become partisans of Sparta , and did not the insolence of the partisans of Sparta force these same states to become partisans of Athens ? Did not the people themselves , because of the depravity of the popular orators , desire the oligarchy which was established under the Four Hundred ? And have not we , all of us , because of the madness of the Thirty , [*] become greater enthusiasts for democracy than those who occupied Phyle ? [*]"
+    },
+    {
+      "id": "109",
+      "label": "Section 109",
+      "chapter": null,
+      "original": "ἀλλὰ γὰρ ἐπὶ τῶν ἐλαττόνων καὶ τοῦ βίου τοῦ καθʼ ἡμέραν ἐπιδείξειεν ἄν τις τοὺς πολλοὺς χαίροντας μὲν καὶ τῶν ἐδεσμάτων καὶ τῶν ἐπιτηδευμάτων τοῖς καὶ τὸ σῶμα καὶ τὴν ψυχὴν βλάπτουσιν , ἐπίπονα δὲ καὶ χαλεπὰ νομίζοντας ἀφʼ ὧν ἀμφότερα ταῦτʼ ἂν ὠφελοῖτο , καὶ καρτερικοὺς εἶναι δοκοῦντας τοὺς ἐν τούτοις ἐμμένοντας .",
+      "translation": "Indeed in matters of lesser importance and in our everyday life , one could show that the majority take pleasure in the foods and habits which injure both the body and the soul but consider laborious and irksome those from which both sides of our nature would benefit , and that those men are looked upon as austere who remain steadfast in habits which are beneficial . [*]"
+    },
+    {
+      "id": "110",
+      "label": "Section 110",
+      "chapter": null,
+      "original": "οἵ τινες οὖν , ἐν οἷς ἀεὶ ζῶσι καὶ περὶ ὧν αὐτοῖς μᾶλλον μέλει , τὰ χείρω φαίνονται προαιρούμενοι , τί θαυμαστὸν εἰ περὶ τῆς ἀρχῆς τῆς κατὰ θάλατταν ἀγνοοῦσι καὶ μάχονται πρὸς ἀλλήλους , περὶ ἧς μηδεὶς πώποτε αὐτοῖς λογισμὸς εἰσῆλθεν ;",
+      "translation": "Since , therefore , in the circumstances in which they live every day and about which they are more directly concerned , men show that they prefer the worse to the better course , how can we be surprised if they lack insight regarding the empire of the sea and make war upon each other to possess a power regarding which they have never reflected in their lives ?"
+    },
+    {
+      "id": "111",
+      "label": "Section 111",
+      "chapter": null,
+      "original": "ὁρᾶτε δὲ καὶ τὰς μοναρχίας τὰς ἐν ταῖς πόλεσι καθισταμένας , ὅσους ἔχουσι τοὺς ἐπιθυμητὰς καὶ τοὺς ἑτοίμους ὄντας ὁτιοῦν πάσχειν ὥστε κατασχεῖν αὐτάς · αἷς τί τῶν δεινῶν ἢ τῶν χαλεπῶν οὐ πρόσεστιν ; οὐκ εὐθὺς ἐπειδὰν λάβωσι τὰς δυναστείας , ἐν τοσούτοις ἐμπεπλεγμένοι κακοῖς εἰσιν ,",
+      "translation": "Look at the one-man-rule which is established in various states and observe how many there are who aspire to it and are ready to undergo anything whatsoever to obtain it . And yet what that is dire and difficult is not its portion ? [*] Is it not true that when men obtain unlimited power they find themselves at once in the coil of so many troubles"
+    },
+    {
+      "id": "112",
+      "label": "Section 112",
+      "chapter": null,
+      "original": "ὥστʼ ἀναγκάζεσθαι πολεμεῖν μὲν ἅπασι τοῖς πολίταις , μισεῖν δʼ ὑφʼ ὧν οὐδὲν κακὸν πεπόνθασιν , ἀπιστεῖν δὲ τοῖς φίλοις καὶ τοῖς ἑταίροις τοῖς αὑτῶν , παρακατατίθεσθαι δὲ τὴν τῶν σωμάτων σωτηρίαν μισθοφόροις ἀνθρώποις , οὓς οὐδὲ πώποτʼ εἶδον , μηδὲν δʼ ἧττον φοβεῖσθαι τοὺς φυλάττοντας ἢ τοὺς ἐπιβουλεύοντας , οὕτω δʼ ὑπόπτως πρὸς ἅπαντας ἔχειν ὥστε μηδὲ τοῖς οἰκειοτάτοις θαρρεῖν πλησιάζοντας ;",
+      "translation": "that they are compelled to make war upon all their citizens , to hate those from whom they have suffered no wrong whatsoever , to suspect their own friends and daily companions , to entrust the safety of their persons to hirelings whom they have never even seen , to fear no less those who guard their lives than those who plot against them , and to be so suspicious towards all men as not to feel secure even in the company of their nearest kin ? [*]"
+    },
+    {
+      "id": "113",
+      "label": "Section 113",
+      "chapter": null,
+      "original": "εἰκότως · συνίσασι γὰρ τοὺς πρὸ αὑτῶν τετυραννευκότας τοὺς μὲν ὑπὸ τῶν γονέων ἀνῃρημένους , τοὺς δʼ ὑπὸ τῶν παίδων , τοὺς δʼ ὑπʼ ἀδελφῶν , τοὺς δʼ ὑπὸ γυναικῶν , ἔτι δὲ τὸ γένος αὐτῶν ἐξ ἀνθρώπων ἠφανισμένον . ἀλλʼ ὅμως ὑπὸ τοσαύτας τὸ πλῆθος συμφορὰς ἑκόντες σφᾶς αὐτοὺς ὑποβάλλουσιν . ὅπου δʼ οἱ πρωτεύοντες καὶ δόξας μεγίστας ἔχοντες τοσούτων κακῶν ἐρῶσι , τί δεῖ θαυμάζειν τοὺς ἄλλους , εἰ τοιούτων ἑτέρων ἐπιθυμοῦσιν ;",
+      "translation": "And naturally so ; for they know well that those who held despotic power before them have been put out of the way , some by their parents , [*] some by their sons , [*] some by their brothers , [*] and some by their wives [*] and , furthermore , that the lineage of these rulers has been blotted out from the sight of men . [*] Nevertheless they willingly submit themselves to such a multitude of calamities . [*] And when men who are of the foremost rank and of the greatest reputation are enamored of so many evils , is it any wonder that the rest of the world covets other evils of the same kind ?"
+    },
+    {
+      "id": "114",
+      "label": "Section 114",
+      "chapter": null,
+      "original": "οὐκ ἀγνοῶ δʼ ὅτι τὸν μὲν περὶ τῶν τυράννων λόγον ἀποδέχεσθε , τὸν δὲ περὶ τῆς ἀρχῆς δυσκόλως ἀκούετε · πεπόνθατε γὰρ πάντων αἴσχιστον καὶ ῥᾳθυμότατον · ἃ γὰρ ἐπὶ τῶν ἄλλων ὁρᾶτε , ταῦτʼ ἐφʼ ὑμῶν αὐτῶν ἀγνοεῖτε . καίτοι τῶν φρονίμως διακειμένων οὐκ ἐλάχιστον τοῦτο σημεῖόν ἐστιν , ἢν τὰς αὐτὰς πράξεις ἐπὶ πάντων τῶν ὁμοίων φαίνωνται γνωρίζοντες .",
+      "translation": "But I do not fail to realize that while you accept readily what I say about the rule of despots , yet you hear with intolerance what I say about the empire of the sea . For you have fallen into a most shameful and careless way of thinking , since what you see clearly in the case of others , this you are blind to in your own case . And yet it is not the least important sign of whether men are possessed of intelligence if they are seen to recognize the same course of conduct in all cases that are comparable . [*]"
+    },
+    {
+      "id": "115",
+      "label": "Section 115",
+      "chapter": null,
+      "original": "ὧν ὑμῖν οὐδὲν πώποτʼ ἐμέλησεν , ἀλλὰ τὰς μὲν τυραννίδας ἡγεῖσθε χαλεπὰς εἶναι καὶ βλαβερὰς οὐ μόνον τοῖς ἄλλοις ἀλλὰ καὶ τοῖς ἔχουσιν αὐτάς , τὴν δʼ ἀρχὴν τὴν κατὰ θάλατταν μέγιστον τῶν ἀγαθῶν , τὴν οὐδὲν οὔτε τοῖς πάθεσιν οὔτε ταῖς πράξεσι τῶν μοναρχιῶν διαφέρουσαν . καὶ τὰ μὲν Θηβαίων πράγματα πονηρῶς ἔχειν νομίζετε , ὅτι τοὺς περιοίκους ἀδικοῦσιν , αὐτοὶ δʼ οὐδὲν βέλτιον τοὺς συμμάχους διοικοῦντες ἢ lt * gtκεῖνοι τὴν Βοιωτίαν , ἡγεῖσθε πάντα τὰ δέοντα πράττειν .",
+      "translation": "But you have never given this a thought ; on the contrary , while you consider the power of a despot to be harsh and harmful not only to others but to those who hold it , you look upon the empire of the sea as the greatest good in the world , when in fact it differs neither in what it does nor in what it suffers from one-man-rule . And you think that the affairs of the Thebans are in a bad way because they oppress their neighbors , [*] but , although you yourselves are treating your allies no better than the Thebans treat the Boeotians , you believe that your own actions leave nothing to be desired ."
+    },
+    {
+      "id": "116",
+      "label": "Section 116",
+      "chapter": null,
+      "original": "ἢν οὖν ἐμοὶ πεισθῆτε , παυσάμενοι τοῦ παντάπασιν εἰκῇ βουλεύεσθαι προσέξετε τὸν νοῦν ὑμῖν αὐτοῖς καὶ τῇ πόλει , καὶ φιλοσοφήσετε καὶ σκέψεσθε τί τὸ ποιῆσάν ἐστι τὼ πόλη τούτω , λέγω δὲ τὴν ἡμετέραν καὶ τὴν Λακεδαιμονίων , ἐκ ταπεινῶν μὲν πραγμάτων ἑκατέραν ὁρμηθεῖσαν ἄρξαι τῶν Ἑλλήνων , ἐπεὶ δʼ ἀνυπέρβλητον τὴν δύναμιν ἔλαβον , περὶ ἀνδραποδισμοῦ κινδυνεῦσαι ·",
+      "translation": "If , then , you heed my advice you will stop taking counsel in your utterly haphazard fashion and give your attention to your own and the state ’ s welfare ; pondering and searching into these questions : What is it which caused these two states — Athens and Sparta I mean — to rise , each one of them , from obscure beginnings to be the first power in Hellas and then to fall , after they had attained a power second to none , into peril of being enslaved ?"
+    },
+    {
+      "id": "117",
+      "label": "Section 117",
+      "chapter": null,
+      "original": "καὶ διὰ τίνας αἰτίας Θετταλοὶ μέν , μεγίστους πλούτους παραλαβόντες καὶ χώραν ἀρίστην καὶ πλείστην ἔχοντες , εἰς ἀπορίαν καθεστήκασι , Μεγαρεῖς δέ , μικρῶν αὐτοῖς καὶ φαύλων τῶν ἐξ ἀρχῆς ὑπαρξάντων , καὶ γῆν μὲν οὐκ ἔχοντες οὐδὲ λιμένας οὐδʼ ἀργυρεῖα , πέτρας δὲ γεωργοῦντες , μεγίστους οἴκους τῶν Ἑλλήνων κέκτηνται ·",
+      "translation": "What are the reasons that the Thessalians , who inherited very great wealth and possess a very rich and abundant territory , [*] have been reduced to poverty , while the Megarians , who had small and insignificant resources [*] to begin with and who possess neither land nor harbors [*] nor mines but are compelled to farm mere rocks , own estates which are the greatest [*] among the Hellenes ?"
+    },
+    {
+      "id": "118",
+      "label": "Section 118",
+      "chapter": null,
+      "original": "κἀκείνων μὲν τὰς ἀκροπόλεις ἄλλοι τινὲς ἀεὶ κατέχουσιν , ὄντων αὐτοῖς πλέον τρισχιλίων ἱππέων καὶ πελταστῶν ἀναριθμήτων , οὗτοι δὲ μικρὰν δύναμιν ἔχοντες τὴν αὑτῶν ὅπως βούλονται διοικοῦσιν · καὶ πρὸς τούτοις οἱ μὲν σφίσιν αὐτοῖς πολεμοῦσιν , οὗτοι δὲ μεταξὺ Πελοποννησίων καὶ Θηβαίων καὶ τῆς ἡμετέρας πόλεως οἰκοῦντες εἰρήνην ἄγοντες διατελοῦσιν .",
+      "translation": "Why is it that the Thessalians , with a cavalry of more than three thousand horse and light-armed troops beyond number , [*] have their fortresses occupied from time to time by certain other states [*] while the Megarians , with only a small force , govern their city as they see fit ? And , again , why is it that the Thessalians are always at war with each other while the Megarians , who dwell between the Peloponnesians on the one hand and the Thebans and the Athenians on the other , are continually in a state of peace ? [*]"
+    },
+    {
+      "id": "119",
+      "label": "Section 119",
+      "chapter": null,
+      "original": "ἢν γὰρ ταῦτα καὶ τὰ τοιαῦτα διεξίητε πρὸς ὑμᾶς αὐτούς , εὑρήσετε τὴν μὲν ἀκολασίαν καὶ τὴν ὕβριν τῶν κακῶν αἰτίαν γιγνομένην , τὴν δὲ σωφροσύνην τῶν ἀγαθῶν . ἥν ὑμεῖς ἐπὶ μὲν τῶν ἰδιωτῶν ἐπαινεῖτε , καὶ νομίζετε τοὺς ταύτῃ χρωμένους ἀσφαλέστατα ζῆν καὶ βελτίστους εἶναι τῶν πολιτῶν , τὸ δὲ κοινὸν ἡμῶν οὐκ οἴεσθε δεῖν τοιοῦτο παρασκευάζειν .",
+      "translation": "If you will go over these and similar questions in your minds , you will discover that arrogance and insolence have been the cause of our misfortunes while sobriety and self control have been the source of our blessings . [*] But , while you commend sobriety in individual men and believe that those who practice it enjoy the most secure existence and are the best among your fellow citizens , you do not think it fit to make the state practice it ."
+    },
+    {
+      "id": "120",
+      "label": "Section 120",
+      "chapter": null,
+      "original": "καίτοι προσήκει τὰς ἀρετὰς ἀσκεῖν καὶ τὰς κακίας φεύγειν πολὺ μᾶλλον ταῖς πόλεσιν ἢ τοῖς ἰδιώταις . ἀνὴρ μὲν γὰρ ἀσεβὴς καὶ πονηρὸς τυχὸν ἂν φθάσειε τελευτήσας πρὶν δοῦναι δίκην τῶν ἡμαρτημένων · αἱ δὲ πόλεις διὰ τὴν ἀθανασίαν ὑπομένουσι καὶ τὰς παρὰ τῶν ἀνθρώπων καὶ τὰς παρὰ τῶν θεῶν τιμωρίας .",
+      "translation": "And yet it behoves states much more than individuals to cultivate the virtues and to shun vices ; [*] for a man who is godless and depraved may die before paying the penalty for his sins , but states , since they are deathless , soon or late must submit to punishment at the hands both of men and of the gods ."
+    }
+  ],
+  "prevChunkSlug": "on-the-peace-qkrbwe-1",
+  "nextChunkSlug": "on-the-peace-qkrbwe-3"
+}

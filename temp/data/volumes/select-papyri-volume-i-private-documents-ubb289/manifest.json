@@ -1,0 +1,27 @@
+{
+  "loebNumber": 266,
+  "sortOrder": 266,
+  "slug": "select-papyri-volume-i-private-documents-ubb289",
+  "title": "Volume I: Private Documents",
+  "volumeLabel": "Volume I: Private Documents",
+  "authorDisplay": "Select Papyri",
+  "authors": [
+    "Select Papyri"
+  ],
+  "language": "mixed",
+  "summary": "A catalog placeholder for Volume I: Private Documents. Scaife does not currently provide a confidently matchable original-and-English pair for this volume.",
+  "status": "placeholder",
+  "defaultChunkSlug": null,
+  "readyChunkCount": 0,
+  "contents": [
+    {
+      "id": "private-documents-vrpsm3",
+      "title": "Private Documents",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Private Documents."
+    }
+  ],
+  "chunks": [],
+  "citations": []
+}

@@ -1,0 +1,59 @@
+{
+  "volumeSlug": "euripides-trojan-women-iphigenia-among-the-taurians-ion-1se7ao",
+  "volumeTitle": "Trojan Women. Iphigenia among the Taurians. Ion",
+  "authorDisplay": "Euripides",
+  "authors": [
+    "Euripides"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "iphigenia-among-the-taurians-153cdk-12",
+  "label": "Iphigenia among the Taurians (Section 1490 - Section 1497a)",
+  "partId": "iphigenia-among-the-taurians-153cdk",
+  "partTitle": "Iphigenia among the Taurians",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἰφιγένεια ἐν Ταύροις",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg013.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Iphigenia Among the Tauri",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0006.tlg013.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1490",
+      "label": "Section 1490",
+      "chapter": null,
+      "original": "ἴτʼ ἐπʼ εὐτυχίᾳ τῆς σῳζομένης",
+      "translation": "Go with good fortune , blessed in having your portion of safety ."
+    },
+    {
+      "id": "1493",
+      "label": "Section 1493",
+      "chapter": null,
+      "original": "καὶ παρὰ θνητοῖς , Παλλὰς Ἀθάνα ,",
+      "translation": "Pallas Athena , holy among immortals and mortals , we will do as you command ."
+    },
+    {
+      "id": "1495",
+      "label": "Section 1495",
+      "chapter": null,
+      "original": "μάλα γὰρ τερπνὴν κἀνέλπιστον",
+      "translation": "For we receive your voice in our ears with great and unexpected pleasure ."
+    },
+    {
+      "id": "1497a",
+      "label": "Section 1497a",
+      "chapter": null,
+      "original": "ὦ μέγα σεμνὴ Νίκη , τὸν ἐμὸν",
+      "translation": "Greatly revered Victory , may you occupy my life and never cease to crown me !"
+    }
+  ],
+  "prevChunkSlug": "iphigenia-among-the-taurians-153cdk-11",
+  "nextChunkSlug": "ion-1kvc-1"
+}

@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "sophocles-ajax-electra-oedipus-tyrannus-udpp93",
+  "volumeTitle": "Ajax. Electra. Oedipus Tyrannus",
+  "authorDisplay": "Sophocles",
+  "authors": [
+    "Sophocles"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "electra-wuse-6",
+  "label": "Electra (Section 889 - Section 1033)",
+  "partId": "electra-wuse",
+  "partTitle": "Electra",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Ἠλέκτρα",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Electra",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg005.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "889",
+      "label": "Section 889",
+      "chapter": null,
+      "original": "πρός νυν θεῶν ἄκουσον , ὡς μαθοῦσά μου",
+      "translation": "Now , for the gods ’ love , listen , so that you may know"
+    },
+    {
+      "id": "890",
+      "label": "Section 890",
+      "chapter": null,
+      "original": "τὸ λοιπὸν ἢ φρονοῦσαν ἢ μωρὰν λέγῃς .",
+      "translation": "the rest from me before deciding whether I am sane or foolish ."
+    },
+    {
+      "id": "891",
+      "label": "Section 891",
+      "chapter": null,
+      "original": "σὺ δʼ οὖν λέγʼ , εἴ σοι τῷ λόγῳ τις ἡδονή .",
+      "translation": "Speak on , then , if you find pleasure in speaking ."
+    },
+    {
+      "id": "892",
+      "label": "Section 892",
+      "chapter": null,
+      "original": "καὶ δὴ λέγω σοι πᾶν ὅσον κατειδόμην .",
+      "translation": "Well , I will tell you all that I have seen . When I came to Father ’ s ancestral tomb , I saw that streams of milk had recently flowed from the top of the mound"
+    },
+    {
+      "id": "895",
+      "label": "Section 895",
+      "chapter": null,
+      "original": "πηγὰς γάλακτος καὶ περιστεφῆ κύκλῳ",
+      "translation": "and that his sepulchre was encircled with garlands of all flowers that grow . I was astonished at the sight , and peered about lest somehow someone should approach close to me . But when I perceived that all the place was in stillness ,"
+    },
+    {
+      "id": "900",
+      "label": "Section 900",
+      "chapter": null,
+      "original": "τύμβου προσεῖρπον ἆσσον · ἐσχάτης δʼ ὁρῶ",
+      "translation": "I crept nearer to the tomb , and on the mound ’ s edge I saw a lock of hair , freshly severed .\nAnd the very moment I see it — ah me !— a familiar image rushes into my mind , and I feel that I am looking at a token of him whom I most love , Orestes ."
+    },
+    {
+      "id": "905",
+      "label": "Section 905",
+      "chapter": null,
+      "original": "καὶ χερσὶ βαστάσασα δυσφημῶ μὲν οὔ ,",
+      "translation": "Then I lift it in my hands and make no sound of bad omen , but the tears of joy straightaway fill my eyes . Even now I know well , just as I knew then , that this fair tribute has come from no one but him . Whom else does that tomb concern , save me and you ?"
+    },
+    {
+      "id": "910",
+      "label": "Section 910",
+      "chapter": null,
+      "original": "κἀγὼ μὲν οὐκ ἔδρασα , τοῦτʼ ἐπίσταμαι ,",
+      "translation": "And I did not make those offerings , I know , nor did you . How could you , when you cannot leave this house even to worship the gods without later regretting it ? Nor , again , does our mother ’ s heart incline to do such deeds , nor could she have done so without our knowledge ."
+    },
+    {
+      "id": "915",
+      "label": "Section 915",
+      "chapter": null,
+      "original": "ἀλλʼ ἔστʼ Ὀρέστου ταῦτα τἀπιτύμβια .",
+      "translation": "No , these offerings are from Orestes ! Come , dear sister , have courage ! Not always does the same fortune , it is true , attend the same individuals . Ours was once to be despised , but today , perhaps , will seal the promise of much good ."
+    },
+    {
+      "id": "920",
+      "label": "Section 920",
+      "chapter": null,
+      "original": "φεῦ , τῆς ἀνοίας ὥς σʼ ἐποικτίρω πάλαι .",
+      "translation": "Oh , what foolishness ! How I have been pitying you !"
+    },
+    {
+      "id": "921",
+      "label": "Section 921",
+      "chapter": null,
+      "original": "τί δʼ ἔστιν ; οὐ πρὸς ἡδονὴν λέγω τάδε ;",
+      "translation": "What , is my news unpleasing to you ?"
+    },
+    {
+      "id": "922",
+      "label": "Section 922",
+      "chapter": null,
+      "original": "οὐκ οἶσθʼ ὅποι γῆς οὐδʼ ὅποι γνώμης φέρει .",
+      "translation": "You do not know where on earth or into what dreams you wander ."
+    },
+    {
+      "id": "923",
+      "label": "Section 923",
+      "chapter": null,
+      "original": "πῶς δʼ οὐκ ἐγὼ κάτοιδʼ ἅ γʼ εἶδον ἐμφανῶς ;",
+      "translation": "How could I not know what I have plainly seen ?"
+    },
+    {
+      "id": "924",
+      "label": "Section 924",
+      "chapter": null,
+      "original": "τέθνηκεν , ὦ τάλαινα , τἀκείνου δέ σοι",
+      "translation": "He is dead , poor girl , and your"
+    },
+    {
+      "id": "925",
+      "label": "Section 925",
+      "chapter": null,
+      "original": "σωτήριʼ ἔρρει · μηδὲν εἰς κεῖνόν γʼ ὅρα .",
+      "translation": "salvation by him is gone . Do not look to him ."
+    },
+    {
+      "id": "926",
+      "label": "Section 926",
+      "chapter": null,
+      "original": "οἴμοι τάλαινα · τοῦ τάδʼ ἤκουσας βροτῶν ;",
+      "translation": "Ah , miserable me ! From whom have you heard this ?"
+    },
+    {
+      "id": "927",
+      "label": "Section 927",
+      "chapter": null,
+      "original": "τοῦ πλησίον παρόντος , ἡνίκʼ ὤλλυτο .",
+      "translation": "From the man who was present when he perished ."
+    },
+    {
+      "id": "928",
+      "label": "Section 928",
+      "chapter": null,
+      "original": "καὶ ποῦ ʼστιν οὗτος ; θαῦμά τοί μʼ ὑπέρχεται .",
+      "translation": "And where is he ? Amazement steals over my mind ."
+    },
+    {
+      "id": "929",
+      "label": "Section 929",
+      "chapter": null,
+      "original": "κατʼ οἶκον , ἡδὺς οὐδὲ μητρὶ δυσχερής .",
+      "translation": "He is inside , a welcome guest , not unpleasing to our mother ."
+    },
+    {
+      "id": "930",
+      "label": "Section 930",
+      "chapter": null,
+      "original": "οἴμοι τάλαινα · τοῦ γὰρ ἀνθρώπων ποτʼ ἦν",
+      "translation": "Ah , misery ! Who , then , can have made those ample offerings to my father ’ s tomb ?"
+    },
+    {
+      "id": "932",
+      "label": "Section 932",
+      "chapter": null,
+      "original": "οἶμαι μάλιστʼ ἔγωγε τοῦ τεθνηκότος",
+      "translation": "Most likely , I think , someone placed those gifts in memory of the dead Orestes ."
+    },
+    {
+      "id": "934",
+      "label": "Section 934",
+      "chapter": null,
+      "original": "ὦ δυστυχής · ἐγὼ δὲ σὺν χαρᾷ λόγους",
+      "translation": "Oh , my misfortune ! And I was hurrying here"
+    },
+    {
+      "id": "935",
+      "label": "Section 935",
+      "chapter": null,
+      "original": "τοιούσδʼ ἔχουσʼ ἔσπευδον , οὐκ εἰδυῖʼ ἄρα",
+      "translation": "with such joyous nows , ignorant after all of our downfall . But now that I have arrived , I find fresh sorrows added to the old !"
+    },
+    {
+      "id": "938",
+      "label": "Section 938",
+      "chapter": null,
+      "original": "οὕτως ἔχει σοι ταῦτʼ · ἐὰν δέ μοι πίθῃ ,",
+      "translation": "So it stands with you . Yet if you will be persuaded by me , you will lighten the load of our present trouble ."
+    },
+    {
+      "id": "940",
+      "label": "Section 940",
+      "chapter": null,
+      "original": "ἦ τοὺς θανόντας ἐξαναστήσω ποτέ ;",
+      "translation": "How can I ever raise the dead back to life ?"
+    },
+    {
+      "id": "941",
+      "label": "Section 941",
+      "chapter": null,
+      "original": "οὐκ ἔσθʼ ὅ γʼ εἶπον · οὐ γὰρ ὧδʼ ἄφρων ἔφυν .",
+      "translation": "That is not what I meant ; I was not born so foolish ."
+    },
+    {
+      "id": "942",
+      "label": "Section 942",
+      "chapter": null,
+      "original": "τί γὰρ κελεύεις ὧν ἐγὼ φερέγγυος ;",
+      "translation": "What do you urge , then , of those things that I am capable of doing ?"
+    },
+    {
+      "id": "943",
+      "label": "Section 943",
+      "chapter": null,
+      "original": "τλῆναί σε δρῶσαν ἃν ἐγὼ παραινέσω .",
+      "translation": "That you be brave in executing what I recommend ."
+    },
+    {
+      "id": "944",
+      "label": "Section 944",
+      "chapter": null,
+      "original": "ἀλλʼ εἴ τις ὠφέλειά γʼ , οὐκ ἀπώσομαι .",
+      "translation": "If any good can be done , I will not refuse ."
+    },
+    {
+      "id": "945",
+      "label": "Section 945",
+      "chapter": null,
+      "original": "ὅρα , πόνου τοι χωρὶς οὐδὲν εὐτυχεῖ .",
+      "translation": "Remember , nothing succeeds without toil ."
+    },
+    {
+      "id": "946",
+      "label": "Section 946",
+      "chapter": null,
+      "original": "ὁρῶ . ξυνοίσω πᾶν ὅσονπερ ἂν σθένω .",
+      "translation": "I know it , and I will share your burden with all my power ."
+    },
+    {
+      "id": "947",
+      "label": "Section 947",
+      "chapter": null,
+      "original": "ἄκουε δή νυν ᾗ βεβούλευμαι ποεῖν .",
+      "translation": "Hear , then , in what way I have decided to take action . As for the support of friends , you yourself doubtless know that we have none . Hades has taken our friends away ,"
+    },
+    {
+      "id": "950",
+      "label": "Section 950",
+      "chapter": null,
+      "original": "ἀπεστέρηκε καὶ μόνα λελείμμεθον .",
+      "translation": "and we two are left alone . I , so long as I heard that my brother still lived and prospered , had hopes that he would yet come to avenge the murder of our father . But now that he is no more , I look next to you"
+    },
+    {
+      "id": "955",
+      "label": "Section 955",
+      "chapter": null,
+      "original": "ὅπως τὸν αὐτόχειρα πατρῴου φόνου",
+      "translation": "and ask that you not flinch from aiding me , your sister , to slay our father ’ s murderer , Aegisthus . There — I can have no secrets from you anymore .\nHow long will you wait in indifference ? What hope is left standing , to which your eyes can turn ? Now you are right to complain"
+    },
+    {
+      "id": "960",
+      "label": "Section 960",
+      "chapter": null,
+      "original": "πλούτου πατρῴου κτῆσιν ἐστερημένῃ ,",
+      "translation": "that you are robbed of possession of your father ’ s estate ; now you may mourn that you have advanced this far in years without wedded love or bridal song . And do not cling to hopes that you will ever meet with such joys . The man , Aegisthus , is not so unthinking"
+    },
+    {
+      "id": "965",
+      "label": "Section 965",
+      "chapter": null,
+      "original": "Αἴγισθος ὥστε σόν ποτʼ ἢ κἀμὸν γένος",
+      "translation": "as ever to permit that offspring should shoot up from you or from me either to be a certain bane for himself . But if you will follow my plans , first you will win praise for piety from our dead father below , and from our brother , too ;"
+    },
+    {
+      "id": "970",
+      "label": "Section 970",
+      "chapter": null,
+      "original": "ἔπειτα δʼ , ὥσπερ ἐξέφυς , ἐλευθέρα",
+      "translation": "next , you shall be called hereafter free , just as you were born , and shall find a worthy marriage . For noble natures draw the gaze of all .\nThen do you not see what fair fame you will procure for yourself and for me , by obeying me ?"
+    },
+    {
+      "id": "975",
+      "label": "Section 975",
+      "chapter": null,
+      "original": "τίς γάρ ποτʼ ἀστῶν ἢ ξένων ἡμᾶς ἰδὼν",
+      "translation": "What citizen or stranger when he sees us will not greet us with praises such as these : Behold these two sisters , my friends ! They saved their father ’ s house , and at a time when their foes were firmly established , they took their lives in their hands and administered bloodshed ! Worthy of love is this pair , worthy of reverence from all . At festivals , and wherever the citizenry is assembled , let these two be honored by all men for their manly courage . Thus will every one speak of us ,"
+    },
+    {
+      "id": "985",
+      "label": "Section 985",
+      "chapter": null,
+      "original": "ζώσαιν θανούσαιν θʼ ὥστε μὴ ʼκλιπεῖν κλέος .",
+      "translation": "so that in life and in death our glory shall not fail .\nCome , dear sister , be persuaded ! Toil with our father , share the burden of your brother , put an end to my troubles and an end to yours , keeping in mind that a shameful life brings shame upon the noble-born ."
+    },
+    {
+      "id": "990",
+      "label": "Section 990",
+      "chapter": null,
+      "original": "ἐν τοῖς τοιούτοις ἐστὶν ἡ προμηθία",
+      "translation": "In a crisis such as this , forethought is an ally both to those who speak and those who listen ."
+    },
+    {
+      "id": "992",
+      "label": "Section 992",
+      "chapter": null,
+      "original": "καὶ πρίν γε φωνεῖν , ὦ γυναῖκες , εἰ φρενῶν",
+      "translation": "Yes , I agree . And before she spoke , my friends , if she were blessed with a sound mind , she would have remembered caution , even as she does not now ."
+    },
+    {
+      "id": "995",
+      "label": "Section 995",
+      "chapter": null,
+      "original": "ποῖ γάρ ποτʼ ἐμβλέψασα τοιοῦτον θράσος",
+      "translation": "Where can you have turned your eyes , that you arm yourself with such rashness and call me to serve beneath you ? Do you not see ? Your nature is a woman ’ s , not a man ’ s , and the strength of your hand is less than that of your adversaries . And their fortune prospers day by day ,"
+    },
+    {
+      "id": "1000",
+      "label": "Section 1000",
+      "chapter": null,
+      "original": "ἡμῖν δʼ ἀπορρεῖ κἀπὶ μηδὲν ἔρχεται .",
+      "translation": "while ours ebbs and comes to nothing . Who , then , plotting to subdue such a man , would escape destruction unharmed ? See to it that , badly as we fare now , we do not acquire greater evil , if any one hears this talk of yours ."
+    },
+    {
+      "id": "1005",
+      "label": "Section 1005",
+      "chapter": null,
+      "original": "λύει γὰρ ἡμῖν οὐδὲν οὐδʼ ἐπωφελεῖ",
+      "translation": "It brings us no relief or benefit , if after winning fair fame we die an ignominious death . For death is not the most odious thing ; it is rather craving death , but lacking the means to die . No , I plead with you , before we are utterly , totally destroyed"
+    },
+    {
+      "id": "1010",
+      "label": "Section 1010",
+      "chapter": null,
+      "original": "ἡμᾶς τʼ ὀλέσθαι κἀξερημῶσαι γένος ,",
+      "translation": "and before we leave our house desolate , restrain your rage ! I will take care that your words remain secret and harmless for you . You in turn must get hold of good sense at long last and yield to the powerful since you have no strength ."
+    },
+    {
+      "id": "1015",
+      "label": "Section 1015",
+      "chapter": null,
+      "original": "πείθου · προνοίας οὐδὲν ἀνθρώποις ἔφυ",
+      "translation": "Listen to her . There is no better gain for mortals to win than foresight and a prudent mind ."
+    },
+    {
+      "id": "1017",
+      "label": "Section 1017",
+      "chapter": null,
+      "original": "ἀπροσδόκητον οὐδὲν εἴρηκας · καλῶς δʼ",
+      "translation": "You have said nothing unexpected . Well I knew that you would reject what I proposed . But the deed must be done with my own hand , by me and me alone ."
+    },
+    {
+      "id": "1020",
+      "label": "Section 1020",
+      "chapter": null,
+      "original": "τοὔργον τόδʼ · οὐ γὰρ δὴ κενόν γʼ ἀφήσομεν .",
+      "translation": "I certainly will not leave it unaccomplished ."
+    },
+    {
+      "id": "1021",
+      "label": "Section 1021",
+      "chapter": null,
+      "original": "φεῦ ·",
+      "translation": "Ah ! If only you had had such resolve on the day of our father ’ s death ! Then you would have accomplished everything !"
+    },
+    {
+      "id": "1023",
+      "label": "Section 1023",
+      "chapter": null,
+      "original": "ἀλλʼ ἦ φύσιν γε , τὸν δὲ νοῦν ἥσσων τότε .",
+      "translation": "My nature was the same then , but my mind was less ripe ."
+    },
+    {
+      "id": "1024",
+      "label": "Section 1024",
+      "chapter": null,
+      "original": "ἄσκει τοιαύτη νοῦν διʼ αἰῶνος μένειν .",
+      "translation": "Strive to keep your mind that way through all your life ."
+    },
+    {
+      "id": "1025",
+      "label": "Section 1025",
+      "chapter": null,
+      "original": "ὡς οὐχὶ συνδράσουσα νουθετεῖς τάδε .",
+      "translation": "You make these admonitions like one who will not assist me ."
+    },
+    {
+      "id": "1026",
+      "label": "Section 1026",
+      "chapter": null,
+      "original": "εἰκὸς γὰρ ἐγχειροῦντα καὶ πράσσειν κακῶς .",
+      "translation": "I will not , for he who sets hand to the deed is likely also to suffer disaster ."
+    },
+    {
+      "id": "1027",
+      "label": "Section 1027",
+      "chapter": null,
+      "original": "ζηλῶ σε τοῦ νοῦ , τῆς δὲ δειλίας στυγῶ .",
+      "translation": "I admire you for your prudence . For your cowardice I hate you ."
+    },
+    {
+      "id": "1028",
+      "label": "Section 1028",
+      "chapter": null,
+      "original": "ἀνέξομαι κλύουσα χὤταν εὖ λέγῃς .",
+      "translation": "I will listen no less calmly when you praise me ."
+    },
+    {
+      "id": "1029",
+      "label": "Section 1029",
+      "chapter": null,
+      "original": "ἀλλʼ οὔ ποτʼ ἐξ ἐμοῦ γε μὴ πάθῃς τόδε .",
+      "translation": "Never fear to suffer that from me , at least ."
+    },
+    {
+      "id": "1030",
+      "label": "Section 1030",
+      "chapter": null,
+      "original": "μακρὸς τὸ κρῖναι ταῦτα χὠ λοιπὸς χρόνος .",
+      "translation": "There is time enough in the future to decide that ."
+    },
+    {
+      "id": "1031",
+      "label": "Section 1031",
+      "chapter": null,
+      "original": "ἄπελθε · σοὶ γὰρ ὠφέλησις οὐκ ἔνι .",
+      "translation": "Leave ! You have no power to help ."
+    },
+    {
+      "id": "1032",
+      "label": "Section 1032",
+      "chapter": null,
+      "original": "ἔνεστιν · ἀλλὰ σοὶ μάθησις οὐ πάρα .",
+      "translation": "No , I have it , but you lack the ability to listen and learn ."
+    },
+    {
+      "id": "1033",
+      "label": "Section 1033",
+      "chapter": null,
+      "original": "ἐλθοῦσα μητρὶ ταῦτα πάντʼ ἔξειπε σῇ .",
+      "translation": "Go , reveal everything to your mother !"
+    }
+  ],
+  "prevChunkSlug": "electra-wuse-5",
+  "nextChunkSlug": "electra-wuse-7"
+}

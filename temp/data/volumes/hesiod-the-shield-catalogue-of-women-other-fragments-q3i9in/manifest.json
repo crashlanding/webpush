@@ -1,0 +1,75 @@
+{
+  "loebNumber": 503,
+  "sortOrder": 503,
+  "slug": "hesiod-the-shield-catalogue-of-women-other-fragments-q3i9in",
+  "title": "The Shield. Catalogue of Women. Other Fragments",
+  "volumeLabel": "The Shield. Catalogue of Women. Other Fragments",
+  "authorDisplay": "Hesiod",
+  "authors": [
+    "Hesiod"
+  ],
+  "language": "greek",
+  "summary": "1 of 3 contents in The Shield. Catalogue of Women. Other Fragments are live from Scaife, while the remaining contents stay visible until a confident pair is available.",
+  "status": "partial",
+  "defaultChunkSlug": "the-shield-13z1xd",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "the-shield-13z1xd",
+      "title": "The Shield",
+      "status": "ready",
+      "sectionCount": 87,
+      "chunkSlug": "the-shield-13z1xd",
+      "chunks": [
+        {
+          "slug": "the-shield-13z1xd",
+          "label": "The Shield",
+          "partId": "the-shield-13z1xd",
+          "partTitle": "The Shield",
+          "sectionCount": 87,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "catalogue-of-women-r3dpos",
+      "title": "Catalogue of Women",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Catalogue of Women."
+    },
+    {
+      "id": "other-fragments-si02j7",
+      "title": "Other Fragments",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Other Fragments."
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "the-shield-13z1xd",
+      "label": "The Shield",
+      "partId": "the-shield-13z1xd",
+      "partTitle": "The Shield",
+      "sectionCount": 87,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "the-shield-13z1xd",
+      "partTitle": "The Shield",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ἀσπὶς Ἡρακλέους",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0020.tlg003.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Shield of Heracles",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0020.tlg003.perseus-eng2/"
+      }
+    }
+  ]
+}

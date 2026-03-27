@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "demosthenes-orations-volume-vii-7g6p2s",
+  "volumeTitle": "Orations, Volume VII",
+  "authorDisplay": "Demosthenes",
+  "authors": [
+    "Demosthenes"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "exordia-5v7i6e-2",
+  "label": "Exordia (Section 28.2 - Section 48.3)",
+  "partId": "orations-volume-vii-1lkkq1",
+  "partTitle": "Orations, Volume VII",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "προοίμια δημηγορικά",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg062.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Exordia",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0014.tlg062.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "28.2",
+      "label": "Section 28.2",
+      "chapter": null,
+      "original": "ἐγὼ δʼ ἡδέως μὲν ἂν ἑώρων , ἃ καὶ συνοίσειν ἔμελλε , ταῦτʼ ἐν ἡδονῇ πράττειν ὄνθʼ ὑμῖν , ἵνα καὶ χαριζόμενος καὶ χρηστὰ λέγων ἐφαινόμην . ἐπειδὴ δὲ τἀναντίʼ ὁρῶ τούτων ἐπιχειροῦντας ὑμᾶς , οἴομαι δεῖν ἀντειπεῖν , εἰ καί τισιν μέλλω ἀπεχθήσεσθαι . ἂν μὲν οὖν μηδʼ ὑπομείνητʼ ἀκοῦσαι μηδὲ ἕν , οὐ τῷ δοκιμάζοντες διαμαρτεῖν , ἀλλὰ τῷ φύσει πονήρʼ ἐπιθυμεῖν πράττειν τοιαῦτα προαιρεῖσθαι δόξετε . ἐὰν δʼ ἀκούσητε , τυχὸν μὲν ἴσως κἂν μεταπεισθείητε , ὃ μάλιστʼ ἐγὼ νομίζω συνενεγκεῖν ἂν ὑμῖν · εἰ δὲ μή , οἱ μὲν ἀγνοεῖν τὸ συμφέρον , οἱ δὲ — ὅ τι ἄν τις βούληται , τοῦτʼ ἐρεῖ .",
+      "translation": "I should have been glad , myself , to see you happy at putting into effect the measures going to profit you , that I might have been found both meeting your wishes and giving good advice . But since I see you about to try the opposite measures , I think I ought to speak against them , even if I shall be hated for it by certain persons . So , if you will not endure to hear even one word from me , you will be thought to be preferring such a course of action , not through an error of judgement , but through your natural propensity to do wrong . However , if you do listen , you may perhaps be won over to the other view , which I think would be most to your advantage . But if you refuse to listen , some will plead ignorance of what was advantageous , while others — well , what a man likes to say he will say ."
+    },
+    {
+      "id": "29.1",
+      "label": "Section 29.1",
+      "chapter": null,
+      "original": "πρῶτον μὲν οὐδέν ἐστιν καινόν , ὦ ἄνδρες Ἀθηναῖοι , τοῖς δόξασιν παρʼ ὑμῖν εἶναί τινας οἵτινες ἀντεροῦσιν , ἐπειδὰν πράττειν τι δέῃ . εἰ μὲν οὖν ἀποδόντων ὑμῶν λόγον αὐτοῖς , ὅτʼ ἐβουλεύεσθε , τοῦτʼ ἐποίουν , τούτων ἂν ἦν ἄξιον κατηγορεῖν , εἰ περὶ ὧν ἥττηντʼ ἐβιάζοντο πάλιν λέγειν · νῦν δὲ τούτους μὲν οὐδέν ἐστʼ ἄτοπον εἰπεῖν βουληθῆναι ταῦθʼ ἃ τότʼ οὐχ ὑπεμείνατʼ ἀκοῦσαι ,",
+      "translation": "In the first place , it is nothing strange , men of Athens , that among you are found some who , when action has to be taken , will speak against measures already voted . [*] Now , if they were doing this after you had given them the floor while still deliberating , it would be the right thing to denounce them for insisting upon speaking a second time to questions on which they had been defeated ; as it is , there is nothing unreasonable in their desiring to express views which then you did not submit to hear ,"
+    },
+    {
+      "id": "29.2",
+      "label": "Section 29.2",
+      "chapter": null,
+      "original": "ὑμῖν δʼ ἄν τις εἰκότως ἐπιτιμήσειεν , ἄνδρες Ἀθηναῖοι , ὅτι ὁπόταν περί του βουλεύησθε , οὐκ ἐᾶτε λέγειν ἕκαστον ἃ γιγνώσκει , ἀλλʼ ἂν ἕτεροι τῷ λόγῳ προλάβωσιν ὑμᾶς , οὐδὲν ἂν τῶν ἑτέρων ἀκούσαιτε . ἐκ δὲ τούτου συμβαίνει πρᾶγμʼ ἀηδὲς ὑμῖν . οἷς γὰρ πρὶν ἁμαρτεῖν ὑμῖν ἐξῆν συμβουλεύουσιν πείθεσθαι , τούτους ὕστερον κατηγοροῦντας ἐπαινεῖτε .",
+      "translation": "and it is you who may well be criticized , men of Athens , because , when you deliberate about something , you do not allow each to say what he thinks , but , if the one side captures you first by their plea , you would hear no one from the other side . From this arises a situation embarrassing for you , because the men whose advice , before going wrong , you might have followed , you applaud later for denouncing your mistakes ."
+    },
+    {
+      "id": "29.3",
+      "label": "Section 29.3",
+      "chapter": null,
+      "original": "ταὐτὸ δὴ τοῦτό μοι πάλιν δοκεῖτε πείσεσθαι , εἰ μὴ παρασχόντες ἴσους ἀκροατὰς πάντων ὑμᾶς αὐτοὺς ἐν τῷ παρόντι , καὶ τοῦτον τὸν πόνον ὑπομείναντες , ἑλόμενοι τὰ κράτιστα τοὺς ὁτιοῦν τούτοις ἐπιτιμῶντας φαύλους νομιεῖτε . ἐγὼ μὲν δὴ δίκαιον ὑπείληφα πρῶτον ἁπάντων αὐτὸς εἰπεῖν , τί μοι δοκεῖ περὶ ὧν σκοπεῖσθε , ἵνα , ἂν μὲν ὑμῖν ἀρέσκῃ , καὶ τὰ λοιπὰ διδάσκω , εἰ δὲ μή , μήθʼ ὑμῖν ἐνοχλῶ μήτʼ ἐμαυτὸν κόπτω .",
+      "translation": "This very thing is about to happen to you again , it seems to me , unless on the present occasion , giving impartial audience to all , and submitting to this tedious duty , you shall choose the best proposals and judge those who find any fault with them to be no loyal citizens .\nNow I have thought it fair to tell you first of all my views about the questions you are considering , in order that , if these meet with your favour , I may also explain the rest of my ideas , but , if you disapprove , that I may neither bore you nor tire myself out ."
+    },
+    {
+      "id": "30.1",
+      "label": "Section 30.1",
+      "chapter": null,
+      "original": "ἔδει μέν , ὦ ἄνδρες Ἀθηναῖοι , πρὸ τοῦ πολεμεῖν ἐσκέφθαι τίς ὑπάρξει παρασκευὴ τῷ γενησομένῳ πολέμῳ · εἰ δʼ ἄρα μὴ πρόδηλος ἦν , ὅτε πρῶτον ἐβουλεύεσθʼ ὑπὲρ αὐτοῦ φανεροῦ γενομένου , τότε καὶ περὶ τῆς παρασκευῆς ἐσκέφθαι . εἰ δὲ φήσετε πολλὰς ἐγκεχειρικέναι δυνάμεις , ἃς λελυμάνθαι τοὺς ἐπιστάντας , οὐκ ἀποδέξεται τοῦθʼ ὑμῶν οὐδείς · οὐ γάρ ἐστι τῶν αὐτῶν τούς τʼ ἐπὶ τῶν πραγμάτων ἀπολύειν , καὶ λέγειν ὡς διὰ τούτους κακῶς ταῦτʼ ἔχει .",
+      "translation": "It was your duty , men of Athens , before going to war to have considered what armament would be available for the coming campaign , but if , as a matter of fact , war was not foreseen , it was your duty to have considered also the question of armament on that occasion when you were deliberating for the first time about war after it had become certain . If you shall say that you have commissioned many armies which your commanders [*] have ruined , no one will accept this excuse of you . For the same people cannot both absolve those in charge of their operations and claim that through fault of these men these operations are not succeeding ."
+    },
+    {
+      "id": "30.2",
+      "label": "Section 30.2",
+      "chapter": null,
+      "original": "ἐπειδὴ δὲ τὰ μὲν παρεληλυθότʼ οὐκ ἂν ἄλλως ἔχοι , δεῖ δʼ ἐκ τῶν παρόντων ἐπαμῦναι τοῖς πράγμασιν , τοῦ μὲν κατηγορεῖν οὐδένα καιρὸν ὁρῶ , πειράσομαι δʼ ἃ κράτιστα νομίζω , συμβουλεῦσαι . πρῶτον μὲν οὖν ὑμᾶς ἐκεῖνʼ ἐγνωκέναι δεῖ , ὅτι τὴν ἴσην ὑπερβολὴν τῆς σπουδῆς καὶ φιλονικίας ἐπὶ τοῖς πράγμασι πάντʼ ἄνδρα παρασχέσθαι δεῖ , ὅσηνπερ ἐκ τῶν ἄνωθεν χρόνων ἀμελείας · μόλις γὰρ οὕτως ἐλπὶς ἐκ πολλοῦ διώκοντας τὰ προειμένʼ ἑλεῖν δυνηθῆναι .",
+      "translation": "Since , however , past events cannot be altered [*] and it is necessary to safeguard our interests as present facilities permit , I see no fitting occasion for laying charges but shall try to offer what I think is the best counsel .\nNow , first of all , you must admit this principle , that it is the duty of every man to apply to the task the same superabundance of eagerness and emulation that he displayed of indifference in times past ; because thus there is a bare hope that we may be able , though far behind in the pursuit , to overtake what we have let slip ."
+    },
+    {
+      "id": "30.3",
+      "label": "Section 30.3",
+      "chapter": null,
+      "original": "ἔπειτʼ οὐκ ἀθυμητέον τοῖς γεγενημένοις · ὃ γάρ ἐστιν τῶν παρεληλυθότων χείριστον , τοῦτο πρὸς τὰ μέλλοντα βέλτιστον ὑπάρχει . τί οὖν τοῦτʼ ἔστιν ὦ ἄνδρες Ἀθηναῖοι ; ὅτι οὐδὲν ὑμῶν τῶν δεόντων ποιούντων κακῶς ἔχει τὰ πράγματα · ἐπεὶ εἴ γε πάνθʼ ἃ προσῆκε πραττόντων οὕτως εἶχεν , οὐδʼ ἂν ἐλπὶς ἦν αὐτὰ γενέσθαι βελτίω .",
+      "translation": "In the next place , there must be no discouragement over what has happened , because what is worst in the past is the best hope for the future . What , then , do I mean by this , men of Athens ? That it is because you do nothing that you ought to do that your affairs are in a bad way ; since if you were doing everything you should and your affairs were in this state , there would be not even a hope of improvement . [*]"
+    },
+    {
+      "id": "31.1",
+      "label": "Section 31.1",
+      "chapter": null,
+      "original": "οὐδέν ἐστιν , ὦ ἄνδρες Ἀθηναῖοι , χαλεπώτερον ἢ τοῖς αὐτοῖς ἔθεσιν ἐπιτιμᾶν τε καὶ χρῆσθαι τοὺς δημηγοροῦντας . τὸ γὰρ στασιάζειν πρὸς αὑτοὺς καὶ κατηγορεῖν ἀλλήλων ἄνευ κρίσεως , οὐδείς ἐστιν οὕτως ἀγνώμων ὅστις οὐ φήσειεν ἂν βλάβην εἶναι τοῖς πράγμασιν . ἐγὼ δʼ οἴομαι τούτους μὲν ἂν εἶναι βελτίους , εἰ τὴν πρὸς αὑτοὺς φιλονικίαν ἐπὶ τοὺς τῆς πόλεως ἐχθροὺς τρέψαντες ἐδημηγόρουν · ὑμῖν δὲ παραινῶ μὴ συστασιάζειν μηδετέροις τούτων , μηδʼ ὅπως ἅτεροι κρατήσουσι σκοπεῖν , ἀλλʼ ὅπως ὑμεῖς ἅπαντες τῶν ἐχθρῶν περιέσεσθε .",
+      "translation": "Nothing is more mischievous , men of Athens , than that those who address your Assembly should both censure and employ the same practices . For there is no man so unintelligent as to deny that to behave factiously among themselves and to accuse one another when no one is on trial [*] means damage to your interests . I think myself that these men would be better citizens if , when addressing the Assembly , they should turn the contentiousness they feel toward one another against the enemies of the State ; and to you I recommend not to take sides with either of these factions or to consider how either one is to gain the mastery , but how you as a body are to prevail over your enemies ."
+    },
+    {
+      "id": "31.2",
+      "label": "Section 31.2",
+      "chapter": null,
+      "original": "εὔχομαι δὲ τοῖς θεοῖς τοὺς ἢ φιλονικίας ἢ ἐπηρείας ἤ τινος ἄλλης ἕνεκʼ αἰτίας ἄλλο τι , πλὴν ἅ ποθʼ ἡγοῦνται συμφέρειν , λέγοντας παύσασθαι · τὸ γὰρ καταρᾶσθαι συμβουλεύοντʼ ἴσως ἔστʼ ἄτοπον . αἰτιασαίμην μὲν οὖν ἔγωγʼ ἂν οὐδένʼ , ὦ ἄνδρες Ἀθηναῖοι , τοῦ κακῶς τὰ πράγματʼ ἔχειν ἀλλʼ ἢ πάντας τούτους · οἴομαι δὲ δεῖν παρὰ μὲν τούτων ἐφʼ ἡσυχίας λόγον ὑμᾶς λαβεῖν , νῦν δʼ ὑπὲρ τῶν παρόντων , ὅπως ἔσται βελτίω , σκοπεῖν .",
+      "translation": "And I pray to the gods that those who out of contentiousness or spite or any other motive express any other sentiments than those they believe to be advantageous may cease to do so ; for to invoke a curse when speaking in council is perhaps unseemly . Therefore , while I should myself lay the blame for this bad state of affairs , men of Athens , upon no one except these men as a class , and although I think you ought to exact an accounting of them when you have the leisure , yet for the present I think you should consider only how the existing situation may be bettered ."
+    },
+    {
+      "id": "32.1",
+      "label": "Section 32.1",
+      "chapter": null,
+      "original": "ἐβουλόμην ἄν , ὦ ἄνδρες Ἀθηναῖοι , τὴν ἴσην σπουδὴν ἐνίους τῶν λεγόντων ποιεῖσθαι ὅπως τὰ βέλτιστʼ ἐροῦσιν , ὅσηνπερ ὅπως εὖ δόξουσι λέγειν , ἵνʼ οὗτοι μὲν ἀντὶ τοῦ δεινοὶ λέγειν ἐπιεικεῖς ἐνομίζοντʼ εἶναι , τὰ δʼ ὑμέτερα , ὥσπερ ἐστὶν προσῆκον , βέλτιον εἶχεν . νῦν δʼ ἔνιοί μοι δοκοῦσι παντάπασι τὴν ἀπὸ τοῦ λόγου δόξαν ἠγαπηκότες τῶν μετὰ ταῦτα συμβησομένων ὑμῖν μηδὲν φροντίζειν .",
+      "translation": "I should have wished , men of Athens , that some of the speakers had displayed as much eagerness to present the best proposals as they did to be thought good speakers , in order that these men might have been regarded as honest instead of clever at speaking and that your interests , just as is proper , might have been in better shape . As it now is , however , some seem to me to be entirely content with the reputation for speaking , but to be taking no thought for what will subsequently befall you ."
+    },
+    {
+      "id": "32.2",
+      "label": "Section 32.2",
+      "chapter": null,
+      "original": "καὶ δῆτα θαυμάζω , πότερά ποθʼ οἱ τοιοῦτοι λόγοι τὸν λέγονθʼ ὁμοίως πεφύκασιν ἐξαπατᾶν ὥσπερ πρὸς οὓς ἂν λέγωνται , ἢ συνιέντες οὗτοι τἀναντία τοῖς δοκοῦσιν ἑαυτοῖς εἶναι βελτίστοις δημηγοροῦσιν . εἰ μὲν γὰρ ἀγνοοῦσιν ὅτι τὸν μέλλοντα πράξειν τὰ δέοντα οὐκ ἐπὶ τῶν λόγων θρασύν , ἀλλʼ ἐπὶ τῆς παρασκευῆς ἰσχυρὸν εἶναι δεῖ , οὐδʼ ἐπὶ τῷ τοὺς ἐχθροὺς μὴ δυνήσεσθαι θαρρεῖν , ἀλλʼ ἐπὶ τῷ κἂν δύνωνται κρατήσειν , τὰ τῶν λόγων ἀστεῖʼ ὡς ἔοικεν τοῦ τὰ μέγιστʼ αἰσθάνεσθαι κεκώλυκεν αὐτούς . εἰ δὲ ταῦτα μὲν μηδʼ ἂν φήσαιεν ἀγνοεῖν , πρόφασις δʼ ἄλλη τις ὕπεστι διʼ ἣν ταῦτα προαιροῦνται , πῶς οὐ χρὴ φαύλην ταύτην ὑπολαμβάνειν , ἥτις ποτʼ ἐστίν ;",
+      "translation": "And certainly I wonder whether speeches of this sort are capable of deceiving the speaker as much as those to whom they are addressed , or whether these men knowingly express before the Assembly opinions directly opposed to what they themselves think best . For if they are unaware that he who is going to do what requires to be done must not have audacity based upon words but power based upon armament , nor yet self-confidence based upon the assumption that our enemies will be weak , but confidence that we shall overmaster them even if they shall be strong , the elegance of their speeches has prevented them , as it seems , from apprehending the most vital facts . Yet if they should not even deny awareness of these facts , and some ulterior motive underlies their predilection for this conduct , how can one help assuming that this motive , whatever it may be , is base ?"
+    },
+    {
+      "id": "32.3",
+      "label": "Section 32.3",
+      "chapter": null,
+      "original": "ἐγὼ δʼ οὐκ ἀποτρέψομαι λέγειν ἃ δοκεῖ μοι , καίπερ οὕτωσ ὁρῶν ἠγμένους ὑμᾶς · καὶ γὰρ εὔηθες , λόγῳ ψυχαγωγηθέντων ὑμῶν οὐκ ὀρθῶς , λόγον αὖ τὸν μέλλοντα βελτίω λέγειν καὶ μᾶλλον συμφέρονθʼ ὑμῖν καταδεῖσαι . ἀξιῶ δὲ καὶ ὑμᾶς ὑπομεῖναι , ἐνθυμηθέντας ὅτι οὐδὲ τὰ νῦν δοκοῦντʼ ἔδοξεν ἂν ὑμῖν , εἰ μὴ τοὺς λόγους ἠκούσατʼ ἐξ ὧν ἐπείσθητε .",
+      "translation": "As for me , I shall not be deterred from saying what I think , although I see that you have been bewitched [*] ; for it would be foolish , because you have wrongly yielded to the spell of oratory , for the man who in his turn is going to offer better proposals and much more to your advantage , to give in to fear . And I ask of you to listen patiently , bearing in mind that you would not have formed your present opinions either unless you had listened to the speeches by which you have been persuaded ."
+    },
+    {
+      "id": "32.4",
+      "label": "Section 32.4",
+      "chapter": null,
+      "original": "ὥσπερ ἂν τοίνυν , εἰ νόμισμʼ ἐκρίνεθʼ ὁποῖόν τί ποτʼ ἐστίν , δοκιμάσαι δεῖν ἂν ᾠήθητε , οὕτω καὶ τὸν λόγον ἀξιῶ τὸν εἰρημένον ἐξ ὧν ἀντειπεῖν ἡμεῖς ἔχομεν σκεψαμένους , ἐὰν μὲν συμφέρονθʼ εὕρητε , ἀγαθῇ τύχῃ πείθεσθαι , ἂν δʼ ἄρʼ ἕκαστα λογιζομένοις ἀλλοιότερος φανῇ , πρὶν ἁμαρτεῖν μεταβουλευσαμένους , τοῖς ὀρθῶς ἔχουσιν χρήσασθαι .",
+      "translation": "Accordingly , just as you would have thought it necessary to test a coin if you were judging what its worth might be , so I ask of you to scrutinize in the light of what we have to say against it the speech that has been made , and if you find it to your advantage , agree with the speaker , and may good fortune attend you ; but if , after all , as you examine each detail , it shall seem alien to your interests , to change your plans before falling into error and to adopt the counsels that are right ."
+    },
+    {
+      "id": "33.1",
+      "label": "Section 33.1",
+      "chapter": null,
+      "original": "μάλιστα μέν , ὦ ἄνδρες Ἀθηναῖοι , βουλοίμην ἂν ὑμᾶς ἃ μέλλω λέγειν πεισθῆναι · εἰ δʼ ἄρα τοῦτʼ ἄλλῃ πῃ συμβαίνοι , ἐμαυτῷ γʼ ἂν εἰρῆσθαι πρὸ παντὸς αὐτὰ δεξαίμην . ἔστι δʼ οὐ μόνον , ὡς δοκεῖ , τὸ πρὸς ὑμᾶς εἰπεῖν χαλεπὸν τὰ δέοντα , ἀλλὰ καὶ καθʼ αὑτὸν σκοπούμενον εὑρεῖν . γνοίη δʼ ἄν τις , εἰ μὴ τὸν λόγον ὑμᾶς , ἀλλὰ τὰ πράγματʼ ἐφʼ ὧν ἐστε σκέψεσθαι νομίσαι , καὶ πλείω σπουδὴν τοῦ δοκεῖν ἐπιεικὴς εἶναι ἢ τοῦ δεινὸς εἰπεῖν φανῆναι ποιοῖτο .",
+      "translation": "Most of all I should desire , men of Athens , that you be convinced by the words I am about to utter , but if after all it should turn out otherwise , I should prefer above all else that by me , at least , they had been spoken .\nIt is a difficult thing , as it seems , not only to explain to you what ought to be done , but even to discover it by solitary reflection . Anyone would observe this if he believed you would consider , not his speech , but the business upon which you are engaged , and set more value upon being thought an honest man than upon showing himself to be a clever speaker ."
+    },
+    {
+      "id": "33.2",
+      "label": "Section 33.2",
+      "chapter": null,
+      "original": "ἐγὼ γοῦν ʽοὕτω τί μοι ἀγαθὸν γένοιτὀ ἐπειδὴ περὶ τῶν παρόντων ἐπῄει μοι σκοπεῖν , λόγοις μὲν καὶ μάλʼ ἀφθόνοις , οὓς οὐκ ἂν ἀηδῶς ἠκούεθʼ ὑμεῖς , ἐνετύγχανον . καὶ γὰρ ὡς δικαιότατοι τῶν Ἑλλήνων ἐστέ , πόλλʼ ὄντʼ εἰπεῖν καὶ ἑώρων καὶ ὁρῶ , καὶ ὡς ἀρίστων προγόνων , καὶ πολλὰ τοιαῦτα . ἀλλὰ ταῦτα μὲν τὸν χρόνον ἡσθῆναι ποιήσανθʼ ὅσον ἂν ῥηθῇ , μετὰ ταῦτʼ οἴχεται ·",
+      "translation": "I , at any rate ,— so help me Heaven — after it occurred to me to reflect upon our present problems , began to hit upon themes , and no end of them , to which you would have listened not without pleasure . For instance , on the theme You are the most just of the Greeks , I observed and now observe many changes to ring , and again , You are born of the noblest ancestors , and many such topics . [*] Yet these themes , though affording pleasure so long as they are being aired , after that vanish away ;"
+    },
+    {
+      "id": "33.3",
+      "label": "Section 33.3",
+      "chapter": null,
+      "original": "δεῖ δὲ πράξεώς τινος τὸν λέγοντα φανῆναι σύμβουλον , διʼ ἣν καὶ μετὰ ταῦτʼ ἀγαθοῦ τινος ὑμῖν ἔσται παρουσία . τοῦτο δʼ ἤδη καὶ σπάνιον καὶ χαλεπὸν πεπειραμένος οἶδʼ ὂν εὑρεῖν . οὐδὲ γὰρ αὔταρκες τὸ ἰδεῖν ἐστι τὰ τοιαῦτα , ἂν μὴ καὶ πεῖσαί τις τοὺς συναρουμένους ὑμᾶς δυνηθῇ . οὐ μὴν ἀλλʼ ἐμὸν μὲν ἔργον εἰπεῖν ἴσως ἃ πέπεικʼ ἐμαυτὸν συμφέρειν , ὑμέτερον δʼ ἀκούσαντας κρῖναι , κἂν ἀρέσκῃ , χρῆσθαι .",
+      "translation": "and it is the duty of the speaker to show himself the adviser of some course of action through which the gain of some real benefit shall also afterwards accrue to you . [*] Such a policy as this I know by now from experience to be rare and hard to discover . Neither is it enough merely to get a vision of such policies unless a man shall also be able to convince you , who jointly are to assume the responsibility . On the contrary , there is an obligation resting upon both alike , upon me to tell you what I have convinced myself is advantageous , upon you to listen , to judge and , if it is your pleasure , to adopt ."
+    },
+    {
+      "id": "34.1",
+      "label": "Section 34.1",
+      "chapter": null,
+      "original": "οὐκ ἄδηλον ἦν , ὦ ἄνδρες Ἀθηναῖοι , πρῴην , ὅτε τῶν ἀντιλέγειν βουλομένων οἷς ὁ δεῖνʼ ἔλεγεν οὐκ ᾤεσθʼ ἀκούειν χρῆναι , ὅτι συμβήσεται τοῦθʼ ὃ νυνὶ γίγνεται , ὅτι οἱ τότε κωλυθέντες ἐροῖεν εἰς ἑτέραν ἐκκλησίαν . ἂν τοίνυν ταὔθʼ ἅπερ πρότερον ποιήσητε , καὶ τῶν τοῖς τότε δόξασι συνειπεῖν βουλομένων μὴ ʼθελήσητʼ ἀκοῦσαι , πάλιν ταῦτʼ εἰς τὴν ἑτέραν ἐκκλησίαν οὗτοι λαβόντες τούτων κατηγορήσουσιν .",
+      "translation": "It was not hard to see , men of Athens , the other day when you thought there was no need to hear those who desired to speak in opposition to the views of a certain speaker , [*] that what is now coming to pass would occur — that those who were then prevented from speaking would do so before a subsequent meeting of the Assembly . [*] If , therefore , you shall do the same as before , and refuse to listen to those who wish to support the decisions then approved , these men in turn will take the matter to the next meeting and denounce these decisions ."
+    },
+    {
+      "id": "34.2",
+      "label": "Section 34.2",
+      "chapter": null,
+      "original": "οὐδαμῶς , ὦ ἄνδρες Ἀθηναῖοι , οὔτε τὰ πράγματα χείρω γένοιτʼ ἄν , οὔθʼ ὑμεῖς ἀτοπώτεροι φανείητε , ἢ εἰ μήτε τῶν δοξάντων ὑμῖν πέρας μηδὲν ἔχειν δοκοίη , μήτʼ ἀφέντες ἃ μὴ συμφέρει , τῶν πρὸ ὁδοῦ τι περαίνοιτε , εἴητε δʼ ὥσπερ τὰ θέατρα τῶν προκαταλαμβανόντων . μηδαμῶς , ὦ ἄνδρες Ἀθηναῖοι , ἀλλὰ πονήσαντες τὸν πόνον τοῦτον καὶ παρασχόντες ἴσους ἀκροατὰς ἀμφοτέροις ὑμᾶς αὐτοὺς πρῶτον μὲν ἕλεσθʼ ὅ τι καὶ ποιήσετε , ἔπειθʼ ὑπολαμβάνετε , ἐάν τις ἐναντιῶται τοῖς ἅπαξ οὕτω δοκιμασθεῖσι , πονηρὸν καὶ κακόνουν ὑμῖν .",
+      "translation": "In no way , men of Athens , could your situation be made worse nor could you show yourselves more absurd than if none of your decisions should seem to be finally settled and , disregarding the policies that pay , you should achieve no forward step , but , like the crowds at shows , side with those who captivate you first . [*] Do not let this happen , men of Athens , but performing this tedious duty and giving impartial audience to both sides , first choose a policy you will also carry out and then assume that whoever opposes measures thus once sanctioned is unprincipled and disloyal to you ."
+    },
+    {
+      "id": "34.3",
+      "label": "Section 34.3",
+      "chapter": null,
+      "original": "τὸ μὲν γὰρ λόγου μὴ τυχόντα πεπεῖσθαι βέλτιον τῶν ὑμῖν δοκούντων αὐτὸν ἐντεθυμῆσθαι συγγνώμη · τὸ δʼ ἀκουσάντων ὑμῶν καὶ διακρινάντων ἔτʼ ἀναισχυντεῖν , καὶ μὴ συγχωρεῖν ἐνδόντα τῇ τῶν πλειόνων γνώμῃ , ἄλλην τινʼ ἂν ὑποψίαν οὐχὶ δικαίαν ἔχειν φανείη . ἐγὼ μὲν δὴ σιωπᾶν ἂν ᾤμην δεῖν ἐν τῷ παρόντι , εἰ μένοντας ὑμᾶς ἑώρων ἐφʼ ὧν ἔδοξεν · εἰμὶ γὰρ τῶν ἐκεῖνα πεπεισμένων συμφέρειν ὑμῖν · ἐπειδὴ δʼ ὑπὸ τῶν παρὰ τούτων λόγων μεταβεβλῆσθαί μοί τινες δοκοῦσιν , ὡς οὔτʼ ἀληθῆ λέγουσιν οὔθʼ ὑμῖν συμφέροντα , ἴσως μὲν εἰδότας , οὐ μὴν ἀλλʼ εἰ καὶ τυγχάνετʼ ἀγνοοῦντες , διδάξω .",
+      "translation": "For while it is pardonable that a man who has not obtained a hearing should feel convinced that he has himself better plans thought out than those approved by you , yet to go on acting shamelessly after you have given a hearing and decided between alternatives , instead of giving in to the judgement of the majority and retiring , would plainly justify suspicion of some other motive by no means honorable . As for me , although I should have thought it proper to remain silent on this occasion had I observed you abiding by your previous decisions — for I am one of those who are convinced that these are to your advantage — yet , now that certain members seem to have changed their minds because of the speeches made by these men , even though you perhaps know that what they say is neither true nor for your good , I will nevertheless make this clear in case you are unaware of it ."
+    },
+    {
+      "id": "35.1",
+      "label": "Section 35.1",
+      "chapter": null,
+      "original": "ἔδει μέν , ὦ ἄνδρες Ἀθηναῖοι , καὶ δίκαιον ἦν τότε πείθειν ὑμᾶς ὅ τι ἄριστον ἕκαστος ἡγεῖτο , ὅτʼ ἐβουλεύεσθε τὸ πρῶτον περὶ τούτων , ἵνα μὴ συνέβαινεν ἃ δὴ δύο πάντων ἐστὶν ἀλυσιτελέστατα τῇ πόλει , μήτε πέρας μηδὲν εἶχεν τῶν ὑμῖν δοξάντων , παρανοίας θʼ ὑμεῖς κατεγιγνώσκεθʼ ὑμῶν αὐτῶν μεταβουλευόμενοι . ἐπειδὴ δὲ σιωπήσαντες τότε νῦν ἐπιτιμῶσί τινες , βούλομαι μικρὰ πρὸς αὐτοὺς εἰπεῖν .",
+      "translation": "It would have been just and proper , men of Athens , for each member then to try to convince you of what he believed to be best when you were considering these matters for the first time , in order that two evils might not be resulting which are above all others damaging to the city — that no decision of yours should be proving final and that you should be convicting yourselves of madness by changing your minds . Since , however , certain men who then kept silence are now finding fault , I wish to address a few words to them ."
+    },
+    {
+      "id": "35.2",
+      "label": "Section 35.2",
+      "chapter": null,
+      "original": "ἐγὼ γὰρ θαυμάζω τὸν τρόπον τῆς πολιτείας τῆς τούτων , μᾶλλον δʼ ἡγοῦμαι φαῦλον . εἰ γὰρ ἐξὸν παραινεῖν ὅταν σκοπῆτε , βεβουλευμένων κατηγορεῖν αἱροῦνται , συκοφαντῶν ἔργον , οὐχ , ὡς φασίν , εὔνων ποιοῦσιν ἀνθρώπων . ἡδέως δʼ ἂν ἐροίμην αὐτούς ʽκαὶ μηδεμιᾶς λοιδορίας ὃ μέλλω λέγειν ἀρχὴ γενέσθὠ τί δὴ τἄλλʼ ἐπαινοῦντες Λακεδαιμονίους , ὃ μάλιστʼ ἄξιόν ἐστιν τῶν παρʼ ἐκείνοις ἄγασθαι , τοῦτʼ οὐ μιμοῦνται , μᾶλλον δʼ αὐτὸ τοὐναντίον ποιοῦσιν ;",
+      "translation": "For I am amazed at the political procedure of these men , or rather I consider it vile . For if , though free to recommend measures when you are considering questions , they choose instead to denounce decisions once made , they play the part of doubledealers , [*] not as they claim , of men of goodwill . I should like to ask them — and what I am about to say is not to become the signal for any tirade — just why , since they praise the Spartans in all other respects , they do not imitate the most admirable of all their practices , but rather do the very opposite ."
+    },
+    {
+      "id": "35.3",
+      "label": "Section 35.3",
+      "chapter": null,
+      "original": "φασὶ γάρ , ὦ ἄνδρες Ἀθηναῖοι , παρʼ ἐκείνοις μέχρι μὲν τοῦ δόξαι γνώμην , ἣν ἂν ἕκαστος ἔχῃ , λέγειν , ἐπειδὰν δʼ ἐπικυρωθῇ , ταῦθʼ ἅπαντας ἐπαινεῖν καὶ συμπράττειν , καὶ τοὺς ἀντειπόντας . τοιγάρτοι πολλῶν μὲν ὄντες οὐ πολλοὶ περιγίγνονται , λαμβάνουσι δέ , ὅσʼ ἂν μὴ τῷ πολέμῳ δύνωνται , τοῖς καιροῖς , οὐδεὶς δʼ αὐτοὺς ἐκφεύγει χρόνος οὐδὲ τρόπος τοῦ τὰ συμφέρονθʼ ἑαυτοῖς περαίνειν , οὐ μὰ Δίʼ οὐχ ὥσπερ ἡμεῖς καὶ διὰ τούτους καὶ τοὺς ὁμοίους τούτοις , ἀλλήλων περιγιγνόμενοι καὶ οὐχὶ τῶν ἐχθρῶν , πάντʼ ἀνηλώκαμεν τὸν χρόνον ,",
+      "translation": "For they say , men of Athens , that among them each man airs any opinion he may have until the question is put , but when the decision has been ratified , they all approve it and work together , even those who opposed it . Therefore , though few , they prevail over many and by actions well timed they get what they cannot get by war ; nor does any occasion or means of effecting what is to their own advantage escape them ; not , by Zeus , as we do who , thanks to these men and their like , in trying to get the better of one another instead of the enemy , [*] have wasted all our time ,"
+    },
+    {
+      "id": "35.4",
+      "label": "Section 35.4",
+      "chapter": null,
+      "original": "κἂν μὲν εἰρήνην τις ἐκ πολέμου ποιήσῃ , τοῦτον μισοῦντες , ἂν δʼ ἐξ εἰρήνης πόλεμόν τις λέγῃ , τούτῳ μαχόμενοι , ἂν δʼ ἔχειν ἡσυχίαν τις παραινῇ καὶ τὰ ἡμέτερʼ αὐτῶν πράττειν , οὐδὲ τοῦτον ὀρθῶς λέγειν φάσκοντες , ὅλως δʼ αἰτιῶν καὶ κενῶν ἐλπίδων ὄντες πλήρεις . τί οὖν , ἄν τις εἴποι , σὺ παραινεῖς , ἐπειδὴ ταῦτʼ ἐπιτιμᾷς ; ἐγὼ νὴ Δίʼ ἐρῶ .",
+      "translation": "and if anyone is for making peace in time of war , we hate him , and if anyone talks war in time of peace , we fight him , and if anyone advocates keeping quiet and minding our own business , we claim that he is wrong too , and in general we are overfull of recriminations and empty hopes .\nWhat then , Sir , someone may say , what do you recommend , since you find fault with this conduct ? By Zeus , I will tell you ."
+    },
+    {
+      "id": "36.1",
+      "label": "Section 36.1",
+      "chapter": null,
+      "original": "πρῶτον μέν , ὦ ἄνδρες Ἀθηναῖοι , οὐ πάνυ μοι δοκεῖ τις ἂν εἰκότως περὶ ὑμῶν δεῖσαι , μὴ παρὰ τὸ τῶν συμβουλευόντων οὐκ ἐθέλειν ἀκούειν χεῖρον βουλεύσησθε . πρῶτον μὲν γὰρ ἡ τύχη , καλῶς ποιοῦσα , πολλὰ τῶν πραγμάτων ὑμῖν αὐτόματα , ὡς ἂν εὔξαισθε , παρίστησιν , ἐπεὶ τῇ γε τῶν προεστηκότων προνοίᾳ βραχέʼ αὐτῶν εἶχεν ἂν καλῶς . ἔπειθʼ ὑμεῖς οὐ μόνον τοὺς λόγους οὓς ἂν ἕκαστος εἴποι πρόϊστε , ἀλλὰ καὶ ὧν ἕνεκʼ αὐτῶν ἕκαστος δημηγορεῖ , εἰ δὲ μὴ φιλαπέχθημον ἦν , εἶπον ἂν καὶ πόσου .",
+      "translation": "In the first place , men of Athens , I am not altogether sure that a man would reasonably fear on your account lest your deliberations would be the worse for your refusing to listen to your counsellors . For , to begin with , Fortune — to whom be thanks — arranges much of your business to take care of itself , so well that you would pray for nothing better , because little of it would be in good shape through such foresight as is exercised by those in authority . Next , you know in advance , not only what speeches each man will make , but also with what motives each one harangues you , and if it were not spiteful , I should also have said , for what price ."
+    },
+    {
+      "id": "36.2",
+      "label": "Section 36.2",
+      "chapter": null,
+      "original": "τὸν δὴ τοῦ φενακίζεσθαι χρόνον ὡς εἰς μικρότατον συνάγοντες σωφρονεῖν ἔμοιγε δοκεῖτε . εἰ μὲν δή τι τῶν αὐτῶν ἔμελλον τοῖς ἄλλοις ἐρεῖν , οὐκ ἂν ᾤμην δεῖν λέγων ἐνοχλεῖν . νῦν δὲ συμφέροντα μὲν ὑμῖν ἀκοῦσαι , παντάπασι δʼ ἀφεστηκότα τῶν ὑπὸ τῶν πολλῶν προσδοκωμένων οἴομαι λόγον ἐρεῖν . βραχὺς δʼ ἔσται . σκέψασθε δʼ ἀκούσαντες , κἂν ὑμῖν ἀρέσκῃ , χρήσασθε .",
+      "translation": "I think you are prudent in reducing to a minimum the time for being cheated . If I were intending to speak in the same vein as the rest , I should not have thought it necessary to bore you by speaking . As it is , I think I have something to say that will be worth your while to hear , and utterly different from what is expected by the majority . It will be short . Listen and examine it , and , if it pleases you , adopt it ."
+    },
+    {
+      "id": "37.1",
+      "label": "Section 37.1",
+      "chapter": null,
+      "original": "καὶ βραχεῖαν , ὦ ἄνδρες Ἀθηναῖοι , καὶ δικαίαν ποιήσομαι τὴν ἀρχὴν τοῦ λόγου · καὶ οὕτω δὲ τὰ πάντʼ ἐρῶ . ἡγοῦμαι γὰρ ἐξαπατᾶν μὲν εἶναι βουλομένου σκοπεῖν ὅντινʼ ὑμᾶς τρόπον τοὺς ἀκούοντας τὰ τοῦ πράγματος δυσχερῆ τῷ λόγῳ συγκρύψεται , ἁπλῶς δὲ πεπεικότος αὑτὸν ὑμῖν προσφέρεσθαι τοῦτο πρῶτον εἶναι , εἰπεῖν πότερʼ ἐγνωκὼς παρελήλυθεν ,",
+      "translation": "I shall make the beginning of my speech both short and reasonable , men of Athens , nor shall I deliver the whole of it . For I believe that , while it is the way of a man who intends deception to cast about for a plan whereby he may conceal from you , his hearers , by means of his words the disagreeable aspects of the situation , on the other hand , the first duty of a man who has resolved to deal candidly with you is to declare which side he has come forward to endorse , in order that ,"
+    },
+    {
+      "id": "37.2",
+      "label": "Section 37.2",
+      "chapter": null,
+      "original": "ἵνʼ ἐὰν μὲν ἀκούσαντες τοῦτο τοὺς μετὰ ταῦτα λόγους βούλησθʼ ἀκούειν , καὶ διδάσκῃ καὶ φράζῃ τὰ βέλτισθʼ αὑτῷ δοκοῦντα , ἂν δʼ ἀποδοκιμάσητε , ἀπηλλαγμένος ᾖ καὶ μήθʼ ὑμῖν ἐνοχλῇ μήθʼ αὑτὸν κόπτῃ . ἐγὼ δὴ τοῦτο πρῶτον ἐρῶ . ἐμοὶ δοκεῖ Μυτιληναίων ὁ δῆμος ἠδικῆσθαι , καὶ δίκην ὑμῖν ὑπὲρ αὐτοῦ προσήκειν λαβεῖν . καὶ ὅπως λήψεσθʼ ἔχω λέγειν , ἐπειδὰν ὡς ἠδίκηνται καὶ ὑμῖν προσήκει βοηθεῖν ἐπιδείξω .",
+      "translation": "if after hearing this statement you are willing to hear the sequel , he may enlighten you and explain what measures seem best to himself , but if you shall reject his views , that he may have done with the matter and neither annoy you nor tire himself out .\nThis , then , will be my first statement : It is my opinion that the democratic party in Mytilene has been wronged and that it is your duty to obtain justice for them . [*] For obtaining this justice I have a plan to propose when once I have demonstrated that they have been wronged and that it is your duty to go to their aid ."
+    },
+    {
+      "id": "38.1",
+      "label": "Section 38.1",
+      "chapter": null,
+      "original": "πρῶτον μὲν οὐ πάνυ θαυμαστόν ἐστιν , ὦ ἄνδρες Ἀθηναῖοι , τὸ μὴ ῥᾳδίους τοῖς συμβουλεύειν βουλομένοις εἶναι τοὺς λόγους · ὅταν γὰρ τὰ πράγματʼ ἔχῃ φαύλως περὶ ὧν δεῖ σκοπεῖν , δυσχερεῖς ἀνάγκη περὶ αὐτῶν εἶναι καὶ τὰς συμβουλίας . εἰ μὲν οὖν ἐκ τοῦ μὴ ʼθέλειν ἀκούειν ἐλπὶς ταῦτα γενέσθαι βελτίω , τοῦτο χρὴ πράττειν · εἰ δὲ χείρω μὲν ἅπαντα , βέλτιον δʼ οὐδὲν ἐκ τούτου γενήσεται , τί δεῖ , πρὸς τὸ φαυλότατον ἐλθεῖν ἐάσαντας , ἐκ πλείονος ἢ νῦν καὶ χαλεπωτέρως σῴζειν πειρᾶσθαι , ἐξὸν ἐκ τῶν παρόντων ἔτι καὶ νῦν ἐπανορθώσασθαι καὶ προαγαγεῖν ἐπὶ τὸ βέλτιον ;",
+      "translation": "First of all , men of Athens , it is not altogether surprising that those who wish to tender you advice do not readily find the words , because , when the conditions that require consideration are bad , it is inevitable that the recommendations made concerning them should also be disagreeable . Of course , if by your refusing to listen there is hope of this situation becoming better , that is the thing to do , but if everything is going to get worse and nothing better by so doing , why should you , having allowed things to come to the worst , after a longer interval than has now elapsed , and with greater difficulty , try to save the situation , though , starting from present conditions , it is still possible even now to set things to rights and effect a change for the better ?"
+    },
+    {
+      "id": "38.2",
+      "label": "Section 38.2",
+      "chapter": null,
+      "original": "τὸ μὲν οὖν ὀργίλως ὑμᾶς ἔχειν εἰκός ἐστιν ταῦτα πάσχοντας · τὸ δὲ μὴ τοῖς αἰτίοις , ἀλλὰ πᾶσιν ἐφεξῆς ὀργίζεσθαι , τοῦτʼ οὐκέτʼ εἰκὸς οὐδʼ ὀρθῶς ἔχον ἐστίν . οἱ γὰρ μηδενὸς μὲν αἴτιοι τῶν παρεληλυθότων , τὰ δὲ λοιπὰ πῶς ἔσται βελτίω λέγειν ἔχοντες , χάριν , οὐκ ἀπέχθειαν κομίσαιντʼ ἂν δικαίως παρʼ ὑμῶς · οὕς , ἐὰν ἀκαίρως δυσκολαίνητε , ὀκνεῖν ἀνίστασθαι ποιήσετε .",
+      "translation": "Certainly it is reasonable for you to feel angry after these unhappy experiences ; but to vent your anger , not upon the parties responsible , but upon everybody in turn , ceases to be either reasonable or right : because those who are in no way responsible for past events but can tell you how an improvement may be effected for the future would rightly meet with gratitude , not hostility , from you . If you treat these men with untimely irritation , you will make them hesitate to rise and speak ."
+    },
+    {
+      "id": "38.3",
+      "label": "Section 38.3",
+      "chapter": null,
+      "original": "καίτοι ἔγωγʼ οὐκ ἀγνοῶ , ὅτι πολλάκις οὐ τοῖς αἰτίοις , ἀλλὰ τοῖς ἐμποδὼν οὖσι τοῖς ὀργιζομένοις ἀηδές τι παθεῖν συνέβη · ὅμως δʼ ἀνέστην συμβουλεύσων · πιστεύω γὰρ ἔγωγʼ , ὦ ἄνδρες Ἀθηναῖοι , φλαύρου μὲν μηδενὸς αἴτιος ὢν εὑρεθήσεσθαι , βελτίω δʼ ἑτέρων ὑμῖν ἔχειν συμβουλεῦσαι .",
+      "translation": "And yet I am myself not unaware that often it is the lot , not of those who are guilty , but of persons who get in the way of those who are angry , to suffer unpleasant consequences . In spite of this I have risen to advise you , for I have confidence myself that I shall not be found to be advocating any inferior measure , men of Athens , but have really better proposals to offer you than other speakers ."
+    },
+    {
+      "id": "39.1",
+      "label": "Section 39.1",
+      "chapter": null,
+      "original": "τὰ μὲν γεγενημένʼ , ὦ ἄνδρες Ἀθηναῖοι , τοιαῦθʼ οἷα πάντες ἀκηκόατε · δεῖ δʼ ὑμᾶς μηδὲν ἐκπεπληγμένως διακεῖσθαι , λογιζομένους ὅτι πρὸς μὲν τὰ παρόντʼ ἀθύμως ἔχειν οὔτε τοῖς πράγμασι συμφέρον οὔθʼ ὑμῶν ἄξιόν ἐστιν , τὸ δὲ ταῦτʼ ἐπανορθοῦν αὑτοῖς ἡγεῖσθαι προσῆκον καὶ τῆς ὑμετέρας δόξης ἄξιον ἂν φανείη . χρὴ δὲ τοὺς ὄντας οἷοι φήσαιτʼ ἂν ὑμεῖς εἶναι , ἐν τοῖς δεινοῖς ἑτέρων διαφέροντας φαίνεσθαι .",
+      "translation": "The events that have occurred , men of Athens , are such as you have all heard , but you must not allow yourselves to be at all dismayed , reflecting that to be discouraged in the face of the present troubles is neither improving the situation nor worthy of yourselves . On the contrary , to consider it incumbent on yourselves to set these things to rights would manifestly be in keeping also with your reputation . Men such as you would profess to be should prove themselves superior to other breeds in times of stress ."
+    },
+    {
+      "id": "39.2",
+      "label": "Section 39.2",
+      "chapter": null,
+      "original": "ἐγὼ δʼ οὐδαμῶς μὲν ἂν ἐβουλόμην ταῦτα συμβῆναι τῇ πόλει , οὐδʼ ἀτυχεῖν ὑμᾶς οὐδέν · εἰ δʼ ἄρʼ ἔδει γενέσθαι καί τι δαιμόνιον τοῦτʼ ἀπέκειτο , ὥσπερ πέπρακται τὰ γεγενημένα , λυσιτελεῖν οἴομαι . τὰ μὲν γὰρ τῆς τύχης ὀξείας ἔχει τὰς μεταβολὰς καὶ κοινὰς ἀμφοτέροις τὰς παρουσίας · ἃ δʼ ἂν διʼ ἀνδρῶν κακίαν πραχθῇ , βεβαίους ποιεῖ τὰς ἥττας .",
+      "translation": "As for me , I should by no means have wished these calamities to come upon the city nor yet for you to suffer misfortune , but if , after all , this had to happen and was in store as something predestined , I consider it to your profit that these events have occurred just as they have . For the dispensations of Fortune exhibit sharp reversals and impartial visitations to both sides , whereas the events that follow upon the villainy of men make for sure defeat ."
+    },
+    {
+      "id": "39.3",
+      "label": "Section 39.3",
+      "chapter": null,
+      "original": "οἴομαι μὲν οὖν οὐδὲ τοὺς κεκρατηκότας ἀγνοεῖν ὅτι βουληθέντων ὑμῶν καὶ παροξυνθέντων τῷ γεγενημένῳ , οὐ πάνυ πω δῆλον πότερον εὐτύχημʼ ἢ καὶ τοὐναντίον αὐτοῖς ἐστιν τὸ πεπραγμένον · εἰ δʼ ἄρʼ ἐπῆρκε τὸ πρᾶγμʼ αὐτοὺς θρασύνεσθαι , κἂν τοῦτο πρὸς ὑμῶν ἤδη γίγνοιτο . ὅσῳ γὰρ ἂν μᾶλλον καταφρονήσωσι , τοσούτῳ θᾶττον ἁμαρτήσονται .",
+      "translation": "Now , while I am of the opinion that even those who have gained the upper hand are not unaware that , should you form your resolve and be stung to action by what has happened , it is not yet quite clear whether what has been done is good fortune or the opposite for them , yet if it turns out that the exploit has inspired them to become over-confident , this would already be another point in your favour . For the more they look down upon you , the sooner will they blunder ."
+    },
+    {
+      "id": "40.1",
+      "label": "Section 40.1",
+      "chapter": null,
+      "original": "οὔ μοι δοκεῖτʼ , ὦ ἄνδρες Ἀθηναῖοι , περὶ ἧς οἴεσθε πόλεως νυνὶ μόνον βουλεύεσθαι , ἀλλʼ ὑπὲρ πασῶν τῶν συμμαχίδων . ὅπως γὰρ ἂν περὶ ταύτης γνῶτε , πρὸς ταῦτʼ εἰκὸς ἀποβλέποντας τοὺς ἄλλους καὶ αὑτοὺς τῶν αὐτῶν τεύξεσθαι νομίζειν . ὥστε δεῖ καὶ τοῦ βελτίστου καὶ τῆς ὑμετέρας αὐτῶν ἕνεκα δόξης σπουδάσαι , ὅπως ἅμα καὶ συμφέροντα καὶ δίκαια φανήσεσθε βουλευόμενοι .",
+      "translation": "I do not believe , men of Athens , that you are deliberating upon this occasion concerning only the city you have in mind , but concerning all the allied cities . For however you decide concerning the city in question , the other cities , looking to this decision , will probably expect to receive the same treatment themselves . Consequently you must , for the sake both of doing what is best and of guarding your own reputation , strive earnestly that you may be clearly seen to be devising measures which are alike expedient and just ."
+    },
+    {
+      "id": "40.2",
+      "label": "Section 40.2",
+      "chapter": null,
+      "original": "ἡ μὲν οὖν ἀρχὴ τῶν τοιούτων πραγμάτων ἁπάντων ἐστὶν τῶν στρατηγῶν · ὧν οἱ πλεῖστοι τῶν παρʼ ὑμῶν ἐκπλεόντων οὐ τοὺς ὑμετέρους φίλους , οὓς διὰ παντὸς τοῦ χρόνου τῶν αὐτῶν κινδύνων μετεσχηκότας παρειλήφασιν , τούτους θεραπεύειν οἴονται δεῖν , ἀλλʼ ἰδίους φίλους ἕκαστος ἑαυτῷ κατασκευάσας ὑμᾶς ἀξιοῖ τοὺς αὑτῶν κόλακας καὶ ὑμετέρους ἡγεῖσθαι φίλους · οὗ πᾶν ἐστι τοὐναντίον .",
+      "translation": "Now , the initiative in all such matters is in the hands of the generals . Most of these men , though they sail out under your orders , do not consider it their duty to cultivate those who are friendly to you , people whom they have taken over from their predecessors as men who have shared the same dangers as you throughout all our history , but each and all , having established their own private friendships , expect you to regard their personal flatterers as your friends also . But the facts are exactly the opposite ."
+    },
+    {
+      "id": "40.3",
+      "label": "Section 40.3",
+      "chapter": null,
+      "original": "οὔτε γὰρ ἐχθροτέρους οὔτʼ ἀναγκαίους μᾶλλον ἐχθροὺς ἂν τούτων εὕροιτε . ὅσῳ γὰρ πλείω παρακρουόμενοι πλεονεκτοῦσιν , τοσούτῳ πλειόνων ὀφείλειν ἡγοῦνται δίκην δοῦναι · οὐδεὶς δʼ ἂν γένοιτʼ εὔνους τούτοις ὑφʼ ὧν ἄν τι κακὸν πείσεσθαι προσδοκᾷ . τοῦ μὲν οὖν κατηγορεῖν ἴσως οὐχ ὁ παρὼν καιρός · ἃ δʼ ἡγοῦμαι συμφέρειν ὑμῖν , ταῦτα συμβουλεύσω .",
+      "translation": "You could find no more bitter or inevitable enemies than these flatterers . For the more gains they make by deception , the greater is the number of offences for which they think they are due to be punished . And no one could feel goodwill toward those at whose hands he expects to suffer some harm . However , the present is perhaps not the time to denounce them . Instead , I shall give you the advice that I consider in your interests ."
+    },
+    {
+      "id": "41.1",
+      "label": "Section 41.1",
+      "chapter": null,
+      "original": "οὐδένʼ , ὦ ἄνδρες Ἀθηναῖοι , τῶν πάντων ὑμῶν οὕτως οἴομαι κακόνουν εἶναι τῇ πόλει ὥστε μὴ χαλεπῶς φέρειν μηδὲ λυπεῖσθαι τοῖς γεγενημένοις . εἰ μὲν τοίνυν ἀγανακτοῦντας ἦν ἄπρακτόν τι ποιῆσαι τούτων , τοῦτʼ ἂν ἔγωγε παρῄνουν ὑμῖν ἅπασιν · ἐπειδὴ δὲ ταῦτα μὲν οὐκ ἂν ἄλλως ἔχοι , δεῖ δʼ ὑπὲρ τῶν λοιπῶν προνοηθῆναι ὅπως μὴ ταὐτὰ πείσεσθε , ὥσπερ , ὦ ἄνδρες Ἀθηναῖοι , νῦν γεγενημένων ἀγανακτεῖτε , οὕτω χρὴ σπουδάσαι ὑπὲρ τοῦ μὴ πάλιν ταὐτὰ συμβῆναι , καὶ νομίζειν μηδένʼ ἔχειν λόγον εἰπεῖν τῶν συμβουλευόντων τοιοῦτον , ὃς δυνήσεται σῷσαι τὰ παρόντα μηδενὸς ὑμῶν μηδὲν συναραμένου · οὐ γὰρ ἂν λόγος , ἀλλὰ θεός τις ὁ τοιοῦτος εἴη .",
+      "translation": "I no not suppose , men of Athens , that there is one of all your number so disloyal to the city as not to feel distressed and pained by these events . If , then , it were possible by nursing indignation to render undone any of the things that have been done , this is what I should be urging upon you all . But since the facts are unalterable and you must take forethought whereby you may escape the same misfortune in the future , the keenness of your indignation , men of Athens , over what has now taken place ought to set the measure for your determination that the same shall not occur again , nor should you think that any of your advisers has such a wonderful plan to propose as will be capable of redressing the present evils without any of you shouldering a share of the burden . For no speech would be wonderful enough for that , only some divine intervention ."
+    },
+    {
+      "id": "41.2",
+      "label": "Section 41.2",
+      "chapter": null,
+      "original": "ἡ μὲν οὖν ἀρχὴ τοῦ ταῦθʼ οὕτως ἔχειν ἐκεῖθεν ἤρτηται , ἐκ τοῦ τῆς παραχρῆμα πρὸς ὑμᾶς ἕνεκα χάριτος ἐνίους τῶν λεγόντων ἐνταυθοῖ δημηγορεῖν , ὡς οὔτʼ εἰσφέρειν οὔτε στρατεύεσθαι δεῖ , πάντα δʼ αὐτόματʼ ἔσται . ἔδει μὲν οὖν ταῦθʼ ὑπʼ ἄλλου τινὸς ἐξελέγχεσθαι μετὰ τοῦ λυσιτελοῦντος ἐλέγχου τῇ πόλει · δοκεῖ δέ μοι τρόπον τινὰ καὶ νῦν ἀμείνων ἡ τύχη περὶ ὑμᾶς τῶν ἐφεστηκότων εἶναι .",
+      "translation": "Now the origin of this present state of affairs hinges upon this fact , that , for the sake of a momentary popularity with you , some of those who speak in this place declared to the Assembly : There is no need to pay a special war-tax or to do military service , but everything will take care of itself . To be sure , the absurdity of this ought to have been exposed by some other speaker — the sort of exposure that profits the State : still , even as things now are , it seems to me that Fortune is somehow kinder to you than are those at the head of affairs ."
+    },
+    {
+      "id": "41.3",
+      "label": "Section 41.3",
+      "chapter": null,
+      "original": "τὸ μὲν γὰρ ἕκαστʼ ἀπόλλυσθαι τῆς τῶν ἐπιμελουμένων κακίας σημεῖον προσήκει ποιεῖσθαι · τὸ δὲ μὴ πάλαι πάντʼ ἀπολωλέναι τῆς ὑμετέρας τύχης εὐεργέτημʼ ἔγωγε κρίνω . ἐν ᾧ τοίνυν ἡ τύχη διαλείπει καὶ τοὺς ἐχθροὺς ἀνέχει , τῶν λοιπῶν ἐπιμελήθητε . εἰ δὲ μή , σκοπεῖθʼ ὅπως μὴ ἅμα τούς τʼ ἐφεστῶτας ἑκάστοις ὑμεῖς κρινεῖτε , καὶ τὰ πράγμαθʼ ὑμῶν , ὦ ἄνδρες Ἀθηναῖοι , κλινεῖ . οὐ γὰρ ἔσθʼ ὅπως ταῦτʼ ἄνευ μεγάλου τινὸς κακοῦ στήσεται , μηδενὸς ἀντιλαμβανομένου .",
+      "translation": "For while the occurrence of one loss after another ought to be counted evidence of the villainy of those who are in charge , the fact that all your resources have not been destroyed long ago I , at least , judge to be a benefaction of the Fortune that attends you . In the interval , therefore , while Fortune allows a respite and is holding your foes in check , have a care for what lies in the future . Otherwise take heed lest at one and the same time you shall be bringing to justice those who have been appointed to the several posts , and your power , men of Athens , shall be declining ; for it is impossible that this shall continue to stand , barring some miracle , if not one of you puts his hand to the task . [*]"
+    },
+    {
+      "id": "42.1",
+      "label": "Section 42.1",
+      "chapter": null,
+      "original": "οὐδέν ἐστιν , ὦ ἄνδρες Ἀθηναῖοι , τοῦτʼ ἄλογον , τοὺς ἀεὶ καὶ συνεχῶς ὑπὲρ τῶν ὀλιγαρχιῶν πολιτευομένους καὶ νῦν ταῦτα ποιοῦντας ἐξελέγχεσθαι . ἀλλʼ ἐκεῖνο μᾶλλον ἄν τις εἰκότως θαυμάσαι , τὸ τοὺς εἰδότας ὑμᾶς ταῦτα πολλάκις ἥδιον τούτων ἀκούειν ἢ τῶν ὑπὲρ ὑμῶν λεγόντων . ἴσως μὲν οὖν ὥσπερ οὐδʼ ἰδίᾳ ῥᾴδιόν ἐστιν ἅπαντʼ ὀρθῶς πράττειν , οὕτως οὐδὲ κοινῇ ·",
+      "translation": "It is nothing out of the ordinary , men of Athens , that those public men who are always and unceasingly agitating on behalf of the oligarchies should be convicted of doing so upon this occasion also . On the contrary , one might much more reasonably be astonished that you , though aware of the truth , repeatedly prefer to listen to them rather than to those who speak in your own defence . It may very well be that it is difficult to act wisely in all public matters , just as it is in private matters , but certainly it is wrong to take a light view of things of the very greatest importance ."
+    },
+    {
+      "id": "42.2",
+      "label": "Section 42.2",
+      "chapter": null,
+      "original": "ἀλλʼ οὐ δὴ τὰ μέγιστά γε χρὴ παρορᾶν . τὰ μὲν οὖν ἄλλα πάντʼ ἐστὶν ἐλάττω · ὅταν δʼ ὑπὲρ πολιτείας καὶ σφαγῶν καὶ δήμου καταλύσεως εὐχερῶς ἀκούητε , πῶς οὐκ ἔξω χρὴ τοῦ φρονεῖν ὑμᾶς αὐτοὺς ἡγεῖσθαι ; οἱ μὲν γὰρ ἄλλοι πάντες ἄνθρωποι τοῖς ἑτέρων παραδείγμασι χρώμενοι μᾶλλον εὐλαβεῖς αὐτοὶ γίγνονται · ὑμεῖς δʼ οὐδὲ τὰ τοῖς ἄλλοις συμβαίνοντʼ ἀκούοντες φοβηθῆναι δύνασθε , ἀλλʼ ἃ τοὺς ἰδίᾳ περιμένοντας ἀβελτέρους νομίζετε , ταῦτʼ αὐτοὶ δημοσίᾳ μοι δοκεῖτʼ ἀναμένειν παθόντες αἰσθέσθαι .",
+      "translation": "Assuredly all other considerations are of less consequence , and when you listen good-naturedly to speeches on behalf of government efficiency [*] and killings and the overthrow of democracy , how can one help but consider that you too are out of your minds ? For all other men profit by the example of their fellows and are themselves rendered much more cautious thereby , [*] but you , even when you hear what is happening to the rest of the Greeks are incapable of taking alarm , but the very thing that you consider men to be witless for awaiting as individuals you seem to me to be calmly awaiting yourselves as a community that is , to learn by bitter experience ."
+    },
+    {
+      "id": "43.1",
+      "label": "Section 43.1",
+      "chapter": null,
+      "original": "οὐδεὶς πώποτʼ ἴσως ὑμῶν ἐζήτησεν , ὦ ἄνδρες Ἀθηναῖοι , τί δήποθʼ οἱ κακῶς πράττοντες ἄμεινον περὶ τῶν πραγμάτων τῶν εὖ πραττόντων βουλεύονται . ἔστι δʼ οὐχ ἑτέρωθέν ποθεν τοῦτο γιγνόμενον , ἀλλʼ ὅτι συμβαίνει τοῖς μὲν μήτε φοβεῖσθαι μηδὲν μήθʼ ἅν τις λέγοι δεινὰ προσήκονθʼ αὑτοῖς ἡγεῖσθαι , τοὺς δὲ πλησίον ὄντας τῶν ἁμαρτημάτων , ὅταν εἰς τὸ κακῶς πράττειν ἀφίκωνται , σώφρονας πρὸς τὰ λοιπὰ καὶ μετρίους ὑπάρχειν .",
+      "translation": "Perhaps none of you has ever inquired , men of Athens , just why men in adversity deliberate more wisely over their affairs than do the prosperous . This comes about for no other reason than this , that it is not natural for the prosperous to feel any alarm or to believe that such dangers as someone may report concern themselves ; those , however , who are close in time to the mistakes through which they have come to adversity are rendered discreet with reference to future actions and inclined to moderation . [*]"
+    },
+    {
+      "id": "43.2",
+      "label": "Section 43.2",
+      "chapter": null,
+      "original": "σπουδαίων τοίνυν ἐστὶν ἀνθρώπων , ὅταν βελτίστῃ τῇ παρούσῃ τύχῃ χρῶνται , τότε πλείω τὴν σπουδὴν πρὸς τὸ σωφρονεῖν ἔχειν · οὐδὲν γὰρ οὔτε φυλαττομένοις οὕτω δεινὸν ὥστʼ ἀφύλακτον εἶναι , οὔτʼ ὀλιγωροῦσιν ἀπροσδόκητον παθεῖν . λέγω δὲ ταῦτʼ οὐχ ἵνα τὴν ἄλλως ὑμᾶς δεδίττωμαι , ἀλλʼ ἵνα μὴ διὰ τὴν παροῦσαν εὐπραξίαν , ἃ γένοιτʼ ἄν , εἰ μὴ προνοήσεσθε τῶν πραγμάτων , δείνʼ ἀκούοντες καταφρονῆτε , ἀλλʼ ἄνευ τοῦ παθεῖν , ὥσπερ ἐστὶν προσῆκον φάσκοντάς γε μηδένων ἀπολείπεσθαι τῷ σωφρονεῖν , φυλάξησθε .",
+      "translation": "It therefore becomes serious-minded men at the very time that they enjoy the presence of Fortune at her best to show the greater eagerness to practise discretion . For no danger is so formidable that men who are on their guard cannot guard against it , [*] and there is none that men who belittle it may not expect to suffer . I say this , not to frighten you needlessly , but in order that , when you hear rumors of danger , you may not despise them because of your present prosperity — they may come true unless you take forethought for your interests — but rather in order that , without waiting to learn by experience , you may forestall trouble , just as becomes men who at least claim to be second to none in point of discretion ."
+    },
+    {
+      "id": "44.1",
+      "label": "Section 44.1",
+      "chapter": null,
+      "original": "οὐχὶ τὸν αὐτὸν εἶναι καιρὸν ὑπείληφʼ , ὦ ἄνδρες Ἀθηναῖοι , τοῦ τε χαρίζεσθαι καὶ τοῦ τὰ δοκοῦντά μοι βέλτιστα παραινεῖν . πολλάκις γὰρ ὁρῶ τὸ χαρίζεσθαί τι παρὰ γνώμην πλείονʼ ἀπέχθειαν ἐνεγκὸν τοῦ τὸ πρῶτον ἐναντιωθῆναι . εἰ μὲν οὖν ἅπαντες ἐγιγνώσκετε ταὐτά , οὔτʼ ἄν , εἴ μοι τὰ δέοντʼ ἐδοκεῖτε προαιρεῖσθαι , παρῆλθον , περίεργον ἡγούμενος τοῖς ἀφʼ αὑτῶν ἃ χρὴ ποιοῦσι λέγειν , οὔτʼ ἂν εἰ τοὐναντίον · μᾶλλον γὰρ ἂν ἡγησάμην ἕνʼ ὄντʼ ἐμαυτὸν ἀγνοεῖν τὰ κράτιστʼ ἢ πάντας ὑμᾶς .",
+      "translation": "I assume , men of Athens , that the time for humoring you and the time for recommending the measures I regard as best are not the same ; for often , I observe , humoring you contrary to one ’ s own judgement has earned more hatred than opposing at the outset . Now , if you all held the same opinions , I should not have come forward if you seemed to me to prefer the right course , considering it superfluous to speak before people doing the right thing of their own accord , nor again , if the contrary were true , for I should have thought that a lone person like myself was more likely to misapprehend the best measures than all of you ."
+    },
+    {
+      "id": "44.2",
+      "label": "Section 44.2",
+      "chapter": null,
+      "original": "ἐπειδὴ δʼ ὁρῶ τινὰς ὑμῶν ταὐτὰ μὲν γιγνώσκοντας ἐμοί , τἀναντία δʼ ἄλλοις , πειράσομαι μετὰ τούτων τοὺς ἑτέρους πεῖσαι . εἰ μὲν οὖν οἰήσεσθε δεῖν μὴ ʼθέλειν ἀκούειν , οὐκ ὀρθῶς ποιήσετε · ἂν δʼ ἀκούσητε σιωπῇ καὶ τοῦθʼ ὑπομείνητε , δυοῖν ἀγαθοῖν θάτερον ὑμῖν ὑπάρξει · ἢ γὰρ πεισθήσεσθε , ἄν τι δοκῶμεν λέγειν συμφέρον , ἢ βεβαιότερον περὶ ὧν ἐγνώκατʼ ἔσεσθε πεπεισμένοι . ἂν γάρ , οἷς τι διαμαρτάνειν οἰόμεθʼ ἡμεῖς ὑμᾶς , ταῦτα μηδενὸς ἄξια φανῇ , μετʼ ἐλέγχου τὰ δεδογμένα νῦν ὑμεῖς ἔσεσθʼ ᾑρημένοι .",
+      "translation": "But since I see some of you holding the same views as myself and the opposite to those held by others , I shall try with the support of these to persuade those who differ . Now , if you shall think it right to refuse to listen , you will make a mistake ; but if you will listen in silence and bear with me in this , one of two benefits will accrue to you : for either you will be persuaded if we seem to advocate something advantageous , or you will be more firmly convinced of the rightness of your own views ; for if the grounds upon which we think you are going somewhat astray shall be proved valueless , with the benefit of argument you will this time have chosen the plans approved before ."
+    },
+    {
+      "id": "45.1",
+      "label": "Section 45.1",
+      "chapter": null,
+      "original": "βουλοίμην ἄν , ὦ ἄνδρες Ἀθηναῖοι , περὶ ὧν ηὐδοκίμηκε λέγων παρʼ ὑμῖν ὁ δεῖνα , ἐπὶ τῶν ἔργων πραττομένων ἴσον αὐτῷ τὸν ἔπαινον γενέσθαι · οὔτε γὰρ τούτῳ κακόνους εἰμὶ μὰ τοὺς θεοὺς ὑμῖν τʼ ἀγαθὸν ἄν τι γίγνεσθαι βουλοίμην . ἀλλʼ ὁρᾶτʼ , ὦ ἄνδρες Ἀθηναῖοι , μὴ κεχωρισμένον ᾖ λόγον εἰπεῖν εὖ καὶ προελέσθαι πράγματα συμφέροντα , καὶ τὸ μὲν ῥήτορος ἔργον ᾖ , τὸ δὲ νοῦν ἔχοντος ἀνθρώπου .",
+      "translation": "I could wish , men of Athens , that a certain person , [*] who has won your approval as a speaker on the measures before you , might have deserved equal praise for the feasibility and workableness of his proposal . For I call the gods to witness that I bear the man no ill will and wish that his plan had been a good one for you . But do not forget , men of Athens , that making a good speech and choosing sound policies are miles apart , and that the one is the part of an orator and the other of a man of sense ."
+    },
+    {
+      "id": "45.2",
+      "label": "Section 45.2",
+      "chapter": null,
+      "original": "ὑμεῖς τοίνυν οἱ πολλοί , καὶ μάλισθʼ οἱ πρεσβύτατοι , λέγειν μὲν οὐκ ὀφείλεθʼ ὁμοίως δύνασθαι τοῖς δεινοτάτοις · τῶν γὰρ εἰθισμένων τοῦτο τὸ πρᾶγμα · νοῦν δʼ ἔχειν ὀφείλεθʼ ὁμοίως καὶ μᾶλλον τούτων · αἱ γὰρ ἐμπειρίαι καὶ τὸ πόλλʼ ἑορακέναι τοῦτʼ ἐμποιοῦσι . μὴ τοίνυν , ὦ ἄνδρες Ἀθηναῖοι , φανῆτʼ ἀγνοοῦντες ἐν τῷ παρόντι νῦν ὅτι αἱ διὰ τῶν λόγων ἀνδρεῖαι καὶ θρασύτητες , ἐὰν μὴ μεθʼ ὑπαρχούσης ὦσι παρασκευῆς καὶ ῥώμης , ἀκοῦσαι μέν εἰσιν ἡδεῖαι , πράττειν δʼ ἐπικίνδυνοι .",
+      "translation": "Now , you , the multitude , and especially the oldest among you , while not obliged to speak as well as the cleverest , for this art is for the practised speakers , are yet under obligation to have as much sense as they and even more , for it is long experience and having seen much [*] that begets this faculty in us . Do not therefore , men of Athens , show yourselves unaware in this crisis that valorous deeds and bold exploits by word of mouth , unless backed by ready armament and physical force , though pleasant to hear , are hazardous in action ."
+    },
+    {
+      "id": "45.3",
+      "label": "Section 45.3",
+      "chapter": null,
+      "original": "αὐτίκα γὰρ τὸ μὴ ʼπιτρέπειν τοῖς ἀδικοῦσιν , ὁρᾶθʼ ὡς καλὸν τὸ ῥῆμα . ἀποβλέψατε δὴ πρῶτον πρὸς τὸ ἔργον αὐτό . δεῖ κρατῆσαι μαχομένους τῶν ἐχθρῶν τοὺς τὴν τοῦ ῥήματος τούτου σεμνότητʼ ἔργῳ ληψομένους . εἰπεῖν μὲν γάρ , ὦ ἄνδρες Ἀθηναῖοι , πάντα πέφυκε ῥᾴδιον , πρᾶξαι δʼ οὐχ ἅπαντα . οὐ γὰρ ἴσος πόνος καὶ ἱδρὼς πρό τε τοῦ λέγειν καὶ πρὸ τοῦ πράττειν ἐστίν .",
+      "translation": "For example , Do not leave a free hand to aggressors ; you see what a fine slogan that is ! Do not fail first to take a good look at the actual nature of the task . They must master the foe in battle who are really going to capture the majesty of this saying . For all things are easy to say , men of Athens , but not all are easy to do , for not so much toil and sweat come before speech as before action . [*]"
+    },
+    {
+      "id": "45.4",
+      "label": "Section 45.4",
+      "chapter": null,
+      "original": "ἐγὼ δʼ οὐ χείρους ὑμᾶς ἡγοῦμαι φύσει Θηβαίων ʽκαὶ γὰρ ἂν μαινοίμην̓ , ἀλλʼ ἀπαρασκευοτέρους . φημὶ δὴ δεῖν τοῦ παρασκευάζεσθαι νῦν ποιεῖσθαι τὴν ἀρχήν , ἐπειδὴ τέως ἠμελεῖτε , οὐ τοῦ διαγωνίζεσθαι . οὐ γὰρ ἀντιλέγω τὸ ὅλον , ἀλλʼ ὑπὲρ τοῦ τρόπου τῆς ἐγχειρήσεως ἐναντιοῦμαι .",
+      "translation": "I do not think you are naturally inferior to the Thebans — I should be mad to say that — only less well prepared . What I do say is that now is the time to begin your preparation , since you have been negligent up to now , not the decisive struggle . For I am not speaking against the plan as a whole but I am opposed to your way of going about it ."
+    },
+    {
+      "id": "46.1",
+      "label": "Section 46.1",
+      "chapter": null,
+      "original": "ὅσην μέν , ὦ ἄνδρες Ἀθηναῖοι , πεποίηνται σπουδὴν οἱ πρέσβεις κατηγορῆσαι τῆς πόλεως ἡμῶν , ἅπαντες ἑοράκατε · πλὴν γὰρ οὐκ ἔχω τίνος εἴπω , τἄλλα πάνθʼ ὑμῖν ἀναθεῖναι πεπείρανται . εἰ μὲν οὖν ἦσαν αὐτῶν ἀληθεῖς αἱ κατηγορίαι , χάριν γʼ εἴχετʼ εἰκότως ἄν , εἰ πρὸς ὑμᾶς οὕτως ὑμῶν κατηγόρουν καὶ μὴ πρὸς ἄλλους .",
+      "translation": "You have all seen , men of Athens , with what zest the ambassadors [*] have denounced our city . For , apart from what I cannot imagine , they have attempted to lay all offences at your doors . I admit , if their charges were true , you might reasonably be grateful that they were thus denouncing you to your faces instead of to others ;"
+    },
+    {
+      "id": "46.2",
+      "label": "Section 46.2",
+      "chapter": null,
+      "original": "ἐπειδὴ δὲ διαστρέψαντες τἀληθῆ , καὶ τὰ μὲν παραβαίνοντες , ἀφʼ ὧν ἂν μεγάλους ἐπαίνους κομίσαισθε δικαίως , τὰ δʼ αἰτιασάμενοι ψευδῆ καὶ οὐ προσήκονθʼ ὑμῖν , κέχρηνται τῷ λόγῳ , πονηροὺς δίκαιον αὐτούς , ἐπειδὰν ἐξελεγχθῶσι ταῦτα πεποιηκότες , νομίζειν . εἰ γὰρ ῥήτορες δεινοὶ μᾶλλον εἶναι δοκεῖν ἢ μετʼ ἀληθείας ἐπιεικεῖς ἄνθρωποι νομίζεσθαι προείλοντο , οὐδʼ αὐτοὶ καλοκἀγαθίας ἂν ὡς ἔοικεν ἀμφισβητοῖεν .",
+      "translation": "but since they have used the privilege of speaking here to distort the truth , failing to mention some things from which you would justly derive great praise , and making charges that are false and inapplicable to you , it is right that you should consider them unprincipled , when once they have been proved guilty of such conduct as this . For if they prefer to be regarded as accomplished rhetoricians rather than truly fair-minded men , it is not likely that even they themselves would claim to be gentlemen ."
+    },
+    {
+      "id": "46.3",
+      "label": "Section 46.3",
+      "chapter": null,
+      "original": "ἔστι μὲν οὖν χαλεπὸν τὸ παρʼ ὑμῖν ὑπὲρ ὑμῶν ἐροῦντʼ ἀνεστηκέναι , ὥσπερ ῥᾴδιον τὸ καθʼ ὑμῶν . ἐγὼ γὰρ μὰ τὴν Ἀθηνᾶν οὐδένας ἂν τῶν ἄλλων ἀνθρώπων οὕτως οἶμαι τὰ προσόνθʼ αὑτοῖς ἀκοῦσαι νουθετουμένους , ὡς ὑμεῖς τὰ μὴ προσήκοντα κακῶς ἀκούοντες . οὐ μὴν οὐδὲ τούτους θρασέως ἂν οὕτως ἡγοῦμαι ψεύδεσθαι , εἰ μὴ συνῄδεσαν ταῦτα , καὶ πρόδηλον ἦν ὅτι",
+      "translation": "It is , of course , difficult to rise up to speak before you in your own defence , just as it is easy to speak against you . For , by Athena , I do not think that there are any other people in the whole world who would listen so complacently when reminded of their real faults as you do when you are reviled for faults that are not yours . What is more , I do not believe that even these men would lie to you with such effrontery if they were not aware of this , and if it were not clear in advance that of all people you are the most addicted to listening to whatever anyone may say against you ."
+    },
+    {
+      "id": "46.4",
+      "label": "Section 46.4",
+      "chapter": null,
+      "original": "δεινότατοι πάντων ὑμεῖς ἐστʼ ἀκούειν ὅ τι ἄν τις καθʼ ὑμῶν λέγῃ . εἰ μὲν οὖν ταύτης τῆς εὐηθείας δίκην ὑμᾶς δεῖ διδόναι , λόγους οὐ προσήκοντας κατὰ τῆς πόλεως ἀκούειν τοῦτʼ ἂν εἴη . εἰ δʼ ὑπὲρ τῶν ἀληθῶν εἴ τι δίκαιον ῥητέον , ἐπὶ τοῦτʼ ἐγὼ παρελήλυθα , πιστεύων οὐκ αὐτὸς ἀξίως τῶν ὑμῖν πεπραγμένων εἰπεῖν δυνήσεσθαι , ἀλλὰ τὰ πράγματα , ὅπως ἄν τις εἴπῃ , δίκαια φανεῖσθαι .",
+      "translation": "Now , if you must be punished for this fatuousness , to listen to undeserved charges against the State would be that penalty ; but if something must , in all fairness , be said on behalf of the truth , it is for this purpose that I have come forward , confident , not that I shall unaided be able to speak with eloquence worthy of your past actions , but that these actions , however one may speak , will be seen to be just ."
+    },
+    {
+      "id": "46.5",
+      "label": "Section 46.5",
+      "chapter": null,
+      "original": "βουλοίμην δʼ ἂν ὑμᾶς , ὦ ἄνδρες Ἀθηναῖοι , ἴσους ἀκροατὰς ὑπὲρ ὑμῶν αὐτῶν γενέσθαι , καὶ μὴ τῷ προῆχθαι τοὺς λόγους ἐπαινέσαι τοὺς τούτων φιλονικεῖν . οὐ γὰρ ἂν ὑμετέραν κακίαν οὐδεὶς ἔτι κρίναι , εἰ λέγοντός τινος εὖ παρεκρούσθητε , ἀλλὰ τῶν ἐπὶ τούτῳ σπουδὴν ποιησαμένων , ὅπως ὑμᾶς ἐξαπατήσουσιν .",
+      "translation": "It would be my wish , men of Athens , that you become equally willing listeners when you are being defended , and not , through having been beguiled , become all too eager to praise the speeches of these men . For no one would go on judging it vice on your part if you have been led astray by some clever speaker , but it would be thought vice on the part of those who devoted their energies to deceiving you ."
+    },
+    {
+      "id": "47.1",
+      "label": "Section 47.1",
+      "chapter": null,
+      "original": "οἶμαι πάντας ἂν ὑμᾶς , ὦ ἄνδρες Ἀθηναῖοι , φῆσαι , ἃ βέλτισθʼ ἕκαστος ἡγεῖται τῇ πόλει , βούλεσθαι ταῦτα πραχθῆναι . συμβαίνει δέ γε μὴ κατὰ ταὐτὸ κεκρίσθαι παρὰ πᾶσι τὸ βέλτιστον · οὐ γὰρ ἂν ὑμῶν οἱ μὲν λέγειν , οἱ δὲ μὴ λέγειν ἐκέλευον . πρὸς μὲν τοίνυν τοὺς ὑπειληφότας ταῦτα συμφέρειν οὐδενὸς δεῖ λόγου τῷ μέλλοντι λέγειν · πεπεισμένοι γὰρ ὑπάρχουσι · πρὸς δὲ τοὺς τἀναντία συμφέρειν ἡγουμένους βραχέʼ εἰπεῖν βούλομαι .",
+      "translation": "I suppose , men of Athens , you would all say you wish to have put into effect what each one considers best for the city . Quite so , but it happens that the same plan has not been judged the best by all of you ; otherwise some of you would not be bidding the speaker Go on and others Sit down . Now , to those who hold the same measures to be expedient as does the one who is about to speak there is no need of a single word , for they are already convinced ; but to those who think that the opposite course is for the best , I wish to speak briefly ."
+    },
+    {
+      "id": "47.2",
+      "label": "Section 47.2",
+      "chapter": null,
+      "original": "μὴ ʼθέλουσι μὲν οὖν ἀκούειν οὐκ ἔνι δήπου μαθεῖν , οὐδὲν μᾶλλον ἢ σιωπῶσιν μηδενὸς λέγοντος · ἀκούσασιν δὲ δυοῖν ἀγαθοῖν οὐκ ἔνι θατέρου διαμαρτεῖν . ἢ γὰρ πεισθέντες πάντες καὶ ταὔτʼ ἐγνωκότες κοινότερον βουλεύσεσθε , οὗ μεῖζον εἰς τὰ παρόντʼ οὐδὲν ἂν γένοιτʼ ἀγαθόν , ἢ μὴ δυνηθέντος τοῦ λέγοντος διδάξαι βεβαιότερον τοῖς ἐγνωσμένοις πιστεύσετε .",
+      "translation": "Unless you will listen , it is , of course , absolutely impossible to learn anything , [*] any more than if you keep quiet when no one is speaking . But if you do listen it is impossible to miss one or the other of two benefits for either , being all persuaded and of the same mind , you will be more unanimous in your decision — and nothing better than this could happen for the present emergency — or else , if the speaker be unable to make his point , you will have more confidence in the decisions already reached ."
+    },
+    {
+      "id": "47.3",
+      "label": "Section 47.3",
+      "chapter": null,
+      "original": "χωρὶς δὲ τούτων οὐδὲ καλὴν ὑποψίαν ἔχει ἥκειν μὲν εἰς τὴν ἐκκλησίαν ὡς ἐκ τῶν ῥηθησομένων τὸ κράτιστον ἑλέσθαι δέον , φανῆναι δέ , πρὶν ἐκ τῶν λόγων δοκιμάσαι , παρʼ ὑμῖν αὐτοῖς τι πεπεισμένους , καὶ τοῦθʼ οὕτως ἰσχυρὸν ὥστε μηδʼ ἐθέλειν παρὰ ταῦτʼ ἀκούειν .",
+      "translation": "Apart from these two possibilities , there is a suspicion , and by no means to your credit , that , although you have come to the assembly under obligation to choose the best plan on the basis of what shall be said , instead , you will be found , before reaching a judgement on the basis of the speeches , to have been convinced of something in your own minds , and this so strongly that you are not even willing to hear anything to the contrary ."
+    },
+    {
+      "id": "48.1",
+      "label": "Section 48.1",
+      "chapter": null,
+      "original": "ἴσως ὀχληρός , ὦ ἄνδρες Ἀθηναῖοι , τισὶν ὑμῶν εἶναι δοκῶ , πολλάκις λέγων περὶ τῶν αὐτῶν ἀεί . ἀλλʼ ἐὰν ὀρθῶς σκοπῆτε , οὐκ ἐγὼ φανήσομαι τούτου δίκαιος ὢν ἔχειν τὴν αἰτίαν , ἀλλʼ οἱ μὴ πειθόμενοι τοῖς ὑμετέροις ψηφίσμασιν . εἰ γὰρ ἐκεῖνοι τὸ πρῶτον ἐποίησαν ἃ ὑμεῖς προσετάξατε , οὐδὲν ἂν τὸ δεύτερον ἡμᾶς ἔδει λέγειν , οὐδʼ εἰ τὸ δεύτερον , αὖθις . νῦν δʼ ὅσῳ πλεονάκις τὰ προσήκονθʼ ὑμῖν ὑμεῖς ἐψηφίσασθε , τοσούτῳ μοι δοκοῦσιν ἧττον ἐκεῖνοι παρεσκευάσθαι ποιεῖν .",
+      "translation": "Perhaps some of you , men of Athens , regard me as a nuisance , speaking on the same subjects time after time . But if you scan things rightly , it is not I who shall justly bear the blame for this , but rather those who do not obey your decrees . For if those men had done at the outset what you enjoined , it would not have been necessary for us to speak a second time or , if they had complied on the second occasion , a third time . As it is , the more often you have voted what your duty demanded , the less those men , it seems to me , have been prepared to act upon it ."
+    },
+    {
+      "id": "48.2",
+      "label": "Section 48.2",
+      "chapter": null,
+      "original": "πρότερον μὲν οὖν ἔγωγε μὰ τοὺς θεοὺς οὐκ ᾔδειν πρὸς τί ποτʼ εἴη τοῦτʼ εἰρημένον ἀρχὴ ἄνδρα δείκνυσιν · νῦν δὲ κἂν ἄλλον μοι δοκῶ διδάξαι . οἱ γὰρ ἄρχοντες ἢ τινὲς αὐτῶν , ἵνα μὴ πάντας λέγω , τῶν μὲν ὑμετέρων ψηφισμάτων ἀλλʼ οὐδὲ τὸ μικρότατον φροντίζουσιν , ὅπως δὲ λήψονται . εἰ μὲν οὖν ἐνῆν δοῦναι , δικαίως ἂν αὐτὸ τοῦτό μοί τις ἐπέπληξεν , εἰ διὰ μικρὸν ἀνάλωμʼ ἐνοχλεῖν ὑμῖν ᾑρούμην · νῦν δʼ οὐκ ἔνι , καθάπερ οὐδὲ τούτους λέληθεν .",
+      "translation": "Previously , I confess by the gods , I did not know what was the point of the saying : Responsibility reveals the man . [*] But now I think I could even tell another what it means . For the officials , or some of them — to avoid saying all — feel not even the slightest regard for your decrees but consider how they shall make some gain . Certainly , if it had been feasible for me to make a payment , I might have been justly rebuked for this very reason , if I chose to annoy you through balking at a paltry expenditure . But as things are , it is not feasible , as these men themselves have not failed to observe ."
+    },
+    {
+      "id": "48.3",
+      "label": "Section 48.3",
+      "chapter": null,
+      "original": "εἰ δʼ ὑπὲρ ὧν ὑμῖν λῃτουργεῖν δεῖ , προσθήσειν αὑτοῖς οἴονταί με , ληροῦσιν . καὶ ταῦτʼ ἴσως βούλονται καὶ προσδοκῶσιν · ἐγὼ δʼ οὐ ποιήσω ταῦτα , ἀλλʼ ἐὰν μὲν δῶσι , καθέλξω τὴν ναῦν καὶ τὰ προσήκοντα ποιήσω , εἰ δὲ μή , τοὺς αἰτίους ὑμῖν ἀποφανῶ .",
+      "translation": "What is more , if , in the case of a service [*] due to you they think I am going to leave it to themselves to decide , they are fools . And , perhaps , they both wish and expect it ; this I will not do , but if they will allow me , I shall launch the ship and do my duty ; otherwise , I shall reveal to you the names of those responsible . [*]"
+    }
+  ],
+  "prevChunkSlug": "exordia-5v7i6e-1",
+  "nextChunkSlug": "exordia-5v7i6e-3"
+}

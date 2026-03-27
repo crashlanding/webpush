@@ -1,0 +1,101 @@
+{
+  "volumeSlug": "quintilian-the-orator-s-education-volume-i-books-1-2-10h5we",
+  "volumeTitle": "The Orator's Education, Volume I: Books 1-2",
+  "authorDisplay": "Quintilian",
+  "authors": [
+    "Quintilian"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-orator-s-education-books-1-2-1s8vlk",
+  "label": "The Orator's Education: Books 1-2",
+  "partId": "the-orator-s-education-books-1-2-1s8vlk",
+  "partTitle": "The Orator's Education: Books 1-2",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Institutio Oratoria",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1002.phi001.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Institutio Oratoria",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi1002.phi001.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "1.pr.1",
+      "label": "Section 1.pr.1",
+      "chapter": null,
+      "original": "post impetratam studiis meis quietem , quae per viginti annos erudiendis iuvenibus impenderam , cum a me quidam familiariter postularent , ut aliquid de ratione dicendi componerem , diu sum equidem reluctatus , quod auctores utriusque linguae clarissimos non ignorabam multa , quae ad hoc opus pertinerent , diligentissime scripta posteris reliquisse .",
+      "translation": "Having at length , after twenty years devoted to the training of the young , obtained leisure for study , I was asked by certain of my friends to write something on the art of speaking . For a long time I resisted their entreaties , since I was well aware that some of the most distinguished Greek and Roman writers had bequeathed to posterity a number of works dealing with this subject , to the composition of which they had devoted the utmost care ."
+    },
+    {
+      "id": "1.pr.2",
+      "label": "Section 1.pr.2",
+      "chapter": null,
+      "original": "sed qua ego ex causa faciliorem mihi veniam meae deprecationis arbitrabar fore , hac accendebantur illi magis , quod inter diversas opiniones priorum et quasdam etiam inter se contrarias difficilis esset electio ; ut mihi si non inveniendi nova at certe iudicandi de veteribus iniungere laborem non iniuste viderentur .",
+      "translation": "This seemed to me to be an admirable excuse for my refusal , but served merely to increase their enthusiasm . They urged that previous writers on the subject had expressed different and at times contradictory opinions , between which it was very difficult to choose . They thought therefore that they were justified in imposing on me the task , if not of discovering original views , at least of passing definite judgment on those expressed by my predecessors ."
+    },
+    {
+      "id": "1.pr.3",
+      "label": "Section 1.pr.3",
+      "chapter": null,
+      "original": "quamvis autem non tam me vinceret praestandi , v1-3 p.6 quod exigebatur , fiducia quam negandi verecundia , latius se tamen aperiente materia plus quam imponebatur oneris sponte suscepi , simul ut pleniore obsequio demererer amantissimos mei , simul ne vulgarem viam ingressus alienis demum vestigiis insisterem .",
+      "translation": "I was moved to comply not so much because I felt confidence that I was equal to the task , as v1-3 p.7 because I had a certain compunction about refusing . The subject proved more extensive than I had first imagined ; but finally I volunteered to shoulder a task which was on a far larger scale than that which I was originally asked to undertake . I wished on the one hand to oblige my very good friends beyond their requests , and on the other to avoid the beaten track and the necessity of treading where others had gone before ."
+    },
+    {
+      "id": "1.pr.4",
+      "label": "Section 1.pr.4",
+      "chapter": null,
+      "original": "nam ceteri fere , qui artem orandi litteris tradiderunt , ita sunt exorsi , quasi perfectis omni alio genere doctrinae summam in eloquentia manum imponerent , sive contemnentes tanquam parva , quae prius discimus , studia , sive non ad suum pertinere officium opinati , quando divisae professionum vices essent , seu , quod proximum vero , nullam ingenii sperantes gratiam circa res etiamsi necessarias procul tamen ab ostentatione positas ; ut operum fastigia spectantur , latent fundamenta .",
+      "translation": "For almost all others who have written on the art of oratory have started with the assumption that their readers were perfect in all other branches of education and that their own task was merely to put the finishing touches to their rhetorical training ; this is due to the fact that they either despised the preliminary stages of education or thought that they were not their concern , since the duties of the different branches of education are distinct one from another , or else , and this is nearer the truth , because they had no hope of making a remunerative display of their talent in dealing with subjects , which , although necessary , are far from being showy : just as in architecture it is the superstructure and not the foundations which attracts the eye ."
+    },
+    {
+      "id": "1.pr.5",
+      "label": "Section 1.pr.5",
+      "chapter": null,
+      "original": "ego , cum existimem nihil arti oratoriae alienum , sine quo fieri non posse oratorem fatendum est , nec ad ullius rei summam nisi praecedentibus initiis perveniri , ad minora illa , sed quae si negligas , non sit maioribus locus , demittere me non recusabo ; nec aliter , quam si mihi tradatur educandus orator , studia eius formare ab infantia incipiam . v1-3 p.8 Quod opus , Marcelle Victori , tibi dicamus ;",
+      "translation": "I on the other hand hold that the art of oratory includes all that is essential for the training of an orator , and that it is impossible to reach the summit in any subject unless we have first passed through all the elementary stages . I shall not therefore refuse to stoop to the consideration of those minor details , neglect of which may result in there being no opportunity for more important things , and propose to mould the studies of my orator from infancy , on the assumption that his whole education has been entrusted to my charge ."
+    },
+    {
+      "id": "2.1.1",
+      "label": "Section 2.1.1",
+      "chapter": null,
+      "original": "tenuit consuetudo , quae cotidie magis invalescit , ut praeceptoribus eloquentiae , Latinis quidem semper sed etiam Graecis interim , discipuli serius quam ratio postulat , traderentur . eius rei duplex causa est , quod et rhetores utique nostri suas partes omiserunt et grammatici alienas occupaverunt .",
+      "translation": "THE custom has prevailed and is daily growing commoner of sending boys to the schools of rhetoric much later than is reasonable : this is always the case as regards Latin rhetoric and occasionally applies to Greek as well . The reason for this is twofold : the rhetoricians , more especially our own , have abandoned certain of their duties and the teachers of literature have undertaken tasks which rightly belong to others ."
+    },
+    {
+      "id": "2.1.2",
+      "label": "Section 2.1.2",
+      "chapter": null,
+      "original": "nam et illi declamare modo et scientiam declamandi ac facultatem tradere officii sui ducunt , idque intra deliberativas iudicialesque materias ( nam cetera ut professione sua minora despiciunt ), et hi non satis credunt excepisse , quae relicta erant , ( quo nomine gratia quoque iis habenda est ), sed ad prosopopoeias usque ac suasorias , in quibus onus dicendi vel maximum est , irrumpunt .",
+      "translation": "For the rhetorician considers that his duty is merely to declaim and give instruction in the theory and practice of declamation and confines his activities to deliberative and judicial themes , regarding all others as beneath the dignity of his profession ; while the teacher of literature is not satisfied to take what is left him ( and we owe him a debt of gratitude for this ), but even presumes to handle declamations in character and deliberative themes , [*] tasks which impose the very heaviest burden on the speaker ."
+    },
+    {
+      "id": "2.1.3",
+      "label": "Section 2.1.3",
+      "chapter": null,
+      "original": "hinc ergo accidit , ut , quae alterius artis prima erant opera , facta sint alterius novissima , et aetas altioribus iam disciplinis debita in schola minore subsidat ac rhetoricen apud grammaticos exerceat . ita , quod est maxime ridiculum , non ante ad declamandi magistrum mittendus videtur puer quam declamare sciat . v1-3 p.206 nos suum cuique professioni modum demus .",
+      "translation": "Consequently subjects which once formed the first stages of rhetoric have come to form the final stages of a literary education , and boys who are ripe for more advanced study are kept back in the inferior school and practise rhetoric under the direction of teachers of literature . Thus we get the absurd result that a boy is not regarded as fit to go on to the schools of declamation till he knows how to declaim . v1-3 p.207 The two professions must each be assigned their proper sphere ."
+    },
+    {
+      "id": "2.1.4",
+      "label": "Section 2.1.4",
+      "chapter": null,
+      "original": "et grammatice ( quam in Latinum transferentes litteraturam vocaverunt ) fines suos norit , praesertim tantum ab hac appellationis suae paupertate , intra quam primi illi constitere , provecta ; nam tenuis a fonte assumptis historicorum criticorumque viribus pleno iam satis alveo fluit , cum praeter rationem recte loquendi non parum alioqui copiosam prope omnium maximarum artium scientiam amplexa sit ;",
+      "translation": "Grammatice , which we translate as the science of letters , must learn to know its own limits , especially as it has encroached so far beyond the boundaries to which its unpretentious name should restrict it and to which its earlier professors actually confined themselves . Springing from a tiny fountain-head , it has gathered strength from the historians and critics and has swollen to the dimensions of a brimming river , since , not content with the theory of correct speech , no inconsiderable subject , it has usurped the study of practically all the highest departments of knowledge ."
+    },
+    {
+      "id": "2.1.5",
+      "label": "Section 2.1.5",
+      "chapter": null,
+      "original": "et rhetorice , cui nomen vis eloquendi dedit , officia sua non detrectet nec occupari gaudeat pertinentem ad se laborem , quae , dum opere cedit ,",
+      "translation": "On the other hand rhetoric , which derives its name from the power of eloquence , must not shirk its peculiar duties nor rejoice to see its own burdens shouldered by others . For the neglect of these is little less than a surrender of its birthright ."
+    }
+  ],
+  "prevChunkSlug": null,
+  "nextChunkSlug": null
+}

@@ -1,0 +1,61 @@
+{
+  "loebNumber": 51,
+  "sortOrder": 51,
+  "slug": "xenophon-cyropaedia-volume-i-h63okr",
+  "title": "Cyropaedia, Volume I",
+  "volumeLabel": "Cyropaedia, Volume I",
+  "authorDisplay": "Xenophon",
+  "authors": [
+    "Xenophon"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Cyropaedia, Volume I. Cyropaedia, Volume I currently opens the full Scaife work because the exact Loeb volume split is not encoded in the request line.",
+  "status": "ready",
+  "defaultChunkSlug": "cyropaedia-volume-i-20cxzm",
+  "readyChunkCount": 1,
+  "contents": [
+    {
+      "id": "cyropaedia-volume-i-20cxzm",
+      "title": "Cyropaedia, Volume I",
+      "status": "ready",
+      "sectionCount": 40,
+      "chunkSlug": "cyropaedia-volume-i-20cxzm",
+      "chunks": [
+        {
+          "slug": "cyropaedia-volume-i-20cxzm",
+          "label": "Cyropaedia, Volume I",
+          "partId": "cyropaedia-volume-i-20cxzm",
+          "partTitle": "Cyropaedia, Volume I",
+          "sectionCount": 40,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "cyropaedia-volume-i-20cxzm",
+      "label": "Cyropaedia, Volume I",
+      "partId": "cyropaedia-volume-i-20cxzm",
+      "partTitle": "Cyropaedia, Volume I",
+      "sectionCount": 40,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "cyropaedia-volume-i-20cxzm",
+      "partTitle": "Cyropaedia, Volume I",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Cyropaedia",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg007.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Cyropaedia",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0032.tlg007.perseus-eng2/"
+      }
+    }
+  ]
+}

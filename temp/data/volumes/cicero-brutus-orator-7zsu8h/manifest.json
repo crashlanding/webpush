@@ -1,0 +1,34 @@
+{
+  "loebNumber": 342,
+  "sortOrder": 342,
+  "slug": "cicero-brutus-orator-7zsu8h",
+  "title": "Brutus. Orator",
+  "volumeLabel": "Brutus. Orator",
+  "authorDisplay": "Cicero",
+  "authors": [
+    "Cicero"
+  ],
+  "language": "latin",
+  "summary": "A catalog placeholder for Brutus. Orator. Scaife does not currently provide a confidently matchable original-and-English pair for this volume.",
+  "status": "placeholder",
+  "defaultChunkSlug": null,
+  "readyChunkCount": 0,
+  "contents": [
+    {
+      "id": "brutus-x1ss19",
+      "title": "Brutus",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Brutus."
+    },
+    {
+      "id": "orator-13713a",
+      "title": "Orator",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Orator."
+    }
+  ],
+  "chunks": [],
+  "citations": []
+}

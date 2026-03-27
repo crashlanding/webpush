@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "sophocles-ajax-electra-oedipus-tyrannus-udpp93",
+  "volumeTitle": "Ajax. Electra. Oedipus Tyrannus",
+  "authorDisplay": "Sophocles",
+  "authors": [
+    "Sophocles"
+  ],
+  "language": "greek",
+  "status": "ready",
+  "chunkSlug": "oedipus-tyrannus-1bvaud-3",
+  "label": "Oedipus Tyrannus (Section 342 - Section 1.473)",
+  "partId": "oedipus-tyrannus-1bvaud",
+  "partTitle": "Oedipus Tyrannus",
+  "originalLang": "grc",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Οἰδίπους Τύραννος",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-grc2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Oedipus Tyrannus",
+      "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0011.tlg004.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "342",
+      "label": "Section 342",
+      "chapter": null,
+      "original": "οὐκοῦν ἅ γʼ ἥξει καὶ σὲ χρὴ λέγειν ἐμοί .",
+      "translation": "Since it must come anyway , it is right that you tell it to me ."
+    },
+    {
+      "id": "343",
+      "label": "Section 343",
+      "chapter": null,
+      "original": "οὐκ ἂν πέρα φράσαιμι . πρὸς τάδʼ , εἰ θέλεις ,",
+      "translation": "I will speak no further : rage , if you wish , with the fiercest wrath your heart knows ."
+    },
+    {
+      "id": "345",
+      "label": "Section 345",
+      "chapter": null,
+      "original": "καὶ μὴν παρήσω γʼ οὐδέν , ὡς ὀργῆς ἔχω ,",
+      "translation": "In my anger I will not spare to speak all my thoughts . Know that you seem to me to have helped in plotting the deed , and to have done it , short of performing the actual murder with your own hands : if you had eyesight , I would have said that you had done even this by yourself ."
+    },
+    {
+      "id": "350",
+      "label": "Section 350",
+      "chapter": null,
+      "original": "ἄληθες ; ἐννέπω σὲ τῷ κηρύγματι",
+      "translation": "In truth ? I order you to abide by you own decree , and from this day forth not to speak to these men or to me : you are the accursed defiler of this land ."
+    },
+    {
+      "id": "354",
+      "label": "Section 354",
+      "chapter": null,
+      "original": "οὕτως ἀναιδῶς ἐξεκίνησας τόδε",
+      "translation": "So brazen with your blustering taunt ?"
+    },
+    {
+      "id": "355",
+      "label": "Section 355",
+      "chapter": null,
+      "original": "τὸ ῥῆμα ; καὶ ποῦ τοῦτο φεύξεσθαι δοκεῖς ;",
+      "translation": "Where do you think to escape to ?"
+    },
+    {
+      "id": "356",
+      "label": "Section 356",
+      "chapter": null,
+      "original": "πέφευγα · τἀληθὲς γὰρ ἰσχῦον τρέφω .",
+      "translation": "I have escaped . There is strength in my truth ."
+    },
+    {
+      "id": "357",
+      "label": "Section 357",
+      "chapter": null,
+      "original": "πρὸς τοῦ διδαχθείς ; οὐ γὰρ ἔκ γε τῆς τέχνης .",
+      "translation": "Who taught you this ? Not your skill , at any rate ."
+    },
+    {
+      "id": "358",
+      "label": "Section 358",
+      "chapter": null,
+      "original": "πρὸς σοῦ · σὺ γάρ μʼ ἄκοντα προυτρέψω λέγειν .",
+      "translation": "You yourself . For you spurred me on to speak against my will ."
+    },
+    {
+      "id": "359",
+      "label": "Section 359",
+      "chapter": null,
+      "original": "ποῖον λόγον ; λέγʼ αὖθις , ὡς μᾶλλον μάθω .",
+      "translation": "What did you say ? Speak again , so I may learn it better ."
+    },
+    {
+      "id": "360",
+      "label": "Section 360",
+      "chapter": null,
+      "original": "οὐχὶ ξυνῆκας πρόσθεν ; ἢ ʼκπειρᾷ λέγων ;",
+      "translation": "Did you not understand before , or are you talking to test me ?"
+    },
+    {
+      "id": "361",
+      "label": "Section 361",
+      "chapter": null,
+      "original": "οὐχ ὥστε γʼ εἰπεῖν γνωστόν · ἀλλʼ αὖθις φράσον .",
+      "translation": "I cannot say I understood fully . Tell me again ."
+    },
+    {
+      "id": "362",
+      "label": "Section 362",
+      "chapter": null,
+      "original": "φονέα σε φημὶ τἀνδρὸς οὗ ζητεῖς κυρεῖν .",
+      "translation": "I say that you are the killer of the man whose slayer you seek ."
+    },
+    {
+      "id": "363",
+      "label": "Section 363",
+      "chapter": null,
+      "original": "ἀλλʼ οὔ τι χαίρων δίς γε πημονὰς ἐρεῖς .",
+      "translation": "Now you will regret that you have said such dire words twice ."
+    },
+    {
+      "id": "364",
+      "label": "Section 364",
+      "chapter": null,
+      "original": "εἴπω τι δῆτα κἄλλʼ , ἵνʼ ὀργίζῃ πλέον ;",
+      "translation": "Should I tell you more , that you might get more angry ?"
+    },
+    {
+      "id": "365",
+      "label": "Section 365",
+      "chapter": null,
+      "original": "ὅσον γε χρῄζεις · ὡς μάτην εἰρήσεται .",
+      "translation": "Say as much as you want : it will be said in vain ."
+    },
+    {
+      "id": "366",
+      "label": "Section 366",
+      "chapter": null,
+      "original": "λεληθέναι σε φημὶ σὺν τοῖς φιλτάτοις",
+      "translation": "I say that you have been living in unguessed shame with your closest kin , and do not see into what woe you have fallen ."
+    },
+    {
+      "id": "368",
+      "label": "Section 368",
+      "chapter": null,
+      "original": "ἦ καὶ γεγηθὼς ταῦτʼ ἀεὶ λέξειν δοκεῖς ;",
+      "translation": "Do you think that you will always be able to speak like this without smarting for it ?"
+    },
+    {
+      "id": "369",
+      "label": "Section 369",
+      "chapter": null,
+      "original": "εἴπερ τί γʼ ἐστὶ τῆς ἀληθείας σθένος .",
+      "translation": "Yes , if indeed there is any strength in truth ."
+    },
+    {
+      "id": "370",
+      "label": "Section 370",
+      "chapter": null,
+      "original": "ἀλλʼ ἔστι , πλὴν σοί · σοὶ δὲ τοῦτʼ οὐκ ἔστʼ ἐπεὶ",
+      "translation": "But there is , except not for you . You do not have that strength , since you are maimed in your ears , in your wit , and in your eyes ."
+    },
+    {
+      "id": "372",
+      "label": "Section 372",
+      "chapter": null,
+      "original": "σὺ δʼ ἄθλιός γε ταῦτʼ ὀνειδίζων , ἃ σοὶ",
+      "translation": "And you are a poor wretch to utter taunts that every man here will soon hurl at you ."
+    },
+    {
+      "id": "374",
+      "label": "Section 374",
+      "chapter": null,
+      "original": "μιᾶς τρέφει πρὸς νυκτός , ὥστε μήτʼ ἐμὲ",
+      "translation": "Night , endless night has you in her keeping , so that you can never hurt me ,"
+    },
+    {
+      "id": "375",
+      "label": "Section 375",
+      "chapter": null,
+      "original": "μήτʼ ἄλλον , ὅστις φῶς ὁρᾷ , βλάψαι ποτʼ ἄν .",
+      "translation": "or any man that sees the light of the sun ."
+    },
+    {
+      "id": "376",
+      "label": "Section 376",
+      "chapter": null,
+      "original": "οὐ γάρ σε μοῖρα πρός γʼ ἐμοῦ πεσεῖν , ἐπεὶ",
+      "translation": "No , it is not your fate to fall at my hands , since Apollo , to whom this matter is a concern , is sufficient ."
+    },
+    {
+      "id": "378",
+      "label": "Section 378",
+      "chapter": null,
+      "original": "Κρέοντος ἢ σοῦ ταῦτα τἀξευρήματα ;",
+      "translation": "Are these Creon ’ s devices , or your own ?"
+    },
+    {
+      "id": "379",
+      "label": "Section 379",
+      "chapter": null,
+      "original": "Κρέων δέ σοι πῆμʼ οὐδέν , ἀλλʼ αὐτὸς σὺ σοί .",
+      "translation": "Creon is no trouble for you : you are your own ."
+    },
+    {
+      "id": "380",
+      "label": "Section 380",
+      "chapter": null,
+      "original": "ὦ πλοῦτε καὶ τυραννὶ καὶ τέχνη τέχνης",
+      "translation": "O wealth , and empire , and skill surpassing skill in life ’ s keen rivalries , how great is the envy in your keeping , if for the sake of this office which the city has entrusted to me , a gift unsought ,"
+    },
+    {
+      "id": "385",
+      "label": "Section 385",
+      "chapter": null,
+      "original": "ταύτης Κρέων ὁ πιστός , οὑξ ἀρχῆς φίλος ,",
+      "translation": "Creon the trustworthy , Creon , my old friend , has crept upon me by stealth , yearning to overthrow me , and has suborned such a scheming juggler as this , a tricky quack , who has eyes only for profit , but is blind in his art !"
+    },
+    {
+      "id": "390",
+      "label": "Section 390",
+      "chapter": null,
+      "original": "ἐπεί , φέρʼ εἰπέ , ποῦ σὺ μάντις εἶ σαφής ;",
+      "translation": "Come , tell me , where have you proved yourself a seer ? Why , when the watchful dog who wove dark song was here , did you say nothing to free the people ? Yet the riddle , at least , was not for the first comer to read : there was need of a seer ’ s help ,"
+    },
+    {
+      "id": "395",
+      "label": "Section 395",
+      "chapter": null,
+      "original": "ἣν οὔτʼ ἀπʼ οἰωνῶν σὺ προυφάνης ἔχων",
+      "translation": "and you were discovered not to have this art , either from birds , or known from some god . But rather I , Oedipus the ignorant , stopped her , having attained the answer through my wit alone , untaught by birds . It is I whom you are trying to oust , assuming that"
+    },
+    {
+      "id": "400",
+      "label": "Section 400",
+      "chapter": null,
+      "original": "παραστατήσειν τοῖς Κρεοντείοις πέλας .",
+      "translation": "you will have great influence in Creon ’ s court . But I think that you and the one who plotted these things will rue your zeal to purge the land : if you did not seem to be an old man , you would have learned to your cost how haughty you are ."
+    },
+    {
+      "id": "404",
+      "label": "Section 404",
+      "chapter": null,
+      "original": "ἡμῖν μὲν εἰκάζουσι καὶ τὰ τοῦδʼ ἔπη",
+      "translation": "To our way of thinking , these words , both his and yours , Oedipus ,"
+    },
+    {
+      "id": "405",
+      "label": "Section 405",
+      "chapter": null,
+      "original": "ὀργῇ λελέχθαι καὶ τά σʼ , Οἰδίπους , δοκεῖ ,",
+      "translation": "have been said in anger . We have no need of this , but rather we must seek how we shall best discharge the mandates of the god ."
+    },
+    {
+      "id": "408",
+      "label": "Section 408",
+      "chapter": null,
+      "original": "εἰ καὶ τυραννεῖς , ἐξισωτέον τὸ γοῦν",
+      "translation": "Though you are king , the right of reply must be considered the same for both : over that I have control ."
+    },
+    {
+      "id": "410",
+      "label": "Section 410",
+      "chapter": null,
+      "original": "οὐ γάρ τι σοὶ ζῶ δοῦλος , ἀλλὰ Λοξίᾳ ·",
+      "translation": "For I do not live as your slave , but as Loxias ’. I will not stand enrolled as Creon ’ s client . And I tell you , since you have taunted my blindness , that though you have sight , you do not see what a state of misery you are in , or where you dwell , or with whom ."
+    },
+    {
+      "id": "415",
+      "label": "Section 415",
+      "chapter": null,
+      "original": "ἆρʼ οἶσθʼ ἀφʼ ὧν εἶ ; καὶ λέληθας ἐχθρὸς ὢν",
+      "translation": "Do you know who your parents are ? You have been an unwitting enemy to your own kin , both in the Underworld and on the earth above , and the double lash of your mother ’ s and your father ’ s curse will one day drive you from this land in dreadful haste , with darkness upon those eyes of yours which now can see ."
+    },
+    {
+      "id": "420",
+      "label": "Section 420",
+      "chapter": null,
+      "original": "βοῆς δὲ τῆς σῆς ποῖος οὐκ ἔσται λιμήν ,",
+      "translation": "What place will be harbor to your cries , what part of all Cithaeron will not ring with them soon , when you have learned the meaning of the nuptials in which , within that house , you found a fatal haven , after a voyage so fair ? And you have not guessed at a throng of other ills"
+    },
+    {
+      "id": "425",
+      "label": "Section 425",
+      "chapter": null,
+      "original": "ἅ σʼ ἐξισώσει σοί τε καὶ τοῖς σοῖς τέκνοις .",
+      "translation": "which will bring you level with your true self and with your own children . Therefore heap your scorn upon Creon and upon my message : for no man will ever be crushed more miserably than you ."
+    },
+    {
+      "id": "429",
+      "label": "Section 429",
+      "chapter": null,
+      "original": "ἦ ταῦτα δῆτʼ ἀνεκτὰ πρὸς τούτου κλύειν ;",
+      "translation": "Are these taunts to be endured from him ?"
+    },
+    {
+      "id": "430",
+      "label": "Section 430",
+      "chapter": null,
+      "original": "οὐκ εἰς ὄλεθρον ; οὐχὶ θᾶσσον ; οὐ πάλιν",
+      "translation": "Be gone , to your ruin ; be gone this instant ! Will you not turn your back and leave this house ?"
+    },
+    {
+      "id": "432",
+      "label": "Section 432",
+      "chapter": null,
+      "original": "οὐδʼ ἱκόμην ἔγωγʼ ἄν , εἰ σὺ μὴ ʼκάλεις .",
+      "translation": "I would not have come if you had not called me ."
+    },
+    {
+      "id": "433",
+      "label": "Section 433",
+      "chapter": null,
+      "original": "οὐ γάρ τί σʼ ᾔδη μῶρα φωνήσοντʼ , ἐπεὶ",
+      "translation": "I did not know you would speak foolishly , for otherwise it would have been a long time before I summoned you to my home ."
+    },
+    {
+      "id": "435",
+      "label": "Section 435",
+      "chapter": null,
+      "original": "ἡμεῖς τοιοίδʼ ἔφυμεν , ὡς μὲν σοὶ δοκεῖ ,",
+      "translation": "I was born like this — as you think , a fool , but in the opinion of the parents who bore you , quite sane ."
+    },
+    {
+      "id": "437",
+      "label": "Section 437",
+      "chapter": null,
+      "original": "ποίοισι ; μεῖνον , τίς δέ μʼ ἐκφύει βροτῶν ;",
+      "translation": "What parents ? Wait . What man is my father ?"
+    },
+    {
+      "id": "438",
+      "label": "Section 438",
+      "chapter": null,
+      "original": "ἥδʼ ἡμέρα φύσει σε καὶ διαφθερεῖ .",
+      "translation": "This day will reveal your birth and bring your ruin ."
+    },
+    {
+      "id": "439",
+      "label": "Section 439",
+      "chapter": null,
+      "original": "ὡς πάντʼ ἄγαν αἰνικτὰ κἀσαφῆ λέγεις .",
+      "translation": "What riddles , what dark words you always say ."
+    },
+    {
+      "id": "440",
+      "label": "Section 440",
+      "chapter": null,
+      "original": "οὔκουν σὺ ταῦτʼ ἄριστος εὑρίσκειν ἔφυς ;",
+      "translation": "Are you not the best at unravelling mysteries ?"
+    },
+    {
+      "id": "441",
+      "label": "Section 441",
+      "chapter": null,
+      "original": "τοιαῦτʼ ὀνείδιζʼ , οἷς ἔμʼ εὑρήσεις μέγαν .",
+      "translation": "Reproach me in what you will find me to be great ."
+    },
+    {
+      "id": "442",
+      "label": "Section 442",
+      "chapter": null,
+      "original": "αὕτη γε μέντοι σʼ ἡ τύχη διώλεσεν .",
+      "translation": "Yet it was just that fortune that undid you ."
+    },
+    {
+      "id": "443",
+      "label": "Section 443",
+      "chapter": null,
+      "original": "ἀλλʼ εἰ πόλιν τήνδʼ ἐξέσωσʼ , οὔ μοι μέλει .",
+      "translation": "But if it saved this city I care not ."
+    },
+    {
+      "id": "444",
+      "label": "Section 444",
+      "chapter": null,
+      "original": "ἄπειμι τοίνυν · καὶ σύ , παῖ , κόμιζέ με .",
+      "translation": "I will take my leave . You , boy , lead me ."
+    },
+    {
+      "id": "445",
+      "label": "Section 445",
+      "chapter": null,
+      "original": "κομιζέτω δῆθʼ · ὡς παρὼν σύ γʼ ἐμποδὼν",
+      "translation": "Yes , let him take you : while here , you are a hindrance , a source of trouble . When you have gone , you will vex me no more ."
+    },
+    {
+      "id": "447",
+      "label": "Section 447",
+      "chapter": null,
+      "original": "εἰπὼν ἄπειμʼ ὧν οὕνεκʼ , ἦλθον , οὐ τὸ σὸν",
+      "translation": "I will go when I have performed the errand for which I came , fearless of your frown : you can never destroy me . I tell you : the man whom you have been seeking this long while ,"
+    },
+    {
+      "id": "450",
+      "label": "Section 450",
+      "chapter": null,
+      "original": "ζητεῖς ἀπειλῶν κἀνακηρύσσων φόνον",
+      "translation": "uttering threats and proclaiming a search into the murder of Laius , is here , ostensibly an alien sojourner , but soon to be found a native of Thebes ; nor will he enjoy his fortune . A blind man , though now he sees ,"
+    },
+    {
+      "id": "455",
+      "label": "Section 455",
+      "chapter": null,
+      "original": "καὶ πτωχὸς ἀντὶ πλουσίου ξένην ἔπι",
+      "translation": "a beggar , though now rich , he will make his way to a foreign land , feeling the ground before him with his staff . And he will be discovered to be at once brother and father of the children with whom he consorts ; son and husband of the woman who bore him ;"
+    },
+    {
+      "id": "460",
+      "label": "Section 460",
+      "chapter": null,
+      "original": "ὁμόσπορός τε καὶ φονεύς . καὶ ταῦτʼ ἰὼν",
+      "translation": "heir to his father ’ s bed , shedder of his father ’ s blood . So go in and evaluate this , and if you find that I am wrong , say then that I have no wit in prophecy ."
+    },
+    {
+      "id": "1.463",
+      "label": "Section 1.463",
+      "chapter": null,
+      "original": "τίς ὅντινʼ ἁ θεσπιέπεια Δελφὶς εἶπε πέτρα",
+      "translation": "Who is he of whom the divine voice from the Delphian rock has said"
+    },
+    {
+      "id": "1.465",
+      "label": "Section 1.465",
+      "chapter": null,
+      "original": "ἄρρητʼ ἀρρήτων τελέσαντα φοινίαισι χερσίν ;",
+      "translation": "to have wrought with blood-red hands horrors that no tongue can tell ? It is time that he ply in flight a foot stronger than the feet of storm-swift steeds ."
+    },
+    {
+      "id": "1.470",
+      "label": "Section 1.470",
+      "chapter": null,
+      "original": "πυρὶ καὶ στεροπαῖς ὁ Διὸς γενέτας ,",
+      "translation": "The son of Zeus is springing upon him with fiery lightning , and with him come the dread unerring Fates ."
+    },
+    {
+      "id": "1.473",
+      "label": "Section 1.473",
+      "chapter": null,
+      "original": "ἔλαμψε γὰρ τοῦ νιφόεντος ἀρτίως φανεῖσα",
+      "translation": "Recently the message has flashed forth from snowy Parnassus"
+    }
+  ],
+  "prevChunkSlug": "oedipus-tyrannus-1bvaud-2",
+  "nextChunkSlug": "oedipus-tyrannus-1bvaud-4"
+}

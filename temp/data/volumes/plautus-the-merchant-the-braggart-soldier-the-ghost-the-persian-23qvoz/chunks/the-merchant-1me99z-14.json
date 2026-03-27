@@ -1,0 +1,451 @@
+{
+  "volumeSlug": "plautus-the-merchant-the-braggart-soldier-the-ghost-the-persian-23qvoz",
+  "volumeTitle": "The Merchant. The Braggart Soldier. The Ghost. The Persian",
+  "authorDisplay": "Plautus",
+  "authors": [
+    "Plautus"
+  ],
+  "language": "latin",
+  "status": "ready",
+  "chunkSlug": "the-merchant-1me99z-14",
+  "label": "The Merchant (Section 5.2.931 - Section 5.4.979)",
+  "partId": "the-merchant-1me99z",
+  "partTitle": "The Merchant",
+  "originalLang": "la",
+  "citations": {
+    "original": {
+      "label": "Scaife original text",
+      "citation": "Mercator",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-lat2/"
+    },
+    "translation": {
+      "label": "Scaife English translation",
+      "citation": "Mercator, or The Merchant",
+      "url": "https://scaife.perseus.org/library/urn:cts:latinLit:phi0119.phi011.perseus-eng2/"
+    }
+  },
+  "sections": [
+    {
+      "id": "5.2.931",
+      "label": "Section 5.2.931",
+      "chapter": null,
+      "original": "iam in currum escendi , iam lora ín manus cepi meas .",
+      "translation": "Now I ’ ve ascended the chariot ; now I ’ ve taken the reins in my hands ."
+    },
+    {
+      "id": "5.2.932",
+      "label": "Section 5.2.932",
+      "chapter": null,
+      "original": "Sanus non es .",
+      "translation": "You are not in your senses ."
+    },
+    {
+      "id": "5.2.932b",
+      "label": "Section 5.2.932b",
+      "chapter": null,
+      "original": "Quin , pedes , vos in curriculum conicitis",
+      "translation": "Feet of mine , why don ’ t ye betake yourselves into the chariot , straight for Cyprus , since my father determines on my banishment ?"
+    },
+    {
+      "id": "5.2.934",
+      "label": "Section 5.2.934",
+      "chapter": null,
+      "original": "Stultus es , noli istuc quaeso dicere .",
+      "translation": "You are silly . Prithee , don ’ t be saying this ."
+    },
+    {
+      "id": "5.2.934b",
+      "label": "Section 5.2.934b",
+      "chapter": null,
+      "original": "Certum exsequist ,",
+      "translation": "I ’ m resolved to persist —"
+    },
+    {
+      "id": "5.2.935",
+      "label": "Section 5.2.935",
+      "chapter": null,
+      "original": "operam ut sumam ad pervestigandum , ubi sit illaec .",
+      "translation": "to use my endeavours to seek her out where she is ."
+    },
+    {
+      "id": "5.2.935b",
+      "label": "Section 5.2.935b",
+      "chapter": null,
+      "original": "Quin domist .",
+      "translation": "Why , she ’ s at our house ."
+    },
+    {
+      "id": "5.2.936",
+      "label": "Section 5.2.936",
+      "chapter": null,
+      "original": "Nam hic quod dixit , id mentitust .",
+      "translation": "For what that person said , he told a falsehood in it ."
+    },
+    {
+      "id": "5.2.936b",
+      "label": "Section 5.2.936b",
+      "chapter": null,
+      "original": "Vera dixi equidem tibi .",
+      "translation": "Really , I told you the truth ."
+    },
+    {
+      "id": "5.2.937",
+      "label": "Section 5.2.937",
+      "chapter": null,
+      "original": "Iam Cyprum veni .",
+      "translation": "Now I ’ ve come to Cyprus ."
+    },
+    {
+      "id": "5.2.937b",
+      "label": "Section 5.2.937b",
+      "chapter": null,
+      "original": "Quin sequere , ut illam videas quam expetis .",
+      "translation": "Nay , but follow me , that you may see her whom you are looking for ."
+    },
+    {
+      "id": "5.2.938",
+      "label": "Section 5.2.938",
+      "chapter": null,
+      "original": "Percontatus non inveni .",
+      "translation": "Enquiring there , I didn ’ t find her ."
+    },
+    {
+      "id": "5.2.938b",
+      "label": "Section 5.2.938b",
+      "chapter": null,
+      "original": "Matris iam iram neglego .",
+      "translation": "I ’ ll not care then for my mother ’ s anger ."
+    },
+    {
+      "id": "5.2.939",
+      "label": "Section 5.2.939",
+      "chapter": null,
+      "original": "Porro proficiscor quaesitum . nunc perveni Chalcidem ;",
+      "translation": "I ’ ll still go on to seek her . Now I ’ ve got to Chalcis ;"
+    },
+    {
+      "id": "5.2.940",
+      "label": "Section 5.2.940",
+      "chapter": null,
+      "original": "video ibi hospitem Zacyntho , dico quid eo advenerim ,",
+      "translation": "I see there my former host at Zacynthus ; I tell him why I ’ ve come thither ; I make enquiry if he has heard say who has brought her thither , who has got possession of her ."
+    },
+    {
+      "id": "5.2.942",
+      "label": "Section 5.2.942",
+      "chapter": null,
+      "original": "Quin tu istas omittis nugas ac mecum huc intro ambulas ?",
+      "translation": "Why don ’ t you cease that nonsense , and step with me this way in-doors ?"
+    },
+    {
+      "id": "5.2.943",
+      "label": "Section 5.2.943",
+      "chapter": null,
+      "original": "Hospes respondit , Zacynthi ficos fieri non malas .",
+      "translation": "My host answered that figs grew , not bad ones , at Zacynthus ."
+    },
+    {
+      "id": "5.2.944",
+      "label": "Section 5.2.944",
+      "chapter": null,
+      "original": "Nil mentitust .",
+      "translation": "He didn ’ t say false there ."
+    },
+    {
+      "id": "5.2.944b",
+      "label": "Section 5.2.944b",
+      "chapter": null,
+      "original": "Sed de amica se indaudivisse autumat ,",
+      "translation": "But he says that he has heard about my mistress , that she ’ s here at Athens ."
+    },
+    {
+      "id": "5.2.945b",
+      "label": "Section 5.2.945b",
+      "chapter": null,
+      "original": "Calchas iste quidem Zacynthiust .",
+      "translation": "Really , this Zacynthian is quite a Calchas [*] ."
+    },
+    {
+      "id": "5.2.946",
+      "label": "Section 5.2.946",
+      "chapter": null,
+      "original": "Navem conscendo , proficiscor ilico . iam sum domi ,",
+      "translation": "I get aboard ship , and start at once . I ’ m now at home ; now I ’ ve returned from banishment . My friend , Eutychus ( turning towards him ) , greetings to you ! How have you been ? How are my parents ? Are they well ? Do you come to my mother , you say — you invite me kindly ; you speak politely . At your house to-morrow ; for the present at home ."
+    },
+    {
+      "id": "5.2.950",
+      "label": "Section 5.2.950",
+      "chapter": null,
+      "original": "sic decet , sic fieri oportet .",
+      "translation": "So it is proper ; so it ought to be done ."
+    },
+    {
+      "id": "5.2.950b",
+      "label": "Section 5.2.950b",
+      "chapter": null,
+      "original": "† Eloque ni somnias .",
+      "translation": "How now ? What are you dreaming about ? This man ’ s not in his senses ."
+    },
+    {
+      "id": "5.2.951b",
+      "label": "Section 5.2.951b",
+      "chapter": null,
+      "original": "Medicari amicus quin properas mihi ?",
+      "translation": "Why don ’ t you , as a friend , make haste to cure me then ?"
+    },
+    {
+      "id": "5.2.952",
+      "label": "Section 5.2.952",
+      "chapter": null,
+      "original": "Sequere sis .",
+      "translation": "Follow me , please ."
+    },
+    {
+      "id": "5.2.952b",
+      "label": "Section 5.2.952b",
+      "chapter": null,
+      "original": "Sequor .",
+      "translation": "I ’ m following ."
+    },
+    {
+      "id": "5.2.952c",
+      "label": "Section 5.2.952c",
+      "chapter": null,
+      "original": "Clementer quaeso , calces deteris .",
+      "translation": "Softly , pray ; you are treading on my heels . Don ’ t you hear me ?"
+    },
+    {
+      "id": "5.2.953b",
+      "label": "Section 5.2.953b",
+      "chapter": null,
+      "original": "Iam dudum audivi .",
+      "translation": "I ’ ve heard you for some time past ."
+    },
+    {
+      "id": "5.2.953c",
+      "label": "Section 5.2.953c",
+      "chapter": null,
+      "original": "Pacem componi volo",
+      "translation": "I want a reconciliation to be made between my father and mother ; for now she ’ s in a passion —"
+    },
+    {
+      "id": "5.2.954b",
+      "label": "Section 5.2.954b",
+      "chapter": null,
+      "original": "I modo .",
+      "translation": "Only do go on ."
+    },
+    {
+      "id": "5.2.955",
+      "label": "Section 5.2.955",
+      "chapter": null,
+      "original": "Propter istanc .",
+      "translation": "About that woman —"
+    },
+    {
+      "id": "5.2.955b",
+      "label": "Section 5.2.955b",
+      "chapter": null,
+      "original": "I modo .",
+      "translation": "Only do go on ."
+    },
+    {
+      "id": "5.2.955c",
+      "label": "Section 5.2.955c",
+      "chapter": null,
+      "original": "Ergo cura .",
+      "translation": "Therefore take care —"
+    },
+    {
+      "id": "5.2.955d",
+      "label": "Section 5.2.955d",
+      "chapter": null,
+      "original": "Quin tu ergo i modo .",
+      "translation": "Nay , but do go on then ; I ’ ll make her as mild as Juno is when she ’ s kind to Jupiter ."
+    },
+    {
+      "id": "5.3.957",
+      "label": "Section 5.3.957",
+      "chapter": null,
+      "original": "Quasi tu numquam quicquam adsimile húius facti feceris .",
+      "translation": "As though you yourself had never done anything like this action ."
+    },
+    {
+      "id": "5.3.958",
+      "label": "Section 5.3.958",
+      "chapter": null,
+      "original": "Edepol numquam ; cavi ne quid facerem . vix vivo miser .",
+      "translation": "By heavens , never . I took care not to do anything : wretch that I am , I am scarcely alive ; for my wife is lying all in a ferment about her ."
+    },
+    {
+      "id": "5.3.960",
+      "label": "Section 5.3.960",
+      "chapter": null,
+      "original": "At ego expurigationem habebo , ut ne suscenseat .",
+      "translation": "But I ’ ll undertake to clear you , so that she mayn ’ t be angry ."
+    },
+    {
+      "id": "5.3.961",
+      "label": "Section 5.3.961",
+      "chapter": null,
+      "original": "Sequere me . sed exeuntem filium video meum .",
+      "translation": "Follow me — but I see my son coming out ."
+    },
+    {
+      "id": "5.4.962",
+      "label": "Section 5.4.962",
+      "chapter": null,
+      "original": "Ad patrem ibo , ut matris iram sibi esse sedatam sciat .",
+      "translation": "I ’ ll go to my father , that he may know my mother ’ s wrath is appeased . I ’ ll return just now ."
+    },
+    {
+      "id": "5.4.963b",
+      "label": "Section 5.4.963b",
+      "chapter": null,
+      "original": "Placet principium . quid agis ? quid fit , Eutyche ?",
+      "translation": "The beginning pleases me . ( Going up to EUTYCHUS .) What are you about ? How goes it , Eutychus ?"
+    },
+    {
+      "id": "5.4.964",
+      "label": "Section 5.4.964",
+      "chapter": null,
+      "original": "Optima opportunitate ambo advenistis .",
+      "translation": "Extremely opportunely have you both met me ."
+    },
+    {
+      "id": "5.4.964b",
+      "label": "Section 5.4.964b",
+      "chapter": null,
+      "original": "Quid rei est ?",
+      "translation": "What ’ s the matter ?"
+    },
+    {
+      "id": "5.4.965",
+      "label": "Section 5.4.965",
+      "chapter": null,
+      "original": "Vxor tíbi placida ét placatast . cette dextras nunciam .",
+      "translation": "Your wife is peaceful and appeased . Give me your right hands this moment ."
+    },
+    {
+      "id": "5.4.966",
+      "label": "Section 5.4.966",
+      "chapter": null,
+      "original": "Di me servant .",
+      "translation": "The Gods are favouring me ."
+    },
+    {
+      "id": "5.4.966b",
+      "label": "Section 5.4.966b",
+      "chapter": null,
+      "original": "Tibi amicam ésse nullam nuntio .",
+      "translation": "I bring you word that you have got no mistress ."
+    },
+    {
+      "id": "5.4.967",
+      "label": "Section 5.4.967",
+      "chapter": null,
+      "original": "Di te perdant . quid negotist nam , quaeso , istuc ?",
+      "translation": "The Gods confound you . Why , prithee , what affair is this ?"
+    },
+    {
+      "id": "5.4.967b",
+      "label": "Section 5.4.967b",
+      "chapter": null,
+      "original": "Eloquar .",
+      "translation": "I ’ ll tell you . Give your attention then , both of you ."
+    },
+    {
+      "id": "5.4.968b",
+      "label": "Section 5.4.968b",
+      "chapter": null,
+      "original": "Quin tibi ambo operam damus .",
+      "translation": "Well then , we are giving you our attention , both of us ."
+    },
+    {
+      "id": "5.4.969",
+      "label": "Section 5.4.969",
+      "chapter": null,
+      "original": "Qui bono sunt genere nati , si sunt ingenio malo ,",
+      "translation": "Those who are born of a good family , if they are of bad tendencies ,"
+    },
+    {
+      "id": "5.4.970",
+      "label": "Section 5.4.970",
+      "chapter": null,
+      "original": "suapte culpa genere sapiunt , genus ingenio ímprobant .",
+      "translation": "by their own faultiness withdraw nobleness from their rank , and disgrace their disposition ."
+    },
+    {
+      "id": "5.4.971",
+      "label": "Section 5.4.971",
+      "chapter": null,
+      "original": "Verum hic dicit .",
+      "translation": "He says what ’ s true ."
+    },
+    {
+      "id": "5.4.971b",
+      "label": "Section 5.4.971b",
+      "chapter": null,
+      "original": "Tibi ergo dicit .",
+      "translation": "Then it ’ s to yourself he says it ."
+    },
+    {
+      "id": "5.4.971c",
+      "label": "Section 5.4.971c",
+      "chapter": null,
+      "original": "Eo illud est verum magis .",
+      "translation": "For this reason is this the more true ; for at this time of life , it wasn ’ t just for you to take away from your son , a young man , his mistress , purchased with his own money ."
+    },
+    {
+      "id": "5.4.974",
+      "label": "Section 5.4.974",
+      "chapter": null,
+      "original": "Quid tu ais ? Charini amicast illa ?",
+      "translation": "How say you ? Is she the mistress of Charinus ?"
+    },
+    {
+      "id": "5.4.974b",
+      "label": "Section 5.4.974b",
+      "chapter": null,
+      "original": "Vt dissimulat malus .",
+      "translation": "How the rogue does dissemble ."
+    },
+    {
+      "id": "5.4.975",
+      "label": "Section 5.4.975",
+      "chapter": null,
+      "original": "Ille quidem illam sese ancillam matri emisse dixerat .",
+      "translation": "Why , he said that he had bought her as a maidservant for his mother ."
+    },
+    {
+      "id": "5.4.976",
+      "label": "Section 5.4.976",
+      "chapter": null,
+      "original": "Propterea igitur tu mercatu's (mercatus es) , novos amator , vetus puer ?",
+      "translation": "Was it for that reason , then , you bought her , you young lover , you old boy ?"
+    },
+    {
+      "id": "5.4.977",
+      "label": "Section 5.4.977",
+      "chapter": null,
+      "original": "Optume hercle , perge tú , ego ádsistam hinc altrinsecus .",
+      "translation": "Very well said , i ’ troth ! Proceed , proceed . I ’ ll stand by him here on the other side . Let ’ s both load him well with such speeches as he ’ s worthy of ."
+    },
+    {
+      "id": "5.4.978b",
+      "label": "Section 5.4.978b",
+      "chapter": null,
+      "original": "Nullus sum .",
+      "translation": "I ’ m done for ."
+    },
+    {
+      "id": "5.4.979",
+      "label": "Section 5.4.979",
+      "chapter": null,
+      "original": "Filio suo qui innocenti fecit tantam iniuriam .",
+      "translation": "Who has done an injustice so great to his blameless son ;"
+    }
+  ],
+  "prevChunkSlug": "the-merchant-1me99z-13",
+  "nextChunkSlug": "the-merchant-1me99z-15"
+}

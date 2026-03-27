@@ -1,0 +1,139 @@
+{
+  "loebNumber": 166,
+  "sortOrder": 166,
+  "slug": "plato-lysis-symposium-phaedrus-18ifmn",
+  "title": "Lysis. Symposium. Phaedrus",
+  "volumeLabel": "Lysis. Symposium. Phaedrus",
+  "authorDisplay": "Plato",
+  "authors": [
+    "Plato"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Lysis. Symposium. Phaedrus, built from cached original-language texts and public-domain English translations.",
+  "status": "ready",
+  "defaultChunkSlug": "lysis-1802ds",
+  "readyChunkCount": 3,
+  "contents": [
+    {
+      "id": "lysis-1802ds",
+      "title": "Lysis",
+      "status": "ready",
+      "sectionCount": 21,
+      "chunkSlug": "lysis-1802ds",
+      "chunks": [
+        {
+          "slug": "lysis-1802ds",
+          "label": "Lysis",
+          "partId": "lysis-1802ds",
+          "partTitle": "Lysis",
+          "sectionCount": 21,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "symposium-x1iyc4",
+      "title": "Symposium",
+      "status": "ready",
+      "sectionCount": 52,
+      "chunkSlug": "symposium-x1iyc4",
+      "chunks": [
+        {
+          "slug": "symposium-x1iyc4",
+          "label": "Symposium",
+          "partId": "symposium-x1iyc4",
+          "partTitle": "Symposium",
+          "sectionCount": 52,
+          "status": "ready"
+        }
+      ]
+    },
+    {
+      "id": "phaedrus-185vbo",
+      "title": "Phaedrus",
+      "status": "ready",
+      "sectionCount": 53,
+      "chunkSlug": "phaedrus-185vbo",
+      "chunks": [
+        {
+          "slug": "phaedrus-185vbo",
+          "label": "Phaedrus",
+          "partId": "phaedrus-185vbo",
+          "partTitle": "Phaedrus",
+          "sectionCount": 53,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "lysis-1802ds",
+      "label": "Lysis",
+      "partId": "lysis-1802ds",
+      "partTitle": "Lysis",
+      "sectionCount": 21,
+      "status": "ready"
+    },
+    {
+      "slug": "symposium-x1iyc4",
+      "label": "Symposium",
+      "partId": "symposium-x1iyc4",
+      "partTitle": "Symposium",
+      "sectionCount": 52,
+      "status": "ready"
+    },
+    {
+      "slug": "phaedrus-185vbo",
+      "label": "Phaedrus",
+      "partId": "phaedrus-185vbo",
+      "partTitle": "Phaedrus",
+      "sectionCount": 53,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "lysis-1802ds",
+      "partTitle": "Lysis",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Λύσις",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg020.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Lysis",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg020.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "symposium-x1iyc4",
+      "partTitle": "Symposium",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Συμπόσιον",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg011.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Symposium",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg011.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "phaedrus-185vbo",
+      "partTitle": "Phaedrus",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Φαῖδρος",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg012.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Phaedrus",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0059.tlg012.perseus-eng2/"
+      }
+    }
+  ]
+}

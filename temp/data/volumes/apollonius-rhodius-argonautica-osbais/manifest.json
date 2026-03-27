@@ -1,0 +1,27 @@
+{
+  "loebNumber": 1,
+  "sortOrder": 1,
+  "slug": "apollonius-rhodius-argonautica-osbais",
+  "title": "Argonautica",
+  "volumeLabel": "Argonautica",
+  "authorDisplay": "Apollonius Rhodius",
+  "authors": [
+    "Apollonius Rhodius"
+  ],
+  "language": "greek",
+  "summary": "A catalog placeholder for Argonautica. Scaife does not currently provide a confidently matchable original-and-English pair for this volume.",
+  "status": "placeholder",
+  "defaultChunkSlug": null,
+  "readyChunkCount": 0,
+  "contents": [
+    {
+      "id": "argonautica-1cugnt",
+      "title": "Argonautica",
+      "status": "placeholder",
+      "sectionCount": 0,
+      "placeholderReason": "No Scaife original-and-English work pair could be matched for Argonautica."
+    }
+  ],
+  "chunks": [],
+  "citations": []
+}

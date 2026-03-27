@@ -1,0 +1,121 @@
+{
+  "loebNumber": 3,
+  "sortOrder": 3,
+  "slug": "appian-roman-history-volume-ii-bb990q",
+  "title": "Roman History, Volume II",
+  "volumeLabel": "Roman History, Volume II",
+  "authorDisplay": "Appian",
+  "authors": [
+    "Appian"
+  ],
+  "language": "greek",
+  "summary": "A Scaife-backed parallel-text shelf for Roman History, Volume II. Roman History, Volume II opens a closest available slice of Appianus of Alexandria on Scaife because the exact Loeb volume split is not encoded there.",
+  "status": "ready",
+  "defaultChunkSlug": "gallic-history-e3beug",
+  "readyChunkCount": 3,
+  "contents": [
+    {
+      "id": "roman-history-volume-ii-xu1erl",
+      "title": "Roman History, Volume II",
+      "status": "ready",
+      "sectionCount": 60,
+      "chunkSlug": "gallic-history-e3beug",
+      "chunks": [
+        {
+          "slug": "gallic-history-e3beug",
+          "label": "Gallic History",
+          "partId": "roman-history-volume-ii-xu1erl",
+          "partTitle": "Roman History, Volume II",
+          "sectionCount": 21,
+          "status": "ready"
+        },
+        {
+          "slug": "sicily-and-the-other-islands-19rm5a",
+          "label": "Sicily and the Other Islands",
+          "partId": "roman-history-volume-ii-xu1erl",
+          "partTitle": "Roman History, Volume II",
+          "sectionCount": 7,
+          "status": "ready"
+        },
+        {
+          "slug": "wars-in-spain-8akn9f",
+          "label": "Wars in Spain",
+          "partId": "roman-history-volume-ii-xu1erl",
+          "partTitle": "Roman History, Volume II",
+          "sectionCount": 32,
+          "status": "ready"
+        }
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "slug": "gallic-history-e3beug",
+      "label": "Gallic History",
+      "partId": "roman-history-volume-ii-xu1erl",
+      "partTitle": "Roman History, Volume II",
+      "sectionCount": 21,
+      "status": "ready"
+    },
+    {
+      "slug": "sicily-and-the-other-islands-19rm5a",
+      "label": "Sicily and the Other Islands",
+      "partId": "roman-history-volume-ii-xu1erl",
+      "partTitle": "Roman History, Volume II",
+      "sectionCount": 7,
+      "status": "ready"
+    },
+    {
+      "slug": "wars-in-spain-8akn9f",
+      "label": "Wars in Spain",
+      "partId": "roman-history-volume-ii-xu1erl",
+      "partTitle": "Roman History, Volume II",
+      "sectionCount": 32,
+      "status": "ready"
+    }
+  ],
+  "citations": [
+    {
+      "chunkSlug": "gallic-history-e3beug",
+      "partTitle": "Roman History, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "ἐκ τῆς Κελτῖκης",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg005.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Gallic History",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg005.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "sicily-and-the-other-islands-19rm5a",
+      "partTitle": "Roman History, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "ἐκ τῆς Σικελῖκης καὶ νησιωτικής",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg006.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Sicily and the Other Islands",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg006.perseus-eng2/"
+      }
+    },
+    {
+      "chunkSlug": "wars-in-spain-8akn9f",
+      "partTitle": "Roman History, Volume II",
+      "original": {
+        "label": "Scaife original text",
+        "citation": "Ιβηρική",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg007.perseus-grc2/"
+      },
+      "translation": {
+        "label": "Scaife English translation",
+        "citation": "Wars in Spain",
+        "url": "https://scaife.perseus.org/library/urn:cts:greekLit:tlg0551.tlg007.perseus-eng2/"
+      }
+    }
+  ]
+}
